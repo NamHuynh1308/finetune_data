@@ -1,0 +1,63 @@
+@startuml
+|1| hlspbi
+|2| sqttgl
+|1|
+start
+fork
+:bvthm;
+fork again
+while (yjhbrfkaroom?) is (mvzz)
+:nrtczoesfp; <<task>>
+endwhile (cusi)
+:mgfivlfg;
+fork again
+:mnhvfzqqeh; <<continuous>>
+end merge
+|2|
+:hnmmgjphja; <<output>>
+split
+:zmroc;
+split again
+repeat
+:xpetvakqvs;
+backward:csocbz;
+:zwequz;
+if (dcdrkdh) then (wgsv)
+:tlquqb;
+break
+endif
+->vdna;
+:fxsrgv;
+repeat while (rqgzdhnsmrcn?) is (tqcs)
+-> jvdjhb;
+split again
+:colytxnmby; <<procedure>>
+end split
+|1|
+:sxnlthqiye; <<save>>
+-> pnolll;
+:rokcrvctmi;
+-> mxhqrv;
+|2|
+:ooezbijcif; <<save>>
+|1|
+:dvdycizmhx;
+-> kdgtno;
+fork
+:qsbwa;
+fork again
+:pygmvz;
+kill
+fork again
+:kekuojylda; <<procedure>>
+-> buisze;
+fork again
+:wadrywearn;
+fork again
+:stokurycyj; <<input>>
+fork again
+:hjaortfumq; <<save>>
+-> ezgjyr;
+end fork
+end
+@enduml

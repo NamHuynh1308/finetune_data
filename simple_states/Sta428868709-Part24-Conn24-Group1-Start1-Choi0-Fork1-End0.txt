@@ -1,0 +1,31 @@
+@startuml
+state czwrss
+czwrss --> goqgyt : dsrfn
+goqgyt --> oktyoq : mszlz
+oktyoq --> fmmyno : ivtyr
+fmmyno --> gwmjbz : rhnvn
+state gwmjbz {
+[*] --> dnetyo : hsagd
+dnetyo --> crpbaq : buyuy
+}
+gwmjbz --> wmblmb : qbjzt
+state twtzju <<fork>>
+wmblmb --> twtzju : nfdfz
+state nepwdt <<join>>
+twtzju --> jeciyz : ccng
+jeciyz --> hmkdvi : irnsn
+hmkdvi --> nepwdt : noqhthm
+twtzju --> qnpgyd : bqsf
+qnpgyd --> cfimyb : kqhhw
+cfimyb --> nepwdt : ljtnlqo
+twtzju --> rihcce : lqtm
+rihcce --> mzmjen : napkv
+mzmjen --> khdsfk : lxzar
+khdsfk --> fszwke : rgbjh
+fszwke --> nepwdt : vjecyyr
+nepwdt --> qmhfew : fltdh
+qmhfew --> ztsymo : wutni
+ztsymo --> yudkqd : zvggg
+yudkqd --> srwluz : jeyhe
+srwluz --> zzcmbo : okths
+@enduml

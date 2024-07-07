@@ -1,0 +1,13 @@
+@startuml
+state szvcgv
+szvcgv --> cnsyuq : szbgz
+cnsyuq --> zwybpc : yqgok
+zwybpc --> olxjas : fhqkv
+olxjas --> yukqyd : jwuoy
+state yukqyd {
+[*] --> ysvyqx : mwkrs
+ysvyqx --> ejxqid : aunpo
+ejxqid --> ylojtv : kfeot
+ylojtv --> [*] : waqlq
+}
+@enduml

@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:igswk;
+split again
+-[hidden]->
+:ohzcuxdepx; <<continuous>>
+-> epyrik;
+split again
+-[hidden]->
+if (lxtimtlzxcka?) then (cvmm)
+(gdug) elseif (xkgojgg?) then (kuyi)
+:sqlcvjeqhc; <<output>>
+(mhid) elseif (xmmosfx?) then (mozc)
+:bkawgzgxtn; <<load>>
+endif
+split again
+-[hidden]->
+:rhwyjmygso;
+split again
+-[hidden]->
+:vazkepqocy; <<continuous>>
+end split
+while (ltqcbmprxnqo?) is (jnfl)
+while (bxxbbsfniujc?) is (lhqf)
+backward:cmzibf;
+:anyhi;
+:fzkjfdsszl; <<input>>
+-> yotqhk;
+endwhile (kiwd)
+:famgkzvz;
+switch (kfbvjkhyjoha?)
+case (ziavott?)
+:jydssrrsvu; <<task>>
+-> cprnjy;
+case (kiecijs?)
+:vjazs;
+endswitch
+endwhile (kdak)
+:bohredfl;
+:rhzkisfcak; <<load>>
+stop
+@enduml

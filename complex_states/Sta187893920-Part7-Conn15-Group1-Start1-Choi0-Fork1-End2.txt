@@ -1,0 +1,35 @@
+@startuml
+state 0 <<end>>
+state 1 <<start>>
+state "eunbo" as 2 : yeaybrjwos
+state "duipx" as 3 {
+[*] --> wsjsai : plfij
+wsjsai --> pnjxkq : ohysr
+||
+[*] --> zohiuv : urxcy
+zohiuv --> pqkzry : yknef
+pqkzry --> fkqswn : iwiko
+pqkzry --> hswjih : edwat
+hswjih --> tkkzql : neoke
+tkkzql --> jwfawz : scybl
+jwfawz --> [*]
+}
+state 4 <<fork>>
+state "hazdr" as 5 : ikrpxyxhvs
+state 6 <<end>>
+2 --> 0 : jpgloi
+1 --> 6 : rtwelg
+2 --> 2 : sdmtry
+3 --> 2 : yrytcc
+3 --> 2 : dbscvw
+3 --> 3 : skaxce
+4 --> 3 : icggxs
+5 --> 4 : ymrkbs
+4 --> 0 : vdzypv
+1 --> 4 : wcvdhh
+2 --> 4 : wciqkh
+1 --> 4 : wyxurd
+5 --> 4 : dvkmrj
+1 --> 5 : czygws
+5 --> 6 : qcvuwq
+@enduml

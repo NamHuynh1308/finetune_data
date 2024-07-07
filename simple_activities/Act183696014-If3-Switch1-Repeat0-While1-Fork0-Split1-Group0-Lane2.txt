@@ -1,0 +1,60 @@
+@startuml
+|1| sbdcgr
+|2| civpka
+|2|
+:puyfrejwvy;
+|1|
+if (fxjlpaijxuju?) then (pnml)
+(ooqa) elseif (allzmcx?) then (xczd)
+:ovlosnbiqh;
+(pqpp) elseif (nrctzxo?) then (nebi)
+switch (ljdtwzvmzkyf?)
+case (nvvdrue?)
+:idkubqcbno; <<procedure>>
+case (qsdldsp?)
+:jxfzj;
+case (pnzfvqu?)
+:nooxdcawtk;
+case (oabheqf?)
+:zfahsmvyts; <<continuous>>
+endswitch
+(xaae) elseif (kcxkxuj?) then (lkbp)
+:vdzaozkjtb;
+endif
+|2|
+while (zxyordczslmf?) is (oapp)
+:gvdkeytasl; <<continuous>>
+endwhile (dhkt)
+:hfhgolmw;
+if (npycoddmfwwf?) then (eqas)
+:jwdvcfcyeq; <<input>>
+split
+:gppsc;
+split again
+:nfsicxcdes; <<procedure>>
+-> qhaklz;
+split again
+:uzbccdmimk; <<output>>
+split again
+:kjynxuguul; <<task>>
+split again
+:avqgbbzrqu; <<continuous>>
+end split
+:rxxnanxwom; <<output>>
+else (npvm)
+if (kpabwlawkuut?) then (imgi)
+:tqrsudphhk; <<output>>
+-> orizbs;
+:kqhxgtokjn; <<input>>
+-> ztvbhv;
+:savxvxzbdn; <<load>>
+else (lspy)
+:kgxsr;
+:dyzby;
+:nqppjxunij; <<load>>
+-> njaeti;
+:lxnifqbpet; <<continuous>>
+:fpxxh;
+endif
+endif
+@enduml

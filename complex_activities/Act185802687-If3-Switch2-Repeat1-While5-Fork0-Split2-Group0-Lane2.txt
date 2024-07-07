@@ -1,0 +1,131 @@
+@startuml
+|1| rthchw
+|2| eickqh
+repeat
+:xpcgdccofd; <<task>>
+backward:mssrxe;
+backward:tkoohj;
+repeat while (oknuxlvsubop?) is (kaej)
+|2|
+:okqoafufuj;
+-> ysghew;
+:urwlyktofg; <<continuous>>
+|1|
+split
+:bnbxp;
+split again
+:hlvabovtit; <<task>>
+-> vtdncp;
+split again
+:seplspwlnj; <<input>>
+split again
+:rfnnhslmvd; <<save>>
+split again
+:pnrdaonezy; <<task>>
+-> bdcvwq;
+end split
+|2|
+:qagaceufrt; <<procedure>>
+-> yiufja;
+:khuinkcwel; <<procedure>>
+|1|
+switch (gzhrbygalpbv?)
+case (cnpjxuy?)
+if (silpwetqjmgt?) then (xcnm)
+(nqog) elseif (elrziju?) then (tfat)
+:ziattt;
+while (ihoetpqflspb?) is (hrdo)
+backward:odbjbg;
+backward:kcnlmo;
+backward:zxqanq;
+endwhile (qpys)
+-[hidden]->
+detach
+(talb) elseif (aqwzavz?) then (vryi)
+:zcyveprwjf; <<output>>
+(ljfy) elseif (blyifto?) then (jggt)
+:dmnsobtkmp;
+-> gkaexf;
+(avgi) elseif (qaqewbr?) then (gxlp)
+:jpnjz;
+(uzpc) elseif (zcpjzqk?) then (qrgq)
+:wsthczufkc; <<input>>
+-> vzmrbc;
+endif
+case (eoliigx?)
+:dlyijepqbh; <<continuous>>
+-> aviqrk;
+case (djrprwj?)
+:kpneomrfwa;
+case (dmyticn?)
+split
+:lyezk;
+split again
+:xbzcxnralc; <<task>>
+split again
+:mwwlm;
+split again
+:ebqpq;
+split again
+:wbagqtlmse; <<task>>
+split again
+:xuxoda;
+while (feclfedaqjwa?) is (jrvt)
+:ubrnxhkbck; <<procedure>>
+:ptkiuhendn;
+:qpkvv;
+endwhile (yiki)
+-[hidden]->
+detach
+end split
+endswitch
+if (xjobatmwpnus?) then (tnpz)
+:uumqnqqidg;
+:wlonapyhph;
+:rcywuawiuc; <<input>>
+:dgtmdzgecb; <<load>>
+while (ouxzajqfcehj?) is (mcku)
+:lndvriajgw;
+-> zdwvog;
+backward:imxlii;
+while (ymeimlivhmbq?) is (gyzc)
+:wwzhx;
+endwhile (qivq)
+:libojqhr;
+endwhile (xkpr)
+-[hidden]->
+detach
+else (ulog)
+if (tagfwlxzxcwr?) then (pxng)
+(qelq) elseif (efzmrbo?) then (gcwa)
+:qjlntaygfv; <<task>>
+(vork) elseif (movzbyw?) then (rpon)
+:subozqftbe;
+-> eufkjs;
+endif
+:lthytppyek; <<task>>
+:umyetnameo;
+-> isapyc;
+switch (wfansyddydny?)
+case (uvxduea?)
+:gozbn;
+case (kotacrb?)
+:zdattilovs; <<procedure>>
+-> ewlljq;
+case (cwtpsie?)
+:qoqdq;
+endswitch
+:jcncdnbboi;
+while (ahjqbifqfapn?) is (iuia)
+backward:aoxysq;
+endwhile (depr)
+-[hidden]->
+detach
+endif
+|2|
+:pibuhutaci; <<save>>
+-> ovnuai;
+:icvmflweji; <<task>>
+-> ulmxbd;
+stop
+@enduml

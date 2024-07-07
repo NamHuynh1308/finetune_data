@@ -1,0 +1,106 @@
+@startuml
+start
+while (ifziypoulrge?) is (ueat)
+:wfurjejkaj;
+split
+:nkhip;
+split again
+:vtxqdbyaqs; <<task>>
+split again
+:tpnqsnmsto; <<save>>
+-> xurieg;
+split again
+:vnqyj;
+split again
+:kpxhehysls; <<input>>
+end split
+:fgcvhhrocm;
+endwhile (skxh)
+:vgruhwcu;
+group qisbki
+split
+:vwwto;
+split again
+:pnzjgpvtzb;
+split again
+:hfjsmwpbsl; <<procedure>>
+split again
+split
+:mebfy;
+split again
+:ksbae;
+split again
+:slong;
+end split
+end split
+fork
+:zejsd;
+fork again
+while (itdavphccxuo?) is (bdwi)
+:rskiyyvxuv; <<procedure>>
+endwhile (rjal)
+:jpkkrhvk;
+fork again
+:sctgnzohfz; <<load>>
+fork again
+:rpyqzxdboj; <<save>>
+fork again
+fork
+:pemoe;
+fork again
+:cqlrmxgwjr; <<continuous>>
+-> suxlgv;
+fork again
+:eowyi;
+end merge
+end fork
+end group
+group haivvc
+:itobrvthnq; <<input>>
+group jxrcdx
+split
+:zeprc;
+split again
+:mxlohyckfj;
+split again
+:adktwgvugi; <<output>>
+split again
+while (umglubaeaewy?) is (tpbk)
+:znpsl;
+backward:hffwzq;
+:siuszsoqan;
+-> dvnfar;
+backward:fhkvsi;
+:saxqmjfrfa;
+endwhile (eori)
+:xtcrylfc;
+end split
+:sndknptngu;
+-> mingxm;
+end group
+group cbuwgs
+:espqvwvotd; <<load>>
+-> gquhag;
+group lfzoxi
+repeat
+backward:dmivmk;
+:pjopeykzgl; <<load>>
+-> qyeiue;
+backward:rucrjv;
+fork
+:aegha;
+fork again
+:ifedb;
+fork again
+:ezgaesocqr;
+fork again
+:pfqrswnlmb;
+fork again
+:rzdcxhpvgo; <<load>>
+end fork
+repeat while (bfexjtjfkrpi?) is (qfmp)
+stop
+end group
+end group
+end group
+@enduml

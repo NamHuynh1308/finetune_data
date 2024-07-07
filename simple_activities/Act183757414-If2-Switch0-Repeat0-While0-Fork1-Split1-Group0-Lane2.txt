@@ -1,0 +1,56 @@
+@startuml
+|1| bnhrag
+|2| gkagcp
+split
+-[hidden]->
+:qyfln;
+split again
+-[hidden]->
+:ratnlhfdck;
+split again
+-[hidden]->
+:tygdfakqcf;
+-> rkanne;
+split again
+-[hidden]->
+if (zawlshmbaekm?) then (yuyx)
+(qwuw) elseif (qhmjhjb?) then (lasv)
+:antuu;
+(pvzz) elseif (dzevyvz?) then (jhyq)
+:lklqrytode; <<task>>
+(gusi) elseif (abztstf?) then (kqjf)
+:cgnfryxjpn; <<output>>
+(llxl) elseif (eieract?) then (opwu)
+:famhfaxyay;
+-> bflguy;
+endif
+split again
+-[hidden]->
+:gghjvtmajb;
+split again
+-[hidden]->
+:htmokthmrn; <<continuous>>
+end split
+fork
+:bzkoa;
+fork again
+if (kkejrmsqhxaw?) then (ytmm)
+(lici) elseif (dyjodeo?) then (pyrq)
+:spvzaopern; <<input>>
+(eunn) elseif (nkrisxs?) then (qejx)
+:djhgbndzvi; <<continuous>>
+endif
+fork again
+:cmmmcteect;
+fork again
+:gdapmrtjxk; <<procedure>>
+-> thlksw;
+fork again
+:oeztbrximm; <<input>>
+end fork
+|2|
+:dzaupotzyv; <<output>>
+|1|
+:nishwamfjy; <<load>>
+-> xeiejr;
+@enduml

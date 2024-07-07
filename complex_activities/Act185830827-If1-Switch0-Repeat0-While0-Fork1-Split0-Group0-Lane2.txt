@@ -1,0 +1,35 @@
+@startuml
+|1| zqfmdi
+|2| csrfid
+|1|
+start
+:mqzspluzpt; <<task>>
+:jvrqdbydem; <<continuous>>
+-> ogbhet;
+:azsmqbbpie;
+|2|
+:rdijsjbstn; <<continuous>>
+:kadngalpju;
+:myuigtsgci;
+if (ualtmqvkpevq?) then (pqvn)
+(zwau) elseif (ncywtig?) then (rpow)
+:tkkvwxopeb;
+-> qiofay;
+(fyza) elseif (htrxstb?) then (rqml)
+:nxyxvydwge;
+endif
+fork
+:qxiet;
+fork again
+:psaqzpsqwd;
+-> sqhlzq;
+fork again
+:innklorhso; <<input>>
+fork again
+:tickipkxfb; <<output>>
+-> auhyot;
+fork again
+:dtcezbfris; <<input>>
+end merge
+stop
+@enduml

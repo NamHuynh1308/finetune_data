@@ -1,0 +1,28 @@
+@startuml
+hide empty description
+state xjnflb
+[*] --> xjnflb : jxetq
+state fbmloy <<choice>>
+xjnflb --> fbmloy : xgwoj
+fbmloy --> agiuak : dnpq
+agiuak --> fgfriy : ajbjb
+fgfriy --> ivymlu : rxexpai
+fbmloy --> btenyw : zrqj
+btenyw --> fipiql : kuwjb
+fipiql --> fhpaji : zqncj
+fhpaji --> ivymlu : mfpkezk
+fbmloy --> lvrnsc : agbb
+lvrnsc --> hpzzvj : jiwom
+hpzzvj --> jluwdf : dseig
+jluwdf --> ivymlu : qzjtnbq
+ivymlu --> hxummn : nwqhn
+hxummn --> znbler : zzzpe
+znbler --> zzikvb : xdqxt
+state zzikvb {
+pfysfk --> gpmyqf : dzrmi
+gpmyqf --> oerkda : smljo
+oerkda --> ogfnlf : mtret
+}
+zzikvb --> vrpsaq : sdltm
+vrpsaq --> [*] : snyyn
+@enduml

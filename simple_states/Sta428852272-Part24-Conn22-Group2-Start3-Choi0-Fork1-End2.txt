@@ -1,0 +1,32 @@
+@startuml
+hide empty description
+state skcbzh
+[*] --> skcbzh : ovvkj
+state pmyqod <<fork>>
+skcbzh --> pmyqod : pupmn
+state jebsxo <<join>>
+pmyqod --> sdqvlg : oaus
+sdqvlg --> ygieju : nhidt
+ygieju --> qncikx : vggsy
+qncikx --> ubkfsa : ykfnf
+ubkfsa --> jebsxo : exsggri
+pmyqod --> aibity : hqpi
+aibity --> aewyrx : coxjw
+aewyrx --> oybqyu : fkfnh
+oybqyu --> jebsxo : sqaproe
+jebsxo --> ntipqg : twgtt
+state ntipqg {
+[*] --> dalwzz : eeomd
+dalwzz --> ybbdae : xtnsa
+ybbdae --> bpeuwr : qhrgl
+bpeuwr --> hyzenj : umzfw
+hyzenj --> [*] : pilfs
+}
+ntipqg --> cyagtv : ksynl
+state cyagtv {
+[*] --> yqfnjv : vsgyn
+yqfnjv --> ufgllp : evryq
+}
+cyagtv --> ewhark : nccul
+ewhark --> [*] : cupfh
+@enduml

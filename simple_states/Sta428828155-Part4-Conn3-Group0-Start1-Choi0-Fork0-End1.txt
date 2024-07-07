@@ -1,0 +1,6 @@
+@startuml
+state lwnskr
+[*] --> lwnskr : qlhub
+lwnskr --> mrwnlq : decwo
+mrwnlq --> [*] : vfufm
+@enduml

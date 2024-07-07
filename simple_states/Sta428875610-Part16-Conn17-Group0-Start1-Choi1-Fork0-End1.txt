@@ -1,0 +1,21 @@
+@startuml
+state rxidfo
+[*] --> rxidfo : fxiva
+state jtbpgc <<choice>>
+rxidfo --> jtbpgc : vnxjd
+jtbpgc --> mfjefb : esjh
+mfjefb --> tptqju : ipziq
+tptqju --> dyyxxl : pibyx
+dyyxxl --> hpigct : qllrj
+hpigct --> fgbtrk : qiboluy
+jtbpgc --> lyegui : iocq
+lyegui --> wqrivn : dwhva
+wqrivn --> qbvdlv : udgbh
+qbvdlv --> fgbtrk : caembor
+jtbpgc --> fjfbsw : fvaj
+fjfbsw --> wmigbk : kknpp
+wmigbk --> fgbtrk : ltwwtgf
+fgbtrk --> nyybvd : yeyrc
+nyybvd --> wsamsh : itlxx
+wsamsh --> [*] : waaht
+@enduml

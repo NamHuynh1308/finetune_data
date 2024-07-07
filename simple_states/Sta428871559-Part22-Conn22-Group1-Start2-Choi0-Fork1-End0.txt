@@ -1,0 +1,29 @@
+@startuml
+state bipyqt
+[*] --> bipyqt : zcnod
+bipyqt --> ozoxci : ownen
+state ozoxci {
+[*] --> csmund : cfotz
+csmund --> mznkur : lkjgp
+mznkur --> duxfrg : ztxzz
+}
+ozoxci --> mhiuoh : cqtwy
+mhiuoh --> irdazv : jylqa
+irdazv --> sllhpg : uwgui
+sllhpg --> pabugf : jgmwk
+state wfyyma <<fork>>
+pabugf --> wfyyma : yrupd
+state kezkcb <<join>>
+wfyyma --> tkfmod : zxlz
+tkfmod --> lsykvg : hgtmj
+lsykvg --> uwduvz : twkgg
+uwduvz --> jhsokk : asrrj
+jhsokk --> kezkcb : qsgpsam
+wfyyma --> isecbf : suzw
+isecbf --> uzpeyy : dflzz
+uzpeyy --> kezkcb : hqwpgby
+wfyyma --> kbsolw : kzkx
+kbsolw --> ewchhi : gmasv
+ewchhi --> jrwcej : vktnx
+jrwcej --> kezkcb : yqkhxfc
+@enduml

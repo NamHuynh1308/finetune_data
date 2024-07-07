@@ -1,0 +1,136 @@
+@startuml
+|1| jjwbln
+|2| mcgres
+|2|
+:erarrrensu; <<task>>
+|1|
+:fupiypaldg; <<load>>
+-> ezcaod;
+|2|
+:dyjtjfnyla;
+|1|
+:mrljwujgat; <<task>>
+-> kyqyha;
+|2|
+:srkuiticeb; <<procedure>>
+-> mlmrww;
+fork
+:uspdo;
+fork again
+switch (axbzpcyozhuv?)
+case (nbkejxm?)
+:ojhhy;
+case (pdtgimb?)
+:cvwzwtvvsc;
+-> vpevqe;
+endswitch
+fork again
+:ffstmdgzpz;
+fork again
+:tzcmjjxgjg; <<continuous>>
+-> cgacpw;
+fork again
+switch (jyvhmtugzwee?)
+case (qoxotqr?)
+:pahtp;
+case (dniprtu?)
+:szfes;
+endswitch
+end merge
+if (qnnpgyextfdu?) then (plfy)
+(hosv) elseif (gbsrlbb?) then (vogs)
+:igsgheuhhj;
+-> vqwigd;
+(lbwb) elseif (qudlula?) then (onwy)
+:dyzrzomhlv; <<save>>
+(vzrm) elseif (ittomkv?) then (ryus)
+:xkoyqjwmyl; <<input>>
+endif
+|1|
+while (ientskjorxso?) is (hpbs)
+split
+:tycjz;
+split again
+:bmyawxvijs;
+-> vzmpza;
+split again
+:uyougfkpfb;
+-> cpsegs;
+split again
+:wprvgixomn;
+-> routad;
+end split
+if (espshllnsomj?) then (zabo)
+(kmlu) elseif (fbyjhck?) then (icci)
+:lvdlbfhkla; <<output>>
+-> rvjsco;
+(mhxm) elseif (sblaamy?) then (gyum)
+:yeclejfifa; <<procedure>>
+endif
+backward:ccodnz;
+backward:fhikbb;
+backward:vgfirn;
+endwhile (qpys)
+:pqbtaicp;
+|2|
+:voibvqazts; <<input>>
+|1|
+repeat
+backward:pytiqh;
+repeat
+:guwzly;
+if (rhyljfu) then (ucpt)
+:iyuren;
+break
+endif
+->vlrp;
+:enlywg;
+:ciexm;
+:wnlgw;
+:iizioixdnd; <<save>>
+:imxuuprwja; <<output>>
+-> mteuxk;
+repeat while (njxqnecmfzni?) is (iarw)
+while (aurcnsajokgn?) is (idet)
+:wtnkj;
+:rsuao;
+endwhile (sunh)
+:lbxvgckv;
+if (hufwwdjecmrk?) then (kphl)
+(pnrn) elseif (pbakkpj?) then (rckn)
+:teytkuloci; <<task>>
+-> kemytv;
+(ycyo) elseif (ynynxfl?) then (tzdg)
+:dfcwp;
+(gmmo) elseif (nmlccfe?) then (cyvt)
+:vnyged;
+kill
+(jfut) elseif (ierppfd?) then (nche)
+:icvaqbmdnk;
+-> pkqnly;
+(mlkz) elseif (bmsmisx?) then (mirf)
+:kqlqv;
+endif
+while (rlbfceevkhrq?) is (khif)
+backward:ifugfl;
+backward:lvjaca;
+backward:hutcvt;
+:quijtshxwt;
+-> ydhxfx;
+endwhile (zqyv)
+:ovltowpr;
+repeat while (fqzbwewbertx?) is (wcye)
+-> yxvppl;
+|2|
+:eamqncmskm; <<output>>
+|1|
+while (mtepdunyevja?) is (bdyt)
+:msjnjbuqcm;
+-> rjomfo;
+:mjvjodetqh; <<task>>
+-> fwdtvx;
+backward:bjflsi;
+endwhile (rcjm)
+:dzkqgpao;
+end
+@enduml

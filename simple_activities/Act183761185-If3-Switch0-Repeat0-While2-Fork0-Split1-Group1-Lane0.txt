@@ -1,0 +1,56 @@
+@startuml
+:gslsdoxkcz; <<output>>
+-> kerpgk;
+group txzfwr
+if (nccewpvkxzuj?) then (jdgc)
+:cijhsujhfc; <<continuous>>
+:rvxdpcfemh; <<continuous>>
+-> rrpcba;
+while (wbbzcgdzixzb?) is (jbnk)
+:fefjs;
+:ojipfhjcrp; <<continuous>>
+backward:hjuorm;
+:wromenelvz;
+endwhile (rxwt)
+:quumkehx;
+while (vxpwehohupvv?) is (tnpe)
+:gbloqnmbry; <<load>>
+-> yrlhtw;
+backward:tggunl;
+backward:qtdgwb;
+endwhile (xplv)
+:oiykxpwo;
+:vkwnaxjlya;
+-> iteici;
+else (rnba)
+if (fbuusolecupa?) then (devb)
+:bryodwuvwt; <<task>>
+else (uxqr)
+:rxkzt;
+:lbbcp;
+:giqtlhvlhc; <<save>>
+:jhvzo;
+endif
+:wiahpkxywm;
+if (cnwgrmtadyaf?) then (qddt)
+(mufl) elseif (jnqornq?) then (hcyy)
+:yigbl;
+(uiew) elseif (bunausl?) then (mpjd)
+:ofzkjmmwwz; <<load>>
+endif
+split
+:ybksw;
+split again
+:sevtx;
+split again
+:jqisggxxrq; <<procedure>>
+-> iwelts;
+split again
+:ucnumdiwtc; <<load>>
+-> rqzjxd;
+end split
+kill
+endif
+stop
+end group
+@enduml

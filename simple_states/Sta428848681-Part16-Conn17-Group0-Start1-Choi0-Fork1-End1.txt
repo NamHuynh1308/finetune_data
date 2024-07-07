@@ -1,0 +1,22 @@
+@startuml
+state tthjwq
+[*] --> tthjwq : imayx
+tthjwq --> ltvuwj : qcmck
+ltvuwj --> gvndiu : gpqyi
+state gvnovx <<fork>>
+gvndiu --> gvnovx : nsldd
+state rqjdsy <<join>>
+gvnovx --> pnkmbb : jvvm
+pnkmbb --> kmhczp : nicfr
+kmhczp --> rqjdsy : sfpijol
+gvnovx --> eodeui : apdt
+eodeui --> kihckc : vejau
+kihckc --> wrkorf : fnxxu
+wrkorf --> rqjdsy : yuqojso
+gvnovx --> cekjue : with
+cekjue --> bkoyjn : votbp
+bkoyjn --> pkmbue : ysazg
+pkmbue --> zomzkn : isigx
+zomzkn --> rqjdsy : yhprrgu
+rqjdsy --> [*] : qubok
+@enduml

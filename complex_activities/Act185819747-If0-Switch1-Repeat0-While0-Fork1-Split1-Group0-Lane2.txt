@@ -1,0 +1,44 @@
+@startuml
+|1| txmlzn
+|2| zsyjpn
+|2|
+:ynfhszhxsz;
+|1|
+:czrjxuvuko; <<save>>
+:wzaniiqhnl; <<continuous>>
+fork
+:ilpoa;
+fork again
+switch (hmpieiadusvc?)
+case (wepmikw?)
+:ajzcr;
+case (wpjifck?)
+:ljjbbdpart; <<load>>
+case (krrfgkf?)
+:umjepodzzl; <<task>>
+endswitch
+fork again
+:jfyxenioch;
+fork again
+:vdhezzumgg;
+fork again
+split
+:eawvj;
+split again
+:ywuka;
+split again
+:ennwe;
+split again
+:zfvsa;
+split again
+:hkijmyoqow;
+-> uemjty;
+end split
+end fork
+:zwagrvkqla; <<save>>
+:ehfooslgof; <<save>>
+:hlrbjhbban; <<procedure>>
+-> yvyaqg;
+:sirhkiqwjv;
+stop
+@enduml

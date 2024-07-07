@@ -1,0 +1,39 @@
+@startuml
+hide empty description
+state wmyohn
+state imocup <<choice>>
+wmyohn --> imocup : lksuq
+imocup --> vduork : wwxz
+vduork --> serxor : pntsx
+serxor --> xlyury : dtzop
+xlyury --> ykaeto : rhjhmmc
+imocup --> qefyzy : mbmv
+qefyzy --> iwanjm : vokpu
+iwanjm --> ykaeto : urnxxgy
+imocup --> mgaahe : mxeh
+mgaahe --> xoqoeh : xzpis
+xoqoeh --> djpkkh : giiyy
+djpkkh --> ykaeto : wqabpbe
+state rqlnwg <<choice>>
+ykaeto --> rqlnwg : wrzmo
+rqlnwg --> kuwriy : hufv
+kuwriy --> jcdcrc : rqghm
+jcdcrc --> htvpoe : clhig
+htvpoe --> yisetg : atdqaqy
+rqlnwg --> ztewvz : hjpw
+ztewvz --> whsxrw : zeanj
+whsxrw --> aiwwls : xsydr
+aiwwls --> yisetg : iuyqcxu
+rqlnwg --> yrnfzg : glnm
+yrnfzg --> nnfyju : crmju
+nnfyju --> jqlmbw : tcucm
+jqlmbw --> yisetg : obptrjk
+yisetg --> lhihja : jxcfp
+lhihja --> gzgrpn : jagoa
+gzgrpn --> nonwfw : clrbr
+nonwfw --> gaylda : ohctm
+gaylda --> ibprcs : kturk
+ibprcs --> pywdus : hocgs
+pywdus --> ihyxwg : zdpyd
+ihyxwg --> [*] : yahjk
+@enduml

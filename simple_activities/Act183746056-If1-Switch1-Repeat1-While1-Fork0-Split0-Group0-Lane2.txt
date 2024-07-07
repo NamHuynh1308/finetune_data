@@ -1,0 +1,43 @@
+@startuml
+|1| uwofnm
+|2| areloc
+|1|
+start
+switch (fvhkucdnanva?)
+case (fbvjywt?)
+:ykuvctxnsw; <<save>>
+-> nmmxug;
+case (zobxfvd?)
+if (uvgmkschlguu?) then (nhuu)
+(qplb) elseif (blfqotf?) then (dqky)
+:enwtfhgopa;
+(npog) elseif (rhilguw?) then (knfc)
+:pzebtyugkd; <<input>>
+(zkeh) elseif (srnwzrr?) then (apgd)
+:zrfdeudotb; <<task>>
+(xeam) elseif (qkpdqev?) then (ofsi)
+:wbnjwrajhl;
+-> rlgrly;
+endif
+case (pgyspti?)
+:rvtlssjovh; <<output>>
+-> elsazf;
+case (lhnfbws?)
+while (tbspcqccuunv?) is (yurq)
+:hunwgojxfi; <<procedure>>
+endwhile (llpf)
+:hxndxlqg;
+case (wfxemoz?)
+repeat
+:ueloc;
+:iufjlgmiur; <<load>>
+backward:uukfzt;
+:vkmgq;
+:sexzwkkgxg; <<save>>
+repeat while (ivnxnsdftjue?) is (ohai)
+endswitch
+:grndoiansk;
+|2|
+:ozwwtbkgvt; <<procedure>>
+stop
+@enduml

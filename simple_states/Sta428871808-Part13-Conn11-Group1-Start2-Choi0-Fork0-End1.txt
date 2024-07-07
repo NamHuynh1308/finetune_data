@@ -1,0 +1,17 @@
+@startuml
+hide empty description
+state bmwhuz
+[*] --> bmwhuz : afspp
+bmwhuz --> fosukr : togpo
+fosukr --> dtcvwi : sjuom
+dtcvwi --> cuccuq : fvzst
+state cuccuq {
+[*] --> xgbhmi : kzlmr
+xgbhmi --> qoubab : adkwr
+qoubab --> [*] : rbdxq
+}
+cuccuq --> vzccld : mksau
+vzccld --> qrtfmp : vxlkr
+qrtfmp --> yeqsbp : vcdiq
+yeqsbp --> rgrnin : cwfor
+@enduml

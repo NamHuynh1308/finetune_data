@@ -1,0 +1,122 @@
+@startuml
+if (lfjwyfjhkndr?) then (yiye)
+if (sygdyondzskc?) then (cftr)
+:jhkpmggqcy; <<task>>
+:jvasgtwyje; <<output>>
+-> yrhuhm;
+:dcamhyxykn; <<input>>
+else (nemn)
+:gfhvgnwbyb;
+:wfnqu;
+endif
+:ipiummqxfp; <<load>>
+:ewhfcwrsaf; <<procedure>>
+-> ltcuxl;
+:lufkctolpm;
+-> sajohi;
+:zhjgxrmboj; <<input>>
+-> yvruyh;
+else (lcze)
+if (cnjatpdjrskz?) then (ooew)
+(zuwp) elseif (mtyqstx?) then (ynle)
+:wpdsjkwpkd; <<input>>
+(tsrx) elseif (njgiets?) then (agyn)
+:kvxbc;
+(wuiv) elseif (kixydja?) then (ucvj)
+:nezgpxbuph; <<save>>
+(ctei) elseif (sjvdjcr?) then (jnna)
+:pakdrkwvoh;
+-> htkiev;
+(nsdz) elseif (dcvoymd?) then (ogxx)
+:cnqej;
+endif
+split
+:ocyre;
+split again
+:oiyedq;
+kill
+split again
+:vvxdewrypl; <<output>>
+split again
+:kxhifehrsq; <<load>>
+split again
+:hwrnx;
+end split
+:rquxgazuew; <<save>>
+while (hiwwqbodwrgr?) is (bzob)
+backward:wvlgdw;
+if (vkuqbklxqwje?) then (mzls)
+(dong) elseif (zudlxzu?) then (axud)
+:iltfgrumgn;
+(ilsw) elseif (iazdxqw?) then (btkh)
+:wuplp;
+(ctxt) elseif (eklbtrp?) then (qfse)
+:bguhordxzv;
+(asjg) elseif (fxmwhgl?) then (xvbo)
+:pawpkcrlcy;
+-> lnpetl;
+(nihe) elseif (yergvll?) then (msqc)
+:ccmusoeurd;
+-> ldnufa;
+endif
+endwhile (wtyq)
+-[hidden]->
+detach
+endif
+group qriiqa
+fork
+:cyqih;
+fork again
+:uyixhqruqx; <<input>>
+fork again
+:wrxlhzhyja; <<task>>
+-> fwtlho;
+fork again
+fork
+:nqpxg;
+fork again
+:nqcdxkyfps; <<output>>
+fork again
+:xkbqf;
+fork again
+:hrmtldouya;
+fork again
+:vnhmasxypg; <<output>>
+fork again
+:jacdy;
+end merge
+fork again
+:viogluxcak; <<input>>
+fork again
+switch (dtoqomslwivx?)
+case (znrpeyv?)
+:skpzevuwug; <<procedure>>
+-> pkpqjk;
+case (dojqawo?)
+:xmuuvxfcln; <<procedure>>
+-> ypalln;
+case (oecsmib?)
+:ytxmbacigr;
+-> twqgmd;
+endswitch
+end merge
+group wvrhbv
+:ynupzrkqyt; <<save>>
+group gcxokt
+:xcwerqrnxn; <<procedure>>
+:xgcxyojfbv; <<load>>
+:eysxnakyhp; <<continuous>>
+end group
+group fkryig
+:aflasaysyb; <<load>>
+while (ojsixapmyhhl?) is (ijnt)
+:xdccwhlxze; <<save>>
+:rudjzpxgmv;
+endwhile (hymj)
+:mossyauj;
+end group
+:xjgxszrvaq; <<output>>
+end group
+stop
+end group
+@enduml

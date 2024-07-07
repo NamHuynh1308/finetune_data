@@ -1,0 +1,143 @@
+@startuml
+|1| bevmnc
+|2| hrjhzh
+|2|
+:ewjmbqwovi; <<load>>
+:ddxorndndx; <<input>>
+|1|
+switch (uloxrpmuqndp?)
+case (kickune?)
+while (xbpdhetlycdg?) is (oiud)
+:zlimi;
+:qfehwurgyl; <<procedure>>
+backward:iwiszd;
+endwhile (fuci)
+:cfkbanhi;
+case (tuftxio?)
+:ieonlmayok;
+-> bwdyic;
+case (jkikvwj?)
+:ulsbggiail; <<procedure>>
+-> nnlhlt;
+endswitch
+|2|
+:qbunrvqtcn; <<continuous>>
+-> ymqsne;
+|1|
+:xcxuoapafo;
+|2|
+:cmiclnersf; <<input>>
+-> cgydfc;
+while (gbglhtnmflzy?) is (oagi)
+backward:kscvvs;
+if (rzkgqsyylotv?) then (hssq)
+(gjje) elseif (dswjnzs?) then (mnow)
+:uotxshzoru; <<output>>
+(ephq) elseif (cmufntg?) then (knlq)
+:tpvdj;
+(bopa) elseif (djfqmbb?) then (whcb)
+:eugsxj;
+kill
+(eutl) elseif (wbtaaok?) then (osgh)
+:dringhvfvn;
+endif
+backward:fpgvoo;
+backward:kxjrls;
+:bqjqylkfuc; <<procedure>>
+-> yionta;
+endwhile (kqfy)
+:vrvguods;
+|1|
+split
+:dpako;
+split again
+:ppyipmdeii; <<input>>
+-> lipnsx;
+split again
+:fwrlimpylc;
+split again
+:jfoxvlgwgu; <<save>>
+split again
+:rcukfj;
+while (hokucuipqlxu?) is (tsjp)
+if (cbrrwovustdl?) then (klva)
+(ntlx) elseif (nisjfid?) then (pjpf)
+:cmvfgk;
+while (crdkewkmxpyc?) is (yzka)
+:oooca;
+:vzjdv;
+backward:lqkder;
+endwhile (pezu)
+-[hidden]->
+detach
+(inkz) elseif (eduszgv?) then (kurh)
+:xyhozcjula;
+(mvun) elseif (mxpfqcn?) then (ojth)
+:wcpgt;
+endif
+if (twjqmtlbakmz?) then (wgcx)
+(cgrl) elseif (jzsttsr?) then (rixs)
+:hllxf;
+(pypa) elseif (uspljoe?) then (mejg)
+:tprhtlufwd; <<input>>
+(osmq) elseif (asjdkpi?) then (yzih)
+:lssyj;
+endif
+endwhile (rcar)
+-[hidden]->
+detach
+split again
+fork
+:cpzia;
+fork again
+:ywzekj;
+while (tkuioyubqrel?) is (fsqd)
+:lqncc;
+:ormmzafzqw; <<output>>
+endwhile (qpwv)
+-[hidden]->
+detach
+fork again
+:tehbhjahxp;
+fork again
+:meofxrmdlv;
+fork again
+:ezxlzcwkvg; <<task>>
+-> hamyfc;
+end merge
+end split
+fork
+:spwaj;
+fork again
+:rblayxfntc; <<output>>
+fork again
+:mejygdomcl; <<output>>
+fork again
+:nsqoan;
+while (nubjaettoqqu?) is (fums)
+backward:qvlcev;
+endwhile (uohf)
+-[hidden]->
+detach
+fork again
+:absozzaaxi; <<input>>
+end fork
+|2|
+:qjhmxmrnzz; <<save>>
+-> lduqae;
+:nxzgnfurje; <<load>>
+-> jcuunn;
+switch (pwvazmpygyyi?)
+case (walidtk?)
+:wyhdlukwgl;
+case (yyvfbze?)
+:hqmturznmv;
+-> fohnvd;
+case (dwrkvdm?)
+:jpgxmnjyzb; <<save>>
+case (jjxezge?)
+:aynxoliezs;
+case (fajkjtx?)
+:xyfvxptwyf; <<continuous>>
+endswitch
+@enduml

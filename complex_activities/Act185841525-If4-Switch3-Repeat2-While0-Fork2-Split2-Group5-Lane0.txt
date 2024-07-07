@@ -1,0 +1,148 @@
+@startuml
+start
+group mrohji
+:fhlyqfphnc; <<input>>
+:ysiikqkibm; <<load>>
+group sggyup
+switch (pqfmytjwsvvy?)
+case (llumera?)
+:zpjshxuelh; <<load>>
+-> aiwvbd;
+case (vqkhyab?)
+if (veyyzpbrtnwu?) then (xgoo)
+(hens) elseif (hnkjvhw?) then (gkhi)
+:spthxwdylz;
+(sqzk) elseif (ccnukpp?) then (iepq)
+:duiobcptom; <<continuous>>
+(ifgt) elseif (cwxavts?) then (ipyl)
+:cadjjlrrfl;
+-> hxjrvp;
+endif
+case (zitqjyn?)
+:xlikgpvlkf; <<procedure>>
+endswitch
+split
+:naepx;
+split again
+:dwjlthvcay; <<continuous>>
+split again
+split
+:uvxww;
+split again
+:apysw;
+split again
+:nzssp;
+split again
+:leyopdzpoi;
+-> kzheuj;
+end split
+split again
+switch (mzzftsbfuqvu?)
+case (wlkmllh?)
+:yfccangeyd;
+-> qwwinr;
+case (afplmbs?)
+:yscbushzua; <<load>>
+-> wfaekw;
+case (ksbvjho?)
+:omacbdcgdx;
+endswitch
+split again
+:rsgigbqubh; <<output>>
+end split
+end group
+group qeikri
+if (teopczclwkld?) then (ggio)
+repeat
+:bqkjvm;
+if (oktelty) then (oevs)
+:nazgkl;
+break
+endif
+->vutq;
+:vgisvt;
+repeat while (rhrhvvqgltfk?) is (uras)
+-> dozpwg;
+:kzpsrwfifc; <<input>>
+fork
+:ccjpz;
+fork again
+:grksxufuon;
+-> ogwsir;
+fork again
+:nrqjuu;
+kill
+fork again
+:ptedy;
+fork again
+:suxoatturq; <<continuous>>
+fork again
+:zjcxbstluq;
+-> epgvuh;
+end fork
+else (aqok)
+:efusgyzvji; <<task>>
+:ssnlajsvqk; <<save>>
+:dnxxjealnp;
+if (jxzfccwhqykj?) then (fgiy)
+(wykh) elseif (nkbjolt?) then (thww)
+:xqywvzutrg; <<save>>
+(mruq) elseif (hndsask?) then (qjzk)
+:jrpds;
+(bfpc) elseif (zbgjnoh?) then (qchf)
+:dpvra;
+(tboo) elseif (jmyhejb?) then (wuxh)
+:zxfdkjysuo; <<output>>
+-> bwnegb;
+endif
+endif
+group iurtdb
+:dwdysqbkvn; <<save>>
+:qhopzgdogm; <<load>>
+end group
+repeat
+:jamnof;
+if (betiosd) then (zlfs)
+:pdcqgx;
+break
+endif
+->ynus;
+:qcvapa;
+backward:yewcrc;
+:yzrkgnzkbk; <<save>>
+backward:zdcavc;
+switch (zhoajxscmcus?)
+case (vhdwerd?)
+:ackhv;
+case (ldrhbwi?)
+:xnurahxxtr; <<input>>
+case (obdqwdx?)
+:kqtosbzlun;
+case (judajzx?)
+:inpznczqfy; <<input>>
+endswitch
+repeat while (oouiyeknitfl?) is (xjms)
+group cztjke
+fork
+:rqxuu;
+fork again
+:bhupvqlacc;
+-> etqpvi;
+fork again
+if (dincpnaurmll?) then (dnyy)
+:lrkhe;
+else (uute)
+:gdrginwnrx;
+-> ucgnrj;
+:masgwwyzjr; <<output>>
+-> sefuwn;
+:sdsvvtpplm; <<save>>
+:ipocf;
+:jytmrxyvoh;
+endif
+end merge
+stop
+end group
+end group
+end group
+@enduml

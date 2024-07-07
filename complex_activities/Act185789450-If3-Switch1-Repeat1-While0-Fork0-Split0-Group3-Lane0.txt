@@ -1,0 +1,51 @@
+@startuml
+group zvwaxn
+:ncwjiquxdi; <<input>>
+:rcplwylrvh; <<input>>
+end group
+switch (whybvyzlsizo?)
+case (gttjxrq?)
+:kbszrjbine;
+case (iblmjpi?)
+repeat
+:odzeqctfrk; <<save>>
+-> reuasj;
+repeat while (hvclkoxvwzds?) is (erxh)
+case (brwyhmw?)
+:pfzlezvfkv; <<continuous>>
+endswitch
+:rzunqvgihp; <<task>>
+group rapbxn
+if (hryxfcmnowni?) then (njyn)
+(bqce) elseif (kirayqm?) then (xdmt)
+:xvriwchzjr; <<task>>
+(okqq) elseif (uuubwwv?) then (wioe)
+:elgvyeqxar; <<load>>
+-> xpgdtl;
+endif
+if (hkslwjolmpbt?) then (xceo)
+:vkqmsuwubn;
+-> ogwndn;
+else (kqou)
+if (izzdauzougeo?) then (vmii)
+:nmfou;
+:ffqrkalkkc; <<procedure>>
+-> ayfwof;
+:uqrkbzqkwi; <<task>>
+-> cipflq;
+:thdhksjowr; <<input>>
+:kvjrurfjgh;
+-> zuwxgy;
+else (jfkg)
+:obvcm;
+endif
+:pxtatnpqlg;
+-> eritou;
+endif
+end group
+:iciucgpeiv; <<save>>
+group jgdblg
+:dhcvqdofct;
+stop
+end group
+@enduml

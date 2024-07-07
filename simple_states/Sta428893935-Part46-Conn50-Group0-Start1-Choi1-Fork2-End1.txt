@@ -1,0 +1,58 @@
+@startuml
+state trmwpo
+[*] --> trmwpo : aovwi
+state chkvaf <<choice>>
+trmwpo --> chkvaf : zrvro
+chkvaf --> tgsiqq : ewkl
+tgsiqq --> bgrgkg : tyziv
+bgrgkg --> tquyua : xauam
+tquyua --> swigyl : guuam
+swigyl --> tjsrxs : vqtjnht
+chkvaf --> roeoqe : qiwf
+roeoqe --> mhuinw : wdabg
+mhuinw --> tjsrxs : wxfrgte
+tjsrxs --> kmlyhi : jpuhq
+kmlyhi --> ojnlae : aqpol
+ojnlae --> wsazyq : lnywn
+wsazyq --> tsdmty : ihqat
+tsdmty --> sxwezg : pduhz
+sxwezg --> wixnzh : mqbwd
+wixnzh --> uokezd : qkzxa
+uokezd --> dwymkt : fkzky
+dwymkt --> qqghwk : wzdfi
+qqghwk --> ijzzwy : xmenb
+state ywvhkt <<fork>>
+ijzzwy --> ywvhkt : xjdcq
+state nfirez <<join>>
+ywvhkt --> mfybbi : yulz
+mfybbi --> nfrfve : jeapo
+nfrfve --> bhxoto : xyjgd
+bhxoto --> nfirez : wxdajzm
+ywvhkt --> jtovgt : pspa
+jtovgt --> vvnnhv : nuazj
+vvnnhv --> qbkzdx : fgeuz
+qbkzdx --> wuzniz : fbaer
+wuzniz --> nfirez : bvkzsrj
+ywvhkt --> bzhcya : ywjz
+bzhcya --> zddvft : ziqhg
+zddvft --> bazyib : kyjhx
+bazyib --> lgztdk : sqmtz
+lgztdk --> nfirez : umergkm
+nfirez --> qwuccg : jgltv
+state zvshlo <<fork>>
+qwuccg --> zvshlo : mbkug
+state enlolv <<join>>
+zvshlo --> stamwd : viti
+stamwd --> twparr : npqsa
+twparr --> enlolv : lgklsap
+zvshlo --> fyhjdr : vefe
+fyhjdr --> hhjxxw : efqxu
+hhjxxw --> enlolv : ngqwimy
+zvshlo --> uukrmr : aygt
+uukrmr --> tlezwq : xwelx
+tlezwq --> wiyenn : yzfid
+wiyenn --> enlolv : dmjvxrs
+enlolv --> wuysfi : hsecw
+wuysfi --> ujtywk : syogv
+ujtywk --> [*] : clida
+@enduml

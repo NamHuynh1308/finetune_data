@@ -1,0 +1,145 @@
+@startuml
+|1| xdhvuw
+|2| qhdjrl
+split
+-[hidden]->
+:gjtzi;
+split again
+-[hidden]->
+:gplojeayza; <<continuous>>
+split again
+-[hidden]->
+:bwvvsjatjk; <<task>>
+end split
+|2|
+if (bdmznxfkjslz?) then (huwx)
+:pdcgzjvkcf; <<task>>
+switch (zuhrbztyzddg?)
+case (lacmuja?)
+:ginvalkguf; <<input>>
+case (rzchsph?)
+:crssjvoxxe; <<save>>
+endswitch
+kill
+else (nicj)
+switch (zcyyinhwgero?)
+case (hpxtsro?)
+:jigxr;
+case (atbxncd?)
+:qbzmjqxxzi; <<input>>
+-> kefsxc;
+case (nhproqz?)
+:wthft;
+endswitch
+endif
+|1|
+repeat
+:qoyjvp;
+if (hpycknz) then (lndt)
+:xumxwy;
+break
+endif
+->fuwo;
+:oxrcpc;
+repeat while (tidswqhbnuoq?) is (yzpf)
+-> zalats;
+:cnawusbcnz;
+:zivrbshpwa; <<continuous>>
+-> iazgra;
+|2|
+:ojplsxwyra;
+-> jghhzy;
+if (nnrjsrqybryz?) then (fmqn)
+(dbln) elseif (ifdbyyr?) then (btad)
+fork
+:dakgc;
+fork again
+:hvfskseqoc; <<task>>
+fork again
+:zacrwtervs; <<save>>
+-> pttqjv;
+fork again
+:vatgnmnsab;
+fork again
+:ytrpjhdsxu;
+-> zghzss;
+fork again
+:qcsqyamtvf; <<load>>
+end fork
+(irmi) elseif (yyrbord?) then (tldq)
+if (ilcflkktdwmf?) then (vwxk)
+:oemercexbo; <<input>>
+:whkxr;
+:aayun;
+:dwgcjpkrxq;
+:rzszpgfobe;
+-> sbbjye;
+while (leiouwvfcomp?) is (mgjc)
+backward:oxtnzq;
+endwhile (wycj)
+-[hidden]->
+detach
+else (mphx)
+:suamfdfxjg; <<continuous>>
+-> hadiav;
+:fpfzvrnajb;
+:wixjqtdnvj;
+:againpysxv;
+:dxtyc;
+endif
+endif
+|1|
+if (cxmovijnbsqq?) then (uoly)
+:kdqibbfjjx;
+:iehnxjxqub; <<procedure>>
+-> hhnczw;
+while (mcpnrmycqrex?) is (dgkw)
+:ywripozkhu;
+-> wukuhw;
+backward:bpvywo;
+fork
+:cixep;
+fork again
+:drdzkeefyz;
+fork again
+:uibudxngyn; <<load>>
+fork again
+:xkjpk;
+fork again
+:dyddcqzxzd; <<task>>
+-> eaewul;
+fork again
+:lynfy;
+end fork
+backward:aywqlm;
+endwhile (xuoh)
+-[hidden]->
+detach
+else (olui)
+:hazylfxbjf;
+-> unblyt;
+:coqkfrwezz; <<procedure>>
+while (yashmftnwfjh?) is (xgyu)
+switch (couilbbnioid?)
+case (mtzgszf?)
+:pwusixtiyv; <<task>>
+-> ruowac;
+case (zekkbxv?)
+:wngsxncryr; <<input>>
+-> jmwvun;
+case (mzinxvy?)
+:aaanb;
+endswitch
+endwhile (xids)
+-[hidden]->
+detach
+endif
+:wkczakpife; <<continuous>>
+-> mjtkjm;
+|2|
+:kspsjjmyge;
+|1|
+:vaoihrkmeh; <<load>>
+:guxogfcptj; <<task>>
+end
+@enduml

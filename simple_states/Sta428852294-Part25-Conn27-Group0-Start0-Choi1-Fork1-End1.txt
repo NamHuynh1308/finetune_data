@@ -1,0 +1,34 @@
+@startuml
+hide empty description
+state jsyreh
+jsyreh --> aiawcl : cyknj
+state sbqxyw <<choice>>
+aiawcl --> sbqxyw : atend
+sbqxyw --> vvwdka : ddxt
+vvwdka --> yanqkl : ulmrj
+yanqkl --> funkqx : nrzpyqg
+sbqxyw --> afpdzm : qieo
+afpdzm --> evpufc : bwnlq
+evpufc --> glqopy : scxsb
+glqopy --> funkqx : fiyrnyy
+sbqxyw --> navzvp : ywix
+navzvp --> facwri : korrv
+facwri --> henkol : rrakw
+henkol --> blyfpy : xgcxg
+blyfpy --> funkqx : rwfjdho
+funkqx --> ssxmrf : gbzfm
+ssxmrf --> ogfayn : dqiex
+ogfayn --> ypvcun : pzgsi
+state ousxjo <<fork>>
+ypvcun --> ousxjo : epnag
+state cwbamc <<join>>
+ousxjo --> xgzfgd : jpll
+xgzfgd --> nwlscg : jfnsp
+nwlscg --> youlxc : gzlks
+youlxc --> cwbamc : zxbjglg
+ousxjo --> ibikmq : uegh
+ibikmq --> gvbtdv : yxnid
+gvbtdv --> cwbamc : vfbkslx
+cwbamc --> sfrhvu : fenpy
+sfrhvu --> [*] : czvxi
+@enduml

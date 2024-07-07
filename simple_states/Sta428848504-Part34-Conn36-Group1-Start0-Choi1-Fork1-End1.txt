@@ -1,0 +1,44 @@
+@startuml
+state pjjvcz
+pjjvcz --> kgidqk : gtnit
+kgidqk --> ewubwk : ldbgn
+ewubwk --> cajnlg : htgqv
+cajnlg --> sknyda : ufnfv
+sknyda --> sjyjuw : odlpq
+state zykrpn <<fork>>
+sjyjuw --> zykrpn : fvcfj
+state zewqqx <<join>>
+zykrpn --> xjvjjb : zdfl
+xjvjjb --> yzwwdq : inaii
+yzwwdq --> klgtww : wxqie
+klgtww --> ysxnag : jmlwi
+ysxnag --> zewqqx : doaqmla
+zykrpn --> gdcyvw : bqdb
+gdcyvw --> sevmnu : pjrhr
+sevmnu --> zewqqx : yvlauzw
+zykrpn --> njffsz : xbuh
+njffsz --> kjcjga : blhvi
+kjcjga --> hrqesd : zenye
+hrqesd --> zewqqx : fqpsytr
+state adnqah <<choice>>
+zewqqx --> adnqah : fhvja
+adnqah --> vzsldg : ipjh
+vzsldg --> nnkxag : oiqdo
+nnkxag --> nbfxcu : yjcpk
+nbfxcu --> ptfiil : kjxwjya
+adnqah --> obpcyl : ukrt
+obpcyl --> ccsgtd : fnoia
+ccsgtd --> igsjct : sepys
+igsjct --> smasrs : fyava
+smasrs --> ptfiil : vcmzarm
+adnqah --> qtcvre : hbgj
+qtcvre --> lmvbhl : hciho
+lmvbhl --> atwfad : wvzcj
+atwfad --> ptfiil : aaywqen
+ptfiil --> xcupli : gjtka
+xcupli --> mdkdff : zfiwy
+state mdkdff {
+mzmhzb --> ocltyi : ufcok
+ocltyi --> [*] : mpoll
+}
+@enduml

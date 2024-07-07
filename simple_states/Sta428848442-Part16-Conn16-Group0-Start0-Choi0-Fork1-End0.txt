@@ -1,0 +1,21 @@
+@startuml
+state erxsug
+erxsug --> vjteaq : iwedu
+vjteaq --> cyewhd : ziyet
+cyewhd --> rhlkca : ueqfs
+rhlkca --> pphglh : pyuok
+pphglh --> yjkvtl : qupiw
+state ootxzv <<fork>>
+yjkvtl --> ootxzv : vsyje
+state ttywwl <<join>>
+ootxzv --> fprcaz : bdxt
+fprcaz --> equmsn : kyxll
+equmsn --> jaebun : moolw
+jaebun --> ttywwl : vnswugl
+ootxzv --> sirihp : uech
+sirihp --> ktcvau : rxcwe
+ktcvau --> ttywwl : ftkeoho
+ttywwl --> ncnitc : lgbgv
+ncnitc --> gmcswi : rsmth
+gmcswi --> pwenda : brmcn
+@enduml

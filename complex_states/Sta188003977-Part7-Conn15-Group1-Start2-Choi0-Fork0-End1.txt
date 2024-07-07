@@ -1,0 +1,44 @@
+@startuml
+state 0 <<start>>
+state "ocvrc" as 1 : ionxmylcbe
+state "iayno" as 2 {
+bqltfz --> vnqbrj : kzugk
+vnqbrj --> eijhgh : xbblm
+||
+[*] --> ijuswq : owgsn
+ijuswq --> smzwnl : ceyon
+smzwnl --> tiidpc : jbdps
+tiidpc --> kjxwzy : whrdj
+tiidpc --> qkvqxt : lrgts
+qkvqxt --> ltqtwb : zdmxr
+qkvqxt --> vvcuro : nnjqh
+vvcuro --> mmyknn : gsuld
+vvcuro --> [*]
+||
+[*] --> ciigbm : yvzgu
+ciigbm --> cetqgr : bjdfl
+cetqgr --> opimio : bpsvv
+cetqgr --> ycicbf : dwioh
+ycicbf --> rdmrzt : zwthi
+rdmrzt --> ytmmqx : zjbut
+}
+state "ltech" as 3 : eggivhgvvl
+state 4 <<start>>
+state "xqvkd" as 5
+state 6 <<end>>
+0 --> 3 : tpysfc
+1 --> 2 : gjkhpj
+0 --> 1 : ljeipc
+2 --> 1 : hskjjr
+2 --> 2 : bmngsd
+0 --> 2 : ngmcer
+3 --> 1 : lyxrja
+3 --> 5 : jkvcuk
+4 --> 3 : ommmtc
+4 --> 3 : hylxxs
+5 --> 6 : hzxywg
+5 --> 1 : iimpla
+2 --> 5 : zoparp
+5 --> 5 : abnxum
+3 --> 6 : elodbp
+@enduml

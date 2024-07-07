@@ -1,0 +1,24 @@
+@startuml
+hide empty description
+state oeweof
+state ymwluz <<choice>>
+oeweof --> ymwluz : ijhcy
+ymwluz --> scawvz : viyn
+scawvz --> rsadjh : ilach
+rsadjh --> telqog : yzkpc
+telqog --> fmdkng : nttrf
+fmdkng --> nxqxsn : lxpauww
+ymwluz --> fknhpu : gloh
+fknhpu --> xbojih : hznnu
+xbojih --> zbdosd : wntzd
+zbdosd --> lcswdz : lhmhh
+lcswdz --> nxqxsn : vkizatu
+nxqxsn --> psqhas : fkzjr
+psqhas --> hnjiff : iceea
+hnjiff --> kelfbk : hujyk
+state kelfbk {
+pkhrcu --> hbbnte : liftw
+hbbnte --> oyemco : zqvsw
+oyemco --> [*] : ivlpt
+}
+@enduml

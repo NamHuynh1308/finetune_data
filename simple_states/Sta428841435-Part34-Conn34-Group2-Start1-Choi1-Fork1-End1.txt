@@ -1,0 +1,44 @@
+@startuml
+state dcaepk
+dcaepk --> eeakhl : tikxa
+state eeakhl {
+[*] --> luuqdv : tdkmb
+luuqdv --> xwgodk : ufxyq
+xwgodk --> [*] : cpecq
+}
+eeakhl --> tnkxwa : lddqt
+tnkxwa --> qwoksx : shysi
+state surusb <<fork>>
+qwoksx --> surusb : ozdvs
+state baleuo <<join>>
+surusb --> ayrnoh : atmo
+ayrnoh --> wyrzrk : hlrnz
+wyrzrk --> yieyvh : rpqtj
+yieyvh --> nqvxnq : ndfxn
+nqvxnq --> baleuo : zhcjmym
+surusb --> lvhdzy : exsc
+lvhdzy --> ybixhv : rxsev
+ybixhv --> baleuo : xychyyb
+baleuo --> ignlsw : ezcnr
+state ignlsw {
+pzwsnw --> sozfxv : ihhuf
+sozfxv --> yxwpgu : hqqgl
+}
+state wnwcit <<choice>>
+ignlsw --> wnwcit : bqkvc
+wnwcit --> wqooaf : nwsl
+wqooaf --> zevlxk : slwqt
+zevlxk --> eaymlo : uoekk
+eaymlo --> bftrsz : ntmjlze
+wnwcit --> jxxoss : rlnk
+jxxoss --> vydgkh : khxww
+vydgkh --> tbmpen : uxwte
+tbmpen --> bftrsz : amkzxyu
+wnwcit --> lyfody : bvqy
+lyfody --> orpxsn : tagir
+orpxsn --> xrmkyy : dzkvm
+xrmkyy --> jovneu : ojnot
+jovneu --> bftrsz : wxmukfv
+bftrsz --> idjcqm : kzapv
+idjcqm --> bqkpwl : hispi
+@enduml

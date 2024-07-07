@@ -1,0 +1,19 @@
+@startuml
+start
+:lupmskadxn; <<load>>
+-> qotxst;
+:exmrhoypuf; <<output>>
+:xbdutijibz; <<input>>
+:oateqycjti; <<input>>
+:dpvzcnlcxm;
+-> ajqpdt;
+fork
+:odvse;
+fork again
+:kbugwukclw; <<task>>
+-> hmdmlb;
+fork again
+:bgzdrnvthn; <<procedure>>
+end fork
+stop
+@enduml

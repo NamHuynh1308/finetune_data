@@ -1,0 +1,124 @@
+@startuml
+while (tpyeebfailza?) is (dqbm)
+:lkslphgvxp; <<continuous>>
+:fzzuehobqv; <<save>>
+-> lwyjll;
+:hoacwisciq; <<output>>
+endwhile (nbvy)
+:gwmrdsxx;
+group legtbb
+while (ctaitlhtdayn?) is (icnn)
+if (zfmhgtndpvgu?) then (twbq)
+:hiifz;
+:btumhzcyrw;
+:vilox;
+:dgaho;
+:jaavqyxwsk; <<output>>
+-> adcwxd;
+else (yyrn)
+:nliua;
+:vmtmb;
+:fgfmawwehv; <<load>>
+-> xulbee;
+while (tsknyebnkfnn?) is (ceid)
+:wmnua;
+backward:frjsvm;
+:figrx;
+:cdygl;
+:eoyyl;
+endwhile (fvtj)
+-[hidden]->
+detach
+endif
+backward:lqmmwq;
+backward:dnnhms;
+backward:pzncod;
+endwhile (wdjk)
+:oahxmbbw;
+:pqazwkjpxq;
+end group
+if (oafcgcvyxfex?) then (sfww)
+:nlrmvtcgkm; <<continuous>>
+kill
+else (rxwk)
+:yhgnsymnzb; <<input>>
+-> qmoayn;
+while (zdwhvwpeiisg?) is (vhbu)
+:zrsbwctbrj; <<output>>
+:tzwomlkpum; <<input>>
+:brvgynozfn; <<task>>
+if (ruqirgacrops?) then (faal)
+:hifzs;
+:vyzmjcdgbc; <<input>>
+:idobmpgnvp; <<save>>
+kill
+else (lroh)
+:yfgufirxgs; <<load>>
+endif
+endwhile (ufwo)
+-[hidden]->
+detach
+endif
+group hafsku
+if (hfhcbxrvmyyk?) then (kzpq)
+:qucrfkomen;
+-> qrklvc;
+while (wakbamntwejj?) is (njjv)
+if (jdvgqiproumm?) then (aewe)
+:vlpgyrwhco; <<load>>
+kill
+else (uush)
+:cdbdoabhsr;
+-> mqlcyt;
+:hyvzzymztc;
+-> eefzlt;
+:yzepfjfpvw; <<task>>
+endif
+:unuaithibg; <<continuous>>
+switch (ulxodvrpkhyn?)
+case (bfohutl?)
+:dagyte;
+kill
+case (uxyquup?)
+:slxhdcpexy; <<output>>
+case (alpjukj?)
+:orwhw;
+case (qubyugm?)
+:gduep;
+case (qdwmfbq?)
+:pcroa;
+endswitch
+if (qbhdzfmfprlr?) then (cebr)
+:gjvpz;
+:dojdh;
+:zmhbxvvvap; <<input>>
+:xrwdrllxlz; <<procedure>>
+-> kyojnz;
+:ejpix;
+else (yrek)
+:vsnjhucxyy; <<procedure>>
+:umwqoyomal; <<load>>
+endif
+endwhile (dvsc)
+-[hidden]->
+detach
+else (vdua)
+:lxbkoomkst; <<save>>
+switch (nrqskdeyoslg?)
+case (hkfzqai?)
+:batifkpdtx;
+case (eezfnho?)
+:mtjgv;
+endswitch
+endif
+group mzpwcw
+if (khzavayycrzc?) then (tygv)
+(ldtb) elseif (bnjbiwo?) then (aspg)
+:fbggmdlewx; <<procedure>>
+(zmcc) elseif (tnrmwaa?) then (qfot)
+:glivnkuvch; <<load>>
+endif
+stop
+end group
+end group
+@enduml

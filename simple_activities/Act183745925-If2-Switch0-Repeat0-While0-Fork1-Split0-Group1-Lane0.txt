@@ -1,0 +1,35 @@
+@startuml
+start
+group xgndxh
+if (fvkgbdsyjgoq?) then (ceqr)
+:ktwipuaqhp; <<save>>
+:bykekuqfyr; <<continuous>>
+kill
+else (cerx)
+if (teieukucwzhe?) then (kzbt)
+:xztpb;
+:vrjqm;
+:nomwu;
+else (szhu)
+:nbzox;
+:kxkhwecpyi; <<procedure>>
+-> jvbmyo;
+:wajimqzpso; <<procedure>>
+-> fnpkok;
+endif
+fork
+:sjyil;
+fork again
+:kbnigimidu; <<continuous>>
+-> ugkmja;
+fork again
+:qbtul;
+end fork
+:nekxyfsdyl; <<procedure>>
+:xpknsfqvmk; <<task>>
+-> nfziuk;
+endif
+:nisvpnhiqz;
+end group
+stop
+@enduml

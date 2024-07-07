@@ -1,0 +1,143 @@
+@startuml
+|1| fnosmx
+|2| ochqaq
+|1|
+start
+:diuntpfgbn; <<task>>
+-> zbwofo;
+|2|
+:sfwloozuap; <<procedure>>
+-> qfaygm;
+|1|
+if (onustbdnsblw?) then (ptqw)
+(nrno) elseif (obvugzj?) then (lrti)
+:huqthawawk;
+-> smpxph;
+(bvhj) elseif (ocgqfht?) then (tdlb)
+:jqtzkirmzn; <<procedure>>
+(cfqv) elseif (imnynzb?) then (cmtq)
+switch (rgjsganhcaqr?)
+case (cnlgllk?)
+:wyctusqkcd; <<output>>
+-> shxbyc;
+case (rkbcups?)
+:rlnxm;
+case (afbhxxl?)
+:utmjsileut;
+case (wmbheej?)
+:xbipuwmvvz; <<output>>
+endswitch
+(jlux) elseif (uhmjetd?) then (kwkz)
+:emijlwxwhy;
+endif
+|2|
+while (ovldlxkovxkd?) is (guuh)
+repeat
+:zuaxttdjde; <<input>>
+backward:zbhqkk;
+:nzhrg;
+backward:sdceut;
+backward:rntopu;
+repeat while (wzytjvylfguo?) is (nbau)
+:ahqmxroohl;
+endwhile (wmnc)
+:nfwltkwv;
+fork
+:rgalx;
+fork again
+:bkeybwnner; <<continuous>>
+fork again
+:rabsqs;
+kill
+fork again
+:qsrjlpzmmk;
+-> afilgs;
+end merge
+switch (caloorigvzcl?)
+case (vbovkbm?)
+:gfetafaclv;
+-> zsefrj;
+case (ottxgsb?)
+:uzyaclckqh; <<continuous>>
+case (ekcglzw?)
+split
+:wdpxl;
+split again
+:hwsjd;
+split again
+:ewvvaterlc;
+-> fbiknd;
+split again
+:bnmdu;
+end split
+case (ujylwvn?)
+split
+:nmeod;
+split again
+:nsdov;
+split again
+:qibhggoesy; <<output>>
+end split
+case (sycfuuu?)
+switch (uzqehzlhvvqu?)
+case (pozpphw?)
+:mphyi;
+case (gmmqcuw?)
+:lpazxvxlyl; <<load>>
+case (lcwtvde?)
+:cotuggfpzg; <<continuous>>
+case (scgzcrk?)
+:izapxuhoju; <<input>>
+endswitch
+endswitch
+|1|
+repeat
+backward:oudczn;
+:rorjzzwjwi; <<procedure>>
+-> trbmht;
+while (cxwmltdlmuek?) is (qwfy)
+:eoibggciqe; <<output>>
+-> othjpg;
+:aexxr;
+endwhile (pnrq)
+:mbgngmuw;
+split
+:xljnz;
+split again
+:wniwprlvyb; <<input>>
+split again
+:wwjjtciukb;
+split again
+:dqlql;
+end split
+repeat while (zwsjbzeqsevz?) is (ycyo)
+-> viltsv;
+while (uxxuoymopibr?) is (oezr)
+backward:wxnrep;
+if (vmrjbucyolag?) then (eayy)
+:ggycrrznav; <<save>>
+else (ykkc)
+:zbjpdwpicz; <<load>>
+while (uccobjpsiyqt?) is (onnp)
+:twxjkxsqbq; <<load>>
+-> ezvopx;
+:rtlzifcixy; <<output>>
+endwhile (vfws)
+-[hidden]->
+detach
+endif
+endwhile (qtcm)
+:lwegoqei;
+|2|
+switch (wlhcltvoslvp?)
+case (neufyxw?)
+:ahnoyvyxcl;
+-> jidhpg;
+case (bxgpwli?)
+:jbomzaootj;
+-> ekhxfy;
+case (fbtzgeh?)
+:blcdmbjwkw; <<task>>
+endswitch
+end
+@enduml

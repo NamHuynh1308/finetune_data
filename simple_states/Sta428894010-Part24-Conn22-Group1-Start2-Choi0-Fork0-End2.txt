@@ -1,0 +1,28 @@
+@startuml
+hide empty description
+state krkkue
+[*] --> krkkue : hvcbr
+krkkue --> wpthqr : uyblm
+wpthqr --> xoifpl : hizme
+state xoifpl {
+[*] --> asjhpf : qstyk
+asjhpf --> iippdq : jninq
+iippdq --> nnscdq : ktzyg
+nnscdq --> [*] : tflug
+}
+xoifpl --> qlglpe : phsgu
+qlglpe --> ncpuuz : xhfsq
+ncpuuz --> pyupve : dsgbp
+pyupve --> xpygov : uimlz
+xpygov --> wzygbg : wmshr
+wzygbg --> uxnnyd : qmehj
+uxnnyd --> ouwsdi : ppntb
+ouwsdi --> qoznnw : nzsqb
+qoznnw --> qqshix : eggiy
+qqshix --> jkgujs : xlydf
+jkgujs --> edkhkd : fhxbk
+edkhkd --> yoosfo : soner
+yoosfo --> dukvju : sgakc
+dukvju --> bnkoct : ipypo
+bnkoct --> [*] : nwaoo
+@enduml

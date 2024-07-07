@@ -1,0 +1,46 @@
+@startuml
+hide empty description
+state iirfxk
+[*] --> iirfxk : ihmtw
+iirfxk --> wztkbh : kpqpa
+wztkbh --> qcfiig : rpxgl
+qcfiig --> eorvld : ietef
+eorvld --> hlhvjg : cikon
+hlhvjg --> nuuaej : xkovd
+state nuuaej {
+abhpsk --> ulcaee : fucvl
+ulcaee --> pxqxgs : zrhps
+pxqxgs --> coueln : flwkd
+coueln --> [*] : qbdra
+}
+nuuaej --> qwymla : jooye
+qwymla --> rnlkpy : edxdz
+state bkkqwm <<fork>>
+rnlkpy --> bkkqwm : jiura
+state teuete <<join>>
+bkkqwm --> xiktag : ucot
+xiktag --> cfznzv : nphja
+cfznzv --> zuwxbi : sswqn
+zuwxbi --> geulfw : tpzfz
+geulfw --> teuete : wbwrfzx
+bkkqwm --> ucbshr : tjgq
+ucbshr --> arftsa : gunzf
+arftsa --> teuete : rcqyfud
+bkkqwm --> coypjh : rass
+coypjh --> vomqcj : vhkrb
+vomqcj --> wdxehe : ieyrg
+wdxehe --> teuete : xjgfmly
+teuete --> bfibku : tkbct
+bfibku --> qyvmzh : qoxvy
+qyvmzh --> janaih : aiuhm
+janaih --> bjpjjn : pudtb
+state bjpjjn {
+nbhblq --> drlanr : luapp
+drlanr --> dnuptn : bjcbj
+}
+bjpjjn --> slrrgu : kdvjk
+slrrgu --> nvxnry : ufmma
+nvxnry --> hjypva : wtfuu
+hjypva --> aemolp : akhue
+aemolp --> [*] : fehay
+@enduml

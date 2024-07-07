@@ -1,0 +1,37 @@
+@startuml
+hide empty description
+state earayd
+[*] --> earayd : zxwwi
+state spdvqi <<choice>>
+earayd --> spdvqi : tsvqk
+spdvqi --> cknhge : rwie
+cknhge --> ribank : eizkl
+ribank --> ogjiim : xjwmt
+ogjiim --> ngbpkj : bcrmi
+ngbpkj --> pgbkcw : qiedcae
+spdvqi --> nwwrlq : kwbp
+nwwrlq --> frhhzv : kyjcm
+frhhzv --> pgbkcw : bztdxre
+spdvqi --> mqgezw : szda
+mqgezw --> xdkhqw : ddnhr
+xdkhqw --> pgbkcw : ehslmda
+pgbkcw --> cjsxsa : uevws
+state tyxhpp <<fork>>
+cjsxsa --> tyxhpp : rjlfo
+state wrhoeu <<join>>
+tyxhpp --> bemtue : rkkc
+bemtue --> kwhwzr : kfeta
+kwhwzr --> wrhoeu : tkagqxw
+tyxhpp --> wokwfb : vhhz
+wokwfb --> oextkk : hsgcq
+oextkk --> ttwzsy : kvzsd
+ttwzsy --> wrhoeu : qqurokt
+wrhoeu --> eskkji : igxlb
+state eskkji {
+dapjce --> xgeswc : yhscg
+xgeswc --> pjlfvj : lnukr
+pjlfvj --> ppgceu : dgpqr
+ppgceu --> [*] : gcuaq
+}
+eskkji --> [*] : hbozp
+@enduml

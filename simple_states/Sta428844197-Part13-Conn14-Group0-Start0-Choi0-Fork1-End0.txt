@@ -1,0 +1,20 @@
+@startuml
+hide empty description
+state fcfjsr
+fcfjsr --> mnyibf : iesrh
+mnyibf --> sjtgdu : neqcq
+sjtgdu --> zwwnjf : zzwgj
+state homlox <<fork>>
+zwwnjf --> homlox : upgvy
+state jgqsbg <<join>>
+homlox --> vcigdh : xzbh
+vcigdh --> nbmcws : aczay
+nbmcws --> apmgyv : cmgge
+apmgyv --> jgqsbg : oomfavx
+homlox --> zxiuex : rzgb
+zxiuex --> qpwtjh : kjbsm
+qpwtjh --> jgqsbg : qadldzh
+homlox --> egeqko : smym
+egeqko --> bkalmj : nwqwa
+bkalmj --> jgqsbg : zwmoeqz
+@enduml

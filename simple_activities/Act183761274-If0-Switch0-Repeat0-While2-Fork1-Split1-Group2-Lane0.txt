@@ -1,0 +1,42 @@
+@startuml
+start
+group gzbsys
+:sryybzaika; <<procedure>>
+while (qzqbjcickbbv?) is (shfh)
+backward:yvmrul;
+backward:vhacwg;
+split
+:opjcq;
+split again
+:stocgfukqw; <<output>>
+-> ejhxmc;
+split again
+:rtcnqgrxru; <<procedure>>
+-> yndmmt;
+split again
+:iifum;
+split again
+:mzcnmy;
+while (pdlenzcqrrul?) is (nkqj)
+:atdch;
+backward:akogoz;
+:qwcykfrhht; <<output>>
+-> nfyojb;
+endwhile (wpis)
+-[hidden]->
+detach
+end split
+endwhile (uwhr)
+:cdwkrnvf;
+group peodfo
+fork
+:nndqu;
+fork again
+:jsjuqodaav; <<continuous>>
+fork again
+:ohxjwspjhj;
+end merge
+stop
+end group
+end group
+@enduml

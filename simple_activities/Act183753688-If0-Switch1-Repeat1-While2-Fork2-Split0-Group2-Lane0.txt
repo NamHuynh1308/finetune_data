@@ -1,0 +1,69 @@
+@startuml
+group haohff
+:ymetoyylae; <<task>>
+-> iyjtrs;
+group jimidf
+switch (savgkwnownwo?)
+case (tromodz?)
+fork
+:syenc;
+fork again
+:owdkg;
+fork again
+:miaqwckbnb; <<procedure>>
+-> ambekv;
+fork again
+:ndljm;
+fork again
+:hpodixsvzm; <<load>>
+fork again
+:gpshvoutrc;
+-> ytqtqw;
+end fork
+case (fafznks?)
+:bzqpuz;
+while (bdnzruzzkaqb?) is (iboo)
+:zvnbyhbjww; <<procedure>>
+-> weabns;
+:qbtbtryafr; <<save>>
+fork
+:flxri;
+fork again
+:vbonz;
+fork again
+:packci;
+while (zhprmlxuaokb?) is (amds)
+:qlfai;
+:etqvatztgk; <<input>>
+:gcind;
+:ycceuolchz; <<task>>
+-> qrpmpj;
+:mbqhl;
+endwhile (cxpv)
+-[hidden]->
+detach
+fork again
+:nyjzmdfpvc; <<input>>
+fork again
+:swyjf;
+fork again
+:ugtsl;
+end fork
+:cbjcwfrxlp; <<procedure>>
+repeat
+:vqmsq;
+:zwflq;
+backward:zvlkaz;
+repeat while (hxdsvapxanvr?) is (xrtq)
+-> tmzibc;
+endwhile (teze)
+-[hidden]->
+detach
+case (eyuzmhw?)
+:hpoxvpxvfu;
+-> wizbvo;
+endswitch
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,64 @@
+@startuml
+group wbmrfd
+:eviilvvavq; <<task>>
+-> verdcd;
+:bvvgkqtsgh; <<task>>
+group czbjyo
+fork
+:plpnw;
+fork again
+:hfpegsfhkh;
+-> anafkx;
+fork again
+:oeuoxwflgo;
+-> devpsg;
+fork again
+:yuydpyjhjr; <<load>>
+-> vlbgau;
+fork again
+:szniaxvvgf; <<save>>
+fork again
+if (igbfhacpbtoq?) then (hdpw)
+(aipu) elseif (otyhvrk?) then (bpue)
+:vwlhz;
+(apyq) elseif (whzdhar?) then (fmoh)
+:lmlvwoqwzf; <<save>>
+endif
+end fork
+:ibrwpsunsw; <<continuous>>
+-> apxwfe;
+group cnlaam
+:ugbasyxjrn; <<load>>
+-> mnxygi;
+split
+:kibxu;
+split again
+:lmjrahtlia; <<procedure>>
+split again
+:saxlacvthl; <<continuous>>
+end split
+if (bprfzjczvwud?) then (maaa)
+:ymzvoqeetr; <<input>>
+-> irvtnd;
+:xnnajlwbul; <<input>>
+-> jrnifi;
+:hxnbttecar;
+:urktvbghuv; <<continuous>>
+split
+:uxmyr;
+split again
+:uihli;
+split again
+:tzmkixobbu; <<procedure>>
+split again
+:aaeky;
+end split
+else (zuad)
+:fbldxycvbe;
+-> degrpv;
+endif
+end group
+stop
+end group
+end group
+@enduml

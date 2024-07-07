@@ -1,0 +1,119 @@
+@startuml
+start
+:bfbfpzvmrz;
+-> dsttva;
+group lyrcwa
+if (ykygxbzajank?) then (swbq)
+:nlzdulqgus; <<task>>
+-> lavwcx;
+:wvrkpisyir;
+-> bknsbi;
+:vagwcamugd; <<save>>
+-> vkxunr;
+:rmbgheggle; <<continuous>>
+else (ovjn)
+:gfuczextyk; <<procedure>>
+:qnusbezjcd;
+:uyqrcidpso; <<continuous>>
+if (lrrnlctpwvkw?) then (pilh)
+:bzyaccpkap; <<task>>
+-> izywvy;
+:iwucy;
+:gykqd;
+:uvnfjhukep; <<procedure>>
+-> yjwwsv;
+:rogcybwnmf;
+-> mbfuap;
+while (rtghgascmzad?) is (ejsw)
+backward:fhtkmh;
+:otrbwuifeq; <<procedure>>
+:mkgyonpqxb; <<load>>
+backward:yopnwb;
+endwhile (iitq)
+-[hidden]->
+detach
+else (cowj)
+:ieyou;
+kill
+endif
+:nrrmbvzbzb;
+endif
+:tpdaeccyxc;
+-> fprogn;
+end group
+:azujwbxemc; <<save>>
+group mvgzvj
+switch (imcagmgfszjs?)
+case (gismefq?)
+:lkjvld;
+while (iorjkzgaywxz?) is (aufu)
+:wkaogsiqov; <<load>>
+:wzuykgrbqj; <<output>>
+backward:amsuhz;
+:dteyiocnop; <<input>>
+endwhile (ammc)
+-[hidden]->
+detach
+case (ctizcty?)
+repeat
+:ljuyq;
+:wuzjvncixr;
+repeat while (qqeugcxduowb?) is (qdin)
+case (clhofof?)
+:qwkcfqjuff;
+endswitch
+group qctgqt
+if (wenmxcjoxeba?) then (gdfl)
+(dxdh) elseif (cuyhpuh?) then (szko)
+:ljrjvtdmpv; <<procedure>>
+(mvpg) elseif (zahzvex?) then (hgof)
+repeat
+:hcflen;
+if (bxbokhp) then (sbry)
+:btiijw;
+break
+endif
+->fyui;
+:xgjqsh;
+backward:pvykfe;
+repeat while (ivvnaftqfxkz?) is (ibgm)
+-> hjygbr;
+endif
+:laldhoesyp;
+-> ctiqzs;
+end group
+group chbugz
+if (axbiccraeiue?) then (safj)
+(zqxt) elseif (tcwlizt?) then (jsue)
+:wjzqlwrkii; <<output>>
+(jspr) elseif (epqlfdo?) then (cajw)
+:cgarrjtwos; <<input>>
+-> fcofsp;
+(bmvj) elseif (tytlakq?) then (wlbr)
+if (rmurvxckkjww?) then (tgyk)
+:jckye;
+:ktvtzncobq; <<input>>
+:zkzqe;
+while (pcnwyhoojwsx?) is (kave)
+:ieiso;
+:lhwxh;
+:ovgiijxkwg; <<output>>
+:srjiy;
+:nfvsljmrop; <<load>>
+endwhile (grap)
+-[hidden]->
+detach
+else (hnqb)
+:fotmzwidpe; <<continuous>>
+:vjzqp;
+:wproz;
+:yecqilapac; <<input>>
+:dxqkg;
+endif
+(vmjz) elseif (abilewt?) then (lxcx)
+:xaasgykgqu; <<continuous>>
+endif
+stop
+end group
+end group
+@enduml

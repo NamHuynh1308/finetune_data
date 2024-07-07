@@ -1,0 +1,25 @@
+@startuml
+hide empty description
+state xggjxz
+xggjxz --> zruheg : ohfph
+state lhendb <<choice>>
+zruheg --> lhendb : uijjx
+lhendb --> vokitr : yrit
+vokitr --> mhftix : gcune
+mhftix --> kahkly : kscvbcb
+lhendb --> yanrpu : hrwx
+yanrpu --> ggmkkb : itmrc
+ggmkkb --> zyewna : ymlvs
+zyewna --> wolyca : puchi
+wolyca --> kahkly : qdevsta
+kahkly --> qqjdrg : vfehp
+qqjdrg --> habokr : dawib
+habokr --> zbbixb : wnqyd
+zbbixb --> wpvwgt : ukenx
+state wpvwgt {
+[*] --> jpwxus : wkpxy
+jpwxus --> linfbe : korwx
+linfbe --> [*] : qarsz
+}
+wpvwgt --> [*] : xrcpv
+@enduml

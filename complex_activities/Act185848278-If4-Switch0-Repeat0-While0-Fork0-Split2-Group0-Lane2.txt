@@ -1,0 +1,82 @@
+@startuml
+|1| jmdqtr
+|2| snavov
+|2|
+:cmtevhcaev; <<load>>
+|1|
+if (jcxibmekxqkq?) then (qxoj)
+:xwtddcszmq; <<load>>
+-> gkxbij;
+if (pjpqiaeiojte?) then (udqg)
+:fljza;
+kill
+else (gqcl)
+:ydkptpcxxt; <<continuous>>
+:lzzflugwls; <<continuous>>
+:jsrrzpcrlp; <<procedure>>
+kill
+endif
+if (ggfizwifnwfu?) then (apvc)
+:gfvxeftlnu; <<continuous>>
+-> mhmsno;
+:umhnl;
+:ezhxknhpox; <<procedure>>
+:ozaozjkarj;
+-> eomezl;
+else (srkq)
+:vdqhcnhese; <<load>>
+:qezog;
+:szqxgcxyps;
+-> jgvpwr;
+kill
+endif
+else (qbwq)
+:spcdbtfuih;
+:seoeceimed; <<continuous>>
+endif
+|2|
+:duhtgjvqlg; <<save>>
+|1|
+:oiapecwsgj; <<procedure>>
+-> dxqixt;
+|2|
+split
+:lokpp;
+split again
+if (dzowfagbzkar?) then (rtyb)
+:ftpmb;
+:zswvf;
+:jnggz;
+else (uhof)
+:xbnwmgaseq; <<output>>
+:mbszplalcv;
+:zxzbqykepu; <<load>>
+endif
+split again
+split
+:igcfg;
+split again
+:wpkju;
+split again
+:dfzaqblayq; <<load>>
+end split
+split again
+:nzpfudckeb; <<save>>
+split again
+:rvfpotrbac;
+-> qpnanj;
+end split
+:lavnowqudx; <<procedure>>
+-> cneyoo;
+:ixoisrmhky; <<output>>
+-> sfdcvg;
+|1|
+:vtlyajqnjy;
+-> qfqkva;
+:fvtupqebyr; <<input>>
+-> vjvvay;
+:xcpibscnwl; <<task>>
+-> cejyiq;
+:vwolpahlmx; <<input>>
+end
+@enduml

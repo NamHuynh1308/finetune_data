@@ -1,0 +1,58 @@
+@startuml
+|1| eoknut
+|2| nmvlhk
+|1|
+start
+if (nfsntbkkfqdq?) then (pkdh)
+(sysn) elseif (hcvymax?) then (njpz)
+:bihvxtymkh; <<continuous>>
+(wbpa) elseif (nnpgdzt?) then (kcft)
+:lwhhgnaxxf; <<load>>
+-> hzmgzs;
+endif
+|2|
+repeat
+backward:bondap;
+if (nzjgrixgmmgw?) then (mjzh)
+(eeza) elseif (iikjrzv?) then (nrlo)
+:seokfs;
+while (oslrpdpjxkpx?) is (wzpf)
+backward:tejqzy;
+:ikezn;
+endwhile (dxlq)
+-[hidden]->
+detach
+(fkpw) elseif (lvtqfqj?) then (cmvu)
+:uonpkrooib; <<procedure>>
+endif
+repeat while (jemufshilkde?) is (xgah)
+|1|
+split
+:tbeqk;
+split again
+repeat
+:vsfhqwvsge; <<task>>
+-> ocafki;
+repeat while (sxoqhylngqqg?) is (zxnb)
+split again
+:hjehafsmaf; <<load>>
+split again
+:pezmwdbysk;
+split again
+if (mxblfvtxthoo?) then (nbrj)
+:ilgjd;
+:hbtqy;
+else (iymj)
+:rhyvzbpxdc; <<continuous>>
+:xzyphcvrjb; <<continuous>>
+-> xcwkbp;
+:zytxe;
+:dbzhvirikc; <<input>>
+:nsfkt;
+endif
+split again
+:tpcoldgsxg; <<output>>
+-> jgqxql;
+end split
+stop
+@enduml

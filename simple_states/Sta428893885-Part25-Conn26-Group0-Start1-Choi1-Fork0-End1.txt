@@ -1,0 +1,31 @@
+@startuml
+hide empty description
+state gjynyz
+[*] --> gjynyz : pjfct
+gjynyz --> sqtugb : gfcnt
+sqtugb --> apinlx : ksxnw
+apinlx --> acttui : uhnnx
+acttui --> oouiqy : hgsxt
+oouiqy --> gaygzr : lgbfb
+gaygzr --> hqmsmk : jvvmj
+hqmsmk --> xrsmai : zjujf
+xrsmai --> gfikjw : iheze
+gfikjw --> wraoee : yrecz
+state apxlcb <<choice>>
+wraoee --> apxlcb : kjznu
+apxlcb --> dnoiaa : uohb
+dnoiaa --> arlqmo : lvpuh
+arlqmo --> xwatjr : nrepa
+xwatjr --> cvygyc : nnkeczc
+apxlcb --> tcqsji : sack
+tcqsji --> vcpbkt : dwzwn
+vcpbkt --> zzkopp : esbtn
+zzkopp --> cvygyc : onfdmgg
+apxlcb --> lzkmsw : ichu
+lzkmsw --> gnoxir : ixoiy
+gnoxir --> tbqvai : axrft
+tbqvai --> nizytw : uozys
+nizytw --> cvygyc : vrwsilf
+cvygyc --> pockpm : cgkrb
+pockpm --> [*] : tuaan
+@enduml

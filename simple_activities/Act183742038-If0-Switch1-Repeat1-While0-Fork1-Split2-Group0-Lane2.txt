@@ -1,0 +1,62 @@
+@startuml
+|1| njxxbr
+|2| kotsdj
+:wmbochnuhz; <<continuous>>
+:rwgwrrfxwz; <<input>>
+-> bstsej;
+switch (utapfgbadzru?)
+case (bdvuqdh?)
+fork
+:mlmcz;
+fork again
+:rjmmfbxmuy; <<task>>
+-> mlquop;
+fork again
+:kriempewik;
+-> fcjgtv;
+fork again
+:qxnysdjicd;
+fork again
+:xzlsu;
+end merge
+case (kdgweja?)
+:czmhzugrvw; <<load>>
+-> xanqut;
+case (qqrvfkv?)
+:xnprcamckd;
+case (jclmwwk?)
+:futalvxllp; <<task>>
+-> ggdxjh;
+endswitch
+|2|
+split
+:jcahy;
+split again
+:tvhkdviuam;
+-> vfoics;
+split again
+:oauxoxngsp;
+split again
+split
+:pcdum;
+split again
+:jketzjbuqt; <<load>>
+split again
+:tdiwngxmaa;
+split again
+:efocelixku; <<procedure>>
+-> cmypar;
+split again
+:quclc;
+split again
+:ooevqsnhvl;
+-> beuspy;
+end split
+split again
+repeat
+:tzsfu;
+:rxsltochll; <<load>>
+repeat while (drcyjohbfcpu?) is (gpjr)
+end split
+end
+@enduml

@@ -1,0 +1,31 @@
+@startuml
+state bcguui
+state jgugeu <<fork>>
+bcguui --> jgugeu : lxzes
+state zjttja <<join>>
+jgugeu --> gbewvm : xbte
+gbewvm --> fbjyvy : vaetv
+fbjyvy --> zjttja : xngxotc
+jgugeu --> kzjjsr : bqyn
+kzjjsr --> makvus : twmqa
+makvus --> srmcca : bmedn
+srmcca --> zjttja : rjhyrux
+state jnmfvq <<fork>>
+zjttja --> jnmfvq : okxvu
+state rhshrd <<join>>
+jnmfvq --> ydnagx : pebq
+ydnagx --> xtplgc : fksqz
+xtplgc --> ujsdto : gmfde
+ujsdto --> rhshrd : dfonkwd
+jnmfvq --> kqggdg : tjeg
+kqggdg --> rutamy : nagru
+rutamy --> axufhn : iwuzt
+axufhn --> rhshrd : fauksxg
+rhshrd --> zwsptc : gnvud
+zwsptc --> zitspd : rjjmk
+zitspd --> xakuur : hktwu
+xakuur --> hxpfhy : ngwdi
+hxpfhy --> pcggjr : klytg
+pcggjr --> fqilxl : rfyry
+fqilxl --> [*] : fbsmr
+@enduml

@@ -1,0 +1,127 @@
+@startuml
+state "yqrhw" as 0 {
+vemchg --> mcmeiy : rpxfh
+mcmeiy --> qojduu : xkuut
+qojduu --> [*]
+||
+[*] --> whfhci : xswjq
+whfhci --> htdotj : udkan
+htdotj --> cfmcqc : tquot
+htdotj --> cjyrpw : lnnnd
+cjyrpw --> xzgyht : odzhb
+xzgyht --> [*]
+||
+[*] --> epjbra : prmgk
+epjbra --> muejac : tattq
+muejac --> [*]
+}
+state 1 <<fork>>
+state "eqall" as 2
+state 3 <<start>>
+state "opvaf" as 4
+state 5 <<end>>
+state "aadmf" as 6
+state "ayhkc" as 7 {
+[*] --> nrjqio : dqudq
+nrjqio --> wpemzv : cynil
+wpemzv --> [*]
+}
+state "knezs" as 8 : iuzkxcupvr
+state "hungy" as 9 {
+[*] --> bnmcbi : tbjep
+bnmcbi --> [*]
+||
+[*] --> uzvxlp : oqjny
+uzvxlp --> [*]
+}
+state "kjfkr" as 10
+state 11 <<start>>
+state 12 <<fork>>
+state "rwdtu" as 13 : hgngcnnuqn
+state "xmzay" as 14 : vulrvpnsbl
+state 15 <<fork>>
+state "ymyyo" as 16
+state 17 <<choice>>
+state "bpggu" as 18
+state 19 <<fork>>
+state "swnsp" as 20
+state 21 <<choice>>
+state "otmnu" as 22 : wlbshgclkn
+state 23 <<start>>
+state "jdnwb" as 24
+state 25 <<end>>
+state "aewgl" as 26
+0 --> 15 : idtmmm
+0 --> 17 : mchksv
+15 --> 0 : ugkdph
+13 --> 1 : zmszsp
+1 --> 17 : eiicyo
+23 --> 1 : nviloi
+18 --> 1 : nudgpx
+2 --> 21 : edcpwq
+24 --> 2 : thsxzq
+23 --> 2 : umijzx
+3 --> 7 : hoebbo
+4 --> 26 : zzrlxp
+19 --> 4 : fhqcih
+1 --> 5 : njepmg
+6 --> 1 : xzsrjg
+18 --> 6 : cdfepw
+7 --> 24 : uwujat
+16 --> 7 : djnmwp
+8 --> 2 : ksjqej
+8 --> 10 : npyjgp
+21 --> 8 : eizyna
+9 --> 21 : cngomi
+9 --> 21 : oboggx
+8 --> 9 : shyffx
+10 --> 6 : eseaty
+10 --> 10 : rsytvv
+19 --> 10 : umbgly
+11 --> 12 : thetqf
+7 --> 12 : rariof
+12 --> 17 : ugoxbv
+12 --> 5 : ifepot
+12 --> 1 : pkyfyz
+13 --> 5 : cnxdft
+13 --> 16 : dbnsni
+15 --> 13 : daoonq
+14 --> 14 : dmohag
+14 --> 5 : yymkas
+22 --> 14 : kqveeb
+4 --> 14 : zbhxdr
+7 --> 15 : pgnjea
+15 --> 20 : xziyfk
+15 --> 12 : sblsel
+16 --> 21 : aqmcnn
+16 --> 15 : hmoznf
+6 --> 16 : yxvdtj
+7 --> 17 : pmwwwc
+17 --> 18 : kaeoul
+17 --> 16 : ybqsrq
+17 --> 5 : yfbknl
+18 --> 5 : qdfgoz
+18 --> 8 : hjawfz
+17 --> 18 : vwyxil
+9 --> 19 : vgpjjs
+19 --> 21 : zwjacv
+19 --> 14 : evlfvc
+20 --> 21 : nvmvoo
+19 --> 20 : ryltxx
+0 --> 21 : fidcvw
+21 --> 8 : yatosh
+21 --> 13 : aoyfkh
+22 --> 0 : odnhca
+21 --> 22 : vwwhqr
+21 --> 22 : xgmpiz
+23 --> 10 : ypuhmx
+24 --> 22 : adcann
+24 --> 22 : amuagg
+18 --> 24 : yxgbwg
+1 --> 24 : hiivhx
+1 --> 25 : nxstej
+26 --> 10 : emkzvl
+26 --> 1 : wmkpcc
+19 --> 26 : rszsxx
+3 --> 26 : ybpdoz
+@enduml

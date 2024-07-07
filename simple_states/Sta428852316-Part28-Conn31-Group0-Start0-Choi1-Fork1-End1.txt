@@ -1,0 +1,37 @@
+@startuml
+state rfzpyc
+rfzpyc --> fitivh : yvsvt
+fitivh --> faclnx : mtnrp
+faclnx --> ephcuo : elkrq
+ephcuo --> knnzhk : azxvj
+knnzhk --> siqete : kckmb
+state ptpgrn <<fork>>
+siqete --> ptpgrn : ymrfh
+state pwjvpa <<join>>
+ptpgrn --> qsyhrx : bprz
+qsyhrx --> atyzny : ldcpc
+atyzny --> pwjvpa : wyargis
+ptpgrn --> jeeosj : tkig
+jeeosj --> rooxva : vsutj
+rooxva --> pwjvpa : kniiess
+ptpgrn --> cggonw : cdxo
+cggonw --> slnliq : rszhg
+slnliq --> fltpyh : uwuhx
+fltpyh --> hxnbab : nezzu
+hxnbab --> pwjvpa : nvqgcqu
+state ghufyx <<choice>>
+pwjvpa --> ghufyx : hoenl
+ghufyx --> wacqln : xbcb
+wacqln --> glbsoq : rvuwr
+glbsoq --> eagybp : batziep
+ghufyx --> eitmbv : nqxu
+eitmbv --> bipvrt : atwmu
+bipvrt --> geblwb : mzdrd
+geblwb --> eagybp : kwrhmrc
+ghufyx --> sbtlif : gdxh
+sbtlif --> rciahr : upofk
+rciahr --> eagybp : onovjnl
+eagybp --> nahyzl : mpgsi
+nahyzl --> eehxuz : yuycu
+eehxuz --> [*] : bpnmh
+@enduml

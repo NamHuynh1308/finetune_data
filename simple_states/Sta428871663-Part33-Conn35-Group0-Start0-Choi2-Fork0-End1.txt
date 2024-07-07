@@ -1,0 +1,41 @@
+@startuml
+hide empty description
+state xbzhqx
+xbzhqx --> uvjaeq : kphtt
+uvjaeq --> abhlek : bbtnh
+abhlek --> azcwaf : ueyki
+azcwaf --> zbnhxi : ngufa
+zbnhxi --> wyszlu : wlwun
+wyszlu --> ulkrrk : epcld
+ulkrrk --> ssoufc : ozhon
+state kunivw <<choice>>
+ssoufc --> kunivw : wqfac
+kunivw --> zkvmgp : akcg
+zkvmgp --> qbtpag : fkila
+qbtpag --> mhmqmp : xzmvd
+mhmqmp --> wlgkld : zyniu
+wlgkld --> tgwuaf : pijypba
+kunivw --> wljsqx : qlkm
+wljsqx --> zidruk : jbegr
+zidruk --> tgwuaf : ggkiyai
+kunivw --> tlwdrn : iwnt
+tlwdrn --> rvueod : wcrtt
+rvueod --> epgdva : coztu
+epgdva --> tgwuaf : zmsnrdd
+tgwuaf --> zassdr : vnlgk
+zassdr --> uupjgq : odfwp
+state immnyn <<choice>>
+uupjgq --> immnyn : wwtup
+immnyn --> vjubgw : euxd
+vjubgw --> fdfbxe : bkrtu
+fdfbxe --> vitzpc : fvkhu
+vitzpc --> qqgaac : loufvnc
+immnyn --> rtlmxz : lceh
+rtlmxz --> dkxmrp : jukrb
+dkxmrp --> qqgaac : kajqqpn
+qqgaac --> edeoac : xrags
+edeoac --> kejnyw : aqmgi
+kejnyw --> liyhvh : dclsy
+liyhvh --> eyccrm : ssxyt
+eyccrm --> [*] : vdddj
+@enduml

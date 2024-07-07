@@ -1,0 +1,53 @@
+@startuml
+start
+if (rrerityoovic?) then (fbqt)
+(yqvs) elseif (fwqrxcn?) then (wrff)
+fork
+:xhcpa;
+fork again
+:sujxsx;
+while (cbhveqmdmanw?) is (tyur)
+:jojauxkdxh; <<input>>
+-> athsdc;
+:tybzxbrrtd;
+backward:bzsrkp;
+:sttva;
+endwhile (qobm)
+-[hidden]->
+detach
+fork again
+:jecymelafi;
+fork again
+:gdlzv;
+end fork
+(mgmo) elseif (ppdqjoc?) then (zcdt)
+:tygsvduaow;
+(uqvc) elseif (plnqhfe?) then (yyiu)
+:nehgfcuhge; <<save>>
+-> vplaib;
+(vtzc) elseif (qajknsn?) then (azqj)
+:eiwkrbjrfj; <<continuous>>
+(humv) elseif (zarsgee?) then (wbks)
+:vmqiphfsik;
+-> viatpm;
+endif
+group deiyyg
+while (amjozjqmuybs?) is (fzgc)
+backward:ayhxpe;
+:qyfhlfzwti; <<continuous>>
+-> tiacuf;
+if (oiwqubxwvipq?) then (cogt)
+(vabu) elseif (epikgfe?) then (kulj)
+:hnawdccljn; <<input>>
+(bpoy) elseif (lejlssc?) then (ylie)
+:lhpwfnuiqb;
+(jxgp) elseif (odyzqbr?) then (fxoo)
+:omstzzdnmu; <<output>>
+-> wkkyni;
+endif
+endwhile (idqt)
+:klyljfaq;
+:adlxhquelz; <<load>>
+stop
+end group
+@enduml

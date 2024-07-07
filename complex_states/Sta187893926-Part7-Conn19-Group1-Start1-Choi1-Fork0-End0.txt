@@ -1,0 +1,40 @@
+@startuml
+state "hfkut" as 0 : zlwnvfcrsw
+state "jmqvt" as 1
+state 2 <<choice>>
+state "vjqyd" as 3
+state "fbznu" as 4 {
+[*] --> jsnelq : ndiqk
+jsnelq --> efcnow : iaboi
+efcnow --> owguxo : zwcng
+owguxo --> gdktni : tbzgx
+gdktni --> [*]
+||
+[*] --> arpmhy : wrqsp
+arpmhy --> sitbzn : gssbv
+sitbzn --> qnjdkf : wdrld
+qnjdkf --> pbntpd : einvb
+pbntpd --> [*]
+}
+state 5 <<start>>
+state "vlsyy" as 6 : lwpyneihnm
+0 --> 3 : mhajng
+5 --> 0 : ydqjtl
+4 --> 0 : jrqare
+1 --> 4 : pcifca
+0 --> 1 : vijofu
+1 --> 1 : xyaqpv
+6 --> 2 : curwdk
+2 --> 0 : ogmzue
+2 --> 3 : tqetla
+2 --> 3 : inegfa
+3 --> 3 : vqumof
+5 --> 3 : muvcyh
+3 --> 3 : pqacgj
+4 --> 1 : arhbbc
+3 --> 4 : autuxv
+5 --> 2 : tgeubi
+6 --> 1 : nuondt
+6 --> 4 : weoyha
+5 --> 6 : vqdztr
+@enduml

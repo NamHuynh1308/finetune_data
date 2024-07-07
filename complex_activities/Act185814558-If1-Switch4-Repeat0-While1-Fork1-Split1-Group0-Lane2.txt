@@ -1,0 +1,104 @@
+@startuml
+|1| ptumit
+|2| kptddl
+|1|
+start
+|2|
+while (rjpvymobnnjn?) is (lefb)
+if (ppcacqleklbw?) then (dhpc)
+:kowfg;
+:gdksedgynw; <<save>>
+:qmilihodkv;
+-> kcyfww;
+:wbeqc;
+else (jnus)
+:ovyebkfpsx;
+:kfabacqrzk; <<load>>
+-> yosmpd;
+:oqvaj;
+endif
+fork
+:qdzbr;
+fork again
+:vwcwq;
+fork again
+:iyyapjtrur; <<output>>
+-> qwylpp;
+fork again
+:vqvhgifyfw; <<save>>
+end merge
+:zxxcbltmjf; <<input>>
+endwhile (zvlz)
+:biuzvxbz;
+:iaebiogvlv; <<load>>
+-> qmwbru;
+switch (flmobdhbplum?)
+case (gceubjd?)
+:gqpclr;
+kill
+case (mufpaht?)
+:tmgevgxnmb;
+-> nqcxdb;
+case (qiynnkq?)
+:fqmocewxci; <<load>>
+-> lyziru;
+case (hfywaqg?)
+:zzrokmhqkl;
+-> bslxgw;
+case (kpmoprx?)
+switch (xsegsuncqabo?)
+case (jpeunde?)
+:npfsn;
+case (ypphywl?)
+:xtcgnmbavo; <<load>>
+case (alpeufz?)
+:qxnav;
+endswitch
+endswitch
+:bktbsmlokh;
+-> khhgvf;
+|1|
+:rufzivxerv; <<input>>
+|2|
+:rhwzishilk;
+|1|
+switch (vmyjkvijxoko?)
+case (xjppyzz?)
+split
+:bdyut;
+split again
+:ocooto;
+kill
+split again
+:wwowgbjsyw;
+-> rrdznz;
+split again
+:ubsht;
+split again
+:ntlvc;
+split again
+:rblxwz;
+kill
+end split
+case (dnnfrah?)
+switch (gsirtamlqzse?)
+case (llppkxp?)
+:fptqhsftet; <<continuous>>
+case (anqbqrs?)
+:zizljnegyk; <<procedure>>
+-> pdchlx;
+case (nnjkxmj?)
+:qqhaauenpt;
+-> mcexiq;
+endswitch
+case (jnayvsn?)
+:vfhqrpjbvp;
+-> qpyzyi;
+endswitch
+|2|
+:gsqtgtapvs;
+:ovbnsauigq;
+-> cbvhnv;
+:cuocvugkbn; <<load>>
+stop
+@enduml

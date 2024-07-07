@@ -1,0 +1,27 @@
+@startuml
+state 0 <<start>>
+state "bohkx" as 1 : tlqitjlihr
+state 2 <<choice>>
+state 3 <<fork>>
+state "rozfx" as 4 : vhxxrtpttk
+state 5 <<end>>
+state 6 <<choice>>
+0 --> 6 : xwldjv
+1 --> 6 : ytrjha
+3 --> 1 : ifnoag
+6 --> 2 : tyvukm
+2 --> 3 : ymccul
+1 --> 3 : kaeogm
+3 --> 2 : arvoas
+4 --> 3 : nnrrud
+4 --> 3 : mvqmiv
+1 --> 3 : vnoufm
+4 --> 5 : zqoksz
+0 --> 4 : zghbbq
+0 --> 4 : xqrxti
+0 --> 5 : vgekqx
+1 --> 6 : yizwae
+6 --> 3 : ogvinx
+6 --> 2 : uhwdfn
+6 --> 4 : lxcqrd
+@enduml

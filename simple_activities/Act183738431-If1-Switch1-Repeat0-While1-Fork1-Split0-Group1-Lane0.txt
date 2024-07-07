@@ -1,0 +1,39 @@
+@startuml
+:rzncnkjvgv;
+group kytgof
+:ngoawkjcpp; <<task>>
+fork
+:lhxmf;
+fork again
+:skovoxftsb; <<task>>
+fork again
+switch (xtodjyxidcmr?)
+case (dvrhdkd?)
+:rqokys;
+kill
+case (scqbsva?)
+:ufhogpfeuy;
+endswitch
+fork again
+if (gncudmakmmnv?) then (aszk)
+:qghybhovxk; <<save>>
+:jpioxpgkyz;
+-> tntgwq;
+:vryfoqeacw; <<output>>
+-> uaqqoi;
+:fpqfpnwwsk;
+kill
+else (jope)
+:ijrlg;
+while (mhyfcdsyatpi?) is (dbmg)
+:popckqmkfs;
+-> agfret;
+backward:hqfrgl;
+endwhile (rjtt)
+-[hidden]->
+detach
+endif
+end merge
+end group
+end
+@enduml

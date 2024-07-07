@@ -1,0 +1,43 @@
+@startuml
+|1| nfuqzr
+|2| llsimz
+|1|
+start
+switch (pklkeqcqbztu?)
+case (fbtvgmm?)
+:lijaleyaaq; <<continuous>>
+-> eahlhs;
+case (xcgrmoe?)
+:prtoaljrzr; <<input>>
+-> wasfzw;
+endswitch
+|2|
+:nzvzqfywkv; <<save>>
+:oersqcshza; <<task>>
+-> szggkb;
+|1|
+if (avxvobtnqcws?) then (rxgx)
+:ekwlqitadz; <<load>>
+:qteuctnedc;
+:nedcwfggbn; <<continuous>>
+else (saoq)
+:towwjrnkib; <<procedure>>
+switch (smgqtcpfnnfe?)
+case (urpbrzz?)
+:kffpjgvvsa; <<load>>
+-> wlomyz;
+case (wlvzcoo?)
+:ggtgmxqlvf; <<continuous>>
+endswitch
+while (dsfscftnjcrm?) is (neyp)
+backward:mqwwqh;
+backward:fuvzqd;
+backward:akdgrp;
+:hflhxaljhl; <<continuous>>
+endwhile (flzo)
+:ktusevfp;
+:mxofpkonax; <<output>>
+endif
+:zxydoovcsp; <<task>>
+end
+@enduml

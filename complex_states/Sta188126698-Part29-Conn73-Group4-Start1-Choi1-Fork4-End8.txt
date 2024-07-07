@@ -1,0 +1,139 @@
+@startuml
+hide empty description
+state "oaknw" as 0 : dgcyhsurpg
+state 1 <<end>>
+state "pbwes" as 2 {
+xgbiqc --> xuyfqu : qechs
+xuyfqu --> nhrvpu : jripx
+nhrvpu --> jllupj : fhkho
+jllupj --> [*]
+||
+[*] --> tkqbom : vvule
+tkqbom --> jdehes : fwwph
+jdehes --> ohmqzw : qmwkn
+ohmqzw --> uxeyoq : nphba
+ohmqzw --> xtiwxm : qhqqe
+xtiwxm --> bkpmze : chcie
+bkpmze --> vcinag : gpaav
+}
+state 3 <<start>>
+state 4 <<fork>>
+state "giang" as 5 : crqmidexzd
+state 6 <<end>>
+state 7 <<choice>>
+state "rddir" as 8 {
+dfqwcl --> [*]
+||
+[*] --> bdxitu : jpevo
+bdxitu --> prmxxl : uluuu
+prmxxl --> srbgae : lxcwg
+srbgae --> kyazit : dfrud
+}
+state 9 <<fork>>
+state "wmqic" as 10
+state "mqdsr" as 11 : spxpwmbzyq
+state 12 <<end>>
+state "nhwqn" as 13 {
+[*] --> aecnwc : ystpg
+}
+state "fzjda" as 14
+state "gqink" as 15
+state 16 <<end>>
+state "sjpxb" as 17 : ksmueyzqhb
+state 18 <<end>>
+state 19 <<fork>>
+state "nymmj" as 20
+state 21 <<fork>>
+state "ltdpb" as 22
+state 23 <<end>>
+state "ueyqz" as 24
+state 25 <<end>>
+state "uxupr" as 26 {
+[*] --> igxwmo : eoyxu
+igxwmo --> [*]
+||
+[*] --> yfwofj : jkqol
+yfwofj --> pbykua : hcloh
+pbykua --> ebglac : btuur
+||
+[*] --> leudnp : cmfmq
+leudnp --> vxzhhc : djiln
+vxzhhc --> ajmzvk : xkurl
+ajmzvk --> [*]
+}
+state "yotiy" as 27 : zixtiuslzc
+state 28 <<end>>
+0 --> 23 : bvxzeg
+0 --> 28 : xdigpj
+8 --> 0 : tylcuy
+17 --> 0 : xvueph
+10 --> 1 : nqvuxr
+2 --> 23 : thlofs
+5 --> 2 : gpngjf
+3 --> 26 : tfafza
+20 --> 4 : kvbgor
+4 --> 24 : bxwbfz
+5 --> 4 : rfigzw
+0 --> 4 : eshlmr
+5 --> 9 : fbnpsc
+8 --> 5 : fcmgiw
+19 --> 5 : bftkrn
+3 --> 6 : aczsov
+4 --> 7 : mxxmjs
+7 --> 11 : azxlvc
+8 --> 5 : wgzdiu
+8 --> 9 : nsbbsh
+13 --> 8 : icgkgz
+13 --> 9 : ppljxv
+9 --> 7 : tctlmi
+20 --> 9 : etaopg
+22 --> 9 : mbmiuy
+11 --> 9 : scgemo
+10 --> 6 : rjhtsf
+24 --> 10 : apbway
+27 --> 10 : cnqxfv
+11 --> 23 : ihneqj
+11 --> 28 : uhipzm
+8 --> 11 : haybvy
+0 --> 12 : hawdux
+13 --> 16 : noacrq
+3 --> 13 : dgukif
+26 --> 13 : zbsdav
+14 --> 2 : vapfor
+14 --> 14 : arhkzq
+9 --> 14 : abqzdf
+15 --> 25 : cwgjol
+4 --> 15 : knwjoq
+22 --> 15 : bcklft
+24 --> 16 : mhzsqr
+17 --> 6 : nhvwvb
+17 --> 19 : seszkd
+13 --> 17 : zlnwbd
+14 --> 18 : csdbgy
+10 --> 19 : tnbyba
+19 --> 12 : bluhng
+22 --> 19 : eormfp
+19 --> 19 : tulaqt
+20 --> 7 : uxuwgd
+20 --> 2 : imbjhs
+13 --> 20 : rabkmg
+21 --> 21 : udmiyb
+21 --> 22 : fnaxpg
+24 --> 21 : udgasi
+11 --> 21 : xyfrqr
+17 --> 21 : sboijc
+22 --> 17 : oqfrqh
+22 --> 6 : ywpjev
+7 --> 22 : tzlrrb
+15 --> 23 : wnzhqx
+24 --> 6 : rjfdze
+13 --> 24 : jajlou
+15 --> 25 : ulpyzd
+26 --> 6 : lozygv
+21 --> 26 : nxqdhl
+27 --> 20 : bdihor
+27 --> 1 : plzzoy
+24 --> 27 : rvhyoa
+21 --> 27 : ddlxzr
+10 --> 28 : xqjjuk
+@enduml

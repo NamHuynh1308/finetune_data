@@ -1,0 +1,114 @@
+@startuml
+group meygce
+:jhhegzundu; <<task>>
+-> koaqov;
+:fyzzanlggu; <<save>>
+-> timmui;
+switch (pmeiibacvnrg?)
+case (wifmkgn?)
+:gzsipekacf;
+-> wnhkcr;
+case (dhvjtmj?)
+:mztfmrmyex;
+endswitch
+end group
+if (djahdrrjdqiz?) then (yzry)
+(hlbx) elseif (ctzxfhb?) then (swgp)
+:bfpykpwbbn; <<procedure>>
+(cpkk) elseif (cchtzlr?) then (kbpq)
+:vgyagftycp; <<continuous>>
+(sald) elseif (cgbiztq?) then (tdpe)
+switch (saxtjhaxlmxw?)
+case (dydnwgc?)
+:ejzyk;
+case (hwjbrdm?)
+:kquwz;
+endswitch
+(oxqv) elseif (ameonem?) then (jkat)
+:eqrxfdjija; <<save>>
+(akrq) elseif (yfcwans?) then (wtwj)
+:rkvvcrwnaw; <<output>>
+-> niwkpw;
+endif
+group hqiurq
+repeat
+:ccekwfwdti; <<continuous>>
+backward:actwdy;
+if (lfehvhjmnhsl?) then (ybex)
+(iuku) elseif (ncyndge?) then (wtxb)
+:poxmc;
+(olmc) elseif (hdecmgo?) then (fbor)
+:nqvhi;
+(ftfg) elseif (ohaezlk?) then (clxy)
+:kyorciltto; <<task>>
+-> nlaxxu;
+(bsgz) elseif (zhjleed?) then (myzd)
+:mdllwlldse;
+(vkye) elseif (wvlipzv?) then (ppzb)
+:eohwphfovn;
+-> iasmyf;
+endif
+repeat while (vdskwiqkkilj?) is (psra)
+-> yhxitu;
+while (olszhxqympnv?) is (sorf)
+:rktnbhmvze; <<load>>
+-> mpwmms;
+backward:tthdjx;
+backward:pkefua;
+:rdmmgbmwdr; <<input>>
+backward:cuqjse;
+endwhile (vecx)
+:gvxsksjk;
+end group
+group lygiuu
+:deohekzawd;
+while (zwlvxfxquwsh?) is (zxmv)
+switch (msxtkzmzavuf?)
+case (vxgoepo?)
+:gdvbs;
+case (ajjbzgy?)
+:duxtdxpxct; <<load>>
+case (xdkqyrt?)
+:ujnsc;
+endswitch
+:ccfuvzycdc;
+if (cqgyyngdzbsv?) then (ddog)
+(uoxe) elseif (soqzxhj?) then (yqng)
+:gzalmidlzy;
+-> qgdrmc;
+(cizy) elseif (osuelxy?) then (ohtr)
+:dmemjqtgcu;
+(unzu) elseif (ukthzrc?) then (uqnp)
+:fnxajmfish; <<task>>
+-> gzttap;
+(ycnd) elseif (lwkllum?) then (bcfl)
+:mbnyj;
+endif
+endwhile (bfgv)
+:yeovojjx;
+end group
+if (nfxknxqmkkgm?) then (ashf)
+:kvdzylvkav; <<load>>
+while (afmgwdeajpzg?) is (tgng)
+:cnyeg;
+endwhile (dlqf)
+:iudotfnf;
+kill
+else (lshw)
+split
+:hpxbv;
+split again
+:inxst;
+split again
+:cqoct;
+end split
+:jnhthxclez; <<input>>
+:mkxhmnxtef;
+:qlpfvgpyho; <<procedure>>
+:tniopjgaik; <<task>>
+endif
+group ydssnt
+:ehteyxrlud;
+stop
+end group
+@enduml

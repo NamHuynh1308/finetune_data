@@ -1,0 +1,7 @@
+@startuml
+hide empty description
+state rysuki
+[*] --> rysuki : cojud
+rysuki --> jvlxxi : upkws
+jvlxxi --> [*] : vehbf
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+state hhumin
+[*] --> hhumin : dhata
+hhumin --> sxsdue : vurtc
+sxsdue --> qyahdr : fblwu
+qyahdr --> asimub : wkvrv
+asimub --> qpjovf : vetoh
+qpjovf --> aemuah : horan
+state ivrbyr <<choice>>
+aemuah --> ivrbyr : wfito
+ivrbyr --> lxzgjw : lbng
+lxzgjw --> qfxcgc : zshhd
+qfxcgc --> xflcug : llomtna
+ivrbyr --> borytg : uqrl
+borytg --> zhdrim : vbkon
+zhdrim --> xflcug : ecnlrlt
+ivrbyr --> xratqr : appc
+xratqr --> fxfhrm : umapn
+fxfhrm --> xflcug : cqvhwuu
+xflcug --> aquoak : gxqqk
+aquoak --> ulsxzs : ttwhi
+ulsxzs --> xgycfv : rlncq
+xgycfv --> telrfj : emgfl
+telrfj --> favprq : mwixs
+favprq --> [*] : suemw
+@enduml

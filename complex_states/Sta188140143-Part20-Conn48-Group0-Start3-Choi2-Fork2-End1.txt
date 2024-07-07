@@ -1,0 +1,70 @@
+@startuml
+state 0 <<fork>>
+state "gvrtt" as 1
+state "lrwyj" as 2 : oqnmpfgzvr
+state "lbfcb" as 3 : qodsfrryqp
+state "ehyxa" as 4
+state 5 <<choice>>
+state "ppoax" as 6 : enitcjsfou
+state 7 <<end>>
+state 8 <<start>>
+state "eigbs" as 9
+state 10 <<start>>
+state "lqyhy" as 11
+state 12 <<start>>
+state 13 <<choice>>
+state "ttlsk" as 14 : nxesxkbxro
+state "kvpfl" as 15
+state 16 <<fork>>
+state "uttsx" as 17 : woqefyiaqh
+state "pzxue" as 18 : flzfjbsrkw
+state "owhoi" as 19 : lsmsblmqln
+10 --> 0 : clwtau
+0 --> 5 : kzivud
+5 --> 0 : mxoosx
+17 --> 0 : tcruda
+1 --> 13 : fbtrxz
+1 --> 16 : burwbm
+19 --> 1 : qrruck
+3 --> 1 : qjsmng
+2 --> 16 : fvjqlc
+12 --> 2 : vnnvph
+3 --> 6 : fbxjct
+3 --> 2 : bejnyw
+13 --> 3 : xihdly
+4 --> 7 : djhdie
+9 --> 4 : cucigu
+15 --> 5 : oofnpp
+5 --> 17 : mbnpun
+6 --> 19 : acwhdb
+13 --> 6 : dgooqi
+0 --> 7 : yhwnxo
+8 --> 5 : sqfubm
+9 --> 16 : snfuiu
+9 --> 18 : vgxwck
+15 --> 9 : cilyif
+10 --> 13 : asutgt
+11 --> 16 : hlupqa
+6 --> 11 : cqknhs
+12 --> 15 : aqwltc
+12 --> 13 : euksiu
+13 --> 13 : onmadb
+14 --> 0 : tsnneh
+6 --> 14 : xlmcai
+15 --> 15 : hcionn
+3 --> 15 : khovsq
+1 --> 16 : gewlff
+16 --> 16 : qfwzvk
+2 --> 16 : rmntys
+17 --> 9 : wpbpsi
+17 --> 1 : vtjgfi
+10 --> 17 : vmiovi
+18 --> 4 : tzfmee
+18 --> 14 : pykckl
+1 --> 18 : cogwad
+11 --> 18 : diyicx
+19 --> 17 : knjsok
+19 --> 16 : ocafux
+15 --> 19 : naghhg
+18 --> 19 : yimlto
+@enduml

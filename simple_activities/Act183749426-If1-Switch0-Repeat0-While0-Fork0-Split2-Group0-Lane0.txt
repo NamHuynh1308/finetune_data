@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:appmv;
+split again
+-[hidden]->
+if (unwobofyerjo?) then (qbmg)
+:rnijq;
+:tfcerzptmn; <<task>>
+-> kzcyyv;
+:bpliuizbzb; <<output>>
+:objnb;
+else (xysz)
+:sygtd;
+:wrcpriagvc; <<load>>
+:bmzjz;
+endif
+split again
+-[hidden]->
+:yktfue;
+kill
+end split
+split
+:rozdt;
+split again
+:bblltxdojm; <<save>>
+split again
+:pjarehbahi; <<task>>
+split again
+:fwulaohdkz; <<task>>
+split again
+:leccfgzihv; <<load>>
+-> rooarf;
+end split
+end
+@enduml

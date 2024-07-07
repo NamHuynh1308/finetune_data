@@ -1,0 +1,121 @@
+@startuml
+|1| vhphta
+|2| mnwfwo
+|1|
+start
+|2|
+if (pymarggosxle?) then (wtkm)
+(ymjf) elseif (fvqffuw?) then (nefm)
+:zncvyktnbd; <<load>>
+(yazw) elseif (nhhoyzc?) then (qsty)
+:oddexr;
+while (deklpgdvyzhq?) is (jqgg)
+backward:touitl;
+split
+:xuzby;
+split again
+:ducnomwoxn;
+split again
+:dtjjcaffca;
+end split
+backward:xenqrg;
+:owyfnceqgo; <<task>>
+endwhile (vuck)
+-[hidden]->
+detach
+(eges) elseif (ukynnay?) then (lyuq)
+fork
+:cxynz;
+fork again
+:qgwlozpciv; <<output>>
+-> nshfyz;
+fork again
+:gxrywdamyb; <<task>>
+fork again
+:exbmfsteil; <<load>>
+end fork
+(pyky) elseif (rgtienz?) then (wglw)
+:zpdqni;
+kill
+endif
+|1|
+:csyuivvhsz; <<save>>
+-> fyphcz;
+|2|
+switch (qtfrzcuozbio?)
+case (djkkked?)
+:bcoluqtvbg; <<output>>
+case (sqffasa?)
+if (qxyzapsyaown?) then (ijlj)
+:hhsjj;
+else (gpoq)
+:lqopi;
+:oxvfa;
+:nqcgxdnxol;
+endif
+case (kitbynp?)
+:dxsbuqgmjv;
+endswitch
+:hawggopxlw;
+-> rxlhoy;
+|1|
+:fswenmokzb; <<task>>
+fork
+:owjfb;
+fork again
+:bokrqefdnw;
+-> sxutjn;
+fork again
+:dxfdfdsrzs; <<task>>
+end merge
+:qtivmnvpsy;
+fork
+:lmvdn;
+fork again
+:oltkzsbiov;
+fork again
+:tlhtvxyimw;
+-> yenlxe;
+end fork
+|2|
+repeat
+backward:wxmfrv;
+:klenhvfpri; <<procedure>>
+-> chaxfu;
+:zfwaca;
+if (qaoghua) then (pzbb)
+:hrfsoo;
+break
+endif
+->nhea;
+:gzxrne;
+backward:onnwof;
+repeat while (iuqmifazfpdh?) is (wjct)
+-> veatdc;
+|1|
+:bxzqncohjz; <<continuous>>
+fork
+:iissb;
+fork again
+while (ojannegxknop?) is (xeek)
+backward:czdxae;
+backward:vbgxfn;
+backward:duiera;
+:hxjkxplmpq;
+:skyif;
+endwhile (crvn)
+:lshhhsuy;
+fork again
+:frrjqokprt; <<input>>
+fork again
+while (exwlkmhbahsd?) is (yhjv)
+backward:xqsnqa;
+backward:lizvow;
+backward:zirvao;
+:wdsebplpfx; <<save>>
+endwhile (yofy)
+:bosuzwxs;
+end merge
+:oiviycfyfj;
+end
+@enduml

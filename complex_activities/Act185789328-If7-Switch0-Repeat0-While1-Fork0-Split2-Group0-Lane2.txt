@@ -1,0 +1,117 @@
+@startuml
+|1| pqttgf
+|2| lsvuxi
+|1|
+start
+:ubqjdlweai;
+|2|
+if (tevzvpmpbtrn?) then (owkd)
+if (udcksspyycmf?) then (htwq)
+(piuy) elseif (rofmugk?) then (hgus)
+:txvmdbexgu;
+(rpvf) elseif (rneyqbp?) then (jlxn)
+:elnoknbprn; <<task>>
+-> afkynh;
+(wqky) elseif (vaurlqq?) then (vdbj)
+:jrvlv;
+(gjoy) elseif (ejkqcvu?) then (arpp)
+:wcbbb;
+(ggdu) elseif (qabfvkh?) then (bkup)
+:ggsib;
+endif
+:jmgfrayvdi; <<continuous>>
+-> efrglh;
+:mjbocsjrhx;
+if (zjrlbuquefhu?) then (npau)
+(cajf) elseif (lugrfyj?) then (fqag)
+:ihrndjkupc; <<continuous>>
+-> sahwdo;
+(wzik) elseif (hhvdowk?) then (kepg)
+:dhflm;
+(eryg) elseif (zcffluv?) then (giri)
+:ihmcotbsmg; <<task>>
+(ozai) elseif (rdsctkf?) then (njdx)
+:qirpo;
+(uioj) elseif (xxltyyb?) then (pzoi)
+:phhfiabmae;
+endif
+else (xntr)
+:rrxuvspeex;
+if (ondsulatadwm?) then (vfyk)
+(irlr) elseif (mupzhpq?) then (ffxb)
+:dibpwp;
+while (jfpivyoglvoq?) is (vwkz)
+backward:ftowud;
+endwhile (uxfm)
+-[hidden]->
+detach
+(uncv) elseif (baoezgj?) then (wpac)
+:haeyhmzjxo; <<save>>
+-> byqtqy;
+(doyg) elseif (larvyen?) then (ofmx)
+:xowknaxndf; <<task>>
+(logq) elseif (wvfsxrj?) then (ypwo)
+:ndusxhioxg; <<continuous>>
+(ywyg) elseif (rqtyvvy?) then (xefx)
+:lonspavggj;
+endif
+:bqocqxhmtc; <<input>>
+endif
+|1|
+if (mymlkhigwbtf?) then (imil)
+(erkg) elseif (xogjimc?) then (pbnf)
+:vwmhsdjmiy; <<output>>
+-> glnybb;
+(toov) elseif (utdtalh?) then (fbip)
+:uhkhchrikw; <<output>>
+endif
+:oyrfmbwhrp; <<task>>
+|2|
+:ffzmnlasll;
+|1|
+:tejylngbca; <<input>>
+|2|
+if (osjdhkvflewq?) then (wpok)
+:ffcmpqcrem; <<load>>
+:hpxdurdknq; <<procedure>>
+-> oxyxpk;
+else (doih)
+:ecqnmpwmso;
+:azuydvmlga;
+endif
+:mvrofjydst; <<load>>
+split
+:ilrpl;
+split again
+split
+:fjysc;
+split again
+:thmlqioxob; <<save>>
+-> nkevhq;
+split again
+:fyeju;
+split again
+:dbmcobfrdb; <<load>>
+-> uzuyzk;
+end split
+split again
+:pustfgwtat;
+split again
+if (oeeeoavtizbq?) then (ijwg)
+(uamx) elseif (hgpesdu?) then (cehj)
+:qadqlqcnmo; <<continuous>>
+(isma) elseif (cvzqiry?) then (xhho)
+:mkuxg;
+(dsfx) elseif (mitauhz?) then (pdwp)
+:jcexadpfqy;
+-> kiyyzq;
+endif
+end split
+|1|
+:htnulwkqcz;
+|2|
+:ydxwzulmaf;
+-> oqozgg;
+:faybgkmuds; <<input>>
+stop
+@enduml

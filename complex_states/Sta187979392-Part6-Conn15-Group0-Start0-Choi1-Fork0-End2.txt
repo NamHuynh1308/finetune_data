@@ -1,0 +1,23 @@
+@startuml
+state 0 <<choice>>
+state "mxcik" as 1
+state "yyvjk" as 2
+state 3 <<end>>
+state 4 <<end>>
+state "ckpyi" as 5
+5 --> 0 : vcliuu
+0 --> 0 : nzycbi
+1 --> 5 : iuowoc
+1 --> 1 : dnydhv
+2 --> 1 : wezcau
+0 --> 1 : ujnpow
+2 --> 0 : vgphdd
+2 --> 4 : pwuoss
+0 --> 2 : elmncw
+2 --> 2 : nlqasm
+0 --> 3 : eljjcq
+5 --> 4 : wfzkpc
+5 --> 4 : mgndiy
+5 --> 5 : zgzpeb
+0 --> 5 : kltspe
+@enduml

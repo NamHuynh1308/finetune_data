@@ -1,0 +1,73 @@
+@startuml
+split
+-[hidden]->
+:oosvd;
+split again
+-[hidden]->
+if (nuiglpdsofkn?) then (ztpi)
+:unltxtahqy; <<load>>
+-> loegmo;
+:msujfiwmxz; <<load>>
+-> eznxaw;
+else (axfu)
+:vmknrgndrx; <<output>>
+-> mzytev;
+endif
+split again
+-[hidden]->
+:mtjbsexcpt; <<save>>
+split again
+-[hidden]->
+split
+:njokb;
+split again
+:yrmgiclvol; <<load>>
+split again
+:igtze;
+split again
+:viwfkeldba;
+split again
+:fsholffsrw; <<task>>
+split again
+:nczuelfqla;
+end split
+split again
+-[hidden]->
+repeat
+:ehbrv;
+repeat while (ewjmdcrbqpey?) is (obtw)
+-> redacb;
+split again
+-[hidden]->
+:wotfurugmy;
+end split
+if (bvcxlggqstwk?) then (gnpo)
+:okrxhklbuh; <<save>>
+-> nwcshy;
+switch (ofxyzsgeisjl?)
+case (antyvcu?)
+:ljikiztynv; <<continuous>>
+-> jmsaij;
+case (hceehmj?)
+:slpeqotekb; <<procedure>>
+endswitch
+fork
+:dejhe;
+fork again
+:pzqao;
+fork again
+:klukv;
+end fork
+else (bapp)
+switch (gpvtvzmwqhpo?)
+case (jilvbdl?)
+:qyjfy;
+case (yvoaujf?)
+:gcoae;
+endswitch
+endif
+group zsxyik
+:infddaimta;
+stop
+end group
+@enduml

@@ -1,0 +1,135 @@
+@startuml
+|1| anslgt
+|2| unlyrm
+|1|
+start
+|2|
+repeat
+backward:eoxxzn;
+:ntgtpoljfw; <<continuous>>
+-> mnztxy;
+:kunkvwzxkf; <<procedure>>
+-> dklclp;
+backward:wvebqt;
+:nwbgfcyrqa; <<continuous>>
+-> yjiixe;
+repeat while (fousygxtaibw?) is (wvns)
+:wnlikccibt; <<task>>
+|1|
+if (xpinncyugugp?) then (qdom)
+switch (loheezhmlskp?)
+case (rtsmdkh?)
+:qhxsr;
+case (sklogbz?)
+:lptbwhvtki;
+case (pnexzlf?)
+:ccubzp;
+kill
+case (eorhkgm?)
+:oziujudsbx;
+-> fiogna;
+endswitch
+:unygzwdgyp; <<save>>
+:pyhwrjxwqp; <<output>>
+-> uxtlso;
+:epkmbabacb; <<continuous>>
+kill
+else (mcmp)
+:kcseqafxxs; <<task>>
+-> vsxznx;
+:xjiqqrgoib;
+-> bzjjer;
+:diflawcpwo; <<procedure>>
+-> ljcqkj;
+split
+:nlkrx;
+split again
+:segvkeikiw; <<continuous>>
+split again
+:fpmivqbvqj; <<task>>
+-> esimtc;
+split again
+:fhxdvlheuy;
+-> ntpttj;
+split again
+:hlezx;
+split again
+:hdtlepivph; <<input>>
+end split
+while (emjadaesgoyv?) is (ndwj)
+if (svbftzylazkv?) then (diyk)
+:mzvnbqjvio; <<input>>
+:qbnperoxcz;
+kill
+else (hntd)
+:kknvtsllsj; <<task>>
+endif
+switch (bbkouhrnjmtp?)
+case (ptlrpgd?)
+:mpeej;
+case (ohfqbef?)
+:siyui;
+case (tvklfzw?)
+:xxcbqbkems; <<load>>
+case (tispnie?)
+:cyaab;
+endswitch
+:rsiryxgjsh; <<output>>
+-> nnjbss;
+endwhile (ilpl)
+-[hidden]->
+detach
+endif
+switch (wwhquftpguhx?)
+case (zfudwzp?)
+:monzuwwjay; <<task>>
+-> nkqcyk;
+case (gupgyfp?)
+while (zqearhstezgb?) is (pptw)
+:aczfamaiej; <<input>>
+:uetez;
+:fdqywrtewd; <<procedure>>
+:zpuen;
+:ekwhuddgve; <<continuous>>
+endwhile (jelb)
+:garhdcxd;
+endswitch
+|2|
+:uumyngocgy; <<load>>
+|1|
+:ncnncmavqq; <<save>>
+|2|
+split
+:takla;
+split again
+split
+:tyzpu;
+split again
+:dxzud;
+split again
+:biukiltdng; <<load>>
+-> mtjhqu;
+split again
+:xflah;
+split again
+:dmqsdsxylq; <<save>>
+end split
+split again
+:mrkpqrvxzk; <<task>>
+end split
+if (vswuqveafglq?) then (jaik)
+(srrz) elseif (nauyndy?) then (nzxc)
+:fbviczjdys; <<output>>
+(oqtf) elseif (mpjfjel?) then (cjpe)
+:mnhbbvwscn; <<continuous>>
+-> ypvsdn;
+(hfwe) elseif (icvqfkm?) then (bisj)
+:sgwgfyjgfx;
+(yxhj) elseif (pyvxgxs?) then (jpzk)
+:vqoaxalyfo;
+-> lfwurw;
+endif
+|1|
+:gkhgavonub;
+-> bjwyjm;
+@enduml

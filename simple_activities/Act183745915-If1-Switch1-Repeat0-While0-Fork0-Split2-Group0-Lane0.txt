@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:ycgzj;
+split again
+-[hidden]->
+:hjhvgmunze; <<continuous>>
+split again
+-[hidden]->
+:xwkpvwmbol; <<load>>
+split again
+-[hidden]->
+:xanfvezrxa; <<save>>
+end split
+:rvbowxonbp;
+-> zsmdem;
+split
+:wjhyy;
+split again
+:lqwxxgpghf; <<procedure>>
+split again
+if (roljsjrutusg?) then (iild)
+:duirj;
+:facjgatstz; <<input>>
+else (wfde)
+:vbuxxkgeov; <<procedure>>
+:cbigc;
+:zgpmcbskgw;
+:teicpvbdya; <<output>>
+:wlybbwhbat; <<load>>
+-> fbrzyh;
+endif
+split again
+switch (tiflwmvnojnx?)
+case (xlozkex?)
+:qcffskciai;
+case (gzueixo?)
+:klozvlaizp;
+-> vhfbeo;
+case (rpngxxf?)
+:znwxo;
+case (karsxwe?)
+:hcgha;
+case (defifbw?)
+:wxzocyqfaw; <<continuous>>
+endswitch
+split again
+:ktuzdimrcu;
+split again
+:nvdwbnykpy; <<procedure>>
+-> cwzsyl;
+end split
+@enduml

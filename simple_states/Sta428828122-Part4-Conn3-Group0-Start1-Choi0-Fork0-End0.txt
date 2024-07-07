@@ -1,0 +1,6 @@
+@startuml
+state fnevcb
+[*] --> fnevcb : sgles
+fnevcb --> onmxtm : mlsow
+onmxtm --> frurgb : mgyth
+@enduml

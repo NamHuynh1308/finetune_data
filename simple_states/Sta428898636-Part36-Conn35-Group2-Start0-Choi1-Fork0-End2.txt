@@ -1,0 +1,43 @@
+@startuml
+state kijqbo
+state eorxin <<choice>>
+kijqbo --> eorxin : fhysl
+eorxin --> chmjuz : onlz
+chmjuz --> csnzfs : ssbaj
+csnzfs --> hsqkql : lewpy
+hsqkql --> rhwlcy : vhibpxk
+eorxin --> sjscic : mqxd
+sjscic --> tdnixk : okkfl
+tdnixk --> rhwlcy : ndjuzko
+eorxin --> fneegz : emhq
+fneegz --> iynahl : znhgy
+iynahl --> hlqtry : rgiog
+hlqtry --> ugegzp : imusg
+ugegzp --> rhwlcy : meqtpbk
+rhwlcy --> qctjru : xjpnk
+qctjru --> oxfceb : byvew
+oxfceb --> ojslqv : tjrzx
+ojslqv --> fvrddw : jtdjp
+fvrddw --> hogqyo : afdsn
+hogqyo --> radtnz : ymgjn
+radtnz --> rceool : kgvyz
+rceool --> dmyobo : fpsur
+dmyobo --> btoxhz : afbsu
+btoxhz --> rnhpix : wdnfj
+rnhpix --> apzijc : gvfvd
+state apzijc {
+ajnugy --> egnynb : guvij
+egnynb --> oepzim : jfqky
+oepzim --> mihllg : egzwh
+}
+apzijc --> rdlmdn : smbpy
+rdlmdn --> gkpivl : vyynj
+gkpivl --> wirbpo : mpknr
+state wirbpo {
+tmgrhc --> bxtiue : emtns
+bxtiue --> nkbdyd : vksou
+nkbdyd --> [*] : aqyoo
+}
+wirbpo --> jlfyla : xxzhz
+jlfyla --> [*] : sszoe
+@enduml

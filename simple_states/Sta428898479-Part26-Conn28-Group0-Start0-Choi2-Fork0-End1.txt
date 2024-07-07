@@ -1,0 +1,34 @@
+@startuml
+hide empty description
+state fdknon
+fdknon --> lublep : pworv
+lublep --> iyilae : avbla
+iyilae --> mcpzmr : xdata
+mcpzmr --> egigxc : obqtp
+egigxc --> wajpla : sghpd
+state hmltih <<choice>>
+wajpla --> hmltih : huobc
+hmltih --> bpbjpz : mlau
+bpbjpz --> oeyhzy : odhfw
+oeyhzy --> qvsusp : mfzro
+qvsusp --> ipohai : mhdwlfp
+hmltih --> mqxufh : vjuq
+mqxufh --> hwivds : frock
+hwivds --> oegxyj : xkufn
+oegxyj --> ipohai : mimfnah
+state axxhdk <<choice>>
+ipohai --> axxhdk : oryxw
+axxhdk --> qqmzaz : zizj
+qqmzaz --> rmdngd : folkq
+rmdngd --> uixcrn : lwtsynt
+axxhdk --> vleqdw : aska
+vleqdw --> htnens : erhkl
+htnens --> ywzhlv : ljaqb
+ywzhlv --> uixcrn : wvnbxws
+axxhdk --> jlgnum : samf
+jlgnum --> rzjxlc : pkaor
+rzjxlc --> aftycl : pqjna
+aftycl --> uixcrn : zteslag
+uixcrn --> xddvdl : kveuv
+xddvdl --> [*] : hanya
+@enduml

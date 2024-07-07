@@ -1,0 +1,177 @@
+@startuml
+participant abmckc as 0
+participant trmibx as 1
+participant yqeogd as 2
+participant ebxkvu as 3
+box "rzhdc"
+participant gnqshn as 4
+end box
+== lzgyaw ==
+autonumber 4 1
+opt iizbexoohtgm
+0 ->> 1: itcwoqhita
+alt ihvxooztzyxp
+0 --//o 2: xwduofoflh
+par tjnrvcprbzdy
+...ksgfmgox...
+4 -> 1: jwxbkmsndn
+autonumber stop
+4 -->x 2++ : ezaooivqnf
+else lhezicvbujts
+...glivopiw...
+3 ->o 3: uudjdoolxv
+2 --//o 4: iimvgcsjkd
+return qwrzmvenlh
+else zzqoysowzszw
+0 -> 1!! : fblvrqebub
+else geaklkzdwxzg
+1 -> 4: uitgvdbmff
+autonumber resume
+2 ->] : dbttahfgwb
+else ycplkoouwmsh
+1 ->x 1++ : lbbsdtbdnb
+0 ->x 3: uncmnussqo
+return zgjwvwwsbn
+1 -> 2!! : qnktekfihu
+else wstgmmvrokfc
+critical xubbqasfoeaq
+1 -> 2++ : ehnqdkwwlc
+alt olwzlfvtvmox
+2 -// 4: gyfzghiiek
+3 --//o 3: amkwxullpi
+autonumber stop
+else wjdohjzehnbq
+2 -> 4: cqvuvbrikj
+return ddwkzyoazg
+autonumber resume
+end
+critical mslubmtxonhy
+...lquogqcl...
+1 -> 4: lifhltgwpr
+...rpqbitkq...
+1 -> 2!! : onwegxwseg
+else fjyesssrdxul
+...sachvzxp...
+ [-> 0: kprwipkepf
+end
+3 -> 1: adnmhmevrs
+else uuipmwarwqam
+...xxhitfkp...
+4 -> 3: vjvuziorhj
+end
+alt nvgthpqorcxs
+ [-> 1: ddffxqgyhs
+...jtnztvli...
+3 <-> 3: dbmhzycvop
+4 ->x 0: qilgzndbcm
+autonumber stop
+alt lgpdrdkfskug
+3 -> 4: qtmzhxjikr
+ [<- 0: vjvwczmqge
+else xthnfpeimtpr
+create participant trmywnnnfc as 5
+1 -> 5 : trmywnnnfc
+autonumber resume
+2 ->] : vvfsamzego
+else ldwvesfftkyx
+create participant fdalmwrwuy as 6
+1 -> 6 : fdalmwrwuy
+6 -\\ 5: gfuydjlfsa
+6 <-> 4: ipuglxivuo
+opt dawafqxioxxl
+...llqylbzk...
+1 -> 3: gvjavtlqid
+...qurxrttv...
+1 --> 3: vwgzsgjxop
+end
+critical hwamkmkqgfdp
+4 ->o 1: xhddkuwkbm
+6 -> 3!! : kllyslhuzo
+end
+loop ttutrbcmosdg
+4 -->x 5: mrjnacoefa
+4 ->o 3: etkeltmrmf
+else pqejmvvfbtyk
+critical ymhcsjogpqjg
+ [<- 0: hdpebpbriv
+autonumber stop
+ [<- 0: fxxibryfit
+0 -\\ 2: cgwfbziloh
+else taxtxszsnzzm
+loop ltqcjychokzi
+1 -\\ 1: iiunfgtbgl
+par ocmxndgrysuu
+5 -> 3: sfjtihxgvh
+loop zxesltafgwbt
+0 -\\ 5: xitewcjxtp
+alt cccurfhiuyvr
+1 -> 5: pbalhmczvj
+autonumber resume
+loop gmzwsbhunedk
+4 -> 2: csyckjjrww
+opt arkrvbqdzrzf
+...gaeswele...
+4 -> 1++ : gtvbsqsdmy
+0 -> 2: cthsogowmc
+...rtimonvt...
+3 <-> 1: anbstznxin
+return btqgwsixge
+ [<- 2: ngfumklqmw
+end
+4 ->> 2++ : msxvfujijf
+autonumber stop
+par febcoevvovme
+...hkrjsvel...
+2 -> 3++ : erjdcuhaho
+autonumber resume
+1 -> 4: mlyfqryidu
+return cettutowks
+else ilqkrceeckvc
+...mzkwxhcg...
+5 -// 1: geaxfufvik
+return zgwibztudo
+autonumber stop
+...gviaxhpo...
+1 --//o 4: ahmwriyfbp
+autonumber resume
+...ajnavemc...
+3 ->> 3: gctapfqyjw
+ [-> 0: skrzfjumfv
+else kjjjuzloobmx
+...zjywvdlc...
+0 ->o 4++ : trynyzkpnu
+loop helwhcluvura
+0 -\\ 0: evshxhwgzv
+return onydihsgoo
+opt dxhbbxwfdsnk
+0 -\\ 2: apvskuhbnm
+autonumber stop
+...ncyniqre...
+5 ->> 6++ : ssgthktebl
+else ntegwoemgnie
+4 --> 0++ : udmflbroej
+...nfoemmkk...
+4 -> 0: qxungdvjwd
+autonumber resume
+6 -\\ 4: fhzemqjmoe
+end
+0 ->] : twvtmwpnwx
+return aojholuucb
+autonumber stop
+else avournrisyvy
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+return mxccsbmcdo
+@enduml

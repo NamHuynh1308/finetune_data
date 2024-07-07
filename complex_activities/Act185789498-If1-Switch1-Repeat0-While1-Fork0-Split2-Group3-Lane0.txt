@@ -1,0 +1,65 @@
+@startuml
+split
+-[hidden]->
+:bhnws;
+split again
+-[hidden]->
+:svquamjemm; <<output>>
+split again
+-[hidden]->
+:mzfvihikff; <<task>>
+-> ffgnpz;
+split again
+-[hidden]->
+:mxxbsmbqpy;
+split again
+-[hidden]->
+switch (qucdxzckiezo?)
+case (whrdtys?)
+:qmxiqnllin; <<load>>
+case (qqoguxz?)
+:gvuvvcobtg; <<save>>
+-> ejnmyu;
+endswitch
+end split
+group jaiaaq
+:nqosyhiaqs;
+:vpeirzzxxv;
+-> wgizht;
+:vnbxiuifjp; <<save>>
+-> chtrjy;
+end group
+while (yqunhmkturlq?) is (jvxs)
+backward:ewuipo;
+:bmkdfgsmrw;
+-> jxnomq;
+endwhile (gkjh)
+:vugfozoi;
+group vvddjo
+:dniftybrbf; <<task>>
+group mpwawh
+if (tmdkeqbpcdzo?) then (cxwy)
+(vmim) elseif (ovhhfnu?) then (gxuq)
+:itwinsisrp; <<continuous>>
+-> bcnlck;
+(lnvs) elseif (ddbssdy?) then (zsgf)
+:wfqckaryhn; <<load>>
+(fnuw) elseif (tczuwxd?) then (beft)
+:yrygujonka;
+-> jrsjhz;
+(jbus) elseif (cyjoskj?) then (ohta)
+split
+:baxxi;
+split again
+:wzgvf;
+split again
+:mvrsd;
+end split
+(snjp) elseif (tubxtea?) then (sjbd)
+:bdhbfhydwt; <<input>>
+-> dawzzk;
+endif
+stop
+end group
+end group
+@enduml

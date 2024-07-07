@@ -1,0 +1,33 @@
+@startuml
+state udgczc
+udgczc --> mvwzca : mduig
+mvwzca --> ukawdi : wmqox
+ukawdi --> rgzwtf : qgznh
+rgzwtf --> kxpybs : rhjbd
+kxpybs --> swilgl : hosgh
+state fldcla <<fork>>
+swilgl --> fldcla : ixeqj
+state ppvoim <<join>>
+fldcla --> zlxlnc : lpwg
+zlxlnc --> himgdx : mvday
+himgdx --> ppvoim : jyzijdy
+fldcla --> cvncra : siau
+cvncra --> frsntj : fhzws
+frsntj --> ppvoim : geyirdu
+ppvoim --> djauus : nlhlu
+state dcryci <<fork>>
+djauus --> dcryci : huaag
+state qfyduy <<join>>
+dcryci --> ftwqmj : qamd
+ftwqmj --> xoruet : ugzbi
+xoruet --> qfyduy : wepywgf
+dcryci --> vuovpz : kams
+vuovpz --> tjzeud : ssjod
+tjzeud --> qfyduy : sfsqtux
+dcryci --> otltxx : qvpp
+otltxx --> mqtxvt : hdalm
+mqtxvt --> qfyduy : xunwiwq
+qfyduy --> ynvacv : lohaw
+ynvacv --> lbylxs : dyone
+lbylxs --> [*] : rilaz
+@enduml

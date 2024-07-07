@@ -1,0 +1,60 @@
+@startuml
+hide empty description
+state "mlgye" as 0 {
+[*] --> cyunhb : jvwvu
+cyunhb --> mbsixj : znhvy
+mbsixj --> eifjxm : jqmhe
+eifjxm --> wcyeyt : xfwma
+wcyeyt --> [*]
+||
+[*] --> nvdhwz : nowzs
+nvdhwz --> rrssfa : fquct
+rrssfa --> nkqlfk : vlahb
+rrssfa --> [*]
+}
+state "sgzwh" as 1 : ucegpcmvyx
+state 2 <<start>>
+state "yvqfy" as 3 : htnvcybxyw
+state 4 <<start>>
+state 5 <<fork>>
+state "jetrp" as 6 {
+[*] --> kbjwcv : djwfm
+kbjwcv --> swopjb : glnbw
+swopjb --> caxjye : tbths
+caxjye --> zavuml : xpgos
+zavuml --> mueazq : ujhfa
+mueazq --> [*]
+||
+[*] --> unxngu : fmbxu
+unxngu --> dofxdc : fsyjs
+}
+state 7 <<fork>>
+state "srflc" as 8 : zezrkgciuq
+0 --> 5 : bchbty
+0 --> 0 : ygrtbp
+2 --> 0 : kykkzr
+6 --> 0 : bafzzl
+1 --> 0 : ihmfsv
+1 --> 1 : ctovqj
+3 --> 1 : fpipgr
+4 --> 1 : avpzds
+2 --> 7 : nhjdmw
+3 --> 1 : olmhta
+1 --> 3 : uriqgi
+7 --> 3 : irbtyq
+4 --> 7 : pyxlnj
+6 --> 5 : olckyz
+5 --> 6 : dixhpp
+7 --> 5 : hzzpmi
+2 --> 5 : zuvrpy
+7 --> 5 : bmuurx
+6 --> 8 : spghix
+6 --> 7 : njhldd
+3 --> 6 : lpunbp
+0 --> 6 : inowfs
+3 --> 7 : jnrcwy
+7 --> 6 : aukxvr
+8 --> 7 : wvzxqv
+8 --> 0 : lmefjr
+0 --> 8 : tprvoh
+@enduml

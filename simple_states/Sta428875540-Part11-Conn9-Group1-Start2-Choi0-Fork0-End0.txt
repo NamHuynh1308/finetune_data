@@ -1,0 +1,15 @@
+@startuml
+hide empty description
+state deezei
+[*] --> deezei : partr
+deezei --> seqvhn : qtcup
+seqvhn --> pgwgjm : dilts
+state pgwgjm {
+[*] --> mympcg : nqfof
+mympcg --> xmvavo : pdbvs
+}
+pgwgjm --> thifgb : nndrb
+thifgb --> kqkuud : tdiwt
+kqkuud --> lxtdly : hbejd
+lxtdly --> zjdlph : olpqe
+@enduml

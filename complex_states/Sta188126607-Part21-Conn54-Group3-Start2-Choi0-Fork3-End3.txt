@@ -1,0 +1,106 @@
+@startuml
+state "xrmzn" as 0 {
+[*] --> dwulrs : nkdmh
+dwulrs --> tfmtot : orvqy
+tfmtot --> ztijsi : himne
+ztijsi --> [*]
+||
+[*] --> qvqrhd : iigmb
+qvqrhd --> acpkvd : vpfki
+acpkvd --> kfjlzf : wawpb
+kfjlzf --> kbevjy : dnksh
+kfjlzf --> wqfjof : snjon
+wqfjof --> gluiem : futrz
+||
+[*] --> ldvlsj : xfmah
+ldvlsj --> vvpznv : rldsx
+vvpznv --> dlxtio : zpuuo
+dlxtio --> nblbfv : xjksz
+nblbfv --> anvpfz : hjqgw
+nblbfv --> [*]
+}
+state 1 <<fork>>
+state "cutal" as 2 : jtofdcpiyk
+state 3 <<end>>
+state 4 <<fork>>
+state "cqyfb" as 5 : xiezzhcgot
+state 6 <<start>>
+state "uqtqj" as 7 {
+bpzflv --> qvkihs : eovub
+}
+state 8 <<start>>
+state "wabec" as 9 : dnjbjjcoqu
+state "dsvud" as 10
+state "rvobt" as 11 {
+tyftxd --> ciekei : fvtdk
+ciekei --> ncibxf : hmmgf
+ncibxf --> [*]
+||
+[*] --> glcjob : rskvs
+glcjob --> staosq : pksup
+staosq --> nshroe : jrgme
+}
+state 12 <<fork>>
+state "bxpqc" as 13
+state "ysgfc" as 14
+state 15 <<end>>
+state "hkjvw" as 16 : pdmfgvdnfj
+state "ltuqb" as 17
+state "kuvcr" as 18 : qhpqnqlflk
+state "dzcok" as 19
+state 20 <<end>>
+0 --> 19 : saxssv
+10 --> 0 : tmdvii
+5 --> 0 : cclakx
+1 --> 1 : vgvuqu
+1 --> 0 : fsjrou
+11 --> 1 : pgvhmd
+17 --> 1 : wkxdth
+2 --> 2 : jywekt
+16 --> 2 : fsdkez
+17 --> 3 : uzvfwo
+5 --> 4 : onblvy
+4 --> 16 : kyqrmn
+14 --> 4 : deadif
+5 --> 1 : ktpsbm
+5 --> 19 : xedvub
+7 --> 5 : kyxreb
+6 --> 2 : jcliki
+7 --> 3 : lfmpju
+1 --> 7 : ocphxr
+19 --> 7 : fjxctb
+8 --> 1 : rfosth
+9 --> 16 : qsjvcc
+9 --> 20 : glgezl
+0 --> 9 : hjrwjq
+10 --> 4 : vxxunt
+17 --> 10 : ddfonb
+0 --> 10 : ctltvj
+11 --> 2 : zotsew
+19 --> 11 : miytda
+9 --> 11 : jczcea
+1 --> 12 : wyvjjh
+12 --> 7 : zcgppj
+12 --> 16 : epyhaq
+12 --> 5 : xnnetr
+13 --> 19 : fhlhwo
+13 --> 12 : zydybu
+6 --> 13 : pvijkf
+1 --> 13 : dkqaqv
+14 --> 20 : rpuuuq
+14 --> 16 : tgjxjr
+8 --> 14 : dypcgo
+13 --> 14 : cqmogi
+17 --> 15 : aduhmr
+16 --> 12 : wwjokz
+10 --> 16 : gkmydo
+17 --> 14 : ghwlkz
+11 --> 17 : aevmvf
+7 --> 17 : aeezfm
+18 --> 4 : ttxeis
+19 --> 18 : jejdjn
+8 --> 18 : iojlut
+19 --> 13 : bvhqiy
+5 --> 19 : tdhvol
+1 --> 20 : anbezp
+@enduml

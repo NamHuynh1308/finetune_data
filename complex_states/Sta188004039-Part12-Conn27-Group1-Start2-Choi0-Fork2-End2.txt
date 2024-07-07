@@ -1,0 +1,49 @@
+@startuml
+state "djblr" as 0 {
+[*] --> mwhhdb : bjuuf
+mwhhdb --> xhrggb : ilppf
+xhrggb --> [*]
+||
+[*] --> gmpcft : umoqt
+gmpcft --> epjsth : swqmo
+epjsth --> [*]
+}
+state 1 <<start>>
+state 2 <<fork>>
+state 3 <<start>>
+state "miegm" as 4 : fexpashmgy
+state 5 <<fork>>
+state "qruup" as 6
+state 7 <<end>>
+state "lyyug" as 8 : tknbpcearc
+state "tpsgu" as 9 : nmdghclene
+state 10 <<end>>
+state "wutni" as 11
+0 --> 10 : dbwmpo
+2 --> 0 : tmgzks
+3 --> 0 : qgpphp
+1 --> 8 : dtieib
+4 --> 2 : wrzqst
+2 --> 5 : zugaqt
+9 --> 2 : cvfywj
+1 --> 2 : jgjngb
+3 --> 5 : aufmpn
+4 --> 8 : rskifi
+3 --> 4 : ijnbjh
+4 --> 4 : qcgzod
+8 --> 5 : ylcrgy
+5 --> 2 : vxmvhn
+8 --> 5 : bxlyws
+6 --> 10 : noblef
+2 --> 6 : mmrnxf
+0 --> 7 : mfeaqa
+8 --> 0 : ayzvhk
+6 --> 8 : xzvlay
+9 --> 9 : hcobxb
+11 --> 9 : yugjdi
+8 --> 9 : tzzmms
+0 --> 10 : bmvfja
+11 --> 2 : hiqllh
+4 --> 11 : mddjue
+1 --> 11 : pwlxog
+@enduml

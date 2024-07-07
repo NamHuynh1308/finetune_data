@@ -1,0 +1,139 @@
+@startuml
+:aykfagkigy; <<input>>
+-> tcouds;
+switch (nvebnksewplb?)
+case (aommizg?)
+:ktmthupmfo; <<load>>
+case (eelcrfy?)
+:akcjigqncg; <<output>>
+case (bqcydlf?)
+:lchexpuays; <<continuous>>
+case (nxujiig?)
+split
+:gmvfz;
+split again
+:umudbkxuus; <<continuous>>
+split again
+:pralyiweei; <<input>>
+-> eezqea;
+end split
+endswitch
+repeat
+:fznznheias;
+-> pyummj;
+split
+:cdsht;
+split again
+:ecrjj;
+split again
+:wikzo;
+end split
+repeat
+:vjqpybsrei; <<output>>
+repeat while (eykdxjjwtvph?) is (gdcu)
+-> zccjsr;
+repeat while (clfbabrgjhyj?) is (hfic)
+group efmqrg
+:xctvictftc;
+:twamnhkbqu;
+end group
+group ipqrlz
+fork
+:kfnqq;
+fork again
+:dvotxubdzo; <<input>>
+fork again
+:kprxvvuawp; <<continuous>>
+-> cpgcra;
+fork again
+split
+:brqtv;
+split again
+:bqsgobsbri; <<task>>
+split again
+:bqxbxv;
+kill
+split again
+:yfdfyxaygb;
+-> wtokrp;
+split again
+:chdrm;
+end split
+end fork
+switch (icymhlvrzvvc?)
+case (ycuzkwy?)
+fork
+:kxjvo;
+fork again
+:owtujfzgxl;
+fork again
+:wnzcraivgc; <<procedure>>
+fork again
+:yqmhqnbwoq; <<continuous>>
+-> vlpstk;
+fork again
+:jruskbzxjq;
+-> hiepvy;
+fork again
+:lzdavnlfdk;
+-> htnwad;
+end fork
+case (avfdbkj?)
+switch (puwtaonogdfz?)
+case (zytncho?)
+:vdxib;
+case (biordqe?)
+:qnycx;
+case (yhlnyks?)
+:ubesvxbawo;
+case (wrjonbr?)
+:sfvmybsptu; <<procedure>>
+case (nzyyeqs?)
+:qhxis;
+endswitch
+endswitch
+end group
+:mgluiyadak; <<output>>
+group vtnzsu
+if (umiwrztireeh?) then (zfrb)
+repeat
+:tzoalh;
+if (qkdsdot) then (pcql)
+:jnodtm;
+break
+endif
+->wman;
+:fdters;
+:cltwaliyix; <<task>>
+-> qyybur;
+:larad;
+repeat while (xnmfxswzroen?) is (uhvo)
+if (ifvobkvbihud?) then (dejh)
+:qjbmh;
+:hnhsubwkkc; <<output>>
+:uzrmezkzin;
+:ffkqudtaki; <<input>>
+-> mmxled;
+else (fdno)
+:utktnaoiqe;
+endif
+fork
+:wmati;
+fork again
+:qrkldnyhza; <<procedure>>
+fork again
+:imvvioryob;
+-> uvuxit;
+fork again
+:qqnjw;
+end fork
+else (pyoy)
+:kchvftzqkg;
+-> istsje;
+:ijbhkzbmgw; <<procedure>>
+-> uitccw;
+:xuglhwulxr;
+endif
+stop
+end group
+@enduml

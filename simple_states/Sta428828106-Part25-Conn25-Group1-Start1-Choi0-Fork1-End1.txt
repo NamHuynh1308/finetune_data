@@ -1,0 +1,33 @@
+@startuml
+hide empty description
+state kpwber
+[*] --> kpwber : cabnw
+state cbiwuu <<fork>>
+kpwber --> cbiwuu : kudip
+state lcassv <<join>>
+cbiwuu --> zrbmpd : dydg
+zrbmpd --> bnrmuj : cqaku
+bnrmuj --> skthtf : eafbe
+skthtf --> wpuxmg : htovf
+wpuxmg --> lcassv : etszcmy
+cbiwuu --> kdwtqg : jogi
+kdwtqg --> xcfqsf : cfpec
+xcfqsf --> mbcjia : qfwbv
+mbcjia --> mufsli : ikngg
+mufsli --> lcassv : nrczwxc
+cbiwuu --> migial : pwat
+migial --> ihcqoy : jheym
+ihcqoy --> lcassv : dsdkuqy
+lcassv --> ccfkef : zbwfb
+ccfkef --> vkidla : okhkt
+vkidla --> lamprw : cakeg
+state lamprw {
+arsuvv --> cmaban : foxfs
+cmaban --> ezvfed : jxsvl
+ezvfed --> egvegm : fodpq
+}
+lamprw --> dotgtq : wriel
+dotgtq --> plhisc : pdiwn
+plhisc --> oplmqw : wpcbe
+oplmqw --> [*] : ctvjm
+@enduml

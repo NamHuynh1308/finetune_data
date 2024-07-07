@@ -1,0 +1,9 @@
+@startuml
+state nitfpx
+[*] --> nitfpx : csize
+nitfpx --> cpedir : jvdpu
+cpedir --> esihfv : dsfty
+esihfv --> ybipsg : xtxgq
+ybipsg --> zstfue : hpgio
+zstfue --> zmvggs : jsoeh
+@enduml

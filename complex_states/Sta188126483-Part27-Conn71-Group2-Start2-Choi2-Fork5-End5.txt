@@ -1,0 +1,118 @@
+@startuml
+state "adlib" as 0 {
+vrykaw --> ucokpd : bromb
+ucokpd --> nclvnu : pmbhv
+nclvnu --> mjwoac : ssodk
+mjwoac --> ednvjt : egcyt
+ednvjt --> [*]
+}
+state "xexwt" as 1
+state 2 <<fork>>
+state "cdgay" as 3 : vckbtufuoj
+state 4 <<fork>>
+state "pbrgg" as 5
+state 6 <<choice>>
+state "jxdzr" as 7
+state 8 <<fork>>
+state "sujto" as 9 : mlxvltlybj
+state 10 <<fork>>
+state "kjqqp" as 11 : mzfncnplcu
+state 12 <<fork>>
+state "qabro" as 13
+state 14 <<start>>
+state 15 <<end>>
+state 16 <<start>>
+state "xzgur" as 17 : dniwmshwow
+state 18 <<end>>
+state 19 <<choice>>
+state "wselq" as 20 : mysztkgikq
+state 21 <<end>>
+state 22 <<end>>
+state "roare" as 23
+state 24 <<end>>
+state "srnia" as 25 {
+rdpcth --> rpusfd : hmsnp
+rpusfd --> zxntax : yiggk
+zxntax --> llllog : hfdyh
+llllog --> [*]
+||
+[*] --> pseier : ompar
+pseier --> ltvsvd : mqzgx
+ltvsvd --> xksszj : jmkka
+xksszj --> ljwzrr : dgyin
+ljwzrr --> ovorez : xiltv
+ovorez --> [*]
+}
+state "tfrqp" as 26
+0 --> 5 : fzxrtz
+16 --> 0 : xaljib
+6 --> 0 : oakgrj
+1 --> 20 : jvwecw
+1 --> 13 : bzdrnx
+3 --> 1 : yfvwlw
+20 --> 1 : zthxig
+0 --> 2 : aetfrc
+2 --> 15 : icyygn
+2 --> 5 : afxhvh
+2 --> 2 : bcxqec
+2 --> 9 : rwnxhk
+3 --> 9 : vprmyr
+7 --> 3 : tgmnep
+9 --> 3 : jmiyjr
+11 --> 4 : vudskk
+4 --> 21 : bofnio
+4 --> 18 : wvcqfy
+5 --> 17 : pjhmvz
+5 --> 4 : iyznxc
+1 --> 5 : bswulj
+2 --> 6 : kkotrz
+6 --> 24 : qrcdnx
+7 --> 3 : xwqzbx
+17 --> 7 : ourabk
+20 --> 8 : feudae
+8 --> 1 : mmhiij
+10 --> 8 : ggzvuk
+9 --> 23 : vizmar
+2 --> 9 : wncdoj
+19 --> 10 : kmdjwi
+10 --> 1 : ctvbvb
+16 --> 10 : flfmhy
+6 --> 10 : dcqygd
+11 --> 10 : xsquio
+11 --> 9 : spwjue
+23 --> 11 : lyppib
+7 --> 12 : yzmtue
+12 --> 17 : sotjar
+23 --> 12 : cdojnp
+16 --> 12 : rcmrcd
+13 --> 24 : qhjnry
+13 --> 7 : eglnej
+6 --> 13 : etbpvp
+14 --> 25 : oelkgi
+11 --> 15 : spiefj
+16 --> 20 : zzfbov
+17 --> 18 : ksqeyy
+16 --> 17 : upqhdv
+2 --> 17 : cbhfzs
+23 --> 18 : vvhdbj
+2 --> 19 : awyfse
+19 --> 17 : osvbnw
+19 --> 17 : kxlqrz
+20 --> 3 : hoywnz
+2 --> 20 : cbscis
+8 --> 20 : yshivv
+16 --> 21 : etwajp
+23 --> 22 : qovjps
+23 --> 5 : hqmpil
+23 --> 7 : elwlsc
+3 --> 23 : vhxcrp
+11 --> 23 : eldrtx
+16 --> 24 : julmgi
+25 --> 26 : nywspp
+2 --> 25 : gibsmn
+10 --> 25 : tpuvea
+26 --> 20 : kltbye
+26 --> 24 : fnlgvd
+23 --> 26 : eahrgp
+5 --> 26 : civmtr
+@enduml

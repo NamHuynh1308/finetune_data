@@ -1,0 +1,5 @@
+@startuml
+state mogrpk
+[*] --> mogrpk : gailm
+mogrpk --> rfwdpp : gfpmw
+@enduml

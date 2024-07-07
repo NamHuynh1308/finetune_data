@@ -1,0 +1,29 @@
+@startuml
+start
+if (xytfkmjntbao?) then (ixoe)
+(czih) elseif (hoovfwx?) then (dvoa)
+:mxhckvftlk;
+(ugbg) elseif (pprctxr?) then (piyk)
+repeat
+:msmsg;
+repeat while (eopregyncqwy?) is (gygw)
+(gdzq) elseif (zanywxe?) then (ytym)
+:ussnuxifoo; <<load>>
+(erjc) elseif (bznwqwd?) then (sate)
+split
+:uyenq;
+split again
+:czgwx;
+split again
+:aerdnhjpbc; <<load>>
+split again
+:wfljy;
+split again
+:bwlnjtnmtn; <<task>>
+end split
+(filz) elseif (gptbxmc?) then (bdab)
+:poaaaznuqj; <<load>>
+-> mbzasl;
+endif
+stop
+@enduml

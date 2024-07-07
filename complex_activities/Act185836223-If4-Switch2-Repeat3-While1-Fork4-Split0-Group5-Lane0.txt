@@ -1,0 +1,139 @@
+@startuml
+group gptnqj
+:yyblcsumsk;
+group hxkjxh
+repeat
+fork
+:yylnq;
+fork again
+:cgsvvv;
+kill
+fork again
+:smhxcegpoh; <<procedure>>
+end fork
+backward:gkzcty;
+backward:tzxusn;
+:kabihkfhsm; <<save>>
+repeat while (ufscpykybolm?) is (lvyq)
+:pkxofnkxyb;
+end group
+group bgrbzi
+:euviffyjrp;
+:rrgskfxmjh;
+-> phelqf;
+end group
+group lvmawa
+fork
+:nyxkc;
+fork again
+:fpbsermxhl;
+-> rhbpsd;
+fork again
+if (iqxapmdkrinu?) then (litd)
+:hrzfrqyrmi;
+:ycvzigfxwc; <<input>>
+-> hewlvj;
+:weykyydtny; <<continuous>>
+-> cutlzl;
+:barsemthch;
+-> epfmvo;
+else (jhyv)
+:rrneflgiqu; <<load>>
+:qterpagein; <<load>>
+endif
+fork again
+:bjzlyqydfr; <<continuous>>
+-> vuounc;
+end fork
+group cankif
+fork
+:hztpp;
+fork again
+if (dvzpcdiyhqml?) then (esmo)
+:ktjjf;
+:isjdezkkdx;
+-> fxozdi;
+:hnoaautued;
+:gqdia;
+:nficbajpyj;
+-> lhlune;
+else (syfl)
+:ebocy;
+:mmoctranfh; <<task>>
+-> wejwrj;
+:yheufunygb;
+:odajxvgslx; <<save>>
+:vrwlfzozoh; <<output>>
+while (wnudqcaoahpr?) is (askh)
+:djlrzlxzdg; <<output>>
+-> imufmp;
+endwhile (swmw)
+-[hidden]->
+detach
+endif
+fork again
+:gswnwjxnjg; <<output>>
+-> zdimvp;
+fork again
+if (bofqowjmfrhu?) then (iksj)
+(wdke) elseif (duekkww?) then (srtj)
+:fwrgu;
+(hmjt) elseif (ofbuocr?) then (cmqf)
+:jkpht;
+(zven) elseif (lopclaa?) then (yvbb)
+:spjgxirlch;
+-> mwdugi;
+(oyej) elseif (pkqrdsj?) then (hnho)
+:vgvtzbiyxp; <<procedure>>
+-> ywxsrz;
+endif
+fork again
+switch (qwsmyykfvvsx?)
+case (qjnswma?)
+:uhkco;
+case (ejsdhmk?)
+:tciah;
+endswitch
+fork again
+:vkxvudouwo;
+-> wyqlpy;
+end merge
+repeat
+if (vimhjxjbxmue?) then (wauv)
+:nhdimzdflp; <<input>>
+-> rfkcgr;
+else (khhw)
+:rqptuycgnx; <<task>>
+-> jpvirp;
+:cjkqc;
+endif
+backward:isiptn;
+repeat while (aigluaobfsby?) is (hecd)
+-> vwsexw;
+:cfawdrsmkd;
+-> gckjta;
+repeat
+:oncvojzfpf;
+fork
+:dykfi;
+fork again
+:jbucrjtpmi; <<output>>
+fork again
+:wrjkueetzk; <<input>>
+end fork
+:wjwpgbyqkm;
+:fjmhwpivyt; <<continuous>>
+-> tlvlvw;
+switch (ggtziycfmexb?)
+case (gghigfl?)
+:gwrer;
+case (oovxlso?)
+:cftokyzbzw;
+endswitch
+repeat while (xevczrykfkke?) is (ktaq)
+-> gmnhsq;
+stop
+end group
+end group
+end group
+@enduml

@@ -1,0 +1,64 @@
+@startuml
+|1| uhkrsg
+|2| ikbeqi
+|1|
+start
+|2|
+:ejxiojnxsg; <<input>>
+|1|
+split
+:wlcam;
+split again
+if (vkojreipdfvr?) then (yjzp)
+(scec) elseif (hudqohb?) then (oojw)
+:dnktorjneq;
+(lmah) elseif (ntepgns?) then (blkx)
+:dbkxbiitgy;
+-> cobdle;
+endif
+split again
+switch (opsblvfzntvm?)
+case (eetjmqo?)
+:cfrug;
+case (kopyddz?)
+:kecdqbaenw; <<task>>
+-> upnhyz;
+case (tfceqva?)
+:ebjpwffudj; <<task>>
+-> lfevmk;
+case (ksjsmae?)
+:hvgnbrvoei;
+-> nvdoya;
+endswitch
+split again
+:cclpvo;
+kill
+split again
+:yaqsqesytf; <<task>>
+-> vozzxw;
+split again
+:luqfcfoslv; <<output>>
+end split
+split
+:bpapt;
+split again
+repeat
+:okgnz;
+repeat while (chajyosrhsvf?) is (lrkf)
+-> cxxbot;
+split again
+:ppxljybcrr;
+-> mcksov;
+split again
+:sfbjumfpsz; <<output>>
+split again
+:ppdmst;
+while (ewtamipofsxd?) is (zokq)
+backward:pjlfmd;
+backward:emszln;
+:uzluhvcefx; <<load>>
+endwhile (vasp)
+-[hidden]->
+detach
+end split
+@enduml

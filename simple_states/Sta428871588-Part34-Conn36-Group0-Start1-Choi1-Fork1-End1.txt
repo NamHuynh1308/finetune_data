@@ -1,0 +1,43 @@
+@startuml
+hide empty description
+state afpfdo
+[*] --> afpfdo : yyvuf
+state cdcreo <<choice>>
+afpfdo --> cdcreo : vvjds
+cdcreo --> uygwzz : zkvo
+uygwzz --> runwby : pqhcf
+runwby --> zxqlte : psqmpbn
+cdcreo --> bezhaq : emyy
+bezhaq --> ecuevh : xtqvr
+ecuevh --> pjbbzm : zgigg
+pjbbzm --> zxqlte : ottjyts
+zxqlte --> xmpzzj : riyxj
+xmpzzj --> uxkhnu : faffm
+uxkhnu --> bucxar : mjgap
+bucxar --> tmwffy : lbsqh
+tmwffy --> twbqik : rkjva
+twbqik --> dgjgro : cruqe
+dgjgro --> qssadi : uodxm
+qssadi --> ltbyau : qagen
+state pbzxdu <<fork>>
+ltbyau --> pbzxdu : qbnnp
+state eyonwx <<join>>
+pbzxdu --> kgowyo : ifzf
+kgowyo --> oxiire : eukvk
+oxiire --> eyonwx : aizcbve
+pbzxdu --> qdvoql : hlke
+qdvoql --> otnmcf : luxxv
+otnmcf --> qgitbc : tfghe
+qgitbc --> eyonwx : xsjmmoi
+pbzxdu --> txdoou : aexk
+txdoou --> spxrrh : yklmz
+spxrrh --> aiureu : ltbwu
+aiureu --> ludjzu : fdeul
+ludjzu --> eyonwx : smdywnz
+eyonwx --> rplorq : rbeae
+rplorq --> ppuigw : kvgyy
+ppuigw --> ztrnmk : hmupk
+ztrnmk --> rdnwys : xbipi
+rdnwys --> uieipy : ngehk
+uieipy --> [*] : pgmxp
+@enduml

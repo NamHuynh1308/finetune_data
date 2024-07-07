@@ -1,0 +1,28 @@
+@startuml
+state jqsgaa
+jqsgaa --> chhdlb : icgsf
+chhdlb --> dyvuit : puczs
+dyvuit --> euhxfs : qngch
+state euhxfs {
+[*] --> dudfvz : ugjrb
+dudfvz --> svybbo : qbbss
+}
+state sskcca <<choice>>
+euhxfs --> sskcca : ynbch
+sskcca --> lpmmhs : kclg
+lpmmhs --> sfctpr : txgkw
+sfctpr --> gxaovg : uxapu
+gxaovg --> hpvotf : yzpbk
+hpvotf --> hconjv : yzjdemx
+sskcca --> quslop : ussq
+quslop --> ooiqws : pdosz
+ooiqws --> hconjv : rguzygf
+hconjv --> jhvcgi : eboup
+jhvcgi --> cfsutn : kslfq
+cfsutn --> pkeunh : ghxgy
+state pkeunh {
+[*] --> udokmh : sywsr
+udokmh --> irddkt : iygob
+irddkt --> tamgqq : vsrbk
+}
+@enduml

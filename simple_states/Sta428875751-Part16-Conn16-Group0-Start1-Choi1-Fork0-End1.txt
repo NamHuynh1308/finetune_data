@@ -1,0 +1,21 @@
+@startuml
+hide empty description
+state jdxroh
+[*] --> jdxroh : aprva
+jdxroh --> ohiyxt : sqnmv
+ohiyxt --> cflmpu : gxbvl
+cflmpu --> llvunu : rldna
+llvunu --> kmcfjs : atfcr
+kmcfjs --> kjjdzg : dgzya
+kjjdzg --> vpqkyz : kksft
+state mrkzwd <<choice>>
+vpqkyz --> mrkzwd : hqxjr
+mrkzwd --> ohnbis : omry
+ohnbis --> ybqxgf : bvrig
+ybqxgf --> ujobmx : dojml
+ujobmx --> nfwskq : hixynbi
+mrkzwd --> bdeqyq : ssbv
+bdeqyq --> tdaxbf : fshfv
+tdaxbf --> nfwskq : vmyyvek
+nfwskq --> [*] : rtqvr
+@enduml

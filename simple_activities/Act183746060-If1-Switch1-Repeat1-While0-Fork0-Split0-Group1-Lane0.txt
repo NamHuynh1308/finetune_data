@@ -1,0 +1,31 @@
+@startuml
+start
+group gvsygc
+repeat
+switch (binnmoibnaik?)
+case (fnxeamx?)
+:oggnvfmyaz; <<input>>
+case (hmdisoy?)
+:tgidwgzsfo; <<input>>
+-> kevcwt;
+case (njphfmu?)
+:xjqnqfmsij; <<save>>
+case (qvjghuc?)
+:jsidyy;
+kill
+endswitch
+if (yjbirsedxfim?) then (fkto)
+(eixt) elseif (itoyqlq?) then (thfa)
+:ikyvikmpie; <<output>>
+(dtut) elseif (sszpqck?) then (hsfz)
+:fajkcyerws; <<input>>
+-> frmscy;
+endif
+:gdvdifnvoj; <<continuous>>
+:uiunkygwba; <<load>>
+-> cxqnun;
+repeat while (sdsbtjppyqxz?) is (uusi)
+-> qhptwh;
+stop
+end group
+@enduml

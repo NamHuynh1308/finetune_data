@@ -1,0 +1,142 @@
+@startuml
+|1| occybg
+|2| putccb
+split
+-[hidden]->
+:czcab;
+split again
+-[hidden]->
+:xshvlavaup; <<output>>
+-> nxcggd;
+split again
+-[hidden]->
+:noazadakfp; <<load>>
+split again
+-[hidden]->
+:hbphedmpkf;
+-> sdrltb;
+split again
+-[hidden]->
+repeat
+:bapyn;
+:ibalbixzfh; <<load>>
+-> ztmpsd;
+:wtcxw;
+repeat while (utsmyafwlnbj?) is (wlct)
+end split
+|2|
+switch (lvpaujrtzqdj?)
+case (kcfshrl?)
+:vyidfeykrq; <<load>>
+case (doihwmd?)
+:tulamfxwhu; <<task>>
+-> uajyyx;
+case (phzfrmp?)
+:lrlsqlqioc; <<continuous>>
+endswitch
+repeat
+backward:qcomqd;
+fork
+:dmkpe;
+fork again
+:dwodwiciqz;
+fork again
+:kwkjq;
+fork again
+:bismdjalia;
+fork again
+:ygwfkosqxw; <<save>>
+end fork
+:mbvxvqlxna; <<procedure>>
+backward:btsppy;
+repeat while (optejipusssb?) is (nlua)
+fork
+:mgklm;
+fork again
+:lcznhynqqq; <<output>>
+fork again
+:igmfnfpfqd; <<output>>
+fork again
+:jwmhvabnxt;
+-> aytrrb;
+fork again
+:mdcswymbav; <<load>>
+fork again
+:igokgyhalc; <<load>>
+-> bplcfk;
+end merge
+|1|
+:jlkctqyasv; <<output>>
+:fvkbwgkigc;
+|2|
+if (xasbyzndhgnr?) then (uerr)
+:mifpxmiwaa; <<continuous>>
+while (tpzpjtlajtzu?) is (bjya)
+backward:jpnyyc;
+:jrfin;
+:vfxhpeiryq; <<task>>
+-> ebaanf;
+:mwxkaqvour;
+endwhile (mqnc)
+:frogsgeo;
+:fviuayopvr; <<task>>
+:asgdskcvaz; <<load>>
+:oixlelcpvg; <<output>>
+-> ftnvou;
+while (onlnmluukbzw?) is (kvaa)
+if (ppftrfpgyqvn?) then (hfee)
+(mybc) elseif (lmydcft?) then (ifdr)
+:bhcdr;
+(zlgn) elseif (gvevmsv?) then (vkyh)
+:psofvplssk; <<procedure>>
+-> qwkpml;
+(rolc) elseif (ovwhwgr?) then (pkok)
+:uctoe;
+(qwtg) elseif (ehhlafs?) then (vtzc)
+:vvldghplic;
+endif
+repeat
+:otibm;
+repeat while (hdduecnvomoy?) is (mhgy)
+:lyzmgxsxra; <<output>>
+:tqokckuqwa;
+-> dahqqy;
+backward:mslpwt;
+endwhile (ntuh)
+-[hidden]->
+detach
+else (ezem)
+:zbxswsaazy; <<save>>
+:yopyejuzdr; <<load>>
+endif
+|1|
+split
+:oabha;
+split again
+:hmscye;
+while (orncgdmdvvie?) is (kanz)
+backward:bomspg;
+if (vfnloflvdfnx?) then (fakd)
+:xuchuqovry;
+-> ztjlzi;
+:ymllc;
+:jvsifosqen;
+-> vrbxmb;
+:ujkxtlzfkc; <<task>>
+else (sbgq)
+:wmjgjlnjty;
+:ktdqcgcmob;
+:erpsapzcnn; <<output>>
+-> eznwab;
+endif
+:drclrtjmmq; <<task>>
+-> hdkmgf;
+endwhile (ebuy)
+-[hidden]->
+detach
+split again
+:jyeraeivhy; <<task>>
+end split
+:wofuffgwsr; <<save>>
+end
+@enduml

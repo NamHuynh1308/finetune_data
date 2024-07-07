@@ -1,0 +1,36 @@
+@startuml
+participant fsongu as 0
+box "ryqrp"
+participant annjhn as 1
+participant pndxhm as 2
+end box
+participant cirwki as 3
+participant jqogrs as 4
+== iyllni ==
+0 <-> 4: jotmaincod
+1 ->> 2: xgoegruwvp
+alt kdvfphhgnfro
+0 -// 2: uxhdueodoq
+1 -> 2: qdmytnyqfz
+else bnihhromixal
+4 -->x 1++ : yrjzxarkka
+1 -> 1: glduajelwk
+return wvclxxdanf
+else adozbuyyvwrz
+break mxezblzitikt
+...kkzthozn...
+1 -> 0: xilarooolr
+2 -> 0++ : kxezyypxup
+else vualzqynxsnd
+...ecbluggc...
+1 ->x 3: fbdvllktvk
+return yctmwkxksh
+...mdhopwef...
+4 -> 4: seqwouuqxk
+end
+opt pojzgsafhzma
+...lnnwymzv...
+1 ->> 0: iyujolhlxh
+end
+end
+@enduml

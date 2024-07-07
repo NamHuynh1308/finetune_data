@@ -1,0 +1,95 @@
+@startuml
+start
+group zkvfbh
+split
+:oveuw;
+split again
+:wixncamsgq; <<load>>
+split again
+:fvxbigldnm;
+end split
+while (zxgodnoszkhz?) is (cnxt)
+:cokployzcm;
+-> jgxfwi;
+:pafwejkiep; <<load>>
+split
+:uukpe;
+split again
+:vxcqxlhexv; <<save>>
+-> bwmtcv;
+split again
+:lmlrbrervy;
+-> jovtdp;
+split again
+:xdchcmfqpf; <<input>>
+-> ebskin;
+split again
+:mocprb;
+while (fpgqccbtiatc?) is (oupv)
+backward:leuskf;
+backward:ssuhzs;
+backward:huwnan;
+backward:zuuaol;
+:ploxh;
+endwhile (asqa)
+-[hidden]->
+detach
+end split
+fork
+:lumxh;
+fork again
+:riefvdexin;
+fork again
+:ohvwr;
+end fork
+:ajzcefigug;
+endwhile (zsow)
+:xpjaqcgv;
+end group
+group hchiyf
+split
+:aapta;
+split again
+:wwsehhbftl; <<load>>
+split again
+:yrbozbqxuo; <<task>>
+split again
+split
+:taghu;
+split again
+:rsmni;
+split again
+:rjchr;
+split again
+:rskqesihvd; <<save>>
+split again
+:yxxqd;
+end split
+end split
+:oliybuexhc; <<load>>
+-> jdqtzr;
+end group
+:pfsyxhjdnd; <<task>>
+:nykbpztpsp; <<input>>
+switch (xgkonbfcsthm?)
+case (bnucoaf?)
+:pyxmuz;
+kill
+case (kbdobez?)
+if (hqwbevyevoks?) then (ckwx)
+:pmfaebtejj;
+:fchvxosmpr; <<load>>
+-> feigsx;
+:ycuta;
+else (hnsy)
+:tyxagfkdhr;
+:chdow;
+:mfytdgxluk;
+:habjymuvfe; <<load>>
+:ddudvnrbyx; <<procedure>>
+-> qiawrq;
+endif
+endswitch
+:qupezsssgh; <<continuous>>
+stop
+@enduml

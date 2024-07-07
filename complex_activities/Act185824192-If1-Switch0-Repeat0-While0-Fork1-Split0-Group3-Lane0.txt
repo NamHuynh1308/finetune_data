@@ -1,0 +1,36 @@
+@startuml
+group fwqgzx
+:hdmmzesueq; <<load>>
+group klpqff
+:vgnaipxwwf; <<task>>
+-> ujzggw;
+:wwjgmsilzc;
+end group
+group biswda
+:yquzawuosi; <<load>>
+:bwfmvhrwns; <<procedure>>
+end group
+if (xgrgswpiwpfq?) then (goun)
+:coujkseeud; <<input>>
+:wvfdqjjisw;
+-> xcrpnt;
+:ldlctqjfum; <<continuous>>
+-> qyjwfe;
+else (xhde)
+:qqsudfbmps; <<input>>
+fork
+:prslh;
+fork again
+:uicsvtbmgm; <<procedure>>
+fork again
+:yiyzftvkmc;
+fork again
+:tcqvs;
+end fork
+:vcozrnttkq;
+endif
+:zcizdupsnj; <<task>>
+-> hvuiaf;
+end group
+stop
+@enduml

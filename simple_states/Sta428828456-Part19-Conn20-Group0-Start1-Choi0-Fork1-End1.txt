@@ -1,0 +1,25 @@
+@startuml
+state rezvta
+[*] --> rezvta : ftput
+rezvta --> ewlfsg : vbncn
+ewlfsg --> wttjgx : ydurv
+wttjgx --> fijufr : itqyo
+state vijdad <<fork>>
+fijufr --> vijdad : jfgff
+state wsmyjg <<join>>
+vijdad --> fdwlwh : oihq
+fdwlwh --> qlmqyd : vaupf
+qlmqyd --> wsmyjg : xgwbryn
+vijdad --> krggld : haxy
+krggld --> wbzphi : xaeic
+wbzphi --> gcwnyv : utaqj
+gcwnyv --> afdfve : hxowd
+afdfve --> wsmyjg : fggvvuh
+vijdad --> wbiqxo : leqi
+wbiqxo --> arneyi : amxse
+arneyi --> edxezx : yuyex
+edxezx --> eqetbu : pjgcf
+eqetbu --> wsmyjg : feqcksx
+wsmyjg --> drqlim : xitec
+drqlim --> [*] : jpvdc
+@enduml

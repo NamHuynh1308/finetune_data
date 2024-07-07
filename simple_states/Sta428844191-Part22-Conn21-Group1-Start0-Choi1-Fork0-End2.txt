@@ -1,0 +1,27 @@
+@startuml
+state htufkq
+htufkq --> ehfpta : dnpcy
+ehfpta --> chzjkw : upqoq
+chzjkw --> nylvys : vtoqr
+nylvys --> idukwh : wayie
+idukwh --> nscldt : saydk
+state nscldt {
+xonypu --> ymamtz : doukz
+ymamtz --> pkrakd : jciam
+pkrakd --> hzasce : uemra
+hzasce --> [*] : hgwiz
+}
+nscldt --> culaog : idato
+culaog --> hgwhbq : zxkiq
+state dsdfxm <<choice>>
+hgwhbq --> dsdfxm : dcxnn
+dsdfxm --> wwergr : dkyl
+wwergr --> zxynzg : hgypm
+zxynzg --> jgdmlc : cxgzd
+jgdmlc --> wfxbgh : xsdtk
+wfxbgh --> xrvnlc : jfbzpcp
+dsdfxm --> uimdqq : hkiz
+uimdqq --> yziobe : cihrw
+yziobe --> xrvnlc : rnmczim
+xrvnlc --> [*] : dbtmh
+@enduml

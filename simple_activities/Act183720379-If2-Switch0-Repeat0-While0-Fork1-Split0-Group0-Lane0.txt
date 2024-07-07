@@ -1,0 +1,26 @@
+@startuml
+start
+if (qgqrrmxddcqm?) then (xpvw)
+(mffh) elseif (qbhkllq?) then (jopv)
+if (dvtboouknjyg?) then (jjbo)
+:vhxllkkgab;
+:bbeiqojqec; <<save>>
+:zbste;
+:ejqrztmvkk; <<procedure>>
+:hlsnp;
+else (lwcv)
+:lijpvjuupt; <<load>>
+endif
+(tufh) elseif (oxhvyqd?) then (yvjm)
+:mfslszjnhy;
+(ryxv) elseif (enjqkma?) then (pkhg)
+fork
+:dkqwp;
+fork again
+:ejfqjczxgo; <<load>>
+fork again
+:hkqatvnedw; <<load>>
+end merge
+endif
+stop
+@enduml

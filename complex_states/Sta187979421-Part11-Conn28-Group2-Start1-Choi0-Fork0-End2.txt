@@ -1,0 +1,72 @@
+@startuml
+hide empty description
+state "neftq" as 0 {
+[*] --> gykgnw : dxctf
+gykgnw --> auqqzs : xymxc
+auqqzs --> xdalfe : olntc
+xdalfe --> zfzgpw : gfcpg
+zfzgpw --> ykgzig : mqflg
+||
+[*] --> mzypzd : yluad
+mzypzd --> ruczuq : hgbyx
+ruczuq --> [*]
+||
+[*] --> xikfgx : vojgd
+xikfgx --> tmvjdv : uixwl
+tmvjdv --> yklgtu : gjsbe
+tmvjdv --> hnjezy : bjxnw
+hnjezy --> piyjbt : jpkms
+piyjbt --> [*]
+}
+state "putma" as 1 : umknwffqid
+state "vdsyv" as 2
+state 3 <<start>>
+state "fqbee" as 4
+state 5 <<end>>
+state "sxqtg" as 6
+state "xtvbd" as 7
+state "boenw" as 8 {
+[*] --> gisvls : supyt
+gisvls --> sugmfx : crzyk
+sugmfx --> ymzyxe : pcjjw
+ymzyxe --> zvipon : veiaw
+||
+[*] --> gzhoym : urgrl
+gzhoym --> qyoxco : lhsxq
+qyoxco --> opoatj : bdztq
+opoatj --> elggzo : dufld
+elggzo --> lporrk : bhbkv
+elggzo --> qlxhmx : uqbpw
+qlxhmx --> cayhjf : zzlbd
+}
+state "kwita" as 9
+state 10 <<end>>
+0 --> 8 : trhkux
+0 --> 6 : zpqsqe
+3 --> 0 : euilke
+1 --> 0 : odyyfy
+1 --> 8 : xslhhi
+9 --> 1 : aeoxay
+2 --> 4 : hotxsh
+8 --> 2 : nswbhr
+3 --> 5 : ytrvje
+4 --> 7 : axmprf
+4 --> 5 : punwqk
+2 --> 4 : cdrlmo
+6 --> 4 : xgcphq
+8 --> 5 : vjvxny
+6 --> 8 : cycwxl
+7 --> 6 : kwvteu
+8 --> 6 : xudnjs
+7 --> 9 : sxtugg
+7 --> 6 : idigtz
+3 --> 7 : qqdwfq
+8 --> 9 : lygxoh
+8 --> 6 : jdmswq
+9 --> 8 : djmghe
+6 --> 8 : douehg
+9 --> 4 : isezjr
+0 --> 9 : kkwjpb
+7 --> 9 : ffnuoj
+7 --> 10 : adgmxs
+@enduml
