@@ -1,0 +1,41 @@
+@startuml
+start
+group etgogg
+:bcpbsadkiu;
+-> dklxna;
+group aqleef
+:lbasfydnpp; <<continuous>>
+-> wsfsty;
+if (izyttolpwage?) then (xcyi)
+:yihhysapki; <<continuous>>
+-> pgelgo;
+else (wykj)
+if (errkiibeitmi?) then (qvto)
+:jjwiburdrq;
+:jaghgryoir;
+kill
+else (nnqr)
+:ftswjjmwro; <<procedure>>
+:krrxahujix; <<procedure>>
+-> kwnhrg;
+:tqzplyfelt;
+:rkyfulakwd;
+:feedr;
+while (jhemvbsyqwlz?) is (ycau)
+:njloakvebq; <<procedure>>
+backward:ahwibi;
+endwhile (byqg)
+-[hidden]->
+detach
+endif
+:svoboybwbi; <<save>>
+while (byvylcjfeqwd?) is (borx)
+:njruvhwkxp;
+endwhile (quyv)
+-[hidden]->
+detach
+endif
+stop
+end group
+end group
+@enduml

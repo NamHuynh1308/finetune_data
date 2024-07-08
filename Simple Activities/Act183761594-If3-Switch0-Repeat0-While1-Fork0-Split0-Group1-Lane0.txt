@@ -1,0 +1,46 @@
+@startuml
+start
+:appduwbvay;
+-> tmwkbs;
+group pjlfet
+if (hwvokotkspfo?) then (nxyp)
+(imrm) elseif (hnjnhrt?) then (qnou)
+:pswsientue; <<procedure>>
+(sfno) elseif (iakrhxn?) then (lzeb)
+if (gnzhhcfpihgr?) then (wcwo)
+:rbtnb;
+:gnpcpktwzq;
+:pbuni;
+:cpdtrbhdpc; <<continuous>>
+:tuojn;
+else (aihh)
+:nlcap;
+:rgbpc;
+endif
+(lrst) elseif (ztwmdcu?) then (hgti)
+:qikufswrjg;
+(nmss) elseif (cdvveul?) then (lhnv)
+if (aqfdimgfuggf?) then (eoyu)
+(qwgx) elseif (znttmzs?) then (lcqa)
+:dxxrgg;
+while (gborlnotqslw?) is (ybkw)
+:jbjgn;
+backward:pwavjs;
+:lcekc;
+endwhile (qdhq)
+-[hidden]->
+detach
+(spin) elseif (xeeltsa?) then (kers)
+:mowvpvcszv;
+(pipe) elseif (aujkccz?) then (ftgo)
+:udbehxieaj; <<output>>
+(lrgu) elseif (vzkukdk?) then (vewp)
+:lkujphhgel; <<load>>
+(iyki) elseif (fsausgj?) then (ekvf)
+:bcdbythasf; <<output>>
+-> ooptma;
+endif
+endif
+stop
+end group
+@enduml

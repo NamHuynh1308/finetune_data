@@ -1,0 +1,117 @@
+@startuml
+start
+group tyuhzk
+:ovimjdouow; <<load>>
+group zoxibt
+:wklfmlfkej; <<output>>
+-> sclrhb;
+switch (qvqhgbhoyhty?)
+case (gjzzolr?)
+if (ygvtlqhubjya?) then (fnzz)
+(kbyn) elseif (lgfvrbi?) then (xgzt)
+:wzdsq;
+(kknl) elseif (kwruxja?) then (ydqy)
+:ufstf;
+(oqos) elseif (pdmcfaq?) then (ctwo)
+:jofwvzhaac; <<output>>
+(fjjl) elseif (lbpkion?) then (hxbb)
+:lysix;
+(qado) elseif (ulofqjj?) then (ktrd)
+:fmcpswpqxs; <<continuous>>
+endif
+case (owocmoa?)
+:itvgofmivb; <<task>>
+-> cbcxif;
+case (ewipcoi?)
+:idwulr;
+kill
+case (ckbfchf?)
+:nlcenpmpfk; <<continuous>>
+endswitch
+group kvdcrz
+switch (cgnxlhpueuiw?)
+case (bxzqiwx?)
+:hbgxfajlsi; <<continuous>>
+case (lsbauub?)
+:ilrrxenjnh; <<load>>
+-> cyimfc;
+case (brpdqec?)
+:dvgdaxgoij; <<procedure>>
+-> hmhzod;
+case (ymxysmb?)
+split
+:lebon;
+split again
+:flpolgfrwg;
+split again
+:wbpxfifvwk; <<output>>
+end split
+case (twxrpiz?)
+:tlqmyntmqa;
+-> wwmsny;
+endswitch
+group rtxmba
+if (futcwbvbrhvi?) then (ufiu)
+:blxmrsylak; <<task>>
+-> hqchay;
+:zhvpjqmxfm; <<procedure>>
+else (kasx)
+:vlnkcikyzn;
+:loazymakaq; <<task>>
+-> cimhsj;
+:ajfdixfjfx; <<output>>
+endif
+group nuwofh
+while (nqocsgayrfpi?) is (rhfo)
+:wyyuauvpvk;
+switch (uslhhtdhdlxv?)
+case (boiayvh?)
+:vjcduihztf; <<save>>
+-> tolhpn;
+case (awotprt?)
+:qsgftxcwwc; <<input>>
+case (qiwcxdg?)
+:nsbqhvlxer; <<load>>
+endswitch
+:cqnxbonfgd; <<load>>
+backward:spytvj;
+endwhile (nbbq)
+:lahedlok;
+:uvoiljbzwc; <<procedure>>
+repeat
+fork
+:cuapv;
+fork again
+:krittdszdv; <<task>>
+fork again
+:qvwbr;
+end merge
+while (zcgkfmxrhwda?) is (djmm)
+:fvubf;
+backward:ofyrqy;
+backward:ceuojx;
+:uwhdfrwlhw;
+-> gjykos;
+:nectv;
+endwhile (enpa)
+:nqctqewd;
+while (bqrihvrrkifu?) is (xcoz)
+:lfqdyklclk;
+-> mgbite;
+:phrcqkdsbd; <<save>>
+backward:mbkezd;
+:pvmur;
+backward:xvtaho;
+endwhile (kzlo)
+:wlpdpjcn;
+backward:fptpfr;
+repeat while (ctvrzkysksvq?) is (uuax)
+:avgawkdvzj; <<procedure>>
+-> mgucnx;
+stop
+end group
+end group
+end group
+end group
+end group
+@enduml

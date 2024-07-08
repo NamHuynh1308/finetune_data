@@ -1,0 +1,27 @@
+@startuml
+state gctisf
+gctisf --> tsudnw : lkzfw
+tsudnw --> gfkejz : aksys
+gfkejz --> gbyokc : muatb
+gbyokc --> qgidox : qpbxv
+qgidox --> puaqwz : ttqnv
+puaqwz --> eljnqa : owmqr
+eljnqa --> edgjzt : vasbp
+edgjzt --> rptpfz : qbvcw
+state rptpfz {
+[*] --> cakikv : fpibf
+cakikv --> svqxft : ahujw
+svqxft --> gnbrfv : oyiiz
+gnbrfv --> [*] : qxwkr
+}
+rptpfz --> pliaso : ombmh
+pliaso --> qmycqd : kipdu
+qmycqd --> fqgrqn : bltkb
+fqgrqn --> vsaala : hthrh
+vsaala --> quhnmv : tnpnn
+quhnmv --> hyyehf : ybkty
+state hyyehf {
+vbjlme --> rdpmir : jfhoy
+}
+hyyehf --> [*] : qaysp
+@enduml

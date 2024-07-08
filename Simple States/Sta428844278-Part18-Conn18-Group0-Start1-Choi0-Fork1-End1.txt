@@ -1,0 +1,24 @@
+@startuml
+hide empty description
+state dukrrl
+[*] --> dukrrl : mqpse
+dukrrl --> mammdk : bmylo
+mammdk --> phepwo : dwrdv
+phepwo --> xmhxlw : yzrus
+xmhxlw --> iuthlw : dnooj
+iuthlw --> oeqoks : bsxjv
+oeqoks --> wjxbhi : xinip
+state notpxd <<fork>>
+wjxbhi --> notpxd : qpnlu
+state opggfc <<join>>
+notpxd --> nopivw : raqs
+nopivw --> qhuulr : srnjc
+qhuulr --> ucbnik : adbsl
+ucbnik --> opggfc : gkzpmcu
+notpxd --> jlvjkw : lzyn
+jlvjkw --> srocmz : erlqo
+srocmz --> rvmuat : xfpby
+rvmuat --> opggfc : bfpmgsp
+opggfc --> sysibd : ifhjy
+sysibd --> [*] : jkvge
+@enduml

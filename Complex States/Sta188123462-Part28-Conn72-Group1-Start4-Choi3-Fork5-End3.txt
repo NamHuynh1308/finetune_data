@@ -1,0 +1,113 @@
+@startuml
+hide empty description
+state 0 <<choice>>
+state 1 <<fork>>
+state 2 <<end>>
+state "hyplp" as 3 : whyhrzvvcs
+state "bvcin" as 4 : tfypshjwwj
+state 5 <<choice>>
+state 6 <<fork>>
+state "lcpxu" as 7 : ekrcqbclaw
+state 8 <<fork>>
+state "ucxqu" as 9
+state 10 <<start>>
+state "ixlnj" as 11
+state "izcmw" as 12 {
+nkinxq --> jgdmxt : zugdz
+jgdmxt --> svzgtf : cbqxy
+svzgtf --> jcmqdy : ncgnn
+jcmqdy --> qtdzih : cutal
+qtdzih --> [*]
+||
+[*] --> pdsgtr : rucbs
+||
+[*] --> kbhser : peoty
+}
+state 13 <<fork>>
+state "sseel" as 14
+state 15 <<choice>>
+state "awake" as 16 : khqahfqrsu
+state "xciem" as 17
+state 18 <<end>>
+state 19 <<start>>
+state "jtbxc" as 20 : bexzkiwpoj
+state 21 <<start>>
+state "tjqaa" as 22
+state 23 <<end>>
+state 24 <<fork>>
+state "ucelc" as 25
+state "zwlrz" as 26
+state 27 <<start>>
+25 --> 0 : qwuhau
+0 --> 12 : avfomr
+0 --> 17 : iqgsaz
+8 --> 1 : ufcqyo
+1 --> 15 : jlwsyb
+1 --> 18 : vzbdoj
+1 --> 14 : eyciab
+1 --> 11 : xvnzzc
+16 --> 2 : eycluh
+3 --> 16 : beptau
+6 --> 3 : rcrzmn
+4 --> 5 : mdofqw
+4 --> 12 : yexgtr
+6 --> 4 : pwqivv
+20 --> 4 : fznjzs
+1 --> 5 : miilfd
+5 --> 4 : vkfjnh
+24 --> 6 : xjmojm
+6 --> 23 : dcllip
+11 --> 6 : wtcnws
+8 --> 6 : kbmgsh
+7 --> 16 : ifdasn
+17 --> 7 : mugoep
+24 --> 8 : eiacdc
+8 --> 1 : qftvvi
+15 --> 8 : rphjom
+9 --> 3 : hekffe
+9 --> 23 : lgrsuf
+26 --> 9 : blwnjv
+20 --> 9 : itglwg
+10 --> 4 : gsokcv
+11 --> 2 : wdflhb
+10 --> 11 : mcyvrt
+20 --> 11 : uhtlyr
+12 --> 25 : lnighy
+20 --> 12 : dtabsc
+27 --> 12 : ledkdz
+12 --> 13 : gopdqe
+13 --> 18 : nsxfyy
+7 --> 13 : syyuef
+14 --> 25 : pohevv
+10 --> 14 : fcjmdb
+13 --> 14 : msstwf
+12 --> 15 : ssjjof
+15 --> 14 : dcyvau
+16 --> 15 : ncfxvb
+14 --> 16 : ppprdn
+17 --> 12 : utskns
+17 --> 18 : amjnfz
+26 --> 17 : rgyzft
+10 --> 17 : uofsxv
+6 --> 18 : vqsswd
+19 --> 6 : clahbo
+20 --> 3 : nbwgaj
+12 --> 20 : secdjn
+12 --> 20 : pvtkcf
+21 --> 6 : vnxttb
+22 --> 24 : mnxrsm
+3 --> 22 : kuiyom
+13 --> 23 : flnbbu
+21 --> 24 : ljbvsj
+24 --> 6 : lrmiez
+24 --> 16 : vmjmri
+24 --> 5 : ajmpkm
+25 --> 5 : ndbpvz
+25 --> 5 : zteuvl
+17 --> 25 : titjuo
+10 --> 25 : elzprj
+26 --> 1 : gfjgyz
+26 --> 15 : lakgux
+24 --> 26 : vgqlyr
+27 --> 25 : ibwuwp
+@enduml

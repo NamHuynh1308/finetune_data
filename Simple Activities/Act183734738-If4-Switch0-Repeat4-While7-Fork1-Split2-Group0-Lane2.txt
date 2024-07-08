@@ -1,0 +1,157 @@
+@startuml
+|1| fqtgim
+|2| tvciah
+split
+-[hidden]->
+:edzlx;
+split again
+-[hidden]->
+:htrwroamkh;
+split again
+-[hidden]->
+:swpuxbsykt; <<task>>
+split again
+-[hidden]->
+fork
+:eejrd;
+fork again
+:osymfaqbch; <<save>>
+fork again
+:ybfimyorfx;
+fork again
+:gldhdgwlyg;
+fork again
+:evwutstohg;
+-> rpziuk;
+end fork
+split again
+-[hidden]->
+if (wvbucmteuydo?) then (ujgk)
+:yqasjtdzvp; <<continuous>>
+:wkxkwldpaf; <<continuous>>
+-> xpkudg;
+else (layo)
+:axvyzdpgnj; <<output>>
+-> iflklb;
+while (iwbdpvopyhyu?) is (wjnk)
+:jfvdo;
+endwhile (ifat)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+while (nvxqvpseaeyk?) is (kgcr)
+:ynssw;
+:tbnduqbjsl; <<procedure>>
+:huwqy;
+endwhile (dcvj)
+:tgdxkyyr;
+end split
+repeat
+repeat
+backward:zvfonn;
+:rcxai;
+:rjirq;
+repeat while (mnsyayrwzmri?) is (pksa)
+-> ohrcuc;
+repeat
+:ddcuo;
+:asjbf;
+backward:crtvhc;
+backward:nfncio;
+:rjpol;
+repeat while (udxdffkewjnu?) is (vdwj)
+:ffzejrxpce; <<save>>
+repeat while (bicnzblklvcl?) is (puab)
+-> nykioj;
+|2|
+repeat
+split
+:gptpr;
+split again
+:ijsjlr;
+while (qhheflpaqguh?) is (wnxc)
+:gztdxfxvyb; <<continuous>>
+-> qakvth;
+:tgjzxmlany; <<input>>
+:zjkchwdgza; <<save>>
+backward:itmnsr;
+:dsrnzmkhft; <<continuous>>
+endwhile (hyfy)
+-[hidden]->
+detach
+split again
+:dcfonwdmof; <<input>>
+split again
+:fsinpotuiu; <<input>>
+split again
+:dqsxj;
+end split
+:frnuvk;
+if (yksmxqb) then (sjfi)
+:nmcryr;
+break
+endif
+->zqqz;
+:tpbppn;
+:oectpc;
+repeat while (vtlfijnhxsvg?) is (ygzm)
+-> oitprh;
+|1|
+while (xynftghrkyyi?) is (lnje)
+backward:hkfolm;
+:qbuxnvyxpa;
+if (skghxtguhlfk?) then (lnvc)
+:mjcdp;
+:gqtjfjdfnc; <<load>>
+-> pkyoiw;
+:mdihzmwdxo;
+:kgrio;
+else (uorw)
+:hlgsn;
+:duykgsjxnq;
+-> kdcylk;
+kill
+endif
+backward:rzbpoh;
+if (ixhtiivhyutk?) then (qbbq)
+:yzqfputhxs;
+-> ozhlje;
+while (hanbtjlysunl?) is (yhoj)
+backward:zmbpht;
+endwhile (cqru)
+-[hidden]->
+detach
+else (tdwd)
+:kwzaaypfua;
+-> cezaox;
+:wxpem;
+:ykgemzhhyt; <<output>>
+:oxgyrfmbsp;
+-> dajvjy;
+:dkzrxtmuzd; <<load>>
+endif
+endwhile (wuqq)
+:bpppkimn;
+|2|
+while (mpvnbpaqoxud?) is (ziny)
+backward:wpxfhr;
+if (mlvdvfwihbgx?) then (ccvy)
+:jtjwu;
+while (pzlzrecydngd?) is (vdue)
+:jnnaq;
+:agnfmyrrwf;
+endwhile (brwr)
+-[hidden]->
+detach
+else (hhoe)
+:kxdip;
+:wnoqe;
+:tndzx;
+kill
+endif
+endwhile (rmma)
+:yakgustc;
+end
+@enduml

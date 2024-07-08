@@ -1,0 +1,139 @@
+@startuml
+split
+-[hidden]->
+:ihlvl;
+split again
+-[hidden]->
+:hdvhirhowi; <<output>>
+-> nzxuve;
+split again
+-[hidden]->
+:xxdyhnfdiv;
+-> vmwqdr;
+split again
+-[hidden]->
+if (csrrqwculhqj?) then (ycwf)
+:nwbbz;
+:qunlqlbijg; <<load>>
+else (ravn)
+:juwttgaqtc;
+:mhuwgixidr; <<task>>
+:kzaullkqhv; <<task>>
+-> jxkdjx;
+:poalg;
+endif
+split again
+-[hidden]->
+:flxhhwkyed;
+end split
+group tlpybw
+split
+:tffll;
+split again
+:hsaoazgzyn;
+-> kktgut;
+split again
+:zxxteavsff; <<input>>
+end split
+repeat
+:axwvofynut; <<output>>
+backward:gjorhk;
+fork
+:fetrr;
+fork again
+:cenpj;
+fork again
+:ywjdpptynk;
+fork again
+:exkardwwaa;
+fork again
+:edhpvzvepf;
+-> wsnhcf;
+end merge
+repeat while (ozqpufblgjlm?) is (nxtn)
+end group
+:ciqcrnnagy; <<procedure>>
+group vjeodf
+switch (qthntwcftmxr?)
+case (coayvgz?)
+:ifzpogibju; <<procedure>>
+case (kzcrthz?)
+:rpqcvysqbl; <<input>>
+case (ngkdqbu?)
+:wwkbuwhses; <<load>>
+case (zfnyezb?)
+:xmdcefpchv; <<save>>
+case (zzhaggg?)
+:cjdaujzgvr; <<load>>
+endswitch
+switch (vornuankvhjl?)
+case (ksxsftd?)
+:xydhcfered; <<save>>
+case (lazjsph?)
+:qspyudznpg; <<input>>
+-> lsyozu;
+endswitch
+end group
+:rbcrxfcjzw;
+-> mwytlg;
+:epptfhqwbg;
+if (owrqngduxvqm?) then (vdju)
+:wpchgzyakn;
+:dysgqhwsud;
+-> sagwew;
+:tceookjcgj; <<task>>
+repeat
+:ztqut;
+:muiszgiklv; <<procedure>>
+-> avsdbz;
+:pelkmkargz; <<procedure>>
+backward:nzjkqm;
+:yrjbwajgqa; <<task>>
+repeat while (azmeuakqlugn?) is (qiig)
+-> gazbvc;
+else (wour)
+:kowkvhwcqm; <<task>>
+while (xsmnhwylxqjz?) is (orvl)
+:oytekmcngy;
+-> ozccem;
+:pbssl;
+backward:uuclkc;
+endwhile (fxad)
+:osfkovan;
+:jktibzumnr;
+-> yqbjbu;
+endif
+:hpgbgmilag; <<save>>
+-> xbblmw;
+group porbed
+if (yypnycdpbgqt?) then (yecy)
+:rqhetbgwko; <<save>>
+else (bgsh)
+:gqkmrrsynp; <<output>>
+while (nytgofvgjsnu?) is (ytmo)
+if (rlfzlhkdjjzo?) then (iwgz)
+:nbcdt;
+:mwcrz;
+:mpgkdhmaln; <<save>>
+-> diqgjp;
+kill
+else (lnrf)
+:mnybsemagc; <<load>>
+endif
+if (eamtmvzafulm?) then (dqfl)
+(ohhm) elseif (jaqzjwc?) then (nbhw)
+:vrqanrtfxk; <<input>>
+-> pfgcdl;
+(bkvj) elseif (jeyrdov?) then (qaua)
+:bqrsk;
+(wlge) elseif (kdlehss?) then (qlld)
+:dvpveinqpw;
+-> iwnpun;
+endif
+endwhile (eeju)
+-[hidden]->
+detach
+endif
+stop
+end group
+@enduml

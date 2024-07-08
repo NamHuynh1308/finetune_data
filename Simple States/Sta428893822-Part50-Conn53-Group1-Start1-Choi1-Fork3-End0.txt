@@ -1,0 +1,65 @@
+@startuml
+state yjtqgk
+state ycifof <<fork>>
+yjtqgk --> ycifof : uaxsk
+state wwmnom <<join>>
+ycifof --> qqsukf : vote
+qqsukf --> tvknqj : lyvxw
+tvknqj --> wwmnom : ijuxeze
+ycifof --> dkfxvb : uasy
+dkfxvb --> ujrddy : omsjx
+ujrddy --> ssyimh : aepin
+ssyimh --> wqoyeg : zuhdx
+wqoyeg --> wwmnom : xsmegie
+wwmnom --> eqzbrc : stxnb
+state glvkgj <<fork>>
+eqzbrc --> glvkgj : gzill
+state qypvku <<join>>
+glvkgj --> xyyflm : hynb
+xyyflm --> ykencc : suiqx
+ykencc --> ocqetb : ubxpu
+ocqetb --> oibjxc : chmbl
+oibjxc --> qypvku : mcthpnu
+glvkgj --> jgznjz : smla
+jgznjz --> quktql : oumdq
+quktql --> glxeno : kvpsy
+glxeno --> jjvnay : sybdj
+jjvnay --> qypvku : bdpdqmi
+qypvku --> dxerec : pgznf
+dxerec --> uciksc : hnxub
+state uciksc {
+[*] --> sesxav : eygty
+sesxav --> stimzx : uraew
+}
+state qcezdk <<fork>>
+uciksc --> qcezdk : dlwzp
+state polvmu <<join>>
+qcezdk --> clgkrl : josq
+clgkrl --> kkpikq : snnsr
+kkpikq --> polvmu : hreoooz
+qcezdk --> bclknf : xipp
+bclknf --> iktswv : texyc
+iktswv --> rdnvhj : seniv
+rdnvhj --> polvmu : ulgpdib
+polvmu --> jnfbwg : fndzg
+jnfbwg --> kzjbjw : zqnis
+kzjbjw --> zkocfk : htane
+state qkjocq <<choice>>
+zkocfk --> qkjocq : agtbn
+qkjocq --> iatiln : svzb
+iatiln --> wkxwqg : mtroa
+wkxwqg --> grrqjq : yvtxw
+grrqjq --> otwdav : rjbxo
+otwdav --> gcawes : uywjhqx
+qkjocq --> lkwcle : bwgk
+lkwcle --> iyillr : qofpm
+iyillr --> ubtqfr : bkbhv
+ubtqfr --> gcawes : msmzdrb
+qkjocq --> vpxnjf : itoa
+vpxnjf --> ohmqhy : rxqlr
+ohmqhy --> ffiwob : uswlu
+ffiwob --> qqcyqv : cvklt
+qqcyqv --> gcawes : qqwurqs
+gcawes --> ydetrf : xgsnc
+ydetrf --> zcxlds : sfarw
+@enduml

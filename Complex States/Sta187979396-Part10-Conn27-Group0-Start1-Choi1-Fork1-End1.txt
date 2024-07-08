@@ -1,0 +1,39 @@
+@startuml
+state 0 <<fork>>
+state "xjveb" as 1
+state 2 <<choice>>
+state "czyhr" as 3 : ovnoifqmhr
+state "tamvx" as 4
+state 5 <<start>>
+state "cnxct" as 6
+state "qewas" as 7 : ogtfzvzbou
+state 8 <<end>>
+state "sslcd" as 9
+7 --> 0 : osqszu
+0 --> 2 : elrbcd
+6 --> 0 : vuupjn
+2 --> 0 : cwljdn
+1 --> 3 : tculon
+1 --> 3 : sdbcpg
+4 --> 1 : qstsao
+7 --> 2 : pnqhis
+2 --> 3 : dnzhup
+2 --> 6 : pmteop
+3 --> 2 : sqjvec
+3 --> 2 : blioao
+0 --> 3 : rypdrh
+4 --> 3 : npukso
+4 --> 7 : jssuuc
+4 --> 3 : dbdnjg
+1 --> 4 : xsytrr
+4 --> 4 : kmyyzb
+5 --> 9 : ytlwnf
+6 --> 6 : qteqmo
+1 --> 6 : jeelav
+7 --> 6 : sjmncw
+1 --> 7 : cawwpm
+4 --> 8 : ozqhrf
+9 --> 6 : sznhqx
+3 --> 9 : qpduen
+0 --> 9 : ckzykr
+@enduml

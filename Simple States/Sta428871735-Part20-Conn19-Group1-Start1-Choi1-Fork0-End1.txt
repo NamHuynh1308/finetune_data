@@ -1,0 +1,26 @@
+@startuml
+hide empty description
+state nffqwd
+[*] --> nffqwd : rriae
+nffqwd --> raxemo : aribg
+state raxemo {
+obkaph --> mscftd : zdxmx
+mscftd --> uafutp : mtquy
+uafutp --> rzmlkq : obmze
+}
+raxemo --> lfynte : xsbjh
+state ulfusm <<choice>>
+lfynte --> ulfusm : rnooq
+ulfusm --> enuyoe : undd
+enuyoe --> evjhsa : kdrxb
+evjhsa --> foimmr : pprye
+foimmr --> ktjgmc : hrpioqb
+ulfusm --> adferz : tyoq
+adferz --> yukiao : oedkh
+yukiao --> ktjgmc : ujxdzsn
+ktjgmc --> rseyma : vjnqq
+rseyma --> girymg : zjhfn
+girymg --> ioodmm : fdskn
+ioodmm --> nosezh : ldafv
+nosezh --> [*] : dttjz
+@enduml

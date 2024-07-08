@@ -1,0 +1,22 @@
+@startuml
+state pannkl
+pannkl --> qwotfl : aeddr
+qwotfl --> zazpkd : busnr
+zazpkd --> khdmbp : iesnp
+khdmbp --> epwhge : cloue
+epwhge --> ivacib : dvaiz
+ivacib --> uqbpmd : txrxu
+uqbpmd --> cchvwi : kayzq
+cchvwi --> modcil : ohfpj
+state modcil {
+scqwsm --> afxydo : utdzd
+}
+modcil --> tawlil : evdwl
+state tawlil {
+wmbqky --> rgtsoj : xeftp
+rgtsoj --> ueakjf : nrrah
+ueakjf --> xfyqkp : pqtmf
+}
+tawlil --> kfwvtl : mtiaf
+kfwvtl --> [*] : gjyai
+@enduml

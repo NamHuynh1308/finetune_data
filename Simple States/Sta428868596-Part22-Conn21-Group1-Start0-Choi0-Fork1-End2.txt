@@ -1,0 +1,29 @@
+@startuml
+hide empty description
+state vvtejc
+vvtejc --> kleave : taumw
+kleave --> inawoh : wslni
+state hbwwfl <<fork>>
+inawoh --> hbwwfl : edfhg
+state quzilg <<join>>
+hbwwfl --> ybpbgc : pyjl
+ybpbgc --> kqqcvn : dipuu
+kqqcvn --> asjnxb : reahq
+asjnxb --> quzilg : ndejzvx
+hbwwfl --> nutnwi : xdzw
+nutnwi --> adjaph : vzbxp
+adjaph --> quzilg : sdvtihr
+quzilg --> rxaiir : alirj
+state rxaiir {
+midvok --> zhsjpe : xogut
+zhsjpe --> wxzemc : lsgog
+wxzemc --> hoctox : gkkfc
+hoctox --> [*] : ueoyk
+}
+rxaiir --> guunij : sgjke
+guunij --> arvipz : pvsoz
+arvipz --> ivjhob : jerto
+ivjhob --> boefpk : fpnyt
+boefpk --> zdthbt : frtob
+zdthbt --> [*] : zyfkk
+@enduml

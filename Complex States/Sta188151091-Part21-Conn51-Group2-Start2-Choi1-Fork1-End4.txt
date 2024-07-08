@@ -1,0 +1,102 @@
+@startuml
+hide empty description
+state 0 <<fork>>
+state "lcree" as 1
+state "cgdxt" as 2
+state 3 <<start>>
+state "lhqsb" as 4
+state 5 <<end>>
+state "hwygu" as 6
+state "kfvay" as 7 : ujvflykcnl
+state "rfnuj" as 8 {
+[*] --> aupyxk : tmdjq
+aupyxk --> tughxa : gsdyw
+tughxa --> nkrdhb : llvbu
+nkrdhb --> tfhqni : fqoto
+tfhqni --> oiudir : jrhpu
+||
+[*] --> xttavl : zhoar
+xttavl --> dgbsrc : jvrbb
+dgbsrc --> [*]
+||
+[*] --> noykqv : ytjoq
+noykqv --> bvlthk : jmysb
+bvlthk --> yyjjgc : srlfs
+yyjjgc --> iylsyp : kltvo
+iylsyp --> lktnor : oycsp
+lktnor --> soclfj : ubhku
+lktnor --> [*]
+}
+state 9 <<end>>
+state "gagyc" as 10 : hgsbptghol
+state "swhwe" as 11
+state "oixwe" as 12 {
+tnfjzk --> cviopv : dntnu
+cviopv --> [*]
+||
+[*] --> sdpmgn : njkjh
+sdpmgn --> bqkpux : afead
+bqkpux --> gbsbrk : xaedh
+bqkpux --> kxshbs : lqony
+kxshbs --> [*]
+}
+state "qkbwl" as 13
+state "cwjga" as 14
+state 15 <<end>>
+state 16 <<start>>
+state "mound" as 17 : cffuqxbdzm
+state 18 <<end>>
+state 19 <<choice>>
+state "sgznc" as 20
+4 --> 0 : rgwlmm
+0 --> 14 : hrdkwc
+0 --> 1 : fzgdui
+0 --> 7 : emjske
+0 --> 13 : xmgdts
+1 --> 18 : mgjwjj
+20 --> 1 : bztlrh
+12 --> 1 : ktfwim
+2 --> 11 : qtkyms
+2 --> 19 : obgdyo
+17 --> 2 : dlplgl
+3 --> 7 : dpjbqm
+4 --> 6 : uitvut
+8 --> 4 : sveuav
+11 --> 4 : zjohdb
+19 --> 5 : pqiwzg
+6 --> 11 : btgpcf
+6 --> 9 : yvngmt
+4 --> 6 : nhnfug
+7 --> 5 : spoexy
+7 --> 11 : kziajp
+6 --> 7 : anumse
+8 --> 2 : mjhncg
+8 --> 2 : gxpbsp
+2 --> 8 : atvgfd
+20 --> 9 : jzbmxa
+10 --> 14 : bpixtb
+3 --> 10 : qylrjw
+10 --> 10 : rdzrze
+11 --> 4 : wcwtht
+11 --> 11 : bnqnkj
+12 --> 11 : iaoaip
+12 --> 18 : kaajng
+20 --> 12 : wleorm
+13 --> 15 : cydqbx
+1 --> 13 : srcero
+17 --> 13 : gerknc
+14 --> 14 : ieqbpi
+14 --> 13 : hkwfxl
+4 --> 14 : zwbppd
+12 --> 15 : darxkv
+16 --> 20 : jjehvl
+17 --> 10 : hhrrdw
+17 --> 0 : gcfeqs
+10 --> 17 : byatov
+8 --> 18 : qfbzyw
+19 --> 19 : lhkxer
+19 --> 7 : duwxvn
+20 --> 7 : qatrvu
+20 --> 15 : kvlckh
+3 --> 20 : ruzirt
+@enduml

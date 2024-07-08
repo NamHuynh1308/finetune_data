@@ -1,0 +1,84 @@
+@startuml
+split
+-[hidden]->
+:rdxso;
+split again
+-[hidden]->
+:rgxdoxwxyp;
+-> cjuzte;
+split again
+-[hidden]->
+:zdpklmstka; <<continuous>>
+end split
+repeat
+backward:xpltdd;
+repeat while (nyrvstexzflb?) is (ctkn)
+group lddfwd
+if (tccmoyrdbifg?) then (gcye)
+(zoyj) elseif (brxzeqq?) then (spio)
+:ascfqj;
+while (rrjecfmgajoe?) is (vzfl)
+repeat
+:mcwqqvtugb;
+:xcrpa;
+:ikpskjzpcp; <<procedure>>
+-> lhipnq;
+repeat while (dfjbeffmpxjz?) is (msdb)
+while (uztpeaidiuuz?) is (ifzs)
+:dfqau;
+:lvktz;
+backward:suqqhm;
+:bxsct;
+backward:dgxmcs;
+endwhile (uxzi)
+:adjbdrug;
+:ohpwwsjuuk; <<task>>
+endwhile (uhxz)
+-[hidden]->
+detach
+(jvqs) elseif (rhhgpnu?) then (ykct)
+:fmvedxrwlh; <<input>>
+endif
+if (evnaordfxrkk?) then (venx)
+:quhxpayzxo; <<output>>
+-> bnwzrp;
+repeat
+:cwytshhzfy;
+:grsruwmumt; <<procedure>>
+repeat while (nkngevgomlah?) is (oank)
+-> vsynxe;
+if (nwjgmnjuzkwp?) then (ifdt)
+(gdqv) elseif (zpvfkuu?) then (eijl)
+:frznssjquh; <<input>>
+-> kkburr;
+(jrue) elseif (djvfobl?) then (ragd)
+:vvwkr;
+endif
+kill
+else (dvhv)
+fork
+:zflps;
+fork again
+:sbmzj;
+fork again
+:neyhmgbxib; <<load>>
+fork again
+:kzruhghbei; <<continuous>>
+end fork
+:ytyqzfkgsm;
+-> zcwzrd;
+:oasonmlqyc;
+fork
+:yvgso;
+fork again
+:zojyvvitse;
+fork again
+:qrvxgzelpw;
+-> civffb;
+fork again
+:srnzkgzheg; <<load>>
+-> epgoin;
+end merge
+endif
+end group
+@enduml

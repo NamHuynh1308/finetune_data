@@ -1,0 +1,7 @@
+@startuml
+state isdist
+isdist --> sgelna : korfb
+sgelna --> wfgucr : yfbov
+wfgucr --> xvwisw : jrztx
+xvwisw --> [*] : dvhlu
+@enduml

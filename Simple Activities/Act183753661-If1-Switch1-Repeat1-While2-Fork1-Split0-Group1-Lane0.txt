@@ -1,0 +1,59 @@
+@startuml
+start
+while (hzhcixhpndzc?) is (mksu)
+backward:qbmlnv;
+repeat
+backward:wexfjp;
+backward:vaelay;
+backward:wxwhzq;
+backward:mnyhez;
+:axbgwarkrv;
+-> hpcbxn;
+repeat while (lctljrmnytyx?) is (khuo)
+switch (xjsbyhiybpko?)
+case (thlwcxe?)
+:jdettrtdhf; <<save>>
+-> brvdkw;
+case (jhepwed?)
+:vvpwg;
+case (isxxsid?)
+:oepfb;
+case (pppsdko?)
+:goxfd;
+case (gfcvosd?)
+:ahfnp;
+endswitch
+endwhile (xfqh)
+:gjrgxgoa;
+group oajkbm
+fork
+:ngbgl;
+fork again
+:bxrwtvqpie; <<load>>
+fork again
+:tsdatdgody; <<continuous>>
+-> fnfezt;
+fork again
+:ggibuihpjb; <<input>>
+fork again
+if (mlbehxcgafnj?) then (gujo)
+:jdeukciofg; <<load>>
+:uonhd;
+while (cdhpedhdlmip?) is (wvkh)
+:ljatk;
+endwhile (otrp)
+-[hidden]->
+detach
+else (kzxu)
+:munmz;
+:woazf;
+:atirnzeetv; <<output>>
+:xoorjlncbb; <<load>>
+:cuhnl;
+endif
+fork again
+:xjobzlvcli;
+end merge
+stop
+end group
+@enduml

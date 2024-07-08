@@ -1,0 +1,39 @@
+@startuml
+state nerqol
+nerqol --> kqdzej : haptg
+kqdzej --> njoccu : hmdee
+njoccu --> vfrgkw : cuvdj
+vfrgkw --> abbsfm : rcift
+state zciefh <<choice>>
+abbsfm --> zciefh : jbcbh
+zciefh --> zieknl : mtpp
+zieknl --> gkzucf : ctbjl
+gkzucf --> hrblqe : oisdhxl
+zciefh --> dhsdqk : lreb
+dhsdqk --> adisyn : ixtba
+adisyn --> hrblqe : degorqe
+zciefh --> rpbqvj : zrgf
+rpbqvj --> pchtsa : zxcfp
+pchtsa --> jcuewp : wphnx
+jcuewp --> hrblqe : ifzrzwz
+hrblqe --> ntgcix : ynrce
+ntgcix --> hbxmrd : xewtp
+hbxmrd --> ydodrz : zcrus
+state wgsqdx <<choice>>
+ydodrz --> wgsqdx : defjs
+wgsqdx --> stydig : xgfn
+stydig --> vgzjvq : ezqvi
+vgzjvq --> vtofda : ztbvu
+vtofda --> enswhc : ixyxrsq
+wgsqdx --> ukysyh : wzyk
+ukysyh --> bmhucc : rsxkb
+bmhucc --> iuhrxf : jgwyr
+iuhrxf --> fpjamp : rmqzd
+fpjamp --> enswhc : gpqshtj
+enswhc --> hkguwi : btpsl
+hkguwi --> ctgvff : jpser
+ctgvff --> jymtta : yarkx
+jymtta --> cdvysq : mzmnm
+cdvysq --> xhtaun : bujfe
+xhtaun --> [*] : dbuon
+@enduml

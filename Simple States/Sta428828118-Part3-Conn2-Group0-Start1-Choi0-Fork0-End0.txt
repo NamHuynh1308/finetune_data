@@ -1,0 +1,6 @@
+@startuml
+hide empty description
+state dstgle
+[*] --> dstgle : bdlud
+dstgle --> hwijap : cewio
+@enduml

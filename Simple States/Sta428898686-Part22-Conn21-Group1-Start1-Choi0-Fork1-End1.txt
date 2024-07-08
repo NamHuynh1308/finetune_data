@@ -1,0 +1,29 @@
+@startuml
+hide empty description
+state nozghw
+nozghw --> usihcd : leeie
+usihcd --> qgmylf : rmnjl
+state qgmylf {
+[*] --> mddvwt : vkusl
+mddvwt --> ihherc : ihjul
+ihherc --> dusbmp : sdrgk
+dusbmp --> [*] : rllff
+}
+qgmylf --> fpwxkw : gdlsb
+fpwxkw --> masxuy : merud
+masxuy --> zcjoxa : upqmo
+zcjoxa --> qusvet : hascw
+state gzhxml <<fork>>
+qusvet --> gzhxml : vlejx
+state halqhb <<join>>
+gzhxml --> birrko : ptmj
+birrko --> oeoact : ilpzf
+oeoact --> hudeht : vcqwo
+hudeht --> aikwfn : atcef
+aikwfn --> halqhb : jxyulvy
+gzhxml --> thflmc : ulzm
+thflmc --> dguvuj : xjmqq
+dguvuj --> kzhnuu : sxldp
+kzhnuu --> halqhb : zrbabri
+halqhb --> egmlyu : gynwj
+@enduml

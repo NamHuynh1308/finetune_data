@@ -1,0 +1,16 @@
+@startuml
+state qkngxy
+qkngxy --> pungqe : jxnyc
+pungqe --> qnkjyb : efsfz
+qnkjyb --> xdhuuf : tghye
+xdhuuf --> pqsbzz : gnixa
+pqsbzz --> qwkbpe : evipe
+qwkbpe --> bbtcie : avlau
+bbtcie --> prufmf : pllxk
+prufmf --> qbgwfc : quwze
+state qbgwfc {
+ibficy --> lqcmmm : seurb
+lqcmmm --> hnkpky : jmgvq
+hnkpky --> [*] : hzghw
+}
+@enduml

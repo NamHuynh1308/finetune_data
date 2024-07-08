@@ -1,0 +1,64 @@
+@startuml
+|1| vqpfkt
+|2| weezmp
+|1|
+start
+repeat
+if (ynhuwhwdqlig?) then (raqu)
+:dpifcuqzox; <<output>>
+-> fdwomj;
+kill
+else (txst)
+:oowlyzomlx; <<continuous>>
+-> tentiy;
+:vspyz;
+:sshbmriewv; <<input>>
+:fdisglnejh; <<save>>
+-> krxpml;
+endif
+while (iscrshyyxotp?) is (srcj)
+:ukrlp;
+backward:jdkykf;
+:shjnt;
+endwhile (azbl)
+:ozcebaxc;
+repeat while (qbplvclptviu?) is (glhq)
+|2|
+switch (vbtdouqkdypy?)
+case (pjiilxf?)
+:xiydwanjaf; <<save>>
+case (nlphwjd?)
+:mkpmajrhlh; <<output>>
+endswitch
+:okpyqdvftz; <<task>>
+-> yepijw;
+fork
+:fvyzn;
+fork again
+split
+:bgfei;
+split again
+:fdpjl;
+split again
+:cghgcsbrnb; <<procedure>>
+-> okudtj;
+split again
+:rfltb;
+end split
+fork again
+split
+:xnopj;
+split again
+:qypximclbs; <<continuous>>
+split again
+:ylzbeuemfh; <<continuous>>
+-> zdnaaq;
+split again
+:rdozxvjgax; <<load>>
+split again
+:yagbvrxvqw; <<task>>
+end split
+end merge
+:qqzromyqbq; <<task>>
+end
+@enduml

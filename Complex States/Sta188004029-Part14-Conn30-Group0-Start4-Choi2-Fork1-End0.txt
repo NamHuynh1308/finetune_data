@@ -1,0 +1,46 @@
+@startuml
+state "sijev" as 0
+state "zcttx" as 1 : onbfinmibf
+state 2 <<start>>
+state "mmnfh" as 3
+state 4 <<start>>
+state 5 <<choice>>
+state 6 <<fork>>
+state "qzykk" as 7 : yvdpsnbvgs
+state 8 <<start>>
+state 9 <<choice>>
+state "zwdlz" as 10 : iaibiqhked
+state 11 <<start>>
+state "rxcla" as 12
+state "btset" as 13 : bgnkpumguz
+0 --> 1 : jdkhru
+0 --> 10 : jjvilo
+5 --> 0 : ccrumi
+1 --> 1 : svxjia
+1 --> 7 : cucptm
+11 --> 1 : jfqjcx
+2 --> 6 : pgbanv
+3 --> 12 : zlwzqu
+10 --> 3 : gqcntz
+4 --> 12 : fnvwey
+11 --> 5 : nyqmil
+5 --> 12 : bfpdcl
+4 --> 6 : vifmzw
+6 --> 1 : nunjiw
+6 --> 1 : stnzwq
+7 --> 7 : pnhvta
+3 --> 7 : ezvrrw
+6 --> 7 : mohpoe
+8 --> 13 : zarpug
+4 --> 9 : mpgpsx
+9 --> 0 : jwalso
+9 --> 6 : qhoksf
+10 --> 13 : awxfeh
+10 --> 10 : yahlgo
+6 --> 10 : sxolvs
+11 --> 6 : mraimt
+12 --> 6 : gvachj
+2 --> 12 : leurjg
+13 --> 6 : nkjiiu
+13 --> 13 : objrjk
+@enduml

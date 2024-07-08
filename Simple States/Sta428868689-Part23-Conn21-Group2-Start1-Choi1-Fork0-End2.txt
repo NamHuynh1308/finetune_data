@@ -1,0 +1,30 @@
+@startuml
+hide empty description
+state ozrlbb
+ozrlbb --> tudhdl : lnmkv
+tudhdl --> vtlvfm : qeasm
+state vtlvfm {
+[*] --> rjwdwi : jwrbl
+rjwdwi --> yjtxht : zdsgc
+yjtxht --> xqdrrk : omtfa
+xqdrrk --> cunjsn : ydjia
+cunjsn --> [*] : kxiqh
+}
+state wlwezx <<choice>>
+vtlvfm --> wlwezx : rqpbf
+wlwezx --> ifqmlj : hsmu
+ifqmlj --> sinfru : vjfrl
+sinfru --> mcsajl : algrwmt
+wlwezx --> lmloeb : xzvd
+lmloeb --> orogpb : bppbb
+orogpb --> zilmue : demdl
+zilmue --> elhxsy : wxjwj
+elhxsy --> mcsajl : redjfpo
+mcsajl --> zqijyj : rzvcz
+zqijyj --> svilev : hlpkc
+state svilev {
+htvvlc --> qdxrxt : tusky
+qdxrxt --> vgeatn : gipee
+}
+svilev --> [*] : izghc
+@enduml

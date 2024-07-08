@@ -1,0 +1,42 @@
+@startuml
+start
+if (pexlmrgnokxq?) then (fyxj)
+:stqqgosdlz; <<task>>
+-> sbghme;
+fork
+:gqhsl;
+fork again
+:abxztdxwqb;
+fork again
+:cmsywaampq; <<load>>
+-> tprmry;
+end fork
+kill
+else (icmw)
+:qaegyiyqfb; <<continuous>>
+-> iubhwl;
+fork
+:sqknd;
+fork again
+:gnoimzborq;
+-> itxlev;
+fork again
+:bbbitizmbh; <<continuous>>
+end fork
+switch (slimkojdnsoa?)
+case (dhqywoa?)
+:lisea;
+case (xwqzwqi?)
+:oopfuplbzk; <<output>>
+-> dzkjtm;
+endswitch
+kill
+endif
+:qgqwvwyhji; <<output>>
+-> jfhinz;
+group tdcrhc
+:seazxrjbpf;
+-> clzrcn;
+stop
+end group
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+hide empty description
+state gpefed
+gpefed --> jlsbcb : lhufx
+state jlsbcb {
+[*] --> flcajv : icmnn
+flcajv --> ezayno : tcysl
+ezayno --> bkubop : xvdoe
+bkubop --> [*] : ankww
+}
+state kabgrl <<fork>>
+jlsbcb --> kabgrl : orkjf
+state bhnjmu <<join>>
+kabgrl --> xdsofp : qscz
+xdsofp --> tkwarb : owbpk
+tkwarb --> swaktw : ecnvz
+swaktw --> mkpbxe : xcjrd
+mkpbxe --> bhnjmu : fzrjbxt
+kabgrl --> iqrlho : fdxq
+iqrlho --> ushabz : bzjny
+ushabz --> xfjcbv : hlyag
+xfjcbv --> bpkpvm : ibove
+bpkpvm --> bhnjmu : peeowpi
+bhnjmu --> whtput : afixv
+whtput --> [*] : ypvmr
+@enduml

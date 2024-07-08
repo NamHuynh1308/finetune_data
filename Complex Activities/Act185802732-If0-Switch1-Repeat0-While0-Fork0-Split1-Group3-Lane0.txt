@@ -1,0 +1,38 @@
+@startuml
+start
+group snhraw
+:wekzcousfo; <<output>>
+group acefqv
+:euzindnepk; <<load>>
+:fcyhutektw; <<input>>
+end group
+group jdjgxg
+:sclmrizwrk; <<input>>
+-> xoqaon;
+:kkbxztcwvs;
+end group
+:lbrmfxhhxv; <<load>>
+-> uehfap;
+end group
+:nslqlzpoau; <<input>>
+switch (qfmrxyvkrppq?)
+case (clrviep?)
+:grswsyapso; <<output>>
+case (wbvyyys?)
+split
+:uaxqe;
+split again
+:ypmqk;
+split again
+:zzquequxjv; <<save>>
+split again
+:zbcukeknlc; <<procedure>>
+-> pnmras;
+end split
+case (onimvrr?)
+:kpyvshbmef; <<task>>
+endswitch
+:mvvfcgujfk; <<save>>
+:kmkibtnymk; <<load>>
+stop
+@enduml

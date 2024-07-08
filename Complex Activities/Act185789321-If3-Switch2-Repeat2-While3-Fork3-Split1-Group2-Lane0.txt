@@ -1,0 +1,125 @@
+@startuml
+start
+fork
+:xfotp;
+fork again
+switch (ijnngexlntob?)
+case (ixlfeeu?)
+:qvgvu;
+case (hganldx?)
+:luouwqeipc; <<task>>
+endswitch
+fork again
+:vieteytcem; <<procedure>>
+end merge
+repeat
+backward:wajsvh;
+:geommktbxa; <<continuous>>
+:raeyevlsdm; <<task>>
+:ehgaqrxypa;
+if (vbgivqmwlqbl?) then (obst)
+:zltqb;
+:bkjvpizrgo; <<continuous>>
+-> ahfswm;
+:kxmmj;
+:rnusvwcrie;
+:yrniltmwun; <<continuous>>
+else (bsog)
+:xqeav;
+:tmdsjoncyz; <<load>>
+:jxgdn;
+endif
+repeat while (dgxjoujpzbei?) is (fisx)
+-> mjqjhz;
+group iewaqz
+repeat
+switch (oluzjnrxypby?)
+case (knvzcly?)
+:rwvtiootgt; <<continuous>>
+case (ylazmek?)
+:fvklh;
+endswitch
+while (ptpqeyppxeku?) is (hkjq)
+:xxgqqzhavl; <<continuous>>
+-> bxutdm;
+backward:xpmtjb;
+backward:oypvny;
+:yozcd;
+endwhile (nbgu)
+:uuplkemh;
+if (eaeipsvyjlzj?) then (ikxe)
+:pjrlqdywxv;
+-> tqyepy;
+:sgcrigyjrj;
+:zfemqyzaoz; <<continuous>>
+:whmgjnvyrh;
+while (qmspajjnxffh?) is (nntf)
+backward:gveikm;
+:scrno;
+:anuzi;
+backward:kjskig;
+endwhile (eenn)
+-[hidden]->
+detach
+else (iczu)
+:bcmspyfpug;
+-> mxvmqu;
+endif
+fork
+:tpsmc;
+fork again
+:xmzggvkltb; <<continuous>>
+fork again
+:zxkkubdzrd;
+-> czrbhy;
+fork again
+:guzblwzhdg;
+end fork
+:imvkbgcaof; <<save>>
+repeat while (zbsrnchvzdme?) is (srwb)
+-> qypnmw;
+while (zhgkeqeoqadf?) is (qkcz)
+:lcqmednypt; <<procedure>>
+:dosgzthtmz; <<save>>
+-> edokwi;
+split
+:cjyje;
+split again
+:nxhtvg;
+kill
+split again
+:lbkzpdvgzx; <<procedure>>
+split again
+:hlonp;
+end split
+:uquicqiuik;
+if (wdjhnupnrycc?) then (hmpv)
+(wzgn) elseif (edhigbj?) then (otlg)
+:fcdrbaupvv; <<continuous>>
+(wvfg) elseif (mkfrunx?) then (mrzk)
+:dzxyezjtym; <<continuous>>
+(itfs) elseif (ckghfgq?) then (cjbu)
+:aqpabrmexo; <<save>>
+endif
+endwhile (iwlo)
+:mplisfxe;
+fork
+:xbefw;
+fork again
+:cuimmx;
+kill
+fork again
+:qbodmtutuh; <<task>>
+-> kqvkfy;
+fork again
+:tskaqaztvv; <<output>>
+end fork
+group plyxqw
+:uszyiivxmb;
+-> vjehbg;
+:kokjkjkwpj;
+-> rjsaxb;
+end group
+stop
+end group
+@enduml

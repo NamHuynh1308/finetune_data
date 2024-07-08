@@ -1,0 +1,13 @@
+@startuml
+start
+group pfudtl
+fork
+:saaju;
+fork again
+:gsjzcycixa;
+fork again
+:jcunschdfb; <<procedure>>
+end fork
+stop
+end group
+@enduml

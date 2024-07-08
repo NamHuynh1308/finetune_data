@@ -1,0 +1,18 @@
+@startuml
+state vaskic
+[*] --> vaskic : gntjc
+vaskic --> ebmlqt : thdwo
+ebmlqt --> hnwqml : xayms
+hnwqml --> ukdlxu : kthox
+state cjdisc <<fork>>
+ukdlxu --> cjdisc : hutxr
+state bcydbh <<join>>
+cjdisc --> gmmdmy : njsr
+gmmdmy --> pcaxev : nigef
+pcaxev --> vgvojr : pptsj
+vgvojr --> bcydbh : cifgygv
+cjdisc --> jqiiyp : xcyl
+jqiiyp --> rqhlxw : ubsyi
+rqhlxw --> bcydbh : zhewvvy
+bcydbh --> koxmsb : udbeu
+@enduml

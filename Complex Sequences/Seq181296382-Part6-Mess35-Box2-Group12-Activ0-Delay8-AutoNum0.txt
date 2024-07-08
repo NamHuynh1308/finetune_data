@@ -1,0 +1,83 @@
+@startuml
+participant wbxhlf as 0
+box "lhdcj"
+participant hsoyxl as 1
+participant apxbor as 2
+end box
+box "ehsrb"
+participant uavcad as 3
+participant npsxqw as 4
+end box
+== zebjcj ==
+2 -> 4: avyznbpntq
+3 ->] : fcbuzmqgpp
+0 ->] : ghtpfqfkbb
+opt rnejanxueiye
+0 -->x 2: gpwgeozrtm
+critical dvxvirvhirap
+...sxikiouv...
+3 -> 3!! : krvfzbvxwx
+...psdouhoz...
+2 -> 4: obivgvzmxt
+loop rokltklpowxp
+0 ->o 0: hvmdvmdoyy
+...lwvljjrp...
+3 -// 2: kujuemcvie
+end
+alt vyiegmzahyft
+...ynebhhcu...
+1 -> 0: ykhmheikqm
+0 -// 3: nvosknxjrg
+0 -> 1: cszyshyiyp
+loop okxlmzoqenix
+...vcmqsxqu...
+0 -> 3: ykppecbewb
+critical mghmyluopdlw
+0 --//o 2: xznercpyty
+0 --> 2: xiwpurzylz
+end
+...kljkqefk...
+2 -->x 3: uxflhroyso
+par ftudnrbldsli
+2 ->o 1: vetdyzifqj
+3 -> 4!! : jpupbtjplj
+else qxyhyiuifkvq
+0 -> 2: nwgdyasqhj
+...wsrxoebc...
+0 <-] : orlhvfggpr
+2 <-] : ozwdhmtkzm
+loop dxopbwpcaasz
+1 --//o 3: pqxqwgexpv
+opt wrwwissqzmwu
+ [-> 2: nurgfhhzom
+loop oikftizqwmaq
+2 -> 4: ujylxaqqgw
+2 -> 1: yndwmiepyt
+1 -\\ 1: dxnqikfjba
+0 --//o 0: gwmyzdxzjj
+ [-> 2: xdsnpylryi
+create participant gbjizxupms as 5
+1 -> 5 : gbjizxupms
+end
+...akealvyh...
+0 -->x 1: xwxiwqstkk
+alt hofwvotmplly
+2 <-> 4: wovbgathbu
+4 -\\ 4: pyzxcmqxvy
+4 ->x 1: iarondffbs
+loop ylfnxuxpdgju
+4 --> 3: smapwidgqd
+4 -> 4: twvklvbewv
+else mgkmqryfxauc
+4 ->> 3: kxwbvzaphc
+else ofjcyiigwktx
+end
+end
+end
+end
+end
+end
+end
+end
+end
+@enduml

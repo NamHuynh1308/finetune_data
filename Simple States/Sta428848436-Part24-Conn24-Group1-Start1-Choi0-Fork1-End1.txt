@@ -1,0 +1,31 @@
+@startuml
+state wpgqds
+wpgqds --> ykmsnc : hgcxg
+ykmsnc --> cievkq : vngif
+state cievkq {
+[*] --> wjjdjn : mqryc
+wjjdjn --> jsnqxg : vqzjq
+jsnqxg --> [*] : ijznp
+}
+cievkq --> xfnwqh : gagvw
+xfnwqh --> jipknb : pwxvz
+jipknb --> lvhfdz : vojyz
+state rjdtjw <<fork>>
+lvhfdz --> rjdtjw : fmypy
+state wdvcha <<join>>
+rjdtjw --> dczqvd : tdof
+dczqvd --> vjsxyb : txrzu
+vjsxyb --> hokxwe : mwhkh
+hokxwe --> wdvcha : rtgcwgz
+rjdtjw --> gyojqr : avrh
+gyojqr --> rmlcjs : luvvq
+rmlcjs --> aqhtbm : sdzxw
+aqhtbm --> hohqiz : xnifz
+hohqiz --> wdvcha : gleardf
+rjdtjw --> mrwiym : nldg
+mrwiym --> jvfeum : ughxo
+jvfeum --> dvryxh : rofhm
+dvryxh --> sdxeie : mcves
+sdxeie --> wdvcha : rwrgdnf
+wdvcha --> uwhdqd : hxlzk
+@enduml

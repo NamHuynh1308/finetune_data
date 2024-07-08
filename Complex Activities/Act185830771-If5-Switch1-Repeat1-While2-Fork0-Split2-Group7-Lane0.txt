@@ -1,0 +1,140 @@
+@startuml
+split
+-[hidden]->
+:yayjq;
+split again
+-[hidden]->
+:fycazrfcik; <<output>>
+-> hkclvc;
+split again
+-[hidden]->
+:xjrfuutrwt; <<input>>
+split again
+-[hidden]->
+if (uxcngdlbmkiv?) then (iabt)
+:ptitnvufgq; <<continuous>>
+:pbyim;
+:tcxgzfydqf; <<continuous>>
+:pduew;
+else (vdsm)
+:hbilb;
+:trfsh;
+:sfxqorthck; <<save>>
+-> twpgrp;
+while (ewjiarliaypf?) is (iswa)
+:lroxbyzzfa; <<load>>
+-> jrsbbc;
+backward:qeogvy;
+backward:eyltgf;
+endwhile (iawu)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+:kmbtniloim;
+-> hzhosu;
+split again
+-[hidden]->
+:tmfwnf;
+kill
+end split
+group mbphac
+:finxchilso; <<load>>
+group mcduhw
+:lyegbfjuzz; <<save>>
+group hwmntm
+:mrmxynhfxp; <<load>>
+-> zqlysk;
+if (zorqxeewznqv?) then (fcwp)
+:hmxaqlbzhu;
+while (smdofszjogod?) is (aait)
+if (qgksadzbnize?) then (ylru)
+:uyqkwvdxvg; <<load>>
+:lyojyxyqkv; <<task>>
+:bdkgx;
+:reggm;
+else (qghy)
+:qxwcs;
+endif
+:sytmbomodr; <<task>>
+backward:zlxoib;
+if (xsxalvsnppba?) then (dbuz)
+(circ) elseif (feyhvww?) then (wdkw)
+:ykadikktur; <<task>>
+(qvdd) elseif (fbyjlfs?) then (gshb)
+:jjfjy;
+(evww) elseif (eqmytvy?) then (mgrg)
+:bbhyfstygd; <<output>>
+-> xmqotj;
+(ktkh) elseif (bgrpbaw?) then (onmx)
+:xvbgp;
+(wlmu) elseif (ytgowaf?) then (gvrf)
+:xbosm;
+endif
+endwhile (wnnc)
+-[hidden]->
+detach
+else (chsa)
+split
+:vhtzr;
+split again
+:qgqiunkkal; <<continuous>>
+split again
+:zjeweoxeuy; <<procedure>>
+split again
+:lfctmp;
+kill
+split again
+:ncdui;
+end split
+endif
+group tjeznr
+:gosvzvkeun;
+-> dsgmrj;
+switch (uicttshqwoyw?)
+case (mivregq?)
+:qinsxdnnin;
+case (qubcvyz?)
+:ibigitcfqm;
+case (mfwisrw?)
+:yconreleoc; <<input>>
+case (zobqwka?)
+:kygsfjguus; <<continuous>>
+endswitch
+group zmffys
+repeat
+:uovaqv;
+if (ihpfala) then (rxgg)
+:jznuer;
+break
+endif
+->bmwa;
+:hnqpzq;
+repeat while (fyggbqnelcuk?) is (jihv)
+-> cyqtsp;
+group mgzwur
+:ropffyfzys; <<procedure>>
+-> qfhcdh;
+group vlpheb
+if (zcjauicrtmdg?) then (ghkc)
+:ytvzgvzoiz; <<task>>
+-> jgohiz;
+:dhmpldexrp; <<input>>
+-> tjkkgg;
+else (egja)
+:gtqxcusgmq; <<save>>
+-> jzbzvl;
+:dzqqurnzse; <<save>>
+-> srmfvz;
+:ecbllxboun;
+endif
+stop
+end group
+end group
+end group
+end group
+end group
+end group
+end group
+@enduml

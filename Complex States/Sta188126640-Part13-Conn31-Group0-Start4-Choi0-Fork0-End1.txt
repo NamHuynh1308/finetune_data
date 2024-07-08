@@ -1,0 +1,47 @@
+@startuml
+hide empty description
+state 0 <<start>>
+state "oxpfr" as 1
+state "zavra" as 2 : ijklpbagug
+state "nsecp" as 3
+state "fftyt" as 4 : klkcvoftun
+state "wkyxd" as 5
+state 6 <<start>>
+state "auziy" as 7
+state "pbaei" as 8 : posnkorrxk
+state 9 <<start>>
+state 10 <<end>>
+state 11 <<start>>
+state "fzyst" as 12 : iyiskgeeol
+0 --> 3 : mcrplg
+1 --> 12 : ztwovy
+2 --> 1 : yriynp
+4 --> 1 : cikbbf
+2 --> 7 : rsmpax
+2 --> 3 : yjpbxx
+6 --> 2 : oquyok
+12 --> 2 : ieylbo
+3 --> 1 : slvyjv
+3 --> 5 : arakyn
+1 --> 3 : arvxyq
+11 --> 3 : adrdrk
+4 --> 1 : ajaxmb
+11 --> 4 : eguqti
+0 --> 4 : rasxpr
+5 --> 4 : qjnroc
+11 --> 5 : qgonrb
+12 --> 5 : ydkitk
+6 --> 8 : jcjrat
+7 --> 8 : oovyod
+7 --> 1 : dxepgi
+2 --> 7 : toocfx
+8 --> 1 : yafzhn
+8 --> 8 : uvpryi
+7 --> 8 : svpiff
+9 --> 7 : zdzjfl
+3 --> 10 : tllrvx
+11 --> 12 : moufyf
+12 --> 3 : ioyfxa
+9 --> 12 : qegscl
+0 --> 12 : uqoifd
+@enduml

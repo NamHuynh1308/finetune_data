@@ -1,0 +1,37 @@
+@startuml
+|1| sqefoc
+|2| stefbb
+|1|
+start
+if (ktafxtxatibb?) then (ubzk)
+(fokv) elseif (jxxfnzr?) then (jyst)
+repeat
+:yfagdm;
+if (qdreory) then (rzof)
+:ehaqog;
+break
+endif
+->kucx;
+:bdrrea;
+:lyygo;
+:lvrscddudg;
+:ozokanpwvy; <<task>>
+repeat while (xlnlnozjqays?) is (vvnw)
+(zqru) elseif (lifplsc?) then (lrob)
+:neikginelx; <<save>>
+-> losxdi;
+endif
+|2|
+:vystjpxauy;
+-> bizylx;
+fork
+:auwkw;
+fork again
+:ozrarbxnne; <<input>>
+-> mhsrtb;
+fork again
+:lhgiyugkfc; <<load>>
+-> sscbdr;
+end merge
+end
+@enduml

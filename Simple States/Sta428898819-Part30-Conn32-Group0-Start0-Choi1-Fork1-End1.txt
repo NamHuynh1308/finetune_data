@@ -1,0 +1,38 @@
+@startuml
+state zfquty
+zfquty --> fhihrh : pbdyb
+fhihrh --> ebtipj : vxtvd
+ebtipj --> fkplbx : atqin
+fkplbx --> szayec : zrihz
+state ebrevz <<choice>>
+szayec --> ebrevz : xrlay
+ebrevz --> noxjal : cthg
+noxjal --> girqvg : dorpz
+girqvg --> jwqoor : pucnx
+jwqoor --> sklcks : rkueiac
+ebrevz --> naowxf : csyn
+naowxf --> pfycqg : pspbj
+pfycqg --> wtdthr : zgdtj
+wtdthr --> dyovrf : qpsog
+dyovrf --> sklcks : eamvlwg
+ebrevz --> losmqz : zyqi
+losmqz --> rrnrqo : vattd
+rrnrqo --> whqovf : qwkdk
+whqovf --> sklcks : hpdjetr
+sklcks --> wecubv : ayimo
+wecubv --> wcotiu : fwpij
+wcotiu --> dwkqke : wysli
+dwkqke --> cbplev : qxyfj
+state fpeimx <<fork>>
+cbplev --> fpeimx : bxwww
+state eixsla <<join>>
+fpeimx --> jyfugq : jtpa
+jyfugq --> uzwfep : cjjcq
+uzwfep --> eixsla : epohmue
+fpeimx --> nkmmxg : jfac
+nkmmxg --> uikhxz : ibohp
+uikhxz --> lesyhl : frxyv
+lesyhl --> eixsla : bplghht
+eixsla --> lgvuco : fpxhu
+lgvuco --> [*] : ggqyc
+@enduml

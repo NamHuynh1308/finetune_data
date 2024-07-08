@@ -1,0 +1,161 @@
+@startuml
+|1| mesyaa
+|2| lkgmgc
+split
+-[hidden]->
+:oufug;
+split again
+-[hidden]->
+:gnwkxswzkv; <<input>>
+-> ojyhba;
+split again
+-[hidden]->
+:qsvzizkeph; <<input>>
+split again
+-[hidden]->
+split
+:nwwil;
+split again
+:agttberfbx; <<continuous>>
+split again
+:dhnrn;
+end split
+split again
+-[hidden]->
+:yxidziaeba; <<task>>
+split again
+-[hidden]->
+:mvqvbgctwl;
+end split
+if (dxwbbtsjtnhq?) then (wyhx)
+:fkmznwsyro; <<output>>
+-> bnkoil;
+fork
+:uyobz;
+fork again
+:bfespxzvln;
+-> zxbtrv;
+fork again
+:ghzjf;
+fork again
+:gvdnczbqye; <<task>>
+-> orxbzt;
+end fork
+:zeogubcbpp; <<input>>
+:pdchxzeenh; <<task>>
+:wskqflxtll; <<save>>
+kill
+else (ytcd)
+:nzezjmuisd; <<procedure>>
+-> ykaqxl;
+:uwhghjyriy; <<continuous>>
+while (abrynvyiovus?) is (uryj)
+fork
+:notyf;
+fork again
+:jdctf;
+fork again
+:wkjxuxblys;
+fork again
+:aaowrasoox; <<load>>
+fork again
+:qionuwyaaa; <<procedure>>
+-> ycoiav;
+fork again
+:mkqmejvkid;
+end merge
+:hfnnwzcjiy;
+backward:hxabqq;
+while (krwpyjsfdckn?) is (jmoy)
+backward:eqecav;
+:yatofejbzl; <<input>>
+endwhile (ilrr)
+:sfuihfzs;
+backward:joatgx;
+endwhile (davk)
+-[hidden]->
+detach
+endif
+|2|
+:utevmhyylx;
+:tembaxkzzj; <<task>>
+:hjyimzkxdh; <<input>>
+-> lgdjqq;
+:dbwfdnxplm;
+fork
+:vrdfj;
+fork again
+:qqyupjgncy; <<task>>
+-> vrzpvr;
+fork again
+fork
+:bcbwx;
+fork again
+:etgkc;
+fork again
+:bxutbtinsf; <<output>>
+fork again
+:kiiop;
+end fork
+end merge
+|1|
+:chtzomohhj; <<task>>
+-> ncyszg;
+|2|
+:jjunyxiasd; <<task>>
+|1|
+:nrwszyotnc; <<continuous>>
+if (josxarhtffbv?) then (iond)
+fork
+:rwmdk;
+fork again
+:tqavzunjyv; <<procedure>>
+fork again
+:upilx;
+fork again
+:bvnyz;
+end merge
+if (airqmdgwyrab?) then (xpam)
+:vdrzzxpwhf;
+:xhcfkbfxnd; <<save>>
+-> wugamz;
+else (wkxg)
+:fbosb;
+endif
+while (vovlpjfyfgrz?) is (xmxj)
+backward:hpxpru;
+backward:loicjr;
+:gghbq;
+endwhile (rkeu)
+:hulbjfpr;
+if (trdtkulxllqf?) then (pckq)
+(hhle) elseif (geumagm?) then (qwcd)
+:ohfku;
+(xiet) elseif (fhzdohl?) then (zflo)
+:wycan;
+(tkwl) elseif (kiwrzne?) then (vwxk)
+:wnqrolbonk; <<continuous>>
+(ydvc) elseif (cgygrph?) then (lpgy)
+:uqgnjv;
+kill
+endif
+:ycvzgljvre;
+else (mrvl)
+fork
+:etbcx;
+fork again
+:jvqit;
+fork again
+:widptttvhd; <<load>>
+-> srqueh;
+fork again
+:qblqc;
+fork again
+:abnzh;
+fork again
+:pkcbj;
+end merge
+endif
+|2|
+:ssmjfqboqn; <<save>>
+@enduml

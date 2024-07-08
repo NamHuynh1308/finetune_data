@@ -1,0 +1,103 @@
+@startuml
+start
+group fwrvoe
+:nvwrkvyqxb;
+-> fptnch;
+:ixoojoqyfs; <<procedure>>
+group neraxo
+switch (aagjmqojgjrm?)
+case (lckqlgy?)
+fork
+:zvziv;
+fork again
+:syxox;
+fork again
+:bpxjrcnjoz; <<load>>
+fork again
+:rnswc;
+end fork
+case (sndpbya?)
+switch (gpuqwrnvafvp?)
+case (ibzidfz?)
+:liqgkieaeg;
+case (kxzbbbf?)
+:dmbtagxzme;
+-> dontjp;
+case (yzugfdt?)
+:cwuergmesf; <<save>>
+-> otsxfi;
+case (rpphqrd?)
+:wxltyhriri;
+-> fudhtn;
+case (oqzqrqf?)
+:snqyn;
+endswitch
+case (lqaahml?)
+:lbrnlziyfx; <<task>>
+endswitch
+group istxzj
+fork
+:nlvrt;
+fork again
+:iomczxotco;
+fork again
+:dtlearidrk;
+-> fsvnpd;
+fork again
+split
+:ldboq;
+split again
+:hbqyn;
+split again
+:rspsk;
+split again
+:voqbvmvxnw; <<load>>
+split again
+:htdvkmhual; <<procedure>>
+-> bgyjlu;
+split again
+:ppmxeyuirp; <<procedure>>
+-> ggbhbe;
+end split
+fork again
+:ivfuwovxaz; <<output>>
+-> mtmnqb;
+end merge
+:blegftrmrl;
+-> nopmte;
+:hnfnboqrny; <<task>>
+group ykxcyp
+:arzsbbisai; <<save>>
+-> bwwjuf;
+group aodyzw
+split
+:wjryt;
+split again
+:quavsczhyw; <<save>>
+-> hcryir;
+split again
+fork
+:ibnse;
+fork again
+:vfgverdhiu;
+fork again
+:abwcnkwxyv;
+-> geegis;
+fork again
+:vadomtoafn;
+fork again
+:jouwoornbx; <<output>>
+-> cwygcr;
+fork again
+:iiete;
+end merge
+split again
+:qatejzxdbf;
+end split
+stop
+end group
+end group
+end group
+end group
+end group
+@enduml

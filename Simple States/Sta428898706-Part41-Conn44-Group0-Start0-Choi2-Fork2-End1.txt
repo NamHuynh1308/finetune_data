@@ -1,0 +1,53 @@
+@startuml
+state ounkib
+ounkib --> rmxido : euypc
+rmxido --> zdmwmj : euvmn
+zdmwmj --> difjqw : auicv
+state yrxlrt <<choice>>
+difjqw --> yrxlrt : osbwy
+yrxlrt --> vnlctz : dzcw
+vnlctz --> phwlll : vzxub
+phwlll --> hmqvtq : uhnrs
+hmqvtq --> wjwyiw : vnqnq
+wjwyiw --> waeudj : ycyrmrp
+yrxlrt --> qebgbl : bgzm
+qebgbl --> sxiqoo : rchdt
+sxiqoo --> ngsyho : mruwu
+ngsyho --> qprumn : mmxbw
+qprumn --> waeudj : oemslxe
+state cjbnwc <<choice>>
+waeudj --> cjbnwc : anmug
+cjbnwc --> pppgke : pime
+pppgke --> tkanpv : lgnfm
+tkanpv --> ygulkq : ijdkwcn
+cjbnwc --> visqyi : wtqw
+visqyi --> yxrzzh : pxibd
+yxrzzh --> ygulkq : imxhfdl
+ygulkq --> lfhyxf : kduld
+lfhyxf --> hyvksq : udhgn
+hyvksq --> kembwq : hqhkf
+state drrphr <<fork>>
+kembwq --> drrphr : cyieo
+state xooczv <<join>>
+drrphr --> pthkco : kpxw
+pthkco --> dbfell : anotc
+dbfell --> xooczv : uzxywgu
+drrphr --> pdcuie : jikl
+pdcuie --> igzahl : dbemc
+igzahl --> agyybe : qplgf
+agyybe --> xooczv : ljuxffi
+state ailcds <<fork>>
+xooczv --> ailcds : qzqur
+state vgquis <<join>>
+ailcds --> dwbheb : nvue
+dwbheb --> igmrwe : dimxj
+igmrwe --> vgquis : djgreai
+ailcds --> nqwgdz : iazf
+nqwgdz --> suaquq : ytdus
+suaquq --> vgquis : edlvqcw
+vgquis --> ppwatf : mvuqt
+ppwatf --> sxsjaw : ekpxo
+sxsjaw --> uffjpn : cxmqm
+uffjpn --> xsinss : vdikv
+xsinss --> [*] : mhaaz
+@enduml

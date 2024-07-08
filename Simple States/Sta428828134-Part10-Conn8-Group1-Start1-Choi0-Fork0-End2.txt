@@ -1,0 +1,14 @@
+@startuml
+hide empty description
+state nsztiw
+[*] --> nsztiw : tmgri
+nsztiw --> dfklmo : jbuhm
+dfklmo --> geygnv : vathz
+state geygnv {
+gtlllq --> qwnqcx : oggrc
+qwnqcx --> hojdot : tfkdq
+hojdot --> qttapv : mjvsx
+qttapv --> [*] : uwygm
+}
+geygnv --> [*] : rskup
+@enduml

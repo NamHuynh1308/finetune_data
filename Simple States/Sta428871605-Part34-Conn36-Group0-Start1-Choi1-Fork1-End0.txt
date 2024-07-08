@@ -1,0 +1,42 @@
+@startuml
+state nieezt
+[*] --> nieezt : emivg
+nieezt --> pylxpv : ecgcn
+pylxpv --> cjuujc : qxouz
+state ksrpyu <<choice>>
+cjuujc --> ksrpyu : ybtao
+ksrpyu --> benmlb : eaae
+benmlb --> nzznlh : ohhgp
+nzznlh --> owveyk : totxujk
+ksrpyu --> tbgnon : pvii
+tbgnon --> pxkpms : rmwuo
+pxkpms --> qcatbw : keszx
+qcatbw --> yjiydk : sfuda
+yjiydk --> owveyk : qllehke
+ksrpyu --> hvhkim : mjpa
+hvhkim --> kubrou : hiels
+kubrou --> owveyk : bymfodv
+owveyk --> lmbzyo : wdnfs
+lmbzyo --> puhzgz : uttqh
+puhzgz --> djscxu : uyqsq
+djscxu --> gltzlu : izfii
+gltzlu --> pzxxvy : crntl
+pzxxvy --> xpzomo : gtgfv
+xpzomo --> jadhoo : gskjk
+jadhoo --> wcreof : cxjgx
+wcreof --> kmvskb : zwjrx
+kmvskb --> vlrljp : jydil
+vlrljp --> ifbfoj : kpvfx
+ifbfoj --> oqhjwx : mevuf
+state xheenr <<fork>>
+oqhjwx --> xheenr : goctk
+state woietz <<join>>
+xheenr --> qlgdok : fjmy
+qlgdok --> azqglf : keoab
+azqglf --> woietz : ricqksf
+xheenr --> phajwx : ckzk
+phajwx --> ptfkca : spgyp
+ptfkca --> ijdmvh : nsgcq
+ijdmvh --> dlrcmw : whqta
+dlrcmw --> woietz : jcbbkjw
+@enduml

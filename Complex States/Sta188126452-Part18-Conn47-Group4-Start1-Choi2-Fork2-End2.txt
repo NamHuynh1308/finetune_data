@@ -1,0 +1,117 @@
+@startuml
+state "kunwy" as 0 {
+ofctwq --> ylckxm : csqfb
+ylckxm --> [*]
+||
+[*] --> rrtqje : gnofh
+rrtqje --> tkjhup : vlerw
+tkjhup --> dfquih : iwest
+dfquih --> wmdeha : plqok
+wmdeha --> bdqweg : dczgl
+||
+[*] --> bswqrb : dhbcr
+}
+state 1 <<choice>>
+state 2 <<fork>>
+state "ctoaq" as 3
+state "cnceu" as 4 {
+[*] --> ujbiru : bbmze
+ujbiru --> pwyclp : xtfvb
+pwyclp --> dhiuek : vrygf
+||
+[*] --> sabzxs : kguku
+sabzxs --> [*]
+||
+[*] --> xdrpfx : wtzwg
+xdrpfx --> uwkflh : gbkls
+uwkflh --> uujafk : cxjau
+uujafk --> dgsneg : giiwl
+dgsneg --> ubqnay : ojylu
+ubqnay --> [*]
+}
+state 5 <<choice>>
+state "ehbvu" as 6
+state "kvuaw" as 7
+state 8 <<start>>
+state "mbpwl" as 9 : mnvqoclvjy
+state "uaamh" as 10 {
+dirggs --> mkqtvu : lzrvx
+mkqtvu --> ubhfwb : jsyto
+ubhfwb --> bchgvj : hfkkp
+||
+[*] --> cmbhlx : udwsn
+cmbhlx --> rroier : cetay
+rroier --> eaofsl : wmgsd
+eaofsl --> igkhcs : yhdrw
+eaofsl --> ybhkwr : esphz
+ybhkwr --> ygnufq : dradu
+||
+[*] --> vsirpn : cicmg
+vsirpn --> fivrar : rvlri
+fivrar --> mzugzu : tpnck
+fivrar --> [*]
+}
+state "ctkgr" as 11
+state 12 <<end>>
+state "kidzj" as 13 {
+[*] --> mdeohb : kulah
+mdeohb --> lpyayi : qakzv
+lpyayi --> saakdj : mykkn
+saakdj --> [*]
+||
+[*] --> vbnrjj : opard
+vbnrjj --> pdiwjv : nvpab
+pdiwjv --> hkhyva : bcajn
+}
+state 14 <<fork>>
+state 15 <<end>>
+state "vwkix" as 16 : yihgikdphu
+state "dadun" as 17
+0 --> 2 : vheefm
+5 --> 0 : drntwp
+1 --> 1 : dazfss
+1 --> 5 : rxbykm
+13 --> 2 : yhtoxx
+2 --> 9 : rhcuoy
+5 --> 2 : kjrljy
+6 --> 2 : xxgblh
+3 --> 14 : spurtw
+3 --> 9 : bdriop
+6 --> 3 : qcbrbx
+4 --> 10 : xuzucs
+4 --> 15 : puetqi
+6 --> 4 : xbnalk
+11 --> 5 : gabckg
+5 --> 10 : ujqghm
+6 --> 5 : yesqpd
+7 --> 6 : dscygq
+7 --> 2 : ttadrc
+3 --> 7 : dsmcwy
+8 --> 17 : xiopxl
+9 --> 17 : wmhnyo
+7 --> 9 : bwackg
+2 --> 9 : ksawgd
+10 --> 11 : zbkjoh
+10 --> 0 : zufwqy
+14 --> 10 : glteen
+14 --> 10 : mhmcra
+11 --> 15 : olookm
+14 --> 11 : tmximr
+16 --> 12 : bljric
+13 --> 7 : erenug
+14 --> 13 : rakyqf
+13 --> 13 : jvnkip
+16 --> 14 : bkmrfq
+14 --> 2 : nqpbbq
+13 --> 14 : strjax
+4 --> 14 : rkaeyg
+4 --> 14 : kcefad
+2 --> 15 : albzwv
+16 --> 6 : sbruym
+16 --> 10 : nmsogm
+14 --> 16 : ojzbfg
+10 --> 16 : jeqped
+17 --> 5 : ywbrqy
+17 --> 9 : idvmfs
+14 --> 17 : cmszmw
+@enduml

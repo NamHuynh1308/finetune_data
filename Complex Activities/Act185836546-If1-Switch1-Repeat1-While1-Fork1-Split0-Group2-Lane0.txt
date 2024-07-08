@@ -1,0 +1,60 @@
+@startuml
+:pwrllvzoms;
+:tsdawlrtpy; <<continuous>>
+-> rvlwon;
+:ftakslbmbr; <<save>>
+group rafusg
+:hxbrhgujnc;
+if (hhguextbxtfj?) then (qcli)
+while (bxapladmwygb?) is (uxpo)
+:vwvwmciwkm; <<output>>
+backward:sorzwh;
+:rtyhe;
+backward:xkntru;
+:djcokewizq;
+endwhile (jvxu)
+:nuziphjh;
+:adybfkpaiw; <<task>>
+kill
+else (lbxz)
+fork
+:fstsx;
+fork again
+:gcmdw;
+fork again
+:pucvf;
+fork again
+:qpoth;
+fork again
+:okhnuvchlm; <<load>>
+fork again
+:ujbatueuuz; <<input>>
+-> glzlsx;
+end fork
+:vrphxppxmo;
+:bcekfoeokr; <<input>>
+:ifxgxukfvp; <<load>>
+-> jpjtwo;
+repeat
+:ltwroivxub; <<continuous>>
+-> ebmcej;
+:lbthijyrki; <<continuous>>
+-> gelgcq;
+repeat while (pldczwnmjgro?) is (idrn)
+-> ahelmq;
+endif
+group njoiys
+:godjbmmgyj;
+-> bxxflh;
+switch (vljtpaocqyez?)
+case (iwwboxk?)
+:ooyefejyep;
+-> xmmdxi;
+case (mtockbx?)
+:otrxgh;
+kill
+endswitch
+end group
+stop
+end group
+@enduml

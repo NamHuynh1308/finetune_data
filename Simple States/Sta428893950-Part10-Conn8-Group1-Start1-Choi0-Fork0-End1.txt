@@ -1,0 +1,14 @@
+@startuml
+hide empty description
+state dlcbag
+dlcbag --> fhzuhv : xrbcd
+fhzuhv --> rvpqdo : isrkx
+rvpqdo --> epqxnn : cksfk
+epqxnn --> krmulw : dqzmo
+krmulw --> vdqcxi : tkfua
+state vdqcxi {
+[*] --> gpkhou : bpkza
+gpkhou --> ihxdgc : jsnua
+ihxdgc --> [*] : hyxjq
+}
+@enduml

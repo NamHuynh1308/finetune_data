@@ -1,0 +1,32 @@
+@startuml
+hide empty description
+state jqaaxe
+jqaaxe --> jbmzps : caphd
+jbmzps --> jxqdtv : smuia
+jxqdtv --> bcfrei : hnrfl
+bcfrei --> nroxlw : fmzik
+nroxlw --> tixoic : lgbir
+state tixoic {
+gviqyi --> wodkol : cpzbl
+wodkol --> rkwszr : fyjyj
+rkwszr --> [*] : gcjrk
+}
+tixoic --> amedmp : mcarb
+state amedmp {
+[*] --> ijuiyz : bijwd
+ijuiyz --> koljly : eloek
+}
+state dbhuzj <<choice>>
+amedmp --> dbhuzj : msqlf
+dbhuzj --> iqijha : xkui
+iqijha --> zcqbhu : udhlm
+zcqbhu --> gkzfya : lloaa
+gkzfya --> hephso : ritrsxl
+dbhuzj --> eorpcz : auoi
+eorpcz --> tkxjyl : zdhrq
+tkxjyl --> fcijbq : rknfl
+fcijbq --> opixwz : btoeb
+opixwz --> hephso : cifwyiy
+hephso --> yznqce : qjsea
+yznqce --> [*] : jujfe
+@enduml

@@ -1,0 +1,55 @@
+@startuml
+hide empty description
+state jlyiml
+[*] --> jlyiml : rynge
+state bmtgzx <<choice>>
+jlyiml --> bmtgzx : hsuta
+bmtgzx --> mpkvcx : lqla
+mpkvcx --> atcggf : rhjcq
+atcggf --> ihizsi : filzg
+ihizsi --> aozgde : jdhlo
+aozgde --> lsfyms : idvcuux
+bmtgzx --> ybegak : ledg
+ybegak --> egqvau : pccaz
+egqvau --> hrqycq : fvlwc
+hrqycq --> lsfyms : odnhxpw
+lsfyms --> tvwgmy : ukapm
+tvwgmy --> urwlql : abliw
+state ncmkpy <<choice>>
+urwlql --> ncmkpy : klmfr
+ncmkpy --> vgzygz : bavx
+vgzygz --> xiltii : mcoqj
+xiltii --> fryziu : ncjyubv
+ncmkpy --> anzpwa : rbgq
+anzpwa --> mcdmlx : byxok
+mcdmlx --> fryziu : xntkuxg
+ncmkpy --> igxybo : uple
+igxybo --> yeribr : bikrp
+yeribr --> fryziu : zbobfwu
+state ofnpva <<choice>>
+fryziu --> ofnpva : ybrkm
+ofnpva --> agkfuy : ikvm
+agkfuy --> jnjcek : iupzu
+jnjcek --> saspbn : klgld
+saspbn --> uqbuvo : aezrn
+uqbuvo --> wvqajr : tglijeq
+ofnpva --> xqykpq : pjux
+xqykpq --> cylweo : kozot
+cylweo --> dfwwts : aygxx
+dfwwts --> wvqajr : bpksywv
+ofnpva --> vzefmx : ygmp
+vzefmx --> mtaopk : fosgy
+mtaopk --> tpivkl : mujwy
+tpivkl --> wvqajr : dkohumo
+wvqajr --> wwmohh : udznj
+wwmohh --> eylcsn : uuagd
+eylcsn --> bbttyg : pwgne
+bbttyg --> luedyi : jmnzf
+luedyi --> trdgjo : fafnv
+trdgjo --> zbuhvn : taehc
+zbuhvn --> dgxizt : wwsfj
+dgxizt --> othyki : edvej
+othyki --> hihush : zxdgh
+hihush --> qgbxxj : kxech
+qgbxxj --> [*] : knoqf
+@enduml

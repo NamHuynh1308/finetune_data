@@ -1,0 +1,88 @@
+@startuml
+state iokqyh
+iokqyh --> wulrsz : pyuma
+state menpwd <<fork>>
+wulrsz --> menpwd : oxuam
+state hzrkwa <<join>>
+menpwd --> xpbwoy : uiho
+xpbwoy --> wftrdp : eqirv
+wftrdp --> sbdqka : rkwoa
+sbdqka --> hzrkwa : xzyxtzd
+menpwd --> vkpcom : jffm
+vkpcom --> orhfps : igxjc
+orhfps --> btqiuz : ceoyy
+btqiuz --> venxmo : mhroq
+venxmo --> hzrkwa : huemfam
+menpwd --> ndnbir : uylf
+ndnbir --> eehhmi : wzhqg
+eehhmi --> mqxdyz : xmuex
+mqxdyz --> dkwsbf : jouvy
+dkwsbf --> hzrkwa : dvkhrlh
+state cucral <<fork>>
+hzrkwa --> cucral : quukw
+state xgopze <<join>>
+cucral --> psphmm : zqfi
+psphmm --> qloezv : fuogq
+qloezv --> pnvvwe : fulvs
+pnvvwe --> xgopze : yeyiakp
+cucral --> ithkpd : vjla
+ithkpd --> wofsby : ynjwf
+wofsby --> eqapop : wwvyw
+eqapop --> xgopze : xgshbdi
+state yybjjb <<choice>>
+xgopze --> yybjjb : aepvj
+yybjjb --> uvzwqr : edkl
+uvzwqr --> firxuw : impdg
+firxuw --> afdcgn : jbwsr
+afdcgn --> aveyxn : rauje
+aveyxn --> ylpvxd : kwjysch
+yybjjb --> idtdhb : fwjl
+idtdhb --> lypfdw : gqjpv
+lypfdw --> luladm : isvzq
+luladm --> ylpvxd : kftwdmp
+yybjjb --> auvxcu : jumi
+auvxcu --> gfirgr : hoahd
+gfirgr --> ipsijy : moyeq
+ipsijy --> tndyda : aowtp
+tndyda --> ylpvxd : efgfswu
+ylpvxd --> qaypto : pxsjh
+state egkvba <<fork>>
+qaypto --> egkvba : injdp
+state vhobpi <<join>>
+egkvba --> dkebqh : egqx
+dkebqh --> mofyzt : xduaw
+mofyzt --> bfzvqi : dzhjt
+bfzvqi --> xmsiha : zhgis
+xmsiha --> vhobpi : shppbqz
+egkvba --> omstob : aarp
+omstob --> jevalr : mrxqf
+jevalr --> vhobpi : fkkqjhx
+egkvba --> wrcfnw : uiai
+wrcfnw --> rzfvra : dbmrp
+rzfvra --> vhobpi : edqwhfa
+vhobpi --> tciftl : qafeg
+state mgcocl <<choice>>
+tciftl --> mgcocl : vvjou
+mgcocl --> rkuwge : yocd
+rkuwge --> yesgrf : rxdhx
+yesgrf --> ywbyaa : boizs
+ywbyaa --> rgdeed : rqekr
+rgdeed --> dxdntf : vnonwuw
+mgcocl --> uoesxv : ezro
+uoesxv --> tgponr : iavze
+tgponr --> gjnpvp : kodes
+gjnpvp --> dxdntf : dwtnbxk
+dxdntf --> adxzvt : tnqgj
+adxzvt --> bzgydp : foyps
+bzgydp --> vcqctl : lttll
+vcqctl --> pradgc : rtnsc
+pradgc --> acafol : dfwcw
+state acafol {
+qqsgyy --> rlqtrb : frxfe
+rlqtrb --> agdqhh : nfyiv
+agdqhh --> mzdofh : zjcdz
+}
+acafol --> pqercm : jnfps
+pqercm --> rrsvoy : gxzzh
+rrsvoy --> [*] : amqqi
+@enduml

@@ -1,0 +1,63 @@
+@startuml
+start
+group uqpkqj
+fork
+:cfnvn;
+fork again
+:tovqsgjnyw;
+-> haihxj;
+fork again
+:jiozkhibyg;
+fork again
+switch (ydftlztmgiol?)
+case (zrprdkh?)
+:qyzugxtxws; <<continuous>>
+case (hstkyek?)
+:ahuja;
+endswitch
+fork again
+:rlcuvxzkgs; <<procedure>>
+fork again
+:opupmmliql; <<continuous>>
+end merge
+switch (mcezhvkzhebs?)
+case (cddqxdy?)
+split
+:sdnxp;
+split again
+:chddegwzgf; <<input>>
+split again
+:bglkmbmrnb; <<task>>
+end split
+case (pmdrubk?)
+fork
+:lvobk;
+fork again
+:xdkqjmimfv; <<load>>
+-> oogzea;
+fork again
+:mspfj;
+fork again
+:qbutpyisfw; <<task>>
+-> wbhiug;
+fork again
+:kcxik;
+end merge
+case (xtenere?)
+:wfzgihowcv; <<save>>
+-> xqbiud;
+case (ousnbhw?)
+while (rooeinktsgns?) is (etth)
+:lmliyeglvo;
+:wssdpqmwqu; <<task>>
+-> syubiq;
+backward:boufmn;
+backward:zakpmz;
+endwhile (qqui)
+:xqplzdax;
+endswitch
+end group
+:lhaglzyqsb; <<output>>
+-> gmdyqm;
+end
+@enduml

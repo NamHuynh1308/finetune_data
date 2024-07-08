@@ -1,0 +1,56 @@
+@startuml
+state jowcpu
+[*] --> jowcpu : ujrki
+state llqbct <<choice>>
+jowcpu --> llqbct : qutez
+llqbct --> mmwqki : fqkj
+mmwqki --> rrgsyx : tczpr
+rrgsyx --> vywcfc : brzopuj
+llqbct --> htbckf : lfhd
+htbckf --> uxgmdd : szwxj
+uxgmdd --> pplmow : nghla
+pplmow --> dswnxe : eentn
+dswnxe --> vywcfc : ssumbrf
+llqbct --> wzhxya : zwvv
+wzhxya --> ujklot : segbv
+ujklot --> bmcmbr : qbhhb
+bmcmbr --> ukoqfl : yefub
+ukoqfl --> vywcfc : bmgdzvn
+vywcfc --> ytpwxe : zpfrt
+ytpwxe --> arwydo : jgevw
+arwydo --> pmoqbc : hjpzl
+pmoqbc --> xexpwf : yosva
+xexpwf --> kyujoo : egakd
+kyujoo --> sffier : vmbzh
+sffier --> yrpffa : sstbb
+state kdlaak <<fork>>
+yrpffa --> kdlaak : ymxao
+state bmihlp <<join>>
+kdlaak --> dqlzqr : cdjm
+dqlzqr --> ccplse : svqhi
+ccplse --> bmihlp : jiyablx
+kdlaak --> xcrzle : orxr
+xcrzle --> fsqckc : hoicr
+fsqckc --> epekfo : vnyft
+epekfo --> bmihlp : hkhgkft
+kdlaak --> gngezh : dqlg
+gngezh --> qzgrul : vsfdt
+qzgrul --> ffwbgx : agzsg
+ffwbgx --> bmihlp : xfzhrui
+bmihlp --> lfmwvk : xesuw
+lfmwvk --> atokcw : pexio
+state djmgzp <<fork>>
+atokcw --> djmgzp : azoab
+state hknhdf <<join>>
+djmgzp --> leobxk : rmko
+leobxk --> zzwuso : idxis
+zzwuso --> fwwzxz : gcgoj
+fwwzxz --> xfoohw : fezvu
+xfoohw --> hknhdf : plxieei
+djmgzp --> hmkime : udvq
+hmkime --> feznoo : fpynq
+feznoo --> jtefkj : hgqdt
+jtefkj --> hknhdf : dmsfxvf
+hknhdf --> ppysty : fawgs
+ppysty --> xogfhb : tethd
+@enduml

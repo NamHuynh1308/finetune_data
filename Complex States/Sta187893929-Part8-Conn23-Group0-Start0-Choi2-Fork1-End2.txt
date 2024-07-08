@@ -1,0 +1,33 @@
+@startuml
+state "firjo" as 0 : lggbuwhedh
+state 1 <<choice>>
+state "utllo" as 2
+state 3 <<end>>
+state 4 <<choice>>
+state "kmmln" as 5 : ifotncdchw
+state 6 <<fork>>
+state 7 <<end>>
+0 --> 5 : vtbtsw
+0 --> 1 : jiwlmk
+6 --> 0 : cerqbg
+0 --> 0 : rpmmnr
+2 --> 1 : skxzbq
+1 --> 6 : ppkjsn
+1 --> 7 : hwwamd
+1 --> 7 : ymcobu
+2 --> 1 : igotil
+2 --> 2 : gfslup
+5 --> 2 : azammh
+4 --> 3 : lcuswj
+5 --> 4 : ywyaxa
+4 --> 3 : zkajcz
+4 --> 0 : hbmwym
+5 --> 4 : llbvif
+5 --> 4 : xfnrbh
+4 --> 5 : efnate
+1 --> 5 : rtopai
+5 --> 6 : bsmstc
+6 --> 3 : rpwtey
+6 --> 2 : fjyhle
+2 --> 7 : kuuzyk
+@enduml

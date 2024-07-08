@@ -1,0 +1,19 @@
+@startuml
+hide empty description
+state nejsru
+[*] --> nejsru : ivugc
+nejsru --> rxlcns : gsnxt
+state rxlcns {
+klwynm --> qzpvyg : ebnia
+qzpvyg --> wutwhx : kfvoh
+wutwhx --> [*] : wlsga
+}
+rxlcns --> hiyznv : dxlsg
+hiyznv --> mjsopb : yrmnm
+mjsopb --> wgwaps : yayln
+wgwaps --> mquiyg : qiwij
+mquiyg --> ohxnvk : zvqnx
+ohxnvk --> miqchs : ejcmn
+miqchs --> ofszxs : sgnkm
+ofszxs --> xmkber : njhqi
+@enduml

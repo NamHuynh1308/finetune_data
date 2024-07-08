@@ -1,0 +1,90 @@
+@startuml
+hide empty description
+state 0 <<start>>
+state "vhgrf" as 1 : bcwxgzdayd
+state "ycrcc" as 2 {
+[*] --> jgwnkh : xshla
+jgwnkh --> vpolht : rvwum
+vpolht --> ypbcoo : bynwo
+ypbcoo --> auxacl : nqbej
+||
+[*] --> dlivex : ofzjl
+dlivex --> zlbwcg : vumct
+zlbwcg --> ctfjiv : dgnmi
+ctfjiv --> qqvpiz : nutxw
+ctfjiv --> exqgtn : hehua
+exqgtn --> eddnux : rikoe
+exqgtn --> mixdgi : wzwcg
+}
+state 3 <<start>>
+state 4 <<choice>>
+state 5 <<fork>>
+state "finar" as 6 : gdfbafychr
+state "qfplh" as 7 : mkugnweilj
+state 8 <<end>>
+state "univo" as 9 : zsveoqoodn
+state "zsjfv" as 10
+state "ydiis" as 11
+state "znbca" as 12 : hdyaexcqho
+state "amzqh" as 13 {
+[*] --> nrxbmb : dafkm
+nrxbmb --> [*]
+}
+state "vpeau" as 14 : kwfsjvkqbq
+state 15 <<end>>
+state "natup" as 16
+state 17 <<end>>
+state "frjtr" as 18
+state 19 <<end>>
+state "wpjbb" as 20 : zlwfaryykm
+0 --> 9 : snrsbx
+1 --> 13 : qhbekh
+6 --> 1 : fawaue
+4 --> 1 : ijiryu
+2 --> 7 : vdawkg
+10 --> 2 : agwuca
+3 --> 12 : tmiiha
+7 --> 4 : qztmje
+4 --> 19 : arpyqs
+4 --> 11 : wcrpsm
+4 --> 9 : szrmvf
+3 --> 5 : sdyypu
+5 --> 9 : dlqhhw
+14 --> 5 : bsegzf
+6 --> 8 : xbuclr
+6 --> 19 : wzoiej
+1 --> 6 : fjqswq
+7 --> 7 : eoccex
+7 --> 2 : kxlyuh
+12 --> 7 : zctedx
+4 --> 8 : relatl
+9 --> 17 : uttyir
+18 --> 9 : gcvevj
+10 --> 15 : nwxksq
+10 --> 5 : hjuvut
+9 --> 10 : dtyqdg
+16 --> 10 : inefnq
+11 --> 12 : pwelyh
+11 --> 4 : bqtkca
+0 --> 11 : zyqjhr
+6 --> 11 : uvlbkc
+12 --> 2 : znrvke
+10 --> 12 : ypglub
+16 --> 12 : bqsrnm
+13 --> 14 : gyucwk
+13 --> 5 : heaeil
+5 --> 13 : vpknyb
+14 --> 20 : cnxknd
+16 --> 14 : ogukrr
+6 --> 14 : gzswju
+2 --> 15 : wvwkqw
+16 --> 8 : iiqxic
+4 --> 16 : nukhuh
+7 --> 17 : bjtqtz
+18 --> 2 : vfdtco
+18 --> 7 : jmdmly
+5 --> 18 : ufbbwb
+16 --> 19 : bdobpg
+20 --> 8 : udnzds
+12 --> 20 : xhsbvi
+@enduml

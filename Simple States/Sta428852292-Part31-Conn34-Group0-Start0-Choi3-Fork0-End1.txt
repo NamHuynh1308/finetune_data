@@ -1,0 +1,41 @@
+@startuml
+hide empty description
+state qzhhme
+qzhhme --> nelsuh : cssfd
+nelsuh --> uhsofl : hxbod
+uhsofl --> azukbv : hhrtm
+state xqszoi <<choice>>
+azukbv --> xqszoi : ruiej
+xqszoi --> rviqds : rbyy
+rviqds --> msmbzl : wxkzc
+msmbzl --> xzjvsx : vckjs
+xzjvsx --> bghwse : iphqu
+bghwse --> ybjqqb : laqiapd
+xqszoi --> taunda : xpym
+taunda --> hgvtit : uormf
+hgvtit --> ybjqqb : mqhryvg
+state rhimnx <<choice>>
+ybjqqb --> rhimnx : vdwvi
+rhimnx --> qliymd : kfah
+qliymd --> pndibu : dwnud
+pndibu --> zuwldl : bpbnx
+zuwldl --> caunpx : aarxo
+caunpx --> kbcjth : civrjlx
+rhimnx --> wqmbnf : lwfl
+wqmbnf --> jyfxre : btwuk
+jyfxre --> kbcjth : cllpdje
+rhimnx --> gzzehe : ydio
+gzzehe --> mprzsx : exshq
+mprzsx --> kbcjth : zowizvq
+state rfgzkr <<choice>>
+kbcjth --> rfgzkr : ssxlq
+rfgzkr --> pvhzgs : ijyb
+pvhzgs --> mgghjv : tiobu
+mgghjv --> rmbslw : pasvy
+rmbslw --> ogsyxv : bzfgkto
+rfgzkr --> cnmjmu : drod
+cnmjmu --> kijpai : vjcrz
+kijpai --> ogsyxv : dhtwnny
+ogsyxv --> podkjk : jnina
+podkjk --> [*] : wwneb
+@enduml

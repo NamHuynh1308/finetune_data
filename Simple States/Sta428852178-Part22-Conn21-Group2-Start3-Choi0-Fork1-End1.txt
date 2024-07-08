@@ -1,0 +1,31 @@
+@startuml
+hide empty description
+state pwpjgp
+[*] --> pwpjgp : qazxu
+pwpjgp --> tzpgsa : wszpx
+tzpgsa --> opkgcg : homtj
+state opkgcg {
+[*] --> nfxnzp : mvtlb
+nfxnzp --> vjwdar : mmzjs
+}
+opkgcg --> znohhs : syuzw
+state znohhs {
+[*] --> yvetkr : qcbrn
+yvetkr --> rbxkqv : goqpd
+rbxkqv --> [*] : iefyb
+}
+state zzclii <<fork>>
+znohhs --> zzclii : amape
+state hndffv <<join>>
+zzclii --> afzehk : lpys
+afzehk --> kejqfj : yznge
+kejqfj --> pbpees : cjceg
+pbpees --> hndffv : xsqjngt
+zzclii --> tevvtw : pkot
+tevvtw --> fagtin : micyh
+fagtin --> hndffv : loptsdo
+zzclii --> qnfydi : ntwg
+qnfydi --> zwiodu : uxknh
+zwiodu --> hndffv : swzhhdp
+hndffv --> kfrodo : osgzc
+@enduml

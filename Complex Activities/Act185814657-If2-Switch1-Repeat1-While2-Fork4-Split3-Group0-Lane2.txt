@@ -1,0 +1,139 @@
+@startuml
+|1| pjyzqt
+|2| ehgicg
+split
+-[hidden]->
+:wlvix;
+split again
+-[hidden]->
+:hworluhxei; <<save>>
+split again
+-[hidden]->
+:abqzacpvqz;
+-> lbgjep;
+split again
+-[hidden]->
+fork
+:ooxhh;
+fork again
+:uyzsefhpov;
+-> btjnne;
+fork again
+:zuyiwmvllc;
+fork again
+:pufmaygjal; <<output>>
+end fork
+end split
+|2|
+:illpitjkzm; <<save>>
+-> axelgq;
+fork
+:wnwil;
+fork again
+:zuweaxfdhb; <<save>>
+fork again
+:wdpfddwpjc;
+-> ivvmxr;
+fork again
+:gsjvyppvwk;
+end merge
+|1|
+:hlslouuhtc;
+-> hbmfig;
+fork
+:rglvz;
+fork again
+while (eamdvteweofu?) is (fdsb)
+:lysmvadsrj; <<continuous>>
+:qqvgzftaff; <<task>>
+-> kzobdd;
+backward:zzvvpb;
+:atwkpxktsq; <<input>>
+endwhile (mtvi)
+:lhylmxek;
+fork again
+:tpcoupxdfc; <<output>>
+end merge
+:oyutqqiedo; <<task>>
+|2|
+:aswpuuevzq; <<task>>
+-> bxabgn;
+:sqepixlhum; <<load>>
+split
+:ehlew;
+split again
+:bdptxsbbov;
+split again
+:touzdtzxxd; <<load>>
+-> oqtobo;
+split again
+fork
+:uomqd;
+fork again
+:yootmtouiu;
+fork again
+:xgouglksib;
+-> rgvpbm;
+fork again
+:ngoncmxupx; <<continuous>>
+fork again
+:scsfy;
+fork again
+:yxsazoecuv;
+-> godoyf;
+end fork
+end split
+switch (tqislghjkypm?)
+case (lbcfane?)
+:pkylycwhvf; <<save>>
+case (alroehv?)
+:isvlkomnae; <<task>>
+-> qxjdkp;
+case (eyuavcv?)
+repeat
+:rybhy;
+:uftio;
+:cksaa;
+repeat while (tsiglsixmvsz?) is (ctyp)
+-> tdypwm;
+case (ourujwg?)
+if (nqktydkfyzmd?) then (boqs)
+(akxb) elseif (rswizjf?) then (ylxw)
+:vyazinsmmo; <<task>>
+-> fkgfrb;
+(rejj) elseif (iwynkmk?) then (bbyg)
+:rlwhf;
+(kheh) elseif (qcnypct?) then (jbqp)
+:wstbn;
+(fmoh) elseif (pcqvfsj?) then (rlkc)
+:wwylsampzp; <<output>>
+-> gctggm;
+(lldc) elseif (kbvgfek?) then (xqqe)
+:mvyxkdpddd; <<output>>
+endif
+endswitch
+:benbmasfpd; <<task>>
+-> kiaroj;
+split
+:nfitv;
+split again
+:bqxmaogzxk; <<procedure>>
+split again
+:kzgvsiznbs;
+end split
+|1|
+if (juaeybgdgent?) then (fjye)
+(qtlg) elseif (ifjysbz?) then (djka)
+:cnvyozuvlt; <<save>>
+-> irovmj;
+(qpll) elseif (lsaftbn?) then (idfv)
+:sskrveihsv; <<continuous>>
+-> pltnqk;
+(qnlh) elseif (zrehiqf?) then (xuhh)
+while (ucihqgwfvbtf?) is (rvgc)
+backward:tzacml;
+endwhile (tdxf)
+:hrqialgn;
+endif
+stop
+@enduml

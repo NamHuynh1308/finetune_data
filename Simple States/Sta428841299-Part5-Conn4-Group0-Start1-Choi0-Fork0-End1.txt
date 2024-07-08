@@ -1,0 +1,7 @@
+@startuml
+state hmdcce
+[*] --> hmdcce : eiori
+hmdcce --> lrnueq : mkkls
+lrnueq --> ukuiya : btdkq
+ukuiya --> [*] : uerxh
+@enduml

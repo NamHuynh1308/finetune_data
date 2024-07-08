@@ -1,0 +1,58 @@
+@startuml
+|1| fyjjso
+|2| xeuido
+|1|
+start
+if (hrzzimzlkrcc?) then (qbnh)
+:xystcdqqyq; <<procedure>>
+:mtfucpbbej;
+-> agpbwd;
+:icyunjjxhi;
+else (piny)
+while (wnvlexuzzakb?) is (epgi)
+backward:vrjmdl;
+:wcxyg;
+backward:jgnzrv;
+endwhile (jbvr)
+:qgwuzcpu;
+while (rfhasvneksgq?) is (uqac)
+if (ggvttxqskvsm?) then (qffp)
+:ceszs;
+else (klun)
+:lpngl;
+:dqkig;
+endif
+backward:ncnajg;
+:bmpzayuill;
+endwhile (toll)
+-[hidden]->
+detach
+endif
+|2|
+:yzoghzwkgp;
+-> fuanxy;
+:aiwsrozwtd; <<procedure>>
+-> kgeuaf;
+:vszgefvofn; <<task>>
+|1|
+repeat
+if (rvgdhpzdykoj?) then (cqtz)
+(pgdc) elseif (ryagcfk?) then (putw)
+:qtqbpvqagk; <<task>>
+(zjop) elseif (mycjoyx?) then (eedp)
+:zskmpdcsmx;
+-> ibohrk;
+(lsil) elseif (doqsoxl?) then (skee)
+:azccnphxqp;
+endif
+if (dwecabrqzyrt?) then (hzze)
+:xijlx;
+:zjvil;
+kill
+else (siso)
+:hmwbs;
+kill
+endif
+repeat while (lbuyxbvnlghk?) is (goki)
+end
+@enduml

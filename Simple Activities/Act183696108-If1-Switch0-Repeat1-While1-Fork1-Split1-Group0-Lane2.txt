@@ -1,0 +1,51 @@
+@startuml
+|1| sghqyf
+|2| gryqmh
+|1|
+start
+:jpomtsdgrc;
+|2|
+if (asfqlylsghzl?) then (ghim)
+fork
+:gktoi;
+fork again
+:dxlyv;
+fork again
+:hlgfiprvge;
+-> komywk;
+fork again
+:utrgyiyswa; <<save>>
+-> jyfpsi;
+fork again
+:wwztg;
+end fork
+:emcbmekdul; <<task>>
+:dzdneqakde;
+split
+:yvjka;
+split again
+:umdexcdizy; <<procedure>>
+split again
+:lwmrv;
+end split
+:karwdhbals;
+else (vihr)
+:ospyjvzvgz;
+-> lriggl;
+repeat
+backward:reqofk;
+repeat while (ixopmtumwpxw?) is (hutx)
+:budvdjxabh; <<load>>
+-> ttgmer;
+:puczpkapxq; <<continuous>>
+:yfkypkpqvb; <<output>>
+-> qpzcgs;
+while (dqawjkndkzeq?) is (oeeh)
+:lvaopkthjk; <<procedure>>
+endwhile (yhjs)
+-[hidden]->
+detach
+endif
+:rcvhvxwiiu;
+stop
+@enduml

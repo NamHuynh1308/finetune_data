@@ -1,0 +1,93 @@
+@startuml
+start
+group muabfp
+if (fyggwmdcbnpw?) then (nbxf)
+:avhqqvelqm;
+:pautkumpve;
+fork
+:qqdvu;
+fork again
+:rnbem;
+fork again
+:jeefhieziy; <<load>>
+-> xqxwfz;
+end merge
+while (zrmgmbhaozrj?) is (gtbe)
+:qkkqldfvpu;
+backward:gicvmu;
+backward:hzikbz;
+:hqnhnrhwal;
+-> dqudyh;
+endwhile (kdzf)
+-[hidden]->
+detach
+else (ebmt)
+:sbrctwoqnx; <<save>>
+-> mlmtkv;
+endif
+group gnujqg
+fork
+:zomgu;
+fork again
+while (bnmwjrgkzuph?) is (bfah)
+:kokvm;
+endwhile (qkrc)
+:nvvykufy;
+fork again
+split
+:ihchs;
+split again
+:mjrhf;
+split again
+:jblkdyqtzt; <<input>>
+split again
+:haegde;
+kill
+end split
+end fork
+group dxuccl
+:cekgtciiwi; <<input>>
+:hbqajypncx; <<save>>
+end group
+group wknoxv
+split
+:ewmye;
+split again
+:ilcvpdufdv; <<save>>
+-> iacrgp;
+split again
+:yytwxhzjuq; <<load>>
+split again
+repeat
+:zqhawdguqy;
+:xdncqyqmvb; <<task>>
+:xsevfwfmia; <<procedure>>
+:ybtuexgmxh; <<continuous>>
+-> uhbqvu;
+:zcpno;
+repeat while (bsrbvcirkgyb?) is (lzam)
+-> uqwcch;
+end split
+switch (ixlbinagjlgo?)
+case (glsspuu?)
+while (dtzocvqukksg?) is (tqhd)
+:xkurlzqplw;
+:bmrte;
+backward:jopaul;
+backward:jxhduk;
+backward:cqcfpu;
+endwhile (lpfi)
+:edpwpioq;
+case (cogsnjx?)
+:kqyzaxpcdr; <<output>>
+endswitch
+group qktgsr
+:yvghgkhcqd;
+:rtcwecqalf; <<procedure>>
+end group
+:fzgzgzcjlg; <<save>>
+end group
+stop
+end group
+end group
+@enduml

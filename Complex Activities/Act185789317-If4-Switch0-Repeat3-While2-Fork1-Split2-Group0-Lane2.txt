@@ -1,0 +1,142 @@
+@startuml
+|1| bdznaa
+|2| klrsmt
+|1|
+start
+|2|
+if (yeingjnjxkky?) then (joyn)
+:lulmmyzazt;
+repeat
+:tffpsirvfi; <<task>>
+-> faxoii;
+backward:sargxt;
+:mxzzp;
+:lioprq;
+if (rdwghrh) then (qoxx)
+:gixzxc;
+break
+endif
+->uvhj;
+:wwgjdx;
+repeat while (gcptsmxoaljv?) is (njnx)
+-> aphgih;
+:ujthhodxmj;
+else (lssv)
+if (hyjjgotksqoq?) then (ekbo)
+(wxyr) elseif (xlnboyt?) then (ggai)
+:jqzbummlah;
+-> tkpfku;
+(sxum) elseif (fhuvdeo?) then (scgs)
+:msynk;
+(xbuo) elseif (nfpgldt?) then (sbuu)
+:twprjbbyse;
+-> jolhzy;
+(xkja) elseif (hhuvjmr?) then (edws)
+:lacgti;
+kill
+(socg) elseif (lriclbl?) then (eemq)
+:ndwlulxffq; <<input>>
+endif
+repeat
+:dclmntecxe; <<input>>
+backward:qwwwto;
+repeat while (lqzwkiofoezs?) is (eeym)
+endif
+|1|
+while (juvejlcuqgng?) is (aukf)
+backward:ngxmoc;
+split
+:xjnyx;
+split again
+:nqucmwonet; <<input>>
+split again
+:ipllo;
+split again
+:ofeynlmlnk;
+split again
+:xfxnqp;
+kill
+split again
+:rjdbm;
+end split
+if (cchthotdzsky?) then (pvzg)
+:lthbh;
+:ggwwcljhdu; <<load>>
+:mbutb;
+:vdvimcrxbw;
+-> tjysay;
+:jixmqouuvg; <<continuous>>
+-> nfrjcd;
+else (tcgq)
+:cpmvlwrkby; <<load>>
+:tcmgskllfr; <<continuous>>
+:innzp;
+:futbabxebm;
+-> xrjgot;
+endif
+:qzpbeksged; <<input>>
+endwhile (eibv)
+:rfjvkuri;
+|2|
+repeat
+:rwzganmjml; <<load>>
+-> qvwcfx;
+while (kdwmesjifbyy?) is (rpzb)
+:fdyer;
+:nnjecosomr; <<input>>
+backward:rddett;
+:qbozrcjhkb; <<output>>
+:pczhb;
+endwhile (pvzw)
+:uoruwnva;
+:mofkkk;
+if (bkykkxz) then (esty)
+:chksoe;
+break
+endif
+->ymod;
+:xmfycj;
+repeat while (ckhotfqdmhme?) is (kaem)
+|1|
+:xyevyqpgxj; <<save>>
+|2|
+if (luykygrotnpc?) then (ihia)
+:cbanejebss;
+kill
+else (obmh)
+:rbfrkupjfw;
+:jlkpczjsjn;
+endif
+|1|
+:vpipdybvfm; <<task>>
+|2|
+:qktijrwtvm;
+|1|
+:xezoilvgqt;
+fork
+:xrtyy;
+fork again
+split
+:sexoa;
+split again
+:tseqpjyfoj; <<load>>
+split again
+:isxntrsemo; <<task>>
+split again
+:ufurvf;
+kill
+split again
+:ywpbjslgag; <<output>>
+split again
+:swrve;
+end split
+fork again
+:fkgjne;
+kill
+fork again
+:xjsvsnycag; <<load>>
+end fork
+|2|
+:intnbhhcod;
+stop
+@enduml

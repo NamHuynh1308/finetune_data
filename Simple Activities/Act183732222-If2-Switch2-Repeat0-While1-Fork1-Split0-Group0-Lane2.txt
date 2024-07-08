@@ -1,0 +1,65 @@
+@startuml
+|1| zzxrbk
+|2| bycisa
+|1|
+start
+switch (nauqpbnvtscj?)
+case (kslftih?)
+if (ihvfwipdgnuz?) then (ftss)
+:omatamcotz; <<load>>
+-> ncowkr;
+else (fdjg)
+:qnenaixxka; <<task>>
+:xbaeb;
+:pudioofszy; <<output>>
+:cfawbsndgy; <<task>>
+-> tsnusp;
+:glzfkcpbxq; <<input>>
+endif
+case (ozxmpqw?)
+fork
+:pyify;
+fork again
+:dwajheuphu;
+fork again
+:palhrsneht;
+fork again
+:icaxiinlcn;
+end fork
+case (wsgmtah?)
+if (jyrjrkyfqnvu?) then (pequ)
+:aptvhvzvkv; <<procedure>>
+-> ihqztl;
+:gksskebrmu; <<continuous>>
+:pvsadpailf;
+-> gzhzek;
+:emwzyateib;
+:dlfat;
+else (sqek)
+:qynvhebmva;
+-> lgmujd;
+:zzpeonpptd;
+:adlpr;
+:kpaejdcmtk;
+-> zyiqlb;
+while (jivryhvrccou?) is (memu)
+:wxxpk;
+endwhile (mpua)
+-[hidden]->
+detach
+endif
+endswitch
+|2|
+:cjsluuecig; <<input>>
+switch (vkfeokqvgqpo?)
+case (cbezend?)
+:wedfvjptlc; <<continuous>>
+case (iphxgng?)
+:mtwtvwohji; <<procedure>>
+case (nqtqwkj?)
+:oltxlqhwas; <<load>>
+-> xadwur;
+endswitch
+:mwtjqwttny; <<continuous>>
+end
+@enduml

@@ -1,0 +1,72 @@
+@startuml
+|1| akurhc
+|2| cnwmtc
+|1|
+start
+fork
+:veqmu;
+fork again
+:xlybihrryi; <<output>>
+fork again
+:lzelxfpivj; <<task>>
+-> leeebp;
+fork again
+switch (kapgiymgeosy?)
+case (tqybron?)
+:lncjolykkl; <<load>>
+-> uxyvqz;
+case (csyiiye?)
+:noslfbsccs;
+case (lmijzll?)
+:bghtytwhxd;
+-> lqshzc;
+case (qwiqfes?)
+:iqmrqiixbh; <<continuous>>
+case (qqbygbc?)
+:jqvjtzksja; <<save>>
+-> ueyrzi;
+endswitch
+fork again
+while (qmyiasdikkxu?) is (kcha)
+backward:fxaygp;
+backward:dxbxdx;
+backward:dbgjsn;
+:ixhde;
+backward:ebcaef;
+endwhile (fmlq)
+:isqyxmrn;
+fork again
+split
+:mwjto;
+split again
+:vscvla;
+while (nudzdxbscusv?) is (acvo)
+:tbdvyqfkzh; <<input>>
+-> dxdrmr;
+:turmklxozk; <<save>>
+:sxunk;
+backward:ndacol;
+endwhile (vxjm)
+-[hidden]->
+detach
+split again
+:qgnbkw;
+while (nswjkzuyrzxz?) is (paip)
+:cnxqtabvkx;
+endwhile (chni)
+-[hidden]->
+detach
+split again
+:sxjrpqkfvc; <<load>>
+split again
+:nvbgkyzjlm; <<input>>
+split again
+:kbknv;
+end split
+end merge
+|2|
+:eeaznxjrxe;
+:nyviteaybi; <<load>>
+:cbgdzltels; <<output>>
+:okxuloajcp; <<procedure>>
+@enduml

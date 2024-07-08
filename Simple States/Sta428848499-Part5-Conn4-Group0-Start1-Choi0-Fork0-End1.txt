@@ -1,0 +1,7 @@
+@startuml
+state iqhpdu
+[*] --> iqhpdu : vfazm
+iqhpdu --> rlsiid : jlpfs
+rlsiid --> priawf : wksik
+priawf --> [*] : kzapz
+@enduml

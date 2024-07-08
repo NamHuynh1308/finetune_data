@@ -1,0 +1,108 @@
+@startuml
+split
+-[hidden]->
+:klchc;
+split again
+-[hidden]->
+split
+:dzcjw;
+split again
+:kgkgmhzxrq; <<save>>
+split again
+:wczhg;
+end split
+split again
+-[hidden]->
+:npciwefljo; <<continuous>>
+split again
+-[hidden]->
+if (flncdpavxacz?) then (dbkb)
+:ebxfmlcmad; <<save>>
+-> zdunlf;
+:vnlcnfxxpu; <<task>>
+:keinswksti; <<output>>
+:meujb;
+while (lvpnmsozjsuf?) is (jpup)
+backward:nwntlu;
+:juaxbutvcy; <<input>>
+-> jfcmhw;
+endwhile (wtof)
+-[hidden]->
+detach
+else (ikln)
+:mcktk;
+:xhbjhzzxcr; <<save>>
+:nzehqgbfoj;
+:mwphuzjuxp; <<input>>
+-> qxouta;
+endif
+end split
+group ntpehx
+:jltwdydgpb; <<load>>
+-> ycsjcq;
+group azkahz
+:ahelxgwivz; <<save>>
+repeat
+backward:dskfco;
+repeat while (gjafibgkqzah?) is (pblq)
+-> lcxxit;
+end group
+group eunzzb
+:chfbvjybvh; <<input>>
+group rxzxdc
+:hgupraaxkn;
+-> dmzueu;
+group krnsvw
+:fbdquviwkd; <<input>>
+-> xbzasf;
+group kcamds
+:unexgczqmn;
+-> gqtssd;
+:zeslozrbxd;
+end group
+:esvlxoywyq;
+-> colzhw;
+end group
+group gnanrz
+while (ktxejgyvekxz?) is (ptjx)
+while (nazscapngvjc?) is (mmhr)
+:nacrk;
+:cktor;
+:ellpi;
+:tdnvs;
+:sexjt;
+endwhile (onfz)
+:spzqszyt;
+:erkltrftpk; <<save>>
+-> whkohd;
+fork
+:wnpux;
+fork again
+:iaevqxxpex; <<output>>
+fork again
+:mezcopywqi;
+fork again
+:rkswv;
+fork again
+:jafqkuyrpk; <<output>>
+-> rkbimm;
+end fork
+fork
+:igpep;
+fork again
+:oqumbcsqco; <<continuous>>
+fork again
+:tpcpk;
+fork again
+:jmvbf;
+fork again
+:wjfinnykmk; <<task>>
+end fork
+endwhile (vbly)
+:sfiafaug;
+stop
+end group
+end group
+end group
+end group
+@enduml

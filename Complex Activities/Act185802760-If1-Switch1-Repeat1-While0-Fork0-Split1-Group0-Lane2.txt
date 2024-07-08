@@ -1,0 +1,62 @@
+@startuml
+|1| jsteav
+|2| nskrka
+|1|
+start
+:pnnykgexaa; <<task>>
+|2|
+:xxkoklxvdp; <<continuous>>
+-> rvzacy;
+|1|
+:jacigldohm; <<procedure>>
+-> qoakie;
+|2|
+:vxlkaanqcf; <<save>>
+:obkuqetxyn; <<save>>
+repeat
+if (cflwfrqzlxcp?) then (bftq)
+:ktticlagir;
+:lfbuajirso; <<input>>
+else (eyzm)
+:fgbgy;
+:pqjeq;
+:xdseddsthw;
+:sedojwpgnr;
+:dzxsnkqhnm;
+endif
+:dhfngixixj; <<save>>
+-> nqnoso;
+:yjscdnaupg;
+repeat while (rjgsmyuheglw?) is (kcbc)
+-> oqhikm;
+:fdzqomlhuq; <<task>>
+-> czorpv;
+:aubxqemfit;
+|1|
+:srfiqxqasp; <<task>>
+|2|
+:ujhflxrtqw;
+switch (mpasztnxfcox?)
+case (timlkxd?)
+:dnjhsqmawj; <<save>>
+case (zdciztv?)
+:hvjmbsrhga; <<output>>
+case (dkgxcwp?)
+split
+:gopef;
+split again
+:spyidyayrs;
+split again
+:sutbm;
+split again
+:mupoj;
+split again
+:cmlutyovim; <<output>>
+split again
+:svrnz;
+end split
+case (ohajvar?)
+:meujbyjspj; <<output>>
+endswitch
+end
+@enduml

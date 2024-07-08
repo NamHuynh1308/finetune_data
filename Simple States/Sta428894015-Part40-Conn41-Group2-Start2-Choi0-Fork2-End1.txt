@@ -1,0 +1,52 @@
+@startuml
+state ngswyc
+ngswyc --> phoqrw : ciceo
+phoqrw --> imvatz : dgtgg
+imvatz --> iisdgg : cmaop
+state ofmfqq <<fork>>
+iisdgg --> ofmfqq : arjyc
+state rmefta <<join>>
+ofmfqq --> fmmcle : tnlx
+fmmcle --> czlmry : dkehq
+czlmry --> ccolqg : liuog
+ccolqg --> fireuy : yzgqn
+fireuy --> rmefta : dbqwznx
+ofmfqq --> dqojha : bsdw
+dqojha --> iqbzep : azgdh
+iqbzep --> bjowmh : nvcnu
+bjowmh --> kxxncm : emvji
+kxxncm --> rmefta : hmaafyj
+ofmfqq --> smevwl : ydqv
+smevwl --> ncofwi : ldzwf
+ncofwi --> rmefta : hvkwuzu
+rmefta --> bogomv : xqwbh
+bogomv --> csfveu : edwqn
+csfveu --> rphfgp : nxzck
+rphfgp --> mbcjqd : evvrh
+mbcjqd --> yyrmia : yttml
+state yyrmia {
+[*] --> nqvhfj : lboev
+nqvhfj --> hxdjjq : wbejd
+}
+yyrmia --> lybusg : jjwzq
+state lybusg {
+[*] --> idwfvi : qzohu
+idwfvi --> pinvuw : grssp
+pinvuw --> vltwoh : cfaay
+}
+state sunfgp <<fork>>
+lybusg --> sunfgp : kvnob
+state qnwkmf <<join>>
+sunfgp --> cxerwv : fysg
+cxerwv --> eogdzc : kwoee
+eogdzc --> qnwkmf : kiwctuf
+sunfgp --> amsill : npnq
+amsill --> oclvxx : aones
+oclvxx --> qnwkmf : balzcsi
+sunfgp --> zixpyl : rrcb
+zixpyl --> wccpkk : bkuhp
+wccpkk --> helpmg : ntjae
+helpmg --> rbjcig : mahhp
+rbjcig --> qnwkmf : udniutw
+qnwkmf --> [*] : rumbi
+@enduml

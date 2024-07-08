@@ -1,0 +1,30 @@
+@startuml
+state bdcafo
+[*] --> bdcafo : oqkxx
+bdcafo --> joybql : anphe
+joybql --> natmji : ectqh
+natmji --> bepaim : geida
+bepaim --> dwfnix : gbhio
+state dwfnix {
+zpwupm --> vzkdxl : qnqgd
+vzkdxl --> epozrt : isycg
+epozrt --> [*] : cmhkv
+}
+state gtgsfe <<choice>>
+dwfnix --> gtgsfe : hmglk
+gtgsfe --> yjopnk : txii
+yjopnk --> dfdmee : rifdy
+dfdmee --> hcgobx : wbwov
+hcgobx --> ntvpzq : ehkrvws
+gtgsfe --> zmppfk : mfjp
+zmppfk --> muzuco : umnal
+muzuco --> dovces : fvkto
+dovces --> ntvpzq : gdxterv
+gtgsfe --> wwzgit : xjxw
+wwzgit --> uribyt : npeha
+uribyt --> ntvpzq : pbixwed
+ntvpzq --> wijdri : rodfo
+wijdri --> ujuovd : vqikh
+ujuovd --> qrugvg : dweac
+qrugvg --> [*] : wgunp
+@enduml

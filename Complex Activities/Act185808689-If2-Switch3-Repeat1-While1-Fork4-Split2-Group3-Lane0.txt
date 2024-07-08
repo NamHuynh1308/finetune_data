@@ -1,0 +1,151 @@
+@startuml
+split
+-[hidden]->
+:ajrwx;
+split again
+-[hidden]->
+:fjdqeitzij; <<input>>
+split again
+-[hidden]->
+switch (clletxlrushd?)
+case (hcnfiav?)
+:ropfauqgtd;
+-> cmlwyv;
+case (hnkxywd?)
+:fstfoigpgn; <<output>>
+-> szmlrm;
+case (ivenkfj?)
+:yxxswnfpkv; <<continuous>>
+-> nitjft;
+case (lbnagxn?)
+:ryfdavxcxd;
+endswitch
+split again
+-[hidden]->
+:nxrwbfakjl;
+-> gbeiqh;
+end split
+:sbiofnkkml;
+fork
+:xsmvy;
+fork again
+if (enecddixzfsz?) then (ubsa)
+(ihyl) elseif (ahbusqu?) then (kqxa)
+:kfsdcxaksu; <<output>>
+(qeuh) elseif (zxcyqmt?) then (esun)
+:ysudmdjnwt;
+-> kfpged;
+endif
+fork again
+:zlgcyo;
+while (jfnbprrjheqv?) is (lteo)
+:ivjiyjxrdh;
+endwhile (vlhf)
+-[hidden]->
+detach
+fork again
+switch (oxluznssgrms?)
+case (wbyjsxm?)
+:nqkwrxxbby; <<procedure>>
+case (tdynibc?)
+:wprmf;
+case (fqxubzi?)
+:lifdscvapf;
+case (kbujvxd?)
+:jykwvwquky; <<input>>
+-> huavpe;
+case (saniaua?)
+:lnfzffuytf; <<continuous>>
+-> yqepec;
+endswitch
+end merge
+group btdtyv
+:oenbvwrnfc; <<task>>
+split
+:xchlx;
+split again
+:yezzcjewjs;
+split again
+:yxvfgxqsrq; <<continuous>>
+split again
+:ufqcutffql; <<output>>
+split again
+repeat
+:ijgiy;
+:megbwxwnil; <<save>>
+:uqdbstwbre; <<input>>
+:vjziu;
+repeat while (bjsplhlnukza?) is (gksv)
+split again
+:spnrlysqaj; <<save>>
+-> rvdsrx;
+end split
+end group
+:rzffghwuyh;
+-> lzfgai;
+group tixxfe
+if (gjnsdnfhpvce?) then (caht)
+(obru) elseif (absgwip?) then (cmdo)
+:kahvlamhfm; <<load>>
+-> rifgbi;
+(qzsu) elseif (wydtyjd?) then (puzl)
+fork
+:seebw;
+fork again
+:ovwdg;
+fork again
+:bxpmznykpp;
+-> wyugru;
+fork again
+:xuihpazwnc;
+-> jrnvhr;
+end merge
+(kqox) elseif (fgurgyr?) then (tezn)
+:wpywwtpsyz; <<continuous>>
+(ezif) elseif (pjjgiyk?) then (nmra)
+:qastikxjrx; <<task>>
+-> tqogqm;
+endif
+group bgguuv
+switch (nbleigeroahb?)
+case (maeevzk?)
+fork
+:cpokl;
+fork again
+:xgbjkhfyxv;
+-> scjvfr;
+fork again
+:fhvqllzpxq;
+fork again
+:gbbrv;
+fork again
+:vabedxrlyv; <<input>>
+-> gtvlvi;
+fork again
+:jkiwxznuwf;
+-> odvlbq;
+end fork
+case (zxkxuam?)
+:eeamtedeyx; <<output>>
+-> lnxqoa;
+case (oitupqs?)
+fork
+:bdezn;
+fork again
+:dmfdkouzsd; <<save>>
+fork again
+:bjiojrimcm; <<input>>
+fork again
+:afgak;
+fork again
+:ejydlstacu; <<task>>
+end fork
+case (hmbvivu?)
+:woyorgditb; <<save>>
+case (xyaiysp?)
+:ojihzlccbp; <<task>>
+endswitch
+stop
+end group
+end group
+@enduml

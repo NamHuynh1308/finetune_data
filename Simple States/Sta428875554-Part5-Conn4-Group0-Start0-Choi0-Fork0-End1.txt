@@ -1,0 +1,8 @@
+@startuml
+hide empty description
+state tekyit
+tekyit --> qgymag : jecut
+qgymag --> xrswdn : epabj
+xrswdn --> wjgqeb : jbola
+wjgqeb --> [*] : tlskl
+@enduml

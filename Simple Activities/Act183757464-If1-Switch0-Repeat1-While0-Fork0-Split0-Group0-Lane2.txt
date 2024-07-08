@@ -1,0 +1,27 @@
+@startuml
+|1| vxinrv
+|2| xiainz
+|2|
+if (fwqsaylaqcvy?) then (pwcv)
+:nqmwayhbfl; <<load>>
+-> serkgf;
+:yhmtiercwr;
+-> kwvked;
+:rhxcdvvlmg; <<input>>
+:mmnxvqfgjh; <<save>>
+kill
+else (svhe)
+:kqgcipqkdy;
+:zakhnruncs; <<procedure>>
+repeat
+:kkudt;
+backward:whgpgz;
+:xkbcyfgymr; <<task>>
+:mgteryambn; <<save>>
+repeat while (rfqvfmttkedw?) is (djuo)
+endif
+:oipehvuvbg; <<output>>
+|1|
+:jgytxbvpom;
+stop
+@enduml

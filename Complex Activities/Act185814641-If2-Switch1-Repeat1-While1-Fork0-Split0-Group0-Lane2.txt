@@ -1,0 +1,52 @@
+@startuml
+|1| oevzrr
+|2| rstpxe
+|1|
+start
+|2|
+:sxtmkeugyk; <<continuous>>
+-> jnvlqo;
+:hqypotdwbz; <<continuous>>
+-> imnjei;
+while (zewvxdjyepxl?) is (uepg)
+if (usjszcoarexq?) then (xlrx)
+(qvqi) elseif (oasbsne?) then (bxnk)
+:sgkwf;
+(ogam) elseif (lkjfzxe?) then (ehmb)
+:gnzviadrnq; <<task>>
+-> ztvkge;
+endif
+backward:rwsaso;
+backward:ockxsp;
+if (ypddbvawjfse?) then (tbex)
+(wtlt) elseif (wemgzqe?) then (flit)
+:xgcva;
+(jdwt) elseif (dsmpmpn?) then (piho)
+:ieplpjgfnb; <<continuous>>
+endif
+endwhile (vplv)
+:npjcssam;
+:fixxghvecu;
+:hadsfekikm;
+-> ksthxg;
+repeat
+backward:xgfsiw;
+switch (kxkjcfixbxhg?)
+case (hsecpgo?)
+:nuuqt;
+case (atyooey?)
+:cxbqbuobkf; <<load>>
+-> bgmmmx;
+case (rxohief?)
+:cqvfqddkhz;
+case (zvaaewy?)
+:bitldmlajg; <<continuous>>
+endswitch
+:udxsiyvmmx; <<input>>
+repeat while (hxdmdueylxhx?) is (rhjp)
+:pauknlhzjz; <<input>>
+-> oskzgn;
+|1|
+:zhfppajnjd; <<save>>
+end
+@enduml

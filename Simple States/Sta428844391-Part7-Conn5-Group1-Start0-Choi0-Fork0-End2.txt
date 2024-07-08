@@ -1,0 +1,11 @@
+@startuml
+hide empty description
+state ahlwnt
+ahlwnt --> dcmuwk : fdprx
+dcmuwk --> eegmqw : fqizw
+state eegmqw {
+flbvqz --> dcrewe : gnvzg
+dcrewe --> [*] : kkdmy
+}
+eegmqw --> [*] : xofqg
+@enduml

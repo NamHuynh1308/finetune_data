@@ -1,0 +1,133 @@
+@startuml
+|1| tiroas
+|2| gwedkh
+|1|
+start
+|2|
+:headwifffg; <<load>>
+-> eyniep;
+|1|
+:soffdpfyzv;
+|2|
+repeat
+backward:wlrszy;
+repeat
+backward:awpmft;
+backward:cubtvr;
+:fbrvpjetmw;
+-> amnzpr;
+repeat while (winnbrswimxj?) is (ljrt)
+-> eemvze;
+repeat while (owkeqedpmdsp?) is (xadx)
+-> qzpqlc;
+|1|
+if (bmtcyznwiqme?) then (edtg)
+if (yhrhxowzlwdh?) then (past)
+(xdls) elseif (idzfxtm?) then (nnsd)
+:duafbrpere; <<save>>
+-> cwogmh;
+(rjyt) elseif (xfyvazg?) then (hijf)
+:qlkzzgyama; <<continuous>>
+endif
+:aibhfykkxi;
+-> nennei;
+:vhntsiuvhh; <<output>>
+-> yaoxeb;
+:gmlgsstkdg; <<continuous>>
+while (onhcmrjqhfdy?) is (bskr)
+backward:lkitex;
+if (xveboavswnyv?) then (gzmg)
+(bdnt) elseif (vdafzdi?) then (ecpe)
+:tcgns;
+(bibg) elseif (naqpwwh?) then (nrzk)
+:xvdfmvhwho; <<procedure>>
+-> fdyihe;
+(lcab) elseif (wwsygtl?) then (bnhd)
+:xdyrriquxh; <<procedure>>
+(uvrc) elseif (wvacxiy?) then (inla)
+:vtbxlymssf; <<task>>
+(knjr) elseif (syjtrya?) then (wscx)
+:cmcqg;
+endif
+backward:nillqb;
+backward:ynzmth;
+:kebivppggz; <<output>>
+endwhile (txdg)
+-[hidden]->
+detach
+else (tard)
+fork
+:kanpa;
+fork again
+:mlnqehfbbb; <<save>>
+fork again
+:rzsga;
+fork again
+:fqemf;
+fork again
+:lkhjpdjrma;
+end merge
+if (rtnpasrxyeot?) then (eamw)
+(lobd) elseif (jgvalwj?) then (lzrn)
+:lxdkeuheem; <<continuous>>
+-> ocgclf;
+(saky) elseif (lebojma?) then (vyzz)
+:empzeztiwe;
+-> dnrczp;
+(pivs) elseif (dwbctcd?) then (ghen)
+:fcfuoypsbt; <<save>>
+(myhz) elseif (yyfcgxq?) then (mkkr)
+:aiuzsyaksq; <<load>>
+endif
+:plspqezxao; <<continuous>>
+:ztqnkulyoh; <<output>>
+endif
+|2|
+repeat
+:ullvlqdhen;
+backward:rspnoh;
+repeat while (owwoqhniqbqs?) is (sszw)
+-> hsyolj;
+:ngjohcerco;
+-> gnwpln;
+|1|
+:xhllbwmjbl; <<output>>
+-> oxcrrs;
+|2|
+:yivakduxvz; <<save>>
+-> emtlce;
+|1|
+:cqlumslcph; <<procedure>>
+-> kpuagf;
+|2|
+:aruopubxlm;
+-> fsgsak;
+|1|
+if (yxcpcexqmiju?) then (ilsr)
+if (lajhjwbfpcej?) then (nbxw)
+(gdsg) elseif (dzldgwy?) then (vtex)
+:kynuswaygn; <<task>>
+(gvpx) elseif (ykspuck?) then (jnnk)
+:dxqpb;
+(lduv) elseif (iqlykmy?) then (rgws)
+:xhxne;
+(yvbq) elseif (wkiamgg?) then (ccfb)
+:rdzpardxlc;
+(pfrm) elseif (ebyjssx?) then (xyio)
+:tyakyxchlh; <<load>>
+endif
+:promlcijlt;
+-> ziwsvu;
+else (stuv)
+if (oosgyvdjrbdk?) then (dkjs)
+:rwwvtdemqb; <<load>>
+-> gzaboz;
+else (xtxd)
+:wrtrvpbaqe;
+endif
+:dxpjmnogjq; <<load>>
+-> nsnsti;
+kill
+endif
+stop
+@enduml

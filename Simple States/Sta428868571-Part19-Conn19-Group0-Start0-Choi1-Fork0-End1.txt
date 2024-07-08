@@ -1,0 +1,23 @@
+@startuml
+state dodkmo
+dodkmo --> wntjif : wntqg
+wntjif --> woxgtm : zmkzn
+woxgtm --> ewnggp : fapmm
+ewnggp --> aqmhmh : pdfyl
+aqmhmh --> ywpyfu : bfivc
+ywpyfu --> jtqavn : plchf
+jtqavn --> qgxozc : ahmmi
+qgxozc --> nfrasx : tfepv
+state hprevd <<choice>>
+nfrasx --> hprevd : cslex
+hprevd --> whmkrr : eojx
+whmkrr --> pkznoc : uopsg
+pkznoc --> ksemaw : ejzkr
+ksemaw --> iipfzi : gxzrv
+iipfzi --> bxmwfg : omdezko
+hprevd --> agsgdt : ufpx
+agsgdt --> uwohof : funft
+uwohof --> npwajz : xeupc
+npwajz --> bxmwfg : qznwkbq
+bxmwfg --> [*] : sezld
+@enduml

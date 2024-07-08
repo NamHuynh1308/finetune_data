@@ -1,0 +1,56 @@
+@startuml
+group omtnem
+fork
+:aczsf;
+fork again
+:ddnoswnvxs; <<continuous>>
+fork again
+while (mrywrukivspn?) is (cnhs)
+backward:aynncc;
+:jclycdyntu; <<task>>
+backward:bfifsr;
+backward:lzirwv;
+endwhile (apsi)
+:hmhaboic;
+end merge
+:syitqhstna;
+-> xzcajd;
+end group
+:jfwdxnrkki;
+-> loqbhl;
+:zfivxdzwmh; <<load>>
+-> btntbv;
+while (tndcacusmsss?) is (obrm)
+:pyxrqiudrz; <<procedure>>
+-> cyuduf;
+if (fcvnfulingzy?) then (ixog)
+:gnhhyyrotc; <<procedure>>
+while (rrhgjuwfxjlp?) is (qarc)
+:wduof;
+endwhile (vgwx)
+-[hidden]->
+detach
+else (xupj)
+:qaieuouswi; <<save>>
+kill
+endif
+endwhile (aoyk)
+:wnyuhbui;
+:snyyhjimiy; <<load>>
+:nwpwuuydjm; <<continuous>>
+switch (zheagdonaxow?)
+case (nlaxauw?)
+:jbyqkg;
+while (jlwzdkughslt?) is (wcwa)
+backward:aglsps;
+backward:ecxyxl;
+:rtehicqnxk;
+endwhile (htre)
+-[hidden]->
+detach
+case (tkbqlxl?)
+:ebuzoswipv;
+-> gikhcd;
+endswitch
+stop
+@enduml

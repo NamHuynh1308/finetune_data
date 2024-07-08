@@ -1,0 +1,53 @@
+@startuml
+|1| ovqiml
+|2| ppbzms
+|1|
+start
+|2|
+repeat
+fork
+:yvnwr;
+fork again
+:trcquubrzg; <<task>>
+fork again
+:gdlhm;
+fork again
+:ptphopvqto; <<save>>
+-> ggvcny;
+fork again
+:icjdmviyqa;
+end fork
+backward:pkhpid;
+fork
+:ykqfe;
+fork again
+:tdvzt;
+fork again
+:qazpi;
+fork again
+:unoak;
+end merge
+repeat while (srbokgmwtopw?) is (skmq)
+repeat
+:ceuczp;
+if (yfbnxjq) then (cdjz)
+:anmmem;
+break
+endif
+->fbuq;
+:ovnubb;
+repeat while (ktquhypwkrdv?) is (yvio)
+|1|
+:pssfdyhyri; <<load>>
+|2|
+if (twvseqnimpmv?) then (gire)
+(mhdb) elseif (dnfzhno?) then (bfjq)
+:mkayijteum; <<continuous>>
+(nhen) elseif (zjrfkye?) then (hhre)
+:xqjfophawm; <<save>>
+endif
+|1|
+:idjtamhlfo; <<continuous>>
+-> pqecip;
+end
+@enduml

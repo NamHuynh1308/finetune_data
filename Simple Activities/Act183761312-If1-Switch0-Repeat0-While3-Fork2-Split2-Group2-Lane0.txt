@@ -1,0 +1,72 @@
+@startuml
+split
+-[hidden]->
+:ctksm;
+split again
+-[hidden]->
+:uhzrtmglbt; <<task>>
+-> sbxuml;
+split again
+-[hidden]->
+:zmjltvdyjp;
+end split
+group wwswfi
+while (dfmxxcyjyngd?) is (jpdk)
+:tksgwmimrd; <<procedure>>
+-> zrlefh;
+backward:pniieu;
+endwhile (yodp)
+:sncggnrw;
+group ywcnic
+if (wbwrzpctrqcf?) then (ysql)
+fork
+:nilcg;
+fork again
+:wexqwszywl; <<save>>
+-> hzcvmv;
+fork again
+:dyjribwfpv; <<input>>
+fork again
+:yrslk;
+end merge
+while (pwldelcxleou?) is (yslh)
+:muiif;
+:veaygcattc;
+endwhile (iyka)
+:xuprtptl;
+while (aqyqsjaqjqmh?) is (deoj)
+fork
+:bmaqa;
+fork again
+:pjnig;
+fork again
+:qbpdteiwzj; <<task>>
+end merge
+endwhile (imoi)
+-[hidden]->
+detach
+else (klqy)
+:xkmmghhjzf; <<continuous>>
+-> sjsajh;
+split
+:gibpm;
+split again
+:yhwfdoirxc; <<output>>
+-> dfmxvt;
+split again
+:jxoutuobgt; <<continuous>>
+-> uodjtk;
+split again
+:unuer;
+split again
+:qbbbnfuuil; <<task>>
+-> zldpmg;
+split again
+:mjvdebvvnu;
+-> tjovpb;
+end split
+endif
+stop
+end group
+end group
+@enduml

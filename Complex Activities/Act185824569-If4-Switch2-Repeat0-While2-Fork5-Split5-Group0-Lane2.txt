@@ -1,0 +1,182 @@
+@startuml
+|1| yakdxq
+|2| qvhfrt
+split
+-[hidden]->
+:vvbek;
+split again
+-[hidden]->
+:vxbhddbzeq; <<save>>
+split again
+-[hidden]->
+while (xgmwcxzkxwbb?) is (pyfh)
+:qeitx;
+:jwalw;
+:ibhbv;
+endwhile (qwgs)
+:ofdkfyyn;
+end split
+:tvrpqwttza; <<save>>
+-> hfisbw;
+|2|
+:lraaghvddx; <<load>>
+fork
+:xryxy;
+fork again
+:gfdsaswzsz; <<save>>
+fork again
+:mqvtdslgtw; <<save>>
+fork again
+:zuxyjebvra; <<output>>
+-> hupkfd;
+fork again
+:ldgafrasph; <<task>>
+end merge
+|1|
+switch (gzjvyliiozkc?)
+case (deoweko?)
+:pchsaelfkv;
+case (dnrvfvm?)
+:hsjetoyysb;
+-> ygmhte;
+endswitch
+split
+:qfxja;
+split again
+if (jzkhvqwtizie?) then (ocgq)
+:qphrkofwrv;
+:cqyes;
+:bdtzvkrxah; <<continuous>>
+kill
+else (oqhy)
+:kdnde;
+:fmoiyiwofv; <<load>>
+:mgjossucvz; <<continuous>>
+-> hkxsuz;
+:afsoqixdue; <<output>>
+kill
+endif
+split again
+fork
+:fvtep;
+fork again
+:yeoktogqxk;
+-> dsnvoo;
+fork again
+:jzipp;
+end merge
+split again
+if (pvemxqcuacay?) then (tiwh)
+(oovx) elseif (zvngdbk?) then (mhra)
+:ronroniqxz; <<output>>
+-> udtyah;
+(cdyp) elseif (pofhiac?) then (dlvz)
+:vpsenykdnb;
+(oxpw) elseif (qyeaorp?) then (nsnw)
+:jufyx;
+(uygp) elseif (pzannlk?) then (ydhn)
+:jipaen;
+kill
+(vtvq) elseif (drujtka?) then (bohf)
+:bfgxidkopc; <<task>>
+-> mgvzeg;
+endif
+end split
+|2|
+switch (rokdqjdztmbb?)
+case (nhphvww?)
+split
+:zvvgc;
+split again
+:eaxly;
+split again
+:tjyanilmwe; <<input>>
+-> qjjbpy;
+split again
+:oqxjo;
+end split
+case (pnefrcc?)
+fork
+:xvigq;
+fork again
+:dfxjlmdhuz; <<load>>
+-> vrxibw;
+fork again
+:idkht;
+end merge
+case (jsabnkw?)
+:rlnosuqqgy; <<load>>
+case (pklamxi?)
+:cxpzcxtvtd; <<input>>
+endswitch
+if (zvnqbjbwcslt?) then (nrsr)
+(tdkg) elseif (emxnonp?) then (qooh)
+if (tpttgerqjlwd?) then (qhnr)
+(zyfx) elseif (eudobeb?) then (ykcl)
+:gpllmekvjo; <<procedure>>
+(fcjp) elseif (pddsltm?) then (oocz)
+:zsryossvny; <<task>>
+endif
+(rmzn) elseif (fyrmguq?) then (xexi)
+:otzmnvjmby; <<save>>
+(bmfk) elseif (pwzmgjd?) then (bqpc)
+:ytprszztky; <<task>>
+(imca) elseif (xnqenas?) then (ymkv)
+:rwjemu;
+kill
+(cqhh) elseif (bryrofs?) then (gdju)
+split
+:uscxy;
+split again
+:mzmznytkqq;
+split again
+:tcglwxpskq; <<input>>
+end split
+endif
+|1|
+:zhtgvmjyrd;
+|2|
+:howvqjbdfo;
+fork
+:hrndr;
+fork again
+:blzgcxsyhs;
+fork again
+split
+:hifnd;
+split again
+:eqyrt;
+split again
+:tmifa;
+split again
+:fwjkciuyng; <<save>>
+split again
+:vsitrzlvxm;
+-> yagtbv;
+split again
+:ivkonijimq;
+end split
+fork again
+:dugnnjocri; <<output>>
+fork again
+:ewkktrrtzm; <<save>>
+end fork
+while (sjprvmdqhwsa?) is (flzn)
+backward:ftyilk;
+backward:bkkwmg;
+backward:oahzwg;
+fork
+:gyevq;
+fork again
+:jmzjh;
+fork again
+:zbaxz;
+fork again
+:feqhu;
+fork again
+:hlnxsqtqdj; <<output>>
+end fork
+endwhile (tsnx)
+:ukfdutut;
+stop
+@enduml

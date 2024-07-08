@@ -1,0 +1,27 @@
+@startuml
+state jblrov
+[*] --> jblrov : dagkg
+jblrov --> qtnwvf : jvfjk
+state ibwalt <<choice>>
+qtnwvf --> ibwalt : nyuig
+ibwalt --> fasybh : tubu
+fasybh --> bvtrec : mctcd
+bvtrec --> kpqljo : hmvxv
+kpqljo --> pfawxs : puisekx
+ibwalt --> pwjsfb : aoxp
+pwjsfb --> zozefv : eekzp
+zozefv --> pfawxs : cimothv
+pfawxs --> jfpsrd : qvrtw
+state limyta <<choice>>
+jfpsrd --> limyta : crqkq
+limyta --> ngsuoj : kynx
+ngsuoj --> ovxfvp : zcyww
+ovxfvp --> ldatfh : qxbutci
+limyta --> gwgrng : tnpa
+gwgrng --> gzguds : fxamm
+gzguds --> ldatfh : wmdaeng
+ldatfh --> bhesgw : xdcbz
+bhesgw --> gzspzq : jxgiq
+gzspzq --> kodmwt : hwrue
+kodmwt --> [*] : hamod
+@enduml

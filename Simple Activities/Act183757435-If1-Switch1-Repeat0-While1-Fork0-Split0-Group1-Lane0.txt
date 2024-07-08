@@ -1,0 +1,36 @@
+@startuml
+:ppdlkkjrqb; <<load>>
+group hzkcwp
+switch (ywgmxfijgcng?)
+case (weyxewa?)
+:wrgcumrfrp;
+case (dyyvnjd?)
+if (mmvcwcxpjhch?) then (yzze)
+:sruoqaevzj;
+:iaalfovrqn;
+-> gddpch;
+:lhykrtbdyr; <<output>>
+while (nlyjyushislt?) is (xvyn)
+:iedoj;
+:owsqp;
+:khejjtimod;
+endwhile (vwvy)
+-[hidden]->
+detach
+else (cojb)
+:yvowqaotnw; <<task>>
+-> naqrxd;
+:iycpnxqiwg; <<task>>
+:eqysr;
+:xqazcngula;
+-> yxwcnk;
+endif
+case (jeisrbn?)
+:ischqz;
+kill
+case (pxiibun?)
+:qxedbkwnlr; <<load>>
+endswitch
+stop
+end group
+@enduml

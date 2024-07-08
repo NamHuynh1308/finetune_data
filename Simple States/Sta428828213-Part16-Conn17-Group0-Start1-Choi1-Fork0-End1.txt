@@ -1,0 +1,21 @@
+@startuml
+state lvcshl
+[*] --> lvcshl : fcoxj
+state uzewie <<choice>>
+lvcshl --> uzewie : cmtug
+uzewie --> asxtxx : gowk
+asxtxx --> xtmdqr : puthx
+xtmdqr --> sjwexm : wqfha
+sjwexm --> tfajdo : surszua
+uzewie --> qonitd : pynu
+qonitd --> tmzwcw : xllcb
+tmzwcw --> sgguxx : gdrkf
+sgguxx --> ilqodq : brtud
+ilqodq --> tfajdo : hncyzgu
+uzewie --> tmyemh : orbi
+tmyemh --> vsvpya : rsgyo
+vsvpya --> pftnyc : ofhuj
+pftnyc --> tfajdo : lnyxpha
+tfajdo --> ufdiis : davah
+ufdiis --> [*] : dehzo
+@enduml

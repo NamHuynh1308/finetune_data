@@ -1,0 +1,50 @@
+@startuml
+hide empty description
+state chfjpj
+[*] --> chfjpj : tjxum
+chfjpj --> ifrohk : xutfj
+ifrohk --> nknyvz : hrbli
+nknyvz --> xwwjoh : eucse
+xwwjoh --> osxaeb : niaru
+osxaeb --> jfjxaf : wznqx
+jfjxaf --> hanwon : vlhte
+hanwon --> yxzarm : snvqv
+state fegyej <<choice>>
+yxzarm --> fegyej : xqkay
+fegyej --> omnmdt : kopf
+omnmdt --> vporsd : zyckp
+vporsd --> muknsa : yllstlk
+fegyej --> mmictf : nawz
+mmictf --> hvxtgw : nqnim
+hvxtgw --> udfwds : iijdp
+udfwds --> muknsa : eehkyoc
+fegyej --> vmehpu : rpli
+vmehpu --> sdauwo : gjzwv
+sdauwo --> wjtqvw : geiao
+wjtqvw --> muknsa : pdofpcn
+muknsa --> fsgeyv : dcpjg
+state jitmxe <<fork>>
+fsgeyv --> jitmxe : wqqhq
+state avybbm <<join>>
+jitmxe --> wfhueh : itwl
+wfhueh --> lqgkck : gakgs
+lqgkck --> avybbm : kuvagbc
+jitmxe --> pamhbw : jtru
+pamhbw --> gpztzj : kikzn
+gpztzj --> dkkvfo : jrcoz
+dkkvfo --> rwunnu : yowpg
+rwunnu --> avybbm : vgkmgyl
+jitmxe --> shmcyj : oojg
+shmcyj --> srhrta : etsnk
+srhrta --> avybbm : hyeihsc
+avybbm --> pxdvae : xjbom
+pxdvae --> wwcvic : inodo
+wwcvic --> zqxegf : adchg
+zqxegf --> lwzrzj : eyvsh
+state lwzrzj {
+sclmlw --> qpbljc : uxgji
+qpbljc --> lxjvxw : htsjs
+lxjvxw --> [*] : ywksx
+}
+lwzrzj --> sqtevj : gqhhd
+@enduml

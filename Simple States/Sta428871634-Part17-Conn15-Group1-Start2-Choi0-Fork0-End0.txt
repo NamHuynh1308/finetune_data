@@ -1,0 +1,20 @@
+@startuml
+state xchgkt
+[*] --> xchgkt : nlmmo
+xchgkt --> dtbzzs : fxgfr
+dtbzzs --> qgffuk : qzgds
+qgffuk --> jsdvmj : dwnux
+jsdvmj --> ruckza : zugmj
+ruckza --> kuzmdy : tyhow
+kuzmdy --> dlivlu : cmtfh
+state dlivlu {
+[*] --> mkqbml : caadt
+mkqbml --> akighp : cuxqn
+akighp --> vbprml : cgsmf
+}
+dlivlu --> ccpkgt : yniuz
+ccpkgt --> lmzivc : osqlj
+lmzivc --> elgjnj : zpvui
+elgjnj --> fwpgug : ovokx
+fwpgug --> nurqds : cpvhx
+@enduml

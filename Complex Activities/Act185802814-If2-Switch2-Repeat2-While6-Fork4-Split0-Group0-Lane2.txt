@@ -1,0 +1,142 @@
+@startuml
+|1| ufdkkv
+|2| xmuymx
+:hdsuwrtmjh;
+-> vogcdo;
+|2|
+while (lddxjsvivdnt?) is (yomx)
+while (wnivshpsvgml?) is (jzll)
+:ubhcrvzboc;
+-> bufwio;
+:qemyhkgkei;
+:vurlg;
+endwhile (zhvy)
+:qbrldkge;
+backward:jwhkjo;
+backward:foydxq;
+endwhile (lvfu)
+:fuhastzm;
+|1|
+:haqexgrxis;
+-> cpjygk;
+|2|
+:pjalcvfelp; <<procedure>>
+fork
+:mgxbz;
+fork again
+fork
+:vdgpg;
+fork again
+:qnatzxikdk; <<output>>
+fork again
+:uelqmweucg; <<save>>
+end fork
+fork again
+:hiottfsver; <<task>>
+-> gcrgfv;
+fork again
+repeat
+:wkfbjsaaia;
+:mifdklaijj;
+:hfafv;
+repeat while (epjfwixooghq?) is (rnuu)
+end merge
+if (nyunfvxlmcbl?) then (bdoj)
+(eexg) elseif (ejgdkmj?) then (gvhn)
+:sinbib;
+while (yspbabnlnfaw?) is (ocjp)
+:rsjizzyqte; <<output>>
+endwhile (hdte)
+-[hidden]->
+detach
+(ytxb) elseif (tgfdkxc?) then (ucjt)
+switch (hstfukdrjyik?)
+case (hzpzjge?)
+:qamki;
+case (jfmbhna?)
+:yybcxhzmrd; <<load>>
+case (mcxvlbh?)
+:zufkpt;
+while (jaeoxywcmqrm?) is (rvia)
+:ddrsy;
+:mdxpxohpkk; <<save>>
+backward:awowkh;
+endwhile (lfgb)
+-[hidden]->
+detach
+case (tfydxeq?)
+:shrtkndedp; <<save>>
+case (nmfrsvq?)
+:rlyzkrhrat; <<continuous>>
+endswitch
+endif
+|1|
+switch (lnecxwvgshux?)
+case (qhiczeb?)
+fork
+:onqzq;
+fork again
+:zcjxx;
+fork again
+:inxlfrnuum; <<task>>
+fork again
+:yevioigqvy; <<task>>
+fork again
+:crzhgsrgfo; <<procedure>>
+-> ksviyo;
+end merge
+case (hiapblm?)
+:yonabygsvn;
+-> focgtq;
+case (duqfcaf?)
+if (mzwlyypdneiz?) then (rvfw)
+:cxmcntrlrb;
+else (qqnl)
+:hxpjoacdcl;
+:pcmwk;
+:migtmpomjo; <<load>>
+endif
+case (jjixexv?)
+:ihfpzumsze; <<save>>
+-> wztdkg;
+endswitch
+|2|
+:ubhtqvamoj; <<load>>
+-> odcjac;
+|1|
+:viuortcpyv; <<input>>
+-> jqoxug;
+fork
+:isytg;
+fork again
+:thwcqedypd; <<task>>
+-> iktati;
+fork again
+:pthsfh;
+while (pdwpywphxzfn?) is (tyjl)
+repeat
+:scelp;
+backward:ekeouv;
+backward:wioxxb;
+:hzyyxiuxir;
+-> skstla;
+repeat while (komisgavsnae?) is (cguf)
+:qpcjfqkldm; <<task>>
+endwhile (ygfm)
+-[hidden]->
+detach
+fork again
+:mdfmxibtth;
+fork again
+while (qtuirkzcstht?) is (oqdc)
+:loavdmjjyw;
+:wrxbn;
+backward:wbvgju;
+backward:vpmfmd;
+:kwpqshyhgp; <<save>>
+-> bckdrr;
+endwhile (mnwk)
+:umgsndji;
+end fork
+end
+@enduml

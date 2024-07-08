@@ -1,0 +1,31 @@
+@startuml
+start
+if (tggnldqlxvqr?) then (riad)
+(laxl) elseif (diievis?) then (pusk)
+switch (dubbqstgxivr?)
+case (lrldeof?)
+:zjtbo;
+case (srecivs?)
+:xeyhn;
+endswitch
+(tnbh) elseif (wttmofw?) then (tmxe)
+:ywjhxvrowr; <<save>>
+(tgyy) elseif (bcchrlf?) then (hqdj)
+:fyoxmjizrc; <<input>>
+(dsld) elseif (twghpem?) then (qrcr)
+switch (vxnzaaznrloz?)
+case (jduzixy?)
+:hksyibhcsh;
+-> gombty;
+case (cqczvef?)
+:emcwguvtmp; <<continuous>>
+-> cbzien;
+case (icjcscg?)
+:yipjn;
+case (lyncbke?)
+:hfqugd;
+kill
+endswitch
+endif
+stop
+@enduml

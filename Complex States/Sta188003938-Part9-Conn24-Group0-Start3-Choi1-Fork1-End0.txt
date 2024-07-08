@@ -1,0 +1,36 @@
+@startuml
+hide empty description
+state 0 <<start>>
+state 1 <<fork>>
+state "zyfry" as 2 : zrtbjfzhbq
+state 3 <<start>>
+state 4 <<choice>>
+state "humiw" as 5
+state "trauf" as 6
+state 7 <<start>>
+state "gqfhb" as 8
+0 --> 5 : bggxxc
+2 --> 1 : kyxwoi
+1 --> 2 : rzermf
+1 --> 1 : obbhlm
+1 --> 8 : glxgxo
+1 --> 5 : wlsmtj
+2 --> 8 : egkstf
+2 --> 6 : lxtobc
+6 --> 2 : vougka
+3 --> 2 : sffqbp
+7 --> 4 : bcjuda
+4 --> 8 : dchiww
+4 --> 2 : fxqqun
+4 --> 5 : yoxwgf
+5 --> 4 : nodgxz
+5 --> 1 : kdmmrn
+4 --> 5 : ywvsuk
+6 --> 1 : ymohib
+6 --> 6 : xujegc
+0 --> 6 : vwjsnk
+7 --> 5 : zepjlb
+8 --> 6 : cujqgm
+8 --> 1 : dneqol
+3 --> 8 : depcva
+@enduml

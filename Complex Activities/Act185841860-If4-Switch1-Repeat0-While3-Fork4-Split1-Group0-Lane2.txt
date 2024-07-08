@@ -1,0 +1,127 @@
+@startuml
+|1| gjpmyk
+|2| lktlgh
+|2|
+:xjogfkteqp; <<load>>
+switch (mfkyuclwyxnu?)
+case (plhtwuo?)
+:sbsccfbxji; <<continuous>>
+case (oahyvwj?)
+:zkkhbkcuhp;
+case (btfkctv?)
+while (gzddpibpoqyp?) is (duab)
+:blsuaircta; <<task>>
+:ovezi;
+:dgcfm;
+endwhile (rtpd)
+:dyknxmdk;
+endswitch
+fork
+:kfpdk;
+fork again
+while (valiytydqahg?) is (moqc)
+:lohep;
+endwhile (kdrs)
+:iagpefkl;
+fork again
+:tzmghptqvc; <<save>>
+-> dcdyfv;
+fork again
+if (xaawuwtquixy?) then (omwp)
+:ahcqavnawl; <<procedure>>
+:zglcq;
+:jhwyvpxaxk; <<continuous>>
+-> vrpdke;
+else (qetn)
+:ptjanlctzb;
+:ewmtyqjhns; <<continuous>>
+:hqinvtlucm;
+:ejesawcgrw; <<input>>
+:sxusdqdbuc; <<save>>
+endif
+end fork
+if (blawkqhsmapl?) then (oszs)
+(msfu) elseif (khujugj?) then (uhop)
+:chntwwlwin; <<output>>
+-> xlaagj;
+(edko) elseif (cjoxauk?) then (gmrj)
+:wqrtrnmgzc; <<load>>
+-> uijofs;
+(sbwo) elseif (xoivufe?) then (jkds)
+:obhyneqstr; <<continuous>>
+-> vlwcsv;
+(foip) elseif (nrbwjtr?) then (amoz)
+:qctsmwtmla;
+endif
+fork
+:rifzd;
+fork again
+fork
+:grngz;
+fork again
+:layzq;
+fork again
+:swvyzdbskr; <<continuous>>
+fork again
+:krpbjohoxs; <<task>>
+end fork
+fork again
+:aectjjrswp; <<output>>
+fork again
+if (psjetcgvbvqb?) then (dzna)
+(tdnq) elseif (sligfzz?) then (edxh)
+:tfdncfufvv; <<task>>
+-> hejhct;
+(cizm) elseif (zjfqcxf?) then (reix)
+:vkxlozjsyr;
+-> zwpgln;
+(cdas) elseif (gkgfdct?) then (uhjd)
+:sxhyl;
+endif
+fork again
+:deblsnyetb; <<output>>
+end merge
+|1|
+:bekqqouhpr; <<load>>
+if (gazwhvyqoosp?) then (wyxi)
+(geci) elseif (izjunxk?) then (pkiq)
+:adwlolhvja; <<task>>
+(zrvx) elseif (fhyltnz?) then (ktfm)
+while (iyinxyegvhrj?) is (ekpj)
+:irqdthzxfu; <<task>>
+endwhile (ssah)
+:aurntmnv;
+(wzoa) elseif (clbmgyy?) then (djme)
+:iypwfhpqyl;
+-> zslysp;
+(fryg) elseif (nwmuwgp?) then (urng)
+:nlgifbupka;
+endif
+:equywszwex; <<task>>
+|2|
+:hhklfaierw;
+:bdtwhlnalq;
+-> ulrawo;
+fork
+:ltrub;
+fork again
+:szqfbufnqp;
+fork again
+:fxdegpexfj; <<load>>
+-> exogng;
+fork again
+:wfdxjrwfuo; <<output>>
+fork again
+split
+:ncqkm;
+split again
+:zrose;
+split again
+:qbieyg;
+kill
+split again
+:rgnnk;
+end split
+end fork
+end
+@enduml

@@ -1,0 +1,153 @@
+@startuml
+|1| rynbwr
+|2| jhvctf
+:mriwuxfqgk; <<save>>
+-> hmzzzq;
+|2|
+:ncyuxxylyj; <<procedure>>
+-> hxbhia;
+split
+:lbbui;
+split again
+split
+:fvkzo;
+split again
+:emuimlkgpp; <<task>>
+-> kfzhtj;
+split again
+:axdrt;
+split again
+:qbpuonbtfd; <<input>>
+split again
+:txlhtvjhdv;
+end split
+split again
+:muaotuexum;
+-> qhujzj;
+split again
+:vnzxpjfjtu;
+-> efyfhp;
+end split
+:teagsscgdj; <<output>>
+-> nhbuks;
+if (ygfmcerlvlto?) then (jwzt)
+:ufmljuowfo;
+-> rjxqut;
+else (puwu)
+:gumhfcykjp;
+-> rpecpc;
+:ocjwezkjuh; <<input>>
+:gxztgkhgai;
+-> ktpiqb;
+:qlxvxtxsft; <<load>>
+kill
+endif
+switch (shmsxouteopt?)
+case (buerzuk?)
+if (qcsshaecvjvj?) then (ylpw)
+:nssntyvrgd;
+:qohdjwgmjf; <<task>>
+else (lacw)
+:fsxpyppaeo; <<save>>
+:dmfmc;
+while (okxrlbkshkph?) is (vprq)
+:silwu;
+:kcncyklgfc; <<save>>
+endwhile (ggwa)
+-[hidden]->
+detach
+endif
+case (moenisn?)
+split
+:rofle;
+split again
+:npuqi;
+split again
+:lydehfcbdf;
+-> jpprvk;
+split again
+:ronwrvgxzy; <<output>>
+split again
+:yyyzvvoznd;
+split again
+:ylisa;
+end split
+endswitch
+|1|
+if (wmgjpwzxqxwl?) then (wyut)
+fork
+:slybn;
+fork again
+:xwejpz;
+kill
+fork again
+:xghux;
+end merge
+:ueevizslqz; <<load>>
+:sgmrpenuds;
+-> gpkoyu;
+:yibelvzcje; <<save>>
+split
+:lviqm;
+split again
+:pgpufqzret; <<save>>
+-> xogsyk;
+split again
+:gsxwnmdgmh;
+split again
+:wyvvmdzgrd;
+split again
+:oqvhwozods;
+-> ntwbbz;
+split again
+:smqmx;
+end split
+else (nwxa)
+:tliqmgjuln;
+if (umrocmjstmbs?) then (bnsv)
+:okvpukyyua; <<output>>
+-> ffnhqe;
+:crstcanigj; <<output>>
+:hijfm;
+:lpwqnemhdj; <<output>>
+:vhpfg;
+while (qfhzrrpvajxk?) is (ojfd)
+backward:xhwphz;
+:wwdnz;
+backward:idxjfs;
+:rjiui;
+:deafxxzxkf;
+-> bfpbhm;
+endwhile (tuix)
+-[hidden]->
+detach
+else (sdyc)
+:wrwrbxxfsz;
+-> zdtfbx;
+:jkpdpahksf; <<load>>
+:qiynhbwafl;
+-> jjtjku;
+:mhiaovszlb;
+-> wwzrvc;
+kill
+endif
+repeat
+:miuudptnpq; <<continuous>>
+:vhjff;
+repeat while (ncwhhttuwkbo?) is (buxh)
+:duibnxadks; <<task>>
+:ltyufezjyy; <<task>>
+-> ahzjys;
+endif
+|2|
+if (kpwghwwgtjsc?) then (mynk)
+:vnxncwlmps; <<input>>
+:uuzxvbndbx;
+-> feyeqa;
+else (spyy)
+:xqmezbvgzo;
+:nwowiniatj; <<load>>
+endif
+:ktcjsiqjtj; <<output>>
+:erwyqhuddu;
+@enduml

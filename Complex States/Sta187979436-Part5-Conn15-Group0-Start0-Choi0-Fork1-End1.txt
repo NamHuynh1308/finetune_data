@@ -1,0 +1,22 @@
+@startuml
+state "nftvw" as 0
+state 1 <<end>>
+state 2 <<fork>>
+state "egmzk" as 3 : inszlqtcju
+state "alaxj" as 4
+0 --> 0 : bdjrkb
+0 --> 1 : efkbub
+3 --> 0 : bqpvzy
+4 --> 0 : qfmwzp
+3 --> 1 : btsjsg
+0 --> 2 : dbytyc
+2 --> 0 : pogpuc
+2 --> 0 : ooexjq
+2 --> 4 : xfefud
+3 --> 1 : yrqzvm
+3 --> 3 : xachhs
+2 --> 3 : fmzjep
+4 --> 0 : ozzdtl
+4 --> 1 : jnjhuq
+4 --> 4 : jykwlz
+@enduml

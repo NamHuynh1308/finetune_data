@@ -1,0 +1,39 @@
+@startuml
+hide empty description
+state gwwtif
+[*] --> gwwtif : tdxug
+state kocmdt <<choice>>
+gwwtif --> kocmdt : lxiun
+kocmdt --> opywry : hdej
+opywry --> wkcrwf : mxszg
+wkcrwf --> lxltgc : dnvvs
+lxltgc --> uhnlwh : lxkvnkm
+kocmdt --> eryfxj : azlt
+eryfxj --> ayurkt : fyaja
+ayurkt --> nrzpvo : dqphg
+nrzpvo --> uhnlwh : zrgtsce
+kocmdt --> fkqwsd : kryj
+fkqwsd --> qjimgu : psmrg
+qjimgu --> uhnlwh : gekhavb
+uhnlwh --> exgqrz : rqzrh
+exgqrz --> gpvsas : viiaq
+gpvsas --> bhrxes : xevts
+bhrxes --> unkpxf : txvfc
+unkpxf --> jazaik : aepxc
+state naiqwa <<choice>>
+jazaik --> naiqwa : hnjuq
+naiqwa --> iyvnxc : trib
+iyvnxc --> uhslfw : khzsu
+uhslfw --> mgckox : brtdo
+mgckox --> zojnbc : emzfs
+zojnbc --> oiztbf : qlsupgo
+naiqwa --> zvwuou : tzbj
+zvwuou --> ukrgxf : zumhk
+ukrgxf --> oiztbf : wciludy
+naiqwa --> thajbs : savb
+thajbs --> fpaufi : lllee
+fpaufi --> dipuxc : vepel
+dipuxc --> mhnrby : ropzs
+mhnrby --> oiztbf : iisuwwl
+oiztbf --> sslime : khsig
+@enduml

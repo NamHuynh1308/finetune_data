@@ -1,0 +1,89 @@
+@startuml
+|1| pyctif
+|2| tycybm
+|1|
+start
+split
+:tfhec;
+split again
+:xoitawtzst;
+split again
+:yckyqnbado; <<output>>
+end split
+|2|
+if (dywuvqagrbhu?) then (bhml)
+(yohw) elseif (cdteiiq?) then (vkhr)
+while (wmcpeolswuse?) is (jzki)
+:iwlek;
+endwhile (gfek)
+:nnstjbjx;
+(jufw) elseif (zicuptp?) then (vumq)
+:rldlrwdtfj; <<continuous>>
+(mvwh) elseif (jjtppjb?) then (yslk)
+:yykrdngtnu; <<input>>
+-> lqhqov;
+(vict) elseif (zbftfrm?) then (rhey)
+:mpeedqagnd; <<procedure>>
+-> lffwio;
+(wdpd) elseif (dmnqxth?) then (kvem)
+:yfxdhbzgvz; <<output>>
+endif
+fork
+:wikha;
+fork again
+:qobnobtxop;
+fork again
+:xttumemkcn; <<load>>
+fork again
+switch (gykkvpqhwgqh?)
+case (mdchhfi?)
+:ugiuj;
+case (lhqbjgh?)
+:ylbwcxgnye; <<input>>
+-> sbsrst;
+endswitch
+end fork
+split
+:ydpoz;
+split again
+:sqqprlpfsy; <<procedure>>
+split again
+:ddmpwogmmz;
+end split
+split
+:yrtan;
+split again
+if (athdgkofjrfh?) then (qrbf)
+:sezcc;
+:nyiigqbqbx; <<task>>
+-> nweeca;
+else (mijv)
+:qntoa;
+:uichwafzrp; <<save>>
+while (uhnjlrhofiim?) is (uwew)
+:fvmrm;
+:mrqxy;
+backward:kletdo;
+:jsmrmsgoib;
+endwhile (xupq)
+-[hidden]->
+detach
+endif
+split again
+split
+:kzqdf;
+split again
+:reoslaeclg;
+split again
+:eacvmtnrhc; <<output>>
+split again
+:jyhcfa;
+kill
+split again
+:upkqu;
+split again
+:hyzmo;
+end split
+end split
+end
+@enduml

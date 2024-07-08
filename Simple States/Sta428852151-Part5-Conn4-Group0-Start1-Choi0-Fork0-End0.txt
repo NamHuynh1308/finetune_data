@@ -1,0 +1,8 @@
+@startuml
+hide empty description
+state nlpydx
+[*] --> nlpydx : spcmq
+nlpydx --> cfrhab : mltob
+cfrhab --> zmcvos : kpegk
+zmcvos --> mkanbc : wamev
+@enduml

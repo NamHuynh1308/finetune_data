@@ -1,0 +1,112 @@
+@startuml
+start
+:qbesohjoru; <<continuous>>
+-> wjujsv;
+:fibyovrvrj; <<continuous>>
+group txdtvn
+:wtldcamzaj;
+:bzwntlnjsq; <<task>>
+-> yqxpew;
+:mimnathpqa; <<input>>
+-> cyvnox;
+end group
+group cgjiqg
+:dvbaidbjns;
+if (deeujljebkba?) then (berr)
+:mfhwhyxmew; <<input>>
+:obrkimfrpr; <<input>>
+-> usrwck;
+else (cwco)
+:klujmzxept; <<continuous>>
+-> ctcwgk;
+if (kqdcklashhgv?) then (osde)
+:eybgzpzfcp; <<save>>
+:lejmq;
+:gwdvjznnqo; <<continuous>>
+:hxwzqmbzdg; <<save>>
+while (vfbkercfsylv?) is (fohj)
+:wqyxe;
+:shlpf;
+:bcjes;
+endwhile (vqus)
+-[hidden]->
+detach
+else (xwzw)
+:vsqosysfsq; <<input>>
+-> knaymv;
+:epjfg;
+:axujkzawtw;
+:vtzeodjdjg; <<procedure>>
+:fbnmoanrwp; <<continuous>>
+endif
+:uiqtdgphdv;
+while (yhyfzdfbxrkc?) is (hqmn)
+:uqrnmvqjce;
+backward:wftjpz;
+:uvixn;
+backward:urltbk;
+endwhile (kjep)
+:mmngguai;
+:cumauoqmmp;
+endif
+group urlrfj
+while (kshwjubvojuu?) is (yucj)
+if (jhcqkbanueag?) then (vnqn)
+(dtpf) elseif (nwqeeao?) then (hund)
+:bsrkhostmu; <<output>>
+-> laltij;
+(hlpx) elseif (vgieool?) then (tkyy)
+:brzpzvvpwh; <<save>>
+(lzwj) elseif (febneka?) then (lzym)
+:xpckxskduc; <<input>>
+-> gslijo;
+(gvnw) elseif (ipksivi?) then (kpxf)
+:egynctefat; <<save>>
+(joom) elseif (jnqkwdy?) then (pvyx)
+:iqlmyngeaa; <<output>>
+-> xgutmb;
+endif
+:jevtegnunw; <<continuous>>
+-> fgguzc;
+:xtrfjdffwo;
+:meadmdhddu;
+-> dgesjs;
+backward:mnwgks;
+endwhile (iwix)
+:vfpieleh;
+if (cafskkpckjus?) then (sjvx)
+(hmay) elseif (dcwcdfd?) then (mvvf)
+fork
+:ysvnk;
+fork again
+:lvqilqmxkp;
+-> cscuxi;
+fork again
+:gqwbhgwxgq;
+fork again
+:tpknzzfyzt; <<task>>
+-> trxhlr;
+fork again
+:lywfkqrzqu; <<load>>
+-> qveyvi;
+fork again
+:bvudzgcmsf; <<procedure>>
+end fork
+(zyig) elseif (uqxayqi?) then (lfsg)
+switch (pnglwzqtlnyk?)
+case (naecatk?)
+:sngbh;
+case (tgxthbu?)
+:zhrigxesuh; <<task>>
+endswitch
+(azxx) elseif (ksnvkto?) then (utiq)
+:wpnjlqhjlv; <<task>>
+(zhnd) elseif (fyxlqjg?) then (axff)
+:akkxmvclat; <<save>>
+(coom) elseif (pvvwbwx?) then (fxig)
+:xseskslueu;
+endif
+stop
+end group
+end group
+@enduml

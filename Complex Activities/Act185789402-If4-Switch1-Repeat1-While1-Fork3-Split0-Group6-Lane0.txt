@@ -1,0 +1,118 @@
+@startuml
+group oydayb
+if (fsvqvfmnveij?) then (fskw)
+(irgy) elseif (dboaizf?) then (wpjr)
+:huwyxklzmv; <<procedure>>
+(yamc) elseif (ksrupsn?) then (vsrr)
+:zskrfagwsf;
+-> orsalr;
+(gfyi) elseif (fkrxqfm?) then (egbg)
+:tzbvpfxsrr;
+-> rytcum;
+(jhii) elseif (cgzqhtk?) then (djei)
+:kgslbtunot; <<task>>
+endif
+switch (tzlkcyihlutk?)
+case (zkizkvx?)
+fork
+:cfklc;
+fork again
+:ugrec;
+fork again
+:emxeeunmds; <<input>>
+-> nazpdp;
+fork again
+:wykwutdfsw; <<save>>
+fork again
+:ryzlnwypcq;
+fork again
+:cxorifpava; <<load>>
+-> czppvj;
+end merge
+case (lstovug?)
+repeat
+:kejsylryaa; <<output>>
+:svdmy;
+backward:uytifm;
+:ooiyy;
+repeat while (qczmabtdnuwx?) is (hgnz)
+case (ynurume?)
+fork
+:unglg;
+fork again
+:voqbp;
+fork again
+:edkklbpnws; <<continuous>>
+fork again
+:ixiugvkpxs; <<continuous>>
+fork again
+:lpksz;
+end fork
+case (gzoeaqk?)
+fork
+:nqtew;
+fork again
+:duhfk;
+fork again
+:egawutztnd; <<input>>
+-> chcmey;
+fork again
+:ohsthzxaob; <<save>>
+fork again
+:xnbzdequrj;
+-> qqqpwl;
+end fork
+endswitch
+group tynxek
+:opgapgufao;
+-> txvmwx;
+while (pjpboeyjesol?) is (cttk)
+if (puftfgkbaobu?) then (fwmn)
+(uhyn) elseif (towknuz?) then (kgoz)
+:jkezp;
+(aymb) elseif (lkrtrrp?) then (oqfg)
+:tsutp;
+(hbqu) elseif (arxaocx?) then (bgio)
+:dmlfqphvma;
+-> grdvuu;
+(iugk) elseif (umwsoiq?) then (bmjh)
+:avcawpokju;
+-> igplcr;
+(lclp) elseif (gwziyxi?) then (ffyd)
+:bevhbwiwql; <<input>>
+-> duookb;
+endif
+endwhile (aaui)
+:gpmqywev;
+group pqrqmv
+:slneipzxew; <<input>>
+group zocott
+:dimohwwmnd; <<save>>
+-> lxiiaw;
+group ykbayr
+if (dbbvnezffqyv?) then (wvnz)
+(gmzf) elseif (ypxmiaj?) then (ryne)
+:qpumio;
+kill
+(bmvh) elseif (jryalch?) then (psmm)
+if (qponeoecwsgx?) then (gemt)
+(avwl) elseif (zeljifa?) then (kmnh)
+:umdiz;
+(fbhg) elseif (wgflhsi?) then (gbsl)
+:kppwx;
+endif
+endif
+:imcdhtzxcx;
+-> zwsynf;
+end group
+:qhnbvbqhsn; <<task>>
+end group
+group nukhoa
+:dhinjoqzev; <<continuous>>
+-> lmkdbt;
+stop
+end group
+end group
+end group
+end group
+@enduml

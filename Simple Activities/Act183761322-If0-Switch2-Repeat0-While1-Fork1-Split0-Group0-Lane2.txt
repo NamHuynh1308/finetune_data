@@ -1,0 +1,56 @@
+@startuml
+|1| sjcoxs
+|2| qvzgrh
+:aleyzsurem; <<task>>
+-> cudtyj;
+switch (nfidprvaochw?)
+case (yrjdrwa?)
+:jxemwtzydj;
+-> slnzvo;
+case (hzvhavo?)
+:upxoyltobu; <<procedure>>
+case (tfynkcn?)
+:enpfajxyip; <<load>>
+case (eqvcpfw?)
+switch (iysdfatjxbfh?)
+case (ryvnuxy?)
+:wzfusbiswc; <<continuous>>
+-> snssld;
+case (rqrosfn?)
+:vxmxpcwjoy;
+case (iamjzno?)
+:pmuyyxpxyz; <<output>>
+case (pjruhon?)
+:xrskg;
+case (jahwyzd?)
+:gblec;
+endswitch
+endswitch
+while (ljddyyeuvoxy?) is (kmwi)
+backward:kiikcq;
+fork
+:wxmzg;
+fork again
+:ewwpzqkclf; <<output>>
+fork again
+:sxged;
+fork again
+:kdadtghxlt; <<output>>
+-> btbbds;
+fork again
+:jzvhauuamn; <<procedure>>
+fork again
+:rdiae;
+end fork
+backward:rgwmis;
+backward:jkvndv;
+:ifieoeuqol; <<task>>
+endwhile (tzmn)
+:hdxescgf;
+|2|
+:jtixsotfhk; <<output>>
+|1|
+:xfjrgedlkl;
+-> kiqdhl;
+end
+@enduml

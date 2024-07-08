@@ -1,0 +1,133 @@
+@startuml
+start
+repeat
+backward:oarubh;
+:xkfwcinwrc;
+backward:rfkqyx;
+if (qwxrrxcipenw?) then (qswr)
+(udgt) elseif (lvjizve?) then (gkzr)
+:aerlltpbul;
+-> izprka;
+(vztk) elseif (khrcdfp?) then (kvqf)
+:kaeljaqwwp; <<load>>
+-> imuktm;
+(xhkl) elseif (bhxhbqd?) then (lsrt)
+:pyeshoxsmm; <<continuous>>
+-> intuce;
+(srxa) elseif (dowcxle?) then (evqy)
+:yiwivammly;
+(buuf) elseif (kvyfqvy?) then (xejb)
+:dfelw;
+endif
+while (gegnekvowkgw?) is (ezin)
+:ydnhuilcer; <<output>>
+-> orptos;
+:oavon;
+endwhile (rcgb)
+:kzjainoa;
+repeat while (lrfauubimgcc?) is (vdfs)
+group hmnipp
+switch (olmqbneeqees?)
+case (ydxakgd?)
+:ugmyfbsaxr;
+case (mfnifmj?)
+:chotgygfpd; <<save>>
+case (qrqodsr?)
+while (prvbtcrjysoz?) is (mkhe)
+backward:uoaxvg;
+backward:jjtvwy;
+:hjrqd;
+:cmvgv;
+:asjez;
+endwhile (rvhw)
+:wqhaqlyu;
+case (mwicryn?)
+:kawvpyvpts; <<save>>
+case (qfftaix?)
+while (xlhvmhvsctfc?) is (scea)
+backward:vwnxwd;
+:zgszo;
+:znark;
+endwhile (inqv)
+:zjvbihgm;
+endswitch
+group pblklo
+if (qulfqlykkcpb?) then (tuvf)
+(mxun) elseif (ortkrkq?) then (kjza)
+:judjztaemt;
+(dzlt) elseif (awjvkyv?) then (obxf)
+fork
+:dpdqv;
+fork again
+:elcajmuenp; <<load>>
+-> ydxyrg;
+fork again
+:ggvyquxito; <<output>>
+end merge
+(tkas) elseif (dmusvym?) then (yujc)
+:xnyxku;
+kill
+endif
+repeat
+backward:rroiem;
+repeat while (hdpyybiahgnd?) is (fgbv)
+group cskqma
+:wkfvbptuhx;
+-> ttobtm;
+if (brgmyrqjkiii?) then (odxz)
+:jwyszsfwfb;
+while (ruxtoqaooktz?) is (trmo)
+:agate;
+backward:vrnmww;
+backward:tkwild;
+backward:rfvoeu;
+endwhile (kgjp)
+:ofospsgs;
+:ysfhvbmdkd; <<procedure>>
+-> lzrawy;
+:nodngerjeq; <<load>>
+:rbgpanwbzk;
+-> qhkkbr;
+while (tzmgmycykxgd?) is (vwwx)
+:tkpkoyerqz;
+-> mwrcjo;
+switch (pirvrybqiqak?)
+case (pzpbwpd?)
+:hvkrhrltqk;
+case (latwwhg?)
+:ghegdrytas;
+-> fqlpya;
+case (llslzyb?)
+:jifmluvwck; <<load>>
+case (eokhotx?)
+:xghuutzjdq;
+case (rbjmfpd?)
+:pfuep;
+endswitch
+if (xhikuhwmmrhv?) then (hsoz)
+(hbbw) elseif (vfviohd?) then (gyvb)
+:adasa;
+(ytox) elseif (qermsmn?) then (npki)
+:bgzhxt;
+kill
+(neuv) elseif (tugbwhz?) then (vqgu)
+:vuculsvsxo; <<output>>
+(sbzm) elseif (sqwktss?) then (ghdu)
+:tfualkxwcw;
+(xcke) elseif (nwtkymq?) then (mtmx)
+:tnddr;
+endif
+backward:zinosj;
+endwhile (eojw)
+-[hidden]->
+detach
+else (utbn)
+:ijszhvxzvg;
+-> wolmmd;
+:tzxabcsqal;
+endif
+stop
+end group
+end group
+end group
+@enduml

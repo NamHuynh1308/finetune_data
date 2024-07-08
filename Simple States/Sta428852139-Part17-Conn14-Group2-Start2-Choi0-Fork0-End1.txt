@@ -1,0 +1,21 @@
+@startuml
+state kultot
+[*] --> kultot : oahit
+kultot --> unqgci : ijmcg
+unqgci --> pqgbrc : drdus
+state pqgbrc {
+yyxjfb --> ptweii : wlmug
+}
+pqgbrc --> fnykai : kxfqg
+fnykai --> vnsfpv : mipuq
+vnsfpv --> jjbvxe : cxbyo
+state jjbvxe {
+[*] --> kciris : uvahh
+kciris --> pwueck : lbdli
+pwueck --> [*] : tvzws
+}
+jjbvxe --> cpdlpm : nydhu
+cpdlpm --> ftommj : cyygd
+ftommj --> tkqbur : vsneh
+tkqbur --> asiopb : fyilw
+@enduml

@@ -1,0 +1,140 @@
+@startuml
+|1| hrauiy
+|2| nbzdsi
+fork
+:hpwvx;
+fork again
+:zwjkdfwysl; <<input>>
+fork again
+:ykszlzjyiu; <<output>>
+end fork
+if (bbumnnjhyknt?) then (hecu)
+:cdzkeohfvh;
+else (wepn)
+if (jcfkfdjtydhk?) then (ojbe)
+:ygcuynykum; <<input>>
+:gfxpbwsjbg; <<save>>
+-> uyllxr;
+else (icbz)
+:geele;
+endif
+:okrmiaznhg; <<input>>
+-> nmbeud;
+:chmghqzyut; <<input>>
+-> ilhabw;
+:qbrldjljqd; <<procedure>>
+-> gchuzl;
+switch (vammnxtukrsu?)
+case (fzrgvhb?)
+:uytbkrdkgx;
+-> kdkrjz;
+case (bsrcuaj?)
+:qowlciucvp;
+-> sawdpx;
+case (cyndbnx?)
+:lromqjjlin;
+case (iacsjju?)
+:klgfx;
+case (ikdqbbm?)
+:oijtjpbokp;
+endswitch
+endif
+|2|
+:ybrpwffofd; <<output>>
+:cyklsayjmu; <<save>>
+:fpowgocwsv; <<continuous>>
+-> ezgyox;
+|1|
+:gpvbxuudym; <<continuous>>
+fork
+:yhaxh;
+fork again
+:kjucurqnwl;
+fork again
+:sekbroeuho; <<load>>
+fork again
+:bzrknxdyxb; <<procedure>>
+fork again
+repeat
+:xzjjz;
+repeat while (lxapkylwdmxr?) is (gmcp)
+end fork
+|2|
+split
+:jbwuu;
+split again
+switch (gpjngvqowwqt?)
+case (ejnoujj?)
+:zgrzh;
+case (rltlqxc?)
+:yfaoz;
+case (hfkedqr?)
+:mqpig;
+endswitch
+split again
+:yrtggrnbjb; <<task>>
+-> rpvtpa;
+end split
+:inmnorfloi;
+-> ksnstl;
+|1|
+if (vmklihofcnra?) then (zbqm)
+:jyhyweurkx; <<output>>
+switch (xgbrwullhlwi?)
+case (yqwwczy?)
+:gqjvs;
+case (jcwgfsb?)
+:qicljinamv; <<task>>
+case (kryhqwl?)
+:dzbxikvitx;
+-> rmxugn;
+case (ekkhxyj?)
+:fbhqzkntcp;
+endswitch
+kill
+else (wgdr)
+split
+:oxppe;
+split again
+:mcaerxotua; <<procedure>>
+-> zexlwk;
+split again
+:eglzkktmac; <<task>>
+split again
+:ocpeo;
+split again
+:kbvzic;
+while (ehaojddrnnbf?) is (ldyj)
+backward:fqxtck;
+backward:mamgga;
+:vouviqqopi; <<input>>
+backward:lzfivb;
+:cshyaucpzy;
+-> iyrbez;
+endwhile (onkj)
+-[hidden]->
+detach
+split again
+:naqpkstocx; <<save>>
+end split
+endif
+|2|
+while (fnhkuxaisuww?) is (zhay)
+split
+:hrbae;
+split again
+:dbktrtrius; <<input>>
+split again
+:qcwzpjhezu; <<output>>
+split again
+:apxoumncgf; <<input>>
+end split
+if (uvuirqfltqss?) then (hmcv)
+(jojq) elseif (zclssew?) then (awlr)
+:uzixf;
+(beoz) elseif (bdqnchn?) then (vlln)
+:kvhrjadqsx;
+endif
+endwhile (ukfk)
+:jdzppnrq;
+@enduml

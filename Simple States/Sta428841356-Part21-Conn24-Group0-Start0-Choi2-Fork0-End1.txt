@@ -1,0 +1,29 @@
+@startuml
+state hwyczx
+state qjlcwc <<choice>>
+hwyczx --> qjlcwc : yenzt
+qjlcwc --> ukinyz : dgko
+ukinyz --> nnssjj : tjzst
+nnssjj --> cqhzse : vjuqn
+cqhzse --> csmsku : kclrnzg
+qjlcwc --> lhlryt : owqw
+lhlryt --> ifnxej : heiiu
+ifnxej --> csmsku : eijfngm
+qjlcwc --> rtotlk : pbzg
+rtotlk --> usjarz : frgvi
+usjarz --> csmsku : vhstrlr
+csmsku --> hzuhew : mkepg
+state upbiqc <<choice>>
+hzuhew --> upbiqc : zfrdi
+upbiqc --> dqyfpo : gnkp
+dqyfpo --> mwanpr : jhuyf
+mwanpr --> hypgpa : qbwhfln
+upbiqc --> yikcti : kmnb
+yikcti --> gsskdw : hytxb
+gsskdw --> lvropi : wgozb
+lvropi --> hypgpa : sxpxshd
+upbiqc --> adspem : jguk
+adspem --> zuffug : eukgv
+zuffug --> hypgpa : boxdrsr
+hypgpa --> [*] : juypd
+@enduml

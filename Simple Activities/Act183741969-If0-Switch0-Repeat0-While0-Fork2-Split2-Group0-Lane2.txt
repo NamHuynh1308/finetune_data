@@ -1,0 +1,50 @@
+@startuml
+|1| syapjw
+|2| ixugst
+fork
+:rasiv;
+fork again
+:lrupnukqea;
+fork again
+:qfdjorhdwo;
+fork again
+:erezgtibko;
+fork again
+:ylvepdkwxu; <<continuous>>
+-> hndren;
+fork again
+:fcslospnxj;
+end merge
+fork
+:axztt;
+fork again
+:ylmopvqeaw; <<task>>
+-> dqznim;
+fork again
+:dybgcgufdr;
+fork again
+split
+:pgncm;
+split again
+:wpwyw;
+split again
+:kbfcl;
+split again
+:bjhtilzgdq; <<continuous>>
+-> pzfsll;
+split again
+:zrtzrw;
+kill
+split again
+:jcufnpealn; <<save>>
+end split
+end fork
+split
+:bpxbl;
+split again
+:emsrdmpyrl;
+-> vgcgvv;
+split again
+:arqnxrcewp; <<save>>
+end split
+@enduml

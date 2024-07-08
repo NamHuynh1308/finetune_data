@@ -1,0 +1,11 @@
+@startuml
+state abfhpv
+abfhpv --> yhbzpv : ovczv
+state yhbzpv {
+[*] --> haxjxk : jrwoz
+haxjxk --> qbjahy : mklkv
+qbjahy --> [*] : ilbsy
+}
+yhbzpv --> ddapah : bewzd
+ddapah --> [*] : rvnoe
+@enduml
