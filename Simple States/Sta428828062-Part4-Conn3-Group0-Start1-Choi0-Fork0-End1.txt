@@ -1,6 +1,0 @@
-@startuml
-state bgrfmn
-[*] --> bgrfmn : tmwon
-bgrfmn --> lxxbag : shckl
-lxxbag --> [*] : azqnw
-@enduml

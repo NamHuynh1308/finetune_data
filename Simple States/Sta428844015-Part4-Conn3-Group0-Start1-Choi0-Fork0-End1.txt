@@ -1,6 +1,0 @@
-@startuml
-state zzstfy
-[*] --> zzstfy : uflen
-zzstfy --> inenlg : fuimq
-inenlg --> [*] : wfsvf
-@enduml

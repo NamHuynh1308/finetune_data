@@ -1,7 +1,0 @@
-@startuml
-hide empty description
-state pxszmq
-pxszmq --> qamptp : msfej
-qamptp --> rgvmdu : pyhft
-rgvmdu --> [*] : jfuol
-@enduml

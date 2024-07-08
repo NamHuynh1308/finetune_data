@@ -1,8 +1,0 @@
-@startuml
-hide empty description
-state zuoqfu
-[*] --> zuoqfu : fuzjs
-zuoqfu --> ndvscy : zzwus
-ndvscy --> vupewq : yhght
-vupewq --> [*] : ulqtr
-@enduml
