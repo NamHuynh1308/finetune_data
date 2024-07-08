@@ -1,0 +1,53 @@
+@startuml
+hide empty description
+state xbmjqs
+xbmjqs --> maqwpg : swrth
+state maqwpg {
+[*] --> sfxcvp : inwhy
+sfxcvp --> zyelkw : lydfo
+}
+maqwpg --> kdplfw : srtdu
+kdplfw --> sxnoeb : cevyo
+sxnoeb --> coqvpm : pmsqy
+state bsxvpx <<fork>>
+coqvpm --> bsxvpx : snbaj
+state cnuwdy <<join>>
+bsxvpx --> eicopk : epvr
+eicopk --> vpcvet : pfpft
+vpcvet --> npmhvt : teggb
+npmhvt --> cnuwdy : rctgpah
+bsxvpx --> anckmt : guez
+anckmt --> gdsnfh : eooah
+gdsnfh --> cnuwdy : tgounzz
+bsxvpx --> vrffaz : owud
+vrffaz --> yimdou : qmftn
+yimdou --> cbzsym : evhjl
+cbzsym --> qhhitv : vnskw
+qhhitv --> cnuwdy : nywyjyy
+cnuwdy --> ajfrar : muiuy
+ajfrar --> buypqr : tdsqm
+buypqr --> hhrjco : kohvx
+hhrjco --> oshhmw : ejxcv
+oshhmw --> jjstnx : ntpla
+state hfooga <<choice>>
+jjstnx --> hfooga : sikro
+hfooga --> lutrgr : axct
+lutrgr --> msxliy : pezjx
+msxliy --> hyltkk : qthbx
+hyltkk --> uyriea : azwlr
+uyriea --> pamoff : kbhmcne
+hfooga --> frxcib : ryfs
+frxcib --> yhdbha : wzgab
+yhdbha --> pamoff : hgbpfvn
+pamoff --> tbwyfg : kjawp
+state tbwyfg {
+[*] --> cprqcp : gnhdo
+cprqcp --> jsokoo : guxnr
+}
+tbwyfg --> cgaxkg : hkbie
+state cgaxkg {
+nrsrrw --> fsdxyq : psexj
+fsdxyq --> hqnwzs : dnwib
+hqnwzs --> [*] : zeyxv
+}
+@enduml

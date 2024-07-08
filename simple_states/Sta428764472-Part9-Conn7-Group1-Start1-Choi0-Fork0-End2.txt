@@ -1,0 +1,12 @@
+@startuml
+state yfiyaw
+[*] --> yfiyaw : efign
+yfiyaw --> xrqqjh : iagej
+xrqqjh --> wokxtl : ibzyn
+state wokxtl {
+mrkiua --> zxonok : hzcgz
+zxonok --> [*] : tukwn
+}
+wokxtl --> jgtvzd : czngq
+jgtvzd --> [*] : oqhxz
+@enduml

@@ -1,0 +1,28 @@
+@startuml
+hide empty description
+state niubhm
+[*] --> niubhm : kbkep
+niubhm --> rsezju : geypp
+rsezju --> trjytl : hfrni
+state sfaulp <<fork>>
+trjytl --> sfaulp : yuwsr
+state nrrnic <<join>>
+sfaulp --> qsyktq : qrsm
+qsyktq --> ifyaww : utaqq
+ifyaww --> nrrnic : hhosybe
+sfaulp --> frebds : hlsl
+frebds --> vcxqiy : mvyil
+vcxqiy --> ylpqmf : afrlc
+ylpqmf --> nrrnic : ngjfarq
+sfaulp --> msaavq : vujx
+msaavq --> phsafx : lukjx
+phsafx --> oizgjt : zbxgl
+oizgjt --> sthxiz : nuedy
+sthxiz --> nrrnic : rbwwjsb
+nrrnic --> wqmnrg : njafl
+wqmnrg --> yvqnhm : dfivt
+state yvqnhm {
+nxrhqz --> actmuj : qptua
+actmuj --> srjdii : qkmgw
+}
+@enduml

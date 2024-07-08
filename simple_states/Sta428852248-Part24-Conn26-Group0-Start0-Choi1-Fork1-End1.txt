@@ -1,0 +1,32 @@
+@startuml
+state knhpmx
+state lfwxgp <<fork>>
+knhpmx --> lfwxgp : dcjky
+state vfmxlr <<join>>
+lfwxgp --> rpbrnk : stoo
+rpbrnk --> fzvlqy : yetls
+fzvlqy --> vfmxlr : vdjmkbi
+lfwxgp --> niotxo : lufy
+niotxo --> tmmcex : qbhcl
+tmmcex --> oebbcf : zmxbz
+oebbcf --> vfmxlr : mnundde
+state crvwqd <<choice>>
+vfmxlr --> crvwqd : cbmyv
+crvwqd --> vngrca : mrxk
+vngrca --> blsfxn : eckpg
+blsfxn --> shzjxc : hrwmo
+shzjxc --> vuovpe : iphlz
+vuovpe --> lrfgux : eaqvgkp
+crvwqd --> cnalof : ymuy
+cnalof --> mqaiuf : yysgg
+mqaiuf --> uviiis : qqnmd
+uviiis --> lrfgux : hjbrljl
+crvwqd --> fyzdbc : mqiz
+fyzdbc --> ovdgiq : bdgjl
+ovdgiq --> ufxsvg : bytzx
+ufxsvg --> xbzykn : fiiru
+xbzykn --> lrfgux : csrpjio
+lrfgux --> kfmmrp : tldnt
+kfmmrp --> xmkafz : ygwna
+xmkafz --> [*] : zvqfl
+@enduml

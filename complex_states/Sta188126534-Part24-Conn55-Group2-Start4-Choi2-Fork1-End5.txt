@@ -1,0 +1,106 @@
+@startuml
+state 0 <<start>>
+state "hbmfo" as 1
+state "salpv" as 2 {
+[*] --> jngrmv : ytazm
+jngrmv --> iaqcnx : dtvge
+iaqcnx --> pyywvt : ecsby
+pyywvt --> grqfxz : fcshn
+grqfxz --> [*]
+||
+[*] --> zhfebw : wewtq
+zhfebw --> rwlvny : micoc
+rwlvny --> fuopoa : fjmul
+fuopoa --> nkxadz : jjxpb
+nkxadz --> gzzcpu : pyxvg
+||
+[*] --> wfdjad : tpirl
+wfdjad --> nwwazw : giwtt
+nwwazw --> fmhomd : xvkqk
+fmhomd --> ziaefg : hccuv
+fmhomd --> sldoju : vnmcu
+sldoju --> [*]
+}
+state "lsxhk" as 3 : wedcygatuh
+state "btkcg" as 4 : rduwtmzgsz
+state "opyjl" as 5
+state "wsasw" as 6 {
+[*] --> tydquw : cxsil
+||
+[*] --> qvpilz : tkzed
+qvpilz --> bjcnau : huiwi
+bjcnau --> cialde : onyuh
+}
+state 7 <<start>>
+state "qcrkf" as 8 : cyqhulbzxy
+state 9 <<start>>
+state "wjmxa" as 10
+state 11 <<end>>
+state "cjnnl" as 12 : lxaraeqgmx
+state 13 <<start>>
+state 14 <<fork>>
+state "tmrrs" as 15
+state 16 <<end>>
+state 17 <<choice>>
+state 18 <<choice>>
+state 19 <<end>>
+state "ucmpe" as 20
+state "tymzp" as 21
+state 22 <<end>>
+state 23 <<end>>
+0 --> 15 : taetym
+1 --> 19 : dntjig
+1 --> 17 : jqxxjb
+2 --> 1 : ggmkvz
+2 --> 1 : xeunok
+7 --> 2 : nmelqp
+6 --> 2 : tqvndo
+3 --> 5 : astpoe
+2 --> 3 : qftojy
+4 --> 4 : epnkve
+4 --> 21 : bwqkvs
+14 --> 4 : igwjpu
+15 --> 4 : trdbaw
+5 --> 15 : fflxzn
+5 --> 18 : awmdiy
+4 --> 5 : kudsfb
+8 --> 5 : pdpuzw
+6 --> 22 : tgqsnl
+9 --> 6 : mxbojd
+10 --> 6 : ragvma
+7 --> 18 : bjmwif
+8 --> 10 : fwqdxw
+8 --> 8 : aibdxj
+12 --> 8 : mkayew
+9 --> 16 : ajvmhm
+10 --> 5 : esqint
+10 --> 10 : lsrrgj
+13 --> 11 : uapnft
+12 --> 3 : jnmkfd
+21 --> 12 : jtjkre
+13 --> 1 : jcvypi
+3 --> 14 : itfzjt
+14 --> 3 : clpqmz
+14 --> 20 : eovwsp
+14 --> 19 : tixkfg
+14 --> 20 : runodk
+15 --> 5 : azjbld
+15 --> 22 : ibemub
+13 --> 15 : brvegr
+5 --> 15 : dqiyuy
+18 --> 16 : lcztbv
+10 --> 17 : tdinvg
+17 --> 15 : pltaym
+7 --> 18 : ecwwmb
+18 --> 20 : kxlsip
+18 --> 21 : bllyzm
+20 --> 19 : ucqbuf
+20 --> 20 : lzfhpk
+20 --> 6 : anwjut
+3 --> 20 : rsolfh
+21 --> 23 : nzqjec
+9 --> 21 : nengut
+3 --> 21 : gxcunr
+20 --> 22 : ksxgws
+15 --> 23 : blrnzd
+@enduml

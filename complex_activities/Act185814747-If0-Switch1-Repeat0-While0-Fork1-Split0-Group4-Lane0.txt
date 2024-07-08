@@ -1,0 +1,42 @@
+@startuml
+start
+group ccwftm
+:zdbvhydloq;
+:jupztidhww; <<output>>
+group sgvigy
+:ujgbbslalg;
+-> wdvqcm;
+group eabaqy
+:avtuvhyylc; <<input>>
+:vqbuulqplh; <<output>>
+-> rfjang;
+end group
+:jjysyovitv;
+end group
+switch (xetkxceageun?)
+case (ofddwqq?)
+fork
+:chojv;
+fork again
+:wklna;
+fork again
+:kgtnywqxwf; <<load>>
+-> rdflck;
+fork again
+:clkpvvqfbl;
+fork again
+:tmxkgnqkhf;
+fork again
+:rhlhknqoqq; <<save>>
+-> pspwpy;
+end fork
+case (vbnemlh?)
+:qbpgpgyddx; <<procedure>>
+-> gdgmfw;
+endswitch
+group detiry
+:ttdpcdziuk;
+stop
+end group
+end group
+@enduml

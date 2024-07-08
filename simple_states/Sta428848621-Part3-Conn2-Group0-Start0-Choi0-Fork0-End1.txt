@@ -1,0 +1,5 @@
+@startuml
+state oecoqp
+oecoqp --> bjmzya : snsik
+bjmzya --> [*] : troka
+@enduml

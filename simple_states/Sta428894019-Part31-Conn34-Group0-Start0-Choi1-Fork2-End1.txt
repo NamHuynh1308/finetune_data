@@ -1,0 +1,42 @@
+@startuml
+state cbgxpp
+state hickdg <<fork>>
+cbgxpp --> hickdg : payhq
+state outngd <<join>>
+hickdg --> pbebmy : jolc
+pbebmy --> giydck : ljvqs
+giydck --> outngd : hnjenci
+hickdg --> oluixl : egec
+oluixl --> ayekcu : mjjgb
+ayekcu --> outngd : zwyspli
+hickdg --> angbca : ralv
+angbca --> iwunub : dawds
+iwunub --> outngd : ftbnxlb
+state prslhe <<fork>>
+outngd --> prslhe : nriji
+state ooxqnd <<join>>
+prslhe --> afltfw : resf
+afltfw --> sucugb : vjbqr
+sucugb --> ooxqnd : hhkhbsj
+prslhe --> mfydtv : avxb
+mfydtv --> mpdkbp : pezxe
+mpdkbp --> ynrhgb : ksbkr
+ynrhgb --> ooxqnd : qsnfjdx
+ooxqnd --> mlnwpl : bwtsb
+state zmmfnp <<choice>>
+mlnwpl --> zmmfnp : walgc
+zmmfnp --> gfhogo : szqe
+gfhogo --> wjijrq : qtijo
+wjijrq --> zoitlr : efjtw
+zoitlr --> jhtzfr : zfqtz
+jhtzfr --> iibouz : gsrjhux
+zmmfnp --> chluti : qtmo
+chluti --> qqlhmn : sbynu
+qqlhmn --> mwpqqb : jubcb
+mwpqqb --> iibouz : jsnkqcc
+iibouz --> ptqafa : xtuvb
+ptqafa --> sylmwm : rkojw
+sylmwm --> jxlcky : dorde
+jxlcky --> xuuzsb : znvmd
+xuuzsb --> [*] : yhytu
+@enduml

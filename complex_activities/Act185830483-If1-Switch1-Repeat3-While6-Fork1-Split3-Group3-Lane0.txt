@@ -1,0 +1,128 @@
+@startuml
+split
+-[hidden]->
+:honxh;
+split again
+-[hidden]->
+:wxikjqoyws;
+-> ttccsj;
+split again
+-[hidden]->
+:quvzqyontb; <<procedure>>
+split again
+-[hidden]->
+repeat
+:xhezphmhsv; <<save>>
+:simur;
+:hqacynrnxd; <<procedure>>
+:xiktfmqbcv;
+repeat while (jtydyzxjjovw?) is (zrlh)
+split again
+-[hidden]->
+switch (vamvkvobkmpj?)
+case (xtstefv?)
+:kjaob;
+case (yqxoryy?)
+:nnysi;
+case (okrpizd?)
+:xqsczxtzhz;
+case (prskkwv?)
+:ffvquq;
+while (ddimjxulxwkc?) is (akld)
+:gpxjz;
+:lfkqptajjg;
+endwhile (lydl)
+-[hidden]->
+detach
+endswitch
+end split
+if (enznzgdbmrmt?) then (uqgd)
+:givtvvivza; <<procedure>>
+repeat
+:iloxppeebf; <<output>>
+repeat while (emnkrefqjhkd?) is (ytbf)
+:vrgubghbkv; <<output>>
+-> hdkarg;
+while (wjacpyhtlhtx?) is (joqp)
+backward:ebxyil;
+endwhile (doqk)
+:bxnqoxoe;
+else (emhh)
+fork
+:xekjw;
+fork again
+:hbnretzatm; <<input>>
+fork again
+:dkvkh;
+fork again
+:rqlpuhdmxi; <<load>>
+-> psskyi;
+fork again
+:lkboswsyka; <<load>>
+fork again
+:wybpfqheht;
+end fork
+:bleybwrzwk;
+-> brqway;
+:uhlscnrptd; <<task>>
+repeat
+:ksqgxftwho; <<task>>
+:qyhzn;
+repeat while (wjoafzhdvrwg?) is (njxp)
+-> uzmvat;
+while (ycnwyppmpypq?) is (fcgz)
+:khdpbzpwxl;
+-> mnfuzo;
+while (jlkswnhdbjia?) is (fsox)
+:nsndz;
+backward:edtqul;
+endwhile (ghyu)
+:yxaewguk;
+backward:odwrhc;
+endwhile (gykd)
+-[hidden]->
+detach
+endif
+split
+:ikhby;
+split again
+:elhxwrwivt; <<output>>
+split again
+:vhozaiauqr; <<load>>
+split again
+:utnfywpgxu; <<input>>
+-> fushea;
+split again
+while (sjwyycptsykv?) is (amac)
+backward:fhyiwg;
+:ezpzj;
+endwhile (yfej)
+:dadljktt;
+split again
+:thlmbjqvkr;
+end split
+group kihikt
+:egsvwqdiql;
+group csbnvw
+while (doxqwljeowpq?) is (qsfb)
+:sjneuwwbeb;
+backward:vlgzzu;
+:dstugxjgod; <<input>>
+-> epeewh;
+:zqwqdcsfjz; <<load>>
+endwhile (nilj)
+:yfsaydid;
+split
+:wpdnf;
+split again
+:jkknfaoerk; <<load>>
+split again
+:loddgncphu; <<input>>
+end split
+group rvaupn
+:ganackwftv; <<procedure>>
+stop
+end group
+end group
+end group
+@enduml

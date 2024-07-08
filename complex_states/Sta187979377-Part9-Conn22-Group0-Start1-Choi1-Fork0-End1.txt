@@ -1,0 +1,33 @@
+@startuml
+state 0 <<start>>
+state "urifi" as 1 : qonucyvicz
+state "zhmev" as 2 : hpcmvnksdm
+state 3 <<choice>>
+state "wvtfr" as 4
+state "icwjk" as 5
+state "lvcgm" as 6
+state 7 <<end>>
+state "cbzar" as 8
+0 --> 3 : rzhsvw
+1 --> 8 : jzgbjx
+3 --> 1 : orpbvi
+2 --> 3 : rynmxp
+5 --> 2 : juywsx
+8 --> 2 : tqnqap
+4 --> 3 : xbnvov
+3 --> 4 : djvyhd
+3 --> 4 : hjagkf
+4 --> 4 : rvznng
+8 --> 4 : hriomy
+3 --> 4 : noahbg
+5 --> 8 : fdtiks
+5 --> 8 : ghumim
+6 --> 5 : dueasn
+6 --> 8 : muqzan
+3 --> 6 : lccksb
+5 --> 7 : nkcnkq
+8 --> 7 : wkahbm
+8 --> 6 : jiszek
+4 --> 8 : jxwkms
+0 --> 8 : dxmjlu
+@enduml

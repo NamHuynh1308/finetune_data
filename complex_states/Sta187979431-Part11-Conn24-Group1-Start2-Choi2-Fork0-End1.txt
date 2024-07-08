@@ -1,0 +1,41 @@
+@startuml
+hide empty description
+state "vqryr" as 0
+state 1 <<start>>
+state 2 <<choice>>
+state "bbdwx" as 3
+state 4 <<end>>
+state 5 <<choice>>
+state "wwsny" as 6 : dblnhbghey
+state "altrz" as 7 {
+obncij --> uzkrjv : pmurs
+uzkrjv --> [*]
+}
+state "ageuu" as 8 : vhjvflxbgj
+state 9 <<start>>
+state "aqlch" as 10 : bsrbdxuucp
+0 --> 0 : qjkwln
+2 --> 0 : nzunys
+7 --> 0 : mrremz
+1 --> 4 : feujtn
+10 --> 2 : husidr
+2 --> 7 : dvekdo
+3 --> 8 : wmkahu
+8 --> 3 : ltjysu
+9 --> 4 : kffnrl
+9 --> 5 : ktoxet
+5 --> 3 : sycztv
+6 --> 5 : bgqrgs
+5 --> 6 : wwbxtx
+7 --> 8 : fulrpo
+7 --> 2 : fjozwc
+5 --> 7 : mpraaa
+10 --> 7 : zuzzje
+8 --> 4 : kgeogr
+8 --> 3 : urdihi
+5 --> 8 : jvjllb
+7 --> 8 : admeee
+9 --> 10 : emstzf
+10 --> 7 : hwwqrr
+5 --> 10 : vmaxod
+@enduml

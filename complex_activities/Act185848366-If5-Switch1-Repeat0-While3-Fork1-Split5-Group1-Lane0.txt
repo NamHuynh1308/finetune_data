@@ -1,0 +1,139 @@
+@startuml
+split
+-[hidden]->
+:xdxnr;
+split again
+-[hidden]->
+:bfbrlh;
+kill
+split again
+-[hidden]->
+if (kupmbjjeszsi?) then (qpto)
+(vuvk) elseif (urbjfef?) then (gstj)
+:snrnegobik;
+(hqse) elseif (wqnejyp?) then (xljx)
+:tbmzpoguwz;
+-> aygqkl;
+endif
+end split
+:tyjcbruasx; <<save>>
+split
+:dpvtu;
+split again
+:vnnwrbvliz;
+-> aksqmg;
+split again
+:komocsunrs; <<save>>
+end split
+:eczxthyzfy; <<output>>
+group whbqyv
+switch (uqtvgpgbgxfm?)
+case (rncizla?)
+:rdebkyhfes; <<continuous>>
+case (jwngjgr?)
+split
+:vmkcv;
+split again
+:uvzhjoqyrs;
+-> tvkxlt;
+split again
+:elrym;
+end split
+case (yeqfzfa?)
+if (rffvsfpsxcih?) then (nknm)
+(utlx) elseif (hbsffnu?) then (doap)
+:puwkadyyrm; <<output>>
+(ojsm) elseif (nsttpqf?) then (lpzo)
+:kkqdefgspb; <<output>>
+(baoj) elseif (btymuqt?) then (izqi)
+:yfpiabkibg; <<task>>
+-> jrkuhw;
+endif
+endswitch
+split
+:eunkw;
+split again
+:kvpbmfqfty; <<continuous>>
+-> ffazrv;
+split again
+while (eagxmottgkva?) is (vbeu)
+:pblag;
+:kmgvtkvnfk;
+:izrocmmwpg; <<save>>
+-> dceush;
+endwhile (juhd)
+:eryciymq;
+end split
+if (dffdyvgfyxvs?) then (saeg)
+split
+:mmcnp;
+split again
+:lxcuwaqnpc; <<save>>
+split again
+:yqdieulbrx;
+-> gabjez;
+split again
+:ihodh;
+split again
+:veqgdfmfbk; <<task>>
+-> gfmtxr;
+end split
+if (kwdhasnbfypz?) then (rdjr)
+:kuqzphlubr;
+:dpzej;
+:tbsfalndxp;
+-> bqdeho;
+:kmbyl;
+else (cehn)
+:jywmfudhnk; <<load>>
+-> jnfjwv;
+:omdqbvuhzl; <<load>>
+-> awtdow;
+endif
+:svtjuvrkrj; <<continuous>>
+-> whhgxt;
+:aazkofjxsc; <<task>>
+else (eizk)
+if (kjogumgkildx?) then (eluc)
+:jnmscwgnmu; <<input>>
+while (vdkfqxonuxit?) is (npci)
+backward:xchtjf;
+:gbegm;
+backward:pzoddo;
+:lobytlocvl; <<output>>
+-> jigrzw;
+endwhile (utwz)
+-[hidden]->
+detach
+else (lxci)
+:tcesyvyfyt; <<procedure>>
+:qdffryeqph; <<output>>
+:hwqluduwgc; <<save>>
+:nakvhppwwy; <<save>>
+endif
+while (ipfvlivoijhj?) is (mmma)
+:kriho;
+:pcpkoqnpij; <<load>>
+-> cdfthl;
+:tlrlo;
+endwhile (brwv)
+:ngqueexv;
+fork
+:dxqtq;
+fork again
+:cpyfcekzep; <<continuous>>
+fork again
+:bhhak;
+fork again
+:jruyyglkds;
+fork again
+:sdfdy;
+fork again
+:uokrw;
+end merge
+endif
+end group
+:uodsbkwefs; <<procedure>>
+-> qanplh;
+end
+@enduml

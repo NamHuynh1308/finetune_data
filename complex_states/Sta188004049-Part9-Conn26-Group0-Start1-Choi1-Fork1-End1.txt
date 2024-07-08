@@ -1,0 +1,37 @@
+@startuml
+state 0 <<fork>>
+state "oeews" as 1
+state 2 <<start>>
+state 3 <<choice>>
+state "pcsbu" as 4
+state 5 <<end>>
+state "mkkqv" as 6
+state "yzwbf" as 7 : khqewufvye
+state "eureu" as 8
+4 --> 0 : lnflvo
+0 --> 6 : gvczkb
+0 --> 7 : hmjefr
+0 --> 6 : kuiafu
+1 --> 4 : maevny
+1 --> 0 : uifmdb
+0 --> 1 : hwjfmp
+2 --> 1 : munpzs
+1 --> 3 : jgyxnz
+3 --> 5 : hraulu
+3 --> 6 : tdevwk
+4 --> 0 : tjvcsd
+4 --> 1 : xvfwoc
+1 --> 4 : vaxvgs
+0 --> 4 : efuveb
+0 --> 5 : xfncnz
+6 --> 5 : gkrebj
+6 --> 6 : kqnbvs
+4 --> 6 : hemaba
+4 --> 6 : pcxgxn
+7 --> 6 : ygwmqx
+7 --> 1 : reofbg
+7 --> 7 : bfsgst
+8 --> 0 : xuaqho
+7 --> 8 : hpucpy
+7 --> 8 : klejkm
+@enduml

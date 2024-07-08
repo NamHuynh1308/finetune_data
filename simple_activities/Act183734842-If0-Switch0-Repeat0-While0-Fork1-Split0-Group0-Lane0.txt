@@ -1,0 +1,12 @@
+@startuml
+start
+fork
+:izpaw;
+fork again
+:lzbpge;
+kill
+fork again
+:reobwbrohl; <<input>>
+end fork
+stop
+@enduml

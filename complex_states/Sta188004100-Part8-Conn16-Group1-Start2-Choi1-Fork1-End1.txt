@@ -1,0 +1,32 @@
+@startuml
+state "bpvfg" as 0 {
+lbnuzb --> woyujl : avoyj
+woyujl --> [*]
+||
+[*] --> nixvkj : eutww
+nixvkj --> mbcccc : kzwtm
+}
+state 1 <<choice>>
+state "wdjgb" as 2 : tejqjwxjds
+state 3 <<start>>
+state "xurrp" as 4 : pfyrjsdynm
+state 5 <<end>>
+state 6 <<start>>
+state 7 <<fork>>
+0 --> 2 : tidrhz
+0 --> 7 : ntykez
+0 --> 0 : cpcjkq
+3 --> 1 : pycjvl
+1 --> 2 : rakbnm
+1 --> 5 : fbzrui
+2 --> 1 : bdzdra
+7 --> 2 : gkfrcn
+3 --> 5 : mzzgbm
+4 --> 2 : egpizh
+6 --> 4 : ccsljf
+4 --> 5 : qbskfi
+6 --> 1 : vapqnk
+7 --> 7 : vquboe
+7 --> 2 : ptalha
+7 --> 7 : bwhjzu
+@enduml

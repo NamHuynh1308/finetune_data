@@ -1,0 +1,16 @@
+@startuml
+hide empty description
+state pjuvut
+pjuvut --> ovedvy : pesjn
+state cbatcr <<choice>>
+ovedvy --> cbatcr : afoss
+cbatcr --> gjmmyc : wadu
+gjmmyc --> tfakbv : yiqxf
+tfakbv --> siirpb : rgapr
+siirpb --> dqoijq : aqnmbpj
+cbatcr --> cnajjh : osnk
+cnajjh --> mrwocs : liaid
+mrwocs --> vbumsy : xspvv
+vbumsy --> dqoijq : dqrtujz
+dqoijq --> [*] : dhhlm
+@enduml

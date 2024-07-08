@@ -1,0 +1,135 @@
+@startuml
+split
+:aplnp;
+split again
+switch (hxpqcbjtrgtd?)
+case (wbueajj?)
+:ifugvqlvpk; <<save>>
+case (ejejcup?)
+:fhuvbqsgaq; <<output>>
+case (rkmeeih?)
+:asquj;
+case (mxflwgo?)
+:vbfsneyaso; <<output>>
+endswitch
+split again
+switch (scqvabcbyuag?)
+case (tmjdynq?)
+:lysvqxrcon; <<load>>
+case (ubpxiie?)
+:ldywecipka; <<save>>
+case (rdayzqw?)
+:bdaqisiivv; <<output>>
+case (matffzp?)
+:eworoorjlc; <<output>>
+-> cxkafl;
+case (zkgzvdg?)
+:jyhxr;
+endswitch
+end split
+fork
+:pesjv;
+fork again
+:pwnqosykvo; <<task>>
+fork again
+repeat
+:jmpep;
+:lyrem;
+repeat while (gcqxjtdvbysu?) is (ucbn)
+fork again
+:vgaqvnqymk;
+fork again
+:wtkqxziojn; <<task>>
+fork again
+:wolemrxvxw; <<procedure>>
+end fork
+:kplktxlnxq;
+:urjxuntoit; <<input>>
+:khavbnopvm; <<save>>
+if (ndbepbxrhixa?) then (jrlp)
+(llrh) elseif (meyiftt?) then (adif)
+:gfirhfkypu; <<save>>
+-> vjqzjs;
+(hznk) elseif (jfbfjeq?) then (mrfr)
+:tzbbsfzfrh; <<load>>
+(syjd) elseif (qxvugsi?) then (hwko)
+:zydzwfnxzw; <<output>>
+-> bnyvxz;
+endif
+:xbylicwrsk; <<output>>
+split
+:doobx;
+split again
+switch (zbnjvttbhecr?)
+case (scahndn?)
+:tortspuvaw;
+case (sbratmh?)
+:usibnmjkwp; <<load>>
+case (ilngwkt?)
+:ksadalakpp; <<output>>
+endswitch
+split again
+repeat
+:jcjsf;
+repeat while (huqtsqommyws?) is (xzdq)
+split again
+if (kgmshhncghda?) then (upjm)
+(ehdt) elseif (znazvnx?) then (yzok)
+:qvwbr;
+(ydrh) elseif (iprrmjc?) then (tpqh)
+:avsrz;
+(juky) elseif (pqhaxdw?) then (ygru)
+:ojycmrztah;
+(tfqw) elseif (viccxwt?) then (ramv)
+:nuvlf;
+(vuxx) elseif (xcsczyr?) then (mfxd)
+:ekpzidbugi;
+-> kkcxja;
+endif
+split again
+:mwlftdbehb; <<save>>
+split again
+:bjynwx;
+while (rnzoblgiddab?) is (uhtd)
+switch (alcynsijlvtj?)
+case (qkfaljk?)
+:oxuzuu;
+kill
+case (fkdvvvg?)
+:lptaf;
+endswitch
+backward:oylmyq;
+endwhile (tqng)
+-[hidden]->
+detach
+end split
+group psheoq
+:kmmxkysycv; <<task>>
+if (acfwusxwnejo?) then (ydzh)
+if (dvprbdkoaiax?) then (tslq)
+:onelqesjyd; <<input>>
+else (byqf)
+:mrulmclcne; <<continuous>>
+:hltia;
+:uthbn;
+while (fmamjcgrmazl?) is (cmdb)
+backward:vypdhh;
+:lubwhajhbz;
+-> kjbpls;
+:cozkpsnpzx;
+-> zjtrzr;
+backward:ayzsun;
+endwhile (wojd)
+-[hidden]->
+detach
+endif
+:wiujrbeohw; <<continuous>>
+:zzcnjptlzt; <<load>>
+else (ahop)
+:awgeukaxiz;
+:otaetviycq; <<output>>
+:rcdqqqqhyx;
+endif
+stop
+end group
+@enduml

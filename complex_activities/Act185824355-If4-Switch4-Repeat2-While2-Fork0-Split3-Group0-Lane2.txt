@@ -1,0 +1,143 @@
+@startuml
+|1| uolgxz
+|2| vnjmgm
+split
+-[hidden]->
+:pvijz;
+split again
+-[hidden]->
+switch (ftytmkpngckn?)
+case (dxggtvw?)
+:yewkqbcvrn; <<load>>
+-> dwqioc;
+case (mftbstq?)
+:eoqdzlwurs;
+case (foxhcoy?)
+:otuzn;
+case (vakpmsi?)
+:uaaiiztkkf; <<continuous>>
+case (sseetoc?)
+:xowni;
+endswitch
+split again
+-[hidden]->
+:hcormosfvp;
+-> dejshc;
+split again
+-[hidden]->
+:stzfdfgdrq; <<save>>
+end split
+|2|
+switch (msauhktiojcy?)
+case (dscacfc?)
+:yjnuoruxcd; <<load>>
+case (blzqsvw?)
+:tgqubuwvsp;
+case (sftfnls?)
+switch (bqvbomdneiki?)
+case (tjvbxuo?)
+:dbjdp;
+case (nbsyvvv?)
+:xcldi;
+case (fzdiewc?)
+:xfcms;
+endswitch
+case (tzzhcwi?)
+:hturcaweez; <<task>>
+-> vmmowu;
+case (knwdwic?)
+while (nvoaktnadeco?) is (umvu)
+:rdqjq;
+:dkulmqdedy;
+endwhile (nbzw)
+:midxxeep;
+endswitch
+split
+:npvfp;
+split again
+:mkupmbemor;
+split again
+:rjwcyberwt;
+-> dnbefr;
+split again
+:zflrtjdxwd; <<input>>
+-> coerua;
+end split
+if (vrmppgvbspks?) then (bcvn)
+(ndni) elseif (unhmoji?) then (cxui)
+:eokvorrlea; <<procedure>>
+(lfvf) elseif (bgpwkrg?) then (jtpe)
+:osrvmrmuyi; <<procedure>>
+endif
+|1|
+:sijpvclbng;
+while (yzxmvessrrpr?) is (ljys)
+backward:onifxr;
+endwhile (okmv)
+:lsjnlzco;
+:ikyeffxxxh;
+-> kaxpgt;
+|2|
+:zkiackkhff; <<save>>
+-> mxuffq;
+|1|
+split
+:uwdus;
+split again
+:hjeeiqrexm;
+split again
+switch (iymgtcutyccf?)
+case (kgirywj?)
+:numwmvarxe; <<input>>
+-> dohrar;
+case (ttkbfgf?)
+:jusqg;
+endswitch
+split again
+repeat
+:ikamq;
+repeat while (gzcydxhibxnf?) is (ichi)
+end split
+|2|
+if (vebdegxgzsmf?) then (mueb)
+(myoj) elseif (nlykfqz?) then (sgoo)
+:zptcul;
+kill
+(sliv) elseif (sazdefi?) then (pjkx)
+repeat
+:vhsysonemc;
+-> qgvzin;
+repeat while (zjxivksggekd?) is (iuet)
+-> abhaqs;
+(hfmy) elseif (dnyntlt?) then (toey)
+:rfsmbttskb; <<task>>
+-> qhqxsw;
+endif
+|1|
+:mtdoqxborl; <<task>>
+|2|
+if (zomwqvkojjlq?) then (tcxj)
+if (rgqduqbarotq?) then (mltx)
+:uzzsc;
+:atutgeemmi; <<load>>
+:erkvvahzwt; <<load>>
+-> nmehgv;
+:adiabveuxm; <<save>>
+:hqtzn;
+kill
+else (bdhv)
+:kquwrklpdz; <<input>>
+:fmdruhqwip;
+-> xovsvl;
+:blfdsvlidm;
+:akkqyopvva;
+kill
+endif
+:wnjwpilktu; <<task>>
+else (tagt)
+:hnfghbtnfg; <<save>>
+:lpzppsnizr; <<output>>
+-> syipdi;
+endif
+end
+@enduml

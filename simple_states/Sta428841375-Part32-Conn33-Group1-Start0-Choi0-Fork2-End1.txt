@@ -1,0 +1,42 @@
+@startuml
+state aimuij
+aimuij --> gbfwin : lwdab
+gbfwin --> fieukc : zbgno
+fieukc --> yvosjy : pchdc
+state pomfnf <<fork>>
+yvosjy --> pomfnf : bacnp
+state xlcunl <<join>>
+pomfnf --> puzvzx : quhe
+puzvzx --> pszmbd : qszpe
+pszmbd --> kuqjmg : wjfno
+kuqjmg --> xlcunl : oumtlbi
+pomfnf --> zzkddx : vxwq
+zzkddx --> qqqhqk : lfygz
+qqqhqk --> iwxdrn : okosx
+iwxdrn --> xlcunl : dlgekpc
+pomfnf --> ktyref : fwfh
+ktyref --> puscaj : asyhl
+puscaj --> xhcjaj : dkkem
+xhcjaj --> xlcunl : zmcfiii
+state qejxls <<fork>>
+xlcunl --> qejxls : fzfxk
+state oangqh <<join>>
+qejxls --> nhbjtm : ncqm
+nhbjtm --> tqaffy : mqrgj
+tqaffy --> gkhyqv : ashrd
+gkhyqv --> iulyix : idezd
+iulyix --> oangqh : kkbtozm
+qejxls --> dzttgr : nppi
+dzttgr --> zspgea : osbks
+zspgea --> nvwwfq : bgzoh
+nvwwfq --> tlwahs : mefpg
+tlwahs --> oangqh : emxzsae
+oangqh --> qpwegu : pkvpq
+state qpwegu {
+ihswbs --> yrybks : vdfkj
+}
+qpwegu --> yoltec : ljtkl
+yoltec --> knnrrc : gbqmm
+knnrrc --> hpwppk : rudoy
+hpwppk --> [*] : wonxr
+@enduml

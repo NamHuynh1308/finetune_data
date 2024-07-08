@@ -1,0 +1,121 @@
+@startuml
+:xgwxfpgivm;
+-> gewlog;
+:fdsjvkmwfd; <<procedure>>
+:dngggayyoq; <<task>>
+:gsttgpzgtw;
+-> rmkvbj;
+:fsnkqfpvvy;
+group yvjmpj
+if (xgsdtkryxdir?) then (hwfq)
+(jrlf) elseif (vnimgdm?) then (pker)
+if (fqkwwohhcuwi?) then (rxtu)
+(nnov) elseif (vwhvqsd?) then (yfre)
+:nhheosprmo;
+-> pwixac;
+(pnif) elseif (mdhsoea?) then (ruvz)
+:amadyjafvh; <<input>>
+-> zqycbd;
+endif
+(beuj) elseif (glbvkno?) then (ddfe)
+:wtigmevepn;
+-> imghoe;
+(ietf) elseif (tdrxbtc?) then (gzsp)
+:ewaoopdhnk; <<continuous>>
+-> lemmic;
+(tgzx) elseif (zlunvec?) then (ouvr)
+:yvrgdlpyfh;
+-> atucev;
+(aqkf) elseif (pkmmqwn?) then (dpjc)
+:rtyjnynmwx; <<continuous>>
+endif
+group bzqbtx
+:jugcxqmyne; <<task>>
+group pzzobg
+fork
+:qmred;
+fork again
+:alcwus;
+while (xywfwkdstvpv?) is (kwmx)
+while (fstaguzvoiof?) is (zqxn)
+backward:yycopj;
+backward:ewkrbw;
+endwhile (hmll)
+:pccoitpf;
+endwhile (hpvg)
+-[hidden]->
+detach
+fork again
+:ubkvibpcgx;
+fork again
+if (xbbxvvfzzjqt?) then (mlki)
+(iynd) elseif (eoctnnw?) then (ctay)
+:iszjwpxawc; <<load>>
+(aksw) elseif (tiofxag?) then (fcab)
+:mtkgg;
+(mhvq) elseif (ivirsuc?) then (cxjw)
+:blvsj;
+(gngf) elseif (fgwhbaj?) then (ypbw)
+:zihvo;
+(majj) elseif (nsaovgo?) then (gfze)
+:valsm;
+endif
+fork again
+switch (urmkjacuwqot?)
+case (xcxqhuz?)
+:wdifipfimf;
+-> zynvov;
+case (jjkuhaf?)
+:uaupl;
+endswitch
+fork again
+:vrlnrskxzd;
+-> lerqcw;
+end fork
+group epplwf
+if (lewieonudycl?) then (wnwq)
+switch (fqpgnbpxqbdz?)
+case (hjyyxlv?)
+:qdoti;
+case (pvluxfy?)
+:atmzh;
+case (cjymdph?)
+:ghshjfhgsr; <<procedure>>
+case (hcilinr?)
+:gamvu;
+case (qqspkxv?)
+:vwugr;
+endswitch
+:nqfpmgnqjj; <<save>>
+-> qzhssw;
+:fptojocnno; <<procedure>>
+-> fbydhn;
+switch (mdeuvkuohsuv?)
+case (belfaup?)
+:jljjrznhhs; <<input>>
+-> kkwlyi;
+case (hvxohys?)
+:xykepcrsdg; <<input>>
+-> yaropl;
+case (byrxpda?)
+:idpou;
+endswitch
+while (qgpixtwgzsdq?) is (hcch)
+:bpxnv;
+:carqjvfxgm;
+-> vxmsue;
+:kvgpj;
+endwhile (tuoy)
+:xbtlatzw;
+else (iigs)
+:cybdsprfvc; <<procedure>>
+-> zixhrw;
+kill
+endif
+:zlxzreslrg; <<input>>
+end group
+stop
+end group
+end group
+end group
+@enduml

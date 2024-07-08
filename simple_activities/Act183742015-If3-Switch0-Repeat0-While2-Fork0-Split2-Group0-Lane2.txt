@@ -1,0 +1,61 @@
+@startuml
+|1| tqudeh
+|2| zcukcp
+if (djnakduwjykm?) then (yjoe)
+:kswzruucaz;
+else (zjtu)
+:dyulbjtiqh;
+split
+:uxphu;
+split again
+:edslb;
+split again
+:kfmnupsvhg; <<load>>
+-> ogzbyv;
+end split
+:dxijrkpxzd; <<load>>
+:vgnrzujpbt;
+while (kduqkxiitxci?) is (exzo)
+backward:lbusji;
+endwhile (aljf)
+:izpondft;
+endif
+:jgauaentmr;
+split
+:mtmcl;
+split again
+if (kzprimwgnuqy?) then (ttfm)
+:jexok;
+:ghuoqxremy;
+:xhosw;
+else (zynt)
+:trqpu;
+endif
+split again
+if (hpbiyhhljvvg?) then (jtsi)
+(hzlp) elseif (jgjghkr?) then (ezpq)
+:rotkdo;
+while (lblhgyzreope?) is (trir)
+:mrcvvtzgis; <<continuous>>
+:mjdqw;
+:grweh;
+:grpgirkhzc; <<save>>
+-> jcaouq;
+endwhile (rwnd)
+-[hidden]->
+detach
+(nodo) elseif (wjlrzyj?) then (suol)
+:tseuc;
+(sndu) elseif (nsrrmph?) then (reyx)
+:ivblp;
+(mqtt) elseif (xbqcelp?) then (vyem)
+:opcsxehwwj;
+endif
+split again
+:oxmrkkaafr; <<continuous>>
+split again
+:irjbkqhsfr;
+end split
+:ltnpirqwsr; <<task>>
+stop
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+state eessty
+[*] --> eessty : zrcdk
+eessty --> gkmcla : pomon
+gkmcla --> wzuggo : hykzo
+@enduml

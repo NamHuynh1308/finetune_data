@@ -1,0 +1,42 @@
+@startuml
+hide empty description
+state vyhopp
+vyhopp --> ppvdfz : mhltu
+state xnimwy <<choice>>
+ppvdfz --> xnimwy : ardev
+xnimwy --> mtbfpz : ofmk
+mtbfpz --> ghayzr : jvtoe
+ghayzr --> ldxcsd : nbfxe
+ldxcsd --> imlepx : lgrkalv
+xnimwy --> scuepe : synr
+scuepe --> swnjqh : tserl
+swnjqh --> imlepx : sfsvhst
+xnimwy --> cxvlsy : sxke
+cxvlsy --> beifrt : dtynl
+beifrt --> dmelxl : yzwno
+dmelxl --> ocjsnh : vnele
+ocjsnh --> imlepx : hxrbohq
+imlepx --> oanhwi : ajfkr
+oanhwi --> yvjqke : dmdea
+yvjqke --> phybqo : cogea
+state geqiei <<fork>>
+phybqo --> geqiei : kfwqx
+state czalru <<join>>
+geqiei --> dadouy : pkoh
+dadouy --> rcsngq : zqllr
+rcsngq --> jjqwlb : iretu
+jjqwlb --> bqzink : texup
+bqzink --> czalru : svfplyc
+geqiei --> jcpltm : zcid
+jcpltm --> xyeqol : fxact
+xyeqol --> czalru : tmgbuzb
+geqiei --> igvtrf : obzj
+igvtrf --> tktnut : cmrfa
+tktnut --> rtpzkx : krzue
+rtpzkx --> czalru : vhjznbz
+czalru --> rlhuhd : wvusb
+rlhuhd --> rtzarp : zlqwo
+rtzarp --> hiplfi : imdfq
+hiplfi --> afyjsd : kfqwo
+afyjsd --> aezjtd : fleqb
+@enduml

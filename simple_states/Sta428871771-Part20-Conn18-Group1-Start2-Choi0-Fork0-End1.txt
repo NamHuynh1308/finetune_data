@@ -1,0 +1,24 @@
+@startuml
+hide empty description
+state acuclr
+[*] --> acuclr : taoim
+acuclr --> vknhtd : pfihz
+vknhtd --> cxglcc : pnzok
+state cxglcc {
+[*] --> klebdg : rnazr
+klebdg --> qeibhu : sgtwi
+qeibhu --> [*] : cfrih
+}
+cxglcc --> nlwarz : udyjw
+nlwarz --> owxwkc : ufgze
+owxwkc --> zkcwpx : hlijq
+zkcwpx --> sexjsn : nzdhc
+sexjsn --> ldrtep : xtqbd
+ldrtep --> ikvvbc : gtlby
+ikvvbc --> wotrcg : oswgd
+wotrcg --> lguqzs : aeaqo
+lguqzs --> hjynxt : vfert
+hjynxt --> quxmgj : nqrvv
+quxmgj --> xfrjvq : dpmvm
+xfrjvq --> hsmfhs : totwy
+@enduml

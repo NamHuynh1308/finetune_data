@@ -1,0 +1,171 @@
+@startuml
+split
+-[hidden]->
+:twbbm;
+split again
+-[hidden]->
+if (xueqiarkyugc?) then (dzwo)
+(guwl) elseif (szdnrcr?) then (mzdw)
+:nyvxccvmbq; <<output>>
+(rrbq) elseif (sppxjtx?) then (uvtp)
+:thkdl;
+endif
+split again
+-[hidden]->
+:ibrdkixnku; <<output>>
+split again
+-[hidden]->
+:pbcyypbmdf; <<output>>
+split again
+-[hidden]->
+:voxgvgiiml; <<load>>
+split again
+-[hidden]->
+:sdxvtkfghe; <<output>>
+-> gmwhgr;
+end split
+split
+:iegvt;
+split again
+:qtsjonmhcx; <<input>>
+split again
+:mlllik;
+while (hlqkkhazqtiw?) is (yzog)
+switch (wajcqsxqpxyb?)
+case (sopkoya?)
+:irbsf;
+case (buenuns?)
+:qfrhd;
+case (zwhhgat?)
+:syovbjnoca; <<continuous>>
+case (wphkryq?)
+:anmddqvjte;
+-> vrcfcz;
+endswitch
+split
+:zfiko;
+split again
+:hdotlxnrxh; <<save>>
+-> rzbhmm;
+split again
+:aseqtwgqwm; <<output>>
+-> nirvof;
+split again
+:nqvph;
+split again
+:svtmuuqfep; <<save>>
+end split
+repeat
+:jcnwb;
+:vbbfu;
+repeat while (vztnwbubuscp?) is (vmki)
+fork
+:sqara;
+fork again
+:lckcen;
+kill
+fork again
+:goqod;
+fork again
+:fwyom;
+end fork
+endwhile (pvwo)
+-[hidden]->
+detach
+end split
+switch (mgryhalydgge?)
+case (ewpldlp?)
+:crxfypywar; <<procedure>>
+-> dwlagk;
+case (wqlseju?)
+:trlsrxdsmn; <<procedure>>
+-> yyhqpu;
+case (llnglxy?)
+:hoplvjzoxa;
+case (jdvdccm?)
+:uvxdljujdh; <<save>>
+-> mfvdkw;
+endswitch
+group lcopsa
+switch (mbczimbuxdvk?)
+case (flxczqu?)
+:yaemebverb; <<continuous>>
+-> kfyuin;
+case (ghimdlc?)
+:cgfrpjoaxg; <<output>>
+-> iqchho;
+case (jomojex?)
+if (iyjnywsonebo?) then (gzuh)
+(xqxn) elseif (abnghqo?) then (katn)
+:lmvhr;
+(szwr) elseif (fyjuqdi?) then (omgk)
+:gzkwy;
+(vwfy) elseif (ztbfjmr?) then (dbqm)
+:uhkkr;
+endif
+case (szbkicz?)
+:rhbeptzgwg; <<load>>
+case (wxbqumk?)
+:udxacmmtzz; <<save>>
+-> ixohob;
+endswitch
+fork
+:xoubk;
+fork again
+:pkxyiyitij; <<save>>
+fork again
+:engkhafifu;
+fork again
+:iivznkykag;
+fork again
+if (epowkagnlmgu?) then (gnht)
+:ekxdghhmjf;
+-> rrhhdk;
+:anxfckyzqc;
+-> rjifma;
+:xkkph;
+:ledjyybgie; <<procedure>>
+kill
+else (dslb)
+:zlpmz;
+:revxlrryjy; <<load>>
+-> vfdxeb;
+kill
+endif
+end merge
+end group
+group hagpue
+split
+:qzxvt;
+split again
+:vtflrikmbl; <<task>>
+-> ayjuxz;
+split again
+fork
+:jchyj;
+fork again
+:xtevf;
+fork again
+:clfjt;
+end fork
+split again
+:ykydphehgk; <<input>>
+-> bcxumu;
+split again
+fork
+:ewfii;
+fork again
+:kstefvxyqw; <<save>>
+fork again
+:fywtwadzzq; <<input>>
+end fork
+end split
+:wqbbrcgadi;
+-> nyzqnr;
+group aiftne
+:vfdqblubld; <<continuous>>
+-> tlanvc;
+stop
+end group
+end group
+@enduml

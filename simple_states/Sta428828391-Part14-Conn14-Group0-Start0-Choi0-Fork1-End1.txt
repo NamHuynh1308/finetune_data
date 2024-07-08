@@ -1,0 +1,20 @@
+@startuml
+hide empty description
+state wbgtof
+wbgtof --> mcimot : yqciu
+mcimot --> vluvoo : lqctc
+vluvoo --> xseevf : wbzsa
+xseevf --> fjpksu : vkyvt
+fjpksu --> laibpe : sqaxs
+state nahwte <<fork>>
+laibpe --> nahwte : nkdxz
+state qshqaf <<join>>
+nahwte --> ogtnny : qxdr
+ogtnny --> dgixkm : kglnf
+dgixkm --> qshqaf : tajotyw
+nahwte --> wvbvxm : cdnc
+wvbvxm --> hsqvti : dkttv
+hsqvti --> qshqaf : qqskjqr
+qshqaf --> gzjnai : tvrwa
+gzjnai --> [*] : lhkdv
+@enduml

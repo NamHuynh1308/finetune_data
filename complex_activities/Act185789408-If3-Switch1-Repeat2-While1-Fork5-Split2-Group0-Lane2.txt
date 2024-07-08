@@ -1,0 +1,147 @@
+@startuml
+|1| jtbfxd
+|2| eyayxa
+|2|
+if (nilybqgmqhwn?) then (xpli)
+:piwuohxjsn;
+-> yxgvls;
+else (pfxk)
+:rgzxwltlmp; <<save>>
+:oyyeplhckz;
+-> rvhzat;
+endif
+|1|
+if (sqefnpqmzcwc?) then (luzn)
+fork
+:zlojq;
+fork again
+:ekonkslild;
+-> rlrkpf;
+fork again
+:dvzdonjiib; <<load>>
+fork again
+:vvekaz;
+while (fcwbdywoixmn?) is (wpsw)
+:izeeo;
+:joirzoiuqq; <<procedure>>
+-> chzveb;
+:meoop;
+:kvlyl;
+endwhile (vpdy)
+-[hidden]->
+detach
+fork again
+:ownrncjhjz; <<output>>
+fork again
+:ndrul;
+end merge
+:getsjuawil; <<output>>
+:udalxjutrt;
+else (cunr)
+repeat
+:hrwxuziqli; <<procedure>>
+backward:fyclhr;
+:gregb;
+repeat while (thzaikfkqkww?) is (vjfq)
+repeat
+:hwcvbgcnwp; <<task>>
+:peagqx;
+if (tehulck) then (kamf)
+:fykwmt;
+break
+endif
+->glwb;
+:rryisc;
+backward:dgccfm;
+:rnrvtn;
+:eafwe;
+repeat while (gnlxxeogooqs?) is (ogam)
+split
+:ltigd;
+split again
+:vhrnkqdair;
+split again
+:xuzqg;
+split again
+:uialt;
+split again
+:sfhcj;
+split again
+:flwmvkojom; <<output>>
+-> cgvnqa;
+end split
+:frxedtizky; <<load>>
+-> iahnbc;
+endif
+:zslomhpiun;
+fork
+:twkmv;
+fork again
+switch (doyuhiguzxyx?)
+case (vqexrns?)
+:jqbft;
+case (afytjfa?)
+:irqoubkrql; <<output>>
+-> ijxzry;
+case (kffrotw?)
+:usxag;
+case (tucjune?)
+:yrtkb;
+case (rrgpdfc?)
+:skwpiphpyl;
+endswitch
+fork again
+:txiydiilsa; <<input>>
+-> kpplek;
+end fork
+fork
+:hfdvg;
+fork again
+:udmnzfjptg;
+fork again
+:hjbvmyykbf; <<continuous>>
+fork again
+:ndutek;
+kill
+fork again
+split
+:rtmtd;
+split again
+:qtpglfennv; <<input>>
+-> uvobkh;
+split again
+:pjysb;
+split again
+:dwrew;
+end split
+end fork
+|2|
+:afgryycezs;
+|1|
+:maaueaktov; <<continuous>>
+-> tlamrz;
+fork
+:efxjb;
+fork again
+:tmapdzwswb;
+fork again
+:pqvsgm;
+kill
+end fork
+:prxaveabuu; <<task>>
+fork
+:mpznx;
+fork again
+if (xlmdzisnqtal?) then (ncgv)
+(ogqf) elseif (xwlyeko?) then (cydq)
+:giymvzizfc; <<save>>
+(ulra) elseif (swlhxdy?) then (imwi)
+:tkxexxvyyi; <<continuous>>
+endif
+fork again
+:gjmsnuhhcb; <<continuous>>
+fork again
+:ahnykbtzdd;
+end merge
+stop
+@enduml

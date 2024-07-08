@@ -1,0 +1,142 @@
+@startuml
+split
+-[hidden]->
+:dovlo;
+split again
+-[hidden]->
+switch (smdwddsotezw?)
+case (yhpcrde?)
+:ykfxuyxoit;
+case (nxjpphp?)
+:duqyg;
+case (udcsege?)
+:laifbxabpc;
+-> nosnki;
+case (birjhtn?)
+:golqe;
+case (lkdggve?)
+:pskxrsedrx;
+endswitch
+split again
+-[hidden]->
+:jsncosvube; <<output>>
+-> dbbylo;
+end split
+while (ekdoobhrjtsn?) is (chrq)
+backward:loodta;
+:waqckrvflv; <<input>>
+endwhile (qais)
+:drvicxiu;
+switch (wxdznqqwbejo?)
+case (rowymiu?)
+while (lmqadrgrpqrt?) is (oluk)
+backward:cfnafp;
+:oaujw;
+backward:ldsrbw;
+:gyrfxnpuzb; <<output>>
+:eniwaedltk;
+endwhile (synr)
+:ypdkpxvl;
+case (legwzit?)
+:qygindpjvh; <<task>>
+-> scwroc;
+case (dzeallu?)
+:afrjavyfnu; <<input>>
+-> ymlxxx;
+case (syxlbqi?)
+:ooijgtjxbr;
+endswitch
+fork
+:iucxf;
+fork again
+:xoqjyrtqgr;
+-> yitfng;
+fork again
+if (fypxhctuqrik?) then (kktl)
+:fsbgp;
+:wdrwknesiz; <<save>>
+-> xoscrk;
+else (ehkv)
+:nwqwp;
+:dftoqvpdgn;
+endif
+fork again
+split
+:sjoph;
+split again
+:ntvrp;
+split again
+:aeiqh;
+split again
+:dujmijcfix;
+split again
+:kqnonnsqcv;
+split again
+:jeidk;
+end split
+fork again
+:tydxnujszy; <<output>>
+fork again
+:bzncdfdqhq; <<input>>
+end merge
+:btbunareqq;
+if (kjfevdcagufk?) then (youw)
+:usslwkmeim; <<task>>
+:tstwxaothl;
+kill
+else (bkfb)
+:lasuekimxq; <<procedure>>
+-> hoyhzr;
+:nbdknhrqvx; <<output>>
+-> shnlse;
+:ndotyfwloq; <<task>>
+-> fohbna;
+:xtsqarzxwj; <<load>>
+-> ogavtp;
+endif
+:dqnmiiojtm;
+-> kkwzen;
+split
+:bkaai;
+split again
+:usyunnoadk;
+split again
+:epypffohhr;
+-> amirpm;
+split again
+fork
+:wdxtb;
+fork again
+:zlfmd;
+fork again
+:xutbrthdhu; <<task>>
+fork again
+:nycvpfssok; <<input>>
+-> ftpunn;
+fork again
+:ymbbl;
+end merge
+end split
+repeat
+if (vsuhuejeycdc?) then (dnim)
+:dmludpfnee; <<load>>
+:jbhinffbrx; <<task>>
+:jvebvdhgxh; <<save>>
+else (jwat)
+:bytfsejsnb;
+-> dxqqxp;
+:wrmzqrynfd; <<save>>
+:urxly;
+:onxnv;
+endif
+repeat
+backward:ivemyo;
+repeat while (ibryhrdrldmw?) is (lrye)
+-> ykybik;
+backward:rtsrpm;
+:wjcybmwqgk;
+repeat while (lchlvaqtskag?) is (msvp)
+:lgmhzoqymr;
+:lxouzifjcm;
+stop
+@enduml

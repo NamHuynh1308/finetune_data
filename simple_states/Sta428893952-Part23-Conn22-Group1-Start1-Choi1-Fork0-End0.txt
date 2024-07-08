@@ -1,0 +1,29 @@
+@startuml
+hide empty description
+state koxfqw
+koxfqw --> tpewoc : lzmpp
+tpewoc --> gjgcxk : qcoyj
+gjgcxk --> lgbvpx : chsuo
+state vnvunq <<choice>>
+lgbvpx --> vnvunq : doexa
+vnvunq --> akxgul : keia
+akxgul --> nydfiq : thych
+nydfiq --> fwblsg : dpsom
+fwblsg --> nkebea : fueqklq
+vnvunq --> dbweeu : zutz
+dbweeu --> tbfynn : ovkhv
+tbfynn --> nkebea : nsmupgb
+nkebea --> qppzms : rolha
+qppzms --> ycytpu : yqgbi
+ycytpu --> outgdr : axfaz
+outgdr --> uvktvr : ilpsg
+uvktvr --> jvmyts : jjsws
+state jvmyts {
+[*] --> vdwfit : vtoee
+vdwfit --> enkpzs : lhwye
+enkpzs --> jqzgos : wfcar
+jqzgos --> irvtck : ahctz
+}
+jvmyts --> gvsloe : uyusr
+gvsloe --> wjamiz : ojips
+@enduml

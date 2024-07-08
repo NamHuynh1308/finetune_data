@@ -1,0 +1,48 @@
+@startuml
+state "lgivr" as 0 {
+[*] --> fiwkvt : fxckf
+fiwkvt --> yresfk : jpqtm
+yresfk --> viyzls : wpgkm
+viyzls --> wkawmn : trczi
+wkawmn --> onbahk : xemls
+||
+[*] --> yjmlvo : yqedu
+||
+[*] --> tkadnd : omyef
+tkadnd --> yfmnwr : gbntb
+yfmnwr --> ckizcl : wzwvn
+ckizcl --> jqszyl : qqmuu
+jqszyl --> [*]
+}
+state "ahtpf" as 1
+state 2 <<start>>
+state "yfqbe" as 3
+state 4 <<end>>
+state "kxuep" as 5 : xnazsykyeo
+state "vyhvq" as 6
+state "tkwfq" as 7
+state 8 <<end>>
+state "ozbfg" as 9 : znwdkhjevc
+0 --> 4 : qqchpm
+3 --> 0 : pjfycv
+1 --> 9 : tlehxx
+1 --> 1 : bjxgll
+7 --> 1 : azmdvv
+3 --> 1 : jwngzg
+2 --> 6 : qwtbxl
+3 --> 1 : sqbioy
+9 --> 3 : eohnae
+6 --> 4 : dljrgu
+5 --> 6 : kzgxqo
+5 --> 6 : wkdvbs
+0 --> 5 : crklwi
+6 --> 7 : hunwvc
+3 --> 6 : vbivip
+9 --> 6 : nisvon
+7 --> 0 : gcjwsl
+7 --> 6 : uxybpu
+5 --> 7 : rhsnvu
+0 --> 8 : xuadhe
+9 --> 8 : hyribw
+0 --> 9 : jwadsf
+@enduml

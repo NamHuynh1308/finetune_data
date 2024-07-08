@@ -1,0 +1,71 @@
+@startuml
+|1| stcdbx
+|2| vqrhlo
+fork
+:ckkbz;
+fork again
+:liylrndsuh;
+-> rkenqp;
+fork again
+:qfrddwfrfv; <<procedure>>
+-> trdjus;
+fork again
+:cmxbahnxgu;
+-> frhpym;
+end fork
+split
+:ktyun;
+split again
+:piycjagdqz; <<load>>
+split again
+:cqeayzaiuw; <<task>>
+-> fvulgt;
+split again
+split
+:enbgd;
+split again
+:tawpbgqeej;
+split again
+:ooxhh;
+split again
+:aceswegxmj; <<procedure>>
+end split
+end split
+|2|
+switch (jomxzuqxijlb?)
+case (uinarnz?)
+:rfmahqkslw; <<task>>
+case (buryxnf?)
+:fhprrs;
+while (ojjvtudirtkt?) is (ojft)
+:zblmkrlpqx; <<load>>
+-> tkngrz;
+:xjwgqgajcr;
+split
+:tdjmz;
+split again
+:sfgsadcrfe; <<task>>
+split again
+:ltqbk;
+split again
+:svayvatrid; <<load>>
+-> sxlxib;
+split again
+:snxfbwdyqa; <<input>>
+split again
+:poxtsuktwl; <<output>>
+end split
+endwhile (jrpx)
+-[hidden]->
+detach
+case (toqwndb?)
+repeat
+:sobpfmqwia; <<continuous>>
+repeat while (kssmxrsiirbt?) is (pqmk)
+case (mqvvcvl?)
+:mguxtxmyqr;
+case (hihnwud?)
+:vkkuahycue; <<save>>
+endswitch
+stop
+@enduml

@@ -1,0 +1,117 @@
+@startuml
+|1| uuaste
+|2| pzbqru
+|1|
+start
+|2|
+while (xwhnefzxpyce?) is (lqnw)
+:xddwdqjblb;
+backward:nsndwo;
+if (kwrnbfaygsay?) then (cyyo)
+(anmq) elseif (mnokluc?) then (wcrw)
+:qkuhhtzubo; <<task>>
+-> arplwq;
+(oczb) elseif (pysrgbr?) then (npsk)
+:fxpodjyccr; <<continuous>>
+-> bhfiel;
+(squg) elseif (ppcqvzd?) then (bldl)
+:yqvdouylve; <<input>>
+-> hlvxnq;
+(ivuj) elseif (mbazxux?) then (eols)
+:zkhtjr;
+while (hgnexkkhoiyk?) is (uzvz)
+backward:jmhjhx;
+:eavncgltlg;
+:pisfx;
+:sskjofvowc; <<task>>
+:rrbnb;
+endwhile (zeae)
+-[hidden]->
+detach
+endif
+:mfntgttkrb; <<output>>
+endwhile (soil)
+:zcdwvvcn;
+|1|
+:mauxfaunzy; <<procedure>>
+-> cybejx;
+|2|
+:gopnmkzcpb; <<task>>
+-> nectzi;
+|1|
+:bagnojsrcr; <<output>>
+:mlbpsgmzqi;
+|2|
+if (vutemgedkllc?) then (rfvm)
+(rehp) elseif (dntcyao?) then (jzyo)
+if (hnpmcqcuedtu?) then (kbbt)
+:fwblfaqxjr;
+-> mayowo;
+else (lazj)
+:qxqtefybca;
+while (wtvgmpmgyuou?) is (hjlp)
+:bxkeo;
+:qqyptdtaft;
+-> ehrkhh;
+:fibezsuuko;
+endwhile (dsxw)
+-[hidden]->
+detach
+endif
+(gelq) elseif (mmuchaw?) then (otff)
+:kmettcgbux; <<input>>
+-> eanofq;
+(fhkn) elseif (orbsodr?) then (vxtg)
+:zbggrupzff; <<procedure>>
+(nsac) elseif (yecorph?) then (tpza)
+:hfnmzzvxrj; <<save>>
+(lymr) elseif (kvdcbkj?) then (aoct)
+while (ulxkycegbvlb?) is (obrs)
+backward:tlpvbp;
+:oxnbe;
+:srfzn;
+endwhile (twgm)
+:eyjehkfl;
+endif
+:reppgcqadd; <<procedure>>
+|1|
+:dutikxosvb;
+-> myhzlh;
+if (bdfsiwcefqwu?) then (inqt)
+:nlxolgmtum;
+else (jqrm)
+:snzkdubugm; <<continuous>>
+-> tsenfy;
+:smdwkfnhss; <<input>>
+-> tbirlh;
+:suezjizzwd;
+:tpzjxhiqgf; <<procedure>>
+-> mnpzfs;
+endif
+if (gnfpugvyfbqd?) then (wulc)
+(ebsl) elseif (ygnegjh?) then (bvnl)
+while (xcggflxfimny?) is (dplx)
+backward:bekxwx;
+:xjkbxdoyky;
+endwhile (ynho)
+:phxjboye;
+(alck) elseif (brgimnn?) then (uzfj)
+:nyxtmr;
+kill
+(iadf) elseif (wrljsms?) then (mhjw)
+switch (xjajeqphqowl?)
+case (mmeqten?)
+:vfvvibcldf; <<input>>
+case (dnpabxl?)
+:uhufgo;
+kill
+case (fznwkln?)
+:gsxjl;
+case (azfdpsu?)
+:rvieaokkpf; <<output>>
+case (tdsolyy?)
+:jtcim;
+endswitch
+endif
+end
+@enduml

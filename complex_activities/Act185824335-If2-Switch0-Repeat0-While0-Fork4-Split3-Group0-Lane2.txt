@@ -1,0 +1,102 @@
+@startuml
+|1| mwsisj
+|2| djxpac
+|2|
+split
+:fwcdf;
+split again
+:dpffjscyvh;
+-> lwirmk;
+split again
+:jfhtnfdnsb;
+-> twecmg;
+end split
+|1|
+:tvmcpfcsyf;
+|2|
+:ozexwumxtg; <<input>>
+-> nulnfd;
+|1|
+:aldqilpnsw; <<procedure>>
+fork
+:imsvj;
+fork again
+:msnmhhqsbz; <<continuous>>
+fork again
+split
+:oebul;
+split again
+:uturj;
+split again
+:jglmzeelqb; <<continuous>>
+end split
+fork again
+if (nqirfyxnvpac?) then (xprb)
+:jnylu;
+:wtpzcoxhzy;
+:fnaxr;
+:uwoxw;
+else (gpyf)
+:qipbj;
+:juipqojajs; <<save>>
+:anauuqogch; <<task>>
+endif
+fork again
+split
+:iwbgr;
+split again
+:ldimyjfwev;
+split again
+:phmwgbpdph;
+split again
+:kbascjswji; <<load>>
+split again
+:bjewkktaii;
+-> gzvmrq;
+split again
+:uqpgegwvty;
+end split
+end fork
+:jrunyszcij;
+fork
+:sajuc;
+fork again
+:oaijkjrpst; <<procedure>>
+fork again
+:knbhowrrrn;
+-> dtqycl;
+fork again
+fork
+:nwwxq;
+fork again
+:qmnzem;
+kill
+fork again
+:dtimz;
+end fork
+end merge
+if (wwoxvupqkxbn?) then (ttdp)
+(jige) elseif (kxsuebc?) then (nkeg)
+:kerzcjdpnb; <<input>>
+-> lcmvcm;
+(impm) elseif (melijpf?) then (wdgj)
+fork
+:okfzj;
+fork again
+:fecftzkmms; <<input>>
+fork again
+:fnrgrccyvz;
+-> ixujjg;
+end merge
+(hrnh) elseif (yexvgqp?) then (zkog)
+:ogimmosxyf; <<continuous>>
+(ltcq) elseif (mzjwrkw?) then (cxqf)
+:rmdtemgtto;
+-> czxfeo;
+endif
+|2|
+:ajwawnhejv; <<save>>
+|1|
+:cfnxojwizo;
+stop
+@enduml

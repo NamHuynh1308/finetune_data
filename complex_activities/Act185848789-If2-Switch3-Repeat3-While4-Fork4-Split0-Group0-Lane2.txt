@@ -1,0 +1,139 @@
+@startuml
+|1| ubwuch
+|2| jvcbhc
+:gqurglasxt; <<save>>
+-> zilxho;
+repeat
+:xszbvsiane;
+-> xgrglf;
+:ayhximbekv; <<load>>
+switch (gmlgpfcykgmj?)
+case (qfabmck?)
+:azkcn;
+case (zvoioqk?)
+:tmraf;
+case (joyaokm?)
+:ziyxlxudso; <<continuous>>
+endswitch
+fork
+:chofl;
+fork again
+:prswg;
+fork again
+:qbwunfkaur; <<save>>
+fork again
+:phkkm;
+end merge
+repeat while (uojydfydbgjy?) is (xchp)
+switch (cbkofjvhabuu?)
+case (ygxpivc?)
+fork
+:crbxt;
+fork again
+:otwhm;
+fork again
+:jmllauipje;
+-> vdflvr;
+end fork
+case (qpgixbq?)
+if (wyuhxddypgij?) then (nbia)
+:ljqqxqvtlt;
+:ofjrlvndbh; <<task>>
+kill
+else (viei)
+:pqajgiehql;
+-> ufttcb;
+:qhipo;
+while (kgdproyhuqzs?) is (dwqd)
+backward:tdjpxu;
+:lmsam;
+:jqkvekjvbm;
+endwhile (swbg)
+-[hidden]->
+detach
+endif
+case (ffrotgl?)
+:ittyyhwjbz; <<input>>
+case (lpokkyk?)
+:btpabmtxrd; <<save>>
+case (wmcdstw?)
+repeat
+:hyvewt;
+if (gydbdmx) then (xrws)
+:oytylh;
+break
+endif
+->mlon;
+:gqxzig;
+repeat while (wzznexlsgsyi?) is (cztu)
+endswitch
+|2|
+switch (axicdroltlmv?)
+case (riyszpu?)
+:fvfugcdwed;
+case (cnzxglo?)
+repeat
+:ywcli;
+:nurae;
+:iznseshdlc; <<load>>
+repeat while (whbfymgebcbx?) is (bpeo)
+case (vhwtuyh?)
+:hipjgidpbx; <<output>>
+-> mqzmpy;
+case (hivpaqp?)
+:yctkmtrxus; <<load>>
+-> tuvujr;
+endswitch
+if (knbrtpyijcnt?) then (nexu)
+(awyo) elseif (bauvsdb?) then (yatn)
+:sccbhqoyod;
+-> ewrgny;
+(zlon) elseif (yfxqalj?) then (sjfi)
+while (fcffwopyzqwi?) is (ihkf)
+backward:avyfrk;
+:htocf;
+:sfletjuytj;
+-> psjbmn;
+:qtnqjhopnm; <<input>>
+endwhile (hpto)
+:qpjizwrh;
+endif
+fork
+:iawba;
+fork again
+:bcafybuyqm; <<task>>
+-> lydwox;
+fork again
+:cgblwcxdce; <<procedure>>
+fork again
+:iypgywirck;
+-> ciluih;
+fork again
+:kngtsnlnqy;
+end fork
+fork
+:ggvbr;
+fork again
+:jtdddz;
+kill
+fork again
+:aqhhgsqsvx;
+-> ehpkml;
+end fork
+:ydiqbvsmcu; <<task>>
+:gpopbxolvk; <<input>>
+-> ujysyz;
+while (mrmgqtlkkdjt?) is (adee)
+backward:bvlyzu;
+endwhile (cgfv)
+:kzwrpyxv;
+|1|
+while (uwrkanliujxm?) is (bzap)
+backward:oitoao;
+backward:cgsstf;
+backward:xgiviq;
+backward:aaupus;
+backward:fvomcw;
+endwhile (kwtf)
+:xruayyul;
+@enduml

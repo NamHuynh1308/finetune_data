@@ -1,0 +1,27 @@
+@startuml
+state vbkvfx
+vbkvfx --> jsijor : huieb
+state jsijor {
+zlwawm --> csatua : zchzs
+csatua --> vdekqs : sqfnd
+vdekqs --> [*] : iguuj
+}
+jsijor --> gylddy : dmrty
+gylddy --> fajuku : jyjjk
+state druwnf <<fork>>
+fajuku --> druwnf : qfplv
+state raxqkg <<join>>
+druwnf --> memcyg : cyai
+memcyg --> dyjjbn : cqick
+dyjjbn --> pfdttb : nygjr
+pfdttb --> raxqkg : amfzmdj
+druwnf --> ohvjfx : bvmx
+ohvjfx --> cpysjq : jkpbi
+cpysjq --> ecnbts : wvspk
+ecnbts --> raxqkg : fhifqdz
+druwnf --> axfojg : jolp
+axfojg --> ugsifv : snzqc
+ugsifv --> xkiocx : gcjwi
+xkiocx --> raxqkg : nlffwaw
+raxqkg --> epzami : soybr
+@enduml

@@ -1,0 +1,92 @@
+@startuml
+|1| hesiae
+|2| akfszl
+|1|
+start
+|2|
+:yklnhxfdqf; <<task>>
+-> stzctt;
+|1|
+split
+:swygz;
+split again
+while (whuovkwdfvfx?) is (hcns)
+:tgipjgizsf;
+-> xpqcpw;
+:jnoxvhcupy; <<procedure>>
+-> tdshty;
+backward:llevjs;
+endwhile (pnxm)
+:iglvtcbc;
+split again
+:euadgcagba; <<task>>
+split again
+:hhhxbtnmlv; <<input>>
+-> vefzny;
+end split
+|2|
+:itbmixerew;
+|1|
+:wbrrapbubo;
+:vlfwxbdiji; <<load>>
+repeat
+if (vrubaqwumozb?) then (htic)
+(igng) elseif (wibexvh?) then (fwlk)
+:jmstuckuya; <<input>>
+(vjxp) elseif (aytkpxp?) then (ryja)
+:ccwrtzixod; <<load>>
+(jjgj) elseif (dqdymjx?) then (gkkm)
+:fxbacejqyl;
+(lokj) elseif (qonufbg?) then (saeb)
+:rbsjumcnam;
+(zyks) elseif (ssroayn?) then (vjww)
+:maxyf;
+endif
+:wspdtl;
+if (mlhragq) then (ufoo)
+:xogdvh;
+break
+endif
+->clvt;
+:tqdbea;
+if (nddqkecirhao?) then (opva)
+:ohkgj;
+:tkkzj;
+else (fugo)
+:sqwco;
+kill
+endif
+fork
+:xthnp;
+fork again
+:jbfylltayt;
+fork again
+:ehnrluqefs;
+fork again
+:jgkuqvucjt; <<input>>
+fork again
+:ulsihkgyli; <<output>>
+fork again
+:qoqja;
+end merge
+backward:obslzs;
+repeat while (ztqzbrsrqrcv?) is (ogtv)
+switch (ytddlzhjovqv?)
+case (xepnqcm?)
+split
+:neski;
+split again
+:hivmghgxxc;
+-> cmqaek;
+split again
+:ewbkvrvihc; <<load>>
+end split
+case (qlbkunl?)
+:lkeiqgphoa;
+-> hgbrmo;
+case (kjlvesd?)
+:byqyhavwsg; <<save>>
+endswitch
+|2|
+:kjhasazhrd; <<task>>
+@enduml

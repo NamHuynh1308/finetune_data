@@ -1,0 +1,69 @@
+@startuml
+|1| dryeri
+|2| mxmecm
+|1|
+start
+:hgrfttlmtq; <<output>>
+fork
+:irtyq;
+fork again
+:iwpkvm;
+kill
+fork again
+:kvpharcpwb; <<procedure>>
+-> wgbrkk;
+fork again
+split
+:phjeo;
+split again
+:zuatb;
+split again
+:ynozeqhgsm;
+-> skvfux;
+end split
+fork again
+:rbianmnfcc; <<procedure>>
+fork again
+:kaidacdeqk; <<output>>
+end merge
+if (iakgwegzcodg?) then (nsdy)
+(wdmg) elseif (ifsfbpz?) then (dgis)
+:ojlsvzyojp;
+-> vrtdll;
+(nmfh) elseif (fxhprfc?) then (vrmr)
+if (ynsfquqajqkc?) then (bowp)
+:qjrgkmsylq; <<input>>
+:iqyio;
+:dhnxnyzayc; <<continuous>>
+-> wjhvyq;
+while (dmuslalmwiae?) is (pqap)
+backward:merbdy;
+endwhile (leho)
+-[hidden]->
+detach
+else (rwia)
+:wwdwuiyvqd; <<save>>
+:qdpgj;
+:mdpbmamliw; <<output>>
+-> pbowqj;
+kill
+endif
+endif
+|2|
+while (fgstuoyawbod?) is (mxqg)
+backward:xfmqwf;
+fork
+:hxjeg;
+fork again
+:fdygkdjane;
+fork again
+:wwffmgocey; <<load>>
+-> ydkvtd;
+fork again
+:sjady;
+end fork
+:mplkfipxls; <<procedure>>
+-> vyifui;
+endwhile (ulec)
+:lldkhyze;
+@enduml

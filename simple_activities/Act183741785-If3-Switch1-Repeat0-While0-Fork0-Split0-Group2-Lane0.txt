@@ -1,0 +1,45 @@
+@startuml
+start
+group dmtklt
+if (iknulnpggxhf?) then (svsa)
+(dwrg) elseif (brongtc?) then (koun)
+switch (yjcicjcltpzj?)
+case (lzoeuri?)
+:fdbtjvtdhr; <<procedure>>
+case (fxkjomd?)
+:avstj;
+case (bywkmnw?)
+:zevzf;
+endswitch
+(pbdr) elseif (bprqdrl?) then (mjby)
+:fpjntfnqih;
+(khrf) elseif (hiemqvv?) then (fgrj)
+if (ahdqujtqhehw?) then (lwfh)
+(xncs) elseif (lbtfzoy?) then (lyak)
+:zdsjehirgm;
+(omfs) elseif (cttrdlu?) then (bcre)
+:kuzwjxenpx; <<load>>
+(kxdi) elseif (hestiux?) then (yxuq)
+:jdbvbiebxg; <<load>>
+(zcvj) elseif (ygirdum?) then (ydcz)
+:xgkfjuqqik; <<continuous>>
+(uzjv) elseif (zugfdui?) then (odfp)
+:atvde;
+endif
+endif
+group elxsor
+if (vhyhcyaodrtm?) then (dmon)
+:ofbexvpmgw; <<input>>
+:bylxnffzun; <<input>>
+:fxiuntsfog;
+:ggkwgjeikv; <<task>>
+else (uegc)
+:vqugmktcxk; <<input>>
+-> kzyryy;
+kill
+endif
+:axqrzmypvb; <<procedure>>
+end group
+stop
+end group
+@enduml

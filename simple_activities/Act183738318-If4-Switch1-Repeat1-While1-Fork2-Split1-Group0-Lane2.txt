@@ -1,0 +1,120 @@
+@startuml
+|1| kqbugq
+|2| ffwxtm
+split
+-[hidden]->
+:eaolz;
+split again
+-[hidden]->
+:moqpbqegma; <<save>>
+-> zlxlvx;
+split again
+-[hidden]->
+:xofjkvzdkw;
+split again
+-[hidden]->
+switch (jpndgijczfxu?)
+case (kfuzzsq?)
+:hweyqydoij; <<input>>
+-> xqxltt;
+case (fstifzu?)
+:fhruqdfwyw;
+-> tftjny;
+endswitch
+split again
+-[hidden]->
+:dpmydiejsc; <<task>>
+split again
+-[hidden]->
+while (duzasglapwch?) is (hyqw)
+:hqera;
+:sufupzzctw; <<input>>
+-> kagtmh;
+:hoorsdirdf;
+-> iwbthw;
+backward:iexpom;
+endwhile (thtp)
+:fvjefuto;
+end split
+|2|
+if (gstkiejjmbif?) then (tqlo)
+(ewhu) elseif (iptwgvc?) then (mtng)
+fork
+:jomvp;
+fork again
+:giokt;
+fork again
+:ozvjn;
+fork again
+:jlwpb;
+end merge
+(gdrh) elseif (zxmqwgz?) then (hnzz)
+if (hosvjsjlpojp?) then (jlwk)
+:awogxnwcfl; <<task>>
+-> yndfht;
+:wxboxdtzkl; <<output>>
+-> qwndrx;
+:ydzfefiabj; <<output>>
+:ixpsx;
+else (ixsp)
+:hptoqevzks;
+:ryarb;
+:iqvmn;
+:neyiavbxyb;
+-> rkoflo;
+kill
+endif
+endif
+|1|
+:isbbyhhkkr; <<procedure>>
+if (mspremvoplaa?) then (walz)
+(lnyq) elseif (ayotsww?) then (nkao)
+:wizvnparzy;
+-> yzcstt;
+(rzqp) elseif (nsnrbel?) then (dpid)
+:rwfctqugdj;
+-> tqfflp;
+(flzx) elseif (hxhyxbm?) then (xcxc)
+:ehvxoxwoei; <<procedure>>
+(htbj) elseif (uzkgavs?) then (eltt)
+:ntjztzzdol; <<output>>
+-> xttwwl;
+(deit) elseif (yydbvks?) then (koms)
+:yvpwwwckqg;
+-> xablim;
+endif
+|2|
+repeat
+:znaokzvvyq; <<continuous>>
+-> xdfqvr;
+:ccmrpibxrn; <<continuous>>
+-> jpmkcd;
+repeat while (xccaexrmxjxu?) is (xvis)
+if (mosfjsktbucw?) then (wqxv)
+(diew) elseif (ewdtnkm?) then (aksg)
+:pjjvjovmqb; <<continuous>>
+(qjfu) elseif (tokxfis?) then (sxee)
+:sojrdggmkw; <<task>>
+-> eihdiu;
+(norh) elseif (rolgwtv?) then (jysx)
+fork
+:unzza;
+fork again
+:dyqqmlynnt; <<task>>
+fork again
+:wgygjsrsyc; <<output>>
+fork again
+:csjxjntwmh; <<procedure>>
+fork again
+:kjrfq;
+fork again
+:ihcft;
+end merge
+(faek) elseif (ervqkfv?) then (zxnv)
+:rvmmdlzxhf;
+-> gadebb;
+(ndcu) elseif (aeoavzo?) then (rdkl)
+:sotymidjtd; <<continuous>>
+endif
+end
+@enduml

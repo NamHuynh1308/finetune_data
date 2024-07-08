@@ -1,0 +1,83 @@
+@startuml
+|1| etmxhi
+|2| isujzy
+:tflosvzgov;
+|2|
+if (ibbqqsmhysbd?) then (lwtd)
+:ufbtqbgxij; <<continuous>>
+-> dfroew;
+fork
+:mudfe;
+fork again
+:gsmcgfwdmw;
+fork again
+:bpbliybrkc; <<save>>
+-> bsyens;
+fork again
+:tshroucgaf; <<continuous>>
+-> amfwxt;
+fork again
+:zzwor;
+end fork
+kill
+else (kihg)
+switch (nuscsldpdyrh?)
+case (zhhdmql?)
+:idpnmbvywu; <<continuous>>
+case (nbsawot?)
+:gcgehqqtcb; <<procedure>>
+case (mvqtfam?)
+:ovdgqndsap;
+case (lfpfnqg?)
+:esbsb;
+endswitch
+:ifwcnjmacf;
+endif
+fork
+:fvxam;
+fork again
+:zoitznvebf; <<continuous>>
+fork again
+while (kjkcecuxqcmo?) is (bvee)
+backward:uqwfdl;
+backward:bskixb;
+:iyjvnzfikf;
+:fbevwiqyyo; <<output>>
+-> flznmw;
+endwhile (ctls)
+:mpyowhjk;
+fork again
+while (nkadbhkhnhzt?) is (gljh)
+:lueqc;
+endwhile (ylnp)
+:iklrglhx;
+end fork
+fork
+:zsysf;
+fork again
+:ljwstffiwq; <<task>>
+fork again
+:ecnmwonmee;
+fork again
+:ocfbozqoqk;
+end fork
+split
+:ygwkd;
+split again
+if (qnfldfuhgilr?) then (tloo)
+(nbyv) elseif (xrqwswj?) then (lvfx)
+:otvvpcpkri; <<continuous>>
+(sqxm) elseif (mxfcctl?) then (vzxx)
+:xdneyzxewp;
+-> dufjsw;
+(drmc) elseif (kixeynx?) then (ckca)
+:uowulagvge;
+(zemz) elseif (gygzqhv?) then (jtxh)
+:esadzxaway; <<continuous>>
+(cxaa) elseif (phfdzgw?) then (yhtt)
+:bmgsg;
+endif
+split again
+:escysmbuif; <<input>>
+end split
+@enduml

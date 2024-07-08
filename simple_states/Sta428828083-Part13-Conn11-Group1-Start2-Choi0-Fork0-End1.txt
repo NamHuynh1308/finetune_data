@@ -1,0 +1,17 @@
+@startuml
+hide empty description
+state teaevi
+[*] --> teaevi : ixgnv
+teaevi --> ejqhlu : rxvzb
+ejqhlu --> bcgkbl : dmjqt
+bcgkbl --> upwywg : vsqim
+upwywg --> ubqtxr : xvrfy
+ubqtxr --> fcwhks : orwux
+state fcwhks {
+[*] --> iaelmw : xhzaq
+iaelmw --> ieqisx : hjqwo
+ieqisx --> [*] : xozkh
+}
+fcwhks --> ynbofk : teaig
+ynbofk --> ezedpe : rpmgq
+@enduml

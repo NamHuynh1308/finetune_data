@@ -1,0 +1,38 @@
+@startuml
+start
+group fihpzp
+if (hxfeabvljrdc?) then (uhtu)
+(vkxn) elseif (fzaxsda?) then (wqdn)
+:mikrqzfeqm; <<save>>
+-> wdvjde;
+(knpx) elseif (oceebzr?) then (azva)
+if (jotgibzxxoeh?) then (qwbj)
+:dsvlnkzqwf;
+:fojat;
+else (ispe)
+:nnqiijdnqk; <<save>>
+-> krcmbc;
+:rudwikmabu; <<input>>
+:utmwpokcqw; <<load>>
+:hhpejvxffe;
+:ffxmwmlbuj; <<procedure>>
+endif
+(yflx) elseif (itbczlj?) then (yudz)
+fork
+:mhakj;
+fork again
+:hethfnmfha; <<output>>
+-> jhhhsg;
+fork again
+:fdyti;
+fork again
+:hblvvmhjdn; <<task>>
+fork again
+:swrko;
+end merge
+(bzmx) elseif (lypffxl?) then (dkku)
+:zhwmiiedgs; <<continuous>>
+endif
+stop
+end group
+@enduml

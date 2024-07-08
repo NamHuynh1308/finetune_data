@@ -1,0 +1,154 @@
+@startuml
+|1| rjxbrk
+|2| qtvigb
+|1|
+start
+|2|
+repeat
+:fwjcdr;
+if (wozdyxi) then (cgcw)
+:czamna;
+break
+endif
+->escd;
+:fxvfwf;
+backward:bxcskp;
+if (opoiamewvesx?) then (ejtv)
+:hwsty;
+:tqlyektwdi; <<output>>
+-> xugzld;
+:moxhw;
+:sizqlpeoee;
+:dngnryftnq;
+else (fwvc)
+:mphtaaszuq;
+:yudeirmygm; <<continuous>>
+while (ywftcukynzaq?) is (pwni)
+:xiwnt;
+:hvvxcuyzbm; <<continuous>>
+-> elvyrg;
+:uyjoneqkcu;
+:jodug;
+backward:mwodsr;
+endwhile (eaxi)
+-[hidden]->
+detach
+endif
+repeat
+:swniaw;
+if (mefobjc) then (pjvr)
+:ghiomc;
+break
+endif
+->tflg;
+:yeeptn;
+:bpslqk;
+repeat while (xbmvklfvnido?) is (gtuq)
+backward:ufabue;
+repeat while (wseqbgejxmqx?) is (hkhf)
+|1|
+:jwacjcsmti; <<procedure>>
+-> vmbjdc;
+|2|
+repeat
+fork
+:tuett;
+fork again
+:fgpbkf;
+kill
+fork again
+:deiafjgvkk; <<task>>
+-> wevfcl;
+fork again
+:qtplgodbor; <<save>>
+fork again
+:ulmfjdnfod;
+fork again
+:catjm;
+end merge
+repeat
+backward:wjzmud;
+repeat while (dyvvmfijpppa?) is (lqnb)
+if (hyqvpvyrzjvm?) then (udqh)
+:yknallnyum; <<procedure>>
+-> qtmkxi;
+:rnlvr;
+:trtfr;
+kill
+else (vnjh)
+:qpwem;
+endif
+repeat while (fidldjotqafs?) is (ecqs)
+|1|
+:ahdsdtfohj; <<output>>
+:lzorpncuct; <<continuous>>
+split
+:nstxk;
+split again
+:okzmwinpbx; <<load>>
+-> quzxai;
+split again
+fork
+:zizrd;
+fork again
+:tsbcmwbrtz;
+-> oyznay;
+fork again
+:midlnzxfne; <<output>>
+end fork
+split again
+split
+:fggsn;
+split again
+:ecjkq;
+split again
+:gdeturttuf; <<procedure>>
+split again
+:wotgjmweuz; <<save>>
+split again
+:ixtbf;
+end split
+end split
+if (atkhbftmzwrq?) then (jlkj)
+:pzvcilzgxq; <<input>>
+-> jsvvvf;
+fork
+:bniow;
+fork again
+:mtjqrckump; <<continuous>>
+-> rgoysi;
+fork again
+:ddtuc;
+fork again
+:aotrhajqnf; <<load>>
+-> qdkbpq;
+fork again
+:odpriqpfnu; <<input>>
+end merge
+:njsskjwvui; <<task>>
+-> lealun;
+while (pqncsbrhrgsu?) is (bywa)
+backward:kvmhxu;
+:fgmjxhlwwa;
+:vnwixhvkna; <<save>>
+:osjnghcetk; <<input>>
+:pbblz;
+endwhile (enom)
+:uaaiyoxr;
+:tbkuvmugyy;
+else (wfrk)
+:olqnmbrtci; <<input>>
+-> alrrjb;
+:mfrsoyebdk; <<procedure>>
+-> pqpoqg;
+:hufytsrhhb; <<procedure>>
+while (nrermkkmcmtc?) is (jepa)
+:fyxwmznlox; <<output>>
+endwhile (jgen)
+-[hidden]->
+detach
+endif
+:pvhhezlxld; <<input>>
+-> hhgens;
+stop
+@enduml

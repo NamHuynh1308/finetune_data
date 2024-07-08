@@ -1,0 +1,6 @@
+@startuml
+start
+:bbptriihtk; <<input>>
+-> kejaok;
+end
+@enduml

@@ -1,0 +1,50 @@
+@startuml
+state "pacfs" as 0 {
+[*] --> ogvauq : jsgfq
+ogvauq --> jpncvc : cljlh
+jpncvc --> iiojcs : clhfi
+iiojcs --> wqkagd : pyodk
+wqkagd --> cvpdpx : ffbir
+cvpdpx --> [*]
+}
+state "skjii" as 1 : mkjlqyogfb
+state 2 <<fork>>
+state "nuzqh" as 3
+state 4 <<end>>
+state 5 <<start>>
+state 6 <<fork>>
+state "lenia" as 7
+state 8 <<end>>
+state 9 <<start>>
+state "cfplx" as 10
+state 11 <<end>>
+0 --> 7 : npfcxo
+0 --> 0 : ouquur
+5 --> 0 : gbjkcx
+1 --> 4 : empssf
+1 --> 10 : zbexmw
+9 --> 1 : rrhjmr
+9 --> 2 : fahnvp
+2 --> 4 : vcqewj
+5 --> 2 : emzewh
+10 --> 2 : kmhuuc
+3 --> 7 : sjzimj
+3 --> 8 : bjlika
+10 --> 3 : ggccvi
+7 --> 4 : znqclc
+5 --> 6 : cvoyno
+2 --> 6 : wacesy
+6 --> 10 : lznydy
+3 --> 6 : orrklq
+5 --> 6 : tsuoox
+1 --> 6 : pideiu
+7 --> 11 : qqemhc
+1 --> 7 : lxzekx
+3 --> 7 : biewkp
+10 --> 8 : ratzxu
+9 --> 8 : eipfpk
+10 --> 8 : kmtvyh
+10 --> 7 : fyijjc
+5 --> 10 : faujrv
+6 --> 11 : ocrcmd
+@enduml

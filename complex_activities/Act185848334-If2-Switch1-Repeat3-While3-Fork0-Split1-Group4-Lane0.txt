@@ -1,0 +1,95 @@
+@startuml
+split
+:umebd;
+split again
+if (rohrxpomadfg?) then (emir)
+(xfxo) elseif (gssolew?) then (agum)
+:ezcjay;
+while (orwitfvnzqoy?) is (swkg)
+:scnrq;
+:uielfokrdg; <<input>>
+-> qreopj;
+:obmqkqzywo; <<output>>
+:deeefdlbiu; <<procedure>>
+endwhile (zohw)
+-[hidden]->
+detach
+(tsqm) elseif (gxuqbai?) then (xxip)
+:xoaaf;
+(cfxa) elseif (bixwsvx?) then (acne)
+:wiiox;
+(mysx) elseif (ouygewv?) then (qxvb)
+:uygjz;
+(gxxd) elseif (lnblpvj?) then (xwgl)
+:fezxyyvoix; <<load>>
+endif
+split again
+:kcipzdtkyx; <<procedure>>
+split again
+:bpicqxrzdv; <<load>>
+-> befixa;
+split again
+:dxvesfrbgv;
+-> cynxhe;
+split again
+:stsuowuese; <<save>>
+end split
+switch (qyocdwbskvku?)
+case (tsvvrqc?)
+:urgzmkdhqw; <<input>>
+case (zgnfidp?)
+:bhwvayizjc;
+-> pgdejf;
+case (krwoeyp?)
+:sqhhnpxwxm;
+case (doersmm?)
+repeat
+:nwvzy;
+:wjljpl;
+if (pbbgeya) then (tnbv)
+:pjnrwb;
+break
+endif
+->fksr;
+:frnwba;
+:hqovn;
+repeat while (objjsevxpokx?) is (kmpy)
+-> rmnfgc;
+endswitch
+group xpvqgc
+while (pqdcsngtaccu?) is (yefo)
+repeat
+:zakno;
+:amnanjxlrc;
+repeat while (dtglvefgamwh?) is (vexv)
+backward:fpfbfr;
+endwhile (ggtp)
+:tmtozktn;
+group scnbzk
+:jtywpvrrly; <<input>>
+group olzjfp
+:cfgfahggej;
+-> oowxiq;
+group frjmab
+repeat
+backward:yxqnek;
+:trnpxjunjv; <<input>>
+repeat while (peslqwhvukxq?) is (tmgv)
+:xqvjktwhzk; <<procedure>>
+end group
+while (vyzqutwduirr?) is (sfim)
+if (ydqlemwusxjm?) then (lqtq)
+(lyis) elseif (dftdryo?) then (hdvv)
+:kqdlu;
+(wuiw) elseif (rykkeml?) then (tkza)
+:rfclifvahk; <<load>>
+endif
+backward:dzymix;
+backward:zhylom;
+endwhile (bjep)
+:hsbmgaiq;
+end group
+stop
+end group
+end group
+@enduml

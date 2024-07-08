@@ -1,0 +1,47 @@
+@startuml
+hide empty description
+state kvxgvz
+kvxgvz --> ymjpmh : zdvby
+ymjpmh --> brsljn : gphca
+brsljn --> yfgozr : yiwhm
+yfgozr --> lnnjwc : zxysu
+lnnjwc --> ngeatc : xwiiy
+state ngeatc {
+ycdthm --> mghhgk : jebfx
+mghhgk --> rngoed : hfdvm
+}
+ngeatc --> cmxwgn : eynaw
+state cmxwgn {
+[*] --> nulelp : dyemo
+nulelp --> sjhxxr : cnqqy
+}
+cmxwgn --> nhfmin : vfild
+state nhfmin {
+[*] --> auwfmy : pnunb
+auwfmy --> lsjvjh : ucsnx
+lsjvjh --> [*] : qmwiw
+}
+nhfmin --> pyyxwb : xwmjp
+pyyxwb --> qhjbud : kadyj
+qhjbud --> zworwq : iuumm
+zworwq --> wowtbi : hnymk
+wowtbi --> lvkvwj : oconc
+state hhssmk <<fork>>
+lvkvwj --> hhssmk : uiklz
+state bwfrqx <<join>>
+hhssmk --> plsmok : gdgu
+plsmok --> rgngmh : pvwtu
+rgngmh --> tqzlcz : rkqkt
+tqzlcz --> rzvcgt : gqoap
+rzvcgt --> bwfrqx : poimnmy
+hhssmk --> kngljh : rvbx
+kngljh --> mnhvqn : fxgqg
+mnhvqn --> apxpuu : qcaea
+apxpuu --> vkqgsq : jdwre
+vkqgsq --> bwfrqx : abezmnh
+hhssmk --> oogmfw : ovoo
+oogmfw --> xitgbu : vfsqr
+xitgbu --> duekjc : tjoml
+duekjc --> bwfrqx : nwsigtf
+bwfrqx --> [*] : xqnty
+@enduml

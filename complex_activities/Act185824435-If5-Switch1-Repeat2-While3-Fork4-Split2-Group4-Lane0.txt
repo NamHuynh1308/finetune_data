@@ -1,0 +1,144 @@
+@startuml
+start
+group wfauew
+if (kdqpgmbfkjnk?) then (wdvi)
+:rtxsvwmvfl;
+-> tfrttc;
+:pbmyjlfyii; <<continuous>>
+:zdgluctlin;
+else (edyy)
+:mbogcyvzoa;
+-> pytenf;
+endif
+group tccgpm
+if (ctoocyaubrpc?) then (jwuk)
+(lfga) elseif (ivprkyj?) then (oskr)
+:bzkhiqpzyl; <<save>>
+(sacm) elseif (zqarttd?) then (zwlv)
+:hgzrijbkrj;
+-> aftoxk;
+endif
+fork
+:vdtad;
+fork again
+:nptjakleua; <<continuous>>
+fork again
+:cslqnlmhhv; <<output>>
+fork again
+fork
+:vvtjd;
+fork again
+:lvhanwhmkx; <<continuous>>
+fork again
+:vpyrxp;
+kill
+fork again
+:gpuvy;
+end merge
+end fork
+end group
+group hhthxn
+:zkohowivbu; <<procedure>>
+if (ztoqldqxroue?) then (swry)
+:mhsqjnxczy; <<load>>
+fork
+:kxrce;
+fork again
+:riegz;
+fork again
+:ylkgu;
+end fork
+:gbgihujxgz; <<save>>
+:mekbnstfhr; <<output>>
+-> kbwwqg;
+else (vhru)
+:phrstpqxnh; <<save>>
+-> avvohw;
+:svrjdpetse; <<load>>
+repeat
+backward:witkdz;
+:bjdlr;
+repeat while (pvdynmnleaec?) is (emep)
+-> yahphf;
+repeat
+backward:chmbkq;
+:lcebk;
+:ndqqfrwhqv; <<task>>
+:aabev;
+repeat while (akrqjcffgtda?) is (ojhy)
+-> fjaqdz;
+while (vzedhamezetc?) is (zfcs)
+if (rnzokznanutb?) then (bxyw)
+(yqiy) elseif (jowrbpq?) then (mbsf)
+:ejdng;
+(sjyi) elseif (jxsooko?) then (fzvx)
+:qqtnn;
+endif
+endwhile (lrjm)
+-[hidden]->
+detach
+endif
+:sxecfumkpe; <<save>>
+end group
+group ixdayj
+fork
+:ptamq;
+fork again
+split
+:sawdl;
+split again
+:cothp;
+split again
+:eubdz;
+split again
+:heptg;
+split again
+:ohonr;
+split again
+:hvqrf;
+end split
+fork again
+while (nifdrhxdkbtx?) is (cduw)
+backward:mgyvrm;
+:arsznfldkk; <<continuous>>
+endwhile (qeae)
+:xauhwuef;
+end merge
+switch (misfqsjnyhzx?)
+case (zoayftb?)
+:pkfueupdao;
+-> bbynjz;
+case (hywrhzc?)
+split
+:jxaxa;
+split again
+:pmffcbfyie;
+-> wrhgak;
+split again
+:goynfiomsn; <<load>>
+split again
+:bcfzyr;
+while (ueemlhxpccoi?) is (fvbc)
+:ofqpb;
+endwhile (nqfj)
+-[hidden]->
+detach
+end split
+case (cpvtoci?)
+if (zdbezdumeooy?) then (yqup)
+(onmw) elseif (nswdzed?) then (wtya)
+:zwkdihhsog;
+(uvvm) elseif (kmzcsrl?) then (mriv)
+:kpldv;
+(nxbe) elseif (dbqrzpb?) then (wafg)
+:slsfajumkg; <<continuous>>
+(wgtr) elseif (wrjspse?) then (mgmg)
+:xxpvnfokxv;
+(cnem) elseif (mqrwvce?) then (lakt)
+:spdje;
+endif
+endswitch
+stop
+end group
+end group
+@enduml

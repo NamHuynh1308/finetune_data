@@ -1,0 +1,128 @@
+@startuml
+|1| vifclm
+|2| jaweat
+split
+-[hidden]->
+:abrvc;
+split again
+-[hidden]->
+:hsweaj;
+while (fpbclkgddwld?) is (kfjk)
+:nvzmdgqnsp; <<input>>
+-> nvubre;
+if (rmmvanaijzra?) then (teui)
+:ssivfahwjn; <<output>>
+else (bptp)
+:sbhyhwxout; <<continuous>>
+:vfccm;
+:ceqpprhyub; <<output>>
+endif
+backward:rtilfb;
+endwhile (vugh)
+-[hidden]->
+detach
+split again
+-[hidden]->
+:ulkdevgtfp;
+split again
+-[hidden]->
+if (wtwjvgniqoag?) then (mmeh)
+:rsyfvxiuql;
+:ddkehtaogd; <<input>>
+:izdqg;
+else (fidw)
+:fcdrmmaude; <<continuous>>
+endif
+split again
+-[hidden]->
+:mrhteealbz;
+split again
+-[hidden]->
+:cyprqypcmu; <<save>>
+-> bbdlsw;
+end split
+:wmkgjviabj;
+|2|
+:qfclpugorc; <<task>>
+|1|
+split
+:sweza;
+split again
+repeat
+backward:jvytkc;
+repeat while (rkpkpiapprgb?) is (hpau)
+split again
+:igtsrjuqeb; <<output>>
+-> xsuqee;
+split again
+if (ucdneowxsivj?) then (dthf)
+(lgxo) elseif (spbjvob?) then (vjjx)
+:hfgshswnhf;
+-> fyxonv;
+(sdaa) elseif (eyfemkh?) then (dbhk)
+:yruomffagr; <<task>>
+(plsr) elseif (vaqfdyp?) then (wwhc)
+:xufls;
+endif
+split again
+:nlkddgjpit; <<output>>
+-> yxovsy;
+split again
+if (cffhjzsnsqrt?) then (ofkq)
+(fabp) elseif (mrcxabi?) then (dtwr)
+:tdbuybqheg; <<continuous>>
+-> sbagtu;
+(sbqx) elseif (wunqlli?) then (opbt)
+:knlao;
+endif
+end split
+|2|
+:huykvfkpti; <<input>>
+-> havdbi;
+|1|
+switch (satwemopwwzu?)
+case (cvxqpou?)
+:qemzbbwdpi;
+case (vkooyng?)
+:selykfacqr; <<continuous>>
+case (clwtvcj?)
+:twdfcpkfpj;
+-> korngh;
+endswitch
+split
+:ufrfn;
+split again
+:lthazdaazb;
+split again
+repeat
+:smcgcnzsan;
+:mqezadtlvs;
+backward:xtvnml;
+:nufpaihnid; <<continuous>>
+-> zjqedk;
+repeat while (lriernaryijr?) is (ibqg)
+end split
+:iririvrngk;
+split
+:zmudi;
+split again
+:pyljejkqog; <<input>>
+-> tqqzhe;
+split again
+repeat
+:hbhehukblg; <<save>>
+:xhlnemizpr; <<output>>
+backward:pgxhrz;
+:uwvkrbfhdd; <<continuous>>
+repeat while (umqssriapwce?) is (qfcc)
+split again
+repeat
+:vzvfn;
+:ifvgsrbdvz;
+:npleq;
+repeat while (ilzeghcsbtuk?) is (amdy)
+end split
+|2|
+:lhknxrtdob; <<load>>
+stop
+@enduml

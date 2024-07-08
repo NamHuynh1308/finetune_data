@@ -1,0 +1,135 @@
+@startuml
+group fsvxfd
+fork
+:onyzp;
+fork again
+split
+:yklvd;
+split again
+:qilnx;
+split again
+:lhngslivys; <<load>>
+split again
+:idect;
+end split
+fork again
+:ocrxqomxjr;
+-> vzmlwg;
+fork again
+fork
+:hnndl;
+fork again
+:jftcu;
+fork again
+:ajvxnabqkk;
+fork again
+:zoyjq;
+fork again
+:wopge;
+fork again
+:plqmyivpqw; <<output>>
+-> ttplyz;
+end merge
+end fork
+:stzgergmvs; <<load>>
+end group
+repeat
+:llvdqlrler;
+:nezruxwqmb;
+-> fjkslh;
+:vqvvpnkrcp; <<save>>
+:dwerzysjnc;
+repeat while (xrkxydrulram?) is (ydwy)
+split
+:rogst;
+split again
+:lmdqmgdwfd; <<load>>
+split again
+repeat
+:btqbgi;
+if (pqiwmyc) then (txhy)
+:bfnmjh;
+break
+endif
+->iwpt;
+:wtwkjs;
+backward:dfceta;
+:bjznh;
+:meyrh;
+:gebekqsuqd; <<output>>
+repeat while (kvsijiclnysn?) is (gkzq)
+split again
+:anvytfsfcl; <<output>>
+split again
+:lxposuhhoq; <<continuous>>
+end split
+fork
+:lwsic;
+fork again
+while (cidtmoeuzyyp?) is (qdsc)
+:dfcxl;
+endwhile (vprt)
+:xarxlhom;
+fork again
+while (xtttrfhbkrpm?) is (uzvs)
+backward:qyzpit;
+backward:xzmpgb;
+:pjmuopoiif; <<task>>
+-> ojijce;
+backward:zitptj;
+endwhile (gack)
+:tfykwqhk;
+end merge
+while (qmvuepbvwqno?) is (aqmk)
+backward:zjiqua;
+:lzikvhqmvx;
+backward:uoxjrb;
+endwhile (ialc)
+:yhyxdbfh;
+if (aqhztaemcnyg?) then (xtpw)
+:cssafrinaz;
+if (pftqkjncpvdv?) then (hvbt)
+:dwwgsegnuv; <<output>>
+:cjhfa;
+:hdxuh;
+while (eleympxncxwo?) is (jdzw)
+:ogodhkbwqz; <<load>>
+-> dflpze;
+:uqktd;
+backward:njunba;
+endwhile (hswr)
+-[hidden]->
+detach
+else (srga)
+:laivf;
+endif
+:baypwdwzom; <<input>>
+-> yloaro;
+:tkjlqpkrqh;
+:qusbsxquul; <<procedure>>
+-> sabxpp;
+else (bvxj)
+:qcyejvqueb; <<task>>
+repeat
+backward:ubudbd;
+:chrhe;
+:tvkqy;
+:vkviqwihlm; <<task>>
+-> bwybvi;
+backward:pqpawu;
+repeat while (vwahdxyyofjt?) is (uzfi)
+if (maqtzltgahdl?) then (kcpd)
+(selq) elseif (kvinuiq?) then (qzof)
+:fbwogkyubi; <<continuous>>
+(bvik) elseif (gaiewnd?) then (xdcw)
+:sslovxoczq;
+-> uuemus;
+(oxpl) elseif (suwduhz?) then (nqec)
+:ebzpx;
+(sjqs) elseif (ajyncue?) then (xqqa)
+:ckuxdgwrpp; <<procedure>>
+endif
+endif
+:gyuxyudqji; <<procedure>>
+end
+@enduml

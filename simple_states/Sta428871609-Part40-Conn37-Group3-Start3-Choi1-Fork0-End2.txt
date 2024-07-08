@@ -1,0 +1,48 @@
+@startuml
+hide empty description
+state webfrk
+[*] --> webfrk : khmca
+webfrk --> tljqdn : vfhhx
+tljqdn --> hdnuum : houxe
+hdnuum --> ssxoqf : evtck
+state ssxoqf {
+sjjxii --> tanswd : mmomm
+tanswd --> ermwck : ksuww
+ermwck --> pfbmuo : difif
+}
+ssxoqf --> mdqgym : axkmo
+mdqgym --> eeupyu : pazal
+eeupyu --> eddagm : ynows
+eddagm --> ahocok : hupjw
+ahocok --> vqecxt : ydhxo
+state vqecxt {
+[*] --> bvlbeu : sfnoe
+bvlbeu --> pxukxu : wobfp
+pxukxu --> nhbxnb : ppfkc
+nhbxnb --> [*] : ecdiq
+}
+vqecxt --> qylnbw : klxkj
+state qylnbw {
+[*] --> ygauza : xston
+ygauza --> fwgqbs : kjakn
+fwgqbs --> lyppsz : ggtgr
+lyppsz --> [*] : qckkj
+}
+qylnbw --> fciqhh : rxgmi
+fciqhh --> yrjjpl : mkhpx
+yrjjpl --> yrgtqx : qrzgd
+yrgtqx --> wneeay : qpuut
+wneeay --> utohsj : jmdnh
+utohsj --> mqykck : cbuum
+state virbrz <<choice>>
+mqykck --> virbrz : oaavm
+virbrz --> zmfeoi : bdey
+zmfeoi --> woyasp : rfmro
+woyasp --> zkoocc : ftcqh
+zkoocc --> qcywnh : bpwdp
+qcywnh --> vojiei : mpsvkbs
+virbrz --> obwvit : nxdc
+obwvit --> gyzmxo : aqmcw
+gyzmxo --> pegkji : mkkuz
+pegkji --> vojiei : ietrsns
+@enduml

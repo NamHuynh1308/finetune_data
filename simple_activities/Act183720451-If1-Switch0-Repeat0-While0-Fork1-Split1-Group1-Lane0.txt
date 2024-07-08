@@ -1,0 +1,38 @@
+@startuml
+start
+:tptjzllcwp; <<procedure>>
+group wsfegl
+fork
+:kfety;
+fork again
+if (qsfvqlfkttgp?) then (tzsr)
+:cjizvfiysk; <<output>>
+:sulwdgvxfy; <<output>>
+-> ntywgj;
+:xzcvpxakkv; <<save>>
+kill
+else (xuwz)
+:wcrczttfum;
+:gjmsk;
+endif
+fork again
+split
+:padsr;
+split again
+:rsqkpevvue; <<output>>
+-> rwelzf;
+split again
+:eofucqtont;
+-> dzshdc;
+split again
+:axnqi;
+end split
+fork again
+:mskjkhyqcj; <<procedure>>
+-> vfggvn;
+fork again
+:qzhvyerscv;
+end fork
+stop
+end group
+@enduml

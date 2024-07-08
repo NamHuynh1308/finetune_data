@@ -1,0 +1,66 @@
+@startuml
+hide empty description
+state kgryav
+kgryav --> gkhfoi : zpknd
+gkhfoi --> eopkyi : xrnts
+eopkyi --> ttyujh : yiecp
+ttyujh --> bklast : xwkga
+bklast --> oifrng : eotpm
+state oifrng {
+zbfopq --> egemgd : yhwyo
+egemgd --> dwfitu : gbndt
+dwfitu --> jvhwgw : yoqdt
+}
+oifrng --> ewuchu : uemzw
+ewuchu --> ucrkzs : vlgwb
+ucrkzs --> njfdjl : gdfwf
+njfdjl --> smquyc : yoetz
+state nuowjx <<fork>>
+smquyc --> nuowjx : oscgw
+state wxppho <<join>>
+nuowjx --> ehuvqa : ctyb
+ehuvqa --> qnjdvh : shdbg
+qnjdvh --> mahhet : htcwk
+mahhet --> wxppho : zsqtsjv
+nuowjx --> zlllrp : hobn
+zlllrp --> ieegmi : kxbag
+ieegmi --> koylzd : cvbbr
+koylzd --> vkjobd : yhgbz
+vkjobd --> wxppho : hmkrlre
+nuowjx --> etkdwa : krpa
+etkdwa --> etivdv : cwqkm
+etivdv --> xcbjzk : jvtad
+xcbjzk --> hnjvml : wfhtx
+hnjvml --> wxppho : tsssuma
+state ckybvj <<fork>>
+wxppho --> ckybvj : zuyyw
+state krlxvz <<join>>
+ckybvj --> qcteih : zfbt
+qcteih --> khqtwf : ggdpz
+khqtwf --> krlxvz : qavrdgz
+ckybvj --> sibvox : mkye
+sibvox --> mavtpd : tlcxg
+mavtpd --> krlxvz : tjhzgqo
+ckybvj --> fexfcy : gupe
+fexfcy --> xtmjfq : kusaa
+xtmjfq --> krlxvz : rphkgam
+krlxvz --> zvydup : pezhh
+state gjwhth <<fork>>
+zvydup --> gjwhth : cwgbc
+state npejfs <<join>>
+gjwhth --> ubyeso : vmfg
+ubyeso --> raobfc : lzlir
+raobfc --> uuqxmf : ppxke
+uuqxmf --> nrazwt : hspws
+nrazwt --> npejfs : vzajblr
+gjwhth --> wmorsn : sdzl
+wmorsn --> ctvhwm : fdanm
+ctvhwm --> tzicdy : ldghs
+tzicdy --> dnmkcg : dchsp
+dnmkcg --> npejfs : dgkvrxn
+gjwhth --> grpwfa : gxyy
+grpwfa --> yhcpkn : pbdss
+yhcpkn --> npejfs : nlixzja
+npejfs --> qvxppi : mrzoe
+qvxppi --> eelahw : nspnd
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+state frcrjf
+[*] --> frcrjf : kirdo
+frcrjf --> jmmuma : bnuku
+jmmuma --> jczlsp : zhwof
+jczlsp --> zoopyk : subdy
+zoopyk --> knekvg : xenmn
+state knekvg {
+[*] --> ogbtzg : sgfds
+ogbtzg --> cknaqv : yivrm
+cknaqv --> [*] : gsbty
+}
+knekvg --> [*] : mjuoa
+@enduml

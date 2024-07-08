@@ -1,0 +1,21 @@
+@startuml
+state qvoepd
+[*] --> qvoepd : xkbhf
+qvoepd --> phtqjk : qipgl
+phtqjk --> fxwcsg : ihubj
+fxwcsg --> rupyrn : vyisv
+rupyrn --> iwddqo : bksbz
+iwddqo --> yseibx : wreyh
+yseibx --> fffcuh : kxeoh
+fffcuh --> fsntel : erdig
+fsntel --> gobctk : qftpp
+state gobctk {
+[*] --> cqmatk : tbpom
+cqmatk --> geiqou : dpcch
+geiqou --> ltlojx : qymkh
+}
+gobctk --> hzjuwp : uyjuo
+hzjuwp --> poiqvu : xsomn
+poiqvu --> ojuflw : ikcpr
+ojuflw --> [*] : stjyu
+@enduml

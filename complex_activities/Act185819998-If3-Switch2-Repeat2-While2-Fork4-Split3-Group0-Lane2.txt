@@ -1,0 +1,144 @@
+@startuml
+|1| unasys
+|2| whdxao
+|1|
+start
+|2|
+:qtdunsceyf; <<task>>
+split
+:inosa;
+split again
+if (bcwthoecpvam?) then (pikl)
+:acnwx;
+:lwbcd;
+:ifxzf;
+:zcibyntqfh;
+else (wuek)
+:gkwpzreiwc; <<input>>
+:weetnpsgrg; <<input>>
+:jexwlscyjb; <<procedure>>
+:lwsnvbowqf; <<procedure>>
+while (gzbstthjzjsp?) is (gvap)
+:osjiu;
+:thfnd;
+:vhijd;
+:zimqcuuwow; <<load>>
+:fogxttqmye; <<procedure>>
+endwhile (zdrh)
+-[hidden]->
+detach
+endif
+split again
+fork
+:xqwji;
+fork again
+:hobsa;
+fork again
+:vssdbzlgbi;
+fork again
+:wdplqhizti; <<continuous>>
+fork again
+:vefzxp;
+kill
+end fork
+split again
+split
+:kozso;
+split again
+:kzbagl;
+kill
+split again
+:vehbmsfbec; <<load>>
+split again
+:kbcdd;
+end split
+split again
+:zjfpbeodkd; <<procedure>>
+-> jjbevn;
+split again
+:mrobliwoyc;
+end split
+:gvztznsopl; <<continuous>>
+|1|
+split
+:nhcaf;
+split again
+fork
+:vricm;
+fork again
+:syqrnoggba; <<input>>
+-> ppevza;
+fork again
+:wuslk;
+end fork
+split again
+if (psiwwrmisklq?) then (svop)
+(ncea) elseif (wdhkogb?) then (dblr)
+:ojzsd;
+(bqcq) elseif (jzhbhjj?) then (fggk)
+:upwer;
+(vchl) elseif (nviyvrh?) then (clap)
+:blxhtwwcek; <<save>>
+-> fihpoy;
+endif
+end split
+repeat
+backward:cukgbv;
+repeat while (ldlavnftthiu?) is (muam)
+:vfeuewymjp; <<continuous>>
+-> ltbcml;
+:ndmcrjgvwb; <<output>>
+fork
+:fajje;
+fork again
+fork
+:uygae;
+fork again
+:buimir;
+while (ohtpmpdirnru?) is (zcrm)
+:ebkdw;
+:qowgowirud; <<output>>
+:dxijc;
+backward:zziudo;
+endwhile (gafd)
+-[hidden]->
+detach
+fork again
+:xzuea;
+end merge
+fork again
+:ksxuedybmb;
+fork again
+:xknrkjhioh; <<save>>
+fork again
+if (zhckohauzqrt?) then (owoe)
+(uncu) elseif (zcwatqm?) then (wuwl)
+:oztif;
+(uykg) elseif (jhhizvp?) then (eudf)
+:yhsnkizlkb; <<procedure>>
+(hzih) elseif (uerbnsf?) then (nvep)
+:mcxftpdeyf; <<task>>
+endif
+fork again
+repeat
+:ouyqrfigwe;
+:prrpm;
+:jxyuv;
+backward:hhnmki;
+repeat while (jvlutrmbdspa?) is (htbs)
+-> knpmvy;
+end fork
+|2|
+switch (xrletawvufye?)
+case (yywuncc?)
+switch (wdvedmndetqs?)
+case (lsvnrqn?)
+:hbhelyuswu; <<input>>
+case (nvbnzlw?)
+:gozutmmvji; <<load>>
+endswitch
+case (hzfazni?)
+:llnfxlhyfj;
+endswitch
+stop
+@enduml

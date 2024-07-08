@@ -1,0 +1,161 @@
+@startuml
+box "sqarb"
+participant gzisyo as 0
+box "ohdsi"
+participant bufvnq as 1
+participant zgjapx as 2
+participant smspja as 3
+box "moraz"
+participant spiadg as 4
+end box
+end box
+end box
+== kuorbq ==
+2 -// 0: gbjzbchubp
+0 -->x 0++ : hijvbdadkj
+0 -> 3++ : jrcxfmtsul
+0 -> 1++ : wllzqvrslj
+alt yzlkwerwqcce
+0 -> 2!! : bqaoidbbmq
+...sqwagxiz...
+1 --//o 2: oqnehcrocc
+else rdauomoonnyk
+...xyumfxkh...
+ [<- 4: utnengnfrz
+return dpnqumuqwb
+else cytdxvwdrlcs
+loop pezpjkroecff
+3 ->x 0++ : mdtqeffhck
+3 <-] : xajlqntjwm
+else hturtjvmjzov
+critical ctouwkszfuzk
+4 -> 0: eohxwvjkuv
+return dxevuzbkde
+4 -> 2: ieftlusnnc
+return cwxkeaxwwz
+else gjvfvhddgxaz
+...mgwnozih...
+3 -> 0!! : jbumkwadrr
+...ediufqay...
+2 ->o 0: vjfehtvilp
+loop iyaotumispen
+4 <-] : kxepcpmikt
+ [-> 4: xzccjmyelp
+else twxkvbzanrds
+1 -> 1!! : vgyoflauao
+return zucubelokr
+3 --> 0++ : sowglinwpa
+else glfnrhgajkhv
+...coixjhid...
+2 <-] : vjmuoegpik
+0 ->o 0: oaxpspabyp
+return tjukllfrwb
+4 <-> 3: rqkwjibrla
+...rbmnnywm...
+4 -> 1++ : lmcrczvggx
+else bzcxewpfhwin
+1 ->] : cpqcjzyukh
+...fubpxcag...
+4 -> 4++ : irekndtgli
+else mgvidarnpbup
+3 ->] : ilolfsbzap
+4 --> 2: mjpnsavxse
+4 <-] : mrzteqjrha
+return egryaewllu
+else lxytucemjdop
+...huznmyho...
+2 -> 3++ : wobaprfzpa
+...kshynqmy...
+1 ->o 1: drjbgkxlxz
+else jiuhtwgvivpp
+2 -> 2++ : kevxkvjnjt
+3 -> 3: rucvsxtwie
+ [<- 4: nqcrsbjbko
+...zxsfxkic...
+1 ->x 4: efltteqgxe
+return rhviupvlfj
+...apmiamep...
+4 -// 4: gpfmniqmgj
+return dcvhjrfjai
+else tqqhhawofcik
+...sbagwxgm...
+3 -> 0: cbaydfabqy
+end
+...lzixyaav...
+1 -> 4: dqfairizva
+4 <-] : obuntnpxsa
+3 -// 1++ : lajjzqwfwo
+else loyakbccvlxr
+ [<- 4: wfsxghrsmp
+end
+alt aoicwpsyfnoj
+0 -// 0: nnevfmmkzl
+return gahwngobmi
+1 -> 1: skrhakyjja
+create participant laylbvbbbu as 5
+1 -> 5 : laylbvbbbu
+else qweqlbffhcet
+...sronnhxb...
+2 --> 1: tguxljwxky
+2 <-> 1++ : adgwvfuqtu
+break qeykeitaybpl
+0 <-> 3: udcpwuehya
+...dgdqrnbl...
+1 -> 3: xcwcusjebk
+end
+4 -> 3!! : ixkfdalxoo
+end
+4 -> 0!! : gfgxynakst
+end
+break erafxrlxqzzq
+3 -// 1++ : btofocngwp
+opt uzxujhyiaocm
+1 -// 0++ : wxpskqemvi
+2 -> 1: zyrsviavtn
+else lprssxdyhaaw
+par tkuqzuzvevnx
+0 <-] : mifbpvaaxy
+opt aenzlpimqitq
+1 <-] : wwlmzlvajk
+3 --//o 0: rycowcmzfh
+3 ->] : mmgspxzseq
+...tyyqdgdl...
+ [-> 3: hvstngsdvf
+return wujzppubwh
+...ephdctwe...
+0 -> 0: kopbbllblq
+1 -> 3: khzkzvxmxo
+else jurrxmeaveam
+0 -> 2: smwscccbuf
+else omnxrbmcggxj
+...ynjryvhk...
+1 <-> 5: rerfvwncod
+else ccbdrdpwmdrr
+opt wyuvxkjfaniz
+5 ->o 2: fdhytsrtla
+return bdcjxvaslg
+4 -> 2: hzzcvajprh
+else tposqqmytaax
+4 <-] : jtjkxyywnc
+end
+3 <-] : vkflhkiawy
+critical rkghwhwjelqo
+3 ->o 0: ubszxotstk
+return evodrsliwm
+5 -> 1++ : bgjzrkiblw
+else dkewgjvpryry
+...ursfjqqi...
+2 ->> 5: iqtqhfkulr
+return hmwjbxuwuf
+5 -> 1++ : tnvdhlykcz
+4 -> 0: quwndtfsnz
+else dumsynitkkbr
+end
+end
+end
+end
+end
+end
+return lleeigirzm
+return cxxbpnpoip
+@enduml

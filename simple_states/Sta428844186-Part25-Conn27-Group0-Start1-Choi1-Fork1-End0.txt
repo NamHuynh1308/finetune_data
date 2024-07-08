@@ -1,0 +1,33 @@
+@startuml
+state ubelpy
+[*] --> ubelpy : rtuwm
+ubelpy --> qrglcz : imxzw
+qrglcz --> vittop : llcch
+state ffavqq <<choice>>
+vittop --> ffavqq : ghugp
+ffavqq --> gdjycq : qcyr
+gdjycq --> bozrbp : heprs
+bozrbp --> wzlwyk : flsvgyv
+ffavqq --> kbrthr : gcob
+kbrthr --> knnguu : oyaqz
+knnguu --> wfxdzf : fctgd
+wfxdzf --> oljslq : ymwff
+oljslq --> wzlwyk : qjqjajk
+ffavqq --> alotui : akps
+alotui --> wfvtmn : mxbtm
+wfvtmn --> sthetd : qzcqk
+sthetd --> wzlwyk : jgootjf
+wzlwyk --> femqqb : fvxcs
+state zqiesv <<fork>>
+femqqb --> zqiesv : skdap
+state zwavlw <<join>>
+zqiesv --> pjdxrn : crzz
+pjdxrn --> zipduz : yixdk
+zipduz --> xsrwwe : ylfpq
+xsrwwe --> hjiode : jjmym
+hjiode --> zwavlw : dvnmter
+zqiesv --> adsgze : bgap
+adsgze --> kyxhnx : pcpus
+kyxhnx --> zwavlw : itseily
+zwavlw --> mhmmlb : vgopl
+@enduml

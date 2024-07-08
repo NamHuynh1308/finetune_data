@@ -1,0 +1,52 @@
+@startuml
+hide empty description
+state rzyvqr
+[*] --> rzyvqr : ukwdh
+rzyvqr --> owspxi : vtsvg
+owspxi --> mngboa : rbcpd
+mngboa --> lrwwcg : lovox
+state lxlvta <<fork>>
+lrwwcg --> lxlvta : ebnph
+state gkmbfl <<join>>
+lxlvta --> yjdaux : kixu
+yjdaux --> fcrtgh : ygvie
+fcrtgh --> ulbxzz : olxbm
+ulbxzz --> varnru : xwxbj
+varnru --> gkmbfl : rbgkehz
+lxlvta --> wfvupn : zuvf
+wfvupn --> dlvwfr : sohqp
+dlvwfr --> omefzi : cudul
+omefzi --> saqvmn : kxqie
+saqvmn --> gkmbfl : fnrgqas
+state hcfhdn <<choice>>
+gkmbfl --> hcfhdn : socro
+hcfhdn --> ewrwlo : esfm
+ewrwlo --> adsdnq : yceuq
+adsdnq --> jadpgx : rorkz
+jadpgx --> owmtss : sodmoyk
+hcfhdn --> aqfycv : ueaj
+aqfycv --> yxopky : mhrjm
+yxopky --> gkfbvt : joxnc
+gkfbvt --> owmtss : gtyupjh
+hcfhdn --> xtoxjb : xxof
+xtoxjb --> fgnydy : fsnjw
+fgnydy --> owmtss : gejfhhl
+owmtss --> wpbuiu : pxadw
+wpbuiu --> lqgyys : sxylw
+lqgyys --> fmghqx : dezqm
+fmghqx --> phsaka : btqns
+state hqfedt <<fork>>
+phsaka --> hqfedt : blgvb
+state xtutna <<join>>
+hqfedt --> vdcuql : maoc
+vdcuql --> bchwqf : gjmrn
+bchwqf --> xtutna : yjhrnfw
+hqfedt --> svnqbw : iafx
+svnqbw --> lsugcf : neamw
+lsugcf --> xtutna : gkmgvkl
+hqfedt --> ushzeu : btuy
+ushzeu --> cxjsdj : sghqy
+cxjsdj --> nckhpj : mdeee
+nckhpj --> cixbfj : uexdj
+cixbfj --> xtutna : nbtyonu
+@enduml

@@ -1,0 +1,72 @@
+@startuml
+|1| alldfa
+|2| ymspjc
+:seavyuvcys;
+repeat
+fork
+:yooil;
+fork again
+:yjqakdyosf; <<procedure>>
+-> iwsayy;
+fork again
+:foijvmhqyz; <<task>>
+-> lyszqg;
+fork again
+:cywdjawoxd;
+fork again
+:ngkipvwrcr;
+end fork
+:zlpreb;
+if (hutcrrg) then (urha)
+:qbzeky;
+break
+endif
+->woit;
+:iqupmu;
+repeat while (rhyngowsaxjv?) is (ilxp)
+-> pdfqgm;
+|2|
+:umyvsetznb;
+-> mhmijt;
+:dbsscegoqe; <<task>>
+while (xhupmmwwonwf?) is (ylns)
+switch (ojytfuvmafjc?)
+case (zsqoqro?)
+:rjevuvxzov; <<continuous>>
+case (szdfirn?)
+:fgtar;
+endswitch
+split
+:pfytv;
+split again
+:uwysd;
+split again
+:bqhaayglzz;
+end split
+endwhile (hdif)
+:zszpztcq;
+switch (pchgfienbvdl?)
+case (uxjgelr?)
+:fxulfquukb; <<continuous>>
+case (hrzvcru?)
+:nvrjrxblbb;
+case (dnarfwt?)
+split
+:szpdt;
+split again
+:ocakw;
+split again
+:jhxvl;
+split again
+:wvczpsnxsg; <<task>>
+end split
+case (bamqwfo?)
+:gjshqlxusg;
+endswitch
+|1|
+:nncdwjscxy; <<load>>
+:dpmbnmkyej;
+|2|
+:dvcwtmdtoh;
+stop
+@enduml

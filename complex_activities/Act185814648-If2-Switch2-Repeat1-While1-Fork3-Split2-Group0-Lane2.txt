@@ -1,0 +1,139 @@
+@startuml
+|1| cmztgc
+|2| kcvdtu
+|1|
+start
+fork
+:dukpz;
+fork again
+:oannkzdelw;
+-> zhbwnn;
+fork again
+:xpsbwukhaq; <<input>>
+fork again
+:hilesayzgu;
+fork again
+:efebcodsdu;
+fork again
+:tstxqp;
+kill
+end merge
+|2|
+if (rgkahcelaiuz?) then (qzwf)
+:ddnplotmes; <<continuous>>
+:gpojjopwzs;
+else (bjej)
+:nlqcyxkwcg;
+-> sxrypl;
+:olrhhfacma; <<load>>
+:jkjymltloo;
+-> psflft;
+:rzedhmhxbk; <<continuous>>
+kill
+endif
+split
+:seuia;
+split again
+:iekpjffxfp; <<procedure>>
+-> orwwvg;
+split again
+switch (iarflrhrtodz?)
+case (zqqokwn?)
+:lkcxd;
+case (eurrntm?)
+:lxmjo;
+case (jxbswmr?)
+:luvqkhfryx;
+endswitch
+split again
+:zpalvvbkdx; <<procedure>>
+split again
+:ewupbtelve; <<continuous>>
+end split
+|1|
+:tpervuqsbi; <<task>>
+-> bdfkgl;
+|2|
+repeat
+backward:rtpqnv;
+split
+:naqxi;
+split again
+:bbrysmbyoy; <<load>>
+-> ewmenj;
+split again
+:ckllx;
+end split
+fork
+:hfkdj;
+fork again
+:kmnsyamdig; <<load>>
+-> oozysx;
+fork again
+:ejioendqqo; <<procedure>>
+fork again
+:vjvyzdpyan; <<input>>
+-> tokrcf;
+fork again
+:kuikb;
+fork again
+:gvxeuhdjuk; <<output>>
+end fork
+backward:nxmusd;
+:acepyrsmbb; <<save>>
+repeat while (jplnyebsivhv?) is (kswu)
+|1|
+if (dpwjtrarbwdd?) then (xdzo)
+(ojco) elseif (lkueqzs?) then (mhyz)
+fork
+:hiuof;
+fork again
+:cfhbfzjsjv;
+fork again
+:ebukde;
+while (gxlcxtxwyvag?) is (hcuz)
+backward:yzmsyh;
+endwhile (hujv)
+-[hidden]->
+detach
+fork again
+:ngslignutb; <<input>>
+fork again
+:wndqqmlcbt; <<output>>
+-> zefnhk;
+fork again
+:uaoak;
+end merge
+(ytow) elseif (kwxfhxd?) then (gcbw)
+:xzfvpmggeo; <<continuous>>
+-> sgwhtj;
+(ebjj) elseif (lxielvp?) then (okud)
+:lgknnu;
+kill
+(njdj) elseif (tqsjbmy?) then (pbqc)
+:ualwyzntkg;
+(phbv) elseif (onwtwfk?) then (ahol)
+:cleznilenn;
+-> rfswie;
+endif
+:uaozxaiefr; <<task>>
+:jkburmmxbs; <<save>>
+|2|
+:vtipynvsqj; <<procedure>>
+|1|
+switch (iuzhmoowkvwh?)
+case (kvgjavx?)
+:cydblqdgox; <<input>>
+case (iphfhvx?)
+:onxqjbvjje;
+-> imrxpx;
+case (uywzrce?)
+:fkkqrmlvus;
+case (caxizmo?)
+:bdmtuf;
+kill
+case (nljefgj?)
+:ciocgxgaeh;
+-> gnkrku;
+endswitch
+@enduml

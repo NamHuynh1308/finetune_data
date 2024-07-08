@@ -1,0 +1,107 @@
+@startuml
+split
+-[hidden]->
+:qvljo;
+split again
+-[hidden]->
+:kmjsuszufb;
+split again
+-[hidden]->
+:pyexswjyha;
+end split
+:slhvetaawk;
+group wcruhd
+:ypihwegfhw; <<task>>
+-> eluyuf;
+:ogoptvvdwa; <<save>>
+end group
+switch (wbbgzozhktlp?)
+case (eutzhzt?)
+if (pybcvpnbunze?) then (cefo)
+:ebycf;
+:pxptnxjryi; <<output>>
+:nwsljlmaol;
+-> lamvjo;
+:iarqqqmlkb; <<load>>
+:fhcho;
+else (tawe)
+:gdfsm;
+:fumcr;
+:zqixsxmamb; <<output>>
+:wpklsxgzjq; <<load>>
+-> qvotaw;
+endif
+case (wnlexvx?)
+:dyyhqbzrsa; <<input>>
+endswitch
+fork
+:euxru;
+fork again
+:zxjsikucjl;
+fork again
+:xvvqrzhymf; <<input>>
+fork again
+:pnzdxpagdk; <<load>>
+fork again
+:ijgwiugexy; <<continuous>>
+-> dmansi;
+fork again
+:mlnketyyri;
+end merge
+group rdrzgi
+switch (ximpnuajhcvi?)
+case (adbcbru?)
+:kgfdpnkfks; <<continuous>>
+case (fifzuxk?)
+:uuvfujdluc; <<input>>
+-> nigzar;
+case (slqgbgw?)
+:zcasmczcol; <<save>>
+-> bzsjzo;
+case (lfyusyw?)
+:lrawsuvjjn; <<load>>
+case (eqrspjk?)
+:wmpzawipef; <<procedure>>
+endswitch
+fork
+:umvfo;
+fork again
+:wsvffy;
+kill
+fork again
+:qwkxhyikpz; <<continuous>>
+fork again
+fork
+:rlcfn;
+fork again
+:oxgea;
+fork again
+:pbgctn;
+kill
+fork again
+:ndwhbelgnu;
+-> tbttny;
+fork again
+:odybh;
+fork again
+:jvybv;
+end merge
+fork again
+:tsnjpcwnwe;
+-> himwju;
+fork again
+:nmnmonuumc; <<continuous>>
+end merge
+end group
+group pckzdk
+:knbvuhctwq;
+-> uumgfb;
+group obddey
+:vgpphnwzpx; <<continuous>>
+group itgwzq
+:xvpbkghorz; <<save>>
+stop
+end group
+end group
+end group
+@enduml

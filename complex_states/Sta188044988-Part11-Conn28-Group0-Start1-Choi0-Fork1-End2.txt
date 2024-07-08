@@ -1,0 +1,41 @@
+@startuml
+state "dlueg" as 0
+state 1 <<end>>
+state "llwjl" as 2
+state 3 <<start>>
+state 4 <<fork>>
+state "rujoi" as 5 : trxlbkivfs
+state "zeyof" as 6
+state "eahlx" as 7
+state 8 <<end>>
+state "pbcrh" as 9 : tvbzosccwj
+state "vxbsb" as 10
+0 --> 4 : pkcvzo
+10 --> 0 : nnyqjd
+6 --> 1 : dkgrho
+2 --> 5 : ocmdcx
+9 --> 2 : fhtxtk
+7 --> 2 : vfhold
+3 --> 9 : mxdwth
+6 --> 4 : tiftzr
+4 --> 1 : nbbdtr
+5 --> 4 : tyhynm
+5 --> 4 : snwiuz
+10 --> 4 : tolwzv
+5 --> 2 : syfrup
+5 --> 0 : fegcuy
+6 --> 5 : ovlgoe
+6 --> 5 : hkbnrg
+6 --> 7 : vatvtq
+6 --> 6 : tqicyd
+7 --> 4 : ccyhow
+5 --> 7 : mansfk
+3 --> 8 : qniceb
+9 --> 4 : gvlktg
+9 --> 2 : nxydku
+6 --> 9 : izqoda
+2 --> 9 : rdsnti
+10 --> 8 : lofxls
+10 --> 5 : mypuqk
+3 --> 10 : lhurwc
+@enduml

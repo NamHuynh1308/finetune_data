@@ -1,0 +1,43 @@
+@startuml
+hide empty description
+state dxprep
+dxprep --> khmkvd : tasqz
+khmkvd --> gxoilc : etfru
+gxoilc --> agesiy : dfwhi
+agesiy --> zdtalh : lwinr
+zdtalh --> xnsgsb : jalvw
+state rduidx <<choice>>
+xnsgsb --> rduidx : jatng
+rduidx --> cozmgm : ydzg
+cozmgm --> hbkpnw : huadw
+hbkpnw --> uppjjl : xbdudqj
+rduidx --> rwkzrh : sitv
+rwkzrh --> hboocc : abgpo
+hboocc --> sfgwvv : gbjfx
+sfgwvv --> tratjn : hjzer
+tratjn --> uppjjl : worubkx
+rduidx --> fayrnm : pkyr
+fayrnm --> iueahs : uukas
+iueahs --> bogizo : kshjh
+bogizo --> rnqctq : lsdks
+rnqctq --> uppjjl : bmndixa
+state pcqpfb <<fork>>
+uppjjl --> pcqpfb : mvcnq
+state kdmozb <<join>>
+pcqpfb --> ajuzsf : jufl
+ajuzsf --> ppxtni : rbtel
+ppxtni --> jujpss : dflta
+jujpss --> giaijg : fqrib
+giaijg --> kdmozb : meluika
+pcqpfb --> sasndp : retp
+sasndp --> uppqtu : tuquq
+uppqtu --> nlgmna : lkjro
+nlgmna --> kdmozb : dgkjvbd
+pcqpfb --> alduzg : iohp
+alduzg --> ybpwxb : sxksq
+ybpwxb --> eocqds : qcztb
+eocqds --> jfyqhw : oqsli
+jfyqhw --> kdmozb : jlcbnax
+kdmozb --> fanirh : zxpsz
+fanirh --> [*] : ahjlc
+@enduml

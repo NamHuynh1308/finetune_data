@@ -1,0 +1,42 @@
+@startuml
+state "byzfh" as 0 {
+icurbe --> [*]
+||
+[*] --> znrygr : pzfum
+znrygr --> [*]
+}
+state 1 <<choice>>
+state "bmkxi" as 2
+state 3 <<end>>
+state 4 <<fork>>
+state "nnkgc" as 5
+state 6 <<start>>
+state "futig" as 7
+state "efmop" as 8
+state 9 <<end>>
+0 --> 0 : mhdqrs
+1 --> 0 : sbnzcq
+7 --> 1 : ucamul
+1 --> 7 : hsgmad
+1 --> 2 : rapems
+2 --> 9 : vfmesk
+2 --> 9 : czocuv
+7 --> 2 : ctrjyk
+5 --> 2 : vlcomf
+5 --> 3 : dblisf
+1 --> 4 : zortwt
+4 --> 0 : kipdza
+4 --> 4 : ecbwef
+5 --> 1 : cflyis
+2 --> 5 : xifasy
+6 --> 1 : axxgkk
+7 --> 5 : iyfbzn
+7 --> 8 : wgtzeg
+6 --> 7 : vllzgx
+7 --> 7 : npiwrv
+8 --> 2 : obaxnv
+8 --> 7 : myhfzq
+7 --> 8 : ubiill
+2 --> 8 : bmwmch
+5 --> 9 : hevhhh
+@enduml

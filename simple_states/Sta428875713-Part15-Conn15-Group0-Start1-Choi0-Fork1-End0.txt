@@ -1,0 +1,21 @@
+@startuml
+hide empty description
+state cnxdbh
+[*] --> cnxdbh : yzzpv
+cnxdbh --> bikouu : cqoon
+bikouu --> uftrii : cwxik
+uftrii --> yvzboq : ctrec
+state fhykjz <<fork>>
+yvzboq --> fhykjz : mdbed
+state bsstss <<join>>
+fhykjz --> glmmju : vjkx
+glmmju --> myykwo : xgmho
+myykwo --> escdgw : zbmhd
+escdgw --> bsstss : vispsmm
+fhykjz --> wnjzoh : hjmm
+wnjzoh --> najjua : pajvr
+najjua --> iglquc : zxchi
+iglquc --> cbraro : ejmbx
+cbraro --> bsstss : sqzdutf
+bsstss --> aigqnf : mpryh
+@enduml

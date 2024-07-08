@@ -1,0 +1,44 @@
+@startuml
+state wvqbkh
+state bbjuhj <<fork>>
+wvqbkh --> bbjuhj : fdeaa
+state zsnird <<join>>
+bbjuhj --> eukwvt : dbff
+eukwvt --> chqvnx : lfsxe
+chqvnx --> wetcah : sjbav
+wetcah --> zsnird : fswpzgx
+bbjuhj --> kkjbww : xxlr
+kkjbww --> gcjnqz : sijgv
+gcjnqz --> hnzwvj : hvoku
+hnzwvj --> zsnird : rhfjbgz
+bbjuhj --> ivskll : gyzk
+ivskll --> iziwuv : kgtss
+iziwuv --> cenyqy : xomhk
+cenyqy --> zsnird : vnbjixt
+zsnird --> losozo : gwwfp
+state kmfoxl <<choice>>
+losozo --> kmfoxl : hthwr
+kmfoxl --> txefno : tfoc
+txefno --> tdlhvw : pakao
+tdlhvw --> wftaym : itodz
+wftaym --> oetcoo : wzurcuv
+kmfoxl --> msqcwr : lgei
+msqcwr --> cmzxem : uaxvd
+cmzxem --> rtqniu : evtys
+rtqniu --> uinsgh : cnxjz
+uinsgh --> oetcoo : vofhjsj
+state phiqzl <<choice>>
+oetcoo --> phiqzl : ekvdg
+phiqzl --> islrft : dvdc
+islrft --> fntuwn : gagye
+fntuwn --> twsilo : aqrne
+twsilo --> ctpuyy : wdfnhrr
+phiqzl --> obibmk : cnvc
+obibmk --> qhsatc : jwhhp
+qhsatc --> tqodrp : fuiqn
+tqodrp --> ctpuyy : lijeqpn
+phiqzl --> degoaz : bfnc
+degoaz --> hwlijo : espcg
+hwlijo --> ctpuyy : ngnbbdp
+ctpuyy --> [*] : mghgf
+@enduml

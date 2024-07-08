@@ -1,0 +1,70 @@
+@startuml
+|1| jdvfsd
+|2| vjdmwh
+split
+-[hidden]->
+:txrvc;
+split again
+-[hidden]->
+repeat
+backward:bgwywp;
+:ytuxmcnxic;
+-> hnssia;
+repeat while (yaisehewbcgh?) is (xnxj)
+split again
+-[hidden]->
+:hjsbyb;
+kill
+split again
+-[hidden]->
+if (plzijveieqeb?) then (fcax)
+:ovxcstkcrs; <<continuous>>
+:gtnluvitbl; <<task>>
+else (rign)
+:bdyazogghn; <<continuous>>
+-> tvaoxq;
+:ogbkytqhds; <<procedure>>
+:zykpudsvvn; <<output>>
+-> ojdkbp;
+:hkprm;
+:eyrxcczbte; <<continuous>>
+endif
+end split
+|2|
+if (vknanctxbyjw?) then (dwtr)
+(tpmr) elseif (fherwcj?) then (bumk)
+:ekmnpuavke; <<output>>
+(xxrl) elseif (mpqlfbb?) then (teyj)
+:gewopgbbef; <<output>>
+-> omujmq;
+endif
+|1|
+:doyajlnsam;
+if (hfahkzmsqwjc?) then (jkcd)
+(quym) elseif (jtqyeii?) then (idfk)
+fork
+:lkfng;
+fork again
+:uguyhygqhb; <<task>>
+-> ifkoai;
+fork again
+:woibtyvgzv; <<output>>
+fork again
+:pqqqiypded;
+end fork
+(afgd) elseif (rwlfmqj?) then (suhu)
+:tcyiuexisn; <<task>>
+(iakl) elseif (ftlltac?) then (vwek)
+:urpmli;
+while (jyxrebzfnpsu?) is (xjdo)
+backward:sutzdg;
+:azmrxcohab; <<load>>
+backward:wgmyhy;
+:jnrimczfgr; <<continuous>>
+:rsofwdbccn; <<procedure>>
+endwhile (qsyr)
+-[hidden]->
+detach
+endif
+stop
+@enduml

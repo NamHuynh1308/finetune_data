@@ -1,0 +1,20 @@
+@startuml
+hide empty description
+state gclxen
+[*] --> gclxen : mqmni
+gclxen --> pztecy : alqkr
+pztecy --> leeoom : jveez
+state leeoom {
+tqxfol --> lroeay : clihw
+lroeay --> zffgpt : nvpkn
+}
+leeoom --> acnicl : pjipg
+acnicl --> ilosvm : juswk
+ilosvm --> dvdqmt : yzngj
+state dvdqmt {
+xcgdal --> byekgd : oeivg
+byekgd --> jdgfvp : kwicl
+jdgfvp --> spzayj : xikuo
+spzayj --> [*] : munvu
+}
+@enduml

@@ -1,0 +1,37 @@
+@startuml
+|1| qfzrxs
+|2| gheaec
+|1|
+start
+repeat
+:pelcptxitw; <<save>>
+-> pafthn;
+repeat while (jslmsbbspygd?) is (uwja)
+-> soqnco;
+if (rttihfbqocgl?) then (wpoq)
+(xzzo) elseif (ryzrfvk?) then (crqf)
+:tlwzinkzbu; <<output>>
+(tsqn) elseif (jkuxncp?) then (jqdc)
+:csvktvokia; <<load>>
+endif
+fork
+:hddeg;
+fork again
+:wiexxwowmn; <<procedure>>
+-> szhsbl;
+fork again
+if (cgxxmzqgaaco?) then (wync)
+:lnrqxohmht; <<load>>
+:qitjiseqhi;
+else (qeek)
+:ljmva;
+:zlmlggtyez;
+-> jnwyoq;
+:irxtufpowy;
+:rppehllsph; <<output>>
+endif
+fork again
+:nyrqphqfte; <<output>>
+end merge
+end
+@enduml

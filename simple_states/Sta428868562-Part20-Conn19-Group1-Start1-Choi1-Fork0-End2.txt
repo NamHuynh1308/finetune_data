@@ -1,0 +1,25 @@
+@startuml
+state ybjvsz
+[*] --> ybjvsz : qurav
+ybjvsz --> gmxzye : zqbvd
+gmxzye --> atzhpk : lsuni
+state atzhpk {
+zpbypz --> cealan : zlksi
+cealan --> erjxfq : mwlka
+erjxfq --> hckitw : hdnom
+hckitw --> [*] : wmiaq
+}
+atzhpk --> fyjrmd : jypgl
+state jahpip <<choice>>
+fyjrmd --> jahpip : ucejy
+jahpip --> fmrfcd : rwvw
+fmrfcd --> swigxp : lluud
+swigxp --> jfshyh : khnne
+jfshyh --> gljsio : tkkrn
+gljsio --> ynfujg : xglildz
+jahpip --> favjdu : lktx
+favjdu --> amprdq : xjagq
+amprdq --> audxsn : behvs
+audxsn --> ynfujg : wccnbcv
+ynfujg --> [*] : htrdv
+@enduml

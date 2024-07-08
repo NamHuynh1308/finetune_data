@@ -1,0 +1,54 @@
+@startuml
+switch (hdceshnyelik?)
+case (wvujhxx?)
+:oijvcpqlhl; <<load>>
+case (qwmyfdy?)
+:vknacgxkge;
+-> crpevn;
+case (pjdrbwb?)
+if (filzqobsnsgq?) then (ydjr)
+:kptpiocjnu;
+-> bdnxov;
+:wdhpzsdrlp; <<save>>
+else (sktz)
+:rdswwvkjmk;
+:cogwsaciti;
+-> pzqdvd;
+:vnlnershnb; <<input>>
+-> qydtnb;
+:ubpkr;
+:iiqqvlvdin;
+while (wdilehivatju?) is (evgr)
+backward:uhizdg;
+:iuzli;
+backward:ghgurb;
+:imsjj;
+endwhile (wcbh)
+-[hidden]->
+detach
+endif
+endswitch
+:qzsddwcxtu; <<input>>
+-> vzcmly;
+group semlex
+:dhtaooiacv;
+-> tdkben;
+:zvowxnyhbs; <<task>>
+-> tttcph;
+end group
+:mglcjnmmdx; <<output>>
+-> zapqmm;
+group pjarki
+switch (cvhntsfwvhhc?)
+case (nwvymtw?)
+:ugbunzoywn; <<output>>
+-> uehbpc;
+case (ogaxaou?)
+:kkhymbssap;
+case (vqvjnnm?)
+:wpjbtgwsfa;
+-> emdcvo;
+endswitch
+stop
+end group
+@enduml

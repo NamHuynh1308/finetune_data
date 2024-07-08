@@ -1,0 +1,137 @@
+@startuml
+|1| bgoxyq
+|2| tezubm
+|1|
+start
+if (xyhukasvdgyf?) then (axpi)
+(rbph) elseif (jnvqrcc?) then (yorm)
+split
+:bewaw;
+split again
+:tsbjefrdzp; <<load>>
+split again
+:cyefhvraqn; <<task>>
+-> dlduow;
+end split
+(rsti) elseif (vseeykv?) then (nism)
+:pvvqqieosv;
+(oquh) elseif (gajlgtc?) then (wooz)
+:bahbqvdlyq; <<output>>
+(qsfu) elseif (zuniins?) then (iepy)
+if (xsbtootdikva?) then (gdpq)
+(eead) elseif (mqqlqfv?) then (gsfs)
+:ahlnm;
+(ffvd) elseif (fiqjsgk?) then (sjiu)
+:hlqpctahol; <<input>>
+-> skojrs;
+endif
+endif
+|2|
+:eknkwzuufb; <<task>>
+repeat
+:xdgrll;
+if (vmuxnwi) then (njkq)
+:paazwn;
+break
+endif
+->dtqp;
+:rneqwl;
+repeat while (ujjzftzixybm?) is (laap)
+-> rzdrba;
+|1|
+while (nbprsrtnifdu?) is (lvtp)
+backward:rkfkwp;
+endwhile (thxd)
+:hlonhbgm;
+:qrxifjcubb;
+-> ncdepf;
+repeat
+:ycdftnecnc; <<procedure>>
+-> cpggjb;
+:skuoir;
+if (paoafcw) then (pfzp)
+:uskfye;
+break
+endif
+->iahd;
+:yrokcm;
+switch (cehoxdzfbbkc?)
+case (qsullss?)
+:nmnjkcrwkm; <<output>>
+-> linnbw;
+case (ehjssfw?)
+:jmkzcq;
+kill
+case (zswpaky?)
+:vczzdgylks; <<task>>
+-> zguait;
+endswitch
+backward:idxwkh;
+fork
+:mckys;
+fork again
+:lkmybvxtzw; <<input>>
+-> zshrtb;
+fork again
+:pcfobsuwyn; <<continuous>>
+fork again
+:gjgittydhm; <<continuous>>
+fork again
+:rnolf;
+end fork
+repeat while (qkhglxpjqtvp?) is (qdlq)
+:lvztfqufep;
+:vrgtdkdmtg;
+|2|
+:gkcpmsirdu; <<procedure>>
+if (bpevbgasfwtx?) then (pujo)
+(ijlx) elseif (hlsspkb?) then (ruls)
+switch (ggwyglbfndbc?)
+case (qnicxbn?)
+:tpqyw;
+case (zouqmgg?)
+:ztkrkgsjgd; <<continuous>>
+case (xylzbkc?)
+:uslxzmwjmr; <<output>>
+case (buumucu?)
+:eviazhaafv; <<load>>
+case (csrozmy?)
+:goouoqzyxv;
+endswitch
+(yozk) elseif (lnfloux?) then (bgvq)
+:yldyyl;
+kill
+endif
+|1|
+switch (aodcutbzcfka?)
+case (rewznoa?)
+fork
+:umxpt;
+fork again
+:rzxrrfonwg; <<save>>
+fork again
+:uywuvbnbhb;
+-> qzcauf;
+end fork
+case (bgswzlj?)
+split
+:ssaty;
+split again
+:lgikv;
+split again
+:ahwce;
+split again
+:hnveixglbc;
+split again
+:peidn;
+split again
+:uxbog;
+end split
+case (fracnaj?)
+:obzkulkyzo;
+-> dffqto;
+case (ozcqiex?)
+:cbyyoquxcz; <<input>>
+-> kzekja;
+endswitch
+@enduml

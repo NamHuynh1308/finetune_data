@@ -1,0 +1,23 @@
+@startuml
+hide empty description
+state xbcxee
+state wcfxsl <<choice>>
+xbcxee --> wcfxsl : mxsvn
+wcfxsl --> yvzzli : mapq
+yvzzli --> fonjzz : sgrgr
+fonjzz --> rdubig : imxxj
+rdubig --> bzusou : vbrtqsy
+wcfxsl --> icogrz : edbe
+icogrz --> yacjyk : jjida
+yacjyk --> kgbsvt : urebq
+kgbsvt --> ieigfr : ptmpy
+ieigfr --> bzusou : cmogxli
+bzusou --> gdnvle : tawoh
+state gdnvle {
+[*] --> iaqknb : ivuhz
+iaqknb --> gwvylh : vwlll
+gwvylh --> [*] : andrq
+}
+gdnvle --> heshuj : wpupm
+heshuj --> [*] : bkryf
+@enduml

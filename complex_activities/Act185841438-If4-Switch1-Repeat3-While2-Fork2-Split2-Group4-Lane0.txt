@@ -1,0 +1,143 @@
+@startuml
+start
+:fcwglorqde; <<load>>
+group nweons
+:ulvecuhufd;
+group bmfueh
+repeat
+backward:dkfdev;
+:bfyhszmyzs;
+if (txxxyrrobwkj?) then (rees)
+:uxgtzrfvxn;
+-> lilhgt;
+:xieuwwjxpt; <<output>>
+-> yamasx;
+:mlbyndrgqs; <<input>>
+-> cqdvac;
+:ofhmokdegt; <<task>>
+:hhedmtkjwx;
+else (lhhg)
+:hbrnfuempi; <<load>>
+:hlfdfgvzar; <<load>>
+:hydnrzsgkv; <<continuous>>
+:swctqifxmp; <<output>>
+-> roidli;
+:tzziwnomdf; <<input>>
+-> deurbs;
+endif
+repeat while (vqfhcxgsgrvg?) is (dhwh)
+if (lxuaokuuewdi?) then (ajya)
+:tacugnrkdv;
+if (ooolayfektsj?) then (nemj)
+:iyxab;
+:ldhwytqbyg; <<procedure>>
+-> vuvnzf;
+:qtqpn;
+else (wuwt)
+:ffxugjdtih;
+-> mvluwb;
+:pkikv;
+:spabbxxcjc; <<input>>
+-> tvscvl;
+endif
+kill
+else (xchg)
+:zilidfrphz; <<input>>
+:pclgcyvejr; <<task>>
+:egoecapfxf; <<procedure>>
+-> gyaall;
+repeat
+:flwsciqdnm;
+:tjfxwlevlq;
+:kaawt;
+repeat while (mliwwlvpokun?) is (purq)
+kill
+endif
+group ivnial
+fork
+:srgev;
+fork again
+:ngcgdeurtx;
+-> rlmnpi;
+fork again
+split
+:pcyql;
+split again
+:bvkri;
+split again
+:flnigneizs;
+end split
+fork again
+:nfxodswbzu; <<save>>
+-> urctfu;
+fork again
+repeat
+backward:zlvsua;
+:czgljblykk;
+-> klcrda;
+:wqtozccjbu;
+-> cqyajr;
+backward:zoqxef;
+:ioaps;
+repeat while (wafwvrygzvcc?) is (rywd)
+end fork
+split
+:tbixl;
+split again
+:pfbgho;
+kill
+split again
+:vbfnkbcept; <<save>>
+-> xqcqmx;
+split again
+while (ttejbeeohebx?) is (yoie)
+:jmfop;
+endwhile (jcex)
+:tmsqcltw;
+split again
+while (oqsiipapbemj?) is (vnzi)
+:sulrj;
+endwhile (ntle)
+:rexmnodj;
+split again
+:ymezsblmmb; <<load>>
+end split
+end group
+group fhdybb
+:dquqjqdzuj; <<continuous>>
+fork
+:suanv;
+fork again
+:gwqdrcggwa; <<output>>
+-> eaowla;
+fork again
+switch (plrgtoroylxp?)
+case (hbwwqxd?)
+:nskdg;
+case (hrzwkda?)
+:houdx;
+case (cgzblid?)
+:vbrsn;
+case (srdvujn?)
+:iceqf;
+case (iczlzyi?)
+:dqfblzxgan; <<save>>
+endswitch
+fork again
+if (uxleesclrsuz?) then (nvkh)
+(kyut) elseif (tpbrwlx?) then (uzhi)
+:wdrsiqyujy;
+(irne) elseif (zxmarip?) then (vdev)
+:xrjynahztf; <<task>>
+-> zqffus;
+(gbcy) elseif (jfnxwvy?) then (aglv)
+:enkdpmihft;
+endif
+fork again
+:xsuzqgiaqk; <<save>>
+end fork
+end group
+stop
+end group
+end group
+@enduml

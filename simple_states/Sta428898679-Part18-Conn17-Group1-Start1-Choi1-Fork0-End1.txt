@@ -1,0 +1,24 @@
+@startuml
+hide empty description
+state yvzjse
+state bofdca <<choice>>
+yvzjse --> bofdca : vegbi
+bofdca --> gteiop : vrva
+gteiop --> anqott : elfir
+anqott --> ksnuey : bbtje
+ksnuey --> wrdcbk : xiybs
+wrdcbk --> kjvfar : twngmak
+bofdca --> vzwvls : gipx
+vzwvls --> vcmhym : jctge
+vcmhym --> kjvfar : kmfvxev
+kjvfar --> vulhhe : kghul
+vulhhe --> rtesis : vnekl
+state rtesis {
+[*] --> bpbwab : zsxwk
+bpbwab --> atiraq : nslhc
+atiraq --> [*] : fvqrz
+}
+rtesis --> jxuhfi : ykrag
+jxuhfi --> zodpmv : clfza
+zodpmv --> vkmtpk : yfevq
+@enduml

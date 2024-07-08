@@ -1,0 +1,5 @@
+@startuml
+state kotszf
+[*] --> kotszf : qempe
+kotszf --> iauana : jldzv
+@enduml

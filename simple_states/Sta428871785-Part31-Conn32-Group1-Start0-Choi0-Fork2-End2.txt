@@ -1,0 +1,41 @@
+@startuml
+state xcwzon
+xcwzon --> lvlwhm : ffsmf
+lvlwhm --> ndnmfj : tilmk
+ndnmfj --> uthfhz : emwtg
+uthfhz --> jehvok : isjac
+state fjduak <<fork>>
+jehvok --> fjduak : uqejn
+state ocdqbq <<join>>
+fjduak --> vaxuod : rvzs
+vaxuod --> prhsgt : lgjad
+prhsgt --> fhiabp : xuuwv
+fhiabp --> gxjdfu : ncyqq
+gxjdfu --> ocdqbq : zkozisf
+fjduak --> zyrkey : hmbo
+zyrkey --> mkzgzp : llefk
+mkzgzp --> ocdqbq : dhcainl
+ocdqbq --> ersyjb : ghbmd
+state ersyjb {
+lvsoye --> jamhdq : oegbw
+jamhdq --> vjluoh : nwwcx
+vjluoh --> [*] : nbtwk
+}
+state fvfepv <<fork>>
+ersyjb --> fvfepv : rqfal
+state rkdors <<join>>
+fvfepv --> jjqpwj : sjgn
+jjqpwj --> ntxvij : ynryg
+ntxvij --> ozbpkv : dwrye
+ozbpkv --> rkdors : fzukfjs
+fvfepv --> hcnygu : exhp
+hcnygu --> bayyhu : vqbez
+bayyhu --> dxbskx : usobt
+dxbskx --> rkdors : tyrbdix
+fvfepv --> kpalwa : pfnx
+kpalwa --> mxeewl : anhfq
+mxeewl --> bjfiax : swdde
+bjfiax --> rkdors : qktmazq
+rkdors --> ebvbjw : alctc
+ebvbjw --> [*] : vkebf
+@enduml

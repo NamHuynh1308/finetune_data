@@ -1,0 +1,136 @@
+@startuml
+group zfxoge
+fork
+:epnxb;
+fork again
+:ciclpuslav; <<load>>
+fork again
+:sqdfcegxxt;
+-> rgcpeg;
+fork again
+fork
+:yzvqr;
+fork again
+:tjqfnsbkni; <<output>>
+-> tmiwkr;
+fork again
+:zmuez;
+end fork
+fork again
+if (hnbwrngyznus?) then (rlfs)
+:pkdnarfmmk;
+:ggvmnivmhy; <<task>>
+-> wwvddm;
+:uocjz;
+:gxaidyptfu; <<continuous>>
+-> hpoqwh;
+while (exnypxsljble?) is (nrdb)
+backward:kfjacf;
+:aimqmsbjsa; <<output>>
+backward:xccbqc;
+endwhile (ggss)
+-[hidden]->
+detach
+else (eaom)
+:tqxzv;
+:nphirrpspg; <<output>>
+:btubb;
+:gbxjh;
+:henqeuqshw; <<input>>
+endif
+fork again
+:ugapzdtlpw; <<continuous>>
+end merge
+:pwvzwqiuti;
+group pmnwlr
+:amviuszkqs; <<continuous>>
+group nvtlod
+:pdvttohfqg; <<load>>
+:uoigdthvvx;
+end group
+group lzuzff
+fork
+:eomkk;
+fork again
+:xzqvzxzzdl; <<output>>
+-> znsnei;
+fork again
+:bvcbmzdgva; <<continuous>>
+fork again
+:awlaihehqe;
+-> wsbkps;
+end fork
+group hnrosh
+repeat
+:evnveptrmi; <<input>>
+-> ijundf;
+fork
+:handi;
+fork again
+:koksf;
+fork again
+:llmsantdue; <<continuous>>
+fork again
+:qyhar;
+end merge
+:hojkqttvth;
+-> oxkgql;
+backward:lvmfmj;
+while (nlasellxisjh?) is (xvej)
+:ireggsdpbv; <<input>>
+:nyavxqvktu; <<procedure>>
+endwhile (hpop)
+:zscpfcuo;
+repeat while (vxxoepfemqyg?) is (haqs)
+-> dlgyxu;
+switch (ldcexeeqljwc?)
+case (tqeefve?)
+:sdqtlgaxew;
+case (baspvjp?)
+:bjjhnkaqjw; <<load>>
+case (qnmdxpy?)
+:eoiijswnmz; <<save>>
+-> gwujme;
+case (gkmwjeh?)
+if (uvzpbywlovps?) then (snfz)
+(asck) elseif (atlffew?) then (ufci)
+:mbegi;
+(hjdj) elseif (clgapuv?) then (oivr)
+:exljniqikn;
+-> shkuqj;
+endif
+case (ohugpdg?)
+:rognujrcdx; <<continuous>>
+endswitch
+group ojgvaf
+if (hsonwuwcnqsw?) then (wdrg)
+(gnix) elseif (sksieof?) then (rjrv)
+:lqerfdwahw;
+(vbhb) elseif (umcmxtj?) then (ouqe)
+:iodouiyuip; <<save>>
+(tiyg) elseif (nuyozlm?) then (ehoa)
+split
+:accmb;
+split again
+:awfvpkpgaq;
+-> tuzrtv;
+split again
+:ygklkdzgue; <<procedure>>
+split again
+:gbfxw;
+split again
+:rfplsyurpj;
+-> ztuqpi;
+split again
+:rknlpaotbo;
+-> ikzndg;
+end split
+endif
+:isgjadogcr; <<continuous>>
+end group
+stop
+end group
+end group
+end group
+end group
+@enduml

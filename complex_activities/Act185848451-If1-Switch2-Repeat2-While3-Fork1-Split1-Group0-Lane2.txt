@@ -1,0 +1,113 @@
+@startuml
+|1| ewzfbo
+|2| mthnyo
+|1|
+start
+|2|
+:zcnpogjfbo;
+|1|
+if (sfmwcmnvfeqe?) then (zxws)
+(wjbr) elseif (khrroyr?) then (vpdi)
+:gpdxcknuco; <<input>>
+(kknt) elseif (kknebmx?) then (spue)
+:mzepfybbur;
+-> spmxex;
+(ivwu) elseif (carghti?) then (wclh)
+:eoovasxcsc; <<output>>
+-> deyuam;
+(vwfi) elseif (jtjfdpp?) then (ddws)
+:pqskpjnbbi; <<output>>
+-> ydnjru;
+(vrlp) elseif (qqsediu?) then (xqlf)
+:wxvavwwuon; <<save>>
+-> iqrbkn;
+endif
+fork
+:dmwbq;
+fork again
+:bzoaipbucu;
+fork again
+split
+:amhte;
+split again
+:folniyhagx;
+-> hbucck;
+split again
+:jfjbbjijgr;
+-> ixmhhc;
+split again
+:edjlv;
+split again
+:svira;
+end split
+fork again
+repeat
+:rhmdgc;
+if (etxvpca) then (xvnz)
+:mxtalh;
+break
+endif
+->ejuj;
+:brxnri;
+:ayeoj;
+:wkogpaxhpp;
+:xjgnahkjcl;
+-> ifmzjw;
+repeat while (ungizenhhdtz?) is (dhpa)
+end merge
+|2|
+:ldtsfjnupt; <<procedure>>
+|1|
+switch (asjhntgpnkgo?)
+case (dqzoxqa?)
+:wjyqcgvbdk;
+-> tpmgng;
+case (jxwbaiu?)
+:eslrhccpjb; <<output>>
+-> rzbozb;
+case (qdoobyu?)
+:xnwptbicce;
+-> xuviop;
+case (osvnusa?)
+:gugpxiswna; <<output>>
+-> kdpenj;
+case (nzvsizg?)
+while (jwozsxqkziok?) is (ecyb)
+:hafvy;
+:oluik;
+endwhile (vfxg)
+:tjspyujt;
+endswitch
+|2|
+while (xezcewrbngsr?) is (azsr)
+backward:tgdgwf;
+backward:fifezm;
+endwhile (wadw)
+:hmpwubyd;
+|1|
+:gguaspndxk;
+|2|
+switch (yaepyexwrtlr?)
+case (kywihbd?)
+:gvatuvbaib; <<load>>
+case (kmopjcy?)
+:qxrpvwztrd; <<load>>
+case (nnlifkm?)
+:kzytxk;
+while (gvtabvycomqs?) is (ddug)
+repeat
+:nxzti;
+:chtom;
+:cuonv;
+backward:mpsxcj;
+:snxdwctuve;
+repeat while (iutkgmcalxjw?) is (iqnu)
+-> awpfsn;
+:ygeqhuwhhr;
+backward:fhqgti;
+endwhile (croq)
+-[hidden]->
+detach
+endswitch
+end
+@enduml

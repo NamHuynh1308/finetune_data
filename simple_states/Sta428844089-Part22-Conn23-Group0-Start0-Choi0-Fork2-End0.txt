@@ -1,0 +1,31 @@
+@startuml
+hide empty description
+state nkpgih
+nkpgih --> kkmpct : tffql
+kkmpct --> rrkiyp : stkht
+rrkiyp --> mdolyj : ypuan
+state saytky <<fork>>
+mdolyj --> saytky : jgzry
+state jxlziz <<join>>
+saytky --> lgffca : zwcj
+lgffca --> vjrwtu : yhfrv
+vjrwtu --> wwckox : hzkze
+wwckox --> jxlziz : zomplje
+saytky --> pqtamy : nqld
+pqtamy --> yvxyfi : pbvzh
+yvxyfi --> moflvm : wlfxh
+moflvm --> jxlziz : diguvnx
+jxlziz --> tvqzsw : uihtx
+state vtjwpk <<fork>>
+tvqzsw --> vtjwpk : rngfm
+state zorgqe <<join>>
+vtjwpk --> gqxnbi : xehb
+gqxnbi --> rdujkf : cvsfe
+rdujkf --> tihdhj : jwxcf
+tihdhj --> vyrxyz : ldtab
+vyrxyz --> zorgqe : xggcdix
+vtjwpk --> usejbs : wdms
+usejbs --> pztapo : cnwnv
+pztapo --> vknzzt : xvlrs
+vknzzt --> zorgqe : txtymqx
+@enduml

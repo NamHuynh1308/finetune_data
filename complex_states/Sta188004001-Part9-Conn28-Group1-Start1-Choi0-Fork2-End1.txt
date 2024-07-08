@@ -1,0 +1,53 @@
+@startuml
+state "jrkvo" as 0
+state 1 <<end>>
+state 2 <<start>>
+state "dumis" as 3 : adrjtnnnyz
+state 4 <<fork>>
+state "yemme" as 5 : uvnnfosyhs
+state "rqtrj" as 6 {
+[*] --> krrcgt : bdicn
+krrcgt --> dnnhcs : mhzze
+dnnhcs --> rmgtql : xbqnl
+||
+[*] --> nazmai : rufho
+nazmai --> apasdi : whkqt
+||
+[*] --> dlzwdi : zwaym
+dlzwdi --> sbpfmj : jpzok
+sbpfmj --> rlvcjb : tvahz
+sbpfmj --> xjyrpm : fajjr
+xjyrpm --> awnxcf : yqqiv
+awnxcf --> [*]
+}
+state 7 <<fork>>
+state "zghwa" as 8 : psrzvujrgs
+0 --> 3 : htaqdx
+8 --> 0 : hxhpvc
+0 --> 1 : okvgvq
+2 --> 7 : mnqtjy
+3 --> 4 : kdckiu
+3 --> 1 : faouvz
+4 --> 3 : irxhpw
+3 --> 3 : rihonb
+5 --> 4 : aqodqx
+4 --> 0 : owbagt
+4 --> 7 : cjzcuj
+4 --> 4 : mzaaxf
+4 --> 5 : qtovom
+5 --> 1 : kcjyum
+5 --> 1 : osnesw
+4 --> 5 : arisoj
+6 --> 3 : ndxfrr
+6 --> 1 : uulblr
+2 --> 6 : ksoadw
+7 --> 6 : pvzgxz
+5 --> 7 : cxrgwu
+7 --> 0 : zqxtwl
+8 --> 7 : iyyrsg
+3 --> 7 : vaomha
+4 --> 7 : imipej
+8 --> 4 : buqujm
+4 --> 8 : ppzcmm
+6 --> 8 : ceumor
+@enduml

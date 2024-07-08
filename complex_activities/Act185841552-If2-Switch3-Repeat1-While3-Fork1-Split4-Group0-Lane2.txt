@@ -1,0 +1,142 @@
+@startuml
+|1| utpcon
+|2| kpstgb
+split
+-[hidden]->
+:wbeji;
+split again
+-[hidden]->
+:mitcug;
+kill
+split again
+-[hidden]->
+:zvbhvspblr; <<save>>
+split again
+-[hidden]->
+:asonzq;
+kill
+end split
+:mikdbuvfia; <<load>>
+if (ikktcmjotxnt?) then (fmdk)
+(trgs) elseif (nxhrxaw?) then (uokz)
+split
+:ljmrp;
+split again
+:nbwtrinizv; <<task>>
+-> coferv;
+split again
+:zmftpgtuci; <<procedure>>
+-> stuxxh;
+split again
+:oyqjjbhjmj; <<output>>
+end split
+(cojq) elseif (jbwwewj?) then (xuen)
+:isnctk;
+while (wrzaieodznuq?) is (hbqs)
+if (honenvsghyoj?) then (psmn)
+(vcnb) elseif (dqxkcss?) then (fsum)
+:casox;
+(xxgj) elseif (dtlimgg?) then (xsmd)
+:aexee;
+endif
+repeat
+:llnwgsgeed; <<task>>
+:amrzxx;
+if (fyppmhx) then (dsmu)
+:exmcjt;
+break
+endif
+->ebrt;
+:tlxldz;
+repeat while (zgybicfawwdu?) is (radw)
+:hmgysmohaw;
+switch (ptpidrfhtrbi?)
+case (aghyvop?)
+:dxnfdvddqy; <<input>>
+case (hqgqpyc?)
+:nfprtbntgl; <<output>>
+-> opwaek;
+case (mxiqygu?)
+:avvgpt;
+while (vpvmlkpcemeb?) is (ckou)
+:vwavvtwilo;
+backward:gctedy;
+backward:mwflhe;
+endwhile (uocf)
+-[hidden]->
+detach
+endswitch
+endwhile (wpnn)
+-[hidden]->
+detach
+endif
+:bwopgtwvrs; <<load>>
+-> yddwxg;
+|2|
+:nhghrtgfqf;
+:zuiuwbfdiy; <<save>>
+-> sactom;
+switch (sizjoxmarlmc?)
+case (frkhvfn?)
+while (xailvgtqtage?) is (iahb)
+:kpalbausuh; <<input>>
+:vydeaoayri; <<save>>
+-> enprrn;
+:nmqpq;
+endwhile (iwik)
+:ngnbvkrx;
+case (ydforvm?)
+:oghwkmqfnm; <<save>>
+case (ogapmcv?)
+:ykoxwybitw; <<continuous>>
+-> fqtmta;
+endswitch
+switch (ascnyyypuaij?)
+case (yshxkrs?)
+:bltkreewda; <<save>>
+case (avgezzi?)
+fork
+:swbca;
+fork again
+:ztsevkqien; <<continuous>>
+-> jxtarg;
+fork again
+:jftbjmzxft;
+-> jcfyvr;
+fork again
+:upzbr;
+end merge
+case (jkacwsu?)
+split
+:roidq;
+split again
+:vgdja;
+split again
+:wqrdc;
+split again
+:wbojs;
+end split
+case (gjijozp?)
+:shxexhawdk;
+-> zyzqtz;
+case (etmanlf?)
+:ywgpkabwtj;
+endswitch
+:pexjvzbkei; <<save>>
+|1|
+split
+:doabc;
+split again
+:kfnpbfsjmx; <<save>>
+-> kfotvd;
+split again
+:pmgifohtfi; <<output>>
+-> wnckuq;
+split again
+:ywlxooeqoc; <<input>>
+-> pacnbq;
+end split
+|2|
+:tibongrakx; <<load>>
+end
+@enduml

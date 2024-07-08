@@ -1,0 +1,87 @@
+@startuml
+|1| unjbwt
+|2| jgpfsy
+|1|
+start
+|2|
+if (vxtmhbmkuzzs?) then (ebwg)
+if (lyyojwefxovf?) then (dwvl)
+(ggwo) elseif (ditlpew?) then (hzkn)
+:uvmahozbco; <<continuous>>
+-> omsvsj;
+(drhc) elseif (ulwbkxj?) then (felg)
+:oqihepfqxm;
+(ivgx) elseif (btukcqw?) then (tkyg)
+:afyfzvbigt; <<task>>
+(irte) elseif (qorkzie?) then (czvt)
+:vnwrvypqvu;
+-> tokrzy;
+endif
+else (xnkm)
+repeat
+:ovhoceojkc; <<procedure>>
+backward:xtyzai;
+:oltih;
+:ohqdd;
+repeat while (sisalcchgqie?) is (jdhg)
+-> rlpork;
+repeat
+:sdcpdn;
+if (habfgbe) then (adqb)
+:wiotxd;
+break
+endif
+->avis;
+:qopuqv;
+:gzkto;
+:omogub;
+repeat while (mtchfhjearqi?) is (qeht)
+split
+:sukwj;
+split again
+:civutyfyax; <<input>>
+split again
+:ubvfm;
+end split
+while (llmnsslhqeds?) is (tddq)
+:davhpdbksx; <<continuous>>
+:iwftgqucsx; <<task>>
+:lmzsgoynkj;
+-> dpeqdp;
+while (azuiiobxcuko?) is (vcpt)
+:xzgkk;
+endwhile (pzpc)
+:ruyrhemd;
+endwhile (dwih)
+-[hidden]->
+detach
+endif
+|1|
+repeat
+backward:jmclgk;
+if (exsomzyguwfc?) then (utym)
+(mloi) elseif (lnhfsao?) then (eqvl)
+:ykgqxccqjt;
+-> ubwsev;
+(olcm) elseif (hoatadd?) then (zggv)
+:vwtyd;
+(rpdw) elseif (eurtace?) then (wdwz)
+:ybsawlexxd; <<load>>
+-> wwdaae;
+endif
+repeat while (uiofayofpkvk?) is (cvop)
+-> jillik;
+|2|
+:ssggvfwgxf; <<save>>
+-> pleksh;
+:ffjfxzthcq;
+split
+:pbhtc;
+split again
+:dstknpgsxj; <<task>>
+-> dtiagc;
+split again
+:bipemoptse; <<procedure>>
+end split
+end
+@enduml

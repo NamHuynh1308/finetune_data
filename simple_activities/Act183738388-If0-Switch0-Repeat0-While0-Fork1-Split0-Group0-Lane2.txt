@@ -1,0 +1,19 @@
+@startuml
+|1| jcpaud
+|2| xvzqns
+:xcjfubmtzg;
+|2|
+:zobmpexbkk; <<continuous>>
+:ekmawwsoqu; <<input>>
+fork
+:ulkux;
+fork again
+:qbakclsmql; <<task>>
+fork again
+:cganuenmde; <<procedure>>
+-> zkrrvz;
+fork again
+:qwhbbxyhej; <<load>>
+end fork
+stop
+@enduml

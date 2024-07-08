@@ -1,0 +1,43 @@
+@startuml
+|1| vcuqyp
+|2| hmdmta
+|1|
+start
+if (qrhvxvpjzkbw?) then (cinv)
+if (mclbbcxsmqvr?) then (xhtz)
+:tbhte;
+:ssgcmvulru; <<continuous>>
+-> rjrvaq;
+:qnymrntcdx; <<task>>
+else (ijtp)
+:xhfrvlecax; <<load>>
+:mibvh;
+:glwvn;
+:xxjepaszxn;
+:ouggu;
+kill
+endif
+:kgqhpilndd;
+:saqdmkelzb; <<procedure>>
+-> biaulo;
+else (hxyk)
+:cnsgkpxgoi;
+:svexujpzsf; <<save>>
+-> edcpvt;
+:hqtmgjzyfg;
+:dywkffhkka; <<continuous>>
+-> uwttqk;
+kill
+endif
+:hjwmthtcsb;
+-> gkagzx;
+|2|
+:zvrtwtnlla;
+-> frdncy;
+|1|
+:fmheijfdpz; <<input>>
+|2|
+:tcjmeoxkzg; <<input>>
+-> ockkln;
+end
+@enduml

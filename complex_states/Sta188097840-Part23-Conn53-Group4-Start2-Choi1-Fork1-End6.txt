@@ -1,0 +1,116 @@
+@startuml
+state "winhw" as 0
+state 1 <<end>>
+state 2 <<fork>>
+state "hypqa" as 3
+state 4 <<start>>
+state "cxphi" as 5
+state 6 <<end>>
+state "ubrcg" as 7 {
+duvuvx --> fdyity : lfcct
+fdyity --> akolqj : soklu
+akolqj --> dcpxic : zzrbl
+dcpxic --> [*]
+||
+[*] --> lqvars : drtsu
+lqvars --> uklpjd : lwayc
+uklpjd --> hwqydz : myjif
+hwqydz --> erzabg : xntzr
+erzabg --> uythmg : ntmyb
+erzabg --> qhkjmk : ztsro
+qhkjmk --> [*]
+}
+state 8 <<choice>>
+state 9 <<end>>
+state "desib" as 10 {
+kjhljj --> tnaaae : jwfzj
+tnaaae --> clymml : kahae
+clymml --> sbimtv : aicad
+sbimtv --> [*]
+}
+state "edlzv" as 11
+state 12 <<end>>
+state "cxzby" as 13 {
+[*] --> brfvfa : foqxb
+brfvfa --> [*]
+||
+[*] --> vxbkpv : amyxn
+vxbkpv --> rarsln : bftgx
+rarsln --> rrwvtl : kvbhj
+rrwvtl --> iikcqz : ncewe
+rrwvtl --> [*]
+||
+[*] --> dkyxtv : rwxzb
+}
+state "uryjf" as 14
+state "nnoiz" as 15
+state 16 <<end>>
+state "hvasv" as 17
+state 18 <<end>>
+state "bgzph" as 19 {
+fglzfv --> [*]
+||
+[*] --> iqyqrn : vzycu
+iqyqrn --> eztmll : llldi
+||
+[*] --> karyvj : ddeex
+karyvj --> yjordw : yegzx
+yjordw --> crkcny : uizmf
+}
+state 20 <<start>>
+state "quowx" as 21 : ydnsfwzyqz
+state "qsyay" as 22
+0 --> 9 : tashia
+10 --> 0 : rpzcwd
+17 --> 0 : laeijo
+20 --> 1 : jkterz
+20 --> 2 : uvcbxm
+2 --> 7 : kihagq
+19 --> 2 : utbinw
+3 --> 3 : zfaxdl
+3 --> 9 : kcfeuq
+0 --> 3 : lnxqva
+15 --> 3 : cmmzds
+4 --> 16 : qohukn
+5 --> 10 : vzzhvb
+4 --> 5 : iaggwr
+2 --> 5 : moovoi
+20 --> 6 : jrudhy
+7 --> 10 : bkaoza
+14 --> 7 : csreoe
+7 --> 7 : xlakir
+14 --> 8 : oywlwz
+8 --> 7 : dnqsim
+8 --> 16 : pxyyoe
+2 --> 9 : rluwmk
+10 --> 12 : yqszyh
+10 --> 5 : hdvzds
+22 --> 10 : iiuttn
+19 --> 10 : wpqwzd
+11 --> 13 : heexwz
+11 --> 11 : sosrdw
+10 --> 12 : acwczz
+13 --> 5 : zvhdps
+13 --> 16 : wyktgr
+21 --> 13 : uadzhr
+14 --> 11 : byfbuq
+7 --> 14 : byzwha
+14 --> 14 : qscyte
+15 --> 13 : reouqf
+2 --> 15 : mdvgzp
+14 --> 15 : ujkvfv
+14 --> 16 : dqrwtz
+17 --> 16 : bucypx
+8 --> 17 : spyudq
+4 --> 18 : nczthn
+19 --> 15 : buubio
+15 --> 19 : cdqdqo
+20 --> 8 : qvwssv
+21 --> 1 : zzqdio
+21 --> 0 : wvyskp
+20 --> 21 : vvluot
+0 --> 21 : vxcppb
+22 --> 5 : skxcgb
+7 --> 22 : zbwgja
+10 --> 22 : snwhqi
+@enduml

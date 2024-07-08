@@ -1,0 +1,34 @@
+@startuml
+state ccbkeg
+[*] --> ccbkeg : hgogp
+ccbkeg --> dpefai : hbzio
+dpefai --> nsnlpo : eemuv
+state nsnlpo {
+[*] --> ligovh : xiawf
+ligovh --> stjfhg : blkdu
+}
+state mvipxi <<choice>>
+nsnlpo --> mvipxi : ogfuq
+mvipxi --> ceuaqa : lvyp
+ceuaqa --> hbamsm : opuvo
+hbamsm --> xgqgns : cpvsgtx
+mvipxi --> bsxtes : bvqu
+bsxtes --> rydsrx : dyvfh
+rydsrx --> vmnooj : opeid
+vmnooj --> xoltav : iaszn
+xoltav --> xgqgns : ulsfihp
+mvipxi --> szijtd : stbf
+szijtd --> yixowy : puevu
+yixowy --> rzicsl : kdvfc
+rzicsl --> kgsscx : lnqhc
+kgsscx --> xgqgns : sqieeer
+xgqgns --> jdwyzt : mqqwn
+jdwyzt --> ljevfm : ozvea
+state ljevfm {
+nvbmbr --> blenyi : qjzhe
+blenyi --> zzlpcn : jajnk
+}
+ljevfm --> thhtvt : iqwtg
+thhtvt --> oqslwn : rrnhs
+oqslwn --> [*] : zbrtl
+@enduml

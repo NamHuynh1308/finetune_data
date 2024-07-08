@@ -1,0 +1,20 @@
+@startuml
+state ezzgza
+[*] --> ezzgza : nwrwc
+ezzgza --> kezbbd : jjhuz
+kezbbd --> chvwpm : wvmuu
+chvwpm --> lytnkg : qnqyv
+state lytnkg {
+[*] --> nhsbcq : hfumo
+nhsbcq --> cpmgqa : zqyip
+cpmgqa --> zutwzo : oafgr
+zutwzo --> [*] : erwpb
+}
+lytnkg --> pshmbt : gscej
+pshmbt --> cdpayr : dejer
+cdpayr --> iwikap : qwtcc
+iwikap --> xsebbw : wqqul
+xsebbw --> swwzcl : ywpgw
+swwzcl --> shwuyr : jorac
+shwuyr --> [*] : jpaeg
+@enduml

@@ -1,0 +1,64 @@
+@startuml
+|1| ireoeu
+|2| vbqxal
+if (aloljxuggqsd?) then (udak)
+(bniw) elseif (ngaxbdc?) then (wwty)
+:rkwwnczrfb; <<continuous>>
+-> lickjk;
+(hlnw) elseif (toejoho?) then (rvng)
+:cdtbfrerto; <<continuous>>
+endif
+:ilcbxnvujp; <<input>>
+:hnshklfqqg; <<output>>
+-> niqwsh;
+split
+:dtaix;
+split again
+:hyndruatox;
+split again
+:fsqztaoyaa;
+end split
+split
+:mtlvx;
+split again
+:azfiboqiks; <<output>>
+split again
+:zhawnagxnq;
+-> bkyjuj;
+split again
+:vbmzmd;
+while (yqvvfigsgelr?) is (ruqs)
+if (hhpxgnwbcugl?) then (dlcv)
+(cdnv) elseif (aokjiss?) then (yohb)
+:xpqef;
+(lvwr) elseif (azycwdw?) then (kxlf)
+:ecnvx;
+(cmry) elseif (calmnut?) then (hbgj)
+:vdttjkdsir;
+endif
+switch (ukcjdpkdygig?)
+case (ahujgzz?)
+:hhmjmxnhux;
+-> ycdqbw;
+case (ikbrqnb?)
+:attffyovcj;
+-> qxtwrf;
+endswitch
+fork
+:ykfie;
+fork again
+:djthznsebd; <<save>>
+-> evigax;
+fork again
+:xxkoe;
+fork again
+:dkfnmygnbt; <<input>>
+fork again
+:iiqicmlafy; <<output>>
+end merge
+endwhile (eesg)
+-[hidden]->
+detach
+end split
+stop
+@enduml

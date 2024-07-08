@@ -1,0 +1,94 @@
+@startuml
+group gzipqt
+switch (yalfwwtorrzk?)
+case (vrdjumg?)
+:hwqtgxadox; <<input>>
+-> askrfv;
+case (urffozx?)
+switch (tkvecqvakkot?)
+case (zctmwcs?)
+:ytbihyzrws;
+case (buxjvxx?)
+:wodefdudtv;
+case (xadlaxz?)
+:pfiaxetvnt;
+case (rkxmmsp?)
+:kwkjfliybj;
+-> yzimxa;
+case (blwrcqg?)
+:fyyrrwefue;
+-> hrcunr;
+endswitch
+endswitch
+:sjcfvawmip; <<input>>
+-> vrqgvf;
+end group
+group pykcsm
+fork
+:rsmtj;
+fork again
+:vzclwcqnke;
+fork again
+:gxhgkbfwnl; <<save>>
+fork again
+if (tkjvidpucfmp?) then (nboq)
+:ubzrhshmtv;
+:bodhb;
+:tmhowopdbd; <<procedure>>
+-> hakwit;
+:eaonl;
+:gziuvcaoxz; <<output>>
+-> jwuejc;
+else (symz)
+:urxxnnxare; <<task>>
+-> gcjgrm;
+:pqvkmakacb;
+:zcwzqsaken; <<task>>
+:uwnutzipka; <<output>>
+endif
+fork again
+:kycyiobtox;
+fork again
+:pcfvfj;
+kill
+end merge
+:dbruvulxhp; <<task>>
+group dswtnf
+split
+:kanfg;
+split again
+repeat
+:ihcxeuwjuc; <<continuous>>
+-> rvqmyh;
+backward:zthkct;
+backward:xjfsad;
+:ohjdgnwnsu; <<input>>
+repeat while (ftdjzlkzplhx?) is (iopk)
+split again
+:xccoganips;
+split again
+:fsatbindak;
+end split
+switch (fxtmwlenwkwi?)
+case (fomwbsj?)
+:kxcspclqla;
+-> cpivnd;
+case (qpysnwr?)
+:krtwinvytb;
+case (qczlsky?)
+:evdkqasckr; <<load>>
+case (jwttryr?)
+:gtimuojvcp; <<save>>
+-> swskzp;
+case (ugfwbtu?)
+:tnvgtpufzl;
+-> qsjatj;
+endswitch
+end group
+group tkyyde
+:hbsnuxgfxn;
+:lkimlqcoas; <<output>>
+end group
+stop
+end group
+@enduml

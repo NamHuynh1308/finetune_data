@@ -1,0 +1,35 @@
+@startuml
+|1| cofcul
+|2| fxsnbh
+fork
+:ltebt;
+fork again
+:cmsywoixrr; <<task>>
+fork again
+:dxufmsftke;
+fork again
+repeat
+:xebvs;
+backward:qhbikr;
+repeat while (baikptbjwidf?) is (zzff)
+fork again
+switch (tedkqehtwskc?)
+case (mcoxzmm?)
+:wxtzx;
+case (xktrzmb?)
+:udzku;
+endswitch
+fork again
+if (zatlaxeeyfjr?) then (cdqp)
+:npnigntcbm; <<task>>
+:zzfobplqil; <<load>>
+else (jkfw)
+:bwrrykkyaf; <<task>>
+endif
+end fork
+|2|
+:ciwkrgrskz; <<task>>
+-> uwduwn;
+:nytrixgftz; <<save>>
+stop
+@enduml

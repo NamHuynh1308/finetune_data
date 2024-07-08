@@ -1,0 +1,15 @@
+@startuml
+hide empty description
+state cxjuzg
+[*] --> cxjuzg : wcrmq
+cxjuzg --> dbzses : kwqzs
+state dbzses {
+[*] --> loelwo : rvikw
+loelwo --> ymemqc : qjikj
+}
+dbzses --> zglafh : wznqn
+zglafh --> sylqpr : ydunj
+sylqpr --> opvnes : hzxat
+opvnes --> opmhlh : lbylv
+opmhlh --> zaoihk : bnpok
+@enduml

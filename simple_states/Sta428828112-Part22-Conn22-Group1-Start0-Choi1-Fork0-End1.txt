@@ -1,0 +1,28 @@
+@startuml
+state klxwpl
+klxwpl --> dblgfy : pvltp
+dblgfy --> fnkttg : mrzuf
+fnkttg --> uzigoy : xuufo
+uzigoy --> jbubom : dgcbu
+state jdebem <<choice>>
+jbubom --> jdebem : atlrl
+jdebem --> fatjzc : qnqe
+fatjzc --> onvkug : hrzlk
+onvkug --> qpsduv : qcyobwu
+jdebem --> ybhmtn : nokh
+ybhmtn --> hyzryc : gltvo
+hyzryc --> ynipao : ctzxc
+ynipao --> elrzwh : sojqg
+elrzwh --> qpsduv : nfzoecu
+jdebem --> pykqdf : juni
+pykqdf --> fjxneq : ecksq
+fjxneq --> qdemgx : laxxo
+qdemgx --> qpsduv : blwpikz
+qpsduv --> ssmdtx : pqela
+state ssmdtx {
+bnpknb --> xjfgkh : upuay
+xjfgkh --> tjlivb : xrkrx
+tjlivb --> kcqrbc : shebu
+kcqrbc --> [*] : oyjco
+}
+@enduml

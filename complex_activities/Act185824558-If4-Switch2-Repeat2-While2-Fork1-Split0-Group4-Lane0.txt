@@ -1,0 +1,117 @@
+@startuml
+start
+repeat
+if (ncrmwxtdyoqp?) then (ykfk)
+:toocl;
+:zcwxioebcm;
+:klvhi;
+:dysndyptua; <<load>>
+-> nrvkbr;
+:toqekbandi; <<output>>
+else (xriq)
+:gfqzbmpnkx; <<continuous>>
+:potev;
+:xtktv;
+:vdmbodszuf; <<task>>
+-> wquwhy;
+:zvbsm;
+endif
+if (tqzygqgglaen?) then (hyjd)
+(uuam) elseif (xliffry?) then (xhtb)
+:zqpfb;
+(xrfr) elseif (hhulekn?) then (htqi)
+:qblxmcxmtv; <<save>>
+(gvup) elseif (bzzrxqy?) then (mcmj)
+:guctggebcm; <<continuous>>
+-> fgqlxv;
+(dpul) elseif (tewynxq?) then (zxly)
+:bgrjyeqaqy; <<save>>
+(vlnh) elseif (ucbrcwz?) then (lquv)
+:tcesl;
+endif
+repeat
+:uwjrfhxvpq;
+-> vinxsw;
+backward:mtgnpi;
+backward:wdyzxi;
+:rpkjt;
+:oisfz;
+repeat while (tuysazdyzxoi?) is (hnez)
+repeat while (eqixnqsestuy?) is (suej)
+:kdaqvnzcta;
+:yxazcgmjor; <<procedure>>
+group zinpbd
+if (agoauzujzzha?) then (asda)
+(obxo) elseif (jlxhwif?) then (ojjn)
+fork
+:unvem;
+fork again
+:xhfrhlmczk; <<continuous>>
+fork again
+:wkkidtfwsa; <<save>>
+-> ooyura;
+fork again
+:gjvmtgzedm;
+end fork
+(tjlg) elseif (rzmtgkk?) then (wzvn)
+if (qntrkacdcilb?) then (cpsk)
+(xvuz) elseif (fvttoxj?) then (wztz)
+:tawxp;
+(zfjc) elseif (rliedjq?) then (mels)
+:iojdho;
+while (epiwzzcmvhpr?) is (ccdu)
+:jzoed;
+backward:oivpbl;
+endwhile (jolq)
+-[hidden]->
+detach
+endif
+(vuhd) elseif (vsgwjjt?) then (euqz)
+switch (ibbpkpdfcjjb?)
+case (ikllbbw?)
+:xycjrwcopb; <<task>>
+case (iayoxvj?)
+:nipraxxvhd; <<continuous>>
+case (ogoppkl?)
+:fwgjjiufnr; <<procedure>>
+case (jbjaiub?)
+:wztamebtpk; <<load>>
+case (awjkjqk?)
+:snzfctmfsf;
+endswitch
+(xfbg) elseif (ofjzksy?) then (puea)
+:unfipajhxl;
+-> qdpmvw;
+(qiyu) elseif (znoyycf?) then (uerx)
+while (dwdwalnrtnna?) is (ksdz)
+backward:ndrwrd;
+backward:xjwgth;
+backward:txyxpv;
+backward:wpqfpd;
+:hnmeq;
+endwhile (rwpy)
+:pjwmmise;
+endif
+group yuffaa
+:zytraevgag;
+-> grntsd;
+group qfvkvu
+:fhehmcbfbe; <<procedure>>
+-> vwrhrb;
+group xroxqv
+:bjjsycbyju; <<output>>
+-> gvqfae;
+switch (yglhfnujeqzl?)
+case (fntikdb?)
+:hqpejjsujf;
+-> mlftof;
+case (mdyfkrf?)
+:dwemhvqhyd; <<procedure>>
+-> schrnu;
+endswitch
+end group
+stop
+end group
+end group
+end group
+@enduml

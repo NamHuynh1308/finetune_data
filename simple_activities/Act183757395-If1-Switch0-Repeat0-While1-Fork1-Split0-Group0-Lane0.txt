@@ -1,0 +1,21 @@
+@startuml
+start
+if (akmflyxjapyb?) then (biaj)
+:ogfcbjmcvx; <<procedure>>
+else (cfxb)
+while (wmdchgtofsci?) is (iueb)
+backward:lejupj;
+:xjwre;
+endwhile (cnys)
+:niwbsiiy;
+:odiadfzutd; <<task>>
+fork
+:nrfvi;
+fork again
+:ztmoviaump;
+fork again
+:oisvgkeztu;
+end fork
+endif
+stop
+@enduml

@@ -1,0 +1,111 @@
+@startuml
+|1| ehniry
+|2| xjftdc
+split
+-[hidden]->
+:lvpid;
+split again
+-[hidden]->
+if (qmcbzjkyfsma?) then (lnvt)
+(twjk) elseif (blesqlt?) then (sylv)
+:zxorc;
+(iwjh) elseif (xkxicev?) then (ewui)
+:qvdve;
+(hedw) elseif (ybskyqt?) then (tdfi)
+:nwdcltuyld;
+-> zpcjyq;
+(orhq) elseif (jpbnlhs?) then (nkpj)
+:nlutlqjcgi; <<load>>
+-> konxla;
+endif
+split again
+-[hidden]->
+:zbdwfkzucw; <<continuous>>
+-> ohfjir;
+split again
+-[hidden]->
+:ssoufhqirw; <<save>>
+split again
+-[hidden]->
+:eodbrrrvai;
+-> sclsmq;
+split again
+-[hidden]->
+:hdiahgkedg; <<task>>
+-> bxiwxs;
+end split
+:hxlvljpmey; <<output>>
+:nhpvpfbwci; <<load>>
+-> cpbbyw;
+if (qvoegxxpdryu?) then (vvbd)
+(cbab) elseif (rrwzfhd?) then (ebwo)
+while (rpvchfcqjspx?) is (nouc)
+:gkrrhtdqcw; <<load>>
+-> ezfthb;
+:vhjeboskup; <<input>>
+-> uddgnh;
+backward:kvipqs;
+backward:lfetyc;
+endwhile (ffzb)
+:zvxusdyq;
+(uodp) elseif (mhxozah?) then (grna)
+switch (pzqlvqgtsigw?)
+case (slosjes?)
+:hyqggdwpxy;
+case (zvdugmk?)
+:pjlgznfcnb; <<output>>
+endswitch
+(ggyn) elseif (hydwqui?) then (xihy)
+:xnjxkxxnzl; <<input>>
+(gijp) elseif (jiytncw?) then (cjxz)
+:eolmtkwyaa;
+(jzhx) elseif (bpqdaru?) then (foue)
+:ptfofnpaxj; <<output>>
+endif
+|2|
+switch (dqlddpxvqhhl?)
+case (cvmgyzm?)
+:rlkocphjod;
+case (cnutmot?)
+:udamwdhncw; <<output>>
+case (exboshy?)
+switch (spfqqibuxnra?)
+case (bnatweo?)
+:idbpu;
+case (mrgabxa?)
+:rmkykkrnbm;
+case (svrniwd?)
+:ogham;
+case (spexkfx?)
+:mugcjnjhou; <<task>>
+case (jiwidvx?)
+:eklsi;
+endswitch
+endswitch
+fork
+:ookqf;
+fork again
+if (pybsacmimksn?) then (mpog)
+(fmyv) elseif (gllsrzp?) then (jbxa)
+:wkfzyftaps; <<input>>
+(hzye) elseif (ktltkhx?) then (tuoq)
+:tyckogxsph;
+(otnh) elseif (kqssiww?) then (dtqg)
+:jtnfcv;
+kill
+endif
+fork again
+:gepvrtuhwn;
+fork again
+if (wlxkdyggwpvt?) then (cxnb)
+(yuoq) elseif (fgvlcsf?) then (kuwp)
+:pneyp;
+(ibbw) elseif (dmpmuch?) then (omkn)
+:sgtwpndeow; <<output>>
+(wpal) elseif (oqqlnzp?) then (ixnu)
+:shuksaxzor; <<input>>
+-> drsmgw;
+endif
+end merge
+stop
+@enduml

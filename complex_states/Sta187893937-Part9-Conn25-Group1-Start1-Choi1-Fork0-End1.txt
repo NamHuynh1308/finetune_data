@@ -1,0 +1,43 @@
+@startuml
+state "pepvn" as 0 : sibeexhfao
+state "ocyph" as 1
+state 2 <<end>>
+state "gfhkm" as 3 {
+hjeeeh --> wjujee : aurka
+wjujee --> rrqysk : ghjss
+rrqysk --> [*]
+||
+[*] --> mdybjv : jonyn
+mdybjv --> [*]
+}
+state 4 <<choice>>
+state "fylcv" as 5
+state "hwrjc" as 6 : kdbbubuiau
+state 7 <<start>>
+state "zgnfg" as 8
+0 --> 4 : rtuxsl
+0 --> 0 : qdewvg
+1 --> 6 : tecary
+1 --> 6 : vypmop
+0 --> 1 : qgvwkl
+3 --> 2 : mmdzcg
+3 --> 1 : chulic
+3 --> 8 : cnothm
+6 --> 3 : papgit
+3 --> 3 : imdfjy
+0 --> 4 : pjqkag
+4 --> 2 : yvvbcf
+4 --> 1 : brgnqy
+4 --> 8 : tqprot
+5 --> 0 : abnjlb
+0 --> 5 : vtbuxt
+3 --> 5 : kiuofa
+6 --> 5 : exaqnj
+6 --> 5 : vpumuh
+1 --> 6 : vwjklz
+7 --> 8 : dwvzmn
+8 --> 5 : eqqvvm
+8 --> 5 : dgspzr
+4 --> 8 : pejqpp
+3 --> 8 : kbzkkf
+@enduml

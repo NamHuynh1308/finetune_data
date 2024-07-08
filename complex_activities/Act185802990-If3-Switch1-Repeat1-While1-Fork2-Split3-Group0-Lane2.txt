@@ -1,0 +1,145 @@
+@startuml
+|1| foaffv
+|2| miqrul
+split
+-[hidden]->
+:drmdt;
+split again
+-[hidden]->
+:jiusqmwvyk; <<task>>
+split again
+-[hidden]->
+:bthseqhjzu; <<output>>
+split again
+-[hidden]->
+:mdtxtoliyi;
+split again
+-[hidden]->
+switch (soapkxwohnld?)
+case (geltzvh?)
+:iagwj;
+case (hdxsilf?)
+:lbbkw;
+case (pvpkmyv?)
+:zftssiulmx; <<load>>
+-> vleilt;
+endswitch
+end split
+|2|
+if (ciomdvlmlsde?) then (klij)
+:ieluvpmvya; <<continuous>>
+:isjseehrux;
+-> otjkwh;
+else (ptgg)
+:frxcpadodv; <<procedure>>
+-> ialose;
+:aqrxmodwil;
+-> zieawt;
+split
+:vbjqf;
+split again
+:ojhryoecir; <<input>>
+-> baamao;
+split again
+:xfrhc;
+split again
+:hrcqyxcfbq;
+split again
+:ycdvpczsqu; <<procedure>>
+end split
+kill
+endif
+|1|
+:girqwbnupd;
+-> jfybdk;
+fork
+:kdzts;
+fork again
+:uvwlamxhyd; <<procedure>>
+-> nrbnwc;
+fork again
+:iklfcqyclb; <<output>>
+-> fyczct;
+fork again
+if (ikgnlvmsflhz?) then (rdep)
+:vfoqihobed; <<load>>
+-> eefztz;
+:fmtsw;
+:yzyoo;
+:kaiifpscuq; <<continuous>>
+-> bwsgou;
+:filhjdpjcz; <<save>>
+kill
+else (itts)
+:dpcph;
+:ssocxjovkr; <<save>>
+:cajec;
+:ejuymrtajk; <<continuous>>
+endif
+fork again
+:kecdemwtku;
+fork again
+:kxliqeifyu; <<input>>
+-> arebjy;
+end merge
+|2|
+:jtcalhshvl; <<output>>
+-> ljtiqx;
+:sxgyczvwzv; <<save>>
+if (hpbjoxmvcayu?) then (obcp)
+:ptiizypdtn;
+:qolficfrkr; <<task>>
+-> oneuws;
+while (ijtuupnpfgjc?) is (cyon)
+backward:urushw;
+:hoiuhcqbsx; <<load>>
+-> oflndi;
+:cihubhbqqk; <<continuous>>
+backward:qsznrj;
+endwhile (pgym)
+-[hidden]->
+detach
+else (vqxo)
+fork
+:nucxo;
+fork again
+:pfwhsxvoqg;
+-> kxqqtw;
+fork again
+:mqxmg;
+fork again
+:gduuhhhlkf;
+fork again
+:fqizhdroth; <<continuous>>
+end merge
+repeat
+backward:bzqaez;
+:geies;
+:zxdsiscvbt; <<output>>
+:syqdk;
+repeat while (oazgopmgrton?) is (cyfw)
+:wdpugfskbs; <<load>>
+-> agarwa;
+:yfjpyjxizi;
+endif
+|1|
+split
+:iogxh;
+split again
+:mtyxqbxwvq;
+-> vnappy;
+split again
+:vchyhqxgee; <<save>>
+-> jkoggx;
+end split
+|2|
+:jcdbvbixas; <<output>>
+-> gzpvjz;
+|1|
+:vfxpyiczxk;
+:bmeypdkfvv;
+-> fwtiai;
+:opptacbyfs; <<load>>
+-> izjzos;
+end
+@enduml

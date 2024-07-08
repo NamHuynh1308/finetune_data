@@ -1,0 +1,31 @@
+@startuml
+state oqixad
+[*] --> oqixad : uuzwx
+oqixad --> xezerz : oapvj
+xezerz --> eibvmu : byzsd
+state eibvmu {
+[*] --> gimipg : xenib
+gimipg --> ozowtb : wgprt
+ozowtb --> [*] : gmsbb
+}
+state ypmysz <<fork>>
+eibvmu --> ypmysz : mztsx
+state zasqph <<join>>
+ypmysz --> crpwrd : emcj
+crpwrd --> aetvsf : czbmc
+aetvsf --> fsvaqx : rnjzx
+fsvaqx --> zasqph : jmpxxlm
+ypmysz --> hezolh : xvqg
+hezolh --> mbmzqt : awigd
+mbmzqt --> yfoied : chqbp
+yfoied --> puwhpy : fjxcn
+puwhpy --> zasqph : qavzbxz
+ypmysz --> redtfd : kqxj
+redtfd --> itdcjp : ahcpg
+itdcjp --> slytqg : lpsvu
+slytqg --> zasqph : lrmtuhq
+zasqph --> jyebkb : jhosz
+jyebkb --> rqpfpj : sigrq
+rqpfpj --> iqunjv : vjotf
+iqunjv --> gfdkho : qehnp
+@enduml

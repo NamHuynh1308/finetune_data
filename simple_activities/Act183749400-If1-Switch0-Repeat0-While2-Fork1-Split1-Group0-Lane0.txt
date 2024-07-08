@@ -1,0 +1,43 @@
+@startuml
+fork
+:rlfue;
+fork again
+if (tlujmapstqpl?) then (qddh)
+:rsilcoozjk;
+:rhgsh;
+:rfdlmhjvrw; <<input>>
+while (purjhebeduot?) is (acqg)
+backward:miefwj;
+:fmrxsejynb;
+:cuuuy;
+endwhile (sxxz)
+-[hidden]->
+detach
+else (jamd)
+:tilsbbsbuj; <<output>>
+:mcxamfocox; <<input>>
+-> ioqfhq;
+:bedkhhcpmd; <<task>>
+while (atekfxrnpcbt?) is (ccbp)
+:djtro;
+backward:fycrcy;
+:wapcj;
+backward:smukrx;
+:wybey;
+endwhile (gzce)
+-[hidden]->
+detach
+endif
+fork again
+split
+:gvksx;
+split again
+:xxghxgwilv; <<load>>
+-> glrexd;
+split again
+:lcvgjqxnwy; <<output>>
+end split
+fork again
+:rwgqiyydrs;
+end fork
+@enduml

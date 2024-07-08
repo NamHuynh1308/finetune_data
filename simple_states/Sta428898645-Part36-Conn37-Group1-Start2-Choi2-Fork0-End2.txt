@@ -1,0 +1,44 @@
+@startuml
+state tueffa
+[*] --> tueffa : njxgl
+tueffa --> zjhfgi : tqsej
+state zjhfgi {
+[*] --> viihkg : mjzfw
+viihkg --> ssreow : llbwy
+ssreow --> eqoere : vlxma
+eqoere --> lkrmoy : yczbc
+lkrmoy --> [*] : xlsyn
+}
+zjhfgi --> vxhrzp : lkawt
+vxhrzp --> keuqsn : vfabo
+keuqsn --> ftxqii : jzlyo
+ftxqii --> ooboqv : festd
+state sgzjdg <<choice>>
+ooboqv --> sgzjdg : fkqjd
+sgzjdg --> qyuonj : escl
+qyuonj --> tqfdkj : sxfnw
+tqfdkj --> nbzihe : zjkus
+nbzihe --> sjrukd : cbwdt
+sjrukd --> ebyjhy : hsxmsox
+sgzjdg --> yzxivt : bjgz
+yzxivt --> vapvfk : csxdp
+vapvfk --> usanse : owobt
+usanse --> ebyjhy : jwarngk
+ebyjhy --> ozwodq : gnscm
+ozwodq --> kirxza : vpwbb
+state lnetcy <<choice>>
+kirxza --> lnetcy : djucm
+lnetcy --> okbhqh : mvzg
+okbhqh --> vxqnwg : klnjh
+vxqnwg --> dnpqzb : klktv
+dnpqzb --> jclgdr : evczpex
+lnetcy --> qxwffr : nyib
+qxwffr --> gnwzml : kylus
+gnwzml --> jclgdr : zqkzbqa
+lnetcy --> jvamwl : mmlt
+jvamwl --> okvoii : yzauq
+okvoii --> jclgdr : siwfcsy
+jclgdr --> kitesd : lluyo
+kitesd --> dfvghg : dlkge
+dfvghg --> [*] : vcfnc
+@enduml

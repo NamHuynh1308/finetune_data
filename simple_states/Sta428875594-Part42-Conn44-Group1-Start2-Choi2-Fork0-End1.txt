@@ -1,0 +1,52 @@
+@startuml
+hide empty description
+state kjfrwt
+[*] --> kjfrwt : zxkif
+kjfrwt --> iiiwrj : etomt
+iiiwrj --> fvdskr : omkoh
+fvdskr --> fqcyfi : lejbo
+fqcyfi --> uxynwe : jdjxy
+uxynwe --> vybibv : pdmoe
+vybibv --> gtwkem : efqsy
+gtwkem --> kpjxjr : taktv
+kpjxjr --> hsmexn : npmet
+hsmexn --> jkivvl : zerxu
+state zohlno <<choice>>
+jkivvl --> zohlno : zhugs
+zohlno --> ojtsef : iljs
+ojtsef --> wlxyle : ojtny
+wlxyle --> cydgas : gnqxj
+cydgas --> dolcvs : ocbuv
+dolcvs --> pncazw : meelgst
+zohlno --> rsszmp : ojrg
+rsszmp --> xlyrkq : jpgni
+xlyrkq --> nvcfgk : kktzt
+nvcfgk --> fvcslr : chaos
+fvcslr --> pncazw : rhrjsvs
+zohlno --> xpaszx : hgto
+xpaszx --> zpdfwj : dmwdw
+zpdfwj --> pncazw : dntvifw
+state xjvxxj <<choice>>
+pncazw --> xjvxxj : qodcf
+xjvxxj --> gbxzth : zyya
+gbxzth --> igkrnp : xeqza
+igkrnp --> uzyhza : ocpzm
+uzyhza --> bmvpvo : qeohyan
+xjvxxj --> bxvaxt : lbsz
+bxvaxt --> nsjlcn : ftqmh
+nsjlcn --> houmni : uzlsi
+houmni --> bmvpvo : fykkjvq
+xjvxxj --> zubsak : gxud
+zubsak --> mcugyh : cobip
+mcugyh --> jnlcdw : nmnto
+jnlcdw --> rhnpdk : jdjvy
+rhnpdk --> bmvpvo : daeyfbf
+bmvpvo --> tngttw : npwiu
+state tngttw {
+[*] --> fdmxxz : mmeif
+fdmxxz --> jolccw : lkdfr
+jolccw --> okqonp : wdoyu
+}
+tngttw --> tjmurf : mpplm
+tjmurf --> [*] : mpmjh
+@enduml

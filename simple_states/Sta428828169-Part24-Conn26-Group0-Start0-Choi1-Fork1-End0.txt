@@ -1,0 +1,32 @@
+@startuml
+state foagcc
+foagcc --> brqhuy : jznsc
+brqhuy --> sylpon : vpchr
+sylpon --> elaxay : gpxks
+elaxay --> vplqvp : nhgsa
+vplqvp --> uzrvcb : mzvuu
+state lxwyni <<fork>>
+uzrvcb --> lxwyni : fcasl
+state urnimz <<join>>
+lxwyni --> ekgwtl : yxyw
+ekgwtl --> myfcsp : lakqo
+myfcsp --> urnimz : mtvhyso
+lxwyni --> wnrxgh : kxbg
+wnrxgh --> upwkjb : hpstp
+upwkjb --> wntyzd : ruxsf
+wntyzd --> zpjbql : ebged
+zpjbql --> urnimz : ojlatmg
+lxwyni --> cziziz : kfxr
+cziziz --> yufrnf : jcjmw
+yufrnf --> urnimz : lkdkkpi
+state cureak <<choice>>
+urnimz --> cureak : aafui
+cureak --> otbomt : tywg
+otbomt --> modvci : uqrib
+modvci --> kvqfiq : cgzcb
+kvqfiq --> oewlhx : inkbxqc
+cureak --> qtdszb : nilw
+qtdszb --> evccil : ywenz
+evccil --> armodz : iufnm
+armodz --> oewlhx : oqpghgh
+@enduml

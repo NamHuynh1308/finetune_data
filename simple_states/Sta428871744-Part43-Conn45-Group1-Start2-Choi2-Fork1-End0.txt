@@ -1,0 +1,55 @@
+@startuml
+hide empty description
+state bvkkjv
+[*] --> bvkkjv : unffy
+bvkkjv --> wrlejc : cqmyh
+wrlejc --> ltupce : adcyy
+state opouxh <<choice>>
+ltupce --> opouxh : pvdzc
+opouxh --> zdusim : oycq
+zdusim --> lwbzog : lhuow
+lwbzog --> owptjj : whqql
+owptjj --> cyfnmo : pzvshcl
+opouxh --> jrnzgy : rbnl
+jrnzgy --> wcerwm : ihxpf
+wcerwm --> blnplf : hfnoz
+blnplf --> vswzwp : pztwl
+vswzwp --> cyfnmo : yskpxvs
+cyfnmo --> bfhtsh : wqdpz
+bfhtsh --> gqpluq : okvvo
+gqpluq --> zlwahi : dffyy
+state zlwahi {
+[*] --> hsufnk : dmert
+hsufnk --> ygonua : rqaog
+}
+zlwahi --> futrsb : dfhiq
+state nnieea <<choice>>
+futrsb --> nnieea : uohfn
+nnieea --> mjyhpv : eget
+mjyhpv --> avrvav : dhntl
+avrvav --> tjutss : iiybyhe
+nnieea --> qcgoia : elik
+qcgoia --> xkvdhg : kscfk
+xkvdhg --> tjutss : ceopymj
+tjutss --> ghjsde : vvqyc
+ghjsde --> lmiqva : xxste
+lmiqva --> frxjvh : vmztq
+frxjvh --> yodxzg : qgkvc
+yodxzg --> oghfgs : haelr
+oghfgs --> odhqpl : banjo
+odhqpl --> dieykf : dgofc
+state qxwfwq <<fork>>
+dieykf --> qxwfwq : fkgct
+state lawcqi <<join>>
+qxwfwq --> oumteo : hlln
+oumteo --> hdqkvo : khmbq
+hdqkvo --> lawcqi : vnrrfif
+qxwfwq --> qynbfk : aoop
+qynbfk --> yzrdiz : gjokz
+yzrdiz --> lawcqi : igednug
+qxwfwq --> pegwez : cskz
+pegwez --> quzzjf : ahfzv
+quzzjf --> uwcohm : sgcgz
+uwcohm --> qlcxxy : rkmmx
+qlcxxy --> lawcqi : dtgqksh
+@enduml

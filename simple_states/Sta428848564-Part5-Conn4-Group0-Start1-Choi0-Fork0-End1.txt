@@ -1,0 +1,8 @@
+@startuml
+hide empty description
+state inmjsv
+[*] --> inmjsv : ibdtl
+inmjsv --> hqpiby : smlox
+hqpiby --> ddiomk : venor
+ddiomk --> [*] : wgwjc
+@enduml

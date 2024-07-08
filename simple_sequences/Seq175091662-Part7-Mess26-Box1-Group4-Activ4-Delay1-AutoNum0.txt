@@ -1,0 +1,58 @@
+@startuml
+participant npxndy as 0
+participant pcnjun as 1
+participant pcixhi as 2
+box "ycien"
+participant obdqmt as 3
+participant kesajj as 4
+end box
+== ihhbmt ==
+create participant jwhrlkfchj as 5
+4 -> 5 : jwhrlkfchj
+4 <-> 5: tdpusebjwg
+critical sfzinxszvqjw
+3 -// 5: rfekvusuhk
+1 <-> 1: mbnupcnejo
+else rnbdqlgztbnz
+create participant hjspethfzt as 6
+4 -> 6 : hjspethfzt
+end
+break ixnypodamtql
+5 -> 6: puguanpsyd
+alt orlzviopljqq
+5 ->> 0++ : wvhigldxpx
+ [<- 1: ihhysnvjfa
+ [<- 1: fztnxnbuxr
+else qdajcxiimbrs
+0 <-> 3: nljiemrypo
+return peduveslny
+ [-> 4: vjgdvjxvvw
+6 -// 2: sfntwpaqjz
+else vmalxlwjfhsw
+3 ->o 3++ : advhinkssb
+ [-> 6: eonqyipghb
+return kciqawcsrz
+critical shinngzuhxhi
+5 -> 5: eqamboinku
+0 -->x 2: tqdpuocuuk
+else ztzgwgjwuwnq
+6 -> 2++ : axfjtifsvw
+ [<- 5: zimsmrxghg
+return uckymfpxir
+6 ->> 5++ : ozjzwxited
+6 ->o 3: wljtwddsrt
+end
+4 ->x 2: fiqmjelwlk
+return mtyhwrxyxi
+3 --//o 0: wtkepophxx
+6 -> 5: beguororyf
+6 -// 0: bohquoalvn
+else fafmhkgfnfri
+6 ->> 3: gxjttxspve
+else bqbypjcvhvqd
+...kmsgsxbc...
+6 -> 4: lbxfhcelnc
+else lshjaeahnqpc
+end
+end
+@enduml

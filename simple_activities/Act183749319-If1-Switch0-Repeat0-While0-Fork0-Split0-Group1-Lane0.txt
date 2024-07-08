@@ -1,0 +1,18 @@
+@startuml
+group swkesf
+if (fcxzoarpjuuh?) then (dnzi)
+:bzppdwwzfs;
+:lrmkbxdszq; <<load>>
+else (jhwu)
+:vpcrivyfzf;
+:frgrwkqkwt; <<task>>
+-> hewgih;
+:mpohrcabpd; <<save>>
+-> cvxvra;
+:luxtqycxyf; <<task>>
+-> pjtjbr;
+endif
+:xeieichqqh; <<output>>
+end group
+:pojuynnmqz; <<continuous>>
+@enduml

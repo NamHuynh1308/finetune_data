@@ -1,0 +1,21 @@
+@startuml
+hide empty description
+state nanulw
+[*] --> nanulw : wymrf
+nanulw --> fowyeo : pewzh
+fowyeo --> jkscnj : apacw
+jkscnj --> yicrgl : btstd
+state yicrgl {
+potzwh --> xepkgs : oxgno
+xepkgs --> vrhkpt : tlxbc
+vrhkpt --> [*] : sfykf
+}
+yicrgl --> rcksyv : jxcam
+state rcksyv {
+[*] --> afrsxg : gvlie
+afrsxg --> qwrvbs : mbhms
+qwrvbs --> pnzdgw : thgae
+pnzdgw --> afvmty : anjma
+afvmty --> [*] : cevkp
+}
+@enduml

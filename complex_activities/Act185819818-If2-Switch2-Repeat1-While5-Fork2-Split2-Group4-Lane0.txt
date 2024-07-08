@@ -1,0 +1,141 @@
+@startuml
+:lgwcrfeptg;
+if (blprycxdkrxu?) then (kflk)
+:wposzqjouy;
+:zpymxefqqz;
+split
+:qzdug;
+split again
+:nybqewnajv;
+-> uoiunq;
+split again
+:vpnkm;
+split again
+:rliwpidzcd; <<output>>
+-> plcbtk;
+end split
+else (oics)
+fork
+:mcsem;
+fork again
+:ajdeg;
+fork again
+:rcixzfcnau;
+fork again
+:hnopmpqiqh; <<continuous>>
+end merge
+:fmtriwvlms;
+-> gemzuz;
+:knujvjgzpd; <<save>>
+:mryxtvoevk;
+while (zwkfihgnuuym?) is (ndqa)
+backward:cdfhad;
+switch (uonqtgqwizbp?)
+case (gzezozf?)
+:rvrrgwmxja;
+-> ysulmv;
+case (varmpwj?)
+:trmhpbntlo; <<load>>
+-> cpfkiu;
+case (mmwpnjw?)
+:inggtx;
+kill
+case (xoqexgj?)
+:zlhijxvlzf; <<input>>
+endswitch
+backward:aephin;
+:tdkrarobmm;
+-> fbhcfz;
+endwhile (lhhb)
+-[hidden]->
+detach
+endif
+repeat
+if (geznmtjayaqc?) then (pjly)
+(ztjn) elseif (isahhpc?) then (pknl)
+:fjhhfxaiga; <<task>>
+(ypsx) elseif (ozkampj?) then (mmiz)
+:mhjfqssbfj; <<task>>
+-> pbyljv;
+(wdcy) elseif (sqlgobx?) then (lcif)
+:ikdro;
+endif
+:nmnjtnzpcr; <<load>>
+switch (ziawjhtuhtti?)
+case (xmnsikv?)
+:tepxshpqll; <<continuous>>
+case (zecawvt?)
+:achwixigsy; <<output>>
+case (jeczmhh?)
+:fpgvr;
+case (bfakmhu?)
+:iyvguufvqu; <<output>>
+endswitch
+repeat while (ocaaradhdeym?) is (zfju)
+:kqcwmvvrjv; <<task>>
+-> sxgguj;
+group wtcnbm
+:mmokrbtdtr;
+group mxmevv
+:qdeokadxbt; <<task>>
+-> zfsbsy;
+fork
+:ewpjx;
+fork again
+while (gbbkiflcfahd?) is (pumy)
+:sroxtdwlsb; <<task>>
+:ucbab;
+endwhile (tnfj)
+:gdsdllts;
+fork again
+:lkqkxnuypf; <<continuous>>
+-> wehjvf;
+fork again
+while (nrgujufdslxb?) is (tipk)
+backward:fxqcxh;
+:pzxdgknggd; <<task>>
+backward:tptqad;
+backward:aopvbw;
+endwhile (jdpd)
+:wbcihnem;
+fork again
+:bzftengemh;
+-> ptdytf;
+end fork
+group ppihbp
+split
+:jpfff;
+split again
+:mltqxz;
+while (xjaowgjuepoi?) is (vetk)
+:nfbdalcpdy; <<load>>
+-> cqoalp;
+while (wjkfhsnmckaa?) is (mljl)
+:qpykp;
+:hkjtgwgllg;
+-> vczlti;
+backward:aufcct;
+endwhile (qbsx)
+:puxktuct;
+backward:ichewr;
+:wyxgeoktpe;
+-> nezwpj;
+endwhile (ywbh)
+-[hidden]->
+detach
+split again
+:vottjhylaj;
+-> uzbfex;
+split again
+:mncoogjqsu; <<continuous>>
+-> dcaorm;
+end split
+:swdecfdlwg;
+end group
+group hjptmj
+:ueexiijuhi; <<input>>
+stop
+end group
+end group
+end group
+@enduml
