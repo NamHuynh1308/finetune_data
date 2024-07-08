@@ -1,7 +1,0 @@
-@startuml
-hide empty description
-state txtfmy
-txtfmy --> mjopch : lektn
-mjopch --> qwidul : fxxnt
-qwidul --> [*] : pxpct
-@enduml

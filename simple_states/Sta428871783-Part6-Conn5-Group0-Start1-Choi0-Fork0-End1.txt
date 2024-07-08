@@ -1,8 +1,0 @@
-@startuml
-state onbynm
-[*] --> onbynm : jtgla
-onbynm --> xottgn : istyo
-xottgn --> qykwlt : dkysw
-qykwlt --> ovqdld : lepal
-ovqdld --> [*] : wxmhu
-@enduml
