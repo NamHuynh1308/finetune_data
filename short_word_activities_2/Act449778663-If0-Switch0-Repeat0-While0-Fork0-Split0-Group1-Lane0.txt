@@ -1,0 +1,6 @@
+@startuml
+group saw winos
+:conversation maker; <<input>>
+stop
+end group
+@enduml

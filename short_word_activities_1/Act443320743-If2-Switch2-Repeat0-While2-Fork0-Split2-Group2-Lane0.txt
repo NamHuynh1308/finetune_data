@@ -1,0 +1,74 @@
+@startuml
+split
+-[hidden]->
+:lived sanded;
+split again
+-[hidden]->
+:pinochle navigator; <<output>>
+split again
+-[hidden]->
+switch (activators melon?)
+case (trellis turtleneck?)
+:speed paranoid;
+kill
+case (holding exporter?)
+:outstanding braggart;
+case (truffles hens?)
+:tar southeast;
+endswitch
+split again
+-[hidden]->
+split
+:gee grasped;
+split again
+:cavalry pamper;
+split again
+:mama mandrake;
+split again
+:cursory systematically;
+end split
+end split
+group flapped unhappily
+switch (shapes blooded?)
+case (poached trifle?)
+:reward patriots; <<input>>
+-> clap eth;
+case (manifold passages?)
+:tangle karat;
+case (aneurysm triumphed?)
+:eloping eagles; <<procedure>>
+endswitch
+group discovers functioning
+while (sodding shyness?) is (regiment bathing)
+:costumes denouncing;
+backward:lonesome binding;
+while (brutality poles?) is (hater leapt)
+:faggy hiccups;
+-> confidences mealy;
+backward:illegal worthwhile;
+endwhile (attain soviet)
+:unsuitable angels;
+backward:bumped dishwasher;
+endwhile (overreaction saltines)
+:spaceship comeuppance;
+if (stripped welder?) then (lobe stub)
+(copier integrate) elseif (nice prices?) then (duds angels)
+:punching improper; <<output>>
+(lacy gills) elseif (ping acquitted?) then (intimacy getup)
+if (kidneys locusts?) then (catty redundant)
+:elegant digestive;
+:test withering;
+-> askew sunlight;
+else (cast frightful)
+:deluxe annihilate;
+:twosome cry; <<input>>
+:regretting taxpayers; <<input>>
+-> maria ministry;
+endif
+(cloned destructive) elseif (deejay minnow?) then (manufactured slumber)
+:doctor backer; <<procedure>>
+endif
+end group
+stop
+end group
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "leafs scriptures" as 0
+box "pedaling antics"
+participant "virtual uneducated" as 1
+end box
+0 -\\ 1: burton eunuch
+0 -> 1++ : hitchhikers shoddy
+par guesses deaf
+1 ->> 0: dress forgiving
+return conferences repertoire
+1 --> 0: disingenuous eliminates
+else commonplace bedrock
+...turndown radiator...
+1 -> 0!! : gremlin smashing
+end
+@enduml

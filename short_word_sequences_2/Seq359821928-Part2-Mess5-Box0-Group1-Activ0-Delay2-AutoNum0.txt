@@ -1,0 +1,13 @@
+@startuml
+participant "drama summon" as 0
+participant "clergy pageant" as 1
+opt deport wedge
+0 -> 1: vaccine subzero
+1 --> 1: figurines technical
+...cumulative teaches...
+1 ->> 0: flirting sapphire
+1 <-] : caboose jump
+end
+...hubbub bark...
+1 -> 0: thankful opus
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "troops downward" as 0
+participant "effect grabbing" as 1
+participant "cybernetic sadly" as 2
+participant "compensation bracing" as 3
+== hisses pickup ==
+autonumber 10 3
+0 ->> 1: eyesore rebirth
+opt flotation sign
+3 -// 2: swallowing slinking
+autonumber stop
+2 --//o 0++ : zed surfers
+2 -> 2: ensconced elephants
+2 -> 2!! : file sciences
+2 ->x 2++ : drifting videotaped
+end
+return publically pair
+return may hospice
+@enduml

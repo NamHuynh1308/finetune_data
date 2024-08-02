@@ -1,0 +1,28 @@
+@startuml
+participant "dawdling spree" as 0
+box "gleam bros"
+participant "ballgame laboratories" as 1
+participant "cans nobody" as 2
+participant "downside tale" as 3
+end box
+== thrown drops ==
+3 -> 3: shoving swirl
+create participant "raved citing" as 4
+0 -> 4 : raved citing
+0 ->> 4: slanderous against
+...potion horrified...
+0 -> 1++ : posing probe
+...detonate clunk...
+0 --//o 2: derive commercial
+return nada drumming
+loop appropriately triple
+...inclined deceptive...
+3 <-] : awoke technicians
+3 -\\ 3: musician precludes
+else occurred erase
+par snarling correspondent
+1 <-> 2++ : midgets hungry
+end
+end
+return workaholic manning
+@enduml

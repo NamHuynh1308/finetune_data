@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:perverse followed;
+split again
+-[hidden]->
+switch (tickle jewel?)
+case (condition heinous?)
+:colonists admirably;
+case (crowded ruin?)
+:quaker knife;
+case (generating gowns?)
+:padded movements;
+-> stayed tarnish;
+case (uh crooked?)
+:dotes behaved; <<output>>
+-> discs contradict;
+endswitch
+split again
+-[hidden]->
+while (splat medical?) is (gastric junkie)
+backward:chisel plants;
+backward:cancellations glamorous;
+:overdosed wreak;
+:racetrack drawn; <<continuous>>
+endwhile (assortment aboriginal)
+:malpractice scandal;
+end split
+group abundantly swallow
+:gallon itches; <<continuous>>
+stop
+end group
+@enduml

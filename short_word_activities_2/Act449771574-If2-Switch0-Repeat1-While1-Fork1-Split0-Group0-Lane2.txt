@@ -1,0 +1,45 @@
+@startuml
+|1| poppy sine
+|2| gleaming moments
+|1|
+start
+:chests unending; <<procedure>>
+|2|
+if (givers upstate?) then (worshippers answering)
+(stolen argue) elseif (paralyzed supernova?) then (cleanest abs)
+:organise rage;
+(properties cob) elseif (battling adamant?) then (touch miss)
+:altogether extend; <<save>>
+(guaranteeing reflects) elseif (doorknobs bailiffs?) then (chamber songs)
+:machines respectability; <<save>>
+-> habitat lavished;
+(skivvies grave) elseif (crunches incrimination?) then (kitchen wheeling)
+:hall naughty; <<save>>
+endif
+fork
+:surrounded reptilian;
+fork again
+:finances giraffe;
+fork again
+if (graced vacations?) then (tracks affront)
+:forgets slaps;
+:somebody hyperspace; <<load>>
+else (overwhelmed celery)
+:baldness unlock; <<continuous>>
+-> prowl odyssey;
+while (savor server?) is (neighbor tartar)
+:synchronized bald; <<save>>
+:statesmen interstate;
+:mortgage rowboat;
+-> anniversary disinfectant;
+endwhile (ladle systolic)
+-[hidden]->
+detach
+endif
+fork again
+repeat
+:romancing blackberry;
+repeat while (attendance fornication?) is (warfarin overbearing)
+-> snap jihad;
+end merge
+@enduml

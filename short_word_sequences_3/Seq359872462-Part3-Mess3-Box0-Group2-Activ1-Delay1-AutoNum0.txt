@@ -1,0 +1,15 @@
+@startuml
+participant "wily rooms" as 0
+participant "collecting announcer" as 1
+participant "pocketbook classics" as 2
+== disputing parade ==
+par water bottle
+1 -> 0: worrier dobson
+opt fled raven
+2 -\\ 0++ : metaphorical depths
+...reviving evangelical...
+1 -> 1: cybernetic carbon
+return ganged prancing
+end
+end
+@enduml

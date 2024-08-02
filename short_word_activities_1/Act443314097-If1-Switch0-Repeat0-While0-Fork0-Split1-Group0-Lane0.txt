@@ -1,0 +1,18 @@
+@startuml
+split
+:dominick raincoat;
+split again
+:drinker interact;
+-> undertow mules;
+split again
+if (picketing biotech?) then (led unload)
+:projecting broody; <<procedure>>
+:detailing aiding;
+:shear bluest;
+else (mentioned byline)
+:uterine straightforward;
+:collective sublet; <<output>>
+endif
+end split
+end
+@enduml

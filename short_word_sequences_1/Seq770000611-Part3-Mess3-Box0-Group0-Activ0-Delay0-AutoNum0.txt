@@ -1,0 +1,8 @@
+@startuml
+participant "recitation girl" as 0
+participant "defibrillator voicing" as 1
+participant "implanted hollowed" as 2
+1 ->x 2: suntan contraceptives
+0 -// 0: cunning tinted
+1 ->> 2: bonkers recheck
+@enduml

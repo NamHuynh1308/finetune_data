@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:reverence browsing;
+split again
+-[hidden]->
+if (lovers rematch?) then (overstay untrained)
+:unappealing frequency; <<output>>
+:throat stations; <<task>>
+:lofty starring;
+else (vengeful fortuitous)
+:gringo chamber; <<procedure>>
+:negate mimosas;
+kill
+endif
+split again
+-[hidden]->
+:preacher durned; <<input>>
+end split
+:balmoral ancients; <<load>>
+:tsk sickos; <<task>>
+end
+@enduml

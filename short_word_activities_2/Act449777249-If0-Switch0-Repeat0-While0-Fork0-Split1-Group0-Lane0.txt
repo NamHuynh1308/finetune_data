@@ -1,0 +1,12 @@
+@startuml
+start
+split
+:rent hemisphere;
+split again
+:nagged examine; <<input>>
+split again
+:dignitaries overly; <<output>>
+end split
+:fights insecurities; <<load>>
+stop
+@enduml

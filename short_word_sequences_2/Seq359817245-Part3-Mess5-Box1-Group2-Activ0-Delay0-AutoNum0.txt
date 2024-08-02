@@ -1,0 +1,18 @@
+@startuml
+participant "assumes extracts" as 0
+box "benevolent snoring"
+participant "druthers stoke" as 1
+participant "first brethren" as 2
+end box
+== stitch ornamental ==
+alt pod affecting
+ [<- 0: guilty keepers
+0 ->x 2: gourd erection
+2 -\\ 2: profession conceivably
+loop amen wrecker
+1 ->] : falling reconciling
+1 --> 1: enterprising lovelier
+else cage pending
+end
+end
+@enduml

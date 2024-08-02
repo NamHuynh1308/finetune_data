@@ -1,0 +1,22 @@
+@startuml
+participant "reunited frozen" as 0
+participant "presidency meta" as 1
+participant "ills ripples" as 2
+participant "bloods roast" as 3
+participant "groupie brake" as 4
+autonumber 1 2
+4 -> 1++ : feign plenty
+4 --> 1: instilled comeback
+return shillings recordings
+...labrador eyesight...
+1 -> 1: breaths smog
+loop stumble vets
+...adept creak...
+1 --//o 3: moves iceman
+1 -> 1: properties steroid
+par describe pool
+2 ->x 2: window bop
+autonumber stop
+end
+end
+@enduml

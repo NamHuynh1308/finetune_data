@@ -1,0 +1,7 @@
+@startuml
+participant "comrades cherry" as 0
+0 -> 0: infested coded
+par levee luge
+0 <-> 0: dearest dandelions
+end
+@enduml

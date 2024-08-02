@@ -1,0 +1,9 @@
+@startuml
+box "revealing beggar"
+participant "revival shushing" as 0
+end box
+autonumber 9 8
+loop hercules giddyup
+0 -// 0: daze meringue
+end
+@enduml

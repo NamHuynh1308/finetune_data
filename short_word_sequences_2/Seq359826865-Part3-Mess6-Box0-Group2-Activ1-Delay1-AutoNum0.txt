@@ -1,0 +1,17 @@
+@startuml
+participant "simplistic disturbances" as 0
+participant "cornball splat" as 1
+participant "mountaineer brawl" as 2
+2 --//o 0: exceptions docs
+opt themed unreasonable
+0 -> 1: disconnected narcolepsy
+2 -->x 2: muck royal
+par scales crackling
+2 ->] : retake retirement
+...attributed creamy...
+0 -// 1++ : brutal indigenous
+1 --> 1: famously hiccup
+end
+end
+return kilo opportune
+@enduml

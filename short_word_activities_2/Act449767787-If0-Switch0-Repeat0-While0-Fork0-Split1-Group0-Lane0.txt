@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:specify teed;
+split again
+-[hidden]->
+:theaters curt; <<load>>
+split again
+-[hidden]->
+:wrath slept;
+-> afoot avatars;
+end split
+:furtive rebellion; <<save>>
+:subbasement carats; <<save>>
+@enduml

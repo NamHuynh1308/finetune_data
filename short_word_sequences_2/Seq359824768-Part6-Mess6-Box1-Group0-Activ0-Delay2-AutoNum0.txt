@@ -1,0 +1,19 @@
+@startuml
+participant "winery cranium" as 0
+participant "squares catchers" as 1
+participant "assortment mended" as 2
+participant "quantum twosome" as 3
+box "considerate experimented"
+participant "mittens regard" as 4
+end box
+== rotate appraisal ==
+create participant "airline godmother" as 5
+3 -> 5 : airline godmother
+0 -> 1: revenue addiction
+1 -> 4: nutcracker cuffed
+...filter necessarily...
+5 -> 5: repartee tanking
+...industries tippers...
+0 -// 5: summarily larval
+4 -> 2: dismissal mansion
+@enduml

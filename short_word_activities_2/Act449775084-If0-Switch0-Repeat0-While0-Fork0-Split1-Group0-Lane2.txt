@@ -1,0 +1,28 @@
+@startuml
+|1| unplanned baboon
+|2| testified trail
+split
+-[hidden]->
+:musicians slingshot;
+split again
+-[hidden]->
+:constitutional racist; <<procedure>>
+split again
+-[hidden]->
+:smidgen hesitated;
+-> brigadier originals;
+split again
+-[hidden]->
+:farmland counterattack; <<continuous>>
+-> priceless clash;
+end split
+|2|
+:flares bitten; <<procedure>>
+-> slaves linking;
+|1|
+:spiking flak;
+-> panicking coopers;
+|2|
+:smoker whiplash; <<input>>
+end
+@enduml

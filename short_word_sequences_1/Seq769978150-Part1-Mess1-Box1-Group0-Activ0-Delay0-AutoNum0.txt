@@ -1,0 +1,6 @@
+@startuml
+box "spoilsport tremor"
+participant "attachment preserver" as 0
+end box
+0 ->x 0: dullard restorative
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+box "delicious slither"
+participant "druthers dicks" as 0
+box "bobbing unfortunately"
+participant "breasted jabot" as 1
+participant "war lounging" as 2
+end box
+end box
+2 -> 2!! : complications leafy
+0 -> 1: crews damage
+2 ->o 2: routes grand
+critical recognizes sprained
+0 -// 1: briefcase delay
+end
+@enduml

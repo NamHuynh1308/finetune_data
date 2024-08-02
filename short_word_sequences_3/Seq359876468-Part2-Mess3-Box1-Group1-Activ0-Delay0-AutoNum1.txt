@@ -1,0 +1,12 @@
+@startuml
+participant "publishers background" as 0
+box "spasm hairnet"
+participant "establishments escaping" as 1
+end box
+autonumber 9 0
+0 ->> 1: initially reversal
+0 -> 1: gargoyles boilers
+alt rubber leniency
+1 ->] : exotic inflamed
+end
+@enduml

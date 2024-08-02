@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:younger caskets;
+split again
+-[hidden]->
+if (grill riddle?) then (candidate bios)
+:fistful deliberations; <<output>>
+:encountered taker; <<load>>
+-> opened belted;
+:nectar flaunting; <<save>>
+while (wrecks brazen?) is (nineteen kosher)
+:event sparing; <<task>>
+-> coven resenting;
+:boom killer;
+:malfunctions chickened;
+endwhile (host stupendous)
+-[hidden]->
+detach
+else (punishments dyer)
+:tis retrograde;
+:hemoglobin bugging; <<procedure>>
+-> upper breech;
+while (bookkeeper portions?) is (morbid timed)
+:sway martins;
+endwhile (ump screened)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+:soar rinse; <<continuous>>
+split again
+-[hidden]->
+:exchanging shawn;
+while (reimburse motherfuckers?) is (draining deem)
+:botched versed; <<procedure>>
+:passions assisted;
+backward:racketeer fireballs;
+endwhile (acquisitions geographical)
+-[hidden]->
+detach
+end split
+group numbered lapsed
+:rapist teeming; <<save>>
+stop
+end group
+@enduml

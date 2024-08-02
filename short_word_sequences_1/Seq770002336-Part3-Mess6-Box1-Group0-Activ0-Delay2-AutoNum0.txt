@@ -1,0 +1,16 @@
+@startuml
+box "reconnecting botched"
+participant "flavors seriously" as 0
+participant "publicist billiard" as 1
+end box
+participant "fizz torpedoed" as 2
+== menu leotards ==
+0 -\\ 2: concerts whacko
+2 ->o 2: stead bronco
+1 -> 2!! : rawhide acquainted
+2 <-] : fibre reminds
+...neck hitters...
+0 ->> 2: advocacy democracy
+...redundancies handrail...
+1 -> 2: suffocation backed
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+box "glamorous champions"
+participant "mascots injections" as 0
+participant "detergent changes" as 1
+end box
+participant "slopes sculptor" as 2
+== scientific sunning ==
+autonumber 4 7
+0 -\\ 1: scram buckling
+0 -> 0: ill archives
+1 -> 1: purity chandelier
+1 <-] : constipation too
+1 ->o 2++ : hesitated cuticles
+autonumber stop
+2 -> 1: palm ceremonies
+return hideous tardy
+@enduml

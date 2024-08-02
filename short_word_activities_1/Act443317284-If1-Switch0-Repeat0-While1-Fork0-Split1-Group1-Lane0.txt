@@ -1,0 +1,27 @@
+@startuml
+group cut bell
+split
+:funnies salesmen;
+split again
+if (spatula ills?) then (passage cutout)
+(recalling hanks) elseif (ulterior lookout?) then (mastery hairdo)
+:propping fellowship;
+(gearshift superstitious) elseif (ganging institute?) then (consumes inadvertently)
+:lyrics launch;
+(whistles fucker) elseif (post chaperoned?) then (lovingly swank)
+:sweeps sawing; <<save>>
+endif
+split again
+:palpable captioning; <<task>>
+split again
+:paralyzing doc;
+while (guessing manuscripts?) is (laundered guerilla)
+backward:inexcusable honeymooning;
+:mas henchmen; <<procedure>>
+endwhile (mustangs sardines)
+-[hidden]->
+detach
+end split
+stop
+end group
+@enduml

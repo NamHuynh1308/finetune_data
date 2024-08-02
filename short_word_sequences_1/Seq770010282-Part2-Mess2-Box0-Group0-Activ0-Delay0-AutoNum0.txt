@@ -1,0 +1,6 @@
+@startuml
+participant "rhythms plethora" as 0
+participant "jesuit tire" as 1
+1 -\\ 1: bottling roll
+0 -\\ 0: cube weighing
+@enduml

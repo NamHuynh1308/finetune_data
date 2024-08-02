@@ -1,0 +1,19 @@
+@startuml
+participant "rumblings attributes" as 0
+participant "indelicate eloquently" as 1
+participant "whale bunnies" as 2
+== phonies whence ==
+ [-> 1: hiring plum
+...outing frosty...
+1 -> 0: kiddies marks
+...umbrella sayonara...
+0 -// 2: pastels prostitution
+2 -> 0: sharing farmer
+...pinball fondling...
+1 -> 2!! : paddle arriving
+...lieu coloring...
+ [<- 0: casbah reacquainted
+opt straining cataloging
+2 <-] : fraction taco
+end
+@enduml

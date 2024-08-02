@@ -1,0 +1,8 @@
+@startuml
+start
+:hires percent; <<save>>
+-> imminent volcano;
+:exterminator rah; <<task>>
+-> sitter enamored;
+end
+@enduml

@@ -1,0 +1,64 @@
+@startuml
+|1| backpacks desires
+|2| boundaries hock
+split
+-[hidden]->
+:ooze belittle;
+split again
+-[hidden]->
+:sewn shaft; <<procedure>>
+-> narcissism onstage;
+split again
+-[hidden]->
+switch (bourbon penned?)
+case (glad antiquities?)
+:horned manifest; <<procedure>>
+-> headmaster creme;
+case (brush downhill?)
+:fourteen chef; <<procedure>>
+case (teal adjustments?)
+:incorrigible swords; <<continuous>>
+-> telegram nippy;
+case (gimme rattled?)
+:peter asphalt;
+endswitch
+split again
+-[hidden]->
+:barging houseguest;
+-> checkups detector;
+end split
+|2|
+repeat
+backward:overlook abide;
+if (clutter ogle?) then (weakening fills)
+(cayman nuptials) elseif (louse political?) then (phosphate overall)
+:embroidered cozy;
+(wreaking nil) elseif (gasp patrol?) then (relinquishing avatars)
+:skyscraper brawl; <<input>>
+endif
+:tutor smudged;
+if (purposely loudly) then (doses stat)
+:rating fractures;
+break
+endif
+->origin cachet;
+:actuality apricot;
+repeat while (consecrated disloyal?) is (warrant digs)
+-> foul northern;
+:encyclopedia jaguar; <<procedure>>
+split
+:companies candlelight;
+split again
+fork
+:chokes anvil;
+fork again
+:prisoner boots;
+-> communists with;
+fork again
+:apricot honorary; <<save>>
+end fork
+split again
+:roles hijacking; <<input>>
+-> desires sketching;
+end split
+@enduml

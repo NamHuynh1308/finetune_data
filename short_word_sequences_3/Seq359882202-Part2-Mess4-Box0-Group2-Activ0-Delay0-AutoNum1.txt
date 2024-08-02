@@ -1,0 +1,15 @@
+@startuml
+participant "shield shareholder" as 0
+participant "finishing demand" as 1
+autonumber 7 3
+opt pirates clanking
+1 ->o 1: unacceptable commercially
+0 -> 0: farthing spelt
+ [-> 0: rides machinations
+autonumber stop
+alt bread ducked
+0 ->] : undercurrent consumer
+autonumber resume
+end
+end
+@enduml

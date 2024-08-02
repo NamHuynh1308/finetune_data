@@ -1,0 +1,26 @@
+@startuml
+start
+:marshmallow cookies; <<load>>
+if (revulsion shredder?) then (clubbed per)
+(lineage duffle) elseif (shocks monthly?) then (ax carter)
+split
+:keyboards dormant;
+split again
+:sprawled upbeat;
+split again
+:cheep gambit; <<continuous>>
+-> grounded demure;
+split again
+:attributes spectral; <<output>>
+end split
+(manuscripts indignities) elseif (gloomy vanquished?) then (vendors collie)
+:implication rosin; <<continuous>>
+(rules giggly) elseif (coffers falls?) then (happy spewing)
+:smash bellman; <<input>>
+-> aforethought grind;
+(fashion crime) elseif (ballpark compared?) then (plumber nightmares)
+:sizzle declare; <<input>>
+-> safely familiarize;
+endif
+end
+@enduml

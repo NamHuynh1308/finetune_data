@@ -1,0 +1,20 @@
+@startuml
+participant "called chatted" as 0
+participant "swivel sprints" as 1
+participant "lowe elliptical" as 2
+box "saddled rebirth"
+participant "cubbies commando" as 3
+participant "gammy disgusted" as 4
+end box
+4 -> 3: trace up
+3 -> 1: nuts satanic
+alt butterball gray
+...poisons orbital...
+1 -> 3!! : hernias hilarious
+0 -// 3++ : edible mysteriously
+2 <-> 4: manicure killing
+create participant "shoveling sender" as 5
+1 -> 5 : shoveling sender
+end
+return chauffeur mezzanine
+@enduml

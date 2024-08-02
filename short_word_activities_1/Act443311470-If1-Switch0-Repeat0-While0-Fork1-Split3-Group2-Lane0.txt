@@ -1,0 +1,51 @@
+@startuml
+split
+-[hidden]->
+:brin tearing;
+split again
+-[hidden]->
+if (predecessor freedoms?) then (dredging solved)
+(jeopardizing neatness) elseif (watches picking?) then (facets lunchroom)
+:stupidity amigos;
+(browsing costa) elseif (credit mistaken?) then (drinkers mercury)
+:grave beaded;
+(braces mare) elseif (dipped across?) then (nerdy cannonball)
+:cross baskets; <<save>>
+endif
+split again
+-[hidden]->
+split
+:franc skittish;
+split again
+:paralyzed sickos;
+split again
+:flustered elections; <<procedure>>
+end split
+split again
+-[hidden]->
+:exceed pooling;
+end split
+group covet peek
+:archives openness; <<input>>
+fork
+:due hoop;
+fork again
+split
+:cranes miscommunication;
+split again
+:seared keel; <<continuous>>
+split again
+:marks categorized;
+split again
+:become nations;
+-> sorrows portrays;
+end split
+fork again
+:broomstick dialing; <<output>>
+end fork
+end group
+group emotional longtime
+:classic impregnated;
+stop
+end group
+@enduml

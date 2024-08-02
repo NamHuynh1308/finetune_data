@@ -1,0 +1,9 @@
+@startuml
+box "makeover dial"
+participant "healthier hobbling" as 0
+end box
+create participant "per complexion" as 1
+0 -> 1 : per complexion
+...gizmos lapses...
+1 -> 0: peacefully considerably
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "suck ick" as 0
+participant "subjecting different" as 1
+participant "massive sighing" as 2
+1 -->x 2: aisle dawdling
+0 --//o 0: meter bowed
+critical prevail straightaway
+ [<- 2: handful proposed
+0 -> 1: nuttier hoof
+1 -> 1: sunken pecks
+else sailing fanatic
+end
+@enduml

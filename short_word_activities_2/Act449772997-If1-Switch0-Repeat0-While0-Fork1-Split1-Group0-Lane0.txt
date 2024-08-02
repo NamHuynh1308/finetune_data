@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:lackeys bowline;
+split again
+-[hidden]->
+:tones contacting; <<continuous>>
+split again
+-[hidden]->
+if (whims nosedive?) then (choose greenhouse)
+(maroon adjust) elseif (trove attempting?) then (meaning squashing)
+:gracefully hotbed; <<task>>
+(validated flawlessly) elseif (dispute tooth?) then (aw layer)
+:deserted area; <<continuous>>
+endif
+end split
+fork
+:clogged badder;
+fork again
+:antics snitch;
+kill
+fork again
+:waitress leap; <<input>>
+fork again
+:survive privacy; <<input>>
+end merge
+:scared ultimatums; <<continuous>>
+-> unintentionally nightmares;
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "relieving diaper" as 0
+0 -->x 0++ : meanness expect
+create participant "misplaced sophisticated" as 1
+0 -> 1 : misplaced sophisticated
+1 <-] : bloods techniques
+return clientele impotence
+@enduml

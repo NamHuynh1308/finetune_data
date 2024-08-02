@@ -1,0 +1,44 @@
+@startuml
+|1| desktop something
+|2| stalling sundaes
+split
+-[hidden]->
+:insights mutiny;
+split again
+-[hidden]->
+:glow menage; <<load>>
+split again
+-[hidden]->
+:upstart midwives;
+-> apology heroic;
+split again
+-[hidden]->
+:caterer ethic;
+kill
+end split
+|2|
+:paints dapper;
+:ducky scavenging; <<output>>
+-> rectify gestures;
+fork
+:probability safes;
+fork again
+:bloodied lovesick;
+fork again
+:jot stardom;
+end fork
+|1|
+while (cools dabbled?) is (dozens invites)
+backward:reviewed fashioned;
+split
+:secured mercenary;
+split again
+:replica snacks;
+split again
+:lobby piano; <<procedure>>
+end split
+backward:baby scotches;
+endwhile (mustache fluids)
+:physician compared;
+stop
+@enduml

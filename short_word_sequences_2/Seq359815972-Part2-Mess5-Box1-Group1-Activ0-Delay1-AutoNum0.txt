@@ -1,0 +1,14 @@
+@startuml
+box "teaspoon looting"
+participant "damaged cats" as 0
+end box
+opt orbed gluttony
+ [<- 0: chilly wench
+0 -->x 0: brushed revolutionize
+end
+...knoll cheddar...
+0 -> 0: article ruff
+create participant "foxhole disallowed" as 1
+0 -> 1 : foxhole disallowed
+1 -->x 1: coconuts recap
+@enduml

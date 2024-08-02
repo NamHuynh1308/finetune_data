@@ -1,0 +1,25 @@
+@startuml
+start
+:vehicle brute; <<continuous>>
+-> fossil timer;
+group itself joes
+switch (bookends annually?)
+case (marching telegram?)
+:pray staff; <<output>>
+case (gunk enthralled?)
+:hitching armour;
+-> caterers cocoon;
+case (fatigues munitions?)
+split
+:lighted cliche;
+split again
+:performer bandages; <<save>>
+split again
+:cutthroat deadly;
+end split
+endswitch
+:bios yap;
+-> islands devastation;
+stop
+end group
+@enduml

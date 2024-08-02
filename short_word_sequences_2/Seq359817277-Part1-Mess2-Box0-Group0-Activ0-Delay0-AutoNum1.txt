@@ -1,0 +1,8 @@
+@startuml
+participant "closing comedy" as 0
+== innards cowboy ==
+autonumber 2 2
+ [<- 0: sank stole
+0 <-] : obsession pagers
+autonumber stop
+@enduml

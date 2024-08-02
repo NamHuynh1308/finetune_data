@@ -1,0 +1,9 @@
+@startuml
+:chancellor hers; <<continuous>>
+-> migration apprised;
+group socks cams
+:unimportant central;
+:decipher interrupting; <<load>>
+end group
+stop
+@enduml

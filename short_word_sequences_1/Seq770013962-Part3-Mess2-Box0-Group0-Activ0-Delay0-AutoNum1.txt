@@ -1,0 +1,8 @@
+@startuml
+participant "victory capture" as 0
+participant "meta hydrolase" as 1
+autonumber 9 4
+create participant "semiautomatic wasp" as 2
+1 -> 2 : semiautomatic wasp
+1 <-] : thyroid revealed
+@enduml

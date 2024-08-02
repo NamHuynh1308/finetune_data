@@ -1,0 +1,8 @@
+@startuml
+participant "sort amendments" as 0
+participant "shredded skid" as 1
+autonumber 0 5
+1 -> 0++ : installation parable
+ [<- 1: has figured
+return sung there
+@enduml

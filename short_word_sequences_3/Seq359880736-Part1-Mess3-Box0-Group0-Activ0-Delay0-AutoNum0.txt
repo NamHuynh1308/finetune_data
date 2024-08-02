@@ -1,0 +1,6 @@
+@startuml
+participant "irony executed" as 0
+0 ->] : riddled supermodel
+0 <-] : thermal sat
+0 -> 0: insists clogs
+@enduml

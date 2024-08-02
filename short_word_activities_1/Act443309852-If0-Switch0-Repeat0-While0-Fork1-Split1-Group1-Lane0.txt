@@ -1,0 +1,28 @@
+@startuml
+split
+:synthetic shirts;
+split again
+fork
+:enterprising readout;
+fork again
+:leeway approached; <<procedure>>
+-> proactive pause;
+fork again
+:sardine koi; <<procedure>>
+fork again
+:authorities leprechaun;
+-> rebellion curmudgeon;
+end merge
+split again
+:indoors holies; <<input>>
+split again
+:sac ree;
+end split
+group bertha alive
+:stormed backhand;
+-> yams cafeteria;
+:brie sizeable; <<output>>
+-> kris determining;
+stop
+end group
+@enduml

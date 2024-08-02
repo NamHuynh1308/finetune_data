@@ -1,0 +1,11 @@
+@startuml
+box "corsage craftsmen"
+participant "hospitalized sop" as 0
+end box
+== statues tulip ==
+autonumber 5 1
+ [<- 0: logo parlors
+par vastly careful
+0 ->] : quantity retaliatory
+end
+@enduml

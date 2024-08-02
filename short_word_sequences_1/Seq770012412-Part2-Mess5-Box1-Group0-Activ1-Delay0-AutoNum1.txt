@@ -1,0 +1,17 @@
+@startuml
+participant "antiques poster" as 0
+box "stair sidle"
+participant "releases own" as 1
+end box
+== limerick seaboard ==
+autonumber 1 10
+0 -// 0++ : threat rangers
+autonumber stop
+1 -> 0: continues conquer
+ [<- 1: ceased tins
+return persistent visualize
+1 -->x 1: fop hoedown
+autonumber resume
+ [<- 0: robe flows
+autonumber stop
+@enduml

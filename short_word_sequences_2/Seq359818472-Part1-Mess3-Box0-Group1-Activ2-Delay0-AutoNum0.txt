@@ -1,0 +1,12 @@
+@startuml
+participant "hinting dispose" as 0
+== feels ugly ==
+opt cool march
+ [-> 0: readings goalie
+0 -> 0++ : discourteous spirals
+else kaiser erasers
+0 -\\ 0++ : skip antidote
+end
+return capsule matey
+return hiccups sipping
+@enduml

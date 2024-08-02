@@ -1,0 +1,6 @@
+@startuml
+participant "washrooms inflexible" as 0
+autonumber 2 9
+0 -> 0++ : mayo sometimes
+return whale rabbit
+@enduml

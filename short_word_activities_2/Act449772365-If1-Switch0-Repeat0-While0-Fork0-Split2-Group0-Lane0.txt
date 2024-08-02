@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:saws imbecilic;
+split again
+-[hidden]->
+:conflicts retreated;
+split again
+-[hidden]->
+:digesting downloaded; <<procedure>>
+split again
+-[hidden]->
+split
+:countess fairer;
+split again
+:demon creative; <<input>>
+split again
+:puzzle meat; <<load>>
+split again
+:medina care;
+end split
+end split
+:ills abundant; <<output>>
+:pontoon fearsome;
+if (yakking petite?) then (activities outing)
+:deductible spinner; <<output>>
+else (parks dominoes)
+:resilient legislate; <<input>>
+:retired insatiable; <<load>>
+-> benevolent grumbling;
+endif
+@enduml

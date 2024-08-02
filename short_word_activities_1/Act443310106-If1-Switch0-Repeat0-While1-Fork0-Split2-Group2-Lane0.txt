@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:solicitor unresolved;
+split again
+-[hidden]->
+:volunteers kinship; <<task>>
+split again
+-[hidden]->
+while (smug deflower?) is (marbles confiscated)
+backward:unencumbered conditioners;
+endwhile (painter relationship)
+:barracks concealing;
+end split
+split
+:mangos circumference;
+split again
+if (panicked wart?) then (version toxic)
+:insult tranquility;
+:boobs footsies; <<load>>
+:hits reflecting;
+kill
+else (blind slap)
+:viewing inference; <<load>>
+-> class quilt;
+kill
+endif
+split again
+:principles comprise; <<continuous>>
+split again
+:harp cam; <<input>>
+-> tripping portrayal;
+end split
+group meteor rebound
+:factory plagued;
+group vibrating planners
+:disgrace trimmed;
+stop
+end group
+end group
+@enduml

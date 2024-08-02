@@ -1,0 +1,5 @@
+@startuml
+start
+:definition cathedral; <<continuous>>
+end
+@enduml

@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:nomads tableau;
+split again
+-[hidden]->
+:just blackjack; <<procedure>>
+split again
+-[hidden]->
+if (nip fireball?) then (survived convoy)
+:mellow dragoons;
+:boats ruining; <<task>>
+:sores bombed;
+while (alastor sucker?) is (joke bendy)
+backward:fragment tag;
+:nuthouse bounced;
+endwhile (sportswear scoops)
+-[hidden]->
+detach
+else (seals contractor)
+:optometrist counted;
+-> thoracic always;
+:tryouts tab; <<continuous>>
+:kiosk behavioral; <<input>>
+endif
+split again
+-[hidden]->
+:lockup rouge; <<save>>
+end split
+group riddler hints
+switch (funded statuary?)
+case (sulfur criminal?)
+:variations counsellor; <<procedure>>
+case (pecked multiplication?)
+:hopes deacon; <<input>>
+-> eulogy surging;
+case (pretzel inhumane?)
+if (essentially wool?) then (lasts idealistic)
+(eggshells deflection) elseif (betrayer pigskin?) then (resentments unbeknownst)
+:turns vivacious; <<output>>
+(millionaire sporting) elseif (rabid brakes?) then (meteor maliciously)
+:misunderstandings rangers;
+endif
+case (understatement infused?)
+:boysenberry chamberlain; <<input>>
+endswitch
+stop
+end group
+@enduml

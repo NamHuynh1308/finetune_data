@@ -1,0 +1,7 @@
+@startuml
+box "museum homegrown"
+participant "gestating hug" as 0
+end box
+0 --> 0++ : contaminated reacquainted
+return decapitate familiars
+@enduml

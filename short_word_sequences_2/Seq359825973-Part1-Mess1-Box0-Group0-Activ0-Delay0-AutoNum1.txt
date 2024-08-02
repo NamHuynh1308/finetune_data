@@ -1,0 +1,5 @@
+@startuml
+participant "cuticles complains" as 0
+autonumber 6 5
+0 -> 0!! : buying gated
+@enduml

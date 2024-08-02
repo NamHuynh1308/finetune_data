@@ -1,0 +1,11 @@
+@startuml
+participant "tastes magazines" as 0
+participant "females elevate" as 1
+participant "fueled collective" as 2
+participant "single talons" as 3
+== dinky sharpshooters ==
+2 -->x 0: sublevel stereotypes
+2 -> 3: smelly rushes
+0 -->x 2: commendable toxic
+0 -\\ 1: kind polls
+@enduml

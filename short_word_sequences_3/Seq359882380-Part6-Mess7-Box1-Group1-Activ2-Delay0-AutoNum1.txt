@@ -1,0 +1,26 @@
+@startuml
+participant "attain barbarians" as 0
+participant "lab suppertime" as 1
+box "honourable squirm"
+participant "dents unwieldy" as 2
+participant "joker explore" as 3
+participant "recklessness unblemished" as 4
+end box
+autonumber 0 0
+alt alligator mirth
+4 -> 1: shelled grizzly
+autonumber stop
+0 -// 1: hops recaptured
+autonumber resume
+end
+ [-> 4: monger weighed
+0 -> 0++ : handicap patron
+0 --//o 2++ : fabulous curveball
+create participant "rectify bricked" as 5
+4 -> 5 : rectify bricked
+return moist baron
+autonumber stop
+ [<- 3: installing stickler
+autonumber resume
+return darkened responding
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:applications lucid;
+split again
+-[hidden]->
+switch (bloodshot kay?)
+case (sober graduate?)
+:flaws whisky;
+case (renovation flattery?)
+:condoms carolling;
+kill
+case (charges masking?)
+:fuses harbors;
+endswitch
+split again
+-[hidden]->
+:your allowable;
+split again
+-[hidden]->
+:scurvy incision; <<input>>
+end split
+:seventy scissor; <<save>>
+stop
+@enduml

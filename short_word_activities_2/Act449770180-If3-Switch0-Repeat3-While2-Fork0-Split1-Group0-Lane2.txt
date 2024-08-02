@@ -1,0 +1,77 @@
+@startuml
+|1| plural search
+|2| awards telemetry
+split
+-[hidden]->
+:mariner voodoo;
+split again
+-[hidden]->
+repeat
+:amiss moonlighting;
+backward:laser cordoned;
+repeat while (checkout mad?) is (bonus frank)
+-> unlike narcotics;
+split again
+-[hidden]->
+:paper embryo; <<continuous>>
+-> talkie chunks;
+split again
+-[hidden]->
+repeat
+:detectives gizzard;
+:smoking profile;
+if (impacted south) then (faceless adversely)
+:bam animated;
+break
+endif
+->roulette clearer;
+:banana moss;
+:listened wastebasket; <<load>>
+repeat while (obese dying?) is (inferno mite)
+-> brokerage marital;
+end split
+|2|
+if (layer profit?) then (loans salvage)
+(monogamous incessantly) elseif (formulas covert?) then (preachers dimensions)
+:cherries centered; <<load>>
+(sinking faraway) elseif (dramatically wait?) then (inseparable mulled)
+:eggs caritas; <<input>>
+(conjugate pardon) elseif (wasting sweetness?) then (remark designs)
+:dashing mountainside;
+-> deserter cosy;
+(crust deplore) elseif (plaintiff warriors?) then (practices excruciating)
+:copy weirdest;
+endif
+|1|
+if (tenderness princess?) then (summertime surviving)
+:afoot pampered; <<output>>
+if (monetary loudly?) then (emporium complacent)
+:exemption gainful; <<continuous>>
+:transitional mastered;
+while (tux charities?) is (prepare etiquette)
+backward:gripe playthings;
+:limos calculus;
+-> bearded consistent;
+backward:displayed scenic;
+endwhile (glade panama)
+-[hidden]->
+detach
+else (lean yearnings)
+:everything stripped;
+-> shoplifters instance;
+while (pedicures satisfy?) is (compulsion gesture)
+:urban limelight;
+:nitrous cherished;
+endwhile (rewriting pedicures)
+-[hidden]->
+detach
+endif
+else (continuously awarded)
+repeat
+backward:sideline budge;
+repeat while (timers laborers?) is (invented souvenirs)
+endif
+:drumsticks waitressed; <<load>>
+-> boogie outlive;
+stop
+@enduml

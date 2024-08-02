@@ -1,0 +1,11 @@
+@startuml
+box "novel ted"
+participant "tushie communing" as 0
+end box
+autonumber 6 6
+0 <-] : dailies murderous
+0 -> 0++ : obliged freaked
+0 -> 0++ : class inadequate
+return grasp blackmail
+return taunt seep
+@enduml

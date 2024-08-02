@@ -1,0 +1,8 @@
+@startuml
+group cryptic collars
+:boating attempted; <<load>>
+:tapioca deceased; <<save>>
+-> depicts pep;
+end group
+stop
+@enduml

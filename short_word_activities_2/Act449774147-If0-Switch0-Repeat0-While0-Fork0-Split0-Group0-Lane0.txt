@@ -1,0 +1,7 @@
+@startuml
+start
+:quarter hookup; <<continuous>>
+:ugh ornate; <<continuous>>
+-> sadder obscenities;
+stop
+@enduml

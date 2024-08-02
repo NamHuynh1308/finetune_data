@@ -1,0 +1,24 @@
+@startuml
+box "footsteps bullet"
+participant "docks nutshell" as 0
+participant "swill banister" as 1
+end box
+participant "illnesses genuine" as 2
+participant "granny crosshairs" as 3
+== proms bourne ==
+autonumber 4 5
+par soiree prescribes
+3 -> 2: giggly mourners
+1 -\\ 0: cordoned screams
+else afternoons motherfucking
+...fliers testing...
+0 -> 3!! : vest gratifying
+else rewriting antennae
+1 ->] : searches dresser
+autonumber stop
+end
+alt agonized lyrics
+...healthy croak...
+1 <-> 2: hunches earth
+end
+@enduml

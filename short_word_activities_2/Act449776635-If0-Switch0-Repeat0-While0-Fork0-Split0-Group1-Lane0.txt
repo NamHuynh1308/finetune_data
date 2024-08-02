@@ -1,0 +1,10 @@
+@startuml
+start
+:cinnamon tiger;
+:done barge; <<output>>
+group book simply
+:discuss seamless; <<procedure>>
+-> remitting engine;
+stop
+end group
+@enduml

@@ -1,0 +1,33 @@
+@startuml
+start
+:distinct opponent; <<output>>
+-> telekinesis coroner;
+fork
+:testifying demographic;
+fork again
+repeat
+:stomachs ways;
+:appreciated disgraced;
+if (wracking renewal) then (lasted eventually)
+:contesting pursuits;
+break
+endif
+->suffers deflower;
+:bran absence;
+:actresses fits;
+repeat while (duly getting?) is (procrastination crackpot)
+fork again
+switch (hob acme?)
+case (lockers malevolent?)
+:vera draining; <<procedure>>
+-> shed moisture;
+case (blows appearances?)
+:ag category; <<continuous>>
+case (strikes cocaine?)
+:instructed skeeters;
+endswitch
+end merge
+:condescending engages; <<load>>
+-> auctioning hyper;
+end
+@enduml

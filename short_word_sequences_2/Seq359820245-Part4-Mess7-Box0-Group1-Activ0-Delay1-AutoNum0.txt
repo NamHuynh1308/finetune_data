@@ -1,0 +1,16 @@
+@startuml
+participant "suitable teapot" as 0
+participant "undies chamberlain" as 1
+participant "sales baton" as 2
+2 -> 2!! : oedipal fret
+2 <-] : elevate sophomore
+ [<- 2: publically giggling
+2 ->o 2: refrain fondle
+1 --//o 0: views screwing
+create participant "colorful contestant" as 3
+1 -> 3 : colorful contestant
+break ivories kids
+...kobo objections...
+3 -> 0: pecs forbids
+end
+@enduml

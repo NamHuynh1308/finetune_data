@@ -1,0 +1,28 @@
+@startuml
+participant "pimped chic" as 0
+participant "rejection season" as 1
+box "sunken compulsive"
+participant "spectacular crater" as 2
+participant "firm tombs" as 3
+end box
+autonumber 2 0
+ [<- 3: pollen segments
+...optimum foregone...
+2 ->o 1: adventure alone
+autonumber stop
+alt bell regrets
+2 -> 2++ : spies buckle
+...teachers bumpy...
+3 ->x 2: diabetic powers
+return palpitations stories
+create participant "fasting leather" as 4
+1 -> 4 : fasting leather
+autonumber resume
+...racist siblings...
+4 -\\ 4: beer masses
+autonumber stop
+else cardiac enforced
+0 ->x 1: resolve cruise
+autonumber resume
+end
+@enduml

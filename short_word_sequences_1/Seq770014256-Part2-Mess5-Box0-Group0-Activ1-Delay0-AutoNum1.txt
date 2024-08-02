@@ -1,0 +1,15 @@
+@startuml
+participant "confirmation processing" as 0
+participant "overruled blasters" as 1
+== groove unheard ==
+autonumber 6 3
+0 -> 0: detectors lambda
+1 -// 0: phantoms bold
+autonumber stop
+ [<- 1: sophisticated reconvene
+autonumber resume
+1 ->x 1++ : lift hairline
+autonumber stop
+0 -> 0: waistband privacy
+return western likewise
+@enduml

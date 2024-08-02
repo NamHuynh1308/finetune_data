@@ -1,0 +1,25 @@
+@startuml
+|1| grownup penguin
+|2| subcommittee landed
+|1|
+start
+fork
+:fib during;
+fork again
+:travellers turns;
+fork again
+:anchovies headmaster;
+-> fell yellow;
+fork again
+:settles headlining; <<procedure>>
+-> converting sunroom;
+end fork
+|2|
+:ethic publishing;
+if (biding bay?) then (breadth cyclone)
+:scoured clot; <<output>>
+else (pole gadget)
+:accelerate vindication;
+-> bird disregard;
+endif
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "tires enrich" as 0
+participant "regeneration spike" as 1
+participant "impolite stab" as 2
+create participant "sturgeon ream" as 3
+2 -> 3 : sturgeon ream
+1 <-] : incentive semester
+1 ->o 2: seascape unveil
+...purge submersible...
+0 -> 0++ : tunes terrifies
+break suggesting dangled
+1 -->x 3: fraternizing pint
+break soul wallet
+2 -> 0!! : writer blowup
+end
+end
+return shawn aspen
+@enduml

@@ -1,0 +1,33 @@
+@startuml
+start
+if (gondola filmmaker?) then (pat parlour)
+(certifiable yesterday) elseif (whichever intensive?) then (broth spectator)
+split
+:tray gonzo;
+split again
+:injected legged;
+split again
+:burger boorish; <<procedure>>
+end split
+(mysticism nightcap) elseif (airtight sauerkraut?) then (readers townie)
+:eloquently certificates; <<continuous>>
+(speak demolitions) elseif (recant madness?) then (teriyaki hopelessness)
+:locker fleet; <<task>>
+-> jailbreak ballplayer;
+endif
+fork
+:barring burgeoning;
+fork again
+split
+:delivery backstreet;
+split again
+:puce utter;
+split again
+:grain constituents;
+end split
+fork again
+:affections admittance; <<procedure>>
+-> wet awoke;
+end merge
+end
+@enduml

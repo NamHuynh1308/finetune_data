@@ -1,0 +1,38 @@
+@startuml
+|1| gargoyle gladiator
+|2| slopes cornucopia
+split
+-[hidden]->
+:forced goading;
+split again
+-[hidden]->
+:embarrassingly bulldozers; <<input>>
+-> hyperbole skimpy;
+split again
+-[hidden]->
+switch (slithered con?)
+case (reaching momentary?)
+:nosy vibe;
+case (also bothers?)
+:burley contrast;
+kill
+case (airlift canteen?)
+:pushing cheery;
+case (demand facility?)
+:sheldrake florence; <<output>>
+-> cuddle spiny;
+endswitch
+end split
+|2|
+:asks cadavers;
+|1|
+:billboard cerebral; <<load>>
+-> request aiming;
+|2|
+:inconsiderate area; <<input>>
+-> methadone freaking;
+:criminalistics closet; <<task>>
+:unplanned sands;
+-> reborn trickery;
+stop
+@enduml

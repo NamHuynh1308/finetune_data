@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:entering chauffeur;
+split again
+-[hidden]->
+repeat
+backward:endurance steep;
+backward:theorem skag;
+repeat while (cowardice exist?) is (decorated decadent)
+split again
+-[hidden]->
+:makeover ribbons; <<procedure>>
+-> beavers stories;
+split again
+-[hidden]->
+:polka genius;
+kill
+end split
+:rifles barrier; <<output>>
+-> gays possession;
+:diplomas dwell;
+:embody spoken;
+-> pester scoring;
+end
+@enduml

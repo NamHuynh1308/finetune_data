@@ -1,0 +1,15 @@
+@startuml
+box "rats mi"
+participant "book pug" as 0
+participant "dizzying sol" as 1
+participant "nor staggering" as 2
+end box
+== helping timbre ==
+autonumber 8 10
+alt prodded fiance
+ [<- 2: conditions commanders
+1 -> 2: tagging goodwill
+1 -> 1: photographs classical
+else professionalism shamed
+end
+@enduml

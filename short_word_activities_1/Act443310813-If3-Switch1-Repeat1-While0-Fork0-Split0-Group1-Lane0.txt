@@ -1,0 +1,44 @@
+@startuml
+start
+group warehouse wares
+if (dancer stigmata?) then (highball rattling)
+:wealthiest primal; <<input>>
+-> dwells dining;
+:scout necklaces; <<input>>
+-> anoint sorbet;
+kill
+else (oblige usable)
+if (picketing elks?) then (smears abdomen)
+(tragedy inspect) elseif (linoleum kidnapped?) then (slips ere)
+:guilt interior;
+(physiological outfit) elseif (madden labor?) then (pressing require)
+:inexperienced miller;
+(prisoners chess) elseif (shimmering toilet?) then (batman frees)
+:editor lobes; <<output>>
+(senseless heyday) elseif (meathead coals?) then (derail checking)
+:unwrapping norther;
+endif
+endif
+switch (firs holies?)
+case (caters console?)
+if (posed disabilities?) then (valet exterminated)
+:tap foolproof; <<output>>
+-> outrun pressured;
+else (skimp musicals)
+:patriot shackle; <<save>>
+-> howling ignore;
+:ideally jaws; <<load>>
+-> entitle pancake;
+:captivating loans;
+kill
+endif
+case (spotting irrational?)
+:ooh spa; <<task>>
+endswitch
+repeat
+backward:bazaar slanderous;
+:resin cushions; <<continuous>>
+repeat while (sentence nuked?) is (parody reminisce)
+stop
+end group
+@enduml

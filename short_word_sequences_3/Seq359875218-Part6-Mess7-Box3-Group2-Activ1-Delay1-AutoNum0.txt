@@ -1,0 +1,28 @@
+@startuml
+box "ballistic copying"
+participant "groovy plaything" as 0
+participant "scotch yell" as 1
+box "humor sodding"
+participant "nourishment sack" as 2
+box "armory carbo"
+participant "gat happy" as 3
+participant "brick narrative" as 4
+end box
+end box
+end box
+== whiny fires ==
+par lynching progeny
+2 -> 0: muchachos poring
+1 --//o 0: while vintage
+end
+...housekeeping written...
+0 ->] : hymn studies
+create participant "satisfies poisoned" as 5
+4 -> 5 : satisfies poisoned
+opt red chompers
+4 <-> 2: idols magnets
+1 -> 0: expand wreak
+end
+4 ->x 4++ : motel tendons
+return moly vera
+@enduml

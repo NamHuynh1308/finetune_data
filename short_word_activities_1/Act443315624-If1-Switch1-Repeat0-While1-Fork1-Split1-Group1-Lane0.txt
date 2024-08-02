@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:earful finds;
+split again
+-[hidden]->
+:send benefits; <<load>>
+split again
+-[hidden]->
+if (longer robbins?) then (mouse incinerate)
+(perks coupe) elseif (regretting romancing?) then (masking dorado)
+:shards palms;
+(rollers shattered) elseif (tweet iguana?) then (hangnail outright)
+:ewe crescent;
+endif
+end split
+group deplorable uphold
+fork
+:machismo doe;
+fork again
+:pineapple starts;
+while (confide swallow?) is (fox choppers)
+switch (exporter exponential?)
+case (lasting turns?)
+:mock trips;
+case (framers courtside?)
+:bait pigtails; <<load>>
+endswitch
+endwhile (melting indulge)
+-[hidden]->
+detach
+fork again
+:semantics sewers; <<task>>
+fork again
+:fundamentally subordinate; <<load>>
+end fork
+stop
+end group
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "misinterpretation purely" as 0
+ [<- 0: reps impeached
+0 -> 0: sausage mopping
+@enduml

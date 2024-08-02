@@ -1,0 +1,32 @@
+@startuml
+|1| cotton sleepwalking
+|2| reapers yogurt
+split
+-[hidden]->
+:flashed husky;
+split again
+-[hidden]->
+:freckling frosty; <<procedure>>
+split again
+-[hidden]->
+if (raider boxes?) then (virtual roommate)
+:bossed bogus; <<continuous>>
+:headstone rolling;
+-> alter attitudes;
+else (pampered kite)
+:gigantic snoopy; <<input>>
+-> persecute blonds;
+endif
+end split
+|2|
+:addressing interview; <<output>>
+|1|
+:navigator charmed; <<continuous>>
+:coincidences sliver; <<load>>
+-> palpitations monogrammed;
+repeat
+:aggravate seclusion; <<save>>
+-> burdened turkey;
+repeat while (therapist braver?) is (judgments cloud)
+stop
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "arresting portrayed" as 0
+participant "porky formality" as 1
+participant "hazy thrashing" as 2
+participant "infarction keycard" as 3
+== cop unconsciousness ==
+1 --//o 0: none chat
+create participant "chronology movie" as 4
+3 -> 4 : chronology movie
+...grape strongly...
+2 -> 0: jellybean church
+1 ->> 3: roaring croft
+par ambulances rainstorm
+3 ->> 0: understanding walk
+end
+@enduml

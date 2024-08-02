@@ -1,0 +1,25 @@
+@startuml
+:suffer nu; <<output>>
+group seem doohickey
+switch (magazines segment?)
+case (airhead rabbit?)
+if (goggles ennui?) then (tasks humps)
+(sprouting soup) elseif (calzones flake?) then (cat ipecac)
+:credit free; <<load>>
+(poppa reassigning) elseif (advice phase?) then (clicking tingly)
+:referred executor;
+endif
+case (gated combat?)
+:prerogative supportive; <<save>>
+case (marveling extend?)
+fork
+:passable screened;
+fork again
+:contracts adjustment; <<save>>
+fork again
+:publisher tarnish; <<procedure>>
+end merge
+endswitch
+stop
+end group
+@enduml

@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:spied agenda;
+split again
+-[hidden]->
+:olive modest;
+split again
+-[hidden]->
+fork
+:normal mopped;
+fork again
+:terrify untamed;
+fork again
+:ballot clumsy; <<procedure>>
+fork again
+:conductor pest; <<procedure>>
+end merge
+end split
+fork
+:hoses fliers;
+fork again
+:dawning asunder;
+-> deeply stooping;
+fork again
+:consistently upfront; <<task>>
+-> nosing academy;
+end merge
+if (womanizing waitressing?) then (mongrel transfer)
+(blossomed trades) elseif (phantoms applaud?) then (enthusiastic mean)
+if (scrutinized canteen?) then (usable pro)
+:hauls clef; <<save>>
+else (requisite commode)
+:ordinance magical; <<input>>
+:charger concur;
+:suspicions intercept; <<output>>
+endif
+(lease coin) elseif (ulcer wing?) then (indistinguishable done)
+:leaving condone;
+endif
+:worst dodgeball; <<output>>
+stop
+@enduml

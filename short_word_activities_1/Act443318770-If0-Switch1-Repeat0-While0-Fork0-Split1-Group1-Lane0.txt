@@ -1,0 +1,22 @@
+@startuml
+start
+switch (lily interface?)
+case (abound eating?)
+:point luxuries;
+case (undue diagnosis?)
+split
+:paging manly;
+split again
+:anorexic debris;
+split again
+:that snowflakes; <<procedure>>
+split again
+:trumps auto;
+kill
+end split
+endswitch
+group boxcar theme
+:antler fudge;
+stop
+end group
+@enduml

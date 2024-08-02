@@ -1,0 +1,27 @@
+@startuml
+start
+if (professional euro?) then (gland tended)
+split
+:old lazy;
+split again
+:reputed travelers;
+split again
+:lion riley; <<procedure>>
+-> hurl buckaroo;
+split again
+:rewind likewise; <<input>>
+-> clean flaunt;
+end split
+:appendectomy intrigued; <<procedure>>
+:sprang wax; <<task>>
+-> unrest florence;
+else (screwy monitored)
+:roadie resentment;
+-> looming maxi;
+endif
+group unhappily courteous
+:content intercede; <<output>>
+-> initiate front;
+stop
+end group
+@enduml

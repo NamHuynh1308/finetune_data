@@ -1,0 +1,6 @@
+@startuml
+start
+:prelude satellites; <<load>>
+:hypocrites stealth;
+stop
+@enduml

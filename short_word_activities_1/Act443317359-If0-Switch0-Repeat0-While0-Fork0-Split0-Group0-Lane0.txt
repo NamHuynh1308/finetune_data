@@ -1,0 +1,7 @@
+@startuml
+start
+:threatening impossible; <<output>>
+-> merman file;
+:shoemaker eels; <<load>>
+end
+@enduml

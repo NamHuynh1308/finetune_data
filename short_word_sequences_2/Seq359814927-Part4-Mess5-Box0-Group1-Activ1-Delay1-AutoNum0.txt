@@ -1,0 +1,15 @@
+@startuml
+participant "twos twitch" as 0
+participant "stores rappers" as 1
+participant "bach slave" as 2
+1 ->o 2: driveways punky
+1 --> 2: negative priced
+create participant "paratroopers spelt" as 3
+1 -> 3 : paratroopers spelt
+loop goers yaw
+ [-> 3: podiatry knobby
+...ragged calm...
+1 ->> 2++ : collision fragments
+end
+return faced ethically
+@enduml

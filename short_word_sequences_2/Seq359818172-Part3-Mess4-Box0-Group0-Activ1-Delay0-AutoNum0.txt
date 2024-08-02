@@ -1,0 +1,10 @@
+@startuml
+participant "slimy particularly" as 0
+participant "suburban spotlight" as 1
+0 --> 0++ : strenuous peak
+1 --//o 0: fiercest standish
+create participant "quizmaster professed" as 2
+1 -> 2 : quizmaster professed
+2 ->o 0: terrors illuminate
+return keycard fruity
+@enduml

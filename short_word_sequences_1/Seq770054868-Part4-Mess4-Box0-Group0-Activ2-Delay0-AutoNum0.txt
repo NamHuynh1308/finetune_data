@@ -1,0 +1,13 @@
+@startuml
+participant "voila trousers" as 0
+participant "nuclear widow" as 1
+participant "sportswear thirty" as 2
+participant "brainiest hubbub" as 3
+== bug uniformity ==
+1 -->x 3++ : washing fortified
+3 -->x 2++ : metaphor colorful
+2 -\\ 1: drafts uncompromising
+return entrances departments
+2 -// 2: comer forester
+return philharmonic beautifully
+@enduml

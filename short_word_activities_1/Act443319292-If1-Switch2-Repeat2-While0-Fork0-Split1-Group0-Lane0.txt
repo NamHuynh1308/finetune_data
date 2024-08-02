@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:swapped pirates;
+split again
+-[hidden]->
+switch (squatters royalties?)
+case (poppa sentimental?)
+:skateboards customary; <<task>>
+-> rescuer definitive;
+case (sniping selected?)
+:executing dimensional;
+endswitch
+split again
+-[hidden]->
+switch (plated tutti?)
+case (favorite attain?)
+:installments symbolism; <<save>>
+-> wildcats categories;
+case (mathematician donating?)
+:pacer occupancy;
+endswitch
+split again
+-[hidden]->
+:chaplain hideout; <<procedure>>
+end split
+repeat
+if (ivy crop?) then (kelly odd)
+:dictating earwig;
+-> embraces application;
+:edict cured;
+:exposed issues; <<save>>
+-> blink mating;
+kill
+else (bribe misunderstandings)
+:memoirs standstill;
+:fleeing planning;
+endif
+repeat while (stuffing ushering?) is (gruel thrusters)
+-> maneuvering stardust;
+repeat
+:centennial nursery; <<continuous>>
+:grasp libraries;
+repeat while (sustained sonogram?) is (eagles twitchy)
+stop
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:outing rarely;
+split again
+-[hidden]->
+switch (multiplex imposed?)
+case (drive nicknamed?)
+:dills statistic; <<save>>
+case (blast arthritis?)
+:literal buts;
+case (prudes departure?)
+:traipse cooperate; <<save>>
+case (hits psi?)
+:feign cleansed;
+endswitch
+split again
+-[hidden]->
+:delusions recaptured; <<task>>
+end split
+:extravaganza funds; <<continuous>>
+:uncompromising sipping; <<task>>
+-> contracts perfect;
+@enduml

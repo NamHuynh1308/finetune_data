@@ -1,0 +1,5 @@
+@startuml
+start
+:organ inconsistencies; <<input>>
+-> cautionary pumpkin;
+@enduml

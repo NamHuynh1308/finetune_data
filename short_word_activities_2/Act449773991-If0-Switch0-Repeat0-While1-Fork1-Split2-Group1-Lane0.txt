@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:bullies streamlined;
+split again
+-[hidden]->
+:missions conditioned; <<load>>
+split again
+-[hidden]->
+:reprieve staggered; <<procedure>>
+end split
+group hugging med
+fork
+:turtle fountains;
+fork again
+split
+:feasible wayside;
+split again
+:hobbits fusion;
+while (tepid firsthand?) is (interpreting entrenched)
+:loran cabdriver;
+-> operating thumb;
+:decrypted treasures;
+endwhile (talker decoration)
+-[hidden]->
+detach
+split again
+:weave hope;
+split again
+:bone dismantled;
+end split
+fork again
+:primed dismissive;
+end merge
+stop
+end group
+@enduml

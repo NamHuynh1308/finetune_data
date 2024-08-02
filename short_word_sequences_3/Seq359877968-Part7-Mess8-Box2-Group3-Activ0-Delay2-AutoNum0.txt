@@ -1,0 +1,29 @@
+@startuml
+box "versions barricaded"
+participant "patched dissection" as 0
+participant "crumb admitting" as 1
+end box
+box "historical kindness"
+participant "plane revolve" as 2
+participant "rearrange extent" as 3
+participant "poofy pack" as 4
+end box
+0 ->x 1: warmer redid
+alt arctic nobodies
+1 ->o 0: gone tolls
+...slaw poofy...
+2 --> 1: recitals squatter
+loop jeweler broiled
+...ours crikey...
+1 <-] : loves producing
+create participant "exempt hung" as 5
+4 -> 5 : exempt hung
+create participant "granddaddy tweak" as 6
+2 -> 6 : granddaddy tweak
+end
+4 -> 0: exchanging irregular
+opt jabot stability
+1 -> 0!! : erased porky
+end
+end
+@enduml

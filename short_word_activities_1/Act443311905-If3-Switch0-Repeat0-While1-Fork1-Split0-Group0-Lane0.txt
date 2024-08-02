@@ -1,0 +1,37 @@
+@startuml
+start
+if (casbah plane?) then (lesions dearly)
+fork
+:trussed less;
+fork again
+:extent shaving; <<task>>
+fork again
+:darts plankton;
+while (hills reflecting?) is (joust hysterics)
+backward:sixteenth whisker;
+:salon forked; <<save>>
+:punchy chums; <<input>>
+:vertebrae saliva; <<save>>
+endwhile (homosexuality vamp)
+-[hidden]->
+detach
+fork again
+:jargon shrug;
+end merge
+else (through crass)
+if (sordid ridiculously?) then (stored butter)
+:deadlier tactile;
+:scribbling barbecued;
+:offensive mortars;
+-> anymore doping;
+else (brick uncertain)
+:delta heartbroken; <<continuous>>
+endif
+if (souse anorexia?) then (derogatory faced)
+(bake yawn) elseif (connect choice?) then (obligation weeds)
+:dice geese; <<load>>
+(loosened frosty) elseif (smirking chihuahua?) then (pungent commandos)
+:rinse units; <<continuous>>
+endif
+endif
+@enduml

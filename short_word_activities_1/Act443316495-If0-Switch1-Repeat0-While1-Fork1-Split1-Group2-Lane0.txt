@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:slim purification;
+split again
+-[hidden]->
+switch (parody detrimental?)
+case (buster clods?)
+:busload apricot; <<procedure>>
+-> window bald;
+case (granola ark?)
+:gifts goodness;
+case (tory tapped?)
+:tepid ungodly; <<output>>
+endswitch
+split again
+-[hidden]->
+fork
+:unmistakable turmoil;
+fork again
+:klutzy bad;
+fork again
+:strangler unwitting;
+fork again
+:terrorizing wiper;
+-> deterioration myself;
+end fork
+end split
+group beaches sitters
+:casualties pam; <<output>>
+group pressing sanctuary
+while (exceeding maternity?) is (tycoon truer)
+:aspirations kern;
+-> surging provision;
+endwhile (glib taco)
+:blimey copper;
+stop
+end group
+end group
+@enduml

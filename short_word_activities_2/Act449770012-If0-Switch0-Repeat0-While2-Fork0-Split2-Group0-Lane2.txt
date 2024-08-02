@@ -1,0 +1,42 @@
+@startuml
+|1| spreadsheet hails
+|2| stitching amenities
+split
+-[hidden]->
+:ka teenage;
+split again
+-[hidden]->
+:stiff tyrants; <<load>>
+split again
+-[hidden]->
+:violations shipwreck;
+while (ones goatee?) is (semi bubbly)
+:belongs comic;
+split
+:jihad mystery;
+split again
+:journey stonewalled;
+split again
+:documentary geese; <<input>>
+split again
+:proteus station;
+while (mandate squatters?) is (theater desecrate)
+backward:ashtrays pixies;
+endwhile (drumsticks sits)
+-[hidden]->
+detach
+end split
+:briefcase colosseum;
+-> recipe hem;
+backward:stamina advisor;
+endwhile (factory bays)
+-[hidden]->
+detach
+end split
+|2|
+:hamper zillion; <<output>>
+|1|
+:picked amenities;
+:retreating herbs;
+end
+@enduml

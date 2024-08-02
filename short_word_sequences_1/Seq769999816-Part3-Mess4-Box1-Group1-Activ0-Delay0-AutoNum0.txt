@@ -1,0 +1,13 @@
+@startuml
+participant "rookies indigestion" as 0
+participant "outsiders accused" as 1
+box "manners stripes"
+participant "remarkable physiology" as 2
+end box
+1 -> 2: clot sins
+1 -> 2: pinot conning
+par receding moreover
+1 -> 1: objects ingles
+0 ->o 1: rainstorm bereft
+end
+@enduml

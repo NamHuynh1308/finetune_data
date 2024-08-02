@@ -1,0 +1,22 @@
+#!/bin/bash
+#
+#SBATCH --partition=disc
+#SBATCH --output=train_run_%J_standout.txt
+#SBATCH --error=train_run_%J_stderr.txt
+#SBATCH --ntasks=1
+#SBATCH --mem=120G
+#SBATCH --time=6:00:00
+#SBATCH --gres=gpu:2
+#SBATCH --cpus-per-task=10
+##SBATCH --exclusive
+
+#module load CUDA
+export HF_HOME=/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/hf_cache
+#module load Python/3.10.4-GCCcore-11.3.0
+
+#source ../../myenv/bin/activate
+module load cuDNN/8.7.0.84-CUDA-11.8.0
+module load GCC/11.3.0
+sh shell/finetune_v1_5/internvl_chat_v1_5_hermes2_finetune_continue_short.sh
+#python -m internvl.serve.model_worker --host 0.0.0.0 --controller http://localhost:10100 --port 40100 --worker http://localhost:40100 --model-path OpenGVLab/InternVL-Chat-V1-5 --device auto
+

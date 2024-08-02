@@ -1,0 +1,12 @@
+@startuml
+participant "peckish withstanding" as 0
+box "truffles marks"
+participant "fowler suppertime" as 1
+end box
+loop physicals front
+1 -->x 1: yields broads
+alt neighboring passer
+0 ->o 0: distort rollers
+end
+end
+@enduml

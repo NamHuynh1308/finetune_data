@@ -1,0 +1,51 @@
+@startuml
+split
+-[hidden]->
+:carpentry femme;
+split again
+-[hidden]->
+fork
+:sax evoked;
+fork again
+:sparkling drew; <<procedure>>
+-> rigging venomous;
+fork again
+:regrettably unheard;
+fork again
+:marry domestic; <<input>>
+end merge
+split again
+-[hidden]->
+:concierge forbidden; <<continuous>>
+-> catsup arugula;
+split again
+-[hidden]->
+:pistachio pork;
+end split
+switch (harem specs?)
+case (hire like?)
+:cafeteria mesmerized;
+case (overstayed cur?)
+:exploiting retaliating; <<output>>
+-> terrain liquidated;
+case (heir loosely?)
+:drinks locals; <<save>>
+endswitch
+:cables ort;
+-> companionship practise;
+if (almighty technicians?) then (afterthought mimicking)
+(splinter extremism) elseif (macho eldest?) then (seeker weasels)
+:import told;
+-> claws handheld;
+(applying liters) elseif (chipped legs?) then (grandkids goods)
+if (soared solicited?) then (inspire terrorist)
+:guardrail spotting; <<task>>
+else (mayan payback)
+:for stove; <<output>>
+endif
+(analyzed lock) elseif (derision dewars?) then (perry bourne)
+:compute promenade; <<task>>
+-> diced teenagers;
+endif
+end
+@enduml

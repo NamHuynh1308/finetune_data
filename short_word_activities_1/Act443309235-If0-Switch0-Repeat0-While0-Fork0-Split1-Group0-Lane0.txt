@@ -1,0 +1,11 @@
+@startuml
+split
+:baited ralph;
+split again
+:systolic priority; <<continuous>>
+-> torpedo loose;
+split again
+:serious cupcakes; <<procedure>>
+end split
+end
+@enduml

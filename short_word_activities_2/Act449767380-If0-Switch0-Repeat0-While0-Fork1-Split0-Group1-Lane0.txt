@@ -1,0 +1,14 @@
+@startuml
+start
+group jiminy bane
+:basically inflamed;
+-> stamina demanded;
+fork
+:beaucoup starship;
+fork again
+:shaping gear; <<procedure>>
+fork again
+:disappearance reptiles; <<save>>
+end fork
+end group
+@enduml

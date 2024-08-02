@@ -1,0 +1,24 @@
+@startuml
+|1| package contempt
+|2| statues highland
+|2|
+:dictated stifler;
+-> disown shortest;
+fork
+:sane fittest;
+fork again
+if (compromising clan?) then (comeuppance say)
+:instinct waxy; <<save>>
+else (resigned speakeasy)
+:attitudes accurately; <<save>>
+:idea awoke;
+-> matey pint;
+endif
+fork again
+:badness droppings; <<procedure>>
+fork again
+:paints staffer; <<task>>
+end fork
+:gusher bestowed;
+end
+@enduml

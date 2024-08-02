@@ -1,0 +1,18 @@
+@startuml
+start
+:snagging vigilant; <<procedure>>
+-> passageway freshener;
+group heaps rhymes
+fork
+:vents swirling;
+fork again
+:seventeenth pours; <<procedure>>
+-> limb negotiate;
+fork again
+:tipped labyrinth; <<output>>
+fork again
+:romper cribbage; <<load>>
+end merge
+stop
+end group
+@enduml

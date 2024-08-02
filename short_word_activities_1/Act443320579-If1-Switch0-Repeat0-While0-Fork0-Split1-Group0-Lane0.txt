@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:goblins toner;
+split again
+-[hidden]->
+:proteus knocks; <<save>>
+split again
+-[hidden]->
+if (blocking accent?) then (disciplining posttraumatic)
+:undertaking fueled;
+:looming accumulate; <<procedure>>
+:endangerment trades;
+else (holdings sins)
+:bedbug unlawful; <<continuous>>
+:overpriced white;
+kill
+endif
+end split
+:dread conquering;
+-> phantom manufactured;
+@enduml

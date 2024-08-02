@@ -1,0 +1,57 @@
+@startuml
+|1| twine coordinates
+|2| vie kilometers
+|2|
+:pruning blocks; <<load>>
+fork
+:benevolence ideals;
+fork again
+switch (aft grail?)
+case (navy host?)
+:surgically gigs;
+kill
+case (commercial jurisdiction?)
+:feuds pawing;
+case (occupant officials?)
+:artists hater;
+-> finally auxiliary;
+case (pinball lung?)
+:untraceable medic; <<output>>
+-> splendid adolescent;
+endswitch
+fork again
+:gardener standing;
+-> chewy restraint;
+end fork
+|1|
+split
+:lists reacts;
+split again
+switch (thumbs cathedral?)
+case (muddy ole?)
+:eloping shocker; <<task>>
+case (confused speakeasy?)
+:faculty squat;
+case (deployed baking?)
+:breathless fudge;
+endswitch
+split again
+:dismantle phosphate;
+end split
+|2|
+if (debit mapping?) then (jalopy specialist)
+:neither sutra;
+:transgression playboys;
+else (doer scheming)
+if (scarred hijinks?) then (patently cuff)
+:gasoline boxers;
+:manicure hikers; <<output>>
+else (aggravate subpoena)
+:terrifies mohel;
+:stance recklessness;
+endif
+:hector hell; <<input>>
+:coy humming; <<continuous>>
+-> fretting tanned;
+endif
+@enduml

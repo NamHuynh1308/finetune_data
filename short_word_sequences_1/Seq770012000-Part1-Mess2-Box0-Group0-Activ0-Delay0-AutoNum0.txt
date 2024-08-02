@@ -1,0 +1,5 @@
+@startuml
+participant "granddaddy ethnicity" as 0
+ [<- 0: graders shake
+0 -->x 0: contusion absences
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "mojo adopted" as 0
+participant "privately digging" as 1
+box "jacking baggies"
+participant "marooned hairdo" as 2
+end box
+autonumber 0 2
+alt prenatal parrots
+1 -> 2: retired homers
+2 <-> 2: snowman geopolitical
+2 <-] : aught dependency
+autonumber stop
+end
+@enduml

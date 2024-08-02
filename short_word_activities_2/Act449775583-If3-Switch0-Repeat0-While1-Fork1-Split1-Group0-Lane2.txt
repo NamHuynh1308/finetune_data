@@ -1,0 +1,63 @@
+@startuml
+|1| audiotape sitcoms
+|2| raptors exploded
+|1|
+start
+fork
+:kingpin pemmican;
+fork again
+:enforcement jilted;
+kill
+fork again
+if (ethics diversions?) then (waving vicariously)
+(argyle fritters) elseif (fighters destroying?) then (furtive ballplayers)
+:embarrasses alter; <<save>>
+(crusty fantasize) elseif (dismantle unspeakably?) then (measures revisit)
+:slugged slowed; <<procedure>>
+-> missionary luncheon;
+(stuttering offending) elseif (disbelief alive?) then (bankrupted trespassing)
+:never dis; <<continuous>>
+(hurrah aggravation) elseif (hurtling defiant?) then (masquerade unlocked)
+:freeze plays;
+endif
+end fork
+split
+:sinker horribly;
+split again
+:triple zippy; <<input>>
+-> robe vitality;
+split again
+if (clown burn?) then (domestic shoemaker)
+:permissible manipulations; <<save>>
+-> phased illegal;
+:parlors tactic; <<task>>
+:insufferable jest; <<save>>
+else (uplink blinds)
+:thirtieth profit;
+:markings redial; <<input>>
+kill
+endif
+split again
+if (headway mythic?) then (scintillating humps)
+:ribs projector;
+:slips spokesman; <<output>>
+:requisitions tolerated; <<output>>
+kill
+else (fates experimentation)
+:wells charities;
+:compulsion sweltering;
+-> dolly launched;
+:reeve leash;
+-> dignified hypocritical;
+while (righty rushing?) is (bora sighted)
+:saps mold;
+:individuals fabricate; <<task>>
+endwhile (hooligan numb)
+-[hidden]->
+detach
+endif
+end split
+:succubus rya; <<input>>
+-> promoted chipper;
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+group kink apprehend
+fork
+:uprooted adopting;
+fork again
+:coke homer; <<procedure>>
+fork again
+:approximation palpable; <<continuous>>
+end merge
+stop
+end group
+@enduml

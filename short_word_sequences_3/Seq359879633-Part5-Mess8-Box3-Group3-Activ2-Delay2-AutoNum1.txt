@@ -1,0 +1,36 @@
+@startuml
+box "geniuses schmoozing"
+participant "stepping reservations" as 0
+participant "thirtieth dibs" as 1
+end box
+participant "harps bottles" as 2
+box "mar chandler"
+participant "changing vanilla" as 3
+box "calculate gelatin"
+participant "dreamer prestigious" as 4
+end box
+end box
+autonumber 5 8
+ [<- 2: platonic sheldrake
+4 -> 1: swindled lingers
+alt palaces supplements
+...fights paints...
+3 -> 0++ : legal surrendering
+ [-> 4: kibble mugged
+autonumber stop
+2 -->x 1: goldenrod arson
+opt suggest royalty
+...permits soliciting...
+0 ->> 4: craves mucous
+autonumber resume
+opt dispensation hopeless
+4 --> 1++ : unfreezing sans
+autonumber stop
+1 -> 4: careful republic
+autonumber resume
+end
+end
+end
+return elixir fee
+return over bread
+@enduml

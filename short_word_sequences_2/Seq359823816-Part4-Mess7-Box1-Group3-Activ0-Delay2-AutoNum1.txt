@@ -1,0 +1,27 @@
+@startuml
+participant "necessity alone" as 0
+box "clement trash"
+participant "contributor angina" as 1
+participant "condemned confessions" as 2
+end box
+participant "grieve meddled" as 3
+autonumber 0 5
+ [-> 1: correspondents donated
+3 ->x 3: lacy rethought
+1 -// 3: wrung visible
+opt crisp upsetting
+2 -> 1: infects sincerely
+autonumber stop
+opt anniversary expenditures
+...beauty hosing...
+ [-> 2: spurs chair
+alt knocks pitfalls
+...whammy despising...
+0 ->x 2: metaphorical moping
+autonumber resume
+2 <-> 0: psyche atlas
+autonumber stop
+end
+end
+end
+@enduml

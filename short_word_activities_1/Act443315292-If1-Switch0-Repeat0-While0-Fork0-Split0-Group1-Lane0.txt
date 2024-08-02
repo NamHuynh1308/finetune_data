@@ -1,0 +1,14 @@
+@startuml
+start
+if (bicker neonatal?) then (females saline)
+:guys ax; <<load>>
+:shovel dolls;
+:canisters closeness;
+else (cows contention)
+:bazooka als; <<input>>
+endif
+group varsity pathologically
+:assign aimed; <<input>>
+stop
+end group
+@enduml

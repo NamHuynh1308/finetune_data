@@ -1,0 +1,17 @@
+@startuml
+box "hep falafel"
+participant "polished boutique" as 0
+participant "balboa coloring" as 1
+end box
+participant "scabby seals" as 2
+participant "compressor fenders" as 3
+== mating barges ==
+par her wrapped
+0 -->x 2: booths rocket
+...wussies hillside...
+1 ->> 3: practicing conclusion
+1 -// 2: anon criteria
+0 -> 1++ : acclaim mistook
+end
+return chisel damaging
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+start
+fork
+:test obtained;
+fork again
+switch (deprive heads?)
+case (tackle apostrophe?)
+:optimism penguin; <<load>>
+case (outbid collars?)
+:halothane kicked;
+case (relaxation homage?)
+:detente glazer; <<output>>
+-> notch rem;
+endswitch
+fork again
+:deposit alimony; <<task>>
+-> unmarked epoxy;
+end fork
+:restaurant screech; <<continuous>>
+stop
+@enduml

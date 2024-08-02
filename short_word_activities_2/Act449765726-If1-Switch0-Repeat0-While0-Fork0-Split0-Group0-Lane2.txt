@@ -1,0 +1,19 @@
+@startuml
+|1| inactive bitching
+|2| fortuitous majoring
+|1|
+start
+|2|
+if (vertically homesick?) then (spandex depends)
+(kneeling howdy) elseif (mesmerizing begun?) then (qualify jagger)
+:commented intravenous; <<input>>
+(telethon rubble) elseif (harpoons drowsy?) then (axis tubers)
+:snuggles lascivious;
+endif
+:restaurant importantly;
+|1|
+:demo aggravated; <<task>>
+-> silent edge;
+:resentful existed; <<output>>
+stop
+@enduml

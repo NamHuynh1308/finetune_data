@@ -1,0 +1,14 @@
+@startuml
+participant "nines feel" as 0
+participant "escort coo" as 1
+autonumber 4 0
+1 --> 0++ : masters iceman
+opt warpath relation
+1 <-] : power hairbrush
+alt commercial perky
+0 --//o 0: quirk rippling
+return specified slower
+0 -->x 0: oho aches
+end
+end
+@enduml

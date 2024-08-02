@@ -1,0 +1,25 @@
+@startuml
+participant "spas clinically" as 0
+box "kaiser hysterectomy"
+participant "handsome inquiries" as 1
+participant "solitude cinematic" as 2
+box "banned injustice"
+participant "canines readout" as 3
+participant "hades langley" as 4
+end box
+end box
+== reevaluate references ==
+alt potions nirvana
+4 -\\ 1: sullen unusual
+3 -> 2++ : belief oncology
+4 --//o 0++ : canopy restart
+...actively rappers...
+0 -\\ 3: closer comma
+return headliner scoops
+else memo absolution
+...of existed...
+3 -> 4: watchman uncontrollable
+end
+1 -->x 3: sarge lovelies
+return violently rigs
+@enduml

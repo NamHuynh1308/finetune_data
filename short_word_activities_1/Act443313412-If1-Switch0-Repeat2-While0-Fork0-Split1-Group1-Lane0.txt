@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:continuity alumnus;
+split again
+-[hidden]->
+repeat
+:sniping cissy; <<continuous>>
+-> interviewing yearnings;
+backward:frozen stalking;
+repeat while (massaged deaf?) is (suave lightning)
+split again
+-[hidden]->
+:jamming fury;
+end split
+:theater crippled;
+group scientist exceeding
+if (builds thumbprint?) then (newspaper dodgy)
+(academics conducive) elseif (shh reneging?) then (furiously sterilize)
+repeat
+backward:ingles cropped;
+:entity turnaround;
+repeat while (requisitions correctly?) is (misunderstand cursed)
+-> mezzanine viewed;
+(tattoos heirs) elseif (custody increases?) then (tortoise partial)
+:sparkly driveways; <<input>>
+-> tipped relegated;
+endif
+stop
+end group
+@enduml

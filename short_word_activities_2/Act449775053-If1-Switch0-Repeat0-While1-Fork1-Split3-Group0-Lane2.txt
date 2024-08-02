@@ -1,0 +1,58 @@
+@startuml
+|1| roses ligature
+|2| schooling depository
+|1|
+start
+:gnats brake; <<procedure>>
+-> interrupting spineless;
+|2|
+while (clergyman opportune?) is (consumption hedges)
+:militia dex; <<procedure>>
+-> invisibility finders;
+endwhile (auctioneer pounce)
+:relying vespers;
+split
+:condiment coffees;
+split again
+fork
+:vespers schmo;
+fork again
+:sucker liquefy;
+fork again
+:goodbye ring;
+fork again
+:mutant bloodshed;
+end merge
+split again
+split
+:joe offspring;
+split again
+:burgundy card; <<input>>
+split again
+:bravado freelance;
+end split
+end split
+|1|
+if (molestation versed?) then (deluge unlike)
+:vacate forfeit; <<procedure>>
+split
+:frazzled touring;
+split again
+:money breathtaking; <<task>>
+-> tempting unseemly;
+split again
+:shapely beers;
+split again
+:procrastination permit; <<save>>
+end split
+:exceptions jeans;
+-> ick psychic;
+else (colonized looped)
+:comfortably frost;
+:wry circus; <<output>>
+-> bids sound;
+endif
+|2|
+:crashes openness; <<output>>
+end
+@enduml

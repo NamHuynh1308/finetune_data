@@ -1,0 +1,21 @@
+@startuml
+participant "lens metabolic" as 0
+box "sir millions"
+participant "physician wheeler" as 1
+end box
+== concurrently plate ==
+autonumber 9 1
+0 <-] : bowline literate
+...addicts dote...
+1 -->x 1: hon extracurriculars
+autonumber stop
+break jog restraint
+0 ->x 1: bloodshed norm
+1 -> 1: patrolman muckraker
+autonumber resume
+0 -\\ 0: aches slaying
+end
+break passion derogatory
+ [-> 0: appraisal prolong
+end
+@enduml

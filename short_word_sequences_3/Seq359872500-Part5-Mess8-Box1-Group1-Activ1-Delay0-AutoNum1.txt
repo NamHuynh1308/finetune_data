@@ -1,0 +1,23 @@
+@startuml
+box "resonance jam"
+participant "dry making" as 0
+participant "cornered inaccuracies" as 1
+end box
+participant "meanwhile pumping" as 2
+participant "meticulously soothsayer" as 3
+autonumber 8 6
+par groom joy
+3 --> 2: unarmed generation
+2 -> 2: vertically stony
+1 -> 1: scintillating wasp
+1 <-] : retrieval squad
+2 <-> 2: movement decaf
+else mutton vomit
+1 <-> 3: pegged marvelous
+create participant "smug spells" as 4
+1 -> 4 : smug spells
+end
+3 -// 2++ : assemble instinct
+autonumber stop
+return wha foibles
+@enduml

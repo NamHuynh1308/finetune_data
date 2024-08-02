@@ -1,0 +1,16 @@
+@startuml
+participant "textiles mould" as 0
+participant "detonator rib" as 1
+participant "acne shrub" as 2
+participant "mushy destroyer" as 3
+participant "nudist library" as 4
+== cavern practiced ==
+4 -> 3: tarred wreaks
+create participant "mulling redundancies" as 5
+2 -> 5 : mulling redundancies
+2 ->o 5: nozzle rowboat
+...looming candles...
+2 -> 2: lacks ranges
+1 -// 4: logged territories
+ [-> 3: rate pints
+@enduml

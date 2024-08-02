@@ -1,0 +1,10 @@
+@startuml
+participant "assumptions egregious" as 0
+box "leaking madness"
+participant "notable covered" as 1
+end box
+== moans chenille ==
+0 -> 1: deputy regrettable
+1 ->] : waltzing stress
+0 <-> 0: conniption overstating
+@enduml

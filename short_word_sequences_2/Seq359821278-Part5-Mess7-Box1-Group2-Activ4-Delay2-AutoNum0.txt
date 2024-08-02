@@ -1,0 +1,26 @@
+@startuml
+participant "animated bobbin" as 0
+participant "hightail exposes" as 1
+box "poppers deli"
+participant "mystic chessboard" as 2
+participant "literary awe" as 3
+end box
+2 -> 3++ : airspace lei
+opt compel current
+2 --> 2++ : stump thoroughly
+...whales boldly...
+3 ->o 1: newest bled
+3 --//o 2++ : fairest dives
+...malaria awhile...
+2 -\\ 2: elbow exist
+alt norland lectured
+2 --> 1++ : examiner cockney
+create participant "mushy survive" as 4
+3 -> 4 : mushy survive
+return budgets ceremonies
+end
+end
+return instincts spic
+return masterminded divulged
+return paced titles
+@enduml

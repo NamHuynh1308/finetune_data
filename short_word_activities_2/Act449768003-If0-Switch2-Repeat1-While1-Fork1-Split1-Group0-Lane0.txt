@@ -1,0 +1,54 @@
+@startuml
+split
+-[hidden]->
+:apprised chanteuse;
+split again
+-[hidden]->
+:possesses workday; <<load>>
+split again
+-[hidden]->
+:bee irrigation;
+while (nifty disputes?) is (shrimp precedent)
+repeat
+:rancid fielder;
+-> suntan haps;
+backward:minstrel triumphs;
+backward:patient frequency;
+repeat while (saint deals?) is (scarce gems)
+-> merchant pew;
+backward:smudged pixilated;
+:mollusk agility;
+-> bloodstream mapped;
+switch (barrister manpower?)
+case (nixed gardening?)
+:witnessed lewd;
+case (lipstick blazers?)
+:depress eggplant;
+endswitch
+endwhile (alpine fiasco)
+-[hidden]->
+detach
+split again
+-[hidden]->
+:nylons roofs; <<procedure>>
+end split
+switch (fauna revolution?)
+case (instructors apocalypse?)
+fork
+:solar intertwined;
+fork again
+:uncontrollably conquering;
+fork again
+:fibbing deadline;
+end fork
+case (force lira?)
+:stronghold womanhood;
+kill
+case (verbs trenches?)
+:headlining motivate; <<input>>
+case (altar kitten?)
+:glanced gloves;
+endswitch
+:moist outfield; <<output>>
+-> replacing threat;
+@enduml

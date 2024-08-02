@@ -1,0 +1,24 @@
+@startuml
+group ganging braided
+split
+:gamer rube;
+split again
+:piglet pays; <<procedure>>
+-> frighten veal;
+split again
+:inconsistent scarf; <<task>>
+-> canceled fuckers;
+split again
+:topping pizzas;
+-> transformation catsup;
+end split
+split
+:peeing squad;
+split again
+:toller quitter; <<save>>
+-> inferno shawn;
+split again
+:trellis any; <<procedure>>
+end split
+end group
+@enduml

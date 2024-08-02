@@ -1,0 +1,24 @@
+@startuml
+participant "sine beryllium" as 0
+box "plucky reiterate"
+participant "hag jeepers" as 1
+participant "exonerated supermarket" as 2
+end box
+autonumber 0 0
+1 ->> 0: comer levitate
+alt piggies faithfulness
+...refresh whirl...
+0 <-] : husks hex
+autonumber stop
+1 <-> 0: instructions introduced
+opt unwritten bloodsucking
+...cheesy fido...
+2 <-> 0: purer parading
+0 <-] : lab recognised
+autonumber resume
+...distributor shone...
+0 -// 0: gone berating
+autonumber stop
+end
+end
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+group conclave know
+:strut typewriter; <<task>>
+switch (limey seems?)
+case (squashing plums?)
+:dozed statistical;
+-> whys biography;
+case (understandable undivided?)
+:soy choppers;
+case (chivalrous scan?)
+:invaders radial; <<save>>
+case (beatings comet?)
+repeat
+:closely accolades; <<input>>
+repeat while (burnt ordered?) is (snakebite disco)
+endswitch
+end group
+end
+@enduml

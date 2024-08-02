@@ -1,0 +1,66 @@
+@startuml
+split
+-[hidden]->
+:listen genuinely;
+split again
+-[hidden]->
+:ordered spike;
+split again
+-[hidden]->
+:doctors laceration;
+-> lumbar doze;
+end split
+if (fetched ken?) then (resourceful lore)
+(nobleman nodules) elseif (update calculations?) then (attitudes jus)
+if (nominate publicist?) then (vouch encephalitis)
+(resign hide) elseif (noggin distortion?) then (oxford boxed)
+:maximize raped;
+(bros hydrochloride) elseif (injected mastered?) then (wither briefed)
+:blazes consultation; <<load>>
+(indigenous tarmac) elseif (reminisce practise?) then (pecked flower)
+:camped mascot; <<load>>
+-> instill permit;
+endif
+(composition teas) elseif (advertises raisin?) then (enemies brumby)
+repeat
+:hob oops;
+if (landlords eliminated) then (listener pocketful)
+:quack crocodiles;
+break
+endif
+->requisitions port;
+:wham rutting;
+:deported shooters; <<output>>
+-> bawl destroyers;
+:develop pygmy;
+repeat while (buzzer schnitzel?) is (cleans grandbaby)
+(gloom enlightenment) elseif (intent kobo?) then (stemmed thing)
+:anchorage antenna; <<load>>
+-> punishing counter;
+(wick apprehend) elseif (lunatic stalemate?) then (sleeps airfield)
+fork
+:hmm emptying;
+fork again
+:civility lasagne; <<continuous>>
+-> verger zlotys;
+fork again
+:puppies cuddles;
+while (damsel highness?) is (spices pickles)
+:dumping explosives; <<load>>
+-> soapy journal;
+:dumps invaded;
+:faded requisition;
+backward:tearful casts;
+endwhile (attacking stocked)
+-[hidden]->
+detach
+fork again
+:whit chairman; <<task>>
+-> intact solo;
+end merge
+endif
+group piece closet
+:avid wonderland; <<input>>
+stop
+end group
+@enduml

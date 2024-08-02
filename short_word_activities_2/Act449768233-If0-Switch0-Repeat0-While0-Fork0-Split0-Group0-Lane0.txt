@@ -1,0 +1,6 @@
+@startuml
+start
+:whims lure; <<procedure>>
+-> wheeling psi;
+stop
+@enduml

@@ -1,0 +1,69 @@
+@startuml
+|1| blasting reps
+|2| returned marines
+split
+-[hidden]->
+:breathe informer;
+split again
+-[hidden]->
+:coldly warmth; <<continuous>>
+-> fruit reporting;
+split again
+-[hidden]->
+:sampling piled;
+-> narwhal lichen;
+split again
+-[hidden]->
+:ware serene; <<load>>
+end split
+|2|
+:darts kindness; <<output>>
+split
+:punky toothed;
+split again
+:location compressed;
+-> thoughtful lake;
+split again
+:millet goofy; <<save>>
+-> toy reassigned;
+split again
+if (gor math?) then (ems peach)
+(brash latch) elseif (wandered docked?) then (relocation tucked)
+:scrapes utility;
+(temper fliers) elseif (winding partially?) then (stoney posse)
+:sparky folder; <<task>>
+-> gramps necking;
+(gargantuan fingerprint) elseif (directory bourbon?) then (cant acres)
+:yearnings although; <<procedure>>
+-> faithless cracks;
+(librarian yawning) elseif (gift anchor?) then (accountability bottomless)
+:showcase shingle; <<load>>
+-> derrick biology;
+endif
+end split
+|1|
+:leaflets bloods; <<output>>
+:weeks buzzer;
+-> sequence detonators;
+|2|
+switch (determines zipped?)
+case (organisms slink?)
+:limber showoff;
+kill
+case (unconcerned criticize?)
+:beards casserole; <<load>>
+case (persons enriching?)
+:exalted demeaning;
+while (horny limits?) is (mariner kiosk)
+while (interference opted?) is (embalmed stimuli)
+:nourishing scumbags;
+:sunken differently;
+:serum mood;
+:lucked confronting;
+endwhile (clan disconnected)
+:spiny bedpan;
+endwhile (puppies treatments)
+-[hidden]->
+detach
+endswitch
+@enduml

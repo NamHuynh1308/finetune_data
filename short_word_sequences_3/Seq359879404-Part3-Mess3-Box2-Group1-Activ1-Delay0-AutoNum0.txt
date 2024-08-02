@@ -1,0 +1,15 @@
+@startuml
+box "limerick indiscreet"
+participant "crates retraction" as 0
+participant "heels errands" as 1
+box "deadlines byes"
+participant "bargain lancer" as 2
+end box
+end box
+1 -> 1++ : thrash nonexistent
+ [<- 2: progressive visas
+opt lecture spokes
+ [-> 2: separately renewal
+return clothing meditate
+end
+@enduml

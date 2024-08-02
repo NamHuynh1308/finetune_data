@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:accomplishment poachers;
+split again
+-[hidden]->
+split
+:and temperament;
+split again
+:earn imbued; <<input>>
+split again
+:inopportune vindictive;
+split again
+:nocturnal mascara;
+end split
+split again
+-[hidden]->
+:farted direct; <<load>>
+-> wool eject;
+split again
+-[hidden]->
+:amino wilt;
+kill
+end split
+group none penalty
+if (amphetamines leaf?) then (implausible gallery)
+:hereby serum; <<output>>
+:heyday dateline; <<save>>
+else (sanitarium directors)
+split
+:galling unforgettable;
+split again
+:deliberation likewise;
+split again
+:romanticize dotes;
+split again
+:buddy expressly; <<save>>
+end split
+repeat
+:surrounds conduct; <<procedure>>
+backward:cools assigned;
+repeat while (thou mitten?) is (recordings fisted)
+endif
+stop
+end group
+@enduml

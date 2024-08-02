@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:dislodged cloth;
+split again
+-[hidden]->
+:antihistamines authorities; <<input>>
+split again
+-[hidden]->
+:disaster foolproof; <<output>>
+-> warehouses tough;
+split again
+-[hidden]->
+:equipment solicitor; <<save>>
+end split
+group business matrimonial
+split
+:founder begets;
+split again
+switch (heirs trooper?)
+case (breakups withdraws?)
+:heels stockholders; <<load>>
+case (foray nuthouse?)
+:mask crates;
+while (contusion ree?) is (ream dreamless)
+backward:arrivals tracer;
+backward:convinces iguanas;
+backward:polio tinkle;
+endwhile (rubble compartment)
+-[hidden]->
+detach
+case (graciously okra?)
+:inlaid encouraging;
+endswitch
+split again
+:sabotage legs; <<task>>
+split again
+:anyway solo;
+while (vanishes headband?) is (forcibly wheeze)
+backward:sent webbing;
+endwhile (hemorrhaging distances)
+-[hidden]->
+detach
+end split
+stop
+end group
+@enduml

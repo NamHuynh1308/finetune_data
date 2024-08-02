@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:processed rotisserie;
+split again
+-[hidden]->
+:clicking let;
+split again
+-[hidden]->
+:milestone patently;
+-> study shipwreck;
+end split
+group related interviewer
+split
+:deserving biggest;
+split again
+:principal bookish; <<task>>
+split again
+:yeah battleground;
+split again
+:appendicitis composition; <<output>>
+-> accumulation spandex;
+end split
+stop
+end group
+@enduml

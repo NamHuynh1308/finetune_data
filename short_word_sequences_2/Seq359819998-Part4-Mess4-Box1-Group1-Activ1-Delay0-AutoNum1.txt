@@ -1,0 +1,19 @@
+@startuml
+box "regimental adding"
+participant "edited catfight" as 0
+participant "expressed insult" as 1
+participant "whooping cursing" as 2
+end box
+participant "druthers respirator" as 3
+== racked disciples ==
+autonumber 2 3
+ [-> 3: monogrammed replaying
+autonumber stop
+2 --//o 0: hookup bass
+1 -> 0++ : waffles contours
+autonumber resume
+critical pencils millisecond
+0 ->o 2: funded buttery
+end
+return vet mullet
+@enduml

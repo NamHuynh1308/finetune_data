@@ -1,0 +1,28 @@
+@startuml
+participant "clergy bees" as 0
+participant "cancellations hotcakes" as 1
+participant "munitions lovelorn" as 2
+participant "doily drainage" as 3
+participant "puce misdemeanors" as 4
+== playbook rides ==
+2 --//o 1++ : builds becomes
+0 -> 0++ : increases coo
+loop eyeing reconstruct
+3 -->x 1++ : inflexible frogs
+4 -> 0: ambushed processional
+return spies diner
+else summarily embezzled
+opt parameters innings
+...seals frills...
+1 -> 4: outdated clips
+return pharmaceuticals blur
+4 ->> 0: shielded laugh
+else nerves fractions
+loop documented quantum
+create participant "storage trucks" as 5
+3 -> 5 : storage trucks
+end
+end
+end
+return blackmail accurate
+@enduml

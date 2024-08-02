@@ -1,0 +1,5 @@
+@startuml
+participant "graham slurping" as 0
+0 -> 0: cheeses lunacy
+ [<- 0: occult salami
+@enduml

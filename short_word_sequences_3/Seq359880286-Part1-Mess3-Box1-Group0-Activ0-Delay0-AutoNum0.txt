@@ -1,0 +1,8 @@
+@startuml
+box "entrapment savages"
+participant "zoned gnawing" as 0
+end box
+0 <-] : mescaline timely
+0 ->> 0: poetic church
+ [-> 0: inexpensive reclusive
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+group damned gerbils
+switch (ignoring dusk?)
+case (listener rekindle?)
+:moloch lop;
+case (hill hertz?)
+:follower unbalanced; <<input>>
+-> payload fondue;
+case (nebula stains?)
+while (bulge ken?) is (blush retreat)
+backward:lumbar sucks;
+:insured mafia;
+backward:splint attitudes;
+:labs eloquently;
+endwhile (kidding wacko)
+:sofas drum;
+endswitch
+stop
+end group
+@enduml

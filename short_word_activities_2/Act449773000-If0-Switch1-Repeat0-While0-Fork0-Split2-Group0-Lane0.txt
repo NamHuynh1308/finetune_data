@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:airlift plain;
+split again
+-[hidden]->
+:lefts apathy;
+split again
+-[hidden]->
+split
+:delegates defying;
+split again
+:salvage slammed; <<procedure>>
+split again
+:cleverness ironing; <<save>>
+end split
+end split
+switch (cheaters cutlass?)
+case (vitamins balboa?)
+:tyres prosper; <<output>>
+-> phenomenal sanding;
+case (cup broom?)
+:scallop payroll;
+endswitch
+:resulting contains; <<task>>
+@enduml

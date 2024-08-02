@@ -1,0 +1,10 @@
+@startuml
+box "summon someone"
+participant "yoghurt spencer" as 0
+end box
+== individual appearances ==
+autonumber 8 0
+0 -> 0: cuss inspiration
+0 -> 0++ : waxy neon
+return warlocks prisoners
+@enduml

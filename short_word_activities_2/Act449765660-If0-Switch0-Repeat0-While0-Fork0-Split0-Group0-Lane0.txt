@@ -1,0 +1,6 @@
+@startuml
+start
+:realize honeymooning;
+-> pepper giver;
+stop
+@enduml

@@ -1,0 +1,80 @@
+@startuml
+split
+-[hidden]->
+:legislature haven;
+split again
+-[hidden]->
+:dick icon;
+split again
+-[hidden]->
+:buckaroo coating; <<procedure>>
+split again
+-[hidden]->
+:vanished sighted; <<load>>
+-> goblet bondsman;
+end split
+repeat
+:toddy meadow;
+if (insert shipwrecked) then (heartburn backpacking)
+:camps hygiene;
+break
+endif
+->honoring magnolia;
+:rotates honesty;
+repeat while (rink lobster?) is (guide reverence)
+fork
+:voodoo cheerleading;
+fork again
+split
+:bus trend;
+split again
+:discontent sot;
+-> love undisclosed;
+split again
+:traverse rips;
+split again
+:charlie joystick; <<task>>
+-> spinach examiner;
+end split
+fork again
+fork
+:secretly nightingale;
+fork again
+:thinning employ;
+fork again
+:chest mileage;
+fork again
+:anticipate sedated;
+end merge
+fork again
+:folklore diamonds; <<save>>
+-> naive egomaniac;
+end fork
+split
+:potatoes blackmail;
+split again
+repeat
+backward:erred immutable;
+backward:offending width;
+repeat while (ama expectations?) is (chilling humility)
+split again
+if (backup searched?) then (snakeskin misuse)
+:combination provision; <<input>>
+else (lasagne narrator)
+:unhooked henchman; <<continuous>>
+-> lathe buzzer;
+:pacing bells; <<input>>
+-> telethon crepes;
+while (phantoms relinquish?) is (preferable karat)
+:closer ferrets; <<input>>
+-> revoked narrow;
+:rekindled myriad; <<task>>
+-> sank contaminate;
+backward:book spiral;
+:raising keynote;
+endwhile (soundly seams)
+-[hidden]->
+detach
+endif
+end split
+@enduml

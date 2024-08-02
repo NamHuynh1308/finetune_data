@@ -1,0 +1,6 @@
+@startuml
+:encyclopedias sugarplum; <<task>>
+-> charley fetch;
+:retreated mime; <<continuous>>
+:poofy fry; <<continuous>>
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "liberty smothered" as 0
+participant "bam slumming" as 1
+participant "plump vortex" as 2
+== paychecks fangs ==
+autonumber 10 2
+1 --//o 0: rejected stinger
+0 -> 2++ : cheesy ticking
+1 -> 0: graveyard greets
+0 --//o 1++ : throw railroad
+break testy gleam
+ [-> 0: realization kids
+return come merely
+1 <-] : ogle searching
+autonumber stop
+end
+return thank lava
+@enduml

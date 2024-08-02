@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:degrees trains;
+split again
+-[hidden]->
+:hourly busted; <<task>>
+split again
+-[hidden]->
+:reschedule drive; <<input>>
+-> dissing outer;
+end split
+fork
+:blow scares;
+fork again
+:brainwash raiser; <<task>>
+-> nauseating woe;
+fork again
+if (carbuncle budging?) then (metals displeased)
+(gofer assailant) elseif (uppity dorms?) then (accused sesterces)
+:noble scariest;
+(rundown barnyard) elseif (charcoal tomfoolery?) then (sensibility wormed)
+:linked cottages; <<input>>
+endif
+fork again
+:focussing perched; <<procedure>>
+-> conjecture outside;
+end fork
+:four squalor; <<procedure>>
+-> charged preserver;
+end
+@enduml

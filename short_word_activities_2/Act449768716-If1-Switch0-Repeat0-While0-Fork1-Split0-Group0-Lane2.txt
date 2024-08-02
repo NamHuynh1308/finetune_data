@@ -1,0 +1,26 @@
+@startuml
+|1| shepherd bandage
+|2| odor garibaldi
+|1|
+start
+|2|
+:sarcastic mon; <<input>>
+-> difficulty immodest;
+if (traumatized moments?) then (loosing restorative)
+(bows macadamia) elseif (northwest wraps?) then (orgasmic pinto)
+:upside rift;
+(good shaves) elseif (rechecked bloody?) then (blurb tablespoon)
+:bargain bachelorette; <<output>>
+endif
+|1|
+:hornet excused;
+fork
+:faun humbling;
+fork again
+:mules remedy;
+kill
+fork again
+:freaky proof; <<input>>
+end merge
+end
+@enduml

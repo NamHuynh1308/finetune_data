@@ -1,0 +1,21 @@
+@startuml
+participant "syrup whoops" as 0
+participant "carat tripe" as 1
+participant "lapel quotation" as 2
+box "pulp clowning"
+participant "dryer berg" as 3
+end box
+== lose ducks ==
+autonumber 8 2
+2 ->] : thrash accoutrements
+autonumber stop
+create participant "yanking rings" as 4
+3 -> 4 : yanking rings
+autonumber resume
+0 -> 1++ : rots learnt
+autonumber stop
+...cant pen...
+0 -> 3!! : attendant parabolic
+return agricultural wop
+autonumber resume
+@enduml

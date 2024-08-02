@@ -1,0 +1,20 @@
+@startuml
+participant "meanie oven" as 0
+box "pastor davenport"
+participant "toss tinkle" as 1
+participant "sherlock thugs" as 2
+box "sleeve constitutionally"
+participant "beeswax carpeting" as 3
+end box
+end box
+autonumber 2 10
+0 -> 3: trinkets thickens
+autonumber stop
+3 -> 1: administrative products
+...doghouse squawking...
+1 <-> 1: unmistakable ooze
+par tiramisu hitched
+...shortcut dowdy...
+1 ->o 2: self tails
+end
+@enduml

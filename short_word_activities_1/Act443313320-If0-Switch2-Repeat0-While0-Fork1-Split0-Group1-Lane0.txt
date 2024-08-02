@@ -1,0 +1,32 @@
+@startuml
+switch (commerce thorn?)
+case (slop shattered?)
+:hands whopper; <<input>>
+case (amazes gravel?)
+:situation eh; <<task>>
+case (feller grainy?)
+:departmental olden; <<procedure>>
+-> hoped sensing;
+case (infantry campaign?)
+:dreamer goers; <<procedure>>
+endswitch
+group invitations leukemia
+:homer anise; <<save>>
+-> pow broke;
+fork
+:begging praise;
+fork again
+:etcetera amongst; <<load>>
+fork again
+switch (lis revised?)
+case (hooch hovercraft?)
+:bind slighted; <<load>>
+case (wop repellent?)
+:lob liners;
+endswitch
+fork again
+:tokens fully; <<input>>
+end fork
+stop
+end group
+@enduml

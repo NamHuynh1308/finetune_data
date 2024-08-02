@@ -1,0 +1,11 @@
+@startuml
+participant "dealings melted" as 0
+participant "mentality rendered" as 1
+participant "gangrene stenographer" as 2
+autonumber 7 7
+0 -> 2: benefactor intoxication
+1 -> 1: scumbag rescuers
+alt blume cheque
+ [<- 2: dreadful spar
+end
+@enduml

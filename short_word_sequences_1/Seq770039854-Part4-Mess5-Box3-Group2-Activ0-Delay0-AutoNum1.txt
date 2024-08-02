@@ -1,0 +1,26 @@
+@startuml
+box "psych attends"
+participant "infant slapping" as 0
+box "sits persist"
+participant "toon banzai" as 1
+participant "glassware postman" as 2
+box "loses withheld"
+participant "dysfunctional artist" as 3
+end box
+end box
+end box
+autonumber 3 4
+2 <-> 2: tours strangely
+autonumber stop
+opt smelt exploration
+ [<- 3: apartment portrayed
+autonumber resume
+2 ->x 3: selfish interruption
+par description shad
+3 -> 3: smeared regarded
+autonumber stop
+1 -\\ 0: together cruddy
+autonumber resume
+end
+end
+@enduml

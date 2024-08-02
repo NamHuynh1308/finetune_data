@@ -1,0 +1,4 @@
+@startuml
+:mulled stalling; <<load>>
+stop
+@enduml

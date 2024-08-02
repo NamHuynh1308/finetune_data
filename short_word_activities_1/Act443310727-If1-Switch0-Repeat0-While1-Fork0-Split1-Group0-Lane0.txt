@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:billboard urges;
+split again
+-[hidden]->
+:pooch stadium; <<continuous>>
+-> sage walled;
+split again
+-[hidden]->
+:clippings borders; <<output>>
+-> drools able;
+end split
+while (weaker correct?) is (noo brigade)
+:tailor haze; <<load>>
+-> chart icebox;
+if (chokes medicating?) then (popcorn blast)
+:storming negligee;
+:needlessly acids; <<load>>
+-> confederates spending;
+:schnauzer fundraiser;
+else (arithmetic leaks)
+:pewter starting; <<procedure>>
+:edema wheeler;
+:consigliere scheming;
+endif
+:blurting ethical; <<procedure>>
+endwhile (audiences nutshell)
+:stats narrowed;
+:compassionate exposes; <<input>>
+-> scope dung;
+:filled participated; <<save>>
+@enduml

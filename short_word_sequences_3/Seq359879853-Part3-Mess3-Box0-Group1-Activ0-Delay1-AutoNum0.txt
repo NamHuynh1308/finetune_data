@@ -1,0 +1,12 @@
+@startuml
+participant "sundaes cupboards" as 0
+participant "mate imitating" as 1
+== summertime uplink ==
+create participant "precinct scar" as 2
+0 -> 2 : precinct scar
+...delay longer...
+1 -> 0: reneging sweetie
+critical enrich allergies
+0 -> 0: charade allowance
+end
+@enduml

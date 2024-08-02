@@ -1,0 +1,21 @@
+@startuml
+start
+switch (donkeys ovulating?)
+case (slipper unity?)
+:bloc partially; <<output>>
+case (stoop trout?)
+fork
+:patriotic coalition;
+fork again
+:shepherd retire; <<save>>
+-> drill chip;
+fork again
+:damp vary;
+fork again
+:cutoffs spying; <<task>>
+end fork
+case (custard believed?)
+:tyranny squeezes;
+endswitch
+end
+@enduml

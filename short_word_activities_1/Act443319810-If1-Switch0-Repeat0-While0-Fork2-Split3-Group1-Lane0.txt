@@ -1,0 +1,63 @@
+@startuml
+split
+-[hidden]->
+:drilling marry;
+split again
+-[hidden]->
+:hoping fought;
+-> eligible hokey;
+split again
+-[hidden]->
+:legends imminent;
+split again
+-[hidden]->
+split
+:welts humming;
+split again
+:bull brake; <<procedure>>
+split again
+:distinctive cardiology;
+end split
+end split
+group sanity withdrawals
+fork
+:pin inappropriate;
+fork again
+if (phased maze?) then (stormed skimp)
+(halothane assuring) elseif (anxiety apartment?) then (liquidation dizziness)
+:planet septum; <<save>>
+-> alarmed lymphoma;
+(psychotherapy appreciative) elseif (squire bravest?) then (deception newsman)
+:expulsion whipping; <<input>>
+-> squirrels rut;
+(explosions boarded) elseif (credited tradeoff?) then (victor paralyzing)
+:shorts bowery; <<input>>
+-> mister presiding;
+(bridge maid) elseif (confine maggot?) then (hazelnut impala)
+:assaulting bunches;
+endif
+fork again
+split
+:adamant tightening;
+split again
+:compel hippos;
+split again
+:combine facedown;
+end split
+fork again
+:stipulation dissect;
+-> elbow batch;
+end fork
+:requirements mas; <<load>>
+-> plaid decked;
+end group
+fork
+:swerve shipwrecked;
+fork again
+:embassy grieve;
+fork again
+:around biff; <<task>>
+fork again
+:savored prelim; <<load>>
+end merge
+@enduml

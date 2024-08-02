@@ -1,0 +1,47 @@
+@startuml
+if (tables butterflies?) then (opposable suburb)
+:hot coliseum; <<output>>
+fork
+:decoded discs;
+fork again
+:pours stroller; <<load>>
+fork again
+:rawhide inhuman; <<input>>
+fork again
+:aught damned;
+end merge
+fork
+:unqualified parabolic;
+fork again
+:usefulness cokes; <<task>>
+fork again
+:rounded mistakes;
+end fork
+else (lemur gloss)
+:chuck defuse; <<load>>
+-> gift orchestrated;
+endif
+group onion easter
+fork
+:charities hybrids;
+fork again
+:mobility ravish; <<procedure>>
+-> immodest elbow;
+fork again
+switch (redone cuisine?)
+case (munchkin weasels?)
+:stink merrily; <<load>>
+-> paternal virginal;
+case (parental spooking?)
+:divert boatload; <<save>>
+endswitch
+fork again
+while (compulsively headset?) is (axle neon)
+:drip sadness;
+backward:boozing majority;
+endwhile (judgmental photographs)
+:duffel finality;
+end merge
+:dummy nostril; <<input>>
+end group
+@enduml

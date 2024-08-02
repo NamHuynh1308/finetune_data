@@ -1,0 +1,9 @@
+@startuml
+participant "ferrets especially" as 0
+== sevens eggplant ==
+autonumber 1 6
+create participant "glanced weeks" as 1
+0 -> 1 : glanced weeks
+1 <-> 1++ : drug dries
+return detained hunchback
+@enduml

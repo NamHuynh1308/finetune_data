@@ -1,0 +1,15 @@
+@startuml
+participant "benes sizable" as 0
+participant "idiom commerce" as 1
+participant "finagle prone" as 2
+autonumber 5 10
+break tapped screen
+1 -> 0!! : scrutiny soil
+autonumber stop
+1 ->x 0: hunker madman
+else duffle hamstring
+opt usher appetizer
+0 -> 1!! : breaths tenacity
+end
+end
+@enduml

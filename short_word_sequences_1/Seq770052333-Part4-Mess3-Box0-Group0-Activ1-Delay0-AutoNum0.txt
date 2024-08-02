@@ -1,0 +1,10 @@
+@startuml
+participant "center prim" as 0
+participant "unattainable fusion" as 1
+participant "concerns postman" as 2
+0 ->> 1++ : pure eleven
+1 -\\ 0: tong moronic
+create participant "comatose earthly" as 3
+2 -> 3 : comatose earthly
+return impeccable course
+@enduml

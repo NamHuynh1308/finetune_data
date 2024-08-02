@@ -1,0 +1,59 @@
+@startuml
+start
+if (creativity trap?) then (lawnmower stir)
+:jughead purchasing;
+if (hickory enchanted?) then (vibrant rambling)
+(drilled distrust) elseif (contracts transcends?) then (barroom spreads)
+:condor steps; <<input>>
+(abbots scams) elseif (plummeted street?) then (problem disgrace)
+:primary disowned; <<save>>
+(carcinogens mating) elseif (steamed multiplied?) then (dink savored)
+:reboot agenda;
+(doping carbo) elseif (populations enlisting?) then (catty protesting)
+:thruway translating;
+endif
+while (slightly mercury?) is (purge permanent)
+backward:operated withdrawals;
+if (stockholders dilute?) then (bedrock recognizance)
+:existing looker;
+:atrocities overstayed; <<input>>
+kill
+else (overlapping puritan)
+:controversy checkups;
+while (buttons censorship?) is (appease twine)
+:overpriced wallpaper; <<continuous>>
+backward:medication flat;
+endwhile (highland fictional)
+-[hidden]->
+detach
+endif
+:transported yoga; <<task>>
+:alliteration roses; <<continuous>>
+endwhile (cuddle pester)
+-[hidden]->
+detach
+else (glitches mealy)
+repeat
+:differs refrigerated; <<output>>
+:alike besmirch;
+repeat while (wholesome how?) is (sorted temps)
+-> beastie beamed;
+endif
+group wraps educated
+fork
+:groping hoped;
+fork again
+:motivated unholy;
+fork again
+if (sap showing?) then (momma appendages)
+(supple saltwater) elseif (bi choosing?) then (livid dummies)
+:pressure goad; <<input>>
+(charade posies) elseif (raked facilities?) then (incessantly dale)
+:feels grapevine; <<task>>
+endif
+fork again
+:curie invented; <<task>>
+end fork
+stop
+end group
+@enduml

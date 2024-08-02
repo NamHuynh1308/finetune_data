@@ -1,0 +1,4 @@
+@startuml
+:killed pioneer; <<load>>
+stop
+@enduml

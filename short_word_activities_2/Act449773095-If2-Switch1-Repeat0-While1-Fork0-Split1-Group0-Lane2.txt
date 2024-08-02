@@ -1,0 +1,46 @@
+@startuml
+|1| echo risk
+|2| erred munchkin
+|1|
+start
+|2|
+split
+:extension moped;
+split again
+:bite businessmen;
+split again
+:mousey cruelty; <<procedure>>
+split again
+if (product plums?) then (mastery clowns)
+(shredder manning) elseif (pic dependent?) then (mime roadhouse)
+:malpractice heavens;
+(infestation footer) elseif (shores soiree?) then (attached earning)
+:fiendish sluggish; <<load>>
+endif
+end split
+:combination curveball; <<task>>
+|1|
+:peoples forsaken; <<continuous>>
+-> warming armor;
+|2|
+switch (venting blockbusters?)
+case (drier portray?)
+while (french aardvark?) is (headquarters stressful)
+backward:sneer knockers;
+backward:fibre endorsement;
+endwhile (poached formaldehyde)
+:tae outfield;
+case (preventative twister?)
+if (overlook chowder?) then (dunk licked)
+(bam canoe) elseif (replacements commitments?) then (dice several)
+:busiest consequence;
+(discharge humus) elseif (calf bread?) then (drafty numbing)
+:nukes hurst; <<input>>
+-> focussed awe;
+(fairgrounds referendum) elseif (influences dinosaur?) then (stiffer disallowed)
+:valve communion;
+(inheriting giraffe) elseif (gambling mama?) then (lifts rake)
+:smile sided; <<load>>
+endif
+endswitch
+@enduml

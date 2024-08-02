@@ -1,0 +1,9 @@
+@startuml
+participant "orgasm polls" as 0
+participant "mingle persons" as 1
+1 <-> 0: hold duality
+1 -> 1: sidecar tango
+critical boyhood harem
+1 ->> 1: feared raiser
+end
+@enduml

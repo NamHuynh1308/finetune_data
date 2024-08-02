@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:useless youngest;
+split again
+-[hidden]->
+split
+:chaplain flames;
+split again
+:exceptionally strewn; <<input>>
+split again
+:neighbor enhancements; <<input>>
+end split
+split again
+-[hidden]->
+:recommended projection; <<procedure>>
+end split
+group rya overtures
+switch (muggers commendation?)
+case (killjoy lied?)
+repeat
+:deplete frayed;
+:hibernating shine;
+repeat while (native counselor?) is (jam yea)
+case (refuse smothered?)
+:extra mobster; <<save>>
+-> jams massages;
+case (escaped sinks?)
+split
+:ant accursed;
+split again
+:booked ruins;
+split again
+:hailing anthology; <<save>>
+-> lassie locks;
+split again
+:boogie science;
+end split
+endswitch
+stop
+end group
+@enduml

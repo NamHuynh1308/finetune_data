@@ -1,0 +1,8 @@
+@startuml
+participant "totals room" as 0
+participant "stealing sandbar" as 1
+autonumber 3 9
+0 --//o 0: spending offbeat
+autonumber stop
+1 -> 1: bris midlife
+@enduml

@@ -1,0 +1,30 @@
+@startuml
+start
+fork
+:tent roadway;
+fork again
+:unhappy overwhelms; <<load>>
+fork again
+:gallant housekeeping;
+kill
+fork again
+:stepped currency;
+end fork
+group emphatic ogres
+:stretching holiday; <<input>>
+group guerrilla bomber
+fork
+:clunk showers;
+fork again
+:imperfect vibes;
+-> enquiries decorations;
+fork again
+:ex melted; <<procedure>>
+-> lenses troll;
+fork again
+:rang flips; <<load>>
+end merge
+stop
+end group
+end group
+@enduml

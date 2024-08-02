@@ -1,0 +1,29 @@
+@startuml
+box "imaginations clover"
+participant "braided weirdos" as 0
+participant "trapeze chum" as 1
+end box
+box "worthless cordless"
+participant "civil wackos" as 2
+participant "cased nylon" as 3
+end box
+== reconnect companions ==
+autonumber 2 6
+3 -> 2: circulatory combat
+autonumber stop
+3 ->o 3: ordinarily dopey
+2 -> 1!! : queen weather
+1 -> 1: lemony actuarial
+0 ->x 2: variations composer
+alt erroneous cybernetic
+2 --//o 1: explode rumour
+autonumber resume
+0 -> 0++ : rapid camps
+autonumber stop
+...platelets campaigns...
+0 -// 1++ : aft electrolyte
+autonumber resume
+end
+return delaying necessarily
+return purse furs
+@enduml

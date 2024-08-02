@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:rumours earthlings;
+split again
+-[hidden]->
+if (assistance botany?) then (practitioner caught)
+:copilot swastika; <<save>>
+-> addict reflects;
+:sporting eludes;
+kill
+else (eyewitnesses casinos)
+:loco whereas; <<task>>
+:stingy creepers; <<output>>
+endif
+split again
+-[hidden]->
+:graffiti taxes;
+kill
+end split
+repeat
+:officers inconsiderate; <<load>>
+repeat while (haywire logger?) is (paths refrigerated)
+-> puritanical junk;
+stop
+@enduml

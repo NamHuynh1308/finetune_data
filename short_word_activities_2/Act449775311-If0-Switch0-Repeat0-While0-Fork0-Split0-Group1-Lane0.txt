@@ -1,0 +1,8 @@
+@startuml
+start
+group nuclear repeated
+:cup maintained; <<procedure>>
+-> pass translate;
+stop
+end group
+@enduml

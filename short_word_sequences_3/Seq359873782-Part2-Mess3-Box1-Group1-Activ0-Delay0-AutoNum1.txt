@@ -1,0 +1,13 @@
+@startuml
+participant "sororities bah" as 0
+box "handwriting delinquency"
+participant "caress persistent" as 1
+end box
+== development reconciled ==
+autonumber 8 1
+1 -> 0: proofs blood
+1 --> 0: pain forklift
+opt maiming managing
+0 --> 1: cuisine bastards
+end
+@enduml

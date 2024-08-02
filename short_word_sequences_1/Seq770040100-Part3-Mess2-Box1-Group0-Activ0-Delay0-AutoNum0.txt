@@ -1,0 +1,9 @@
+@startuml
+participant "inflicted graham" as 0
+box "snowmobiles weary"
+participant "defacing represent" as 1
+end box
+create participant "providing millennia" as 2
+0 -> 2 : providing millennia
+2 -> 1: closely mustang
+@enduml

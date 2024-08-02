@@ -1,0 +1,13 @@
+@startuml
+participant "yuck paddock" as 0
+participant "canaries rails" as 1
+participant "footwear mangy" as 2
+create participant "if warts" as 3
+0 -> 3 : if warts
+ [-> 1: technology tory
+3 --//o 3++ : squirm started
+ [-> 2: goats agreement
+...fondle mulberry...
+ [<- 3: baroque frightens
+return humping overkill
+@enduml

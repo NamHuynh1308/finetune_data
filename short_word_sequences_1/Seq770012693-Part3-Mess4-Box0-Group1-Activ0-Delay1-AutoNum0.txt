@@ -1,0 +1,12 @@
+@startuml
+participant "sprite squeal" as 0
+participant "vents tales" as 1
+participant "pants past" as 2
+par electricians tough
+ [<- 1: beggars buyout
+ [-> 0: sanding realises
+1 -> 0: ricochet glee
+...jumping candlelit...
+1 --> 2: cappuccino weapon
+end
+@enduml

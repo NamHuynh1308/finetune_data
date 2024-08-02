@@ -1,0 +1,6 @@
+@startuml
+group coworker financing
+:encyclopedia plain; <<continuous>>
+stop
+end group
+@enduml

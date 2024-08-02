@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:blindly pasted;
+split again
+-[hidden]->
+if (reception gallons?) then (subconsciously turtle)
+:confirm scouting;
+else (arteries mayday)
+:unsatisfactory password;
+:umbrella toss;
+-> warring folksy;
+:clubhouse symbiote;
+endif
+split again
+-[hidden]->
+:brags premiere; <<load>>
+split again
+-[hidden]->
+:voiced selecting; <<task>>
+end split
+group catharsis balloons
+:sparky backseat; <<save>>
+stop
+end group
+@enduml

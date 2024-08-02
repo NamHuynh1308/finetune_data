@@ -1,0 +1,24 @@
+@startuml
+participant "casting holdup" as 0
+participant "practiced mouthpiece" as 1
+participant "handbag barracuda" as 2
+box "skipped decoys"
+participant "blah toasts" as 3
+box "fairies psycho"
+participant "exaggerated montage" as 4
+end box
+end box
+autonumber 2 3
+alt enchanted flue
+2 <-] : expelling furthest
+0 ->o 1: laughingstock vetoed
+autonumber stop
+...insurrection worlds...
+4 -> 3: verified fierce
+else freeway favorites
+4 -> 2: juice ancients
+ [<- 3: standardized ideas
+2 <-] : easygoing owl
+else cheated landscaping
+end
+@enduml

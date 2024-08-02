@@ -1,0 +1,64 @@
+@startuml
+split
+-[hidden]->
+:vet teasing;
+split again
+-[hidden]->
+:bashful billboard; <<load>>
+split again
+-[hidden]->
+switch (congenial gasp?)
+case (regular publicist?)
+:goals available;
+case (polio chirp?)
+:skies guaranteed;
+case (stepmother cosmos?)
+:crept gaiety; <<procedure>>
+endswitch
+split again
+-[hidden]->
+while (expects saleswoman?) is (taxpayer accelerating)
+:meteor sewn; <<input>>
+-> servers demerits;
+:profanity torment; <<save>>
+-> purest racetrack;
+:chemicals sinuses;
+endwhile (objecting scrutinized)
+:bended rips;
+end split
+group nappy receptionist
+fork
+:kiosk sullen;
+fork again
+:ai feminists; <<load>>
+fork again
+if (booze clique?) then (starter waters)
+(ventilation sleeping) elseif (bowman salads?) then (craftsmen costume)
+:punters convertible;
+(grouchy episode) elseif (amuses concur?) then (bids influence)
+:maneuver juggernaut; <<input>>
+-> flatbed matrimony;
+(programs sally) elseif (dinner walnut?) then (environmentalist reddish)
+:clincher attacker;
+(anthrax uninspired) elseif (wiener townsfolk?) then (repertoire traveller)
+:regardless underwear;
+endif
+fork again
+:molded romance; <<load>>
+-> adhesive surfaces;
+end fork
+group candlelit visitation
+:aright skins; <<continuous>>
+group crypts careers
+if (wiggling elbows?) then (hopping filled)
+:bleach fleet; <<load>>
+kill
+else (branching abuse)
+:nightclub incarnation;
+-> grandkids note;
+endif
+stop
+end group
+end group
+end group
+@enduml

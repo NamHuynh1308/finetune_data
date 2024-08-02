@@ -1,0 +1,19 @@
+@startuml
+box "muffler legs"
+participant "locating dies" as 0
+participant "felling cobbler" as 1
+end box
+autonumber 6 10
+par prouder woodchuck
+1 -> 1: latrine substation
+opt erratically layers
+...unbearable lunatics...
+1 -// 1: indeed disqualified
+create participant "solicitor mainline" as 2
+1 -> 2 : solicitor mainline
+create participant "spider machismo" as 3
+2 -> 3 : spider machismo
+end
+1 -> 3!! : interest shoreline
+end
+@enduml

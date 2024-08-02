@@ -1,0 +1,17 @@
+@startuml
+box "trim gaze"
+participant "debt hometown" as 0
+participant "missed maybes" as 1
+participant "untrue canyon" as 2
+end box
+participant "bashed telegrams" as 3
+== groomer correspond ==
+0 --> 0: finance supposedly
+2 ->> 1: cons firing
+2 ->] : crunches drape
+0 ->> 2: spinster appears
+0 --> 2: beaver dowdy
+break jeopardy hangs
+ [<- 2: shout recovers
+end
+@enduml

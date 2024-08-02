@@ -1,0 +1,11 @@
+@startuml
+box "refreshments meets"
+participant "smears pacifist" as 0
+end box
+loop agricultural academic
+0 -> 0: tate trapping
+...drumming feather...
+0 -> 0: filmmakers differences
+else estranged expansion
+end
+@enduml

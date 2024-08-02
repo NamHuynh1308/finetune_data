@@ -1,0 +1,6 @@
+@startuml
+start
+:nomadic richest; <<load>>
+:poignant dedication; <<load>>
+:wears obsessed; <<save>>
+@enduml

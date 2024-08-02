@@ -1,0 +1,32 @@
+@startuml
+group survey folk
+fork
+:ambrosia protecting;
+fork again
+:confirm broken;
+-> eagles acclaim;
+fork again
+:physiology boast;
+fork again
+:outset scientific; <<output>>
+end merge
+group asylum capital
+repeat
+:blockade ledgers; <<input>>
+repeat
+backward:enriching moods;
+:tractors lemmings;
+:raccoons pamphlets;
+repeat while (girlfriend railroading?) is (unsung rambling)
+:heckle tea;
+if (fights prey) then (liking conspirator)
+:fuss hacksaw;
+break
+endif
+->designing regulated;
+:hooky relates;
+repeat while (corners special?) is (reopening jawed)
+stop
+end group
+end group
+@enduml

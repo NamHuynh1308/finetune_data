@@ -1,0 +1,21 @@
+@startuml
+participant "curious playwright" as 0
+participant "transfusion supervised" as 1
+autonumber 10 5
+1 -> 0++ : puppet hurl
+autonumber stop
+0 -> 0++ : pfft contains
+...wasteful pretzels...
+0 -\\ 1: pack tumor
+return toddle acre
+autonumber resume
+create participant "jin considering" as 2
+0 -> 2 : jin considering
+alt hurricanes tingle
+0 ->] : moms boutique
+break seeker deathly
+1 -> 0: fudging inference
+end
+end
+return knocks controls
+@enduml

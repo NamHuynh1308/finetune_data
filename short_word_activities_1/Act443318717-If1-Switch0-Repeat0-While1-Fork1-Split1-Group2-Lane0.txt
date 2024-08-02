@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:settle rousing;
+split again
+-[hidden]->
+:decryption gushing; <<task>>
+-> softening memorial;
+split again
+-[hidden]->
+:scry googly; <<save>>
+end split
+group gutters puffs
+fork
+:dysentery chestnuts;
+fork again
+:installment intestinal; <<continuous>>
+-> picks withstanding;
+fork again
+:organ coddle;
+-> compost households;
+fork again
+:heightened junkies;
+end fork
+group crises sunbathing
+if (beside bid?) then (introduces pecan)
+:function motion;
+kill
+else (whoop shootings)
+:pokes roasts; <<task>>
+-> role disguises;
+:gauging extras;
+while (drifting hamburg?) is (mugger pimped)
+:releasing reenter; <<task>>
+-> brow lack;
+:incriminate each;
+-> easygoing windowsill;
+endwhile (blinks tuxes)
+-[hidden]->
+detach
+endif
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+start
+:entanglements catsup; <<save>>
+-> anorexia hotter;
+switch (egghead centered?)
+case (headline eggplant?)
+:reasonable constellation;
+-> calzones delving;
+case (evicted instance?)
+:buried bloodhound; <<input>>
+-> sayings thrusters;
+case (rate systematically?)
+:hitchhiking blowhard; <<input>>
+case (spiking hairdo?)
+:resumed hags;
+while (humor serenade?) is (anatomy heyday)
+:bashful dormitory; <<save>>
+backward:examiner clique;
+endwhile (gib murder)
+-[hidden]->
+detach
+endswitch
+:seized hooter; <<save>>
+end
+@enduml

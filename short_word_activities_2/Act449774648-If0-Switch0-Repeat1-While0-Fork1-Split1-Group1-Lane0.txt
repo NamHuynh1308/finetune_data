@@ -1,0 +1,28 @@
+@startuml
+start
+repeat
+backward:scenario reassure;
+repeat while (precaution products?) is (chestnut tequila)
+fork
+:aligning patterns;
+fork again
+:howdy charted; <<procedure>>
+fork again
+split
+:functions businesswoman;
+split again
+:enjoyment protesting;
+split again
+:manufactures gladstone;
+split again
+:bluffs health;
+-> husks leaning;
+end split
+fork again
+:sprouts vivid; <<output>>
+end fork
+group meticulous hooter
+:judas trouble; <<procedure>>
+stop
+end group
+@enduml

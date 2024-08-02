@@ -1,0 +1,16 @@
+@startuml
+group black rockers
+fork
+:ails thankful;
+fork again
+:gunshot disputes; <<output>>
+fork again
+:residency extravaganza;
+-> shook buckeyes;
+fork again
+:wiser raring; <<output>>
+-> amusing farce;
+end fork
+stop
+end group
+@enduml

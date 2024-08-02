@@ -1,0 +1,24 @@
+@startuml
+participant "graffiti jokes" as 0
+box "under hype"
+participant "nosey rep" as 1
+participant "repairs neutralized" as 2
+end box
+box "curve renovate"
+participant "microfilm horoscopes" as 3
+end box
+autonumber 10 7
+1 -> 3!! : whipping boosted
+autonumber stop
+3 -\\ 2++ : busy smear
+autonumber resume
+ [-> 2: proofs fixated
+0 -\\ 1++ : hikers weekend
+autonumber stop
+create participant "carelessness whimsical" as 4
+3 -> 4 : carelessness whimsical
+autonumber resume
+3 <-] : envision rawhide
+return airway recently
+return cartoons frizzy
+@enduml

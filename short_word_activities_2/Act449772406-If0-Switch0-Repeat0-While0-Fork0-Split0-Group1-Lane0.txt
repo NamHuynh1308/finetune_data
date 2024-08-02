@@ -1,0 +1,8 @@
+@startuml
+start
+group precedence stumper
+:report coincidence;
+-> degeneration pushers;
+stop
+end group
+@enduml

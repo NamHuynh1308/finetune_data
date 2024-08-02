@@ -1,0 +1,16 @@
+@startuml
+participant "prouder loaf" as 0
+participant "coney embittered" as 1
+== act deb ==
+autonumber 0 8
+opt outrageously methodical
+create participant "dismount exfoliate" as 2
+1 -> 2 : dismount exfoliate
+1 -> 1: prone sixty
+else held warranted
+par sparing gallant
+2 -// 2: earned weiner
+autonumber stop
+end
+end
+@enduml

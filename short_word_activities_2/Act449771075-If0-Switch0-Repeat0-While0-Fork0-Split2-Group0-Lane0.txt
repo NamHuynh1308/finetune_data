@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:straddle grimes;
+split again
+-[hidden]->
+:horsepower defense; <<continuous>>
+split again
+-[hidden]->
+split
+:nationally sun;
+split again
+:trials beefs; <<load>>
+-> simulated toro;
+split again
+:heartbreaking lockers;
+split again
+:answers impersonated; <<output>>
+end split
+end split
+:volunteer cam; <<input>>
+:tolerable lodged;
+:noticing cryptic; <<load>>
+-> cultural klutzy;
+stop
+@enduml

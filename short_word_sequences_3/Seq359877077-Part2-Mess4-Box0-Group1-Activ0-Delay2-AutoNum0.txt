@@ -1,0 +1,13 @@
+@startuml
+participant "nozzle overstay" as 0
+participant "subpoena firsthand" as 1
+alt desperado croak
+0 -> 1: meteorite icons
+0 -> 1!! : listen praising
+else melon paved
+...effectiveness calculating...
+0 -// 0: obstruction trace
+...mother autonomy...
+1 <-] : mailed conveniently
+end
+@enduml

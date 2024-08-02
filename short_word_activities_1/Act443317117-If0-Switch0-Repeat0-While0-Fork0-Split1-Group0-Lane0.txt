@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:spinster factions;
+split again
+-[hidden]->
+:cougar targeted;
+-> infuriate entanglements;
+split again
+-[hidden]->
+:polo thou; <<task>>
+end split
+:installation stupid; <<load>>
+-> daylight plays;
+:conditioner seasons; <<input>>
+stop
+@enduml

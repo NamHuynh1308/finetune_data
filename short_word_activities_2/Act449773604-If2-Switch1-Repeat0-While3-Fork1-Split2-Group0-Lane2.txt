@@ -1,0 +1,73 @@
+@startuml
+|1| hired gate
+|2| cellist weighing
+|1|
+start
+fork
+:boutique levee;
+fork again
+switch (ramble highball?)
+case (om pond?)
+:cathartic certainly;
+case (outdone saga?)
+:chihuahua unhinged;
+case (launder cubes?)
+:slips intestines;
+endswitch
+fork again
+:strategies inflammatory; <<output>>
+-> dashed partnership;
+end fork
+if (spree fireplace?) then (hotbed band)
+(changes massacres) elseif (nobodies arch?) then (eliminates manticore)
+:fatso letterhead;
+(barefoot revisit) elseif (statutes fueled?) then (slimming gunmen)
+:ransack scout;
+endif
+:neatness pokes;
+|2|
+split
+:fastball sabbath;
+split again
+:sticky shrunken;
+while (disciplined menstrual?) is (recipient creaming)
+:shriveled terminating; <<continuous>>
+while (worshipping paralegal?) is (settles tenement)
+:nuclear streets;
+:establishment spooky;
+backward:nosedive killing;
+endwhile (jailhouse property)
+:consummate typically;
+if (pearls leash?) then (frontal walk)
+:brouhaha kaput;
+else (mechanical handcuffs)
+:snake abortions; <<continuous>>
+-> orders racket;
+:pinheads jaunt;
+:optometrist perfume; <<continuous>>
+while (tiki checkout?) is (incapable persons)
+:regeneration smarter;
+endwhile (choirs bank)
+-[hidden]->
+detach
+endif
+backward:left cookbooks;
+endwhile (spouting sins)
+-[hidden]->
+detach
+split again
+split
+:bowler section;
+split again
+:wetlands clench; <<task>>
+split again
+:goiter lander; <<output>>
+-> parishioners advises;
+split again
+:struggled might;
+end split
+split again
+:cringe analogy; <<load>>
+end split
+stop
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+|1| narrow hertz
+|2| reindeer shackled
+|2|
+:pagers shoplifting; <<input>>
+|1|
+:writers inconspicuous; <<procedure>>
+|2|
+:patriots fingerprint; <<load>>
+-> deductions summit;
+stop
+@enduml

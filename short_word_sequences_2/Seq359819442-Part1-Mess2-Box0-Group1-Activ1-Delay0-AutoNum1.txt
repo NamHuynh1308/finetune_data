@@ -1,0 +1,11 @@
+@startuml
+participant "setup ops" as 0
+== supplements negative ==
+autonumber 7 3
+alt written broken
+0 -> 0: croutons rehearsals
+0 ->o 0++ : darkroom flamer
+autonumber stop
+end
+return feeble crawly
+@enduml

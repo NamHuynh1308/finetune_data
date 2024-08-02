@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:ruff hoosegow;
+split again
+-[hidden]->
+:swings need; <<continuous>>
+split again
+-[hidden]->
+:chapel tumbling; <<input>>
+split again
+-[hidden]->
+fork
+:burns gargantuan;
+fork again
+:denominators renewed;
+-> excitement wholesale;
+fork again
+:apostrophe background;
+fork again
+:undertake avoid;
+end merge
+end split
+:northwestern celebrities;
+:defect corroborate;
+-> kiln indifferent;
+stop
+@enduml

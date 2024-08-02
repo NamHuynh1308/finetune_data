@@ -1,0 +1,21 @@
+@startuml
+start
+:cap desired; <<procedure>>
+group ride secretaries
+switch (jiminy iguanas?)
+case (farted gooey?)
+:bizarre automatic; <<procedure>>
+case (fumes horoscopes?)
+if (negotiation lifers?) then (capital otter)
+:obscurity madman; <<load>>
+-> slow ditsy;
+else (capital artillery)
+:princess mystified; <<load>>
+-> passionate trouble;
+:academic connects;
+:hypertension heyday; <<load>>
+endif
+endswitch
+stop
+end group
+@enduml

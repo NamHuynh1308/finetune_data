@@ -1,0 +1,19 @@
+@startuml
+box "wares gargoyle"
+participant "papayas resilient" as 0
+participant "dot gentlemanly" as 1
+participant "headpiece snails" as 2
+participant "doozy islanders" as 3
+end box
+critical invade rotate
+1 ->o 3++ : bordello talcum
+ [-> 0: presumed infantile
+else older trigger
+0 -> 3++ : idiots shotguns
+loop confederate seventeenth
+1 -> 2: tense penguins
+return dogged hugged
+end
+end
+return hiatus escape
+@enduml

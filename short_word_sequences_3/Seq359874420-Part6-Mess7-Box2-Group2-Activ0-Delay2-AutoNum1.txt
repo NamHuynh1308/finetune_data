@@ -1,0 +1,30 @@
+@startuml
+box "matches roughnecks"
+participant "can auto" as 0
+box "figment inspire"
+participant "hurst demonstrated" as 1
+participant "reopened celibate" as 2
+participant "llama mojo" as 3
+participant "than clips" as 4
+end box
+end box
+autonumber 10 3
+alt announcer circling
+1 --//o 2: veggies and
+autonumber stop
+4 -\\ 1: dudes overthink
+...mistresses derriere...
+1 --> 0: wounded blond
+autonumber resume
+opt romances si
+1 -> 4: clicking rectangle
+1 -\\ 4: soonest kins
+else fashioned clanging
+...groupies transition...
+3 -> 4: plums oxygen
+else garnet hertz
+create participant "capitalize stability" as 5
+2 -> 5 : capitalize stability
+end
+end
+@enduml

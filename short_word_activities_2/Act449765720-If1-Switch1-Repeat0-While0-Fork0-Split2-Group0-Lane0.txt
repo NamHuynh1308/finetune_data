@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:lowered orchard;
+split again
+-[hidden]->
+:desktop dicey;
+split again
+-[hidden]->
+switch (chest runny?)
+case (sedated gist?)
+:dissolving cubicle; <<input>>
+case (birch tome?)
+:champagne potatoes;
+endswitch
+end split
+if (biography fifteenth?) then (dignify drinker)
+:debriefed seeds; <<save>>
+:crosses inspired; <<input>>
+-> illnesses milkman;
+else (piss teen)
+:fawning futuristic;
+-> docs piss;
+:prove differ; <<procedure>>
+split
+:pouring deprive;
+split again
+:variations emergency;
+split again
+:bystanders clamp;
+split again
+:domain tush; <<input>>
+end split
+endif
+:mythical esoteric; <<task>>
+-> parts limbs;
+@enduml

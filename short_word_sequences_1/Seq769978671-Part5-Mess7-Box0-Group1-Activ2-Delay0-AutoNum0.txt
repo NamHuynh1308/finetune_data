@@ -1,0 +1,19 @@
+@startuml
+participant "reenter iff" as 0
+participant "fabric diameter" as 1
+participant "landers harping" as 2
+participant "leaked fishy" as 3
+== precise corpses ==
+ [-> 0: loudly stingy
+2 -\\ 3: infantry hires
+3 ->x 0: infantry loner
+1 ->o 3++ : doubly approaches
+3 --> 3++ : bene pinkie
+create participant "curtsy smashes" as 4
+0 -> 4 : curtsy smashes
+break ketchup mopey
+3 -// 4: skater recognized
+end
+return superman rutting
+return shading pumps
+@enduml

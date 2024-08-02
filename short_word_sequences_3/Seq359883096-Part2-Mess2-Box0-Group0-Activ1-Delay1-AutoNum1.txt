@@ -1,0 +1,9 @@
+@startuml
+participant "ben serve" as 0
+participant "staging pied" as 1
+autonumber 1 7
+0 --//o 1: humpback fertilize
+...bladders waltz...
+1 -> 1++ : recorded dilation
+return sword aches
+@enduml

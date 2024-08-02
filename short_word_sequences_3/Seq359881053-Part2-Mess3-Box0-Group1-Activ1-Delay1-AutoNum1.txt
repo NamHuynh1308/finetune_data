@@ -1,0 +1,14 @@
+@startuml
+participant "hotdogs machine" as 0
+participant "shaming jury" as 1
+== chisel corps ==
+autonumber 2 10
+1 ->o 1++ : humidor small
+loop unimportant studious
+1 ->> 0: accessing liter
+return byline skulls
+...cabinets shrunk...
+0 ->] : bundles ditches
+autonumber stop
+end
+@enduml

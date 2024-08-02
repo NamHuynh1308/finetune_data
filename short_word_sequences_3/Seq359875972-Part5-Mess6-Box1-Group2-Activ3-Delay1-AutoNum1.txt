@@ -1,0 +1,28 @@
+@startuml
+participant "cookie chum" as 0
+box "tortillas parlors"
+participant "humming pediatrics" as 1
+participant "assessed strenuously" as 2
+participant "passageway reads" as 3
+participant "eerie arraigned" as 4
+end box
+autonumber 8 7
+1 ->x 4++ : watery espressos
+3 -> 0!! : unveil stagger
+return workings lars
+autonumber stop
+0 -// 3++ : claws breaths
+opt unveil suspected
+2 -> 1: gizmo symptom
+3 ->> 1: bland docks
+autonumber resume
+else introduces catering
+loop ripper versatile
+...crop progressive...
+0 -> 3++ : scout wrong
+autonumber stop
+end
+end
+return receiver cursing
+return laurel titanium
+@enduml

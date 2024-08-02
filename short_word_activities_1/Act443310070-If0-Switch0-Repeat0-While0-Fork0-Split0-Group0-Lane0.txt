@@ -1,0 +1,4 @@
+@startuml
+:straightforward padlock; <<load>>
+-> scrunch wavy;
+@enduml

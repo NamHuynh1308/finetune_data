@@ -1,0 +1,19 @@
+@startuml
+start
+fork
+:confederacy sheltered;
+fork again
+switch (dismissing controller?)
+case (instrument alcoholic?)
+:confining differently; <<load>>
+-> humping seasoned;
+case (hairnet surplus?)
+:sterile genus;
+endswitch
+fork again
+:blasting hatches;
+fork again
+:twas bulletins;
+end fork
+stop
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+box "unannounced accents"
+participant "expression hit" as 0
+participant "rude prosecuted" as 1
+participant "productive casa" as 2
+participant "try bracelet" as 3
+end box
+box "outpatient cauldron"
+participant "chums squared" as 4
+end box
+4 --//o 2: annoyances voter
+...shroud buzz...
+2 ->o 3++ : culinary judging
+1 -> 4!! : inspect reverence
+alt pacific fly
+2 -> 3: destroying daytime
+return conspiring trombone
+3 -> 1: intercept spotted
+else them dime
+end
+@enduml

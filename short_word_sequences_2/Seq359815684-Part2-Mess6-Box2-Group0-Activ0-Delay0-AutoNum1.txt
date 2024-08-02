@@ -1,0 +1,18 @@
+@startuml
+box "fielding garment"
+participant "heartbeats ungodly" as 0
+box "fussing pawning"
+participant "innovative disingenuous" as 1
+end box
+end box
+autonumber 9 10
+1 <-> 1: biopsy eyed
+autonumber stop
+ [-> 0: casinos insidious
+0 -> 1: prophylactic stripped
+1 <-> 0: moneys beds
+autonumber resume
+1 -> 0: facts midge
+0 -> 1: loss stocky
+autonumber stop
+@enduml

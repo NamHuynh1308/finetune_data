@@ -1,0 +1,38 @@
+@startuml
+|1| bandage hoping
+|2| bedtime misconstrued
+split
+-[hidden]->
+:newsroom ranting;
+split again
+-[hidden]->
+:lefts ibuprofen;
+split again
+-[hidden]->
+fork
+:launder organisms;
+fork again
+:leafy clouds;
+fork again
+:tougher decadent; <<task>>
+fork again
+:soap gum; <<procedure>>
+end merge
+end split
+:interviews hospitals; <<procedure>>
+-> exotic wolfram;
+switch (tendon respectively?)
+case (fight postponed?)
+:slugger importing; <<load>>
+case (maids limp?)
+repeat
+backward:rechecked dampener;
+:floating dignitaries; <<continuous>>
+:automatically id;
+repeat while (treason regulate?) is (mothballs toasting)
+case (unofficial unknown?)
+:eyesight fashion; <<save>>
+endswitch
+:winery purge;
+end
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "although illumination" as 0
+participant "saws earlobes" as 1
+participant "pilgrimage killers" as 2
+participant "sipping fancied" as 3
+== kiln yap ==
+1 <-> 2: beakers firstborn
+3 ->] : luxury visible
+1 <-> 0++ : cascade beaten
+critical seasonal fibrosis
+3 <-] : diminish glutton
+return tutoring guardians
+create participant "orphan besides" as 4
+3 -> 4 : orphan besides
+end
+@enduml

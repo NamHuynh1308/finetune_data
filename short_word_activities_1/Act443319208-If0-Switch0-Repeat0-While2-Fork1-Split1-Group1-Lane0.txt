@@ -1,0 +1,38 @@
+@startuml
+:jeans puzzling; <<output>>
+group burglaries crate
+fork
+:naphthalene recalled;
+fork again
+:freshener met; <<procedure>>
+fork again
+:worn cable; <<input>>
+fork again
+:lakeside crime; <<save>>
+end fork
+while (concealment judas?) is (superstar tightening)
+split
+:tod illicit;
+split again
+:like smeared; <<task>>
+-> scotches canape;
+split again
+:speaking puppets;
+while (reflex motive?) is (riddler breached)
+:rebounds pushy; <<save>>
+:provision judgments; <<continuous>>
+:projectile leap;
+endwhile (pose loathes)
+-[hidden]->
+detach
+split again
+:last flows;
+end split
+:standstill restaurateur; <<output>>
+-> bertha ignite;
+:sleazy oldie;
+endwhile (anybody stewardesses)
+:calculators ranchers;
+stop
+end group
+@enduml

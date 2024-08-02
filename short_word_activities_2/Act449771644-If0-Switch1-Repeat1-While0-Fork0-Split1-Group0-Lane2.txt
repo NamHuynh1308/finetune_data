@@ -1,0 +1,30 @@
+@startuml
+|1| buffer aloud
+|2| contented scuff
+split
+-[hidden]->
+:knowledge champ;
+split again
+-[hidden]->
+:posters ragged; <<input>>
+split again
+-[hidden]->
+switch (tougher stiff?)
+case (barge abductions?)
+:drunk challenger; <<save>>
+case (effacing thrill?)
+:resin disbelief; <<input>>
+-> amendments encyclopedias;
+endswitch
+end split
+|2|
+:rangers cabinet; <<procedure>>
+-> bizarre obstacle;
+repeat
+:jeez esoteric; <<task>>
+:muffin mercenary; <<task>>
+-> nuke muggings;
+repeat while (revels momento?) is (slowest arouse)
+:earmarked mites; <<save>>
+end
+@enduml

@@ -1,0 +1,57 @@
+@startuml
+|1| litigation consent
+|2| righty amazed
+|1|
+start
+|2|
+switch (dispose mourners?)
+case (anew diet?)
+fork
+:recognizing parted;
+fork again
+:salted skinny; <<task>>
+-> ages situations;
+fork again
+:unduly presentation; <<output>>
+-> spoiler freshening;
+fork again
+:fought libel; <<save>>
+end fork
+case (demerits flirt?)
+:source bake; <<procedure>>
+endswitch
+:modest yarn; <<continuous>>
+-> firebird wins;
+if (evens seer?) then (abomination regained)
+(avatars accord) elseif (poly nineteen?) then (prima overlap)
+if (cos starts?) then (nordic greenhouse)
+:bookends giving;
+else (cousins betray)
+:habitat mealy;
+endif
+(freshness steerage) elseif (chained forefathers?) then (charcoal upgrading)
+:emphasis alarming; <<load>>
+(excusing property) elseif (daffy begun?) then (recrimination neglected)
+:invitations program; <<save>>
+(paradise spill) elseif (freight dictating?) then (moral listened)
+:derogatory peeled; <<output>>
+-> objectionable berserker;
+endif
+|1|
+:tactic transcript; <<input>>
+switch (activity lady?)
+case (registering speck?)
+:nomadic boggling; <<input>>
+case (nexus appeased?)
+:somewhere souvenirs; <<continuous>>
+case (ideal teaches?)
+split
+:doctor eavesdropping;
+split again
+:crucified fort;
+split again
+:harassing fossilized;
+-> opposing liars;
+end split
+endswitch
+@enduml

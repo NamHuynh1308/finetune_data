@@ -1,0 +1,28 @@
+@startuml
+|1| lesions lucid
+|2| delicates sole
+|1|
+start
+split
+:machete sulfur;
+split again
+:cowardly tensions; <<task>>
+-> delve monthly;
+split again
+repeat
+:voter flustered;
+if (scotches verbatim) then (special zero)
+:charley conning;
+break
+endif
+->backs authenticate;
+:interrogating barbecued;
+repeat while (impersonate pis?) is (mails preconceived)
+split again
+:fiddling abandoning; <<output>>
+end split
+:bustier yanked; <<task>>
+|2|
+:tinkered shun; <<continuous>>
+stop
+@enduml

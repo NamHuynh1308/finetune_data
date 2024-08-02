@@ -1,0 +1,55 @@
+@startuml
+start
+fork
+:sake slips;
+fork again
+split
+:event dash;
+split again
+:lessons utterly;
+-> iceman infallible;
+split again
+:notions breezing;
+end split
+fork again
+if (fending sworn?) then (fascinating succeed)
+:pajama chloroformed;
+:brotherhood horrible; <<save>>
+-> focus detached;
+else (oink blaring)
+:reassigned noun; <<save>>
+:shimmering punishment; <<procedure>>
+:confiding stomping;
+while (accommodation jumpsuit?) is (intolerable casing)
+backward:seconds parenthood;
+:meditate stationary; <<output>>
+:canyon accurate;
+endwhile (manage event)
+-[hidden]->
+detach
+endif
+fork again
+:unseen domicile; <<continuous>>
+end merge
+group compulsory earpiece
+repeat
+fork
+:commodity stella;
+fork again
+:translate desires;
+fork again
+:thumb batter; <<load>>
+end merge
+:restorative honeysuckle; <<output>>
+if (unit buffer?) then (droopy youngest)
+(colonists bleeder) elseif (wildlife scots?) then (occurrences unwelcome)
+:white guillotine; <<save>>
+(fund aces) elseif (gastric invigorating?) then (pi umm)
+:unruly station; <<save>>
+endif
+repeat while (arteries leverage?) is (jerked devices)
+-> dice fools;
+:vamp terminology; <<task>>
+end group
+stop
+@enduml

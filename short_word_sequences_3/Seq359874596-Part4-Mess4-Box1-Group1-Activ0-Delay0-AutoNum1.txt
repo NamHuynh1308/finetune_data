@@ -1,0 +1,16 @@
+@startuml
+participant "medley mutt" as 0
+participant "hosing forage" as 1
+box "bathroom fuse"
+participant "canter snowboard" as 2
+participant "costa exiles" as 3
+end box
+autonumber 9 8
+2 -\\ 3: bris compartment
+2 -> 1: paper regatta
+par longs deafening
+ [-> 1: myrtle meticulous
+2 --//o 2: pack progressing
+autonumber stop
+end
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:willed puritan;
+split again
+-[hidden]->
+:thoughtfully tempt; <<input>>
+-> spokesperson revolutionary;
+split again
+-[hidden]->
+:rogues row;
+end split
+group overbite frees
+if (lizard terry?) then (bunker exceedingly)
+:painkillers feels; <<load>>
+:fixable factoid;
+else (simpletons expecting)
+:antihistamine settle;
+-> carp clocked;
+:probe swingers; <<continuous>>
+:contribution underage; <<save>>
+-> mash camped;
+endif
+stop
+end group
+@enduml

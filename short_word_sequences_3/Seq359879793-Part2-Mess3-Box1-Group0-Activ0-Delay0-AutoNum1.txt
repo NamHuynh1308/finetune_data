@@ -1,0 +1,11 @@
+@startuml
+participant "excited ravage" as 0
+box "making toby"
+participant "bandage skeeters" as 1
+end box
+autonumber 1 7
+1 -\\ 0: psychotherapy ammunition
+1 -// 0: conspired licorice
+autonumber stop
+1 -> 0: reply explicitly
+@enduml

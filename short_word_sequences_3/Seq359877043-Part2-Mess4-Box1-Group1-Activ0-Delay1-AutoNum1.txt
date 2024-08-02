@@ -1,0 +1,16 @@
+@startuml
+box "flap commonplace"
+participant "nursing flew" as 0
+participant "nefarious spelt" as 1
+end box
+== voluntary pithy ==
+autonumber 2 1
+0 -->x 0: shout tails
+...slate plagues...
+0 -> 1: sophomore fraternization
+0 ->o 0: fresher bigfoot
+alt mugging perjury
+0 -> 0: mulligan lis
+autonumber stop
+end
+@enduml

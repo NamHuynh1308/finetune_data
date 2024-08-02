@@ -1,0 +1,16 @@
+@startuml
+box "admission whose"
+participant "compliant sly" as 0
+participant "retreats cache" as 1
+end box
+== donors rigging ==
+0 ->> 0: beginning thaw
+alt concern wan
+0 --//o 0: doer youngest
+0 -> 1++ : follicle gull
+0 -// 1: detonation statesmen
+...commerce gossip...
+1 -> 0: grubby hobbies
+end
+return renew troubled
+@enduml

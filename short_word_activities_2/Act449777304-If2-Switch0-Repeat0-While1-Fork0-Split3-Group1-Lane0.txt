@@ -1,0 +1,61 @@
+@startuml
+split
+-[hidden]->
+:roast shear;
+split again
+-[hidden]->
+:overworked secured; <<input>>
+split again
+-[hidden]->
+split
+:junkie blurb;
+split again
+:withhold culottes;
+split again
+:delinquent french;
+split again
+:bodies computers; <<task>>
+-> scooping gloom;
+end split
+split again
+-[hidden]->
+split
+:peeks destruct;
+split again
+:monopoly explaining;
+split again
+:sailboat chronology;
+split again
+:spooky swizzle;
+end split
+end split
+group worldly habitat
+if (bra centred?) then (nether unmarked)
+(pests notion) elseif (unreasonable bulb?) then (belt portray)
+if (unfortunately amendment?) then (bystander fitness)
+:beeswax booger; <<procedure>>
+-> portray bustle;
+:shill enslave;
+while (sphinx dodgy?) is (procrastinating metaphorically)
+backward:outfitted scars;
+endwhile (connecting fragment)
+-[hidden]->
+detach
+else (neighboring glorious)
+:reacquaint pester; <<procedure>>
+:roommate fairer; <<output>>
+-> armour silver;
+:gilbert barfing;
+endif
+(solely similarity) elseif (admirably dramas?) then (aphrodisiac riders)
+:strategic sits;
+-> adenoids placed;
+(struggled backed) elseif (papa seats?) then (suspenders arteries)
+:hay tinsel; <<task>>
+(mountain cheeks) elseif (apocalypse project?) then (exceeded mess)
+:parks counselling;
+-> significance afterglow;
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:conjugal subsequently;
+split again
+-[hidden]->
+if (bay faulty?) then (pieces nowhere)
+(monumentally neutralize) elseif (snarl triangular?) then (annul huckster)
+:stayed barium; <<task>>
+(megaphone hairless) elseif (summon howl?) then (coffins stooge)
+:warheads german; <<task>>
+endif
+split again
+-[hidden]->
+:veil rushes;
+-> aprons mentor;
+split again
+-[hidden]->
+switch (bicycle consummate?)
+case (booth inbred?)
+:teaming grasp;
+case (redo windsurfing?)
+:profit tyrants; <<task>>
+endswitch
+end split
+group embraced peeked
+:demonstrations passageways; <<save>>
+:limbo reviewed;
+end group
+stop
+@enduml

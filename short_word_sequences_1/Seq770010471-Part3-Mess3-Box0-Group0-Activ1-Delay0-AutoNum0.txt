@@ -1,0 +1,10 @@
+@startuml
+participant "bangers bottles" as 0
+participant "grubbing qualms" as 1
+participant "painting peak" as 2
+== retrieving balances ==
+1 -// 0: global lakers
+0 <-> 1++ : lar edema
+0 ->] : kindling cleats
+return jock bertha
+@enduml

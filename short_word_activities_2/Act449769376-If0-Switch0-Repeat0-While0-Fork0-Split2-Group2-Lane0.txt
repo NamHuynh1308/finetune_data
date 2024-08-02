@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:humping flopping;
+split again
+-[hidden]->
+:herd shimmer; <<save>>
+split again
+-[hidden]->
+:snowstorm puncture; <<output>>
+end split
+group robots raggedy
+split
+:buffy seat;
+split again
+:pin rouse; <<continuous>>
+-> candlestick devour;
+split again
+:hall included; <<continuous>>
+-> surrounded resorts;
+split again
+:postponing intensity;
+end split
+group sugars supermodel
+:canvas arteries; <<continuous>>
+stop
+end group
+end group
+@enduml

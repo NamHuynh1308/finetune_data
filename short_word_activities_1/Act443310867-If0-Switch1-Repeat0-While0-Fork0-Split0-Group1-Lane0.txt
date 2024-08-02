@@ -1,0 +1,18 @@
+@startuml
+start
+:devils flopping; <<task>>
+-> combined gate;
+group weepy topic
+:diesel paralysis; <<input>>
+switch (solidify cactus?)
+case (bidding advocate?)
+:restoring crypto;
+case (slight lovely?)
+:baa kiwi; <<load>>
+-> fangs crashers;
+case (orchestrate solace?)
+:snuff voters;
+endswitch
+stop
+end group
+@enduml

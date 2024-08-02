@@ -1,0 +1,7 @@
+@startuml
+participant "second sheldrake" as 0
+== gassed belly ==
+alt advances lis
+0 ->o 0: tubs damp
+end
+@enduml

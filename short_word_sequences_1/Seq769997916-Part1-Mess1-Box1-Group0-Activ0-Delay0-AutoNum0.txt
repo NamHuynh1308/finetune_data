@@ -1,0 +1,7 @@
+@startuml
+box "flashes scuba"
+participant "peaches lurk" as 0
+end box
+== recuse sailboat ==
+ [-> 0: twit rile
+@enduml

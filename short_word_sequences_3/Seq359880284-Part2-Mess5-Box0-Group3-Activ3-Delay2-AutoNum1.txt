@@ -1,0 +1,25 @@
+@startuml
+participant "rolls rescued" as 0
+autonumber 2 5
+create participant "attendance laurel" as 1
+0 -> 1 : attendance laurel
+loop unspoken wobble
+...myself mistaken...
+1 -> 0++ : hacking worn
+break swelling liquidated
+1 -> 0++ : physiology paragon
+autonumber stop
+critical pornographers soiree
+...halfback jester...
+0 -> 1: midway training
+return driving jamming
+autonumber resume
+0 <-> 0++ : unwelcome doom
+autonumber stop
+else hairdressers socializing
+end
+end
+end
+return gadget farce
+return decomposing applause
+@enduml

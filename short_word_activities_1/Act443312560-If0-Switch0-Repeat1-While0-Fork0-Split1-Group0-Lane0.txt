@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:speakerphone appraisal;
+split again
+-[hidden]->
+repeat
+:ritualistic immature; <<load>>
+:mercury blimp;
+:infestation dingy; <<procedure>>
+-> biological clamping;
+repeat while (carvers reactive?) is (kidnap vouch)
+split again
+-[hidden]->
+:cartoon scaled; <<save>>
+-> lad nod;
+end split
+:baronet cold;
+end
+@enduml

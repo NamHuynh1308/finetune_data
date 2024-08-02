@@ -1,0 +1,11 @@
+@startuml
+participant "gossip sender" as 0
+autonumber 1 7
+ [-> 0: sawyer doll
+0 -> 0: goiter terrific
+...pretty instructions...
+0 -->x 0: beings hype
+0 <-> 0++ : counterpart focus
+0 ->o 0: automatic asphyxiation
+return boosted invaders
+@enduml

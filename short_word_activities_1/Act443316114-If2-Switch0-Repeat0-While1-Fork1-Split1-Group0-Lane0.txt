@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:inference liege;
+split again
+-[hidden]->
+if (learning liquid?) then (power lowdown)
+:guidelines aground;
+else (ridicule cachet)
+:pricey moan; <<load>>
+-> succession imprisonment;
+:incriminate figure;
+:prioritize cassettes;
+endif
+split again
+-[hidden]->
+if (collapse crusades?) then (gunshot judgmental)
+:rental fireproof; <<load>>
+:sporty aspirin; <<continuous>>
+:appendages nonissue;
+else (yell drone)
+:deduction festivities;
+:reserved shackled;
+-> serve neurological;
+:employee toolbox; <<task>>
+while (definite airstrip?) is (million overdose)
+:technicality cheater;
+:precise supports;
+backward:courier gadget;
+endwhile (unselfish gardenias)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+:porcelain links;
+kill
+end split
+fork
+:eyre speechless;
+fork again
+:hubcaps coached;
+kill
+fork again
+:genius seeping;
+fork again
+:regulated mitt; <<continuous>>
+end merge
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+box "bundle foamy"
+participant "ceremonies doubles" as 0
+participant "disappearing undertow" as 1
+end box
+participant "song overdressed" as 2
+alt micro runt
+2 ->> 0: slingshot tidbits
+loop tailing tenants
+...ideas infuriating...
+2 <-] : thereafter ambivalence
+break chopped yarn
+create participant "pretzel irritation" as 3
+0 -> 3 : pretzel irritation
+2 -> 3!! : johns comment
+else starlet thespian
+3 <-] : profile choirs
+else mistress tiffany
+...heroin bucket...
+3 <-] : improves documentary
+end
+end
+end
+@enduml

@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:birthright minimal;
+split again
+-[hidden]->
+fork
+:mulling gazebo;
+fork again
+:candor tic;
+-> conner stole;
+fork again
+:encountered lesions; <<save>>
+end merge
+split again
+-[hidden]->
+:importance bounce; <<load>>
+-> gown scholarships;
+end split
+if (consider grander?) then (financial declined)
+(arachnid col) elseif (blindly bestowed?) then (notify retreat)
+:commie intervened; <<output>>
+(immobilize operation) elseif (directory ballots?) then (stalk geometric)
+:falls ears; <<load>>
+(theatre signaled) elseif (hormonal beer?) then (its attitude)
+:rumgsx;
+kill
+endif
+group louse naphthalene
+split
+:squatter describing;
+split again
+:accelerate cookies; <<continuous>>
+split again
+:amendment detract;
+split again
+:apparel approach;
+end split
+stop
+end group
+@enduml

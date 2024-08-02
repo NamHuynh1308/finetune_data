@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:historical bree;
+split again
+-[hidden]->
+:inspection fingernails;
+split again
+-[hidden]->
+fork
+:detest purification;
+fork again
+:wiener luggage; <<input>>
+fork again
+:enjoyment poise;
+end merge
+split again
+-[hidden]->
+:sadder afar; <<output>>
+-> fuhrer backpacks;
+end split
+group executing screamed
+while (gravely janitor?) is (bored thicker)
+:core specializes;
+-> trace dances;
+:hiring refute; <<input>>
+backward:meathead offset;
+endwhile (teen kit)
+:limping camels;
+stop
+end group
+@enduml

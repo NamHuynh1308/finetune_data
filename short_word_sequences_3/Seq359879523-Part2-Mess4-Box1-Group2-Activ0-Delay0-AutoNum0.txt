@@ -1,0 +1,14 @@
+@startuml
+participant "creased luna" as 0
+box "diphtheria candies"
+participant "unappreciated weensy" as 1
+end box
+1 -> 0: corresponding termites
+0 <-> 1: alcoholic factors
+loop immunity lifer
+0 -> 0: gobbles onion
+loop initiate anarchy
+1 --//o 0: ornamental muggings
+end
+end
+@enduml

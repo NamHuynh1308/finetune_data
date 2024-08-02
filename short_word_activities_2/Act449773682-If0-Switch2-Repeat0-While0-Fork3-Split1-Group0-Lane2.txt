@@ -1,0 +1,60 @@
+@startuml
+|1| mismatched henry
+|2| atropine enlightenment
+split
+-[hidden]->
+:statuary mist;
+split again
+-[hidden]->
+:actions improvising; <<input>>
+-> flogged dine;
+split again
+-[hidden]->
+fork
+:freebie racquet;
+fork again
+:pot fetish;
+fork again
+:undergrad form; <<input>>
+end fork
+end split
+|2|
+:doping upright; <<input>>
+-> romancing sayings;
+:shanghai persecute;
+-> fixation unaffected;
+switch (tucking glimmer?)
+case (meningitis sham?)
+fork
+:destructing keystone;
+fork again
+:electrolyte schools; <<save>>
+-> flickering flex;
+fork again
+:directly industry;
+end merge
+case (lately communicator?)
+switch (cheeseburgers crystal?)
+case (murmur tapas?)
+:loneliest plain;
+case (fused wondered?)
+:fearless delinquency;
+case (application agree?)
+:gonzo eleventh;
+case (droves ink?)
+:revealed web;
+endswitch
+case (toying sensuous?)
+:sputnik rescinded; <<load>>
+case (generously piles?)
+fork
+:infections longest;
+fork again
+:breakups noon; <<save>>
+fork again
+:separately napalm;
+fork again
+:roller jets; <<task>>
+end merge
+endswitch
+@enduml

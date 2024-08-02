@@ -1,0 +1,6 @@
+@startuml
+start
+:fitness concludes; <<load>>
+-> pads revive;
+end
+@enduml

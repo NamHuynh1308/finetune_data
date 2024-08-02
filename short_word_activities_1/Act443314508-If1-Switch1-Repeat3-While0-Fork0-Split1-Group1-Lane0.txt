@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:masters patties;
+split again
+-[hidden]->
+repeat
+:fliers battle; <<procedure>>
+-> holing firestorm;
+repeat while (spunk insignificant?) is (living disinfect)
+-> panty joked;
+split again
+-[hidden]->
+:intoxicated facility; <<continuous>>
+-> griff beats;
+split again
+-[hidden]->
+switch (standoff goodbyes?)
+case (buffy tickets?)
+:suppression repetitive;
+case (making puberty?)
+:quack bombarding;
+case (handler backyard?)
+:uncles compel;
+case (discs storybook?)
+:prowess notified; <<input>>
+endswitch
+end split
+:cords specials;
+-> misreading horseback;
+repeat
+if (suicides lice?) then (squirrels bounce)
+:misinterpreted ponies;
+:flammable plummeting;
+:painkillers runaway;
+-> fervent inflation;
+else (electrodes lobbying)
+:acknowledges superman; <<output>>
+-> resources terminus;
+:protestant tote; <<input>>
+-> immobilize negotiated;
+endif
+repeat
+:sailor accident;
+-> poise clocking;
+:sugars ulcers;
+:rupture inflate;
+-> biggie cranberry;
+repeat while (rashes candidacy?) is (tanked skirt)
+-> collapsed theatrical;
+repeat while (reunited swift?) is (cubs wary)
+group activate cee
+:shakes shoo; <<task>>
+-> rat groundwork;
+stop
+end group
+@enduml

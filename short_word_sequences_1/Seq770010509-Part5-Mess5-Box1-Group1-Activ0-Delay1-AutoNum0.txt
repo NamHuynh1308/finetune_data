@@ -1,0 +1,18 @@
+@startuml
+participant "supple seals" as 0
+participant "dazzle bless" as 1
+participant "rehabilitate were" as 2
+box "lawful freshness"
+participant "landscapes ankles" as 3
+end box
+== capsule bourbon ==
+create participant "angels uninhibited" as 4
+0 -> 4 : angels uninhibited
+3 ->x 2: bench electronics
+...limb sketch...
+3 ->o 2: hogan spitz
+3 -> 1: newspaper personals
+loop ere kinder
+0 -->x 4: superpowers mach
+end
+@enduml

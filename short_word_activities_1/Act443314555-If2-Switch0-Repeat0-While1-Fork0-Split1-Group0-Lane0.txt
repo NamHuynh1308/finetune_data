@@ -1,0 +1,36 @@
+@startuml
+start
+if (inland bungalow?) then (skirmishes medicare)
+(staring stalling) elseif (varied legislate?) then (pageant westerns)
+:deployed computer; <<continuous>>
+(deals moocher) elseif (dice cheered?) then (whisking orbs)
+:belittle smithers; <<continuous>>
+endif
+split
+:fingerprint smoke;
+split again
+if (tormented deceptions?) then (jacket pea)
+:posies zit; <<continuous>>
+-> photographed loophole;
+:shadow die; <<procedure>>
+-> fight transitional;
+while (pays suffering?) is (disregarded instructed)
+:whirling nellie; <<procedure>>
+-> spits foam;
+:dorky triggered;
+:brighter allowed;
+:bustling tries; <<load>>
+endwhile (doubtful executing)
+-[hidden]->
+detach
+else (hanging unfaithful)
+:mental alternatives;
+:fitted pods;
+:tau diatribes; <<input>>
+endif
+split again
+:wee bagpipes; <<procedure>>
+-> puritans prophet;
+end split
+end
+@enduml

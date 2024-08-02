@@ -1,0 +1,12 @@
+@startuml
+switch (tent weakened?)
+case (bobbing laryngitis?)
+:cedar journeys;
+-> speech adversary;
+case (morocco sees?)
+:canvas cuffing; <<task>>
+endswitch
+:snowed dinosaur; <<input>>
+-> wheelchair satisfying;
+stop
+@enduml

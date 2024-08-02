@@ -1,0 +1,10 @@
+@startuml
+participant "tremors state" as 0
+participant "depend lucky" as 1
+autonumber 7 10
+0 ->] : funded lozenges
+autonumber stop
+1 -\\ 0++ : visa parasites
+autonumber resume
+return blackbird ginseng
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+start
+group miracles proposing
+fork
+:guff mothballs;
+fork again
+:weighed taxi;
+kill
+fork again
+if (hologram ancients?) then (tricked captivity)
+:condo sharking; <<load>>
+:corrective sac; <<load>>
+-> barefoot et;
+kill
+else (putrid charted)
+:ingrates locks;
+kill
+endif
+end fork
+stop
+end group
+@enduml

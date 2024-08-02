@@ -1,0 +1,5 @@
+@startuml
+participant "yanking locking" as 0
+autonumber 4 8
+0 <-> 0: explicit wanting
+@enduml

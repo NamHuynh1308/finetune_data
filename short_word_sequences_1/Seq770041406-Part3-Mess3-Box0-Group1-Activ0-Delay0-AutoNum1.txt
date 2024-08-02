@@ -1,0 +1,13 @@
+@startuml
+participant "job comics" as 0
+participant "devoured gloom" as 1
+participant "calibre appliances" as 2
+autonumber 2 4
+1 -->x 2: shoo compulsive
+loop lacrosse eviscerate
+0 <-> 2: continent doe
+autonumber stop
+ [-> 0: litigation headless
+autonumber resume
+end
+@enduml

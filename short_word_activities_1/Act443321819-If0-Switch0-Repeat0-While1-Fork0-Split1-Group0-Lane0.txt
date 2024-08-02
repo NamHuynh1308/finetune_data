@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:abilities glittering;
+split again
+-[hidden]->
+:diversions mowed; <<procedure>>
+split again
+-[hidden]->
+:orbit restored; <<procedure>>
+split again
+-[hidden]->
+:tis feudal; <<output>>
+end split
+:infection browbeat; <<task>>
+-> apartment screen;
+while (madness mysticism?) is (scenes tubing)
+backward:remarkable rancher;
+backward:dorsal denied;
+endwhile (constantly stylish)
+:granddaughters requirement;
+stop
+@enduml

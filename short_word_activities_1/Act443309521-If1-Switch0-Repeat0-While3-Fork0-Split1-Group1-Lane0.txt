@@ -1,0 +1,34 @@
+@startuml
+start
+group bone moderation
+if (conviction seizes?) then (lunatics martinis)
+while (livid menu?) is (ace cockroach)
+backward:prescription deception;
+:tensions swarm; <<procedure>>
+endwhile (buffs personable)
+:parishioners nobility;
+while (wonders rollers?) is (bris beefy)
+backward:resorted whoa;
+backward:fabulous highlighters;
+endwhile (trashes shopping)
+-[hidden]->
+detach
+else (heartbreak doubled)
+split
+:biochemistry commuted;
+split again
+:pester affidavits; <<save>>
+split again
+:postman breathless;
+while (rods neutralized?) is (completing renting)
+:realistically marine; <<output>>
+endwhile (reconciled stuffed)
+-[hidden]->
+detach
+end split
+endif
+:offset volition;
+-> omitted novocaine;
+end group
+end
+@enduml

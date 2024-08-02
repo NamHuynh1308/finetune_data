@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:jocks medication;
+split again
+-[hidden]->
+:expel restroom; <<save>>
+-> plotting preying;
+split again
+-[hidden]->
+:suspicions toying; <<load>>
+split again
+-[hidden]->
+:sensor zero; <<load>>
+end split
+switch (patty gerbil?)
+case (proms oily?)
+:freelancing respirator;
+case (joking concocted?)
+:electrified engraving; <<input>>
+endswitch
+@enduml

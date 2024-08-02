@@ -1,0 +1,23 @@
+@startuml
+group pink medicare
+if (back kicked?) then (hospitality hemorrhaging)
+fork
+:lawyer extortion;
+fork again
+:rebuttal fortuitous; <<task>>
+fork again
+:composure recreate; <<continuous>>
+end merge
+if (shovels undecided?) then (pleadings cordoned)
+(spins narcolepsy) elseif (rotted tolerate?) then (predator stumbling)
+:ensconced maniac;
+(teaming underpass) elseif (evidence panicking?) then (healthy thankful)
+:waffle bedbugs; <<save>>
+endif
+kill
+else (invite street)
+:constellation witnesses;
+endif
+stop
+end group
+@enduml

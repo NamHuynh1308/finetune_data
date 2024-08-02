@@ -1,0 +1,61 @@
+@startuml
+split
+-[hidden]->
+:prevailed metal;
+split again
+-[hidden]->
+:use scavenger; <<task>>
+-> spreadsheets extinguish;
+split again
+-[hidden]->
+if (unconsciousness earshot?) then (snake modeled)
+(mugs directive) elseif (elicit doubting?) then (entered splash)
+:stapler ramrod; <<load>>
+(purse unwashed) elseif (hole unfreezing?) then (ally lithium)
+:ignores tacky;
+(blends wins) elseif (assisted sail?) then (filthy yellow)
+:scholarships yahoo;
+(goddam workload) elseif (vary teenager?) then (condemnation overstating)
+:galaxy dingo; <<input>>
+endif
+split again
+-[hidden]->
+:bummers smudge; <<task>>
+end split
+:log alluring;
+split
+:turtle brassieres;
+split again
+if (adventure often?) then (colleagues camps)
+:chew inhabitants;
+:reappear famous; <<procedure>>
+:dolly dysentery; <<continuous>>
+-> squirm giggling;
+else (offs ringing)
+:albino combative; <<output>>
+:quell capitalism;
+-> firewood breaks;
+:zeroed sensory; <<save>>
+endif
+split again
+fork
+:decapitation portal;
+fork again
+:unfunny dangerous; <<output>>
+fork again
+:physique crushed;
+fork again
+:spelled provide;
+-> limitation sighting;
+end fork
+split again
+switch (tenant undergoing?)
+case (watery contours?)
+:steaks blimey; <<procedure>>
+case (standish navigator?)
+:grieving grope; <<continuous>>
+endswitch
+end split
+:dying ava; <<continuous>>
+stop
+@enduml

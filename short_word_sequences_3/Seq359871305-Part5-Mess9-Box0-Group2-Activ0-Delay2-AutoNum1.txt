@@ -1,0 +1,29 @@
+@startuml
+participant "hieroglyphs alas" as 0
+participant "popper decay" as 1
+participant "tail missiles" as 2
+participant "repetitive billboards" as 3
+participant "rekindled lasers" as 4
+autonumber 10 3
+2 -> 0: troublesome reform
+...autographs accountant...
+0 ->] : gullible wrangle
+autonumber stop
+opt market bargained
+ [-> 0: barre tiara
+autonumber resume
+3 <-] : crept scholarships
+else mocks flat
+1 -> 3: singleton objectionable
+else concussion infrared
+4 -// 0: dusk huskies
+else sayings confederation
+alt scraped upstate
+4 -> 4!! : spoken coldly
+3 -> 3!! : fever artsy
+autonumber stop
+...monsieur reflection...
+3 -> 2: folks chrome
+end
+end
+@enduml

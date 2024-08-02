@@ -1,0 +1,27 @@
+@startuml
+participant "unsupervised animals" as 0
+participant "stew gourmet" as 1
+box "anaesthetic hopped"
+participant "hosing sisterhood" as 2
+box "tomatoes capsize"
+participant "hock hastened" as 3
+end box
+end box
+== fattening pretentious ==
+autonumber 5 7
+loop pushover court
+create participant "dishonest rung" as 4
+2 -> 4 : dishonest rung
+autonumber stop
+create participant "deserts privy" as 5
+2 -> 5 : deserts privy
+4 ->x 5: confidentially mortgages
+...windy saltines...
+3 ->x 4: extinguisher unloading
+autonumber resume
+4 -// 2: ged heck
+...increasingly fights...
+0 -> 0++ : swat oxen
+end
+return commercially peeled
+@enduml

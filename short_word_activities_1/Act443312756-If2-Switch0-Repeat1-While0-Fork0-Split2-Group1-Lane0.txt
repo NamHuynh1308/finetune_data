@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:os psychopath;
+split again
+-[hidden]->
+:extravaganza scenarios;
+split again
+-[hidden]->
+:listeners eight; <<procedure>>
+split again
+-[hidden]->
+:earl comforts; <<continuous>>
+-> loveable shill;
+end split
+group generosity collarbone
+split
+:pep wet;
+split again
+:peanut briskly; <<output>>
+split again
+:concluded traditionally; <<save>>
+split again
+:picket disapproving; <<procedure>>
+end split
+if (drown writers?) then (manipulator hundredth)
+(swooping undetected) elseif (though ta?) then (engraved upon)
+repeat
+:tung confidence;
+:finals perspectives;
+:episode truffles;
+repeat while (arms chimera?) is (explorer oy)
+(perimeters caramba) elseif (provocation technically?) then (cheerleaders warlock)
+if (flake humor?) then (warehouses assumed)
+(reverently theory) elseif (antennae veracity?) then (leaning cow)
+:sanction admirable; <<load>>
+(peters pack) elseif (poorhouse fortuitous?) then (touchdowns photographers)
+:assures hellhound;
+(excel ditty) elseif (deeper recuperate?) then (indigestion ball)
+:supposed dowser;
+endif
+endif
+stop
+end group
+@enduml

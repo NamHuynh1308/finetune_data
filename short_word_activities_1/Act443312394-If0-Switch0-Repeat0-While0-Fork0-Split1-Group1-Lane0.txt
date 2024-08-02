@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:anywhere inept;
+split again
+-[hidden]->
+:intensity shirtless;
+split again
+-[hidden]->
+:regrettable young; <<input>>
+end split
+group arched beret
+:hoaxes extravaganza;
+-> presto hour;
+:baboon lovelies; <<input>>
+end group
+@enduml

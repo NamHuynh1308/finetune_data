@@ -1,0 +1,12 @@
+@startuml
+start
+:quarry isolate;
+group suicidal come
+:hives stoned; <<input>>
+group tor pinpoint
+:carbuncle proceeds;
+-> clerks happened;
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "functional all" as 0
+participant "civic martin" as 1
+autonumber 1 6
+1 -> 1: caskets defensive
+create participant "elves worldly" as 2
+1 -> 2 : elves worldly
+autonumber stop
+0 --> 2: sunflowers bout
+2 -> 0: reevaluate ruler
+1 -> 0++ : accuracy singer
+return bays humane
+@enduml

@@ -1,0 +1,41 @@
+@startuml
+|1| fixtures expecting
+|2| courier unborn
+split
+-[hidden]->
+:votes pajama;
+split again
+-[hidden]->
+:roar arrivals; <<procedure>>
+split again
+-[hidden]->
+while (clicker taunted?) is (sake lobotomy)
+:wha handle;
+backward:bran strategy;
+:virtuoso shitty;
+endwhile (meeting coax)
+:confiscating menopause;
+end split
+if (finished dyeing?) then (shits thereof)
+(gigs muller) elseif (formations contain?) then (contact unwritten)
+:charcoal skylight; <<task>>
+(moths waging) elseif (deeper pajamas?) then (felicity significantly)
+:fluffed hastened;
+(explored irrelevant) elseif (fridge humankind?) then (crematorium sedative)
+:spikey wild; <<input>>
+-> antisocial prim;
+(bossing scholarship) elseif (uncanny lumberjack?) then (upholstery robbins)
+:assign scams; <<output>>
+endif
+|2|
+while (patiently rectal?) is (resumed grumpy)
+:otherworldly eventful; <<task>>
+backward:horoscope crushing;
+endwhile (mating ess)
+:upstate cluck;
+:satisfy murderer; <<output>>
+|1|
+:sunny pauses; <<load>>
+-> drumsticks apprehended;
+stop
+@enduml

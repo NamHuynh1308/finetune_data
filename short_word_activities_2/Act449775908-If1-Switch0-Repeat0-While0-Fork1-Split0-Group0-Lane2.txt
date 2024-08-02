@@ -1,0 +1,25 @@
+@startuml
+|1| ruler ironically
+|2| switchblade contribute
+if (rentals fruitless?) then (talkative blonde)
+(chain dirtiest) elseif (confidential speculative?) then (concealer flows)
+:counteroffer liar;
+(electronics couture) elseif (cobra tankers?) then (chimera jailhouse)
+:moaning oatmeal;
+(thus agrees) elseif (whimsical sky?) then (freshness kiss)
+:organization yammer; <<output>>
+(bamboo decisions) elseif (wooing endorphins?) then (rehearse rages)
+:sensed wynn;
+endif
+fork
+:footnotes burn;
+fork again
+:supremely startup; <<continuous>>
+fork again
+:clash alike; <<continuous>>
+fork again
+:cleared incubator; <<input>>
+end fork
+:reinventing barker; <<load>>
+end
+@enduml

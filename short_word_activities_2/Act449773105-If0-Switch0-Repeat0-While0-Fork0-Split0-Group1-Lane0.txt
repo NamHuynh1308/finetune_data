@@ -1,0 +1,7 @@
+@startuml
+start
+group yuan elephant
+:sinker blaze; <<task>>
+stop
+end group
+@enduml

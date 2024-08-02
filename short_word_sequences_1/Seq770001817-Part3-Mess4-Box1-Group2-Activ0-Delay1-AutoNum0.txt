@@ -1,0 +1,16 @@
+@startuml
+participant "thrice pastor" as 0
+participant "strumpet admirers" as 1
+box "budget artistry"
+participant "iguana ostrich" as 2
+end box
+par cures uncover
+ [-> 2: billboards chiropractor
+...carwash highways...
+1 ->o 2: brace joint
+end
+2 ->] : speakeasy impulsively
+break soothsayer knobby
+ [<- 1: sing unprecedented
+end
+@enduml

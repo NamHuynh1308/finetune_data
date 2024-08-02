@@ -1,0 +1,17 @@
+@startuml
+participant "bree thinner" as 0
+participant "doozy combustible" as 1
+participant "recommendation bawl" as 2
+participant "sadly attempts" as 3
+autonumber 6 0
+critical socket trustworthy
+1 -> 3++ : stipulates samples
+3 --> 0: spores hills
+0 -> 0++ : outwit poems
+else guff swanky
+3 -->x 2: crowing coolant
+return colonies violinist
+autonumber stop
+end
+return irreparable diligent
+@enduml

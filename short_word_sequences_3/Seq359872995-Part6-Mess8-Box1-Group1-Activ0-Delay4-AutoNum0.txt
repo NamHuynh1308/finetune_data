@@ -1,0 +1,26 @@
+@startuml
+participant "disrupts clop" as 0
+participant "distributors roadblock" as 1
+participant "resumed doling" as 2
+participant "encounters fashion" as 3
+box "autobiographical beliefs"
+participant "hub resetting" as 4
+end box
+3 ->x 0: sophisticated murders
+...porterhouse rudder...
+0 ->] : may coffees
+alt covet takeout
+create participant "scrapings stinking" as 5
+1 -> 5 : scrapings stinking
+...departing busboy...
+3 -> 2!! : denies menace
+...freaky ragging...
+5 ->o 1: distressed stuffed
+else soot dismantled
+3 -> 3: owl sincerity
+else rests contagious
+5 -> 1!! : venison sedatives
+...bah methadone...
+2 -> 5: crisp wiggles
+end
+@enduml

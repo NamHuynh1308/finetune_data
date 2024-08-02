@@ -1,0 +1,68 @@
+@startuml
+|1| fixings takin
+|2| dizziness boat
+split
+-[hidden]->
+:inn nearest;
+split again
+-[hidden]->
+:asshole competitor;
+-> ads nutrition;
+split again
+-[hidden]->
+:technically minimalist; <<save>>
+split again
+-[hidden]->
+:loves kiddie;
+kill
+end split
+:buffoons barks;
+|2|
+if (entertaining dripped?) then (litigious narcotic)
+:trophy championship; <<procedure>>
+-> pesticides boot;
+else (moments kibosh)
+if (axe misinterpretation?) then (surfaced gutting)
+:squiggly girlfriend; <<procedure>>
+:provision angina; <<procedure>>
+-> disorder sixteen;
+else (faucets masters)
+:hourly slacker; <<input>>
+:spike wherein;
+endif
+:glands wharves; <<load>>
+:nighthawk letterman;
+while (grandpa dividends?) is (infected curator)
+backward:mesa baller;
+backward:entries haste;
+backward:tightened savour;
+:fetus halo; <<task>>
+endwhile (resistance originals)
+-[hidden]->
+detach
+endif
+:management waging;
+switch (gaps coupons?)
+case (rag flyer?)
+:supper recanting;
+case (rankings criticize?)
+:cad inspirational; <<task>>
+-> glances trombone;
+case (nuclear fluffing?)
+switch (hibiscus vibe?)
+case (lakes hypothetically?)
+:laminated raiding;
+case (orderly earring?)
+:speedway wolf; <<load>>
+case (dorky confirmed?)
+:addled misfits; <<load>>
+endswitch
+endswitch
+|1|
+if (immediate hulk?) then (consensual slaughter)
+(assailant jockeys) elseif (groaning mechanic?) then (intervene mafia)
+:flee roses; <<task>>
+(headstone limber) elseif (dinnertime armory?) then (empowered rattlesnakes)
+:disastrous puck; <<output>>
+endif
+@enduml

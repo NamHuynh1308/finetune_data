@@ -1,0 +1,5 @@
+@startuml
+:retain flapped;
+-> follower agreement;
+end
+@enduml

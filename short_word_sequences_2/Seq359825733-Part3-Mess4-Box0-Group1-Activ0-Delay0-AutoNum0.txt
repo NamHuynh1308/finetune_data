@@ -1,0 +1,12 @@
+@startuml
+participant "rookies whisking" as 0
+participant "browse whomever" as 1
+participant "celebrities goodman" as 2
+== misleading preservation ==
+1 -\\ 0: wimpy existing
+0 -\\ 0: whittled dissection
+0 --> 2: breakthrough sprouting
+alt envision shower
+0 <-] : organizer realized
+end
+@enduml

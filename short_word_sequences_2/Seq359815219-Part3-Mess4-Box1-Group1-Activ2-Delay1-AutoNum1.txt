@@ -1,0 +1,20 @@
+@startuml
+participant "toons parallels" as 0
+box "gays ninja"
+participant "blatant collins" as 1
+participant "omelette ax" as 2
+end box
+autonumber 9 0
+0 ->o 1++ : smacks wedge
+autonumber stop
+loop lion puffing
+0 -// 2++ : pledge murder
+autonumber resume
+1 --//o 2: outdoors colchicine
+else literate gang
+...orbed mapping...
+1 -> 1!! : flapping accuracy
+end
+return irritated froze
+return whatever worldly
+@enduml

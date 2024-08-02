@@ -1,0 +1,11 @@
+@startuml
+participant "catalyst racked" as 0
+== humph limbs ==
+autonumber 3 9
+0 ->] : aboveboard specialist
+0 --> 0: beakers groom
+autonumber stop
+0 ->> 0: exhibited beer
+...collaborating candidates...
+0 --> 0: function cruddy
+@enduml

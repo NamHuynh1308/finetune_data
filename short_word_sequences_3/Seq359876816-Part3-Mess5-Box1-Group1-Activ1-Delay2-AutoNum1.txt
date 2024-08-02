@@ -1,0 +1,20 @@
+@startuml
+participant "rock direction" as 0
+participant "cylinder draw" as 1
+box "playhouse doctrine"
+participant "chainsaw finest" as 2
+end box
+autonumber 10 6
+1 -> 2++ : reopened sipped
+ [<- 2: mourned weightless
+...dinosaur dismemberment...
+1 ->x 2: shipping amusement
+return clapping success
+autonumber stop
+break sinners motion
+2 ->o 2: decorating colored
+...its revolution...
+2 ->> 1: mousy caballero
+autonumber resume
+end
+@enduml

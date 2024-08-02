@@ -1,0 +1,14 @@
+@startuml
+participant "drank stylings" as 0
+participant "grazing islanders" as 1
+participant "chickenpox rightfully" as 2
+participant "fallout ligature" as 3
+== sheriff melody ==
+2 -> 3: discrepancies carcass
+0 -> 1: twin hunch
+...cicely server...
+1 -> 0!! : recruiter tendon
+loop eternal tombs
+ [-> 3: skinny apartment
+end
+@enduml

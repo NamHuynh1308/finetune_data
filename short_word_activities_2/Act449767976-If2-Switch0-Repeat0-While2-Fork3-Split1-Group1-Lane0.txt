@@ -1,0 +1,69 @@
+@startuml
+split
+-[hidden]->
+:named sham;
+split again
+-[hidden]->
+:consumed wormhole;
+split again
+-[hidden]->
+if (pose provisions?) then (commute killers)
+(smoothie trimmers) elseif (scrambler sofa?) then (pappy anvil)
+:garrison engine; <<procedure>>
+(tacky gibson) elseif (gargoyle drunken?) then (monkey saucer)
+:regularly electrolyte; <<procedure>>
+(synchronicity blonde) elseif (confined earthquakes?) then (internationally infectious)
+:gallon result; <<load>>
+-> shaw oar;
+endif
+split again
+-[hidden]->
+fork
+:pointless sawing;
+fork again
+:completes cleanup;
+fork again
+:transform anchors; <<input>>
+-> pragmatic bestseller;
+fork again
+:annex petting;
+end merge
+end split
+:ascension khan; <<output>>
+-> thrilling preached;
+:arrives craving; <<load>>
+-> whodunit scanner;
+group pollack spontaneously
+fork
+:wary hook;
+fork again
+fork
+:pinochle fieldstone;
+fork again
+:houseguest curtains;
+fork again
+:disposition staring; <<continuous>>
+end fork
+fork again
+:beatings balances;
+fork again
+:shame agreed;
+while (afford worried?) is (wallet musket)
+if (turret channeled?) then (credence backstage)
+:eyeful racketeering; <<continuous>>
+else (exacting lacrosse)
+:coiffure pastrami;
+while (pediatric league?) is (tinkering cervical)
+:betray workmen;
+endwhile (his manhandle)
+-[hidden]->
+detach
+endif
+:coffers skill; <<input>>
+endwhile (duct needlessly)
+-[hidden]->
+detach
+end merge
+stop
+end group
+@enduml

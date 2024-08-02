@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:sprinkles combustion;
+split again
+-[hidden]->
+:counter optional; <<procedure>>
+split again
+-[hidden]->
+if (arc calzones?) then (juniors clef)
+(tachycardia profound) elseif (similar out?) then (brittle laces)
+:umpire sarcophagus; <<save>>
+-> riley fairer;
+(neighbours ravage) elseif (peas advert?) then (whitey heartthrob)
+:shaves sidewinder;
+(shorted iffy) elseif (elks blackmailer?) then (treating mornings)
+:clothesline dive; <<continuous>>
+(disabled rooster) elseif (temperamental contender?) then (flicker lock)
+:selected deviated;
+endif
+end split
+:mutants caregiver; <<load>>
+-> whip sardine;
+end
+@enduml

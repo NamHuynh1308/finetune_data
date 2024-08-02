@@ -1,0 +1,12 @@
+@startuml
+participant "licence rev" as 0
+participant "ha catches" as 1
+participant "dismemberment lira" as 2
+== fathom tourist ==
+0 <-> 0++ : experiences tolerated
+...mid haircuts...
+0 -> 1: sword swatch
+...splendidly organized...
+1 -// 1: exposure whistles
+return surpassed undershirt
+@enduml

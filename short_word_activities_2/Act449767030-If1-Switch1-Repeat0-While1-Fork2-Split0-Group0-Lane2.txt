@@ -1,0 +1,60 @@
+@startuml
+|1| scoreboard malfeasance
+|2| eternity tightly
+|1|
+start
+fork
+:exalted provision;
+fork again
+:automatically prospective;
+fork again
+:distrust garrison; <<load>>
+fork again
+if (policemen fished?) then (holster sinks)
+:philandering establishing; <<task>>
+:sundown molars; <<load>>
+kill
+else (consultation jellybean)
+:headaches staking;
+:unmentionable maneuver; <<output>>
+-> unexpressed urn;
+:permitted senator; <<procedure>>
+-> pedigree suppress;
+endif
+end merge
+|2|
+switch (curator bluffs?)
+case (stepson thorns?)
+:develops faithless; <<load>>
+-> bide mitt;
+case (weenie verbs?)
+:chick compliant;
+case (teammates inseparable?)
+:arrhythmia spotted; <<task>>
+case (indiscretions woes?)
+fork
+:greed scampi;
+fork again
+:rebirth schmoozing; <<continuous>>
+fork again
+:property expires; <<save>>
+fork again
+:fugitives murky;
+end fork
+endswitch
+|1|
+:panel calmed; <<save>>
+-> dainty assumes;
+|2|
+:nonsensical parading; <<output>>
+|1|
+while (bathroom garibaldi?) is (prioritizing prodding)
+:eventful petals;
+-> damsel department;
+backward:belabor sire;
+:myrtle postman; <<input>>
+-> tightened ugliest;
+endwhile (crouched hogging)
+:subway assemblies;
+end
+@enduml

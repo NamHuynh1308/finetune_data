@@ -1,0 +1,16 @@
+@startuml
+:prepped scottie; <<task>>
+repeat
+fork
+:brief platoon;
+fork again
+:flooding fop;
+fork again
+:ump kay;
+fork again
+:manufacture bulldoze;
+kill
+end fork
+:perturbed hoarse; <<procedure>>
+repeat while (claim barb?) is (boxes roughage)
+@enduml

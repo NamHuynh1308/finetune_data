@@ -1,0 +1,15 @@
+@startuml
+participant "silvery memento" as 0
+participant "tactile subways" as 1
+autonumber 4 2
+1 ->] : prevented thriller
+opt bureaucrats reviewing
+...supervising wizard...
+0 -> 1: sleep mouthful
+1 -// 0: lantern repugnant
+ [-> 0: radial erased
+0 -> 0++ : tobacco freer
+autonumber stop
+end
+return misplace skewer
+@enduml

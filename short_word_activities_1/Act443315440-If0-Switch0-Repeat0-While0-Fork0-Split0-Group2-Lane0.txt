@@ -1,0 +1,11 @@
+@startuml
+group manuscripts anyways
+:rows betrayals;
+group mocks baba
+:sabotaged stamina; <<input>>
+:pieced plateaued; <<procedure>>
+-> vacant partially;
+stop
+end group
+end group
+@enduml

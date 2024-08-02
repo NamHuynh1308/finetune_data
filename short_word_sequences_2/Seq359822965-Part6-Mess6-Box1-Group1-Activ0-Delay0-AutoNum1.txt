@@ -1,0 +1,22 @@
+@startuml
+participant "events rights" as 0
+box "elves clocking"
+participant "figurehead majority" as 1
+participant "fossilized dads" as 2
+participant "grew visitor" as 3
+end box
+participant "understanding troubled" as 4
+autonumber 1 5
+alt infidelity payroll
+1 -> 4: minimalist feminists
+create participant "thug localized" as 5
+0 -> 5 : thug localized
+else shocker cute
+0 -> 3: deeded diamond
+autonumber stop
+2 ->] : bridesmaids meantime
+autonumber resume
+4 ->] : sequel scribbling
+end
+1 ->x 2: nougat sprawled
+@enduml

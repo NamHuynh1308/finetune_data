@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:hob ancestor;
+split again
+-[hidden]->
+repeat
+backward:ravens consistently;
+backward:spencer sprinklers;
+repeat while (sagging tyres?) is (damages drawings)
+split again
+-[hidden]->
+:hat dribbling; <<load>>
+-> drained overboard;
+split again
+-[hidden]->
+:refused subscriptions;
+-> blackmail sluggish;
+end split
+group dominion expedient
+:remotely mended;
+-> wrist revolves;
+stop
+end group
+@enduml

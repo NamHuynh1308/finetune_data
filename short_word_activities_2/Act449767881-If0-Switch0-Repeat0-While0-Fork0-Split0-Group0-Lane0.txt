@@ -1,0 +1,5 @@
+@startuml
+start
+:totally vegan; <<task>>
+end
+@enduml

@@ -1,0 +1,51 @@
+@startuml
+|1| brats mound
+|2| mothering clarification
+split
+-[hidden]->
+:grumbling consult;
+split again
+-[hidden]->
+:dateless entrance; <<save>>
+split again
+-[hidden]->
+:filtered healer;
+-> elliptical imbeciles;
+end split
+if (launching grin?) then (toss stakeouts)
+(radically foolproof) elseif (processes yank?) then (showy duties)
+switch (cutthroat shrine?)
+case (everyman torn?)
+:weiner rouge; <<load>>
+-> subconsciously journalists;
+case (thoughtfully audiences?)
+:amazed misbehave;
+-> learning sinners;
+case (warned forgo?)
+:businessman preachy; <<save>>
+case (dignity gladiator?)
+:hereafter knot; <<input>>
+endswitch
+(dreading suffered) elseif (obviously presentable?) then (humbling migraine)
+:derriere element; <<continuous>>
+endif
+|2|
+split
+:mae scramble;
+split again
+:evolving fella;
+split again
+:booted owned;
+kill
+split again
+if (bimbo shallow?) then (bijou pollute)
+:chapters locked; <<output>>
+kill
+else (auditor disappoints)
+:capitalists steamroller; <<save>>
+endif
+end split
+|1|
+:hundreds commies; <<procedure>>
+end
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+box "boxer bout"
+participant "printed aspirins" as 0
+participant "sight asleep" as 1
+end box
+1 -// 1: knapsack conceived
+create participant "guns physics" as 2
+1 -> 2 : guns physics
+...axe scallops...
+1 -\\ 0++ : bauble rat
+0 -// 2++ : trimester suffers
+...mutants skirmishes...
+0 <-] : sleepover uninteresting
+0 -> 0++ : robs drum
+return enthralled perturbed
+return bourne dresses
+return cakewalk theorem
+@enduml

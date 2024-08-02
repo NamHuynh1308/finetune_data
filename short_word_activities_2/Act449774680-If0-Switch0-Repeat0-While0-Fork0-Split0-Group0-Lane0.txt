@@ -1,0 +1,5 @@
+@startuml
+start
+:deltas unload; <<load>>
+-> bandwagon fooled;
+@enduml

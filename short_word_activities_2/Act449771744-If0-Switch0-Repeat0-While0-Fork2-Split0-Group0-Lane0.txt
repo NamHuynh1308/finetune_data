@@ -1,0 +1,19 @@
+@startuml
+fork
+:toasts unwilling;
+fork again
+fork
+:hoisting delta;
+fork again
+:otto showoff; <<load>>
+fork again
+:remembering laundry; <<output>>
+-> junior spectacle;
+fork again
+:palsy fixed; <<load>>
+end fork
+fork again
+:baptists pros;
+end merge
+end
+@enduml

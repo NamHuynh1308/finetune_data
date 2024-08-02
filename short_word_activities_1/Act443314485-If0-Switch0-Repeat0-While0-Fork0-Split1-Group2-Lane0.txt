@@ -1,0 +1,19 @@
+@startuml
+start
+:alien indebted;
+group dredging toon
+:bailiffs goon; <<continuous>>
+group transgenic recycles
+split
+:remodelling hammering;
+split again
+:lacquer cancels; <<output>>
+split again
+:irreparable degree;
+split again
+:respirations intrusion;
+end split
+stop
+end group
+end group
+@enduml

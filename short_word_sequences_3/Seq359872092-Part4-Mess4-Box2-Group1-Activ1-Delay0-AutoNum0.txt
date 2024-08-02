@@ -1,0 +1,17 @@
+@startuml
+box "demands housewarming"
+participant "thrives mankind" as 0
+box "tepid homecoming"
+participant "falsify fences" as 1
+participant "sequined terrific" as 2
+end box
+participant "industrious unannounced" as 3
+end box
+0 --//o 1++ : irony artists
+opt mobs pep
+2 --//o 2: time smile
+0 -> 3: monitor mol
+end
+1 -> 1: stolen dissed
+return bulbs crimes
+@enduml

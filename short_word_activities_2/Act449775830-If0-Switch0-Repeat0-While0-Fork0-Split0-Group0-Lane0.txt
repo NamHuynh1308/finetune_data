@@ -1,0 +1,6 @@
+@startuml
+start
+:master elope; <<continuous>>
+-> moons took;
+stop
+@enduml

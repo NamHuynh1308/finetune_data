@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:acing revolution;
+split again
+-[hidden]->
+:recess kelly; <<procedure>>
+-> heroics trans;
+split again
+-[hidden]->
+:regain bakers; <<load>>
+end split
+group groveling unbelievable
+:punitive imbecilic;
+-> gels majoring;
+group intervene troublesome
+switch (gazebo scoop?)
+case (femme newscast?)
+:speak overseeing;
+case (titanic lingo?)
+:parchment squiggly; <<input>>
+-> sparked rehearsal;
+case (stab sleazeball?)
+:technical bug; <<input>>
+endswitch
+stop
+end group
+end group
+@enduml

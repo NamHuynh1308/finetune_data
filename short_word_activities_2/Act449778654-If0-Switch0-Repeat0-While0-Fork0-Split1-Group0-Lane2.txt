@@ -1,0 +1,20 @@
+@startuml
+|1| belated carriages
+|2| matchmaking devils
+split
+-[hidden]->
+:hi shipyard;
+split again
+-[hidden]->
+:parent meats;
+split again
+-[hidden]->
+:infuriates twitching;
+end split
+|2|
+:downy snitches; <<continuous>>
+:jobs existing; <<save>>
+|1|
+:pollock starvation; <<output>>
+end
+@enduml

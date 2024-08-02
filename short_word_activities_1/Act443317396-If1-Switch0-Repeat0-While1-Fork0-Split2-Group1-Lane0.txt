@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:switchman tapping;
+split again
+-[hidden]->
+while (inmate commanding?) is (bedridden teenager)
+:skipper revels;
+endwhile (query contract)
+:impotent substation;
+split again
+-[hidden]->
+:peon like; <<load>>
+end split
+split
+:sponsor sappy;
+split again
+:cardiogram relation;
+split again
+:puzzled evidence; <<save>>
+split again
+if (rye latrine?) then (chaps maxim)
+(buck rocker) elseif (pavement seasons?) then (provoking regulate)
+:showoff banged; <<load>>
+(bawl essay) elseif (thru guilty?) then (stubs merman)
+:intermediary release;
+(wastes blubber) elseif (doggie warsaw?) then (adrenals buttoned)
+:grilling overnights; <<output>>
+endif
+end split
+group mano extracting
+:manual concepts; <<output>>
+-> skilled plotting;
+stop
+end group
+@enduml

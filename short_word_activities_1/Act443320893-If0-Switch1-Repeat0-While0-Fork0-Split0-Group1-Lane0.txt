@@ -1,0 +1,20 @@
+@startuml
+start
+group cursory bananas
+switch (scorching expectancy?)
+case (calm penitentiary?)
+:coerced appendectomy; <<procedure>>
+-> rated sparrow;
+case (drumsticks stationary?)
+:bringing unconditional; <<output>>
+-> mainline airman;
+case (seclusion forward?)
+:ahead forming;
+-> thorns privacy;
+case (clerk hanging?)
+:practice holler;
+-> prickly gal;
+endswitch
+stop
+end group
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:pits smoker;
+split again
+-[hidden]->
+:ruffles braille;
+-> childbirth canvas;
+split again
+-[hidden]->
+:puce thee;
+-> puritans bottling;
+end split
+group crusade wiggled
+:subbasement kasha;
+:philharmonic flux; <<save>>
+end group
+@enduml

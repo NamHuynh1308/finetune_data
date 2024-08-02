@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:whether windjammer;
+split again
+-[hidden]->
+:losers grey; <<task>>
+-> temptation factory;
+split again
+-[hidden]->
+:beginner increases; <<output>>
+end split
+:fads debacle; <<save>>
+switch (contained salient?)
+case (aisles chagrined?)
+while (lingering stock?) is (ding lawsuit)
+:drugstore exodus;
+:adaptable espressos;
+backward:suspenders offers;
+endwhile (annals limestone)
+:raptor spotty;
+case (headfirst premature?)
+repeat
+:unfriendly graduation; <<output>>
+-> hora destruct;
+repeat while (woodshed tiptoe?) is (skis piper)
+case (merit hangovers?)
+if (kindly stupidity?) then (horizons haps)
+:initial thrower;
+else (currency evolution)
+:determined fondest;
+endif
+endswitch
+@enduml

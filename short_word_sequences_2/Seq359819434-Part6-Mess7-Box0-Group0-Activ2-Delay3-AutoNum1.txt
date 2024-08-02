@@ -1,0 +1,26 @@
+@startuml
+participant "growth offering" as 0
+participant "campus trippy" as 1
+participant "motives radar" as 2
+participant "relatives clings" as 3
+participant "bacon zones" as 4
+== farmers cheeseburger ==
+autonumber 10 4
+3 -->x 1: anarchy printers
+autonumber stop
+1 ->x 0: poorly select
+autonumber resume
+...numb nutmeg...
+0 ->> 1++ : donor fanfare
+3 ->x 3++ : excused seat
+autonumber stop
+...horribly sayings...
+0 -->x 3: crescent skillet
+create participant "toed earrings" as 5
+2 -> 5 : toed earrings
+autonumber resume
+...disgruntled farthing...
+0 ->> 5: pals quibble
+return horrific prenatal
+return reeling rival
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "foregone cancels" as 0
+box "token macadamia"
+participant "deafening auctioning" as 1
+end box
+1 -> 0: application atom
+1 -> 0: lucrative poach
+...psst thumbprint...
+1 -> 0: declare fuzzy
+...flee stability...
+1 -> 1: rodents undivided
+@enduml

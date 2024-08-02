@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:lucrative untamed;
+split again
+-[hidden]->
+split
+:varicose bonding;
+split again
+:brainwashing flatterer;
+-> red landscaping;
+split again
+:scarce iambic; <<load>>
+-> fillings assembling;
+end split
+split again
+-[hidden]->
+:sixteen bonded;
+split again
+-[hidden]->
+:nominal postponed; <<input>>
+-> tuna coral;
+end split
+switch (cheap piston?)
+case (tingle crate?)
+:rowdy rapidly; <<input>>
+case (shorts necklace?)
+:extraterrestrial glassware; <<output>>
+endswitch
+if (organism obligation?) then (lidocaine dilute)
+(mohair brew) elseif (smokey ornate?) then (unresolved breakthroughs)
+:liege uncovering;
+-> luckier inflicting;
+(incomparable indeterminate) elseif (laps controller?) then (itchy brazil)
+if (consented masturbated?) then (agency counselling)
+(brittle seeping) elseif (agreements creativity?) then (gallows arsenic)
+:electrolyte sign; <<load>>
+(steamroller duel) elseif (sobered sorted?) then (sexiest bouquets)
+:roast firestorm;
+endif
+(statue jinx) elseif (offering labeled?) then (scalping heyday)
+:sings ride; <<task>>
+-> dredging baiting;
+(exclamation molly) elseif (girlfriends mummies?) then (vests shallow)
+:dugout poster; <<continuous>>
+-> advertisement prognosis;
+endif
+end
+@enduml

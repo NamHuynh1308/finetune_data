@@ -1,0 +1,5 @@
+@startuml
+:bedbugs pressed; <<task>>
+-> dozens breaks;
+stop
+@enduml

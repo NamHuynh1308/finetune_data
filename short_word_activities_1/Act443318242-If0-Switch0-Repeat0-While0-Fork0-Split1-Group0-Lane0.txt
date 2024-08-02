@@ -1,0 +1,13 @@
+@startuml
+split
+-[hidden]->
+:secured roses;
+split again
+-[hidden]->
+:thyself squadron; <<output>>
+split again
+-[hidden]->
+:won programming;
+end split
+:braided waiter; <<task>>
+@enduml

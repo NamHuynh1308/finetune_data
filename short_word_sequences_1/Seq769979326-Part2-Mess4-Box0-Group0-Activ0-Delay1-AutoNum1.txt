@@ -1,0 +1,11 @@
+@startuml
+participant "authenticated matador" as 0
+autonumber 5 7
+create participant "hyenas graphics" as 1
+0 -> 1 : hyenas graphics
+1 -> 1: imposter selflessness
+autonumber stop
+0 -> 0: satisfies diary
+...torah ship...
+0 ->] : nerd whit
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+box "cheeses vera"
+participant "anywhere fervent" as 0
+box "cannibals pas"
+participant "fester publicist" as 1
+participant "squander foolhardy" as 2
+box "togetherness centerpiece"
+participant "enclosed chalet" as 3
+end box
+end box
+end box
+== discouraged masked ==
+autonumber 7 7
+ [-> 0: mime skimpy
+3 -->x 2: frightful concerns
+autonumber stop
+0 -> 1: puts carried
+autonumber resume
+create participant "heigh championships" as 4
+1 -> 4 : heigh championships
+break embassy forthcoming
+3 -> 4++ : redefine daydream
+end
+return toddy dealership
+@enduml

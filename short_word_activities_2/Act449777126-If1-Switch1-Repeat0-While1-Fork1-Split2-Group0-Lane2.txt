@@ -1,0 +1,59 @@
+@startuml
+|1| radar thrives
+|2| belittle fry
+|2|
+:headliner mo; <<output>>
+fork
+:hide precinct;
+fork again
+switch (thinners genes?)
+case (psychopathic calming?)
+:overlap context;
+while (bicycles sitcoms?) is (hutch ruined)
+:pamper lumpectomy; <<output>>
+-> deposition guides;
+:copying reap;
+endwhile (wield contributing)
+-[hidden]->
+detach
+case (kilometers targeting?)
+:unspeakably madre;
+case (dangers fears?)
+:huffed pyramids;
+endswitch
+fork again
+:shuttle poker;
+fork again
+:bust progressive; <<continuous>>
+end merge
+:paratrooper prompting;
+|1|
+split
+:stressed prunes;
+split again
+:huffed organic; <<task>>
+-> stinky recalled;
+split again
+:applies sapiens; <<save>>
+split again
+:dyeing troublemaker; <<task>>
+end split
+|2|
+if (juiced inseparable?) then (carl landmark)
+(suspected cutters) elseif (hot progressive?) then (tomato hyenas)
+split
+:unclench functions;
+split again
+:flash fright;
+split again
+:neural annoy;
+kill
+end split
+(repulsive radio) elseif (terminate unselfish?) then (installed psychiatrist)
+:plant roam; <<task>>
+(impart dizzy) elseif (house lined?) then (barging conquered)
+:inmzqp;
+kill
+endif
+end
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+start
+:vacate turns; <<input>>
+stop
+@enduml

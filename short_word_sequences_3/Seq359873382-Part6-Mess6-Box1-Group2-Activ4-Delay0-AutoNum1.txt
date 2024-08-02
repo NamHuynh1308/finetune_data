@@ -1,0 +1,28 @@
+@startuml
+box "talentless traded"
+participant "tiki limousines" as 0
+participant "combing motivations" as 1
+end box
+participant "notable mist" as 2
+participant "yokel quotation" as 3
+participant "vail confessed" as 4
+autonumber 9 2
+2 -> 1++ : drummed uncuff
+loop carotid bluffs
+3 -> 1++ : kiddie bakes
+alt rumor burgundy
+create participant "ignoring discerning" as 5
+1 -> 5 : ignoring discerning
+3 -> 2!! : preppy hobo
+3 -\\ 5++ : warmer trashy
+autonumber stop
+else infatuation boathouse
+0 <-> 3++ : mocks consults
+autonumber resume
+end
+end
+return hologram postman
+return movies physique
+return fill liar
+return disagreement puritanical
+@enduml

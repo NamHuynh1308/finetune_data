@@ -1,0 +1,16 @@
+@startuml
+fork
+:sunlight tins;
+fork again
+:mongoose printers; <<input>>
+fork again
+:contains shopper; <<load>>
+-> obstacles rate;
+fork again
+:belongings seldom; <<task>>
+end fork
+group schematics protestant
+:tone mittens;
+stop
+end group
+@enduml

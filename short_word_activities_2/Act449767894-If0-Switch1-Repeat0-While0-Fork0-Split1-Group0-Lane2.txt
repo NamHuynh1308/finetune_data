@@ -1,0 +1,28 @@
+@startuml
+|1| motto refrigerator
+|2| tutor orbing
+split
+-[hidden]->
+:concentric whereas;
+split again
+-[hidden]->
+switch (north dey?)
+case (endorphins striped?)
+:sideburns piss;
+case (recollection tach?)
+:teal belated;
+case (clods soundstage?)
+:patrons prisons;
+case (velvet baggies?)
+:soundstage toxicology; <<input>>
+endswitch
+split again
+-[hidden]->
+:jellyfish spell; <<output>>
+end split
+:discoveries aches; <<load>>
+:censure licker; <<continuous>>
+-> streamlined harpoons;
+|2|
+:quilts primate; <<task>>
+@enduml

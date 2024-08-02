@@ -1,0 +1,23 @@
+@startuml
+participant "napkin opinionated" as 0
+participant "watcher fanatic" as 1
+participant "concert reversal" as 2
+box "under forethought"
+participant "fighters tasteful" as 3
+end box
+autonumber 2 3
+1 -\\ 3: kiddo screaming
+3 ->] : mouthy violent
+critical hour yanked
+2 -> 3: promotion farm
+ [<- 3: dis comforting
+else beatings sunblock
+opt falcon generate
+...sick clown...
+0 ->] : surfer midge
+critical pods santo
+1 <-] : lookout cafe
+end
+end
+end
+@enduml

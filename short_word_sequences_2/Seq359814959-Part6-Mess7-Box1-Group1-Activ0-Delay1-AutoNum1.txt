@@ -1,0 +1,26 @@
+@startuml
+participant "patience pushy" as 0
+participant "owning rescuing" as 1
+participant "university womanizing" as 2
+box "dauphin silvery"
+participant "playroom boom" as 3
+participant "publicity preachers" as 4
+end box
+== turtles canary ==
+autonumber 8 8
+par inter reheat
+4 ->o 0: brochure tightness
+...factions leans...
+4 <-> 4: paint cops
+autonumber stop
+3 -> 4: corned groundbreaking
+else nonstop aha
+1 -> 0: swayed news
+autonumber resume
+else bran encourage
+create participant "poem roundabout" as 5
+1 -> 5 : poem roundabout
+3 ->> 1: dermatologist pharaohs
+end
+5 -> 5: cooperate profits
+@enduml

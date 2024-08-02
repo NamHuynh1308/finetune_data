@@ -1,0 +1,7 @@
+@startuml
+group producers utopia
+:hobby trashes; <<task>>
+:praises discoloration;
+stop
+end group
+@enduml

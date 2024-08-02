@@ -1,0 +1,17 @@
+@startuml
+box "mislead copycat"
+participant "bodega koss" as 0
+participant "weapon nary" as 1
+end box
+box "overlooking curses"
+participant "enamored uncompromising" as 2
+end box
+== escapade slimy ==
+alt certainties tacos
+0 -// 2: barstool engineer
+create participant "preface complexity" as 3
+0 -> 3 : preface complexity
+2 -\\ 2: reformed imbecilic
+else harassment theorem
+end
+@enduml

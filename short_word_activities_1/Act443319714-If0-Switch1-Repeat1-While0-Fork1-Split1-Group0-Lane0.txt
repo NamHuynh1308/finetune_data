@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:classics hedges;
+split again
+-[hidden]->
+switch (catwalk entirety?)
+case (arbitration confit?)
+:randy slinking; <<output>>
+case (oozing sanctuary?)
+:kaiser unprincipled;
+case (allergies unpack?)
+:unspoiled fledged;
+endswitch
+split again
+-[hidden]->
+:assuredly chew; <<continuous>>
+-> whose aurora;
+split again
+-[hidden]->
+:cartridge fa;
+end split
+fork
+:flights coating;
+fork again
+:criminals definitively;
+fork again
+repeat
+:census strategist;
+if (dilettante weaver) then (notably interpreter)
+:barged attributes;
+break
+endif
+->baths forbidding;
+:stating stoop;
+repeat while (octopus petroleum?) is (birch teenage)
+end fork
+stop
+@enduml

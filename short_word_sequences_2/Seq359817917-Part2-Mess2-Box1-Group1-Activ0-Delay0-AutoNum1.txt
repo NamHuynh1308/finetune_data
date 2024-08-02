@@ -1,0 +1,13 @@
+@startuml
+box "transition blithely"
+participant "sauerkraut pounds" as 0
+participant "auld scriptures" as 1
+end box
+== advancing massacred ==
+autonumber 0 8
+alt correspondent curling
+0 -> 0!! : soapy diaper
+0 -> 1!! : nosy pancreatic
+else romanticize tendon
+end
+@enduml

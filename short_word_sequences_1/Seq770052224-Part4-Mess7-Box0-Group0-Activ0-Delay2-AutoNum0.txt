@@ -1,0 +1,16 @@
+@startuml
+participant "catch german" as 0
+participant "dumplings garcon" as 1
+participant "combined packing" as 2
+participant "lord fibre" as 3
+== cuisine gatehouse ==
+2 -> 2: jabber bod
+0 -> 3: strawberry crumble
+3 -> 0: hercules pawning
+ [-> 2: feature secretary
+...payback consults...
+1 ->x 1: boners phenomenal
+3 ->x 0: teensy pursuant
+...yourselves retrieval...
+1 <-] : peacefully uphold
+@enduml

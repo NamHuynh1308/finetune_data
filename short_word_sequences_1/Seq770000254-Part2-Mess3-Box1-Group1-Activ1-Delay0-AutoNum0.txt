@@ -1,0 +1,13 @@
+@startuml
+participant "interject violin" as 0
+box "dentist beings"
+participant "ruler history" as 1
+end box
+opt quit stockbrokers
+ [<- 0: sifting poison
+0 ->] : erases riot
+else pending rawhide
+1 -> 0++ : negligent forehead
+end
+return pedophile temperature
+@enduml

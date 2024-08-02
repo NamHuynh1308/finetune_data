@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:grafts cronies;
+split again
+-[hidden]->
+:converted implausible;
+-> gray blackmailer;
+split again
+-[hidden]->
+:croissants string; <<continuous>>
+split again
+-[hidden]->
+fork
+:originality stretcher;
+fork again
+:gobbles hitting;
+fork again
+:darks conclude;
+end fork
+end split
+group eases sinker
+:maniac swamped; <<input>>
+stop
+end group
+@enduml

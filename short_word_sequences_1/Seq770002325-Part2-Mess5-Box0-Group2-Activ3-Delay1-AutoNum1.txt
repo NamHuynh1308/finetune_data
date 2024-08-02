@@ -1,0 +1,21 @@
+@startuml
+participant "undeserving cashier" as 0
+participant "confer semi" as 1
+autonumber 0 7
+1 -\\ 1++ : rubes plantation
+autonumber stop
+0 -> 1++ : petticoat obtained
+autonumber resume
+alt internally optic
+1 ->> 0: altering laura
+return now saw
+0 --> 0: six tortoise
+else riverside chuckle
+break chlorine theses
+...perfumes glanced...
+1 -// 1++ : starred lanes
+end
+end
+return spraying fudging
+return pearl protections
+@enduml

@@ -1,0 +1,30 @@
+@startuml
+participant "juries embraced" as 0
+box "hated ballsy"
+participant "nixed tractors" as 1
+participant "mingle scooping" as 2
+end box
+participant "formation stave" as 3
+participant "estimates consumption" as 4
+== foyer wayside ==
+4 ->x 2: cheeseburgers psyched
+opt plague remains
+3 ->o 3++ : dark knocking
+break zebra medical
+4 -\\ 1++ : fined poodles
+alt restraints eraser
+1 ->> 1: prolong rehearse
+return tails eyebrow
+3 -> 4: nubile roadway
+critical caste batman
+create participant "jugular maze" as 5
+4 -> 5 : jugular maze
+return matured conditioned
+break clogging trench
+0 -\\ 3: steep lithium
+end
+end
+end
+end
+end
+@enduml

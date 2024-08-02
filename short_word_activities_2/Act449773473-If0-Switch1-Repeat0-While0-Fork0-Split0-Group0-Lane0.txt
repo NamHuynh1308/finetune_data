@@ -1,0 +1,10 @@
+@startuml
+start
+:hombres receptive; <<procedure>>
+switch (jagger pointless?)
+case (disorganized birds?)
+:tusk motors; <<task>>
+case (middleweight bone?)
+:orphanage wearer; <<continuous>>
+endswitch
+@enduml

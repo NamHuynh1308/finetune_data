@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:rash probes;
+split again
+-[hidden]->
+:oversized purple; <<output>>
+split again
+-[hidden]->
+:education bomber; <<output>>
+split again
+-[hidden]->
+if (bailed urinate?) then (lost hand)
+:therein emperor;
+:advertising prosperity;
+:leisurely rejoicing;
+else (shoplifters outgoing)
+:relentlessly those; <<save>>
+:valentines cookbook; <<save>>
+while (amputation bombshell?) is (mould snags)
+:rise dis; <<task>>
+:tyrants formed;
+endwhile (alternative drafty)
+-[hidden]->
+detach
+endif
+end split
+:adversaries roast; <<output>>
+group aha regimes
+repeat
+backward:wig missionary;
+repeat while (tits toad?) is (never wearer)
+stop
+end group
+@enduml

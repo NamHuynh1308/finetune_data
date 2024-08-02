@@ -1,0 +1,62 @@
+@startuml
+split
+-[hidden]->
+:strongly racy;
+split again
+-[hidden]->
+:starter grossly; <<input>>
+-> egomaniacal flushed;
+split again
+-[hidden]->
+:rumba cucumber;
+kill
+end split
+split
+:dining largely;
+split again
+:sauna humph; <<task>>
+split again
+:bulging panic;
+split again
+:poorest goiter; <<input>>
+end split
+split
+:juvenile prepped;
+split again
+switch (position hatred?)
+case (ripple ironically?)
+:souvenir bridegroom;
+-> nectar over;
+case (ample untimely?)
+:matron largely;
+endswitch
+split again
+:bits denouncing;
+split again
+:amassed spackle; <<procedure>>
+-> anger visits;
+end split
+group schedule delicates
+switch (appears renovation?)
+case (engaged spectral?)
+:stab dyer; <<procedure>>
+case (squeaky easter?)
+fork
+:congeniality err;
+fork again
+:mavis presiding;
+fork again
+:leftovers dispensation;
+end fork
+case (therapeutic urges?)
+:endured sunrise;
+while (dark scrawny?) is (hubbub idol)
+:taxidermist bike; <<input>>
+-> pussycat bootleg;
+endwhile (lettuce exonerate)
+-[hidden]->
+detach
+endswitch
+stop
+end group
+@enduml

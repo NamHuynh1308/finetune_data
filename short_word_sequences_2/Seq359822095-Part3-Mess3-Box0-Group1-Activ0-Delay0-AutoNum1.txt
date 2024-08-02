@@ -1,0 +1,11 @@
+@startuml
+participant "rabbit incidentally" as 0
+participant "cranberry ballet" as 1
+participant "hunker liven" as 2
+autonumber 6 0
+1 <-] : casino bwana
+2 ->> 2: buffet playgrounds
+opt barred discretion
+0 --> 0: blossoms inspected
+end
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "signing grail" as 0
+autonumber 7 10
+ [-> 0: quickly interactive
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+participant "sat interviewed" as 0
+0 --> 0: patch crasher
+@enduml

@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:baggage gauze;
+split again
+-[hidden]->
+:package rumble; <<output>>
+-> fuck changed;
+split again
+-[hidden]->
+:chaperoning hop;
+split again
+-[hidden]->
+if (dour tins?) then (sinus harry)
+:stub hatch;
+else (homeless moreover)
+:celibate feathers; <<task>>
+-> alarm jesse;
+:unanimous awaits;
+:upgrading bore; <<load>>
+-> regular zip;
+while (intervening enforced?) is (stub eyeing)
+backward:seventh veering;
+backward:crevasse fledged;
+:omelet selected;
+endwhile (godliness owes)
+-[hidden]->
+detach
+endif
+end split
+group exhaust hypocrisy
+:sensitive fundamentalist; <<output>>
+stop
+end group
+@enduml

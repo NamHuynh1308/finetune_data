@@ -1,0 +1,9 @@
+@startuml
+start
+:bloom revealed; <<procedure>>
+-> trumps filtered;
+:rearrange hotcakes; <<load>>
+-> weapon desert;
+:gutting pare; <<save>>
+end
+@enduml

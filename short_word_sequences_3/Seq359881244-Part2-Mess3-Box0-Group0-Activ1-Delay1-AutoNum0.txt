@@ -1,0 +1,9 @@
+@startuml
+participant "puddle sweetbreads" as 0
+create participant "lucrative creeds" as 1
+0 -> 1 : lucrative creeds
+...allegiances retrograde...
+1 -\\ 1: liquid station
+0 -\\ 0++ : splashy overexcited
+return bluff broom
+@enduml

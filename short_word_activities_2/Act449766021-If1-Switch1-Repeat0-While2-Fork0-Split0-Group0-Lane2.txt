@@ -1,0 +1,35 @@
+@startuml
+|1| squarely intake
+|2| slugging tonics
+switch (kiln carbs?)
+case (indiscretion insidious?)
+:soft pretext; <<task>>
+case (roasted dawn?)
+if (derision cant?) then (responsive peddle)
+:hound exonerate;
+:croutons whatever;
+while (burley snooze?) is (alarms mavis)
+:blackjack pity;
+:wells informer; <<save>>
+backward:footwork significant;
+endwhile (colonists heroine)
+-[hidden]->
+detach
+else (outlaw gunnery)
+:payment camel; <<output>>
+-> conjunction detection;
+:possess haberdashery;
+while (little entomology?) is (baboon infects)
+:aquatic assumptions; <<procedure>>
+backward:excursions intermediate;
+:pathology clammed;
+endwhile (brewery sensuous)
+-[hidden]->
+detach
+endif
+endswitch
+:coordinate existed; <<save>>
+:rosemary buffet;
+:cigarettes epilepsy;
+stop
+@enduml

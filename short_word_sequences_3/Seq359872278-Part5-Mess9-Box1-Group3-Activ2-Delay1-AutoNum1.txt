@@ -1,0 +1,34 @@
+@startuml
+participant "firehouse miller" as 0
+participant "shakers tendency" as 1
+participant "fourteenth bathe" as 2
+participant "bro emeralds" as 3
+box "signed diary"
+participant "outwit rowing" as 4
+end box
+autonumber 6 7
+opt burgers shows
+3 -> 3++ : reboot remodeled
+4 <-> 0: shaggy chimps
+else arming joking
+2 -> 2: deer heaping
+ [-> 4: oracles sabe
+autonumber stop
+else crumpets jesse
+par hound ahem
+2 -\\ 2++ : tagging sausages
+autonumber resume
+2 --> 2: championship affiliation
+return ales crumbled
+autonumber stop
+end
+...hepatitis spinning...
+1 ->] : swamps shone
+return softly lecture
+loop neutral slots
+ [-> 1: desperation potency
+autonumber resume
+ [<- 2: fronting captivating
+end
+end
+@enduml

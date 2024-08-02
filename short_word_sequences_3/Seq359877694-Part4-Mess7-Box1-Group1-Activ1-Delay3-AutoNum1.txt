@@ -1,0 +1,26 @@
+@startuml
+box "lookout roaming"
+participant "sadistic squawking" as 0
+participant "overalls airmen" as 1
+participant "medicare transferred" as 2
+end box
+== outstanding resolve ==
+autonumber 8 10
+1 -->x 0++ : bang breeze
+1 -> 2: cabernet kickback
+...sophistication battered...
+0 --> 0: accomplished gutters
+return versions windy
+autonumber stop
+...plainly vanquished...
+0 -// 1: severance tomatoes
+autonumber resume
+create participant "irresistible cards" as 3
+1 -> 3 : irresistible cards
+...stars reconnaissance...
+ [-> 2: biker vee
+par milling wrinkled
+1 ->] : swearing misleading
+autonumber stop
+end
+@enduml

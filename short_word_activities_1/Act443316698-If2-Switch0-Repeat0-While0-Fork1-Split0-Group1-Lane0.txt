@@ -1,0 +1,30 @@
+@startuml
+start
+:alas fireman; <<load>>
+-> cabaret gladiator;
+:cordial rare;
+-> awake nationally;
+group yokel mercer
+if (reefer underlying?) then (precocious hap)
+fork
+:coached camped;
+fork again
+:measure latest;
+fork again
+:releasing spartan; <<input>>
+end merge
+:name maxwell;
+-> untouchable rites;
+else (converting dandy)
+if (errant kindergartners?) then (canvass colour)
+:lockers various;
+else (hoarding mayflower)
+:execution headliner;
+:infraction gofer; <<load>>
+-> maverick bribed;
+:footed pathetic; <<procedure>>
+endif
+endif
+stop
+end group
+@enduml

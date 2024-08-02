@@ -1,0 +1,51 @@
+@startuml
+split
+-[hidden]->
+:delightful sprawled;
+split again
+-[hidden]->
+split
+:somebody peg;
+split again
+:muddy significantly;
+split again
+:venetian reconsider;
+kill
+end split
+split again
+-[hidden]->
+fork
+:deuce escargot;
+fork again
+:spill attained; <<output>>
+fork again
+:grams morales;
+fork again
+:robbin noted;
+end merge
+end split
+group gets colonel
+:halls bison; <<task>>
+-> honouring adversaries;
+if (ree porch?) then (instill hysterectomy)
+fork
+:accelerated hombres;
+fork again
+:looting pleaded; <<input>>
+-> refined spectra;
+fork again
+:cystic tuck; <<input>>
+fork again
+:named separating;
+end merge
+:esophagus tongue;
+-> invoke fauna;
+else (bases constitute)
+:shambles fades; <<save>>
+-> reddish brandy;
+:divas baptized; <<continuous>>
+-> glitter mommy;
+endif
+end group
+stop
+@enduml

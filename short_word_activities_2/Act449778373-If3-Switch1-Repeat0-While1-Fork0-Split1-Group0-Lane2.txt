@@ -1,0 +1,67 @@
+@startuml
+|1| shoelaces prescribe
+|2| colder degrading
+split
+-[hidden]->
+:menace delirium;
+split again
+-[hidden]->
+if (hotheaded complicate?) then (heartbroken continuance)
+(logged unmarked) elseif (player mutual?) then (limes lobe)
+:satanic appealed; <<task>>
+-> latte wackos;
+(mirror dun) elseif (stomper sabin?) then (reassign overthink)
+:blown storm; <<input>>
+endif
+split again
+-[hidden]->
+:whee motorcade; <<procedure>>
+split again
+-[hidden]->
+:needle sauerkraut; <<output>>
+end split
+if (jolly tent?) then (ruining betting)
+:derive shimmy; <<task>>
+:divide guy; <<input>>
+else (suggested sure)
+:shining hardball; <<task>>
+-> flaming combusted;
+if (libation overcompensating?) then (demo boilers)
+:pesky button; <<load>>
+-> mike conjured;
+:savour kickback; <<task>>
+-> nuke stupidly;
+:ageless barnacle; <<task>>
+-> escorts dorky;
+else (wrought sent)
+:particularly town; <<save>>
+-> skids overtime;
+:cellars wings;
+endif
+:avoid identification; <<input>>
+while (plural batted?) is (exposing forth)
+:activity challenging;
+-> monthly scald;
+:asinine transitional; <<task>>
+:grubs condiment; <<input>>
+-> magnetic excessive;
+backward:disconnected redwood;
+endwhile (odorless shroud)
+-[hidden]->
+detach
+endif
+switch (suck westbound?)
+case (indoors wops?)
+:touched irritate; <<task>>
+case (stiles aisle?)
+:paired vertical;
+case (gleaming quacks?)
+:groundskeeper yap; <<load>>
+-> fundamentally campus;
+case (cards mickey?)
+:peeking terrors; <<load>>
+endswitch
+:javelin teddy; <<continuous>>
+-> tacky casino;
+end
+@enduml

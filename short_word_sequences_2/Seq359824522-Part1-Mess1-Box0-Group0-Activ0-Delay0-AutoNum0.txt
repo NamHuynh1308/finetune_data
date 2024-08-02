@@ -1,0 +1,5 @@
+@startuml
+participant "protestant onboard" as 0
+== personals vendetta ==
+0 -\\ 0: center critter
+@enduml

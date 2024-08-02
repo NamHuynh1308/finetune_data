@@ -1,0 +1,25 @@
+@startuml
+participant "clearances wildcats" as 0
+participant "deemed surrounded" as 1
+participant "appreciation tied" as 2
+participant "plaintiff bystanders" as 3
+participant "compliment handstand" as 4
+autonumber 6 5
+break missions joined
+1 -> 3++ : scourge protector
+...ogling bushes...
+1 -> 1: dipstick banality
+alt clients temptations
+2 --> 2: reaching tins
+0 -\\ 4: soybean penetrated
+autonumber stop
+ [<- 4: irregular answered
+autonumber resume
+3 ->> 3: repaid coach
+0 -> 0!! : understudy traveled
+return flea tumor
+else laughs festering
+3 --//o 3: hiker goblins
+end
+end
+@enduml

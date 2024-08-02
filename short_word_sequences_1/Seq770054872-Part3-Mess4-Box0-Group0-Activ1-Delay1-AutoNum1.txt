@@ -1,0 +1,14 @@
+@startuml
+participant "compel tucked" as 0
+participant "sweater optional" as 1
+== overcast calzones ==
+autonumber 5 6
+1 -> 1!! : sickly chino
+1 ->> 1: ironically tighter
+create participant "licence facts" as 2
+0 -> 2 : licence facts
+autonumber stop
+...calculating tracks...
+0 ->x 1++ : readily palmer
+return interior uh
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+participant "filtration adjectives" as 0
+participant "cotillion tranquil" as 1
+participant "chilling yikes" as 2
+participant "therefore incoming" as 3
+participant "stalks dress" as 4
+autonumber 6 7
+critical snowflake scummy
+4 -> 0++ : unleaded barn
+critical collects heaved
+2 -> 0++ : experiences tribe
+opt senseless glue
+...geezers continent...
+3 -// 2++ : depressed aquarium
+alt veering kobo
+create participant "marooned finagle" as 5
+0 -> 5 : marooned finagle
+return clack fogged
+...adds scaled...
+5 -> 1: bookman anagram
+return retina courted
+else themselves mums
+3 ->> 5: rape ducked
+end
+end
+end
+end
+return madwoman unprincipled
+@enduml

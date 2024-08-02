@@ -1,0 +1,18 @@
+@startuml
+box "shelters barometer"
+participant "float grilled" as 0
+participant "surviving backyard" as 1
+end box
+critical glanced lighthearted
+ [-> 1: premium authorized
+...saffron roto...
+1 ->o 0: bamboozled traded
+opt swallowed pat
+1 -> 1: confession rough
+0 --> 1: juggle missile
+else mainly government
+...hairless miserable...
+0 -\\ 0: chuck canned
+end
+end
+@enduml

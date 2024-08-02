@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:impediments saved;
+split again
+-[hidden]->
+:windsurfing misery;
+split again
+-[hidden]->
+if (tinkle decisions?) then (vowed samaritan)
+(specimen ado) elseif (simmer mor?) then (reelection organs)
+:quotes aspirins; <<save>>
+(zones benjamin) elseif (screamed bossed?) then (mum delegate)
+:fireworks puke; <<output>>
+(concession slaves) elseif (froufrou abduction?) then (displaying agencies)
+:where decline;
+endif
+end split
+:trinket snobby; <<task>>
+-> chief lapel;
+fork
+:evaluate slap;
+fork again
+:vibrating delinquent;
+fork again
+:breakups impropriety; <<continuous>>
+-> lowdown acid;
+fork again
+:bosses resigning; <<output>>
+end fork
+if (destroying immersion?) then (solves cap)
+fork
+:revolution graffiti;
+fork again
+:fido members; <<load>>
+-> mouth longs;
+fork again
+:grog become; <<output>>
+-> eternal discharge;
+end merge
+else (frozen soldier)
+:slimmer guillotine; <<save>>
+-> cholinesterase trifle;
+endif
+stop
+@enduml

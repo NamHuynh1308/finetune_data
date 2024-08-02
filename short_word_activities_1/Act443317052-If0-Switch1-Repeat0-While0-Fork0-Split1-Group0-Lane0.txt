@@ -1,0 +1,17 @@
+@startuml
+start
+switch (questioning only?)
+case (blasphemous boathouse?)
+:allegation hideously; <<output>>
+case (owned marsh?)
+split
+:consort subtext;
+split again
+:rape compartments; <<load>>
+-> aboard reacts;
+split again
+:overtures theft;
+end split
+endswitch
+stop
+@enduml

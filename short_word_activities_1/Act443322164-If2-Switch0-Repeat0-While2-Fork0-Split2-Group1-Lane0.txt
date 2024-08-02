@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:timing salty;
+split again
+-[hidden]->
+if (studios clones?) then (ski dear)
+:fulfillment contesting; <<task>>
+:governor unwieldy;
+:unfairness improve;
+-> plants proactive;
+while (louden eviscerated?) is (unhook accusers)
+backward:reek shimmer;
+endwhile (perjury musketeers)
+-[hidden]->
+detach
+else (advising malnourished)
+:hunk hovercraft; <<output>>
+-> freshener helps;
+:contingency mistrial;
+:serenity heartsick; <<task>>
+-> reflecting recovers;
+endif
+split again
+-[hidden]->
+if (instruction slowly?) then (apologizes miscreant)
+:quarrel compulsion;
+while (stage manila?) is (homestead icy)
+:scanning homeboys; <<load>>
+:grownup protons; <<procedure>>
+-> decker misinterpreted;
+backward:liberating colleagues;
+:trimmings porcelain;
+endwhile (freeloading servitude)
+-[hidden]->
+detach
+else (seduces gentlemen)
+:okeydokey guarantees; <<task>>
+endif
+split again
+-[hidden]->
+:though described; <<load>>
+-> conceivably soliciting;
+end split
+group pigsty predecessor
+:yours climbing; <<continuous>>
+-> truly seeds;
+:degree monthly; <<output>>
+end group
+split
+:mirror pacifier;
+split again
+:portent proceedings; <<continuous>>
+split again
+:incorporate watts;
+end split
+@enduml

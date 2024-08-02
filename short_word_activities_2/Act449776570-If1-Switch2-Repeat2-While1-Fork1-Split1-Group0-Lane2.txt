@@ -1,0 +1,69 @@
+@startuml
+|1| heterosexual molecular
+|2| headmaster sympathies
+split
+-[hidden]->
+:avengers pods;
+split again
+-[hidden]->
+:subvert strenuous;
+split again
+-[hidden]->
+:thrilled moons;
+end split
+fork
+:rand acquaint;
+fork again
+:balls founded; <<procedure>>
+fork again
+:trashes pace;
+fork again
+switch (large feel?)
+case (apple embodied?)
+:wrappers tops;
+case (trimmers seas?)
+:dislike hey;
+case (evidence garibaldi?)
+:omen downtown;
+case (hostess suspended?)
+:pyre tho;
+endswitch
+end fork
+:incapable faith; <<output>>
+-> audition tourism;
+repeat
+backward:buggy unable;
+backward:cook agreeing;
+repeat while (hypotenuse expectancy?) is (owl equal)
+|2|
+switch (papers morally?)
+case (rushing calculus?)
+:counselling equipped;
+case (keg verify?)
+:sank dismissed;
+case (failing leaflets?)
+:rains barges; <<procedure>>
+endswitch
+|1|
+if (mellowed horn?) then (steel nerves)
+(racy noel) elseif (extradite pay?) then (needing strangle)
+while (earns courtesy?) is (office meatballs)
+:hap humans;
+backward:suggestion lettering;
+backward:armies intellect;
+endwhile (comprehending passionately)
+:clauses jargon;
+(trophy truffle) elseif (floods distraught?) then (statuary unfinished)
+:frustrates encounter;
+-> squarely stumbled;
+(resistance griff) elseif (seduced scrape?) then (subvert spell)
+:lothario beginner; <<input>>
+-> fictional calendar;
+(discoveries sanitarium) elseif (ironing corks?) then (likes electroshock)
+repeat
+:superego assimilated;
+repeat while (majestic furiously?) is (insertion assaulting)
+-> offbeat guru;
+endif
+end
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+box "elder matches"
+participant "strength swizzle" as 0
+participant "modification record" as 1
+participant "evaluations manually" as 2
+end box
+== hypnotic lures ==
+autonumber 5 0
+2 --//o 0: stare bleaching
+autonumber stop
+create participant "decreased excessive" as 3
+1 -> 3 : decreased excessive
+1 -->x 2++ : harshly senile
+opt zebras reinvent
+...permitting reassemble...
+2 <-> 0: tales strips
+1 -> 2: levity reactors
+return skepticism suing
+else organisation devices
+end
+@enduml

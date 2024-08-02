@@ -1,0 +1,25 @@
+@startuml
+participant "bluebells zippy" as 0
+box "abreast woodshed"
+participant "wires grate" as 1
+box "breakthroughs thickening"
+participant "mumble parrots" as 2
+participant "dwellers welding" as 3
+end box
+end box
+== abortions conveyor ==
+autonumber 0 1
+2 ->> 0: hymn wildlife
+autonumber stop
+0 --//o 3++ : bumming campaigns
+autonumber resume
+0 -> 1++ : airman requirement
+1 ->x 2: diaper humiliates
+return effecting slugged
+autonumber stop
+1 ->o 3: choose guarding
+3 -> 0: rod principal
+ [-> 3: bonkers neighboring
+autonumber resume
+return hardware environmental
+@enduml

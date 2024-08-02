@@ -1,0 +1,29 @@
+@startuml
+box "fortune instructor"
+participant "quiver detach" as 0
+participant "dismemberment coaster" as 1
+participant "gobble clocks" as 2
+participant "decorated stony" as 3
+end box
+autonumber 5 0
+opt convinces dripped
+3 ->] : advance opportune
+0 <-> 2: barrio canton
+else jake sprint
+2 -\\ 0: parkway branches
+break maintains stapled
+ [-> 1: freezes liability
+create participant "hordes participating" as 4
+1 -> 4 : hordes participating
+autonumber stop
+else procrastinate chaperon
+ [<- 4: greek wringing
+autonumber resume
+else exclusively whistler
+...finishing abundance...
+1 ->x 3: fizzle congratulating
+autonumber stop
+else possessed cleanup
+end
+end
+@enduml

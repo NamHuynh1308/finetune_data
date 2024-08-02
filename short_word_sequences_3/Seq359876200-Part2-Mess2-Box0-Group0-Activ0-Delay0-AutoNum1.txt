@@ -1,0 +1,8 @@
+@startuml
+participant "noises studies" as 0
+participant "nephews ingest" as 1
+== womanizing spreads ==
+autonumber 8 4
+0 --//o 1: trumpet windshield
+0 ->o 1: sexist adventures
+@enduml

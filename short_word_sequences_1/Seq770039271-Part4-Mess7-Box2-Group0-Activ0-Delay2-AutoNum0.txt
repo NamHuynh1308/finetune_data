@@ -1,0 +1,19 @@
+@startuml
+box "delve canteen"
+participant "twig nastiest" as 0
+participant "venture penguin" as 1
+participant "quivering dolt" as 2
+box "miscalculation insecurities"
+participant "little surround" as 3
+end box
+end box
+0 --> 2: cured meadow
+ [<- 2: goat palpable
+...innovation overestimated...
+0 -> 2: fistful pillars
+...elevator attachment...
+3 <-] : wipes marcel
+1 -> 3: racketeer journal
+0 ->o 3: intelligent exterminator
+3 ->x 3: dope rejuvenating
+@enduml

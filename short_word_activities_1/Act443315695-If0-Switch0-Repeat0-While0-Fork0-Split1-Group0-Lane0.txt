@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:mutual hot;
+split again
+-[hidden]->
+:drools rebelling; <<continuous>>
+-> halothane unmistakable;
+split again
+-[hidden]->
+:veins sucker;
+end split
+:compadre passages;
+@enduml

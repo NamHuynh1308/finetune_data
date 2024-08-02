@@ -1,0 +1,17 @@
+@startuml
+fork
+:fastest blazing;
+fork again
+:belts vowels; <<procedure>>
+fork again
+:contrite ceremonies; <<procedure>>
+fork again
+switch (demonstrate percent?)
+case (translating swamps?)
+:ivory policemen;
+case (imposition headlights?)
+:seniors chunk;
+endswitch
+end fork
+stop
+@enduml

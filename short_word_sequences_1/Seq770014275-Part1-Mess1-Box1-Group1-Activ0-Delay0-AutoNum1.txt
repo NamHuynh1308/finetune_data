@@ -1,0 +1,9 @@
+@startuml
+box "although agricultural"
+participant "cubbies confederate" as 0
+end box
+autonumber 3 10
+opt patsy bullheaded
+0 ->] : hallucinogen mementos
+end
+@enduml

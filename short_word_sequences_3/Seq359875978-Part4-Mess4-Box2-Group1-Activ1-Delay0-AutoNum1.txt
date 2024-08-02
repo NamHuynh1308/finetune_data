@@ -1,0 +1,19 @@
+@startuml
+box "asunder individual"
+participant "unimaginative pip" as 0
+participant "basis basin" as 1
+end box
+box "conference sorel"
+participant "limbs chemical" as 2
+participant "freely carbon" as 3
+end box
+autonumber 7 7
+break veered booklets
+3 --//o 2: greased moisture
+1 -// 0: clumsy nicest
+1 --> 0: rebuilding orbital
+0 -> 1++ : emptying foresight
+autonumber stop
+end
+return instructed observing
+@enduml

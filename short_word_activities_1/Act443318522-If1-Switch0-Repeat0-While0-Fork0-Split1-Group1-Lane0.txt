@@ -1,0 +1,22 @@
+@startuml
+start
+:scared downtrodden; <<output>>
+split
+:understand holding;
+split again
+:enforce mediterranean; <<input>>
+split again
+if (drunkard verbal?) then (majesty incommunicado)
+:antiques ducked;
+else (trollop accomplished)
+:brake disturbing;
+:rehab whiplash; <<continuous>>
+endif
+split again
+:scuzzy hoodlums; <<continuous>>
+end split
+group household malfeasance
+:superstar denouncing;
+stop
+end group
+@enduml

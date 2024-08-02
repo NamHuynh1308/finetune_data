@@ -1,0 +1,13 @@
+@startuml
+start
+group stops dyke
+switch (consciously lieutenant?)
+case (gentle astronomer?)
+:matched exercise; <<continuous>>
+-> folding fallen;
+case (tend moderator?)
+:prettier inspection;
+endswitch
+stop
+end group
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+box "hijacking lockdown"
+participant "lessons golf" as 0
+participant "davy congressional" as 1
+end box
+autonumber 4 4
+alt pipes busier
+1 <-> 0: swooning subtitles
+1 ->> 0: positives mickey
+0 -// 0: telling sensation
+autonumber stop
+end
+@enduml

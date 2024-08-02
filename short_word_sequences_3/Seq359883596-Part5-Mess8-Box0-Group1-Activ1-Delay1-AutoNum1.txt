@@ -1,0 +1,23 @@
+@startuml
+participant "necklaces moody" as 0
+participant "postponing stitching" as 1
+participant "conducts homecoming" as 2
+participant "solutions case" as 3
+participant "represent conventional" as 4
+autonumber 8 4
+1 -> 3: window assistant
+2 ->x 0: celebrate viruses
+3 -> 4: homeboy forest
+3 ->x 3: cigar spry
+autonumber stop
+3 -// 1: degree prejudicial
+alt terrestrial sun
+4 <-> 2: halls openly
+...accountability anyway...
+3 -> 4++ : chickenpox amigo
+else thereby outburst
+1 -> 0: introduced affiliated
+autonumber resume
+end
+return loading shaves
+@enduml

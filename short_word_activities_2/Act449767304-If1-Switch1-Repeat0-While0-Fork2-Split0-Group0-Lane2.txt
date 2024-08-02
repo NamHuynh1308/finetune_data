@@ -1,0 +1,39 @@
+@startuml
+|1| existential vamp
+|2| statesmen tragic
+:rages chronically; <<output>>
+|2|
+:motorcade devastating; <<input>>
+-> trap gaby;
+|1|
+if (fostered impatience?) then (subtitle talentless)
+fork
+:troubadour cheekbones;
+fork again
+:mostly plain;
+fork again
+:spotters handouts;
+fork again
+:batch deadbeat; <<task>>
+end fork
+:fascinated contestant; <<save>>
+-> joint eavesdropped;
+else (searches introductions)
+:skillful upgraded; <<continuous>>
+fork
+:dusk bacon;
+fork again
+:holders benefit;
+-> useless unable;
+fork again
+:man wee; <<continuous>>
+end fork
+switch (yields routinely?)
+case (gushy aqua?)
+:lasted spraying; <<output>>
+case (grand cobb?)
+:calmed mikes;
+endswitch
+endif
+stop
+@enduml

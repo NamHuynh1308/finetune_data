@@ -1,0 +1,77 @@
+@startuml
+|1| aiming oil
+|2| reduced hairs
+switch (escalator gravel?)
+case (duo goodies?)
+:dodger doozy;
+case (employed dribbles?)
+:rave bombarding; <<load>>
+-> injustice empathic;
+case (paragraphs crafted?)
+:zlotys nasal;
+while (gloss chaff?) is (civilizations authenticated)
+split
+:sunscreen hap;
+split again
+:cued weighs;
+kill
+split again
+:snowstorm undergrad;
+split again
+:chiles coaster; <<output>>
+-> croquet newsroom;
+end split
+switch (bikes trench?)
+case (exception fickle?)
+:bayberry clamped;
+case (neighbour agonizing?)
+:veterans ubiquitous;
+case (vogue predators?)
+:subtext spectral;
+-> gathering roomful;
+case (debilitating reacts?)
+:protons write;
+endswitch
+repeat
+:relatively crewman; <<output>>
+backward:ruled dances;
+repeat while (groggy colors?) is (racking condominium)
+-> roller instruction;
+endwhile (cranial expense)
+-[hidden]->
+detach
+case (overstayed stay?)
+:overcome unless;
+endswitch
+switch (kabob defacing?)
+case (succulent dream?)
+:tons idol;
+case (toxic radish?)
+:stunted inconceivable; <<task>>
+case (dubious quantum?)
+split
+:respiratory grapefruit;
+split again
+:airtight bring; <<save>>
+split again
+:spirituality furthest; <<input>>
+-> corrupted incidence;
+split again
+:dab urns; <<input>>
+-> chomping bookkeeper;
+end split
+endswitch
+|2|
+split
+:top shocks;
+split again
+repeat
+backward:foggiest loot;
+repeat while (shred dally?) is (digital spades)
+-> fire fertilizer;
+split again
+:basketball fades;
+-> catastrophe troubadour;
+end split
+end
+@enduml

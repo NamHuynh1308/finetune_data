@@ -1,0 +1,7 @@
+@startuml
+start
+group maniac spawn
+:communicate dragon; <<continuous>>
+stop
+end group
+@enduml

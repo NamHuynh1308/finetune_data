@@ -1,0 +1,35 @@
+@startuml
+:foul horrid; <<output>>
+group rickety tangled
+:sifting blending; <<output>>
+-> windowsill wine;
+if (different hurling?) then (tavern should)
+(julep abandons) elseif (conk tact?) then (rotting pans)
+:healer fob;
+(seasoned snowballs) elseif (bestow upheaval?) then (miscarriage hangovers)
+switch (metropolitan dwell?)
+case (rescues percentage?)
+:suggestive puller;
+case (chains night?)
+:prints dictators; <<input>>
+case (gearing yearnings?)
+:accidents pilgrimage; <<output>>
+endswitch
+(victory bumpy) elseif (sheeny uncover?) then (enlightenment mingle)
+repeat
+backward:daffy bubbly;
+repeat while (badge babble?) is (honed clang)
+-> cocktail blooms;
+(late wrapper) elseif (deceased barrio?) then (over fluffy)
+fork
+:robes representation;
+fork again
+:headphones chancellor;
+fork again
+:beans clincher;
+-> sanctuary bicycle;
+end fork
+endif
+end group
+end
+@enduml

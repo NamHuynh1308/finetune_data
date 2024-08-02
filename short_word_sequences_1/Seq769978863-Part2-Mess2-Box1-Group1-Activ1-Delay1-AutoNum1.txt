@@ -1,0 +1,14 @@
+@startuml
+box "rotation scenery"
+participant "immortalized prankster" as 0
+end box
+autonumber 8 1
+loop reminding physiology
+create participant "deposition landlord" as 1
+0 -> 1 : deposition landlord
+autonumber stop
+...bids crabgrass...
+0 ->> 1++ : explosives gratified
+end
+return virtual initiatives
+@enduml

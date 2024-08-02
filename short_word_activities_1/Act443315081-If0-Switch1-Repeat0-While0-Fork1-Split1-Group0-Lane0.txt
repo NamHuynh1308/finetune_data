@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:schedules freelancing;
+split again
+-[hidden]->
+:inmates heeled; <<input>>
+-> thing windowsill;
+split again
+-[hidden]->
+switch (buildup presets?)
+case (adrenaline squawking?)
+:flag tolerate;
+case (surreal informed?)
+:jeweler rambunctious; <<load>>
+-> dyke printing;
+case (zits forfeits?)
+:fertile scarce; <<procedure>>
+case (offerings tor?)
+:newsroom aptly; <<output>>
+endswitch
+end split
+fork
+:jest profit;
+fork again
+:cubed depending; <<procedure>>
+-> squad broom;
+fork again
+:fugitive jams; <<input>>
+-> beryllium graduation;
+end fork
+:rowing switched; <<load>>
+:conceited jockeys; <<save>>
+-> anecdotes smothering;
+stop
+@enduml

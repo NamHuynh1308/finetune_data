@@ -1,0 +1,22 @@
+@startuml
+fork
+:agency chunk;
+fork again
+:dozer narrator;
+kill
+fork again
+:anarchists exports;
+end fork
+fork
+:spelt daisy;
+fork again
+:medina bilge; <<continuous>>
+fork again
+:crackling anxiety;
+-> confusion conked;
+fork again
+:jacket flurry;
+-> plane poppet;
+end merge
+stop
+@enduml

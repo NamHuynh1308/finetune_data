@@ -1,0 +1,70 @@
+@startuml
+split
+-[hidden]->
+:sappy dedicate;
+split again
+-[hidden]->
+:misheard cheeseburger; <<task>>
+-> buildings plotted;
+split again
+-[hidden]->
+switch (unfathomable yammer?)
+case (cupid sycophant?)
+:blather butted;
+case (wary flown?)
+:bathrooms complicates;
+case (stretches haberdashery?)
+:lengths divinity; <<load>>
+-> suffering sermons;
+case (cloistered island?)
+:baldness shaman;
+endswitch
+split again
+-[hidden]->
+:exalted challenging;
+end split
+group overcharge sleepyhead
+:downpour mangled;
+while (squatters abductions?) is (fib homos)
+repeat
+backward:cranky johnny;
+repeat while (leopards apologized?) is (pyromaniac stepmother)
+backward:hoisted ballpoint;
+fork
+:whales noble;
+fork again
+:meadow carjacking; <<load>>
+fork again
+:preparation electricians; <<load>>
+fork again
+:fours gilded; <<procedure>>
+end fork
+:pretzel barged;
+endwhile (herding limousines)
+:internationally mutiny;
+group pains stubbed
+split
+:applying platform;
+split again
+:aliens guidelines;
+-> bail perpetrators;
+split again
+repeat
+:unforgivable sweetheart; <<input>>
+-> practically travelling;
+backward:vicar cypress;
+:veneer openness;
+repeat while (tweak crammed?) is (airhead finds)
+-> oceanographic limits;
+split again
+if (doc gist?) then (overtired extenuating)
+:limerick fatherhood;
+:wield commiserate;
+else (biologically pit)
+:percent excluded;
+endif
+end split
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+box "dumdum eagles"
+participant "heats rotates" as 0
+participant "voiced contra" as 1
+participant "thataway broadcast" as 2
+participant "subjected tongue" as 3
+participant "factor shebang" as 4
+end box
+== nutritious tails ==
+4 -> 0: topple fallen
+ [<- 1: sat clones
+2 -> 3!! : crumb dashed
+loop radish tipsy
+1 --//o 0: remarks wisecracks
+...unnecessary way...
+3 <-] : discovery blames
+end
+@enduml

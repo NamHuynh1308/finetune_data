@@ -1,0 +1,14 @@
+@startuml
+participant "dingle sporty" as 0
+participant "steal gentlemen" as 1
+participant "massaging watched" as 2
+participant "smiles protest" as 3
+== association heiress ==
+1 -> 3: ravings wears
+critical hallelujah lynch
+2 <-> 2: singed raincoat
+1 -> 0: dissertation derailing
+else fates scorched
+2 ->> 1: foolish entrance
+end
+@enduml

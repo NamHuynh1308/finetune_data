@@ -1,0 +1,20 @@
+@startuml
+participant "adventures twenty" as 0
+participant "nuttier predict" as 1
+participant "busting rouse" as 2
+0 -->x 2++ : warner sparkly
+...beware ramp...
+0 -> 2: fighters loathe
+return findings confederacy
+critical screwball theory
+0 ->o 2: outcast maneuvering
+2 <-] : impress villagers
+else finally wuthering
+break coherent able
+0 <-> 0: slopes stunned
+critical touch pigsty
+ [-> 0: messages vials
+end
+end
+end
+@enduml

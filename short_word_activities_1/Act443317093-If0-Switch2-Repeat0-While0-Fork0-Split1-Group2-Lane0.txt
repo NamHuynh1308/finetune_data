@@ -1,0 +1,36 @@
+@startuml
+start
+:scots snails;
+-> freezes stabbed;
+group cabernet synthesis
+:persuaded diaper; <<task>>
+-> eliminate beau;
+group pygmies oxen
+switch (caution pool?)
+case (consciousness settings?)
+switch (snickers shuts?)
+case (dysentery manure?)
+:subconscious quietly;
+case (matchmaking speculative?)
+:pharmacist cholera; <<continuous>>
+case (delete airmen?)
+:tart verge;
+endswitch
+case (rented intervention?)
+:mahatma expensive; <<continuous>>
+-> surface scavenging;
+case (sleepy softener?)
+:poorer footer; <<save>>
+case (captured centre?)
+split
+:nag known;
+split again
+:snacks exclusively; <<output>>
+split again
+:switchblade implanted; <<task>>
+end split
+endswitch
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+start
+repeat
+fork
+:attache patterns;
+fork again
+:learner protests; <<save>>
+fork again
+:conceding garden;
+fork again
+:yuletide stupid; <<save>>
+end fork
+repeat while (stunts platonic?) is (tits certifiably)
+-> tries turtle;
+stop
+@enduml

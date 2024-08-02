@@ -1,0 +1,10 @@
+@startuml
+box "cheesy layers"
+participant "carnie philharmonic" as 0
+end box
+0 -> 0: avid lawyers
+0 -// 0: pessimist threw
+ [-> 0: curd gavel
+0 -> 0: backpack typist
+0 -> 0: incest underpants
+@enduml

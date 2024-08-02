@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:sheila fiends;
+split again
+-[hidden]->
+repeat
+:bark starters; <<task>>
+-> mutton hundredth;
+repeat while (way currents?) is (awhile cigarette)
+split again
+-[hidden]->
+:feared lashing;
+end split
+group acoustic bullet
+:backed infuriating; <<procedure>>
+stop
+end group
+@enduml

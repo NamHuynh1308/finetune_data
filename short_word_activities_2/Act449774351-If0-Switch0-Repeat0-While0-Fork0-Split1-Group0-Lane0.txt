@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:employed feisty;
+split again
+-[hidden]->
+:linking psychos;
+-> fifth warlocks;
+split again
+-[hidden]->
+:welt yon;
+end split
+:dahlia subway;
+-> damsel shuttle;
+@enduml

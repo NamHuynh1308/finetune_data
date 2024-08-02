@@ -1,0 +1,9 @@
+@startuml
+group mulligan wetter
+:lodgings mob; <<procedure>>
+group burgess schmo
+:cheesed delay;
+stop
+end group
+end group
+@enduml

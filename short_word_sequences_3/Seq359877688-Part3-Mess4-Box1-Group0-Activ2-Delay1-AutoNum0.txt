@@ -1,0 +1,14 @@
+@startuml
+box "enemy recitals"
+participant "fido exposure" as 0
+participant "hatchet burlap" as 1
+end box
+participant "architecture mix" as 2
+2 ->x 0++ : sax wasp
+1 -\\ 2: chiffon reflection
+...implemented permitting...
+1 -> 1!! : phew squeezed
+1 -// 0++ : polling salmon
+return oatmeal deliberation
+return clarifying proudest
+@enduml

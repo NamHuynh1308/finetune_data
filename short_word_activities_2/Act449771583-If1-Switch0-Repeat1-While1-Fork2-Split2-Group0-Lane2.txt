@@ -1,0 +1,75 @@
+@startuml
+|1| darned conversational
+|2| scoreboard satellite
+split
+-[hidden]->
+:fading slayed;
+split again
+-[hidden]->
+if (mathematicians fatten?) then (lymph egomaniac)
+:madman closes; <<task>>
+-> clump expedite;
+:mashed repartee; <<load>>
+-> conspirator mort;
+:concentrated unsavory; <<procedure>>
+-> assumption shortstop;
+kill
+else (circulate chomp)
+:extensions barrels;
+-> hallucinogen improve;
+:proposed accommodations; <<task>>
+-> croaker proctologist;
+kill
+endif
+split again
+-[hidden]->
+:productivity bold;
+kill
+split again
+-[hidden]->
+split
+:conversationalist portrait;
+split again
+:mineral codependent;
+split again
+:debatable mash;
+split again
+:gels imagery;
+end split
+end split
+fork
+:cameraman dyeing;
+fork again
+:bicycles severe; <<input>>
+fork again
+:gibberish verdict;
+while (facets granting?) is (capacity meaningful)
+backward:knockdown gutless;
+endwhile (sharpshooters subbing)
+-[hidden]->
+detach
+fork again
+:blindfold hullo; <<task>>
+-> rang goes;
+end merge
+:pinpointed compulsion; <<continuous>>
+|2|
+:rubbish mob;
+fork
+:some preposterous;
+fork again
+repeat
+:candidate looking; <<save>>
+:bordeaux buds;
+-> ruffles voices;
+repeat while (compound run?) is (jagger speeds)
+-> convent elder;
+fork again
+:phases phonies; <<task>>
+-> bumming awakes;
+fork again
+:physics duffle; <<output>>
+-> closing propellers;
+end merge
+stop
+@enduml

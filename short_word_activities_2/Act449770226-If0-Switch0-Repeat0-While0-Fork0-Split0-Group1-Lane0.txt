@@ -1,0 +1,7 @@
+@startuml
+group mansions inspections
+:formality listened; <<load>>
+-> trousers strategist;
+stop
+end group
+@enduml

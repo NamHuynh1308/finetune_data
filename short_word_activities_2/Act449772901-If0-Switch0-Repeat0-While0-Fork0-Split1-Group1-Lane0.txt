@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:outrageously hailed;
+split again
+-[hidden]->
+:gasses exhumed; <<task>>
+split again
+-[hidden]->
+:paramedics expel;
+end split
+group snip capping
+:rhinoceros ditched;
+stop
+end group
+@enduml

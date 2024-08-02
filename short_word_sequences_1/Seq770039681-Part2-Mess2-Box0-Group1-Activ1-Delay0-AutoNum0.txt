@@ -1,0 +1,9 @@
+@startuml
+participant "carlin clothe" as 0
+participant "cardinal love" as 1
+0 ->> 0++ : agin braved
+loop townspeople welcomes
+0 -> 0: torched cough
+end
+return flunkies mommies
+@enduml

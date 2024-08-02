@@ -1,0 +1,15 @@
+@startuml
+participant "scuba faculties" as 0
+autonumber 4 6
+0 ->> 0: benches lunch
+create participant "posse troubling" as 1
+0 -> 1 : posse troubling
+par psychic electronic
+ [<- 1: scores restrict
+critical ledgers spies
+1 -> 1++ : invoices commitments
+autonumber stop
+end
+end
+return applauding direct
+@enduml

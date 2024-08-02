@@ -1,0 +1,14 @@
+@startuml
+group intermediate sacred
+switch (shrunk grandparent?)
+case (programme refused?)
+:coursing errand;
+case (nailed interning?)
+:eggplant exploiting; <<load>>
+endswitch
+:munching sweetly; <<save>>
+-> humor snails;
+:mighty waive; <<continuous>>
+end group
+end
+@enduml

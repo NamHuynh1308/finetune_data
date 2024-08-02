@@ -1,0 +1,14 @@
+@startuml
+participant "parked buffoons" as 0
+participant "invigorated midget" as 1
+== nosy mystical ==
+opt tasty shifting
+0 <-> 1: slaps musketeers
+opt immaculate bloodshed
+1 -// 0: hydra gene
+ [-> 0: distribution gamble
+...destroyers squirts...
+0 -> 1: solitude schooled
+end
+end
+@enduml

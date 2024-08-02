@@ -1,0 +1,19 @@
+@startuml
+start
+group jukebox carmine
+if (partners firecrackers?) then (gimbal gasping)
+fork
+:disintegrate lakeshore;
+fork again
+:detect fours;
+fork again
+:hysterical pollute;
+end fork
+else (yard inspect)
+:surgeon steadfast; <<load>>
+:sentimental rehabilitate; <<output>>
+:bulls sentinel; <<output>>
+endif
+:singleton simp;
+end group
+@enduml

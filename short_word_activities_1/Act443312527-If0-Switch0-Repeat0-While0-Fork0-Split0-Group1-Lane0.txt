@@ -1,0 +1,7 @@
+@startuml
+start
+group etched sins
+:telly hardware; <<output>>
+stop
+end group
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+switch (thrilled opposite?)
+case (attract open?)
+:monologue allee;
+kill
+case (something avoiding?)
+:consistently lineage; <<task>>
+case (desist hellfire?)
+if (snorting avoided?) then (dentists twig)
+(balled phases) elseif (talons preservatives?) then (beakers dam)
+:ambrosia troy; <<save>>
+(witchcraft cashmere) elseif (showdown better?) then (architecture screw)
+:jimmies discharged; <<save>>
+endif
+endswitch
+group soothes letting
+:spitz vandals; <<task>>
+:extremities diligently; <<output>>
+stop
+end group
+@enduml

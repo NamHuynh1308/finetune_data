@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:choirs chute;
+split again
+-[hidden]->
+:passageway tons;
+while (father others?) is (dismount robot)
+backward:harbor coattails;
+:ominous cruised; <<save>>
+:valued hockey;
+endwhile (statuary cult)
+-[hidden]->
+detach
+split again
+-[hidden]->
+:applauding quantum; <<save>>
+end split
+group grazing chumps
+:nicks graduates; <<task>>
+group finessed archeology
+:cosy antihistamines; <<output>>
+stop
+end group
+end group
+@enduml

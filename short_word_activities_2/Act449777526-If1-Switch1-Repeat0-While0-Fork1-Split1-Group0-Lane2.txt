@@ -1,0 +1,46 @@
+@startuml
+|1| accomplice newsman
+|2| robots catalyst
+split
+-[hidden]->
+:simpleton blueberries;
+split again
+-[hidden]->
+:stooping perfecto; <<save>>
+split again
+-[hidden]->
+:ruined confident; <<input>>
+-> dwellers troublemaker;
+split again
+-[hidden]->
+fork
+:clambake forgot;
+fork again
+:deranged sensibilities; <<output>>
+-> shimmy parfait;
+fork again
+:bibles spiteful; <<output>>
+-> hypnosis propping;
+end fork
+end split
+:anthem fiancee; <<load>>
+if (robots blamed?) then (interact chaff)
+:northwest toured; <<load>>
+else (banality pomegranate)
+:something hostages; <<load>>
+-> mach hoses;
+:unclaimed farthing; <<input>>
+endif
+|2|
+switch (emotions hours?)
+case (fervent average?)
+:hostage tribute; <<task>>
+-> complacency accuses;
+case (drowned curing?)
+:chevy inexpensive; <<task>>
+-> measles dipped;
+endswitch
+|1|
+:riding face; <<load>>
+end
+@enduml

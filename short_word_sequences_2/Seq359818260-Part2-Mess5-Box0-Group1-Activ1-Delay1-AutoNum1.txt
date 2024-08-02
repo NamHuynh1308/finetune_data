@@ -1,0 +1,16 @@
+@startuml
+participant "disabilities counselling" as 0
+== gentlemanly desist ==
+autonumber 7 10
+create participant "fond goodie" as 1
+0 -> 1 : fond goodie
+1 -> 0: tranquilizer rivers
+opt nervous met
+...article notion...
+1 -> 0: invigorating dinky
+0 -> 0++ : phi bombings
+1 ->] : regain expands
+else grisly cabinet
+end
+return healer meathead
+@enduml

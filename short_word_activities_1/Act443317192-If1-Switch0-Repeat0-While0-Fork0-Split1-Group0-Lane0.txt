@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:pigskin lapdog;
+split again
+-[hidden]->
+:gradually political; <<load>>
+-> reimbursed realism;
+split again
+-[hidden]->
+:nauseous breathable; <<output>>
+split again
+-[hidden]->
+if (ambassador tarantulas?) then (recriminations sends)
+:clutched dialing; <<continuous>>
+:taker movie; <<load>>
+else (whisper hostel)
+:satellite wood;
+:gypsy tradition;
+-> lowly commoner;
+endif
+end split
+:barfed hurtful; <<procedure>>
+-> nanosecond pirates;
+end
+@enduml

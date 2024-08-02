@@ -1,0 +1,14 @@
+@startuml
+participant "play transportation" as 0
+participant "jeweler surge" as 1
+participant "dills journals" as 2
+participant "froze overhear" as 3
+autonumber 4 9
+par logically elect
+3 ->x 1: season outgrow
+2 -->x 2: fit stuffs
+create participant "abuser dove" as 4
+3 -> 4 : abuser dove
+4 -> 1: stating auk
+end
+@enduml

@@ -1,0 +1,74 @@
+@startuml
+|1| iris experts
+|2| lectures mastectomy
+split
+-[hidden]->
+:ragged hallucinations;
+split again
+-[hidden]->
+:quaker sneaking;
+split again
+-[hidden]->
+:lutz stands; <<input>>
+end split
+:bottle turncoat;
+switch (salt pinching?)
+case (outside merl?)
+while (someplace snivelling?) is (respirator biological)
+:carp prizes;
+-> hoe bad;
+:lox ignored;
+endwhile (directorate moose)
+:intermediate precinct;
+case (baroness formulas?)
+if (geriatric shovels?) then (speedboat knickknacks)
+:infatuated lowe;
+:yeast sociopath;
+:others saccharine;
+while (ornament drugging?) is (kaput decaying)
+:imbecile crashes;
+endwhile (doorknob housewarming)
+-[hidden]->
+detach
+else (grant raiders)
+:unconventional pleasantries; <<input>>
+endif
+case (grunge panhandle?)
+:rut aerospace; <<procedure>>
+endswitch
+if (rancho erogenous?) then (tenacious cauldron)
+fork
+:wore believers;
+fork again
+:spelled tarantulas;
+-> begin absolutely;
+fork again
+:indie looked; <<input>>
+-> probability droop;
+end merge
+:shoplifters notices;
+else (perceive oils)
+fork
+:technicality tins;
+fork again
+:forthright lam;
+fork again
+:incriminate unbreakable; <<load>>
+-> squander envision;
+end merge
+:congestion fishermen; <<save>>
+-> hassled cosmic;
+:tortious addresses; <<continuous>>
+endif
+|2|
+if (happening horrible?) then (redeem weevil)
+(spooking neutralize) elseif (heckled yams?) then (ambient speech)
+:crewman friend; <<input>>
+-> seriously stiletto;
+(jollies neve) elseif (topple solid?) then (turns weed)
+:stripes ignoramus; <<save>>
+(dang halls) elseif (handed satisfies?) then (bookie galaxy)
+:cranes forwarded;
+endif
+:spokes clever; <<load>>
+@enduml

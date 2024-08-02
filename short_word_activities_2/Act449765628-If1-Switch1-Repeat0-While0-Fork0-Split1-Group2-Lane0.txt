@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:presets wiggy;
+split again
+-[hidden]->
+:de monumental; <<load>>
+split again
+-[hidden]->
+:lanyard greater; <<input>>
+end split
+group eight clause
+switch (errand paratroopers?)
+case (gambling solution?)
+:misspent including; <<procedure>>
+case (ava delayed?)
+:worshipped minivan; <<save>>
+case (notification loaded?)
+if (advantages depraved?) then (bankbooks epidural)
+(multimillion piping) elseif (systems consumption?) then (add shake)
+:bees kidnap;
+(blocked junk) elseif (emptied sum?) then (punishment tome)
+:boner reschedule;
+(shunned infested) elseif (gain unlock?) then (primal purging)
+:originally retraction; <<load>>
+-> abide affiliated;
+(jihad amount) elseif (weensy skidded?) then (usual delightfully)
+:chitchat viciousness; <<save>>
+endif
+case (pimped plaster?)
+:how marital;
+-> heroine funeral;
+endswitch
+group officially arrows
+:uterus offshore;
+:click teasing; <<procedure>>
+end group
+stop
+end group
+@enduml

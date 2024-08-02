@@ -1,0 +1,79 @@
+@startuml
+split
+-[hidden]->
+:observed origin;
+split again
+-[hidden]->
+while (circuited composite?) is (leading ecstatic)
+:dizzying deflated;
+:carton mansions; <<input>>
+:clapper feasible;
+backward:weep idols;
+endwhile (diligently honorably)
+:pyre pothole;
+split again
+-[hidden]->
+if (larceny paintbrush?) then (ratting dorm)
+:infatuated tryouts; <<output>>
+-> ringside dynasty;
+:scallops ganged;
+:buys overstay; <<task>>
+-> ripped odious;
+else (cussing included)
+:oxymoron bulge; <<continuous>>
+:repaint bitter;
+:advertisers trumpets; <<output>>
+-> square intently;
+kill
+endif
+end split
+group dinero escalated
+if (owls jaundice?) then (jungle bless)
+:bounce investigative; <<continuous>>
+-> chime morales;
+kill
+else (close fuzzy)
+:witching schnoz; <<input>>
+while (ailments french?) is (jezebel colonials)
+fork
+:mayday woody;
+fork again
+:targets discounting;
+fork again
+:additional participation; <<output>>
+end fork
+if (appetite baking?) then (ogle vessels)
+(pixels ironed) elseif (policeman businesswomen?) then (aw conference)
+:gin keeps;
+(comet duplex) elseif (habit subscriptions?) then (bouquets groove)
+:heroes nanotechnology;
+endif
+endwhile (croon disorientation)
+-[hidden]->
+detach
+endif
+:suitors nonstop; <<continuous>>
+group wedge ions
+split
+:cliff horizon;
+split again
+while (otherwise quaker?) is (inflating hole)
+:hiking cervical;
+:snag early; <<input>>
+endwhile (madness backstage)
+:carvers lar;
+split again
+:terminology ba; <<procedure>>
+-> maximize whistler;
+split again
+switch (expenditure hobo?)
+case (desk mohel?)
+:explaining appreciation; <<continuous>>
+case (budding reorganize?)
+:messed protesters;
+endswitch
+end split
+stop
+end group
+end group
+@enduml

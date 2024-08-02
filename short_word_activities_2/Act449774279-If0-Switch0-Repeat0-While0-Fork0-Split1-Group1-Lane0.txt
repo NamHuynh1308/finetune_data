@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:pusher weapon;
+split again
+-[hidden]->
+:metric actors; <<load>>
+-> sustenance deducted;
+split again
+-[hidden]->
+:primal adolescent; <<output>>
+-> vein ramble;
+end split
+group uptown amputate
+:pays eminent; <<task>>
+stop
+end group
+@enduml

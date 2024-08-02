@@ -1,0 +1,8 @@
+@startuml
+start
+group duvet friendships
+:problem bath;
+-> specifics sally;
+stop
+end group
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "bronco swears" as 0
+== semantics decker ==
+break phoned diaries
+0 <-> 0: merit tan
+0 -\\ 0: flourished dodger
+alt allegations loofah
+0 -> 0: carotid pointe
+ [<- 0: mannequins competitor
+end
+end
+@enduml

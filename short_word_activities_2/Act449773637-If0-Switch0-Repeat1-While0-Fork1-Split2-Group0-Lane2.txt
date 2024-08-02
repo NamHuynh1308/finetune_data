@@ -1,0 +1,44 @@
+@startuml
+|1| cellars robbery
+|2| lifestyle imposing
+split
+-[hidden]->
+:partnerships divine;
+split again
+-[hidden]->
+:coats wipe;
+-> truck rephrase;
+split again
+-[hidden]->
+:ordinary prevails;
+-> hassled detecting;
+split again
+-[hidden]->
+:secrets killings; <<input>>
+end split
+repeat
+fork
+:bearing chatty;
+fork again
+:quiche foreword; <<procedure>>
+fork again
+:menace qualities;
+-> mushy individuals;
+end fork
+repeat while (pavement upwards?) is (kendo visitor)
+|2|
+:humdinger pees;
+split
+:comply uncivilized;
+split again
+:we occur; <<continuous>>
+split again
+:year weasel; <<save>>
+-> cynics commerce;
+split again
+:intoxicating takedown; <<save>>
+end split
+:coop violins; <<continuous>>
+-> harrowing teacup;
+stop
+@enduml

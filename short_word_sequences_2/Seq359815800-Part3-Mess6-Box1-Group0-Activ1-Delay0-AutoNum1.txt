@@ -1,0 +1,16 @@
+@startuml
+participant "paintbrush hop" as 0
+box "unaffected sprays"
+participant "entertainer ring" as 1
+end box
+autonumber 10 2
+1 -> 1++ : key hedging
+create participant "stripper operational" as 2
+0 -> 2 : stripper operational
+return purchasing modicum
+2 ->> 1: celebrity incapacitated
+2 -> 1: conspicuous deadly
+2 -> 0: rights dispose
+autonumber stop
+2 ->o 2: greens sensual
+@enduml

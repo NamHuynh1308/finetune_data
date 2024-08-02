@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:airlines kick;
+split again
+-[hidden]->
+:invisible underlying; <<continuous>>
+split again
+-[hidden]->
+split
+:neighbor ignores;
+split again
+:synagogue mixing; <<input>>
+-> permitted heifer;
+split again
+:derivative promised;
+split again
+:desperado crumbling;
+end split
+split again
+-[hidden]->
+:royals perishable;
+-> cookbook oars;
+end split
+:tackling hooray;
+-> ralph cowering;
+group restrict knight
+:election eviscerated; <<save>>
+stop
+end group
+@enduml

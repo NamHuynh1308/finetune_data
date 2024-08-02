@@ -1,0 +1,12 @@
+@startuml
+box "topple decker"
+participant "nozzle dough" as 0
+end box
+== valiant antsy ==
+0 ->o 0: nations rake
+0 ->] : form downer
+0 ->x 0: quahog introduction
+0 -->x 0: unselfish dub
+create participant "hopping establishments" as 1
+0 -> 1 : hopping establishments
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+box "unruly dentists"
+participant "quickly crescent" as 0
+participant "diagonal goodbye" as 1
+participant "damnable illogical" as 2
+participant "contradict subtly" as 3
+end box
+== nome rocking ==
+1 -> 1: condoms frantically
+2 --> 0: act fugue
+2 ->x 1++ : advantages flair
+2 -> 2++ : adaptable stained
+ [-> 2: principal harps
+return stewed autopsies
+return ablaze burns
+@enduml

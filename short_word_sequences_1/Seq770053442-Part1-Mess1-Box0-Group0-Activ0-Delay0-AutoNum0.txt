@@ -1,0 +1,5 @@
+@startuml
+participant "ditched plane" as 0
+== experience doses ==
+0 ->o 0: grouping bogs
+@enduml

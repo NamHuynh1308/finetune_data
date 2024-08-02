@@ -1,0 +1,7 @@
+@startuml
+group admits retainer
+:sensed snagged; <<task>>
+-> clergyman equally;
+stop
+end group
+@enduml

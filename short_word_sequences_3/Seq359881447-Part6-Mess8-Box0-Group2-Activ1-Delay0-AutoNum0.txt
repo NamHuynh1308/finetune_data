@@ -1,0 +1,26 @@
+@startuml
+participant "runoff inhaled" as 0
+participant "spatial anguish" as 1
+participant "hardly got" as 2
+participant "sightless raisins" as 3
+participant "blithering submarine" as 4
+== gooey celebrity ==
+par fuel voltage
+4 -> 3: coerce egotistical
+1 -// 0: helpless camping
+else sings digitally
+opt maternity prescription
+0 --//o 1: landlords practiced
+4 -\\ 2: mammals tedious
+else situated quota
+4 -->x 0++ : complicating retreat
+else secrets chirpy
+0 -> 4: cole frostbite
+create participant "flamer magic" as 5
+1 -> 5 : flamer magic
+return complex formula
+0 -> 4: lowery chigger
+else me respectively
+end
+end
+@enduml

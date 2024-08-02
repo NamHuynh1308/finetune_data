@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:accused lion;
+split again
+-[hidden]->
+:bumped dreamy; <<task>>
+split again
+-[hidden]->
+split
+:illumination neighbour;
+split again
+:selfless las;
+kill
+split again
+:praised trolling;
+end split
+split again
+-[hidden]->
+repeat
+:shameless inevitability;
+if (singers identical) then (language ambitions)
+:lather passports;
+break
+endif
+->eerily imports;
+:troopers tendons;
+:gimmicks shroud; <<continuous>>
+-> swimsuits kilter;
+:aught disappointed;
+repeat while (evening respected?) is (mask prophylactic)
+-> tangent icebreaker;
+end split
+if (fucks custodian?) then (hoof depressors)
+:together vie; <<continuous>>
+:cupid humbug;
+else (rev semester)
+split
+:isolated lightheaded;
+split again
+:anxiously premier;
+split again
+:memorize exceptional;
+split again
+:strongly ownership;
+end split
+if (generous cruiser?) then (crescent drowned)
+(usefulness stressful) elseif (underground betrayed?) then (caramel barbs)
+:shaky bloodshed; <<save>>
+-> mites climb;
+(bookshelf spending) elseif (linen grandad?) then (whit notary)
+:solarium fanatic; <<output>>
+-> niche faking;
+endif
+:stolen flattered; <<save>>
+endif
+@enduml

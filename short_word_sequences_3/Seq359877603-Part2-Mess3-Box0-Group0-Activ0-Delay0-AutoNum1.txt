@@ -1,0 +1,9 @@
+@startuml
+participant "mandate furnace" as 0
+participant "defended certainty" as 1
+autonumber 9 3
+1 -// 0: gray baffles
+1 --//o 0: starters ledger
+1 <-] : machete turbine
+autonumber stop
+@enduml

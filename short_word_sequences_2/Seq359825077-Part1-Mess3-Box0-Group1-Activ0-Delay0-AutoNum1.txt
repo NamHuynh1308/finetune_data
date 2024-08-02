@@ -1,0 +1,10 @@
+@startuml
+participant "brandies tortoise" as 0
+autonumber 1 1
+par shh wiring
+ [-> 0: detonation careful
+0 -> 0: functions chirp
+autonumber stop
+0 <-> 0: firemen forgettable
+end
+@enduml

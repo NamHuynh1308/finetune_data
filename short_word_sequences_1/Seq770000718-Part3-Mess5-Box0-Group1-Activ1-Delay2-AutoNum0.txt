@@ -1,0 +1,16 @@
+@startuml
+participant "gig bonnie" as 0
+participant "toots intoxication" as 1
+participant "bargain kickback" as 2
+== liberated lout ==
+2 -> 1: gutters meddle
+...watcher refugee...
+1 ->] : banning buyout
+1 --> 2: killjoy misunderstood
+2 ->x 1++ : delirious sledgehammer
+par darks frauds
+...serenade scrub...
+2 --> 0: keeping farmhouse
+return evaluating endive
+end
+@enduml

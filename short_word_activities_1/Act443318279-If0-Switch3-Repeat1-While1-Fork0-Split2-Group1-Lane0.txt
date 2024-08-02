@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:pressman skateboard;
+split again
+-[hidden]->
+split
+:spruce litter;
+split again
+:caffeinated lead;
+split again
+:duplicate backseat;
+end split
+split again
+-[hidden]->
+switch (goodwill suits?)
+case (tight review?)
+:dishonor dabbled;
+case (hurting texas?)
+:mould thoughtfully;
+endswitch
+split again
+-[hidden]->
+:hiring nightmares;
+kill
+end split
+group strawberry vendors
+while (delightfully cannonball?) is (butlers bachelorette)
+switch (acting shuttles?)
+case (conflicting hostages?)
+:makeovers cognizant; <<save>>
+case (goodwill major?)
+:hippo nee; <<save>>
+case (feud recommendation?)
+:puzzles proposed;
+case (immortal deliberation?)
+:neck neighbors; <<load>>
+endswitch
+:duty refuse; <<input>>
+-> biker eleven;
+backward:cheekbones plugging;
+endwhile (dotes compressions)
+:stilts stuntman;
+:clings slurp; <<procedure>>
+-> confirming hulk;
+repeat
+switch (racing reappeared?)
+case (aces unlimited?)
+:artiste motorcycle; <<procedure>>
+case (angels youngest?)
+:various munching;
+endswitch
+:alleluia extremism; <<output>>
+repeat while (readout cranial?) is (blondes gall)
+end group
+stop
+@enduml

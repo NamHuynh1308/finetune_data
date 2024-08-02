@@ -1,0 +1,12 @@
+@startuml
+participant "eviscerate reimbursed" as 0
+participant "informant crumbled" as 1
+0 <-> 1: bellhops scarecrow
+...warts unsung...
+0 -> 1!! : sensed bedpan
+...stepped assorted...
+0 -\\ 1: utilize amounted
+create participant "unmarried expedite" as 2
+1 -> 2 : unmarried expedite
+1 ->] : newborn strolling
+@enduml

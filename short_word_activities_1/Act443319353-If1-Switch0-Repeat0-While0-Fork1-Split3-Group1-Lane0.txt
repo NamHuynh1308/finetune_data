@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:motivate timpani;
+split again
+-[hidden]->
+if (gorge fay?) then (crowd resurrection)
+:bridges insufficient;
+else (deciding snore)
+:vamps interrogation;
+endif
+split again
+-[hidden]->
+:probably evaluation; <<procedure>>
+end split
+group whoop insurance
+fork
+:whats organism;
+fork again
+split
+:mousse recorder;
+split again
+:cornerstone antibiotics; <<continuous>>
+split again
+:basement foremost;
+-> interrogations quiz;
+split again
+:lowered unattended;
+end split
+fork again
+split
+:stalking trainee;
+split again
+:pleaser embalmed; <<output>>
+split again
+:revoked homecoming; <<procedure>>
+split again
+:blather spiking;
+-> filling simply;
+end split
+end fork
+stop
+end group
+@enduml

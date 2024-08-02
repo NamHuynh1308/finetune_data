@@ -1,0 +1,5 @@
+@startuml
+start
+:busboys moo; <<load>>
+-> watching earphones;
+@enduml

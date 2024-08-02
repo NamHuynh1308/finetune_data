@@ -1,0 +1,17 @@
+@startuml
+participant "stare fireballs" as 0
+participant "shared roles" as 1
+box "blameless petal"
+participant "engaging vermin" as 2
+participant "bone studly" as 3
+end box
+== sliver recovered ==
+0 --//o 3: barred pennies
+1 ->x 3: ridden consumes
+1 --> 3: mugged individuals
+1 -> 2: status entice
+1 -\\ 3++ : defenses earthquake
+0 <-] : shrinking gawk
+return owls wean
+1 <-> 1: shalom squarely
+@enduml

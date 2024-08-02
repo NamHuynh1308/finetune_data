@@ -1,0 +1,7 @@
+@startuml
+:examples produced; <<load>>
+-> serenade spice;
+:fiver lowlifes; <<load>>
+-> dedicating quoth;
+end
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+box "policies fumigated"
+participant "alive snug" as 0
+end box
+par metro woolly
+0 -> 0: cinematic suspected
+...annihilate sewage...
+0 -> 0!! : bribes tenuous
+...canape resident...
+0 -> 0: skulk typewriter
+else weakling veterinarian
+end
+@enduml

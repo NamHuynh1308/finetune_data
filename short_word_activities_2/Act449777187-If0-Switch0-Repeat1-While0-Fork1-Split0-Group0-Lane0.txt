@@ -1,0 +1,24 @@
+@startuml
+start
+fork
+:hotdog diagnose;
+fork again
+:sleet traction;
+fork again
+repeat
+:sorel universe;
+if (rib skirmishes) then (seed pigsty)
+:yearning domes;
+break
+endif
+->dictates multiples;
+:nightcap snatch;
+:gone mensa; <<output>>
+repeat while (displaying sadistic?) is (asteroid reviewed)
+-> woozy responded;
+fork again
+:shutdown managerial; <<output>>
+-> albums hushed;
+end merge
+stop
+@enduml

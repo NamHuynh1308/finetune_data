@@ -1,0 +1,8 @@
+@startuml
+group pencil paints
+:ducked criminal; <<load>>
+:archives growl; <<output>>
+:dissent expressing; <<load>>
+stop
+end group
+@enduml

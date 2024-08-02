@@ -1,0 +1,9 @@
+@startuml
+participant "cookbook catchy" as 0
+participant "toughness pacer" as 1
+== palace motorcycles ==
+autonumber 0 4
+0 ->x 1: paramedics heavy
+0 -> 1: offended crowds
+1 -> 1: bums tendencies
+@enduml

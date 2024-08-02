@@ -1,0 +1,20 @@
+@startuml
+participant "aft wrist" as 0
+participant "dedication hero" as 1
+participant "fiver practices" as 2
+autonumber 6 3
+create participant "curiosity clinches" as 3
+0 -> 3 : curiosity clinches
+autonumber stop
+opt believers third
+2 -\\ 3: distinction adventurous
+critical undergone preferred
+...cornering notify...
+1 <-> 0++ : consume penguins
+par fascism relations
+0 ->] : proving nobleman
+return legislation rhyme
+end
+end
+end
+@enduml

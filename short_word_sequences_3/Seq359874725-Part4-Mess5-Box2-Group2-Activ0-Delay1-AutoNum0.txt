@@ -1,0 +1,20 @@
+@startuml
+box "creepers whacked"
+participant "kinship footprints" as 0
+participant "unsettling forcibly" as 1
+end box
+box "fleece invasion"
+participant "whisk strangling" as 2
+participant "consulate inn" as 3
+end box
+2 --> 0: pluses interface
+0 -> 1: tears abandon
+alt flap bolt
+2 ->o 0: complications too
+2 ->] : believing peering
+break beard lunches
+...flame bloc...
+3 -// 3: fairy backfires
+end
+end
+@enduml

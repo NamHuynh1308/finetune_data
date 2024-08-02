@@ -1,0 +1,16 @@
+@startuml
+participant "underestimating interior" as 0
+participant "misty speedway" as 1
+participant "castor alike" as 2
+box "conjuring touchstone"
+participant "hon swivel" as 3
+end box
+loop pervert stereotypes
+1 -\\ 0: discus swimming
+0 <-] : philosophical allowance
+0 -> 3!! : phobia depressed
+loop hunk tizzy
+0 ->] : subjects alternate
+end
+end
+@enduml

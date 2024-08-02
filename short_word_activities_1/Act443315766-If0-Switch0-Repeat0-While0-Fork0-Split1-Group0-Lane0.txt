@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:risk appetizer;
+split again
+-[hidden]->
+:showed matrix; <<load>>
+split again
+-[hidden]->
+:impervious persists;
+end split
+:chirpy fussing;
+-> noticeable intimacy;
+:scoot prior; <<input>>
+-> education fib;
+@enduml

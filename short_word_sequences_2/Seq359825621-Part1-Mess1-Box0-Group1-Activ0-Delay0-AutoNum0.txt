@@ -1,0 +1,7 @@
+@startuml
+participant "qualifications ad" as 0
+== bombs scheming ==
+critical witchcraft hmm
+0 ->> 0: spatial works
+end
+@enduml

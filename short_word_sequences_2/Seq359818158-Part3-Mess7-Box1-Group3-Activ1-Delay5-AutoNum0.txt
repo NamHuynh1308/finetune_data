@@ -1,0 +1,28 @@
+@startuml
+participant "treasure kisser" as 0
+participant "laden charges" as 1
+box "fry snakes"
+participant "nine stomped" as 2
+end box
+loop sever jug
+0 <-] : bailiff lithium
+alt appendage mixed
+1 -// 2: harpy anthropologists
+break linger yarn
+...flavor bungee...
+ [<- 2: avenged sprouts
+...marriages conclave...
+ [<- 2: archer jocks
+else endowment jars
+...statement reluctant...
+2 <-] : snagging torrid
+else mentioned kroner
+...mower bearded...
+1 -> 2: skinny appeals
+end
+...beakers puller...
+0 -> 2++ : clinics uncommon
+end
+end
+return conspicuous writers
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "avoiding honeymoon" as 0
+participant "lordship pedaling" as 1
+box "romantic repartee"
+participant "airs licorice" as 2
+participant "branching creamy" as 3
+end box
+participant "crushes matt" as 4
+4 -// 0: rethinking ailing
+4 ->o 3: crooks raiding
+...enforcing salvaging...
+1 <-] : objective pod
+2 -> 2: unload improving
+2 ->> 1++ : sidekicks odds
+3 -> 0++ : preamble chefs
+0 ->o 0: obstruction loading
+return drape sick
+return hairbrush populated
+@enduml

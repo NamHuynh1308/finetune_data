@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:assholes ambrosia;
+split again
+-[hidden]->
+:funding pampers; <<continuous>>
+split again
+-[hidden]->
+repeat
+backward:banished telly;
+:lifestyle jaguar;
+repeat while (rotary structure?) is (travels canisters)
+-> physiology cremated;
+split again
+-[hidden]->
+split
+:hallowed chainsaws;
+split again
+:act zapped; <<task>>
+split again
+:persistent broth;
+end split
+end split
+:claim jerry; <<input>>
+-> prohibited celibate;
+group lonely munchkin
+switch (campers offender?)
+case (farmland shortcut?)
+split
+:mad spool;
+split again
+:berserk peeking;
+split again
+:intoxicating kneecap; <<continuous>>
+split again
+:peacefully reel; <<continuous>>
+end split
+case (unprepared gazpacho?)
+:scouts restroom; <<output>>
+case (threat roomful?)
+:guardian methodology;
+kill
+endswitch
+stop
+end group
+@enduml

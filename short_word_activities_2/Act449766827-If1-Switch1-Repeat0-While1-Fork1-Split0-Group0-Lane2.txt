@@ -1,0 +1,39 @@
+@startuml
+|1| colors soft
+|2| feedback jettison
+|1|
+start
+fork
+:during pyre;
+fork again
+while (chicken rot?) is (cancels sonnet)
+backward:here requiem;
+:federal corker;
+endwhile (contractor uptown)
+:demise crossed;
+fork again
+:decorator sobered; <<output>>
+fork again
+:upshot businessmen;
+end fork
+|2|
+switch (gratuitous freshly?)
+case (meatloaf oomph?)
+if (drafting implications?) then (aboard seltzer)
+(cheerleaders towel) elseif (outlive elements?) then (results dominate)
+:kins flop; <<output>>
+(portrayed tendon) elseif (jaunt anesthetic?) then (discontinue clapped)
+:performance damned; <<save>>
+endif
+case (weak cheep?)
+:dives carney;
+case (sweatshirt rules?)
+:slogan clapping; <<save>>
+case (imagines neon?)
+:wag marina; <<task>>
+-> trauma tackled;
+endswitch
+|1|
+:bronzing housed;
+stop
+@enduml

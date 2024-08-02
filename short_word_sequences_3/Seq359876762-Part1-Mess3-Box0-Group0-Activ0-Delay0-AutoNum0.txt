@@ -1,0 +1,6 @@
+@startuml
+participant "peachy fatigue" as 0
+0 <-> 0: shea industrialist
+0 ->x 0: descent mutiny
+0 -> 0: dote tumors
+@enduml

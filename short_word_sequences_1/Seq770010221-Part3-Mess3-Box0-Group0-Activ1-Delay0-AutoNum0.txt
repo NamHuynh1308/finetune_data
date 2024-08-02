@@ -1,0 +1,9 @@
+@startuml
+participant "casserole unreasonable" as 0
+participant "domestic anxiety" as 1
+participant "daughter bending" as 2
+0 <-> 2: plowed bicycle
+1 -> 0: shambles strapless
+1 -// 2++ : dasher extend
+return floorboards tales
+@enduml

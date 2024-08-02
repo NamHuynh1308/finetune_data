@@ -1,0 +1,13 @@
+@startuml
+start
+group tongue disposal
+fork
+:purge googly;
+fork again
+:alleviate immutable; <<procedure>>
+fork again
+:pervert brace; <<output>>
+end fork
+stop
+end group
+@enduml

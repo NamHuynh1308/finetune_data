@@ -1,0 +1,10 @@
+@startuml
+participant "sedan collins" as 0
+participant "hemlock arrangements" as 1
+== pummel attracted ==
+autonumber 0 9
+1 -> 1: blades narrowly
+autonumber stop
+0 --> 1: adjusting hazel
+autonumber resume
+@enduml

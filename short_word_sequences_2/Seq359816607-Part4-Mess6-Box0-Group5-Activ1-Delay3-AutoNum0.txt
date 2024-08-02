@@ -1,0 +1,27 @@
+@startuml
+participant "ramp hugs" as 0
+participant "shoulder pole" as 1
+participant "objects leaking" as 2
+participant "tainted subscription" as 3
+== bearing lucked ==
+0 ->o 1: someway docks
+critical subtitled batter
+1 ->o 3: ingredients unbecoming
+critical achieving baklava
+...shitty passport...
+0 ->] : jeopardized pic
+par snug quark
+...blacksmith preconceived...
+1 -> 3++ : lacerated fondest
+critical basin buzz
+...cautious humility...
+3 <-] : highball censure
+par dogwood viral
+ [<- 3: teenybopper repetition
+end
+end
+end
+end
+end
+return handicap lighting
+@enduml

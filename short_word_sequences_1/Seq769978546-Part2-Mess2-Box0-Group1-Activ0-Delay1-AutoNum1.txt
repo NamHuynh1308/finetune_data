@@ -1,0 +1,11 @@
+@startuml
+participant "companies motivations" as 0
+participant "trucks recuperate" as 1
+autonumber 0 3
+alt scrutiny controlled
+ [<- 1: revolving extraterrestrial
+...rugby ser...
+1 -> 1: bestowed sweepstakes
+else diabetes fibre
+end
+@enduml

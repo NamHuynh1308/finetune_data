@@ -1,0 +1,8 @@
+@startuml
+participant "alumni padre" as 0
+participant "loaning coon" as 1
+== headboard jane ==
+0 ->x 1++ : spencer lettering
+0 ->> 0: credited unlocked
+return urgent freezes
+@enduml

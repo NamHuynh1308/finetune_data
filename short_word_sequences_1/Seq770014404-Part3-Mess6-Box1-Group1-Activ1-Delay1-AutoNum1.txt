@@ -1,0 +1,21 @@
+@startuml
+participant "inning uptown" as 0
+box "kosher betray"
+participant "proprietor hamster" as 1
+participant "postcard protesting" as 2
+end box
+autonumber 3 1
+alt population interesting
+1 -->x 2: statewide penguin
+2 ->> 2++ : carousel presided
+...redemption connoisseur...
+1 -> 2: elbows refused
+autonumber stop
+else digit winging
+2 <-> 2: undoubtedly masks
+return element charismatic
+autonumber resume
+2 -> 1: questioned ling
+2 ->o 0: average compilation
+end
+@enduml

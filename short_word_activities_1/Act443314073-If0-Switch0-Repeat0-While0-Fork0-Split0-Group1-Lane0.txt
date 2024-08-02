@@ -1,0 +1,9 @@
+@startuml
+start
+:concrete brats; <<continuous>>
+group kosher many
+:flown uproot;
+-> moving drones;
+stop
+end group
+@enduml

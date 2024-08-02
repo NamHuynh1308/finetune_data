@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:waking old;
+split again
+-[hidden]->
+split
+:impressions felony;
+split again
+:eavesdropping geese;
+split again
+:allowable southern;
+split again
+:overwhelmed tiniest; <<output>>
+-> forgiveness scan;
+end split
+split again
+-[hidden]->
+fork
+:twinge skewed;
+fork again
+:hows reminded; <<input>>
+fork again
+:lovesick antagonistic; <<continuous>>
+end fork
+split again
+-[hidden]->
+:recklessness revolves; <<continuous>>
+-> bipartisan resolved;
+end split
+:toothbrush charity; <<continuous>>
+:fifteen leaned;
+-> fees jingling;
+@enduml

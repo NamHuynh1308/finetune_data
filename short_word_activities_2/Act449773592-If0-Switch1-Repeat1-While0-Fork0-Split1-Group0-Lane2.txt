@@ -1,0 +1,33 @@
+@startuml
+|1| nailing homework
+|2| referencing silliest
+|1|
+start
+switch (cushions cuddled?)
+case (conviction rape?)
+:messy limelight; <<procedure>>
+case (forged campaigning?)
+repeat
+:babysitter coffeehouse; <<procedure>>
+:revived housebroken;
+repeat while (bush firebird?) is (conceding boogie)
+case (below codicil?)
+:absent staircase;
+case (flapped descent?)
+split
+:plateau haunt;
+split again
+:discotheque peril;
+split again
+:fallacy sleigh;
+split again
+:interviewing waving; <<output>>
+end split
+endswitch
+|2|
+:cornerstone entering; <<load>>
+-> freckle naw;
+:sunning meters; <<load>>
+-> flatter torment;
+stop
+@enduml

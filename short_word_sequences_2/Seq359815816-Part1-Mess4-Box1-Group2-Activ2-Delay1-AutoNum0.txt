@@ -1,0 +1,16 @@
+@startuml
+box "alternatives not"
+participant "nibbling greenhouse" as 0
+end box
+0 -> 0++ : toothache socially
+loop checkpoints martinis
+0 -> 0: thirty intrusion
+alt snowstorm privy
+0 --> 0++ : countryside reverence
+...chilly holster...
+0 ->x 0: below blushing
+end
+end
+return participating map
+return hail captain
+@enduml

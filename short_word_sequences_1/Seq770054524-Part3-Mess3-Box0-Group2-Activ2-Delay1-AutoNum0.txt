@@ -1,0 +1,17 @@
+@startuml
+participant "bloodshed heat" as 0
+participant "liven dentures" as 1
+participant "haps giver" as 2
+== reunite dinnertime ==
+opt writing unload
+2 -> 1++ : erica pizza
+alt tomatoes businesses
+...lewis adores...
+2 ->] : occupied unlocking
+return finagle inspections
+0 --> 0++ : floating guineas
+else wallop workup
+end
+end
+return spontaneously unclear
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+start
+switch (flakes pitches?)
+case (hardwired puffs?)
+split
+:academics zag;
+split again
+:domain humanitarian; <<output>>
+split again
+:bangles masses;
+end split
+case (rear inspecting?)
+:angioplasty celebrating; <<continuous>>
+endswitch
+:sleepwalk gunfire;
+:democratic denied; <<save>>
+end
+@enduml

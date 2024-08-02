@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:foliage conceding;
+split again
+-[hidden]->
+:hoarding answers; <<save>>
+-> camps copiously;
+split again
+-[hidden]->
+:sinker updating; <<continuous>>
+split again
+-[hidden]->
+if (defending center?) then (loose gobble)
+:officially cutlass; <<save>>
+:colonials painters;
+kill
+else (rainstorm huzzah)
+:cannibal phenomenally; <<save>>
+endif
+end split
+group thrives referencing
+:cowgirl defendants; <<save>>
+:strand anticipate; <<save>>
+-> frame moustache;
+stop
+end group
+@enduml

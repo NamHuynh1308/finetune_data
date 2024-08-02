@@ -1,0 +1,9 @@
+@startuml
+participant "gunpowder headstone" as 0
+box "merl descriptive"
+participant "conceiving dowser" as 1
+end box
+autonumber 2 7
+0 ->o 0: unsafe revive
+1 -> 0!! : highlighted sorcery
+@enduml

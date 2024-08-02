@@ -1,0 +1,19 @@
+@startuml
+box "soulful boon"
+participant "lifeline toms" as 0
+box "annoy adventurous"
+participant "mixers liked" as 1
+end box
+end box
+1 ->o 0: rudimentary bumping
+alt fungal stanza
+...memoirs quake...
+0 <-> 0++ : chickened armaments
+alt rag hallmark
+0 -\\ 1++ : adverse handyman
+0 -\\ 0: phantoms bellies
+return stutter mugs
+end
+end
+return barroom retrofit
+@enduml

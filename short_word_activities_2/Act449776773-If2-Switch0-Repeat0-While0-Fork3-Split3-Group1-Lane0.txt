@@ -1,0 +1,79 @@
+@startuml
+split
+-[hidden]->
+:activators prep;
+split again
+-[hidden]->
+fork
+:forth barring;
+fork again
+:fanatics exile; <<continuous>>
+fork again
+:keyboard distaste; <<continuous>>
+end fork
+split again
+-[hidden]->
+if (ruthless bacon?) then (peaches crystal)
+:blur describing; <<output>>
+-> allee buzzing;
+else (clack apes)
+:insists variables;
+:abandon alto; <<procedure>>
+:woken juggle;
+kill
+endif
+split again
+-[hidden]->
+:compares rating;
+end split
+fork
+:spokes dost;
+fork again
+:scraping chloride;
+fork again
+:rituals burrito; <<save>>
+-> snowballing indirectly;
+fork again
+:soapbox delicates; <<input>>
+-> skateboard manifold;
+end fork
+if (cerebrum am?) then (chuckles torso)
+(coddle yoghurt) elseif (persist hatchet?) then (nuns cry)
+:undone rhetorical; <<continuous>>
+(nozzle bachelorette) elseif (repeating parliament?) then (deranged been)
+:cope deserved; <<output>>
+(sculptor unpredictable) elseif (headline lambert?) then (hurricane flayed)
+:newsstands conceal;
+-> foolhardy competition;
+(swivel upload) elseif (marching unsubstantiated?) then (peel masseuse)
+split
+:interpreted wandering;
+split again
+:boarding amazes;
+-> dragging doghouse;
+split again
+:german anomaly; <<save>>
+split again
+:hairy snide; <<save>>
+end split
+endif
+group ribbons somerset
+split
+:prescribed whereof;
+split again
+:pivot jets; <<save>>
+split again
+fork
+:amphetamines hurrying;
+fork again
+:yanking john;
+fork again
+:wieners blunt; <<procedure>>
+end merge
+split again
+:actions iliad; <<save>>
+-> ales sweeter;
+end split
+stop
+end group
+@enduml

@@ -1,0 +1,87 @@
+@startuml
+split
+-[hidden]->
+:waits purchases;
+split again
+-[hidden]->
+:signs flyboy;
+split again
+-[hidden]->
+split
+:bluepoint cuffed;
+split again
+:haberdashery lyrical;
+split again
+:allure forbid; <<procedure>>
+split again
+:brooms rodent; <<procedure>>
+end split
+end split
+group paella owning
+if (highness emotionally?) then (reimbursed bandits)
+:latrine cockles; <<output>>
+-> prank dung;
+kill
+else (seasoned empire)
+:objectivity holes; <<output>>
+switch (graceful jailbreak?)
+case (drosophila summit?)
+:northwestern analysts;
+while (ale aspirin?) is (haggis plummet)
+backward:traction transition;
+endwhile (microphone date)
+-[hidden]->
+detach
+case (timing overcame?)
+:juggling resort;
+endswitch
+endif
+if (statuary mocha?) then (riviera entity)
+fork
+:unplugged bananas;
+fork again
+:chewy hustle;
+while (compromises semiautomatic?) is (throw couriers)
+:anesthetics slithering; <<input>>
+endwhile (dressed acupuncture)
+-[hidden]->
+detach
+fork again
+:roomie craziest;
+end merge
+kill
+else (shove flee)
+:smuggling cannibal; <<save>>
+if (twists cadavers?) then (typist scalp)
+:dampener mysticism;
+:super wipe; <<save>>
+-> defective interpreting;
+:jokers insanity;
+else (irritable lounge)
+:tramp hoist;
+:coiffure docs; <<load>>
+while (aphrodisiac lavished?) is (vertebrae ornery)
+backward:champ retiring;
+:chaff pizzas;
+backward:seizing seamless;
+:addled piggyback;
+endwhile (ritz podiatrist)
+-[hidden]->
+detach
+endif
+endif
+end group
+group paying dawdling
+switch (phony continent?)
+case (controversial insecure?)
+:legions sleepwalk; <<load>>
+case (nonviolent stirred?)
+:discerning ginseng; <<task>>
+-> conquest masculine;
+case (subterranean devastating?)
+:carriage insanity; <<save>>
+-> splinters fibber;
+endswitch
+stop
+end group
+@enduml

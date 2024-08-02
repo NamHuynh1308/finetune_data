@@ -1,0 +1,9 @@
+@startuml
+participant "blather minimal" as 0
+== checks sightings ==
+0 ->] : fuse embracing
+opt leaking payment
+0 -> 0++ : fervent reverts
+end
+return feminists critter
+@enduml

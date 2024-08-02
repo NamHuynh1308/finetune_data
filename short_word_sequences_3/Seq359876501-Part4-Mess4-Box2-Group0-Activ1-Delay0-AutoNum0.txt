@@ -1,0 +1,16 @@
+@startuml
+participant "highlights bylaws" as 0
+box "pixilated labelled"
+participant "fins paleontology" as 1
+participant "atrocious veiled" as 2
+end box
+box "mustard projection"
+participant "ferry granola" as 3
+end box
+== constructive ambitions ==
+1 <-> 0++ : bailey weld
+2 ->> 3: mowing wheels
+1 -> 3!! : butters pans
+return young swaddling
+1 -> 3: buggered cheek
+@enduml

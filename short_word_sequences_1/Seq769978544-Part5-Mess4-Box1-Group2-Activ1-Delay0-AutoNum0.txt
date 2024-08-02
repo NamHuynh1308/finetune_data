@@ -1,0 +1,18 @@
+@startuml
+participant "implement troop" as 0
+participant "boardinghouse depressed" as 1
+box "confrontations mole"
+participant "oversized parton" as 2
+participant "sparks serotonin" as 3
+end box
+0 ->o 3++ : halfway vital
+break warrant copperhead
+2 -> 1: funny males
+2 --//o 2: luce ranting
+end
+break racketeer maybe
+create participant "hows dispatch" as 4
+3 -> 4 : hows dispatch
+end
+return throats disrupts
+@enduml

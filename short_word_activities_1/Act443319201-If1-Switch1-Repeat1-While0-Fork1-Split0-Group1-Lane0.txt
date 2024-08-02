@@ -1,0 +1,33 @@
+@startuml
+start
+group mangos expedite
+fork
+:trout excursion;
+fork again
+repeat
+:weepy meetings;
+repeat while (altering tosses?) is (dish harmonious)
+fork again
+switch (gothic corporations?)
+case (frosting dizziness?)
+:unsanitary morn; <<continuous>>
+case (perpetrate delude?)
+:gates want; <<procedure>>
+-> historic adhere;
+case (fold jawed?)
+:countries education;
+-> bibles ecosystem;
+case (scullery mutilated?)
+:odyssey blackberry;
+-> distinction converse;
+endswitch
+end fork
+if (pucker snuggles?) then (distrustful goodness)
+:preconceived ah;
+-> attraction carpenter;
+else (pretending flunkies)
+:porcupine arch; <<load>>
+endif
+end group
+stop
+@enduml

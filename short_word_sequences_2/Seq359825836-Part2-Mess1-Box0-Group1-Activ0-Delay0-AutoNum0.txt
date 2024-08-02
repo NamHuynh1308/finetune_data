@@ -1,0 +1,7 @@
+@startuml
+participant "honored fess" as 0
+loop producing region
+create participant "canals graphics" as 1
+0 -> 1 : canals graphics
+end
+@enduml

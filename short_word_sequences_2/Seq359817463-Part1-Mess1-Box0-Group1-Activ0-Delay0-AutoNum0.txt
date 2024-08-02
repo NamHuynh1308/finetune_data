@@ -1,0 +1,7 @@
+@startuml
+participant "airwaves rumour" as 0
+== khaki tunnels ==
+par overhear skewed
+0 <-> 0: toxoplasmosis undo
+end
+@enduml

@@ -1,0 +1,55 @@
+@startuml
+|1| snakeskin speller
+|2| probes grim
+split
+-[hidden]->
+:odorless flake;
+split again
+-[hidden]->
+:waistband downtrodden; <<input>>
+-> curious martins;
+split again
+-[hidden]->
+fork
+:objection scientific;
+fork again
+:fan longs;
+fork again
+:skeeters shuck; <<output>>
+fork again
+:ramble sustenance; <<continuous>>
+end merge
+split again
+-[hidden]->
+if (clones traded?) then (guidelines presumptuous)
+(psych barium) elseif (maidens snitch?) then (rounds airhead)
+:miscreant bumped; <<output>>
+-> crawling griddle;
+(nuttier brunettes) elseif (loopholes charred?) then (concoction therapist)
+:transform pecs; <<input>>
+(avocado barrow) elseif (residence amended?) then (sole milt)
+:mssyqh;
+kill
+endif
+end split
+switch (moving rot?)
+case (scientist grog?)
+:stamper breakwater; <<continuous>>
+case (gangland reddish?)
+:inhaling overdone; <<input>>
+case (freaked mortifying?)
+:model trigger; <<output>>
+-> butt troublemaker;
+endswitch
+|2|
+:saleswoman mimic; <<output>>
+if (guessed generosity?) then (clearances insistence)
+:comment purse; <<input>>
+else (glide heats)
+:red lob; <<procedure>>
+repeat
+backward:crafted craftsmanship;
+repeat while (aurora warsaw?) is (squeezed pirated)
+endif
+stop
+@enduml

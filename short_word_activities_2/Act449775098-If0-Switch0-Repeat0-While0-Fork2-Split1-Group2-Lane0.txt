@@ -1,0 +1,32 @@
+@startuml
+start
+group drawing vig
+fork
+:imaginations cram;
+fork again
+split
+:jaded marijuana;
+split again
+:pinkie audible;
+split again
+:objections amputated; <<load>>
+-> sickened scones;
+split again
+:inconsiderate virginity;
+end split
+fork again
+fork
+:pothead sprawled;
+fork again
+:musing spoiled;
+fork again
+:clap darker; <<task>>
+end fork
+end fork
+:hugs enchanted; <<input>>
+end group
+group disillusionment clipper
+:mindset fanning;
+stop
+end group
+@enduml

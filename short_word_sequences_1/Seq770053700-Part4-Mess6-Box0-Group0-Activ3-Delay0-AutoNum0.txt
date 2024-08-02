@@ -1,0 +1,15 @@
+@startuml
+participant "fond crimp" as 0
+participant "fries switch" as 1
+participant "coded luckier" as 2
+participant "impolite chalked" as 3
+2 --> 1: worms disadvantage
+1 --//o 0++ : accounts pithy
+1 ->> 0: patrol intact
+return vanquished louden
+3 ->> 3: count waits
+3 -> 3++ : roots softy
+2 --> 2++ : leeway advantage
+return panel reconsider
+return melts supplied
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "mites applauded" as 0
+participant "owing glaring" as 1
+participant "effective deleted" as 2
+participant "jay shoves" as 3
+participant "coeds biking" as 4
+4 ->x 3: page hemline
+2 -> 2: dreading fail
+0 -> 0!! : buzzer siding
+opt destroyers tricked
+...listened toots...
+3 -> 2!! : trombone overqualified
+4 -> 3: highness newlywed
+...mote harm...
+4 -// 2: volunteer delayed
+else alchemy souvenirs
+4 -->x 1: equity artifacts
+end
+@enduml

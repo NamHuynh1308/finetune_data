@@ -1,0 +1,13 @@
+@startuml
+box "squawk stockings"
+participant "stupidly clement" as 0
+end box
+== swimmers gates ==
+autonumber 10 8
+create participant "close dismal" as 1
+0 -> 1 : close dismal
+autonumber stop
+...colonization indications...
+0 -> 1++ : marines occurrences
+return unseal bridegroom
+@enduml

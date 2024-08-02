@@ -1,0 +1,10 @@
+@startuml
+participant "loafers ogle" as 0
+box "argon boozer"
+participant "blessings cocked" as 1
+end box
+0 -> 1++ : werewolves sacks
+0 -// 1: region results
+return sovereignty baldness
+0 --//o 0: immerse restricted
+@enduml

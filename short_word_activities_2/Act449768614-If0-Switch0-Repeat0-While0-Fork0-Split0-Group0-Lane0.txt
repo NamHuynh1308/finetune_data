@@ -1,0 +1,6 @@
+@startuml
+start
+:prevention mountains;
+-> backer growers;
+stop
+@enduml

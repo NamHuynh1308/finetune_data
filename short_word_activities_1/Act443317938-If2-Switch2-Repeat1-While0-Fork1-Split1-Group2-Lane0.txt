@@ -1,0 +1,66 @@
+@startuml
+group dwellers quart
+switch (imaginative began?)
+case (wayside absurdly?)
+:teleport shirking; <<input>>
+-> cloistered apologize;
+case (whit busboy?)
+:defend device; <<output>>
+-> bodyguards insides;
+case (philosophical pop?)
+:fractured stylist; <<save>>
+case (viruses sanders?)
+if (tournament manners?) then (copiously radiation)
+:absences disrespect;
+:prince hunky;
+:retrofit camcorder;
+else (withdrawals encyclopedias)
+:salvaging moaning;
+endif
+endswitch
+group disagreeing unfolding
+switch (gunmen compressions?)
+case (bookmark interrogated?)
+:beaming mourned; <<procedure>>
+case (hand magical?)
+split
+:late lawns;
+split again
+:reinstatement nick;
+-> paralegal jesse;
+split again
+:pronunciation waits;
+split again
+:getting eldest;
+end split
+endswitch
+if (healers riverside?) then (oaks jeweler)
+:balances prosecuted; <<procedure>>
+:freshest postcards; <<continuous>>
+repeat
+:skeleton rebuttal;
+:fishermen fix; <<save>>
+-> upstage commitments;
+repeat while (tung monarchs?) is (avatar chimp)
+kill
+else (morning revolve)
+fork
+:prose revolutions;
+fork again
+:tricking prettiest;
+fork again
+:birdseed rekindled;
+fork again
+:feared registry; <<load>>
+-> note madeleine;
+end fork
+:extraction specially; <<procedure>>
+-> bunker jukebox;
+:patently dope;
+-> scoop dragged;
+kill
+endif
+end group
+stop
+end group
+@enduml

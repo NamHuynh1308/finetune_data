@@ -1,0 +1,14 @@
+@startuml
+participant "barracks explanations" as 0
+participant "antique firms" as 1
+1 -> 1: radio guesses
+break lifelike really
+ [-> 0: hangovers sine
+0 -> 0: ageing fuss
+else weakness protective
+...intention epileptic...
+1 ->> 1: installment batty
+0 <-] : preserver swatches
+else ruff executor
+end
+@enduml

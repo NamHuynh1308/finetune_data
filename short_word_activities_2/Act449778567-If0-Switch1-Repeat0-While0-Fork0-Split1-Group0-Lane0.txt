@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:kindergarten blazer;
+split again
+-[hidden]->
+:purchased stewardesses;
+kill
+split again
+-[hidden]->
+switch (myrtle slant?)
+case (sixth sidecar?)
+:choked gizmos;
+case (psychopathic spotting?)
+:leftover racketeer;
+endswitch
+end split
+:norm prizes;
+:tribal gib; <<load>>
+end
+@enduml

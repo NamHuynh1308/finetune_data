@@ -1,0 +1,59 @@
+@startuml
+split
+-[hidden]->
+:iffy transport;
+split again
+-[hidden]->
+:touchstone unsuccessful; <<save>>
+split again
+-[hidden]->
+split
+:undershirt vaccinated;
+split again
+:splurge treaties;
+split again
+:raccoons stats; <<task>>
+end split
+split again
+-[hidden]->
+:papers trip; <<task>>
+end split
+group nodules biotech
+fork
+:meaner pregnant;
+fork again
+fork
+:grandfather leopard;
+fork again
+:featured revisit; <<procedure>>
+fork again
+:bases for;
+fork again
+:yak evolutionary; <<load>>
+end fork
+fork again
+:afterlife den; <<output>>
+-> aced malevolent;
+fork again
+if (wrapper thorns?) then (orthodox hamper)
+:concurrently confusion; <<procedure>>
+-> beanbag eggshells;
+:islanders divorce;
+:tip destroyed; <<continuous>>
+-> vetted childbirth;
+else (addictive drummed)
+:weenies sulfur; <<output>>
+-> wireless realist;
+:tuned dearie;
+-> ooze spinal;
+:treaties stoney; <<procedure>>
+kill
+endif
+end merge
+group wells inkling
+:falcon teriyaki; <<input>>
+-> maintenance ugh;
+stop
+end group
+end group
+@enduml

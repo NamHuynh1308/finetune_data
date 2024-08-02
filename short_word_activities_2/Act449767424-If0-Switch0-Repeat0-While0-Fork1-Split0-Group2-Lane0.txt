@@ -1,0 +1,17 @@
+@startuml
+group simulations bodyguards
+:rudder kidding; <<save>>
+group legal egocentric
+:scent maliciously; <<load>>
+-> withdrawing minors;
+fork
+:muscle moody;
+fork again
+:adolescents dribbles; <<input>>
+fork again
+:episode sick; <<output>>
+end merge
+stop
+end group
+end group
+@enduml

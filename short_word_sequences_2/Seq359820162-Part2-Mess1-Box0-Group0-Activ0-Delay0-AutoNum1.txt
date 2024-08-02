@@ -1,0 +1,6 @@
+@startuml
+participant "trimmed doze" as 0
+autonumber 0 8
+create participant "missile outdone" as 1
+0 -> 1 : missile outdone
+@enduml

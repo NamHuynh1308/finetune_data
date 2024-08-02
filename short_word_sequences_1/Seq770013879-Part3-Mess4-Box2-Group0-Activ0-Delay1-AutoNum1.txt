@@ -1,0 +1,16 @@
+@startuml
+box "mayflower anemia"
+participant "ethyl blubber" as 0
+box "thins ascension"
+participant "niche daffy" as 1
+end box
+end box
+autonumber 3 1
+create participant "gals sniping" as 2
+1 -> 2 : gals sniping
+0 -> 1!! : workman monsignor
+...fisted revised...
+ [-> 1: crisp scrapings
+autonumber stop
+1 ->] : floats freckle
+@enduml

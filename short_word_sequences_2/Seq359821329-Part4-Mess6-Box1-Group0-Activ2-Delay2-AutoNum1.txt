@@ -1,0 +1,20 @@
+@startuml
+box "rider autonomy"
+participant "parameters schooled" as 0
+participant "proxy goody" as 1
+end box
+participant "barks weaver" as 2
+participant "regulations barbarian" as 3
+autonumber 0 7
+2 ->> 3++ : paperback bassoon
+2 -> 1!! : puking fused
+0 -\\ 0: quintet superintendent
+...warden refrigerated...
+2 ->o 3: basketballs theatrics
+return shtick installments
+...afterglow unreasonable...
+0 <-] : overqualified defacing
+1 ->> 1++ : casinos zap
+autonumber stop
+return dock telepathy
+@enduml

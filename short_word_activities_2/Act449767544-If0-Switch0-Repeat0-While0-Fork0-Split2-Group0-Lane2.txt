@@ -1,0 +1,26 @@
+@startuml
+|1| yuan expectancy
+|2| imposter crawls
+split
+-[hidden]->
+:revived sue;
+split again
+-[hidden]->
+split
+:delirium wild;
+split again
+:created schoolboy;
+split again
+:propane unsatisfactory; <<save>>
+-> canoes anatomically;
+end split
+split again
+-[hidden]->
+:explored wider; <<procedure>>
+end split
+|2|
+:awkwardly peerless; <<procedure>>
+|1|
+:confine lettuce; <<output>>
+:bleachers mysteriously; <<save>>
+@enduml

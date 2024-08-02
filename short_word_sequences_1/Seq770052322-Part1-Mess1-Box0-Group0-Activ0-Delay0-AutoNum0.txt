@@ -1,0 +1,5 @@
+@startuml
+participant "thyme gran" as 0
+== brooch ceremonial ==
+0 -> 0: swing yielding
+@enduml

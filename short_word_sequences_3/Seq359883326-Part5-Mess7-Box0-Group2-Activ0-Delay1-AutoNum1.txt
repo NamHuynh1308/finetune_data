@@ -1,0 +1,25 @@
+@startuml
+participant "malt defected" as 0
+participant "sicced wavelength" as 1
+participant "technique soldier" as 2
+participant "moonlighting anyhow" as 3
+participant "pitchers associated" as 4
+== gofer sous ==
+autonumber 6 1
+ [<- 1: ships cutoffs
+autonumber stop
+1 -> 1: subscriptions tilt
+critical reasoned throws
+2 ->> 1: handkerchief blows
+autonumber resume
+ [-> 0: somebody blabbing
+alt sniffing separation
+0 ->x 0: dewy soothe
+...leukemia windshield...
+0 -> 3!! : dry johns
+autonumber stop
+1 -\\ 1: cower displaced
+autonumber resume
+end
+end
+@enduml

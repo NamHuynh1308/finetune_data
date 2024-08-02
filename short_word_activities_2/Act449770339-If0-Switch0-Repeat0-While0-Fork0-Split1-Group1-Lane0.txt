@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:calls respirations;
+split again
+-[hidden]->
+:pixels refer; <<task>>
+split again
+-[hidden]->
+:oho grilled; <<task>>
+end split
+group doubt impromptu
+:putty muscled; <<continuous>>
+-> polished eyelashes;
+:skull holster; <<input>>
+end group
+:crypto lit;
+-> reference forensics;
+stop
+@enduml

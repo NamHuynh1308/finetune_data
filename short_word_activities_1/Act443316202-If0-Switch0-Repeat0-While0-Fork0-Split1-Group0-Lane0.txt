@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:excepted yawning;
+split again
+-[hidden]->
+:pulp stunts;
+split again
+-[hidden]->
+:instructions ah; <<load>>
+end split
+:confidante amenities; <<save>>
+end
+@enduml

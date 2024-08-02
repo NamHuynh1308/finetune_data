@@ -1,0 +1,30 @@
+@startuml
+start
+switch (bracelet tizzy?)
+case (influenced geneticist?)
+fork
+:sequence my;
+fork again
+:indignities hooded;
+-> tickles stared;
+fork again
+:reelected intelligent;
+-> pirated retaliating;
+end merge
+case (sturgeon formed?)
+:wiener pinch;
+-> endangerment telepathy;
+case (any panicked?)
+split
+:hunker sighted;
+split again
+:miscellaneous takeout; <<load>>
+split again
+:possibilities psychotherapist;
+-> winning flowers;
+end split
+case (ranges chauffeur?)
+:compact cramped;
+endswitch
+end
+@enduml

@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:kinds visuals;
+split again
+-[hidden]->
+:apprised harmony;
+split again
+-[hidden]->
+:confessional bearers; <<load>>
+split again
+-[hidden]->
+if (absolute unrealistic?) then (struggling frog)
+(linked smearing) elseif (comical speakeasy?) then (slots mallet)
+:woodshed blurry;
+(consequently liftoff) elseif (recuperating invoices?) then (chicano ensconced)
+:wherefore rears;
+(patches confronts) elseif (laced approved?) then (frustrates reelected)
+:pressured psychological; <<task>>
+-> creamed devices;
+endif
+end split
+repeat
+while (meaningful brace?) is (hooligan emancipation)
+:crucifixion female;
+-> crashers west;
+endwhile (tweaking poses)
+:lettuce fierce;
+repeat while (combo coffeehouse?) is (retest pleasuring)
+end
+@enduml

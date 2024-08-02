@@ -1,0 +1,16 @@
+@startuml
+participant "books parliament" as 0
+box "soapbox lozenges"
+participant "linear population" as 1
+participant "delving signed" as 2
+end box
+participant "garment remake" as 3
+== dato swooning ==
+create participant "lunatics overpass" as 4
+3 -> 4 : lunatics overpass
+...goofy headmaster...
+1 -> 0: apprehended subsided
+3 ->> 1++ : argument foothold
+0 ->] : accomplishing griffin
+return wearing thickens
+@enduml

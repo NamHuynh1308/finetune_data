@@ -1,0 +1,76 @@
+@startuml
+split
+-[hidden]->
+:crowding blacked;
+split again
+-[hidden]->
+split
+:bozo frugal;
+split again
+:deputies ironed;
+split again
+:paralysis failing;
+end split
+split again
+-[hidden]->
+:unfold moreover; <<input>>
+split again
+-[hidden]->
+:mutant zap; <<load>>
+end split
+group barium dotted
+switch (autographed cheekbones?)
+case (flack sprayed?)
+switch (streetlights verse?)
+case (drags customers?)
+:workshop murderers; <<procedure>>
+-> hid crowded;
+case (badgered revelations?)
+:involved federation;
+while (sightings regina?) is (zillions joiner)
+:belief butlers;
+:dolce massacred;
+backward:parachute locksmith;
+:scopes stolen;
+endwhile (arming globes)
+-[hidden]->
+detach
+case (zander sneaker?)
+:firs tiniest; <<save>>
+case (childlike influx?)
+:server pledges;
+endswitch
+case (strippers squirts?)
+repeat
+backward:initiatives safely;
+:fitted java;
+:jockey sunstroke; <<save>>
+-> twas thanking;
+repeat while (authorized synaptic?) is (shell habit)
+-> aquatic lubricants;
+case (hernia assumptions?)
+switch (deeper backbone?)
+case (contortionist textile?)
+:chefs senora;
+case (probably druthers?)
+:reject occurrence;
+case (outspoken pickups?)
+:apache skins; <<input>>
+endswitch
+case (ree helper?)
+if (sacrificing imported?) then (extracurricular brittle)
+(artillery alumnus) elseif (palpitations butch?) then (giraffe cheekbones)
+:concussion youngster;
+(excessive escapee) elseif (illegals grumbling?) then (night caboose)
+:settle grandparent;
+(neutralize bounced) elseif (schnapps living?) then (slammer gout)
+:oils doornail; <<procedure>>
+(lost paper) elseif (vamoose stabbing?) then (many veering)
+:annulment taste;
+endif
+endswitch
+:software modicum;
+-> certainly bawl;
+stop
+end group
+@enduml

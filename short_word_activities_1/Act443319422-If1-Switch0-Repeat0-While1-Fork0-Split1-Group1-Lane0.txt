@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:fights midgets;
+split again
+-[hidden]->
+:lapel reprobate;
+split again
+-[hidden]->
+:pastels lilacs; <<output>>
+split again
+-[hidden]->
+:greenhouse gains; <<input>>
+-> spots unappealing;
+end split
+group raptor dampened
+while (lite explanatory?) is (breakups twitchy)
+if (thrusts ammo?) then (defender nominee)
+:tarp bathed;
+:holler kneecaps; <<continuous>>
+else (condiment snicker)
+:opened suburbs; <<continuous>>
+:peon technical;
+:idiotic adverse;
+endif
+backward:coax learning;
+endwhile (brilliance supplements)
+:brewer oops;
+stop
+end group
+@enduml

@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:exception unseen;
+split again
+-[hidden]->
+while (splint election?) is (torturing tying)
+:newsletter chirping;
+:grew informer;
+backward:chopper fajita;
+endwhile (assault playthings)
+:medium dual;
+split again
+-[hidden]->
+:instructor chassis; <<save>>
+split again
+-[hidden]->
+:ser modelling; <<load>>
+-> nicer prouder;
+end split
+fork
+:securing rumours;
+fork again
+:map extend; <<output>>
+-> alarm concerned;
+fork again
+:copycat syringe; <<output>>
+-> deadliest eventually;
+end fork
+group stealthy fugitive
+:difficulties geologists;
+group needed sultry
+:guilder adopt; <<input>>
+-> glitter maxi;
+stop
+end group
+end group
+@enduml

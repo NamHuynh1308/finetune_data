@@ -1,0 +1,12 @@
+@startuml
+participant "eyelids tells" as 0
+box "soldier shorten"
+participant "donkeys weeping" as 1
+end box
+== interview charted ==
+1 -->x 0++ : metals lum
+alt sprints aids
+1 ->> 1: your aptitude
+end
+return cramming unto
+@enduml

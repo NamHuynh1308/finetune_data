@@ -1,0 +1,21 @@
+@startuml
+box "anemic finders"
+participant "roller fences" as 0
+box "antelope mushroom"
+participant "ammo concierge" as 1
+end box
+end box
+autonumber 8 8
+alt stereotypes pursuits
+0 -> 1++ : babe pothead
+0 ->] : hysterical renowned
+autonumber stop
+ [-> 1: vengeful titanium
+autonumber resume
+else captains intent
+1 -> 1: dinged flirted
+1 -> 0: addressed coyote
+else heartthrob tabs
+end
+return monastery conniving
+@enduml

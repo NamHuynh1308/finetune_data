@@ -1,0 +1,10 @@
+@startuml
+participant "downsizing hazelnut" as 0
+box "indulgence subjected"
+participant "airlift catalog" as 1
+end box
+== spinach wham ==
+0 -> 1: graveyard pail
+0 -> 1: earlobes prehistoric
+0 ->] : bookkeeper kick
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+participant "calories campers" as 0
+box "spineless quest"
+participant "underlined measuring" as 1
+participant "gangway kidnapped" as 2
+participant "fact selfishness" as 3
+end box
+2 -->x 3++ : calculated countermeasures
+alt disguise darndest
+1 ->> 0: expulsion big
+return troublemakers compression
+...indefensible descendants...
+2 --//o 1: underpaid gangsters
+critical moves tread
+ [<- 3: half ghosts
+loop making poodles
+1 ->> 1: flipped unquenchable
+end
+end
+end
+@enduml

@@ -1,0 +1,38 @@
+@startuml
+|1| woven cribbage
+|2| fruity rodents
+|1|
+start
+if (sea clang?) then (thorpe saddle)
+:bios praising;
+-> diphtheria scruples;
+else (mailboxes outlines)
+repeat
+backward:lose funeral;
+backward:clearances palmer;
+repeat while (unwarranted git?) is (preached sensed)
+:commercialism ticked; <<continuous>>
+endif
+|2|
+:confusing rosebuds; <<save>>
+|1|
+:sycamore hmm;
+-> veiled cookbook;
+fork
+:android helipad;
+fork again
+while (pantyhose clumsily?) is (tailspin piecing)
+backward:customarily mock;
+endwhile (experimental cockpit)
+:station upping;
+fork again
+fork
+:cluttering bunting;
+fork again
+:subbing worrier;
+fork again
+:politics poofy;
+end merge
+end fork
+stop
+@enduml

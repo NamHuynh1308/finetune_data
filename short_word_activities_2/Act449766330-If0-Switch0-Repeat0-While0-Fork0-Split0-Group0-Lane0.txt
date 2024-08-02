@@ -1,0 +1,6 @@
+@startuml
+start
+:butlers gallery; <<input>>
+:beginner hailed; <<procedure>>
+end
+@enduml

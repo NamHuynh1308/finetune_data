@@ -1,0 +1,19 @@
+@startuml
+participant "cartilage bleed" as 0
+box "spy lapsed"
+participant "fabled almighty" as 1
+participant "scamming pinafore" as 2
+end box
+box "doorbell loveliest"
+participant "bribed tomfoolery" as 3
+end box
+== scag cone ==
+2 --//o 1++ : revolting mirrors
+2 -->x 0: remember outage
+return thundering annihilated
+2 -// 0: preserver modicum
+...vulture german...
+3 ->o 0: decorations gatherings
+create participant "acrobat moocher" as 4
+2 -> 4 : acrobat moocher
+@enduml

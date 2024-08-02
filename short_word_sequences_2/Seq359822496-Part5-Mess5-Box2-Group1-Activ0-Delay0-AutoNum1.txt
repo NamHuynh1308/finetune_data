@@ -1,0 +1,21 @@
+@startuml
+participant "federal outset" as 0
+box "rooming gemma"
+participant "edge dismissive" as 1
+box "rescue expiration"
+participant "interpretive midge" as 2
+end box
+end box
+autonumber 0 3
+0 ->> 2: extracurricular wildlife
+create participant "artifact ejection" as 3
+2 -> 3 : artifact ejection
+loop recklessly spacey
+3 -> 2: resorts sun
+autonumber stop
+create participant "coloured divided" as 4
+1 -> 4 : coloured divided
+autonumber resume
+3 -\\ 1: urinate heating
+end
+@enduml

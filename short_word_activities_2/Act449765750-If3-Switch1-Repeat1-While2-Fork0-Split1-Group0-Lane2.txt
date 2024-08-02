@@ -1,0 +1,73 @@
+@startuml
+|1| umbilical riverside
+|2| stockings campers
+|1|
+start
+if (fife motivations?) then (wallowing shit)
+split
+:postal cruddy;
+split again
+:renowned scarecrow; <<task>>
+split again
+:submitted pretty;
+end split
+:cardiovascular locking; <<load>>
+while (neurosurgery chainsaws?) is (arming servicing)
+backward:generously loner;
+backward:colds spiders;
+:tiptoe drying;
+endwhile (wiped shoplifter)
+:citing hysterectomy;
+else (android disgruntled)
+if (disapproving grooming?) then (stoop klutz)
+:components trap; <<output>>
+:blips outlines;
+:networks canopy; <<load>>
+else (matzoh partisan)
+:frolic met; <<load>>
+-> which firefighters;
+:inventory additional;
+endif
+while (bragging patronize?) is (locate coma)
+:ribbons escapes;
+endwhile (vendors firing)
+-[hidden]->
+detach
+endif
+repeat
+:aright upstairs;
+if (glove fetuses) then (resemble warm)
+:mint rephrase;
+break
+endif
+->warfare puritan;
+:synchronized scalping;
+repeat while (unforgivable intestines?) is (fearing blame)
+:supremely patience;
+:city pedestrian;
+-> attached riddler;
+switch (crouched bookish?)
+case (calling shadowy?)
+:preferences babe; <<continuous>>
+case (awhile maneuver?)
+:traditionally burnt; <<continuous>>
+-> chuck chirping;
+case (willow scrapes?)
+:eats served; <<task>>
+-> eases beards;
+case (dork embellished?)
+if (diagnosed custodian?) then (phosphorous hoosegow)
+:patriots snicker; <<input>>
+-> locket classroom;
+:coronary advertisers;
+:fisher mandate; <<load>>
+else (bulk topple)
+:boast elevate;
+:red tyranny;
+:severe pulling; <<continuous>>
+-> undermine chivalrous;
+kill
+endif
+endswitch
+end
+@enduml

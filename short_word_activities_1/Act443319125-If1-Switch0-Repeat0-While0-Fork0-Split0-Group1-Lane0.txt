@@ -1,0 +1,14 @@
+@startuml
+group row offerings
+if (sizable enhancements?) then (blazes offs)
+:fleece nixed; <<procedure>>
+-> encouragement paced;
+:patchouli shrivel;
+-> gallows babysitter;
+else (star uproar)
+:backed canary;
+-> haunting murdering;
+endif
+stop
+end group
+@enduml

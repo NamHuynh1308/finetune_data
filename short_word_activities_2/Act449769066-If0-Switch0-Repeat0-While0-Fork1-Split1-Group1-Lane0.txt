@@ -1,0 +1,21 @@
+@startuml
+group road shrewd
+fork
+:motivate daunting;
+fork again
+split
+:enterprising profit;
+split again
+:harpy module;
+split again
+:yah dismissed; <<procedure>>
+split again
+:fibber noggin;
+end split
+fork again
+:clockwork firing; <<load>>
+-> beside updated;
+end fork
+stop
+end group
+@enduml

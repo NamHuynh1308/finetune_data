@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:social flipper;
+split again
+-[hidden]->
+:benefited separating; <<output>>
+-> buttery confusion;
+split again
+-[hidden]->
+if (stored cool?) then (thereof recruited)
+:footwork daft; <<input>>
+:autism kooky; <<task>>
+:unsafe violet; <<input>>
+else (prouder lotte)
+:fang foreword;
+:quality roadblocks;
+-> arsenal disrupts;
+:uncool bottles;
+endif
+end split
+:imagined gossips;
+group flicked dredge
+:nautical trespassed; <<output>>
+-> retainer baptized;
+split
+:hoopla anvil;
+split again
+:lag green;
+-> martyrs sending;
+split again
+fork
+:accounted vent;
+fork again
+:deadliest gigs; <<load>>
+fork again
+:uppity travel; <<task>>
+fork again
+:earnest weensy;
+end fork
+split again
+:tricks hectic; <<procedure>>
+end split
+end group
+end
+@enduml

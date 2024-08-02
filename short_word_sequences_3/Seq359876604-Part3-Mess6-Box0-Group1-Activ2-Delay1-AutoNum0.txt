@@ -1,0 +1,16 @@
+@startuml
+participant "cannibals describe" as 0
+participant "antagonistic surfing" as 1
+loop stressful cannons
+create participant "queue dragging" as 2
+0 -> 2 : queue dragging
+...virtuoso topics...
+0 --//o 0: require titans
+0 --//o 1: terrorizing hellhound
+ [-> 1: exaggeration exceeded
+2 -> 2++ : helm managerial
+2 -> 1++ : mugging lasagna
+end
+return quality buttering
+return sincerity blowjobs
+@enduml

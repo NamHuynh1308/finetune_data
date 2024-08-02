@@ -1,0 +1,14 @@
+@startuml
+box "ventilated curb"
+participant "digress extra" as 0
+end box
+autonumber 10 8
+0 -> 0++ : cheeks jumbled
+autonumber stop
+create participant "swallows anemic" as 1
+0 -> 1 : swallows anemic
+return inherit merger
+opt excusing acute
+0 -> 1!! : doctor coaches
+end
+@enduml

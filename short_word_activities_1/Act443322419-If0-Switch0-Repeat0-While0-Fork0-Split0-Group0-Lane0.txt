@@ -1,0 +1,6 @@
+@startuml
+start
+:rancid bibliography; <<load>>
+-> cassette maiden;
+end
+@enduml

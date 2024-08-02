@@ -1,0 +1,22 @@
+@startuml
+:sues vera; <<output>>
+-> branches arcade;
+if (irritable vine?) then (littering premature)
+:slashing arms;
+if (jockeys leapt?) then (stepped coordinator)
+:wires embarrasses;
+else (autopsy strolls)
+:aloha compensate;
+:ventilator forthwith;
+kill
+endif
+else (pass timbers)
+:retire crowning; <<task>>
+-> scorching rejections;
+:screwdriver untoward; <<save>>
+:patched isolated; <<load>>
+endif
+:exhaustive clemency; <<task>>
+-> lumberjack pudding;
+stop
+@enduml

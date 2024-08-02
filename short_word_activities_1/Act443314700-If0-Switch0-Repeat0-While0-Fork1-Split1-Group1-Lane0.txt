@@ -1,0 +1,25 @@
+@startuml
+group properties priss
+split
+:overhead integral;
+split again
+:heaping brilliance;
+-> tubes stubs;
+split again
+:swirl groaning;
+kill
+split again
+fork
+:flotation predictable;
+fork again
+:groundhog unveiling; <<continuous>>
+fork again
+:signaled tarmac;
+fork again
+:wager flare;
+end merge
+end split
+:levelheaded drastically; <<input>>
+end group
+end
+@enduml

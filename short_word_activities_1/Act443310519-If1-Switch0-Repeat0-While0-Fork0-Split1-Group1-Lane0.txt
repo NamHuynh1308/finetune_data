@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:jeopardy dictator;
+split again
+-[hidden]->
+:damsel fluffed;
+split again
+-[hidden]->
+if (soaring readout?) then (firsthand daddies)
+(thinly stateside) elseif (misjudged jacks?) then (movers strolls)
+:suppress accepts;
+(scoundrel choppy) elseif (planet blabbing?) then (unsuspecting emperors)
+:bouncer accelerating; <<input>>
+(hooked butter) elseif (ski worried?) then (avoidance herald)
+:shameful disclosed; <<input>>
+-> skimming complimentary;
+endif
+split again
+-[hidden]->
+:participants rather; <<save>>
+end split
+group underpaid drowned
+:carpet drafty; <<input>>
+:demonstrated wonder;
+end group
+:bouts butter;
+-> detour demonstrates;
+stop
+@enduml

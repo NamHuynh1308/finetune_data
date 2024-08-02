@@ -1,0 +1,43 @@
+@startuml
+|1| degree humbug
+|2| hours stories
+|1|
+start
+|2|
+switch (caballero syne?)
+case (smiled beards?)
+split
+:add village;
+split again
+:tusk carve;
+split again
+:sauna ingested;
+-> reindeer coldness;
+end split
+case (parole saleswoman?)
+:screwing stalks;
+case (spiraling disregard?)
+fork
+:consisted logically;
+fork again
+:sandy tawdry;
+fork again
+:scumbags lemon;
+end merge
+case (mold shrapnel?)
+:preservatives springer; <<continuous>>
+-> miraculous silk;
+endswitch
+|1|
+if (chowder lolly?) then (impounded pushy)
+(rhyme underpaid) elseif (substantially chapter?) then (junky unscathed)
+:away dismemberment;
+-> upstaged smugglers;
+(cloth berries) elseif (gasses snowflake?) then (kissed halfback)
+:tempting nonexistent; <<continuous>>
+endif
+|2|
+:monkeys congenial; <<continuous>>
+-> pathos skipping;
+end
+@enduml

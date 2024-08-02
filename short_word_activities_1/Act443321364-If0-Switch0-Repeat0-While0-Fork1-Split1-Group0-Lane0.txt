@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:ninja shuttle;
+split again
+-[hidden]->
+fork
+:volcano mails;
+fork again
+:gained whence;
+fork again
+:epoxy implemented; <<continuous>>
+end fork
+split again
+-[hidden]->
+:rescue experimentation; <<continuous>>
+end split
+:hi incarnation; <<output>>
+-> certain mignon;
+stop
+@enduml

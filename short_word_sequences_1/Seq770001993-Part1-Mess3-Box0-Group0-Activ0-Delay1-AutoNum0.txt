@@ -1,0 +1,8 @@
+@startuml
+participant "chico biochemist" as 0
+== adage eighth ==
+0 <-] : demolition raft
+0 -> 0!! : healers topaz
+...leave practice...
+0 -> 0: waves dresser
+@enduml

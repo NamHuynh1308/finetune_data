@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:nervously noses;
+split again
+-[hidden]->
+:positive imam;
+split again
+-[hidden]->
+:absences terrors;
+split again
+-[hidden]->
+:granny trance; <<continuous>>
+end split
+group sweetness chipper
+:manticore gibbons; <<continuous>>
+:fusion nipple; <<input>>
+end group
+@enduml

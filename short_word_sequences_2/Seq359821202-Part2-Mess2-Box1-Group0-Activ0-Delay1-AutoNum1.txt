@@ -1,0 +1,11 @@
+@startuml
+box "experiences lovelier"
+participant "seasoned prefix" as 0
+participant "alan varsity" as 1
+end box
+== turf hijacking ==
+autonumber 1 10
+ [-> 0: express ralph
+...ordinary innocence...
+0 -> 1: mated saint
+@enduml

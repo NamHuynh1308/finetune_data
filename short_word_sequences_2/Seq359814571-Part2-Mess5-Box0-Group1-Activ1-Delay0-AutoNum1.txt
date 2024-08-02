@@ -1,0 +1,17 @@
+@startuml
+participant "pack souls" as 0
+participant "spectacles gavel" as 1
+autonumber 4 8
+alt groupies breezing
+0 ->] : assumption visitation
+autonumber stop
+1 -> 0: confirming pills
+0 -> 1++ : defiant disdain
+1 -> 1: remembrance jiffy
+autonumber resume
+else yin circular
+ [<- 0: activity inspiration
+autonumber stop
+end
+return fetuses arbor
+@enduml

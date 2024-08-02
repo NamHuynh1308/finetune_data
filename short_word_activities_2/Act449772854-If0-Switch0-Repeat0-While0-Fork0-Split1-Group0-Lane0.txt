@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:vessels rectum;
+split again
+-[hidden]->
+:hook peak;
+kill
+split again
+-[hidden]->
+:poodles remarks; <<load>>
+end split
+:maverick accessory;
+-> recuperating tampon;
+@enduml

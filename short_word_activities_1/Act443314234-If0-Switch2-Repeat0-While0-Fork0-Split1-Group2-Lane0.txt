@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:vertigo diabetic;
+split again
+-[hidden]->
+:heating courtside; <<task>>
+split again
+-[hidden]->
+:corollary bathroom; <<continuous>>
+split again
+-[hidden]->
+:courthouse deets; <<output>>
+end split
+group asks preceding
+switch (squeaking anxious?)
+case (charlatan receptionist?)
+switch (midterms banshee?)
+case (princely spiteful?)
+:defenses brumby;
+case (railroad rectory?)
+:supreme washcloth;
+-> number self;
+case (wind quart?)
+:barbecue manhunt;
+endswitch
+case (inherited huddled?)
+:rolled part; <<task>>
+endswitch
+group banshee inconspicuous
+:attitude pacemaker; <<input>>
+-> poppers culpability;
+stop
+end group
+end group
+@enduml

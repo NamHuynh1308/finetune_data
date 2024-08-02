@@ -1,0 +1,15 @@
+@startuml
+participant "performer persistence" as 0
+participant "sin fragile" as 1
+participant "deadlier adultery" as 2
+participant "craziest stab" as 3
+autonumber 9 9
+opt heartfelt nitwit
+ [<- 2: fueled dial
+ [-> 1: magnetism tango
+0 <-] : printed kasha
+ [-> 2: brassieres reflexes
+autonumber stop
+else worshippers nourish
+end
+@enduml

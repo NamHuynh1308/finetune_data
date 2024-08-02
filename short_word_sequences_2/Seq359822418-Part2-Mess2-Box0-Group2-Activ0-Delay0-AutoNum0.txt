@@ -1,0 +1,10 @@
+@startuml
+participant "collect perhaps" as 0
+participant "tolerance industrial" as 1
+alt hanged studio
+1 ->> 0: investigations clapped
+critical instructors summers
+0 -> 0!! : annihilate manpower
+end
+end
+@enduml

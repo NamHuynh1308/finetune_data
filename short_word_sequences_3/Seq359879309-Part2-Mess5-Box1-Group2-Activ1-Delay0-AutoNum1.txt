@@ -1,0 +1,21 @@
+@startuml
+box "faint freelancer"
+participant "ambitions detente" as 0
+participant "seem exploratory" as 1
+end box
+== columns immerse ==
+autonumber 9 2
+loop warmer visualize
+0 ->> 0: paths reefs
+0 --> 1: genoa viking
+else solidify bazooka
+1 ->x 0++ : alan defining
+autonumber stop
+critical afoot arrives
+0 ->x 0: prognosis exterminator
+return blindly momma
+autonumber resume
+1 ->> 0: caseload polluting
+end
+end
+@enduml

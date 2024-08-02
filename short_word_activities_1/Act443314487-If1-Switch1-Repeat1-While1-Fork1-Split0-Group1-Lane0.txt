@@ -1,0 +1,38 @@
+@startuml
+start
+group acrobat ash
+:fathered concurrently; <<save>>
+if (dedicating biochemistry?) then (brie label)
+:mesmerized prophesied; <<procedure>>
+repeat
+:sledge resemblance; <<input>>
+-> clinched razor;
+backward:armored trespasser;
+backward:romantically lime;
+repeat while (cog migrate?) is (hydrogen tubes)
+-> legend export;
+:machete commitment;
+-> airfield flute;
+else (nippy remitting)
+fork
+:relentlessly ions;
+fork again
+:demonstrations obliged; <<input>>
+fork again
+:plankton rewards;
+end fork
+while (century solicit?) is (outdoors chariot)
+backward:robbers bratwurst;
+switch (tenant advancements?)
+case (bank mildly?)
+:stowaway fog;
+case (spider moronic?)
+:vampires intact;
+endswitch
+endwhile (butterfly spirited)
+-[hidden]->
+detach
+endif
+end group
+end
+@enduml

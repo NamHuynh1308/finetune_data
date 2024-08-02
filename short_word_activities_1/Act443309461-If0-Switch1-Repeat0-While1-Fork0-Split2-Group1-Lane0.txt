@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:spilled tanning;
+split again
+-[hidden]->
+split
+:baggy newsman;
+split again
+:referendum update;
+split again
+:photograph blew;
+kill
+end split
+split again
+-[hidden]->
+switch (sneak mapped?)
+case (extorted slot?)
+:inspectors bawling; <<input>>
+case (earth riverbank?)
+:penal knocked; <<load>>
+-> cashews sheila;
+endswitch
+split again
+-[hidden]->
+while (seventy centimeter?) is (aggravation backfired)
+:conclude snooty;
+endwhile (divining taken)
+:harshly resetting;
+end split
+group cellular mourn
+:clavicle rapture;
+-> preface aiming;
+:untouchable bloke; <<save>>
+stop
+end group
+@enduml

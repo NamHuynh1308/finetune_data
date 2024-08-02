@@ -1,0 +1,8 @@
+@startuml
+box "coriander crash"
+participant "retrieved zone" as 0
+end box
+par heinie potion
+0 ->o 0: rethink transsexual
+end
+@enduml

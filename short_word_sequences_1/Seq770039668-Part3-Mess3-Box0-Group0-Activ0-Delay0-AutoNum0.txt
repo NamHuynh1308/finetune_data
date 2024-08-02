@@ -1,0 +1,8 @@
+@startuml
+participant "dewy ballsy" as 0
+participant "dobbin intention" as 1
+create participant "masturbated lop" as 2
+1 -> 2 : masturbated lop
+2 <-] : glitches lupus
+0 ->o 2: freeloading banzai
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+start
+group contusion wretch
+:heinie papers; <<output>>
+-> dunes rites;
+stop
+end group
+@enduml

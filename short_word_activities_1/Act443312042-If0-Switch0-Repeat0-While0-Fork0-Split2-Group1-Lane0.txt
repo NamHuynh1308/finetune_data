@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:centerpiece juicy;
+split again
+-[hidden]->
+:virginal building; <<task>>
+split again
+-[hidden]->
+split
+:disinherited experiments;
+split again
+:papayas adored;
+-> movies freshly;
+split again
+:courtrooms karma; <<continuous>>
+split again
+:occurrences episode;
+end split
+end split
+group airfield bassett
+:medicines pinned; <<input>>
+-> fetch gooey;
+stop
+end group
+@enduml

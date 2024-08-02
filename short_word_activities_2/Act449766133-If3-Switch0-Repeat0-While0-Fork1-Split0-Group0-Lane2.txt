@@ -1,0 +1,41 @@
+@startuml
+|1| mathematically hygienist
+|2| roger erases
+|1|
+start
+|2|
+:homer mellowed; <<continuous>>
+if (meetings cognac?) then (furs last)
+:thinner hm;
+:getter deadlines; <<procedure>>
+else (sneaked majesty)
+:teammates clef; <<procedure>>
+-> skimp squeaking;
+endif
+|1|
+:ivy primal; <<load>>
+fork
+:defaced surge;
+fork again
+:kilter desist; <<input>>
+fork again
+if (bended chiefs?) then (stinky refusing)
+:reeled period; <<save>>
+:consult excel;
+kill
+else (rearing silks)
+:distaste thine;
+:tubby trolling; <<save>>
+-> booby pus;
+endif
+fork again
+if (appearances vampires?) then (flannel cavities)
+(forge retired) elseif (masking cob?) then (tamper foul)
+:tenth brought;
+(tobacco sensed) elseif (agonized bankrupt?) then (travellers traverse)
+:weighing roomie;
+(swing trusts) elseif (tabloid force?) then (panther bar)
+:pointer inferior;
+endif
+end fork
+@enduml

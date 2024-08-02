@@ -1,0 +1,21 @@
+@startuml
+box "noticed cancellations"
+participant "scintillating yakking" as 0
+participant "salmonella belong" as 1
+end box
+participant "stockbroker exterminating" as 2
+participant "deplorable icehouse" as 3
+== fortune cohesion ==
+create participant "filthy firecrackers" as 4
+3 -> 4 : filthy firecrackers
+4 -\\ 2: transaction sizable
+...potion curious...
+0 -> 2++ : infatuation riddler
+1 -> 2: granola pretrial
+return salted reviews
+2 -> 3++ : time upstart
+3 -> 0++ : implants facilitated
+3 -> 1: previously potions
+return goodwill healthy
+return rejoice chassis
+@enduml

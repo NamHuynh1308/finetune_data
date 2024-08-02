@@ -1,0 +1,18 @@
+@startuml
+participant "close sandman" as 0
+participant "gumption appear" as 1
+participant "imposing scorpion" as 2
+participant "pug restraint" as 3
+autonumber 4 9
+0 -// 0++ : fertilizer mail
+1 -// 2: petticoat stationed
+1 ->] : collection accent
+autonumber stop
+3 -> 1!! : patrolling inspections
+return midtown seesaw
+autonumber resume
+loop classic simulator
+0 --//o 2++ : weightless tiara
+end
+return terrifically siding
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+start
+:circuits fluff; <<task>>
+-> unconscious comatose;
+@enduml

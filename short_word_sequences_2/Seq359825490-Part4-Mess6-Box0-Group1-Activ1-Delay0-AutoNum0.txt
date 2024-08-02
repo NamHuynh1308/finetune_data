@@ -1,0 +1,16 @@
+@startuml
+participant "bass psych" as 0
+participant "barometer mulling" as 1
+participant "zed batty" as 2
+participant "annulled savored" as 3
+== dating guns ==
+1 -> 3++ : worry garden
+1 ->x 2: disinfectant babe
+return headway garnish
+0 -> 1!! : extinguish slackers
+0 -> 3!! : subsidiary rename
+2 -> 2: parkway disclose
+loop reflect crocodile
+2 -->x 1: mystical ranting
+end
+@enduml

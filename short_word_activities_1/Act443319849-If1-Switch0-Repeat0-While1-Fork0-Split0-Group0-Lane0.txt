@@ -1,0 +1,16 @@
+@startuml
+start
+if (cleanup momentum?) then (casing carton)
+(visiting balancing) elseif (tiring chump?) then (smoky mailman)
+:adventurous untraceable; <<task>>
+(considered sparked) elseif (stirs sayings?) then (regina projects)
+:buckaroo member; <<procedure>>
+(adorable eccentric) elseif (fender bossy?) then (freeway menorah)
+:insulting scientists; <<output>>
+endif
+while (intends lots?) is (underage markets)
+backward:banking rover;
+endwhile (harper clarify)
+:curate portrayed;
+end
+@enduml

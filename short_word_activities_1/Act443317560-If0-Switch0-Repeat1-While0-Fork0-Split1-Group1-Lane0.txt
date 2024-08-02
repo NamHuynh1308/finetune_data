@@ -1,0 +1,18 @@
+@startuml
+group reviewing sermon
+repeat
+split
+:embezzlement elevators;
+split again
+:menacing surprising; <<continuous>>
+split again
+:aggressively yuck;
+split again
+:deficient circumvent;
+end split
+:housekeeping forum; <<procedure>>
+repeat while (coalition chaplain?) is (markers predict)
+-> breathtaking highways;
+stop
+end group
+@enduml

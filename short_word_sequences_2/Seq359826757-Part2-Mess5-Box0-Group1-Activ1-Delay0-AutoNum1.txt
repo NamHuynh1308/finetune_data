@@ -1,0 +1,15 @@
+@startuml
+participant "benign consulting" as 0
+participant "needles turtles" as 1
+autonumber 8 3
+0 -> 0: involved recommends
+1 -\\ 1: henhouse cigarette
+1 -> 1!! : opened airline
+autonumber stop
+1 -// 1: weakness boogeyman
+autonumber resume
+opt slam chico
+0 -> 1++ : personal woozy
+end
+return stalker lobster
+@enduml

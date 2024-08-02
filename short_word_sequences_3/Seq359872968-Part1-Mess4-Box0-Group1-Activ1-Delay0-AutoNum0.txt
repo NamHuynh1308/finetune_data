@@ -1,0 +1,11 @@
+@startuml
+participant "rumors roadster" as 0
+0 ->o 0: helicopter ditch
+critical howdy fascinate
+0 -// 0++ : joked thermos
+0 ->x 0: auxiliary controlled
+else pail titan
+0 -> 0: depended finder
+return leagues tilted
+end
+@enduml

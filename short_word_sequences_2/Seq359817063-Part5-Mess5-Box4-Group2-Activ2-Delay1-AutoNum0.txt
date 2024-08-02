@@ -1,0 +1,27 @@
+@startuml
+box "interact bobby"
+participant "comrade lunchroom" as 0
+box "futon falafel"
+participant "senses picketing" as 1
+box "lee leotards"
+participant "locator sayonara" as 2
+box "rewarded bowl"
+participant "booth elude" as 3
+participant "wop raging" as 4
+end box
+end box
+end box
+end box
+loop onto hokey
+1 --> 0: pane inner
+opt hate barter
+2 -->x 3++ : relay socket
+2 ->x 2: rink map
+...consoled congress...
+1 -> 1: cheery friendlier
+return jay hurling
+end
+2 --> 2++ : narc crossing
+end
+return honorary hernia
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+start
+:toss aneurysm; <<task>>
+-> mystery tassels;
+:serial priest; <<load>>
+@enduml

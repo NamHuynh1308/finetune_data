@@ -1,0 +1,14 @@
+@startuml
+participant "symbol brays" as 0
+box "pennant targeted"
+participant "percentile separation" as 1
+participant "uncut bolt" as 2
+end box
+== phosphate agitators ==
+create participant "accountability increases" as 3
+2 -> 3 : accountability increases
+...burdened heavier...
+ [<- 3: tall dusting
+1 <-] : morphine exited
+3 -> 3: quart departing
+@enduml

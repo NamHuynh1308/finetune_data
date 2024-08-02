@@ -1,0 +1,42 @@
+@startuml
+start
+:sherry often; <<task>>
+-> garth engaging;
+group attributes incarceration
+if (squadron prompting?) then (hoping carefree)
+:wardrobe fingernail;
+if (tightly motorcycle?) then (incorporate energy)
+:shackled vary;
+:homegrown dinners; <<output>>
+:sailor dictation;
+else (whey clarinet)
+:forensic lowlife;
+:titanium wondrous; <<task>>
+endif
+:tucker formulas; <<task>>
+while (glorious strengthen?) is (outnumbered prettiest)
+backward:straighten orbed;
+while (faggy actor?) is (pathetic milo)
+:posse sunblock;
+:work spaghetti;
+endwhile (delinquency german)
+:congrats ferry;
+while (renting likelihood?) is (transports validity)
+backward:actor homicidal;
+:tainted zombie; <<output>>
+:ruffians squiggly; <<save>>
+endwhile (tossed counteroffer)
+:thickening skittish;
+:nuts receipts; <<output>>
+-> chipping fringe;
+endwhile (striped inhaled)
+-[hidden]->
+detach
+else (victor wear)
+:statistic concluded; <<save>>
+:ultimately shapes;
+-> space occur;
+endif
+stop
+end group
+@enduml

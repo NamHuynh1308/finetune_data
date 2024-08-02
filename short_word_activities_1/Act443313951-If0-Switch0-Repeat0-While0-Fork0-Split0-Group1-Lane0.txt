@@ -1,0 +1,8 @@
+@startuml
+start
+group seaweed muck
+:priss producers; <<task>>
+-> economically prohibition;
+stop
+end group
+@enduml

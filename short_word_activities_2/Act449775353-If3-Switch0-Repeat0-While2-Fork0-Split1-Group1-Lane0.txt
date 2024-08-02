@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:unto wolf;
+split again
+-[hidden]->
+:assorted bikini; <<save>>
+split again
+-[hidden]->
+:decoupage swell; <<continuous>>
+split again
+-[hidden]->
+if (gliding sting?) then (candidates eminence)
+(browbeating complaints) elseif (diced thatcher?) then (cabs wigs)
+:displeasure bro;
+-> carton interrogated;
+(depicts recklessness) elseif (hesitant pronunciation?) then (references programming)
+:humiliating damp;
+(paved reared) elseif (perfect lederhosen?) then (telegraph jake)
+:cloth apologizing; <<task>>
+-> spawn voyeur;
+(unveil sneaks) elseif (fallacy overcoming?) then (shards tears)
+:moonlit chink; <<task>>
+-> goggles sim;
+endif
+end split
+group demographics upcoming
+if (fiend credentials?) then (rotisserie vacationing)
+(rekindled wise) elseif (chest depths?) then (stocked tardiness)
+:mindset podiatry; <<output>>
+(clumsy sanatorium) elseif (roscoe manufacturing?) then (tucked borrowing)
+:fellas flowers; <<task>>
+-> ventricle blindfold;
+(reptiles rated) elseif (capacity pimped?) then (endive lightened)
+if (consortium firefighters?) then (confederation unorthodox)
+:relentlessly kern;
+while (sarcophagus tact?) is (fa condom)
+:buttery staggering;
+:ruining weary;
+endwhile (scrooge minds)
+-[hidden]->
+detach
+else (hotel candidates)
+:attempting speculative;
+:interfere uninspired; <<output>>
+while (amateur shawl?) is (flown hem)
+:satin skin;
+:blur waiters;
+-> awaits arches;
+endwhile (camshaft irrigation)
+-[hidden]->
+detach
+endif
+endif
+stop
+end group
+@enduml

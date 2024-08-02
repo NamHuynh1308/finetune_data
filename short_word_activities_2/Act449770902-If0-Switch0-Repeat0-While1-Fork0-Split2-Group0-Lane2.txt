@@ -1,0 +1,34 @@
+@startuml
+|1| levitation disagree
+|2| suitors glover
+split
+-[hidden]->
+:terminated thrown;
+split again
+-[hidden]->
+:sleepers flossing; <<procedure>>
+-> toxicology blockade;
+split again
+-[hidden]->
+split
+:croutons coaxing;
+split again
+:radio republic; <<output>>
+split again
+:telescope sheldrake;
+while (potentially melancholy?) is (debatable witnessing)
+:chatty lasers;
+:materialistic winch;
+endwhile (finest belly)
+-[hidden]->
+detach
+split again
+:remembering ribbons; <<procedure>>
+end split
+end split
+|2|
+:boiling wasting; <<input>>
+:crewman squinting;
+:matchbook backfiring; <<continuous>>
+stop
+@enduml

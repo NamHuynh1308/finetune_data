@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:weapon agent;
+split again
+-[hidden]->
+:wing consults; <<continuous>>
+split again
+-[hidden]->
+:feud smartass; <<load>>
+-> devours casinos;
+end split
+:devastating inbreeding;
+:astrophysics preying;
+stop
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+box "eyeliner stipulates"
+participant "burlap perceived" as 0
+box "battered shelter"
+participant "vacant prospect" as 1
+participant "helmet fertile" as 2
+participant "amusement ushers" as 3
+end box
+participant "electrons peach" as 4
+end box
+2 -\\ 3: mental jujitsu
+...visiting analyse...
+0 -> 0++ : petticoat erases
+4 ->x 3: instigator tested
+return quad practice
+break perjure fast
+1 <-> 0: keyboards humanitarian
+0 <-> 3: overstress indicted
+1 --//o 4: tickling libel
+else uncanny punt
+par centerfold recreational
+1 ->x 3: calzones rumpled
+end
+end
+@enduml

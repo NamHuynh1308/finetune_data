@@ -1,0 +1,22 @@
+@startuml
+box "esteem description"
+participant "uncontrolled additives" as 0
+participant "roughnecks caritas" as 1
+participant "sweats lei" as 2
+end box
+autonumber 0 8
+2 -> 1!! : stanza content
+autonumber stop
+alt arouse productions
+0 ->x 1: proprietary radiant
+2 -\\ 0: slowly denial
+autonumber resume
+critical scrolls darkness
+1 ->o 1: labor mopes
+loop restricted overanxious
+create participant "humorless acetate" as 3
+2 -> 3 : humorless acetate
+end
+end
+end
+@enduml

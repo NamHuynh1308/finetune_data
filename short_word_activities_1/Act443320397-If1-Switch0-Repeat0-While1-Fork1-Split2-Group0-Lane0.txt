@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:granddaddy produced;
+split again
+-[hidden]->
+split
+:quota stretch;
+split again
+:unwind sundaes; <<output>>
+-> liners foreclosed;
+split again
+:dental swims; <<output>>
+split again
+:inscrutable contamination; <<load>>
+-> sly fill;
+end split
+split again
+-[hidden]->
+:floppy decomposing;
+end split
+:purposefully source; <<save>>
+if (options horticulture?) then (mitt unfathomable)
+:whence closes; <<continuous>>
+-> stutter condo;
+:littlest eternal;
+fork
+:conversation postmortem;
+fork again
+:lyrical cramping;
+fork again
+:swords fridge;
+end merge
+else (rationalizing unconsciousness)
+:whirling conceive; <<output>>
+-> dredged wracking;
+while (attached dean?) is (thespian toothbrush)
+:pained corresponded; <<output>>
+-> lido makeovers;
+:healthiest promo; <<continuous>>
+-> presto eighth;
+endwhile (raft insulted)
+-[hidden]->
+detach
+endif
+stop
+@enduml

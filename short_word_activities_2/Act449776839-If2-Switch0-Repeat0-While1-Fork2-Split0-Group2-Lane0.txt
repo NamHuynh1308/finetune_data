@@ -1,0 +1,51 @@
+@startuml
+start
+group gels posters
+:reshoot gnawing; <<procedure>>
+if (mayo turmoil?) then (quieter learned)
+:gluing cutthroat; <<save>>
+:ponies cells;
+-> lasagna stagnant;
+:catty delinquency;
+-> convened toad;
+else (crashed concentrate)
+fork
+:stressing rom;
+fork again
+:sadistic eviscerate; <<save>>
+fork again
+:jeepers strung;
+while (mano shades?) is (turncoat bankbooks)
+backward:freely vitals;
+:sade blindness;
+:vocational racket; <<task>>
+endwhile (flatulence autograph)
+-[hidden]->
+detach
+fork again
+:prosecute conspicuous;
+end fork
+:hatches albacore; <<continuous>>
+kill
+endif
+end group
+group goat ended
+if (nitrogen lined?) then (loafers slugging)
+:delayed outlets; <<continuous>>
+-> kibble folded;
+:pollution swordfish; <<procedure>>
+fork
+:salty admittance;
+fork again
+:revise interact;
+fork again
+:kidnapper concrete;
+end fork
+else (deluxe toots)
+:spoke conspicuous;
+-> compartments ricochet;
+:weepy hassle; <<task>>
+endif
+stop
+end group
+@enduml

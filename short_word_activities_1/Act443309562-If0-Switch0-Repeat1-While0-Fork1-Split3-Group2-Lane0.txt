@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:talking detailed;
+split again
+-[hidden]->
+:taut heard;
+kill
+split again
+-[hidden]->
+:despair remedies;
+-> disturbing dense;
+end split
+fork
+:primping wow;
+fork again
+:slapped freelancing;
+-> watered porno;
+fork again
+:depot courteous; <<save>>
+end fork
+group ashram bars
+repeat
+backward:completes torturing;
+split
+:nancy wack;
+split again
+:plowing cosmetics;
+split again
+:rescuers unstuck; <<load>>
+split again
+:crutches kids; <<load>>
+end split
+repeat while (actin concerns?) is (coded park)
+-> tic genie;
+group head planets
+split
+:swedes demand;
+split again
+:fretting wallop; <<save>>
+-> eyewitnesses caddy;
+split again
+:prosthetic shield; <<load>>
+-> island volunteer;
+end split
+stop
+end group
+end group
+@enduml

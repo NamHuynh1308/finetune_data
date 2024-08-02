@@ -1,0 +1,6 @@
+@startuml
+start
+:blinking coconuts; <<continuous>>
+-> nightly manhattan;
+end
+@enduml

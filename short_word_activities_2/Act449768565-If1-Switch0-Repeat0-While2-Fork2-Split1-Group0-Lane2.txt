@@ -1,0 +1,51 @@
+@startuml
+|1| arriving franchises
+|2| crouching espionage
+split
+-[hidden]->
+:intrusion parasailing;
+split again
+-[hidden]->
+:adds having; <<continuous>>
+split again
+-[hidden]->
+fork
+:dwarf surgery;
+fork again
+:station creeps;
+fork again
+:shins outraged;
+end fork
+split again
+-[hidden]->
+while (asteroid admirers?) is (decay crawled)
+:surrendering bracken; <<load>>
+endwhile (cooperate seeker)
+:kingdoms practicing;
+end split
+|2|
+while (wither disarm?) is (exchanges surprisingly)
+backward:lemon detonation;
+backward:scummy physiologically;
+endwhile (disco poise)
+:helix letterhead;
+if (claymore tales?) then (graciously strenuous)
+(sow pinning) elseif (portrays hutch?) then (upscale lifers)
+fork
+:altercation ruffled;
+fork again
+:leaf umm;
+fork again
+:handwriting tracked; <<continuous>>
+fork again
+:traverse understand; <<continuous>>
+end fork
+(tucking corned) elseif (but organisms?) then (lux generals)
+:provocations absorbed; <<continuous>>
+endif
+|1|
+:bible cities; <<load>>
+-> closeness cheery;
+:bureaucrats schizo; <<load>>
+-> ugliness tubs;
+@enduml

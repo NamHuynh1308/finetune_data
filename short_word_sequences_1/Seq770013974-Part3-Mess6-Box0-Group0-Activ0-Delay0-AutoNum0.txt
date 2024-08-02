@@ -1,0 +1,12 @@
+@startuml
+participant "phosphate cutters" as 0
+participant "speeding headquarters" as 1
+participant "unfortunate jiffy" as 2
+== clobbered ripper ==
+0 --> 0: potion blush
+1 -->x 1: starving dreadful
+ [-> 1: kegs infernal
+0 ->] : zipper gloating
+1 -\\ 1: subtext ho
+2 -->x 1: forceps crackling
+@enduml

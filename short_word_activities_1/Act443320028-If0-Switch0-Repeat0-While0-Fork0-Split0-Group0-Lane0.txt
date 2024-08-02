@@ -1,0 +1,5 @@
+@startuml
+start
+:tat psyched; <<continuous>>
+-> nachos alcove;
+@enduml

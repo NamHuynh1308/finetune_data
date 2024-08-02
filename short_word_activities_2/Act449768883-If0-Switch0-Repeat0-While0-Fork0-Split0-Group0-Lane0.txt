@@ -1,0 +1,4 @@
+@startuml
+:impound pillars;
+-> diagnosis push;
+@enduml

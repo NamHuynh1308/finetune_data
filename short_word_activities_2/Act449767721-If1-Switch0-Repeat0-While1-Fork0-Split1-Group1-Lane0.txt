@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:report duly;
+split again
+-[hidden]->
+if (farted converting?) then (referee paralyzed)
+:reveals debris;
+else (garland choke)
+:distracted objective;
+endif
+split again
+-[hidden]->
+:thoughtfully boring; <<continuous>>
+split again
+-[hidden]->
+while (street frosty?) is (souls shocker)
+backward:haunt underlying;
+backward:advocacy finer;
+:gift stung; <<input>>
+-> interviews begging;
+endwhile (weirdo unruly)
+:muscle worked;
+end split
+group added lowdown
+:cleverly hull; <<load>>
+-> endlessly logical;
+:whatnot huts;
+end group
+end
+@enduml

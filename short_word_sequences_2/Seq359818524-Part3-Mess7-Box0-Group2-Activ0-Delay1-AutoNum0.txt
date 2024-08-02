@@ -1,0 +1,18 @@
+@startuml
+participant "reefs concealer" as 0
+participant "dosed rin" as 1
+participant "credentials overturned" as 2
+== overtures willies ==
+2 ->] : launching completely
+2 -->x 1: savvy moonlight
+0 -> 1: morons visible
+critical ponds whimsical
+1 -// 0: obsessive tripe
+1 -> 2: weathered balm
+end
+1 ->] : appropriations absent
+par the dit
+...construct motif...
+ [<- 2: spying cheesecake
+end
+@enduml

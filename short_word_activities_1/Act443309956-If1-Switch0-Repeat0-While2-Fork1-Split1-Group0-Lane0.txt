@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:symptomatic bobbin;
+split again
+-[hidden]->
+:deader sit;
+split again
+-[hidden]->
+:witchcraft clip;
+end split
+fork
+:appetizers breakwater;
+fork again
+:strategize flickering; <<continuous>>
+fork again
+if (biting absences?) then (seams gas)
+(dandy withdrawn) elseif (incapable splicing?) then (stated marveling)
+:maidens baiting;
+(benny maintenance) elseif (complication floundering?) then (officiate trappings)
+:tread lag;
+-> wolves tiramisu;
+(immortalized moans) elseif (disconnected cunt?) then (wussy sits)
+:oopppi;
+kill
+endif
+fork again
+while (brewing aches?) is (dime totals)
+:christen further;
+endwhile (weirdly whilst)
+:suspense alcazar;
+end fork
+while (sheriff endowment?) is (dignified spectrum)
+backward:teacup respiratory;
+:rashes delicates; <<input>>
+-> vaginas tangerine;
+endwhile (spur bearings)
+:biography masseur;
+:toys imports; <<task>>
+-> inflated tailspin;
+end
+@enduml

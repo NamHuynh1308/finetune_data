@@ -1,0 +1,73 @@
+@startuml
+|1| pencil cynic
+|2| heel troupe
+split
+-[hidden]->
+:slasher dictation;
+split again
+-[hidden]->
+switch (reversible foresight?)
+case (workday sill?)
+:scout veterinarian;
+case (blurred exhumed?)
+:tell barrister;
+while (brewery widower?) is (girl cole)
+backward:satire geologists;
+:goals government;
+:buses dominion;
+:dry rattlesnake;
+endwhile (blender rich)
+-[hidden]->
+detach
+case (teary rickety?)
+:nitrogen jacked;
+case (courthouse talking?)
+:stumble clearing;
+endswitch
+split again
+-[hidden]->
+while (twenties propped?) is (sevens reds)
+:anchoring vail; <<procedure>>
+backward:repay payoffs;
+:uphold tightrope;
+backward:jungle penniless;
+endwhile (obligations dill)
+:salsa autographed;
+split again
+-[hidden]->
+if (spring confiscated?) then (crumbled valuable)
+(languishing unpleasant) elseif (groaning points?) then (outlet conduct)
+:shelters rehearsing;
+(birthright custard) elseif (drunkard renown?) then (misunderstandings recognize)
+:confit gnome;
+(slightest weaken) elseif (yup drafting?) then (corpse fortitude)
+:deathbed wiping;
+endif
+end split
+|2|
+switch (probably erode?)
+case (reacting setback?)
+split
+:danced impertinent;
+split again
+:comas randomly; <<output>>
+split again
+:vets shouted;
+end split
+case (messages correction?)
+:spy existence; <<load>>
+case (fundraisers automated?)
+:concur keeping;
+-> dredge workmen;
+case (chubby snorkel?)
+:skimming feet; <<output>>
+-> liberals phenomenon;
+endswitch
+|1|
+:defeats excommunicated;
+|2|
+:controlling maestro;
+-> dwells patrolman;
+:cutlass inherits; <<task>>
+end
+@enduml

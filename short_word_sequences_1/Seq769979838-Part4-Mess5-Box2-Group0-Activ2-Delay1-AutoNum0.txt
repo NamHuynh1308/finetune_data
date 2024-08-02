@@ -1,0 +1,18 @@
+@startuml
+box "shoehorn bidding"
+participant "popcorn storm" as 0
+box "launch barb"
+participant "scoff laptops" as 1
+participant "forensics symptom" as 2
+end box
+end box
+1 <-> 0: festivals memos
+0 --> 2++ : alight loath
+1 -> 2: investigate yonkers
+...endearing visiting...
+1 ->x 1++ : luce respecting
+create participant "fumigating pinned" as 3
+2 -> 3 : fumigating pinned
+return giraffes trap
+return wisecracks elude
+@enduml

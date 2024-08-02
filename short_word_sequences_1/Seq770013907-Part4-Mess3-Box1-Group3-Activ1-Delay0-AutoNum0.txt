@@ -1,0 +1,19 @@
+@startuml
+box "until sweep"
+participant "reduced begging" as 0
+participant "fitness peels" as 1
+end box
+participant "sour reduced" as 2
+== errant variant ==
+par swimming wise
+0 -> 1!! : garb sentence
+break entitles raisins
+create participant "stockholders considers" as 3
+0 -> 3 : stockholders considers
+critical converting pick
+0 --//o 2++ : shooters rust
+end
+end
+end
+return sugarplum pecked
+@enduml

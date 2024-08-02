@@ -1,0 +1,64 @@
+@startuml
+:revolting athletes;
+group tuck mousy
+if (requiring vacate?) then (quizmaster iced)
+:placed disowned; <<task>>
+:boneless foil;
+-> salinas frills;
+else (tick butters)
+if (deprecating discussions?) then (amounted bombarding)
+:flurry scar; <<save>>
+-> unresolved computer;
+:aces confessor; <<continuous>>
+-> betrays commentator;
+else (quit boxcar)
+:tractor jailbreak;
+:microchips bed; <<continuous>>
+-> reporters misunderstanding;
+while (cockpit wrap?) is (seer husbands)
+:oodles prom; <<procedure>>
+-> prophesied pam;
+endwhile (fascism sunny)
+-[hidden]->
+detach
+endif
+if (cutlass fixable?) then (protecting teapot)
+:fatigue dailies;
+-> writ spelt;
+:acupuncture drawers;
+else (topaz buns)
+:scripts turnpike;
+endif
+:skit putting; <<continuous>>
+while (translate issuing?) is (veto thrill)
+:faint palaces;
+-> solo slant;
+endwhile (eater tangerine)
+-[hidden]->
+detach
+endif
+group bigfoot fez
+split
+:circuitry butch;
+split again
+split
+:eros rayed;
+split again
+:berries certify; <<load>>
+-> shelters sorting;
+split again
+:boston process;
+split again
+:pyre arriving; <<procedure>>
+-> tabs rubbing;
+end split
+split again
+:sexual reef; <<save>>
+split again
+:neatness balcony; <<continuous>>
+-> clapping croon;
+end split
+stop
+end group
+end group
+@enduml

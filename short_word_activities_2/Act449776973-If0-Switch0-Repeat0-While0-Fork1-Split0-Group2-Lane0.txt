@@ -1,0 +1,19 @@
+@startuml
+start
+group turbine ti
+:capitalize elephant;
+group predators along
+fork
+:accolades patrolman;
+fork again
+:constitutes drips; <<task>>
+fork again
+:thumbprint prim; <<output>>
+-> slap flung;
+fork again
+:currents toothache; <<load>>
+end merge
+stop
+end group
+end group
+@enduml

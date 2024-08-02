@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:tarp blotter;
+split again
+-[hidden]->
+:provide boomer; <<task>>
+split again
+-[hidden]->
+:vowed infra;
+end split
+group administration disown
+:examining amiss;
+-> desirable admittedly;
+:bacterial counsel; <<load>>
+group flawlessly exams
+:assured stripped; <<procedure>>
+stop
+end group
+end group
+@enduml

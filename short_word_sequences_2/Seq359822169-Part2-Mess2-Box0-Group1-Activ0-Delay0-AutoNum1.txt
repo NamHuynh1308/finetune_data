@@ -1,0 +1,9 @@
+@startuml
+participant "stroll incubators" as 0
+autonumber 0 1
+par indistinguishable grate
+0 ->> 0: tweet stiles
+create participant "postponing royally" as 1
+0 -> 1 : postponing royally
+end
+@enduml

@@ -1,0 +1,40 @@
+@startuml
+|1| filmmaker pickup
+|2| joey guesses
+|1|
+start
+|2|
+:maintains manna; <<task>>
+:deprivation staircase; <<task>>
+:vulnerable lifts; <<procedure>>
+|1|
+while (embryo munching?) is (believer mercenary)
+backward:links fanatic;
+while (continuum refrigerators?) is (row unplug)
+backward:import jones;
+:incantation subways;
+endwhile (prodigal paleontology)
+:accomplishing mandate;
+backward:surroundings ditty;
+backward:imported cutbacks;
+endwhile (ward strength)
+:assurances baste;
+|2|
+split
+:shag overpaid;
+split again
+:dicky suffocating; <<procedure>>
+-> bits sparkly;
+split again
+split
+:paramilitary handful;
+split again
+:naked gather;
+split again
+:saluted mop;
+split again
+:chatted iguana;
+end split
+end split
+stop
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+box "dote eleventh"
+participant "searched mute" as 0
+participant "downloaded lube" as 1
+end box
+autonumber 4 5
+1 <-] : gruel narcotic
+alt stoke diluted
+1 -\\ 1++ : ford dining
+create participant "algae asylum" as 2
+1 -> 2 : algae asylum
+return drunks cottages
+end
+@enduml

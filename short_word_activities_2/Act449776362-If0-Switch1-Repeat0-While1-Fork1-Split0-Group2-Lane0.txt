@@ -1,0 +1,35 @@
+@startuml
+switch (shape round?)
+case (darken oxen?)
+:admittedly chap;
+case (pronto hickey?)
+:offend dispute; <<output>>
+case (sundown mule?)
+:breeze fearless;
+while (erroneous collision?) is (snarling carpool)
+backward:inability angst;
+backward:several disruptive;
+endwhile (devilishly sheeny)
+-[hidden]->
+detach
+case (surgically interviews?)
+:festivities whiner; <<procedure>>
+endswitch
+group tulle daisies
+fork
+:agrees nickname;
+fork again
+:childish freshness; <<input>>
+fork again
+:salty nudge; <<task>>
+-> contingencies savvy;
+fork again
+:consultant doorknob;
+-> mi shave;
+end fork
+group executioner villa
+:cauldron uninformed; <<task>>
+stop
+end group
+end group
+@enduml

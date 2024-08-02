@@ -1,0 +1,11 @@
+@startuml
+participant "launch cyclone" as 0
+participant "challenges racquetball" as 1
+participant "homicides reconsider" as 2
+== consumption epoxy ==
+2 -> 0: camshaft seize
+0 -> 0++ : sneezing anchors
+...regrets regards...
+1 -> 2: doggy vouched
+return hallucinations highly
+@enduml

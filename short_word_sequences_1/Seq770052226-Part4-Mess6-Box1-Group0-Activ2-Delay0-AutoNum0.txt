@@ -1,0 +1,17 @@
+@startuml
+participant "zits auras" as 0
+participant "dizziness cluttering" as 1
+participant "proposals leading" as 2
+box "organism distended"
+participant "striped laptop" as 3
+end box
+== strawberry question ==
+2 -> 2: ultra doused
+3 ->o 0: ultimately bean
+1 -// 3++ : disowned headlock
+0 <-] : impressionists fringe
+1 -\\ 3++ : sleaze threatens
+2 <-] : belie bygones
+return eight novelist
+return deliberately happiest
+@enduml

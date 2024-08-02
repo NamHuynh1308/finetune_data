@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:riots rummaging;
+split again
+-[hidden]->
+if (headsets antics?) then (undead stares)
+:generic nobleman;
+:outhouse defy;
+-> sidekicks blathering;
+else (person totaled)
+:pyramid landscaping; <<save>>
+:frontal foibles; <<input>>
+:recording inquiries;
+kill
+endif
+split again
+-[hidden]->
+:shank timbre; <<procedure>>
+-> reproductive shepherds;
+split again
+-[hidden]->
+:beginner idling;
+end split
+group accommodate released
+:steadfast skidded; <<save>>
+stop
+end group
+@enduml

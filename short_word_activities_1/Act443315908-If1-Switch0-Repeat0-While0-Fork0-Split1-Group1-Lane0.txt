@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:chitchat wharves;
+split again
+-[hidden]->
+:prop sow; <<task>>
+split again
+-[hidden]->
+:vented whales;
+-> internment knew;
+split again
+-[hidden]->
+:recognised parish; <<load>>
+end split
+if (adopt ruthlessly?) then (ballerina reached)
+(margins thorns) elseif (alongside parishioner?) then (screwing dopey)
+:wishing pelting; <<procedure>>
+-> drugs sufficient;
+(signature laughable) elseif (chose mantis?) then (triplets annulment)
+:speakerphone jungles;
+(dolled destiny) elseif (vouch racked?) then (advert ulcer)
+:drank instead; <<continuous>>
+-> spandex notions;
+(hypothetical macaroons) elseif (petition shattered?) then (hiker afterwards)
+:star assimilate;
+endif
+:teaming composer; <<input>>
+group light bummers
+:twelfth brags;
+-> erogenous mopped;
+stop
+end group
+@enduml

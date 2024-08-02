@@ -1,0 +1,22 @@
+@startuml
+participant "intoxication machismo" as 0
+participant "rally ethnicity" as 1
+participant "negate flight" as 2
+box "segue maps"
+participant "magic mulligan" as 3
+end box
+autonumber 10 3
+ [<- 1: alter confinement
+alt speechless god
+1 --> 0++ : removed proximity
+0 -> 1: tsunami detector
+return cased migration
+autonumber stop
+create participant "facial movers" as 4
+1 -> 4 : facial movers
+autonumber resume
+break convulsing emerged
+4 -> 4: carmine stable
+end
+end
+@enduml

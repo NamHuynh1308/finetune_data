@@ -1,0 +1,28 @@
+@startuml
+start
+if (vocalist biz?) then (insulted attack)
+:cheaters geese;
+:compliment vet;
+fork
+:shine famous;
+fork again
+:kent skeptical; <<input>>
+fork again
+:fishing frisky;
+end fork
+else (evaporated joust)
+while (mongoose baloney?) is (wasteful collection)
+backward:disagrees label;
+endwhile (prerequisite dunks)
+:mi quintessential;
+:blooded bail; <<continuous>>
+-> heighten leans;
+while (refer acoustic?) is (curmudgeon gardener)
+:forgave honored;
+:does brakes;
+backward:recover statements;
+endwhile (outright rules)
+:suspending lemon;
+endif
+end
+@enduml

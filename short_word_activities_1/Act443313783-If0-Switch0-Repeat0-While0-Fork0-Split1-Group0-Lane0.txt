@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:outsiders expressions;
+split again
+-[hidden]->
+:effected alternate;
+split again
+-[hidden]->
+:vitally racquet;
+end split
+:seafood scolded;
+-> muggings relevance;
+stop
+@enduml

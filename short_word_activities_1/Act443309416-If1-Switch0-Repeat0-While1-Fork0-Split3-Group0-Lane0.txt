@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:narwhal combative;
+split again
+-[hidden]->
+split
+:propriety insulting;
+split again
+:enjoying salaries;
+split again
+:wimp asphalt;
+split again
+:sill assessed; <<continuous>>
+end split
+split again
+-[hidden]->
+if (feasting footman?) then (artifacts couture)
+:smuggle barreling;
+:debt responsible;
+else (questioning beak)
+:cabinet source; <<load>>
+:downstairs contusions;
+:eject vogue;
+endif
+end split
+:merman heating; <<task>>
+-> denominational condescending;
+while (dorms desperation?) is (loopholes blink)
+split
+:steamroller deceased;
+split again
+:marcel dramas; <<continuous>>
+split again
+:outgrow hooch;
+split again
+:martins letter;
+end split
+backward:twentieth servicing;
+backward:sandbar prefer;
+endwhile (enabled accents)
+:blip streams;
+end
+@enduml

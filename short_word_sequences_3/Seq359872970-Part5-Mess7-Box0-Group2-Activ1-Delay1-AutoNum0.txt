@@ -1,0 +1,21 @@
+@startuml
+participant "soles suspension" as 0
+participant "nimrod idol" as 1
+participant "zebra backstreet" as 2
+participant "creeping idle" as 3
+participant "narrowed lamb" as 4
+ [<- 1: classrooms fills
+1 ->> 0: figuratively proceeding
+opt manners diverted
+1 --> 0: phew indecision
+1 -> 3++ : gimme demons
+opt invites bandits
+1 ->o 3: forgery tripped
+2 ->] : membrane cupid
+end
+...merman moth...
+3 --> 0: hostiles pasture
+return requisitions auld
+else hotels rating
+end
+@enduml

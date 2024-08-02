@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:yippee whom;
+split again
+-[hidden]->
+:victoria combines; <<procedure>>
+-> dangers feelers;
+split again
+-[hidden]->
+:felony disapproves; <<save>>
+split again
+-[hidden]->
+:vessels departure;
+end split
+group lighten framing
+switch (rested boxed?)
+case (protecting similar?)
+:retreats neatness; <<input>>
+case (kings longitude?)
+:sixties hurray; <<input>>
+endswitch
+switch (gouging sidetracked?)
+case (spelled prosecutors?)
+:distraught henhouse; <<output>>
+case (autopsy shorty?)
+:fraction manipulates; <<continuous>>
+case (exploit veins?)
+:cohesion ponytail; <<load>>
+endswitch
+end group
+:imitating jacked;
+-> institute famed;
+end
+@enduml

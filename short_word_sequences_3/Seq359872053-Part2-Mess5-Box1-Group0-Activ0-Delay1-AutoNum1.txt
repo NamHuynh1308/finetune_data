@@ -1,0 +1,13 @@
+@startuml
+box "image peel"
+participant "cheek liberation" as 0
+end box
+autonumber 5 5
+0 ->] : dieting deposited
+create participant "workstation requisitions" as 1
+0 -> 1 : workstation requisitions
+1 -> 0: speeches childish
+...spooks senate...
+1 -\\ 0: oars guilty
+1 <-] : scamming kneeling
+@enduml

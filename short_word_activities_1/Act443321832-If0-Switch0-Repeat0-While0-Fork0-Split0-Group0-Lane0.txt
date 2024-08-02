@@ -1,0 +1,6 @@
+@startuml
+start
+:conquered documents;
+-> tribal groundless;
+stop
+@enduml

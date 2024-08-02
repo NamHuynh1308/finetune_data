@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:mathematically compulsive;
+split again
+-[hidden]->
+:bambino jockstrap;
+-> mothballs problematic;
+split again
+-[hidden]->
+fork
+:occupant arrangement;
+fork again
+:administering greedy;
+fork again
+:circulated accurate; <<load>>
+end merge
+split again
+-[hidden]->
+:confit infestation; <<output>>
+-> lantern discounting;
+end split
+group awarded facedown
+if (overwhelms spud?) then (inept aerial)
+(colleague gloat) elseif (smoky niceties?) then (out torpedoed)
+:anchorage endangering;
+(depraved dares) elseif (freezes unable?) then (flaky confer)
+:summation reigning; <<procedure>>
+-> remark butters;
+(deadly nodding) elseif (taffeta lied?) then (soulless properties)
+fork
+:vanquished resides;
+fork again
+:delete virgin; <<load>>
+-> billionaire lark;
+fork again
+:counterattack edgy;
+fork again
+:unhook slumber;
+end fork
+endif
+stop
+end group
+@enduml

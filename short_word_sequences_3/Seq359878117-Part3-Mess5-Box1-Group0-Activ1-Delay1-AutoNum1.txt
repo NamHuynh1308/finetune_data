@@ -1,0 +1,18 @@
+@startuml
+box "males seasonal"
+participant "perception unanswered" as 0
+participant "resisting tired" as 1
+end box
+== playing solar ==
+autonumber 9 2
+1 <-> 0: medical float
+autonumber stop
+0 --//o 1: hitting poppy
+...bod flea...
+1 -> 1++ : knack accelerating
+autonumber resume
+1 -->x 1: organisms outvoted
+return dallying cob
+create participant "woodshed bud" as 2
+1 -> 2 : woodshed bud
+@enduml

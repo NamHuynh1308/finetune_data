@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:alas widower;
+split again
+-[hidden]->
+:technical creamy; <<task>>
+-> sleek hauled;
+split again
+-[hidden]->
+:fin montage; <<output>>
+split again
+-[hidden]->
+:decipher nuked; <<load>>
+-> surfing befall;
+end split
+group regaining widows
+if (heroic hug?) then (bribery codependent)
+(legends kingdom) elseif (tap repression?) then (oracle limitation)
+repeat
+:tiptoe centuries; <<input>>
+:priceless obligation;
+repeat while (danced heap?) is (hemline parable)
+(undermines spencer) elseif (reforms implying?) then (snowmen citing)
+:xgcied;
+while (orbital christie?) is (alma sultry)
+switch (shiver virginal?)
+case (coveted manifesto?)
+:manatees vanished;
+-> reread besides;
+case (foolish acclaim?)
+:bionic slated; <<load>>
+case (surrounded improvise?)
+:demonstrate things;
+endswitch
+backward:specimen stalker;
+fork
+:mack beginnings;
+fork again
+:homesick mort;
+fork again
+:annually civic;
+end fork
+backward:duck indescribable;
+endwhile (tung immodest)
+-[hidden]->
+detach
+(shackle tourist) elseif (eminence release?) then (madam psychotherapist)
+:thyme mall;
+-> appealing draw;
+(kin ironies) elseif (terrain ornament?) then (subordinate mulled)
+:thrusts rescuer; <<load>>
+endif
+stop
+end group
+@enduml

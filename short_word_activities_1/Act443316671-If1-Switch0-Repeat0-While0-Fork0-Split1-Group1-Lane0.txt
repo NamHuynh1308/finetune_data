@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:barges buffalo;
+split again
+-[hidden]->
+if (unmarked deal?) then (dizziness loathe)
+(broader sobered) elseif (sang whiteness?) then (cups statuary)
+:squeezed unscrupulous;
+(gratifying assortment) elseif (spaz roads?) then (subsidize wishful)
+:currently mostly;
+(mentally angiogram) elseif (hankie judge?) then (entitle yolk)
+:companies fixes;
+(abysmal tight) elseif (hots strenuous?) then (hoedown entertainer)
+:mats pounds;
+endif
+split again
+-[hidden]->
+:slang mutants;
+split again
+-[hidden]->
+:toothbrushes timothy;
+-> fatal lining;
+end split
+group tombstone beat
+:boogey mapping;
+stop
+end group
+@enduml

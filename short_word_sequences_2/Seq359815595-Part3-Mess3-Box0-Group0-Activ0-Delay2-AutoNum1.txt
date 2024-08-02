@@ -1,0 +1,12 @@
+@startuml
+participant "candidacy tipped" as 0
+participant "bod mangoes" as 1
+participant "deputized handprint" as 2
+== screeching attorneys ==
+autonumber 3 10
+1 -> 0: nominated frying
+...underestimate eagles...
+ [-> 2: circuited neon
+...spend beagle...
+2 <-] : ambiguous barman
+@enduml

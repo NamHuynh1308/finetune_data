@@ -1,0 +1,14 @@
+@startuml
+participant "chin fix" as 0
+participant "louder drawn" as 1
+participant "felonious manger" as 2
+== desserts badness ==
+1 <-] : doggone materials
+...crops diamond...
+2 -> 1: blazers boorish
+1 --//o 2: rabbit disruptive
+critical rejoicing realization
+create participant "oho doctors" as 3
+0 -> 3 : oho doctors
+end
+@enduml

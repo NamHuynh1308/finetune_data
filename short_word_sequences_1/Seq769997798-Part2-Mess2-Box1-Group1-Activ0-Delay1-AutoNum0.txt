@@ -1,0 +1,11 @@
+@startuml
+box "dimwit amputation"
+participant "disgrace paparazzi" as 0
+end box
+alt retailers aide
+create participant "lease rex" as 1
+0 -> 1 : lease rex
+...kale madre...
+ [-> 1: twentieth announced
+end
+@enduml

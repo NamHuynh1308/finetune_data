@@ -1,0 +1,14 @@
+@startuml
+participant "tank murmur" as 0
+participant "hood attachments" as 1
+== instruments excluded ==
+autonumber 9 1
+alt redundancy chords
+0 --> 0: talented workshop
+autonumber stop
+loop carbohydrates firefight
+...rebelling altering...
+0 -// 0: murderer hire
+end
+end
+@enduml

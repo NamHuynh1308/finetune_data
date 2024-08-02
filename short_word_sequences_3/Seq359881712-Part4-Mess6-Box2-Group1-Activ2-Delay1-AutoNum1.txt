@@ -1,0 +1,25 @@
+@startuml
+box "insisted hitchhiker"
+participant "meteors cog" as 0
+participant "sympathetic sequestered" as 1
+participant "ships pancake" as 2
+box "passes willows"
+participant "summary ready" as 3
+end box
+end box
+autonumber 1 3
+2 -// 1++ : liter stained
+autonumber stop
+...traveled session...
+3 --//o 1++ : graduated grouping
+autonumber resume
+critical delays battles
+0 -->x 1: cramming yikes
+return striptease cartoon
+1 -// 2: resolving impertinent
+end
+ [<- 2: time goons
+autonumber stop
+ [-> 3: innings remarkably
+return interlude clarification
+@enduml

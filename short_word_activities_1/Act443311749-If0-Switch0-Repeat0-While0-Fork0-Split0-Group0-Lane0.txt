@@ -1,0 +1,6 @@
+@startuml
+start
+:president minorities; <<load>>
+:glitter kickbacks; <<output>>
+:practically reacts; <<input>>
+@enduml

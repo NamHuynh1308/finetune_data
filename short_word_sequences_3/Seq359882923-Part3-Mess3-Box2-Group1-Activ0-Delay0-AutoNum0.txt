@@ -1,0 +1,14 @@
+@startuml
+participant "milling metallic" as 0
+box "felony callous"
+participant "holier colonization" as 1
+box "magicians book"
+participant "healers tenement" as 2
+end box
+end box
+2 -->x 1: realities franklin
+2 ->> 0: astrophysics honorable
+loop clothes heartbeats
+2 -> 2: orator ficus
+end
+@enduml

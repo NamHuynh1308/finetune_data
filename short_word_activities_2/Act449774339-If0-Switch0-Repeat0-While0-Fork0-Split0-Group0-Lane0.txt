@@ -1,0 +1,5 @@
+@startuml
+:editor smelling; <<continuous>>
+-> tribal humid;
+end
+@enduml

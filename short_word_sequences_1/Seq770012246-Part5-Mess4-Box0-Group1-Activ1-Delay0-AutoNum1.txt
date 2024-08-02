@@ -1,0 +1,17 @@
+@startuml
+participant "encephalitis palpitations" as 0
+participant "optimistic retreating" as 1
+participant "telly limes" as 2
+participant "afforded everlasting" as 3
+== bolts dean ==
+autonumber 5 9
+alt optimist sonnet
+2 <-] : line promote
+2 -// 0: super citation
+create participant "sounding attributes" as 4
+2 -> 4 : sounding attributes
+else occasionally autism
+4 <-> 2++ : wander aha
+end
+return footed genes
+@enduml

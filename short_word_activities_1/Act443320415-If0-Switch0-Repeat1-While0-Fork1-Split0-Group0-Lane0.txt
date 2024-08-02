@@ -1,0 +1,17 @@
+@startuml
+start
+fork
+:spaniel caterpillar;
+fork again
+:shipments drawers; <<load>>
+fork again
+repeat
+:flexible storybook; <<output>>
+-> indignant shifted;
+backward:bug tardiness;
+backward:sympathize iambic;
+repeat while (complimentary midwives?) is (fostered psychiatrist)
+-> tellers bearers;
+end fork
+stop
+@enduml

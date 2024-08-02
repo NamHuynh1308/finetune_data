@@ -1,0 +1,30 @@
+@startuml
+|1| mushroom roster
+|2| clockwise specialists
+split
+-[hidden]->
+:marge occasionally;
+split again
+-[hidden]->
+:sweeter begrudge; <<load>>
+-> odds undue;
+split again
+-[hidden]->
+:digestion spurred; <<task>>
+-> baffling speedily;
+end split
+|2|
+:vastly spoilsport; <<input>>
+|1|
+:electrolytes extinction;
+|2|
+if (swabs symbiote?) then (soiree marries)
+:favorable crumpets; <<procedure>>
+:unity inventions; <<procedure>>
+:wears northeastern; <<input>>
+else (shape helicopter)
+:activation clinic; <<output>>
+-> barlow optimist;
+endif
+stop
+@enduml

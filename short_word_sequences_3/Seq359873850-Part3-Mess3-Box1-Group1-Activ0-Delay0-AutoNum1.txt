@@ -1,0 +1,14 @@
+@startuml
+participant "koi sentinel" as 0
+box "terraforming designer"
+participant "crisis neutron" as 1
+participant "checkup bleaching" as 2
+end box
+autonumber 9 10
+0 --> 1: prompting chemistry
+loop combing knitting
+1 -> 2: unlocking muddy
+2 -> 0: records telepathically
+autonumber stop
+end
+@enduml

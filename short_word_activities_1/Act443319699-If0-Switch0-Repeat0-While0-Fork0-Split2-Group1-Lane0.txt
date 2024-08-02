@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:roadster injector;
+split again
+-[hidden]->
+:spreads carpet;
+split again
+-[hidden]->
+:overdosed cub; <<output>>
+-> instantaneous cookbook;
+split again
+-[hidden]->
+:billy fletcher; <<output>>
+end split
+group splitting exfoliate
+:salina football; <<output>>
+-> frisky calculation;
+split
+:scoundrel gorilla;
+split again
+:darken citywide; <<continuous>>
+-> withdraws reindeer;
+split again
+:legality platters;
+-> copping excepted;
+split again
+:disrespect strapless; <<input>>
+-> celebrity lays;
+end split
+:distributed vindictive; <<continuous>>
+-> swaying painters;
+end group
+stop
+@enduml

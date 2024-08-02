@@ -1,0 +1,20 @@
+@startuml
+box "credits agenda"
+participant "troll sweep" as 0
+participant "above affinity" as 1
+participant "reelected als" as 2
+box "reconsidered manifold"
+participant "shimmer dwells" as 3
+end box
+end box
+== sensational craving ==
+loop coriander mountains
+1 ->] : products snatcher
+1 -> 3: blabbermouth dash
+1 ->> 2++ : debut credence
+3 -> 1: humiliate crumpets
+return hopeless carved
+...swayed interrogate...
+1 --> 0: roadblocks pore
+end
+@enduml

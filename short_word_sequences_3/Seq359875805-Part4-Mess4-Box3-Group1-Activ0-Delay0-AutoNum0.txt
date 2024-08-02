@@ -1,0 +1,19 @@
+@startuml
+participant "accuses jester" as 0
+box "procured heist"
+participant "reactors gentlemen" as 1
+box "viral swimmer"
+participant "hoisting daughter" as 2
+box "extreme witches"
+participant "faucet balconies" as 3
+end box
+end box
+end box
+2 -> 2: athletic concourse
+3 -> 2: bangs debutantes
+par rushes firepower
+0 ->> 2: slung religious
+0 --//o 3: racism local
+else wholeheartedly dancers
+end
+@enduml

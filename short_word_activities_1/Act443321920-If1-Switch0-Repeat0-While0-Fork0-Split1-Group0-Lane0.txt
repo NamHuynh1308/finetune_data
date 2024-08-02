@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:workers subsidy;
+split again
+-[hidden]->
+:crux quitting;
+-> hunters fertilization;
+split again
+-[hidden]->
+if (sickened original?) then (calories chalet)
+:inferior analyze;
+else (girl flimsy)
+:stem shrewd; <<procedure>>
+:aide confidences;
+-> prosecute eternity;
+:utilities counterattack; <<procedure>>
+-> enlarged bolt;
+endif
+end split
+:greater cowardly; <<input>>
+stop
+@enduml

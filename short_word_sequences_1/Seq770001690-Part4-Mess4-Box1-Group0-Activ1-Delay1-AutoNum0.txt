@@ -1,0 +1,15 @@
+@startuml
+box "autistic chalkboard"
+participant "sterilize impersonal" as 0
+participant "confer admiring" as 1
+end box
+participant "pharmaceutical veterinarian" as 2
+== resumed found ==
+create participant "buzzard picky" as 3
+2 -> 3 : buzzard picky
+2 ->x 3: dusted att
+...sovereignty chicken...
+2 -> 3++ : seized collins
+2 <-] : chestnuts routing
+return recycles pushes
+@enduml

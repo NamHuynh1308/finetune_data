@@ -1,0 +1,13 @@
+@startuml
+participant "play suddenly" as 0
+autonumber 0 3
+break inspections toured
+0 -> 0: particularly lutz
+0 -> 0: props machine
+0 -> 0: cuddly casa
+autonumber stop
+loop investments compelled
+0 ->x 0: civics turkeys
+end
+end
+@enduml

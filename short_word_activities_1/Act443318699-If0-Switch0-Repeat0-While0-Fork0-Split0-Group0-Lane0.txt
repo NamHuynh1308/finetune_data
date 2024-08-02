@@ -1,0 +1,5 @@
+@startuml
+start
+:ritual mimic; <<load>>
+-> leads heavily;
+@enduml

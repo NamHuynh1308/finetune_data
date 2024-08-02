@@ -1,0 +1,12 @@
+@startuml
+participant "bond prescribes" as 0
+participant "reinventing pixies" as 1
+== pentagram targeted ==
+loop grades upstart
+create participant "martyr wrinkle" as 2
+1 -> 2 : martyr wrinkle
+0 <-] : incurred kayaking
+else gooey allee
+2 -> 2: hockey behind
+end
+@enduml

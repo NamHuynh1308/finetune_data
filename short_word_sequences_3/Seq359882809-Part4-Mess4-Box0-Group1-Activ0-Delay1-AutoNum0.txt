@@ -1,0 +1,13 @@
+@startuml
+participant "successful basket" as 0
+participant "dragons indecision" as 1
+participant "diplomas creak" as 2
+participant "apiece disastrous" as 3
+1 -// 1: commonly limping
+1 --//o 2: driver constitution
+critical convulsing admirers
+...gallon brutality...
+1 -\\ 1: pant liquor
+1 ->x 1: braided billy
+end
+@enduml

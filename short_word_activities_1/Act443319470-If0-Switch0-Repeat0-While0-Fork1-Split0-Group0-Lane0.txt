@@ -1,0 +1,13 @@
+@startuml
+:bogeyman kobo; <<task>>
+fork
+:languages pencils;
+fork again
+:daylights citation;
+fork again
+:sputnik licorice; <<load>>
+end fork
+:zoning deceptions; <<output>>
+-> shake damnedest;
+stop
+@enduml

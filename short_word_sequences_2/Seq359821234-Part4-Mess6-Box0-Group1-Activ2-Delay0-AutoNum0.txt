@@ -1,0 +1,17 @@
+@startuml
+participant "blatantly peel" as 0
+participant "anaesthetic wormhole" as 1
+participant "soapy angel" as 2
+== sphere buts ==
+create participant "comply banned" as 3
+0 -> 3 : comply banned
+2 -> 0: bothered bounced
+1 ->> 1: righteousness creative
+2 -// 1++ : credit independence
+1 -> 3!! : twilight courteous
+critical dyed jerry
+0 -> 1++ : pillow keg
+end
+return folding potatoes
+return tendon airlift
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+participant "companion prejudiced" as 0
+participant "trashy grunt" as 1
+box "secretaries laundry"
+participant "inflicting therapy" as 2
+participant "relinquish misgivings" as 3
+end box
+autonumber 8 1
+critical spotty shyness
+2 -->x 0: deity thicker
+create participant "trajectory clinched" as 4
+0 -> 4 : trajectory clinched
+end
+opt packages moans
+0 -> 0: forwarding voiced
+1 --> 3: geologists daylights
+else emulating bare
+1 -> 0: canisters recognizable
+2 <-> 2: bellies corporal
+end
+@enduml

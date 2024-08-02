@@ -1,0 +1,33 @@
+@startuml
+|1| effort nifty
+|2| calico haunted
+split
+:landers minefield;
+split again
+:oblivious plump; <<save>>
+-> landscaping uneventful;
+split again
+:oink bollocks; <<continuous>>
+-> ants chime;
+split again
+:tent dusting; <<save>>
+end split
+|2|
+:reinstate upsetting; <<save>>
+if (receive incoming?) then (hooters reamed)
+:hundred handbook;
+else (marc user)
+if (groupies referendums?) then (whoa pampers)
+:overstress microchips;
+:maniac dueling; <<continuous>>
+-> devastation pantyhose;
+else (toughen squinting)
+:haggis drill;
+:findings nosey;
+kill
+endif
+:communications thirties; <<task>>
+:erases negate; <<task>>
+endif
+stop
+@enduml

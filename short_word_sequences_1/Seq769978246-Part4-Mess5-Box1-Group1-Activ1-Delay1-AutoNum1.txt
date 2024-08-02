@@ -1,0 +1,20 @@
+@startuml
+participant "fags consider" as 0
+participant "go lymphoma" as 1
+box "unhappiness progresses"
+participant "yearbook arrow" as 2
+end box
+autonumber 9 0
+2 <-> 1++ : teeming registering
+autonumber stop
+...medicare tape...
+1 -> 1: diversions housecleaning
+break immigrants dentists
+2 ->x 2: cussing pacer
+create participant "preface sides" as 3
+1 -> 3 : preface sides
+autonumber resume
+3 -->x 3: ashtray defibrillator
+end
+return heckles eyeliner
+@enduml

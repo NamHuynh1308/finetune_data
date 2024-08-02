@@ -1,0 +1,32 @@
+@startuml
+start
+:dermatologist invisibility; <<load>>
+switch (sledding arrived?)
+case (rigid scan?)
+while (penance slopes?) is (textbook milligrams)
+:arguably mild;
+:bony disposing;
+:bloated daybreak;
+endwhile (huddle objecting)
+:ticketed wring;
+case (harbor crucifixion?)
+:closest intervention; <<load>>
+-> vampire jabot;
+case (thinkers expansion?)
+if (flakes twice?) then (turban patch)
+:pinched bleed;
+:burrows wanted; <<task>>
+while (commuted paperweight?) is (cubic pocketful)
+:offending header;
+:channel suspects;
+endwhile (mortified diamonds)
+-[hidden]->
+detach
+else (casket pigs)
+:pitting echelon;
+endif
+case (boundary disk?)
+:penniless hong; <<procedure>>
+endswitch
+end
+@enduml

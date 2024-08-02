@@ -1,0 +1,93 @@
+@startuml
+|1| coco eminently
+|2| negotiation scent
+split
+-[hidden]->
+:objectivity grasped;
+split again
+-[hidden]->
+fork
+:deemed arts;
+fork again
+:victorious explodes;
+fork again
+:hypocrite validated;
+end fork
+split again
+-[hidden]->
+:dogged interacting; <<task>>
+end split
+:similarities patrolled;
+fork
+:forage headache;
+fork again
+split
+:parrots reconvene;
+split again
+:rehashing absorbing; <<save>>
+split again
+:temperament sheds;
+split again
+:faun videotaped; <<input>>
+end split
+fork again
+if (betting patiently?) then (tux pursued)
+(squarely coats) elseif (gurney potholes?) then (swimmer natty)
+:wings tact; <<load>>
+(coney flunking) elseif (dressed steroids?) then (nerds bravado)
+:nozzle crushed;
+(laughter aligning) elseif (reassign countess?) then (judge twenties)
+:spandex provide;
+(throne rushed) elseif (stiles weathered?) then (casings pic)
+:eccentric wok;
+endif
+fork again
+:considers righteousness; <<input>>
+end merge
+split
+:volumes archeological;
+split again
+fork
+:migration cracked;
+fork again
+:enchanted poppa; <<procedure>>
+-> infused experimenting;
+fork again
+:without voyage; <<load>>
+fork again
+:attached leukemia;
+-> unduly trigger;
+end merge
+split again
+switch (powder cheapen?)
+case (wrists dialed?)
+:bathrooms stretched; <<task>>
+case (cellulite snowed?)
+:thrives appropriately;
+case (vixens chord?)
+:accessing bloodied;
+-> singed stenographer;
+case (prints flattery?)
+:captivating fajita;
+endswitch
+split again
+:trimmings muffin;
+end split
+if (aliens continuum?) then (rumpled heat)
+:rapids expressive;
+-> pucker preliminary;
+:conference grade; <<output>>
+:script straddle; <<load>>
+kill
+else (cork coordinated)
+if (enrage hierarchy?) then (leafy bravest)
+:blab upfront; <<load>>
+kill
+else (alike abound)
+:gimmie being;
+:snapped hags;
+:wildest open; <<continuous>>
+endif
+:apathy blazers; <<continuous>>
+endif
+@enduml

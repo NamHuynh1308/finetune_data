@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:jewelry responsible;
+split again
+-[hidden]->
+if (allotted rushed?) then (deposing refundable)
+:spice misfits;
+:convenient skulls;
+:killing certainties;
+else (sharpening berry)
+:educating uppity; <<continuous>>
+-> arrangement zed;
+kill
+endif
+split again
+-[hidden]->
+:flatware continued; <<task>>
+split again
+-[hidden]->
+repeat
+backward:brightest skid;
+:burlap unfaithful; <<procedure>>
+repeat while (fluke electrodes?) is (releases troublemakers)
+end split
+:heavens hammer; <<continuous>>
+-> mugger passing;
+group transcripts prescribed
+:hedge flopping;
+stop
+end group
+@enduml

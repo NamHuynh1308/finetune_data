@@ -1,0 +1,15 @@
+@startuml
+participant "deluxe fellahs" as 0
+participant "dots spun" as 1
+box "cane bumps"
+participant "gremlin canisters" as 2
+end box
+alt headlock sleepwalking
+0 ->] : noise embarrassing
+2 -->x 0: skins angles
+else tickling grovel
+1 -> 1: progressed reamed
+2 -> 1: blimey banshee
+else grated literature
+end
+@enduml

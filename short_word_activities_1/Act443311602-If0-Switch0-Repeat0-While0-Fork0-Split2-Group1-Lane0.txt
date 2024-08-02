@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:attic vapid;
+split again
+-[hidden]->
+:umbilical miscommunication;
+-> coloured panicky;
+split again
+-[hidden]->
+split
+:ganged outnumbered;
+split again
+:gracing wonders;
+split again
+:chops hurts; <<task>>
+-> rocker supported;
+split again
+:prisons expectations;
+end split
+end split
+:nitrogen detachment; <<load>>
+group teased strummer
+:stellar saltwater;
+stop
+end group
+@enduml

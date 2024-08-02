@@ -1,0 +1,33 @@
+@startuml
+|1| groomsmen regretting
+|2| goad plow
+|2|
+:ancestors plum; <<continuous>>
+fork
+:reassigned warriors;
+fork again
+:chopper unadvisedly; <<continuous>>
+-> dinks longs;
+fork again
+:raked telescopic; <<output>>
+fork again
+split
+:hare blithering;
+split again
+:commissary wider;
+while (sensory receptionist?) is (replacing publicity)
+:eviscerate stakeout;
+:skiff pothole;
+endwhile (celeste tellers)
+-[hidden]->
+detach
+split again
+:melon fattest; <<task>>
+-> ensuring locating;
+split again
+:forty scream;
+end split
+end fork
+:fingernails paints; <<input>>
+stop
+@enduml

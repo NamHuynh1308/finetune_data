@@ -1,0 +1,28 @@
+@startuml
+participant "headlines pale" as 0
+participant "towns perceived" as 1
+box "couture mincemeat"
+participant "psychiatry pretzel" as 2
+participant "oops domination" as 3
+participant "law bridal" as 4
+end box
+== galoshes myth ==
+autonumber 0 8
+par pitch mirrors
+ [<- 4: captivated brand
+autonumber stop
+1 ->] : sissy universities
+4 -> 2: maverick dickens
+alt impeached timber
+4 <-] : expectation dried
+opt gumption dreaming
+1 -// 2: frankly airlift
+loop leaky unfinished
+0 -> 4: research hangman
+1 --//o 3: nick philosophies
+else teed policemen
+end
+end
+end
+end
+@enduml

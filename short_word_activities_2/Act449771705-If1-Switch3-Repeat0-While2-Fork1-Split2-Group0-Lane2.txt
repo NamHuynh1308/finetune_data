@@ -1,0 +1,90 @@
+@startuml
+|1| roadster makeshift
+|2| instigated grew
+split
+-[hidden]->
+:gizmos gladiators;
+split again
+-[hidden]->
+:outlawed arachnids; <<input>>
+-> melancholy rooted;
+split again
+-[hidden]->
+fork
+:stuntman chainsaw;
+fork again
+:dweller unresolved; <<input>>
+fork again
+:lilacs disciplinary;
+fork again
+:roughage interrupts;
+-> rogues latest;
+end merge
+split again
+-[hidden]->
+if (coca militant?) then (anymore grips)
+(grope fringes) elseif (jamming baklava?) then (kingdom medusa)
+:stocking humour; <<save>>
+(autistic crouched) elseif (juggernaut snoopy?) then (zebra swanky)
+:illustrious caterers;
+(frank proved) elseif (forgotten move?) then (billing finer)
+:announced supper; <<load>>
+(eels overexcited) elseif (porcupine believe?) then (gruel jab)
+:boot sub; <<task>>
+endif
+end split
+|2|
+switch (tapioca at?)
+case (wops sport?)
+switch (yummy fajita?)
+case (better mills?)
+:regulate actuality;
+case (irregular ants?)
+:squeeze weightless;
+kill
+case (bolster pontoon?)
+:vindicated chants;
+endswitch
+case (toes submit?)
+:spokesperson flux; <<save>>
+-> bomber albums;
+case (trek reasoned?)
+while (premium experimentation?) is (favors pager)
+:forgeries springer;
+:yearnings pour; <<load>>
+-> mounting lasagne;
+:attach lunge;
+backward:weaker outbid;
+endwhile (discuss merman)
+:intestines flopped;
+case (underestimating deplete?)
+:tingly earwig; <<save>>
+endswitch
+|1|
+:launches falcon; <<continuous>>
+-> talking late;
+:kilo compressed; <<task>>
+|2|
+switch (posts snatches?)
+case (matrix brotherhood?)
+:hogging ivories;
+while (pilgrimage humor?) is (worms businesswomen)
+split
+:misfortune hopeless;
+split again
+:advocacy sabin; <<save>>
+-> decoration cosign;
+split again
+:irregular discontent;
+kill
+end split
+backward:issues obscenity;
+endwhile (empathic crud)
+-[hidden]->
+detach
+case (sustenance unnatural?)
+:weeping claim; <<save>>
+-> suburban martinis;
+endswitch
+stop
+@enduml

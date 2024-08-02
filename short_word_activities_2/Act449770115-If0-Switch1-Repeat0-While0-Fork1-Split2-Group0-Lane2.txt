@@ -1,0 +1,49 @@
+@startuml
+|1| neutralize emphatically
+|2| brandies deadlines
+split
+-[hidden]->
+:sorbet skateboard;
+split again
+-[hidden]->
+:comprehending singe; <<procedure>>
+split again
+-[hidden]->
+split
+:meanings debating;
+split again
+:murals interferes; <<load>>
+-> goons absorb;
+split again
+:lays handoff; <<save>>
+-> tragic ergo;
+split again
+:stimuli urn; <<task>>
+end split
+end split
+:wastes confused;
+|2|
+switch (hostel agreements?)
+case (angel develops?)
+:bathing bully; <<continuous>>
+case (simplistic bailing?)
+fork
+:arresting corporal;
+fork again
+:bunt polio; <<save>>
+-> frontal spasm;
+fork again
+:flame sullen; <<save>>
+end merge
+case (supremely fatigues?)
+:pigs concerning;
+-> for checkup;
+endswitch
+:downer cucumber; <<task>>
+-> smuggled homestead;
+|1|
+:hairless miscellaneous; <<input>>
+|2|
+:theory vicar;
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "during scalding" as 0
+box "drugs stains"
+participant "roach curling" as 1
+box "clockwork phony"
+participant "unnatural shaker" as 2
+end box
+end box
+== combustible comfort ==
+1 ->> 2++ : laundering electing
+0 ->] : noticeable bum
+return sop dinero
+2 ->> 1++ : bending tardy
+2 -> 2++ : defraud restraints
+return unemployment shredded
+return sykes safety
+@enduml

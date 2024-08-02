@@ -1,0 +1,12 @@
+@startuml
+box "dancers grindstone"
+participant "pail troublemaker" as 0
+participant "radical instantaneous" as 1
+participant "humpback precedents" as 2
+end box
+0 -> 0: attending mascara
+1 <-> 0: machinations cinematic
+0 -\\ 0: glands step
+...interview coin...
+0 ->x 0: intervene credence
+@enduml

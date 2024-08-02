@@ -1,0 +1,28 @@
+@startuml
+participant "bashed recorded" as 0
+participant "identities treasures" as 1
+participant "yippie innovative" as 2
+participant "cling concise" as 3
+== claymore believers ==
+0 ->> 0++ : cramp warned
+2 -> 0: doofus mechanisms
+return sty chomping
+opt torrent faithful
+create participant "apologizing mince" as 4
+1 -> 4 : apologizing mince
+0 -\\ 0++ : porch collector
+create participant "pecks outbreak" as 5
+2 -> 5 : pecks outbreak
+...drinks lasts...
+ [-> 0: symptomatic mariachi
+loop radiant jerseys
+1 -> 5++ : fry deaf
+alt imminent unimportant
+...wet dimwit...
+4 --> 4: rodent merchandise
+return unbearable accuser
+end
+end
+end
+return jackal epilepsy
+@enduml

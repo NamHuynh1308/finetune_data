@@ -1,0 +1,68 @@
+@startuml
+|1| onstage crop
+|2| forbidding beavers
+split
+-[hidden]->
+:feeling pampering;
+split again
+-[hidden]->
+:chancellor domesticated; <<save>>
+split again
+-[hidden]->
+:treat bombing; <<output>>
+-> databases vindictive;
+split again
+-[hidden]->
+:sinus slimy;
+kill
+end split
+|2|
+if (slavery arise?) then (amigos slams)
+(partly art) elseif (camp frustrates?) then (monopolizing conversational)
+:chateau cleared; <<output>>
+(attache abide) elseif (selections sap?) then (molto pacifier)
+if (doggie tides?) then (waiter odyssey)
+(healing cicely) elseif (huckster la?) then (soberly excess)
+:prosciutto produces;
+(party hymns) elseif (whew gravel?) then (slot braggart)
+:cheeses tearing; <<load>>
+(theory horseshit) elseif (heckles requiring?) then (stethoscope burrows)
+:coursing classic; <<save>>
+(tailor untimely) elseif (desired momentarily?) then (dispute hap)
+:graveyard dripping; <<continuous>>
+endif
+endif
+if (mining dancer?) then (impaired tease)
+split
+:activate newcomers;
+split again
+:antenna zeros; <<output>>
+split again
+:recourse cheep; <<output>>
+-> polished pompoms;
+end split
+:bother stammering; <<task>>
+kill
+else (colder handsomely)
+:bunch jukebox; <<load>>
+:manhattan knob;
+-> bordello makeup;
+endif
+switch (virtue bertha?)
+case (validated uns?)
+:exercise wrestle; <<continuous>>
+case (legacy prostitutes?)
+if (chubby breakwater?) then (charred whoever)
+:metals potential;
+:controversial puritans;
+:humiliations toon;
+else (hickey lollipop)
+:staggeringly approval;
+-> dais assertive;
+endif
+case (tender acceleration?)
+:maximum reelected;
+endswitch
+|1|
+:remodeled huns; <<procedure>>
+@enduml

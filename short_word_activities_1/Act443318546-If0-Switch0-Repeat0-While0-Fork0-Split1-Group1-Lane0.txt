@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:wormed gale;
+split again
+-[hidden]->
+:familiar tipping;
+split again
+-[hidden]->
+:vessel touch; <<save>>
+-> stairs technicality;
+split again
+-[hidden]->
+:crippled paged;
+end split
+group nudge coitus
+:menace genius; <<output>>
+:upheld dents; <<continuous>>
+end group
+stop
+@enduml

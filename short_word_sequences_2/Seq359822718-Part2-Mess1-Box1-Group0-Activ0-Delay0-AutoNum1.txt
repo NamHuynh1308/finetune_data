@@ -1,0 +1,9 @@
+@startuml
+box "daylights thrower"
+participant "modelling incredibly" as 0
+end box
+== muster floater ==
+autonumber 7 8
+create participant "screeching haycock" as 1
+0 -> 1 : screeching haycock
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "narcissist primo" as 0
+participant "steadily charged" as 1
+autonumber 7 9
+critical tapped rated
+1 -->x 0: pagan categories
+autonumber stop
+create participant "spitfire littering" as 2
+1 -> 2 : spitfire littering
+end
+@enduml

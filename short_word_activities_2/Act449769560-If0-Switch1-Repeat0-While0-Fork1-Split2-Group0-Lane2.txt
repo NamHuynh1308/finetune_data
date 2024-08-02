@@ -1,0 +1,48 @@
+@startuml
+|1| greetings terrible
+|2| soupy repaired
+split
+-[hidden]->
+:halo skilled;
+split again
+-[hidden]->
+:entrances washes; <<procedure>>
+split again
+-[hidden]->
+:dojo anarchists; <<continuous>>
+split again
+-[hidden]->
+switch (beau hysterectomy?)
+case (feeder bowel?)
+:current janitorial;
+case (westbound jamming?)
+:rawhide ridden; <<continuous>>
+case (pass gigantic?)
+:spineless rogers; <<output>>
+endswitch
+end split
+split
+:lair breed;
+split again
+:attendant stinging;
+split again
+:kins heroes;
+end split
+|2|
+:squeaking fads; <<procedure>>
+-> menopausal philosopher;
+fork
+:nightmarish cholinesterase;
+fork again
+:murky snuggling;
+fork again
+:parker persona; <<load>>
+-> intend bee;
+end merge
+|1|
+:village faun;
+|2|
+:contesting expendable;
+-> wiggly trickster;
+stop
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:predictable blindly;
+split again
+-[hidden]->
+if (lift believer?) then (skills jurisdiction)
+:neighbours ar;
+:mid dorms;
+else (pistachios lesbians)
+:suggestion houses;
+:talker dragging; <<procedure>>
+endif
+split again
+-[hidden]->
+:uneasy goddamned;
+split again
+-[hidden]->
+:nibbling confiscated; <<input>>
+end split
+group yap sitting
+:caskets expressly; <<save>>
+-> dainty nursing;
+stop
+end group
+@enduml

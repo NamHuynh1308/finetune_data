@@ -1,0 +1,12 @@
+@startuml
+participant "kismet sponsorship" as 0
+box "description carbo"
+participant "heat aurora" as 1
+participant "denies override" as 2
+end box
+2 ->> 2: rocking woe
+par fiddling thaw
+2 -// 1: lasting exigent
+1 <-> 2: crossed plait
+end
+@enduml

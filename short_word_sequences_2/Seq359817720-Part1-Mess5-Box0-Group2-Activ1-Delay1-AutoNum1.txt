@@ -1,0 +1,16 @@
+@startuml
+participant "perspectives glucose" as 0
+autonumber 6 1
+alt masseuse nosed
+0 -->x 0++ : comes gnome
+opt roomie backyard
+0 ->> 0: oozing preamble
+...bike masterpiece...
+0 --//o 0: spa rhymed
+0 -> 0: interrogating penalized
+else holiness minutes
+0 -> 0: amulets forgetful
+return noticing backer
+end
+end
+@enduml

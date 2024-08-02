@@ -1,0 +1,18 @@
+@startuml
+participant "dirt doorknob" as 0
+box "bialy certifiable"
+participant "brought former" as 1
+participant "plunder woo" as 2
+participant "voltage salad" as 3
+end box
+3 -// 3: unbuttoned pickles
+1 --//o 3: pathogen rainstorm
+alt upkeep events
+1 --//o 0: geology locks
+par gravely exodus
+create participant "argument freedoms" as 4
+0 -> 4 : argument freedoms
+4 ->o 0: reunite swiped
+end
+end
+@enduml

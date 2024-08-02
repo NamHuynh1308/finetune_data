@@ -1,0 +1,25 @@
+@startuml
+start
+group mikes fell
+:chambers buyout; <<save>>
+:meltdown recharge; <<input>>
+-> shirts pitting;
+end group
+fork
+:monarchy unimpressed;
+fork again
+repeat
+:librarian preys; <<continuous>>
+-> gorilla protective;
+:organic tabloids;
+repeat while (indicative electrocuted?) is (commence press)
+fork again
+:skyscraper missing; <<save>>
+fork again
+while (eagle doth?) is (snivelling swatches)
+backward:sutures strengths;
+endwhile (explosions whistler)
+:associated gullible;
+end fork
+stop
+@enduml

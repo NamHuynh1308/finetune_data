@@ -1,0 +1,11 @@
+@startuml
+participant "gel flannel" as 0
+box "workplace ta"
+participant "slope grove" as 1
+end box
+== macaroni outbound ==
+1 -> 0: deflate continents
+1 -\\ 0: madmen besieged
+0 -// 0: seminal fists
+ [<- 1: ejaculate metal
+@enduml

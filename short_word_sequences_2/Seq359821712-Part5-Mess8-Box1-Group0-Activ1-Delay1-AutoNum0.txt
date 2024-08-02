@@ -1,0 +1,20 @@
+@startuml
+participant "croquet detonators" as 0
+participant "lackluster adore" as 1
+participant "horizon ambient" as 2
+box "bluffing limbo"
+participant "geniuses hungover" as 3
+participant "displaying sweetie" as 4
+end box
+== plaza stage ==
+1 ->> 2: unfunny supportive
+1 ->> 0: faithfulness caper
+0 -> 4!! : ballon movers
+...speedy scout...
+2 <-> 1++ : tool mattress
+ [<- 3: barracks columnist
+2 <-] : initially packet
+return dishonorable airlifted
+3 ->x 4: databases editor
+2 <-] : negotiation participants
+@enduml

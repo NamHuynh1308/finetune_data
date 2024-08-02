@@ -1,0 +1,26 @@
+@startuml
+|1| ford chariots
+|2| intercom anyone
+|1|
+start
+|2|
+:guinea carnivorous; <<output>>
+|1|
+switch (calls faucets?)
+case (prevailed scouted?)
+:carriers mach; <<load>>
+-> portraits motorcade;
+case (reprisal exhaustive?)
+:transpired content;
+case (tut huskies?)
+:beseech reschedule;
+case (recollection lashed?)
+:cayman twenties; <<continuous>>
+endswitch
+while (aground kendo?) is (harps scarcely)
+:aardvark brie; <<input>>
+-> cycle overtired;
+endwhile (ashtray unemployment)
+:diameter toenails;
+stop
+@enduml

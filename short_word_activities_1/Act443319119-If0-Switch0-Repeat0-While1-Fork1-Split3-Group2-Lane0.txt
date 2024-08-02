@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:hangnail junior;
+split again
+-[hidden]->
+fork
+:discounting variations;
+fork again
+:subscriptions empowerment;
+fork again
+:featured burro; <<procedure>>
+-> sleeves mew;
+fork again
+:hummed gang; <<task>>
+-> freedoms veneer;
+end fork
+split again
+-[hidden]->
+while (retrograde nervous?) is (conspirator ecumenical)
+:delights breather; <<procedure>>
+-> subbing mutilated;
+:dorsal sleepwalk;
+:women fingertips; <<input>>
+endwhile (precision ovarian)
+:milligrams introductory;
+end split
+group thunderbird cremation
+split
+:prophecies tattoos;
+split again
+:unlocked precedence; <<output>>
+-> hostages cages;
+split again
+:spiel unquenchable; <<procedure>>
+end split
+group zillions fines
+split
+:chaperone nil;
+split again
+:granddaughter nannies; <<save>>
+split again
+:familiars date;
+end split
+stop
+end group
+end group
+@enduml

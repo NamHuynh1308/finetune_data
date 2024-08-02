@@ -1,0 +1,6 @@
+@startuml
+participant "sniping wish" as 0
+== migration competitors ==
+autonumber 0 8
+0 -> 0: wish revolution
+@enduml

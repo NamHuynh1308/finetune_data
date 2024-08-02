@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:burdened logan;
+split again
+-[hidden]->
+:swore rescheduled; <<output>>
+split again
+-[hidden]->
+fork
+:bask jew;
+fork again
+:elevated fellahs;
+kill
+fork again
+:sun photogenic;
+end fork
+split again
+-[hidden]->
+:gravely kingpin; <<input>>
+end split
+:aids preemptive;
+-> discriminate crusader;
+@enduml

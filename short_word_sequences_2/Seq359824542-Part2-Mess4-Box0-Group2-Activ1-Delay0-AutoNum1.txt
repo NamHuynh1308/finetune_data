@@ -1,0 +1,14 @@
+@startuml
+participant "load goblins" as 0
+participant "quitter manatees" as 1
+autonumber 5 3
+break degraded telekinetic
+0 -> 1++ : airfield triggering
+1 ->x 0: muffins sarcasm
+return labored flexing
+end
+critical experienced drake
+0 -> 0: inquest grenade
+1 --//o 1: boldly ivory
+end
+@enduml

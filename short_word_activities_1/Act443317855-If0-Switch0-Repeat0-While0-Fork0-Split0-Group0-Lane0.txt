@@ -1,0 +1,6 @@
+@startuml
+start
+:admires foreign; <<input>>
+-> cory heavenly;
+stop
+@enduml

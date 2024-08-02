@@ -1,0 +1,7 @@
+@startuml
+group grounds chevy
+:reporting curling; <<continuous>>
+-> cyberspace kissable;
+stop
+end group
+@enduml

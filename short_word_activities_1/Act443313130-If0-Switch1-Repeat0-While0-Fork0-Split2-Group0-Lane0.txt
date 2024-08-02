@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:jag dimly;
+split again
+-[hidden]->
+switch (prefer accepting?)
+case (tiresome decapitation?)
+:stand arbitrary;
+case (lotte romeo?)
+:claustrophobia nougat; <<output>>
+case (levitate quizmaster?)
+:shout worrying;
+-> dex strategist;
+case (cockroaches aspect?)
+:dreary placid; <<task>>
+endswitch
+split again
+-[hidden]->
+:hairless incarceration; <<task>>
+-> preparations stamps;
+end split
+:gloves cessation; <<procedure>>
+-> hurst snowflake;
+split
+:accompany convey;
+split again
+:climbed flipped;
+kill
+split again
+:socks waking; <<continuous>>
+end split
+stop
+@enduml

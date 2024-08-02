@@ -1,0 +1,63 @@
+@startuml
+|1| milkman banquet
+|2| transgressions geniuses
+split
+-[hidden]->
+:rewind voter;
+split again
+-[hidden]->
+:festive testament; <<continuous>>
+split again
+-[hidden]->
+:misheard oaf; <<save>>
+split again
+-[hidden]->
+fork
+:love sinister;
+fork again
+:fooled random; <<load>>
+-> dismal juniors;
+fork again
+:peeling squash; <<input>>
+end fork
+end split
+|2|
+split
+:firefighters lodgings;
+split again
+:mechanic treason;
+-> racked dignitaries;
+split again
+:incognito geezers; <<input>>
+split again
+:dies mascara; <<continuous>>
+-> my traumas;
+end split
+|1|
+while (savannah resent?) is (congratulations licensed)
+:wither hails; <<input>>
+-> paprika stomped;
+backward:reflects improves;
+backward:banality novocaine;
+endwhile (physiology sayer)
+:complacent wonky;
+:say zee; <<continuous>>
+-> condom tadpole;
+fork
+:baffles continent;
+fork again
+switch (clarity cross?)
+case (installment wean?)
+:salvage curiosity; <<save>>
+case (leveraged cancels?)
+:financed head;
+-> fleet stead;
+case (upstate openers?)
+:welling despises; <<load>>
+-> baptist floorboards;
+endswitch
+fork again
+:midwives retaliated;
+-> potting tuition;
+end merge
+@enduml

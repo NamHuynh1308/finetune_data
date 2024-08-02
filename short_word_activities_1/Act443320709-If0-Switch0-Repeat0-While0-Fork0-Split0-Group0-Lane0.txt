@@ -1,0 +1,6 @@
+@startuml
+:rule warmth; <<continuous>>
+-> proprietor pisses;
+:succeeds beginner; <<output>>
+stop
+@enduml

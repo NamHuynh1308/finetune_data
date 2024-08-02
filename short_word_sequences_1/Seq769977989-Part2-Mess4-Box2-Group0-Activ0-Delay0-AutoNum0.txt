@@ -1,0 +1,13 @@
+@startuml
+box "formality underground"
+participant "degrade scoop" as 0
+box "veronica zeroes"
+participant "indigenous dilly" as 1
+end box
+end box
+== tome thinks ==
+0 -> 1!! : pitches excitement
+1 --> 0: diary shalt
+0 -> 0!! : seafood bagels
+0 -> 1!! : posters installation
+@enduml

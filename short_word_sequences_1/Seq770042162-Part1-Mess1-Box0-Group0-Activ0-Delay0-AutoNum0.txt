@@ -1,0 +1,4 @@
+@startuml
+participant "dissent taker" as 0
+ [<- 0: thrift monogamous
+@enduml

@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:salient synchronized;
+split again
+-[hidden]->
+:twelfth cactus; <<save>>
+-> outside boxcar;
+split again
+-[hidden]->
+split
+:bananas lin;
+split again
+:punctured shining; <<input>>
+-> palpable renew;
+split again
+:scones passable; <<procedure>>
+split again
+:fumes weird;
+-> winking stead;
+end split
+split again
+-[hidden]->
+:gesture tailor;
+end split
+fork
+:affairs li;
+fork again
+:indescribable drew; <<continuous>>
+fork again
+while (creeping compliments?) is (factions kegs)
+:prose decaying; <<load>>
+-> rested truss;
+:braiding lay; <<save>>
+:meticulously profitable; <<load>>
+-> goody fornication;
+endwhile (garner amphetamines)
+:buckshot reactor;
+end merge
+end
+@enduml

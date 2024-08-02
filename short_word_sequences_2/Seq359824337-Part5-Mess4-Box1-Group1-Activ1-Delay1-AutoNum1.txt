@@ -1,0 +1,19 @@
+@startuml
+box "genetic reruns"
+participant "impossible variations" as 0
+participant "upward cloud" as 1
+end box
+participant "redskins unexpected" as 2
+== preppy try ==
+autonumber 2 8
+create participant "radar contracted" as 3
+1 -> 3 : radar contracted
+create participant "earshot prisoners" as 4
+2 -> 4 : earshot prisoners
+critical flay ripped
+...faster executioner...
+4 -> 1: handler present
+3 --//o 2++ : hissed occasion
+end
+return unseat hairnet
+@enduml

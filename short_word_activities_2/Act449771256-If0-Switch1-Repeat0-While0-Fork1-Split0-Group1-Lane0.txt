@@ -1,0 +1,19 @@
+@startuml
+group hoses insult
+fork
+:vultures sims;
+fork again
+:adorable robber;
+fork again
+switch (releases rerouted?)
+case (enterprises affirming?)
+:swamps manipulator;
+case (losses saddled?)
+:tux distillery; <<save>>
+case (espionage remainder?)
+:saxophone crouch; <<procedure>>
+endswitch
+end merge
+stop
+end group
+@enduml

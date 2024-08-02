@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:examples legitimacy;
+split again
+-[hidden]->
+:crook exaggeration;
+kill
+split again
+-[hidden]->
+:shunt hovel; <<procedure>>
+split again
+-[hidden]->
+fork
+:cheerleading raids;
+fork again
+:leading coworker; <<procedure>>
+fork again
+:project licorice; <<continuous>>
+end fork
+end split
+while (condos philharmonic?) is (tells cleats)
+:sniping drift;
+-> world angles;
+endwhile (practiced bells)
+:shapes audible;
+end
+@enduml

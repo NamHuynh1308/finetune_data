@@ -1,0 +1,22 @@
+@startuml
+box "cashing bagpipes"
+participant "forthright managed" as 0
+box "gilded supercollider"
+participant "magnum wets" as 1
+participant "clock schmo" as 2
+end box
+end box
+autonumber 3 10
+1 -> 0++ : sure vector
+autonumber stop
+critical slinking millennia
+1 -> 1!! : implants sigma
+2 -> 2: implement varsity
+2 -\\ 0: dazzling cybernetic
+return dingy impeccable
+autonumber resume
+else hindrance wooing
+1 <-] : bartending thefts
+autonumber stop
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "teensy enforcing" as 0
+box "castor catch"
+participant "coworker annoyances" as 1
+end box
+== once cretins ==
+1 ->x 1: sans eaves
+alt waters hereby
+1 -> 1!! : projection dance
+end
+@enduml

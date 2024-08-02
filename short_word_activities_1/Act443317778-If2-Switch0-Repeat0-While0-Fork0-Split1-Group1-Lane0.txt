@@ -1,0 +1,28 @@
+@startuml
+group collect chariots
+split
+:drywall refreshments;
+split again
+:reptilian colleague; <<input>>
+split again
+if (symptom visits?) then (jumping dullness)
+(delicates abuser) elseif (frogs flung?) then (malfunctions accuser)
+:drapes generates; <<load>>
+(seaman chamberlain) elseif (sumo bloom?) then (professionally gagged)
+:bleeder amends;
+endif
+split again
+if (culmination ensuing?) then (gnawing emission)
+:transporting honestly; <<output>>
+:mansion facility; <<procedure>>
+:goddesses hijacking; <<task>>
+-> velvet switched;
+else (specialist poetry)
+:fractures shareholder;
+:abysmal menace; <<procedure>>
+endif
+end split
+:ampule jag; <<load>>
+end group
+:asparagus testicles;
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+start
+:cats approach; <<load>>
+:flatware chamomile;
+stop
+@enduml

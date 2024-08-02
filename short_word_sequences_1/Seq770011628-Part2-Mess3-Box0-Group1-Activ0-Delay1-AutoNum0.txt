@@ -1,0 +1,12 @@
+@startuml
+participant "eloquent carrot" as 0
+participant "taunted migration" as 1
+== grinds master ==
+par aura tryout
+1 <-> 0: followers ducks
+...coma tiffany...
+0 -\\ 1: homely neurosurgery
+else hogwash tenth
+ [-> 1: college plucky
+end
+@enduml

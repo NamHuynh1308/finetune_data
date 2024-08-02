@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:hook bop;
+split again
+-[hidden]->
+switch (virulent electric?)
+case (doom impractical?)
+:referencing deadbeat;
+case (legislative goddess?)
+:fan hustle; <<output>>
+case (bob embellished?)
+:jolly capote;
+-> warren slay;
+endswitch
+split again
+-[hidden]->
+repeat
+backward:ripe featured;
+repeat while (afar chamberlain?) is (paws walls)
+-> examine teaching;
+end split
+:firmly beneath; <<load>>
+stop
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+|1| despicable heir
+|2| bosom bucko
+split
+-[hidden]->
+:revolves reaches;
+split again
+-[hidden]->
+:tightens nocturnal; <<input>>
+-> phobia hiring;
+split again
+-[hidden]->
+:clinics precise; <<continuous>>
+-> heaps operas;
+split again
+-[hidden]->
+:letterhead festering; <<save>>
+-> missed rashes;
+end split
+:productivity mock;
+:remained abducted; <<output>>
+|2|
+:custom buzzards; <<task>>
+-> excluded face;
+@enduml

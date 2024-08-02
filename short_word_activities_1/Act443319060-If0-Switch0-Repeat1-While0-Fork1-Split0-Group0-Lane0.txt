@@ -1,0 +1,14 @@
+@startuml
+repeat
+fork
+:choirboy whine;
+fork again
+:deli overtime;
+fork again
+:gunning governor; <<continuous>>
+-> astronomy looney;
+end fork
+backward:climax bot;
+repeat while (pusher ooh?) is (committee persecuting)
+stop
+@enduml

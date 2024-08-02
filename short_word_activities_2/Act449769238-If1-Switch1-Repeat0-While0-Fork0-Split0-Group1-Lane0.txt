@@ -1,0 +1,25 @@
+@startuml
+start
+group discusses broiler
+:pronto biochemistry; <<task>>
+-> tickling sector;
+if (yes amusement?) then (grandeur whiz)
+:coming when;
+:disapproved boards;
+else (preceding forgetting)
+switch (package eucalyptus?)
+case (cab chartreuse?)
+:insecure figures;
+-> scanners feather;
+case (sunflower streetcar?)
+:mailing stagnant;
+case (washroom janitorial?)
+:abomination fireflies;
+case (are speedo?)
+:recitals simpler; <<input>>
+-> confused flaunt;
+endswitch
+endif
+end group
+stop
+@enduml

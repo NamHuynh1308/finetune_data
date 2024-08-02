@@ -1,0 +1,20 @@
+@startuml
+|1| cheekbones fraught
+|2| allergic poop
+|1|
+start
+|2|
+:worry espionage;
+:litter sack; <<output>>
+-> hardest stains;
+fork
+:kabob sultry;
+fork again
+:tomahawk impromptu; <<save>>
+-> tardiness reader;
+fork again
+:checkbook integrated; <<continuous>>
+fork again
+:infestation peroxide; <<output>>
+end merge
+@enduml

@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:monkey goner;
+split again
+-[hidden]->
+if (honorably bronze?) then (vials twenty)
+:ted corny; <<save>>
+:barbecued physiology; <<save>>
+else (rick thrusters)
+:butchered prophecy;
+:authors sunburn; <<input>>
+:songwriter titties; <<save>>
+endif
+split again
+-[hidden]->
+split
+:steal moderately;
+split again
+:sensible tanking; <<save>>
+-> torpedoes refusal;
+split again
+:abolish manual;
+end split
+split again
+-[hidden]->
+:sorbet pasture; <<output>>
+end split
+if (mummy famed?) then (adopting hitching)
+:wart vipers; <<continuous>>
+-> infertile amazed;
+else (crudely overdressed)
+:radishes defaced; <<save>>
+:teachers dangers; <<output>>
+-> cubes wimpy;
+:ambush sparkly; <<continuous>>
+-> scenes judged;
+endif
+end
+@enduml

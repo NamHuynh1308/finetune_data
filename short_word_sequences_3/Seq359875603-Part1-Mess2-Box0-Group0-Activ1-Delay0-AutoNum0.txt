@@ -1,0 +1,7 @@
+@startuml
+participant "farms cohesive" as 0
+== auditorium cinnamon ==
+0 --//o 0++ : shuffling publicist
+0 ->] : effected petals
+return rocks breakwater
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+box "strawberries pavilion"
+participant "amazon mystic" as 0
+participant "reasonably spur" as 1
+end box
+autonumber 7 4
+1 <-> 0: timed practise
+1 ->o 0++ : faking cookbook
+return lighters initially
+@enduml

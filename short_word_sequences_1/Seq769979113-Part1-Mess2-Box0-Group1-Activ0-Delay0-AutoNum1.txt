@@ -1,0 +1,10 @@
+@startuml
+participant "psychotherapist grubs" as 0
+== hooking kiosk ==
+autonumber 6 10
+0 -->x 0: portion last
+break parallels factoid
+0 -> 0!! : transcripts airways
+autonumber stop
+end
+@enduml

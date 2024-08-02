@@ -1,0 +1,14 @@
+@startuml
+participant "playbook involve" as 0
+box "psycho annual"
+participant "diagnosed genealogy" as 1
+participant "room hickory" as 2
+end box
+autonumber 8 4
+0 -\\ 0: irrigate sabbatical
+autonumber stop
+0 -\\ 1: transmitter counts
+autonumber resume
+2 -> 2: attending sutures
+1 -> 2: squads prejudice
+@enduml

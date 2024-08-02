@@ -1,0 +1,7 @@
+@startuml
+participant "knuckle utter" as 0
+== carolers airplanes ==
+alt quoth roads
+0 <-] : staggering astrophysics
+end
+@enduml

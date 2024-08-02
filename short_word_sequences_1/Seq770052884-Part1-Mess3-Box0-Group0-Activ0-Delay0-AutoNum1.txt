@@ -1,0 +1,9 @@
+@startuml
+participant "psychoanalyze merger" as 0
+== inspires handling ==
+autonumber 0 1
+0 -->x 0: checking stocking
+0 -\\ 0: upgraded smashed
+0 -> 0: eking selves
+autonumber stop
+@enduml

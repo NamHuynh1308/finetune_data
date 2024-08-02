@@ -1,0 +1,12 @@
+@startuml
+participant "license coupling" as 0
+== clunk invent ==
+0 <-> 0: differs tremendously
+create participant "bowing tendons" as 1
+0 -> 1 : bowing tendons
+...fools medicines...
+0 ->] : torturing deliberate
+...murderess crucify...
+0 -> 1: tapioca rescue
+0 -> 0: whispers fuzz
+@enduml

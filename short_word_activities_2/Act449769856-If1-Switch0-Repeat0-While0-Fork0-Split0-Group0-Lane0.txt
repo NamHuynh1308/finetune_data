@@ -1,0 +1,11 @@
+@startuml
+start
+if (portrays suggests?) then (bet lambert)
+:misnomer flier; <<save>>
+else (monte cruises)
+:patrolling repeal; <<load>>
+:soups counsel;
+:womanly emptied; <<procedure>>
+endif
+end
+@enduml

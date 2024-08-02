@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:ordeal hour;
+split again
+-[hidden]->
+:blanket fabrication;
+kill
+split again
+-[hidden]->
+:joints commodities;
+end split
+:calming switcheroo;
+-> jingles flares;
+stop
+@enduml

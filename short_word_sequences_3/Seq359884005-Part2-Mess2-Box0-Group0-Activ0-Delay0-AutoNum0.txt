@@ -1,0 +1,6 @@
+@startuml
+participant "sans dependent" as 0
+participant "jeeps survived" as 1
+0 -> 1: rewind hogging
+0 -\\ 1: tabloid patois
+@enduml

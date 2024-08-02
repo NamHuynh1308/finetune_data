@@ -1,0 +1,12 @@
+@startuml
+participant "simply zonked" as 0
+box "saccharine aspirations"
+participant "exhaustive attracted" as 1
+end box
+ [<- 0: error anchor
+0 ->] : polluting museums
+0 ->x 1: gunfire disorientation
+par auditory sugarplum
+1 -->x 0: sources isolation
+end
+@enduml

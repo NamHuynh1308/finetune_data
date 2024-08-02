@@ -1,0 +1,7 @@
+@startuml
+participant "cough military" as 0
+critical communicated tweedle
+create participant "interrogate fudged" as 1
+0 -> 1 : interrogate fudged
+end
+@enduml

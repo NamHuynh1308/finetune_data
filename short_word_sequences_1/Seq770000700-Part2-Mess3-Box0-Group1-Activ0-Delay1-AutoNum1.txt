@@ -1,0 +1,13 @@
+@startuml
+participant "county unload" as 0
+== arguments harmonious ==
+autonumber 10 2
+create participant "chatter ovaries" as 1
+0 -> 1 : chatter ovaries
+autonumber stop
+...ambient clan...
+0 -->x 1: hairs determined
+break scry segments
+1 -> 0: cowboy seedy
+end
+@enduml

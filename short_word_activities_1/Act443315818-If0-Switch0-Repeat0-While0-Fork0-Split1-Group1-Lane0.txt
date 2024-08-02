@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:warm cobras;
+split again
+-[hidden]->
+:hospitable manager;
+split again
+-[hidden]->
+:patting realize;
+end split
+group stockbroker explorers
+:woodshed mermaid;
+-> hamburger arrests;
+stop
+end group
+@enduml

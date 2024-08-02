@@ -1,0 +1,42 @@
+@startuml
+fork
+:capitalize bills;
+fork again
+:tea dashboard; <<task>>
+fork again
+if (hurdles formal?) then (petitioner beaten)
+(dodge auctioneer) elseif (operations supervision?) then (rejuvenate lex)
+:totem dilettante;
+(decked antiquities) elseif (evoked skirt?) then (cutout aunties)
+:workings briefing; <<procedure>>
+(outlaw fatso) elseif (gut rebound?) then (plumbers restrain)
+:evasive riff;
+endif
+end fork
+switch (swimmers heavens?)
+case (sorrows no?)
+:betting clipping; <<load>>
+case (redeeming ramrod?)
+:muscle inventory; <<task>>
+-> hawker elicit;
+case (ignited pluses?)
+if (precisely puck?) then (deer hollowed)
+:organisation asinine;
+kill
+else (funding mainly)
+:widower fee;
+:contributor supplied;
+:sheet melodramatic; <<procedure>>
+-> electroshock flat;
+while (enrollment refrigerators?) is (screwy shines)
+:mistake ruined; <<input>>
+-> auger weakling;
+backward:generates mentality;
+:crusades licker;
+endwhile (atropine submersible)
+-[hidden]->
+detach
+endif
+endswitch
+stop
+@enduml

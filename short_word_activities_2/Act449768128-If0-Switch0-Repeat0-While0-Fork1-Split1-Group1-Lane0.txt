@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:format mediterranean;
+split again
+-[hidden]->
+:hotter prelude;
+-> propriety tusk;
+split again
+-[hidden]->
+:components privy; <<load>>
+split again
+-[hidden]->
+fork
+:fetched strip;
+fork again
+:pairs minivan; <<output>>
+fork again
+:decks humble; <<input>>
+-> animal eating;
+end fork
+end split
+group electoral reprieve
+:tet quarrel; <<load>>
+:slung employees; <<procedure>>
+end group
+stop
+@enduml

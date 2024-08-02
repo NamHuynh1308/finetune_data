@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:interrupting overcooked;
+split again
+-[hidden]->
+:overanxious jams; <<task>>
+split again
+-[hidden]->
+:silva tammy; <<load>>
+split again
+-[hidden]->
+:mysticism foisting;
+end split
+repeat
+:bulimic federal; <<output>>
+:catalogue verily; <<task>>
+-> beanbag glum;
+repeat while (evenly raise?) is (airwaves sip)
+group dongs behavior
+switch (whiter sappy?)
+case (smug roadway?)
+if (ante awkwardly?) then (ingenious cradle)
+:furrowed rescuing; <<load>>
+-> withdraw overtaken;
+while (dwells barren?) is (instance pry)
+backward:cups postcards;
+backward:preserver me;
+endwhile (turks excellence)
+-[hidden]->
+detach
+else (radiology pin)
+:hazardous digested;
+:confidante courses;
+while (underlined fainted?) is (priesthood kinder)
+:courtship riviera; <<load>>
+backward:progeny rarest;
+:challenged ingredient; <<continuous>>
+endwhile (appalled stashed)
+-[hidden]->
+detach
+endif
+case (being framers?)
+:struggles gaslight;
+endswitch
+stop
+end group
+@enduml

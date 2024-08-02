@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:monumentally raider;
+split again
+-[hidden]->
+:liberty cancels; <<continuous>>
+-> exiled gracing;
+split again
+-[hidden]->
+:chad block; <<procedure>>
+end split
+:seventeen interpretation; <<task>>
+end
+@enduml

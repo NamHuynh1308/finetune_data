@@ -1,0 +1,14 @@
+@startuml
+box "citizen inch"
+participant "advocate videotape" as 0
+box "leafs have"
+participant "particularly postponed" as 1
+end box
+end box
+== respirations quarantine ==
+create participant "hollowed monsignor" as 2
+1 -> 2 : hollowed monsignor
+2 ->x 0: loses chit
+1 --//o 2: endear abroad
+2 ->] : flyers ponies
+@enduml

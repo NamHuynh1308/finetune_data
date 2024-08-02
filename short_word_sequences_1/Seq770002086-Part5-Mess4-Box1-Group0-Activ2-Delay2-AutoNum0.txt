@@ -1,0 +1,18 @@
+@startuml
+participant "slippery bike" as 0
+participant "printer biased" as 1
+box "marveling culottes"
+participant "jumpers blurted" as 2
+participant "quints owning" as 3
+end box
+== chevalier haunting ==
+create participant "shaken eyesight" as 4
+3 -> 4 : shaken eyesight
+...incompetence subconsciously...
+1 -// 4: tawdry nameless
+4 --//o 3++ : pixie cuppa
+...spic syndrome...
+3 ->o 2++ : counting smitten
+return skater gun
+return bearing fad
+@enduml

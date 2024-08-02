@@ -1,0 +1,5 @@
+@startuml
+start
+:storms clumps; <<load>>
+stop
+@enduml

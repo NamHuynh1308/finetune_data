@@ -1,0 +1,37 @@
+@startuml
+participant "reunion snotty" as 0
+participant "colonials gen" as 1
+participant "disgusted canteen" as 2
+box "bulk yearbook"
+participant "mosquito translating" as 3
+participant "bluer body" as 4
+end box
+== shove reggae ==
+autonumber 9 6
+alt sang disorienting
+0 -\\ 1: slurp conceivably
+autonumber stop
+...butters soupy...
+1 -> 0: peep justify
+else ticks prettiest
+...learner powders...
+1 -// 4: rapidly runes
+end
+opt milligrams airspace
+2 --//o 4++ : windmills mellow
+break respectable impractical
+1 ->o 2: oomph tit
+...madly lasso...
+1 -// 2++ : archenemy goodies
+else attitude crew
+3 ->> 0: beforehand moonbeams
+else roasting contestants
+0 -\\ 0: police brunt
+return prescriptions behaviour
+else partial misery
+3 -> 0: imposing couture
+return bowers arise
+autonumber resume
+end
+end
+@enduml

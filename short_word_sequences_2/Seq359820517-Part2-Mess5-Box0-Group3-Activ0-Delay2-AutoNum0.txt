@@ -1,0 +1,19 @@
+@startuml
+participant "quaint anon" as 0
+== tea entrepreneurial ==
+create participant "waiters squinting" as 1
+0 -> 1 : waiters squinting
+opt spill violently
+...showoff euro...
+1 ->> 1: credits debriefed
+loop organise citrus
+...recanting fusilli...
+0 <-] : departure zig
+0 -> 0: enforced shine
+else industrial aspen
+critical twine huge
+1 -->x 0: sunglasses airs
+end
+end
+end
+@enduml

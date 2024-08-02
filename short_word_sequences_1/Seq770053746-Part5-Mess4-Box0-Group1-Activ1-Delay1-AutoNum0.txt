@@ -1,0 +1,15 @@
+@startuml
+participant "grouch delight" as 0
+participant "motives stakeouts" as 1
+participant "assassin clones" as 2
+participant "haunt fliers" as 3
+3 ->] : pacer sprawled
+...scholarships entry...
+2 ->x 1++ : tense moderation
+create participant "mucous jewels" as 4
+0 -> 4 : mucous jewels
+break boomerang case
+4 ->x 2: consolidate blamed
+end
+return orthodox exhausted
+@enduml

@@ -1,0 +1,28 @@
+@startuml
+box "adapting sublime"
+participant "tumor provisions" as 0
+participant "comprehensive cheetah" as 1
+participant "reclusive commentary" as 2
+participant "norther dosage" as 3
+end box
+== force soft ==
+autonumber 10 0
+2 --> 1: endeavors composure
+2 --> 0: frighten bummers
+alt seduced memorabilia
+3 -> 3: columnist groggy
+create participant "premature looker" as 4
+3 -> 4 : premature looker
+...flatterer gunfire...
+ [-> 3: bangles regular
+0 -// 3++ : disappearance peerless
+autonumber stop
+create participant "madeleine lin" as 5
+2 -> 5 : madeleine lin
+...humorless hah...
+4 -> 4!! : larch porter
+autonumber resume
+else dome sizes
+end
+return brew carpeting
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "sparked verbal" as 0
+participant "clam pandora" as 1
+autonumber 2 10
+0 -// 0: enter refueling
+0 <-> 0++ : perfectionist medina
+1 -> 0: kneel planes
+return muscles stomp
+autonumber stop
+@enduml

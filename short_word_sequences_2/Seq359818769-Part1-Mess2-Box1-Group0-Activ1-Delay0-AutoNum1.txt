@@ -1,0 +1,11 @@
+@startuml
+box "bellhops lip"
+participant "pulse oiled" as 0
+end box
+autonumber 7 2
+0 -> 0++ : chaperoning rags
+autonumber stop
+0 -> 0!! : mortality tanked
+return sins relocate
+autonumber resume
+@enduml

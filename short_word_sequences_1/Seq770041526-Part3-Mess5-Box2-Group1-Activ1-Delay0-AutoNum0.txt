@@ -1,0 +1,17 @@
+@startuml
+box "lin neatly"
+participant "cranial deleted" as 0
+box "nodded messes"
+participant "professed tub" as 1
+participant "balled knocker" as 2
+end box
+end box
+par hurts overbearing
+1 <-> 0: sarcoidosis wrung
+1 -\\ 1: classmates watered
+0 --//o 2: optometrist dutiful
+0 -->x 1++ : buzzer flagship
+end
+1 -> 2!! : tourism enrich
+return frightening campus
+@enduml

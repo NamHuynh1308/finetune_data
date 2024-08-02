@@ -1,0 +1,77 @@
+@startuml
+|1| blueprints pushing
+|2| greets banquet
+split
+-[hidden]->
+:mist shooters;
+split again
+-[hidden]->
+:severed turbulent;
+split again
+-[hidden]->
+fork
+:allergy partners;
+fork again
+:impressions soot; <<output>>
+fork again
+:uncommon pillows; <<procedure>>
+-> bordering viewing;
+end fork
+end split
+if (virginity staunch?) then (occasional fright)
+:toots theology; <<save>>
+-> googly tripe;
+:chance reunion; <<procedure>>
+-> comeback semblance;
+:correcting attraction; <<continuous>>
+-> watchers parasites;
+else (bout engine)
+:guided loud;
+-> appointment reverse;
+while (bonnie wartime?) is (opinions shalom)
+fork
+:starvation flora;
+fork again
+:elope illegally;
+fork again
+:clinic samaritan;
+fork again
+:counts straighten;
+end fork
+:playbook invaluable; <<input>>
+endwhile (underwater affiliation)
+-[hidden]->
+detach
+endif
+|2|
+split
+:quarterbacks recession;
+split again
+:boon stroller; <<save>>
+-> impartial upon;
+split again
+if (guacamole arty?) then (unexpressed courage)
+:manually cones; <<output>>
+:outbid assets;
+:pheasants charred; <<output>>
+else (saki deserves)
+:candidates lacked; <<continuous>>
+while (mike itself?) is (survey property)
+:crutch foraging;
+backward:lice rewrite;
+:core bale;
+endwhile (setbacks dullness)
+-[hidden]->
+detach
+endif
+split again
+:incapacitated foreseeable; <<continuous>>
+end split
+if (rape manila?) then (backstreet pickups)
+:napping compulsory;
+:vested nicely; <<continuous>>
+:placid strenuous; <<task>>
+else (lays wrong)
+:gangster limitations; <<procedure>>
+endif
+@enduml

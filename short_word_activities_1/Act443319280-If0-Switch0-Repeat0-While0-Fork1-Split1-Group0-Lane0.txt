@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:hefty elated;
+split again
+-[hidden]->
+:turks weir; <<procedure>>
+-> edit humans;
+split again
+-[hidden]->
+:tagging capper;
+split again
+-[hidden]->
+:north enamel;
+kill
+end split
+fork
+:biased detonators;
+fork again
+:owns told; <<continuous>>
+fork again
+:equipment diatribes;
+fork again
+:exchange fishermen; <<continuous>>
+end merge
+@enduml

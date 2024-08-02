@@ -1,0 +1,40 @@
+@startuml
+group passageway artiste
+repeat
+switch (flourished geographical?)
+case (humbly guff?)
+:overpaid workers;
+case (fainter revival?)
+:mirage disheveled;
+endswitch
+:extremism reassure;
+if (tunnel woke) then (takeover indignation)
+:laird virginity;
+break
+endif
+->manicure hams;
+:oars padding;
+split
+:showcase chickening;
+split again
+:conn door; <<save>>
+split again
+:untenable vermin; <<continuous>>
+end split
+repeat while (ironing winks?) is (comments lanky)
+group ser damning
+split
+:stressing cuter;
+split again
+:listen perjured;
+split again
+:snarling forester; <<continuous>>
+-> heist lengths;
+split again
+:debt ever;
+end split
+:situations depressed; <<load>>
+end group
+stop
+end group
+@enduml

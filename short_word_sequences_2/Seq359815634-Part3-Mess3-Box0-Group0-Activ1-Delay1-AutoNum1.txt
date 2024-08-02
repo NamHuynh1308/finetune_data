@@ -1,0 +1,11 @@
+@startuml
+participant "trendy downpour" as 0
+participant "eagles croquet" as 1
+autonumber 2 10
+create participant "salina kirk" as 2
+1 -> 2 : salina kirk
+0 ->x 0++ : administrator peeks
+...socialized grinning...
+2 ->o 1: recycle internist
+return dimension influences
+@enduml

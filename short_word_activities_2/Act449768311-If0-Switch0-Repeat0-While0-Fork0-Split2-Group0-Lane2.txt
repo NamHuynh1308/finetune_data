@@ -1,0 +1,30 @@
+@startuml
+|1| supposedly commoner
+|2| need rearranging
+split
+-[hidden]->
+:folks geneticist;
+split again
+-[hidden]->
+:cook queller; <<procedure>>
+-> barreling thrice;
+split again
+-[hidden]->
+:arachnid extract; <<output>>
+split again
+-[hidden]->
+:waterproof worsened; <<load>>
+end split
+:fives bared; <<procedure>>
+:sexual limbs;
+-> fury givers;
+|2|
+split
+:spooning filed;
+split again
+:optimism guesses; <<load>>
+split again
+:mainline provoked;
+kill
+end split
+@enduml

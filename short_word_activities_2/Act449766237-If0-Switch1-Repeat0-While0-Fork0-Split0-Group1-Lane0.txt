@@ -1,0 +1,20 @@
+@startuml
+start
+group casualties rawhide
+:somebody temple;
+switch (coyote winery?)
+case (seminal reeled?)
+:aneurysm jog; <<save>>
+-> judas reconvene;
+case (succeeded hyperventilating?)
+:showy baring;
+-> negativity laboratory;
+case (pickings frankfurter?)
+:conserve chemicals; <<procedure>>
+case (deviation negotiate?)
+:romancing flesh;
+-> unscathed powerhouse;
+endswitch
+stop
+end group
+@enduml

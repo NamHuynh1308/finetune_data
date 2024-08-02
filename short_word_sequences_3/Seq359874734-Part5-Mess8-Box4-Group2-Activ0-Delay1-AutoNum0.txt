@@ -1,0 +1,30 @@
+@startuml
+box "get dashboard"
+participant "overview fads" as 0
+box "ensuing foot"
+participant "bitterness bedside" as 1
+box "hearts signing"
+participant "explanation bereavement" as 2
+participant "assessed edible" as 3
+box "signing curing"
+participant "scotch tigers" as 4
+end box
+end box
+end box
+end box
+== motels liaison ==
+2 <-> 0: rally spic
+4 ->] : macaroni outfield
+par allee willful
+0 -> 3!! : humbled repeatedly
+...oblivious launches...
+4 -// 3: gigs assembly
+else fortnight correspond
+par frailty safeguard
+0 -> 4!! : backdrop novocaine
+0 -> 4: stumble units
+1 -> 1: therein zinfandel
+end
+1 <-> 2: episodes tableau
+end
+@enduml

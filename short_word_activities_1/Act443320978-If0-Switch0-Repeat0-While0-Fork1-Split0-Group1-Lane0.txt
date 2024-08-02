@@ -1,0 +1,15 @@
+@startuml
+start
+group liters spitting
+:therefore alarm; <<task>>
+fork
+:volleyball tapioca;
+fork again
+:shrub stakeouts; <<continuous>>
+-> unequivocally gutters;
+fork again
+:young apologetic; <<output>>
+end merge
+stop
+end group
+@enduml

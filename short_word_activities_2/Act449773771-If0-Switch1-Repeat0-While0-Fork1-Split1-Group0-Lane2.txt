@@ -1,0 +1,33 @@
+@startuml
+|1| deceived whistles
+|2| weevil unpunished
+|1|
+start
+|2|
+:picker resigned; <<output>>
+-> result sixth;
+fork
+:moloch pickle;
+fork again
+:cosign cocktail; <<input>>
+fork again
+split
+:spectacles nun;
+split again
+:bottomed borders; <<task>>
+split again
+:caskets egotistical;
+-> carnie takeoff;
+end split
+fork again
+:eng muchachos; <<load>>
+-> manicures dynamite;
+end merge
+switch (crowed relic?)
+case (proverb interviewing?)
+:virgins recheck; <<continuous>>
+case (bridegroom headsets?)
+:disapproval jalopy;
+endswitch
+stop
+@enduml

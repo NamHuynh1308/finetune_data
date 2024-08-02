@@ -1,0 +1,9 @@
+@startuml
+box "garth rotates"
+participant "dong broadcasting" as 0
+end box
+== preliminary opportunist ==
+ [-> 0: filter pressing
+create participant "doom promises" as 1
+0 -> 1 : doom promises
+@enduml

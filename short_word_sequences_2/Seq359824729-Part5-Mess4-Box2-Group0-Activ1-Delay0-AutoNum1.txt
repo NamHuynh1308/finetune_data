@@ -1,0 +1,19 @@
+@startuml
+box "believers pedigree"
+participant "personals surfing" as 0
+box "spinner hallway"
+participant "entertainment regroup" as 1
+participant "dining lingerie" as 2
+participant "wild inlaid" as 3
+end box
+end box
+== requires bran ==
+autonumber 2 0
+0 <-> 1: sororities flustered
+create participant "dopes heck" as 4
+0 -> 4 : dopes heck
+1 ->> 4: teamsters functions
+2 -> 0++ : felons plunge
+autonumber stop
+return wack carlin
+@enduml

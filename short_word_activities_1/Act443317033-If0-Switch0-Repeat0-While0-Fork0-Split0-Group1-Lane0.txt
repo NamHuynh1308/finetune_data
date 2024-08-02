@@ -1,0 +1,8 @@
+@startuml
+start
+group two optimism
+:nary impose; <<task>>
+:bulletin cadavers; <<input>>
+end group
+end
+@enduml

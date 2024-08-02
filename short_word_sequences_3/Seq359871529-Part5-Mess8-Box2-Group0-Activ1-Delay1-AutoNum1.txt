@@ -1,0 +1,25 @@
+@startuml
+box "overslept digitally"
+participant "enjoyed hooter" as 0
+box "card ingrates"
+participant "geometric professor" as 1
+participant "poisoning wooing" as 2
+end box
+participant "viewing vixen" as 3
+end box
+autonumber 2 3
+3 -> 1!! : crowns myself
+ [<- 0: hikers accordance
+autonumber stop
+create participant "fund jaunt" as 4
+2 -> 4 : fund jaunt
+2 -> 3!! : valves wits
+autonumber resume
+3 -> 0: swaying voting
+...titan quintet...
+0 ->] : platoon cathartic
+2 -> 2: bike brutally
+autonumber stop
+2 <-> 2++ : interstate ice
+return frankly courtrooms
+@enduml

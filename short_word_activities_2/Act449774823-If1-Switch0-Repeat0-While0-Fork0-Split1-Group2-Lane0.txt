@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:easygoing whipped;
+split again
+-[hidden]->
+:hatch progressing; <<save>>
+-> try polls;
+split again
+-[hidden]->
+if (strong spackle?) then (fibrosis temp)
+:revered wrap;
+:mainland malfeasance; <<task>>
+-> ere matter;
+:beta fanatic;
+else (indistinguishable aground)
+:warpath continuation;
+:vasectomy roger;
+:princely funnier; <<save>>
+endif
+end split
+group doggone psyche
+:whistle zee; <<input>>
+-> wellness stuffs;
+group message shtick
+:cloistered depressed;
+stop
+end group
+end group
+@enduml

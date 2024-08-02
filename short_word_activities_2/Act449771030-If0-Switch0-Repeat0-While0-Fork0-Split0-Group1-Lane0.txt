@@ -1,0 +1,8 @@
+@startuml
+group rumors fads
+:inclined dieting; <<load>>
+:murphy henchman; <<input>>
+-> reserved uncles;
+end group
+stop
+@enduml

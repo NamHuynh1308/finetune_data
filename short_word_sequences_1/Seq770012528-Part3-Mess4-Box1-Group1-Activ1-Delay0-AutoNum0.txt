@@ -1,0 +1,16 @@
+@startuml
+box "stands include"
+participant "knock alcove" as 0
+participant "fop cautiously" as 1
+participant "lilac denouncing" as 2
+end box
+opt scroll meetings
+2 -\\ 2++ : windmills jargon
+0 -->x 2: mollie minions
+else passport strap
+0 -> 1: circulate inevitable
+2 -> 0: outweigh boosted
+else freshwater yawn
+end
+return sight shaves
+@enduml

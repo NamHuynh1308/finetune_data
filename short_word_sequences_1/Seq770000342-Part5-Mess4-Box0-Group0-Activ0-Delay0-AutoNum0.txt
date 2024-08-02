@@ -1,0 +1,12 @@
+@startuml
+participant "returned care" as 0
+participant "commune outrage" as 1
+participant "drawback identity" as 2
+participant "camped scram" as 3
+== at waltzing ==
+3 -> 1: rightful consented
+0 ->] : implausible vouched
+1 -> 3!! : overcooked winking
+create participant "worship stiff" as 4
+1 -> 4 : worship stiff
+@enduml

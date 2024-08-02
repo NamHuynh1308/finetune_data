@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:whistle hated;
+split again
+-[hidden]->
+:raspberry twos; <<input>>
+split again
+-[hidden]->
+fork
+:undying protocols;
+fork again
+:fools ubiquitous; <<task>>
+fork again
+:eliminated neglectful;
+end fork
+split again
+-[hidden]->
+fork
+:proper hawk;
+fork again
+:kidding blown;
+fork again
+:swamps mate; <<load>>
+fork again
+:entrepreneurial comic;
+end merge
+end split
+:resulted seized;
+@enduml

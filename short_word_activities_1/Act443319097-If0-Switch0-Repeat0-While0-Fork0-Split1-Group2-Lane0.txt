@@ -1,0 +1,16 @@
+@startuml
+group shading pawnshop
+:myth manufactures; <<task>>
+group cactus spaced
+split
+:hereditary bulging;
+split again
+:struggle weasel; <<output>>
+-> amazingly disinfect;
+split again
+:mastered purgatory;
+end split
+stop
+end group
+end group
+@enduml

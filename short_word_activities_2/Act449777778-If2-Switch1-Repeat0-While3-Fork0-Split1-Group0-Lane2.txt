@@ -1,0 +1,60 @@
+@startuml
+|1| dissipated infatuated
+|2| gig christen
+|1|
+start
+switch (suggestions cheaper?)
+case (litigation indifferent?)
+:dais disappointed;
+while (elite misplace?) is (am delay)
+backward:same coloring;
+:match noticing;
+-> finalists refills;
+endwhile (paddock withheld)
+-[hidden]->
+detach
+case (swizzle fluid?)
+:destiny assortment; <<output>>
+case (national stared?)
+:diagnosed ouch;
+case (locator struck?)
+if (scamp nice?) then (endanger bookends)
+:warmest soar;
+:wounds devoted;
+-> nephew sir;
+while (access platter?) is (lancer meaningful)
+:harbor rearing;
+backward:annoys scenario;
+endwhile (perspectives riff)
+-[hidden]->
+detach
+else (thoracotomy charming)
+:her woven; <<input>>
+:overruled risks; <<output>>
+-> database shapely;
+endif
+endswitch
+|2|
+if (whimper hogs?) then (weiner hollowed)
+(las impartial) elseif (shrinkage highball?) then (swimming broad)
+:pioneer razor;
+-> carnie relax;
+(strain shadowing) elseif (longing goof?) then (sleight devices)
+:barman morbid; <<procedure>>
+endif
+|1|
+split
+:spa doth;
+split again
+:emotional hurtful; <<continuous>>
+split again
+:legendary indelicate; <<output>>
+split again
+while (smirking mowing?) is (philharmonic expected)
+:eclectic foundation;
+:peeled halt;
+endwhile (loafers regretted)
+:ditches toolbox;
+end split
+end
+@enduml

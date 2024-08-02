@@ -1,0 +1,23 @@
+@startuml
+|1| hobbling glint
+|2| talented wig
+split
+-[hidden]->
+:wallet reactors;
+split again
+-[hidden]->
+:talentless grub; <<task>>
+-> recuperating dreaming;
+split again
+-[hidden]->
+:pow weaken; <<load>>
+end split
+:tribute conned; <<save>>
+|2|
+:fornicating added; <<procedure>>
+-> ballon graham;
+|1|
+:potted translating; <<output>>
+-> accident sincerity;
+end
+@enduml

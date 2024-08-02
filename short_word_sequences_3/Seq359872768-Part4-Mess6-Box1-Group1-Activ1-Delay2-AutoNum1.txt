@@ -1,0 +1,22 @@
+@startuml
+participant "mollusk tiki" as 0
+participant "romping devours" as 1
+box "renewal embezzler"
+participant "gorge thermonuclear" as 2
+end box
+autonumber 6 2
+create participant "nymph incense" as 3
+2 -> 3 : nymph incense
+...eyelids pierced...
+3 ->] : mangos animals
+0 -> 1: lashes boundaries
+...navigational ties...
+2 <-> 1: maneuvering hot
+autonumber stop
+opt champs hurt
+3 <-] : chic movies
+autonumber resume
+1 ->x 0++ : abbey bathrobe
+end
+return dress poacher
+@enduml

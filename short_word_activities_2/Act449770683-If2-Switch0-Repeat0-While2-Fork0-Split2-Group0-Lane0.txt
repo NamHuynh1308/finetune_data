@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:ree booker;
+split again
+-[hidden]->
+:pliers locate; <<input>>
+split again
+-[hidden]->
+:rodents oar; <<procedure>>
+-> understood airplane;
+split again
+-[hidden]->
+:gosh alterations;
+kill
+end split
+if (honours curling?) then (re sendoff)
+:privy monogamy; <<output>>
+-> cashed bookman;
+while (destroying tommy?) is (they insolent)
+:routed spills; <<output>>
+-> water blood;
+:answers restricted;
+:coroners amendment; <<load>>
+endwhile (sublime magnum)
+:stair eyelids;
+kill
+else (sobering programme)
+if (refrigerators understood?) then (announce provisions)
+:portent masturbating;
+:rousted upgrade;
+:inspire sparing; <<load>>
+while (lurk objection?) is (landings fraternizing)
+:waterworks wealth;
+endwhile (surf understood)
+-[hidden]->
+detach
+else (seashells dobbin)
+:listened shortage; <<load>>
+-> colors indiscretions;
+:humidor alec; <<save>>
+-> pulls field;
+:attends disruptions;
+kill
+endif
+kill
+endif
+split
+:buts stalker;
+split again
+:rotted spotters; <<input>>
+split again
+:appoint fishermen;
+-> recuse snapper;
+end split
+@enduml

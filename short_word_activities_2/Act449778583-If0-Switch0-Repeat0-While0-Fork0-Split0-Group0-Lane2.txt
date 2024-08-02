@@ -1,0 +1,12 @@
+@startuml
+|1| flies res
+|2| square hm
+|1|
+start
+:fueling flan;
+-> senseless behaviour;
+:risk paperboy; <<procedure>>
+|2|
+:tray arrive; <<load>>
+end
+@enduml

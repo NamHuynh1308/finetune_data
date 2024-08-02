@@ -1,0 +1,40 @@
+@startuml
+|1| ticketed rolls
+|2| poll mole
+|2|
+:parallels curling; <<task>>
+-> bottling turkey;
+split
+:awol rickety;
+split again
+:orbiting timid; <<load>>
+-> perceived menacing;
+split again
+while (warlock procession?) is (religious creamed)
+:procrastinating rigged; <<output>>
+:hazing packs;
+endwhile (funds deejay)
+:barricades order;
+split again
+:bannister ace; <<load>>
+-> conversations voltage;
+end split
+:caper journey;
+if (oars unmistakable?) then (mopey gray)
+:exterminating procrastinating; <<save>>
+-> comet pretzel;
+else (commercials recognized)
+:landmarks ba; <<output>>
+if (embark unprofessional?) then (cotillion observatory)
+(staffed bubbies) elseif (degenerative oneself?) then (constructed stork)
+:snatched establishment;
+(interferes consigliere) elseif (tony heels?) then (organization bloodshed)
+:melodramatic bedspread; <<save>>
+(unattended prices) elseif (pixies dimension?) then (lattes paranoid)
+:puller provocation; <<load>>
+endif
+endif
+|1|
+:sturgeon fugitives; <<save>>
+stop
+@enduml

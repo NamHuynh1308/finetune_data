@@ -1,0 +1,11 @@
+@startuml
+box "hawks beside"
+participant "occupation bouncy" as 0
+participant "drummer chiles" as 1
+end box
+autonumber 6 3
+0 ->o 0: sponsored rattlesnake
+ [<- 1: composition apparent
+0 -> 1!! : features mined
+1 --> 0: classrooms on
+@enduml

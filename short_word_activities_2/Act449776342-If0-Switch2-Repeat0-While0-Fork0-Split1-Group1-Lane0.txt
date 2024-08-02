@@ -1,0 +1,31 @@
+@startuml
+start
+group vandals drawing
+:traveler eternally; <<procedure>>
+split
+:site particularly;
+split again
+switch (drilling milked?)
+case (underestimate fraulein?)
+:celebrate strengths;
+kill
+case (remodeled expelling?)
+:tolerated filmmaker;
+case (abrasive elaborate?)
+:wrongful molester;
+endswitch
+split again
+switch (steering wilder?)
+case (prednisone alpine?)
+:descends subscription;
+case (cardigan hospitalized?)
+:thirties tending; <<task>>
+-> alongside dispatch;
+case (rin unraveling?)
+:speculative scheming; <<load>>
+endswitch
+end split
+end group
+:relinquish ransom; <<load>>
+end
+@enduml

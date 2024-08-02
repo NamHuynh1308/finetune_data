@@ -1,0 +1,7 @@
+@startuml
+group billion horde
+:moved pellet; <<task>>
+-> bop innocuous;
+stop
+end group
+@enduml

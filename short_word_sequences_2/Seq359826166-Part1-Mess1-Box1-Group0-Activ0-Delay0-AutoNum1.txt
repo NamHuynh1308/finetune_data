@@ -1,0 +1,8 @@
+@startuml
+box "happen thus"
+participant "speck focal" as 0
+end box
+autonumber 8 8
+0 --//o 0: importantly very
+autonumber stop
+@enduml

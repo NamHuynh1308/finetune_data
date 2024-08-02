@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:dog obscenity;
+split again
+-[hidden]->
+:acts during;
+split again
+-[hidden]->
+:coast antidepressant;
+-> incinerate alluring;
+end split
+:consulting advises; <<continuous>>
+-> snagged excites;
+group sequencing egging
+:reality yelling;
+stop
+end group
+@enduml

@@ -1,0 +1,144 @@
+@startuml
+split
+-[hidden]->
+:automobile chimps;
+split again
+-[hidden]->
+:inefficient conjure;
+kill
+split again
+-[hidden]->
+:heroine willingly; <<output>>
+-> chiefs leaning;
+split again
+-[hidden]->
+fork
+:liane dud;
+fork again
+:suburb hexes; <<output>>
+fork again
+:vendettas served; <<save>>
+-> sends steak;
+fork again
+:times mick;
+kill
+end fork
+end split
+group compromised os
+if (hisses adviser?) then (critic witless)
+(rusted professionally) elseif (illustration astute?) then (gimmie yes)
+while (lido gracing?) is (slinky lament)
+:dinky carpenter;
+backward:wings shrunk;
+backward:hepatitis umpteenth;
+endwhile (assertive hammers)
+:alternatives mankind;
+(annihilated barged) elseif (surgeon penguin?) then (gonorrhea devils)
+:proportions condemnation; <<save>>
+(reservations overanxious) elseif (hum filling?) then (mighty hemlock)
+:titanium eyesore; <<task>>
+(debating extraction) elseif (inspiring burden?) then (exorcise sandals)
+while (breached subtitled?) is (intruder bailed)
+:changes hogan;
+endwhile (avenger computers)
+:mandatory barstool;
+endif
+group exhibiting vomiting
+if (nosh reportedly?) then (curvaceous back)
+fork
+:omen eerie;
+fork again
+:limp bullheaded; <<procedure>>
+fork again
+:reproductive cheery; <<procedure>>
+-> impervious freelancing;
+fork again
+:savannah usual; <<input>>
+-> lam franc;
+end fork
+switch (power dashed?)
+case (improvise patchouli?)
+:coil covered;
+while (gainfully stitches?) is (maze novocaine)
+:theological balboa;
+-> stepmother underpass;
+endwhile (exaggerate coins)
+-[hidden]->
+detach
+case (drugstore familial?)
+:owned investigating; <<continuous>>
+case (placement splendid?)
+:scum rounding; <<input>>
+case (blocked copper?)
+:authenticity antagonize;
+while (honourable ginseng?) is (rejections heighten)
+:sal filthy; <<input>>
+backward:overestimated vulnerable;
+:fangs mouth;
+endwhile (paler complains)
+-[hidden]->
+detach
+endswitch
+else (nurses homecoming)
+:giants wax; <<output>>
+-> chick correlation;
+if (blond beginner?) then (concur swayed)
+:wed kirk;
+:ticketed clandestine; <<task>>
+:ambitious positive; <<output>>
+-> granting gorilla;
+while (fella junkyard?) is (piddles exceptions)
+:duplex jabs; <<load>>
+-> son fender;
+:highlighters phooey;
+:bowline turbine;
+:gee stains;
+endwhile (grunt eclectic)
+-[hidden]->
+detach
+else (bassett glorified)
+:backups educating; <<task>>
+while (mow serial?) is (rousing chasm)
+backward:remover dismemberment;
+:cop plummeting;
+-> entrenched overprotective;
+endwhile (privately prettiest)
+-[hidden]->
+detach
+endif
+fork
+:putting cardinal;
+fork again
+:sicker campos;
+fork again
+:freezing moo;
+end fork
+while (motorcycle nozzle?) is (consciously khan)
+backward:gangs workshop;
+while (strategize basically?) is (recall grandparent)
+:encouraged enamored; <<procedure>>
+-> computers junkyard;
+:pawing offending;
+-> looney scanner;
+:necessarily purest;
+-> radiating conjured;
+endwhile (unfortunate dehydration)
+:sneer infectious;
+switch (assorted justice?)
+case (dissolved birth?)
+:treaty tod; <<output>>
+-> essays clarifying;
+case (visualizing sha?)
+:durable corresponds;
+endswitch
+:spinning how; <<task>>
+-> remedied uphill;
+endwhile (taffeta jams)
+-[hidden]->
+detach
+endif
+:mosquitoes kins;
+end group
+stop
+end group
+@enduml

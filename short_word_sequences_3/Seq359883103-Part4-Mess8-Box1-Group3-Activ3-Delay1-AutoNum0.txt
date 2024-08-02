@@ -1,0 +1,27 @@
+@startuml
+participant "presidency consumes" as 0
+participant "robe scone" as 1
+box "noodles steam"
+participant "sketches fiber" as 2
+participant "satisfies conditioner" as 3
+end box
+par backfiring knickknacks
+ [<- 2: latter password
+3 ->] : escape signora
+end
+0 -// 0++ : samples diligent
+alt carb sprays
+0 ->] : gardens uplifting
+return striving independent
+3 -> 0!! : eyelash kayak
+else welcome squid
+ [-> 3: trolls ladies
+...squirrels tempers...
+3 --//o 3++ : peepers murderers
+end
+alt adjusting eject
+1 -> 3++ : showered tea
+end
+return hurricane kidnapper
+return chapters toying
+@enduml

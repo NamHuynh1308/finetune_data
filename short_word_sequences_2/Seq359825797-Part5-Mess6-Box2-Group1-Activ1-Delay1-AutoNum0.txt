@@ -1,0 +1,23 @@
+@startuml
+box "swoop reinforcements"
+participant "midterms outlaws" as 0
+participant "thinkers detailed" as 1
+participant "mowed amazes" as 2
+participant "bunting wisely" as 3
+box "impregnated gripes"
+participant "worth barefoot" as 4
+end box
+end box
+== interning workplace ==
+2 -\\ 0: rebels selling
+3 -> 0: tactics duplex
+...tenure saturated...
+1 ->x 3: newcomer waterworks
+opt fighter tolerance
+2 -> 4++ : hospitals fatal
+ [<- 1: pretty extraordinaire
+else hasty blackouts
+0 ->] : nachos sidecar
+return bookstore demands
+end
+@enduml

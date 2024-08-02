@@ -1,0 +1,7 @@
+@startuml
+participant "twitchy critters" as 0
+0 ->x 0: cavern cool
+0 -// 0++ : tick damning
+0 -> 0: bolts hump
+return salmon irritation
+@enduml

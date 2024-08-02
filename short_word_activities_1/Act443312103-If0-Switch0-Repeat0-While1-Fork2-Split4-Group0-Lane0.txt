@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:withering flinch;
+split again
+-[hidden]->
+split
+:repertoire catwalk;
+split again
+:plums retraction;
+split again
+:ironic heavy;
+end split
+split again
+-[hidden]->
+fork
+:gorilla robbed;
+fork again
+:prairie roadblocks;
+fork again
+:inlaid orientation;
+-> toss participated;
+end fork
+end split
+split
+:guzzling figment;
+split again
+:pubes hotdog; <<input>>
+-> cardiovascular passages;
+split again
+while (anomalies worrisome?) is (traveller spontaneously)
+:soberly abundantly; <<task>>
+:bogus seg;
+endwhile (harbour suede)
+:hideously abandon;
+end split
+fork
+:overdosed novels;
+fork again
+split
+:jacks desires;
+split again
+:summarily piddles;
+split again
+:tolerant don; <<output>>
+-> gilbert swordfish;
+split again
+:loath mornings; <<output>>
+end split
+fork again
+:margin republicans; <<procedure>>
+end merge
+@enduml

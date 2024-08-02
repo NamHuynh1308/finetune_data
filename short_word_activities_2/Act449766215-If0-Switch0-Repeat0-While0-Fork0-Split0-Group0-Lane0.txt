@@ -1,0 +1,5 @@
+@startuml
+start
+:changes normal; <<output>>
+stop
+@enduml

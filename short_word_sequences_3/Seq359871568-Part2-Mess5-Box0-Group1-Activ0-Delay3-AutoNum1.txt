@@ -1,0 +1,18 @@
+@startuml
+participant "tweaked suspicion" as 0
+participant "battling keepers" as 1
+== blume lever ==
+autonumber 0 1
+1 -> 0: mastery ticketed
+1 --> 1: rivalry bypass
+...kilo millions...
+1 <-] : broadcast banister
+autonumber stop
+...baptize executives...
+0 ->o 1: catsup henhouse
+autonumber resume
+opt curveball antenna
+...nostril decisions...
+ [-> 1: radiator unrest
+end
+@enduml

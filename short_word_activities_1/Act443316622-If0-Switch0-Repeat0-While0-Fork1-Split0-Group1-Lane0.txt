@@ -1,0 +1,13 @@
+@startuml
+group scoliosis leather
+fork
+:quark suspension;
+fork again
+:credits recommendations; <<procedure>>
+fork again
+:rounded fallen; <<procedure>>
+-> detection paintings;
+end merge
+stop
+end group
+@enduml

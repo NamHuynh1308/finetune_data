@@ -1,0 +1,52 @@
+@startuml
+|1| loathe spy
+|2| derailing horoscope
+|1|
+start
+:scatter mercy; <<task>>
+|2|
+if (carefree flair?) then (cooks wear)
+(intermittent heartless) elseif (external alluding?) then (copter martyrs)
+:underlings welfare; <<continuous>>
+(weekly dunking) elseif (crutch fiefdom?) then (parasitic behaviour)
+while (protein redskins?) is (groundwork illnesses)
+backward:properly perm;
+backward:sap bisque;
+backward:subjects masterminded;
+endwhile (upholstery mon)
+:lacy dips;
+(married aptly) elseif (euros blend?) then (privilege supernatural)
+switch (rue adrenals?)
+case (interstate ruffle?)
+:assistance intimidating; <<continuous>>
+case (guitar rob?)
+:coin fascinating; <<save>>
+case (grudging depends?)
+:dashboard hair;
+case (barbarians incite?)
+:cameras photocopy;
+endswitch
+endif
+|1|
+split
+:piston teams;
+split again
+fork
+:quivering spirals;
+fork again
+:saw majestic; <<load>>
+-> compost dabbling;
+fork again
+:bombarding staging;
+-> yaw pronounced;
+fork again
+:someone listener;
+end merge
+split again
+:recrimination deficit;
+-> breakups substance;
+split again
+:sprinkler obtained; <<output>>
+end split
+end
+@enduml

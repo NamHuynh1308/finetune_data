@@ -1,0 +1,11 @@
+@startuml
+box "inmate knock"
+participant "skiing jogging" as 0
+end box
+0 -> 0: wheel cuff
+...indulged lifesaver...
+0 -> 0: patients tiff
+alt lottery docs
+0 -\\ 0: converting escape
+end
+@enduml

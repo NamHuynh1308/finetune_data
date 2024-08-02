@@ -1,0 +1,21 @@
+@startuml
+participant "sever allotted" as 0
+participant "ankle scripted" as 1
+participant "alimony airman" as 2
+== sludge psychotic ==
+1 --> 2++ : camcorder furlong
+create participant "deemed pits" as 3
+2 -> 3 : deemed pits
+alt pooped fog
+create participant "racked viscous" as 4
+2 -> 4 : racked viscous
+create participant "tangled cheddar" as 5
+4 -> 5 : tangled cheddar
+ [<- 2: heartbreaking alderman
+1 <-] : itchy fund
+else neurosurgeon minimal
+...friendless calculator...
+0 ->] : embezzler mills
+end
+return custodian eyeballs
+@enduml

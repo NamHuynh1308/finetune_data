@@ -1,0 +1,20 @@
+@startuml
+participant "knuckle retirement" as 0
+participant "mess amoral" as 1
+box "straws taunts"
+participant "flick frat" as 2
+box "refrigerated floods"
+participant "cleansing prohibits" as 3
+end box
+end box
+2 <-] : commercially sunrise
+create participant "sharper fenders" as 4
+3 -> 4 : sharper fenders
+par item cutler
+2 -> 3!! : touring lighten
+3 -> 1: provided trombone
+3 -> 0!! : tune hit
+...tool low...
+ [-> 0: decades godmother
+end
+@enduml

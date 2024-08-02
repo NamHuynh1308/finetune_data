@@ -1,0 +1,20 @@
+@startuml
+box "wilderness boozing"
+participant "lightening pen" as 0
+box "lobotomy lodgings"
+participant "detonates scriptures" as 1
+end box
+end box
+autonumber 2 4
+alt antibodies turbulence
+1 <-> 0: melodrama horizons
+1 -\\ 1: whose insulation
+autonumber stop
+else tortures extracurricular
+...carpeting horsehair...
+0 -->x 1++ : marker bust
+0 ->x 0: outdoor almond
+return contain poorly
+autonumber resume
+end
+@enduml

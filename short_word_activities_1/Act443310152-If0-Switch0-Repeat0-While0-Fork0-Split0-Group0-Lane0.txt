@@ -1,0 +1,6 @@
+@startuml
+start
+:engagement scenic; <<continuous>>
+-> bib saver;
+end
+@enduml

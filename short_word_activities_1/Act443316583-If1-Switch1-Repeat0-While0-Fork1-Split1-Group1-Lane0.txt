@@ -1,0 +1,39 @@
+@startuml
+group verbatim limerick
+fork
+:mats accumulate;
+fork again
+:straightening rooming; <<procedure>>
+fork again
+:slasher iceberg;
+fork again
+split
+:nuisance cruiser;
+split again
+:off unspeakable; <<procedure>>
+-> safety vindication;
+split again
+:priced anesthesiologist;
+end split
+end merge
+switch (bridesmaids unanswered?)
+case (profusely prerequisite?)
+:militia flicked; <<load>>
+case (atop syrup?)
+:sponge paraphernalia; <<input>>
+-> hater chill;
+case (vinyl pac?)
+if (sitters dishonor?) then (firepower horseman)
+:calender counterproductive; <<task>>
+-> execs hooks;
+else (anchorage sinful)
+:literacy mastered; <<procedure>>
+:mocking radial; <<load>>
+:cadmium pastry; <<load>>
+kill
+endif
+endswitch
+:candlelight northeastern; <<save>>
+end group
+end
+@enduml

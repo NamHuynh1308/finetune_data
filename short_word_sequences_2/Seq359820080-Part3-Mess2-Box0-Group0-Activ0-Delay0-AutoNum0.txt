@@ -1,0 +1,8 @@
+@startuml
+participant "uptake unacceptable" as 0
+participant "corroboration play" as 1
+== motivation queers ==
+create participant "dilemma transfusion" as 2
+1 -> 2 : dilemma transfusion
+0 <-> 2: neglecting ate
+@enduml

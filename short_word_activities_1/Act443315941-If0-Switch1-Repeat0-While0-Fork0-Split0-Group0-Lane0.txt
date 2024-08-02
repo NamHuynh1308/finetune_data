@@ -1,0 +1,14 @@
+@startuml
+switch (fellow hungover?)
+case (dills moment?)
+:informing sewage;
+case (huge twosome?)
+:generated bargained;
+case (species housewarming?)
+:convenient geographical; <<save>>
+case (monte complacency?)
+:robbery seaplane; <<save>>
+endswitch
+:elevation admitting; <<continuous>>
+-> occasionally fatigue;
+@enduml

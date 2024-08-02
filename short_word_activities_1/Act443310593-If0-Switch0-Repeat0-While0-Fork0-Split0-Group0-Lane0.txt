@@ -1,0 +1,8 @@
+@startuml
+start
+:rehearse sloppy;
+:lined avenge; <<procedure>>
+:squashed mezzanine; <<output>>
+-> works ramifications;
+stop
+@enduml

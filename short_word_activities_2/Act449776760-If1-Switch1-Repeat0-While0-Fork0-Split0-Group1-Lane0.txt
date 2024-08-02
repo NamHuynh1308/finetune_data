@@ -1,0 +1,19 @@
+@startuml
+if (doses presuming?) then (eagle dashed)
+(undermined blowhard) elseif (parish civilisation?) then (meager gobbles)
+switch (statistics hiss?)
+case (baboon tarzan?)
+:disappearance stinking;
+case (misunderstandings created?)
+:guerrilla pit;
+endswitch
+(tidbits kirk) elseif (vet residual?) then (deadlier mutants)
+:masseuse surfing; <<output>>
+-> inexplicable port;
+endif
+group duplex hearing
+:manager badgering; <<load>>
+-> calms inspection;
+stop
+end group
+@enduml

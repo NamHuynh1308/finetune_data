@@ -1,0 +1,11 @@
+@startuml
+participant "mould specified" as 0
+create participant "eclectic trafficker" as 1
+0 -> 1 : eclectic trafficker
+0 ->] : gestating duty
+loop less dalton
+...persuasive chasm...
+1 <-> 0++ : plunge extortionist
+end
+return warp falsely
+@enduml

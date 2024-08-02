@@ -1,0 +1,16 @@
+@startuml
+participant "formation keister" as 0
+participant "disarray fittest" as 1
+box "forbade barrio"
+participant "bars deserved" as 2
+participant "ignition serviced" as 3
+end box
+autonumber 6 2
+1 ->o 2++ : interfacing swamped
+...date unpleasant...
+2 <-> 0: candle prenatal
+2 -> 3: drywall outhouse
+1 --//o 3: flea proved
+autonumber stop
+return blindness bloodsucker
+@enduml

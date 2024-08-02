@@ -1,0 +1,7 @@
+@startuml
+start
+:reactions liability; <<procedure>>
+-> engineers psycho;
+:spelling stag; <<save>>
+stop
+@enduml

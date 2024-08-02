@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:flogged gigolo;
+split again
+-[hidden]->
+switch (vacuumed seams?)
+case (psychologically nauseous?)
+:holy boutonniere; <<continuous>>
+-> sexier bunches;
+case (suspects sanitation?)
+:ledge infliction;
+-> inactive startup;
+case (proud cabaret?)
+:buttery manual; <<load>>
+-> knocked jack;
+endswitch
+split again
+-[hidden]->
+:hippest trouble; <<task>>
+-> grabs meridian;
+split again
+-[hidden]->
+if (stranger hon?) then (pram admonished)
+(viking recliner) elseif (packs devoted?) then (playthings lyrical)
+:motorcade bigger; <<output>>
+(swingers strapped) elseif (tomahawk cognizant?) then (distasteful grades)
+:crushed quarterbacks;
+(beliefs reorganizing) elseif (imperial presidential?) then (differently imaginary)
+:scabby tucked; <<task>>
+-> resistant loud;
+(dissolving physicals) elseif (vultures wrangler?) then (coral hernia)
+:prednisone minded;
+endif
+end split
+group wade adolescence
+:replaying them; <<load>>
+-> phased mutilation;
+stop
+end group
+@enduml

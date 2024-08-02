@@ -1,0 +1,21 @@
+@startuml
+participant "permanently shipment" as 0
+box "commentary calculators"
+participant "fly uneventful" as 1
+participant "healthiest scavenger" as 2
+end box
+participant "gauging hope" as 3
+participant "cushy widower" as 4
+autonumber 10 10
+4 ->> 0: psychotics muses
+autonumber stop
+3 -> 3: upping complexities
+2 -> 1: fumigation frustration
+autonumber resume
+2 -> 4: shoved crossed
+par suspense behold
+...imposing observatory...
+0 -> 2!! : woods crashed
+autonumber stop
+end
+@enduml

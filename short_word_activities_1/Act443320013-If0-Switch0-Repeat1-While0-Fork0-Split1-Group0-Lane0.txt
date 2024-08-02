@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:kiln carpentry;
+split again
+-[hidden]->
+:ugly anyways; <<save>>
+split again
+-[hidden]->
+repeat
+backward:chill overwrought;
+repeat while (sentimental cots?) is (medic originally)
+-> exams glaciers;
+end split
+:deception tycoon; <<save>>
+@enduml

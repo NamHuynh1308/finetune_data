@@ -1,0 +1,35 @@
+@startuml
+|1| smoothest fruit
+|2| hustler balloon
+|1|
+start
+|2|
+split
+:obviously maya;
+split again
+split
+:penguin hairdresser;
+split again
+:remark give; <<load>>
+-> jeweler rarest;
+split again
+:electrified makeshift;
+split again
+:cleanses batted; <<output>>
+-> terrorist lesson;
+end split
+split again
+:burley generations;
+while (inconvenience boy?) is (escalating apostles)
+backward:crasher frightens;
+endwhile (safari relinquish)
+-[hidden]->
+detach
+end split
+:cockpit securing; <<continuous>>
+|1|
+:humble cooties;
+|2|
+:duo melon; <<continuous>>
+stop
+@enduml

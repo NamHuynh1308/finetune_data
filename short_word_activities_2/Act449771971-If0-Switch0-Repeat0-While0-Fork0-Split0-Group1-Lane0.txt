@@ -1,0 +1,7 @@
+@startuml
+start
+group slender whiz
+:heartbeats outweigh; <<continuous>>
+stop
+end group
+@enduml

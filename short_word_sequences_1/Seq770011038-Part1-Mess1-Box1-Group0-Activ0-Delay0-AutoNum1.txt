@@ -1,0 +1,8 @@
+@startuml
+box "providing seascape"
+participant "snorkeling thick" as 0
+end box
+== diary airman ==
+autonumber 5 4
+0 -> 0: pistachio furniture
+@enduml

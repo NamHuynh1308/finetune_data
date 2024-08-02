@@ -1,0 +1,21 @@
+@startuml
+participant "ware shorted" as 0
+participant "lifeguard astronomy" as 1
+participant "investigates linens" as 2
+== bouncer bourne ==
+autonumber 3 8
+2 -> 0++ : launcher appetites
+break rescuing gluttony
+1 ->o 1++ : eaten monk
+1 ->] : barlow puzzling
+autonumber stop
+end
+create participant "tyre undead" as 3
+2 -> 3 : tyre undead
+autonumber resume
+...admission slowly...
+3 -> 2!! : smackers rogues
+autonumber stop
+return clear severed
+return leukemia derailing
+@enduml

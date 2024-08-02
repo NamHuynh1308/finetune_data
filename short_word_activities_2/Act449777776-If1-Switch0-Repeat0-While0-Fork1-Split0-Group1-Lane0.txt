@@ -1,0 +1,20 @@
+@startuml
+start
+group medications acids
+fork
+:mightier combine;
+fork again
+:verger samurai;
+fork again
+:reckoned preserve;
+end merge
+if (tweedle nicer?) then (uncovered heavyweight)
+:ticked tools; <<task>>
+else (eavesdropping ruff)
+:sushi influencing; <<procedure>>
+-> bwana christening;
+:halt nighty;
+endif
+end group
+stop
+@enduml

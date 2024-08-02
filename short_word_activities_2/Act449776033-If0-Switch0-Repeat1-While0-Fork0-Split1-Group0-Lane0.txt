@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:studded epic;
+split again
+-[hidden]->
+:bedrock drastic; <<task>>
+-> flexible couch;
+split again
+-[hidden]->
+repeat
+:commencing rotting; <<continuous>>
+-> skewer boathouse;
+backward:numerous hasty;
+:pompous excusing;
+repeat while (geniuses goers?) is (oar sinking)
+-> hospice cocktails;
+end split
+:narcolepsy gambler; <<load>>
+:unions molasses; <<continuous>>
+:tushie faun;
+end
+@enduml

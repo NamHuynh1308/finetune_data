@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:avenged supposedly;
+split again
+-[hidden]->
+:riding shivers; <<continuous>>
+-> chastity givers;
+split again
+-[hidden]->
+:domesticity technician;
+split again
+-[hidden]->
+:monger builder;
+end split
+:precinct bane; <<continuous>>
+-> dissident ultimatums;
+group lovelier utilize
+:whereabouts jumper; <<continuous>>
+group teamwork chompers
+:frying annex; <<load>>
+stop
+end group
+end group
+@enduml

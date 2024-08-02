@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:lupus shopkeeper;
+split again
+-[hidden]->
+:hearing ducked;
+-> forgiven garibaldi;
+split again
+-[hidden]->
+:nighty transsexual; <<input>>
+-> flesh glycerin;
+end split
+switch (created meantime?)
+case (thanksgivings delayed?)
+:mustang rumble; <<input>>
+case (felling cardigan?)
+:sterile betrayal;
+case (spew fringe?)
+:prevails harass; <<save>>
+endswitch
+:desirable servicing;
+:startle boo;
+end
+@enduml

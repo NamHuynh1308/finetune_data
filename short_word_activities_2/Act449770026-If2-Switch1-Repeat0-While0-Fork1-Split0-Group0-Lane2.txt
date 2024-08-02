@@ -1,0 +1,44 @@
+@startuml
+|1| headphones yo
+|2| dimension autonomy
+|1|
+start
+:touchstone schoolwork;
+-> armaments blush;
+|2|
+if (taste businesswomen?) then (strangers roughnecks)
+fork
+:hare waxing;
+fork again
+:teenagers chasing;
+fork again
+:caramba countless;
+fork again
+:giveaway bypass; <<task>>
+-> temperature gliding;
+end merge
+else (worships respect)
+if (chasm tactical?) then (diffuse recorded)
+:lucked rage;
+:drivel disruptions;
+else (downhill overblown)
+:existential ciao; <<task>>
+:showcase trials;
+:fixer corridor; <<save>>
+endif
+:stomach spontaneously; <<procedure>>
+-> administrators uses;
+endif
+|1|
+switch (scarf bitching?)
+case (jogging tho?)
+:compactor rags;
+case (pleasantly pushy?)
+:incidence carney; <<save>>
+-> outhouse electricity;
+case (scoured reprimand?)
+:tomato willed;
+-> enthused vigor;
+endswitch
+end
+@enduml

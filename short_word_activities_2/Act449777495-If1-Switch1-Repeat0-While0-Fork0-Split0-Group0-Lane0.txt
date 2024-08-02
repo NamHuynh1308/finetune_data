@@ -1,0 +1,26 @@
+@startuml
+start
+switch (winds awry?)
+case (collapsed nineteen?)
+:ticks demure;
+-> scrambled gabby;
+case (earlier ghetto?)
+:detente raiser; <<procedure>>
+-> barfing grandad;
+case (amber gun?)
+if (revisit nepotism?) then (privy astonished)
+:cacophony devised;
+:anointed dignity; <<continuous>>
+:nourishment spoils; <<load>>
+-> fallow feline;
+else (helm users)
+:bank artful;
+-> activity lowers;
+:manufactured yet; <<save>>
+:floorboard stairwell;
+endif
+case (lobbyist spree?)
+:guru eighteen;
+endswitch
+end
+@enduml

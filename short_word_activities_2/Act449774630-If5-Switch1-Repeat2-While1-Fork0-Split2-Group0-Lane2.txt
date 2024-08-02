@@ -1,0 +1,102 @@
+@startuml
+|1| editing boyhood
+|2| specimens unimaginative
+split
+-[hidden]->
+:bluest forge;
+split again
+-[hidden]->
+:funky croupier;
+split again
+-[hidden]->
+:vasectomy baa; <<load>>
+end split
+if (clavicle ladders?) then (unforeseen hog)
+(kinky hydrated) elseif (shale unseemly?) then (overdose greyhound)
+if (disc foul?) then (counterattack fantasized)
+:chased masterpiece; <<save>>
+:openly violently;
+:specimens modest;
+else (cornering smashed)
+:exploitation fraternizing; <<load>>
+:hatter closely; <<procedure>>
+:meetings senile;
+endif
+(beneath dunking) elseif (mummies calzones?) then (slanted aurora)
+:route ignoring;
+-> crush fret;
+(entitled cemetery) elseif (parakeet enjoyed?) then (decibel poster)
+repeat
+:realist variables;
+:chemistry manufactures; <<input>>
+:nameless assailant; <<input>>
+-> wetter sterilized;
+repeat while (blurry recognized?) is (obligations schnoz)
+(fits civilizations) elseif (reporters jabbering?) then (gyms targets)
+:refuge surgeon;
+endif
+:comp critically; <<output>>
+-> account debut;
+:mongoose muggings; <<input>>
+-> regrets jazz;
+|2|
+switch (kiddies cynicism?)
+case (alastor piled?)
+:corporate idiot; <<task>>
+case (groove heartsick?)
+if (accent bodega?) then (bug hare)
+(sisterhood newborns) elseif (calender dolt?) then (sending mikes)
+:martin hammering;
+(inland bozo) elseif (necessary colonies?) then (speedway carting)
+:rituals captive;
+(titanium reactors) elseif (burial schematics?) then (wallow heathens)
+:squaring avatar; <<load>>
+-> understandably room;
+endif
+case (guaranteeing lacey?)
+:smithereens recreate; <<load>>
+-> tracked overdue;
+case (containing vigorously?)
+:galilee smears; <<load>>
+endswitch
+|1|
+if (ruin sketching?) then (recrimination herds)
+:examination gumption;
+:veneer eighteen; <<task>>
+-> swear grade;
+repeat
+backward:rogue suitors;
+:parable household;
+:entire ditched; <<input>>
+repeat while (dancing race?) is (driveway shocks)
+else (loading organs)
+split
+:queers aggravation;
+split again
+:anachronism pixels; <<save>>
+split again
+:handguns intervening; <<continuous>>
+split again
+:hemlock whining; <<task>>
+end split
+while (apologies wore?) is (walked wrangle)
+:beakers abigail; <<continuous>>
+-> marketplace swearing;
+backward:sera stolen;
+if (flop prolong?) then (oxymoron fudging)
+(roadway lemonade) elseif (swab bedspread?) then (mote crackerjack)
+:turncoat thyme;
+(promote orchestrated) elseif (aware shanghai?) then (vamoose melon)
+:timed puzzling; <<save>>
+-> cushions manufactures;
+(jumps egomaniac) elseif (deliberation trumpet?) then (fulfilling hound)
+:detailing swooning; <<output>>
+(cholinesterase cutter) elseif (appeased wife?) then (harassed stuffs)
+:earns learns; <<output>>
+endif
+endwhile (frigging forgave)
+-[hidden]->
+detach
+endif
+stop
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+group cowboys everyone
+:bonkers resisting; <<continuous>>
+group defrost dam
+:rubs section; <<procedure>>
+stop
+end group
+end group
+@enduml

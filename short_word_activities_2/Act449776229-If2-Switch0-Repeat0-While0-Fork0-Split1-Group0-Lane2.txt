@@ -1,0 +1,39 @@
+@startuml
+|1| industrialist the
+|2| pastures vantage
+split
+-[hidden]->
+:fighting excessive;
+split again
+-[hidden]->
+:grunt cascade; <<load>>
+-> gains trig;
+split again
+-[hidden]->
+if (unhappy pity?) then (familiar flames)
+:splat trapping;
+kill
+else (floored committed)
+:fronts invested;
+kill
+endif
+split again
+-[hidden]->
+:excluded monogamous; <<procedure>>
+end split
+:lost swapping; <<procedure>>
+-> perchance shortcake;
+:bud slashing;
+-> alaska sprawled;
+if (oblivious candlelight?) then (board leeches)
+(dit shipwrecked) elseif (introducing shorthand?) then (vacancies deco)
+:adorable lunar; <<load>>
+-> roulette underpants;
+(it plumbing) elseif (refueling speculations?) then (begging hairs)
+:cage scuba; <<load>>
+-> stun acorn;
+(climbing software) elseif (shuttle jumble?) then (peacefully shithead)
+:respectively ales; <<save>>
+endif
+stop
+@enduml

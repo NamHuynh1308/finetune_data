@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:invested gurgling;
+split again
+-[hidden]->
+:asylum forging;
+split again
+-[hidden]->
+:repayment raise; <<input>>
+-> ticklish shatter;
+end split
+switch (throat abducting?)
+case (combination shad?)
+switch (rogue clipper?)
+case (obtuse data?)
+:upper feast;
+case (squirts robotic?)
+:periodic evacuated; <<output>>
+case (snags off?)
+:fairway identity;
+endswitch
+case (scenic kitchen?)
+:newspaper campus; <<continuous>>
+case (jerries cheapen?)
+split
+:cheery sculptures;
+split again
+:roommate aggressively;
+split again
+:dismember promises; <<continuous>>
+end split
+endswitch
+stop
+@enduml

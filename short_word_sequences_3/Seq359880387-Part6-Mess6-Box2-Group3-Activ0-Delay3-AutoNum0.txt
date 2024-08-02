@@ -1,0 +1,27 @@
+@startuml
+box "progressive ushering"
+participant "forsake wonderful" as 0
+participant "spike page" as 1
+participant "outlander glimpsed" as 2
+end box
+participant "sanity insolent" as 3
+box "clambake honeymooners"
+participant "brewed paramour" as 4
+end box
+create participant "blueberry truthful" as 5
+3 -> 5 : blueberry truthful
+...withstanding halter...
+1 --//o 2: seeds wised
+break named prowess
+1 ->o 1: stack outsider
+0 --> 3: flicked sessions
+end
+break prelim tracks
+...dit motors...
+5 --> 3: exams hyphen
+critical waterbed accoutrements
+...suppression vetoed...
+ [-> 0: crackling pitcher
+end
+end
+@enduml

@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:charities glimpsed;
+split again
+-[hidden]->
+:subsidize nonissue; <<continuous>>
+split again
+-[hidden]->
+fork
+:employee viable;
+fork again
+:surrender cake;
+fork again
+:needy calculation;
+end fork
+end split
+:dermatologist schmoozing; <<output>>
+group fallen hyper
+fork
+:secretary modem;
+fork again
+:pied gained; <<load>>
+-> inhibitors text;
+fork again
+:karate rubies;
+kill
+end fork
+stop
+end group
+@enduml

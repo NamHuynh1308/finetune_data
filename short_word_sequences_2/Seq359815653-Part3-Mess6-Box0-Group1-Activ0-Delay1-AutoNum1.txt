@@ -1,0 +1,19 @@
+@startuml
+participant "industry meow" as 0
+participant "jealous pavement" as 1
+== consumer cardinals ==
+autonumber 4 6
+0 -> 1: substation implore
+ [<- 1: pupil decaf
+autonumber stop
+create participant "credit bodega" as 2
+0 -> 2 : credit bodega
+autonumber resume
+break watchman obstetrician
+1 --> 1: optimist cuddle
+autonumber stop
+0 -> 2: dashed hummer
+end
+...alternates undertaking...
+ [<- 1: model parliamentary
+@enduml

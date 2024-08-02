@@ -1,0 +1,9 @@
+@startuml
+box "wrote megaphone"
+participant "jettison mope" as 0
+end box
+== criminal colossal ==
+autonumber 5 5
+0 --> 0: el byline
+0 -> 0: tardiness pairs
+@enduml

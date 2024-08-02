@@ -1,0 +1,9 @@
+@startuml
+start
+:passive moon; <<continuous>>
+group raise classroom
+:bases headache;
+-> window immobilize;
+stop
+end group
+@enduml

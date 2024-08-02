@@ -1,0 +1,16 @@
+@startuml
+participant "scribbled blindsided" as 0
+participant "adjective checkout" as 1
+participant "latino explaining" as 2
+participant "garland duel" as 3
+== suites customs ==
+autonumber 10 9
+1 --> 0: cookbook throats
+2 ->o 2: moldings klutz
+alt collar reactor
+3 --//o 0: tunnel brouhaha
+...fucking bestowed...
+1 ->o 1: obliterated betrayer
+0 -> 2: uncut worshipping
+end
+@enduml

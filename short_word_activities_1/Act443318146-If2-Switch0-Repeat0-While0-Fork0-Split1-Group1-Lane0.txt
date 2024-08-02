@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:setbacks hosts;
+split again
+-[hidden]->
+if (unwarranted credited?) then (trickle feeble)
+:disruptions rougher;
+-> settling mutilate;
+:negotiations investigators; <<output>>
+else (spiral teeny)
+:denied regulars;
+endif
+split again
+-[hidden]->
+:honors import;
+kill
+end split
+:decline tortious; <<procedure>>
+group violate pink
+if (sneezed senora?) then (pathogen irritated)
+:fragment nick; <<continuous>>
+-> mock narrowly;
+else (beats gases)
+:vowels smelled; <<input>>
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:coordinator north;
+split again
+-[hidden]->
+:propriety nostrils; <<continuous>>
+split again
+-[hidden]->
+:policy sporting;
+-> resilient gynecologist;
+split again
+-[hidden]->
+:fared buttons; <<procedure>>
+end split
+:poser vests; <<save>>
+-> exam forgiveness;
+:annoyed partridge; <<continuous>>
+-> honeymooners nominate;
+if (sumo bugs?) then (combing probate)
+(huddle cicely) elseif (impart overslept?) then (sodomy chang)
+:goal indefinitely; <<load>>
+(rabbits brit) elseif (satisfying snarky?) then (purchases origami)
+:ins sprang; <<procedure>>
+(reduce motor) elseif (showering lambert?) then (developing fiddling)
+:cozy goa;
+endif
+stop
+@enduml

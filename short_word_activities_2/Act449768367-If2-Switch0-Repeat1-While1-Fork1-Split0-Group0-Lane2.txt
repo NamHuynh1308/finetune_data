@@ -1,0 +1,41 @@
+@startuml
+|1| chico caskets
+|2| aristocratic buzzing
+|1|
+start
+|2|
+repeat
+if (anguish groaning?) then (depressing lot)
+:neurotic boobs;
+:perch grace; <<procedure>>
+-> reluctantly property;
+else (dolls martini)
+:stockpile maestro; <<procedure>>
+:microscopic firefight;
+-> grass message;
+endif
+repeat while (chosen ritualistic?) is (misfit peeved)
+:autonomy recovery;
+|1|
+if (wuthering canyon?) then (known corrupted)
+while (cutoffs availability?) is (crowing opportune)
+:divorcee swell;
+:hormones fabulously;
+:gob cart;
+endwhile (aprons narrowing)
+:predicted banking;
+fork
+:woodchuck theoretically;
+fork again
+:disputing strange; <<save>>
+fork again
+:loopholes busted; <<procedure>>
+-> expectancy yodel;
+end merge
+else (wretched ledge)
+:arrow slacks; <<load>>
+:bongos accurate; <<procedure>>
+:creak deftly; <<input>>
+endif
+end
+@enduml

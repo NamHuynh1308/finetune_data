@@ -1,0 +1,15 @@
+@startuml
+participant "deviated barber" as 0
+participant "respiration deleted" as 1
+participant "fantabulous canoe" as 2
+participant "assumptions ablaze" as 3
+== citizens dates ==
+autonumber 1 1
+1 <-> 2++ : diddly rayed
+autonumber stop
+2 ->> 2: refugees wackos
+0 ->o 3++ : briefcases employing
+1 -// 2: restart swell
+return bean archenemy
+return easily reclaim
+@enduml

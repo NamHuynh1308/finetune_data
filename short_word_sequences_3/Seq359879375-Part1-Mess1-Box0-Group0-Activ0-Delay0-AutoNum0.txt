@@ -1,0 +1,4 @@
+@startuml
+participant "terrified document" as 0
+0 ->] : detecting sleepless
+@enduml

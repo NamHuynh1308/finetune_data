@@ -1,0 +1,49 @@
+@startuml
+switch (sworn insane?)
+case (gunmen cows?)
+split
+:carjacking standstill;
+split again
+:monster highball;
+split again
+:attendant bigfoot;
+end split
+case (religiously scarf?)
+:reeking sticker;
+endswitch
+fork
+:coney avatar;
+fork again
+:preparations anguished;
+while (postponing family?) is (unconsciously hilltop)
+:bricked invoice; <<input>>
+-> folded relax;
+backward:unworthy evasions;
+:gracious collections;
+split
+:surrender machines;
+split again
+:hourly extract; <<continuous>>
+split again
+:gunmen shortcake; <<procedure>>
+split again
+:tops inspiring; <<continuous>>
+end split
+endwhile (dock criticizing)
+-[hidden]->
+detach
+fork again
+:cease snort; <<input>>
+-> waxy personalize;
+end merge
+group aggressive wheel
+switch (function shanghai?)
+case (pointing shoots?)
+:renders physics; <<input>>
+-> roulette cleanup;
+case (jets welcomed?)
+:licker physic;
+endswitch
+stop
+end group
+@enduml

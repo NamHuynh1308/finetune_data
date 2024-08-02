@@ -1,0 +1,9 @@
+@startuml
+participant "satisfaction troublesome" as 0
+participant "jitters pedigree" as 1
+0 -\\ 0++ : success carpool
+1 ->x 0: preceding implied
+return mathematicians heat
+...photographer sturdy...
+1 -> 1: jogging freelancer
+@enduml

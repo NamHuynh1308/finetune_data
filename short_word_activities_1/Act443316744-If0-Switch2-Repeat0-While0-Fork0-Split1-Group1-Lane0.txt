@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:choosy leaning;
+split again
+-[hidden]->
+switch (prudes simulates?)
+case (boogie boo?)
+:topple lippy;
+case (ancestor delight?)
+:contagious unidentified;
+case (fowler scalp?)
+:protestants toys; <<save>>
+case (inclined accumulation?)
+:plaza succumb; <<load>>
+endswitch
+split again
+-[hidden]->
+switch (description sonogram?)
+case (whistling tickle?)
+:detail nest; <<input>>
+case (brooding stressed?)
+:apprehended toys;
+case (puppets ferrets?)
+:dodgeball breather;
+endswitch
+end split
+group barrio un
+:meeting topside; <<load>>
+-> misleading vary;
+stop
+end group
+@enduml

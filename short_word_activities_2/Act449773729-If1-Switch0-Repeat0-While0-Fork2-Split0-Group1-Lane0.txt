@@ -1,0 +1,31 @@
+@startuml
+start
+fork
+:maritime recanting;
+fork again
+:garment chap;
+fork again
+if (pragmatist wrapped?) then (owner contributed)
+:prudence happened;
+:gotten restrooms;
+:bag hovel;
+else (associated shear)
+:contribution hernias; <<load>>
+endif
+fork again
+fork
+:humility testifying;
+fork again
+:branched hive; <<load>>
+-> delegation ticket;
+fork again
+:defence rail;
+fork again
+:reimbursed snuggling;
+end fork
+end merge
+group druggist sapiens
+:whoosh durable; <<procedure>>
+stop
+end group
+@enduml

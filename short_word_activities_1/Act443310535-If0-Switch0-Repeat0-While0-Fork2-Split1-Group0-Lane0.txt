@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:westward nitrogen;
+split again
+-[hidden]->
+:bloodsucking smith; <<continuous>>
+-> parole surroundings;
+split again
+-[hidden]->
+:coherent embarrassment; <<task>>
+-> slices pole;
+split again
+-[hidden]->
+:brown matzah;
+end split
+:torment clamoring; <<continuous>>
+-> infertile category;
+fork
+:perils craftsmanship;
+fork again
+fork
+:soulless collects;
+fork again
+:precedent stirred; <<task>>
+fork again
+:unicorn heroin;
+-> faucets coping;
+end merge
+fork again
+:initiatives hymns; <<save>>
+end fork
+stop
+@enduml

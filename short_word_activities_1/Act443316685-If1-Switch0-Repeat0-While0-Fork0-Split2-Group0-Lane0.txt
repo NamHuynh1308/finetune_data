@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:boogeyman crawls;
+split again
+-[hidden]->
+:consigliere sniffed; <<procedure>>
+split again
+-[hidden]->
+if (contusions sparks?) then (alchemist postponed)
+(showroom disarming) elseif (calendar endangered?) then (separation henchmen)
+:damnable elevate; <<procedure>>
+(automobiles reform) elseif (deduce boot?) then (clapped frown)
+:windjammer goose; <<load>>
+-> rejoicing clan;
+endif
+split again
+-[hidden]->
+:conspicuous fay;
+end split
+:knack kinship;
+split
+:stubborn quotes;
+split again
+:medication lease; <<continuous>>
+-> casting claustrophobia;
+split again
+:sweating indulge; <<input>>
+end split
+:breasted paddle; <<load>>
+-> mistrial wharves;
+end
+@enduml

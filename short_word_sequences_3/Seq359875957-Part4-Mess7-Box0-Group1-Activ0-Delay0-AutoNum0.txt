@@ -1,0 +1,15 @@
+@startuml
+participant "biscuits monitor" as 0
+participant "correctional highlight" as 1
+participant "palp containment" as 2
+participant "bongo fried" as 3
+1 -->x 0: acupuncture overflow
+2 --//o 3: in removes
+loop poppa giggle
+0 --> 2: tanks beheading
+ [<- 0: renaissance jurisdiction
+end
+3 -->x 3: emery managing
+0 -\\ 0: troy electrocute
+0 ->x 2: cement lookouts
+@enduml

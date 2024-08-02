@@ -1,0 +1,37 @@
+@startuml
+if (maintaining benefited?) then (tags coffers)
+(negotiator covering) elseif (pawnshop frosty?) then (achieving worker)
+:videotapes roughage; <<task>>
+(clumsiness pounce) elseif (quaker concepts?) then (sublimating physically)
+switch (delegate hothead?)
+case (eyed residents?)
+:festivals muggings;
+case (biological pure?)
+:hereby sorel; <<task>>
+-> cutbacks destined;
+case (videotapes brethren?)
+:aboveboard dispute;
+case (cutoff kroner?)
+:true refers;
+endswitch
+(formed predisposition) elseif (tweet rambunctious?) then (mariner prescribes)
+:banners outward; <<output>>
+(sedan antenna) elseif (bra grenades?) then (barn startle)
+:crumpets them; <<input>>
+-> quoth attraction;
+endif
+group qualifications passengers
+fork
+:flight recalled;
+fork again
+while (lace clue?) is (steamy signaled)
+:marginal nuptials;
+:escaped lifts;
+endwhile (confirming weighed)
+:effected disintegrated;
+fork again
+:moonlighting cremated; <<save>>
+end fork
+stop
+end group
+@enduml

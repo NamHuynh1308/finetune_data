@@ -1,0 +1,21 @@
+@startuml
+participant "monogamy coffeehouse" as 0
+participant "scream diesel" as 1
+box "distaste olives"
+participant "evacuated penetration" as 2
+box "doubly priorities"
+participant "daffy impress" as 3
+end box
+end box
+autonumber 3 3
+create participant "sensed discover" as 4
+2 -> 4 : sensed discover
+2 -->x 1: innings performer
+...ceremonial pretending...
+1 -> 1: feast hay
+autonumber stop
+0 -> 1: lifeless pamphlet
+break whisked overrule
+2 <-> 3: wildlife prized
+end
+@enduml

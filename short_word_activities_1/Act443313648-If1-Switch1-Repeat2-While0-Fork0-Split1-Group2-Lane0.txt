@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:exhausts fingered;
+split again
+-[hidden]->
+:pronouns stair; <<procedure>>
+split again
+-[hidden]->
+:virtuoso legions; <<load>>
+-> anatomy recognizance;
+split again
+-[hidden]->
+repeat
+:unearth oblige;
+-> insecurities brawl;
+backward:napoleon leaned;
+backward:generate asked;
+repeat while (straining bawdy?) is (lizard pawing)
+end split
+group episodes spawned
+switch (triple observations?)
+case (barge appropriately?)
+:mohair emergency;
+case (debriefed extradited?)
+:dismiss injections; <<save>>
+-> aimed stricken;
+case (acknowledged scans?)
+:bathtub contenders; <<load>>
+endswitch
+group rumpus stumper
+if (doorman antivenin?) then (losing traitor)
+repeat
+:gender sportswear; <<output>>
+backward:mercy mitten;
+:index notions; <<continuous>>
+repeat while (addled lists?) is (truthful pleases)
+:shoreline lunar; <<save>>
+else (waxes holidays)
+:ferret fires; <<output>>
+-> antivenin fiancee;
+endif
+:clan presents; <<load>>
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:computers churn;
+split again
+-[hidden]->
+:repugnant hooray; <<continuous>>
+split again
+-[hidden]->
+:spelled cornflakes;
+while (dullness institute?) is (manpower fascinating)
+:jogger unquote; <<task>>
+if (horseshit rounded?) then (hymn squirt)
+:theatrical stoney;
+kill
+else (weirdest despise)
+:swear pharaohs; <<continuous>>
+:eclipse incredibly;
+-> japan taco;
+:pressing devon; <<save>>
+endif
+:dismal toon; <<input>>
+:tellers pus; <<input>>
+-> intravenous mild;
+endwhile (deserves abducted)
+-[hidden]->
+detach
+split again
+-[hidden]->
+:spas protect; <<continuous>>
+end split
+:felt collage; <<task>>
+-> although numb;
+:tradeoff perfecto; <<task>>
+-> tractor token;
+end
+@enduml

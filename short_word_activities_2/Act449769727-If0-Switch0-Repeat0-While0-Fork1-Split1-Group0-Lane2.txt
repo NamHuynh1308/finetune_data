@@ -1,0 +1,29 @@
+@startuml
+|1| paltry scouted
+|2| cud heathen
+split
+-[hidden]->
+:arrest radar;
+split again
+-[hidden]->
+fork
+:him villas;
+fork again
+:stow produced;
+fork again
+:hector jingling;
+fork again
+:contained bigness; <<task>>
+-> suntan claim;
+end merge
+split again
+-[hidden]->
+:trivial presidents; <<input>>
+end split
+|2|
+:promote majored; <<load>>
+-> glad nope;
+:marathon piss;
+:starling nominations;
+stop
+@enduml

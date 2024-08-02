@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:offenders roam;
+split again
+-[hidden]->
+:schiller nightstick; <<output>>
+-> earthquake unclench;
+split again
+-[hidden]->
+:kelp gumshoe; <<output>>
+split again
+-[hidden]->
+while (skipping lions?) is (bicuspids unfit)
+backward:impertinent respected;
+endwhile (seagull elixir)
+:carved antibody;
+end split
+if (cello beans?) then (recourse oh)
+:thump semi; <<task>>
+:consumed councillor;
+:pigsty beefed; <<save>>
+else (journalistic offend)
+if (vaporize powerful?) then (brainstorm nope)
+:darkroom penetrated;
+else (weights cramming)
+:drone fiddling; <<save>>
+:stem charismatic;
+:saline cucumber; <<output>>
+endif
+:pigtails evident;
+-> cupid suck;
+kill
+endif
+end
+@enduml

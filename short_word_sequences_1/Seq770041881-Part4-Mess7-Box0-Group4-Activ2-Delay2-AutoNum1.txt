@@ -1,0 +1,31 @@
+@startuml
+participant "bothers mensa" as 0
+participant "demo dish" as 1
+participant "acclimate dice" as 2
+participant "dim tweaked" as 3
+autonumber 3 2
+opt kudos wisest
+1 -->x 3: humus exceeded
+1 --> 0: outlines spreadsheet
+end
+...retrieval rows...
+1 ->o 0++ : lifeguard bohemian
+autonumber stop
+alt skidded vial
+...afford bulk...
+2 -> 2: jiff inform
+return relapse underlings
+autonumber resume
+opt thugs thorns
+3 --//o 2: witless reward
+autonumber stop
+loop edition dato
+1 -> 1++ : wheels saga
+autonumber resume
+2 -> 3!! : tangling playa
+return reunite scrawny
+else editorial mannered
+end
+end
+end
+@enduml

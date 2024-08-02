@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:censor stuff;
+split again
+-[hidden]->
+:portrayed reviews; <<save>>
+split again
+-[hidden]->
+:spotter gents; <<continuous>>
+split again
+-[hidden]->
+:screaming fanfare;
+end split
+:bribes simplistic; <<save>>
+@enduml

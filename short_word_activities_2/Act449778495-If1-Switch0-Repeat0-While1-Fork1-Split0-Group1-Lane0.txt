@@ -1,0 +1,29 @@
+@startuml
+start
+if (pincushion overheating?) then (smarter bronco)
+:readout humbug; <<save>>
+:preservatives demons; <<task>>
+-> friendship unions;
+else (latest stalks)
+:ostrich disgruntled; <<input>>
+-> barrel duplicate;
+:engineered recruiting; <<task>>
+endif
+group cite lead
+fork
+:jumper braided;
+fork again
+while (hoy gulf?) is (unscathed sends)
+backward:electronic demolitions;
+:resources enthusiasm;
+backward:flowing buying;
+backward:fabrication comedy;
+endwhile (lining dateless)
+:limestone trimmers;
+fork again
+:blob welcomes; <<output>>
+-> diminutive bassinet;
+end fork
+stop
+end group
+@enduml

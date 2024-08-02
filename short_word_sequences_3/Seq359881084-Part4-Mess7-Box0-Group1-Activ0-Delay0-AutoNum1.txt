@@ -1,0 +1,19 @@
+@startuml
+participant "stubs guest" as 0
+participant "horticulture discover" as 1
+participant "representatives careless" as 2
+participant "redeem memorized" as 3
+== phases intro ==
+autonumber 2 1
+par marge dictators
+1 -> 1: accused contenders
+autonumber stop
+2 -> 2: mortgages figurines
+1 -->x 0: daydream drain
+ [-> 3: muddle arming
+1 -> 3: producers transference
+3 -> 2: lar outpatient
+autonumber resume
+1 -> 1!! : dreary returns
+end
+@enduml

@@ -1,0 +1,31 @@
+@startuml
+participant "pained brag" as 0
+participant "terrible drained" as 1
+participant "flips deed" as 2
+participant "celebrating express" as 3
+participant "waive jungles" as 4
+1 -// 4++ : whit negligence
+3 ->o 4: whey slack
+return totaled chills
+loop dream pacing
+1 -> 2: shattering discarded
+par munch slumber
+...cellulite generic...
+3 <-> 0: legislative snooty
+loop destroyers blowhard
+ [<- 2: preparations jerries
+0 -> 4: gobs digest
+else aloha rained
+4 ->] : annoys blazers
+else motif cruiser
+alt terrorism cliffhanger
+create participant "outdo ramifications" as 5
+2 -> 5 : outdo ramifications
+1 --> 1++ : syringe daylight
+else ivy beating
+end
+end
+end
+end
+return repaint phantoms
+@enduml

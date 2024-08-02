@@ -1,0 +1,21 @@
+@startuml
+participant "pace wracked" as 0
+box "puff piqued"
+participant "consoling conversation" as 1
+box "presentable engaged"
+participant "aiming affirm" as 2
+end box
+end box
+== bailiffs unannounced ==
+autonumber 7 3
+1 -> 1: conning paradise
+autonumber stop
+2 -> 1!! : represented lawfully
+autonumber resume
+1 -> 1: ribs replies
+2 ->o 2: grips searched
+autonumber stop
+critical ace jughead
+1 <-> 0: tragic tormented
+end
+@enduml

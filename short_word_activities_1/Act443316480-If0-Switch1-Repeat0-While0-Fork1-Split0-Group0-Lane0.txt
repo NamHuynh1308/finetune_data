@@ -1,0 +1,18 @@
+@startuml
+start
+fork
+:computers manufactures;
+fork again
+:childhood volts; <<load>>
+fork again
+switch (counted fern?)
+case (sanded wiser?)
+:honours succeeds; <<continuous>>
+case (amigos cheery?)
+:compact subsidiary; <<load>>
+-> mavis useless;
+endswitch
+end fork
+:exchange riding; <<task>>
+stop
+@enduml

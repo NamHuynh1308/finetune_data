@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:humps registrar;
+split again
+-[hidden]->
+:faithless devoured; <<input>>
+-> gamer dishonorable;
+split again
+-[hidden]->
+fork
+:diets reversed;
+fork again
+:hanger layaway; <<continuous>>
+-> pram baby;
+fork again
+:symbolism toad; <<procedure>>
+-> furnished backer;
+end merge
+split again
+-[hidden]->
+while (laden id?) is (rebuttal effectiveness)
+:auntie fiendish;
+backward:cinder alamo;
+:trusting ballistics;
+:mechanics summer;
+endwhile (victimless peeled)
+:exemption wrangle;
+end split
+group slider ablaze
+:skipped creatively; <<continuous>>
+:sixes shockingly; <<output>>
+end group
+:scenery ethic; <<continuous>>
+-> instructing ladle;
+@enduml

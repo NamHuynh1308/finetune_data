@@ -1,0 +1,39 @@
+@startuml
+start
+if (abnormalities staffer?) then (speedboat schlep)
+(loco prattling) elseif (epic lira?) then (ideology parchment)
+if (freshman accuracy?) then (unintentionally narrowed)
+:amber cooper;
+:ani lowery;
+else (teamwork flicker)
+:etched thanked;
+:wherein upside; <<task>>
+:slash posed;
+kill
+endif
+(infinitely natured) elseif (cemetery security?) then (midwestern neuroses)
+if (creed pancreatic?) then (isolate delayed)
+(investigations unwanted) elseif (auditorium probability?) then (neighbours assisted)
+:pester banned;
+(treasure kremlin) elseif (zoned denning?) then (cocoon trussed)
+:potentially decontamination; <<procedure>>
+-> attuned outfitted;
+(staged pledging) elseif (educate omnipotent?) then (scrunch schizo)
+:downy massacred;
+endif
+(exploiting christening) elseif (enforced condos?) then (muse addressing)
+if (fraternization hub?) then (pattern serenade)
+(handshake figures) elseif (homosexuals holocaust?) then (ricks parked)
+:comforting farrow; <<input>>
+(goobers sixty) elseif (message seagull?) then (disclosure preaching)
+:ravishing combines;
+(sear aspirin) elseif (lying serum?) then (famished step)
+:bowl thunderbird; <<procedure>>
+(thyme chairs) elseif (street bustle?) then (acknowledgement byes)
+:preach brakes; <<save>>
+endif
+(supplement extract) elseif (textile taj?) then (truthful great)
+:spontaneously clearer; <<procedure>>
+endif
+end
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+box "shawn house"
+participant "toaster villain" as 0
+participant "clumsily environmentalist" as 1
+participant "torch subjects" as 2
+end box
+par rancho dessert
+0 <-] : provider witness
+...helps bricked...
+0 -> 2!! : softer denominations
+end
+2 --> 0: storage hangman
+@enduml

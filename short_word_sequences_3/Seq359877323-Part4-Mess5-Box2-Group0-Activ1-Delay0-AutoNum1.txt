@@ -1,0 +1,17 @@
+@startuml
+box "inhabitants masterpiece"
+participant "facedown ovulating" as 0
+participant "answers advertise" as 1
+end box
+box "blowtorch briefed"
+participant "disinformation drink" as 2
+participant "abominable candle" as 3
+end box
+autonumber 2 1
+1 -> 0: trainee diagnostic
+0 <-> 3++ : acquaintance handful
+ [<- 1: thinking foods
+return doorway harrowing
+0 -> 3: approve tease
+3 -> 0: sportsmanship data
+@enduml

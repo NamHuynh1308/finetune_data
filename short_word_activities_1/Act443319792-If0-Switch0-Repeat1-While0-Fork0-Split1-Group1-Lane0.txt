@@ -1,0 +1,20 @@
+@startuml
+start
+group whopper contest
+split
+:money vacuum;
+split again
+:captioning recommendations; <<continuous>>
+split again
+repeat
+backward:burner innocence;
+:director optimistic; <<input>>
+-> mulligan arched;
+:unbecoming attorneys;
+repeat while (swatch hanky?) is (scarred pragmatist)
+-> gault imp;
+end split
+:mice sagging; <<load>>
+-> grid soil;
+end group
+@enduml

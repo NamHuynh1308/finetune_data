@@ -1,0 +1,76 @@
+@startuml
+|1| meteor kicking
+|2| toddler answer
+split
+-[hidden]->
+:working valuables;
+split again
+-[hidden]->
+:chocolate sunglasses; <<input>>
+-> nightgown experimental;
+split again
+-[hidden]->
+:fuhrer wave; <<continuous>>
+end split
+while (ghost deco?) is (acclaim mistress)
+repeat
+:kingpin unmanned;
+-> amber yank;
+:phoenix landlords;
+repeat while (candid delta?) is (mystery umbrella)
+-> flirted relieve;
+backward:scripts clearer;
+backward:obvious offence;
+endwhile (hearsay acted)
+:prudent shouts;
+while (uptown poignant?) is (bachelorette loot)
+if (admirably recant?) then (icing provolone)
+:families kicks;
+:phoney thick;
+else (pucker aye)
+:foreigners scalding; <<procedure>>
+:supple gramps;
+:encrusted mythological; <<continuous>>
+-> flexing singles;
+kill
+endif
+endwhile (tykes spirituality)
+:synapses rumpus;
+|2|
+:recovery wormed; <<output>>
+:matted blinking;
+|1|
+switch (enable lovingly?)
+case (collier cutoff?)
+:glamour interview; <<procedure>>
+-> walks scraping;
+case (choices ow?)
+repeat
+backward:contribution hives;
+:burley starter;
+repeat while (enlightened hoops?) is (outlook spy)
+case (caterwauling bursting?)
+fork
+:pudding holographic;
+fork again
+:prospective guarantees; <<load>>
+-> prima consider;
+fork again
+:bottled guns;
+end merge
+case (gypped sarcophagus?)
+if (dissertation broadcast?) then (mountain dissect)
+(stage courier) elseif (goldfish pucker?) then (household glanced)
+:plaguing exfoliate; <<continuous>>
+-> issuing appears;
+(writ tiara) elseif (magnitude bedridden?) then (reprimand crook)
+:wonky grins;
+(preservatives stinger) elseif (pilot noses?) then (bump fife)
+:savings switcheroo; <<continuous>>
+-> steals yuan;
+(thermonuclear fetish) elseif (wrung scavenger?) then (regal cream)
+:clapper damned; <<save>>
+endif
+endswitch
+stop
+@enduml

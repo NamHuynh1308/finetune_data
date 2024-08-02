@@ -1,0 +1,16 @@
+@startuml
+participant "ogle locating" as 0
+box "creatures goopy"
+participant "appraise phrase" as 1
+end box
+autonumber 4 9
+0 ->] : inhaled transmission
+1 ->o 0: gaff wharf
+critical dazzling inadequate
+1 -> 1: promiscuous hue
+autonumber stop
+ [<- 0: characterized whims
+autonumber resume
+1 ->] : tadpole bye
+end
+@enduml

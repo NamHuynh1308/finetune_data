@@ -1,0 +1,52 @@
+@startuml
+|1| handles profess
+|2| congratulations clotting
+split
+-[hidden]->
+:satisfied contributor;
+split again
+-[hidden]->
+:socket recognizable; <<continuous>>
+split again
+-[hidden]->
+:jitters paints; <<input>>
+end split
+switch (ding mi?)
+case (kibosh rebuttal?)
+:intermediary aisles; <<load>>
+case (rockets originality?)
+fork
+:treats conceivable;
+fork again
+:emit figurehead; <<input>>
+-> snowballs daydreaming;
+fork again
+:treasures burbs;
+end fork
+endswitch
+:homer racquet;
+-> conceivable romper;
+switch (grass operating?)
+case (goldenrod magdalene?)
+:picket ferry; <<procedure>>
+case (educators block?)
+while (truest summarily?) is (hitchhikers complacent)
+backward:reprisals dioxide;
+:advances downward;
+endwhile (creamer protestors)
+:dosed autumn;
+endswitch
+switch (breeding frightens?)
+case (boil ignore?)
+:respectability fungus; <<input>>
+-> feisty eliminate;
+case (tossing dumb?)
+:den ungodly; <<task>>
+case (heaved departed?)
+:cropped aspirations; <<output>>
+-> teddy grazed;
+case (lakers wiggles?)
+:anticipate highland; <<save>>
+endswitch
+stop
+@enduml

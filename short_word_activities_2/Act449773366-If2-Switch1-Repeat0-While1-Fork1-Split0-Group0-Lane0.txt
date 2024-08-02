@@ -1,0 +1,36 @@
+@startuml
+start
+if (memorial dang?) then (protected spills)
+(incarcerate despise) elseif (conceivably without?) then (nuptials pretzels)
+if (commodity wayside?) then (hammered worshipped)
+(phoney floozy) elseif (submarine fowler?) then (roomy mugs)
+:explorers angrier; <<task>>
+(caters welcomes) elseif (manhunt passage?) then (neglecting rejecting)
+:ignition filibuster;
+endif
+(sherlock snatched) elseif (advising unholy?) then (deciphering acing)
+fork
+:submit patois;
+fork again
+:therapy suckers;
+fork again
+:chunky playground;
+fork again
+:synthetic delectable; <<output>>
+end fork
+(gram reserved) elseif (digress implying?) then (dwindling surrendered)
+:qijzrx;
+while (ferry fret?) is (originals rectory)
+switch (blockage beards?)
+case (surroundings injected?)
+:misunderstood fifths; <<output>>
+case (extremism unwrap?)
+:curmudgeon jobless;
+endswitch
+endwhile (barber authoritative)
+-[hidden]->
+detach
+(outer mini) elseif (realm revolutions?) then (impromptu obstetrician)
+:martinis friendship; <<continuous>>
+endif
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "meters melt" as 0
+participant "aimed polls" as 1
+box "distraught successful"
+participant "scald conformity" as 2
+end box
+ [<- 1: gram robbed
+0 -> 1: clearances adapting
+2 -> 0!! : masturbation unethical
+create participant "aggravated beagle" as 3
+1 -> 3 : aggravated beagle
+...rewrites rudeness...
+0 --> 2: sweeper rendezvous
+alt surfaces projection
+create participant "journey polecat" as 4
+1 -> 4 : journey polecat
+end
+@enduml

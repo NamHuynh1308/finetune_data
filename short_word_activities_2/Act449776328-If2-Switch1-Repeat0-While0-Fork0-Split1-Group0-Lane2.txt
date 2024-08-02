@@ -1,0 +1,41 @@
+@startuml
+|1| cobra geneva
+|2| reach reportedly
+split
+-[hidden]->
+:birthing avatar;
+split again
+-[hidden]->
+:lactose paranormal;
+split again
+-[hidden]->
+:unclaimed blur; <<save>>
+end split
+:kosher romance; <<continuous>>
+:trimmed smart; <<save>>
+|2|
+:undergoing auctioneer; <<task>>
+if (taxpayer mosquito?) then (covered gabby)
+:parlour shocker; <<continuous>>
+else (antiquing than)
+:uncovered developments; <<output>>
+if (misheard success?) then (miserable toast)
+(clotted names) elseif (detergent brief?) then (trendy corner)
+:doubts hauls; <<output>>
+(cologne selflessness) elseif (tooth instigated?) then (deceptively dehydration)
+:hams associates;
+(steal cocked) elseif (moral remarry?) then (skated bury)
+:satire arises;
+endif
+switch (nix underlined?)
+case (included magazine?)
+:map means;
+case (cigar swedes?)
+:subtly irresponsible;
+case (endured tackles?)
+:embarrass brooms; <<output>>
+-> brock birdie;
+endswitch
+endif
+end
+@enduml

@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:tarzan mercer;
+split again
+-[hidden]->
+switch (disapproving badder?)
+case (antiquated misread?)
+:jugs bodyguards;
+case (wreaking hosted?)
+:list daddies;
+endswitch
+split again
+-[hidden]->
+switch (peroxide woozy?)
+case (sprouting fave?)
+:virtually finalizing; <<load>>
+case (strut arugula?)
+:suffering weighs; <<procedure>>
+-> clear stockings;
+case (jasper insinuating?)
+:striping problems; <<output>>
+endswitch
+split again
+-[hidden]->
+:beleaguered swan; <<output>>
+end split
+group media blackbird
+:sinful external; <<output>>
+stop
+end group
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+box "dirty whit"
+participant "dirtiest winks" as 0
+box "stocked publicly"
+participant "blamed finances" as 1
+end box
+end box
+== meat snagging ==
+autonumber 10 1
+ [<- 0: investment lifted
+0 -> 1++ : fucked wimp
+autonumber stop
+return pornographers recover
+@enduml

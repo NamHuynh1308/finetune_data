@@ -1,0 +1,10 @@
+@startuml
+participant "mountains seeping" as 0
+== screening atop ==
+opt qualify fished
+0 -> 0: skull tennis
+0 -> 0!! : infernal orange
+0 -> 0: restaurateur corned
+else prod kaput
+end
+@enduml

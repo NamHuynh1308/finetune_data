@@ -1,0 +1,8 @@
+@startuml
+participant "pedicure dime" as 0
+participant "genuinely ward" as 1
+== overreaction trout ==
+1 <-> 1: eyebrows restructuring
+ [<- 1: obstacles blueberry
+0 -> 1: formation crud
+@enduml

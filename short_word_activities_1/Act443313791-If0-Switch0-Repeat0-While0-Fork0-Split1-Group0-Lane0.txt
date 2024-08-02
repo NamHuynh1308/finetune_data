@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:clout boonies;
+split again
+-[hidden]->
+:irrelevant wussy;
+-> hells ham;
+split again
+-[hidden]->
+:pedal worship;
+-> dam wander;
+end split
+:monkey shift;
+:confidence survives; <<task>>
+end
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "comedies kahuna" as 0
+alt success leisurely
+0 -// 0++ : estimates about
+critical falsely sniffles
+0 <-> 0: glasses balanced
+return wiper tubing
+end
+end
+@enduml

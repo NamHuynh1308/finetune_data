@@ -1,0 +1,21 @@
+@startuml
+participant "criticize week" as 0
+participant "whine twin" as 1
+participant "foxhole billie" as 2
+autonumber 7 8
+0 -// 1: unstuck bumble
+autonumber stop
+1 ->x 1: caprice lightened
+autonumber resume
+critical tripe canvass
+0 -// 2++ : broody usher
+autonumber stop
+...glades gallant...
+1 -->x 2++ : creator ah
+autonumber resume
+2 ->] : fallout adamant
+else parasitic nightstick
+end
+return chauffeur littered
+return genetics sagging
+@enduml

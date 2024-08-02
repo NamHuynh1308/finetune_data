@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:grandkid stabilize;
+split again
+-[hidden]->
+:chocolatey genetics; <<continuous>>
+split again
+-[hidden]->
+fork
+:stiletto insight;
+fork again
+:troubles cozy; <<save>>
+-> slinging threatening;
+fork again
+:wiretaps mildew; <<output>>
+fork again
+:brioche eng; <<task>>
+end fork
+end split
+split
+:muchachos move;
+split again
+:building fourth; <<load>>
+split again
+switch (journalist creepers?)
+case (champs exceptional?)
+:muchacho jewelry; <<procedure>>
+case (responsible facets?)
+:agreeing theatres; <<task>>
+-> doctrine kangaroo;
+endswitch
+split again
+:discreet simple; <<input>>
+-> judges rescues;
+end split
+group rainy employers
+:virtuoso melding;
+group facet therein
+repeat
+backward:gratified serious;
+repeat while (soberly unrest?) is (float locomotive)
+stop
+end group
+end group
+@enduml

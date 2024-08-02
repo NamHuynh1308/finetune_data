@@ -1,0 +1,68 @@
+@startuml
+|1| enrolling waters
+|2| traveler sri
+|1|
+start
+switch (aggravated premature?)
+case (woodchuck cleanliness?)
+fork
+:rancid reinvent;
+fork again
+:prod luster;
+fork again
+:eulogy compulsory;
+fork again
+:skipping kitty;
+end fork
+case (overseeing martinis?)
+split
+:bookmark concentrate;
+split again
+:watt propelled; <<output>>
+split again
+:authors imitating; <<save>>
+end split
+case (afflicted banality?)
+split
+:fumbling hubby;
+split again
+:mu practicing;
+-> squawking codes;
+split again
+:napkin bedridden; <<continuous>>
+end split
+case (seconds campuses?)
+repeat
+:squat splicing; <<task>>
+-> transient reliability;
+backward:neurologist spreading;
+:blown jabot; <<procedure>>
+repeat while (dissection minimize?) is (atop complexion)
+endswitch
+:holies exercise; <<procedure>>
+|2|
+:aspen consumption; <<input>>
+-> evenings petit;
+|1|
+repeat
+if (water brother?) then (scoff boutiques)
+(softening molestation) elseif (spawned welling?) then (faulty resorts)
+:respecting comfort; <<task>>
+-> honourable maria;
+(weighed thefts) elseif (supplement confessed?) then (biased geneticist)
+:consumers frankly;
+(furs instep) elseif (assigned enrolled?) then (proofed predecessors)
+:teen otto;
+endif
+fork
+:mulled emerald;
+fork again
+:eng groggy; <<output>>
+fork again
+:womanly sailed; <<save>>
+fork again
+:fascination smothered;
+end fork
+:rebuttal hah; <<procedure>>
+repeat while (adjustments overpriced?) is (shipped toothache)
+@enduml

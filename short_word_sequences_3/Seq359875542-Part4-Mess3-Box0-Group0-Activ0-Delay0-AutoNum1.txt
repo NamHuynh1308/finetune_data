@@ -1,0 +1,11 @@
+@startuml
+participant "fastball babysitters" as 0
+participant "logistics pronounced" as 1
+participant "burbs pause" as 2
+== dishonorable graciously ==
+autonumber 1 0
+0 -> 1: gardens armed
+0 -->x 2: guardrail evolved
+create participant "happenings grungy" as 3
+1 -> 3 : happenings grungy
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:eyesight system;
+split again
+-[hidden]->
+:nagging antagonizing; <<save>>
+split again
+-[hidden]->
+fork
+:salads needing;
+fork again
+:cosmic haze; <<continuous>>
+fork again
+:chalked founder;
+fork again
+:bicker ferry;
+-> extraterrestrial torpedoed;
+end fork
+split again
+-[hidden]->
+:barricades inlaid;
+end split
+:coitus resentful; <<load>>
+@enduml

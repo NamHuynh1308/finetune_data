@@ -1,0 +1,17 @@
+@startuml
+box "starved innocent"
+participant "excludes pageant" as 0
+participant "futon attacker" as 1
+end box
+== revolver escaping ==
+autonumber 8 1
+0 -> 1++ : salvaging maintains
+autonumber stop
+0 ->] : start confronting
+return spliced candidates
+autonumber resume
+0 --//o 1: subscription finder
+alt discourteous unscathed
+1 ->> 0: psych touchdowns
+end
+@enduml

@@ -1,0 +1,34 @@
+@startuml
+start
+group lecturing sin
+:overdressed transfers;
+-> afterlife gangly;
+if (listener distraction?) then (archeology surgical)
+split
+:clearly following;
+split again
+:particulars phased;
+split again
+:unwittingly polling; <<procedure>>
+-> louis precedent;
+split again
+:espressos disorders;
+end split
+else (swords doer)
+:ethnicity wives; <<procedure>>
+fork
+:landslide gem;
+fork again
+:edgy parallels;
+-> inferiority hourly;
+fork again
+:dashing flicks;
+fork again
+:annex milling;
+end fork
+:harbour prod; <<procedure>>
+endif
+end group
+:exquisitely colour; <<task>>
+stop
+@enduml

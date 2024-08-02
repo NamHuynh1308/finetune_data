@@ -1,0 +1,8 @@
+@startuml
+group gothic copping
+:copycat donkey; <<procedure>>
+-> bind competitor;
+:failures winds; <<procedure>>
+stop
+end group
+@enduml

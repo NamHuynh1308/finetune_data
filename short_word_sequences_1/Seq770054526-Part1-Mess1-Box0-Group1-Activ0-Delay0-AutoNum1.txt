@@ -1,0 +1,7 @@
+@startuml
+participant "pieced beige" as 0
+autonumber 2 2
+alt regular rewards
+0 -> 0: scrunch remover
+end
+@enduml

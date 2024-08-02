@@ -1,0 +1,7 @@
+@startuml
+start
+:pocketed porcupine; <<load>>
+:sealing withered; <<continuous>>
+-> gaff streamlined;
+end
+@enduml

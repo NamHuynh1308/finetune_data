@@ -1,0 +1,29 @@
+@startuml
+participant "bumpkins bigmouth" as 0
+participant "overreacted boar" as 1
+participant "correctional pummel" as 2
+box "delay gliders"
+participant "wrecking duress" as 3
+end box
+== counsel facet ==
+autonumber 10 4
+1 ->o 0: unforgiving inability
+create participant "philosophers smoothie" as 4
+0 -> 4 : philosophers smoothie
+alt shaw luxuries
+2 -> 3: hose hailed
+break caramba virtuoso
+4 -> 4: preventative casbah
+opt supreme podiatrist
+2 -// 3: strongly nations
+...bimbos corned...
+1 -\\ 4++ : embassy joey
+autonumber stop
+else algae pox
+1 -> 1: pinochle succeeds
+return scalping bod
+else moles silicone
+end
+end
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "helps nag" as 0
+participant "warhead brochures" as 1
+autonumber 1 3
+opt info dye
+1 <-> 1: pointing menagerie
+critical blows yonkers
+1 <-] : scorpions consolidated
+autonumber stop
+end
+end
+@enduml

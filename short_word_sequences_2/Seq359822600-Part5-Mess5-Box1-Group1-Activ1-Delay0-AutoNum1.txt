@@ -1,0 +1,21 @@
+@startuml
+participant "buzzes tested" as 0
+box "milo romping"
+participant "browsing bugs" as 1
+participant "defendants foretold" as 2
+participant "sirree onboard" as 3
+participant "healer hands" as 4
+end box
+autonumber 6 3
+0 -> 3: insides lakeshore
+0 ->x 3: cavalcade dimwit
+autonumber stop
+3 ->> 3: duffel levy
+autonumber resume
+4 -->x 4++ : rioting attend
+autonumber stop
+loop sucks barrister
+2 -> 3: duty those
+end
+return riverside approached
+@enduml

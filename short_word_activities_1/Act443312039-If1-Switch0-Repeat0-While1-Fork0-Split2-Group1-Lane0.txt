@@ -1,0 +1,40 @@
+@startuml
+start
+if (humor pragmatist?) then (delirious informs)
+split
+:encyclopedia rose;
+split again
+:plaintiffs diaphragm;
+while (lanes symptoms?) is (lier mastectomy)
+:telly backroom; <<output>>
+:pardner sensory; <<output>>
+-> intercepted area;
+endwhile (blazers swiping)
+-[hidden]->
+detach
+split again
+:brushes distant; <<output>>
+split again
+:ingredient venereal;
+end split
+:thieves obsession;
+-> sacrifice decorated;
+else (brochure pain)
+:detract pixels;
+split
+:dost cop;
+split again
+:position hauling;
+split again
+:soonest escapade; <<procedure>>
+split again
+:soups soda;
+end split
+:tiptoe ugly; <<input>>
+endif
+group peninsula pecan
+:passenger boutique;
+-> national licensing;
+stop
+end group
+@enduml

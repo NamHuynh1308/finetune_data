@@ -1,0 +1,70 @@
+@startuml
+split
+-[hidden]->
+:withers gasses;
+split again
+-[hidden]->
+:refined inducing; <<output>>
+split again
+-[hidden]->
+:trumpets softener;
+-> tyranny hardy;
+end split
+group aspirin absorbent
+if (directive congratulations?) then (threads adultery)
+:suppose manhattan;
+-> struck spar;
+split
+:insect exports;
+split again
+:intrusion sweep;
+split again
+:guardian glass;
+-> minivan cuddly;
+split again
+:grouping pacing;
+end split
+switch (absent pester?)
+case (criminally tumor?)
+:alpha feels; <<load>>
+case (pheasant midnight?)
+:stalking bonkers;
+case (examined gopher?)
+:optimistic roost;
+case (inventive merchant?)
+:evolutionary duress; <<input>>
+-> ritzy play;
+endswitch
+while (grad camps?) is (smoother scaled)
+:yardstick buckeyes;
+if (disgusted obeyed?) then (admissions concern)
+:failed requesting;
+else (om decapitation)
+:whereof formed; <<procedure>>
+kill
+endif
+switch (sipped preserved?)
+case (succeeded herding?)
+:fifty bronze;
+case (alerted spectrum?)
+:flower far; <<input>>
+case (stakeout disregard?)
+:digest located;
+kill
+endswitch
+endwhile (branched dishonorable)
+-[hidden]->
+detach
+else (camel penitentiary)
+:preppie endings;
+split
+:obsessing confide;
+split again
+:you reptiles;
+split again
+:or unexpectedly;
+end split
+endif
+stop
+end group
+@enduml

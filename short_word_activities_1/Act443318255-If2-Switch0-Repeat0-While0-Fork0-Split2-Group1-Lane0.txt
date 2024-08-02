@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:rectangle yachts;
+split again
+-[hidden]->
+:tightrope straining; <<task>>
+split again
+-[hidden]->
+:saccharine arm;
+-> layman icon;
+end split
+if (gridlock apples?) then (cheeses strengths)
+(destiny grown) elseif (discovery croc?) then (fur benedict)
+:dandelion artificial; <<input>>
+(trade frailty) elseif (minimalist ford?) then (welcoming thread)
+split
+:druggist amniotic;
+split again
+:crikey respecting;
+split again
+:interlude exemption; <<load>>
+end split
+(puddle ghetto) elseif (jet dismantle?) then (queens plates)
+if (amigo pioneer?) then (keeled dads)
+(patiently intact) elseif (correspondent volunteered?) then (grandad meathead)
+:chin drink;
+(torment crops) elseif (trusted yogurt?) then (preceded furthering)
+:sample refreshing;
+(newborns principal) elseif (bombarding visit?) then (jesuits let)
+:ethically patrolman; <<task>>
+endif
+endif
+group harp lift
+:calorie stomping; <<input>>
+-> soundproof inquiries;
+:exorcise destructing; <<output>>
+-> bedspread poorer;
+stop
+end group
+@enduml

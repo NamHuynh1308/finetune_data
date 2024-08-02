@@ -1,0 +1,11 @@
+@startuml
+box "coral attracts"
+participant "possessed bookie" as 0
+participant "discourse caveman" as 1
+end box
+autonumber 5 6
+alt mol bash
+0 <-] : cats taxis
+0 -// 0: leeway insufferable
+end
+@enduml

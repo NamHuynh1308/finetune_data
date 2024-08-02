@@ -1,0 +1,8 @@
+@startuml
+start
+group instill thermostat
+:firsthand permissible; <<output>>
+-> preventing informed;
+stop
+end group
+@enduml

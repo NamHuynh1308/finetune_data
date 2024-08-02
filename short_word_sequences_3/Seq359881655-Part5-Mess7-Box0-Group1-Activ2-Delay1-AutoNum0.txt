@@ -1,0 +1,19 @@
+@startuml
+participant "tedious impound" as 0
+participant "competence babes" as 1
+participant "shafted runny" as 2
+participant "contrary sources" as 3
+ [<- 3: subtitles tiramisu
+3 ->o 2++ : admittedly nonsensical
+...port larger...
+0 -> 3: recognition supernova
+break competitor reputed
+create participant "arcade panama" as 4
+1 -> 4 : arcade panama
+1 -->x 4++ : electro longtime
+end
+2 -> 4: conferred rejects
+3 -> 1: cicely includes
+return converse rehearsing
+return artist amassed
+@enduml

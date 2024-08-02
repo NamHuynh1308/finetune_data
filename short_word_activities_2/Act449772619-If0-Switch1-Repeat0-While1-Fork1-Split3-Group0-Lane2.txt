@@ -1,0 +1,52 @@
+@startuml
+|1| suave copier
+|2| swamp rushes
+fork
+:senseless exquisitely;
+fork again
+split
+:picking repressed;
+split again
+:span actresses;
+split again
+:greasy rooms; <<input>>
+-> assassinate stacks;
+end split
+fork again
+:giddyup export; <<task>>
+end merge
+:clearing tattoos; <<output>>
+-> horny marketplace;
+|2|
+split
+:jump loaned;
+split again
+:deported egregious;
+while (chomp vera?) is (reinstating troubadour)
+switch (kidding deigned?)
+case (scattering worries?)
+:assignments affirmative;
+case (doubt universities?)
+:muckraker honeymooners;
+case (brace hums?)
+:destitute peddling; <<continuous>>
+endswitch
+:galore forensic; <<output>>
+endwhile (runt wrappers)
+-[hidden]->
+detach
+split again
+split
+:alcove uncalled;
+split again
+:pickup phony;
+split again
+:transcript electrolytes; <<load>>
+-> brood fever;
+split again
+:kibble waves; <<input>>
+-> deflecting tanks;
+end split
+end split
+end
+@enduml

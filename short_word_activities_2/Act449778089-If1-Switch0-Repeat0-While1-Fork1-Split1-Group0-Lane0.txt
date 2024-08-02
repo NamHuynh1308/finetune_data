@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:slaughterhouse you;
+split again
+-[hidden]->
+:nan contacted;
+split again
+-[hidden]->
+:walking stardom; <<output>>
+-> weirdly canopy;
+split again
+-[hidden]->
+:confiscating wore; <<input>>
+-> wallowing multiply;
+end split
+fork
+:match stave;
+fork again
+:potter nervous; <<input>>
+fork again
+:discarded secrecy; <<task>>
+-> floorboards mademoiselle;
+fork again
+if (staffer revere?) then (forearm watcher)
+:fatherly gatherings; <<output>>
+:acquired gardeners;
+-> knockout subsided;
+:hotels procrastinating; <<procedure>>
+while (babu trial?) is (designer empties)
+backward:thrift calender;
+endwhile (electrodes occasionally)
+-[hidden]->
+detach
+else (boarded saddle)
+:eugenia indefensible; <<procedure>>
+-> owns capsules;
+endif
+end fork
+:vested revoked; <<load>>
+end
+@enduml

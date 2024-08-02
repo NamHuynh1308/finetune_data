@@ -1,0 +1,5 @@
+@startuml
+participant "expenses quince" as 0
+ [-> 0: whistling paws
+0 -> 0: gorge collide
+@enduml

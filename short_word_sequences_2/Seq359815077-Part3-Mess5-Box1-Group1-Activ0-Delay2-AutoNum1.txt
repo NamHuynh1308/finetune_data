@@ -1,0 +1,19 @@
+@startuml
+participant "droppings pimply" as 0
+box "redskins divisions"
+participant "clamp furtive" as 1
+participant "uncivilized happy" as 2
+end box
+autonumber 1 2
+1 <-] : reconnecting spas
+...computers smoldering...
+0 ->o 1: bonnie tracer
+autonumber stop
+2 -> 2: prospect unhealthy
+autonumber resume
+...mashed grumpy...
+0 --> 2: newest landscapes
+loop benevolence dreadful
+1 -->x 0: demo yippie
+end
+@enduml

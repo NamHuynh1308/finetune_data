@@ -1,0 +1,18 @@
+@startuml
+participant "wayward autograph" as 0
+box "straightened flatware"
+participant "fleeting curtain" as 1
+participant "minstrel backstroke" as 2
+participant "indicative dressing" as 3
+end box
+participant "exchange holly" as 4
+== salary jackasses ==
+4 --//o 0: highlighters daytime
+2 -> 4: researching partisan
+create participant "scared wig" as 5
+2 -> 5 : scared wig
+1 ->o 4: cliche reconciled
+critical bloodied course
+0 ->> 0: urns parent
+end
+@enduml

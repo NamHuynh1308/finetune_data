@@ -1,0 +1,7 @@
+@startuml
+group observation goblet
+:wretch ingested; <<task>>
+-> soonest baboons;
+stop
+end group
+@enduml

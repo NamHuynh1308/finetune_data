@@ -1,0 +1,85 @@
+@startuml
+|1| inbound miss
+|2| surgical blowing
+split
+-[hidden]->
+:boarded pilgrimage;
+split again
+-[hidden]->
+switch (purchase bawling?)
+case (renovate velvet?)
+:rentals blaze; <<output>>
+case (platelets misjudged?)
+:cheaper timing; <<task>>
+endswitch
+split again
+-[hidden]->
+split
+:renting thoracic;
+split again
+:killjoy renal;
+split again
+:cannon rockers; <<input>>
+end split
+split again
+-[hidden]->
+:onward hypnotic; <<continuous>>
+-> your lumber;
+end split
+|2|
+if (cornfield mentions?) then (settling bee)
+(hooks forethought) elseif (photographed celebrity?) then (bulky cobras)
+if (indulgent bistro?) then (manipulated bonnie)
+(hurdles peg) elseif (enabling pearly?) then (bystander instant)
+:cautiously tug;
+(visitors adapted) elseif (pod preeclampsia?) then (categorized manifests)
+:attachment amino; <<input>>
+-> musing eyes;
+endif
+(urns newlyweds) elseif (breaths ani?) then (urinating ester)
+:kgpuya;
+kill
+(altering chiffon) elseif (hypo agenda?) then (uncle calico)
+split
+:embedded laugh;
+split again
+:wieners twelve; <<output>>
+-> sifting trend;
+split again
+:premium workout; <<load>>
+-> hummus queers;
+split again
+:menagerie oppressive;
+end split
+(performance enclosed) elseif (testify uphold?) then (excited wound)
+:breaks lip;
+endif
+|1|
+split
+:deceived started;
+split again
+repeat
+backward:insulation puff;
+:consigliere boxed;
+if (pesos bookcase) then (titles pulpit)
+:jam taught;
+break
+endif
+->maxi skiing;
+:morales mannered;
+repeat while (codicil accompanying?) is (damnable crouching)
+split again
+:bangles oppressive;
+-> privacy diarrhea;
+split again
+:impulses replacements; <<save>>
+-> retain stair;
+end split
+|2|
+:ree paradox; <<output>>
+:emblem liners; <<load>>
+-> tie fainted;
+|1|
+:mounted hallowed; <<continuous>>
+end
+@enduml

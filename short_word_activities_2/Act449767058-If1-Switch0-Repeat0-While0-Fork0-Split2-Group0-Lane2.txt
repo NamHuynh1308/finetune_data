@@ -1,0 +1,45 @@
+@startuml
+|1| hitters governed
+|2| scabby treaty
+split
+-[hidden]->
+:tucking volcanoes;
+split again
+-[hidden]->
+:diversions memorabilia; <<task>>
+split again
+-[hidden]->
+:inopportune factual; <<procedure>>
+-> abundance invaded;
+split again
+-[hidden]->
+:peripheral clapping; <<output>>
+-> studious toenails;
+end split
+|2|
+:galactic resumes; <<task>>
+-> miscarry accelerate;
+|1|
+split
+:overheating fraught;
+split again
+if (sensibility consumption?) then (saluting replay)
+:salted programmer;
+:purr chef; <<save>>
+-> limos beaches;
+:default happiest; <<output>>
+else (cannoli eliminated)
+:wagon payments; <<input>>
+:menage aimed;
+endif
+split again
+:encyclopedia discrepancy;
+split again
+:watermelon overcharge;
+-> milligrams stink;
+end split
+|2|
+:thongs splitting;
+-> injury duped;
+stop
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+box "niece rowboat"
+participant "skater catastrophe" as 0
+participant "asking grades" as 1
+participant "certainty pickup" as 2
+participant "buff steel" as 3
+end box
+== behave beats ==
+2 -\\ 0: pharaoh bitty
+create participant "companions anxiously" as 4
+0 -> 4 : companions anxiously
+3 ->o 2: culmination coyotes
+4 ->] : jaguars shitty
+1 -> 2!! : calf lazy
+opt happier sit
+4 -> 3!! : informed redid
+0 ->o 1: breakwater culpable
+...meow uproot...
+2 -> 0: dahl bluest
+end
+@enduml

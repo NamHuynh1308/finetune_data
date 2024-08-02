@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:enthusiastic sensitive;
+split again
+-[hidden]->
+switch (fads attorney?)
+case (tenacity prosciutto?)
+:ulcers obstacle; <<save>>
+case (droppings wack?)
+:underworld bumpy; <<load>>
+case (recount obtain?)
+:transmissions self;
+case (older homey?)
+:avoid money; <<load>>
+endswitch
+split again
+-[hidden]->
+switch (similar electing?)
+case (strongly sterner?)
+:miraculous microchips;
+case (syllabus owners?)
+:reappears larceny;
+case (festivals chair?)
+:chronically objectionable;
+endswitch
+split again
+-[hidden]->
+:lessen colonel; <<load>>
+-> ruse felony;
+end split
+:brunette clerks; <<task>>
+:beneficial rest;
+@enduml

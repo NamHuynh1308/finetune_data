@@ -1,0 +1,9 @@
+@startuml
+participant "shelter summed" as 0
+participant "clique albatross" as 1
+== souse symphony ==
+0 -> 1: unspoken and
+...nuggets sprint...
+1 <-> 0: hypocrisy plowed
+1 --//o 0: barter baptized
+@enduml

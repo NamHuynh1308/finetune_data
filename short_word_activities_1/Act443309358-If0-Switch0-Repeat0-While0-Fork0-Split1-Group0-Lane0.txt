@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:saltwater psychologists;
+split again
+-[hidden]->
+:therapeutic advancing; <<procedure>>
+-> grouchy revelations;
+split again
+-[hidden]->
+:infarction booth;
+split again
+-[hidden]->
+:pegged pedestrian; <<save>>
+end split
+:speeches disregard;
+:singing townspeople; <<output>>
+@enduml

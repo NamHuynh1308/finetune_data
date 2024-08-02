@@ -1,0 +1,23 @@
+@startuml
+box "fabulous organism"
+participant "pestilence maya" as 0
+participant "consume floodgates" as 1
+participant "picnics bleep" as 2
+participant "petroleum tender" as 3
+participant "dolce progresses" as 4
+end box
+autonumber 5 2
+1 -> 2++ : medic insight
+autonumber stop
+1 <-] : defacing shaft
+return overactive reproductive
+autonumber resume
+alt sickness sponsor
+1 -> 0: dorms pill
+create participant "stifle taint" as 5
+0 -> 5 : stifle taint
+end
+...shaft sanitation...
+ [-> 4: need vindictive
+autonumber stop
+@enduml

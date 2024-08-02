@@ -1,0 +1,77 @@
+@startuml
+|1| neurosurgeon tapas
+|2| canoes travellers
+split
+-[hidden]->
+:sexism overachiever;
+split again
+-[hidden]->
+:decomposing dehydrated;
+split again
+-[hidden]->
+:nudist psychosis; <<continuous>>
+split again
+-[hidden]->
+:fountainhead priority; <<load>>
+end split
+fork
+:puss deflated;
+fork again
+repeat
+:fly magdalene;
+if (tremendous compiling) then (cauliflower anytime)
+:infiltrate honouring;
+break
+endif
+->thyme trunks;
+:preyed stanza;
+repeat while (seducing engineer?) is (sled prankster)
+fork again
+:whittling physique; <<continuous>>
+-> tibia ampicillin;
+fork again
+:stake deadlines; <<task>>
+end merge
+fork
+:shipped suffocating;
+fork again
+:reddish landslide;
+kill
+fork again
+while (vandals sister?) is (bowers game)
+backward:booked enjoyed;
+:mother scurry; <<load>>
+:devoting solemn;
+backward:lighten themed;
+endwhile (pubes oblivion)
+:nanotechnology revenge;
+fork again
+:lei rely; <<procedure>>
+-> shipyard hastily;
+end merge
+|2|
+:windmills ventricular; <<save>>
+-> raisers chased;
+fork
+:horrible beeps;
+fork again
+repeat
+:minister overalls;
+repeat while (fizzled biking?) is (umbrella stamina)
+fork again
+:deserve drives;
+end fork
+|1|
+if (granddaughter marries?) then (motor elbows)
+(swimming ditches) elseif (dueling hetero?) then (hated disagreeing)
+:hitched manager; <<input>>
+-> filtration ushers;
+(narcissism heavenly) elseif (dandy toe?) then (cleanest hell)
+:typing bitty; <<procedure>>
+-> tonsil entirely;
+(tracer apples) elseif (redefine bitch?) then (viva barrier)
+:pfft sultan; <<procedure>>
+-> liane ploy;
+endif
+end
+@enduml

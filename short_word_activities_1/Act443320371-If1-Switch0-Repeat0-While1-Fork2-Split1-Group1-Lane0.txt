@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:aides states;
+split again
+-[hidden]->
+if (tickles consort?) then (guardians housewarming)
+:burley watcher;
+:yammering apathy;
+kill
+else (delicate leg)
+:mallet recycle; <<input>>
+-> philosopher dashboard;
+endif
+split again
+-[hidden]->
+:immense glaring;
+-> envelopes blockhead;
+split again
+-[hidden]->
+:lug apiece; <<output>>
+end split
+group poorly wish
+fork
+:orphanage recitals;
+fork again
+:revisions spice; <<load>>
+-> bones writes;
+fork again
+:links persist;
+while (raptors twin?) is (discharged caved)
+backward:halfway scraped;
+backward:advisable remodelling;
+endwhile (nuptials dredge)
+-[hidden]->
+detach
+end fork
+fork
+:rubbing arid;
+fork again
+:plate spare; <<load>>
+-> doping ridiculous;
+fork again
+:adjacent soothes; <<procedure>>
+-> conversation determination;
+end fork
+end group
+end
+@enduml

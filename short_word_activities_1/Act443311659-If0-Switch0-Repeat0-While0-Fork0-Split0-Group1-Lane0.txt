@@ -1,0 +1,6 @@
+@startuml
+group exercise guided
+:pious thermal; <<task>>
+stop
+end group
+@enduml

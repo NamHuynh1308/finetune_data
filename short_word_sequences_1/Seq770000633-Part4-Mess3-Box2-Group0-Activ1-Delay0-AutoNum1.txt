@@ -1,0 +1,15 @@
+@startuml
+box "policies masquerade"
+participant "browbeating tracer" as 0
+participant "cheerleaders sort" as 1
+end box
+box "sierra incurred"
+participant "slithering combines" as 2
+end box
+autonumber 5 6
+1 -\\ 1++ : teamsters introduced
+create participant "intends tracker" as 3
+0 -> 3 : intends tracker
+2 -> 3!! : slipper mound
+return doubted actions
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "lech agent" as 0
+box "planting regard"
+participant "arena homers" as 1
+end box
+autonumber 2 0
+0 ->> 1: helpful brake
+...insights choirboy...
+1 <-] : fryer by
+...scrambler gasping...
+1 -> 1!! : stages slip
+...unit sheldrake...
+0 -// 0: bologna lumber
+...lineup ashtrays...
+1 -\\ 0++ : lunge lions
+autonumber stop
+return range blacking
+@enduml

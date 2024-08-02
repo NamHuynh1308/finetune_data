@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:nametag argyle;
+split again
+-[hidden]->
+if (accounting actin?) then (premier stomper)
+(momentary pedestal) elseif (natured class?) then (gnats nannies)
+:guessing butchered; <<load>>
+(chi alleging) elseif (crypt verified?) then (accept controversial)
+:railroads disguise; <<input>>
+endif
+split again
+-[hidden]->
+:reggae summation; <<task>>
+end split
+:that courtship;
+end
+@enduml

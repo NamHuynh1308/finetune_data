@@ -1,0 +1,23 @@
+@startuml
+box "bikinis elements"
+participant "recording tents" as 0
+participant "dictators caucus" as 1
+end box
+participant "peddler tolerant" as 2
+box "run cheeseburgers"
+participant "anytime mayan" as 3
+end box
+autonumber 0 2
+1 --//o 0: ballpoint appliances
+loop ballgame blabbermouth
+2 ->x 3: hamburg glances
+autonumber stop
+loop papayas smoothly
+...goddess workshop...
+2 <-] : handcuffs contributions
+1 -> 3: accusations gathered
+3 -\\ 3: boardwalk queers
+autonumber resume
+end
+end
+@enduml

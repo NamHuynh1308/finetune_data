@@ -1,0 +1,11 @@
+@startuml
+participant "solitude straitjacket" as 0
+participant "consumed groggy" as 1
+== throughout grunge ==
+0 -> 0: listener draining
+...dirtiest sensor...
+0 --//o 0: claiming fowler
+1 ->> 0: auk icons
+create participant "overflowing fixtures" as 2
+0 -> 2 : overflowing fixtures
+@enduml

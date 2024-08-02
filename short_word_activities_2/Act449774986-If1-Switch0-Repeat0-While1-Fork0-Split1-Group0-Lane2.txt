@@ -1,0 +1,39 @@
+@startuml
+|1| saber dunes
+|2| ensuring waste
+split
+-[hidden]->
+:concession lounging;
+split again
+-[hidden]->
+:sewn license; <<input>>
+split again
+-[hidden]->
+if (each plastic?) then (contingencies adjusted)
+(platinum westward) elseif (convince paramilitary?) then (procrastinate dell)
+:shallows conspire;
+(immune suppressed) elseif (shading plateau?) then (ain adoring)
+:fixer nite;
+(aggravated oddball) elseif (crawlers reimburse?) then (scissor buster)
+:cowgirl prioritizing; <<output>>
+(valve eloquence) elseif (killings storage?) then (levitation troop)
+:fess dust; <<output>>
+-> grounding bowel;
+endif
+split again
+-[hidden]->
+:misspent telepathically; <<save>>
+-> sweets wow;
+end split
+|2|
+while (swell addressing?) is (pimping extricate)
+backward:bridges heading;
+endwhile (piglet smiley)
+:spry compound;
+|1|
+:hemlock desecrate;
+-> commune dissatisfied;
+|2|
+:brandies mural;
+end
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+participant "enzyme behaving" as 0
+box "vogue ain"
+participant "distance forearm" as 1
+participant "coach wrinkled" as 2
+box "rendered silvery"
+participant "occupation exclamation" as 3
+participant "monkeys abundant" as 4
+end box
+end box
+autonumber 1 8
+2 -// 0: walla tamales
+2 ->] : sling loves
+...musicians loitering...
+4 -> 2: vacuum unpleasant
+ [<- 0: distinct duck
+autonumber stop
+...hobbling kindergartners...
+0 -> 0!! : votes troy
+3 ->] : incomparable sacrificed
+...knit fading...
+4 --//o 0++ : rejuvenated martyrs
+0 -> 1: gambling invite
+return cloves frazzled
+@enduml

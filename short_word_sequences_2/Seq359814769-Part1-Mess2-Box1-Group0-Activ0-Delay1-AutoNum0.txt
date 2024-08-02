@@ -1,0 +1,8 @@
+@startuml
+box "horrific hazelnut"
+participant "installed schizoid" as 0
+end box
+0 <-> 0: pillars let
+...prelim scotch...
+0 <-] : turtle booby
+@enduml

@@ -1,0 +1,41 @@
+@startuml
+|1| funnies sip
+|2| surfboard litany
+split
+-[hidden]->
+:stables realizes;
+split again
+-[hidden]->
+fork
+:recitals revelation;
+fork again
+:fund bookshelf;
+fork again
+:herb blames;
+kill
+fork again
+:crumpets dedicate; <<load>>
+end fork
+split again
+-[hidden]->
+:attorney dinning;
+end split
+:morals fraught; <<procedure>>
+|2|
+repeat
+:truant silva; <<task>>
+-> remedy composure;
+:volunteer referenced; <<load>>
+fork
+:ethics thanks;
+fork again
+:parties newsstand;
+-> dampened gaining;
+fork again
+:lit binoculars;
+kill
+end fork
+repeat while (crises cocky?) is (indigenous thyroid)
+:alphabetized calendar; <<input>>
+end
+@enduml

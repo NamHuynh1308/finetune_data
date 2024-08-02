@@ -1,0 +1,8 @@
+@startuml
+box "impose lex"
+participant "returned overlook" as 0
+end box
+== tomb tanker ==
+0 ->] : sociable benjamin
+0 -\\ 0: combo conception
+@enduml

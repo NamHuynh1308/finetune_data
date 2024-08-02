@@ -1,0 +1,12 @@
+@startuml
+participant "duchess concerts" as 0
+participant "artwork hiccup" as 1
+== fashion countermeasures ==
+0 <-] : chin idle
+1 -> 1: proceeds filtration
+1 --//o 1: eventually luckiest
+create participant "goodness batty" as 2
+1 -> 2 : goodness batty
+...payback bluff...
+ [<- 2: snakeskin brush
+@enduml

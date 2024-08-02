@@ -1,0 +1,21 @@
+@startuml
+participant "cutler fond" as 0
+participant "polite sicko" as 1
+participant "jagger urgency" as 2
+participant "exterminator pier" as 3
+0 ->x 1: always guardians
+opt ava tickets
+1 -// 0++ : summation tattle
+alt restroom binoculars
+1 -> 3!! : gynecologist severity
+opt why boathouse
+0 ->> 3: enemy wag
+return dinks phrase
+par stricken candle
+...wed wheelchair...
+2 ->> 1: notions mid
+end
+end
+end
+end
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+group camps deserted
+:conceal horizontal;
+-> anthropologists defining;
+stop
+end group
+@enduml

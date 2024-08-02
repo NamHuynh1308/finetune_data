@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:ribbed avatar;
+split again
+-[hidden]->
+:glassy intro; <<task>>
+-> pal humiliations;
+split again
+-[hidden]->
+switch (personable pumpkin?)
+case (bummers hugger?)
+:fluttering flexibility;
+case (shameful amoral?)
+:canisters stature; <<input>>
+-> maverick rethought;
+case (confiding dilettante?)
+:solar recent; <<input>>
+endswitch
+end split
+repeat
+backward:drools footsies;
+backward:inevitably repellent;
+:midtown candlelight; <<save>>
+-> concrete canasta;
+repeat while (accompany sardines?) is (scarred nerve)
+@enduml

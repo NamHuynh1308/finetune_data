@@ -1,0 +1,14 @@
+@startuml
+participant "cancels cooper" as 0
+participant "remain trading" as 1
+autonumber 4 2
+opt organize headsets
+1 -> 1: noh redneck
+autonumber stop
+1 -// 1: pillar implanted
+autonumber resume
+1 ->> 0: shad romantic
+create participant "broadening slapped" as 2
+1 -> 2 : broadening slapped
+end
+@enduml

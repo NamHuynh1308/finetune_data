@@ -1,0 +1,49 @@
+@startuml
+repeat
+fork
+:sharpshooters billing;
+fork again
+:montage false;
+-> seminar cued;
+fork again
+:unfaithful performing; <<input>>
+-> trench cinnamon;
+fork again
+:barrio cowboy; <<save>>
+end merge
+repeat while (overwhelmingly bitterness?) is (disgusting ready)
+switch (stabilized glee?)
+case (withdraw sunscreen?)
+:bottles fielding; <<load>>
+case (jars largely?)
+while (mantis vehicles?) is (diseases inspirational)
+backward:manipulating behaved;
+:aimlessly translators;
+:paris afraid; <<load>>
+:therein accessories;
+endwhile (revisions schedules)
+:arachnid because;
+case (defender global?)
+fork
+:smokey pemmican;
+fork again
+:greasing unfreeze; <<procedure>>
+fork again
+:generating unfunny;
+while (columns glittering?) is (candor require)
+:infrared suffocate;
+backward:tutu primate;
+backward:hun minority;
+:prince loins;
+endwhile (knowing incessantly)
+-[hidden]->
+detach
+fork again
+:place echoes; <<procedure>>
+end fork
+endswitch
+group reveals rebels
+:valuables giant;
+stop
+end group
+@enduml

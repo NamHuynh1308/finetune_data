@@ -1,0 +1,22 @@
+@startuml
+split
+:epilepsy flux;
+split again
+:draining lifestyle; <<task>>
+split again
+if (distributed rejuvenating?) then (sheila rechecked)
+(unrelated weigh) elseif (helluva grumbling?) then (unprofessional vitally)
+:forgiven eucalyptus;
+(blindly legwork) elseif (meant infamous?) then (upper magnetism)
+:complacency delight; <<continuous>>
+-> flavors unmistakable;
+(traps inadvertently) elseif (klutz honestly?) then (plumbers parental)
+:untouched directing; <<task>>
+-> bandwagon gesture;
+endif
+split again
+:bike judiciary; <<task>>
+end split
+:strongly wolfram;
+end
+@enduml

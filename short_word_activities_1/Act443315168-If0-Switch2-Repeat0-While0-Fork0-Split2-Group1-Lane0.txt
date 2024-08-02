@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:saga daisy;
+split again
+-[hidden]->
+split
+:fucking drifted;
+split again
+:rides undivided;
+-> depository emission;
+split again
+:bobcat confirmation;
+end split
+split again
+-[hidden]->
+switch (obstruction casing?)
+case (potassium maybe?)
+:precipice honed;
+case (insistent bowman?)
+:issued propping; <<task>>
+case (trainees brides?)
+:unity bedpan; <<procedure>>
+case (bails rotting?)
+:ingles whoosh;
+endswitch
+end split
+group verge particulars
+switch (priceless direct?)
+case (grind splurge?)
+:fellah lives; <<task>>
+-> safari tizzy;
+case (telling protect?)
+:penetrate accommodating;
+-> shifted duly;
+case (countess oak?)
+:monitors shylock; <<load>>
+-> rigged barks;
+endswitch
+stop
+end group
+@enduml

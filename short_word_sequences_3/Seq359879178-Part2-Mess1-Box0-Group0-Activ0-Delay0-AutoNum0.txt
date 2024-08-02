@@ -1,0 +1,5 @@
+@startuml
+participant "wipes sown" as 0
+create participant "willingly drawstring" as 1
+0 -> 1 : willingly drawstring
+@enduml

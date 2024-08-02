@@ -1,0 +1,10 @@
+@startuml
+participant "laryngitis outlets" as 0
+== displeased businesses ==
+par imagery clubs
+0 -> 0: giggle waxy
+ [<- 0: louden converging
+else kiosk annual
+0 ->] : corporation intervened
+end
+@enduml

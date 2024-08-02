@@ -1,0 +1,7 @@
+@startuml
+group stunning zebras
+:ivories participating; <<input>>
+:departed interfacing; <<input>>
+end group
+stop
+@enduml

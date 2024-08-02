@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:paid predisposition;
+split again
+-[hidden]->
+split
+:distract takin;
+split again
+:babbling threats;
+-> backstreet wok;
+split again
+:gumshoe resist;
+split again
+:sox confound; <<input>>
+end split
+split again
+-[hidden]->
+:space matzah; <<input>>
+end split
+split
+:nelly nationals;
+split again
+:mortuary buttercup; <<continuous>>
+-> puritanical warts;
+split again
+:complaints through; <<continuous>>
+-> cookbook blackouts;
+end split
+:vitals struck; <<output>>
+end
+@enduml

@@ -1,0 +1,56 @@
+@startuml
+start
+:sentiments crabby;
+switch (rather criticized?)
+case (consider temps?)
+:mammals rubies;
+kill
+case (last dancer?)
+split
+:overdressed bigmouth;
+split again
+:insistence surpassed; <<save>>
+split again
+:slough carted;
+end split
+case (opener executed?)
+if (barium circulated?) then (romantic dragging)
+(cares fortunes) elseif (holdup educators?) then (biohazard hubby)
+:descends tinsel;
+-> airlines clump;
+(hulking exceeded) elseif (handles coattails?) then (reversal secretary)
+:relief pod; <<input>>
+(schmuck script) elseif (trot mezzanine?) then (lesbians warner)
+:ached observation; <<input>>
+endif
+case (string purged?)
+:laughingstock invented; <<output>>
+endswitch
+group includes humiliate
+fork
+:duality belive;
+fork again
+if (tonnage continent?) then (actors sweeper)
+:whiplash arriving;
+:weirdos surfaces;
+-> stairway miffed;
+:heeled racket;
+else (sparks paychecks)
+:mesquite highland;
+:chink fraternity; <<save>>
+endif
+fork again
+fork
+:tasted planted;
+fork again
+:juiced patty;
+fork again
+:sourpuss unpaid;
+fork again
+:vendetta threatens; <<save>>
+-> treasury depression;
+end fork
+end merge
+stop
+end group
+@enduml

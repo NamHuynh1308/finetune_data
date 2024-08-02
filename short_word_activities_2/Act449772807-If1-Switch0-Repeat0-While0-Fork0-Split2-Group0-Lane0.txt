@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:newsroom shamrock;
+split again
+-[hidden]->
+:species vitality; <<procedure>>
+-> graduated vill;
+split again
+-[hidden]->
+:whispered gutting;
+-> emissions abundant;
+split again
+-[hidden]->
+:recanted administrative; <<save>>
+-> competitiveness hips;
+end split
+:relate passengers; <<task>>
+if (poppers adult?) then (doodles commando)
+(extraction glitch) elseif (commanders pokes?) then (electronics tourist)
+split
+:lunacy weighing;
+split again
+:intruders fool;
+split again
+:homey breather;
+split again
+:miraculously trilogy; <<input>>
+-> sonogram intuitive;
+end split
+(cain dateline) elseif (lightning grumpy?) then (bunions cause)
+:whistles nasal; <<save>>
+-> propellers yammering;
+(schedule vera) elseif (enterprise claustrophobia?) then (perhaps threads)
+:carnie pow;
+endif
+:tenor pal; <<input>>
+@enduml

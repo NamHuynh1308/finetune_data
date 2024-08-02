@@ -1,0 +1,7 @@
+@startuml
+start
+group rear detente
+:groups behaved;
+stop
+end group
+@enduml

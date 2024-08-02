@@ -1,0 +1,36 @@
+@startuml
+group savings their
+:plasma renovating; <<continuous>>
+:disappeared obscure; <<procedure>>
+group clingy vertebrae
+if (imprint papers?) then (link ticker)
+:suggestive fibber;
+split
+:woodwork dissipate;
+split again
+:disassembled ticks;
+split again
+:extracurricular grade;
+split again
+:sipped professionals; <<procedure>>
+-> crow findings;
+end split
+fork
+:foothold shelf;
+fork again
+:coursing specified;
+fork again
+:spite interests;
+fork again
+:passengers cluck; <<output>>
+end merge
+else (quaint equipment)
+:individually assigning; <<continuous>>
+-> attic blunt;
+:reason situations; <<procedure>>
+-> refers attendance;
+endif
+stop
+end group
+end group
+@enduml

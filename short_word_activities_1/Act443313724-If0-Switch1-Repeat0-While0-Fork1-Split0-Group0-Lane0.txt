@@ -1,0 +1,21 @@
+@startuml
+switch (coma boxes?)
+case (penalize starting?)
+:auras rocket;
+case (annulment boat?)
+:whirlwind saturation;
+case (marooned occupation?)
+fork
+:sought turbo;
+fork again
+:poise muses;
+-> impersonating kegs;
+fork again
+:meet bribing; <<task>>
+fork again
+:nourish knockdown; <<procedure>>
+-> steady bitter;
+end fork
+endswitch
+stop
+@enduml

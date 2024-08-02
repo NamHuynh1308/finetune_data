@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:misunderstand impending;
+split again
+-[hidden]->
+:budding reference;
+kill
+split again
+-[hidden]->
+:clench windy; <<procedure>>
+split again
+-[hidden]->
+:haunt authorizing; <<output>>
+end split
+:rules fad; <<input>>
+stop
+@enduml

@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:slowly disown;
+split again
+-[hidden]->
+split
+:apropos decor;
+split again
+:umpire deal; <<procedure>>
+split again
+:apricot narcolepsy; <<output>>
+end split
+split again
+-[hidden]->
+:iliad gifts;
+end split
+split
+:rebate hardball;
+split again
+:meals hemlines;
+-> comp mariners;
+split again
+:prescribing hamper; <<task>>
+-> practise knob;
+end split
+end
+@enduml

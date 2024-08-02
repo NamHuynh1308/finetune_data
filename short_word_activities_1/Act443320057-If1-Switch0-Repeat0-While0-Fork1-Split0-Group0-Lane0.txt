@@ -1,0 +1,19 @@
+@startuml
+start
+:bastard detoxing; <<task>>
+if (distorted stickler?) then (bizarre rigid)
+:surrogate juror; <<procedure>>
+:certificate temptations;
+:pointers glimmer; <<output>>
+-> border digestion;
+else (olfactory strained)
+:controls productions; <<task>>
+fork
+:absorb easing;
+fork again
+:swarming amicable; <<procedure>>
+fork again
+:owl symbolizes;
+end fork
+endif
+@enduml

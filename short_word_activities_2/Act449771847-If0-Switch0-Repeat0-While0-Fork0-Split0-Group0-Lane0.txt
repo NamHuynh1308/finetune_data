@@ -1,0 +1,6 @@
+@startuml
+start
+:jackals obliterate; <<procedure>>
+-> designing apache;
+end
+@enduml

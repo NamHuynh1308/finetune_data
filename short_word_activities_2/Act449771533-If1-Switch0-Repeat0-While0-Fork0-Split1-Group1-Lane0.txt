@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:hacks coastal;
+split again
+-[hidden]->
+if (commissioned predecessor?) then (embarrassed plead)
+(adventure twits) elseif (loan arouse?) then (creep makers)
+:battered honed;
+(blooming describe) elseif (loafers dodgy?) then (acquitted gratifying)
+:tone bale; <<output>>
+-> ani traipsing;
+(creepers throughway) elseif (hamburgers eccentricities?) then (civilian boners)
+:corned antiquity;
+(paste grander) elseif (vicar diathesis?) then (analyzing irrelevant)
+:vera thrilling;
+endif
+split again
+-[hidden]->
+:executor singleton; <<save>>
+-> registered mantis;
+split again
+-[hidden]->
+:hang grandmother; <<procedure>>
+end split
+group punishes consuming
+:print evidence;
+:succulent peck; <<output>>
+-> disagreement downpour;
+end group
+@enduml

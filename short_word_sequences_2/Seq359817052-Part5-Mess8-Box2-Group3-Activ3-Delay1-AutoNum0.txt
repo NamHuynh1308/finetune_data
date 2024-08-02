@@ -1,0 +1,30 @@
+@startuml
+box "emphasize captains"
+participant "occupy chitchat" as 0
+participant "legendary rebels" as 1
+participant "superstitious diners" as 2
+end box
+participant "vial eunuch" as 3
+box "incantation curiosity"
+participant "burnt spastic" as 4
+end box
+ [<- 4: abroad font
+1 <-] : squeak distortion
+opt detector weakness
+...determine much...
+4 -> 1: decked reassigning
+loop doctored sex
+1 -> 3++ : scout stethoscope
+4 -> 2!! : risotto cooperation
+opt deliver butting
+1 -// 4++ : mangos glazer
+1 --> 2++ : calms tart
+1 -> 2: canvass saul
+else stamped linguistic
+end
+end
+end
+return microchips looting
+return collapsed distributors
+return sleight miller
+@enduml

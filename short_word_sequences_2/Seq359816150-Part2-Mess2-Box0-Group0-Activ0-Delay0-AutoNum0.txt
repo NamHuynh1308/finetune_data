@@ -1,0 +1,7 @@
+@startuml
+participant "fencing peace" as 0
+== hairs hauled ==
+create participant "bubbly boosts" as 1
+0 -> 1 : bubbly boosts
+1 ->x 0: bellybutton diligence
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+participant "summoning prowess" as 0
+participant "imitating zero" as 1
+participant "agitation inhaler" as 2
+autonumber 0 4
+1 <-> 0++ : bounds disarm
+autonumber stop
+0 -// 1: fronts salami
+return whee orientation
+autonumber resume
+critical outcast agitate
+...exposure tumor...
+0 -> 0: annihilated groupie
+break rumpus hears
+1 -// 1++ : jolly delaying
+...gloriously stooped...
+2 -> 0: crisps exploitation
+opt japan siding
+1 --> 0: premise awards
+return recommend jumpers
+0 ->x 2: flock costume
+end
+end
+end
+@enduml

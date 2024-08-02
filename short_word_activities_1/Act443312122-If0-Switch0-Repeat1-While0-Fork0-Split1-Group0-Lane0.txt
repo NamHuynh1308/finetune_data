@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:bottom kirk;
+split again
+-[hidden]->
+:blaze shows; <<task>>
+-> terrified wet;
+split again
+-[hidden]->
+repeat
+backward:salon act;
+:terrific ailing; <<task>>
+-> artifacts blurt;
+repeat while (obstetrician galactic?) is (virtually operate)
+-> louie radius;
+end split
+:taker modeling;
+:grow ensemble; <<input>>
+:wading bathe; <<output>>
+stop
+@enduml

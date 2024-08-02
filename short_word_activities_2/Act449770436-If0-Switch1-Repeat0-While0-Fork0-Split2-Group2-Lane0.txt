@@ -1,0 +1,38 @@
+@startuml
+group waffle ozone
+switch (dey secretaries?)
+case (cornerstone sos?)
+:pelt brock; <<output>>
+-> magistrate value;
+case (summer ransom?)
+:sail ubiquitous; <<output>>
+case (dangerous midst?)
+:generic rioting; <<continuous>>
+case (tapas fairway?)
+split
+:hangover sitter;
+split again
+:orchestrating lazar;
+split again
+:shrub forged; <<save>>
+split again
+:showering refined;
+-> trump midget;
+end split
+endswitch
+group fitter mist
+split
+:decomposed despise;
+split again
+:cutaway arson; <<continuous>>
+-> miscarriage process;
+split again
+:mystery crosses; <<input>>
+-> consumption colonists;
+split again
+:midget tyrants;
+end split
+stop
+end group
+end group
+@enduml

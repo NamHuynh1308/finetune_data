@@ -1,0 +1,26 @@
+@startuml
+start
+switch (soap migrate?)
+case (flu puree?)
+fork
+:marina parable;
+fork again
+:fuchsia morsel;
+fork again
+:wins hallucinate; <<input>>
+-> helper wilt;
+end merge
+case (prof tuxes?)
+:julep listened; <<load>>
+-> publish cannery;
+case (pawnshop entanglements?)
+:price mu; <<load>>
+-> porch wampum;
+endswitch
+:explored jargon; <<procedure>>
+while (instilled manhood?) is (counterpart bungee)
+:middies orthopedic;
+endwhile (deny trey)
+:inspection ploy;
+end
+@enduml

@@ -1,0 +1,30 @@
+@startuml
+start
+group briefcases bran
+fork
+:locusts disrupts;
+fork again
+if (embarrass starvation?) then (ham yearns)
+(leper carried) elseif (resumed mumbling?) then (cruisers flinching)
+:breakthroughs coaster;
+(delayed eyebrow) elseif (abound swat?) then (holds attained)
+:critters imperial;
+endif
+fork again
+:fishing banister; <<task>>
+-> owl electrical;
+end merge
+fork
+:experiencing milking;
+fork again
+:customs tailored; <<save>>
+-> picture taunted;
+fork again
+:rump refrigerator;
+kill
+end fork
+:helipad road;
+-> pot disoriented;
+end group
+end
+@enduml

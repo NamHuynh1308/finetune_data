@@ -1,0 +1,38 @@
+@startuml
+start
+repeat
+:evident expectations; <<save>>
+fork
+:lockup sandbar;
+fork again
+:attended de;
+fork again
+:pacifier phasing; <<input>>
+-> details hiatus;
+end fork
+repeat while (custom allegiances?) is (yarn safety)
+-> prospects whoops;
+group bulletins eases
+fork
+:peeling bite;
+fork again
+fork
+:custom plant;
+fork again
+:shadowing quarry;
+fork again
+:dato tribune; <<save>>
+end merge
+fork again
+:rest stroll;
+while (adviser insinuations?) is (derriere preference)
+backward:boxer objects;
+backward:curlers claimed;
+backward:soup housewife;
+endwhile (beggar bulge)
+-[hidden]->
+detach
+end merge
+stop
+end group
+@enduml

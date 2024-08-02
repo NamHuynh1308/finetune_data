@@ -1,0 +1,62 @@
+@startuml
+split
+-[hidden]->
+:building ravishing;
+split again
+-[hidden]->
+:nodding gull;
+-> spills gauging;
+split again
+-[hidden]->
+fork
+:lint aspects;
+fork again
+:overheard conjured; <<continuous>>
+-> floorboards ideas;
+fork again
+:practicality goopy; <<output>>
+end fork
+split again
+-[hidden]->
+:limestone cacciatore; <<continuous>>
+end split
+group tiffany fort
+:pleasantly bacteria; <<procedure>>
+if (wallaby extortion?) then (slacks chlamydia)
+(battery destinations) elseif (hedges slips?) then (desired freeways)
+switch (bunches chums?)
+case (budging nebula?)
+:mangy exertion;
+kill
+case (harper poorest?)
+:wilder bulky;
+-> pitchers promising;
+case (schedule gamma?)
+:dropped too; <<input>>
+-> hardens remaining;
+endswitch
+(bargaining nylon) elseif (anthropologists hitters?) then (emergencies slipper)
+:vohens;
+while (birdcage illegally?) is (fleabag tending)
+backward:appearances seventeen;
+endwhile (farther sitting)
+-[hidden]->
+detach
+(ridden servitude) elseif (lane streetcar?) then (rides jake)
+fork
+:forces decomposed;
+fork again
+:undo discotheque;
+fork again
+:reject promoted;
+end fork
+(arid stationed) elseif (libraries sin?) then (products saviour)
+:sheepskin oysters;
+-> begrudge dissolved;
+endif
+end group
+group travelling paella
+:yes fiasco; <<output>>
+stop
+end group
+@enduml

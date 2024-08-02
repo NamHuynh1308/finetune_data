@@ -1,0 +1,9 @@
+@startuml
+participant "levelheaded powerless" as 0
+box "harps munitions"
+participant "infidelities confidentially" as 1
+end box
+ [<- 1: viscous bowling
+...knife epiphany...
+0 ->x 1: abstinence pasta
+@enduml

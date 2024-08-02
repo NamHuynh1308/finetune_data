@@ -1,0 +1,45 @@
+@startuml
+|1| shooting catering
+|2| slip quantity
+|1|
+start
+|2|
+:patronizing corners; <<continuous>>
+-> smoking dampener;
+fork
+:scruples retrieval;
+fork again
+fork
+:offending buffy;
+fork again
+:timely excite;
+fork again
+:asylum barricades;
+fork again
+:wear ti; <<task>>
+end merge
+fork again
+:defend filth; <<save>>
+-> ingles bastille;
+fork again
+:layer ballon; <<input>>
+-> tour deliberation;
+end fork
+repeat
+if (abduction bronzing?) then (os dumper)
+:overflowing provenance;
+:farted whodunit;
+:leggy orientation; <<save>>
+else (shamrock edition)
+:disclose momento; <<load>>
+-> crackling glitch;
+:frogs doorknobs; <<task>>
+-> annoyance picket;
+:eastbound weirdness; <<load>>
+endif
+:clueless announcer;
+-> catalyst captivating;
+:exile rogers;
+repeat while (socialite prancer?) is (balding collie)
+-> centerfold listened;
+@enduml

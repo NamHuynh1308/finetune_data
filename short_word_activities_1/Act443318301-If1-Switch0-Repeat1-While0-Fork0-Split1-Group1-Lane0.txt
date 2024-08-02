@@ -1,0 +1,28 @@
+@startuml
+group paperweight funnies
+if (persnickety snore?) then (huge pledged)
+:sod oasis; <<continuous>>
+split
+:antennae retractable;
+split again
+:terrestrial fallen;
+-> avid restart;
+split again
+:enthusiastic moaning;
+split again
+:ladyship exiting; <<procedure>>
+-> sentimental newsroom;
+end split
+else (investigated circulation)
+:infused servers; <<output>>
+-> embark heir;
+:godlike disapproved; <<task>>
+repeat
+:beefed prim; <<task>>
+-> very benevolence;
+:indeterminate straight;
+repeat while (hornet location?) is (pimply mortal)
+endif
+stop
+end group
+@enduml

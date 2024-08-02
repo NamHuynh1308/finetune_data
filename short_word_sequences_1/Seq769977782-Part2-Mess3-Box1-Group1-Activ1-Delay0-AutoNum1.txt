@@ -1,0 +1,14 @@
+@startuml
+box "rhythm censure"
+participant "healing paychecks" as 0
+end box
+autonumber 2 3
+0 --//o 0: architecture fruitful
+opt yeti truant
+0 ->x 0++ : thrilled clairvoyant
+create participant "sneaks unconscious" as 1
+0 -> 1 : sneaks unconscious
+else winking holier
+end
+return erupt helped
+@enduml

@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:dolls rump;
+split again
+-[hidden]->
+switch (admirers calamitous?)
+case (belabor sleeps?)
+:halitosis subzero;
+kill
+case (keel crowns?)
+:endeavors symbolism; <<procedure>>
+case (brink quote?)
+:slides measure; <<output>>
+case (horn muster?)
+:insides programming;
+endswitch
+split again
+-[hidden]->
+:course yak;
+-> programmer trample;
+split again
+-[hidden]->
+:fixes stalks; <<input>>
+-> flux vineyards;
+end split
+switch (agrees confine?)
+case (prepared virtuoso?)
+if (zones briefing?) then (cellar apex)
+:stem fraud;
+:legislative physics;
+:innards loveless;
+else (pineapples venereal)
+:indulging torturing;
+:judicial hairdresser;
+:throughout military; <<procedure>>
+endif
+case (margins bluffing?)
+:probate two;
+endswitch
+group mittens will
+:pricey ambulance; <<save>>
+stop
+end group
+@enduml

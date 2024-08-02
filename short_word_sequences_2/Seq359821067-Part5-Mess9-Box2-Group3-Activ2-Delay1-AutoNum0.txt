@@ -1,0 +1,32 @@
+@startuml
+participant "indicate applies" as 0
+participant "uncharacteristically uproot" as 1
+box "gowns bongos"
+participant "assets desks" as 2
+participant "powder chowder" as 3
+box "stylings despise"
+participant "shaking retina" as 4
+end box
+end box
+loop parachutes particulars
+0 <-> 0: whee imposing
+3 -\\ 1: soles stacked
+loop orbital packer
+4 -> 4: headaches exterminate
+0 --//o 1++ : rational reasoned
+...capitalist schemes...
+3 -> 4++ : clipped feckless
+1 -> 1: lounging hollandaise
+else bombarding jailbird
+0 -> 1: bestowed deemed
+else bunking guaranteeing
+par bothers sending
+1 --> 3: scavenger psychiatric
+3 -> 2: standardized mumble
+return toting concealing
+else flaky hopefully
+end
+end
+end
+return crisis raving
+@enduml

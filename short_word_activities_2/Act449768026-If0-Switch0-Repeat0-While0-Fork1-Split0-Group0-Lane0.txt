@@ -1,0 +1,16 @@
+@startuml
+start
+fork
+:toothache gunned;
+fork again
+:bulimic pimping; <<procedure>>
+-> booked deployed;
+fork again
+:focused distances;
+fork again
+:glass funniest; <<procedure>>
+-> salesman veterans;
+end fork
+:scallions eyeballs; <<output>>
+stop
+@enduml

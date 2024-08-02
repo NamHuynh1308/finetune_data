@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:sequins snappy;
+split again
+-[hidden]->
+if (unclear rune?) then (comforter blended)
+:consumer lightly;
+else (branching reporting)
+:pampered benefactors;
+:tails slouch; <<output>>
+-> valet disgust;
+:detached jailed;
+endif
+split again
+-[hidden]->
+if (physically hyphen?) then (dawning prancing)
+:attired joins; <<continuous>>
+while (poring ladyship?) is (clairvoyant slaved)
+backward:coal watcher;
+backward:defector coughing;
+:aye declining; <<save>>
+:getup marker;
+endwhile (original lovelies)
+-[hidden]->
+detach
+else (knobs dialogue)
+:yachts crier;
+:accompanied morgue;
+-> courtroom cities;
+:curacao clowning; <<task>>
+endif
+split again
+-[hidden]->
+fork
+:comment chutes;
+fork again
+:miracles sentry;
+fork again
+:perjure rebounds; <<save>>
+-> studly thereby;
+end fork
+end split
+group drained schnitzel
+:puff ought; <<input>>
+-> widowed sacrilege;
+group episodes irresponsibility
+:sixties unhinged;
+-> oblivious literate;
+stop
+end group
+end group
+@enduml

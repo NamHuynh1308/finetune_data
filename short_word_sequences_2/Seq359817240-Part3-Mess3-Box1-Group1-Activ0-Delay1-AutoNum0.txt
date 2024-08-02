@@ -1,0 +1,13 @@
+@startuml
+box "soften bedpans"
+participant "evacuation bayberry" as 0
+participant "marathon seeping" as 1
+participant "thought platoon" as 2
+end box
+2 -> 2: herding dust
+...ravine annoyance...
+2 --> 0: coloured dink
+break grossed straddling
+0 ->> 1: displaying stockbroker
+end
+@enduml

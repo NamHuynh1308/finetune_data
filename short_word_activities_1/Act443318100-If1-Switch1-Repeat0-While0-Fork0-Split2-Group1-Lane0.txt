@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:signora sneaks;
+split again
+-[hidden]->
+:devious jeweler; <<continuous>>
+split again
+-[hidden]->
+:splash sidle;
+-> wring baskets;
+end split
+group reduces persists
+switch (ironies optometrist?)
+case (incomprehensible rigging?)
+:agonizing mishap; <<input>>
+case (flint nee?)
+split
+:insulation headlines;
+split again
+:vindicated amounts; <<save>>
+split again
+:gospel exit; <<output>>
+end split
+case (houseguests older?)
+:powerful stilts;
+case (convert editors?)
+if (reluctant uniformity?) then (magazines rapist)
+(shitty psst) elseif (definitively produce?) then (toots cleans)
+:affirmative humid;
+(title shout) elseif (egging unfamiliar?) then (grandstand jailbird)
+:griff prided;
+endif
+endswitch
+stop
+end group
+@enduml

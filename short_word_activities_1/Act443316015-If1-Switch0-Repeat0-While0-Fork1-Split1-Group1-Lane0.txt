@@ -1,0 +1,30 @@
+@startuml
+start
+group couture prizes
+fork
+:punchy stuffy;
+fork again
+if (possessive boxers?) then (modification restrict)
+:flan skilled; <<task>>
+-> expired reigns;
+:yearbooks pedaling;
+:significant originating;
+else (feelers palace)
+:retro bubbles;
+endif
+fork again
+:monitor nourishment; <<save>>
+-> fantastic scenes;
+fork again
+split
+:rage ornery;
+split again
+:lover simultaneously;
+-> lukewarm bumped;
+split again
+:squished farrow;
+end split
+end merge
+stop
+end group
+@enduml

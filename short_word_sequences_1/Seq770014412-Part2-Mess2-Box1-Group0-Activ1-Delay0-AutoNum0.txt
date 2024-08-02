@@ -1,0 +1,9 @@
+@startuml
+box "beatnik kip"
+participant "counselors polka" as 0
+participant "ion flack" as 1
+end box
+0 ->> 0++ : yang debrief
+1 -> 0: processional meringue
+return jumped misunderstandings
+@enduml

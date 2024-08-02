@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:feign chickadee;
+split again
+-[hidden]->
+:mixers educate; <<procedure>>
+split again
+-[hidden]->
+:podiatrist davy; <<continuous>>
+-> kremlin scooter;
+end split
+group meteors panther
+repeat
+if (stang move?) then (listeners nightstick)
+:drinker mongoose;
+-> unnerved fragile;
+kill
+else (gods decoy)
+:entrails losers;
+-> jaywalking cohesion;
+:woops battlefield;
+:ruined wand;
+endif
+if (cuneiform deprived?) then (keystone hordes)
+:herniated marcel;
+kill
+else (presuming generic)
+:radiating heterosexual;
+endif
+repeat while (caused worship?) is (commandment bounced)
+:ahem pervert; <<save>>
+end group
+end
+@enduml

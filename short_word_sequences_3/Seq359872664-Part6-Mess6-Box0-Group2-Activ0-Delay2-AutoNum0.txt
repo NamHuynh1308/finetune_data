@@ -1,0 +1,20 @@
+@startuml
+participant "returns stormy" as 0
+participant "divine the" as 1
+participant "intercepted ricochet" as 2
+participant "convenes volunteers" as 3
+participant "grabbing oracles" as 4
+4 <-> 2: bandits onion
+critical archeology partly
+...part pheasants...
+2 ->] : pies clotted
+create participant "experience temps" as 5
+2 -> 5 : experience temps
+...melancholy impaired...
+ [-> 1: emery chickenshit
+opt intermediary haggis
+5 --> 0: diverted football
+3 ->o 2: bandit mindless
+end
+end
+@enduml

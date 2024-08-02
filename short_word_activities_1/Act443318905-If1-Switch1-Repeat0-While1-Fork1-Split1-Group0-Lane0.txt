@@ -1,0 +1,51 @@
+@startuml
+start
+if (roaring scalding?) then (robbin quandary)
+:skins imaginations;
+:metaphysics shooters; <<load>>
+-> unemployment troupe;
+else (representative contingency)
+fork
+:lock veal;
+fork again
+:readers sweltering;
+fork again
+:safety inmates;
+-> seamstress mall;
+end merge
+:probation sikes; <<load>>
+-> seize disqualified;
+switch (dirty alaska?)
+case (called schedules?)
+:ampicillin whims;
+case (inferiority nougat?)
+:dogs clement;
+case (predisposition viral?)
+:hem jus; <<output>>
+-> drunk chump;
+case (raids instructor?)
+:salvage interrupts;
+endswitch
+while (tacky earthy?) is (confound lifesaver)
+:character unfunny; <<output>>
+backward:sane gasbag;
+split
+:auditor with;
+split again
+:affirmative toon; <<output>>
+-> progression clover;
+split again
+:razors surrendered;
+split again
+:undressed mow; <<procedure>>
+-> pecks sang;
+end split
+:panties environmental;
+-> dutiful gobble;
+endwhile (undergarment freely)
+-[hidden]->
+detach
+endif
+:luminous advocacy;
+stop
+@enduml

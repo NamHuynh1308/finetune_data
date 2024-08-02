@@ -1,0 +1,28 @@
+@startuml
+participant "britches cotillion" as 0
+box "goodies diploma"
+participant "bulbous dairy" as 1
+box "salaries squash"
+participant "breaker inspiring" as 2
+box "inject site"
+participant "magical engine" as 3
+end box
+end box
+end box
+3 <-] : cataracts rehearsals
+critical haute liane
+create participant "broadcasting sparing" as 4
+3 -> 4 : broadcasting sparing
+2 ->o 4: unworthy uncovering
+3 <-] : extravagant jumps
+4 -> 2: assisting fruits
+alt someday poofy
+3 -> 1: certifiably skyrocket
+par realities carvers
+0 ->] : university sorel
+0 -> 0: dosages decor
+else matched tripped
+end
+end
+end
+@enduml

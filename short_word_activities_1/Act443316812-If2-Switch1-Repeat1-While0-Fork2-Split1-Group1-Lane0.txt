@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:refinement attached;
+split again
+-[hidden]->
+:exercise anorexic; <<procedure>>
+-> ahead horseback;
+split again
+-[hidden]->
+fork
+:bossy toms;
+fork again
+:groundless transfusion;
+fork again
+:nipping clashing;
+end fork
+end split
+group captivating waddle
+switch (partnered possessions?)
+case (field phoney?)
+if (ramrod unexpressed?) then (deflated overreacted)
+:practicality flopped; <<continuous>>
+else (vogue observation)
+:redeeming retrieval;
+endif
+case (tossed infraction?)
+repeat
+:it pate;
+:mostly telescopic;
+repeat while (horticulture tissues?) is (extinguish crypto)
+-> rowan pooh;
+case (spooning diaphragm?)
+:loaf kibble; <<output>>
+case (retrieve persist?)
+:reflects staunch;
+endswitch
+fork
+:conspirator theorem;
+fork again
+if (delectable sinners?) then (exploiting mere)
+(lightened proxy) elseif (flannel duck?) then (soak airwaves)
+:impaled mowed; <<continuous>>
+-> teamed ethical;
+(wring meal) elseif (packet outcasts?) then (skids appalling)
+:conducts zipper; <<save>>
+-> organised statutes;
+(meaningful buzzards) elseif (hypnotize garth?) then (plans solve)
+:socialized egg; <<continuous>>
+-> rodent stories;
+endif
+fork again
+:caterers neatly;
+end fork
+end group
+stop
+@enduml

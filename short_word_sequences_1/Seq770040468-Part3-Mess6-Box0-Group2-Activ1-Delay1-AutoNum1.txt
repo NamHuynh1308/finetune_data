@@ -1,0 +1,23 @@
+@startuml
+participant "radish deploy" as 0
+participant "mascot dressed" as 1
+participant "irrevocably warmest" as 2
+autonumber 7 0
+1 -\\ 0++ : augmentation pug
+par recommendation tapping
+2 ->x 1: blitz name
+autonumber stop
+alt trinity abducting
+ [-> 1: molecule emerge
+autonumber resume
+0 --//o 0: godsend instance
+...damnedest repeating...
+0 -->x 0: baiting decked
+autonumber stop
+else hem indignities
+1 -> 0: venue viewers
+return peeking meteorite
+else driven disputing
+end
+end
+@enduml

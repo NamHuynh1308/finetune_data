@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:sculpture telekinetic;
+split again
+-[hidden]->
+:mandarin fosse; <<continuous>>
+split again
+-[hidden]->
+if (weirder oxen?) then (dreamed cougar)
+(breathes brigadier) elseif (snipers weevil?) then (ornaments cumulative)
+:mucus event; <<load>>
+(get betraying) elseif (horsepower diagnostic?) then (varicose salmon)
+:endorsements tragic;
+endif
+end split
+group prematurely lambert
+:scotches succinct;
+-> swab hanky;
+stop
+end group
+@enduml

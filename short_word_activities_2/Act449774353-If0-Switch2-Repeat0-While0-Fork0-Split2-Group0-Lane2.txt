@@ -1,0 +1,50 @@
+@startuml
+|1| daisy impenetrable
+|2| rookie lothario
+split
+-[hidden]->
+:observe cutesy;
+split again
+-[hidden]->
+:reclusive importing;
+split again
+-[hidden]->
+:cremated players; <<output>>
+split again
+-[hidden]->
+:humanoid hawking; <<load>>
+end split
+|2|
+switch (idols launching?)
+case (recuperate unflattering?)
+split
+:tunnel eviscerate;
+split again
+:impressed pray; <<task>>
+split again
+:vets unforgiving; <<continuous>>
+end split
+case (ballerina instruct?)
+:short razors;
+kill
+case (cushion ephemeral?)
+:grime hearted; <<task>>
+-> speculative syndicated;
+case (mash ordnance?)
+:overjoyed fleece; <<procedure>>
+endswitch
+|1|
+switch (merlot cracking?)
+case (frontier magician?)
+:thorpe startle; <<task>>
+case (marginally tubing?)
+:chips ghosts;
+-> balance clamp;
+case (daydreaming impudence?)
+:circles next;
+-> accelerant planing;
+endswitch
+|2|
+:cates sook; <<task>>
+stop
+@enduml

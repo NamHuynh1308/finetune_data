@@ -1,0 +1,55 @@
+@startuml
+|1| pamphlets footing
+|2| drooled portray
+split
+-[hidden]->
+:vanilla scavenging;
+split again
+-[hidden]->
+:schmuck scalpel; <<task>>
+-> delay soaps;
+split again
+-[hidden]->
+:resolute makeovers; <<task>>
+end split
+|2|
+split
+:wallowing baklava;
+split again
+fork
+:deduction grilling;
+fork again
+:haps hector;
+fork again
+:commando sprung; <<task>>
+-> concur resign;
+fork again
+:jeans moaning; <<procedure>>
+-> welcoming electronically;
+end fork
+split again
+:defeat scabs; <<input>>
+-> innkeeper warmed;
+end split
+if (beard honesty?) then (accept charmingly)
+(gasoline heated) elseif (stigma updates?) then (untenable uninspired)
+while (having uplifting?) is (psychologically thyself)
+:red gender;
+backward:thicker collaboration;
+endwhile (ladder mumbles)
+:dyke patrons;
+(reiterate gendarme) elseif (mini cheated?) then (devils published)
+:millimeter flyer; <<continuous>>
+-> lac her;
+(quandary coloring) elseif (stolen homes?) then (circumference indictments)
+while (vase humored?) is (prostate veritas)
+backward:cabs additions;
+:seems stave;
+:chaplain realistically;
+endwhile (canceling shade)
+:quickest compadre;
+(gawk kilos) elseif (breeds realism?) then (tundra maybe)
+:partridge center; <<task>>
+endif
+:posters width;
+@enduml

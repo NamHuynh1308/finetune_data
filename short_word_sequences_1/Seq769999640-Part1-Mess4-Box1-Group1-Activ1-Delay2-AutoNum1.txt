@@ -1,0 +1,18 @@
+@startuml
+box "salaries clock"
+participant "grandparent attendance" as 0
+end box
+== tippers seats ==
+autonumber 7 2
+0 ->> 0: surreal parishioners
+loop pocketed ranchers
+0 --> 0++ : structured accountants
+autonumber stop
+...toes sidewalks...
+0 -> 0: monde cheesed
+return deplorable ordinates
+...guerrilla ports...
+0 -> 0!! : innings outsider
+else emporium tomatoes
+end
+@enduml

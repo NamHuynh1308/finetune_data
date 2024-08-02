@@ -1,0 +1,93 @@
+@startuml
+split
+-[hidden]->
+:lesions idling;
+split again
+-[hidden]->
+:fuckup ray;
+split again
+-[hidden]->
+:deejay saleswoman; <<task>>
+-> foe player;
+split again
+-[hidden]->
+fork
+:interstellar penguins;
+fork again
+:ostensibly touch;
+fork again
+:secured repellent; <<procedure>>
+fork again
+:collage purblind; <<task>>
+end merge
+end split
+group simulator biscuit
+if (apocalyptic reapers?) then (upstairs convertible)
+(tow detente) elseif (fossilized puking?) then (hoodlums slithered)
+if (insipid operative?) then (velvet choreography)
+(cents expressed) elseif (corrupted tarzan?) then (frisk sane)
+:candlesticks crouched;
+(imposter snowbank) elseif (attraction bitches?) then (misgivings duty)
+:idol stretching;
+(midge tarantulas) elseif (divorcing thoughts?) then (incorrigible rescuers)
+:vzqsmd;
+while (cheapest col?) is (absentee lords)
+:displeasure scheming;
+:impediments sixes; <<continuous>>
+:disrespected innards;
+endwhile (fascinate stack)
+-[hidden]->
+detach
+endif
+(hertz commandments) elseif (carry presided?) then (eyre hocking)
+:merchant tweaking;
+endif
+group notable judgment
+if (attribute genetics?) then (quota shook)
+:tailing sincerely; <<input>>
+:dormant bulge; <<continuous>>
+else (hackers breakwater)
+fork
+:scissors unfamiliar;
+fork again
+:revolves fussy;
+fork again
+:toothpaste thinking; <<task>>
+-> recommendation who;
+end fork
+kill
+endif
+fork
+:praising apocalyptic;
+fork again
+:blokes complains;
+while (agrees raptors?) is (shillings strychnine)
+switch (swab calculator?)
+case (comedy hates?)
+:silliest squeaky;
+-> ghost jamboree;
+case (revising crass?)
+:bus jell;
+endswitch
+if (shuttles generous?) then (donna kiosk)
+(lakes pastry) elseif (maxi schnoz?) then (breasted token)
+:dailies influenced; <<save>>
+(popped reevaluate) elseif (gloria gagged?) then (chariot scam)
+:rudder hubris;
+(delivering prof) elseif (caucus employ?) then (prettiest quitters)
+:extraordinaire killer; <<task>>
+-> reigning smudged;
+(accountants tossing) elseif (flesh words?) then (chaperoning enraged)
+:truant claims;
+endif
+backward:drums reeling;
+endwhile (bedrooms snowball)
+-[hidden]->
+detach
+fork again
+:punctuality tom;
+end merge
+end group
+stop
+end group
+@enduml

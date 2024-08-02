@@ -1,0 +1,7 @@
+@startuml
+group messing cheeks
+:uppers dispense; <<load>>
+-> derives pistols;
+stop
+end group
+@enduml

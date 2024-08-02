@@ -1,0 +1,17 @@
+@startuml
+box "tammy animals"
+participant "scones logically" as 0
+participant "formula further" as 1
+participant "gathered icebreaker" as 2
+end box
+autonumber 4 1
+1 --//o 0: owners contender
+1 ->> 1: shopkeeper volatile
+autonumber stop
+2 -\\ 0++ : conjuring roaming
+autonumber resume
+1 ->] : bested pollock
+...germ rayed...
+0 <-] : human victorious
+return carvers enforced
+@enduml

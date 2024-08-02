@@ -1,0 +1,9 @@
+@startuml
+participant "intuition unsavory" as 0
+create participant "maniacs harmonious" as 1
+0 -> 1 : maniacs harmonious
+0 <-> 1: discrete cleverly
+...fervent dollop...
+0 -> 1: ends heights
+0 -> 0: heath mop
+@enduml

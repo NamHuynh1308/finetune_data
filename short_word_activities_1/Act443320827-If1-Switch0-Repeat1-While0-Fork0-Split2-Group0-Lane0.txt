@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:upbeat temple;
+split again
+-[hidden]->
+:shut magnets; <<task>>
+split again
+-[hidden]->
+:odyssey pints; <<continuous>>
+end split
+repeat
+split
+:pulled burial;
+split again
+:maps provide;
+split again
+:prompt hallucinations; <<save>>
+split again
+:delirious brainstorm;
+end split
+:whispering seismic;
+if (unending boxer) then (situations worn)
+:remotely toddler;
+break
+endif
+->introducing unhook;
+:ladder handball;
+if (bailey transfusion?) then (rigid healers)
+:croaker values;
+-> loosened clambake;
+else (fielding thump)
+:militia quits;
+:fantasizing facials;
+:admits remarked; <<output>>
+endif
+repeat while (timbre wealthy?) is (dew mister)
+-> surgical squeal;
+@enduml

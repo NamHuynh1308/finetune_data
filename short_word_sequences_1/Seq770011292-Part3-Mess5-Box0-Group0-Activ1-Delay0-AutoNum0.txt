@@ -1,0 +1,11 @@
+@startuml
+participant "rewind passenger" as 0
+participant "carelessness yokels" as 1
+1 -->x 0: backs burial
+create participant "inspired grow" as 2
+1 -> 2 : inspired grow
+2 -> 1: swipe rejuvenated
+1 --//o 1: recreational flog
+1 <-> 1++ : finishing organisms
+return tycoon stocked
+@enduml

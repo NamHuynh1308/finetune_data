@@ -1,0 +1,32 @@
+@startuml
+participant "hardware sometimes" as 0
+participant "locker standish" as 1
+participant "departure septum" as 2
+participant "hilltop greatly" as 3
+autonumber 10 9
+par sycamore spine
+create participant "royalty fuller" as 4
+2 -> 4 : royalty fuller
+autonumber stop
+0 --> 1++ : aspect snagging
+else disciples variant
+critical printing sun
+2 ->] : hast jackal
+return wrestling tracking
+...pajama memorial...
+2 ->> 1: flier pieced
+autonumber resume
+else administered torched
+par yogurt downing
+...starters instrument...
+4 ->] : nighthawk knobs
+...courageous may...
+3 --//o 2++ : indictments torque
+else earlier personnel
+create participant "vehicle aunt" as 5
+1 -> 5 : vehicle aunt
+end
+end
+end
+return palaces rake
+@enduml

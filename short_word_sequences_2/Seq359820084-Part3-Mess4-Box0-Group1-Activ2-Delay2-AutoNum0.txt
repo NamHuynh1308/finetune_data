@@ -1,0 +1,15 @@
+@startuml
+participant "lingerie turbine" as 0
+participant "asylum poncho" as 1
+participant "three cowboys" as 2
+ [-> 2: manually hazards
+1 ->> 0++ : rubbing mouthed
+opt scumbags introduce
+...huns shred...
+1 --//o 0: develop beanbag
+...synagogue poke...
+2 ->o 2++ : calming heartbreak
+end
+return includes incinerated
+return whipped scarf
+@enduml

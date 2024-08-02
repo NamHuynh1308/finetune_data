@@ -1,0 +1,49 @@
+@startuml
+|1| oddest cries
+|2| lagging mound
+split
+-[hidden]->
+:maple founding;
+split again
+-[hidden]->
+:exploring all; <<task>>
+split again
+-[hidden]->
+:cuppa juggling; <<save>>
+-> splendid candy;
+split again
+-[hidden]->
+:gag feelers; <<input>>
+end split
+switch (negotiable reminder?)
+case (insertion desktop?)
+:luge appearance; <<continuous>>
+-> synapses tenor;
+case (crudely speaking?)
+while (convertible drum?) is (wiggy groundless)
+:extended occurrences;
+:scrunch ribbon;
+:broiler indicating;
+:buttoned coaxing;
+endwhile (rebel poorly)
+:eros withers;
+case (soundstage shushing?)
+fork
+:computerized detaining;
+fork again
+:psychologically clubbed; <<task>>
+fork again
+:speakerphone kidnaps;
+-> bigfoot flushed;
+end fork
+case (structure feed?)
+:immaterial pitiful; <<save>>
+endswitch
+while (barked gardening?) is (glassware nuggets)
+backward:burnout auditory;
+endwhile (casts bayou)
+:consortium skis;
+|2|
+:yeller bolted; <<procedure>>
+-> blockage greenhouse;
+@enduml

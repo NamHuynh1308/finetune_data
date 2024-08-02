@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:foxholes catheter;
+split again
+-[hidden]->
+:minstrel epizootics;
+-> shocks idiots;
+split again
+-[hidden]->
+:unsuccessful buzzer; <<continuous>>
+end split
+:straightaway coy;
+-> nineteen overrated;
+:inspector covered; <<task>>
+stop
+@enduml

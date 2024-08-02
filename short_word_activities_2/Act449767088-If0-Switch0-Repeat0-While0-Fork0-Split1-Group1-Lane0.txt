@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:sadly inhabit;
+split again
+-[hidden]->
+:pedestrians winkle; <<save>>
+split again
+-[hidden]->
+:wobble pillar;
+-> temple hepatitis;
+end split
+group biotech evident
+:loser whisking; <<input>>
+stop
+end group
+@enduml

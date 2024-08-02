@@ -1,0 +1,8 @@
+@startuml
+participant "paroled broader" as 0
+autonumber 0 4
+opt enhances aboveboard
+0 <-> 0++ : diploma scooped
+end
+return explaining intruders
+@enduml

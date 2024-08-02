@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:yielding boarder;
+split again
+-[hidden]->
+:cellmates total; <<procedure>>
+-> temporarily shanghaied;
+split again
+-[hidden]->
+:done faculties; <<procedure>>
+end split
+if (array technology?) then (companions shh)
+(cart majesty) elseif (suppressed volatile?) then (hesitated maybe)
+if (tedious bene?) then (these foolproof)
+:doling billboard;
+:suitor marked; <<save>>
+-> comeback resented;
+:solve selectman; <<load>>
+while (blacksmith animosity?) is (faithful presumed)
+:evaluating shaves;
+-> complication promise;
+endwhile (propaganda unexpectedly)
+-[hidden]->
+detach
+else (hospitalized minority)
+:peep lows;
+:sells saturated;
+:heart overheating;
+endif
+(cheeseburgers matchbook) elseif (ales ski?) then (talents snow)
+switch (authentic bother?)
+case (staying wondrous?)
+:unintelligible nutritious; <<task>>
+-> battleground deadly;
+case (successful etiquette?)
+:charter reduction; <<save>>
+endswitch
+endif
+@enduml

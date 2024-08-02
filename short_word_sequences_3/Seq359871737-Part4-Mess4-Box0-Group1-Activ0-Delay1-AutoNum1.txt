@@ -1,0 +1,16 @@
+@startuml
+participant "documents ose" as 0
+participant "cranes cocked" as 1
+participant "technologies eves" as 2
+participant "inaccuracies bearded" as 3
+autonumber 7 8
+par pearl thanking
+0 -> 0: groomsmen warmed
+autonumber stop
+...auction cliff...
+ [<- 0: implying classic
+2 -> 0: independent association
+3 ->o 3: celled fish
+autonumber resume
+end
+@enduml

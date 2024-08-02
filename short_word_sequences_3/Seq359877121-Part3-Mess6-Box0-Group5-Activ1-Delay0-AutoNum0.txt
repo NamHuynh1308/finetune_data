@@ -1,0 +1,24 @@
+@startuml
+participant "jaguars whittled" as 0
+participant "freight herbal" as 1
+== beth prizes ==
+loop cocky consumed
+0 --> 1: hats engagement
+0 --//o 1++ : giraffe inaccessible
+else sterilized bug
+opt vegetative tonnage
+0 -\\ 0: crimes paperwork
+break napkin clothed
+0 -> 1: kickboxing patiently
+par contemplated notes
+0 <-] : maids realism
+critical garner shorthanded
+create participant "renewing slated" as 2
+0 -> 2 : renewing slated
+return sinks stamina
+end
+end
+end
+end
+end
+@enduml

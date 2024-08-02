@@ -1,0 +1,13 @@
+@startuml
+participant "jackal warrants" as 0
+box "wracked poked"
+participant "petals readers" as 1
+end box
+autonumber 7 3
+create participant "moist speculative" as 2
+0 -> 2 : moist speculative
+par warmed agony
+1 -> 2: matchmaker molded
+autonumber stop
+end
+@enduml

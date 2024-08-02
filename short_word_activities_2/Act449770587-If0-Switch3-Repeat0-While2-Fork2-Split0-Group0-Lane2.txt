@@ -1,0 +1,63 @@
+@startuml
+|1| diversion aground
+|2| pantry stammering
+|1|
+start
+|2|
+:rattle okra; <<task>>
+fork
+:roam dregs;
+fork again
+:umpteenth bends; <<load>>
+fork again
+:tapeworm jabot;
+while (cosmetics shun?) is (descend sponges)
+switch (witchy putty?)
+case (will wavelength?)
+:fervor diversions;
+case (compadre sift?)
+:birdcage rematch; <<procedure>>
+case (bruise propelled?)
+:repeated conservation;
+case (mates procedures?)
+:cod tumor;
+kill
+endswitch
+backward:negligence nauseating;
+switch (climbed caramba?)
+case (hastily scribbling?)
+:predictable intrigues;
+case (severely negligent?)
+:diamonds evaporated;
+kill
+endswitch
+backward:debts sera;
+endwhile (hieroglyphs garage)
+-[hidden]->
+detach
+end merge
+|1|
+:bald oval; <<task>>
+-> cubby finances;
+fork
+:dole wagons;
+fork again
+switch (outlaws hockey?)
+case (idealistic wages?)
+:stint depended;
+while (wild deceiving?) is (consequently midnight)
+backward:intercourse blissful;
+endwhile (fault butting)
+-[hidden]->
+detach
+case (bouquets stretch?)
+:informing cox;
+-> instructors trident;
+endswitch
+fork again
+:meddle status;
+-> senseless replenish;
+fork again
+:timpani dishwasher; <<task>>
+end merge
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+group faculty extracts
+:exaggeration ultimately; <<save>>
+stop
+end group
+@enduml

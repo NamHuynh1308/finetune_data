@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:prelude take;
+split again
+-[hidden]->
+:naturally poppet; <<input>>
+split again
+-[hidden]->
+repeat
+:chickadee galloping;
+repeat while (sleazebag wanted?) is (pests wine)
+end split
+group anthropology organism
+:chemicals handoff;
+:reign interrogation; <<procedure>>
+:rethought acquaintances; <<output>>
+-> of attempt;
+end group
+end
+@enduml

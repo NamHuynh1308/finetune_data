@@ -1,0 +1,23 @@
+@startuml
+start
+group unicycle unplug
+:potency instruments; <<continuous>>
+-> toy stopwatch;
+split
+:nos shorty;
+split again
+switch (mediterranean metal?)
+case (provides heady?)
+:carefree bloodless; <<output>>
+-> crunchy hoarding;
+case (pile illness?)
+:diluted biggest; <<load>>
+case (coded robbed?)
+:pessimistic flannel;
+endswitch
+split again
+:cuff transferred; <<task>>
+end split
+end group
+end
+@enduml

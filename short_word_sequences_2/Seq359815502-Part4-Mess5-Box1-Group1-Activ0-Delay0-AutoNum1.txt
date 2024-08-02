@@ -1,0 +1,18 @@
+@startuml
+participant "predictions leaves" as 0
+box "veranda bulbs"
+participant "frolic annoying" as 1
+participant "pupils condiment" as 2
+end box
+participant "loads dieting" as 3
+== hamsters leaking ==
+autonumber 1 0
+1 <-] : gangs spoiled
+autonumber stop
+alt obliterate irrelevant
+1 -> 1: buzzed reverently
+0 --//o 2: inhaling splendor
+end
+0 <-> 2: hugged ratings
+0 -// 3: countrymen flooded
+@enduml

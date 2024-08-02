@@ -1,0 +1,7 @@
+@startuml
+start
+group danced mergers
+:yokels quacks; <<continuous>>
+stop
+end group
+@enduml

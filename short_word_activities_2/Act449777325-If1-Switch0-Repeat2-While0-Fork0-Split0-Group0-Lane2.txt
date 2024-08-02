@@ -1,0 +1,29 @@
+@startuml
+|1| celebrating reasonably
+|2| accidently loss
+|1|
+start
+|2|
+:obligations journal;
+-> rebate glop;
+|1|
+repeat
+:siesta gasoline; <<task>>
+repeat while (gently sipping?) is (secretary executed)
+:wiggle chorus;
+:architect slammer; <<input>>
+repeat
+:sidetracked selective; <<continuous>>
+if (butting roofer?) then (messenger orphaned)
+:calculated straits; <<input>>
+-> lout provider;
+:consigliere juice;
+:outing transports;
+kill
+else (parallels nighttime)
+:trellis cystic;
+kill
+endif
+repeat while (agreements debts?) is (derelict mistletoe)
+end
+@enduml

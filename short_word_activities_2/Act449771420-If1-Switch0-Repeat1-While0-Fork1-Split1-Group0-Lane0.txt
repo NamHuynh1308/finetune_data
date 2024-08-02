@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:arches zillion;
+split again
+-[hidden]->
+repeat
+:sibling remodelling;
+:penguin violence;
+repeat while (medals destruct?) is (amiable cameras)
+split again
+-[hidden]->
+if (sixpence harmed?) then (chiffon reactors)
+:veils mannered; <<output>>
+-> coffeehouse packed;
+:drab hose;
+:empowerment malfunctions; <<input>>
+else (hallelujah ambivalence)
+:history portent; <<task>>
+-> minstrel blot;
+:gory mode; <<load>>
+kill
+endif
+split again
+-[hidden]->
+fork
+:onto abbey;
+fork again
+:numbness spice; <<procedure>>
+fork again
+:criticize relief;
+fork again
+:noodle records;
+end fork
+end split
+:respect moments; <<task>>
+@enduml

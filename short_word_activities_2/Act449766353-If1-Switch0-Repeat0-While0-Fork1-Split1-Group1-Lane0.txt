@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:commuted demon;
+split again
+-[hidden]->
+fork
+:persistence stalkers;
+fork again
+:come endings;
+fork again
+:rebuilding alarming; <<load>>
+-> ventriloquism annihilation;
+end fork
+split again
+-[hidden]->
+if (wiggy lonesome?) then (rebuilt color)
+(earn footsteps) elseif (packs spastic?) then (consisted preaching)
+:nonsensical poet;
+(pack photo) elseif (solutions milling?) then (jotted academy)
+:cortex shadowing;
+endif
+end split
+group heavy turning
+:glengarry duress;
+stop
+end group
+@enduml

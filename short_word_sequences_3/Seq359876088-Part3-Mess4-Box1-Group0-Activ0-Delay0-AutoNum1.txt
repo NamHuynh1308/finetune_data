@@ -1,0 +1,12 @@
+@startuml
+box "differently crushes"
+participant "applejack mistress" as 0
+end box
+autonumber 8 1
+0 -\\ 0: permitting commensurate
+0 <-] : compared junior
+create participant "headlong restroom" as 1
+0 -> 1 : headlong restroom
+create participant "retrograde sunken" as 2
+0 -> 2 : retrograde sunken
+@enduml

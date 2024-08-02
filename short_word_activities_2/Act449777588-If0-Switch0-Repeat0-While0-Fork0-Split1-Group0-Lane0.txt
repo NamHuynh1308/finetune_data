@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:tucking biohazard;
+split again
+-[hidden]->
+:concern recklessly; <<task>>
+split again
+-[hidden]->
+:jean debated; <<input>>
+-> blinds dojo;
+split again
+-[hidden]->
+:robin other; <<load>>
+-> reverence hunchback;
+end split
+:leeway navigating;
+-> violets oil;
+end
+@enduml

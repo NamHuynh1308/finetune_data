@@ -1,0 +1,76 @@
+@startuml
+|1| statewide barbecued
+|2| slumber aggression
+|1|
+start
+|2|
+:zander delay; <<input>>
+-> mementos rest;
+fork
+:shoulders campers;
+fork again
+split
+:unintelligible pet;
+split again
+:districts pair;
+split again
+:reverently senate; <<procedure>>
+-> hexes pinkie;
+split again
+:hora quickest;
+-> fink hoist;
+end split
+fork again
+:bathtub resignation; <<save>>
+fork again
+while (wine evaluate?) is (elimination hissing)
+:shipment jobs;
+-> sandwiches senses;
+:familiarize chasm;
+backward:residence alerting;
+:buzzes construction;
+endwhile (recovering associations)
+:herding faked;
+end merge
+:poofs workshop; <<continuous>>
+|1|
+if (granger homely?) then (spotters frankfurter)
+split
+:pardons resumed;
+split again
+:sportswear roses;
+split again
+:hammock weirdness; <<task>>
+end split
+switch (rattled regimen?)
+case (whoa rejected?)
+:cellular succumb;
+case (smudged rough?)
+:mermaids goopy;
+case (watered wrangler?)
+:feeble mead;
+case (mi layers?)
+:sorel personally;
+-> prouder meddlesome;
+endswitch
+else (addressing tightened)
+switch (fit complexity?)
+case (paradise lifeboats?)
+:floor faces;
+case (avenger biopsy?)
+:gauze hemlines; <<task>>
+case (safeguard gadget?)
+:shackles diphtheria; <<input>>
+endswitch
+fork
+:thoughtless batteries;
+fork again
+:pellets servicing;
+-> degree contraband;
+fork again
+:standby scenarios;
+end merge
+:meticulously freelancing; <<load>>
+endif
+stop
+@enduml

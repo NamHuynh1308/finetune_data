@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:reviewing auditing;
+split again
+-[hidden]->
+:traitor shoddy;
+-> barricade sniffed;
+split again
+-[hidden]->
+:filled picket;
+split again
+-[hidden]->
+:bodily captured; <<save>>
+end split
+fork
+:spatial eludes;
+fork again
+if (orthodox sexless?) then (dynasty lands)
+:baptism waiting;
+:ectoplasm snapped;
+-> toppings butterfly;
+while (intercept corral?) is (wrapped happily)
+:muchacho specials; <<continuous>>
+:shattering substituting; <<continuous>>
+endwhile (alphabetically hooray)
+-[hidden]->
+detach
+else (centers accidentally)
+:hygienic silks; <<procedure>>
+:ageless plow; <<continuous>>
+endif
+fork again
+:exculpatory disasters; <<input>>
+end merge
+@enduml

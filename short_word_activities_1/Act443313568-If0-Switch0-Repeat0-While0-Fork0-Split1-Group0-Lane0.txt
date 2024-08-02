@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:raved concocting;
+split again
+-[hidden]->
+:canary reveling;
+-> cardboard christen;
+split again
+-[hidden]->
+:backer diversions;
+kill
+end split
+:overstay fulfilled; <<task>>
+-> stuffed overtures;
+@enduml

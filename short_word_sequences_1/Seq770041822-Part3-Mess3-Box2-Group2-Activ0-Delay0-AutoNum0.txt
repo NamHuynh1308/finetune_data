@@ -1,0 +1,17 @@
+@startuml
+box "grub gearing"
+participant "curves permitting" as 0
+box "milestone spree"
+participant "panache blabbing" as 1
+participant "woof widows" as 2
+end box
+end box
+== plucky expose ==
+ [<- 0: pesto hills
+par tonic shame
+1 <-] : trove nautilus
+opt shoulders renounce
+0 -> 2: foxes composer
+end
+end
+@enduml

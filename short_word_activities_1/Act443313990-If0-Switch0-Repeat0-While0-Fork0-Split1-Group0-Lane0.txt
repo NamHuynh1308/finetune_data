@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:tart fink;
+split again
+-[hidden]->
+:ravage cranium;
+split again
+-[hidden]->
+:laws state; <<load>>
+end split
+:gospel cheats; <<procedure>>
+stop
+@enduml

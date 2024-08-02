@@ -1,0 +1,25 @@
+@startuml
+participant "bumper hoboes" as 0
+participant "journalism colin" as 1
+box "clarence homebody"
+participant "oils thorpe" as 2
+end box
+autonumber 8 0
+alt someway outer
+0 -// 2: suppertime stalled
+opt savoring entree
+ [<- 2: courier veteran
+loop analogy fours
+...straightaway simplify...
+0 --> 2: motivate panting
+par tung chile
+ [-> 0: leeches auntie
+autonumber stop
+0 ->x 2++ : pivot hardens
+autonumber resume
+end
+end
+end
+end
+return eagerly look
+@enduml

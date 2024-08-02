@@ -1,0 +1,12 @@
+@startuml
+start
+fork
+:apricot trashes;
+fork again
+:penned sweet;
+-> disown awesome;
+fork again
+:written merchandising; <<load>>
+end fork
+stop
+@enduml

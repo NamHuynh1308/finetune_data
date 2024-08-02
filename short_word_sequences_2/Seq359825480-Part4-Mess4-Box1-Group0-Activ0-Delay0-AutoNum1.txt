@@ -1,0 +1,15 @@
+@startuml
+participant "studly premise" as 0
+participant "tinkered diameter" as 1
+participant "earnest phoned" as 2
+box "mattered spiders"
+participant "visualizing intuition" as 3
+end box
+autonumber 2 2
+0 -\\ 1: strangulation gem
+autonumber stop
+2 -> 1: blinks implications
+1 -> 3: venereal laughable
+0 -// 2: shipwrecked coincidence
+autonumber resume
+@enduml

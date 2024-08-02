@@ -1,0 +1,8 @@
+@startuml
+box "offense cockpit"
+participant "pretzels bean" as 0
+end box
+== targets spawn ==
+create participant "corny hostages" as 1
+0 -> 1 : corny hostages
+@enduml

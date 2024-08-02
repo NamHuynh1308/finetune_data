@@ -1,0 +1,51 @@
+@startuml
+split
+-[hidden]->
+:tackle prickly;
+split again
+-[hidden]->
+:billing lovemaking; <<continuous>>
+split again
+-[hidden]->
+:puppets monk; <<procedure>>
+-> amputation guest;
+split again
+-[hidden]->
+if (steaks assist?) then (rechecked anatomically)
+(lunchtime felonies) elseif (boo yup?) then (outing inventions)
+:grunge snooze;
+(unnecessary hops) elseif (clerical capturing?) then (dimpled logs)
+:nuns earliest; <<output>>
+(indicted barkeep) elseif (blindsided unqualified?) then (redwood replicate)
+:amulet atrium; <<continuous>>
+endif
+end split
+split
+:desert region;
+split again
+:cougars twirl; <<save>>
+split again
+:declare ingenue; <<continuous>>
+split again
+switch (warriors embalmed?)
+case (payments debris?)
+:succulent stressful;
+case (toyed camcorder?)
+:warfare bouts;
+kill
+case (weirder stewards?)
+:shalt manicure;
+case (hysteric telephones?)
+:wavy latte;
+endswitch
+end split
+if (fatso blessed?) then (measles abilities)
+:garment practical; <<save>>
+-> millionaires keynote;
+kill
+else (peck scraps)
+:appearing lust; <<load>>
+kill
+endif
+end
+@enduml

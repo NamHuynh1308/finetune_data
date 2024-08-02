@@ -1,0 +1,8 @@
+@startuml
+:blazers weds; <<procedure>>
+group chained equipped
+:qualified chevy;
+-> job building;
+stop
+end group
+@enduml

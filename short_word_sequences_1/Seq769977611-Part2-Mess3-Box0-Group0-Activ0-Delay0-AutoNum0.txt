@@ -1,0 +1,8 @@
+@startuml
+participant "spooning lectured" as 0
+participant "fabulously haircuts" as 1
+== airplanes shook ==
+0 --> 1: vast snowball
+1 ->o 1: welder farm
+1 ->o 0: cuddle alternator
+@enduml

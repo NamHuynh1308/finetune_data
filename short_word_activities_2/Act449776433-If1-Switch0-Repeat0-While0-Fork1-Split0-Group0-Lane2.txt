@@ -1,0 +1,33 @@
+@startuml
+|1| sack barroom
+|2| baller diesel
+:disclosed sportsmanship; <<input>>
+|2|
+if (carnival hawk?) then (individually carving)
+(cardboard cayman) elseif (bereft nutshell?) then (notices identifying)
+:pinky statistically; <<input>>
+(campus trailers) elseif (manila supreme?) then (baptized corresponded)
+:perjury strangler;
+(nastiest performs) elseif (archives adds?) then (freedman faucet)
+fork
+:protein squeaks;
+fork again
+:needles scandal; <<output>>
+-> sumptuous woke;
+fork again
+:deftly judgmental; <<load>>
+-> cuffing pendant;
+fork again
+:returning picnics; <<output>>
+end merge
+(rooming wield) elseif (movers caramel?) then (raisers overheard)
+:waiter hippies;
+-> stiletto girlie;
+endif
+|1|
+:abuser conspire; <<procedure>>
+:frequent instill; <<load>>
+|2|
+:potting grapes;
+stop
+@enduml

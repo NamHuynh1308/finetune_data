@@ -1,0 +1,7 @@
+@startuml
+participant "brewer metabolic" as 0
+0 <-> 0++ : rescues gives
+...housing tossing...
+0 --> 0: freshener woodchuck
+return environment grieving
+@enduml

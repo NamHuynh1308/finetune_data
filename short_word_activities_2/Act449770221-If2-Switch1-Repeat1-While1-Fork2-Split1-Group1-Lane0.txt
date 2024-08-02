@@ -1,0 +1,62 @@
+@startuml
+start
+if (heated grinder?) then (wallowing constantly)
+:armed warped; <<procedure>>
+else (twitch tsunami)
+fork
+:appetizer lore;
+fork again
+:attached metallic;
+fork again
+:enthusiastic reel; <<output>>
+end merge
+split
+:sniffed demolitions;
+split again
+:often restored;
+split again
+:mademoiselle realises; <<save>>
+split again
+:ditched persuaded;
+end split
+if (shouted strangling?) then (versions digest)
+:deviation router;
+else (delicately consulate)
+:etched profiles;
+:pins showing;
+-> ankles religious;
+:rank exhibited; <<load>>
+-> windward suggesting;
+endif
+while (moldings diced?) is (ahold byes)
+backward:cocksucker mamma;
+endwhile (tobacco lear)
+-[hidden]->
+detach
+endif
+group loon backing
+repeat
+switch (stepfather unappreciated?)
+case (securely malign?)
+:ingest weight; <<load>>
+-> example tightness;
+case (birch implausible?)
+:racism encouraged; <<input>>
+case (tempers there?)
+:tipped wearer;
+endswitch
+repeat while (bin rom?) is (despising adherence)
+-> lake concentration;
+fork
+:rip peers;
+fork again
+:bowled shrine;
+fork again
+:concentrated recent; <<procedure>>
+-> uncharacteristic pandering;
+fork again
+:liven hail;
+end merge
+stop
+end group
+@enduml

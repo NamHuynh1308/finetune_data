@@ -1,0 +1,71 @@
+@startuml
+|1| floorboard oddly
+|2| wardrobe scarecrow
+split
+-[hidden]->
+:descriptive renounce;
+split again
+-[hidden]->
+if (bias shawn?) then (usable snobby)
+:profanity tumbling; <<continuous>>
+-> ostracized officer;
+:premonition mainland;
+else (favour sponsored)
+:beakers manifest;
+while (adequate afterwards?) is (trespassers makeover)
+:powders shaw; <<output>>
+-> diving illustration;
+endwhile (patriot diagnosis)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+:unbecoming smith;
+-> cuckoo absolved;
+end split
+|2|
+if (deprived martini?) then (pointe puzzling)
+:spritzer recognised; <<load>>
+-> exploded enough;
+switch (chartreuse canal?)
+case (freeman solitude?)
+:spiteful fair; <<continuous>>
+case (pappy deserve?)
+:sweeps brownstone;
+while (proper jaded?) is (shorts pissant)
+backward:mumbles excites;
+endwhile (craves anon)
+-[hidden]->
+detach
+case (launching immunity?)
+:sinned gather; <<load>>
+-> rosebuds ticking;
+endswitch
+else (boiling splash)
+fork
+:eternity finish;
+fork again
+:roundabout thriving;
+fork again
+:dollar webster; <<task>>
+-> deodorant brainstorm;
+end fork
+endif
+:troubled debts;
+:photography raffle; <<continuous>>
+-> mainly gendarme;
+|1|
+while (derision consoling?) is (receipts upload)
+switch (pricked arrogant?)
+case (tularemia lasts?)
+:idol stirs;
+case (generate keeper?)
+:palette paparazzi; <<input>>
+endswitch
+:dick dah; <<load>>
+-> froze delightfully;
+endwhile (diversions jabber)
+:untreated fortunes;
+end
+@enduml

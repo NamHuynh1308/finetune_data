@@ -1,0 +1,9 @@
+@startuml
+box "proverb tarantulas"
+participant "squashing deep" as 0
+end box
+autonumber 4 1
+opt held bloodsucker
+0 -> 0!! : sedation breezy
+end
+@enduml

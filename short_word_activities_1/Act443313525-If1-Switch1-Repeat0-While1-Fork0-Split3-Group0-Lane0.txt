@@ -1,0 +1,54 @@
+@startuml
+split
+-[hidden]->
+:penned ranks;
+split again
+-[hidden]->
+:deadlock laureate; <<load>>
+split again
+-[hidden]->
+while (semiautomatic archaic?) is (chateau deadly)
+:lopper highlighters;
+endwhile (backpacking firmer)
+:conversion corrective;
+split again
+-[hidden]->
+if (waging population?) then (ratings nausea)
+(member vests) elseif (redevelopment suckered?) then (supporter inspired)
+:monoxide stumped; <<input>>
+(hyper martins) elseif (beta anna?) then (offender buzzing)
+:badminton ozone;
+(shooting starboard) elseif (staged dopes?) then (nurtured fife)
+:carting ballpark;
+endif
+end split
+split
+:specific gremlin;
+split again
+:mescaline calmed; <<procedure>>
+split again
+switch (christy patents?)
+case (tempt digit?)
+:arc blunt;
+case (dinero telegrams?)
+:patrol rod;
+case (cola texture?)
+:decay espressos; <<input>>
+-> ramus elimination;
+case (poofs worshipping?)
+:doubles doodles;
+endswitch
+split again
+split
+:pac pistol;
+split again
+:downstream notoriously;
+split again
+:linger injection;
+-> standard stash;
+split again
+:chief hup;
+end split
+end split
+end
+@enduml

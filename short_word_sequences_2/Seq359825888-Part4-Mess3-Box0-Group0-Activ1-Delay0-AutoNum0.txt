@@ -1,0 +1,10 @@
+@startuml
+participant "reverse uncontrollable" as 0
+participant "vertigo flown" as 1
+participant "jeeps relinquish" as 2
+0 -> 0++ : salesmen realizing
+2 -> 2: overall bundle
+create participant "coal comeuppance" as 3
+2 -> 3 : coal comeuppance
+return strategize hardworking
+@enduml

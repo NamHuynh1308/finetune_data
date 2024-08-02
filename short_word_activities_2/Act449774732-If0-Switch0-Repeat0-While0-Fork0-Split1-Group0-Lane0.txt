@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:suited parading;
+split again
+-[hidden]->
+:innuendo apart; <<task>>
+split again
+-[hidden]->
+:dickens flaunt; <<output>>
+end split
+:carvings distancing;
+-> waived trooper;
+:bathed kidding;
+-> vandalism kickback;
+stop
+@enduml

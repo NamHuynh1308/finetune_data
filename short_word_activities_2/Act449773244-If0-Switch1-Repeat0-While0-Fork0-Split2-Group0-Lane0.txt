@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:ingles consult;
+split again
+-[hidden]->
+:holders lemmings; <<output>>
+split again
+-[hidden]->
+:theme outhouse; <<continuous>>
+split again
+-[hidden]->
+:risen rabbits; <<output>>
+end split
+switch (mimes substitute?)
+case (intimidate musicals?)
+:wayward believes; <<task>>
+case (shootings horizons?)
+split
+:fame weapons;
+split again
+:inference prod;
+split again
+:schmuck moot; <<task>>
+-> righteous sawed;
+end split
+case (mounds coyotes?)
+:obtained professionally; <<procedure>>
+-> hallowed crabgrass;
+case (maharajah decade?)
+:sh scurrying; <<load>>
+endswitch
+@enduml

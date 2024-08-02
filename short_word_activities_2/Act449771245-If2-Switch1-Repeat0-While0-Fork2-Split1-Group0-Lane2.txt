@@ -1,0 +1,70 @@
+@startuml
+|1| enchanting policies
+|2| nevertheless pointless
+split
+-[hidden]->
+:deadbeats unified;
+split again
+-[hidden]->
+if (wolves manual?) then (regenerated has)
+(reduction sew) elseif (interacting leaps?) then (downing elder)
+:approval geometry; <<output>>
+(indications silver) elseif (thin herding?) then (rehash decent)
+:strategically secret;
+endif
+split again
+-[hidden]->
+if (stomped mayflowers?) then (lightly unlike)
+(jet confusing) elseif (burner prints?) then (brochures atonement)
+:hockey perceived;
+-> singers paratrooper;
+(soot boilers) elseif (failing cords?) then (impudent yokel)
+:wand evolving;
+(bootleg defensive) elseif (fixture ambivalent?) then (frazzled discrepancy)
+:bassinet trickier;
+-> backfired dud;
+endif
+split again
+-[hidden]->
+:worlds debriefed; <<output>>
+end split
+fork
+:blooms excuse;
+fork again
+:brad mediocrity; <<procedure>>
+-> willpower role;
+fork again
+:lacrosse cue; <<task>>
+-> perk fouled;
+fork again
+switch (concluded overturned?)
+case (wheeling sum?)
+:repay glowing; <<output>>
+case (devastatingly insisting?)
+:shaman motley; <<procedure>>
+case (mightier universes?)
+:realization connected; <<save>>
+case (tea pucker?)
+:impersonal froze; <<save>>
+-> wonders fabrication;
+endswitch
+end merge
+|2|
+:depict failed; <<output>>
+-> padlock read;
+:solitary obese; <<procedure>>
+-> kay bronchial;
+|1|
+:humbug deputized; <<procedure>>
+fork
+:inflicting commissioned;
+fork again
+:sucker chops; <<procedure>>
+-> spunky indecision;
+fork again
+:dinner clairvoyant; <<procedure>>
+fork again
+:dainty porno;
+-> deceptively penguin;
+end merge
+@enduml

@@ -1,0 +1,30 @@
+@startuml
+participant "wheat riley" as 0
+participant "evocative reclusive" as 1
+box "tarp hazel"
+participant "fungal afraid" as 2
+participant "stamina middies" as 3
+end box
+autonumber 7 8
+create participant "sadness junkyard" as 4
+3 -> 4 : sadness junkyard
+...cowardly fetal...
+0 --> 0: length unsigned
+1 --//o 4: insisting metric
+1 -> 4: chiefs unconsciousness
+autonumber stop
+...intruder billboard...
+0 -> 1: horizontal fixated
+autonumber resume
+loop holster stung
+2 <-> 2++ : merle aqua
+autonumber stop
+create participant "squish behold" as 5
+0 -> 5 : squish behold
+return rune unclear
+autonumber resume
+else oversensitive bottling
+0 --//o 4++ : afford wisely
+end
+return subtext glucose
+@enduml

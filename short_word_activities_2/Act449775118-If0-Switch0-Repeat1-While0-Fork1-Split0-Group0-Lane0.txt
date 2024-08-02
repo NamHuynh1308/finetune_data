@@ -1,0 +1,19 @@
+@startuml
+start
+repeat
+:human munchkins;
+fork
+:orientation features;
+fork again
+:peeks milked;
+fork again
+:embarrasses faggy; <<save>>
+-> eliminating dee;
+fork again
+:fairer wiener; <<input>>
+-> pickups prompt;
+end merge
+repeat while (gaps blackboard?) is (addendum explained)
+-> businesswomen bandages;
+end
+@enduml

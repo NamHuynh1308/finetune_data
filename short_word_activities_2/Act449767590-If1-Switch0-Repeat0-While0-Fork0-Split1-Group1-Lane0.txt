@@ -1,0 +1,25 @@
+@startuml
+start
+group squaw superheroes
+:micro verily;
+-> hater ten;
+split
+:pixie cue;
+split again
+if (piqued instances?) then (zones intrusion)
+:approaching contained;
+:cartilage redemption; <<output>>
+-> nightgown slayed;
+:goodwill ranchers; <<load>>
+-> tweet reset;
+kill
+else (displace ceiling)
+:year evidently; <<task>>
+endif
+split again
+:skedaddle unbuttoned; <<load>>
+-> groundskeeper promotion;
+end split
+end group
+end
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "tonics elevates" as 0
+autonumber 2 10
+create participant "biopsy blueberries" as 1
+0 -> 1 : biopsy blueberries
+0 <-> 0: cheerio turf
+autonumber stop
+...stipulation withdrawing...
+1 -> 0!! : disprove associations
+autonumber resume
+break financial kroner
+...cigars silva...
+1 ->] : scorpion newfound
+end
+@enduml

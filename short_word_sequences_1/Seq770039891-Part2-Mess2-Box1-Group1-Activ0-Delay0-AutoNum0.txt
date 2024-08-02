@@ -1,0 +1,11 @@
+@startuml
+participant "petals inquisitor" as 0
+box "circus integral"
+participant "debit girls" as 1
+end box
+== may parallel ==
+0 --//o 1: babysitters brink
+alt metaphorical premise
+ [<- 1: passed enlisted
+end
+@enduml

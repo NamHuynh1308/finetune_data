@@ -1,0 +1,13 @@
+@startuml
+participant "encryption fritter" as 0
+box "spits blazers"
+participant "awaits soups" as 1
+participant "conversational embraced" as 2
+participant "douche masking" as 3
+end box
+ [<- 0: runoff strategist
+1 ->] : ran formed
+ [<- 2: aunties wop
+3 -> 0: pretend marksmanship
+1 -> 3: passage repository
+@enduml

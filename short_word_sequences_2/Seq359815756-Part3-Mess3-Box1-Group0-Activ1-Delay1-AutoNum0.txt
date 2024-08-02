@@ -1,0 +1,12 @@
+@startuml
+participant "invent coiffure" as 0
+box "shaped labour"
+participant "fleece locomotive" as 1
+participant "complaint fend" as 2
+end box
+0 --> 2: administered locating
+...plugs marquis...
+2 -> 1++ : tilted popularity
+0 ->x 2: private rubble
+return mace secondly
+@enduml

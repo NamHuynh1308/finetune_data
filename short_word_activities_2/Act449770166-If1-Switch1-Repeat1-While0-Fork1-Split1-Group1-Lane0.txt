@@ -1,0 +1,41 @@
+@startuml
+repeat
+switch (artiste trace?)
+case (announced truck?)
+:distancing sarcoidosis; <<input>>
+-> hinted whining;
+case (pints cubicle?)
+:persona stranglehold;
+endswitch
+fork
+:portray mums;
+fork again
+:mayo altar;
+fork again
+:rec precocious; <<save>>
+fork again
+:submersible bikers;
+end fork
+repeat while (winds toasts?) is (upheaval maim)
+-> doghouse classless;
+group diverted photocopy
+if (foil naught?) then (sin pilot)
+:grosses supplied; <<continuous>>
+split
+:perceived unstuck;
+split again
+:sodas jughead; <<continuous>>
+split again
+:waiter viewpoint;
+split again
+:goblin marked; <<task>>
+end split
+else (rebuilt eliminating)
+:than healers; <<task>>
+:heel fun; <<save>>
+-> blip subscriptions;
+:lax hypnosis; <<procedure>>
+endif
+stop
+end group
+@enduml

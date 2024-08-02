@@ -1,0 +1,8 @@
+@startuml
+start
+group drawer same
+:opportunity sixpence;
+-> cheapest hostess;
+stop
+end group
+@enduml

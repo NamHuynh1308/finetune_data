@@ -1,0 +1,25 @@
+@startuml
+participant "sickened honky" as 0
+participant "moped commissioned" as 1
+box "infra ashram"
+participant "equipped wallets" as 2
+participant "barter claim" as 3
+end box
+box "colossal spacecraft"
+participant "bourne momento" as 4
+end box
+ [-> 4: diplomatic sincere
+0 ->o 2: wondrous bighorn
+2 -\\ 2: fever trophy
+break limb brigade
+2 --//o 2: armory exact
+alt crane gain
+ [<- 3: forthright airing
+1 --> 0: admission gardens
+else deception peruse
+3 ->x 3: premature muse
+0 --> 1++ : tanner alongside
+end
+end
+return consummate rallied
+@enduml

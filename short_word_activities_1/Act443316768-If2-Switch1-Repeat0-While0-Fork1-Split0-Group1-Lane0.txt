@@ -1,0 +1,43 @@
+@startuml
+group poultry rampage
+fork
+:reread center;
+fork again
+if (provide wearing?) then (cools ticklish)
+(seared figurines) elseif (grind seated?) then (fancied holidays)
+:shifts debriefed; <<output>>
+(enrollment predictions) elseif (colder auctioneer?) then (program boutiques)
+:murmur folksy; <<input>>
+-> apostle loud;
+(invent ken) elseif (tempted ladle?) then (calmed mopes)
+:toothbrushes intersection; <<output>>
+(gecko flank) elseif (yoghurt overheard?) then (banana lingers)
+:hogan liars; <<task>>
+endif
+fork again
+switch (sperm overpower?)
+case (plank calculators?)
+:wringing preparing;
+case (closest laura?)
+:forwarded bankrupt; <<procedure>>
+case (download hurricane?)
+:cockles tomatoes;
+case (audiotape flag?)
+:jeans utterly; <<procedure>>
+endswitch
+fork again
+if (inflexible bauble?) then (disrespecting unions)
+:pasted ah; <<save>>
+else (prowl citizens)
+:avoiding gushy; <<procedure>>
+-> ho boon;
+:ave delightfully;
+:great tucked;
+endif
+end merge
+:lizard underneath; <<task>>
+-> blurry lacy;
+end group
+:wops invalidate; <<input>>
+stop
+@enduml

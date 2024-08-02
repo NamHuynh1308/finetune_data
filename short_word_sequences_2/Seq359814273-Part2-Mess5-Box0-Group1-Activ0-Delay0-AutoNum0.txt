@@ -1,0 +1,11 @@
+@startuml
+participant "atropine point" as 0
+0 -// 0: cedar scarce
+0 -> 0: several thoroughly
+0 --//o 0: addresses tarts
+loop nutritious hysterical
+create participant "worm hoppy" as 1
+0 -> 1 : worm hoppy
+0 <-] : sandbag degenerative
+end
+@enduml

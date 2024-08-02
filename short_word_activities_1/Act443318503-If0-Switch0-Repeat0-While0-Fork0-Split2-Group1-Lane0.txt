@@ -1,0 +1,20 @@
+@startuml
+group barked brainwashing
+split
+:procrastinating gladstone;
+split again
+split
+:cranky bashful;
+split again
+:grouch prize;
+split again
+:racquet headlong;
+end split
+split again
+:provinces dais; <<input>>
+split again
+:retain purse;
+end split
+stop
+end group
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:psychopaths hangovers;
+split again
+-[hidden]->
+if (resembles acme?) then (around heath)
+:affections pairs; <<input>>
+:deliberately thump; <<task>>
+:taste blouse; <<procedure>>
+else (combust wimp)
+:addressed weirdo;
+endif
+split again
+-[hidden]->
+:landscaping rocks;
+end split
+:payoffs lawyer;
+:villa racquetball;
+-> sells dropping;
+end
+@enduml

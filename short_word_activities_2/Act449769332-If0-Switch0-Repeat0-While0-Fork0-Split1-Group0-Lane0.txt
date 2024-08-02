@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:jimmies colonnade;
+split again
+-[hidden]->
+:cobbler fondue;
+-> smug historian;
+split again
+-[hidden]->
+:speedos negotiate; <<output>>
+split again
+-[hidden]->
+:format covet; <<output>>
+-> ups galloping;
+end split
+:ditches absorb; <<procedure>>
+:undergarment oats; <<input>>
+-> aback astray;
+@enduml

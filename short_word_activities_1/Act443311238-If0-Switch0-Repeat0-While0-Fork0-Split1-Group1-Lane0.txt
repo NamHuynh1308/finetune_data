@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:casualties pistachios;
+split again
+-[hidden]->
+:prof letters; <<input>>
+split again
+-[hidden]->
+:levelheaded texas; <<output>>
+end split
+group spoiling sweets
+:dew slice; <<output>>
+-> singers receding;
+:revive pushes; <<input>>
+-> slice diversion;
+:aye truth; <<output>>
+stop
+end group
+@enduml

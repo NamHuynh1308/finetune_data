@@ -1,0 +1,4 @@
+@startuml
+participant "hop upgrading" as 0
+0 -// 0: count hovering
+@enduml

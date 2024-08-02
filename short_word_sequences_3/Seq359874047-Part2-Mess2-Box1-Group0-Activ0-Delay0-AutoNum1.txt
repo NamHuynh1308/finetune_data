@@ -1,0 +1,11 @@
+@startuml
+box "cop undo"
+participant "weepy counterfeit" as 0
+participant "muggy connects" as 1
+end box
+== navigate shorted ==
+autonumber 6 0
+0 ->o 0: cruddy leaves
+0 ->] : succumbed retort
+autonumber stop
+@enduml

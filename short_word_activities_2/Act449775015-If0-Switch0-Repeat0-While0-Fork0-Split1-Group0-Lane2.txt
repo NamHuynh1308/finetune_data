@@ -1,0 +1,25 @@
+@startuml
+|1| endangering handcuffed
+|2| revolving lieutenant
+split
+-[hidden]->
+:mistress surfaces;
+split again
+-[hidden]->
+:misfortune patrol; <<task>>
+split again
+-[hidden]->
+:plural scalpel; <<load>>
+-> beeswax so;
+end split
+:moth ravine;
+-> hire ghastly;
+|2|
+:singles account; <<continuous>>
+-> tailors doling;
+:erases appealed; <<output>>
+-> calico romping;
+|1|
+:respectively untraceable;
+stop
+@enduml

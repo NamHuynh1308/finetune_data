@@ -1,0 +1,26 @@
+@startuml
+box "earthy inquiries"
+participant "fisher neighbours" as 0
+box "grade invisible"
+participant "lofty greets" as 1
+box "retractable dehydration"
+participant "topnotch planner" as 2
+end box
+end box
+end box
+autonumber 5 0
+critical mock anyways
+1 -\\ 1: out unfortunate
+critical decisions sprinkler
+create participant "auld organized" as 3
+0 -> 3 : auld organized
+...cleave dedicate...
+1 -\\ 0: mixup tubing
+...woof leno...
+1 -> 0: ventriloquism howe
+end
+1 -\\ 2: knobby arrows
+3 -> 3: shooting leaned
+1 --> 1: hazing slinging
+end
+@enduml

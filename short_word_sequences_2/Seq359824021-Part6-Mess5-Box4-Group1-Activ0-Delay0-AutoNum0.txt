@@ -1,0 +1,24 @@
+@startuml
+participant "exterminate anna" as 0
+box "devastating bedspread"
+participant "fend keeping" as 1
+box "rarely quilting"
+participant "whammy yellow" as 2
+box "empirical greed"
+participant "funky hillcrest" as 3
+box "cares whipper"
+participant "meth biopsy" as 4
+end box
+end box
+end box
+end box
+== dock leased ==
+1 -// 2: gauge kept
+0 -\\ 4: sporty equally
+0 -> 4!! : loom duped
+create participant "universally fainted" as 5
+3 -> 5 : universally fainted
+critical frightfully magnetic
+0 -> 5: finessed shapely
+end
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+participant "occasionally squire" as 0
+participant "resolution relationship" as 1
+participant "stamps buttercup" as 2
+participant "beeped homos" as 3
+participant "eroding hobbies" as 4
+== delightful snitch ==
+autonumber 2 10
+par yogurt packets
+create participant "veg customary" as 5
+3 -> 5 : veg customary
+autonumber stop
+create participant "humanly stench" as 6
+3 -> 6 : humanly stench
+autonumber resume
+0 <-> 3++ : commentary scrap
+autonumber stop
+else merely undivided
+5 -> 4: insistence varied
+return journalist delicious
+ [<- 1: thrilled peck
+end
+...toasted murmur...
+0 -> 4: ragged waltzing
+2 -> 1: cheers tushy
+ [-> 5: ballet percolating
+@enduml

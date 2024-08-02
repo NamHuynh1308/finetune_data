@@ -1,0 +1,25 @@
+@startuml
+box "edgy confided"
+participant "classics hounded" as 0
+box "ken avengers"
+participant "demanded colour" as 1
+box "alarm nurses"
+participant "witches exclusively" as 2
+box "allows affirm"
+participant "commercial resurrection" as 3
+participant "undergone res" as 4
+end box
+end box
+end box
+end box
+== fourteen formerly ==
+1 --> 2: rumor billie
+alt assigned signore
+create participant "choirboy comfort" as 5
+2 -> 5 : choirboy comfort
+ [-> 0: sundress cooking
+...house dorado...
+ [<- 4: wishing whooping
+ [-> 5: sprite pupils
+end
+@enduml

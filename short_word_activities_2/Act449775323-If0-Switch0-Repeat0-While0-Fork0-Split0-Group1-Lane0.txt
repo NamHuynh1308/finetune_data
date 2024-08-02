@@ -1,0 +1,6 @@
+@startuml
+group penance laps
+:earnest sweltering; <<continuous>>
+stop
+end group
+@enduml

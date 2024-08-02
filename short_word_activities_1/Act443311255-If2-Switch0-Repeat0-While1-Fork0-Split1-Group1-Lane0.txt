@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:professionals drink;
+split again
+-[hidden]->
+if (worlds bypass?) then (whammy galloping)
+:soggy copperhead;
+else (contributors thinkers)
+:photographic apprentice; <<output>>
+-> op orbital;
+:grounds brood;
+:nutritious appalling;
+endif
+split again
+-[hidden]->
+:renovations unconditional;
+-> constantly blessing;
+split again
+-[hidden]->
+if (speedos rehashing?) then (smile withered)
+:hearted yogurt; <<continuous>>
+else (foursome sustenance)
+:observable golf;
+kill
+endif
+end split
+while (doorstep propaganda?) is (bakes unsuccessful)
+:equality budget; <<procedure>>
+backward:sharpener barking;
+endwhile (derivative shiv)
+:fishing nomadic;
+:pinks understatement; <<output>>
+group trite experiences
+:educators fingernail; <<procedure>>
+stop
+end group
+@enduml

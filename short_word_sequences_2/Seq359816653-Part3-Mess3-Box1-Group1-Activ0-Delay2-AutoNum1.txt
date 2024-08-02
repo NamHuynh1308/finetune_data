@@ -1,0 +1,16 @@
+@startuml
+participant "authenticate marveling" as 0
+box "sitter oncology"
+participant "outlaw intriguing" as 1
+participant "burke gorilla" as 2
+end box
+autonumber 3 2
+1 <-> 1: eighth casbah
+alt cleanest newsroom
+...destined contributions...
+0 ->> 2: constructive precedents
+autonumber stop
+...infernal dole...
+0 -->x 0: wrecked disheartening
+end
+@enduml

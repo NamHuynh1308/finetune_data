@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:lieutenants landmarks;
+split again
+-[hidden]->
+:swans deserter; <<output>>
+-> ballet holder;
+split again
+-[hidden]->
+:nitwit utmost;
+split again
+-[hidden]->
+:hocks stake; <<load>>
+end split
+repeat
+backward:copping wake;
+repeat while (aeroplane his?) is (courtyard detailing)
+-> fer block;
+@enduml

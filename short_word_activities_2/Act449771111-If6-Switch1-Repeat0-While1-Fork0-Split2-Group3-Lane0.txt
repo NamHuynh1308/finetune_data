@@ -1,0 +1,87 @@
+@startuml
+split
+-[hidden]->
+:expensive learnt;
+split again
+-[hidden]->
+:verbs generic;
+kill
+split again
+-[hidden]->
+:mood idolized; <<load>>
+end split
+group technologically skimpy
+if (sail justify?) then (crabs money)
+if (direction simplest?) then (announcing diary)
+(flushed anesthesiologist) elseif (conception catheter?) then (prelude loveless)
+:wuthering herbs;
+(murals ruffled) elseif (fault blind?) then (today euros)
+:overstating sleepyhead; <<output>>
+(sideburns treasure) elseif (ages draws?) then (counseling climate)
+:sinned folklore; <<task>>
+-> glass swingers;
+(beater predators) elseif (vasectomy breakwater?) then (girly dances)
+:horrible catwalk; <<procedure>>
+endif
+if (bombarded preach?) then (disdain strap)
+(him cur) elseif (force senora?) then (heroes disintegrate)
+:bio produce; <<output>>
+(racist glen) elseif (beanie arroyo?) then (dealings buckets)
+:pail schmooze; <<input>>
+-> stops cog;
+endif
+else (danced clubhouse)
+if (agile controversy?) then (embarrassed routines)
+:taxpayer cuddy; <<procedure>>
+:crust efficiency; <<save>>
+-> carts merchandising;
+else (diagnostician snags)
+:realism specified; <<input>>
+endif
+:sigh tube; <<load>>
+:enters fashion; <<output>>
+kill
+endif
+group smoking shorthand
+:surfaces enriching; <<save>>
+group scatter struck
+if (mastermind declaration?) then (affect scampered)
+:wipe euro; <<input>>
+switch (unthinkable burgeoning?)
+case (roped grow?)
+:scant smoochy;
+case (instructing seashell?)
+:bleed goggle;
+case (discourage diet?)
+:yours questionable;
+endswitch
+if (amused marshmallows?) then (doping bystander)
+:suits monoxide; <<continuous>>
+else (planetarium ta)
+:crispy realised;
+endif
+while (friendless tarragon?) is (entirely sleepy)
+backward:kashmir fantasizing;
+endwhile (electrical bump)
+-[hidden]->
+detach
+else (merrily moxie)
+:orphan vigor;
+-> retrieving expansion;
+split
+:refining jujitsu;
+split again
+:hallucinate sixteenth;
+split again
+:denominators rumble;
+split again
+:postmaster vanquished;
+-> birch caffeine;
+end split
+kill
+endif
+stop
+end group
+end group
+end group
+@enduml

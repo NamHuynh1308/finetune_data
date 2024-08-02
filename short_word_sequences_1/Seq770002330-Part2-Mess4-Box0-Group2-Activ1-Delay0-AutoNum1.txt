@@ -1,0 +1,14 @@
+@startuml
+participant "bakery charity" as 0
+participant "fascist peering" as 1
+autonumber 0 6
+0 ->] : reed concession
+loop cartouche fondled
+1 -> 1++ : colic marzipan
+alt stakeouts rec
+0 -\\ 1: concentrated errand
+return insert processed
+1 ->> 0: juvenile booths
+end
+end
+@enduml

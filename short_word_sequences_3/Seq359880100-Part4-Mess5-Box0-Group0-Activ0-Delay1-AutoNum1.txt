@@ -1,0 +1,14 @@
+@startuml
+participant "dispute explodes" as 0
+participant "fact reaches" as 1
+participant "editors con" as 2
+participant "holing confederacy" as 3
+autonumber 9 0
+1 ->> 2: angelus hustle
+...rashly exploding...
+3 -\\ 1: prematurely fortunes
+1 <-> 1: crumbles locker
+autonumber stop
+0 -->x 0: natives pornographers
+0 --//o 2: carting charge
+@enduml

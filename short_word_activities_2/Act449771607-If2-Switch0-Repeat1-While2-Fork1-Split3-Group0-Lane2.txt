@@ -1,0 +1,86 @@
+@startuml
+|1| scampered pecking
+|2| shins inevitable
+split
+-[hidden]->
+:fleece disturbed;
+split again
+-[hidden]->
+:inspires broiler; <<load>>
+split again
+-[hidden]->
+:telephones talks; <<load>>
+split again
+-[hidden]->
+:transplant workday;
+end split
+repeat
+if (overpower crowded?) then (lifeboats champs)
+(flapjacks detests) elseif (overboard confer?) then (creamed hereditary)
+:visiting winch; <<procedure>>
+-> syndrome plaid;
+(intimidating patio) elseif (endear bel?) then (obligation handler)
+:juices shortest;
+(whew rephrase) elseif (snowballed chaser?) then (hayloft airfield)
+:gaiety settlement;
+(deadlock agony) elseif (cherub homophobia?) then (grossly shuttles)
+:taught botanical;
+-> reimburse heap;
+endif
+backward:hey journeyed;
+repeat while (accolades communion?) is (joe payoff)
+if (snort swans?) then (shill pickup)
+:shrubbery sweatshirts;
+-> pancreatic niceties;
+:jailbreak sign; <<save>>
+split
+:coached flaring;
+split again
+:sphinx tit; <<load>>
+split again
+:prune pimples; <<output>>
+split again
+:middleman aesthetics;
+end split
+else (fence sculptor)
+while (ear newlyweds?) is (hyperventilating prepare)
+:slaves disobeyed;
+:raiders lunged;
+:sabbatical blurry;
+backward:accused objects;
+endwhile (motion tiki)
+:performances milling;
+:center control; <<input>>
+-> ripple substation;
+:dawning casbah; <<continuous>>
+endif
+|2|
+:culpability presses; <<procedure>>
+|1|
+while (degradation circumvent?) is (perfecto deity)
+split
+:redundancies ferry;
+split again
+:exerting blossoms;
+split again
+:assign papa; <<input>>
+split again
+:weevil mescaline; <<load>>
+-> rath ingles;
+end split
+fork
+:becks prognosis;
+fork again
+:strapless insensitive; <<output>>
+-> sobbing creamed;
+fork again
+:hiker piazza;
+fork again
+:soggy overseas; <<task>>
+-> bruising strobe;
+end merge
+endwhile (maxi statuary)
+:harboring squid;
+:lacks assembly; <<output>>
+end
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+|1| widow reptilian
+|2| withdrawing randomly
+split
+-[hidden]->
+:janitor divest;
+split again
+-[hidden]->
+:syphon romance;
+-> youngsters hum;
+split again
+-[hidden]->
+:warn dragonfly; <<continuous>>
+-> felt unhappy;
+split again
+-[hidden]->
+:digging lunches; <<task>>
+-> astral tuck;
+end split
+:newlywed fixes; <<load>>
+:lanky rumour; <<continuous>>
+-> ledge inclined;
+|2|
+:pluses fleabag;
+-> interruption euphemisms;
+end
+@enduml

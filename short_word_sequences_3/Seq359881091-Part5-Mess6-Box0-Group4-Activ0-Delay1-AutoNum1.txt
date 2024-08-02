@@ -1,0 +1,25 @@
+@startuml
+participant "carmine strained" as 0
+participant "lift concentrating" as 1
+participant "compassionate authenticated" as 2
+participant "blinds acme" as 3
+autonumber 0 9
+alt savour net
+3 -> 1: weakest intercepted
+opt numbers behaviour
+...ushers pothead...
+1 -> 0: gassy chapel
+autonumber stop
+1 --//o 3: drowsy reviewed
+autonumber resume
+end
+critical basics vows
+0 ->o 3: stretch sculptures
+2 ->] : fortunes sirloin
+critical sweatshirt begged
+create participant "bimbo authority" as 4
+0 -> 4 : bimbo authority
+end
+end
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+start
+switch (recuperate curing?)
+case (mo photographing?)
+:fife agents;
+case (renowned knows?)
+:disarmed intervening;
+-> broads distractions;
+endswitch
+end
+@enduml

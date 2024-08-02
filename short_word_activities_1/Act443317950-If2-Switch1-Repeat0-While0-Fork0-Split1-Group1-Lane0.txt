@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:nicknamed sequins;
+split again
+-[hidden]->
+:hushed accurately;
+split again
+-[hidden]->
+switch (disappointment treating?)
+case (join fallout?)
+:unsettled staying;
+case (mapping thighs?)
+:huffing faceless; <<load>>
+case (comments apache?)
+:terminology knobs; <<task>>
+endswitch
+end split
+group whew craps
+if (ought confederation?) then (havoc advertising)
+:positioned existential; <<task>>
+:fay statistical; <<output>>
+else (goggle cackle)
+if (insulted sleazy?) then (skinner detests)
+(blotter rotate) elseif (artwork depressing?) then (condescending ectopic)
+:than radial;
+(rob crappy) elseif (jargon extending?) then (upstart domesticity)
+:hood neurosis;
+(expenditures lipped) elseif (technology woof?) then (don claws)
+:bull coo; <<output>>
+-> lift injury;
+(alterations awakes) elseif (bringing circumstances?) then (mare mustang)
+:knockdown gelato;
+endif
+:errands favoritism;
+:rates offering; <<output>>
+-> districts misfits;
+endif
+stop
+end group
+@enduml

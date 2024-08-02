@@ -1,0 +1,6 @@
+@startuml
+participant "follicle ain" as 0
+autonumber 7 1
+0 <-> 0++ : moods exams
+return sweater enormity
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+start
+if (caterers elope?) then (scurrying gullible)
+:civilizations mark;
+switch (misnomer groupies?)
+case (spinal enabled?)
+:mon firehouse; <<continuous>>
+case (crucify tad?)
+:reactors juke; <<input>>
+-> shirking screened;
+case (mountaintop matrix?)
+:reactions grins;
+case (highball excellency?)
+:scorching chestnuts;
+endswitch
+else (listened kneed)
+fork
+:colleague source;
+fork again
+:remorse curl;
+fork again
+:prophet simulation; <<task>>
+-> alleys botanical;
+end fork
+endif
+end
+@enduml

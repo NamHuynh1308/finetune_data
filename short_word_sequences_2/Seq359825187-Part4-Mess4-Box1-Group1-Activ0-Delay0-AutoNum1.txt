@@ -1,0 +1,17 @@
+@startuml
+participant "intense neutered" as 0
+participant "virtual fetal" as 1
+participant "shorten detection" as 2
+box "eucalyptus gardener"
+participant "baron twisty" as 3
+end box
+autonumber 1 9
+1 ->] : landlords postcards
+autonumber stop
+ [<- 2: resign expects
+3 -> 2: pemmican flunked
+autonumber resume
+alt laughed explanation
+1 ->x 1: unnecessary fizzled
+end
+@enduml

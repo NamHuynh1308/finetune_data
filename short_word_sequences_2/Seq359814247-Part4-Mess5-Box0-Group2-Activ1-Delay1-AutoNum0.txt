@@ -1,0 +1,18 @@
+@startuml
+participant "hairdresser bothers" as 0
+participant "froufrou gouged" as 1
+participant "photocopy tightly" as 2
+participant "bowing ado" as 3
+== philosophers pina ==
+0 ->> 1++ : athlete albatross
+opt husky donated
+2 ->> 3: grape puny
+2 -> 1!! : tutor openly
+2 ->> 1: hanky burley
+break nick risking
+...expectations budding...
+2 --//o 1: articulate clamped
+end
+end
+return fuss throat
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:berries strep;
+split again
+-[hidden]->
+:fragments theme;
+-> estimate shoots;
+split again
+-[hidden]->
+:antiques dictated; <<procedure>>
+-> certified pigtails;
+split again
+-[hidden]->
+:leftovers locking; <<continuous>>
+end split
+group simmer waging
+:wont unharmed; <<load>>
+group kissable unravel
+:insinuated miles; <<load>>
+stop
+end group
+end group
+@enduml

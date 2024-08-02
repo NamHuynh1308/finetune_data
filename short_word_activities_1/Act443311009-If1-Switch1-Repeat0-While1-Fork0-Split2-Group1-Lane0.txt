@@ -1,0 +1,46 @@
+@startuml
+start
+split
+:homesick plummeted;
+split again
+:soliciting golfers; <<load>>
+split again
+:printer texts; <<input>>
+-> registration options;
+split again
+:fatigues shimmering; <<save>>
+end split
+while (ecstatic alias?) is (security thorough)
+if (panting endangerment?) then (obtained mace)
+:monks steamed;
+-> pledging soupy;
+:attracts frills; <<save>>
+:bargaining caprice; <<input>>
+else (mainframe legalities)
+:witless mid;
+-> composers drill;
+:actual compliment;
+:withdraws ignoring; <<continuous>>
+-> incision ogres;
+endif
+endwhile (awed chart)
+:hardy chickened;
+group bedbug uninspired
+split
+:wig dredge;
+split again
+:down snip; <<continuous>>
+split again
+switch (sleazy chaser?)
+case (excused closing?)
+:sequins woken;
+case (tie spare?)
+:blurry noses;
+endswitch
+split again
+:coached optional; <<task>>
+-> sabers asinine;
+end split
+stop
+end group
+@enduml

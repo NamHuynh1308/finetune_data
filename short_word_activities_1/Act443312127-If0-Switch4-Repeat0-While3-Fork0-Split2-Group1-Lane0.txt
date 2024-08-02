@@ -1,0 +1,68 @@
+@startuml
+start
+split
+:settlements acoustic;
+split again
+switch (deducted humbled?)
+case (dodged cigar?)
+:wavered cranial;
+case (expressing soups?)
+:malpractice presentable; <<load>>
+case (immortal flavor?)
+:circuit ones;
+case (chloride selected?)
+:funny medieval;
+while (shamed plotting?) is (keystone recycles)
+:heil hellfire;
+:bars wastes;
+endwhile (personable keystone)
+-[hidden]->
+detach
+endswitch
+split again
+:things viscous; <<save>>
+end split
+group outsiders chairs
+split
+:greed reassurance;
+split again
+:microwave zombie; <<output>>
+-> trackers theatrical;
+split again
+:novelty services; <<procedure>>
+end split
+switch (eng moonbeams?)
+case (own retreating?)
+switch (brunt waste?)
+case (wharf strike?)
+:stretching regent; <<output>>
+case (punch goofy?)
+:minnow propelled;
+endswitch
+case (sewing property?)
+switch (shouting permits?)
+case (workaholic effeminate?)
+:obliged truffles; <<input>>
+case (convertibles lozenges?)
+:coffers hindrance;
+-> fingers caved;
+case (hanger bag?)
+:keg humbly;
+endswitch
+case (materialized hemoglobin?)
+:tears wellness;
+while (microscope rusted?) is (disabling bop)
+backward:huckleberry intimately;
+while (magnificently tagged?) is (fulfilled reefs)
+backward:perished reserved;
+:leans grossed;
+endwhile (legal dud)
+:karat jaw;
+:bylaws resist; <<procedure>>
+-> hothead booth;
+endwhile (elegance aging)
+-[hidden]->
+detach
+endswitch
+end group
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+box "editor tubby"
+participant "blade noted" as 0
+participant "rosebush worming" as 1
+end box
+0 -> 1: chops innovative
+...procedures jacked...
+1 --//o 0: barker benefactors
+@enduml

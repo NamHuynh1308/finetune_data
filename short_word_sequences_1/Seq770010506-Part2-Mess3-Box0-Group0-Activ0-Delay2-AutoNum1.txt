@@ -1,0 +1,11 @@
+@startuml
+participant "distorted pic" as 0
+participant "outs rex" as 1
+== reinforcement wrecker ==
+autonumber 1 1
+0 ->o 1: works schnitzel
+...crackpot playwright...
+1 <-] : finale counsellor
+...facets hovercraft...
+0 -> 0: ballots lollipops
+@enduml

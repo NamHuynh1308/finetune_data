@@ -1,0 +1,8 @@
+@startuml
+start
+group catchy concourse
+:oaks brings;
+-> chimpanzee acme;
+:assisted impassioned; <<output>>
+end group
+@enduml

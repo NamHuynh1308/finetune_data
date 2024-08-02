@@ -1,0 +1,8 @@
+@startuml
+participant "tradeoff jaws" as 0
+participant "cranks compromise" as 1
+== gestapo untamed ==
+0 -> 0++ : canaries holders
+1 <-> 1: exploited tape
+return forehead alternate
+@enduml

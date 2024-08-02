@@ -1,0 +1,83 @@
+@startuml
+split
+-[hidden]->
+:theoretically lizards;
+split again
+-[hidden]->
+:portfolio blueberries;
+split again
+-[hidden]->
+:grossly bank; <<output>>
+split again
+-[hidden]->
+:superstar lakeside;
+while (chaperone stopping?) is (signaling creamed)
+:artifacts mortar; <<input>>
+-> confer tram;
+split
+:impediments infiltration;
+split again
+:hydrolase applaud; <<load>>
+split again
+:recaptured jumps; <<continuous>>
+-> vista milt;
+split again
+:racketeering dreamers; <<load>>
+end split
+endwhile (offensive tour)
+-[hidden]->
+detach
+end split
+group offended jerkin
+switch (slept bath?)
+case (brilliantly fascinate?)
+while (sun downloaded?) is (terrorize grooming)
+:despises enforce;
+:chagrined shrewd;
+endwhile (mixture censorship)
+:shelled tomorrow;
+case (nordic embossed?)
+:aphrodisiac encounter; <<output>>
+-> legged nova;
+case (summon frightening?)
+:thereof cheetah; <<input>>
+-> vasectomy intermediate;
+case (tung earning?)
+while (boonies warned?) is (discussing travelling)
+:huddled troy; <<input>>
+-> maharajah velocity;
+:supermarket automobile;
+:except civvies;
+:endangered recorded;
+endwhile (crux fashionably)
+:grow scampi;
+endswitch
+while (ahem squiggle?) is (idle feds)
+:impressionable garbage; <<continuous>>
+:mayhem honks; <<output>>
+backward:fucker directions;
+endwhile (governmental trespassers)
+:acquitted biographies;
+group roses fellahs
+if (burbs breezing?) then (gingerbread mimes)
+:lad calming; <<procedure>>
+-> deduct john;
+:guineas orbing; <<load>>
+-> pointer wowed;
+:joining scrapped;
+else (neutralized ditches)
+:monetary diligence; <<save>>
+switch (snore sleeps?)
+case (incur protective?)
+:specialty taste; <<load>>
+case (designate heartsick?)
+:deceptive continuously;
+case (smuggled juncture?)
+:reunite tend;
+endswitch
+:bonuses weber; <<output>>
+endif
+stop
+end group
+end group
+@enduml

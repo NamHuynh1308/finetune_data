@@ -1,0 +1,16 @@
+@startuml
+:straitjacket gestating;
+group arguing definition
+fork
+:dances louder;
+fork again
+:lapping implies;
+fork again
+:mommy pocketbook; <<task>>
+fork again
+:insist rowing;
+kill
+end fork
+stop
+end group
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "sinks ripples" as 0
+box "barges kat"
+participant "scrapings voted" as 1
+box "babe decipher"
+participant "pupil snails" as 2
+participant "shocked divide" as 3
+end box
+end box
+2 --//o 2: designing pfft
+1 ->x 3: constitutes semiautomatic
+3 -// 2++ : van key
+3 ->] : blunder fungus
+return fallback jokers
+@enduml

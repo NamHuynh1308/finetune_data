@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:buffoons dieter;
+split again
+-[hidden]->
+:depraved elevated; <<load>>
+split again
+-[hidden]->
+:conform paella; <<procedure>>
+split again
+-[hidden]->
+:disappointing parenthood;
+end split
+group elders superfluous
+:centered contusions; <<save>>
+:sweeps ladyship; <<load>>
+end group
+@enduml

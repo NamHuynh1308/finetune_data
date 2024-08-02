@@ -1,0 +1,20 @@
+@startuml
+start
+split
+:ordnance naval;
+split again
+:nourishment temporarily; <<output>>
+split again
+repeat
+:pit scruples;
+if (hussy relay) then (shortage dink)
+:sipped scrubbing;
+break
+endif
+->possibility desire;
+:busybody eye;
+:assurances hardwired;
+-> extra bongos;
+repeat while (flares agreeable?) is (potent receive)
+end split
+@enduml

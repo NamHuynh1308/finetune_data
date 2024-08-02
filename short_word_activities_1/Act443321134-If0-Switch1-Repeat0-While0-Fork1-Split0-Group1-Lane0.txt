@@ -1,0 +1,23 @@
+@startuml
+:electrified rentals; <<input>>
+group workday clam
+fork
+:mall sexy;
+fork again
+:innkeeper fuzzy; <<save>>
+-> movie mapping;
+fork again
+:per concession;
+end fork
+switch (holies uninterrupted?)
+case (grope inject?)
+:into beret;
+case (humanoid whomever?)
+:yom country;
+-> superwoman prelude;
+case (padded bubbles?)
+:simpletons lot; <<task>>
+endswitch
+stop
+end group
+@enduml

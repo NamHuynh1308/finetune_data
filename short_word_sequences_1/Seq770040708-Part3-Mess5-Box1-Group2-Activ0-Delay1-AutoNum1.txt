@@ -1,0 +1,21 @@
+@startuml
+participant "galvanized avalanche" as 0
+box "billiard lollipop"
+participant "goonies embarking" as 1
+participant "liberation philandering" as 2
+end box
+autonumber 6 0
+2 ->] : couture distinguish
+opt commands elective
+...memorial flooded...
+1 ->o 2: experimenting gassy
+autonumber stop
+loop colic downs
+2 ->o 1: entertain liege
+1 ->x 2: parakeet revenge
+else waving resolve
+1 -> 1: breakfast rewarded
+else lepers pemmican
+end
+end
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:slime sculptor;
+split again
+-[hidden]->
+:canasta noting;
+split again
+-[hidden]->
+:surgeon advertisers;
+split again
+-[hidden]->
+split
+:coating lending;
+split again
+:uncooperative leery;
+split again
+:prison liters; <<input>>
+-> okeydokey handles;
+split again
+:academics beakers; <<procedure>>
+-> villain piglet;
+end split
+end split
+:madre lawns; <<task>>
+end
+@enduml

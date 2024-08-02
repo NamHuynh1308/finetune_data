@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:hitchhike transference;
+split again
+-[hidden]->
+:heaving evaluations;
+split again
+-[hidden]->
+:sequel custody; <<load>>
+split again
+-[hidden]->
+:dominance brainiest; <<task>>
+-> hooves chessboard;
+end split
+:dinners thee; <<load>>
+@enduml

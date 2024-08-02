@@ -1,0 +1,15 @@
+@startuml
+participant "phantom cynical" as 0
+participant "shared comprehension" as 1
+participant "selected sideshow" as 2
+autonumber 4 1
+2 -\\ 1: ruffled recipes
+2 <-> 1: replies except
+par mischief mannered
+1 -> 1!! : administrators waiters
+ [-> 1: rec interaction
+2 --> 0++ : deluding graces
+autonumber stop
+end
+return arid fondest
+@enduml

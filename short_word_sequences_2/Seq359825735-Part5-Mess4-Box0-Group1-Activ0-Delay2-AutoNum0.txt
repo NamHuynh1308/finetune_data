@@ -1,0 +1,15 @@
+@startuml
+participant "pampered mowers" as 0
+participant "custodian deluding" as 1
+participant "tide pending" as 2
+create participant "unprincipled avengers" as 3
+2 -> 3 : unprincipled avengers
+create participant "room hammers" as 4
+0 -> 4 : room hammers
+opt decomposed perpetuating
+...weiner harriers...
+1 -> 0: compulsion prostate
+...synchronize formulas...
+ [<- 4: puts grilled
+end
+@enduml

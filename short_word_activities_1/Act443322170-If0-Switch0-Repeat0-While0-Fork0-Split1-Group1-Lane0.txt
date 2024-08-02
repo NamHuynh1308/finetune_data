@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:oncology artwork;
+split again
+-[hidden]->
+:mamie shaw; <<procedure>>
+split again
+-[hidden]->
+:combative correction; <<continuous>>
+end split
+:champs prosecuted; <<output>>
+:poker corks; <<load>>
+-> restaurants fortnight;
+group cartridge chiffon
+:deafening lice; <<procedure>>
+-> risen liver;
+stop
+end group
+@enduml

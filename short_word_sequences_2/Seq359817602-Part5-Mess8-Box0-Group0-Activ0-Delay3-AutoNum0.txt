@@ -1,0 +1,18 @@
+@startuml
+participant "gobbles exceed" as 0
+participant "coffin outing" as 1
+participant "hung gloom" as 2
+participant "daiquiri tolls" as 3
+3 -> 2: liven complicate
+3 --//o 3: personable views
+...toxicology steadfast...
+0 ->] : tool overwrought
+...unreachable talents...
+3 <-] : expertise manic
+...reroute decides...
+2 -> 1!! : maxim newsman
+1 -> 2: memo joins
+0 -->x 0: import stipulation
+create participant "ginger catastrophe" as 4
+2 -> 4 : ginger catastrophe
+@enduml

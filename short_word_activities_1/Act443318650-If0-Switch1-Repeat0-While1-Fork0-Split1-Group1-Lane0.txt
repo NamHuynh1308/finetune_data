@@ -1,0 +1,25 @@
+@startuml
+group spreadsheet at
+switch (nicks sarcoidosis?)
+case (druggist suspend?)
+while (eucalyptus exact?) is (airplanes heft)
+backward:pens clocked;
+endwhile (mondo acorn)
+:onion groggy;
+case (expedited reconnaissance?)
+split
+:summary carvers;
+split again
+:destruction sprawled;
+split again
+:spaz wealthiest; <<task>>
+split again
+:spartan sissies; <<output>>
+-> may erica;
+end split
+endswitch
+:lipstick aluminum; <<procedure>>
+-> whose entertained;
+stop
+end group
+@enduml

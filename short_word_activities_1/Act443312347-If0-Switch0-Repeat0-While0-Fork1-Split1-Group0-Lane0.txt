@@ -1,0 +1,17 @@
+@startuml
+fork
+:sugarplum rejecting;
+fork again
+:yourself succinct; <<continuous>>
+fork again
+split
+:sear ruckus;
+split again
+:amends faltered;
+split again
+:rudder touchdown; <<continuous>>
+end split
+end merge
+:bail dinosaurs; <<procedure>>
+-> catharsis maintains;
+@enduml

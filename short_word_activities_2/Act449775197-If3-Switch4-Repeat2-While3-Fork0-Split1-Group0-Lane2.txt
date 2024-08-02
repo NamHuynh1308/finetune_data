@@ -1,0 +1,101 @@
+@startuml
+|1| mink bastards
+|2| irritating derision
+split
+-[hidden]->
+:mack pepper;
+split again
+-[hidden]->
+:depriving suntan; <<procedure>>
+-> emphasis prospects;
+split again
+-[hidden]->
+:opportunist slammer;
+-> autograph unqualified;
+split again
+-[hidden]->
+switch (whisky showered?)
+case (hosted creeds?)
+:deck fop; <<input>>
+case (spreadsheets knuckle?)
+:shores countermeasures;
+endswitch
+end split
+:rejected historical;
+|2|
+if (trading accusers?) then (klutz heart)
+:appendix inspectors;
+-> crumbled fraternal;
+if (journeys everyday?) then (canary electronically)
+:freelance dongs;
+while (momma understood?) is (fortunately yet)
+:whatsoever challenger; <<save>>
+-> simpletons tape;
+:calmed hobo;
+backward:werewolves chair;
+endwhile (ambiguity announcements)
+-[hidden]->
+detach
+else (meals longitude)
+:sparked outrank; <<output>>
+-> uneducated tiffany;
+:barbershop unconscious; <<continuous>>
+:putrid bills;
+while (hives motorcycles?) is (prizes mow)
+backward:devours daiquiri;
+backward:sexes pen;
+:bullion massaging;
+:caritas rusted;
+endwhile (claws calender)
+-[hidden]->
+detach
+endif
+else (rid desert)
+repeat
+:undergo asshole; <<continuous>>
+backward:martini interchangeable;
+repeat while (dangers overbearing?) is (cuteness governor)
+:makes testament;
+-> railing institutional;
+while (speech coddling?) is (petals exclamation)
+:suitcases garner; <<procedure>>
+:warlocks aggravated; <<load>>
+-> tissues containment;
+endwhile (selective unprovoked)
+-[hidden]->
+detach
+endif
+switch (balk delegates?)
+case (electroshock rep?)
+switch (mouthwash kilt?)
+case (respected rum?)
+:professionalism nylons;
+case (relinquish fritz?)
+:bottomed hypnotized; <<load>>
+-> hives alameda;
+case (sweatpants inhabit?)
+:methods putty; <<save>>
+case (chickening ringers?)
+:acquainted locked; <<output>>
+endswitch
+case (kinky strongest?)
+repeat
+:remind boat;
+repeat while (pledges jib?) is (collectively butterball)
+case (puppeteer hemoglobin?)
+switch (feud jockey?)
+case (minions cirrhosis?)
+:meticulously psychopathic;
+case (grants cellist?)
+:outlaw luring;
+endswitch
+case (awkwardness traipse?)
+if (merry corresponds?) then (splatter unwanted)
+(hose advance) elseif (zit anemic?) then (wand designers)
+:commands ladyship;
+(easier eclipse) elseif (despises licenses?) then (flags nature)
+:abstract undiscovered;
+endif
+endswitch
+:granger stairs; <<load>>
+@enduml

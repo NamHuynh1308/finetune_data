@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:progress solid;
+split again
+-[hidden]->
+:tacit paranoid; <<output>>
+-> creep association;
+split again
+-[hidden]->
+:adjective intruded; <<save>>
+end split
+group dips competitive
+:juncture tramps; <<output>>
+stop
+end group
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+box "cognac promotions"
+participant "jacket interrogate" as 0
+box "spectrum whomever"
+participant "cocoa grasshopper" as 1
+end box
+end box
+== phantom companies ==
+autonumber 0 5
+0 ->> 0++ : velvet boysenberry
+1 -> 0: hanging wheat
+return glitch notoriously
+autonumber stop
+par sheep tempted
+0 -\\ 1++ : hitter messed
+autonumber resume
+1 ->x 1: ought tournaments
+autonumber stop
+else zero devised
+ [-> 0: sleigh hardest
+return languishing diddling
+autonumber resume
+end
+@enduml

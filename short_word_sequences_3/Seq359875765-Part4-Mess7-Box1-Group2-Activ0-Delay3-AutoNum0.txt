@@ -1,0 +1,23 @@
+@startuml
+participant "picket pointy" as 0
+box "deductible espressos"
+participant "hereafter season" as 1
+participant "permanently neglectful" as 2
+end box
+== invincible generosity ==
+1 ->> 2: dust diarrhea
+par tommy blinders
+1 -> 2: cherish hangman
+0 -> 1: shootout replacing
+...insistent deviled...
+0 ->> 0: lived inferiority
+end
+par contradictory medicate
+...nuptials reap...
+ [-> 0: parallels entitles
+...catapult expedite...
+1 --//o 0: vomit rationalizing
+create participant "outbound psychologically" as 3
+2 -> 3 : outbound psychologically
+end
+@enduml

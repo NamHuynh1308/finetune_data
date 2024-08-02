@@ -1,0 +1,13 @@
+@startuml
+participant "rid evens" as 0
+participant "crabs hunting" as 1
+opt earpiece postman
+0 ->x 1: dauphin badness
+1 -->x 1: compulsive elected
+end
+0 ->o 0++ : touch tribunal
+critical tomfoolery accepted
+0 --//o 1: dehydrated ulcers
+end
+return unauthorized darts
+@enduml

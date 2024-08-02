@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:batman watery;
+split again
+-[hidden]->
+:grand milligrams; <<procedure>>
+split again
+-[hidden]->
+switch (guess phoebe?)
+case (countries depress?)
+:confusion unspeakably; <<output>>
+case (huddled meaningless?)
+:lear psyche; <<output>>
+-> abba valley;
+case (pieced multimillion?)
+:disclosure limitless;
+while (vetoed charged?) is (calculator lacking)
+:inappropriately route;
+:sizzling sausages;
+:toon extremes; <<load>>
+backward:retrieve kindness;
+endwhile (sonnets chokes)
+-[hidden]->
+detach
+endswitch
+split again
+-[hidden]->
+repeat
+:protects irony;
+backward:cardiology getting;
+:scabs skill; <<output>>
+repeat while (feeding heave?) is (hippos unexpectedly)
+end split
+:blurry coordinates; <<load>>
+:elk adjusting; <<load>>
+-> slipped doomsday;
+stop
+@enduml

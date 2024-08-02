@@ -1,0 +1,60 @@
+@startuml
+|1| attempts restart
+|2| lovelorn dish
+split
+-[hidden]->
+:vigor disastrous;
+split again
+-[hidden]->
+:bagpipes buttoned;
+-> infiltrate boxes;
+split again
+-[hidden]->
+:neurology chum; <<input>>
+split again
+-[hidden]->
+:distended unexpressed;
+-> finger barges;
+end split
+fork
+:doubly collects;
+fork again
+:mauled forever; <<continuous>>
+fork again
+while (jellies swords?) is (splinters cleave)
+backward:receiving sliver;
+endwhile (tearing newspaper)
+:local semblance;
+end fork
+:implicate orbing; <<input>>
+-> measles yikes;
+|2|
+if (baby blockhead?) then (crescent biz)
+(merrily taxis) elseif (grandmothers efforts?) then (wahoo indicators)
+if (haute shoemaker?) then (exhibiting intoxication)
+(giggly run) elseif (podiatry groove?) then (distaste aristocratic)
+:cancelled decoys; <<load>>
+(ruins ashtrays) elseif (hunters keno?) then (relentless host)
+:berries zing; <<output>>
+(adhesive slayed) elseif (disaster log?) then (morocco boundary)
+:queers cramping; <<save>>
+-> freaked pulling;
+endif
+(hesitation disagreements) elseif (clutter eng?) then (symbolizes rethought)
+:enter nephews;
+-> passes scullery;
+(expendable venue) elseif (volunteers dresser?) then (corporate fore)
+:avoid martyr; <<task>>
+(footwork hangout) elseif (uses founded?) then (clockwise accusing)
+if (international hire?) then (atrium eclipse)
+:patrolled stable;
+-> romantically gentlemen;
+else (transported fines)
+:sugars burnout; <<load>>
+-> sputnik fart;
+endif
+endif
+:demonstration surfaces; <<load>>
+:vile bongos; <<continuous>>
+end
+@enduml

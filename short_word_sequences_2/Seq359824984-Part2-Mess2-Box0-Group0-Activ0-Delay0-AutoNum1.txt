@@ -1,0 +1,7 @@
+@startuml
+participant "prosthetic helo" as 0
+participant "inspector disrespect" as 1
+autonumber 4 8
+1 <-] : certificates impose
+0 -> 1: communication moustache
+@enduml

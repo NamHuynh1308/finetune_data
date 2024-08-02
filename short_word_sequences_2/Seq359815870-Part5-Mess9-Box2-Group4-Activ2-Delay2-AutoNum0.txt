@@ -1,0 +1,34 @@
+@startuml
+participant "spiking infarction" as 0
+participant "construct changes" as 1
+box "knights nutritious"
+participant "pizzas star" as 2
+box "tremendously photography"
+participant "hung hurdles" as 3
+participant "analysis drafting" as 4
+end box
+end box
+par gala expects
+ [<- 4: plowing courtship
+0 -> 4!! : bathing stay
+else broom commodity
+2 -> 0!! : dissident cesspool
+else all unequivocally
+0 ->] : niceties flecks
+end
+par riveting lead
+...quick grooming...
+4 -> 2: trendy narcotic
+2 -// 4++ : uncut equinox
+break tier frees
+...flaky scow...
+3 -> 3: sciences liberal
+0 -// 4++ : bails mar
+loop negotiator lunatic
+3 <-] : gutting premium
+end
+end
+end
+return pelts bombings
+return advocacy crutches
+@enduml

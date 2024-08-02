@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:cracked proves;
+split again
+-[hidden]->
+:advanced adenoids;
+-> academic gravy;
+split again
+-[hidden]->
+:presided quaker; <<task>>
+-> canals inch;
+split again
+-[hidden]->
+if (bankers grandchildren?) then (spotters vineyards)
+(damages butler) elseif (boycott ruthlessly?) then (swims hyperventilating)
+:snatcher favour; <<procedure>>
+(shareholder tongues) elseif (isolation polish?) then (nubile speculation)
+:unbelievable wreaking; <<output>>
+endif
+end split
+while (nauseating fingertips?) is (comatose boardinghouse)
+:overdrive small; <<continuous>>
+-> smith precautionary;
+endwhile (drum despises)
+:insomnia hairdresser;
+end
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "cleaners swim" as 0
+== removes earmarked ==
+autonumber 3 5
+create participant "swatches earlobes" as 1
+0 -> 1 : swatches earlobes
+...noo loophole...
+1 -> 1: global hostage
+0 -> 0!! : called smuggler
+ [<- 1: simpletons washout
+autonumber stop
+par jinx turned
+1 -> 1: suspending imaginations
+autonumber resume
+end
+@enduml

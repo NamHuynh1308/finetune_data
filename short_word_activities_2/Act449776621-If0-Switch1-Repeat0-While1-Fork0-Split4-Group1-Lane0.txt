@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:parasite posies;
+split again
+-[hidden]->
+split
+:knows schooled;
+split again
+:wages ensuring;
+split again
+:breathable collected;
+split again
+:celled fore; <<continuous>>
+end split
+split again
+-[hidden]->
+switch (amply bible?)
+case (wet enabled?)
+:intuitive identities;
+case (weevil scones?)
+:snooty sonnets; <<continuous>>
+endswitch
+end split
+group sidekicks exhilaration
+split
+:sentinels burgess;
+split again
+split
+:dispatched undoubtedly;
+split again
+:ballon amphetamines;
+split again
+:reflex reciprocal; <<input>>
+split again
+:strawberries retreated; <<save>>
+-> dorado everybody;
+end split
+split again
+while (misspoke pump?) is (cardiologist placed)
+:barbecue audience;
+endwhile (too afford)
+:gen reprogram;
+end split
+stop
+end group
+@enduml

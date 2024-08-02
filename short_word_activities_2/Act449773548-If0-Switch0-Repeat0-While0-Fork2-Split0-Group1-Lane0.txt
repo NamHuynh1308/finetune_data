@@ -1,0 +1,27 @@
+@startuml
+start
+fork
+:spoon sororities;
+fork again
+fork
+:shelf celery;
+fork again
+:grey artichoke; <<input>>
+fork again
+:weathers lothario; <<output>>
+-> name beeps;
+fork again
+:wisest piggyback; <<output>>
+end merge
+fork again
+:bustle hothouse;
+fork again
+:hypocrisy slayers; <<save>>
+-> producers burgeoning;
+end fork
+group kneecaps putting
+:sober dice; <<continuous>>
+:exposure kidnapper;
+stop
+end group
+@enduml

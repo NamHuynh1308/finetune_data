@@ -1,0 +1,8 @@
+@startuml
+participant "rascals vinegar" as 0
+0 -> 0: abnormal bits
+create participant "couriers cop" as 1
+0 -> 1 : couriers cop
+...obtuse fag...
+0 -> 1: antidepressants teetering
+@enduml

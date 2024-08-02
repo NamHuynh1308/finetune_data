@@ -1,0 +1,6 @@
+@startuml
+participant "lowery populations" as 0
+participant "procedures prostate" as 1
+1 -->x 1: redneck howl
+0 -> 0: harping haggis
+@enduml

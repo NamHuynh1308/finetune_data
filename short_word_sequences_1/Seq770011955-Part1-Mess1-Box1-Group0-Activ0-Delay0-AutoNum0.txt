@@ -1,0 +1,7 @@
+@startuml
+box "corps dysfunction"
+participant "heights poisoning" as 0
+end box
+== turndown doubles ==
+0 -> 0: swept conservation
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+box "songs sung"
+participant "eleven wrestle" as 0
+participant "disrupt langley" as 1
+end box
+participant "juries tonight" as 2
+autonumber 6 4
+1 -> 1: forester modeled
+break touchdown you
+2 ->] : humbug strides
+2 ->> 1: werewolves jollies
+else vague humid
+end
+@enduml

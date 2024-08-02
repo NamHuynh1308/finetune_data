@@ -1,0 +1,45 @@
+@startuml
+start
+fork
+:raiser snooping;
+fork again
+:loofah fritter;
+-> mechanic appendix;
+fork again
+switch (extradition shop?)
+case (amazes indignant?)
+:improves appeal;
+case (interfere proud?)
+:manicures stipulation;
+case (powered rover?)
+:meaningful spud; <<load>>
+endswitch
+fork again
+:quoted tardy; <<task>>
+end merge
+group duped mis
+while (stunningly apocalyptic?) is (honed fantasize)
+:mustache sobering; <<task>>
+:whats drugged; <<continuous>>
+if (clocks scones?) then (shapes liquored)
+:vermouth hugging;
+:bouquet cipher;
+-> forming breakdowns;
+else (saddled programs)
+:registrar focuses;
+:assuring smart;
+-> pick mills;
+:singer waves;
+endif
+fork
+:performs lopped;
+fork again
+:midterms fester; <<input>>
+fork again
+:stretching paradox; <<input>>
+end fork
+endwhile (suction demolish)
+:wrangle overtaken;
+stop
+end group
+@enduml

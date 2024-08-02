@@ -1,0 +1,5 @@
+@startuml
+participant "scenery clarinet" as 0
+== loads petticoat ==
+0 -> 0: relies catalog
+@enduml

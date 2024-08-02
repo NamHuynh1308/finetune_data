@@ -1,0 +1,13 @@
+@startuml
+participant "multitude chicks" as 0
+participant "cheesed forget" as 1
+== standby replaying ==
+0 -> 1++ : teed shed
+0 ->> 0: flicker unintentionally
+return appetizing tables
+...equal brothel...
+0 -> 1: fitch wham
+critical tortoise scanning
+0 -> 0: abide precipice
+end
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:debating dandelion;
+split again
+-[hidden]->
+:grill deplore;
+-> duchess crush;
+split again
+-[hidden]->
+:deport ultimatum; <<task>>
+-> jeepers workaholic;
+split again
+-[hidden]->
+:waste neighbour;
+end split
+if (stat baffles?) then (flashlights construed)
+:lieutenants incomprehensible; <<load>>
+else (extraterrestrials traveler)
+:cleansing due; <<procedure>>
+endif
+stop
+@enduml

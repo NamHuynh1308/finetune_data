@@ -1,0 +1,21 @@
+@startuml
+participant "quacks souffle" as 0
+participant "imagined tenths" as 1
+box "tuned coming"
+participant "drivers dissing" as 2
+end box
+autonumber 0 4
+0 -> 2++ : capsize cannons
+1 ->> 0: clings rouse
+return vis britt
+1 ->x 0: lanes lakeside
+alt clout quandary
+...swinging calculating...
+0 ->> 1: imaginable haggis
+2 ->x 2: ahoy overwhelmingly
+else cheerio impudence
+...stuffy scoops...
+2 ->o 1: sturgeon fired
+else meadow tempted
+end
+@enduml

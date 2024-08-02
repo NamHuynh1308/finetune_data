@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:extracurricular milk;
+split again
+-[hidden]->
+repeat
+:football submit;
+backward:heartbreaker plucking;
+:rejuvenate threshold;
+repeat while (smoochy jefe?) is (academic angry)
+split again
+-[hidden]->
+:continents savored; <<task>>
+end split
+switch (kilos clap?)
+case (cents seismic?)
+:scorched surprise;
+case (hazy experimented?)
+split
+:prefix chained;
+split again
+:tops coincide;
+split again
+:clouds breach;
+-> monopolizing garner;
+split again
+:psychotic karaoke;
+end split
+case (admiral spirited?)
+:ring directory; <<procedure>>
+-> mercenaries deflection;
+endswitch
+@enduml

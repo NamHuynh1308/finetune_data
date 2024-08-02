@@ -1,0 +1,11 @@
+@startuml
+participant "pitted peak" as 0
+participant "bonehead feverish" as 1
+box "radiologist bonfire"
+participant "roles express" as 2
+end box
+1 ->] : rod eighty
+0 -> 2: write thirtieth
+0 <-] : astray sullen
+ [<- 1: flip lattes
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+start
+split
+:update werewolves;
+split again
+:mastermind flirting; <<load>>
+split again
+:jab splurge; <<procedure>>
+split again
+fork
+:warriors contain;
+fork again
+:mandrake crazier;
+fork again
+:awareness rooster;
+end fork
+end split
+@enduml

@@ -1,0 +1,41 @@
+@startuml
+group multiples nicknames
+:promotions freeze; <<task>>
+if (gong stardust?) then (charging critter)
+:format fetched; <<input>>
+:worthless disgruntled;
+-> sleeping vascular;
+if (turban freak?) then (outfits viewed)
+:punk commentator;
+-> sunrise bummed;
+:simulate bull;
+while (accompanied canteen?) is (add smokes)
+:forwarding skipped;
+:hosts swift;
+endwhile (pump egocentric)
+-[hidden]->
+detach
+else (rogers testimony)
+:siphoning ordered;
+while (tying mohel?) is (defining statistically)
+:getup dreaming; <<continuous>>
+-> jamming mommies;
+backward:joker indicates;
+endwhile (supervise workout)
+-[hidden]->
+detach
+endif
+else (brainiest punky)
+repeat
+:myrtle bagged; <<continuous>>
+:ruffians tired;
+-> video vindictiveness;
+repeat while (hits wheeze?) is (primping sup)
+kill
+endif
+end group
+group was sharing
+:addresses segment; <<task>>
+stop
+end group
+@enduml

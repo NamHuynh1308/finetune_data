@@ -1,0 +1,22 @@
+@startuml
+participant "musketeers wrench" as 0
+participant "financially fitted" as 1
+participant "committed enzyme" as 2
+== frontal appendicitis ==
+autonumber 0 1
+1 -> 2!! : pug lackluster
+autonumber stop
+opt wangler yields
+0 -> 0: continuously divorced
+autonumber resume
+1 -> 2!! : months sabotage
+0 <-] : health comfort
+else suits game
+...lance scout...
+2 ->x 2: scuba carol
+else snakeskin shrapnel
+break palace can
+ [<- 1: systematically conquered
+end
+end
+@enduml

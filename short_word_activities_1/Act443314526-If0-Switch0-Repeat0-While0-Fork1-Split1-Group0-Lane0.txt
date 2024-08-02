@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:stemmed malfunctioning;
+split again
+-[hidden]->
+:danger regularity;
+split again
+-[hidden]->
+:lovebirds invested; <<load>>
+split again
+-[hidden]->
+fork
+:solo gatehouse;
+fork again
+:disagreed parton;
+fork again
+:surreal ostracized; <<load>>
+-> rayed deluxe;
+end fork
+end split
+:incoherent neurological;
+-> bared disappointing;
+:derriere grips;
+end
+@enduml

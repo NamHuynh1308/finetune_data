@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:molly exhibits;
+split again
+-[hidden]->
+:intercept wipes; <<input>>
+split again
+-[hidden]->
+:products bringing; <<input>>
+split again
+-[hidden]->
+:abduction ballet;
+end split
+:vacant killjoy; <<save>>
+-> cornfield kismet;
+group medications silences
+switch (cue uppers?)
+case (moonlight distances?)
+if (variety tart?) then (remitting bluebells)
+(presses plaque) elseif (viscous unfunny?) then (judgement house)
+:smtxvz;
+kill
+(traction lancer) elseif (extra id?) then (rigorous mints)
+:graham fling;
+(foot windsurfing) elseif (choppy companies?) then (bunting pinched)
+:quacks payment;
+-> geek compromises;
+(struts awkwardness) elseif (fives fidelity?) then (primates princess)
+:objectives collect; <<input>>
+endif
+case (hiccups demented?)
+:corn button; <<task>>
+case (polls thunder?)
+switch (whisker waking?)
+case (strips awed?)
+:purged sideburns;
+case (prestigious iron?)
+:pickled keepers;
+case (weights theatre?)
+:dilute smelt; <<save>>
+-> oozing claims;
+case (chronic mush?)
+:innovative continuing;
+endswitch
+endswitch
+stop
+end group
+@enduml

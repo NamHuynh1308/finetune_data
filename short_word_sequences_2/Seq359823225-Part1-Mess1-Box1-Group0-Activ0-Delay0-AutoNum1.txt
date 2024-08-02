@@ -1,0 +1,9 @@
+@startuml
+box "paperboy fire"
+participant "plugged rounded" as 0
+end box
+== reckon juror ==
+autonumber 1 9
+0 -> 0: cartons murderer
+autonumber stop
+@enduml

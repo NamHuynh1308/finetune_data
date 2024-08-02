@@ -1,0 +1,18 @@
+@startuml
+participant "write surging" as 0
+box "knelt comprehending"
+participant "grog yesterdays" as 1
+participant "culturally workings" as 2
+end box
+participant "clone facetious" as 3
+== rusty detaining ==
+2 <-] : memorized nurtured
+0 -> 2: helpless beans
+opt ornaments sentencing
+3 ->> 0: flaps discotheque
+opt cams past
+create participant "kicker alcove" as 4
+0 -> 4 : kicker alcove
+end
+end
+@enduml

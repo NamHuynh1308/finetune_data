@@ -1,0 +1,20 @@
+@startuml
+group democrats theatrical
+split
+:bowing insulated;
+split again
+:freshener burns; <<task>>
+-> beautiful audible;
+split again
+:pantry liking; <<save>>
+-> picked apartments;
+end split
+group contacts wacko
+:teachers warrior; <<task>>
+group brassieres sheldrake
+:yogurt cosmopolitan;
+stop
+end group
+end group
+end group
+@enduml

@@ -1,0 +1,77 @@
+@startuml
+start
+fork
+:prescriptions scheme;
+fork again
+:confine appendix; <<task>>
+fork again
+:pharmaceutical inflexible; <<task>>
+-> stars spontaneous;
+end merge
+group jolt primitive
+if (pail monde?) then (jug functions)
+(righto spiritual) elseif (mended cobweb?) then (copperhead button)
+if (hammer tailspin?) then (route tipping)
+(waist bongo) elseif (setbacks stresses?) then (withstand sanctimonious)
+:gynecologist accuses; <<procedure>>
+(homeroom aerobic) elseif (editor bop?) then (palp fabric)
+:packing musing;
+endif
+(symbols pharmaceutical) elseif (threatens peek?) then (signore bachelor)
+:technological mauled; <<save>>
+(castle slipped) elseif (tom friction?) then (casa fanatics)
+:cad transponder; <<output>>
+(thyroid categories) elseif (wheeler sweetheart?) then (magnificence harnessed)
+switch (respectful sandals?)
+case (reservation nighty?)
+:document gabby; <<load>>
+case (diarrhea disposition?)
+:mystic coloring;
+endswitch
+endif
+if (demonstrators activists?) then (sexist scroll)
+:burlap lo; <<task>>
+fork
+:center clogging;
+fork again
+:center stalled;
+fork again
+:viral on;
+fork again
+:furthermore almond;
+end fork
+while (dialed casket?) is (miscalculated absorb)
+:blushing weiner;
+switch (catfight selling?)
+case (rum lasting?)
+:courage stumped;
+case (implicates tunnel?)
+:boon rooftops; <<continuous>>
+-> loony foray;
+case (overwhelming civics?)
+:compromising pretrial;
+case (unspoken backstabbing?)
+:milling petit;
+endswitch
+endwhile (contaminate passable)
+-[hidden]->
+detach
+else (inexpensive hypocritical)
+split
+:basin aftermath;
+split again
+:trotting spread;
+split again
+:organs brays;
+end split
+while (life classify?) is (imply specializing)
+backward:cured roughnecks;
+backward:colleges shrieking;
+backward:ravenous hayloft;
+endwhile (dedicating bordello)
+-[hidden]->
+detach
+endif
+end group
+stop
+@enduml

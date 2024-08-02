@@ -1,0 +1,59 @@
+@startuml
+split
+-[hidden]->
+:acupuncturist swerving;
+split again
+-[hidden]->
+:fears minority;
+-> skimpy loses;
+split again
+-[hidden]->
+:impulsive elbow; <<procedure>>
+split again
+-[hidden]->
+switch (divorce progress?)
+case (stylish wired?)
+:wager maddening;
+-> fireball pocket;
+case (volatile gratification?)
+:react eyesight;
+case (criminally kayak?)
+:griddle politics; <<task>>
+-> penthouse jailhouse;
+endswitch
+end split
+:preyed prep; <<task>>
+if (civilization sleeves?) then (croissants secret)
+:wreaths baiting; <<continuous>>
+else (fleshy trimmings)
+:meringue cellmates; <<continuous>>
+:joes fancy;
+-> pantheon shove;
+endif
+switch (bodily faggy?)
+case (concocting consumers?)
+split
+:solutions decapitation;
+split again
+:brioche faceless;
+split again
+:motherfucker rave;
+end split
+case (mamma telemarketing?)
+split
+:arise seconds;
+split again
+:exacerbate tenets;
+-> skated easygoing;
+split again
+:monstrous lessen;
+-> thunder yom;
+split again
+:elks celebrate; <<save>>
+end split
+case (complicated tuned?)
+:market scorcher; <<task>>
+case (bros crusty?)
+:ice enhance; <<continuous>>
+endswitch
+@enduml

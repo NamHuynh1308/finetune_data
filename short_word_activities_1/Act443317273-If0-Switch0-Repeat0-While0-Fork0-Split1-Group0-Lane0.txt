@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:flap earwig;
+split again
+-[hidden]->
+:fraternity headlining; <<procedure>>
+split again
+-[hidden]->
+:concede integrate; <<output>>
+split again
+-[hidden]->
+:obtained aspirin; <<task>>
+end split
+:ingrates hologram; <<procedure>>
+-> bigger dong;
+@enduml

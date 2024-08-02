@@ -1,0 +1,16 @@
+@startuml
+box "paperwork villain"
+participant "occur homeroom" as 0
+participant "gilded moneybags" as 1
+end box
+participant "fingernail repetition" as 2
+participant "springtime assault" as 3
+== display headless ==
+1 -// 1++ : tongue igloo
+2 <-> 1: terrorist hocking
+0 ->x 1++ : flawed bishop
+ [<- 1: jumping buns
+0 -> 2!! : hurst surely
+return fashionably reef
+return pictures nay
+@enduml

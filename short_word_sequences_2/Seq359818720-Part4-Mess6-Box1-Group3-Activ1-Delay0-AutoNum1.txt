@@ -1,0 +1,23 @@
+@startuml
+box "treating emanates"
+participant "favour gunnery" as 0
+participant "saloon today" as 1
+end box
+participant "whodunit shindig" as 2
+participant "page worrisome" as 3
+autonumber 9 4
+alt finger cunning
+3 ->> 2: peach terms
+2 -->x 3: commoner dispatches
+end
+2 -\\ 0: reel personality
+autonumber stop
+loop bowing knitting
+2 ->x 0: conspired she
+par harms abilities
+3 <-> 2: interior bullet
+0 -> 2++ : bimbo writes
+end
+end
+return buns mute
+@enduml

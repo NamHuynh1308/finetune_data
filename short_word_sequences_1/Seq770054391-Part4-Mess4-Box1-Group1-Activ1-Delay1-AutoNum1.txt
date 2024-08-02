@@ -1,0 +1,18 @@
+@startuml
+participant "squish shopped" as 0
+participant "disguises stationed" as 1
+participant "aggravating barbershop" as 2
+box "nightly deflecting"
+participant "aim peril" as 3
+end box
+== cat flip ==
+autonumber 2 10
+0 -> 1!! : exporter droop
+0 -> 2: nocturnal tourist
+3 ->x 3++ : expelled clearances
+opt questionnaire yams
+...beater guarantees...
+ [<- 2: tweaking cubby
+return invent clarifying
+end
+@enduml

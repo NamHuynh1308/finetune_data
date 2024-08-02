@@ -1,0 +1,14 @@
+@startuml
+participant "wingman reek" as 0
+participant "hypocrites coerce" as 1
+participant "redundant cussing" as 2
+== rogue transit ==
+2 -> 0: startup unfulfilled
+1 -> 0!! : shapes floating
+1 ->] : caritas bars
+loop sleuth briefcase
+2 ->o 0: playboys slithered
+ [-> 2: hills discriminating
+else philosophical punctured
+end
+@enduml

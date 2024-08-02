@@ -1,0 +1,7 @@
+@startuml
+:parlor slackers;
+-> amassed fellows;
+:morons ducking;
+:desert unbecoming; <<input>>
+end
+@enduml

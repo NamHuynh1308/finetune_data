@@ -1,0 +1,14 @@
+@startuml
+participant "blimp incessantly" as 0
+participant "buffet bedbugs" as 1
+participant "savin separation" as 2
+participant "lullaby massaged" as 3
+== psychic kremlin ==
+1 -> 2: say distract
+3 ->] : reaching crucial
+par individually graphs
+ [-> 0: boa imperfections
+0 ->> 1: lieu arena
+1 ->x 2: hue stumble
+end
+@enduml

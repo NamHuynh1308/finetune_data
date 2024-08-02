@@ -1,0 +1,21 @@
+@startuml
+participant "perennial nail" as 0
+participant "dunes faded" as 1
+participant "casinos grasped" as 2
+participant "hallways visits" as 3
+== roadhouse deaths ==
+par consolidate darling
+3 -\\ 0: strength snails
+ [-> 1: huffy harlot
+3 -> 3: cooler complicates
+2 -// 1: panel showoff
+par stronghold slamming
+0 -> 0: pulse refrigerator
+3 ->> 0++ : wounded fill
+else foyer extramarital
+1 ->x 2: oppressive rubbing
+return potsie orthodox
+else researching brownies
+end
+end
+@enduml

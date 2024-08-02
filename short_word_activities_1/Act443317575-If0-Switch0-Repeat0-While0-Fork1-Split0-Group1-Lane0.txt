@@ -1,0 +1,19 @@
+@startuml
+start
+fork
+:wacky groves;
+fork again
+:trumpets pragmatic;
+fork again
+:inverted advise; <<output>>
+-> students poise;
+fork again
+:byes fiesta; <<continuous>>
+-> fearing accompanied;
+end fork
+:persistence obstacle; <<output>>
+group jabbering ingrates
+:gestapo markers; <<continuous>>
+stop
+end group
+@enduml

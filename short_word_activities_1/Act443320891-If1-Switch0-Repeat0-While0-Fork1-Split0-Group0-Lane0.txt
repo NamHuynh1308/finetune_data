@@ -1,0 +1,19 @@
+@startuml
+:flaky errors; <<save>>
+-> wheelchair fencing;
+if (nanosecond curiously?) then (bystanders sampled)
+fork
+:cymbal absurdity;
+fork again
+:evade adventurer;
+fork again
+:byline violating; <<input>>
+fork again
+:sorting opportunity; <<task>>
+end merge
+:geosynchronous swedes;
+:blasphemous customs; <<continuous>>
+else (winos hydrolase)
+:prays motivations; <<continuous>>
+endif
+@enduml

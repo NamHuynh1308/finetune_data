@@ -1,0 +1,29 @@
+@startuml
+|1| legacy drunks
+|2| hothead fools
+|1|
+start
+:dogged critters; <<procedure>>
+-> oho skill;
+if (performing drilling?) then (alderman insured)
+:bummers gallant; <<save>>
+:nostalgic questions; <<procedure>>
+else (drug eye)
+:latter candle; <<input>>
+split
+:occurs calls;
+split again
+:gobbledygook abide; <<task>>
+-> hoot refers;
+split again
+:exemptions grafts; <<procedure>>
+end split
+endif
+|2|
+:symbolically runner;
+-> primal cesspool;
+|1|
+:elephant carter; <<save>>
+-> electricity optimist;
+end
+@enduml

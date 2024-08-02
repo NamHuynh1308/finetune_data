@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:saps honky;
+split again
+-[hidden]->
+:unsubstantiated ragtime; <<task>>
+-> chum cursing;
+split again
+-[hidden]->
+split
+:carotid turf;
+split again
+:vomiting puns;
+split again
+:chopping caterers; <<procedure>>
+end split
+split again
+-[hidden]->
+:moths landslide;
+end split
+:inconspicuous shark; <<continuous>>
+-> pools horseman;
+stop
+@enduml

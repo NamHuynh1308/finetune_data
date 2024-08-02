@@ -1,0 +1,7 @@
+@startuml
+participant "waxy wry" as 0
+participant "funerals disposing" as 1
+1 --//o 0++ : medicine gat
+ [-> 0: electronics lynx
+return treads carnival
+@enduml

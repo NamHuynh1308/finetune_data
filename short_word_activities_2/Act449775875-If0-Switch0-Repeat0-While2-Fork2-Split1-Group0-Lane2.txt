@@ -1,0 +1,46 @@
+@startuml
+|1| footage findings
+|2| got kelly
+split
+-[hidden]->
+:handle tread;
+split again
+-[hidden]->
+fork
+:flipper drone;
+fork again
+:tones transfusions; <<save>>
+fork again
+:intestinal unappealing;
+fork again
+:straws bodies;
+end fork
+split again
+-[hidden]->
+while (yummy conquer?) is (bush drivel)
+backward:presidency upkeep;
+backward:justify jeopardy;
+:pressed rewriting; <<save>>
+endwhile (alarms originality)
+:nimrod cranks;
+split again
+-[hidden]->
+:inappropriate unholy; <<task>>
+end split
+:strut tormented;
+fork
+:robot ragging;
+fork again
+:complexities of;
+while (reunions wangler?) is (statue blissfully)
+backward:wigged groggy;
+endwhile (killer guarded)
+-[hidden]->
+detach
+fork again
+:smoked road; <<continuous>>
+end fork
+|2|
+:tarantulas smother; <<continuous>>
+stop
+@enduml

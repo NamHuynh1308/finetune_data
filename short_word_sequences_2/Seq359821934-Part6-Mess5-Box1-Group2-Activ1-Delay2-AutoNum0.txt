@@ -1,0 +1,24 @@
+@startuml
+participant "sixties upset" as 0
+participant "dollhouse perspective" as 1
+participant "incident wilderness" as 2
+box "regulated whodunit"
+participant "clarify instincts" as 3
+participant "crutches magicians" as 4
+end box
+== clutter hunted ==
+1 -> 1++ : plateaued sighting
+...conformity iguana...
+4 -> 2: boats mails
+return decree webs
+loop flippers wuthering
+...wandering polo...
+4 ->> 0: glove upwards
+1 -> 4: licks rusted
+else wallpaper bourbon
+par insurmountable horsing
+create participant "fireman chopping" as 5
+0 -> 5 : fireman chopping
+end
+end
+@enduml

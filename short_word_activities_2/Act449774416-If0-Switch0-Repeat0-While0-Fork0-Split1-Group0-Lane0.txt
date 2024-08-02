@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:geometry aides;
+split again
+-[hidden]->
+:trailing admirable;
+split again
+-[hidden]->
+:grade worries;
+kill
+end split
+:peg oedipal;
+end
+@enduml

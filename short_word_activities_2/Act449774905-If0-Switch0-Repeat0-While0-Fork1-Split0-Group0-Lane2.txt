@@ -1,0 +1,20 @@
+@startuml
+|1| fishermen authors
+|2| cory tuna
+|1|
+start
+|2|
+:calculate resetting; <<input>>
+-> drastic hitch;
+|1|
+:pizza solicitor; <<load>>
+fork
+:tarp extramarital;
+fork again
+:downstream inexperience;
+kill
+fork again
+:trippy wade; <<input>>
+end fork
+stop
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "adversary recuperating" as 0
+participant "philosopher frank" as 1
+participant "overactive tofu" as 2
+== suspicions demonstrated ==
+2 -> 2: live unlimited
+0 ->x 2++ : turkeys zipping
+...extraordinarily triceps...
+2 ->o 0: boxed juicy
+1 --> 0: puppy hooded
+par tainted unmanned
+0 ->o 1++ : cashews haute
+end
+return surreal manipulative
+return reality unattended
+@enduml

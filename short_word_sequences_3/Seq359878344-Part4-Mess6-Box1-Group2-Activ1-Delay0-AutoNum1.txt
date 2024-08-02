@@ -1,0 +1,23 @@
+@startuml
+participant "absorbed repetitive" as 0
+box "switchman aquarium"
+participant "whats dingy" as 1
+participant "managed skateboard" as 2
+end box
+participant "auk intelligence" as 3
+autonumber 7 10
+loop factoid mountaintop
+2 -> 0!! : gazelle gluttony
+3 -> 0: abreast celebrates
+else sweating desperation
+3 ->] : firmer brooks
+else chimney luster
+1 -> 0!! : conniving invading
+1 -> 1++ : grading purity
+autonumber stop
+critical bouncing strobe
+2 -\\ 2: indict correspond
+end
+end
+return neutron abortions
+@enduml

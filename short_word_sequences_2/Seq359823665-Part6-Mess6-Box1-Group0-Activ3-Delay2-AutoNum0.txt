@@ -1,0 +1,21 @@
+@startuml
+participant "discovery mahatma" as 0
+participant "convertibles pens" as 1
+participant "exciting ponies" as 2
+participant "flight folding" as 3
+box "freezing rollers"
+participant "painfully continent" as 4
+end box
+create participant "fronts bras" as 5
+1 -> 5 : fronts bras
+...cartoon cocaine...
+0 --> 5: pic seamen
+0 -->x 3++ : contrite identity
+0 -> 1++ : quantities rebuilt
+...sodding liters...
+3 -> 3++ : upgrade tumbling
+3 -> 4: peering bathed
+return freeway adore
+return sugar responding
+return playthings peas
+@enduml

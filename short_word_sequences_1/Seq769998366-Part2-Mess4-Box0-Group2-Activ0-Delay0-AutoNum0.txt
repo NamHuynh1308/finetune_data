@@ -1,0 +1,13 @@
+@startuml
+participant "shrugging exhilarated" as 0
+== simplify learn ==
+0 --//o 0: teed theories
+alt nagged conjecture
+create participant "hitchhike emptied" as 1
+0 -> 1 : hitchhike emptied
+par violently carriers
+1 -// 0: lunchroom givens
+ [-> 1: decoys extraterrestrial
+end
+end
+@enduml

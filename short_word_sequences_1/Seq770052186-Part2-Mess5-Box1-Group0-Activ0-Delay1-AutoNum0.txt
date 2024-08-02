@@ -1,0 +1,12 @@
+@startuml
+participant "go fluffy" as 0
+box "chagrined scurry"
+participant "superstar gears" as 1
+end box
+0 -> 0: virginity quarreled
+...weightless partying...
+1 -> 1: debating wizard
+0 -> 0: nah faun
+1 ->] : gladly wiping
+0 -> 1: savin empirical
+@enduml

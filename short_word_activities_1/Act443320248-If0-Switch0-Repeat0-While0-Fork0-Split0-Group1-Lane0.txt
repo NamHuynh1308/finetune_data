@@ -1,0 +1,10 @@
+@startuml
+start
+:grudges stew;
+-> jaguars humidifier;
+group greets rotted
+:swami mood;
+-> slowly beware;
+stop
+end group
+@enduml

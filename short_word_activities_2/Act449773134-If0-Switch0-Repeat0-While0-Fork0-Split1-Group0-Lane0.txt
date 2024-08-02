@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:swims reacts;
+split again
+-[hidden]->
+:oiled purging; <<load>>
+split again
+-[hidden]->
+:transplant care; <<continuous>>
+split again
+-[hidden]->
+:lux tuck;
+kill
+end split
+:fretting hunters;
+@enduml

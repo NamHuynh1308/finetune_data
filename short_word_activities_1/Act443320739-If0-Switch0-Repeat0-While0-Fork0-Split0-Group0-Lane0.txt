@@ -1,0 +1,5 @@
+@startuml
+:exclusion oh; <<procedure>>
+-> heroin medevac;
+end
+@enduml

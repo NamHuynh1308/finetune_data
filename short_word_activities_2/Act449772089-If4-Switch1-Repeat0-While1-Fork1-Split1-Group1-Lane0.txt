@@ -1,0 +1,78 @@
+@startuml
+split
+-[hidden]->
+:innocent dormitory;
+split again
+-[hidden]->
+:cacciatore provided;
+split again
+-[hidden]->
+fork
+:mushy upheld;
+fork again
+:pressures belie; <<output>>
+-> debutantes panics;
+fork again
+:convince urinary; <<output>>
+-> haircut dykes;
+fork again
+:bide stable;
+end fork
+split again
+-[hidden]->
+:sounded weenie;
+-> mysticism decomposing;
+end split
+switch (sublet bargaining?)
+case (eloquence stung?)
+if (asleep vandalism?) then (inconsistent terminated)
+(hateful sliced) elseif (wins scarred?) then (computerized banquet)
+:finality uppity;
+(breathless spence) elseif (meddle preconceived?) then (banshee lantern)
+:plead aga; <<continuous>>
+(shore intercept) elseif (articulate satin?) then (individuals awakening)
+:lip dumped; <<save>>
+-> lodgings doorstep;
+(undertaking incinerated) elseif (resurrection ridiculed?) then (offices inflammatory)
+:social sportsmanship;
+endif
+case (geezers darkroom?)
+:matinee sweep;
+-> detract functioning;
+case (cachet jewelers?)
+:sickening advances;
+case (drunk inactive?)
+:gallows temps; <<output>>
+endswitch
+group progress reliance
+if (projections composed?) then (limelight caff)
+if (squabble bash?) then (shave romeo)
+:affinity absorbed; <<task>>
+else (foolproof abs)
+:sheen wanton;
+-> warren tweet;
+:portal securing; <<continuous>>
+:logged hogan;
+endif
+if (creeps illusion?) then (intentional nuthouse)
+:grill exemptions;
+else (crime precise)
+:receptionist pleadings;
+-> colors timeless;
+:wagging unannounced;
+:managerial triplets;
+-> vortex dimming;
+endif
+:sexism manifestations; <<procedure>>
+-> suppression quirk;
+kill
+else (glossy pray)
+while (beck altogether?) is (hosed abound)
+:sizeable pales;
+backward:weakness shout;
+endwhile (sake political)
+:flights inflame;
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,67 @@
+@startuml
+split
+-[hidden]->
+:butterscotch rested;
+split again
+-[hidden]->
+switch (imprisoned stumble?)
+case (stupider planetarium?)
+:postman performance;
+case (leech quarry?)
+:spaniel brag; <<save>>
+-> distressed assurances;
+case (geishas diagnosis?)
+:mar distinctions;
+endswitch
+split again
+-[hidden]->
+repeat
+:revulsion forgetful; <<load>>
+-> droopy peddle;
+:electroshock inception; <<continuous>>
+-> tells confident;
+:suds reached;
+repeat while (auspicious pusher?) is (enchant were)
+split again
+-[hidden]->
+repeat
+:picketing dares;
+repeat while (mocking busts?) is (strokes snores)
+-> existing unfamiliar;
+end split
+repeat
+if (sea cartoon?) then (bribery vain)
+:deathbed tears;
+:panting legislation; <<task>>
+:sublet refers; <<output>>
+-> articulate management;
+else (cares monoxide)
+:caveman ana; <<task>>
+:mike dicks; <<input>>
+-> doily roughnecks;
+endif
+backward:kitty huge;
+:advertisers fasten; <<input>>
+repeat while (geezers ritualistic?) is (concierge bystander)
+if (equestrian incarceration?) then (bravado hellhole)
+:pancreatic killers; <<load>>
+-> mergers ex;
+if (shore warfarin?) then (exports too)
+(pours debutante) elseif (soulless pawnshop?) then (razor expressed)
+:soapy heresy;
+(sighting warhead) elseif (blanks pageant?) then (maria cave)
+:jaded pitcher; <<load>>
+endif
+:turnaround incidentally;
+-> regulated phantoms;
+else (middies chaps)
+:ne erased; <<output>>
+:demands burn; <<task>>
+-> reprisal horrific;
+:current git; <<output>>
+-> web creepers;
+kill
+endif
+:implanted rawhide;
+-> bungalows participation;
+@enduml

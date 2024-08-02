@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:hummus within;
+split again
+-[hidden]->
+:distributing unfamiliar;
+split again
+-[hidden]->
+switch (forgetting fez?)
+case (barefoot significance?)
+:sideline specialties;
+case (crusades pendant?)
+:frogs wackos; <<save>>
+case (kissable assumptions?)
+:doses gyms; <<load>>
+-> denying golly;
+endswitch
+end split
+:videos rage;
+-> torch bestow;
+:licensed stasis; <<output>>
+-> stones trained;
+end
+@enduml

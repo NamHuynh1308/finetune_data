@@ -1,0 +1,35 @@
+@startuml
+participant "boatload cascade" as 0
+participant "puck repaired" as 1
+box "tween galleries"
+participant "dubbed estranged" as 2
+participant "heller prostitution" as 3
+end box
+autonumber 0 10
+opt sentry jumble
+2 -> 0: tumors contestants
+autonumber stop
+2 --//o 2: burgundy thieves
+else recite sniper
+opt paralyze torturing
+1 ->x 2++ : inconvenient toenails
+3 ->o 2: dragon inquiries
+autonumber resume
+else factoid unwind
+create participant "astronaut cheaper" as 4
+1 -> 4 : astronaut cheaper
+return coddle rhinestones
+break chops beloved
+...bullpen mixes...
+1 -// 1: ended conversational
+loop heaviest beta
+0 --//o 1++ : enrolling cure
+autonumber stop
+2 --> 1: relaxes deduce
+return strengths pensioners
+autonumber resume
+end
+end
+end
+end
+@enduml

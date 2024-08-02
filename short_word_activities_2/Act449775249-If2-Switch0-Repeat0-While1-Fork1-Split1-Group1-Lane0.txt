@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:appointed tarot;
+split again
+-[hidden]->
+:extra influencing; <<continuous>>
+-> knees crunch;
+split again
+-[hidden]->
+fork
+:drone heckled;
+fork again
+:rapist calming;
+fork again
+:hamburg robin; <<load>>
+end fork
+split again
+-[hidden]->
+if (buckled personality?) then (carmine salient)
+:jackets molten; <<task>>
+-> marina cokes;
+:cubs downriver; <<output>>
+-> ricks crumble;
+else (facts attorneys)
+:caviar tease;
+:extensions platoon;
+endif
+end split
+group freeways mite
+:caterpillars boycott;
+if (angles reshoot?) then (wops finger)
+:mediocre gloomy;
+-> mistook hyphen;
+:foreigners nebula;
+-> cement upgrades;
+else (motors tommy)
+while (overrated baggy?) is (handgun book)
+:light replay;
+:minute fungal; <<task>>
+:sausage patrolled;
+:repressed entity;
+endwhile (bridegroom crafted)
+:extraction aids;
+endif
+end group
+@enduml

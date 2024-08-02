@@ -1,0 +1,36 @@
+@startuml
+switch (singles thirteenth?)
+case (firelight hiatus?)
+:streetcar flashlight;
+case (gym nordic?)
+:discovering convict; <<procedure>>
+case (anchovies survives?)
+:blockbusters senators; <<output>>
+endswitch
+group equinox heckle
+fork
+:methadone regular;
+fork again
+:purchasing telescopic;
+fork again
+switch (unadvisedly artist?)
+case (proposals profusely?)
+:tigers pot; <<save>>
+-> parliamentary budding;
+case (ceremony manuscript?)
+:accessible pleaser; <<input>>
+case (functions survey?)
+:reheat ballsy;
+endswitch
+fork again
+if (indies bazaar?) then (crucifixion levitate)
+:clergyman disarming; <<continuous>>
+-> ecstasy gridlock;
+else (falsely bondsman)
+:wait stamp; <<procedure>>
+-> referred synthesize;
+endif
+end merge
+stop
+end group
+@enduml

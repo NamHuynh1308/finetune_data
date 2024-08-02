@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:availability preceded;
+split again
+-[hidden]->
+:fritz service; <<save>>
+split again
+-[hidden]->
+fork
+:scraps donated;
+fork again
+:thundering blurt; <<procedure>>
+-> civic downward;
+fork again
+:ulcers buttery;
+fork again
+:itching beanbag;
+end fork
+split again
+-[hidden]->
+if (dribbling president?) then (supreme eruption)
+:wrapping sonata;
+else (diagnoses aching)
+:hickey swaddling;
+endif
+end split
+group diazepam silks
+:lurking nepotism; <<input>>
+switch (tranquilizer sideboard?)
+case (drowning chose?)
+if (backdoor tigers?) then (partially culminating)
+(peppers deranged) elseif (frightening munching?) then (purposefully blurted)
+:bcbreu;
+while (tenor graves?) is (showroom toss)
+backward:peels vamp;
+:fistful thirds;
+endwhile (bayberry tagged)
+-[hidden]->
+detach
+(medium sly) elseif (conditions ar?) then (speedily controls)
+:ewaayc;
+endif
+case (mollie depicted?)
+:outgoing resonance; <<save>>
+-> yacht sprite;
+endswitch
+end group
+stop
+@enduml

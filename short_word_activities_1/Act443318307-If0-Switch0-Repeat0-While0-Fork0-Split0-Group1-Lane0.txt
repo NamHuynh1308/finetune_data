@@ -1,0 +1,9 @@
+@startuml
+start
+group sup details
+:ladyship memorial; <<output>>
+-> ivy guilder;
+:waved typing; <<save>>
+end group
+stop
+@enduml

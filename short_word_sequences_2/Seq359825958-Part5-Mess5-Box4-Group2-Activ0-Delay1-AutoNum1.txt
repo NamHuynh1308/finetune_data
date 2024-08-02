@@ -1,0 +1,29 @@
+@startuml
+box "journalistic muckraker"
+participant "repress marten" as 0
+box "easel straw"
+participant "berg deviation" as 1
+box "ail skimming"
+participant "redeem uniforms" as 2
+box "piggies strikingly"
+participant "newt planted" as 3
+end box
+end box
+end box
+end box
+autonumber 1 10
+opt bumming enable
+create participant "stung qualify" as 4
+1 -> 4 : stung qualify
+...granola radioed...
+1 ->] : reimburse displaying
+else minnow afterward
+ [-> 4: illegals contaminating
+autonumber stop
+alt apprised dehydration
+3 -> 3: discourage representative
+3 <-] : stress resentments
+else erratic reportedly
+end
+end
+@enduml

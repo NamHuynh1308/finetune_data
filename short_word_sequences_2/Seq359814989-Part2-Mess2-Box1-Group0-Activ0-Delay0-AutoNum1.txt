@@ -1,0 +1,9 @@
+@startuml
+box "freeze quitter"
+participant "prevented eels" as 0
+participant "greenhouse firehouse" as 1
+end box
+autonumber 2 9
+0 ->] : desist photographs
+ [<- 1: porch endearing
+@enduml

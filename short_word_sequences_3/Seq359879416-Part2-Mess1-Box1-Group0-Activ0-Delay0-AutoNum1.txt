@@ -1,0 +1,9 @@
+@startuml
+box "baller essay"
+participant "reseda forged" as 0
+end box
+== strive testosterone ==
+autonumber 8 1
+create participant "fiendish priss" as 1
+0 -> 1 : fiendish priss
+@enduml

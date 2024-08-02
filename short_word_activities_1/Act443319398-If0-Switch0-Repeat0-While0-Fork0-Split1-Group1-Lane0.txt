@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:rehabilitate spasms;
+split again
+-[hidden]->
+:drum squeezed; <<input>>
+split again
+-[hidden]->
+:smoky zebras; <<output>>
+-> circle hurricanes;
+end split
+group articulate unwashed
+:warpath prevents; <<output>>
+:subtly homecoming; <<task>>
+end group
+@enduml

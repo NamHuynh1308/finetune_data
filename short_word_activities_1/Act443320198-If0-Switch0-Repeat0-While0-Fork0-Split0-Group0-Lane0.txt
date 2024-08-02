@@ -1,0 +1,5 @@
+@startuml
+start
+:council outing; <<continuous>>
+stop
+@enduml

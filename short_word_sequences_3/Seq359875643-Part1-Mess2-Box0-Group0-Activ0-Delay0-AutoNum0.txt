@@ -1,0 +1,6 @@
+@startuml
+participant "thunderstorm withering" as 0
+== purest glues ==
+0 -\\ 0: buying rods
+ [<- 0: perfection divvy
+@enduml

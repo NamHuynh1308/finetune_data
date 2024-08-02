@@ -1,0 +1,15 @@
+@startuml
+participant "quoth lightening" as 0
+critical crunch think
+0 -> 0: audited nonnegotiable
+create participant "ness hauls" as 1
+0 -> 1 : ness hauls
+else croc venture
+opt champion flashlights
+...keyboard muff...
+0 <-] : vouch maintenance
+0 -> 0: fantasized harnessed
+1 <-] : jog whoa
+end
+end
+@enduml

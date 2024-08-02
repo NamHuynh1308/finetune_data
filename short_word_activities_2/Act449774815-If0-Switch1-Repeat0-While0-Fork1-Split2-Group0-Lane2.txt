@@ -1,0 +1,44 @@
+@startuml
+|1| tie mangy
+|2| spontaneity hula
+split
+-[hidden]->
+:scorpions tiles;
+split again
+-[hidden]->
+:liquidate snakebite; <<save>>
+split again
+-[hidden]->
+switch (hill undoing?)
+case (devastate moping?)
+:thinning endorse;
+case (gossiping delly?)
+:carburetor reopen; <<procedure>>
+-> jeez charmingly;
+endswitch
+split again
+-[hidden]->
+:tremble pushes; <<input>>
+end split
+split
+:schnapps revenues;
+split again
+:slavery inappropriately;
+-> fudge developed;
+split again
+:after conservative;
+split again
+fork
+:seeds experiences;
+fork again
+:combine programme; <<output>>
+-> cavern garnish;
+fork again
+:untrue dusty;
+end merge
+end split
+|2|
+:technicalities exports; <<load>>
+|1|
+:purchased doubt;
+@enduml

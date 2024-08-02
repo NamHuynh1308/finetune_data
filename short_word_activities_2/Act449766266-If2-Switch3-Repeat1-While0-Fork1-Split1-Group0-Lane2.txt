@@ -1,0 +1,79 @@
+@startuml
+|1| murdered bayberry
+|2| gentle con
+split
+-[hidden]->
+:hose frying;
+split again
+-[hidden]->
+:browsing larger; <<output>>
+-> wax sibling;
+split again
+-[hidden]->
+:commie leisure; <<task>>
+split again
+-[hidden]->
+repeat
+:scab superman;
+:lack finalist;
+:pacing steadfast;
+repeat while (hungry crease?) is (ladle postponement)
+end split
+|2|
+switch (magnet baldness?)
+case (multitude funding?)
+:imposing hand; <<input>>
+-> barrel facts;
+case (fouled texture?)
+:privileged weight; <<output>>
+case (digest workout?)
+switch (protesters sails?)
+case (scuzzy glades?)
+:facetious holding; <<save>>
+-> south cubic;
+case (ants killing?)
+:biding worldwide;
+endswitch
+case (blot scribble?)
+if (awakes shits?) then (frigid scurvy)
+:ramifications reed; <<load>>
+else (heirlooms chapman)
+:energy lass;
+:nicest clockwork; <<continuous>>
+-> decorator disk;
+:pays rid; <<continuous>>
+-> bouts seats;
+endif
+endswitch
+|1|
+switch (raised galleries?)
+case (foal slimy?)
+:reversed kahuna;
+-> steering leaf;
+case (maintenance specter?)
+if (reunited diphtheria?) then (pheromones certainties)
+(constituents accountable) elseif (fads citrus?) then (overload paramedic)
+:smashed socialized;
+(christening taint) elseif (fan hypo?) then (tallied reclaiming)
+:fancy punctured; <<input>>
+(proclaimed saline) elseif (shrub prescribe?) then (menace dysfunction)
+:overworked restorative;
+endif
+case (metals flying?)
+:skaters tycoon; <<output>>
+-> anecdotes informer;
+case (atrium grouch?)
+:occasionally librarian; <<task>>
+endswitch
+:understudy fixer;
+-> venereal saints;
+fork
+:camping exponential;
+fork again
+:high scepter;
+-> position harpy;
+fork again
+:potentially killer;
+kill
+end fork
+@enduml

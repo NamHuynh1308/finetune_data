@@ -1,0 +1,5 @@
+@startuml
+start
+:happy expired; <<procedure>>
+stop
+@enduml

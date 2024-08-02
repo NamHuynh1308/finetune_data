@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:hopefully automatically;
+split again
+-[hidden]->
+:barricade yodel; <<output>>
+-> stocking poles;
+split again
+-[hidden]->
+:invading bashed; <<procedure>>
+split again
+-[hidden]->
+:scales snitch; <<save>>
+-> wreck petroleum;
+end split
+group letting rightful
+switch (carnival radiance?)
+case (cause actor?)
+:ski tunic; <<input>>
+case (testify allegation?)
+split
+:manhunt pussycat;
+split again
+:era initial; <<load>>
+-> dissent borders;
+split again
+:shifted prattling;
+end split
+case (nerves bellman?)
+if (grandad governing?) then (hun dick)
+(socked judge) elseif (apostrophe poodles?) then (illusion salesmen)
+:indigenous driver; <<task>>
+(locals pledged) elseif (loft buzzes?) then (lagoon granola)
+:followers mountains;
+endif
+endswitch
+stop
+end group
+@enduml

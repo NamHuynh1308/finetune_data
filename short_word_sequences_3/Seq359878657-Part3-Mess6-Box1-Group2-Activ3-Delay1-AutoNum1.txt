@@ -1,0 +1,28 @@
+@startuml
+participant "strapped slurp" as 0
+participant "homicide coeds" as 1
+box "bees jumpy"
+participant "processional hatches" as 2
+end box
+== vino deadbeat ==
+autonumber 0 5
+0 -> 1++ : crafty instituted
+autonumber stop
+...sundown knowledge...
+0 -> 1: tempest infertile
+par chefs alien
+0 -\\ 1++ : spliced kibosh
+autonumber resume
+0 ->o 0: sabotaging raft
+return fungi ashore
+autonumber stop
+end
+loop deploy darkest
+2 -> 0++ : preferable mapped
+autonumber resume
+0 -\\ 2: costume bat
+return vermouth canary
+else pleasant immerse
+end
+return starters piazza
+@enduml

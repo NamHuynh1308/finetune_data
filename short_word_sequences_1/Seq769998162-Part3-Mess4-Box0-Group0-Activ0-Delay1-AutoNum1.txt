@@ -1,0 +1,16 @@
+@startuml
+participant "jo soothes" as 0
+participant "ay resolved" as 1
+participant "excesses townie" as 2
+== hats scant ==
+autonumber 6 3
+1 --> 0: yeast charcoal
+autonumber stop
+0 <-] : pac pied
+autonumber resume
+...scintillating tummy...
+1 -->x 2: cleanses whom
+autonumber stop
+1 <-] : chrome events
+autonumber resume
+@enduml

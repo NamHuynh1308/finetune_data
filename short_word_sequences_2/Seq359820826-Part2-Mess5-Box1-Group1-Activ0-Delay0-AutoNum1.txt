@@ -1,0 +1,16 @@
+@startuml
+box "resort closeted"
+participant "reverend fixing" as 0
+participant "dampened beginning" as 1
+end box
+== bluer entry ==
+autonumber 5 10
+loop our chalkboard
+1 -> 0: thus eternal
+1 -> 1: enable saffron
+end
+1 <-> 1: pertinent puck
+0 -> 0: infrared rehabilitated
+autonumber stop
+1 -> 0: fuckup nocturnal
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+box "premed tilted"
+participant "fun womanhood" as 0
+participant "mountain shotguns" as 1
+end box
+== tenants alumni ==
+0 -> 0: cynicism insist
+0 -> 0++ : importer primate
+0 -> 1!! : temperature doubted
+return nonstop owl
+@enduml

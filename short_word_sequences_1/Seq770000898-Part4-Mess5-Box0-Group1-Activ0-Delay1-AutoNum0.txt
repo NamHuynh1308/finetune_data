@@ -1,0 +1,14 @@
+@startuml
+participant "hedging quest" as 0
+participant "bookkeeper secure" as 1
+participant "operates cousin" as 2
+1 --//o 1: spell bottle
+create participant "prescribing enforced" as 3
+2 -> 3 : prescribing enforced
+ [<- 3: personalize chaotic
+...tung arrhythmia...
+2 ->x 1: migraine fetuses
+break salina embracing
+2 -// 3: heartbeat branches
+end
+@enduml

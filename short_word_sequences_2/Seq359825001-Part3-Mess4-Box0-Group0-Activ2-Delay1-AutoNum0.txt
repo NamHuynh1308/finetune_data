@@ -1,0 +1,12 @@
+@startuml
+participant "memorable analyzing" as 0
+participant "resident mingle" as 1
+participant "mercy votes" as 2
+1 -> 2: rearing folksy
+1 -// 0++ : diet architect
+0 ->> 2: trinkets tartar
+return logistics makeovers
+...arrows eat...
+0 ->o 0++ : exiting lessons
+return normally sufficient
+@enduml

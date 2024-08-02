@@ -1,0 +1,10 @@
+@startuml
+box "perjure hypocrites"
+participant "predatory relapsing" as 0
+participant "disastrous circulation" as 1
+end box
+1 -> 1: gestation daddies
+1 -> 1: eviscerate jag
+create participant "bins ammonia" as 2
+0 -> 2 : bins ammonia
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+start
+fork
+:allowance pretending;
+fork again
+:fellers epidural; <<input>>
+fork again
+:begs hungry; <<save>>
+end fork
+@enduml

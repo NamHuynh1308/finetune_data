@@ -1,0 +1,8 @@
+@startuml
+group sunblock constraints
+:bulletins significantly; <<input>>
+:adjusted wuthering; <<input>>
+-> miscalculated flipped;
+end group
+stop
+@enduml

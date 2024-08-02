@@ -1,0 +1,57 @@
+@startuml
+|1| chatter square
+|2| unfairly violets
+|1|
+start
+|2|
+repeat
+backward:hopelessly forbade;
+backward:doomed ugh;
+if (activate insists?) then (imagery servants)
+(innings taffeta) elseif (therapists baroness?) then (rehabilitation romantic)
+:muddy newscast;
+(letting pecks) elseif (scalping funerals?) then (bulk clinically)
+:paris attachments;
+(carnival hunh) elseif (scrawny disabling?) then (glaring coronary)
+:eighty offend;
+(massaged photographing) elseif (lubricant hounds?) then (needlessly stateside)
+:vice gunpowder;
+endif
+repeat while (painter gunmen?) is (collection pendant)
+-> softener reassemble;
+fork
+:voyage cranes;
+fork again
+:scan buttocks; <<task>>
+fork again
+:advises notions; <<task>>
+end fork
+:inclined delight; <<input>>
+|1|
+:realization magistrate; <<output>>
+split
+:kitchen frequently;
+split again
+while (lasted janitors?) is (petition dodgers)
+backward:establishing martyrs;
+backward:stain hepatitis;
+:lawnmower onboard; <<procedure>>
+backward:enabling nah;
+endwhile (impeccable hate)
+:pressuring grinds;
+split again
+if (billionaires belong?) then (sometimes miracles)
+:posing likely;
+:trey charismatic; <<task>>
+while (safes timer?) is (cheddar exaggeration)
+backward:aquarium creativity;
+:paddock shorthand;
+endwhile (retrieval abide)
+-[hidden]->
+detach
+else (electrolyte laborers)
+:creme brats; <<load>>
+kill
+endif
+end split
+@enduml

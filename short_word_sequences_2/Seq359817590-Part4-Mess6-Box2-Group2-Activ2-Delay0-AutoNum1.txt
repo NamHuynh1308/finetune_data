@@ -1,0 +1,26 @@
+@startuml
+participant "recanted reacquainted" as 0
+box "whether saltwater"
+participant "flyer history" as 1
+participant "skateboard tries" as 2
+end box
+box "cuter nominees"
+participant "fleece jumbled" as 3
+end box
+== restroom ran ==
+autonumber 1 9
+2 ->o 0++ : legacy marveling
+1 -->x 0: ingested videos
+alt tetanus wiping
+1 <-] : rescheduled raider
+return cargo crammed
+opt weenie fiercest
+0 ->] : hostel population
+autonumber stop
+0 -> 3++ : zipping citations
+ [-> 1: hopeful tab
+else dredging pawnshop
+end
+end
+return referendums yummy
+@enduml

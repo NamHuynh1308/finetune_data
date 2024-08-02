@@ -1,0 +1,13 @@
+@startuml
+participant "defender leotard" as 0
+participant "thee wheeler" as 1
+participant "relaxes versatile" as 2
+participant "systematically liberal" as 3
+3 ->> 3: memo recount
+0 -> 0!! : ovulating learned
+ [-> 0: unfunny vessels
+2 ->] : tangling refreshments
+alt busy croak
+3 <-> 0: haste mache
+end
+@enduml

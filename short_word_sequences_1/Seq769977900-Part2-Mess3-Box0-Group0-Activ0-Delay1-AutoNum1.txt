@@ -1,0 +1,10 @@
+@startuml
+participant "baba hilt" as 0
+participant "telegraph cosmos" as 1
+autonumber 2 10
+1 --//o 0: accused disapproved
+...flinching servers...
+1 <-] : farewells warheads
+autonumber stop
+0 ->> 1: patients hints
+@enduml

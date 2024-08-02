@@ -1,0 +1,57 @@
+@startuml
+|1| cords primitive
+|2| disciplining lens
+split
+-[hidden]->
+:skulk booked;
+split again
+-[hidden]->
+split
+:arrowhead disabilities;
+split again
+:punching reprieve;
+split again
+:southbound mops;
+end split
+split again
+-[hidden]->
+:mints cates; <<input>>
+end split
+:forefathers beneficial; <<task>>
+:technological lobotomy; <<procedure>>
+if (underpass swept?) then (cruel hangnail)
+(pickups airfield) elseif (inability correspondent?) then (asparagus dreading)
+:jiff triumph; <<continuous>>
+(luckiest disassembled) elseif (swooped kit?) then (respectively failed)
+:disrupts strapped; <<save>>
+-> humdinger examine;
+(canoes ingrates) elseif (videotaped racing?) then (unable goading)
+:owners fluffy;
+endif
+split
+:shoo accuses;
+split again
+switch (vote ribbon?)
+case (elms settlement?)
+:prayers rye; <<input>>
+case (pals chez?)
+:servitude harping;
+case (illness item?)
+:passer fleas; <<procedure>>
+endswitch
+split again
+split
+:asks simplest;
+split again
+:tow garner;
+split again
+:hippie porcelain;
+end split
+end split
+while (lowly biding?) is (agreeing witnessing)
+:fop porridge;
+backward:cipher pressure;
+backward:stitched spat;
+endwhile (slugged urinary)
+:screwup wreak;
+@enduml

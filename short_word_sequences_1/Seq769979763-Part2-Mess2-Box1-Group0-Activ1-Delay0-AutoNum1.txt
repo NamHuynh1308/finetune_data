@@ -1,0 +1,12 @@
+@startuml
+box "haunting goldfish"
+participant "mules criminal" as 0
+end box
+== explorer hankie ==
+autonumber 2 7
+0 --//o 0++ : cite aspects
+autonumber stop
+create participant "impound panda" as 1
+0 -> 1 : impound panda
+return splicing married
+@enduml

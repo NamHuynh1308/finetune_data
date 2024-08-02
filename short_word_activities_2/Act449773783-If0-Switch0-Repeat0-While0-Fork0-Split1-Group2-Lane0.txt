@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:cage doused;
+split again
+-[hidden]->
+:bumbling dinged; <<input>>
+split again
+-[hidden]->
+:uphill retinas;
+-> archeology misunderstood;
+split again
+-[hidden]->
+:funds pachyderm; <<output>>
+end split
+group challenged utilities
+:musketeers petal;
+group thereof sleek
+:dreamer moo; <<input>>
+-> chaperon seascape;
+stop
+end group
+end group
+@enduml

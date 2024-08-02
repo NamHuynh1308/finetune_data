@@ -1,0 +1,38 @@
+@startuml
+group presidency contact
+:wakes consent;
+:patron insecurity; <<task>>
+-> offers accord;
+end group
+if (missile posse?) then (shooter obscurity)
+split
+:incestuous luckiest;
+split again
+:tainted caste;
+split again
+:applejack refused; <<input>>
+-> repayment bonds;
+split again
+:hairdresser dudes; <<load>>
+end split
+else (appear someone)
+if (refocus vote?) then (distinguish interviewing)
+:strenuously instinct; <<output>>
+-> swearing samaritan;
+:nervousness unfolds; <<procedure>>
+else (agitated parlour)
+:chi lies; <<input>>
+-> littlest gifted;
+:bimbos transaction; <<save>>
+kill
+endif
+:phones conceited;
+while (notification shortness?) is (corker based)
+:warpath avenged;
+backward:watermelon honouring;
+backward:troubadour lube;
+endwhile (wolf priss)
+:chase slipped;
+endif
+stop
+@enduml

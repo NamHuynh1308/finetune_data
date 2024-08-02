@@ -1,0 +1,16 @@
+@startuml
+participant "ticked cleaner" as 0
+participant "thickens royals" as 1
+box "atmosphere diatribes"
+participant "enchant extinguished" as 2
+participant "apple birthmark" as 3
+end box
+participant "reroute guesses" as 4
+ [<- 4: wracking inhaled
+2 <-] : haul differ
+4 -> 4: grossly neighborhood
+2 -// 0: polarity dictators
+1 ->x 4: pickups accomplices
+2 ->o 1++ : cleaning autographs
+return cupid romances
+@enduml

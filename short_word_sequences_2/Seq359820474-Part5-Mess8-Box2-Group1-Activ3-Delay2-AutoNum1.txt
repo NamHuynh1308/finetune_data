@@ -1,0 +1,27 @@
+@startuml
+box "lesson nobility"
+participant "lockers shoveling" as 0
+box "warped artichoke"
+participant "interacting kittens" as 1
+participant "sneezing islanders" as 2
+participant "swimmers posted" as 3
+participant "sapphires tub" as 4
+end box
+end box
+autonumber 4 2
+3 -// 1++ : tipper helps
+1 ->] : valued inhuman
+1 ->> 4++ : membranes trusted
+...skis mahatma...
+4 -> 0: loom conditioners
+return sleepyhead claws
+ [<- 0: slipped donation
+0 -> 0: correspond evident
+...roofer scarlet...
+0 -> 2++ : mythical delegate
+alt abducted thrice
+0 ->> 0: canoe cuticle
+return shuttle outdoorsy
+end
+return prostate prose
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+start
+if (outgoing yeller?) then (myself institution)
+fork
+:scouting intoxication;
+fork again
+:beater melted; <<output>>
+-> wheeze advanced;
+fork again
+:reopening boulder; <<output>>
+fork again
+:caramel council; <<output>>
+-> palace mite;
+end merge
+else (cliff smears)
+while (versed sores?) is (keeping splashing)
+:regrets chestnuts;
+:asphalt dismantle;
+-> minding blur;
+:tops insinuations; <<continuous>>
+endwhile (wring mystifying)
+:fella succeed;
+endif
+end
+@enduml

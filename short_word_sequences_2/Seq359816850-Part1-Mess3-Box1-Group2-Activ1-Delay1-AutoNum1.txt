@@ -1,0 +1,17 @@
+@startuml
+box "workshop kelp"
+participant "untie seniors" as 0
+end box
+== intuition highlighters ==
+autonumber 1 9
+break level label
+0 -> 0++ : waving stalk
+autonumber stop
+par psychologists answering
+0 --//o 0: moose mead
+return irrigate benching
+...ordeal promoted...
+0 -> 0: owls protect
+end
+end
+@enduml

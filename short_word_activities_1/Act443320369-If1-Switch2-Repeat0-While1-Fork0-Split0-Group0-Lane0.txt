@@ -1,0 +1,32 @@
+@startuml
+switch (buzzing troubling?)
+case (tempers summarize?)
+switch (scholarship hissed?)
+case (heights landscape?)
+:work musical; <<save>>
+-> truck wimp;
+case (menstrual indescribable?)
+:linens snatcher;
+case (cris unfolding?)
+:plaintiff ranch;
+endswitch
+case (dozer debit?)
+if (pants raven?) then (recession lunatics)
+:snore taffeta;
+:rang nails;
+-> investing businesswomen;
+:skate squall;
+else (reassemble plait)
+:halo silly;
+:sorts loyalties;
+:coercion concocting;
+while (patio nauseous?) is (promises wig)
+:leaf tyrant; <<output>>
+-> blanks nicks;
+endwhile (decorator leaked)
+-[hidden]->
+detach
+endif
+endswitch
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+|1| odor tiresome
+|2| molecules outgrow
+|1|
+start
+|2|
+:take stations; <<load>>
+|1|
+:naught rising; <<save>>
+-> kielbasa sheriff;
+|2|
+:coo dreamers; <<load>>
+-> mud pilgrim;
+@enduml

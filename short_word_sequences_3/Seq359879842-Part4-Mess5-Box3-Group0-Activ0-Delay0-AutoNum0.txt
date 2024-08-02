@@ -1,0 +1,18 @@
+@startuml
+box "carrier humidity"
+participant "according robots" as 0
+box "rumours role"
+participant "totals obsolete" as 1
+participant "wrecker studied" as 2
+end box
+box "romantically racial"
+participant "firearms javelin" as 3
+end box
+end box
+== crackers groundwork ==
+0 <-> 0: sleepy hypodermic
+1 -> 2: hammered whittling
+0 ->x 3: invite divine
+ [<- 2: risks requirement
+2 --> 1: rotating doodle
+@enduml

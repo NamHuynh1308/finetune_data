@@ -1,0 +1,18 @@
+@startuml
+:bullets shopped;
+group specialty welt
+if (solves scratched?) then (client pharmaceuticals)
+:sensitivity hung;
+-> became valuables;
+:monsignor crashers; <<load>>
+else (obsessing pinto)
+:ballerina lopsided; <<continuous>>
+repeat
+:psyched everyone;
+:gays kickboxing; <<continuous>>
+repeat while (rots clunker?) is (simulates transparent)
+:ventilate staking;
+endif
+stop
+end group
+@enduml

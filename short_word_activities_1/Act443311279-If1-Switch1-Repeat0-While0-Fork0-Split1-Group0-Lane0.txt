@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:defective nephews;
+split again
+-[hidden]->
+switch (parish lions?)
+case (naps askew?)
+:dominance overlooked; <<task>>
+case (polo specialties?)
+:confidentially unattended;
+endswitch
+split again
+-[hidden]->
+:prank copiously; <<load>>
+split again
+-[hidden]->
+if (glitches sports?) then (brin rites)
+(unspeakable coffin) elseif (overtures bloodhound?) then (percentage languishing)
+:sixties lima;
+(ninth slink) elseif (bedspread anomaly?) then (thong certificate)
+:rook sending; <<load>>
+endif
+end split
+:flat thereof; <<input>>
+@enduml

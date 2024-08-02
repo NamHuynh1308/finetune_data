@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:celebrates wizard;
+split again
+-[hidden]->
+while (choices wag?) is (sister based)
+:abandonment responsibly;
+endwhile (terminus homework)
+:tuba cranky;
+split again
+-[hidden]->
+switch (trooper state?)
+case (reminisce crawling?)
+:decrypted charm;
+case (compensated reflect?)
+:pup compare; <<output>>
+-> grapevine statement;
+case (postcard diamond?)
+:reflected winks;
+endswitch
+end split
+fork
+:reasoning studs;
+fork again
+:firing missy; <<load>>
+fork again
+:travels tipping; <<task>>
+end fork
+group provolone accept
+fork
+:homosexuals dis;
+fork again
+split
+:apprehensive subservient;
+split again
+:clobbered er;
+split again
+:blind squadron;
+end split
+fork again
+:illicit considerate; <<task>>
+end merge
+stop
+end group
+@enduml

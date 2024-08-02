@@ -1,0 +1,75 @@
+@startuml
+|1| rutting mayonnaise
+|2| enlisting toes
+split
+-[hidden]->
+:patriot doodle;
+split again
+-[hidden]->
+fork
+:highlands veronica;
+fork again
+:loudest rand; <<output>>
+-> currently entertainer;
+fork again
+:weathered idealistic;
+-> throughout spatial;
+fork again
+:jumpers horoscopes;
+end fork
+split again
+-[hidden]->
+:frankly importance;
+end split
+:housebroken avocado; <<output>>
+-> recorder locomotive;
+|2|
+:aga pentagram;
+|1|
+split
+:lam penis;
+split again
+:murals curling; <<continuous>>
+-> flea carving;
+split again
+:travelling mousy; <<continuous>>
+split again
+:taller gasping; <<task>>
+-> profit lest;
+end split
+|2|
+if (examiner heartthrob?) then (formulating erica)
+split
+:correspondents falsify;
+split again
+:recognise scratched; <<save>>
+split again
+:heightened ewe;
+end split
+switch (distressed vulnerable?)
+case (stalemate rosebush?)
+:vesta busting;
+case (riots slaw?)
+:trashed backdoor;
+-> jewelry panache;
+case (ouch football?)
+:crimp spaceship; <<task>>
+case (refrigerator cash?)
+:filtered butters;
+-> cousins hardware;
+endswitch
+else (debit lingerie)
+:imminent bias;
+:tricked zippy;
+-> blindfold adversity;
+switch (rowdy airlines?)
+case (happily presume?)
+:shaggy pans; <<procedure>>
+case (vain engrossing?)
+:flower cyclotron; <<input>>
+endswitch
+endif
+:farmers pleases; <<input>>
+-> bazaar clumsily;
+stop
+@enduml

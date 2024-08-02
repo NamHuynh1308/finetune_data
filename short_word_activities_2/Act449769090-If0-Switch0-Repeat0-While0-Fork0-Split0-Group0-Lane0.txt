@@ -1,0 +1,6 @@
+@startuml
+:programmer fatalities; <<continuous>>
+-> fulfillment pipeline;
+:narcotics drinkers;
+stop
+@enduml

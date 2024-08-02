@@ -1,0 +1,10 @@
+@startuml
+box "bullheaded inspection"
+participant "induced named" as 0
+participant "fronts signal" as 1
+end box
+create participant "english viruses" as 2
+1 -> 2 : english viruses
+0 ->x 2++ : weathered champagne
+return amongst beige
+@enduml

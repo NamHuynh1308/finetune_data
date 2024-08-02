@@ -1,0 +1,25 @@
+@startuml
+participant "evaluation comet" as 0
+participant "devon precludes" as 1
+participant "troops hygienist" as 2
+== craving bluster ==
+autonumber 6 1
+loop taunt hostess
+0 <-] : showcase idol
+autonumber stop
+0 -> 2!! : nomad painter
+opt absentee manicures
+create participant "chickenshit miffed" as 3
+2 -> 3 : chickenshit miffed
+autonumber resume
+2 ->] : complaint jokes
+autonumber stop
+1 --> 3++ : snicker openers
+autonumber resume
+else silk airlift
+1 -> 2++ : satisfies fragile
+end
+end
+return flighty complicated
+return confinement identical
+@enduml

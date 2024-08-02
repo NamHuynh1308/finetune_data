@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:reboot receding;
+split again
+-[hidden]->
+:speakers haul; <<procedure>>
+-> demographics stranded;
+split again
+-[hidden]->
+:register presented; <<output>>
+-> cities manipulate;
+split again
+-[hidden]->
+split
+:catching lashes;
+split again
+:haberdashery overbearing; <<task>>
+split again
+:endorsement lambs; <<save>>
+end split
+end split
+:runny snooty;
+:stringing hallelujah;
+-> limey soprano;
+:crank offended;
+-> lambda rung;
+stop
+@enduml

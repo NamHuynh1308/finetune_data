@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:trattoria land;
+split again
+-[hidden]->
+:city handshake; <<input>>
+split again
+-[hidden]->
+:aggravated blackout; <<continuous>>
+-> curse emphatically;
+end split
+if (midst pulmonary?) then (transfers narcissist)
+:joke panhandle; <<output>>
+-> globes broomstick;
+else (sail integration)
+:mirror bionic; <<continuous>>
+-> dullard snow;
+endif
+fork
+:battle dispensing;
+fork again
+split
+:sift cleaner;
+split again
+:persecuting sank;
+split again
+:distrustful distraction;
+end split
+fork again
+:upgraded creamed; <<procedure>>
+fork again
+:fought chemo; <<continuous>>
+end fork
+:detention expecting;
+@enduml

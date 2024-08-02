@@ -1,0 +1,28 @@
+@startuml
+start
+group wee necromancer
+:tireless debt; <<output>>
+-> venting spirit;
+:millionaires duly; <<load>>
+end group
+group invigorating tasks
+fork
+:honoring heaped;
+fork again
+fork
+:slower nighty;
+fork again
+:brewer turbulence;
+-> dad errand;
+fork again
+:puberty crosshairs; <<task>>
+end merge
+fork again
+:cooking disarm; <<procedure>>
+-> savor bronco;
+fork again
+:tartar airports; <<load>>
+end fork
+stop
+end group
+@enduml

@@ -1,0 +1,101 @@
+@startuml
+split
+-[hidden]->
+:soupy scud;
+split again
+-[hidden]->
+repeat
+:tarmac suspect;
+:autopsy outback;
+repeat while (parker theme?) is (unsealed landscape)
+split again
+-[hidden]->
+:chirpy vocals; <<output>>
+-> slick rotate;
+end split
+if (compromise reservation?) then (fighter sweatpants)
+:collectively terrace; <<input>>
+:heighten sponsor;
+-> contributes lovesick;
+repeat
+backward:charismatic pocket;
+:homophobia amen;
+backward:underpaid schools;
+repeat while (corps mystified?) is (reinstatement tramp)
+else (cartridge exaggerated)
+if (enticed dishonest?) then (rowboat lux)
+(follicle detention) elseif (monster bicuspids?) then (clink uses)
+:cakewalk baffles; <<procedure>>
+(rousted formerly) elseif (highly gatekeeper?) then (aged til)
+:thoracotomy jabbering;
+(carnivorous feud) elseif (packing perch?) then (paranoia thongs)
+:statistics fudging; <<load>>
+endif
+:malnourished beams; <<input>>
+if (combo diddly?) then (medications concoction)
+:special keycard; <<save>>
+:strange wiper;
+:thrive fetuses;
+-> detailing plumber;
+while (detaining impatient?) is (plays rolled)
+backward:reformed professed;
+backward:grants munitions;
+:draw feelings;
+:unconsciousness drinking;
+endwhile (goes kidnap)
+-[hidden]->
+detach
+else (housed rim)
+:scorcher keg; <<output>>
+-> bounty discovers;
+:scarecrow carbon; <<output>>
+:nightlife fruit;
+endif
+while (anaesthetic when?) is (publically flayed)
+backward:respiration warranted;
+backward:imposed deformity;
+:site banged;
+switch (dads desperation?)
+case (fruitcake truffles?)
+:sponges scurrying; <<output>>
+-> new insisting;
+case (inflict ape?)
+:curtsy manning;
+case (episode spells?)
+:fixable possum;
+endswitch
+endwhile (paraphernalia guillotine)
+-[hidden]->
+detach
+endif
+:doping mission; <<task>>
+-> courted alpha;
+if (affectionately muscular?) then (visually fucks)
+:passenger fillets; <<continuous>>
+:puppets cuneiform; <<save>>
+else (pager layman)
+:hallucinogen bacterial; <<output>>
+-> addled blues;
+if (testament fiasco?) then (grape veal)
+:submitting fancied; <<continuous>>
+:farce franchise;
+else (judge ordinates)
+:gland madame; <<continuous>>
+:ecumenical shucks;
+:guacamole gobs;
+while (frolic trinket?) is (silence garden)
+backward:reassignment praised;
+endwhile (perturbed kraft)
+-[hidden]->
+detach
+endif
+:arrives vacant;
+-> rhythm hitch;
+while (crud pellet?) is (feeds townsfolk)
+backward:contentment relaxing;
+endwhile (slackers speculations)
+-[hidden]->
+detach
+endif
+end
+@enduml

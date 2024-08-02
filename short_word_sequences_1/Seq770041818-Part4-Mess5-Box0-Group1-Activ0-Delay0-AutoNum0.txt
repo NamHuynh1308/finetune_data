@@ -1,0 +1,15 @@
+@startuml
+participant "clients hopelessly" as 0
+participant "marginally shaken" as 1
+== chapel happiness ==
+1 <-> 0: rhythms conducts
+0 -> 0: genre abstract
+par spark yielding
+0 -\\ 1: shook intros
+create participant "sanitarium springs" as 2
+1 -> 2 : sanitarium springs
+else cardiologist nun
+create participant "redeem wise" as 3
+2 -> 3 : redeem wise
+end
+@enduml

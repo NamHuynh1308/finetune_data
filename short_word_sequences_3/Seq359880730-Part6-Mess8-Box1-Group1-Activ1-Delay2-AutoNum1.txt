@@ -1,0 +1,27 @@
+@startuml
+participant "facials lull" as 0
+box "bartender refined"
+participant "gum velocity" as 1
+participant "dribble cupid" as 2
+participant "rags charming" as 3
+end box
+participant "disillusioned dashed" as 4
+== popular aim ==
+autonumber 5 5
+0 <-> 2: theory balances
+2 --> 3++ : rick contradiction
+...tho pissant...
+0 -> 0: combative twits
+autonumber stop
+create participant "nautical imbecilic" as 5
+0 -> 5 : nautical imbecilic
+return winded clockwork
+break overruled inflict
+5 -->x 3: devastatingly grubbing
+2 -> 0: liars installment
+4 -> 0: symbolically tango
+autonumber resume
+...sagging taffeta...
+1 -\\ 0: garish spindly
+end
+@enduml

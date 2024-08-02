@@ -1,0 +1,31 @@
+@startuml
+|1| depriving painters
+|2| triumph importer
+split
+-[hidden]->
+:thumb members;
+split again
+-[hidden]->
+:fictional nutty;
+kill
+split again
+-[hidden]->
+:testing edge; <<task>>
+split again
+-[hidden]->
+:unforgiving stingray; <<save>>
+end split
+|2|
+:multiplied insignificant;
+fork
+:forgettable sleepovers;
+fork again
+:sabbatical drivers; <<continuous>>
+fork again
+:foyer ort; <<save>>
+end merge
+|1|
+:formulas fudging; <<task>>
+-> billy fonder;
+end
+@enduml

@@ -1,0 +1,75 @@
+@startuml
+split
+-[hidden]->
+:bosom browsing;
+split again
+-[hidden]->
+:icicle boiler; <<procedure>>
+split again
+-[hidden]->
+fork
+:superhero knocks;
+fork again
+:residing disciplines;
+while (woe reiterate?) is (funnies tubs)
+backward:electricians time;
+endwhile (shale crammed)
+-[hidden]->
+detach
+fork again
+:stroke penitentiary;
+fork again
+:railroading skillful;
+-> clots eking;
+end fork
+split again
+-[hidden]->
+while (riverbank oversized?) is (johns selections)
+:sex anthrax; <<output>>
+-> set kidnapper;
+backward:chemically cozying;
+endwhile (speakeasy accommodate)
+:adoption midgets;
+end split
+group mislead guide
+if (sipping breeding?) then (plucking craziness)
+(informal rue) elseif (fugitive reread?) then (nineties epidemic)
+repeat
+backward:dealt burgeoning;
+repeat while (unprincipled greener?) is (firewood astounding)
+-> contaminating applauding;
+(shown aunts) elseif (supple damned?) then (cowardly deadbeats)
+:headphones prelim; <<procedure>>
+endif
+if (froufrou prone?) then (whittle lemonade)
+fork
+:gelatin mini;
+fork again
+:haggis unavailable;
+fork again
+:squares harriers;
+end merge
+repeat
+backward:fraternity agricultural;
+backward:alarmed unsealed;
+:extort springing;
+repeat while (recorders risked?) is (smeared formulas)
+repeat
+:fa steady; <<continuous>>
+-> write crusty;
+repeat while (floated jingling?) is (container finishes)
+-> hats seeds;
+else (quitting duplicate)
+fork
+:koss kidney;
+fork again
+:tummy butterfly; <<continuous>>
+fork again
+:impromptu intrusion; <<procedure>>
+fork again
+:blacksmith only;
+end fork
+endif
+stop
+end group
+@enduml

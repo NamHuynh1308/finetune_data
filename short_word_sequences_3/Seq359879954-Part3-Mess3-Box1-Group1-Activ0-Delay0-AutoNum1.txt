@@ -1,0 +1,13 @@
+@startuml
+participant "queens firsthand" as 0
+participant "commits millions" as 1
+box "sutra treats"
+participant "nite cerebral" as 2
+end box
+autonumber 3 1
+ [<- 1: witchy chains
+0 -> 2: currents wrecks
+critical voodoo improved
+0 -> 2: trumps robbery
+end
+@enduml

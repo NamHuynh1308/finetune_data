@@ -1,0 +1,16 @@
+@startuml
+participant "critics biff" as 0
+box "disposal daredevil"
+participant "demeaning bio" as 1
+participant "dodge gen" as 2
+end box
+autonumber 2 3
+1 -> 0: failed cinema
+ [-> 2: jeopardy melodramatic
+1 ->o 0: artistic poor
+2 -\\ 0: concentrate spoils
+autonumber stop
+...counseling terminus...
+0 ->] : contest divine
+1 ->] : squire twitchy
+@enduml

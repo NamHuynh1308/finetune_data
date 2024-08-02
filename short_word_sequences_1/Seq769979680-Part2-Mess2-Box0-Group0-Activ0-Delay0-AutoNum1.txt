@@ -1,0 +1,7 @@
+@startuml
+participant "smorgasbord chihuahua" as 0
+participant "sided context" as 1
+autonumber 2 2
+1 --> 1: lemmings obsession
+1 ->] : years tramps
+@enduml

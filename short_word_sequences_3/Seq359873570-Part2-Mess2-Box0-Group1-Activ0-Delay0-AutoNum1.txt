@@ -1,0 +1,9 @@
+@startuml
+participant "suspects jamming" as 0
+participant "chopsticks gracefully" as 1
+autonumber 4 10
+0 -// 0: tallied mystic
+critical karat paperwork
+ [<- 0: moods stillness
+end
+@enduml

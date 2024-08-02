@@ -1,0 +1,6 @@
+@startuml
+:crematorium marten; <<input>>
+:palmer phones; <<load>>
+-> talents gob;
+end
+@enduml

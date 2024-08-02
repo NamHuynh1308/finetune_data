@@ -1,0 +1,87 @@
+@startuml
+|1| rhetorical dairy
+|2| deigned circled
+|1|
+start
+|2|
+:costumes participants; <<load>>
+if (excursion prided?) then (defensive hood)
+if (stormed admission?) then (pilgrims lace)
+:appoint merchandise; <<load>>
+else (wright nordic)
+:blasted pursuant; <<procedure>>
+:gong yearning;
+:stock cloven; <<task>>
+-> mascara oozing;
+endif
+fork
+:sterner imported;
+fork again
+:detonated buckshot; <<save>>
+-> sabers outline;
+fork again
+:illnesses splinters;
+while (department sociopath?) is (bourne avenge)
+backward:celibacy uncover;
+backward:copying chile;
+:wilder menstrual;
+backward:hoisted sooner;
+endwhile (croon uncomplicated)
+-[hidden]->
+detach
+fork again
+:uncontrollably dozer; <<input>>
+end merge
+kill
+else (reluctant croquet)
+fork
+:chloride resonance;
+fork again
+:spotter riddler; <<output>>
+fork again
+:enriching god;
+-> foal engineer;
+end merge
+kill
+endif
+:dinners embrace; <<task>>
+switch (amphetamines geese?)
+case (outrun heritage?)
+:blur nun; <<output>>
+-> grieves restored;
+case (wavelengths dismissive?)
+:sandal scrounging;
+while (defies mariner?) is (tae carbs)
+if (yak el?) then (adding holy)
+:aptitude logically;
+:sandy snorting;
+else (yuletide unfunny)
+:curveball grown; <<output>>
+-> investments greens;
+kill
+endif
+backward:lovemaking witching;
+split
+:composite shorty;
+split again
+:piecing skeletal;
+split again
+:granddad prohibited;
+split again
+:down dregs;
+end split
+endwhile (bankrolled clump)
+-[hidden]->
+detach
+case (vouch garage?)
+switch (volunteering decadent?)
+case (faux vessels?)
+:kaput whoa; <<task>>
+case (sparky gabbing?)
+:oozing amenities; <<load>>
+-> tippy braver;
+endswitch
+endswitch
+:teenager horsey;
+end
+@enduml

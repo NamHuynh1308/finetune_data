@@ -1,0 +1,13 @@
+@startuml
+participant "convention chigger" as 0
+participant "windbag voted" as 1
+alt shoe penalty
+0 -\\ 0: socks restrict
+...chassis patrons...
+1 -> 0!! : jailhouse bars
+else reshoots costa
+opt authorizing nodes
+ [-> 0: flan polished
+end
+end
+@enduml

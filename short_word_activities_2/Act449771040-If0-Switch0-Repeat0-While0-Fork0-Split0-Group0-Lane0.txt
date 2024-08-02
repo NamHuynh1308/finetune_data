@@ -1,0 +1,8 @@
+@startuml
+start
+:yak zeroes;
+-> linen caretaker;
+:retained replaced;
+:disinformation centuries; <<load>>
+stop
+@enduml

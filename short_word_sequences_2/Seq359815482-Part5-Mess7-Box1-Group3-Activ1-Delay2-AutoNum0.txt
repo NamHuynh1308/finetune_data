@@ -1,0 +1,25 @@
+@startuml
+participant "fugu attachments" as 0
+participant "bakeries hummed" as 1
+box "corporeal digestive"
+participant "soccer screaming" as 2
+participant "basement dotted" as 3
+participant "estimation dreamless" as 4
+end box
+opt arrival drunk
+4 -\\ 0++ : caramel incinerated
+2 -\\ 0: drug oak
+return mimosas rabbits
+end
+...gynecologist lunchtime...
+ [<- 1: horseradish auger
+4 ->] : run dang
+par burgundy passage
+0 -> 2: worthy revere
+loop gratuitous differs
+...myrtle luminous...
+2 ->x 3: blowjobs squirrel
+4 -> 2: distraught feisty
+end
+end
+@enduml

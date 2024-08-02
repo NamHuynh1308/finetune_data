@@ -1,0 +1,21 @@
+@startuml
+participant "interviews rags" as 0
+participant "arrogant unleaded" as 1
+participant "shoal compartments" as 2
+participant "blossom exhume" as 3
+1 -> 3++ : proud tidal
+2 -> 3++ : soothe swim
+...squawk coolant...
+3 -> 1: significant mosquitoes
+3 --//o 2++ : representing handle
+1 <-] : greetings coasting
+...concoction childbirth...
+ [-> 0: noted telegram
+2 -> 0: processes britt
+return refocus coupons
+loop feather salamander
+3 <-> 0: hammered appreciate
+end
+return tween adamant
+return whiny fiddle
+@enduml

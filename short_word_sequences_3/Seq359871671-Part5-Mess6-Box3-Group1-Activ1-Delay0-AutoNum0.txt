@@ -1,0 +1,24 @@
+@startuml
+participant "childlike saliva" as 0
+participant "cheeks inscrutable" as 1
+box "godlike primates"
+participant "snapshots doctors" as 2
+box "reactors greed"
+participant "virginal polling" as 3
+box "leafs frozen"
+participant "rudely costumes" as 4
+end box
+end box
+end box
+== redeeming trade ==
+0 ->o 0: pumping oven
+alt girly swoop
+0 -> 4: immaculate fairest
+1 <-> 1: elegance doctors
+4 ->o 2: nervousness emancipation
+else eyesight panel
+4 ->> 4: virtuoso detach
+0 -> 1++ : barely councillor
+end
+return shared pretend
+@enduml

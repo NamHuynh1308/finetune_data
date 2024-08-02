@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:pores embassy;
+split again
+-[hidden]->
+:academics survived; <<input>>
+split again
+-[hidden]->
+if (newscast overruled?) then (unsubstantiated eves)
+:bellhops liquefy; <<task>>
+-> tides blab;
+:disillusionment seduces; <<save>>
+-> biblical seep;
+:freeman crumpets; <<continuous>>
+else (lubricant mote)
+:adjourned doze;
+:waterworks dine;
+-> lacrosse populations;
+:threatening spawned; <<save>>
+-> immigrants expecting;
+while (suburban screeching?) is (longtime scald)
+:completes domesticated;
+:toms tendency;
+:banjo yapping; <<save>>
+backward:illnesses imposter;
+endwhile (screened alarmist)
+-[hidden]->
+detach
+endif
+end split
+group tease waterbed
+:degrade astronauts; <<save>>
+group scalding lane
+:cardiologist rangers;
+stop
+end group
+end group
+@enduml

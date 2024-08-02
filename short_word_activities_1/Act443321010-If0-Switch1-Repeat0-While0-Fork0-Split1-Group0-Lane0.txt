@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:consolidated pals;
+split again
+-[hidden]->
+switch (imperfections satellite?)
+case (mighty ignite?)
+:presuming built;
+-> frayed dicks;
+case (beau concealer?)
+:trimester announcing; <<task>>
+-> motivations roped;
+case (espresso dweeb?)
+:biology unscheduled; <<save>>
+-> massaging dinky;
+case (businessman brew?)
+:kent pittance;
+endswitch
+split again
+-[hidden]->
+:uncles mumbling; <<continuous>>
+end split
+:let damaging; <<output>>
+:takedown sensor; <<load>>
+-> enlist corps;
+stop
+@enduml

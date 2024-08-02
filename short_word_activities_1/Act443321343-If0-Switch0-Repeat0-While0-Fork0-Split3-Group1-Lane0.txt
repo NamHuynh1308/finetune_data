@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:spoil upped;
+split again
+-[hidden]->
+:relaxation reprimand;
+split again
+-[hidden]->
+split
+:pleasantries radically;
+split again
+:taste schmo;
+split again
+:periodic prostate;
+split again
+:ensued shown; <<output>>
+end split
+split again
+-[hidden]->
+split
+:bagging theft;
+split again
+:explicit cad;
+split again
+:farmhouse retain;
+end split
+end split
+group meetings cedars
+:suspend robbins;
+-> diatribes made;
+:antiquated boundary; <<procedure>>
+stop
+end group
+@enduml

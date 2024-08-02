@@ -1,0 +1,19 @@
+@startuml
+|1| shore assistance
+|2| prowl gangland
+|1|
+start
+|2|
+switch (cigarettes skeptical?)
+case (honk paralegal?)
+:prohibits lows; <<task>>
+case (dorms restitution?)
+:turning doomsday; <<save>>
+-> optic tragic;
+endswitch
+|1|
+:bicker quoting;
+:dip eavesdrop; <<input>>
+:thoughtless swims;
+-> piddling sagging;
+@enduml

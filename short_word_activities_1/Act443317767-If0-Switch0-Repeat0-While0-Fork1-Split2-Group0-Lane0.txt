@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:earful frosting;
+split again
+-[hidden]->
+split
+:fitted cleans;
+split again
+:classier ransack; <<save>>
+split again
+:trailing culmination;
+split again
+:hm cocky;
+end split
+split again
+-[hidden]->
+:dusky reciprocal; <<task>>
+split again
+-[hidden]->
+:flooded statesmen; <<input>>
+-> commissioned pulsating;
+end split
+fork
+:actors riddle;
+fork again
+:womanizer mod; <<save>>
+-> terrify victoria;
+fork again
+:liter presumptuous; <<output>>
+end merge
+:scorcher stymied; <<continuous>>
+-> accursed blubber;
+@enduml

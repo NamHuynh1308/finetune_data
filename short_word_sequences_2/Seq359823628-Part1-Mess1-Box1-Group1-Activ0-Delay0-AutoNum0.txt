@@ -1,0 +1,9 @@
+@startuml
+box "chemist fathers"
+participant "avoiding surrendering" as 0
+end box
+== rolling mat ==
+alt beg upset
+0 -> 0: diarrhea whence
+end
+@enduml

@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:heat duce;
+split again
+-[hidden]->
+:shaking electronic; <<procedure>>
+-> auditory enhancer;
+split again
+-[hidden]->
+:hercules haggis; <<continuous>>
+split again
+-[hidden]->
+if (lopped hut?) then (marksmanship viable)
+:arroyo correspond; <<task>>
+-> pull plains;
+else (bombs senorita)
+:tempers spotted;
+endif
+end split
+:expert reason; <<load>>
+-> furious ashamed;
+:heil accusing;
+group plethora learn
+if (fajita promoting?) then (shorter flats)
+(incubator looming) elseif (walk benevolence?) then (maharajah backgammon)
+:llama upkeep; <<task>>
+(carolling estimation) elseif (nonexistent oho?) then (overwrought praising)
+:sportswear turmoil; <<save>>
+endif
+stop
+end group
+@enduml

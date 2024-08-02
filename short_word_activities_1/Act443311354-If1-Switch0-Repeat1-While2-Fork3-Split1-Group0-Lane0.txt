@@ -1,0 +1,58 @@
+@startuml
+split
+-[hidden]->
+:paintings conspiring;
+split again
+-[hidden]->
+fork
+:outlived bylaws;
+fork again
+:la clowning; <<output>>
+fork again
+:smith violations; <<load>>
+-> clement responsibilities;
+end merge
+split again
+-[hidden]->
+:decided headlock;
+-> convertibles icehouse;
+end split
+while (trained attached?) is (lard condo)
+:originals tanning; <<procedure>>
+endwhile (overcame voyeur)
+:dinero chewed;
+if (whiskey cognizant?) then (awhile distancing)
+fork
+:not fan;
+fork again
+:armour admittedly; <<procedure>>
+fork again
+:viva remarry;
+end fork
+else (exquisitely crunchy)
+:cure consolidate; <<load>>
+fork
+:coached hairline;
+fork again
+:towns variance; <<task>>
+fork again
+:foolish squeaky; <<save>>
+end fork
+:rigid bounds;
+kill
+endif
+repeat
+:convict prosper; <<output>>
+-> commits pilgrim;
+while (isolation ditch?) is (haberdashery estimating)
+backward:choosers pare;
+:hauled garment;
+:role underneath;
+backward:includes radiating;
+endwhile (holes punchy)
+:disciplinary conjure;
+:unhook residing; <<output>>
+-> indulged decorated;
+repeat while (reviving addict?) is (wallow wedlock)
+end
+@enduml

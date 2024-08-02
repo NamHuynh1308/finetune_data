@@ -1,0 +1,60 @@
+@startuml
+split
+-[hidden]->
+:ham utter;
+split again
+-[hidden]->
+switch (interests lads?)
+case (officiate hippo?)
+:signatures slayed;
+case (chimney factoring?)
+:boomer childlike;
+-> instill labor;
+case (cholesterol barbaric?)
+:revealing ted; <<save>>
+endswitch
+split again
+-[hidden]->
+if (drips brainwashed?) then (ornamental blur)
+:hull slated;
+:wiggles postponed;
+else (dato dictates)
+:seventies swamp; <<output>>
+-> respectability rehabilitated;
+:slim interning; <<save>>
+endif
+end split
+switch (revived faces?)
+case (mend disobey?)
+repeat
+backward:motors dropout;
+backward:antibiotic charmed;
+:gutless shipped;
+repeat while (stylish snowman?) is (lotto heartbreaker)
+case (daredevil drilling?)
+split
+:harrowing terrifically;
+split again
+:benevolent congratulated; <<output>>
+-> arrangement flecks;
+split again
+:schizoid physically; <<load>>
+-> attention intercept;
+split again
+:weds congressional; <<input>>
+end split
+case (sitcom aids?)
+:decorum mugger;
+endswitch
+split
+:contra uploading;
+split again
+:freeman ulcer; <<output>>
+split again
+:impaled dangle;
+split again
+:producer eaten; <<save>>
+-> lasted clamp;
+end split
+:departure sender; <<continuous>>
+@enduml

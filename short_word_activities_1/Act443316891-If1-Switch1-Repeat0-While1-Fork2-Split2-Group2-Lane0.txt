@@ -1,0 +1,67 @@
+@startuml
+split
+-[hidden]->
+:stitches jumpers;
+split again
+-[hidden]->
+while (mouthful mites?) is (developments fa)
+backward:realised footstool;
+:gutters mites; <<task>>
+:sideburns entanglements; <<task>>
+:grumpy booted; <<continuous>>
+-> goldfish communicator;
+endwhile (clanking ravenous)
+:barn jeweler;
+split again
+-[hidden]->
+:everyman guerilla; <<output>>
+-> disadvantage flashback;
+end split
+group systolic puking
+split
+:prisons shrinks;
+split again
+switch (extract stamps?)
+case (rabies electronically?)
+:recently mollie; <<load>>
+case (protector portrays?)
+:genoa intimated; <<task>>
+-> crank mornings;
+case (vying waitressed?)
+:hawker turmoil; <<task>>
+endswitch
+split again
+:abruptly bribed; <<task>>
+-> fantasyland linger;
+end split
+group watching proposition
+:youth benefits; <<output>>
+fork
+:leisurely characterizing;
+fork again
+fork
+:risks fourth;
+fork again
+:stables naps;
+-> frailty magazine;
+fork again
+:repression coopers; <<output>>
+end fork
+fork again
+if (haggling okra?) then (sparky plugged)
+(stateside serene) elseif (praise raisin?) then (reserves child)
+:naked cued; <<save>>
+-> scene freshest;
+(bobby referred) elseif (obscenity pink?) then (determine great)
+:collie med;
+(urns leisure) elseif (folds barre?) then (ingredients whistler)
+:swede thespian;
+endif
+fork again
+:informer euphemism; <<load>>
+-> thermonuclear peat;
+end merge
+end group
+stop
+end group
+@enduml

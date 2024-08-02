@@ -1,0 +1,11 @@
+@startuml
+participant "terra dozing" as 0
+participant "graduate agile" as 1
+autonumber 1 0
+0 -> 0: authorize arguments
+ [<- 0: features invitation
+0 -\\ 1: measles aches
+autonumber stop
+0 -> 0: megaphone cybernetic
+1 -> 1: townies grime
+@enduml

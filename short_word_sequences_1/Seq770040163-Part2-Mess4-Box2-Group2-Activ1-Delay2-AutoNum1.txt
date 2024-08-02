@@ -1,0 +1,22 @@
+@startuml
+box "flaring retire"
+participant "reception hamburg" as 0
+box "nauseous underdeveloped"
+participant "goonie howling" as 1
+end box
+end box
+autonumber 4 5
+ [<- 0: advance drippy
+...briefcases enraged...
+1 -> 0: grail boon
+loop payable satisfies
+1 ->x 0++ : persnickety workaholic
+autonumber stop
+loop phantoms outlaws
+...colors liaison...
+1 -> 1: reached homebody
+autonumber resume
+end
+end
+return littered sitcoms
+@enduml

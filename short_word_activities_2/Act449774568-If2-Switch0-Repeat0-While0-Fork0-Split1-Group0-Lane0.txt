@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:heartbeat clues;
+split again
+-[hidden]->
+:courageous teaspoon; <<input>>
+split again
+-[hidden]->
+:flirted broccoli; <<input>>
+-> lacerated predictions;
+end split
+if (brakes gardenias?) then (what deciphering)
+(fall thirteen) elseif (surrounds engineered?) then (clicking saintly)
+:pressuring criticized; <<output>>
+-> trifling comfort;
+(classified toddler) elseif (sims morph?) then (organism speedily)
+:unchanged yearbooks; <<load>>
+-> possessive unruly;
+endif
+if (cheer casualties?) then (jammer cave)
+(remarks sincere) elseif (injections candle?) then (hearted truckload)
+:toes brazil; <<load>>
+-> zits sabers;
+(answered misplace) elseif (atrocious cellulite?) then (underpaid unfortunate)
+:sorted ultra; <<load>>
+-> contours perfecto;
+(weenie begin) elseif (penicillin ropes?) then (familiars entree)
+:spoiling cautious;
+endif
+:submersible snickers; <<save>>
+-> overtired prom;
+stop
+@enduml

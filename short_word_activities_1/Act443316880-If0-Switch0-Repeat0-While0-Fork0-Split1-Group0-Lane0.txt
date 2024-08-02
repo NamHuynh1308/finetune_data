@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:haul bombarding;
+split again
+-[hidden]->
+:boarder absent; <<procedure>>
+-> nuke grander;
+split again
+-[hidden]->
+:exemption skier;
+kill
+end split
+:ingenious deterioration;
+stop
+@enduml

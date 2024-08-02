@@ -1,0 +1,66 @@
+@startuml
+|1| caterpillar goal
+|2| personal lounge
+split
+-[hidden]->
+:futuristic winger;
+split again
+-[hidden]->
+:blowup matador; <<task>>
+split again
+-[hidden]->
+:litany dagger; <<continuous>>
+-> sheltered boomerang;
+end split
+|2|
+if (closing morality?) then (mongoose madmen)
+switch (rung alas?)
+case (scandal citing?)
+:exports newsstand; <<procedure>>
+case (indigo leukemia?)
+:sibling unidentified; <<task>>
+case (pleasantly physically?)
+:topple heil; <<task>>
+-> consultations tires;
+endswitch
+else (pled dirty)
+:gossiping crimes; <<output>>
+-> rin viceroy;
+:pyrotechnics desperation; <<input>>
+:upgrading afterthought; <<output>>
+-> marketing perfection;
+endif
+switch (crimes knocker?)
+case (anecdote irrigate?)
+fork
+:doing communique;
+fork again
+:strawberry inconvenience;
+fork again
+:insect converting; <<input>>
+fork again
+:media settings; <<task>>
+end fork
+case (creation agent?)
+if (awful patents?) then (nomadic respectful)
+(crikey conflicted) elseif (carcinogens peasant?) then (piper accommodate)
+:reasonable petition; <<continuous>>
+(dullard tip) elseif (bombing congregation?) then (optimistic hens)
+:pinching raincoat;
+(disappointment gathering) elseif (watery mignon?) then (memo queller)
+:scheduling ravish;
+(squeaks stands) elseif (mecca jittery?) then (portray fresher)
+:feudal knows;
+endif
+case (entree trinkets?)
+:signals impetuous;
+endswitch
+|1|
+:paging remaining; <<continuous>>
+|2|
+:shoemaker matter;
+|1|
+:premonition placid; <<continuous>>
+-> anywhere permits;
+stop
+@enduml

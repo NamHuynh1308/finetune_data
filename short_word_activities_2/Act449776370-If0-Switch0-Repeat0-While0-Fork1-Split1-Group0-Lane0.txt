@@ -1,0 +1,16 @@
+@startuml
+start
+split
+:rainier resents;
+split again
+:classification wander; <<task>>
+split again
+fork
+:plausible therein;
+fork again
+:barking reassemble; <<continuous>>
+fork again
+:colin fifteen; <<save>>
+end fork
+end split
+@enduml

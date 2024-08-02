@@ -1,0 +1,15 @@
+@startuml
+box "paperback lease"
+participant "kept conservative" as 0
+end box
+== crates attach ==
+0 --//o 0++ : chink wharf
+...transactions trips...
+0 ->> 0: stroke pastor
+return inundated admires
+0 -> 0++ : lunchtime spotlights
+0 -->x 0: bummer rejuvenate
+0 -\\ 0++ : rewrites ventilator
+return corollary twins
+return exhausted fortnight
+@enduml

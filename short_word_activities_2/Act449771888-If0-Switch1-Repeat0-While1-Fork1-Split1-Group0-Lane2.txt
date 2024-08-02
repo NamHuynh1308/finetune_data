@@ -1,0 +1,50 @@
+@startuml
+|1| muffled prodigal
+|2| tangible morsel
+split
+-[hidden]->
+:repertoire caseload;
+split again
+-[hidden]->
+:triggered revise; <<continuous>>
+split again
+-[hidden]->
+fork
+:errand worshipped;
+fork again
+:up administrators;
+-> aerobic moping;
+fork again
+:matriarch waiver;
+fork again
+:repressed testing;
+kill
+end merge
+split again
+-[hidden]->
+switch (overcooked quitter?)
+case (through rape?)
+:kibble bagpipes;
+case (prided audit?)
+:napkins sausage; <<task>>
+-> lapdog congress;
+case (therapist poolside?)
+:alpine sailed; <<output>>
+case (fired yanks?)
+:beefed episodes; <<load>>
+endswitch
+end split
+:glade files;
+|2|
+while (ideas whomever?) is (establishments vogue)
+:tripping dah; <<continuous>>
+:manuscript peeked;
+-> vine blondes;
+backward:pug psychiatric;
+:smithereens hobbling; <<load>>
+-> illumination eels;
+endwhile (sleepwalk brake)
+:zed cheeseburger;
+:gypsy handshake; <<task>>
+end
+@enduml

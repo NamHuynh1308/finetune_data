@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:relay rioting;
+split again
+-[hidden]->
+:dings thespian; <<save>>
+split again
+-[hidden]->
+:covers messages;
+split again
+-[hidden]->
+:contra makes; <<input>>
+end split
+switch (hiking browns?)
+case (reservations burrito?)
+switch (sequence addict?)
+case (someplace formal?)
+:district bite; <<load>>
+-> teamwork win;
+case (kibosh minion?)
+:flag illumination; <<output>>
+-> tackling disbarred;
+case (vein yank?)
+:venetian whey; <<continuous>>
+-> metaphors muchacho;
+endswitch
+case (amazon misfortune?)
+:difference meal; <<load>>
+-> course hallowed;
+endswitch
+stop
+@enduml

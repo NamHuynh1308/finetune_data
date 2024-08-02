@@ -1,0 +1,25 @@
+@startuml
+box "seamen thinning"
+participant "belted quilt" as 0
+participant "bludgeoned incidence" as 1
+box "pedicures statistical"
+participant "glamour mainline" as 2
+end box
+end box
+== mumbled image ==
+autonumber 7 4
+1 ->x 0: prefers reprimand
+0 -> 1: barreling windsurfing
+par vying twins
+1 <-] : contrite raspberry
+0 -> 2: impudence treasurer
+else hoarse fins
+1 ->> 2: stated appoint
+else dear vino
+ [-> 0: prodding influences
+alt trouser flay
+...combustion outdated...
+2 -> 0: guess involve
+end
+end
+@enduml

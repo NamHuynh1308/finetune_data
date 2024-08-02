@@ -1,0 +1,11 @@
+@startuml
+start
+group snooty uncles
+:reign nearby; <<task>>
+-> stella vigil;
+:sable roulette;
+end group
+:pairs swimmers; <<load>>
+-> robots aide;
+end
+@enduml

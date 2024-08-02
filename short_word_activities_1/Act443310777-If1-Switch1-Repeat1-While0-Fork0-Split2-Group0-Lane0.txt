@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:reshoots face;
+split again
+-[hidden]->
+split
+:regulars footnote;
+split again
+:tod presentation;
+split again
+:temper befitting; <<save>>
+end split
+split again
+-[hidden]->
+:arrest collections; <<output>>
+split again
+-[hidden]->
+if (seashells atrocities?) then (rubs operating)
+:countess explosives; <<procedure>>
+:roller sat;
+else (almost dragons)
+:splatter culturally; <<procedure>>
+kill
+endif
+end split
+switch (fortitude booths?)
+case (eligible blurt?)
+:sandbar strongest; <<save>>
+case (sociable forehead?)
+repeat
+:inbred caper; <<output>>
+:hometown personalized;
+:consciously stinger; <<task>>
+-> clamoring orgasm;
+repeat while (tacos tanks?) is (idealized search)
+endswitch
+:uppity clasp;
+-> figured chink;
+:orgasms lockers; <<save>>
+-> unfunny silk;
+end
+@enduml

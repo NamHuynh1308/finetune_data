@@ -1,0 +1,9 @@
+@startuml
+participant "sled swarming" as 0
+== commence crowds ==
+autonumber 10 8
+0 -// 0: burgess minion
+create participant "alec tacked" as 1
+0 -> 1 : alec tacked
+autonumber stop
+@enduml

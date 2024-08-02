@@ -1,0 +1,23 @@
+@startuml
+participant "rash faculties" as 0
+box "awhile warfare"
+participant "devastatingly realism" as 1
+box "cent stormy"
+participant "vulgar embedded" as 2
+participant "annoyances poisonous" as 3
+end box
+end box
+1 ->] : lures bunker
+1 ->x 1: shoplifting handwriting
+3 --//o 0++ : mortuary desperation
+break rearing prisoners
+1 -> 2: mutual dizziness
+return hundred wad
+1 -\\ 3: unpleasantness broad
+end
+opt ruined event
+create participant "euthanasia caterers" as 4
+3 -> 4 : euthanasia caterers
+0 -> 3: inspections league
+end
+@enduml

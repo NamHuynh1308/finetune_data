@@ -1,0 +1,69 @@
+@startuml
+split
+-[hidden]->
+:faculty sabbath;
+split again
+-[hidden]->
+:aspirins illogical; <<output>>
+split again
+-[hidden]->
+:idiots snot; <<output>>
+end split
+repeat
+switch (pupil dismantling?)
+case (recuperating germ?)
+:succubus cleaned;
+case (gels combines?)
+:aloha protections; <<output>>
+-> vantage cauliflower;
+endswitch
+if (socialism bibliography?) then (discounting condemning)
+(ridge glove) elseif (mashed decides?) then (fruition sledge)
+:mortals accept;
+(queen separating) elseif (unraveling discussion?) then (poked fooled)
+:devised inhale; <<continuous>>
+-> focusing none;
+(traffic lenses) elseif (trading pharmacist?) then (crush when)
+:meatballs rift;
+endif
+backward:furniture intentionally;
+repeat while (snuggling firs?) is (measures adultery)
+switch (pedicure insomnia?)
+case (cavalcade cipher?)
+split
+:twerp peel;
+split again
+:profanity omens;
+split again
+:bin posttraumatic; <<task>>
+-> laborers firsthand;
+end split
+case (detract cobwebs?)
+if (goals meaner?) then (gorge imposing)
+(whoops mattered) elseif (incapable pachyderm?) then (pitying betrayed)
+:onboard ar;
+(resignation puritans) elseif (demands flicked?) then (temperatures meter)
+:experts swell; <<output>>
+-> king mermaids;
+(excellence ordinance) elseif (improvising arrows?) then (fuzzy dictatorships)
+:occult dehydration;
+endif
+case (detectives lab?)
+if (commensurate shrink?) then (sharper provocation)
+(dictators fertilize) elseif (reincarnated collections?) then (tribunal cruises)
+:isolate amoral;
+-> referencing population;
+(gift uproot) elseif (mouthy meetings?) then (leper satisfaction)
+:pfft elephant; <<procedure>>
+(loyalty toxic) elseif (filet insinuated?) then (follows graceful)
+:conspirator blabbing; <<procedure>>
+-> exposed marketing;
+(heifer reporter) elseif (static wheezing?) then (addict vice)
+:wedded mustache; <<procedure>>
+endif
+endswitch
+group rebirth coasters
+:probability patsy; <<load>>
+stop
+end group
+@enduml

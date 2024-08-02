@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:charter tipper;
+split again
+-[hidden]->
+:tractor organ; <<output>>
+split again
+-[hidden]->
+if (turbulent revulsion?) then (um investigator)
+:fortunes luscious;
+:murderous choppy; <<procedure>>
+:campers parasites; <<task>>
+kill
+else (chiles endear)
+:assign rube; <<procedure>>
+-> specialise guerillas;
+:latest chandeliers;
+endif
+split again
+-[hidden]->
+:ceremonial ventriloquism;
+end split
+:overrule canisters; <<output>>
+-> dimensions thermal;
+stop
+@enduml

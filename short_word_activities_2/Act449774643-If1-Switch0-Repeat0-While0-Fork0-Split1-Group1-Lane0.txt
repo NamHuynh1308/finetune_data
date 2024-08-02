@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:wade accountant;
+split again
+-[hidden]->
+if (owls shipwrecked?) then (psychologist bonuses)
+:considering emancipated;
+:trophy expands; <<task>>
+:copacetic shimmering; <<output>>
+-> heartwarming flipper;
+else (abode polygraph)
+:sanctioned investors; <<task>>
+-> venture mend;
+:engage logic;
+endif
+split again
+-[hidden]->
+:freshmen applause;
+split again
+-[hidden]->
+:jade medina;
+end split
+group restriction corporeal
+:wrinkle recreating;
+-> sponsoring loaning;
+stop
+end group
+@enduml

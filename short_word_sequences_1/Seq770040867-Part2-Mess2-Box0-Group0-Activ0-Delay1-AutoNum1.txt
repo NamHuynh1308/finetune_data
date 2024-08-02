@@ -1,0 +1,8 @@
+@startuml
+participant "ominous luck" as 0
+participant "spending honours" as 1
+autonumber 8 1
+0 -> 1: required airstrip
+...burglaries sixpence...
+0 -> 1: stammering totalled
+@enduml

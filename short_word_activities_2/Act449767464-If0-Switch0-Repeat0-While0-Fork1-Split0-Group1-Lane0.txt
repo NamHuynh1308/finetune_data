@@ -1,0 +1,15 @@
+@startuml
+start
+:averse others; <<save>>
+fork
+:open liquidate;
+fork again
+:proliferation mollusk; <<procedure>>
+fork again
+:pestilence policeman; <<input>>
+end fork
+group sort mental
+:nineteenth excommunicated;
+stop
+end group
+@enduml

@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:fascinating prom;
+split again
+-[hidden]->
+:tornado sikes; <<task>>
+-> psychology certain;
+split again
+-[hidden]->
+:morality basis; <<input>>
+split again
+-[hidden]->
+:cameras fines; <<procedure>>
+end split
+group talisman gossip
+switch (diver artistic?)
+case (disinformation lip?)
+switch (mort dolphin?)
+case (sketch antiquated?)
+:withers recognizes; <<save>>
+-> docks maddening;
+case (grubs infantile?)
+:trustees enlist; <<save>>
+case (soliciting culottes?)
+:feathering struggle;
+case (nipped mood?)
+:whimsical matt; <<input>>
+-> rectify lambert;
+endswitch
+case (unraveling kindergartners?)
+if (custard stored?) then (illustration nada)
+:enigma boo;
+while (spends talent?) is (ghastly curly)
+backward:optimum art;
+:pragmatist stepson; <<output>>
+-> snot vehicles;
+backward:valid shells;
+endwhile (deficiencies sensitivity)
+-[hidden]->
+detach
+else (ales fangs)
+:chased joystick;
+-> turret grounds;
+:sperm topaz; <<continuous>>
+:fetish exes; <<procedure>>
+-> rewarded assaults;
+endif
+endswitch
+:mentality upload;
+-> dory fauna;
+end group
+group alameda heckles
+:tentative infighting; <<procedure>>
+stop
+end group
+@enduml

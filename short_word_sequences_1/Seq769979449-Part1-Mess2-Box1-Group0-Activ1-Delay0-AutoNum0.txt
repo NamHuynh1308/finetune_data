@@ -1,0 +1,9 @@
+@startuml
+box "lofty mystical"
+participant "difficult rooftops" as 0
+end box
+== mode torpedoed ==
+0 ->] : commies choosers
+0 -> 0++ : puddle confusing
+return classier bibliography
+@enduml

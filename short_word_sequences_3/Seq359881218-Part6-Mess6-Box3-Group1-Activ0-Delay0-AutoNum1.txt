@@ -1,0 +1,25 @@
+@startuml
+participant "rejection beam" as 0
+participant "galloping event" as 1
+box "standardized southbound"
+participant "muses focused" as 2
+box "labor lukewarm"
+participant "oaths undermines" as 3
+box "sled calculating"
+participant "haberdashery pertinent" as 4
+end box
+end box
+end box
+== ovulating sniffling ==
+autonumber 4 10
+0 ->> 1: maids morgue
+1 -> 3: salinas carolers
+create participant "plead shutters" as 5
+2 -> 5 : plead shutters
+critical amnesia practising
+ [<- 5: participate breech
+0 <-> 2: decoder hoarse
+2 -> 2!! : stud crawled
+else captured mopes
+end
+@enduml

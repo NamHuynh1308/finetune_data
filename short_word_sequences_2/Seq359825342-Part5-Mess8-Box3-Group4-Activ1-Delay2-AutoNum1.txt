@@ -1,0 +1,35 @@
+@startuml
+box "toughest thoughts"
+participant "proverb moan" as 0
+box "cool stripe"
+participant "anyways insistent" as 1
+box "swears blueberry"
+participant "thrive swamped" as 2
+participant "malfunctions chaps" as 3
+end box
+end box
+end box
+autonumber 1 4
+par plop gangly
+0 -\\ 3: strapless despair
+loop thirst unwieldy
+...unless eater...
+ [<- 1: fantasyland integral
+2 -->x 0++ : petrified gargantuan
+else striving escargot
+par envoy taped
+3 <-] : saved outraged
+create participant "snags slumlord" as 4
+1 -> 4 : snags slumlord
+else salmon welded
+...resign discriminate...
+4 -\\ 3: bribing recalled
+par conflicted analyst
+ [-> 1: deed countryside
+0 ->o 2: instructing chiseling
+end
+end
+end
+end
+return doctors fielding
+@enduml

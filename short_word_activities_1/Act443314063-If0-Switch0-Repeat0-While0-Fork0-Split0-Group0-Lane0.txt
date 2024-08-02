@@ -1,0 +1,5 @@
+@startuml
+start
+:undesirable presses; <<task>>
+-> slaves prematurely;
+@enduml

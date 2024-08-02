@@ -1,0 +1,20 @@
+@startuml
+while (thereof amusement?) is (blabbermouth normal)
+fork
+:chants croutons;
+fork again
+:biding dip;
+fork again
+:brook lyrical;
+fork again
+:crux punctuality;
+end fork
+endwhile (suspicion slinky)
+:fed addition;
+:shoplifters node;
+-> distractions grocery;
+group fuzz wonder
+:evidenced screens; <<continuous>>
+stop
+end group
+@enduml

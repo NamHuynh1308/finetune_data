@@ -1,0 +1,8 @@
+@startuml
+box "annoyance kroner"
+participant "heavenly parkway" as 0
+participant "balmoral culminating" as 1
+end box
+0 ->o 1: range future
+1 ->x 0: headlights sanctimonious
+@enduml

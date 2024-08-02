@@ -1,0 +1,21 @@
+@startuml
+box "packed warehouses"
+participant "tendon vaccinated" as 0
+participant "clippers detain" as 1
+participant "waging ghetto" as 2
+participant "ore bunches" as 3
+end box
+== unruly dapper ==
+opt olives scenery
+1 -> 3++ : entered diva
+0 <-> 2: smooth sutures
+2 --//o 0: dike overwhelmed
+return putty motherhood
+end
+par habits nine
+2 ->o 1++ : preppie rotting
+0 <-] : traipse duff
+else stack sick
+end
+return suitable mars
+@enduml

@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:activity elbows;
+split again
+-[hidden]->
+:delegates innkeeper; <<load>>
+split again
+-[hidden]->
+if (helicopter guitar?) then (vulnerable better)
+:referee volume; <<load>>
+:collect dynamic; <<load>>
+else (jeans hoes)
+:played singe;
+-> arguably rattling;
+:sedate funding;
+:distinctions moneys; <<input>>
+endif
+split again
+-[hidden]->
+if (finest override?) then (performances fruitcake)
+:narcissistic collie;
+:spank forsake;
+-> lent recognized;
+:deserves masculine;
+else (spar contractions)
+:microphones outgrew;
+-> plums chlamydia;
+:described headgear;
+-> gangs pimple;
+:scooped insistence; <<input>>
+while (rebels increasing?) is (communities smirk)
+:cafeteria argentine;
+:pitch sightings;
+:hearts historian;
+:spotlight loofah; <<task>>
+endwhile (geometric suppertime)
+-[hidden]->
+detach
+endif
+end split
+group platter accomplices
+:underground tops;
+-> solitaire gimmie;
+stop
+end group
+@enduml

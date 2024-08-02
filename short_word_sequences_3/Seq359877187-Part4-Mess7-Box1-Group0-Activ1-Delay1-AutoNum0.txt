@@ -1,0 +1,18 @@
+@startuml
+box "murphy printer"
+participant "equal innocence" as 0
+participant "mature castles" as 1
+participant "cardiogram frames" as 2
+end box
+== friendship resents ==
+2 -> 0: rewarding caved
+1 ->> 0++ : embittered hoboes
+1 ->o 1: fenders ratty
+return perspective sahib
+create participant "matron protestant" as 3
+0 -> 3 : matron protestant
+ [-> 0: anomalies wrinkled
+...pressed recrimination...
+1 -> 2: jewellery sociable
+1 -> 0: inaugural carpeting
+@enduml

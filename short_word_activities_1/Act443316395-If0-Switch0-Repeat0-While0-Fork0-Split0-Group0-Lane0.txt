@@ -1,0 +1,6 @@
+@startuml
+start
+:squawking consisted; <<input>>
+-> independent generated;
+stop
+@enduml

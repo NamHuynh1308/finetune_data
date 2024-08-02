@@ -1,0 +1,7 @@
+@startuml
+participant "behaving felonies" as 0
+participant "theatrical whoever" as 1
+autonumber 2 9
+0 -// 1: huffed litter
+1 ->] : brad increase
+@enduml

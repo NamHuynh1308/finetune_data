@@ -1,0 +1,12 @@
+@startuml
+box "detest fossilized"
+participant "commandant autographs" as 0
+participant "simpler sequencing" as 1
+end box
+autonumber 8 4
+1 <-> 0: absolutes battery
+0 ->] : oversleep resonance
+1 -> 0: grandchildren guide
+0 -> 0++ : celebrities chiropractor
+return literate confusing
+@enduml

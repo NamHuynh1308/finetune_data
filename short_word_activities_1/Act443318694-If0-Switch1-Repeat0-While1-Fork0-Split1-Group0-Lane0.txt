@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:watermelon wheeling;
+split again
+-[hidden]->
+:cranny unmarked; <<input>>
+-> hiker occurs;
+split again
+-[hidden]->
+:philosophies monsignor;
+-> brainwashing certainty;
+split again
+-[hidden]->
+while (staying mortal?) is (hybrid showered)
+:clarity abstinence;
+backward:bricked doohickey;
+endwhile (pushed pretentious)
+:honouring futures;
+end split
+:syndicated cheetah;
+switch (assassination eliminate?)
+case (coolers awe?)
+:sabbatical occupational; <<input>>
+-> doorman celebrates;
+case (intend sty?)
+:ordinance lowlifes; <<task>>
+-> drank indefensible;
+case (subsidies freezers?)
+:cleans trattoria; <<procedure>>
+endswitch
+@enduml

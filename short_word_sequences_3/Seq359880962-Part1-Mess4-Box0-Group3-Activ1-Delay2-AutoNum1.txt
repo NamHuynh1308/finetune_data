@@ -1,0 +1,17 @@
+@startuml
+participant "stored foreign" as 0
+autonumber 5 9
+loop fetch wrench
+0 -\\ 0: overflow pot
+ [<- 0: edict ciao
+loop vandalism lack
+...hoy historian...
+ [-> 0: taxes tofu
+alt metaphysics imbecile
+...ritzy diligent...
+0 -// 0++ : opinions admonished
+end
+end
+end
+return fingertips amongst
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "ambivalent complication" as 0
+autonumber 1 4
+0 -> 0++ : strangulation misunderstanding
+create participant "hammers windbag" as 1
+0 -> 1 : hammers windbag
+1 -> 0: imperfections perish
+1 -> 1: bronzing longs
+return flammable obsess
+@enduml

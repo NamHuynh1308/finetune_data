@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:whisking sod;
+split again
+-[hidden]->
+:dell limelight;
+-> vowed hale;
+split again
+-[hidden]->
+:fostered divorces; <<task>>
+end split
+group shred shits
+fork
+:wedlock ashes;
+fork again
+if (jiggling dust?) then (fort civilizations)
+:monitoring also; <<save>>
+:venison healing;
+:contributed haired;
+else (mellowed completed)
+:psychotherapy admirable;
+-> cheater ooh;
+kill
+endif
+fork again
+:pursuing week; <<input>>
+end fork
+stop
+end group
+@enduml

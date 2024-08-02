@@ -1,0 +1,8 @@
+@startuml
+participant "borderline burgundy" as 0
+autonumber 7 9
+0 -\\ 0++ : hospital attends
+...bellies markers...
+0 -> 0: floral flap
+return weird tasted
+@enduml

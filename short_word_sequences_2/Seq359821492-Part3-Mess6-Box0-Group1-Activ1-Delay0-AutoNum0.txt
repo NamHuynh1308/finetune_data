@@ -1,0 +1,16 @@
+@startuml
+participant "signals tunnel" as 0
+participant "budge roving" as 1
+== investment homing ==
+0 --> 1: shuttles shirtless
+1 -> 0: fuss crowded
+1 -> 0++ : confiscating pasts
+create participant "rectangle try" as 2
+0 -> 2 : rectangle try
+return attendant reaction
+par irons dollhouse
+2 -> 1: hypocrite uncut
+1 -> 1: planned patriots
+else gratuity symbolically
+end
+@enduml

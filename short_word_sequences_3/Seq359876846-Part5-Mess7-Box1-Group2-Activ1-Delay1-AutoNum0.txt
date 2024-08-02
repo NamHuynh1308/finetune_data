@@ -1,0 +1,22 @@
+@startuml
+participant "gunpoint heckle" as 0
+participant "erasing hyperbole" as 1
+participant "dissolves disobedience" as 2
+box "kirk mathematicians"
+participant "soap martini" as 3
+end box
+1 --//o 0: hoop clinics
+3 -->x 3: shift attempting
+opt observant prayed
+create participant "salutations gloss" as 4
+1 -> 4 : salutations gloss
+4 -->x 0: authorization rolls
+end
+0 ->] : guarded laws
+...shower villains...
+1 -> 1: bitch kidney
+critical vest nodes
+1 ->o 4++ : whisking diversionary
+end
+return suicides condos
+@enduml

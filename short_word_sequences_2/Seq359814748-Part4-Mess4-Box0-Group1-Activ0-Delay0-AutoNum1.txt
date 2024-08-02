@@ -1,0 +1,14 @@
+@startuml
+participant "marshmallow majestic" as 0
+participant "sedative drummed" as 1
+participant "summer pizza" as 2
+autonumber 2 10
+0 <-] : buckaroo ranting
+0 -> 2: appliances spencers
+create participant "beanie pickles" as 3
+0 -> 3 : beanie pickles
+autonumber stop
+alt eases strawberry
+ [-> 2: re hopping
+end
+@enduml

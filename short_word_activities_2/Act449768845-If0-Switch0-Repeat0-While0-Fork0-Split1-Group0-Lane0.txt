@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:described workshop;
+split again
+-[hidden]->
+:swim seconds; <<procedure>>
+-> teenagers chaperones;
+split again
+-[hidden]->
+:stiles lawn; <<continuous>>
+-> probation oil;
+end split
+:cranks hope; <<procedure>>
+end
+@enduml

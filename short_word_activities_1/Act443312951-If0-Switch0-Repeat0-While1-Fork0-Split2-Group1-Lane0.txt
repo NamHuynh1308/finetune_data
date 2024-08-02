@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:averse gets;
+split again
+-[hidden]->
+:underlings cumulative; <<procedure>>
+split again
+-[hidden]->
+while (paddling telex?) is (perfection empire)
+backward:after swiped;
+endwhile (boss aspirins)
+:hopelessness delayed;
+end split
+group homeroom foothold
+:assembler swoops; <<input>>
+:viva fans; <<output>>
+split
+:hookup severed;
+split again
+:charity originality;
+split again
+:prudes mushroom; <<load>>
+split again
+:urges altered;
+kill
+end split
+end group
+end
+@enduml

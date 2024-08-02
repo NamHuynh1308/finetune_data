@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:sign cures;
+split again
+-[hidden]->
+:novel uses; <<save>>
+split again
+-[hidden]->
+repeat
+backward:stave petting;
+repeat while (comparative prednisone?) is (rem caper)
+split again
+-[hidden]->
+fork
+:nomadic flatters;
+fork again
+:perishable nominees;
+fork again
+:inch dalton;
+end merge
+end split
+:loot babe; <<output>>
+@enduml

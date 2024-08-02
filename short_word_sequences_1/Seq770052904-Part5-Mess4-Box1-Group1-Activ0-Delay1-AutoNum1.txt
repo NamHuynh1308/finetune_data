@@ -1,0 +1,19 @@
+@startuml
+participant "pricked podiatry" as 0
+participant "hike leprechaun" as 1
+box "shooter fellahs"
+participant "recipe night" as 2
+participant "taunting which" as 3
+end box
+autonumber 6 9
+ [-> 2: irons texas
+...injustice spontaneity...
+2 -> 0: kick gaff
+create participant "pale starve" as 4
+2 -> 4 : pale starve
+autonumber stop
+critical quantum delusion
+3 ->o 2: uniformity punch
+autonumber resume
+end
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+fork
+:postage bazooka;
+fork again
+:smudged issuing;
+fork again
+:assorted seaweed; <<task>>
+fork again
+switch (chugging overlooking?)
+case (alternate breast?)
+:jackass worthwhile; <<output>>
+-> passport vocal;
+case (denouncing scratched?)
+:there melted;
+case (railroad roust?)
+:sunk prettier;
+case (sniffing detectors?)
+:heavily dissed; <<load>>
+endswitch
+end fork
+group avenge stupid
+:heartbeats hotel; <<load>>
+:navigate housewarming; <<task>>
+end group
+end
+@enduml

@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:substantial bag;
+split again
+-[hidden]->
+:civilizations alameda; <<load>>
+split again
+-[hidden]->
+switch (listens redneck?)
+case (diaries pressing?)
+:respects bad;
+case (decoded mergers?)
+:receding armored; <<task>>
+-> punt pierce;
+endswitch
+split again
+-[hidden]->
+switch (um are?)
+case (brook corrupted?)
+:whit calves;
+case (moocher derail?)
+:coding resonance; <<continuous>>
+-> justify faint;
+case (slaughter potions?)
+:gravel initial;
+case (grime sheila?)
+:versions finalizing;
+-> cemeteries investors;
+endswitch
+end split
+group interrupting slot
+:misspoke considerate;
+-> coitus went;
+:paying nudie; <<continuous>>
+-> decreased feed;
+group tainted sue
+:videotaped veteran; <<continuous>>
+stop
+end group
+end group
+@enduml

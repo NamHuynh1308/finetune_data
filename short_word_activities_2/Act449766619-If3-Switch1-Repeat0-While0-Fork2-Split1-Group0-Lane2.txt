@@ -1,0 +1,71 @@
+@startuml
+|1| cloths investors
+|2| outspoken incurred
+|1|
+start
+switch (suspect stamped?)
+case (filthy heresy?)
+:scummy were; <<output>>
+-> players jewels;
+case (shopkeeper optional?)
+fork
+:yearning statuary;
+fork again
+:walks uptight;
+fork again
+:schmuck zombie; <<output>>
+end fork
+case (upbringing danced?)
+:larceny semester;
+endswitch
+|2|
+if (sew balance?) then (manning maniacs)
+(blitz hippest) elseif (endure immensely?) then (tots blades)
+if (associate gate?) then (sprinkler conquering)
+(staged timber) elseif (discourage famed?) then (unshakable ruffles)
+:badminton looser;
+(baffles fey) elseif (distasteful perspective?) then (pressures visits)
+:nepotism tome; <<input>>
+-> awoke hoedown;
+endif
+(inflation enthusiastic) elseif (etiquette beasts?) then (opera article)
+if (traitor crafting?) then (strike marginally)
+(replace commissioners) elseif (careers trashed?) then (posed molds)
+:magazines occupants;
+(freely racer) elseif (shakers ampicillin?) then (smoothly bunking)
+:clerks wood; <<save>>
+-> spinner mostly;
+(syphilis commemorating) elseif (contractions bottle?) then (sagging embody)
+:munch borderline;
+endif
+(hussy sought) elseif (thrown snub?) then (helpless whoosh)
+:puddle presume; <<load>>
+(currently possessive) elseif (spasm deformity?) then (snooping centerfold)
+:confrontation godsend;
+-> drop littlest;
+endif
+|1|
+split
+:reality heard;
+split again
+fork
+:staggered loyalties;
+fork again
+:mindset ensuring;
+-> puddles comrade;
+fork again
+:riches applies; <<task>>
+-> walnut penal;
+end merge
+split again
+:bashed journeyed; <<load>>
+split again
+:fourth sedan;
+end split
+|2|
+:stolen construct;
+|1|
+:waif coating; <<procedure>>
+-> yours questions;
+stop
+@enduml

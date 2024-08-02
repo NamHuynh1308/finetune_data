@@ -1,0 +1,22 @@
+@startuml
+participant "reminders loons" as 0
+participant "bongo serving" as 1
+box "soundly blockbusters"
+participant "replacing strongbox" as 2
+box "paying inducement"
+participant "unmentionable solves" as 3
+end box
+end box
+== commercialism employer ==
+autonumber 4 7
+0 --> 2: by femmes
+ [<- 1: beetle chains
+...inspector kismet...
+ [<- 0: knapsack horsey
+par sarge yore
+0 -> 1: respected vertigo
+1 -->x 0: sheen battery
+autonumber stop
+else homesick indefinite
+end
+@enduml

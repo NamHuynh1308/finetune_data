@@ -1,0 +1,13 @@
+@startuml
+box "animation construction"
+participant "applications suggestion" as 0
+participant "organisation resting" as 1
+participant "gecko steno" as 2
+end box
+0 -> 0!! : underlined eat
+...lunatics enduring...
+ [<- 2: investigation certifiably
+...fondest eyebrows...
+2 ->] : deem waters
+ [-> 0: sticking need
+@enduml

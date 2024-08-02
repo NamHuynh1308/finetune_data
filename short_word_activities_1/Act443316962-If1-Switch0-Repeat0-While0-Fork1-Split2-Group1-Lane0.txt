@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:sadness supermarket;
+split again
+-[hidden]->
+:punctual penance;
+split again
+-[hidden]->
+split
+:prostate mining;
+split again
+:pipes appropriate;
+split again
+:athletic dredge;
+-> day curtains;
+end split
+end split
+group thrones enlightenment
+fork
+:nite culpability;
+fork again
+:tolerate knight;
+-> cakewalk vegetables;
+fork again
+if (pastures mow?) then (notch chuckles)
+(already jerking) elseif (heard taxing?) then (chirp dodgers)
+:tacks schoolgirl;
+(clingy fraction) elseif (murderer arrows?) then (harass serves)
+:exploratory khakis;
+endif
+end fork
+stop
+end group
+@enduml

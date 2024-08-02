@@ -1,0 +1,29 @@
+@startuml
+box "accepted startup"
+participant "carting happenings" as 0
+participant "blissful devoting" as 1
+end box
+participant "loading mondo" as 2
+autonumber 5 5
+par length journeyed
+create participant "sinner womanly" as 3
+0 -> 3 : sinner womanly
+alt darn demo
+...saying coping...
+3 -> 0: agility sung
+2 -> 0!! : triplicate nigger
+autonumber stop
+else massage definition
+par salsa accuracy
+2 <-> 1: tendonitis surrogate
+autonumber resume
+...famously panting...
+0 ->x 2++ : nickels countermeasures
+ [-> 0: buttoning indoor
+autonumber stop
+end
+2 -> 3: saintly these
+return fight caseload
+end
+end
+@enduml

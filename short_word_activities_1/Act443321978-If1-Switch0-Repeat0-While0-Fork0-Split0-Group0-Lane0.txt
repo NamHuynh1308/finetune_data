@@ -1,0 +1,11 @@
+@startuml
+start
+if (stokes featured?) then (waffle drinker)
+:station squeezes; <<task>>
+:premier settles; <<procedure>>
+-> vicinity conditioners;
+else (skateboards macadamia)
+:forks gasped;
+endif
+stop
+@enduml

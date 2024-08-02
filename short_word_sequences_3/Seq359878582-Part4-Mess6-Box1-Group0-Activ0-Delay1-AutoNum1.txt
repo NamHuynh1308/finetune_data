@@ -1,0 +1,18 @@
+@startuml
+participant "undivided pitch" as 0
+box "tailor representative"
+participant "bugs bologna" as 1
+participant "surgeries yearning" as 2
+participant "burly branched" as 3
+end box
+autonumber 5 9
+3 <-] : grandstand shagging
+0 ->o 0: posies decibel
+...sox humus...
+0 -> 2: convinced glaciers
+3 <-] : pretends crucible
+autonumber stop
+3 -// 3: aloft wastebasket
+2 -> 1: demons retrieved
+autonumber resume
+@enduml

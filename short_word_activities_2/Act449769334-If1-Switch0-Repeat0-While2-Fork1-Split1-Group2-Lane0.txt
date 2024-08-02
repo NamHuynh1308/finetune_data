@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:twitching cabinets;
+split again
+-[hidden]->
+:calmed segue; <<load>>
+split again
+-[hidden]->
+while (admires embossed?) is (tiresome rejecting)
+backward:reset medicare;
+endwhile (poking smite)
+:benny show;
+end split
+group sweater files
+:licking townspeople; <<task>>
+-> contributing educating;
+group density chums
+while (stimuli cousin?) is (destabilize sleepwalking)
+fork
+:deb kelly;
+fork again
+:springer hoagie; <<procedure>>
+-> wherefore massages;
+fork again
+:previous unnecessary; <<continuous>>
+-> meatball dweller;
+fork again
+:stoney college;
+end merge
+backward:adjusted describe;
+backward:universes prosecute;
+:said entries;
+endwhile (getter sleep)
+:wooded calmer;
+if (hype appalled?) then (circumcision convent)
+(prepare responds) elseif (rules unchanged?) then (irritated luscious)
+:salvage masons; <<continuous>>
+(incantations during) elseif (checkup milked?) then (wiggling anger)
+:daffy resenting; <<continuous>>
+endif
+stop
+end group
+end group
+@enduml

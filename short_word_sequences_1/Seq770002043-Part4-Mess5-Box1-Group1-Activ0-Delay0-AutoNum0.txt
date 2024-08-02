@@ -1,0 +1,15 @@
+@startuml
+box "yelled few"
+participant "drugstore aa" as 0
+participant "defective frankly" as 1
+participant "hairy rhythms" as 2
+end box
+2 ->> 1: pyramids druthers
+1 -> 2: composition knobby
+1 <-] : rustle lance
+critical fierce youthful
+create participant "overdose investigating" as 3
+2 -> 3 : overdose investigating
+3 ->o 1: expects sides
+end
+@enduml

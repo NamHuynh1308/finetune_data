@@ -1,0 +1,33 @@
+@startuml
+start
+group parasites fairgrounds
+switch (drafted stuttering?)
+case (smacked savor?)
+switch (handouts downhill?)
+case (gesture flames?)
+:bistro honoring;
+-> hunting hippopotamus;
+case (met lines?)
+:glad otter; <<continuous>>
+case (okeydokey fix?)
+:plaguing hooded; <<save>>
+endswitch
+case (pimp cheapest?)
+:knockdown sponsorship;
+while (nicer cuppa?) is (evens forget)
+:believers celled; <<continuous>>
+endwhile (gor guitar)
+-[hidden]->
+detach
+case (transvestites fleeting?)
+:flurries novelist; <<procedure>>
+endswitch
+:assembled truss; <<load>>
+-> diminished gill;
+end group
+group consulting evolve
+:hallowed stars; <<load>>
+-> bazooka collars;
+stop
+end group
+@enduml

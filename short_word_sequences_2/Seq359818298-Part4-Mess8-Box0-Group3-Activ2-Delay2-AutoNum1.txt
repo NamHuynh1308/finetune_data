@@ -1,0 +1,30 @@
+@startuml
+participant "tricked credible" as 0
+participant "rowing spawn" as 1
+participant "grainy nag" as 2
+participant "casual slink" as 3
+autonumber 10 1
+loop handball paddling
+3 --//o 1: tailored tavern
+autonumber stop
+2 --//o 3++ : exploding dogged
+opt clung edict
+...groveling fallacy...
+0 -\\ 0: pinches large
+return avoids eases
+...parlour provenance...
+0 ->o 1: glengarry pal
+autonumber resume
+end
+3 -// 2++ : farce dialed
+autonumber stop
+3 --//o 3: repentance appreciate
+3 ->x 2: acknowledgement ships
+return apology droop
+autonumber resume
+end
+loop waste ups
+0 -\\ 0: art margins
+autonumber stop
+end
+@enduml

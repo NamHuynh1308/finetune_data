@@ -1,0 +1,4 @@
+@startuml
+:cord sabin; <<procedure>>
+-> binds mew;
+@enduml

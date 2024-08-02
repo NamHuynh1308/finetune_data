@@ -1,0 +1,14 @@
+@startuml
+start
+group spray taken
+split
+:goody sutures;
+split again
+:fraternities negatives; <<procedure>>
+-> garment census;
+split again
+:displacement fast; <<task>>
+end split
+stop
+end group
+@enduml

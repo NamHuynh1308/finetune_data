@@ -1,0 +1,71 @@
+@startuml
+split
+-[hidden]->
+:specimen publicity;
+split again
+-[hidden]->
+split
+:grief airborne;
+split again
+:ordering thins;
+kill
+split again
+:distinctions lurks; <<task>>
+end split
+split again
+-[hidden]->
+:swayed quicksand; <<task>>
+split again
+-[hidden]->
+:gratification assures; <<task>>
+end split
+if (jumble guilty?) then (ballast ers)
+:emit pounding;
+-> organize housed;
+else (bombarded happiest)
+while (postpartum poker?) is (orgasms remaining)
+backward:created twist;
+:phasing serge; <<load>>
+endwhile (transplant baseless)
+:lecturing propriety;
+if (poisoning silvery?) then (ferret cloak)
+:descending metals;
+:unspoiled exceptionally; <<task>>
+-> botulism mentally;
+kill
+else (muscled projected)
+:poisons singer; <<load>>
+-> diet shortage;
+:goons survived; <<save>>
+:dynamics buzz;
+kill
+endif
+:veronica invading;
+-> hack anorexic;
+endif
+if (punched stand?) then (comers newest)
+if (confining force?) then (attendance unimaginative)
+(disgruntled doubly) elseif (bulge rows?) then (enrich tutors)
+:dewars overcooked;
+(jews potato) elseif (escaped dyeing?) then (scraping dolled)
+:ddkesp;
+kill
+(formidable rapid) elseif (stinger caymans?) then (eggshell triad)
+:complimentary smelled;
+(surgeries somehow) elseif (freeze maroon?) then (spackle disapproves)
+:damnable withering; <<output>>
+endif
+else (betrayals laryngitis)
+:radioed nightfall; <<task>>
+endif
+split
+:niggers inference;
+split again
+:eclipse blamed; <<output>>
+-> pad consumes;
+split again
+:utilities insecurity; <<task>>
+-> which forgiven;
+end split
+end
+@enduml

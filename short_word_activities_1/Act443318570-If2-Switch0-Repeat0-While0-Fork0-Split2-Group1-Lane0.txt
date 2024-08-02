@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:persecute gamer;
+split again
+-[hidden]->
+:remedial choppers; <<save>>
+split again
+-[hidden]->
+if (tow sigh?) then (supermodel drop)
+(sizzle square) elseif (squall panels?) then (astronomer renovations)
+:heavyset fused;
+(headband teenage) elseif (sublet sheriff?) then (tiptoe bloodless)
+:schooled gams; <<task>>
+-> subbing overseas;
+(benes sponsor) elseif (weaknesses wherever?) then (wail matchmaker)
+:sonogram bacteria;
+(fundraisers withholding) elseif (friendless bollocks?) then (basketball luxuries)
+:tread cemeteries; <<input>>
+endif
+end split
+group slip humpback
+if (statement catastrophic?) then (lyrics upward)
+:leno cowering;
+split
+:larceny deprivation;
+split again
+:someway substantiate; <<input>>
+split again
+:numb sis;
+end split
+else (championships freezes)
+:ingrates dally; <<save>>
+:entree straining; <<output>>
+-> rulers actin;
+:cheers rounding; <<load>>
+endif
+stop
+end group
+@enduml

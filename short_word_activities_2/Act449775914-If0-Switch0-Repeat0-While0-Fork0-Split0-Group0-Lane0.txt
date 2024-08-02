@@ -1,0 +1,6 @@
+@startuml
+start
+:beeper materialize;
+-> honed mice;
+stop
+@enduml

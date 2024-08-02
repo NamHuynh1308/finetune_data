@@ -1,0 +1,16 @@
+@startuml
+box "obnoxious larvae"
+participant "philosophy exchanged" as 0
+participant "norm pushover" as 1
+end box
+box "repairman denounce"
+participant "resembling scoping" as 2
+end box
+== slurping maintenance ==
+2 <-] : patsy indefensible
+0 ->o 2++ : philharmonic aerodynamics
+loop eviscerated gravely
+0 -->x 2: amusement controller
+end
+return coalition gallows
+@enduml

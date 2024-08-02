@@ -1,0 +1,15 @@
+@startuml
+participant "bikini persona" as 0
+participant "memoirs vampires" as 1
+== minion assistance ==
+1 ->> 0++ : contributed safer
+1 --> 0: luckiest scintillating
+loop lords misspoke
+1 --//o 0: rot buzzed
+return largest merchant
+par provoked lewis
+0 -> 0: unwieldy freeways
+1 -// 1: cardiology carriers
+end
+end
+@enduml

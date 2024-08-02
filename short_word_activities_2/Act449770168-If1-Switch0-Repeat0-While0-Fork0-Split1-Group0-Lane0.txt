@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:verification rival;
+split again
+-[hidden]->
+if (schoolteacher inflicted?) then (molecules vulnerability)
+:excluding pineapples; <<continuous>>
+-> developing strangulation;
+:play egghead;
+:happen tiara;
+else (siege affirm)
+:newspapers improvements;
+:grabbed hanging; <<continuous>>
+endif
+split again
+-[hidden]->
+:abducted ya; <<output>>
+-> pucker unveiling;
+split again
+-[hidden]->
+:rap responsibility; <<input>>
+end split
+:dispense maidens;
+:tartar obligated;
+stop
+@enduml

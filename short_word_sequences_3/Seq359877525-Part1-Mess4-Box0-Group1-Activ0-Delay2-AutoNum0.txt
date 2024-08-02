@@ -1,0 +1,11 @@
+@startuml
+participant "ball worried" as 0
+alt depiction sixpence
+0 -->x 0: clip substation
+...keys canals...
+0 --> 0: orator ane
+end
+...earmarked wad...
+0 --> 0: sopranos flights
+0 -> 0!! : ventriloquism evacuate
+@enduml

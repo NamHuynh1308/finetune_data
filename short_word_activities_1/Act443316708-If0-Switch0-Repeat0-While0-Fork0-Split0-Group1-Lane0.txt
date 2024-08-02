@@ -1,0 +1,8 @@
+@startuml
+start
+:gunner exhaustive;
+group dolphin bloodshed
+:stamps gem; <<save>>
+stop
+end group
+@enduml

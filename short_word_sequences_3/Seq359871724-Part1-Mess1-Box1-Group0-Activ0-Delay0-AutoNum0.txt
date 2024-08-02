@@ -1,0 +1,7 @@
+@startuml
+box "lug available"
+participant "pathogen replacement" as 0
+end box
+== expressions trapping ==
+0 ->] : casting lessen
+@enduml

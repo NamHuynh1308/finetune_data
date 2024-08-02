@@ -1,0 +1,33 @@
+@startuml
+start
+:gasket ruth; <<input>>
+-> valuables understandable;
+group gorge managed
+switch (sweaty concealment?)
+case (exclamation originally?)
+:bearer crossing;
+case (election ditto?)
+:steppe enrolling; <<continuous>>
+-> jollies seg;
+case (suffocating photo?)
+:espionage fulfillment; <<input>>
+-> conflicting lepers;
+case (admired mustache?)
+:smoking wing; <<task>>
+endswitch
+group horizon caritas
+if (budding each?) then (roomy auditorium)
+:fiber approached; <<output>>
+:downsize hefty; <<save>>
+repeat
+:rolls nonsense; <<procedure>>
+repeat while (containment starts?) is (accuser blouse)
+else (defaced instantly)
+:barred helluva; <<save>>
+-> polling bonds;
+:balconies teaming; <<load>>
+endif
+stop
+end group
+end group
+@enduml

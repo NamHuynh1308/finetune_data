@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:flavors practitioner;
+split again
+-[hidden]->
+if (caskets resourceful?) then (smudged origins)
+:easiest plant; <<save>>
+kill
+else (psalm skaters)
+:romping dreidel;
+:risked conk;
+while (prescribe warlock?) is (rooftops lum)
+backward:series sack;
+:victoria eighteen;
+backward:coral terrace;
+backward:moneys awaiting;
+endwhile (karat leering)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+:shoddy fugu; <<save>>
+end split
+group idolized autopsies
+while (your mulled?) is (reinvented publically)
+backward:pious lance;
+endwhile (purer rewind)
+:pittance directorate;
+:addressed freshen; <<save>>
+-> stirring snowmobiles;
+end group
+@enduml

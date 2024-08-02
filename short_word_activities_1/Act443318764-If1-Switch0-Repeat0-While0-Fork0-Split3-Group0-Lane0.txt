@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:brags sprightly;
+split again
+-[hidden]->
+:neurosurgery backpacking; <<output>>
+-> shadows intermediate;
+split again
+-[hidden]->
+:moat dictionary; <<save>>
+-> bossy clarinet;
+end split
+split
+:tofu perfect;
+split again
+split
+:protestors canines;
+split again
+:hysterics carelessness; <<task>>
+split again
+:burglaries lessee; <<save>>
+split again
+:sterilize certification; <<output>>
+end split
+split again
+if (psychotherapy sororities?) then (cooperate daylight)
+(lunged occupation) elseif (honesty bottoms?) then (futon scarred)
+:hedging advisable; <<input>>
+-> disobeying cloth;
+(useless guava) elseif (snagging cashed?) then (arrest violate)
+:rectangle vanilla; <<load>>
+-> moldy cuss;
+(pampered orbing) elseif (uncharacteristically trellis?) then (despise tires)
+:clothe subtitled; <<output>>
+(elms undermined) elseif (confidant dramas?) then (bail supporting)
+:whit cleverness; <<continuous>>
+-> illusions soapbox;
+endif
+split again
+:stones ransack; <<save>>
+-> bowing misgivings;
+end split
+stop
+@enduml

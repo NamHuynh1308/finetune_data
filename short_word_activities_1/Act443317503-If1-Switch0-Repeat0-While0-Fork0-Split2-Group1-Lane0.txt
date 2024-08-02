@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:teasing insertion;
+split again
+-[hidden]->
+:shallow pressing; <<continuous>>
+split again
+-[hidden]->
+if (roulette terminator?) then (ipecac collier)
+:masterminded original;
+else (tonsils affection)
+:manipulation singing;
+:mattress front;
+:overrule burying;
+endif
+split again
+-[hidden]->
+:certify tinted;
+end split
+group jammies quints
+:threatens pressed; <<input>>
+split
+:landings censure;
+split again
+:tiger smeared;
+kill
+split again
+:joked cave; <<save>>
+end split
+end group
+stop
+@enduml

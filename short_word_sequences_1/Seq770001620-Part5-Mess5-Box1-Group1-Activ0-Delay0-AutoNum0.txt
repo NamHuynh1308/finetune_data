@@ -1,0 +1,19 @@
+@startuml
+box "slam ought"
+participant "plums bearers" as 0
+participant "shootout nectar" as 1
+participant "square massage" as 2
+participant "imported minutes" as 3
+end box
+== suffocate deported ==
+0 --//o 3: brother carpeting
+ [-> 3: yeti lawmen
+alt sorel teacup
+0 ->x 1: drill slammer
+ [-> 3: emergency hooks
+else hijacking hint
+create participant "baptists facilitated" as 4
+3 -> 4 : baptists facilitated
+else higher aggravate
+end
+@enduml

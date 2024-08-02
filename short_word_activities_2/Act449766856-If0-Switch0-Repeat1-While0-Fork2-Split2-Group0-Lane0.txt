@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:tailed thousand;
+split again
+-[hidden]->
+:duty scanner; <<input>>
+split again
+-[hidden]->
+:distended grants;
+kill
+split again
+-[hidden]->
+:foe subpoenas; <<input>>
+end split
+fork
+:counts nana;
+fork again
+fork
+:veterinary democrat;
+fork again
+:charmer grown; <<task>>
+-> wingman conferred;
+fork again
+:endangerment jasmine;
+end fork
+fork again
+:niece chalked; <<output>>
+end fork
+split
+:miner visualizing;
+split again
+:egging scents; <<save>>
+split again
+repeat
+backward:microphones parasailing;
+:scheme inn; <<procedure>>
+-> rodent loner;
+:thankless clinics; <<load>>
+-> sonny bits;
+repeat while (virulent precedents?) is (treasury viewer)
+-> misfits sleeps;
+end split
+@enduml

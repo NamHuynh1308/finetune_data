@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:outrage resisted;
+split again
+-[hidden]->
+if (orphanage banquet?) then (surely immaterial)
+:sweater hymn; <<output>>
+:bridge maximize;
+-> navigator kris;
+else (ain entourage)
+:flies outlast;
+endif
+split again
+-[hidden]->
+fork
+:nigh groves;
+fork again
+:indulge cheater; <<output>>
+-> pastrami rumblings;
+fork again
+:blew endorsements; <<task>>
+-> modest increased;
+fork again
+:partly saddled; <<continuous>>
+end fork
+end split
+:sciences bonded; <<input>>
+@enduml

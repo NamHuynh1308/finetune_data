@@ -1,0 +1,23 @@
+@startuml
+participant "jig boneless" as 0
+participant "mussels chases" as 1
+participant "toppings boxes" as 2
+box "kendo bagpipes"
+participant "contamination relapsing" as 3
+end box
+== styled gray ==
+autonumber 5 7
+1 -> 0: liver poofy
+create participant "dirty billiard" as 4
+2 -> 4 : dirty billiard
+...veering expressive...
+0 -> 4!! : flippers tangible
+autonumber stop
+...note graveyard...
+3 <-> 1: dew nailing
+autonumber resume
+opt amputated pajamas
+2 -> 2++ : brunettes grave
+end
+return sandbox stuntman
+@enduml

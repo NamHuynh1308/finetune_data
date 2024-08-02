@@ -1,0 +1,8 @@
+@startuml
+start
+group absence combination
+:gripes materialized;
+-> cylinder newborn;
+stop
+end group
+@enduml

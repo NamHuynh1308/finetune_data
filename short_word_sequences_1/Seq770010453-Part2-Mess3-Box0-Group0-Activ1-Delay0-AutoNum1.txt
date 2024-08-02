@@ -1,0 +1,9 @@
+@startuml
+participant "gurgling rioja" as 0
+participant "seeping scary" as 1
+autonumber 4 7
+0 -> 1!! : mind every
+0 -> 1++ : specimens nutrition
+0 -> 0: jiggling parties
+return errant scalding
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+participant "vodka dummkopf" as 0
+ [<- 0: application pillow
+@enduml

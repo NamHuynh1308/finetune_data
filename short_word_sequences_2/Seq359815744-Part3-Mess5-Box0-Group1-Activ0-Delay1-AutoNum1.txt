@@ -1,0 +1,16 @@
+@startuml
+participant "prancer ballon" as 0
+== horrifying absurd ==
+autonumber 2 7
+create participant "beige motels" as 1
+0 -> 1 : beige motels
+autonumber stop
+ [-> 1: interning blatant
+create participant "guilty frontier" as 2
+0 -> 2 : guilty frontier
+ [-> 0: antler grammar
+par dearie belted
+...incoherent metallic...
+2 --//o 1: cams hotdogs
+end
+@enduml

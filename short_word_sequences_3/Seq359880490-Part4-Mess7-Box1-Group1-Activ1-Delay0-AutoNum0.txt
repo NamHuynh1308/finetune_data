@@ -1,0 +1,19 @@
+@startuml
+participant "refills prejudiced" as 0
+box "vocals relieving"
+participant "swimmingly fruity" as 1
+participant "stimuli guru" as 2
+participant "blowup ball" as 3
+end box
+1 ->> 2: hypothetical carrying
+0 ->] : undergarments unwise
+2 <-] : lavished struggling
+2 -->x 0: preserves investments
+opt visualizing billing
+0 ->x 3: arrests harem
+0 ->> 3: kismet spunk
+1 -> 0++ : heady chipping
+else fancied guardianship
+end
+return calls outgoing
+@enduml

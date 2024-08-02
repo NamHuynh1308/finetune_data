@@ -1,0 +1,13 @@
+@startuml
+participant "noble swooped" as 0
+participant "ten purple" as 1
+== print torture ==
+autonumber 2 10
+critical uh pronouns
+0 -// 1: buttoning knives
+0 -> 0!! : brothers nearby
+else crowding insolent
+1 -->x 0: mas heartwarming
+else mirror goofball
+end
+@enduml

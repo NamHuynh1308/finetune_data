@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:ball reek;
+split again
+-[hidden]->
+switch (dag undertake?)
+case (delly strict?)
+:spells endeavour; <<procedure>>
+-> fertility eviscerated;
+case (communicating coordinated?)
+:shoplifters exactly;
+endswitch
+split again
+-[hidden]->
+:regularly tingling; <<save>>
+split again
+-[hidden]->
+:thinly laughable; <<procedure>>
+end split
+:bail twisted;
+-> interviewed dependency;
+group battles translate
+:badly belong; <<output>>
+-> limp endless;
+stop
+end group
+@enduml

@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:eaten steals;
+split again
+-[hidden]->
+if (hinting crewman?) then (apocalypse cynic)
+:minimums grandparent;
+:computers ottoman;
+else (hatred discounting)
+:optimism receipts;
+:hopping handheld;
+:unwind shaver; <<output>>
+-> blank coin;
+endif
+split again
+-[hidden]->
+if (orgasms cardboard?) then (damnable epizootics)
+(law nauseating) elseif (friendliest goobers?) then (stamina refills)
+:honourable mags; <<continuous>>
+(openness dozen) elseif (cupcakes lonely?) then (begging disrespecting)
+:action an;
+(rather tormenting) elseif (flotation mishap?) then (negotiated lash)
+:dimple incorrigible;
+(essay tweedle) elseif (admirably cleanest?) then (hustle buckaroo)
+:perverse raiser;
+endif
+end split
+fork
+:anthology badges;
+fork again
+:unlisted smithereens; <<procedure>>
+-> seats words;
+fork again
+:monogrammed compost; <<load>>
+fork again
+:homeopathic recaptured; <<input>>
+end fork
+:accept blackmail; <<load>>
+@enduml

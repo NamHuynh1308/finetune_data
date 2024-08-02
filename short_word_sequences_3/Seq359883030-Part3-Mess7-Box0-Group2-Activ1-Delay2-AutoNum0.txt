@@ -1,0 +1,21 @@
+@startuml
+participant "voltage get" as 0
+participant "strongest polarity" as 1
+participant "piggy railing" as 2
+== intelligence delicacy ==
+critical heavily safety
+1 ->o 0: legend gel
+0 ->> 2: pecan dictatorship
+2 ->o 0++ : pseudo curate
+else hokey hisself
+alt baring sensory
+2 -> 2: insecurity archeology
+...bailing syndrome...
+0 ->x 2: ava ownership
+return cured conducting
+end
+...cherries undertaking...
+0 -> 2!! : therein betting
+ [<- 0: surreal sanctuary
+end
+@enduml

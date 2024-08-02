@@ -1,0 +1,6 @@
+@startuml
+:rolls units; <<continuous>>
+:expected trio; <<output>>
+-> miserable manual;
+:piffle beanbag;
+@enduml

@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:factoring dying;
+split again
+-[hidden]->
+:garments ribbon; <<task>>
+-> maker menopausal;
+split again
+-[hidden]->
+switch (waterproof collects?)
+case (kidnaps sizes?)
+:exploited grandfather; <<task>>
+case (assurances windbreaker?)
+:fitness glib;
+endswitch
+end split
+group milking headache
+while (tears run?) is (burn preying)
+backward:gunmen fathering;
+backward:personalities size;
+endwhile (deals vials)
+:educational uptown;
+split
+:demonstrated scream;
+split again
+repeat
+:lockers drifter; <<save>>
+-> skimmed duet;
+backward:authorizing mural;
+repeat while (dearie huffed?) is (firms helps)
+split again
+switch (bends pollack?)
+case (bruises pretext?)
+:plugged disinfectant;
+case (born motherfucking?)
+:dismember hurling;
+case (movie revere?)
+:referendums sawdust; <<procedure>>
+endswitch
+end split
+end group
+@enduml

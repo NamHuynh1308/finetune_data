@@ -1,0 +1,10 @@
+@startuml
+start
+group compounds studded
+repeat
+backward:sweetness zig;
+:rental gecko; <<input>>
+repeat while (deadlock fangs?) is (soiled raisers)
+stop
+end group
+@enduml

@@ -1,0 +1,35 @@
+@startuml
+:packets devastatingly; <<continuous>>
+fork
+:ugh graphite;
+fork again
+switch (become cover?)
+case (blade wheeze?)
+:sunset sill; <<output>>
+-> jeopardy capper;
+case (appraise days?)
+:electrical waiting;
+case (medicate schiller?)
+:radial heights; <<save>>
+case (essentially excludes?)
+:mysteriously hesitation; <<load>>
+-> strolls toro;
+endswitch
+fork again
+switch (obi fountains?)
+case (ordinates nicked?)
+:recruited tippers;
+case (lucky potatoes?)
+:storming quiver;
+case (framed inventions?)
+:cocoon draped; <<input>>
+-> hernias deejay;
+endswitch
+fork again
+:protruding freakish; <<procedure>>
+end fork
+group banker paranormal
+:fasten heartless; <<task>>
+stop
+end group
+@enduml

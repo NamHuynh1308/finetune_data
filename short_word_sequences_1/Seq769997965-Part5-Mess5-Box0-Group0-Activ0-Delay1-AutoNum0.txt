@@ -1,0 +1,13 @@
+@startuml
+participant "cauldron percentage" as 0
+participant "personalities torches" as 1
+participant "recreated lurking" as 2
+participant "hysteria breakthroughs" as 3
+ [-> 1: lesions midwestern
+1 <-> 3: departed intelligently
+...slant broader...
+2 -> 1: heartache master
+0 <-> 3: shaky skillet
+create participant "hath defined" as 4
+1 -> 4 : hath defined
+@enduml

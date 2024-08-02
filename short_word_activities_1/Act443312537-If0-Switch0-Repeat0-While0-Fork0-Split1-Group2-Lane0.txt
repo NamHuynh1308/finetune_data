@@ -1,0 +1,16 @@
+@startuml
+group droopy foul
+:confidante reclaiming;
+group grown woodchuck
+split
+:spring toothbrushes;
+split again
+:thoughtfully heavier;
+kill
+split again
+:awed bricks; <<input>>
+end split
+stop
+end group
+end group
+@enduml

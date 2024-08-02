@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:jammed uncool;
+split again
+-[hidden]->
+:towns beginner; <<output>>
+split again
+-[hidden]->
+fork
+:duly barfed;
+fork again
+:calorie deliberate;
+fork again
+:erred penne;
+fork again
+:clairvoyant competitive; <<task>>
+-> sake blackouts;
+end merge
+end split
+:hobo constantly; <<input>>
+-> bureaucrats seascape;
+:blow immutable; <<task>>
+-> charitable pianist;
+group flirt cocoa
+:plumbers proof;
+stop
+end group
+@enduml

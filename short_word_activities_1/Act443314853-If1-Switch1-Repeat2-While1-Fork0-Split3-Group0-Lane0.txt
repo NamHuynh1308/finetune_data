@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:discount bike;
+split again
+-[hidden]->
+:bakeries transmitter; <<continuous>>
+split again
+-[hidden]->
+:saddest frazzled; <<load>>
+end split
+split
+:flash suicide;
+split again
+:infantry transitional; <<procedure>>
+split again
+if (cartoons shah?) then (inevitability similarly)
+(donations vegetables) elseif (emphatic limping?) then (crowing pasture)
+:spool corpse; <<output>>
+-> grandad deadlines;
+(ointment commissioner) elseif (chunks errant?) then (poetic shunned)
+:improving we;
+endif
+end split
+switch (supermarkets spoon?)
+case (ancestor slope?)
+:sympathize succeed; <<task>>
+-> revels treaties;
+case (withheld naphthalene?)
+split
+:hang criticized;
+split again
+:garage recognizing;
+split again
+:sports homeless; <<input>>
+split again
+:stiff elevate; <<input>>
+-> hourglass undesirable;
+end split
+endswitch
+repeat
+while (summer national?) is (oddly challenges)
+backward:behavioral noo;
+:syllabus saving;
+backward:folklore auto;
+endwhile (bathrobes aerobic)
+:vocalist wasps;
+backward:jacking unsaid;
+repeat
+backward:squander practical;
+repeat while (mermaids sincerity?) is (knapsack dermatologist)
+-> piglet born;
+repeat while (domestic deterrent?) is (escalated flattery)
+-> conventional unsure;
+end
+@enduml

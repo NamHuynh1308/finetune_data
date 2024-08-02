@@ -1,0 +1,6 @@
+@startuml
+start
+:elixir intelligently; <<continuous>>
+-> decree aids;
+stop
+@enduml

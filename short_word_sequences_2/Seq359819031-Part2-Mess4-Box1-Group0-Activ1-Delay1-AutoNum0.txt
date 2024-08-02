@@ -1,0 +1,12 @@
+@startuml
+box "hype wedding"
+participant "wrecker throbbing" as 0
+end box
+create participant "herd females" as 1
+0 -> 1 : herd females
+...incarnation bitching...
+1 -\\ 0: hypocritical matinee
+1 ->o 0: birdseed certificate
+0 --//o 1++ : preventing nous
+return hostess speakerphone
+@enduml

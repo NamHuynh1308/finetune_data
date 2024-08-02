@@ -1,0 +1,41 @@
+@startuml
+|1| hi dueling
+|2| basics chemicals
+split
+-[hidden]->
+:fluffed means;
+split again
+-[hidden]->
+split
+:nutrition treasury;
+split again
+:villagers hallucinate; <<save>>
+split again
+:freaked including;
+split again
+:viceroy ifs;
+end split
+split again
+-[hidden]->
+:someone grocer; <<continuous>>
+-> engine borders;
+split again
+-[hidden]->
+:pineapple atrocities; <<task>>
+end split
+fork
+:beetle had;
+fork again
+:fascism tomatoes; <<output>>
+-> knowledge ratting;
+fork again
+:fliers eyes;
+-> managed carter;
+end fork
+:heiress clergy; <<load>>
+:slouch spotters; <<output>>
+-> chops victimless;
+:intensity boring;
+-> spineless thruway;
+stop
+@enduml

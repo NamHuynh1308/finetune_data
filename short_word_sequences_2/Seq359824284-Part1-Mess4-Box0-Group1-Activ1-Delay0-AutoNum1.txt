@@ -1,0 +1,12 @@
+@startuml
+participant "karate gunner" as 0
+autonumber 5 6
+0 ->] : smarty downright
+0 -> 0: poisons mainline
+alt relax mod
+0 -> 0++ : digging balboa
+0 --//o 0: yoghurt runaways
+return relevance ranging
+autonumber stop
+end
+@enduml

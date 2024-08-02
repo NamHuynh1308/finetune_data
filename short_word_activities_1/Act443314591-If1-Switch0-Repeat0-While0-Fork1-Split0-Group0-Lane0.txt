@@ -1,0 +1,20 @@
+@startuml
+start
+if (program depiction?) then (steer focussed)
+:lectures spate; <<load>>
+-> antler moderation;
+else (researcher homo)
+fork
+:shorted solitary;
+fork again
+:smarts cuss;
+fork again
+:leverage engulfed; <<input>>
+end fork
+:tee tubs; <<output>>
+-> empties criteria;
+:grabbing wife;
+-> stretch yaw;
+endif
+end
+@enduml

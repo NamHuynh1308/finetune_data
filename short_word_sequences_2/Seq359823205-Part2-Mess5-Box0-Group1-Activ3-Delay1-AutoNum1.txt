@@ -1,0 +1,18 @@
+@startuml
+participant "graders difficulties" as 0
+autonumber 6 3
+loop repercussions bigamy
+0 -> 0++ : swears detained
+create participant "confined lever" as 1
+0 -> 1 : confined lever
+return veiled rehearsal
+else spike windsurfing
+0 <-> 1: boiling bleeds
+...wield sandals...
+1 --//o 1++ : nobodies snowflakes
+else carmine barium
+1 ->x 0++ : stumbles liane
+end
+return bunny shotgun
+return marzipan askew
+@enduml

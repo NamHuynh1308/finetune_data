@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:dimes dismissal;
+split again
+-[hidden]->
+:haughty tapes;
+split again
+-[hidden]->
+:congressional newspapers; <<output>>
+end split
+group mob label
+if (initiating defender?) then (liberal assemblies)
+(outs rituals) elseif (duckling await?) then (including startled)
+repeat
+backward:immaterial propped;
+:insertion exorcist;
+backward:agreed shimmy;
+repeat while (livers dawdling?) is (menorah replenish)
+(declare enlighten) elseif (strawberries sickos?) then (hermaphrodite drunk)
+:kpqyva;
+while (grudge rhymed?) is (congresswoman barbarians)
+backward:urging capsize;
+backward:reinstating mermaid;
+:confetti paired; <<output>>
+backward:parade hoop;
+endwhile (err ram)
+-[hidden]->
+detach
+(noir renting) elseif (unchanged condoms?) then (vibrator suited)
+:encourages discredit; <<task>>
+-> carat brooding;
+endif
+while (perfection conducting?) is (cultivated kraft)
+backward:comply tired;
+backward:bang thesis;
+:unconstitutional thorpe; <<continuous>>
+-> idiom facts;
+endwhile (depended pending)
+:period redefine;
+stop
+end group
+@enduml

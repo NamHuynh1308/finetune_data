@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:appraisal pruning;
+split again
+-[hidden]->
+:scoops subtitles; <<task>>
+split again
+-[hidden]->
+:hound spook; <<continuous>>
+end split
+:insidious dozens; <<task>>
+:girl lorry;
+end
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+participant "adversaries fixed" as 0
+participant "ail fiddle" as 1
+box "greens compete"
+participant "quake jumper" as 2
+participant "southbound chasing" as 3
+end box
+autonumber 3 3
+1 --//o 0: pressed homily
+3 -> 2: plantation wits
+2 -> 2: winter suburban
+autonumber stop
+...solidify yourselves...
+ [<- 3: forage represent
+autonumber resume
+ [-> 3: yuk laird
+...tammy voodoo...
+2 --//o 2: henry id
+autonumber stop
+3 -> 0: underworld stony
+autonumber resume
+@enduml

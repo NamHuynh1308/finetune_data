@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:revolutions clarinet;
+split again
+-[hidden]->
+:striping outer; <<procedure>>
+split again
+-[hidden]->
+if (biochemistry dozens?) then (sidetracked heckling)
+:weakened retrieved; <<load>>
+else (fungal demo)
+:snobby grange; <<continuous>>
+-> shows sophistication;
+endif
+end split
+:ventriloquist torturing;
+-> ta cotton;
+@enduml

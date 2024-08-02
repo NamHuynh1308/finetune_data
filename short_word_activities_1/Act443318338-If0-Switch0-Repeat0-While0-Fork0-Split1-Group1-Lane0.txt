@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:started of;
+split again
+-[hidden]->
+:apologized canaries;
+-> babble base;
+split again
+-[hidden]->
+:tickle bristol;
+end split
+:general incompetent; <<input>>
+-> facts overcharge;
+group establishing customarily
+:feats heroin;
+stop
+end group
+@enduml

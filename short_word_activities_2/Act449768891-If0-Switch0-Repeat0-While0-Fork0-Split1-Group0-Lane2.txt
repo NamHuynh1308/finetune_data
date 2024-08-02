@@ -1,0 +1,23 @@
+@startuml
+|1| talkie reactions
+|2| wo skills
+split
+-[hidden]->
+:combine finer;
+split again
+-[hidden]->
+:padded emphatic; <<task>>
+split again
+-[hidden]->
+:consented skinner; <<input>>
+-> president thrift;
+end split
+:concepts spun; <<procedure>>
+-> rolls pervert;
+|2|
+:unhand derogatory;
+-> nightingale corners;
+|1|
+:surviving apologies; <<load>>
+end
+@enduml

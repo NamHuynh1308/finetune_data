@@ -1,0 +1,21 @@
+@startuml
+participant "bathe slope" as 0
+participant "lymph catty" as 1
+participant "molding dispense" as 2
+box "scatter detonators"
+participant "incrimination goofball" as 3
+end box
+== foothold chaplain ==
+autonumber 0 4
+3 ->o 1: genie ems
+...yells outlast...
+2 ->o 1++ : treachery televised
+3 ->x 3: buffs sapphire
+opt infidelity clan
+...virtuoso purple...
+3 ->> 2++ : spiny creepers
+0 --//o 0: berg adult
+end
+return disintegrated abrasive
+return riding chestnuts
+@enduml

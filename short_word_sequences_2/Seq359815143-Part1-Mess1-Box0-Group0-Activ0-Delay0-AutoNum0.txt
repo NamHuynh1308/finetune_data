@@ -1,0 +1,5 @@
+@startuml
+participant "bethesda hidden" as 0
+== seaweed splicing ==
+0 -> 0: hailing whirlwind
+@enduml

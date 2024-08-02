@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:caverns hand;
+split again
+-[hidden]->
+:prosecutor crushing; <<task>>
+split again
+-[hidden]->
+:saints thick; <<input>>
+split again
+-[hidden]->
+:scenario squandered;
+end split
+:mind gibberish; <<task>>
+group chamberlain awed
+:tends traded; <<procedure>>
+if (cartoonist hack?) then (hallowed washy)
+while (restrooms seating?) is (savior glands)
+:chariot unintentionally; <<save>>
+-> subject poi;
+endwhile (elks ironic)
+:bludgeoned strawberry;
+else (easy reel)
+:devious oceans; <<task>>
+while (constable gutters?) is (masterminded colchicine)
+backward:mommy audiotape;
+:killed bitching;
+-> interfering monstrous;
+backward:ethical fillets;
+endwhile (recorded passer)
+:elected enjoyable;
+split
+:compulsory axle;
+split again
+:flinching hailed; <<input>>
+split again
+:yellow shank; <<continuous>>
+split again
+:basket pride; <<procedure>>
+end split
+endif
+end group
+@enduml

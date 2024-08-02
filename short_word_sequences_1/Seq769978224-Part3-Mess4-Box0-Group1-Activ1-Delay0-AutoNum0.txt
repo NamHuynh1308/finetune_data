@@ -1,0 +1,14 @@
+@startuml
+participant "aloft commander" as 0
+participant "decapitation garb" as 1
+== verdict disappoints ==
+0 --//o 0: skepticism poem
+opt cauldron sphinx
+0 -> 0++ : favorite low
+create participant "molten ransom" as 2
+0 -> 2 : molten ransom
+else stiffer disturbing
+1 -> 2: priss posing
+return eldest lets
+end
+@enduml

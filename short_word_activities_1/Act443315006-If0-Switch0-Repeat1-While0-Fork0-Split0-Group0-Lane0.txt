@@ -1,0 +1,11 @@
+@startuml
+repeat
+:banker mayhem; <<load>>
+-> deck instructed;
+:democrats practising; <<task>>
+-> alerted potassium;
+repeat while (irony outlived?) is (felt sloshed)
+:acre simultaneously; <<task>>
+-> scored coastal;
+end
+@enduml

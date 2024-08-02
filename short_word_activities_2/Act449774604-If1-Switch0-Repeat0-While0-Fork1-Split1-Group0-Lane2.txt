@@ -1,0 +1,40 @@
+@startuml
+|1| immaculate goldenrod
+|2| clinches snakeskin
+split
+-[hidden]->
+:madame excommunicated;
+split again
+-[hidden]->
+:sympathy owning;
+-> froze cholesterol;
+split again
+-[hidden]->
+:shaped jerking; <<output>>
+-> bustier tenderness;
+split again
+-[hidden]->
+:handbags diversions; <<save>>
+-> shown habitat;
+end split
+:chickening placid;
+|2|
+:bosomy parenthood; <<output>>
+-> responsive lick;
+fork
+:fallacy compilation;
+fork again
+:sleigh seduced;
+-> lotto oversee;
+fork again
+if (speed baths?) then (unmentionables proctologist)
+:exchanging bears;
+:grants hostile; <<procedure>>
+else (dripped misprint)
+:drowned unnerved;
+:kit sunken; <<load>>
+:cuss caregiver; <<continuous>>
+endif
+end merge
+end
+@enduml

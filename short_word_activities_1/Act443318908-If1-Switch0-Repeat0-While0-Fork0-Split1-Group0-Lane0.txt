@@ -1,0 +1,15 @@
+@startuml
+if (outrun food?) then (grieve concede)
+split
+:trinkets everlasting;
+split again
+:sculptor strenuously;
+split again
+:despite sri; <<input>>
+end split
+else (please warriors)
+:unbeknownst browns;
+-> cupcake proteus;
+endif
+:unexpected rivals;
+@enduml

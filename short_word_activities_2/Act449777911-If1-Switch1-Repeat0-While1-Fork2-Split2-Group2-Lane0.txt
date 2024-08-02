@@ -1,0 +1,64 @@
+@startuml
+split
+-[hidden]->
+:favors ah;
+split again
+-[hidden]->
+:location labour;
+split again
+-[hidden]->
+:slavery undergarments; <<save>>
+split again
+-[hidden]->
+switch (classification cactus?)
+case (monoxide ungrateful?)
+:clarify french; <<procedure>>
+case (expresses mobility?)
+:purposes fills;
+endswitch
+end split
+group flips mescaline
+:weepy elms;
+-> pinata flannel;
+fork
+:maintaining invites;
+fork again
+if (tushie knoll?) then (overheating smelly)
+:clipping ana; <<save>>
+:bio flammable; <<input>>
+-> watching bouncy;
+:gaslight argyle;
+-> crocodiles attacker;
+else (staff kaleidoscope)
+:tax scurrying;
+:investigation controls;
+while (technical vile?) is (writ scares)
+backward:hummed thumbing;
+:swelled cupcake;
+endwhile (banging kid)
+-[hidden]->
+detach
+endif
+fork again
+fork
+:cutters presume;
+fork again
+:friendlier joyful;
+fork again
+:mariners hugger;
+end merge
+end merge
+end group
+group dipped attracted
+split
+:nervous prancer;
+split again
+:verbs reiterate; <<load>>
+-> marker closes;
+split again
+:postpone maya; <<task>>
+-> fixer pimp;
+end split
+stop
+end group
+@enduml

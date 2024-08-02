@@ -1,0 +1,7 @@
+@startuml
+box "podium delays"
+participant "punctured hoped" as 0
+end box
+autonumber 8 1
+0 --//o 0: discounting doorman
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+box "pitchers hydra"
+participant "swig orphanage" as 0
+box "highlights hallucinations"
+participant "trained discourse" as 1
+participant "colds elbows" as 2
+end box
+end box
+== division rethink ==
+autonumber 0 2
+0 -> 2++ : negatively takes
+...stools sickening...
+1 ->x 0++ : traveller paving
+1 -> 0: biggie strap
+return swami ecstatic
+autonumber stop
+return musing decadent
+@enduml

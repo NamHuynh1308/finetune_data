@@ -1,0 +1,27 @@
+@startuml
+start
+group loudly taxed
+fork
+:trembling demure;
+fork again
+:boardroom redundant;
+-> neurosurgery delinquent;
+fork again
+:rendered fluffing;
+fork again
+if (snatchers quahog?) then (screen pigsty)
+(wreak impress) elseif (smock watering?) then (beheading gathers)
+:cinema vector;
+(hanky excursion) elseif (speedometer swing?) then (hammock rubs)
+:kismet schizoid; <<load>>
+(curry monstrous) elseif (arguably carl?) then (grudge cute)
+:hessian caterer;
+(albatross eraser) elseif (highlighted refocus?) then (overheated pungent)
+:frequently loaned;
+endif
+end merge
+:discuss key;
+-> parlor welder;
+end group
+end
+@enduml

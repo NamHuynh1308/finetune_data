@@ -1,0 +1,20 @@
+@startuml
+participant "barged buddies" as 0
+participant "eros terrifically" as 1
+participant "writer speller" as 2
+autonumber 2 1
+alt defended cucumber
+ [-> 1: floundering holographic
+ [-> 2: alarms themed
+autonumber stop
+else hap stepping
+...greens liable...
+1 -> 0: meddled discharged
+else roadhouse vixens
+...supposition lubricants...
+1 -\\ 2++ : fatigue tater
+autonumber resume
+else pro snapping
+end
+return fantasyland tambourine
+@enduml

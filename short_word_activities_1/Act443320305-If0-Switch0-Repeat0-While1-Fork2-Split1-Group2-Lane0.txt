@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:revolution elevates;
+split again
+-[hidden]->
+fork
+:confession internship;
+fork again
+:tabloid reassigning;
+fork again
+:implication oxford;
+fork again
+:message entrance; <<save>>
+-> transformed escalating;
+end fork
+split again
+-[hidden]->
+:matrimonial aerobic; <<output>>
+split again
+-[hidden]->
+fork
+:loss cozy;
+fork again
+:nativity governor;
+fork again
+:prudes understands;
+end fork
+end split
+group honeymoon tremors
+:telex aced; <<procedure>>
+:howling stuffy; <<procedure>>
+-> have independence;
+end group
+group divorced ag
+while (engine accept?) is (suggestive disillusionment)
+:laughed tipped; <<load>>
+-> arrogant spent;
+:companions eaves; <<output>>
+-> limestone implant;
+endwhile (mariner missionary)
+:german reclaim;
+stop
+end group
+@enduml

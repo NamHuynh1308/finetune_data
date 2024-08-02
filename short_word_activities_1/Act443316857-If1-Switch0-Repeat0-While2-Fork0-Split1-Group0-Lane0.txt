@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:parishioners textbooks;
+split again
+-[hidden]->
+if (cover nerve?) then (fleeting sarcophagus)
+:condos reduced;
+while (freckle climbing?) is (catholic offending)
+:chigger massive;
+endwhile (booth waiting)
+-[hidden]->
+detach
+else (mention shield)
+:strategist sex; <<load>>
+-> perspiration important;
+:resign ambulances;
+:dinged buns;
+endif
+split again
+-[hidden]->
+while (provoke certifiable?) is (soot polymerization)
+:refuses cleverness; <<output>>
+-> raiders crikey;
+:regrettable fortieth; <<input>>
+endwhile (hostiles uninvited)
+:digger ability;
+split again
+-[hidden]->
+:chamomile rightful; <<output>>
+end split
+:construction shake; <<output>>
+-> grounds nite;
+:text photograph; <<task>>
+stop
+@enduml

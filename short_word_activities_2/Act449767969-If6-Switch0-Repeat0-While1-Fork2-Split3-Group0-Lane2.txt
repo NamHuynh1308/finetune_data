@@ -1,0 +1,103 @@
+@startuml
+|1| gorge bluebells
+|2| wipe other
+|1|
+start
+if (sloppy sings?) then (venomous fanciful)
+split
+:transmitter rehearsing;
+split again
+:juices sevens;
+-> vanquished incomprehensible;
+split again
+:junky merchandising;
+split again
+:teams prevail; <<continuous>>
+-> firsthand friendliest;
+end split
+:buffy enhancer;
+else (vroom dirt)
+fork
+:rubbed trash;
+fork again
+:recommendation governmental;
+fork again
+:ransom gave; <<continuous>>
+end merge
+split
+:camps deem;
+split again
+:hums coupling; <<save>>
+split again
+:contingencies deejay; <<task>>
+-> bottoms mush;
+end split
+endif
+|2|
+split
+:feuds accused;
+split again
+if (impact conceiving?) then (beeper imagery)
+:zeroed archaic;
+else (jordan kale)
+:laser hotter;
+:moans plummeting; <<save>>
+-> implicitly elevator;
+:referring postmark;
+endif
+split again
+if (blank defending?) then (lesson renounce)
+:alien cerulean;
+:verger offbeat; <<task>>
+else (ump wastebasket)
+:undergo month;
+-> underpaid procession;
+:believers mount;
+endif
+split again
+:increments crusts; <<continuous>>
+end split
+|1|
+if (burst account?) then (honorable ecumenical)
+(doozy terrifying) elseif (appointment supermodel?) then (cooled backslide)
+if (exterminator hallucinogen?) then (grills nay)
+:brute gentlemen;
+-> messing disasters;
+:muscular disciplined;
+:stupider focus; <<save>>
+-> drink barb;
+while (frigate excuses?) is (passengers deaf)
+backward:chaperon facilitate;
+backward:lollipops jerks;
+endwhile (milling poetic)
+-[hidden]->
+detach
+else (namely fatten)
+:ranchers boozing; <<save>>
+endif
+(doubled zipping) elseif (forbade intros?) then (evaluate fatality)
+if (taxidermist relaxed?) then (exceeded yams)
+:unadvisedly showbiz;
+-> pals badminton;
+else (looting sighting)
+:allowance swerve;
+endif
+(myriad rectum) elseif (confidant stew?) then (abominable dearie)
+:nurtured hurl; <<continuous>>
+(drugs cringe) elseif (variable writer?) then (garish knifed)
+fork
+:chancellor since;
+fork again
+:abundance hates; <<output>>
+-> dove disappeared;
+fork again
+:overrun extracted;
+fork again
+:poem benthic; <<load>>
+end merge
+endif
+:doorknobs ladders; <<load>>
+|2|
+:coke genie;
+-> asked teenybopper;
+@enduml

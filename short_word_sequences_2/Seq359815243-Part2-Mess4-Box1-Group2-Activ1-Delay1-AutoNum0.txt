@@ -1,0 +1,17 @@
+@startuml
+participant "surely fill" as 0
+box "woodshed hurdles"
+participant "plating sinners" as 1
+end box
+opt hearse relegated
+0 -> 1: refugee toughness
+1 ->x 0: blew ballistics
+else creatures blotto
+critical schoolboy trends
+...acre racked...
+1 -> 1++ : attendance thorpe
+0 -// 1: kiddie tidings
+end
+end
+return downer ignore
+@enduml

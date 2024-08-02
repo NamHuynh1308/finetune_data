@@ -1,0 +1,17 @@
+@startuml
+box "sensitivity attempting"
+participant "compilation widower" as 0
+box "seam subbasement"
+participant "amah drink" as 1
+participant "saucer sunshine" as 2
+end box
+box "johns ignorance"
+participant "sinus daring" as 3
+end box
+end box
+autonumber 10 4
+1 -->x 2: cad deadlier
+1 --> 0: dreamed lord
+2 ->> 2: herding felonies
+0 -// 1: difficulties era
+@enduml

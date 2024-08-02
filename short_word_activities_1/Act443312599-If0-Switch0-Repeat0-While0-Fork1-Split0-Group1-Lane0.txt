@@ -1,0 +1,15 @@
+@startuml
+start
+group bagel begin
+:distances motels;
+-> tor cavern;
+fork
+:yours pun;
+fork again
+:sleepers burst; <<output>>
+fork again
+:syllable correspondents; <<continuous>>
+end merge
+stop
+end group
+@enduml

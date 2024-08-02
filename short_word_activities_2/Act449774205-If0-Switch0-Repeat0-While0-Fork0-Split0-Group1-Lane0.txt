@@ -1,0 +1,9 @@
+@startuml
+start
+:journals yeller; <<load>>
+group slacker bracing
+:stated bull; <<output>>
+-> toes rests;
+stop
+end group
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+start
+:cautious courage; <<load>>
+-> regulation lodged;
+@enduml

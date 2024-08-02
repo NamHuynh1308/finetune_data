@@ -1,0 +1,8 @@
+@startuml
+participant "yokels wedges" as 0
+participant "linking shack" as 1
+autonumber 9 5
+1 -// 0: eunuch maverick
+autonumber stop
+1 -->x 0: bod consisted
+@enduml

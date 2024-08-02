@@ -1,0 +1,19 @@
+@startuml
+participant "militants inflexible" as 0
+participant "enterprises freer" as 1
+box "assholes squalor"
+participant "troublemakers nappy" as 2
+end box
+== brewery sad ==
+1 <-] : along multiplication
+critical epileptic reminisce
+create participant "stashed straddling" as 3
+0 -> 3 : stashed straddling
+loop boycott welt
+1 -> 1: critics safes
+...pain concessions...
+1 -> 0!! : scald association
+else recognised fireman
+end
+end
+@enduml

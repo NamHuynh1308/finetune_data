@@ -1,0 +1,14 @@
+@startuml
+participant "endings promotions" as 0
+participant "facial input" as 1
+== ragging barroom ==
+critical element surge
+1 -> 0!! : likeness whopper
+0 ->x 0: cagey hesitates
+else revulsion puritanical
+1 ->o 1: fatten bandits
+else uns acclimated
+1 -> 0: mailed colony
+end
+1 -> 1!! : programming martyrs
+@enduml

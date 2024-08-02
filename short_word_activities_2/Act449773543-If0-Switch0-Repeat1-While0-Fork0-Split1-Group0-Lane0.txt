@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:tipped rank;
+split again
+-[hidden]->
+:enjoy letters; <<save>>
+split again
+-[hidden]->
+:flyboy rethink; <<task>>
+-> finish oats;
+split again
+-[hidden]->
+repeat
+backward:steerage roman;
+:raided collaboration;
+repeat while (shits excluded?) is (pout adds)
+end split
+:zeal heigh; <<procedure>>
+end
+@enduml

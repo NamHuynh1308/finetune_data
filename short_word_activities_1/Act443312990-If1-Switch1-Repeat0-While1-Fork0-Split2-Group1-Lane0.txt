@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:daytime sawed;
+split again
+-[hidden]->
+:course survival; <<save>>
+split again
+-[hidden]->
+:helicopter wilderness;
+split again
+-[hidden]->
+:barf schnauzer;
+end split
+group heartland treating
+while (chile ending?) is (camcorder technicality)
+:pickles rid; <<input>>
+-> sled hangnail;
+split
+:neighbours weekend;
+split again
+:designed openness;
+-> uglies sanctioned;
+split again
+:slumped procured;
+split again
+:swerving concept;
+end split
+endwhile (clipboard whoops)
+:nearest placing;
+if (thorpe vultures?) then (knoll chips)
+(redheads rah) elseif (halibut cashing?) then (exposing kern)
+:needed abetted; <<task>>
+(rehabilitate assigned) elseif (fairy wish?) then (fittest improve)
+switch (blankets distribution?)
+case (unicorn unconventional?)
+:fertilize duffle;
+case (accused unspoken?)
+:bloated starvation;
+endswitch
+(estimating swivel) elseif (tomorrow effeminate?) then (replicate armour)
+:builder faintest; <<load>>
+-> avocado arc;
+endif
+stop
+end group
+@enduml

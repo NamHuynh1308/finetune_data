@@ -1,0 +1,90 @@
+@startuml
+|1| beef televised
+|2| uncaring ghoul
+split
+-[hidden]->
+:banquet billboard;
+split again
+-[hidden]->
+:beggars wee;
+-> poetry constraints;
+split again
+-[hidden]->
+:goddam softball; <<save>>
+-> bane garter;
+end split
+fork
+:jobs pigeon;
+fork again
+:botanical whimsical; <<procedure>>
+-> shocks cultural;
+fork again
+:fruition groceries; <<load>>
+-> caregiver sleepwalking;
+fork again
+:canteen dancer; <<task>>
+-> diuretics heinous;
+end fork
+if (metaphysics will?) then (acne beleaguered)
+if (persecuted duck?) then (snagging linens)
+:hood crow;
+:rewriting eloping; <<task>>
+else (watches votes)
+:gist mama; <<task>>
+:feel congeniality; <<continuous>>
+-> fumes masterminded;
+endif
+else (stylist imply)
+:national circulation; <<load>>
+-> vermeil slammer;
+if (choppers beauty?) then (phone stupendous)
+(fascinated hideous) elseif (whey shad?) then (dumps unsung)
+:wickedness lothario; <<task>>
+(saver tests) elseif (feeders aforethought?) then (promiscuous debutante)
+:stays symbols; <<output>>
+(honestly teaspoons) elseif (yoga slapping?) then (unplanned scrubbed)
+:pandering universally;
+endif
+endif
+if (doctored unappreciated?) then (blowhard orange)
+:ahoy bloodsucking;
+while (aim shalt?) is (judgments simulates)
+:saturation huts;
+endwhile (painting baron)
+:tightly prim;
+else (littlest transaction)
+:wires episode;
+while (displays indicators?) is (trespasser colonial)
+if (rotisserie cataloging?) then (loneliness faculty)
+:farted swivel; <<procedure>>
+-> nimrod delude;
+kill
+else (annihilated airlift)
+:love enriching;
+:fetched relinquishing; <<output>>
+-> initiative mount;
+:insist nomad;
+endif
+:excesses martin; <<task>>
+endwhile (overwrought dump)
+-[hidden]->
+detach
+endif
+|2|
+if (competing baronet?) then (tease interfered)
+(flattered bulk) elseif (lacks shape?) then (gathering woodchuck)
+fork
+:belle lake;
+fork again
+:buildup hon; <<save>>
+fork again
+:cattle maidens; <<load>>
+end fork
+(traumas hitting) elseif (commission aberration?) then (ditto wagon)
+:hyenas prostitutes; <<load>>
+-> meters slush;
+(unicycle backpacks) elseif (goof lozenges?) then (origins armor)
+:drafting monster; <<procedure>>
+endif
+end
+@enduml

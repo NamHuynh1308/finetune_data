@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:excludes gone;
+split again
+-[hidden]->
+:relying pursuing; <<procedure>>
+split again
+-[hidden]->
+:teeth hop; <<task>>
+-> rousing shadow;
+split again
+-[hidden]->
+:neglect outdo; <<procedure>>
+-> drunks misconstrued;
+end split
+group metal kisser
+:futures garments;
+:auditor hesitating; <<output>>
+-> someone kick;
+fork
+:mimosas stoke;
+fork again
+:vibes weapon; <<task>>
+-> amin yard;
+fork again
+fork
+:craftsmen cuter;
+fork again
+:toppings propane; <<input>>
+fork again
+:enraged users; <<procedure>>
+-> shards roadhouse;
+end merge
+fork again
+:willful crypts;
+end fork
+stop
+end group
+@enduml

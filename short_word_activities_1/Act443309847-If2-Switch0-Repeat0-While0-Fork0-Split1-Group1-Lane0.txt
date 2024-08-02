@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:dyed lax;
+split again
+-[hidden]->
+if (observer troopers?) then (blowout furtive)
+:footnotes instructor;
+else (flunky diverted)
+:sticking discriminate;
+endif
+split again
+-[hidden]->
+if (exhibits venture?) then (declining insists)
+(ashore track) elseif (overbite manifested?) then (breakthrough heh)
+:seemingly repress;
+(stuttering connoisseur) elseif (solicited minivan?) then (pore bigamy)
+:skied kickback;
+(invoices balloons) elseif (featuring pharaohs?) then (mars hallucinations)
+:wheat marcel;
+endif
+end split
+:terrorize triad; <<load>>
+group evolving stolen
+:watchman prescribed; <<output>>
+-> high relevant;
+stop
+end group
+@enduml

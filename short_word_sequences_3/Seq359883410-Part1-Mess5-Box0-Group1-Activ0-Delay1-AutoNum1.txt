@@ -1,0 +1,14 @@
+@startuml
+participant "envelopes estimating" as 0
+autonumber 6 6
+alt epiphany champs
+0 --> 0: singing eleven
+0 -->x 0: repeated snowstorm
+else teller shredder
+0 --//o 0: abigail dickie
+0 ->] : tucking eligible
+else onion roadies
+...equilibrium notice...
+0 ->> 0: sales matched
+end
+@enduml

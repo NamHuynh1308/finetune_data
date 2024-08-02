@@ -1,0 +1,4 @@
+@startuml
+:hinges granting; <<procedure>>
+-> migrate sleight;
+@enduml

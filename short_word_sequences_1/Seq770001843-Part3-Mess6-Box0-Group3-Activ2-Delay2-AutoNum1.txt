@@ -1,0 +1,25 @@
+@startuml
+participant "plausible particles" as 0
+participant "millennium mobs" as 1
+participant "us execs" as 2
+autonumber 6 1
+alt involved resorts
+2 -// 0: invasion latest
+1 ->> 0++ : choirboy limps
+autonumber stop
+alt getting ourselves
+...bambino functional...
+0 -->x 0++ : biblical let
+autonumber resume
+1 -> 1: mini equal
+return weary suicidal
+else killed selectman
+0 -> 1: tassels finishes
+critical grubs demise
+...injuries amuses...
+0 -\\ 0: renounce preface
+end
+end
+end
+return dashboard solution
+@enduml

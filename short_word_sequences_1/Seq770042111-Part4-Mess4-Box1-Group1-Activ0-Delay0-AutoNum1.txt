@@ -1,0 +1,17 @@
+@startuml
+participant "exigent welts" as 0
+participant "fraternal realm" as 1
+box "horrifying butcher"
+participant "lock racking" as 2
+participant "thrills shanks" as 3
+end box
+== coiffure baggy ==
+autonumber 5 9
+2 ->> 2: wrecking poppa
+1 <-] : refused despises
+2 ->] : initials surging
+alt interaction finesse
+2 -->x 3: needed authority
+autonumber stop
+end
+@enduml

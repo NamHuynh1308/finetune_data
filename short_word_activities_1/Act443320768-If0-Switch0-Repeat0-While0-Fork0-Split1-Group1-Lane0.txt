@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:organizations pacemaker;
+split again
+-[hidden]->
+:sugar contusion; <<continuous>>
+split again
+-[hidden]->
+:forthright millions; <<procedure>>
+end split
+:outpost utilities; <<output>>
+group unduly consumed
+:fornicating rid; <<task>>
+stop
+end group
+@enduml

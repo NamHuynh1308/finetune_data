@@ -1,0 +1,7 @@
+@startuml
+start
+group inquisitor rounds
+:laxative hook; <<output>>
+stop
+end group
+@enduml

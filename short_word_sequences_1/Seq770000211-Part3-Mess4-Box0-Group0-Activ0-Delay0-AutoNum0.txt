@@ -1,0 +1,10 @@
+@startuml
+participant "exonerated indistinguishable" as 0
+participant "brad newscast" as 1
+== segment bite ==
+0 ->x 1: bordering colonial
+create participant "caress should" as 2
+1 -> 2 : caress should
+0 ->x 2: dedicated deserving
+0 ->x 2: panda boom
+@enduml

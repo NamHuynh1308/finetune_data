@@ -1,0 +1,21 @@
+@startuml
+start
+:performed patting; <<task>>
+group chapel permitting
+split
+:whistle conventional;
+split again
+:glamor chirp;
+split again
+:bakeries chuckles; <<load>>
+-> arcade bonding;
+split again
+while (functional duration?) is (mollusk ace)
+:fellows pragmatist;
+:eldest expedition;
+endwhile (skyscrapers nailed)
+:stifling whittled;
+end split
+stop
+end group
+@enduml

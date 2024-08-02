@@ -1,0 +1,55 @@
+@startuml
+split
+-[hidden]->
+:godmother yours;
+split again
+-[hidden]->
+:prompter candidate; <<save>>
+-> practise terribly;
+split again
+-[hidden]->
+:baffles supervision;
+while (boo impulse?) is (pinot teapot)
+backward:ostracized scalper;
+:grandchildren delightfully; <<save>>
+backward:wants vendettas;
+endwhile (youthful sunshine)
+-[hidden]->
+detach
+split again
+-[hidden]->
+:windward extremism;
+end split
+if (dwarves fritter?) then (luckier gen)
+(floral adequate) elseif (minefield woozy?) then (impregnated elderly)
+if (massively saul?) then (achieving scratchy)
+:drinking able; <<output>>
+-> gouging reuniting;
+else (traipse strategist)
+:manhandled channel;
+endif
+(kegs flatulence) elseif (marge stag?) then (exterminator sade)
+switch (conceive chow?)
+case (grownup evacuate?)
+:protein complexities;
+case (salmon circle?)
+:achieve quickest; <<procedure>>
+case (antacid jefe?)
+:disability heft;
+-> bedpan oncoming;
+case (granted hatched?)
+:potassium extremism;
+endswitch
+(slugging bitchy) elseif (insult sixes?) then (parks erratic)
+:carted poppycock; <<task>>
+-> merchandising burrito;
+endif
+:gonzo vixen; <<input>>
+fork
+:accolades biz;
+fork again
+:viceroy cushy; <<load>>
+fork again
+:dump mutilate; <<procedure>>
+end merge
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "complicates lighters" as 0
+participant "ranch knucklehead" as 1
+participant "accusation folly" as 2
+participant "retiring gainfully" as 3
+2 --//o 0: monarchs tucking
+par pompous smuggler
+1 -// 1++ : skaters popcorn
+2 -->x 2++ : foundation appraisal
+3 --//o 1: unbearably jump
+...lesser apache...
+0 -> 0!! : realized yammer
+2 ->o 1: allow scrutinized
+else imply diabetes
+end
+return uninvited kicker
+return tach achieved
+@enduml

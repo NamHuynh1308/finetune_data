@@ -1,0 +1,23 @@
+@startuml
+participant "birdies coopers" as 0
+box "rockers dapper"
+participant "oak thirds" as 1
+participant "excuse overweight" as 2
+participant "imprisonment anchor" as 3
+participant "midwestern cutter" as 4
+end box
+== impact pleadings ==
+autonumber 10 5
+2 -->x 2: chirp lowers
+ [<- 0: abruptly teller
+autonumber stop
+ [<- 4: extinction mocked
+autonumber resume
+1 ->o 0: thataway defraud
+alt psychologically badgered
+3 <-] : whammo burglar
+autonumber stop
+1 --//o 0: nifty inhaled
+autonumber resume
+end
+@enduml

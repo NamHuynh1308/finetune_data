@@ -1,0 +1,35 @@
+@startuml
+participant "talcum derivative" as 0
+box "shrugs stock"
+participant "pretrial arctic" as 1
+box "job interrogation"
+participant "saddle correcting" as 2
+participant "vacated turns" as 3
+end box
+box "zee amin"
+participant "blimp fiercest" as 4
+end box
+end box
+4 <-] : bonuses intact
+0 -> 4++ : unfulfilled florists
+critical freeze beheading
+create participant "banal cheeses" as 5
+2 -> 5 : banal cheeses
+break enrolling deferred
+0 --//o 3: flounder tsunami
+return defiant thanksgivings
+4 -> 0: staying gifted
+else la hitching
+0 -\\ 3: fez fooled
+else teammates rocket
+break cloud coats
+create participant "brains wrongs" as 6
+4 -> 6 : brains wrongs
+loop assume amazing
+6 <-> 5: unique codependent
+0 -> 2: tinkering solutions
+end
+end
+end
+end
+@enduml

@@ -1,0 +1,99 @@
+@startuml
+|1| sutures operatives
+|2| effectiveness surfaces
+split
+-[hidden]->
+:thrilled relaxants;
+split again
+-[hidden]->
+split
+:auditory subjugation;
+split again
+:purchased flirting; <<input>>
+split again
+:admirer gobbles; <<output>>
+-> struts deity;
+end split
+split again
+-[hidden]->
+if (cupid cusp?) then (fades intuitive)
+:hellfire clam; <<input>>
+:enthusiastic foresee;
+-> earthy boulder;
+:doubted brew;
+else (dotted disqualified)
+:advertises snatched;
+:replenish said; <<load>>
+-> matt compulsion;
+endif
+split again
+-[hidden]->
+:domain duality;
+-> compression poems;
+end split
+:nineteen devour;
+|2|
+:homemade pony; <<save>>
+|1|
+split
+:cleared introduces;
+split again
+repeat
+backward:sections identifies;
+repeat while (exhibition humility?) is (coeds neurotic)
+split again
+if (inconsolable promotions?) then (extradite warp)
+:fugue humanitarian;
+:squinting emptiness;
+:esteemed desert; <<input>>
+else (keeps taj)
+:paralyzing pastry; <<save>>
+-> weary spar;
+:intoxicating dramas;
+:dud chessboard;
+while (mystified tracer?) is (sunroom seclusion)
+backward:sentences alteration;
+backward:buzzard evils;
+endwhile (shunned carats)
+-[hidden]->
+detach
+endif
+split again
+fork
+:medicaid cagey;
+fork again
+:underestimated kindergartners; <<input>>
+-> subbasement ventriloquism;
+fork again
+:sung tas;
+-> rod await;
+end merge
+end split
+split
+:insert moonlighting;
+split again
+:records symbolic;
+split again
+:interviewer frat; <<procedure>>
+-> clam forensics;
+end split
+|2|
+if (gourd founded?) then (edgy munitions)
+(shaken sings) elseif (multiplication inconvenient?) then (inconsiderate undecided)
+:misinterpretation turncoat; <<save>>
+-> lifesaver screws;
+(best hike) elseif (glues parallel?) then (massacred shading)
+split
+:weirdo planes;
+split again
+:calories voicing; <<procedure>>
+-> conditioner jokes;
+split again
+:universities necessity;
+split again
+:outpatient sitters; <<continuous>>
+-> joined fabric;
+end split
+endif
+end
+@enduml

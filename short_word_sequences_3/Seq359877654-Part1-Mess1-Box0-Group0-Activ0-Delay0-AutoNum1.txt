@@ -1,0 +1,5 @@
+@startuml
+participant "mollusk renown" as 0
+autonumber 2 8
+0 -> 0: fibre infecting
+@enduml

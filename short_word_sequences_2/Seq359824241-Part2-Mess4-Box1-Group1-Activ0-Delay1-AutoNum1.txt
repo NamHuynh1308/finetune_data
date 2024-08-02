@@ -1,0 +1,18 @@
+@startuml
+box "dummkopf hoagie"
+participant "diets association" as 0
+participant "electrocuted inhuman" as 1
+end box
+autonumber 1 2
+alt puzzles true
+0 --> 1: discussions reeling
+0 -> 1!! : suckers woo
+autonumber stop
+else purgatory counts
+1 --> 1: budding astrophysics
+autonumber resume
+else brokenhearted mangoes
+...tripped pledge...
+1 -> 0: solved evict
+end
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+participant "stocked muzzle" as 0
+box "learn elbow"
+participant "search homos" as 1
+participant "smear sharpens" as 2
+end box
+participant "fondling mash" as 3
+autonumber 8 7
+opt shore grandstand
+3 -\\ 2: consigliere trustee
+autonumber stop
+...firstly credits...
+1 ->> 3: irritated cops
+2 -> 1: spinster retribution
+autonumber resume
+else follow relapse
+break intermediary giraffes
+2 --> 3: overslept prelim
+ [-> 1: hung mole
+else occurrence trainer
+3 <-> 1++ : different rose
+end
+0 --//o 1: mentioning merrily
+end
+return humbug goodwill
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+box "nutcracker mor"
+participant "snapping crikey" as 0
+participant "reform fingertips" as 1
+end box
+box "liquored sparrow"
+participant "dissatisfied twilight" as 2
+participant "fashioned isolation" as 3
+end box
+== dynasty plow ==
+autonumber 7 1
+0 <-> 3: nightstand personified
+2 -> 0: owners vamps
+loop bow lode
+3 -->x 0: lied frighten
+autonumber stop
+1 ->x 1: worshippers refueling
+end
+loop blouse tortures
+0 -> 2!! : activate pardner
+end
+@enduml

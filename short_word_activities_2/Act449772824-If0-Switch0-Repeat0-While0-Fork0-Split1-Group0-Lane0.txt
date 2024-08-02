@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:shipments overcooked;
+split again
+-[hidden]->
+:hereafter ally; <<output>>
+split again
+-[hidden]->
+:writing repugnant;
+end split
+:baste slimy; <<procedure>>
+:inducing videotape; <<load>>
+stop
+@enduml

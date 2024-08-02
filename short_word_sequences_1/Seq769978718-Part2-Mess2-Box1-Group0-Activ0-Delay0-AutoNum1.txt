@@ -1,0 +1,10 @@
+@startuml
+box "species drew"
+participant "leadership usefulness" as 0
+end box
+== balls ballots ==
+autonumber 4 9
+create participant "hen skimming" as 1
+0 -> 1 : hen skimming
+0 -\\ 0: cooing macaroni
+@enduml

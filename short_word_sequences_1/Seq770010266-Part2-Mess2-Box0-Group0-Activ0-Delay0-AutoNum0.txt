@@ -1,0 +1,6 @@
+@startuml
+participant "membranes cuddled" as 0
+participant "poultry sing" as 1
+1 -// 0: mushy accessing
+1 -> 1: lyrical signifies
+@enduml

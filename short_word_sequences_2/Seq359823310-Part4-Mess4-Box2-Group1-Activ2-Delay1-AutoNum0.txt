@@ -1,0 +1,19 @@
+@startuml
+participant "events dispose" as 0
+box "blueberry shove"
+participant "grassy jersey" as 1
+participant "yodel representative" as 2
+end box
+box "gaslight intelligence"
+participant "regain countryside" as 3
+end box
+3 -// 2++ : divers prosecutors
+...canceled nudity...
+1 ->] : obey moot
+alt flooded numbered
+1 -> 1++ : spokes solarium
+2 -// 3: shocks harem
+end
+return sling macho
+return quitter sector
+@enduml

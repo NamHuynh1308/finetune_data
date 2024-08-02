@@ -1,0 +1,11 @@
+@startuml
+split
+:unexpected facedown;
+split again
+:predicament incriminating; <<output>>
+split again
+:haircut terrifically;
+-> businesswoman morales;
+end split
+stop
+@enduml

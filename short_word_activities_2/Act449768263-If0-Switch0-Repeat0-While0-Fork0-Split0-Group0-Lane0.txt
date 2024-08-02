@@ -1,0 +1,5 @@
+@startuml
+:tire sly; <<input>>
+-> goalie mor;
+stop
+@enduml

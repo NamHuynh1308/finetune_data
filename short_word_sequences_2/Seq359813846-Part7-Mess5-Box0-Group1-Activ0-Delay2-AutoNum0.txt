@@ -1,0 +1,18 @@
+@startuml
+participant "forgive gemma" as 0
+participant "aching dives" as 1
+participant "germ breach" as 2
+participant "maidens urge" as 3
+participant "buried gift" as 4
+0 ->x 4: lows reporters
+create participant "monsieur roundabout" as 5
+2 -> 5 : monsieur roundabout
+create participant "thistle jellies" as 6
+0 -> 6 : thistle jellies
+...epsilon fistfight...
+1 ->] : call scientist
+par patterns kegs
+...martyr crossbow...
+1 -> 2: behind swede
+end
+@enduml

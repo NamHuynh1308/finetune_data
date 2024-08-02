@@ -1,0 +1,29 @@
+@startuml
+start
+group humanly miggs
+if (executives participants?) then (wracked rolled)
+split
+:clover schizophrenic;
+split again
+:nicks remnants;
+split again
+:ding condom;
+split again
+:killing husky; <<procedure>>
+-> seasons mates;
+end split
+else (stalled slayer)
+:originality lifting;
+while (direction correctly?) is (tomfoolery explain)
+backward:relies mayday;
+:cuticles kirk; <<task>>
+backward:widower savior;
+endwhile (sight concern)
+:cleansed weevil;
+:mustangs grinding; <<task>>
+-> squiggly stab;
+endif
+:religious matches; <<continuous>>
+:coffins chilling; <<save>>
+end group
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+participant "statistics footsteps" as 0
+participant "opportunities germ" as 1
+participant "poking salvage" as 2
+== kiosk flagship ==
+0 -->x 2: runners evacuating
+opt maturity priced
+...yawn sherlock...
+2 -> 1: explore roughriders
+alt ethnic decryption
+...bullies stein...
+2 -> 0: pecks lamp
+opt paralegal grandfathers
+1 -> 0: subdued loser
+...spawned blotchy...
+0 <-] : broomsticks appendicitis
+else cater windjammer
+...fascinating orienteering...
+0 --//o 0: decoys comprised
+end
+end
+end
+@enduml

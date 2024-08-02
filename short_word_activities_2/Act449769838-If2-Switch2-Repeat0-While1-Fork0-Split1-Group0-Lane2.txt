@@ -1,0 +1,62 @@
+@startuml
+|1| philosopher salinas
+|2| purchasing pretending
+|1|
+start
+:wrangler trouper; <<task>>
+split
+:probationary sonata;
+split again
+:invalid vault; <<input>>
+split again
+:frightfully able; <<input>>
+end split
+:seventeenth sinned; <<continuous>>
+-> lightening fudge;
+if (condensed suicides?) then (deprecating grocer)
+(pyromaniac dividends) elseif (assumptions wrinkles?) then (mirrors playgrounds)
+:cutesy occult; <<save>>
+-> thanks fifth;
+(wildly trend) elseif (stick aga?) then (appointing pooling)
+switch (airman embalmed?)
+case (warfarin sharpest?)
+:bamboo kingpin;
+while (unconditional occupation?) is (thus fault)
+:classrooms friendless;
+-> losers pastels;
+backward:offset diluted;
+backward:triceps coats;
+endwhile (analyzing scenario)
+-[hidden]->
+detach
+case (conservative correlation?)
+:revealed determining; <<task>>
+-> stifling lasts;
+case (almond scarier?)
+:sweetness all; <<save>>
+endswitch
+(sacrilege wailing) elseif (mound admitted?) then (can minerals)
+switch (lament ejection?)
+case (helplessly sublevel?)
+:jughead others;
+case (incubators lid?)
+:milt stubble; <<output>>
+case (curled barley?)
+:pesky superpower; <<task>>
+case (sweetbreads wary?)
+:platform bulldozers;
+endswitch
+(hurley dutiful) elseif (shore interruptions?) then (waterbed rioting)
+if (complaining hobbit?) then (bikini cellars)
+:wimps eyeful; <<output>>
+-> privilege diamond;
+:calculating created;
+kill
+else (avocado chemical)
+:trading vine; <<continuous>>
+-> heals backdrop;
+:spill market;
+endif
+endif
+stop
+@enduml

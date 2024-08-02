@@ -1,0 +1,8 @@
+@startuml
+participant "vomit veil" as 0
+box "survey crossing"
+participant "telegram sign" as 1
+end box
+0 <-] : floundering raved
+0 <-> 1: ritualistic firmly
+@enduml

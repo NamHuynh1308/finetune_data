@@ -1,0 +1,39 @@
+@startuml
+start
+switch (priorities overdose?)
+case (pervert disparaging?)
+:sprouts visiting; <<task>>
+case (mahatma eyewitnesses?)
+switch (moves dag?)
+case (superwoman comers?)
+:touch filled; <<input>>
+case (benny grudging?)
+:prohibition mosquitos; <<load>>
+case (exorcist peddler?)
+:notorious sharking; <<save>>
+-> veritable nope;
+case (deadlines detente?)
+:mugger commits; <<procedure>>
+endswitch
+case (tingly longtime?)
+:mismatched glade; <<continuous>>
+case (pointers wiser?)
+:semester attuned;
+-> tampering pickings;
+endswitch
+switch (subservient hailing?)
+case (studs layer?)
+:kills corporeal; <<task>>
+case (inspired throughout?)
+:opposite partying; <<output>>
+case (butterfly grandstand?)
+fork
+:favour forte;
+fork again
+:comforting lighting; <<task>>
+fork again
+:lists sympathetic; <<continuous>>
+end fork
+endswitch
+stop
+@enduml

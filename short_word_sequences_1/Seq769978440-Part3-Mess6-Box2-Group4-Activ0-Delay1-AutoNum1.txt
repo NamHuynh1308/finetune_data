@@ -1,0 +1,25 @@
+@startuml
+participant "firing freckle" as 0
+box "knowledge groundhog"
+participant "chariot rhino" as 1
+box "disguised paws"
+participant "labored eighth" as 2
+end box
+end box
+autonumber 1 0
+1 --> 0: gibberish cling
+critical flunked fallback
+...pancakes sedated...
+2 -// 2: cappuccino splurge
+critical packet visage
+2 -> 2!! : statues deposits
+0 --//o 2: whatchamacallit threw
+break vegetables invalid
+ [<- 0: cornflakes pull
+alt conclusion yapping
+0 -> 0!! : regular killer
+end
+end
+end
+end
+@enduml

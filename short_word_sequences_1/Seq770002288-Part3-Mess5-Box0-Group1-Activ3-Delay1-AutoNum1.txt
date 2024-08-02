@@ -1,0 +1,20 @@
+@startuml
+participant "handles prosecution" as 0
+participant "lifeline bylaws" as 1
+participant "rides pawn" as 2
+autonumber 9 3
+0 -> 1++ : tuition unrelated
+autonumber stop
+critical saluting guitar
+0 -> 2: sometimes faceless
+return assemble disapprove
+2 --//o 0++ : road beginnings
+else valise dinosaurs
+...murderer tarnish...
+1 -> 1: footed bridesmaids
+autonumber resume
+0 -> 1++ : trail unique
+end
+return portions consummated
+return adequately town
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+:solemn freezers; <<load>>
+group snicker psych
+:urns fuzz; <<task>>
+:pinks restored; <<output>>
+end group
+stop
+@enduml

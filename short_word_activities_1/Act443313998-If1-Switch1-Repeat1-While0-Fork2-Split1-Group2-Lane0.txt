@@ -1,0 +1,46 @@
+@startuml
+group stove sorcery
+fork
+:pursuit lit;
+fork again
+switch (ravish blaze?)
+case (sadness bereft?)
+:willows seasons;
+case (referral explosion?)
+:eyesore recall;
+endswitch
+fork again
+:traction anagram; <<output>>
+end merge
+group inexpensive arctic
+fork
+:ordinary goats;
+fork again
+repeat
+:sealed sadistic;
+:secrets fanny;
+repeat while (enslave testy?) is (owls stadium)
+fork again
+split
+:sidewinder scalping;
+split again
+:embassies error; <<task>>
+split again
+:blacks dictatorships; <<input>>
+end split
+fork again
+if (locale slow?) then (flooded heartbeats)
+:ruling admissions; <<output>>
+-> serves infidelities;
+:producer awarded; <<task>>
+-> cigars ribbed;
+:meeting jeopardize;
+kill
+else (truck defects)
+:saviour hater; <<task>>
+endif
+end fork
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "enjoys fused" as 0
+participant "savour reincarnated" as 1
+participant "exterminating relaxes" as 2
+== outset cutaway ==
+0 ->x 0++ : insolent peeking
+2 -> 0: fulcrum outwit
+loop glances rebelling
+1 -\\ 2: congresswoman chagrined
+return shun lax
+loop heresy fission
+0 -> 2: veneer galore
+end
+end
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+participant "gun spike" as 0
+participant "speech acceptable" as 1
+box "thrower disposable"
+participant "escapade tiresome" as 2
+end box
+== fairway wrote ==
+autonumber 2 6
+2 --> 0: watchers gunning
+par hummus thusly
+2 ->] : sup undertaking
+2 -> 2: trust proud
+autonumber stop
+2 -> 2!! : fenders clause
+loop authenticity perceptive
+...spaz recovering...
+1 -> 2: tangerine harem
+autonumber resume
+1 ->> 0: pursuit confessed
+end
+end
+@enduml

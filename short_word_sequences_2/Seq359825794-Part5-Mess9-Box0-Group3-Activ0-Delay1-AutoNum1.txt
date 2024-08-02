@@ -1,0 +1,29 @@
+@startuml
+participant "engineered supply" as 0
+participant "pot hurray" as 1
+participant "burst sec" as 2
+participant "sassy brick" as 3
+participant "hotheaded reflective" as 4
+== caterers contestants ==
+autonumber 6 4
+4 ->] : anvil arugula
+alt barely savings
+ [-> 0: skirts noble
+0 -> 3: meridian diatribes
+critical escaping hallucinations
+...verification divorced...
+ [-> 0: lefts thyself
+0 ->x 1: builds ambulance
+autonumber stop
+else theres unintelligible
+alt resonance mooch
+3 ->] : why asleep
+3 -> 2: nose teased
+else defused chainsaws
+4 ->> 0: halt munching
+autonumber resume
+2 -> 3: patronized rob
+end
+end
+end
+@enduml

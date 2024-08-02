@@ -1,0 +1,19 @@
+@startuml
+|1| thirsty schnauzer
+|2| key volumes
+|2|
+if (intended trilogy?) then (donor linens)
+:chile warpath; <<task>>
+else (barter credo)
+split
+:windfall incarnation;
+split again
+:withered wall;
+split again
+:anomalies adjacent;
+end split
+endif
+:released ninja; <<output>>
+|1|
+:coolly bumping; <<task>>
+@enduml

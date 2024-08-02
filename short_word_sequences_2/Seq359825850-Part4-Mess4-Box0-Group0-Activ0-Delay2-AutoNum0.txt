@@ -1,0 +1,13 @@
+@startuml
+participant "exploding hood" as 0
+participant "try caliber" as 1
+participant "exorcist mallard" as 2
+== banker subatomic ==
+0 -\\ 2: hounds lifeguard
+...sunglasses parishioner...
+1 --> 2: delicious bilateral
+create participant "squawk stormy" as 3
+1 -> 3 : squawk stormy
+...prototype willful...
+0 ->> 2: fortune hysteric
+@enduml

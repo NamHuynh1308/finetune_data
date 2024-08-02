@@ -1,0 +1,15 @@
+@startuml
+participant "renovating explicitly" as 0
+participant "clanking monthly" as 1
+== edit epoxy ==
+autonumber 5 0
+0 -> 1!! : presents sync
+1 ->] : arms brandy
+0 --//o 1++ : tabby woke
+1 -> 1: provide mapped
+...koss proceeds...
+0 -> 0++ : herds temperamental
+1 ->] : chivalrous bushel
+return comp interviewer
+return wrath submitting
+@enduml

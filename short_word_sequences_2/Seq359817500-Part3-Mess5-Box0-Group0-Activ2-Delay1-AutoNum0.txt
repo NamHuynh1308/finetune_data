@@ -1,0 +1,13 @@
+@startuml
+participant "beeped dosages" as 0
+participant "contrast symptomatic" as 1
+1 -> 1++ : flatters misinterpretation
+ [<- 0: foresee vodka
+1 -> 1: motorcycle baloney
+create participant "duty manipulative" as 2
+0 -> 2 : duty manipulative
+return stepped grub
+...rejuvenated alleging...
+2 -> 0++ : setting schnapps
+return mealy conservation
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+start
+:greets clean; <<procedure>>
+-> sty provocative;
+@enduml

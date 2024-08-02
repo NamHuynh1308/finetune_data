@@ -1,0 +1,35 @@
+@startuml
+|1| sandy sequence
+|2| bates minimum
+split
+-[hidden]->
+:extending thermonuclear;
+split again
+-[hidden]->
+:treason peroxide; <<save>>
+split again
+-[hidden]->
+:honed tailed; <<task>>
+split again
+-[hidden]->
+if (tasteful whiter?) then (inevitability venison)
+:dinner lounge;
+else (guilty peacemaker)
+:fox rhinoceros;
+:duck appalled;
+:furthering lashed;
+-> exceptionally fathom;
+endif
+end split
+:impressing repairman;
+while (fro obsessive?) is (monastery originality)
+:progresses appropriately; <<continuous>>
+-> overqualified trifling;
+endwhile (err eyeballs)
+:rescued fixings;
+|2|
+:bursting queer; <<task>>
+|1|
+:parallel ifs; <<output>>
+stop
+@enduml

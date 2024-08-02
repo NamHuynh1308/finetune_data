@@ -1,0 +1,10 @@
+@startuml
+box "blooded sabotaged"
+participant "stammering freighter" as 0
+participant "tentative cox" as 1
+end box
+0 -> 0: validated local
+0 --> 1: hoy exit
+0 -\\ 0++ : hokey campaigning
+return pregnant gloss
+@enduml

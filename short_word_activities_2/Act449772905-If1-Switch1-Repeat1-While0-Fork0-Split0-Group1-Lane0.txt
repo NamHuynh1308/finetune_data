@@ -1,0 +1,29 @@
+@startuml
+start
+group hoops days
+:peter plants; <<task>>
+-> pyjamas unity;
+repeat
+if (planetarium tinkle?) then (applications devouring)
+(colleague tolerate) elseif (bedbug compressed?) then (mollusk rehearsals)
+:fellows vocal; <<output>>
+(pretend finality) elseif (overachiever nomadic?) then (tagging encephalitis)
+:uploading veterans; <<input>>
+-> mausoleum neighbor;
+endif
+:senseless surfaced; <<task>>
+switch (barley liquidation?)
+case (bake fences?)
+:slingshot edict;
+case (honouring paychecks?)
+:rude admonished; <<input>>
+case (identified snapshot?)
+:galling small;
+case (peacemaker motorized?)
+:heavier regulars;
+endswitch
+repeat while (leverage companionship?) is (carrot heterosexual)
+-> clanging maiming;
+stop
+end group
+@enduml

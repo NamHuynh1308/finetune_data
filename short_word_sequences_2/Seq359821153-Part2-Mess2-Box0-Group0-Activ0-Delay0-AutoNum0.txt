@@ -1,0 +1,6 @@
+@startuml
+participant "take curlers" as 0
+participant "pulses dual" as 1
+0 -> 0: accomplished needless
+1 -> 0: cinnabar catty
+@enduml

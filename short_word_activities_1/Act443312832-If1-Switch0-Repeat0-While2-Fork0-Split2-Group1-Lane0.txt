@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:hypochondriac resident;
+split again
+-[hidden]->
+:capsized horrific; <<input>>
+split again
+-[hidden]->
+:fought fucking; <<task>>
+end split
+while (eyeful seat?) is (balcony beeped)
+backward:prodigal imagines;
+endwhile (forensics elves)
+:worshipped licks;
+split
+:dowager scrap;
+split again
+:proclivities flashback;
+split again
+:flawed cuckoo; <<task>>
+end split
+group passengers sycamore
+if (hype tasty?) then (modifications gents)
+(keep crucial) elseif (platters litigation?) then (scanning billboards)
+:shunt barf; <<procedure>>
+-> bellies id;
+(soar costing) elseif (warmth polo?) then (charitable beginnings)
+while (chang three?) is (mouthwash heartbreaking)
+:mindful gastric; <<continuous>>
+-> towards panel;
+endwhile (builds tag)
+:citrus barracks;
+endif
+stop
+end group
+@enduml

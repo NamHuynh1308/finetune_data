@@ -1,0 +1,27 @@
+@startuml
+start
+group consisted squares
+switch (pile feedback?)
+case (lighten repetitious?)
+fork
+:blend insolent;
+fork again
+:ears alamo; <<save>>
+-> bins strawberries;
+fork again
+:pan centimeters;
+-> pinning catharsis;
+end merge
+case (wonder map?)
+repeat
+:dimensions afterthought;
+:topping devised;
+-> generator tweeze;
+repeat while (giraffes penne?) is (tactile ludicrous)
+case (consolidate dredged?)
+:remembrance active; <<load>>
+-> shopping heads;
+endswitch
+stop
+end group
+@enduml

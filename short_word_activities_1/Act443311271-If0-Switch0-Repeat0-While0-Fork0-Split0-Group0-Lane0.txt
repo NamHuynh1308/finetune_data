@@ -1,0 +1,6 @@
+@startuml
+start
+:village skid; <<task>>
+-> frosting subcommittee;
+end
+@enduml

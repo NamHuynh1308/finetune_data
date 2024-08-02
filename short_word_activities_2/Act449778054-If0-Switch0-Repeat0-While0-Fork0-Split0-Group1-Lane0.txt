@@ -1,0 +1,7 @@
+@startuml
+group dust lasso
+:robots toothpaste; <<input>>
+-> styled colleagues;
+stop
+end group
+@enduml

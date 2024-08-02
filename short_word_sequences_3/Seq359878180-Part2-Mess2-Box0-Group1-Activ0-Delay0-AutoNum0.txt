@@ -1,0 +1,10 @@
+@startuml
+participant "mind tumbler" as 0
+participant "headgear plankton" as 1
+== scholar invading ==
+opt imagine manifold
+ [-> 1: intellectually patchouli
+ [-> 1: ana impressing
+else preoccupied dummkopf
+end
+@enduml

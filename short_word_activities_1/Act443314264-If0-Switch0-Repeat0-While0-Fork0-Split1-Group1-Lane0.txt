@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:habitat humiliate;
+split again
+-[hidden]->
+:myself hug;
+kill
+split again
+-[hidden]->
+:slime wreaths; <<continuous>>
+end split
+:were charismatic; <<input>>
+group petals surname
+:boils deposition;
+stop
+end group
+@enduml

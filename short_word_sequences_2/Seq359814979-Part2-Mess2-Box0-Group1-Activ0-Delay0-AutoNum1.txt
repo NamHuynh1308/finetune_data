@@ -1,0 +1,11 @@
+@startuml
+participant "mol trajectory" as 0
+participant "suggesting toddler" as 1
+== roommates whiner ==
+autonumber 7 6
+1 -->x 1: subletting groomer
+autonumber stop
+opt child snatcher
+0 -> 1: margarita sicker
+end
+@enduml

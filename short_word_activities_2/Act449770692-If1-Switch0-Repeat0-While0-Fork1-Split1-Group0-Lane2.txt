@@ -1,0 +1,37 @@
+@startuml
+|1| ails brainwashing
+|2| dullard galvanized
+:pitying ravings; <<input>>
+-> deer coursing;
+|2|
+split
+:sark parchment;
+split again
+fork
+:flippers sweeping;
+fork again
+:voicing sedated;
+fork again
+:cloud trumps;
+fork again
+:louie boutiques;
+end merge
+split again
+if (reference gloria?) then (bunion lux)
+:palomino mesmerizing;
+:annihilated cakes; <<save>>
+:memoirs balanced;
+else (steel thump)
+:hoopla relentlessly; <<input>>
+:disrupted yours;
+:manufacture turds;
+endif
+end split
+|1|
+:backup corduroy;
+-> raisers ail;
+|2|
+:bros saddened;
+-> chatted provoke;
+stop
+@enduml

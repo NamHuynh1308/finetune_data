@@ -1,0 +1,6 @@
+@startuml
+group worship scars
+:crop sequencing; <<continuous>>
+stop
+end group
+@enduml

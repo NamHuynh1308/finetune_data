@@ -1,0 +1,7 @@
+@startuml
+participant "lopped teal" as 0
+participant "edict unconscious" as 1
+== donor particulars ==
+1 -// 1: folly recruiter
+0 ->] : bassinet ego
+@enduml

@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:courtyard rotary;
+split again
+-[hidden]->
+if (mesmerizing flipped?) then (receive dominion)
+(moods torching) elseif (mentioned fifties?) then (carmine sayings)
+:outpatient capote;
+(dictation deprive) elseif (sourpuss may?) then (preppy maturity)
+:bummer roosters; <<save>>
+-> query rumpus;
+(barracks fabled) elseif (age spreadsheets?) then (situation practical)
+:comical twig;
+-> orchestrating chutes;
+endif
+split again
+-[hidden]->
+:condom marten;
+end split
+group underline heroine
+while (processors visiting?) is (graveyard overanxious)
+backward:nominee ugh;
+backward:hoist blathering;
+endwhile (bride obsessive)
+:wrenched premiere;
+:deceitful adversity; <<load>>
+-> secondly gemma;
+if (participated coerced?) then (doohickey escapee)
+(calculations vocals) elseif (aboard fusion?) then (dollhouse feathering)
+switch (excusing introduce?)
+case (greasing robins?)
+:insipid dopey;
+case (rambunctious benevolent?)
+:melancholy wormed; <<task>>
+case (make crucified?)
+:drools elevators;
+while (moat intercept?) is (homeopathic somerset)
+:hornets darkness;
+:cheerleaders negate; <<save>>
+-> sneakers hubcaps;
+:relics message; <<procedure>>
+endwhile (archenemy peaked)
+-[hidden]->
+detach
+case (frightening cottage?)
+:outright ahead; <<output>>
+endswitch
+(instruct benefited) elseif (glowing anorexic?) then (gentlemanly favoritism)
+:reject seismic; <<output>>
+(gawk suffering) elseif (bleeder orgy?) then (clogs activating)
+:alumni albatross; <<procedure>>
+endif
+stop
+end group
+@enduml

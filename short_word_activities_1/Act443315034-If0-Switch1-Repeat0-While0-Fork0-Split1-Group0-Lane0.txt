@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:thighs flyboy;
+split again
+-[hidden]->
+switch (mess accessing?)
+case (adult traces?)
+:stow smothered;
+case (reptile about?)
+:dissect answers;
+endswitch
+split again
+-[hidden]->
+:coordinator webbing; <<save>>
+-> assailant jammed;
+end split
+:reprisal spitting;
+stop
+@enduml

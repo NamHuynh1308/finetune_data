@@ -1,0 +1,51 @@
+@startuml
+split
+-[hidden]->
+:thriller pillow;
+split again
+-[hidden]->
+:perishable croak; <<continuous>>
+-> sheep tundra;
+split again
+-[hidden]->
+repeat
+backward:espionage divorcee;
+:burger measuring;
+repeat while (dreamer druggist?) is (antiques sovereign)
+split again
+-[hidden]->
+:blessed squeezes; <<input>>
+-> paleontologist moulin;
+end split
+group torched perishable
+:leaping nix;
+-> horrific drumsticks;
+group mead colleen
+split
+:lobby sharing;
+split again
+if (guineas shaman?) then (doorknobs picnics)
+:matches giving;
+-> cubed cheater;
+:sled customers;
+:burglary act; <<input>>
+-> big evils;
+kill
+else (crowns gasping)
+:keys measuring;
+while (masseur sarcasm?) is (revisit condemning)
+:hillbillies eater;
+:suppression hygienist; <<procedure>>
+:mutually risen; <<continuous>>
+-> log prancing;
+endwhile (warren afoot)
+-[hidden]->
+detach
+endif
+split again
+:epileptic fertile;
+end split
+stop
+end group
+end group
+@enduml

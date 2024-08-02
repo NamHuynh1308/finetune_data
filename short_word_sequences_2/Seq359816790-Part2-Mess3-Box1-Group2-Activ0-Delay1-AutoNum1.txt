@@ -1,0 +1,16 @@
+@startuml
+box "luncheon reset"
+participant "automobiles enable" as 0
+participant "whimsy grove" as 1
+end box
+== capsize torpedo ==
+autonumber 8 5
+0 -> 1: emanates occupancy
+opt sleazy lockers
+...charged avengers...
+1 <-] : steroids pilots
+loop scanners teasing
+1 -// 1: perturbed crapping
+end
+end
+@enduml

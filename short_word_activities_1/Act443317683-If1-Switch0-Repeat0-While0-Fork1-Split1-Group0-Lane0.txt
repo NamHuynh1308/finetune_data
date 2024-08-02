@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:rehearsals cotton;
+split again
+-[hidden]->
+:locking satisfying;
+kill
+split again
+-[hidden]->
+:carcinogens visited; <<task>>
+-> burgeoning charge;
+split again
+-[hidden]->
+:hutch excite;
+end split
+:pots promoting; <<procedure>>
+fork
+:sonar reeling;
+fork again
+:cavalcade stolen; <<continuous>>
+fork again
+:glint cutie;
+fork again
+if (cartels classes?) then (estimating rituals)
+(jam sweetest) elseif (harrowing saluting?) then (terminate overdue)
+:occupied incinerate;
+(feces unbeknownst) elseif (influential dawdling?) then (hitchhiker teed)
+:shackle trek; <<procedure>>
+(eroding louie) elseif (latitude men?) then (unexpectedly freshening)
+:disloyal kaleidoscope;
+(sensed scare) elseif (inexpensive tattoos?) then (deformity nicest)
+:socket protestants; <<continuous>>
+endif
+end merge
+end
+@enduml

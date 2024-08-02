@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:ballistics arch;
+split again
+-[hidden]->
+:dumbest included; <<task>>
+split again
+-[hidden]->
+:peacemaker broad; <<load>>
+-> sneezing blazes;
+end split
+group pages twosome
+:wildlife sedative; <<procedure>>
+repeat
+:encryption retire; <<task>>
+-> drowning scuttled;
+repeat while (activities injection?) is (shocked amnesia)
+-> sanded womanizer;
+end group
+repeat
+backward:pronounce stooping;
+repeat while (kicked approximation?) is (unspoken torpedoes)
+end
+@enduml

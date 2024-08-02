@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:blossomed manger;
+split again
+-[hidden]->
+:nose pinata; <<save>>
+split again
+-[hidden]->
+:welsh pounce; <<output>>
+-> pamphlets ejection;
+split again
+-[hidden]->
+if (entice mocks?) then (gatherings tomfoolery)
+(rousing surreal) elseif (killed hopefully?) then (irrevocably permanent)
+:pursued supple; <<save>>
+-> marshmallows sweet;
+(senseless meatloaf) elseif (assorted convert?) then (handles boxing)
+:vacate tenors; <<procedure>>
+-> performances era;
+(people perjured) elseif (alphabetically expressly?) then (wire illustrious)
+:combustible screeching; <<load>>
+-> monumentally groupie;
+endif
+end split
+:goes veer;
+fork
+:survive topless;
+fork again
+:genealogy oregano; <<continuous>>
+-> panels soften;
+fork again
+:consecrated dire; <<load>>
+end fork
+stop
+@enduml

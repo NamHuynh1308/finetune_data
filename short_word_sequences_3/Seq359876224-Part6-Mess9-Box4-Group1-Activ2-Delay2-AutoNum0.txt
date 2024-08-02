@@ -1,0 +1,33 @@
+@startuml
+box "fa inspire"
+participant "violate upside" as 0
+box "dissect ken"
+participant "brighter munching" as 1
+box "malaria thermal"
+participant "sneaker therapist" as 2
+box "revoking supper"
+participant "fry redecorate" as 3
+participant "molto drawstring" as 4
+end box
+end box
+end box
+end box
+create participant "fortitude casings" as 5
+2 -> 5 : fortitude casings
+0 -> 1: hovel embodied
+0 -> 1++ : liar hears
+alt airtight profit
+...situation opening...
+3 -> 4: moonbeams potsie
+...bribed antisocial...
+5 -> 0: steps dysentery
+return subsidiary foremost
+else refusing laced
+2 -> 5: overblown spectra
+4 -> 4: busted interviewing
+else stumble rockers
+1 ->] : prescriptions farmer
+3 --> 4++ : owl snapshot
+end
+return mas routinely
+@enduml

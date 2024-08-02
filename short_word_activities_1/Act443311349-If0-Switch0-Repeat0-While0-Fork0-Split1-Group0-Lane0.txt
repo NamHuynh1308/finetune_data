@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:root ghosts;
+split again
+-[hidden]->
+:vestigial groped;
+split again
+-[hidden]->
+:dinners width;
+split again
+-[hidden]->
+:thesis intercom; <<procedure>>
+end split
+:rougher bedridden;
+end
+@enduml

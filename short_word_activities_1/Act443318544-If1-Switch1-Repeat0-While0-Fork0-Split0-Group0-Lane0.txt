@@ -1,0 +1,22 @@
+@startuml
+if (drool copycat?) then (sparky judges)
+(trans brownie) elseif (elementary sevens?) then (grope coolness)
+:cleaners chocolates; <<continuous>>
+-> cosy maple;
+(twirl crowds) elseif (stressed mounds?) then (sideline torch)
+switch (handicap dewars?)
+case (looker repaid?)
+:cups often;
+case (tinfoil got?)
+:robotic oftentimes; <<input>>
+-> venture accomplished;
+case (announcing rusted?)
+:slugger loons; <<continuous>>
+-> strutting venison;
+endswitch
+(read caps) elseif (sacrifice unveil?) then (conform poses)
+:shadowing prune; <<load>>
+(patrolling transport) elseif (shriveled morgue?) then (snuck looking)
+:beef backstabbing; <<output>>
+endif
+@enduml

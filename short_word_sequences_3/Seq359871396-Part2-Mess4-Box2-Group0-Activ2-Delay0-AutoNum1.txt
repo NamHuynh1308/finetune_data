@@ -1,0 +1,16 @@
+@startuml
+box "psych reassuring"
+participant "judo each" as 0
+box "applying gyms"
+participant "baggies enrollment" as 1
+end box
+end box
+autonumber 0 5
+0 -> 1!! : sport protons
+1 -> 0: tailored vigilante
+autonumber stop
+0 --> 0++ : dinners analyst
+0 -> 1++ : classmates doping
+return tigers assertiveness
+return painless recently
+@enduml

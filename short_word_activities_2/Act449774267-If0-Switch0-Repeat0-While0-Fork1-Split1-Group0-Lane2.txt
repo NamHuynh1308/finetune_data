@@ -1,0 +1,30 @@
+@startuml
+|1| bayou holdings
+|2| mend bird
+split
+-[hidden]->
+:lopper franks;
+split again
+-[hidden]->
+:yum conceiving; <<save>>
+-> bluest bawdy;
+split again
+-[hidden]->
+:cubbies giraffe; <<continuous>>
+end split
+:buy belittle;
+-> meticulously barroom;
+|2|
+:impediment hamster;
+fork
+:rock hansom;
+fork again
+:stepped weak; <<load>>
+-> colleen originality;
+fork again
+:frequency sal; <<load>>
+fork again
+:discipline organization; <<save>>
+end merge
+end
+@enduml

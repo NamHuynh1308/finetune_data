@@ -1,0 +1,5 @@
+@startuml
+start
+:breath opportunity; <<output>>
+-> saliva spilled;
+@enduml

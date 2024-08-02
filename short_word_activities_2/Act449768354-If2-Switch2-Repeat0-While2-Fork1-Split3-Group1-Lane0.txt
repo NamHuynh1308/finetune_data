@@ -1,0 +1,84 @@
+@startuml
+split
+-[hidden]->
+:referrals ratted;
+split again
+-[hidden]->
+switch (fabulously folksy?)
+case (activate medication?)
+:peter passenger; <<save>>
+-> rule tighten;
+case (washcloth statewide?)
+:unselfish hopes;
+case (apostles laptop?)
+:dictatorship weighted; <<save>>
+endswitch
+split again
+-[hidden]->
+:disinfectant inception; <<output>>
+end split
+group compliant folklore
+if (tension rah?) then (instilled warmer)
+:scams sutra;
+-> rolled entertainer;
+:misdeeds factories;
+fork
+:cholinesterase district;
+fork again
+:florence cons;
+fork again
+:culpability coy;
+end merge
+while (transvestites southern?) is (slashed collision)
+split
+:edible mortars;
+split again
+:muley bolts; <<procedure>>
+-> exemption goggles;
+split again
+:loran dependent;
+split again
+:tolerant bays; <<continuous>>
+-> wad buttoned;
+end split
+endwhile (dyed flinging)
+-[hidden]->
+detach
+else (urinary hugger)
+switch (unfulfilled excess?)
+case (menace associated?)
+:black sprawled;
+case (preface commando?)
+:mariner cobwebs; <<task>>
+case (padded gays?)
+:jewels experiences; <<load>>
+-> swayed scenery;
+endswitch
+while (remarkably tablecloths?) is (forgotten lolly)
+:caviar decoder; <<load>>
+-> huggers lifeguard;
+split
+:cakes miscalculation;
+split again
+:greeting neutron; <<procedure>>
+split again
+:langley zipper; <<save>>
+end split
+:proceeded moo; <<output>>
+-> pony prop;
+if (therapist extorted?) then (ceremonies sinful)
+(undergarment drowning) elseif (beaded incarcerate?) then (weirdo permanently)
+:hyperventilating roasting;
+(rooted laps) elseif (recapture morgue?) then (pellet discoveries)
+:campfire curvaceous; <<load>>
+(totalled infamy) elseif (query pumps?) then (rationalizing wraps)
+:averages nutty; <<task>>
+-> ethnicity harnessed;
+endif
+endwhile (kicking corral)
+-[hidden]->
+detach
+endif
+stop
+end group
+@enduml

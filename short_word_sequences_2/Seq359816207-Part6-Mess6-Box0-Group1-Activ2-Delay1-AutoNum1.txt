@@ -1,0 +1,27 @@
+@startuml
+participant "glance promiscuous" as 0
+participant "sulking pharaohs" as 1
+participant "spineless sings" as 2
+participant "belle cranky" as 3
+participant "spiking hurling" as 4
+autonumber 3 8
+alt suppress slaw
+4 ->> 1: machines maritime
+create participant "crooked totals" as 5
+1 -> 5 : crooked totals
+autonumber stop
+3 -> 0!! : mailing instituted
+autonumber resume
+3 -->x 5++ : also blush
+else castles leering
+...premiums plagued...
+2 --//o 5++ : bravery announcer
+autonumber stop
+else hiking snuff
+3 -> 4: write yank
+return trains tailor
+autonumber resume
+else schizophrenia systemic
+end
+return slowest hornet
+@enduml

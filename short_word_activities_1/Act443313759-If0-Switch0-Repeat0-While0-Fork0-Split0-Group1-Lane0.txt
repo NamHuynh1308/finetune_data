@@ -1,0 +1,9 @@
+@startuml
+start
+:standing untreated;
+group punching eviscerated
+:valley pickups; <<output>>
+-> bid senility;
+stop
+end group
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:bassett pretense;
+split again
+-[hidden]->
+:tubby reminds; <<output>>
+split again
+-[hidden]->
+:reacted existing; <<output>>
+end split
+fork
+:exasperated messages;
+fork again
+if (fall astute?) then (variance relates)
+:tickets understands; <<load>>
+-> fallback improve;
+:neurology assembler;
+:braiding penetrate;
+else (boner hive)
+:mutilate ragtime;
+:erogenous earrings;
+endif
+fork again
+:quirks deadly;
+end fork
+@enduml

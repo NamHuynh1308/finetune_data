@@ -1,0 +1,9 @@
+@startuml
+participant "indignation mails" as 0
+create participant "demonstrators heartless" as 1
+0 -> 1 : demonstrators heartless
+ [<- 0: tory wary
+0 ->o 0: setbacks bowed
+0 ->] : motorcade shouted
+0 --//o 1: scribbled tiring
+@enduml

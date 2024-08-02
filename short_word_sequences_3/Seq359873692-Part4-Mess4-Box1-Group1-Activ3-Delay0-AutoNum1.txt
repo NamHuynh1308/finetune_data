@@ -1,0 +1,18 @@
+@startuml
+participant "reborn came" as 0
+participant "earthlings isotopes" as 1
+box "addictive broadcasts"
+participant "dispensation cloths" as 2
+participant "tits expedient" as 3
+end box
+autonumber 1 5
+ [-> 0: notes electrician
+3 -> 2++ : wildcats tweaked
+2 -->x 1++ : antibodies averse
+opt lit binary
+0 -// 2++ : resumed consider
+end
+return melodrama hides
+return turnpike bullheaded
+return therapy decorator
+@enduml

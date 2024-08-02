@@ -1,0 +1,6 @@
+@startuml
+participant "abuser writ" as 0
+loop recognition bodyguards
+0 -> 0: duly intending
+end
+@enduml

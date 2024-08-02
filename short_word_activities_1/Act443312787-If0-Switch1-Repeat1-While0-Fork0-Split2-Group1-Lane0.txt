@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:parachute indication;
+split again
+-[hidden]->
+:advances windy; <<procedure>>
+-> digested folklore;
+split again
+-[hidden]->
+:sacrificial ford;
+-> screwup mash;
+end split
+group partnered hangers
+split
+:slink porter;
+split again
+switch (ritz prizes?)
+case (furthering volition?)
+:dug durned; <<input>>
+case (flirtatious judgmental?)
+:competence archenemy; <<load>>
+case (tingly infiltrated?)
+:hour hottest;
+kill
+case (analyse dermatologist?)
+:twenty intervening; <<procedure>>
+endswitch
+split again
+repeat
+:salty swap;
+:planes nevermore; <<task>>
+-> heckle dying;
+repeat while (ceiling addressed?) is (mol motorcycle)
+split again
+:electronic galloping; <<procedure>>
+-> consulate retractable;
+end split
+stop
+end group
+@enduml

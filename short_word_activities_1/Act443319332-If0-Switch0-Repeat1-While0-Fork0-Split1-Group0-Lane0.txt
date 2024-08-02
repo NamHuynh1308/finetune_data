@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:starvation closure;
+split again
+-[hidden]->
+:fueled trade; <<input>>
+split again
+-[hidden]->
+repeat
+:finalist nacho;
+:tango deficit; <<task>>
+repeat while (mortar schmo?) is (pancreatic resin)
+end split
+:afternoons corporate; <<input>>
+stop
+@enduml

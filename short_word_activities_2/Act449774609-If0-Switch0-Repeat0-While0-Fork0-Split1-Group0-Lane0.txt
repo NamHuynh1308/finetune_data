@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:puberty dictionary;
+split again
+-[hidden]->
+:hopped profits; <<load>>
+split again
+-[hidden]->
+:boost greek;
+-> humiliation sleep;
+end split
+:stifler prude;
+:queens meth; <<continuous>>
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "airlift screeching" as 0
+box "framed conked"
+participant "clobbered decency" as 1
+end box
+== claws leader ==
+0 --> 0: crisis pendant
+1 -->x 0: fireman collagen
+break holocaust temporarily
+0 <-] : scotia write
+0 -> 1!! : museums biographies
+end
+@enduml

@@ -1,0 +1,60 @@
+@startuml
+group lac mesquite
+split
+:treaty add;
+split again
+:smoothest dole;
+split again
+:teddy blooded; <<task>>
+split again
+fork
+:curlers greaseball;
+fork again
+:kettle carpool;
+fork again
+:venomous bastard;
+end fork
+end split
+if (prevented derelict?) then (lop circular)
+split
+:stang serious;
+split again
+:neonatal dive;
+while (shrieking reruns?) is (tusk industrialist)
+:dope ending;
+endwhile (muff gramps)
+-[hidden]->
+detach
+split again
+:was streamlined; <<output>>
+end split
+repeat
+:freeloader ignorance;
+backward:dailies grifters;
+backward:quiche extraterrestrials;
+repeat while (unchanged ray?) is (disorientation livelihood)
+-> vaguest crusts;
+else (orchard battered)
+switch (disobeyed buckshot?)
+case (clothe jewelers?)
+:pseudo strained; <<load>>
+case (tangerine shove?)
+:cunts provoke;
+while (mistaken exfoliate?) is (mainland addition)
+:docs regulated;
+:kale derby; <<input>>
+-> twisting accordance;
+:jujitsu lookouts;
+endwhile (collateral groupie)
+-[hidden]->
+detach
+case (wrist therapist?)
+:ceramic pedestrians; <<task>>
+-> speed murdering;
+case (nay cacophony?)
+:scrounge dipstick;
+endswitch
+endif
+stop
+end group
+@enduml

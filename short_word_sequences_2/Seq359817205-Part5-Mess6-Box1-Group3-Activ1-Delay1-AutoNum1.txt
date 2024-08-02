@@ -1,0 +1,24 @@
+@startuml
+participant "workings ongoing" as 0
+box "decorations modern"
+participant "oyez potter" as 1
+participant "welcomes category" as 2
+participant "daffodils showed" as 3
+end box
+autonumber 6 7
+par sicker conducts
+create participant "allows suggest" as 4
+0 -> 4 : allows suggest
+critical matter choker
+1 ->> 0: bookie dump
+3 -// 1: defendant chickadee
+critical internship heckling
+0 -> 0++ : containing beastie
+3 ->x 2: muse hero
+...taunt consoled...
+0 -->x 1: sanded tinfoil
+end
+end
+end
+return deluding fatigues
+@enduml

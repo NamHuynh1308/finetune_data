@@ -1,0 +1,20 @@
+@startuml
+box "plummeting boxcar"
+participant "scoreboard diplomas" as 0
+participant "rook powered" as 1
+end box
+participant "masterminded unseat" as 2
+participant "compels receding" as 3
+create participant "progressing captivated" as 4
+0 -> 4 : progressing captivated
+0 ->x 2: payroll debt
+2 -\\ 1: shriveled deposed
+1 -\\ 1: womanizer bias
+break module tarp
+4 -// 0: impeach robbin
+3 --> 1++ : embankment doubled
+else sax slaughter
+3 -\\ 4: sniffing shipped
+return breathe grosser
+end
+@enduml

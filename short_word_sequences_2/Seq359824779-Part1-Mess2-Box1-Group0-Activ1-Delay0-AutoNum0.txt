@@ -1,0 +1,8 @@
+@startuml
+box "passengers events"
+participant "mayan crab" as 0
+end box
+ [<- 0: studying party
+0 -\\ 0++ : achieve intellect
+return cologne gases
+@enduml

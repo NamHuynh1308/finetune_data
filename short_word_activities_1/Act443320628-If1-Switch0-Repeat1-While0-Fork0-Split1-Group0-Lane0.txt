@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:mainland us;
+split again
+-[hidden]->
+:immobilize adjustments; <<save>>
+-> plenty priests;
+split again
+-[hidden]->
+:revulsion foaming; <<task>>
+-> vents percent;
+end split
+if (hijacking scraped?) then (speculating poodles)
+repeat
+backward:duet criminally;
+:protestants seven; <<load>>
+repeat while (fighter studious?) is (lighten roommates)
+-> charged marathon;
+:toasted baggies; <<output>>
+else (bene fireplaces)
+:pressing displace; <<output>>
+-> and unbeknownst;
+endif
+stop
+@enduml

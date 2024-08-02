@@ -1,0 +1,11 @@
+@startuml
+participant "power pitching" as 0
+box "manticore fronting"
+participant "trombone ducked" as 1
+end box
+== mix clement ==
+1 -> 1++ : ignored newspaper
+...occasional vamps...
+0 --//o 0: confronts individual
+return hurst tenants
+@enduml

@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:dribbles landed;
+split again
+-[hidden]->
+:counselor avid; <<procedure>>
+split again
+-[hidden]->
+split
+:wallaby migraine;
+split again
+:swept scriptures;
+split again
+:corresponds are;
+end split
+end split
+:evolved grosses; <<input>>
+-> puns ammunition;
+:males multinational; <<procedure>>
+split
+:tightening headline;
+split again
+repeat
+backward:decontamination heaping;
+backward:dispense losses;
+:injured straights;
+repeat while (linking subway?) is (insinuations greatness)
+-> sunbathing escapes;
+split again
+fork
+:enjoy enlist;
+fork again
+:bat minor;
+fork again
+:weld classify;
+end merge
+split again
+if (glove silva?) then (park superstitious)
+:serum smorgasbord; <<continuous>>
+-> cheddar hesitation;
+else (batted neural)
+:bop thinking;
+:distressed jiminy;
+kill
+endif
+end split
+stop
+@enduml

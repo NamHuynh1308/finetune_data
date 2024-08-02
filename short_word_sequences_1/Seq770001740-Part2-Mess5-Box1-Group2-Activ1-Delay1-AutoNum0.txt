@@ -1,0 +1,19 @@
+@startuml
+participant "pales subsidize" as 0
+box "fledgling critter"
+participant "egyptian meadow" as 1
+end box
+== glade superficial ==
+0 -\\ 1: flay jess
+alt councillor reasoned
+...eclipse secretary...
+1 -> 0: ambient lying
+1 -> 0++ : leukemia sleeve
+else marksmanship shank
+1 -// 1: forgets contacted
+opt backroom hi
+0 -> 0!! : brock striving
+end
+end
+return sage comical
+@enduml

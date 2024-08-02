@@ -1,0 +1,16 @@
+@startuml
+participant "traction preventive" as 0
+participant "ill driveways" as 1
+== distractions trove ==
+0 --> 0++ : interview erase
+par ahoy morally
+ [<- 1: swooped actual
+create participant "climbers retinal" as 2
+0 -> 2 : climbers retinal
+return remember yes
+2 <-> 1: advocating beckons
+alt arms faded
+0 ->] : loud untangle
+end
+end
+@enduml

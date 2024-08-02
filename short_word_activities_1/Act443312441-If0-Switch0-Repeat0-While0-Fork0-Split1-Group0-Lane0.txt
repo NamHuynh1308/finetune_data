@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:ties decades;
+split again
+-[hidden]->
+:assign exterior; <<input>>
+-> heroes remarkably;
+split again
+-[hidden]->
+:admonished mighty;
+-> murky gravest;
+split again
+-[hidden]->
+:reviews parishioner; <<output>>
+end split
+:coin diamonds; <<task>>
+-> septic dainty;
+:ado cleaning;
+@enduml

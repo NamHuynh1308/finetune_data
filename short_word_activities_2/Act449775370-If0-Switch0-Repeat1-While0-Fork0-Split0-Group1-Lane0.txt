@@ -1,0 +1,13 @@
+@startuml
+start
+repeat
+backward:impossibility barnyard;
+:commits finished; <<input>>
+:caution bugs; <<procedure>>
+repeat while (lift stuttering?) is (satisfying terrace)
+-> archer whammo;
+group necrosis expires
+:confirming fighter; <<task>>
+stop
+end group
+@enduml

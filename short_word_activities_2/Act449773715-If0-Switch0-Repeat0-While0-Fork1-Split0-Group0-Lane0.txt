@@ -1,0 +1,17 @@
+@startuml
+start
+fork
+:sickest molecular;
+fork again
+:treats importantly;
+-> funerals costing;
+fork again
+:sincerest funerals;
+-> scrappy heroin;
+fork again
+:scanned colon; <<load>>
+end merge
+:transatlantic scans;
+:wrecked stuntman; <<input>>
+stop
+@enduml

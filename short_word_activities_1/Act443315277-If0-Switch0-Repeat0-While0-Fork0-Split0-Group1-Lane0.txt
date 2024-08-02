@@ -1,0 +1,8 @@
+@startuml
+start
+group pip tunic
+:massaging hobby; <<procedure>>
+-> straw stone;
+stop
+end group
+@enduml

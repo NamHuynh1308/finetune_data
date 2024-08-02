@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:sonny shrewd;
+split again
+-[hidden]->
+:thorn chemicals; <<output>>
+split again
+-[hidden]->
+split
+:scenarios mixes;
+split again
+:expenses march; <<output>>
+split again
+:nametag afterlife;
+end split
+end split
+group westbound objection
+:thirds misprint; <<load>>
+while (gasses fictional?) is (wills boob)
+:leftover chased;
+:develop perpetrated; <<task>>
+backward:hong nerd;
+:framers blam; <<load>>
+endwhile (plantations differently)
+:pressman chloroformed;
+end group
+group seated thaw
+while (wallowing bagged?) is (hills elixir)
+repeat
+:sordid scraping; <<load>>
+-> rebuilt inspecting;
+:slacker tours;
+:conversation pet; <<input>>
+-> fishes manifesto;
+repeat while (french ell?) is (importing dag)
+:tweet mollie; <<output>>
+backward:enforce message;
+endwhile (trunks helicopters)
+:direct having;
+stop
+end group
+@enduml

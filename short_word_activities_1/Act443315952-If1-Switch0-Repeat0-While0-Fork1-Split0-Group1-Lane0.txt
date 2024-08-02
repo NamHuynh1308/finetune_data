@@ -1,0 +1,27 @@
+@startuml
+group theatre final
+:decorated agrees; <<task>>
+fork
+:doggies bookkeeper;
+fork again
+:mural meaningful; <<load>>
+fork again
+:ag supports; <<continuous>>
+-> keyhole bugger;
+fork again
+if (await disciplined?) then (curdle uncertainty)
+(candlelight decryption) elseif (embark luggage?) then (impotent actionable)
+:happened checker; <<save>>
+-> rationalize angina;
+(seed doggone) elseif (crouched attracting?) then (deigned nailed)
+:lyrical bonuses; <<load>>
+(cavities brie) elseif (decoration commiserate?) then (helmets redskins)
+:vent fraction;
+(limber porn) elseif (elastic ruining?) then (regimes tokens)
+:jamming mined;
+-> fugitive wished;
+endif
+end fork
+end group
+:elevation dissent; <<procedure>>
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:karaoke likeness;
+split again
+-[hidden]->
+:reruns temp; <<load>>
+-> ventilator wise;
+split again
+-[hidden]->
+if (watcher acrobat?) then (attends pong)
+(shrinking resulting) elseif (ose spite?) then (dye bilingual)
+:hangnail bulletins; <<save>>
+(bending cooking) elseif (rarest thumping?) then (positively dandelions)
+:sloshed bookends;
+(fears regenerate) elseif (paired diving?) then (daffy wires)
+:insure finished;
+(drive demonstrations) elseif (copter licenses?) then (exceptions outrageous)
+:kin planning; <<continuous>>
+endif
+end split
+:unmitigated caste; <<save>>
+end
+@enduml

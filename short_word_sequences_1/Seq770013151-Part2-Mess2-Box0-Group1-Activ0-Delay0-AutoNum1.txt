@@ -1,0 +1,12 @@
+@startuml
+participant "adventures sweetness" as 0
+participant "abducted ink" as 1
+== housekeeper chalked ==
+autonumber 2 4
+1 -> 0: bedpan angles
+autonumber stop
+par pulse rounded
+1 -// 0: tattoo faithful
+autonumber resume
+end
+@enduml

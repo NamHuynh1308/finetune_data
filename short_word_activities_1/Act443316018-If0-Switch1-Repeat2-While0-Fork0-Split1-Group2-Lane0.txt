@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:owns unfamiliar;
+split again
+-[hidden]->
+:drums chose; <<continuous>>
+-> ignorant dapper;
+split again
+-[hidden]->
+:protections depths;
+split again
+-[hidden]->
+repeat
+:endive remarried;
+backward:clammy daft;
+backward:clown mangy;
+repeat while (snapshot declaration?) is (hedge insufferable)
+-> spoilsport messed;
+end split
+group bails itself
+repeat
+:announce aim;
+if (geyser valued) then (gladiator luggage)
+:supernatural blows;
+break
+endif
+->lingers affect;
+:variable holler;
+switch (terrorist portable?)
+case (comeuppance swapping?)
+:read garner;
+case (platypus traffic?)
+:crazy fuck; <<continuous>>
+-> column hindrance;
+endswitch
+backward:fined saturated;
+repeat while (swilling synaptic?) is (carpenter horticulture)
+-> sermons inconsiderate;
+group rulers medicine
+:deputized symptom; <<task>>
+-> comma straightaway;
+stop
+end group
+end group
+@enduml

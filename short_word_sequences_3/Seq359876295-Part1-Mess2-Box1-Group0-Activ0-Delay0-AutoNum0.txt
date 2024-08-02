@@ -1,0 +1,7 @@
+@startuml
+box "cabaret disclose"
+participant "tramps snob" as 0
+end box
+0 ->o 0: indicative obsolete
+0 -> 0: expands insignificant
+@enduml

@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:colonized dour;
+split again
+-[hidden]->
+:occupied taj;
+-> wrinkles tissues;
+split again
+-[hidden]->
+split
+:beings runners;
+split again
+:disturb panicky; <<task>>
+split again
+:manipulations bowing; <<continuous>>
+end split
+split again
+-[hidden]->
+if (lizard decaf?) then (lefts skimpy)
+:bawl moron;
+:strategies displayed;
+else (rumpus flawlessly)
+:fistful freedom; <<input>>
+:agonized muggings;
+:poltergeists whichever;
+endif
+end split
+if (savvy drivel?) then (headfirst miscreant)
+(acquitted valiant) elseif (boner simplicity?) then (attach spotter)
+:gazed glass; <<procedure>>
+(mavis bark) elseif (fractured pleasant?) then (stifle aeroplane)
+:indoor persecute; <<task>>
+endif
+@enduml

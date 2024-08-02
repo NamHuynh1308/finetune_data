@@ -1,0 +1,21 @@
+@startuml
+participant "demonstrators proudly" as 0
+participant "artillery stream" as 1
+participant "dandelion merchandising" as 2
+participant "embassies introductions" as 3
+1 ->x 1: bandages shaky
+2 -->x 1: instinct organizing
+1 --//o 1: car corral
+ [<- 0: corroborate redhead
+loop developments trailers
+create participant "therapeutic daytime" as 4
+1 -> 4 : therapeutic daytime
+...demoted burdened...
+2 -> 4: snort handbag
+else screaming offered
+3 -> 2!! : berlin dukes
+else geologist greedy
+...consumes gathers...
+4 <-> 0: fellows butterscotch
+end
+@enduml

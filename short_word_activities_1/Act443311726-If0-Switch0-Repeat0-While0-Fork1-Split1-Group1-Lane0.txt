@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:postponing kink;
+split again
+-[hidden]->
+:aptly firearms; <<continuous>>
+split again
+-[hidden]->
+fork
+:bark tourists;
+fork again
+:scrap affirmative; <<continuous>>
+fork again
+:whooping hoops;
+end fork
+end split
+group damaged barn
+:collector chimp;
+-> psychopathic subjugation;
+:deficient should; <<save>>
+-> petit prettiest;
+stop
+end group
+@enduml

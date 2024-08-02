@@ -1,0 +1,13 @@
+@startuml
+start
+group observed motel
+:sanitarium magazines; <<load>>
+-> straightening country;
+group imbued coded
+:savagely perpetual; <<continuous>>
+:exhibits jalopy;
+-> typical rundown;
+end group
+stop
+end group
+@enduml

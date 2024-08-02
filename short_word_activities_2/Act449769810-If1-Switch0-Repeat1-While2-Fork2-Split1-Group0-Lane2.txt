@@ -1,0 +1,60 @@
+@startuml
+|1| breakthrough sleazeball
+|2| poppers wary
+fork
+:candidates comeback;
+fork again
+repeat
+backward:begging swordfish;
+:speedo clamping;
+repeat while (troubled escalating?) is (hailing gladstone)
+fork again
+:beaten menus; <<save>>
+fork again
+if (holdings forties?) then (defrost shelf)
+:granola apostles; <<output>>
+:duly abused; <<continuous>>
+-> gags surroundings;
+:forbidding ballistic;
+kill
+else (safeguard fads)
+:trumpet usable;
+:trussed headliner;
+while (pistachio type?) is (mashed munch)
+:individually emperors; <<save>>
+-> volcano thefts;
+:wonderful spic;
+-> remedies egging;
+endwhile (innuendo disoriented)
+-[hidden]->
+detach
+endif
+end fork
+|2|
+split
+:suspending worship;
+split again
+fork
+:criticize crocodiles;
+fork again
+:dodgeball declaring;
+while (chalkboard rings?) is (weapon holed)
+:submissive stoolie; <<save>>
+backward:prefer ambitious;
+endwhile (foil spindly)
+-[hidden]->
+detach
+fork again
+:sympathetic dimly;
+end fork
+split again
+:eludes effacing;
+end split
+:form lesson; <<procedure>>
+-> wholesaler entourage;
+|1|
+:molesting trembling;
+-> trainer antihistamine;
+:scotch ditching; <<task>>
+end
+@enduml

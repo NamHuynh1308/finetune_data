@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:stories mist;
+split again
+-[hidden]->
+:devastate clad;
+split again
+-[hidden]->
+switch (heartless cozy?)
+case (feathers grilled?)
+:cobras monarchs; <<output>>
+case (extinguish parabolic?)
+:plucking fighter;
+endswitch
+end split
+split
+:projectile capsule;
+split again
+switch (rod swaying?)
+case (sorrow unsettled?)
+:undermining bask; <<load>>
+case (hunted drape?)
+:preview fleabag;
+case (exterminate aftermath?)
+:wavered riveting;
+case (captains sparrow?)
+:mapping manipulate;
+endswitch
+split again
+repeat
+:mythic briefly;
+repeat while (slam compensate?) is (schizophrenia woof)
+-> stowed heck;
+end split
+:whisky worldly; <<output>>
+-> behave auditioning;
+stop
+@enduml

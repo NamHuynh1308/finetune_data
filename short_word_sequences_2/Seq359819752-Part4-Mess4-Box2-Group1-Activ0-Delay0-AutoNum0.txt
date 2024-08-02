@@ -1,0 +1,18 @@
+@startuml
+box "ar periodic"
+participant "begging shovels" as 0
+participant "lessen manatee" as 1
+end box
+box "shortcomings migration"
+participant "girl mondo" as 2
+end box
+== hose localized ==
+par potholes gripes
+0 -> 1!! : quell favor
+1 -> 1: windmills toddle
+0 -> 0: baggy manifested
+else replica squeezes
+create participant "cliche glasses" as 3
+0 -> 3 : cliche glasses
+end
+@enduml

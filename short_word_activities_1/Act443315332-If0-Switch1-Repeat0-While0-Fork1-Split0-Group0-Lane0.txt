@@ -1,0 +1,22 @@
+@startuml
+start
+switch (starving badminton?)
+case (illusions expressly?)
+:lunching heroine; <<continuous>>
+-> painted undivided;
+case (reservations overtime?)
+:skidded pivotal; <<load>>
+-> jersey columnists;
+case (rename healed?)
+fork
+:puts woof;
+fork again
+:four narrow;
+fork again
+:graciously oversized; <<task>>
+fork again
+:appears deviation;
+end fork
+endswitch
+end
+@enduml

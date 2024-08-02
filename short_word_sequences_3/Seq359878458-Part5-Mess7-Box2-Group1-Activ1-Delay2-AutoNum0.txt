@@ -1,0 +1,23 @@
+@startuml
+box "carter sleet"
+participant "glove where" as 0
+participant "bars bailing" as 1
+end box
+box "breached boozer"
+participant "equipped smoother" as 2
+participant "cells vintage" as 3
+participant "glanced parka" as 4
+end box
+1 <-] : lasting hated
+0 -> 2: cacciatore router
+...yum protector...
+3 -> 4!! : alleviate cerebral
+...anna goodness...
+0 -> 4: millisecond sample
+1 ->] : labyrinth leery
+loop piddles momentary
+0 ->> 3++ : prostitution dearly
+0 --> 4: sendoff cabinet
+return stanza tampered
+end
+@enduml

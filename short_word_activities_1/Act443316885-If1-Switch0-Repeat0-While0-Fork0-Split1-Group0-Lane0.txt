@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:actresses loan;
+split again
+-[hidden]->
+:stationed testament; <<input>>
+split again
+-[hidden]->
+:tempted tropical; <<input>>
+end split
+:girls unbeatable;
+if (li mod?) then (turds truffles)
+(kilt woody) elseif (heady commissioned?) then (sworn uncomfortable)
+:shortsighted perimeter; <<output>>
+(softly yields) elseif (bulls chime?) then (epiphany cordoned)
+:weaver bathing; <<input>>
+-> framework pushover;
+(recanted tribe) elseif (intensity pastels?) then (squiggly carpenter)
+:channels cactus; <<task>>
+endif
+end
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:unfriendly infallible;
+split again
+-[hidden]->
+:doubly oaths; <<input>>
+split again
+-[hidden]->
+:figment rocked; <<load>>
+-> breeding wherein;
+split again
+-[hidden]->
+switch (grungy intruded?)
+case (accusers falafel?)
+:actress destined; <<load>>
+-> bounty illumination;
+case (buzz sharpened?)
+:sadness sculpture; <<input>>
+endswitch
+end split
+:ironic lis; <<task>>
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "conning unconsciously" as 0
+== yields panicky ==
+0 -> 0: racquet trance
+create participant "cultivated thriving" as 1
+0 -> 1 : cultivated thriving
+1 -> 0: fathom guessing
+0 -> 1: robust witness
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "puree nuts" as 0
+box "coasters rehab"
+participant "fucked trauma" as 1
+participant "sunblock roam" as 2
+end box
+== suppress buster ==
+2 ->> 1: truffles finally
+create participant "videotape dragonfly" as 3
+2 -> 3 : videotape dragonfly
+3 -> 3!! : illustrates prays
+0 ->o 0: minions holiday
+...preserved abdomen...
+2 -\\ 2: driver byproduct
+...overstay crammed...
+1 -> 3: ignited cruises
+@enduml

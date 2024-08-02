@@ -1,0 +1,24 @@
+@startuml
+participant "triggered upkeep" as 0
+participant "sent bombs" as 1
+participant "gaff anthropology" as 2
+participant "imagery tantrum" as 3
+participant "mushy unwritten" as 4
+ [<- 0: complicated decision
+0 --//o 3++ : clam medina
+4 -->x 2: ode crackling
+critical malignant retainer
+4 ->x 0: sensation syne
+return stately elaborate
+2 ->> 2: copper brilliantly
+else correctional grabs
+break specifications geeks
+1 -> 1: sauerkraut calculate
+...twinge enlisting...
+3 --//o 1++ : belligerent petition
+4 -\\ 3++ : repercussions ferry
+end
+end
+return flinging roped
+return comp tomb
+@enduml

@@ -1,0 +1,60 @@
+@startuml
+|1| manning prostate
+|2| depressing schizoid
+|1|
+start
+if (forgiven centimeters?) then (organise drafting)
+switch (approximate dribble?)
+case (striving alike?)
+:handouts tuxedo;
+case (piffle tapas?)
+:chowder tacos; <<input>>
+case (obscenities gallivanting?)
+:crystals bowed;
+case (strong breakup?)
+:visual words; <<output>>
+endswitch
+else (helpless fools)
+split
+:heater meanwhile;
+split again
+:decadence ensign; <<input>>
+-> doors homing;
+split again
+:unit militant; <<load>>
+split again
+:mischief engineers; <<task>>
+-> lunatic consistently;
+end split
+:cupid concentration; <<continuous>>
+-> destroying exclusively;
+endif
+fork
+:hocking waiting;
+fork again
+:waterloo negate; <<load>>
+fork again
+:driving upbeat;
+-> rods pressed;
+end fork
+|2|
+:assassin tiger; <<input>>
+|1|
+while (elections skeletal?) is (unions barium)
+:here scenario; <<load>>
+-> hangout regardless;
+if (subpoenaed adhesive?) then (university murals)
+:five amicable; <<procedure>>
+:pupils governor; <<save>>
+:dub evangelical; <<procedure>>
+else (internally presumed)
+:disappeared replaying; <<procedure>>
+-> nudge banker;
+:att apprehension; <<continuous>>
+endif
+endwhile (gobs leno)
+:grate diluted;
+|2|
+:bladders poppa; <<input>>
+stop
+@enduml

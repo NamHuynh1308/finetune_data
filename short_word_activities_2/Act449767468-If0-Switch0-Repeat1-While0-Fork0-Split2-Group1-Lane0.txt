@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:implanted stat;
+split again
+-[hidden]->
+:mobs howl; <<task>>
+split again
+-[hidden]->
+:devotion windbag;
+split again
+-[hidden]->
+:coverup whoosh; <<procedure>>
+end split
+group slimming attentive
+split
+:pleased explosives;
+split again
+:queue awaiting; <<continuous>>
+-> archenemy dumbest;
+split again
+repeat
+:dreamer procession; <<output>>
+-> director shoveled;
+:reflected baseless;
+:clouded seam;
+-> freeze dock;
+repeat while (makeovers traitors?) is (scraped cain)
+-> hypocritical lasted;
+end split
+stop
+end group
+@enduml

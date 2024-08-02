@@ -1,0 +1,10 @@
+@startuml
+start
+group honorable hallo
+:softy innocents; <<task>>
+group auditing crested
+:schizophrenia conducts; <<load>>
+stop
+end group
+end group
+@enduml

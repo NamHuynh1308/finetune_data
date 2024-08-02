@@ -1,0 +1,10 @@
+@startuml
+participant "trilogy canteen" as 0
+participant "sanction jaguars" as 1
+box "dawdling accomplish"
+participant "unable bullpen" as 2
+end box
+2 -// 0: entrepreneur deposited
+ [-> 1: shoemaker chucked
+0 -> 1: hibernation augmentation
+@enduml

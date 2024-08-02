@@ -1,0 +1,9 @@
+@startuml
+participant "thrilling happenings" as 0
+0 <-] : sightings pachyderm
+0 ->o 0: disappoints teeny
+opt insidious cris
+0 -> 0++ : mysteriously corona
+end
+return grandfathers patronize
+@enduml

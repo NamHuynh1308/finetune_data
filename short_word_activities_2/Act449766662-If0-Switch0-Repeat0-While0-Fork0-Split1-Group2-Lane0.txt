@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:functions forcing;
+split again
+-[hidden]->
+:refugee disappear; <<input>>
+-> dislodged concepts;
+split again
+-[hidden]->
+:paleontology consumer; <<load>>
+-> welcoming stealthy;
+end split
+:candidate convened;
+group scab thereof
+:repair images; <<output>>
+-> words ripples;
+group casa accepting
+:greed humility;
+stop
+end group
+end group
+@enduml

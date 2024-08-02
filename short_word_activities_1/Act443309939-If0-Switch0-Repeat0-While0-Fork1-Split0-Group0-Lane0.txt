@@ -1,0 +1,14 @@
+@startuml
+start
+:messenger scoot;
+-> friendly wrestling;
+fork
+:thumping pound;
+fork again
+:drippy drama; <<save>>
+fork again
+:pax challenging; <<continuous>>
+-> makes fund;
+end merge
+stop
+@enduml

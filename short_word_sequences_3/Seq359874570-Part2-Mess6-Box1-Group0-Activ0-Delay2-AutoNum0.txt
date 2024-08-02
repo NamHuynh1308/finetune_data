@@ -1,0 +1,14 @@
+@startuml
+participant "predecessors deflecting" as 0
+box "quoth dismantle"
+participant "messed sailboats" as 1
+end box
+1 -> 0: puss morello
+1 ->x 1: imagines springer
+...hounded margarita...
+1 <-> 0: kern messengers
+1 --> 0: booker cannabis
+1 <-] : greatness estimate
+...emptying sawed...
+1 -> 1: dolled herald
+@enduml

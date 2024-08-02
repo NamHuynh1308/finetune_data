@@ -1,0 +1,6 @@
+@startuml
+box "discussion interested"
+participant "mutants nightly" as 0
+end box
+0 --//o 0: cased enchant
+@enduml

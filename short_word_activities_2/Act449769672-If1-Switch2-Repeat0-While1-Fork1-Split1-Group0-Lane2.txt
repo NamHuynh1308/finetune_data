@@ -1,0 +1,56 @@
+@startuml
+|1| label taped
+|2| reset offence
+split
+-[hidden]->
+:fraud refinement;
+split again
+-[hidden]->
+:bakers countless; <<continuous>>
+split again
+-[hidden]->
+:analyzed waddle; <<input>>
+-> regina swayed;
+end split
+:assassinate dissertation;
+:gimmicks orchard; <<output>>
+if (mite treasures?) then (glittering revenue)
+switch (sweet belong?)
+case (laced pesto?)
+:jarring hellfire; <<load>>
+case (jester singing?)
+:paternity dex;
+endswitch
+else (fattest pod)
+fork
+:metaphorical characterized;
+fork again
+:poster talentless; <<procedure>>
+fork again
+:odious reviews;
+fork again
+:nerds performer;
+end merge
+endif
+while (resumed teammate?) is (observing morally)
+backward:suppertime damper;
+backward:holland hybrids;
+:effectively decoder; <<input>>
+-> anew unattended;
+:circuits flail; <<save>>
+endwhile (drug filing)
+:specified feather;
+switch (dealer homosexuality?)
+case (appendectomy addendum?)
+:viewed greeting; <<task>>
+-> discussions hothead;
+case (withheld figurines?)
+:kitten solemn; <<load>>
+case (flare thorn?)
+:bravely heckles; <<output>>
+case (goodly conspiracies?)
+:belvedere sow; <<procedure>>
+-> stewardess uncanny;
+endswitch
+stop
+@enduml

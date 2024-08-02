@@ -1,0 +1,62 @@
+@startuml
+split
+-[hidden]->
+:morals decide;
+split again
+-[hidden]->
+:fish writings; <<load>>
+-> better accordance;
+split again
+-[hidden]->
+if (electrified snowball?) then (sub advising)
+(satire ranging) elseif (cleverly proof?) then (recognition articles)
+:moonlit styles;
+-> hassling eccentricities;
+(doing scurvy) elseif (horizons clocked?) then (whore polarity)
+:appetizer amused;
+(recognition bitterness) elseif (auger foolish?) then (wearer evident)
+:feller runner; <<task>>
+(artifacts fawning) elseif (bowling drawn?) then (ghoulish vegetarian)
+:subpoenaed erasing; <<continuous>>
+endif
+end split
+if (freed roster?) then (endorse scabs)
+:bastards reserving; <<load>>
+-> hitching blink;
+:boxing threw; <<output>>
+while (marriages bridge?) is (presided waddle)
+backward:perspiration dicey;
+backward:subbasement shapes;
+:mecca corrected;
+:grated invading;
+endwhile (freshening treaters)
+-[hidden]->
+detach
+else (cruising perchance)
+:undergarment suicidal;
+:unaffected scoping;
+-> blubber hillcrest;
+endif
+group turns shielded
+if (switchman awakening?) then (lubrication yonkers)
+:bailed illegitimate; <<input>>
+repeat
+:services orange;
+backward:pyramid limbs;
+repeat while (glide absurdity?) is (foraging plutonium)
+:communism unfreezing; <<save>>
+else (coitus university)
+:magnetic dreary; <<output>>
+-> buzzed alright;
+:value blackmailing; <<output>>
+switch (august rivers?)
+case (barbershop ecosystem?)
+:poachers magnificent;
+-> wicked hospital;
+case (abandoning careers?)
+:downing rationalize;
+endswitch
+endif
+stop
+end group
+@enduml

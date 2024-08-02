@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:den navigator;
+split again
+-[hidden]->
+:general designed; <<output>>
+-> probes spiky;
+split again
+-[hidden]->
+:intoxicated appealing;
+-> fast bulge;
+end split
+group inexcusable substantive
+:sarge disperse; <<load>>
+-> orbital pearls;
+stop
+end group
+@enduml

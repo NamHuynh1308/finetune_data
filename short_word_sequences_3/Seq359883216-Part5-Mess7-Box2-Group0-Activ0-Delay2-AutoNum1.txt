@@ -1,0 +1,23 @@
+@startuml
+box "racism functions"
+participant "switchman stashed" as 0
+participant "residing scared" as 1
+participant "localized ad" as 2
+box "ranchers beefcake"
+participant "godfather fur" as 3
+end box
+end box
+autonumber 9 1
+2 <-] : alarm piqued
+...begging zesty...
+3 -\\ 3: segue rodeo
+...spur penned...
+0 -// 0: belonged accused
+autonumber stop
+create participant "flicker kilter" as 4
+2 -> 4 : flicker kilter
+4 --> 2: questioning blunder
+4 -> 0: assortment pied
+autonumber resume
+0 -> 1: cougar charmingly
+@enduml

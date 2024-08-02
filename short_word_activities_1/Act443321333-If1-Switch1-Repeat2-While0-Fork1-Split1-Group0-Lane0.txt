@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:investigations hutch;
+split again
+-[hidden]->
+if (clingy neighbour?) then (accuses avoided)
+(tolerate avid) elseif (droopy gearing?) then (aloha surfer)
+:benefits impotent; <<continuous>>
+(psychiatric disbelief) elseif (moldings incapacitated?) then (misread rather)
+:demolish nigh; <<save>>
+endif
+split again
+-[hidden]->
+:unintelligible unwitting; <<output>>
+end split
+repeat
+:snuggles dips;
+repeat while (crapper botulism?) is (flourished messed)
+switch (subterfuge salon?)
+case (survivors writhing?)
+fork
+:posture precautionary;
+fork again
+:dissing drunks;
+-> images justifies;
+fork again
+:genetic wrecker;
+end merge
+case (planetarium consummated?)
+:corresponds stills; <<save>>
+-> weed deuces;
+case (cinnamon forceps?)
+:signify urgent; <<continuous>>
+case (disposal workday?)
+repeat
+:pertinent chokes; <<input>>
+backward:pivotal ridge;
+repeat while (glaze carver?) is (lye masking)
+endswitch
+:homeroom solar;
+end
+@enduml

@@ -1,0 +1,41 @@
+@startuml
+start
+group talky positives
+:subletting tableau; <<procedure>>
+-> mining cue;
+fork
+:arf dine;
+fork again
+:unanswered pigs; <<input>>
+fork again
+:correlation relaxed; <<procedure>>
+-> solve stalking;
+end fork
+end group
+split
+:molds eight;
+split again
+if (luge quibble?) then (inconsiderate professionally)
+:attends gallbladder; <<procedure>>
+:cookie incinerator; <<save>>
+kill
+else (salamander confuse)
+:cinematic cherry; <<procedure>>
+:soda standing; <<procedure>>
+:turtle debutante;
+endif
+split again
+switch (roscoe twain?)
+case (flagging correction?)
+:tools guru;
+case (horrors lent?)
+:acquainted arrowhead; <<load>>
+-> licks worker;
+case (harping sol?)
+:fails yonkers;
+case (ledgers switching?)
+:shuffling afterthought; <<output>>
+-> payback prosperity;
+endswitch
+end split
+@enduml

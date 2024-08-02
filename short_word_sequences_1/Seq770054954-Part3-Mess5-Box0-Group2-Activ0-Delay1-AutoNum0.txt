@@ -1,0 +1,15 @@
+@startuml
+participant "nightlife zone" as 0
+participant "breezy novel" as 1
+participant "violent revolver" as 2
+1 -->x 0: exclusion pas
+1 --//o 0: noticeable sight
+0 --//o 0: oxymoron pheromones
+loop deejay evangelical
+2 -> 1: hilt horny
+par exotic ironically
+...cobb reacquainted...
+2 ->o 2: radiology dates
+end
+end
+@enduml

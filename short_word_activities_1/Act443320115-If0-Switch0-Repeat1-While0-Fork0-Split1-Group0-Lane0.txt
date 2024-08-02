@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:slackers scamp;
+split again
+-[hidden]->
+:condemned whisked; <<procedure>>
+split again
+-[hidden]->
+repeat
+:humph alienating; <<procedure>>
+repeat while (barb rooftop?) is (godforsaken colosseum)
+end split
+:alternator renew; <<procedure>>
+stop
+@enduml

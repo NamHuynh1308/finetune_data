@@ -1,0 +1,23 @@
+@startuml
+box "insured formulas"
+participant "hobo leech" as 0
+participant "admitted wipes" as 1
+box "commonly countrymen"
+participant "allowed terra" as 2
+end box
+end box
+== reap beech ==
+create participant "federation dungeon" as 3
+1 -> 3 : federation dungeon
+3 ->x 2: attache payback
+0 -> 0: sevens shaped
+3 -// 0: defused fauna
+break exceeds garnish
+1 ->> 1: juncture lawman
+3 -> 3++ : organisms frantically
+else precipice chowder
+1 -->x 2++ : dampener awarded
+end
+return mush execute
+return shirt regatta
+@enduml

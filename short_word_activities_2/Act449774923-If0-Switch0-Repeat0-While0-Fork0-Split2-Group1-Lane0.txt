@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:rely hardship;
+split again
+-[hidden]->
+:aristocratic budget;
+kill
+split again
+-[hidden]->
+split
+:shoemaker squares;
+split again
+:nose vested; <<save>>
+-> budding troupe;
+split again
+:occurrences bliss;
+end split
+end split
+group declare foxes
+:disorganized churn; <<procedure>>
+:pinochle chassis; <<procedure>>
+end group
+@enduml

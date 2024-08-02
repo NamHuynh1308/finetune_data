@@ -1,0 +1,6 @@
+@startuml
+participant "injection implicating" as 0
+participant "pooh kingdoms" as 1
+0 -> 1: cory dyed
+1 ->x 1: leprechaun ferret
+@enduml

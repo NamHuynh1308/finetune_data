@@ -1,0 +1,7 @@
+@startuml
+box "poppa cardiac"
+participant "beyond cholera" as 0
+end box
+0 -> 0++ : worm nitrous
+return splash twirl
+@enduml

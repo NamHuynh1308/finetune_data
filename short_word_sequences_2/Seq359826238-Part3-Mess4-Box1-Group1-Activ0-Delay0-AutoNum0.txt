@@ -1,0 +1,13 @@
+@startuml
+participant "germs helmets" as 0
+participant "ambivalent sparing" as 1
+box "certificate hook"
+participant "snitch organization" as 2
+end box
+1 -\\ 1: conduct goonie
+2 -\\ 0: regulate honeysuckle
+par cupcakes rowboat
+1 -> 2: posse equitable
+2 -\\ 2: inflicting intimidated
+end
+@enduml

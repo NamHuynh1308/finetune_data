@@ -1,0 +1,57 @@
+@startuml
+|1| ski curator
+|2| makeup assignment
+|1|
+start
+|2|
+split
+:intervention turned;
+split again
+:therapy civility;
+split again
+:lacerated lackeys; <<output>>
+-> determining shape;
+split again
+:bridesmaid scepter; <<save>>
+end split
+fork
+:celebrity madmen;
+fork again
+while (spying volunteer?) is (condensation goggles)
+:pitches covet; <<output>>
+endwhile (estranged inseminated)
+:narcissistic swears;
+fork again
+repeat
+backward:geriatrics subject;
+backward:thirty pentagon;
+repeat while (grate fudged?) is (arraignment calendar)
+-> dice insomnia;
+fork again
+if (commiserate potential?) then (sweaters muzzle)
+:acoustics ailments;
+:chile pertains; <<load>>
+-> ballast burrows;
+while (unheard froufrou?) is (ponds garden)
+backward:ignorant mathematics;
+:lilies unfunny; <<procedure>>
+-> we luge;
+:causes armies; <<continuous>>
+:admission openly; <<task>>
+-> actresses eases;
+endwhile (sahib missy)
+-[hidden]->
+detach
+else (veronica student)
+:soap abound;
+:hayloft cap; <<save>>
+-> chaperoned fortunate;
+endif
+end merge
+repeat
+:reflects serve;
+-> filled masculine;
+backward:shrunk mushy;
+repeat while (rewrote trilogy?) is (forbade pals)
+end
+@enduml

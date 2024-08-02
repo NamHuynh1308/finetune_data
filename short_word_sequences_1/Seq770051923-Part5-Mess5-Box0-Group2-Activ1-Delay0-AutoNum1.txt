@@ -1,0 +1,22 @@
+@startuml
+participant "stopped beleaguered" as 0
+participant "reports paws" as 1
+participant "mugger slave" as 2
+participant "shiva generals" as 3
+autonumber 3 4
+0 -> 2: bankrupted resisting
+opt evident visual
+2 ->o 3: orbital seed
+autonumber stop
+0 ->o 3++ : behooves muggy
+par near avoids
+create participant "gimlet goa" as 4
+3 -> 4 : gimlet goa
+autonumber resume
+3 --//o 1: front playgrounds
+autonumber stop
+else reacquaint mansion
+end
+end
+return prepared manipulator
+@enduml

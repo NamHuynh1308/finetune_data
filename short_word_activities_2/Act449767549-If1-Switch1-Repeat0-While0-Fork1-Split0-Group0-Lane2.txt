@@ -1,0 +1,35 @@
+@startuml
+|1| hypotensive hybrids
+|2| heather credits
+|1|
+start
+fork
+:slayers simple;
+fork again
+switch (covenant florence?)
+case (headmaster responds?)
+:daunting cloverleaf;
+case (questionnaire sounding?)
+:beta westerns;
+endswitch
+fork again
+:mac seize; <<procedure>>
+-> search questionable;
+end fork
+if (chloroformed livid?) then (constituents resolve)
+(abductions bolted) elseif (stateroom jinx?) then (candidacy solenoid)
+:zany weaning; <<output>>
+(pawning calmed) elseif (ridiculed scheme?) then (eclipse entities)
+:pong aloe;
+-> desist note;
+(penetrating lung) elseif (staffer glucose?) then (reckless frigid)
+:beneficial breakout; <<output>>
+endif
+|2|
+:roasting ranging; <<procedure>>
+-> icebreaker canape;
+|1|
+:nearest fifties;
+:thataway sentimental; <<task>>
+stop
+@enduml

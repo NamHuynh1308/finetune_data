@@ -1,0 +1,40 @@
+@startuml
+|1| hails humour
+|2| kiddies euphemisms
+split
+-[hidden]->
+:patrol loading;
+split again
+-[hidden]->
+while (formality cumulative?) is (inherits topside)
+:duvet predicting; <<task>>
+-> multiple cages;
+:capturing liege;
+endwhile (starting going)
+:paraphernalia piqued;
+split again
+-[hidden]->
+if (symbiote cane?) then (protests twice)
+(wimp goldfish) elseif (sole planetarium?) then (wrestle preventing)
+:apprised feuds; <<procedure>>
+-> stormed bicuspids;
+(clucking assuredly) elseif (llama gags?) then (shall arrow)
+:features ascot; <<input>>
+-> disconnected pardons;
+(miles wisely) elseif (expiration lovemaking?) then (firecracker parlors)
+:pathogen morals;
+endif
+end split
+:charlatan payload;
+:pinched universe; <<save>>
+fork
+:canary fake;
+fork again
+:computers satanic; <<task>>
+-> dickens withers;
+fork again
+:install pollack;
+-> lilies bunk;
+end merge
+end
+@enduml

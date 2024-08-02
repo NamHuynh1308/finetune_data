@@ -1,0 +1,35 @@
+@startuml
+box "smokey acknowledge"
+participant "trailing outer" as 0
+participant "owed alters" as 1
+end box
+participant "mid nicknames" as 2
+box "mandatory overdue"
+participant "pralines excellence" as 3
+participant "eerily herd" as 4
+end box
+autonumber 9 9
+0 -\\ 1++ : ribbed proposition
+4 <-> 1++ : lady alcoholics
+0 <-> 0: acquisitions deflower
+return racer hysterectomy
+alt scorpion rubbers
+...hallucinating bura...
+2 ->] : dispatches files
+autonumber stop
+2 --> 4: futon stolen
+autonumber resume
+end
+3 ->> 4++ : extras bikinis
+autonumber stop
+...headless practically...
+ [<- 3: constantly connecting
+autonumber resume
+...eyeliner united...
+0 -> 4: preferences round
+return explaining expertise
+...rage sweet...
+2 ->] : diverted smile
+autonumber stop
+return initiate now
+@enduml

@@ -1,0 +1,72 @@
+@startuml
+|1| shareholder jurisdiction
+|2| misnomer boldly
+split
+-[hidden]->
+:canary smuggling;
+split again
+-[hidden]->
+:dusted removes; <<continuous>>
+-> deliberately hearsay;
+split again
+-[hidden]->
+fork
+:telephones plowing;
+fork again
+:veracity concession; <<output>>
+fork again
+:jay mocha; <<procedure>>
+end merge
+end split
+|2|
+:musketeer miraculous; <<procedure>>
+if (debut payback?) then (ordinarily preserver)
+(toller conceited) elseif (surging wholesaler?) then (salaries subsidy)
+:pedal outfit; <<procedure>>
+-> kiss philosophers;
+(hitching faithful) elseif (scanned fabric?) then (sundown perfecting)
+:impressions antagonizing; <<save>>
+-> reed stumper;
+(cripes cropped) elseif (crematorium vein?) then (faded stationed)
+split
+:series blasphemy;
+split again
+:mo eminent;
+split again
+:precisely swooning;
+split again
+:perform cafeteria;
+end split
+endif
+switch (sadder thready?)
+case (legwork describes?)
+fork
+:sofa determines;
+fork again
+:perjury advises;
+fork again
+:majored briefings;
+fork again
+:commies myself;
+end fork
+case (voice life?)
+if (runners citizenship?) then (elf floors)
+:medley inefficient; <<task>>
+-> tribute pine;
+:dewars moneymaker; <<output>>
+kill
+else (salient ventriloquist)
+:tagging clone; <<save>>
+-> whys madeleine;
+:elevated better;
+:caritas molestation;
+while (discrimination snout?) is (solarium thickening)
+backward:swamped balloon;
+:cloudy drank; <<procedure>>
+endwhile (borders shambles)
+-[hidden]->
+detach
+endif
+endswitch
+stop
+@enduml

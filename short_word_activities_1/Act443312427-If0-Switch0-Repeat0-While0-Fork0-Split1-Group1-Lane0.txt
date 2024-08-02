@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:epidemic statistical;
+split again
+-[hidden]->
+:countrymen listing;
+-> medications pygmies;
+split again
+-[hidden]->
+:pads straight; <<procedure>>
+-> gen alcoholism;
+split again
+-[hidden]->
+:joe apply;
+-> mashed hesitates;
+end split
+group deadbeats sorted
+:zebra dateless; <<save>>
+:fridge eventuality; <<task>>
+stop
+end group
+@enduml

@@ -1,0 +1,63 @@
+@startuml
+|1| unbearably banks
+|2| polishing obstacle
+split
+-[hidden]->
+:shipment venetian;
+split again
+-[hidden]->
+:amenities suction;
+split again
+-[hidden]->
+if (firmer meningitis?) then (homeboy bogs)
+:name maverick;
+:relay toddle; <<output>>
+-> legged intestinal;
+:mourners extracurriculars;
+else (fell prize)
+:pesky emerged; <<continuous>>
+:scholar thanksgiving;
+-> battery baited;
+:rangers cannibals;
+endif
+split again
+-[hidden]->
+:references lighting; <<input>>
+end split
+while (player aplastic?) is (interviewed uptown)
+:generals sentry;
+-> stresses lunar;
+:schnauzer encore; <<save>>
+repeat
+:rave fruitcake; <<input>>
+-> fluids weirder;
+repeat while (sweat classmate?) is (lasers intruders)
+-> malignant math;
+endwhile (concentrate filmmaking)
+:hallucinating pitching;
+:crouch limbo; <<continuous>>
+|2|
+if (preliminary centerpieces?) then (dry argumentative)
+(networks froze) elseif (youse pilgrims?) then (proves rump)
+:separation bolder; <<output>>
+-> garter hinted;
+(pacific faults) elseif (reptilian prescribe?) then (sh interactive)
+:dah felons; <<task>>
+-> brightly abandons;
+(snapper menopausal) elseif (angles acorn?) then (repetitive femmes)
+:contaminated curse;
+endif
+fork
+:hallucinating mathematics;
+fork again
+:velvet weir; <<procedure>>
+fork again
+repeat
+:fortunes holiness; <<procedure>>
+repeat while (examining lambda?) is (psychos escalator)
+fork again
+:marked extraterrestrial; <<save>>
+end merge
+|1|
+:plan indulged; <<continuous>>
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "upstanding dorsal" as 0
+== smock castle ==
+autonumber 8 8
+critical fellahs toothed
+0 ->o 0: elevates coordinate
+create participant "gossiping storm" as 1
+0 -> 1 : gossiping storm
+0 --//o 0: shred continuously
+else buggy blackmailer
+1 <-> 0: envisioned amusing
+0 -> 0: exporting unplugged
+end
+@enduml

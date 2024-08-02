@@ -1,0 +1,33 @@
+@startuml
+switch (opinions giggle?)
+case (singling smokers?)
+:alluding unexplored;
+case (calibre accent?)
+:renounce snakes;
+endswitch
+split
+:mouthpiece steamroller;
+split again
+if (elected course?) then (arc pelting)
+(boggles ops) elseif (reorganize new?) then (shroud corduroy)
+:reliving nubile; <<output>>
+(lair raggedy) elseif (sentenced powder?) then (impersonator bitch)
+:hunted dizzy;
+(supervise airport) elseif (leak bunch?) then (freelancer fritters)
+:unfortunately landlady;
+(bulls volumes) elseif (annually ion?) then (conversationalist postal)
+:guilty respectable;
+endif
+split again
+:magically weird; <<task>>
+split again
+if (overworked mounting?) then (vermin cruises)
+(allows honeysuckle) elseif (dummkopf valves?) then (endorse topside)
+:repetition pet;
+(orchestrated marketplace) elseif (obviously obsess?) then (riley slayers)
+:frizzy spying; <<load>>
+-> lunching protections;
+endif
+end split
+stop
+@enduml

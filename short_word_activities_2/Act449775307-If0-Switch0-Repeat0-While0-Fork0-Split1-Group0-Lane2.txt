@@ -1,0 +1,17 @@
+@startuml
+|1| cox ruler
+|2| schooled squall
+:beagle brownie;
+:center scripts; <<task>>
+-> inspiration flier;
+split
+:absentee grieving;
+split again
+:revolving sweetie; <<procedure>>
+split again
+:spans bloodshed; <<continuous>>
+end split
+:airports confronting;
+:remembrance firefight; <<save>>
+stop
+@enduml

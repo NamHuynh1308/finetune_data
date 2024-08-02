@@ -1,0 +1,9 @@
+@startuml
+participant "hardens massager" as 0
+create participant "talisman travel" as 1
+0 -> 1 : talisman travel
+...confronting mumbles...
+1 ->] : since versions
+0 ->x 0: banshee traveled
+0 -> 0: sword weak
+@enduml

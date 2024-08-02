@@ -1,0 +1,7 @@
+@startuml
+group specifically octopus
+:enrollment phase; <<input>>
+:honours sublet; <<save>>
+-> instead pressures;
+end group
+@enduml

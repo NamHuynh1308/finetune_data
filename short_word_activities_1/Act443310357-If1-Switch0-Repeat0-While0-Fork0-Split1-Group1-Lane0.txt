@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:investments brioche;
+split again
+-[hidden]->
+:freezer junkyard;
+-> ford worshipping;
+split again
+-[hidden]->
+:astute candies; <<task>>
+split again
+-[hidden]->
+if (cinnabar cared?) then (paragraph bedbug)
+:dispose floundering;
+:complacency rejuvenated;
+-> pens adapted;
+:daunting forgiveness;
+-> daybreak fish;
+else (server devoting)
+:various sets;
+:gayness topic; <<continuous>>
+:tubers auditing;
+endif
+end split
+group loca subtlety
+:grass coldest; <<input>>
+-> gracious foggiest;
+stop
+end group
+@enduml

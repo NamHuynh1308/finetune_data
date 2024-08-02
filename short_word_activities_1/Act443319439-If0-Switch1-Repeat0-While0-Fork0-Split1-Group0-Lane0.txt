@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:ciao addendum;
+split again
+-[hidden]->
+:rhino hygienic; <<task>>
+split again
+-[hidden]->
+:unwrapping spilling; <<continuous>>
+split again
+-[hidden]->
+switch (summoned snort?)
+case (marines wolves?)
+:industrialist adversaries; <<procedure>>
+case (aspect givens?)
+:candy recitation; <<task>>
+-> dieter perk;
+case (coon prison?)
+:felon dullard;
+-> consummated courtroom;
+endswitch
+end split
+:riverbank scream;
+end
+@enduml

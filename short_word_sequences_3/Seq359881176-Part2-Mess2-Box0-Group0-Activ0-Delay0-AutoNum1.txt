@@ -1,0 +1,9 @@
+@startuml
+participant "lobster distributed" as 0
+== dirtiest yech ==
+autonumber 9 7
+0 --> 0: leaks chang
+autonumber stop
+create participant "specimen chime" as 1
+0 -> 1 : specimen chime
+@enduml

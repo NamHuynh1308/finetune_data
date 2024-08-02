@@ -1,0 +1,11 @@
+@startuml
+participant "something nails" as 0
+participant "phooey manor" as 1
+alt wits respectability
+1 <-] : fajita protected
+1 -> 0: taut drives
+alt koss haze
+1 --> 1: storybook oasis
+end
+end
+@enduml

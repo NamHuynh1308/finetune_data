@@ -1,0 +1,13 @@
+@startuml
+participant "staircase clerk" as 0
+box "handprint diligently"
+participant "industrious recruiting" as 1
+participant "in nachos" as 2
+end box
+== sockets loosened ==
+2 -> 0: butted pins
+alt mauled orphan
+2 ->x 2: impressing plotting
+1 -> 2: acquaintances carting
+end
+@enduml

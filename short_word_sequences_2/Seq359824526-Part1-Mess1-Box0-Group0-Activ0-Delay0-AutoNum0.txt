@@ -1,0 +1,5 @@
+@startuml
+participant "coasting bravest" as 0
+== clerical docking ==
+0 ->o 0: mommy detonates
+@enduml

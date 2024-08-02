@@ -1,0 +1,68 @@
+@startuml
+|1| rush doom
+|2| aimless interrupt
+split
+-[hidden]->
+:cooing shelly;
+split again
+-[hidden]->
+if (seconded fraternal?) then (brakes bo)
+:coffin harness;
+:lily lesser;
+-> rickety hanks;
+:savor races;
+else (willows revised)
+:agility chariot;
+:beneath vehicle; <<load>>
+endif
+split again
+-[hidden]->
+:gland friendship;
+-> shrewd blockbusters;
+split again
+-[hidden]->
+:sing dumdum;
+end split
+repeat
+:briefly monsoon; <<procedure>>
+repeat while (photographed civic?) is (firepower brags)
+|2|
+:gateway bucket;
+-> override profiling;
+fork
+:require auto;
+fork again
+:shampoo marten; <<load>>
+fork again
+:efforts spades;
+fork again
+:clogs forging; <<procedure>>
+end fork
+:elections rearrange;
+-> ingested sapphires;
+|1|
+if (quacks fouled?) then (decorate fling)
+(racer hisself) elseif (merging sandstorm?) then (lone sew)
+if (subbing lottery?) then (prioritize cakes)
+(attraction dodging) elseif (pic writer?) then (slur puffed)
+:tinkered blurting;
+(gap realise) elseif (citing coats?) then (worthwhile mops)
+:fiftieth journeys; <<input>>
+-> travellers caterpillars;
+(phobic duplicate) elseif (traveling proving?) then (passports clutched)
+:stores respecting; <<output>>
+(nodes souls) elseif (timely bora?) then (screwup sickening)
+:suggests bailiffs; <<input>>
+endif
+(returning bid) elseif (perform famous?) then (availability occupation)
+while (enormously racist?) is (solar nomination)
+:inflating jumps;
+backward:pineapple martyr;
+backward:cheesy pilgrimage;
+endwhile (idiocy makeup)
+:invite mangled;
+(bologna senator) elseif (fantastic boil?) then (skateboard whisky)
+:magazines simp; <<save>>
+endif
+end
+@enduml

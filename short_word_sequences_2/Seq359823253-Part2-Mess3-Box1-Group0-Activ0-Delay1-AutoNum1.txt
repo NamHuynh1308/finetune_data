@@ -1,0 +1,11 @@
+@startuml
+participant "landers unicorn" as 0
+box "yoghurt continuum"
+participant "tumbler typically" as 1
+end box
+autonumber 9 7
+ [<- 1: vault ben
+...degenerative grizzly...
+1 -\\ 0: baldness cause
+0 -> 0: warehouse bibliography
+@enduml

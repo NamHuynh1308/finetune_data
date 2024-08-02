@@ -1,0 +1,6 @@
+@startuml
+group gets consultation
+:dull kindest; <<input>>
+stop
+end group
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "paternal upsetting" as 0
+participant "eyeful opus" as 1
+participant "conceal tactical" as 2
+opt pepperoni ammunition
+create participant "allergic nearby" as 3
+2 -> 3 : allergic nearby
+loop man recommends
+ [<- 2: splatter tryout
+3 -> 2: radio emphatic
+else noodle paranoia
+end
+end
+@enduml

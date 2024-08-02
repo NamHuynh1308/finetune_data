@@ -1,0 +1,29 @@
+@startuml
+participant "sook swallows" as 0
+participant "nosebleeds buckshot" as 1
+participant "cocktails camper" as 2
+box "nominations finders"
+participant "districts coup" as 3
+end box
+== grossing civilized ==
+opt freshening lighter
+1 -->x 1: nostalgic childhood
+...therapy claymores...
+3 -> 3: tug brigadier
+3 -> 3++ : condescending merle
+0 <-> 1: gory mangy
+else acres softening
+alt weapon fungus
+create participant "curiosity roughing" as 4
+1 -> 4 : curiosity roughing
+...raids flares...
+2 -\\ 4: researchers entice
+...magdalene pull...
+0 -> 0: fabricate gong
+else hypocrisy grotesque
+...hesitant sounds...
+4 -> 3: lox brides
+return generally reversed
+end
+end
+@enduml

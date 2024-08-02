@@ -1,0 +1,31 @@
+@startuml
+group diamond rectangle
+:fixable withering; <<input>>
+-> enticed taken;
+split
+:verger ulcer;
+split again
+repeat
+:wahoo crackerjack; <<input>>
+:poets twelfth; <<output>>
+-> dregs tattle;
+repeat while (antics rhymed?) is (humbled themselves)
+-> greetings chanting;
+split again
+:mocking relay; <<procedure>>
+-> tenacious crooks;
+split again
+:labeled breast;
+while (untenable unpack?) is (disingenuous consumer)
+:fledgling accomplishing; <<task>>
+:excuses depicts;
+:pry thrive; <<load>>
+-> prosecutor belongings;
+endwhile (majestic dealing)
+-[hidden]->
+detach
+end split
+:outdoorsy town; <<output>>
+stop
+end group
+@enduml

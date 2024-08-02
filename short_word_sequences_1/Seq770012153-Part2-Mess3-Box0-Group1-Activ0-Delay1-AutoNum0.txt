@@ -1,0 +1,10 @@
+@startuml
+participant "gooey fingertips" as 0
+create participant "adversary painting" as 1
+0 -> 1 : adversary painting
+critical tempting penetrate
+0 -// 1: contrite confusing
+...responds wound...
+1 ->o 0: awards deadly
+end
+@enduml

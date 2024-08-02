@@ -1,0 +1,15 @@
+@startuml
+:result impatient; <<save>>
+fork
+:admit paramedics;
+fork again
+:guesthouse serving; <<task>>
+fork again
+:honeymoon feline; <<task>>
+-> nachos gut;
+end fork
+group unload crush
+:stones devoting;
+stop
+end group
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "codes precious" as 0
+participant "laughable pathologist" as 1
+ [<- 0: sympathy mac
+0 <-> 1: tests appetizer
+alt apiece notably
+create participant "rein relapse" as 2
+1 -> 2 : rein relapse
+end
+@enduml

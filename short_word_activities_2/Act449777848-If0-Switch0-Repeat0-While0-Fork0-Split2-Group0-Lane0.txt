@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:fuels daily;
+split again
+-[hidden]->
+:program hypothermia;
+kill
+split again
+-[hidden]->
+:electronically jolly; <<task>>
+-> droll payload;
+end split
+split
+:clop sucked;
+split again
+:blinds donors; <<load>>
+split again
+:gaby unfortunate;
+-> oboe cattle;
+end split
+end
+@enduml

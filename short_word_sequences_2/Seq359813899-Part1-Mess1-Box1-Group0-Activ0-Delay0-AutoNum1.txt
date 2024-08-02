@@ -1,0 +1,9 @@
+@startuml
+box "bawl miscellaneous"
+participant "gibberish anagram" as 0
+end box
+== resin is ==
+autonumber 5 9
+0 -> 0!! : spree grudges
+autonumber stop
+@enduml

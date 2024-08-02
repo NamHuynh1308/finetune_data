@@ -1,0 +1,5 @@
+@startuml
+:leech except; <<save>>
+-> civilizations ushers;
+stop
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+participant "sheriff flyboy" as 0
+participant "waistband kaleidoscope" as 1
+participant "bestseller whipping" as 2
+participant "shtick dispatcher" as 3
+autonumber 0 1
+1 ->] : lending colours
+3 --> 1: volant hormones
+alt armory committee
+2 -> 1: goats permitting
+autonumber stop
+0 --//o 1: net steals
+1 ->x 3++ : bunion wait
+autonumber resume
+1 --> 3++ : incest lameness
+autonumber stop
+end
+return worsened premiums
+return compliments robbing
+@enduml

@@ -1,0 +1,33 @@
+@startuml
+start
+if (entree heights?) then (corner affiliated)
+:supplied uplink;
+:bump pouring;
+:dost propensity; <<save>>
+else (intermediate gin)
+:rightly obtained; <<input>>
+:seminars mirage;
+fork
+:oatmeal detonator;
+fork again
+:value heresy;
+while (way stirring?) is (misinterpret realms)
+backward:wolfram mauled;
+backward:aspire seemed;
+:unto unstuck;
+endwhile (florists forever)
+-[hidden]->
+detach
+fork again
+:suppression detrimental; <<procedure>>
+end fork
+endif
+fork
+:tuition quiver;
+fork again
+:smarty psychobabble; <<procedure>>
+fork again
+:rephrase thru; <<procedure>>
+-> crumbled nappy;
+end merge
+@enduml

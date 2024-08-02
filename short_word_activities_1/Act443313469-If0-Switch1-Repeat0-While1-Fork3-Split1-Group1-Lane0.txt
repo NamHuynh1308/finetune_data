@@ -1,0 +1,61 @@
+@startuml
+split
+-[hidden]->
+:hacksaw trouble;
+split again
+-[hidden]->
+:shares contain; <<task>>
+-> allowance collagen;
+split again
+-[hidden]->
+fork
+:backstage inn;
+fork again
+:scrounging nominations;
+while (twenties necessary?) is (snowflake potted)
+:slugger melodrama;
+:muse jinx; <<procedure>>
+-> bobby distributor;
+endwhile (pyrotechnics plates)
+-[hidden]->
+detach
+fork again
+:redress crowd;
+end fork
+split again
+-[hidden]->
+:places specifics; <<input>>
+-> lederhosen feasting;
+end split
+:pretty slapped; <<load>>
+-> whoops pah;
+group comedic pic
+fork
+:tarmac treatment;
+fork again
+:witless adjourned; <<load>>
+fork again
+:bananas eve; <<task>>
+-> steamroller creaky;
+fork again
+:bravado speculate; <<task>>
+-> pointing considered;
+end fork
+fork
+:exception detour;
+fork again
+:sanest storage;
+fork again
+:homesick lighthouse; <<save>>
+fork again
+switch (abbey republic?)
+case (breadth menu?)
+:sledding donors; <<task>>
+case (legitimacy continually?)
+:truckers gladiator; <<load>>
+-> certificates companion;
+endswitch
+end merge
+stop
+end group
+@enduml

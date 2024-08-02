@@ -1,0 +1,11 @@
+@startuml
+participant "restaurants apostrophe" as 0
+box "fibbing maiming"
+participant "shadow talker" as 1
+end box
+== embassy seascape ==
+alt helps practice
+1 -> 1!! : bullied sill
+1 ->o 1: sowing freebie
+end
+@enduml

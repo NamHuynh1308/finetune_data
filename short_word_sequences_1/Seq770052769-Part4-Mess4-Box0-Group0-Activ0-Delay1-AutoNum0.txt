@@ -1,0 +1,11 @@
+@startuml
+participant "steering spotlight" as 0
+participant "siphoning upkeep" as 1
+participant "hint laughable" as 2
+participant "wishful snakeskin" as 3
+3 -> 2: defending raced
+3 ->] : medicines graced
+...eater threatened...
+0 -> 3: manager shaking
+3 <-> 2: perfectionist enquiries
+@enduml

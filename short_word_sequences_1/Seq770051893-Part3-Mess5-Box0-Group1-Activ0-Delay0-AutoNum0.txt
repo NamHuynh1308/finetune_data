@@ -1,0 +1,13 @@
+@startuml
+participant "prescribing finalized" as 0
+participant "shelly pledge" as 1
+== girl espresso ==
+0 -->x 0: tidbits swede
+create participant "ours heating" as 2
+1 -> 2 : ours heating
+1 -> 2: guilder biggest
+0 -->x 0: boyfriend footnote
+loop civilizations buckeyes
+1 -->x 2: concerning karate
+end
+@enduml

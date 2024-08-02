@@ -1,0 +1,6 @@
+@startuml
+participant "outpouring aurora" as 0
+== urges shimmy ==
+create participant "subsidize kip" as 1
+0 -> 1 : subsidize kip
+@enduml

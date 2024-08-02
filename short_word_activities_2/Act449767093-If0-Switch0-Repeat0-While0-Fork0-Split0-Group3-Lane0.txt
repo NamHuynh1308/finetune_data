@@ -1,0 +1,13 @@
+@startuml
+group traipsing worshippers
+:oversight arrowhead; <<output>>
+-> sexism happen;
+group shenanigans bishop
+:markings mills;
+group flights narcissism
+:yells humbling; <<input>>
+stop
+end group
+end group
+end group
+@enduml

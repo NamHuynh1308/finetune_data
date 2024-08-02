@@ -1,0 +1,19 @@
+@startuml
+participant "psychologists barging" as 0
+participant "royals handyman" as 1
+participant "crunches guaranteed" as 2
+== playmate pinheads ==
+autonumber 9 3
+critical backfire nonviolent
+0 --> 1: decorations essay
+0 -> 0: moonbeams marching
+else booklets taped
+create participant "hijacking overbearing" as 3
+0 -> 3 : hijacking overbearing
+autonumber stop
+else miscarriage heroic
+...behind criminalistics...
+3 -> 2++ : invest facetious
+end
+return teas stud
+@enduml

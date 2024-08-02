@@ -1,0 +1,17 @@
+@startuml
+box "zeroes crate"
+participant "impossible gems" as 0
+participant "ointment chucked" as 1
+end box
+participant "barbs drinkers" as 2
+== bookman prejudice ==
+loop lobbying sissy
+1 -> 2: prevented pond
+2 -> 0: indicated dandelions
+create participant "fades arriving" as 3
+2 -> 3 : fades arriving
+0 ->x 3++ : confidant likelihood
+2 -\\ 2: dreaded they
+return supervising bookmark
+end
+@enduml

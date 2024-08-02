@@ -1,0 +1,26 @@
+@startuml
+|1| fryer endorsing
+|2| dump skyscraper
+|1|
+start
+fork
+:pe readout;
+fork again
+:masquerade aluminum; <<save>>
+fork again
+:granite scale;
+fork again
+if (inquest attract?) then (lone frogs)
+:ails docking;
+else (jail council)
+:cervical fragile; <<procedure>>
+endif
+end fork
+|2|
+:violation artichoke; <<procedure>>
+|1|
+:distortion crashed; <<task>>
+-> parrot diarrhea;
+|2|
+:wow violence;
+@enduml

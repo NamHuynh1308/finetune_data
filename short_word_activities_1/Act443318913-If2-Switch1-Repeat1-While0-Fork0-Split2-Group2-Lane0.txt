@@ -1,0 +1,54 @@
+@startuml
+split
+-[hidden]->
+:burned sled;
+split again
+-[hidden]->
+:maw vandalism; <<procedure>>
+split again
+-[hidden]->
+repeat
+:chutes fugitive; <<continuous>>
+repeat while (historically alcove?) is (botanical severity)
+-> reclaiming distances;
+split again
+-[hidden]->
+switch (swabs taking?)
+case (ravings meow?)
+:urine clerk;
+case (volatile fondling?)
+:tall glad; <<input>>
+case (privileged masses?)
+:infatuation infarction;
+endswitch
+end split
+group damsels manifests
+split
+:delegation resumed;
+split again
+:barbershop hovercraft; <<procedure>>
+-> asparagus endings;
+split again
+:patrolmen unique; <<save>>
+-> rhyme announcement;
+split again
+if (grocery hydrochloride?) then (utensils heir)
+(wheel caterer) elseif (rice statements?) then (clam intrigued)
+:feds gringo; <<output>>
+-> demonology savored;
+(judge bassoon) elseif (cyanide infect?) then (engraving aforethought)
+:antagonistic cesspool; <<load>>
+endif
+end split
+group origins contained
+if (amen succession?) then (wheelchairs jones)
+(sneezed recently) elseif (recipes procrastinate?) then (loom hysterical)
+:fiasco checkers; <<task>>
+(fledged squawk) elseif (devouring wavy?) then (schnitzel professional)
+:sitcoms synthesize;
+-> tepid fascist;
+endif
+stop
+end group
+end group
+@enduml

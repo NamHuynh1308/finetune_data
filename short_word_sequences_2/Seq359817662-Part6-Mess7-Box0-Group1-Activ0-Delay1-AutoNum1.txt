@@ -1,0 +1,23 @@
+@startuml
+participant "elms lox" as 0
+participant "dobbins homebody" as 1
+participant "hysterical socialize" as 2
+participant "afflicted washy" as 3
+participant "insignia repartee" as 4
+autonumber 8 3
+0 <-] : bones advertised
+autonumber stop
+ [<- 4: incase senator
+...unspoken intended...
+1 ->x 1: brute electronically
+critical delegate immune
+3 -> 4: antihistamines pitch
+create participant "nun blends" as 5
+2 -> 5 : nun blends
+else bruised wage
+4 -> 5: foliage revelations
+else overstepping upstage
+1 -\\ 0: machismo pooped
+autonumber resume
+end
+@enduml

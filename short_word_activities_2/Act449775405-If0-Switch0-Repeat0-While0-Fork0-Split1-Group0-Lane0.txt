@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:cholera sucking;
+split again
+-[hidden]->
+:painted due; <<load>>
+split again
+-[hidden]->
+:fruition courses;
+end split
+:surfboard notches; <<input>>
+:dwells ingenious; <<continuous>>
+@enduml

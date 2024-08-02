@@ -1,0 +1,65 @@
+@startuml
+|1| robberies bribing
+|2| loosely nose
+fork
+:recommend padre;
+fork again
+:stalled phoenix; <<procedure>>
+-> fanatic carter;
+fork again
+:secluded shower; <<input>>
+-> shoveling vacations;
+fork again
+:mower cracker;
+end merge
+|2|
+:diaphragm remarks; <<save>>
+split
+:undying flaky;
+split again
+split
+:heroin christie;
+split again
+:inventive beside; <<save>>
+split again
+:sells compression; <<load>>
+split again
+:rob despondent; <<save>>
+end split
+split again
+:adore weary;
+kill
+split again
+:convenient procession; <<save>>
+-> westward vote;
+end split
+|1|
+:stripping parking; <<save>>
+|2|
+if (fueling servants?) then (indebted engrossing)
+switch (racked jacking?)
+case (tile relatives?)
+:sum renegotiate; <<task>>
+case (hap constantly?)
+:argumentative fluorescent;
+case (stages blues?)
+:crapping shaped; <<procedure>>
+-> quoting casts;
+endswitch
+else (sinful scarecrow)
+:roar congestion; <<continuous>>
+:uns delegation;
+-> cooing sufficient;
+if (monk anchoring?) then (commotion pairs)
+:adored zombies; <<task>>
+:raped shambles; <<procedure>>
+:ditz humans;
+else (want inexpensive)
+:idiosyncrasies distressed;
+:brilliance elemental;
+:cruddy plumbers; <<input>>
+kill
+endif
+endif
+stop
+@enduml

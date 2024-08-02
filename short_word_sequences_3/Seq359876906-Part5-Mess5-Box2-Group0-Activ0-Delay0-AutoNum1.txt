@@ -1,0 +1,20 @@
+@startuml
+participant "shootings denied" as 0
+box "cliffs niceties"
+participant "translating wore" as 1
+participant "captains hulk" as 2
+end box
+box "simony moped"
+participant "fretting soundly" as 3
+end box
+== nursery kissed ==
+autonumber 0 5
+0 -> 3: prosciutto recommending
+autonumber stop
+0 -> 2: behold prolonged
+1 -> 1!! : twister interfacing
+3 -> 2: excursions lithium
+autonumber resume
+create participant "whirl associate" as 4
+3 -> 4 : whirl associate
+@enduml

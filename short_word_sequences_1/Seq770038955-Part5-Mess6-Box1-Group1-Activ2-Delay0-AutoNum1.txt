@@ -1,0 +1,22 @@
+@startuml
+participant "bulk coffee" as 0
+participant "lively decanter" as 1
+box "hurst cutout"
+participant "detail remarkable" as 2
+participant "tutu revised" as 3
+end box
+autonumber 0 4
+3 -> 0: brutal dobson
+critical removal tense
+1 -// 0: lakers blasting
+0 -> 0++ : inspect hello
+create participant "unjustly mannered" as 4
+3 -> 4 : unjustly mannered
+return santo upright
+else penetrating bratwurst
+3 ->> 3: extra domes
+3 ->> 4++ : stereo disagreements
+autonumber stop
+end
+return buildings marking
+@enduml

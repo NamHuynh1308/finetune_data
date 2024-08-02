@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:alarmed functional;
+split again
+-[hidden]->
+:stayed miserable;
+split again
+-[hidden]->
+split
+:blowhard leaders;
+split again
+:salient yet; <<continuous>>
+split again
+:tier dwells;
+end split
+end split
+:humid peg; <<input>>
+while (brooding dismay?) is (wrecker floppy)
+:mouths ride; <<continuous>>
+-> fireplaces engineers;
+:grounded offices; <<procedure>>
+:arose squire; <<save>>
+-> bundles slaughterhouse;
+split
+:nominated aerodynamics;
+split again
+:learning lid;
+split again
+:kit paper; <<save>>
+-> admittedly mead;
+end split
+endwhile (undressed rogues)
+:personified glaucoma;
+end
+@enduml

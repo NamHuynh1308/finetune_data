@@ -1,0 +1,11 @@
+@startuml
+participant "wretched groove" as 0
+participant "attempts invincible" as 1
+autonumber 8 0
+0 -> 1: tet presto
+autonumber stop
+1 ->> 1: refugees makeshift
+ [<- 1: heats pull
+autonumber resume
+0 --//o 1: gams maya
+@enduml

@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:breast elliptical;
+split again
+-[hidden]->
+if (lemony goodwill?) then (teapot strive)
+(sparklers tremble) elseif (faith inspirational?) then (weddings ethnic)
+:secrecy violate;
+(penguin liquidated) elseif (merging absent?) then (country nipper)
+:earthquakes accents; <<procedure>>
+-> galoshes stiffer;
+endif
+split again
+-[hidden]->
+split
+:flapped hauled;
+split again
+:tutoring ess;
+split again
+:rarest marathon;
+end split
+split again
+-[hidden]->
+fork
+:submissive infinitely;
+fork again
+:rocking exhilarated; <<procedure>>
+fork again
+:named striped; <<task>>
+fork again
+:scrapings pillage;
+end fork
+end split
+while (rights quarrel?) is (exports species)
+backward:arithmetic lullaby;
+endwhile (queens bins)
+:supervise hefty;
+split
+:slime adore;
+split again
+:exploration superior; <<output>>
+split again
+:biz aneurysm; <<procedure>>
+end split
+end
+@enduml

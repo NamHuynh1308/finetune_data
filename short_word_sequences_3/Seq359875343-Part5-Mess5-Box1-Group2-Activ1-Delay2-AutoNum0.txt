@@ -1,0 +1,21 @@
+@startuml
+participant "thermometer blathering" as 0
+participant "rom quickly" as 1
+participant "gamut sweatshops" as 2
+participant "uphill illusion" as 3
+box "hours enormously"
+participant "cannibal stoney" as 4
+end box
+opt hidden confides
+4 -\\ 0++ : needlepoint womanhood
+4 --//o 3: hugest tile
+...owner losing...
+3 -> 0: consequence frees
+return detonation boardinghouse
+alt conceiving brandy
+...dueling sneezed...
+3 -> 4: harrowing representatives
+2 -> 4: fax agony
+end
+end
+@enduml

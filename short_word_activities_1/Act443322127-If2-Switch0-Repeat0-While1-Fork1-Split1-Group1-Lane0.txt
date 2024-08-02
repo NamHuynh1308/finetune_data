@@ -1,0 +1,50 @@
+@startuml
+start
+group hippies boorish
+split
+:spark tacked;
+split again
+:bin blotter; <<output>>
+split again
+:icon dying;
+while (ivy milkman?) is (authoritative stooped)
+backward:jars farmland;
+fork
+:boarder fields;
+fork again
+:rages one;
+fork again
+:roadblocks emphasize;
+fork again
+:withdraw vaccinated; <<continuous>>
+end merge
+backward:gainfully gated;
+if (forgettable bracelets?) then (grubs mantis)
+(geometry thoracic) elseif (convert biscuit?) then (hoarding eta)
+:earlobe debutantes; <<load>>
+(superman disarray) elseif (unquote regrets?) then (agreed buttery)
+:cater inventory; <<save>>
+-> caesar crosshairs;
+(restoring also) elseif (renaissance heartburn?) then (cloths woody)
+:honky scrapings;
+(pillars issue) elseif (accuses queens?) then (calls mongoloid)
+:focal punt;
+endif
+endwhile (diphtheria verbatim)
+-[hidden]->
+detach
+split again
+if (well flowers?) then (melodramatic lapel)
+(medicines peaches) elseif (hogging janitor?) then (oppose discharged)
+:gulf unfairness;
+(deploy marrying) elseif (sutra truck?) then (founding wholesale)
+:degenerative merrily; <<procedure>>
+(insanity amber) elseif (disparaging angioplasty?) then (clashing lashing)
+:obsessed wailing;
+(blotto unraveling) elseif (powered jockeys?) then (determined barred)
+:gofer sleigh;
+endif
+end split
+stop
+end group
+@enduml

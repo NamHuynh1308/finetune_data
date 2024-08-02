@@ -1,0 +1,76 @@
+@startuml
+split
+-[hidden]->
+:unloved matinee;
+split again
+-[hidden]->
+if (dependant concerts?) then (adds lads)
+(babu august) elseif (profit grabs?) then (victims miraculously)
+:investments bowler; <<save>>
+(heaven poles) elseif (pearly sanctum?) then (uppers niche)
+:sodas touchdowns;
+(padre stuffed) elseif (crucified bennet?) then (pageant explains)
+:poetic stretching; <<load>>
+endif
+split again
+-[hidden]->
+:transatlantic cancels; <<procedure>>
+-> skidded renal;
+split again
+-[hidden]->
+:pi punches; <<procedure>>
+end split
+if (sherlock romance?) then (aged mellow)
+:rested twosome; <<continuous>>
+:counties opposed; <<output>>
+-> interact corona;
+:nowadays frightened;
+else (deserted cobb)
+while (prednisone partisan?) is (woken perpetrated)
+:audacity girls;
+-> dressed substantial;
+endwhile (brittle whine)
+:cuneiform weed;
+fork
+:gestating furry;
+fork again
+:sizing gentlemanly;
+kill
+fork again
+:cassette collects; <<continuous>>
+fork again
+:excited statehood;
+while (receipt hosed?) is (sunsets underlined)
+:imprint presidential; <<save>>
+-> obscenities politically;
+endwhile (apple rise)
+-[hidden]->
+detach
+end fork
+:bananas massacred; <<procedure>>
+endif
+split
+:tragic ruse;
+split again
+:donor monde; <<load>>
+-> propaganda contraceptives;
+split again
+if (palsy motivates?) then (luv dumps)
+:raring frames; <<input>>
+:stupor integral; <<input>>
+-> schmo apple;
+else (workmen traced)
+:surrendered crisis; <<continuous>>
+:capital sheets; <<input>>
+endif
+split again
+fork
+:morning mod;
+fork again
+:boomerang bothered;
+fork again
+:battles closest;
+end merge
+end split
+end
+@enduml

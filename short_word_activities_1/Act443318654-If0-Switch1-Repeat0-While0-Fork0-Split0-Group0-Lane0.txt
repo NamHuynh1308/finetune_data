@@ -1,0 +1,13 @@
+@startuml
+start
+:accepting deluxe; <<continuous>>
+switch (vendetta rupture?)
+case (relocate operas?)
+:presidents stereo; <<continuous>>
+-> stationed administrators;
+case (rabbi riverside?)
+:snake highly;
+-> disappointed mainland;
+endswitch
+:pencils nag; <<input>>
+@enduml

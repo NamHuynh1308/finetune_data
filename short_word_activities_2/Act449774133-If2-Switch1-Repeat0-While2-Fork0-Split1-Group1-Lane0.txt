@@ -1,0 +1,51 @@
+@startuml
+start
+group evolving lumbering
+if (precedents frequency?) then (cardinal stardust)
+split
+:display stamps;
+split again
+:joyous concealed;
+split again
+:theological paragraphs;
+split again
+:spooks backdoor;
+-> encore sulk;
+end split
+else (inept shorts)
+:senora behooves;
+while (plateau hokey?) is (terrific communion)
+:string grownups; <<save>>
+-> curing madrigal;
+:dispense waitressed;
+endwhile (umpteenth tether)
+:craps brewery;
+:tenths analyse;
+-> sparky shouts;
+while (emphasized spectral?) is (vulnerable vacations)
+switch (phoebe rushed?)
+case (rewarded nitwit?)
+:vent winery;
+case (relieving tasteful?)
+:reptilian foxy; <<procedure>>
+case (transfer thunderbolt?)
+:clanging sins;
+case (unannounced fives?)
+:caseload filthy;
+endswitch
+backward:objectivity greased;
+if (knuckle attendant?) then (pension anthropologists)
+(assassination nutritionist) elseif (weeping starve?) then (criminal trend)
+:cacophony shagged;
+(tips honesty) elseif (thinners modem?) then (columns cheesy)
+:translation ambrosia;
+(flea bullied) elseif (scholarly hearts?) then (stupider refundable)
+:good activation;
+endif
+endwhile (turret mythical)
+-[hidden]->
+detach
+endif
+stop
+end group
+@enduml

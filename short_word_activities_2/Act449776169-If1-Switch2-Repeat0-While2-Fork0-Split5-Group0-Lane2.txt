@@ -1,0 +1,96 @@
+@startuml
+|1| prescription encrusted
+|2| mausoleum postponement
+split
+-[hidden]->
+:spot noon;
+split again
+-[hidden]->
+:scrutinized championship; <<load>>
+-> interrupts amnesia;
+split again
+-[hidden]->
+:firewater gilded; <<input>>
+split again
+-[hidden]->
+:deserter islands; <<task>>
+-> paintings arts;
+end split
+|2|
+:oaks cavalry; <<save>>
+|1|
+if (sweetest highest?) then (officiate audiences)
+:heel blockade; <<continuous>>
+:discriminate nosey; <<procedure>>
+else (spread lily)
+split
+:jailhouse booklets;
+split again
+:sizes wracked;
+split again
+:trillion romantic; <<continuous>>
+-> fucker dozer;
+end split
+endif
+switch (primates testimony?)
+case (chocolate nitroglycerin?)
+switch (camped deaths?)
+case (yells sanctioned?)
+:grace have; <<continuous>>
+case (piece tax?)
+:acorn rebuilt;
+while (rebate exonerated?) is (judiciary demolitions)
+:decorating testified;
+backward:insinuated sundae;
+backward:stain suspense;
+:fink suspicious; <<procedure>>
+endwhile (un appalling)
+-[hidden]->
+detach
+case (angina lists?)
+:periodic getter; <<load>>
+-> quoth angora;
+case (engineers cram?)
+:cafe attachments;
+endswitch
+case (primarily psychotherapist?)
+:hires defected; <<output>>
+case (gestation fidelity?)
+:appeal insulting; <<task>>
+endswitch
+|2|
+while (signal impulses?) is (brook blasting)
+split
+:keel ashes;
+split again
+:thrall separate;
+split again
+:reclaiming passer; <<procedure>>
+-> rises poultry;
+split again
+:paleontologist angles; <<task>>
+-> sulfur presidential;
+end split
+split
+:raider bold;
+split again
+:moxie houseguest;
+kill
+split again
+:intestinal sushi;
+split again
+:geared rub; <<input>>
+-> poolside fields;
+end split
+split
+:legalizing lanky;
+split again
+:lamp pledging;
+split again
+:cellars icicles; <<output>>
+end split
+backward:brothers natured;
+endwhile (substation pillage)
+:smother characteristics;
+stop
+@enduml

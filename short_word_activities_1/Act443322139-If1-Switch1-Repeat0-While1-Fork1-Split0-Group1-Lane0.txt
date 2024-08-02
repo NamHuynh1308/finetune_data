@@ -1,0 +1,40 @@
+@startuml
+start
+group tally anticipate
+switch (salvation misread?)
+case (silent routine?)
+:wraps deduce; <<load>>
+case (replicate egyptian?)
+:generals cashing;
+case (altercation lectures?)
+fork
+:minister academia;
+fork again
+:rashes duly;
+fork again
+:cataclysmic contestants; <<continuous>>
+-> exonerate message;
+end fork
+case (flawlessly dreary?)
+:slush sung; <<load>>
+endswitch
+if (perverse liposuction?) then (dies despising)
+:chardonnay hibernation; <<load>>
+:uniform aunties; <<input>>
+kill
+else (strapping whammo)
+:unicorn beef; <<load>>
+-> peninsula nagged;
+:discuss liked;
+-> shuffling tubing;
+:rebuilt ambivalence; <<save>>
+while (hyperventilate cruising?) is (constitutional subtly)
+backward:brandies demolition;
+backward:selflessness cathedral;
+endwhile (lawfully ravings)
+-[hidden]->
+detach
+endif
+end group
+:pockets fantastic;
+@enduml

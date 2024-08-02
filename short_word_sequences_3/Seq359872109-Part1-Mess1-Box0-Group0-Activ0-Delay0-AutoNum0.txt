@@ -1,0 +1,4 @@
+@startuml
+participant "secondly biohazard" as 0
+0 -\\ 0: hottest infection
+@enduml

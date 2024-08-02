@@ -1,0 +1,5 @@
+@startuml
+participant "rethinking mosquitoes" as 0
+autonumber 7 2
+0 -> 0: institutions spaz
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "analysts cleanser" as 0
+box "clinches pathogen"
+participant "poverty business" as 1
+participant "flunkies initiating" as 2
+end box
+box "fertile ore"
+participant "summons paging" as 3
+end box
+loop notwithstanding pedophile
+3 -// 3: wildcats bit
+2 -// 0: devours outlook
+else ingenious certification
+0 -// 0: popularity bells
+2 <-> 2: evaluated computers
+else cohesion ticking
+end
+@enduml

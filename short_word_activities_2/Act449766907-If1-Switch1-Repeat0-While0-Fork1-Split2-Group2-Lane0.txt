@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:warsaw fondue;
+split again
+-[hidden]->
+:anecdotes gale; <<continuous>>
+split again
+-[hidden]->
+:sobered bunnies; <<continuous>>
+end split
+:moths tangerine; <<task>>
+group baptist wildlife
+:flashbacks raises; <<save>>
+group recognition mesa
+switch (access mouse?)
+case (fingernail fowl?)
+fork
+:cradle smite;
+fork again
+:hunched concocting;
+fork again
+:bamboozled clammy; <<input>>
+fork again
+:strongly lo; <<procedure>>
+end fork
+case (tremendously retreating?)
+if (dies tanks?) then (factory fluke)
+(dishonorable nest) elseif (dicey unfair?) then (pranks doe)
+:toughness tween; <<procedure>>
+(summers embalmed) elseif (assistant disclosed?) then (fang formal)
+:careful founded; <<input>>
+endif
+case (warms prosperity?)
+:clowns happiest; <<input>>
+-> technicalities nosy;
+case (magic thing?)
+split
+:sleepers maudlin;
+split again
+:craze applauding;
+-> gnat teamed;
+split again
+:vogue derivative;
+split again
+:necklaces votes; <<continuous>>
+-> testified promote;
+end split
+endswitch
+stop
+end group
+end group
+@enduml

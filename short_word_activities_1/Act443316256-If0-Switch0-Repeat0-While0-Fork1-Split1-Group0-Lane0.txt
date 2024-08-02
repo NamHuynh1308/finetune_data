@@ -1,0 +1,22 @@
+@startuml
+start
+split
+:ooze meanness;
+split again
+fork
+:publish ungrateful;
+fork again
+:grifters dairy;
+fork again
+:jesuit conspire; <<continuous>>
+-> gainful barkeep;
+fork again
+:insipid dulled; <<continuous>>
+-> scary manger;
+end fork
+split again
+:abs horrible;
+-> crew fountains;
+end split
+stop
+@enduml

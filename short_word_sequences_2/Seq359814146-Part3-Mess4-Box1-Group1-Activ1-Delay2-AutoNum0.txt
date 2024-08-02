@@ -1,0 +1,18 @@
+@startuml
+participant "essentially shipping" as 0
+participant "stamina bombed" as 1
+box "structure messages"
+participant "cat efficient" as 2
+end box
+== foil tranquility ==
+2 <-] : hurricanes toms
+loop barber rename
+2 -> 1: disrespect backed
+...zone dripping...
+0 -> 1: mug effeminate
+else likewise mangos
+...theoretically lockers...
+2 -> 1++ : pretzel bagged
+end
+return galilee borrow
+@enduml

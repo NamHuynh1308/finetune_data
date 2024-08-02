@@ -1,0 +1,15 @@
+@startuml
+participant "armored arson" as 0
+participant "willfully glitter" as 1
+0 <-] : newsroom rag
+0 <-> 1++ : tendencies neatness
+par encyclopedia bearded
+create participant "echo moil" as 2
+1 -> 2 : echo moil
+loop kayaking lug
+2 -\\ 1: appropriations proceeds
+0 ->o 0: harrowing crowned
+end
+end
+return jihad easing
+@enduml

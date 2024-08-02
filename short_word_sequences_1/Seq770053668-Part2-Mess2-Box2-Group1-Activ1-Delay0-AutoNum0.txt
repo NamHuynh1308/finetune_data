@@ -1,0 +1,13 @@
+@startuml
+box "lop pounds"
+participant "amuses overreact" as 0
+box "sporty preferred"
+participant "foolish inverted" as 1
+end box
+end box
+1 ->> 0++ : aqua mayan
+opt decker sideways
+0 -> 0: nails sparkly
+return hurricane flashed
+end
+@enduml

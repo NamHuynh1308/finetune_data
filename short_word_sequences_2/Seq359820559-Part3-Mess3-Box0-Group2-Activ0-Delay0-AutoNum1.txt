@@ -1,0 +1,15 @@
+@startuml
+participant "dirt corps" as 0
+participant "abigail maya" as 1
+participant "vive dorado" as 2
+== sardine airs ==
+autonumber 3 9
+loop misunderstandings earful
+2 -> 0: grudges encountered
+autonumber stop
+1 ->] : ford cocktails
+opt amphetamines textbooks
+0 ->o 1: grandfathers punctured
+end
+end
+@enduml

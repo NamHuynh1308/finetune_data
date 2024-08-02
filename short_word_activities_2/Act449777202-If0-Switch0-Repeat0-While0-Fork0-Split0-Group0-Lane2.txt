@@ -1,0 +1,10 @@
+@startuml
+|1| grandkids cooked
+|2| blubber matrimonial
+:institution closets; <<task>>
+|2|
+:formulas ceremonies; <<procedure>>
+|1|
+:indefinitely inhaling; <<procedure>>
+end
+@enduml

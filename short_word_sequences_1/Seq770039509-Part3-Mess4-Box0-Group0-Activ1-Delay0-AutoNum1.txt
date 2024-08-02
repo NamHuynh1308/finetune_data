@@ -1,0 +1,12 @@
+@startuml
+participant "sugar discontent" as 0
+participant "initiated commission" as 1
+participant "wounded pig" as 2
+== rent compares ==
+autonumber 3 6
+1 ->> 2: admirer sing
+0 -> 2++ : notices kibble
+2 ->o 0: removes interpretation
+return wearing ankles
+0 --//o 0: hosts hires
+@enduml

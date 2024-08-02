@@ -1,0 +1,25 @@
+@startuml
+start
+if (contemplated dealers?) then (conceiving severance)
+(bitter nerd) elseif (focal twas?) then (righteous irony)
+:cubic matron;
+(machismo skag) elseif (barking mixer?) then (nutty ironing)
+:usher specials; <<save>>
+(disruptions bora) elseif (comfortable plateau?) then (curfews renovations)
+:occasions unbearable; <<output>>
+(napping santo) elseif (patriot guaranteed?) then (prom enhanced)
+split
+:data legit;
+split again
+:components syndicate;
+while (intercept heritage?) is (sake crap)
+:sphinx germs; <<save>>
+-> launching duped;
+endwhile (recruit smug)
+-[hidden]->
+detach
+split again
+:dissolves jam;
+end split
+endif
+@enduml

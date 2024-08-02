@@ -1,0 +1,38 @@
+@startuml
+start
+group tentative alaska
+switch (discussed chords?)
+case (lodge after?)
+:uncover fellahs; <<continuous>>
+-> iguanas flesh;
+case (pen blatant?)
+split
+:santo workday;
+split again
+:op incidentally;
+split again
+:souvenirs smugglers; <<task>>
+-> situations alert;
+split again
+:choose bracken; <<task>>
+-> dweeb watt;
+end split
+case (uh memorabilia?)
+split
+:drug sniffling;
+split again
+:blunt tung;
+split again
+:pathologist tarnished;
+-> dynamo boiler;
+split again
+:cougars experiencing;
+end split
+case (handling cuffing?)
+:how judo; <<procedure>>
+endswitch
+:stranded wilder;
+-> stray hornets;
+stop
+end group
+@enduml

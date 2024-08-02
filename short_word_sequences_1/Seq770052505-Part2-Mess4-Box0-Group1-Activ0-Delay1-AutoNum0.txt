@@ -1,0 +1,12 @@
+@startuml
+participant "designer hardest" as 0
+participant "matchmaking swallow" as 1
+== pots manufacturer ==
+1 -// 0: affect legged
+1 --> 0: gatherings primarily
+ [-> 1: bombarding hires
+break cast shopkeeper
+...openers interrogating...
+0 -> 0!! : briefcase composers
+end
+@enduml

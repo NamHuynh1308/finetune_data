@@ -1,0 +1,7 @@
+@startuml
+participant "miller territorial" as 0
+== experiments strips ==
+ [-> 0: brightest scoreboard
+0 ->o 0++ : ration ambrosia
+return intern boners
+@enduml

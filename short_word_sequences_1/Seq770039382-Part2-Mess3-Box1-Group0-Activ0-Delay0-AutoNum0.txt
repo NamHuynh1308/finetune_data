@@ -1,0 +1,9 @@
+@startuml
+box "cob collect"
+participant "raise hardy" as 0
+participant "perfection apparent" as 1
+end box
+0 -->x 0: nip bloom
+0 ->o 1: hoedown dost
+ [<- 0: bolder responsibly
+@enduml

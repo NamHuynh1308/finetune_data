@@ -1,0 +1,8 @@
+@startuml
+participant "incur advancing" as 0
+0 ->x 0: snatch chained
+0 <-> 0: flurries bouts
+create participant "principals tingling" as 1
+0 -> 1 : principals tingling
+0 <-> 1: poured knowledgeable
+@enduml

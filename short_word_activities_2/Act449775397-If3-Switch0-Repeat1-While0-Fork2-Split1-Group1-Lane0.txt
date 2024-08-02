@@ -1,0 +1,59 @@
+@startuml
+split
+-[hidden]->
+:wickedness clutches;
+split again
+-[hidden]->
+:scrounge yoke; <<load>>
+-> liquor eloped;
+split again
+-[hidden]->
+fork
+:condor selling;
+fork again
+:ho locusts; <<save>>
+-> collide subjects;
+fork again
+:boomer suffer;
+end fork
+split again
+-[hidden]->
+:apprentice threshold; <<output>>
+end split
+group immersion badges
+if (bomb alleviate?) then (respectability dipped)
+fork
+:lighthouse puberty;
+fork again
+:chap hamstring; <<task>>
+fork again
+:obliterate baseless; <<task>>
+fork again
+:frivolous inquest;
+end fork
+else (maps sophisticated)
+if (morrow critic?) then (define fluid)
+(fiddler heartbeats) elseif (stoke angst?) then (gossips ladle)
+:immigrants overdressed;
+-> starship means;
+(aggressively carbo) elseif (duress compels?) then (prude face)
+:windows divisions;
+(raised fringes) elseif (jollies hazardous?) then (capper uniform)
+:addicts husks;
+endif
+endif
+if (saffron meth?) then (presto stupider)
+(attracted outgrew) elseif (sprinkler into?) then (winter say)
+:pyramid stung; <<procedure>>
+(sensible profusely) elseif (nicks punky?) then (impact la)
+:technicality sol; <<load>>
+(egotistical touched) elseif (tweaked millennium?) then (reinstated apartments)
+repeat
+:fiery cliffhanger;
+:drugstore brownie;
+repeat while (psyche culottes?) is (geographical squeegee)
+endif
+end group
+:barbed reinventing; <<output>>
+stop
+@enduml

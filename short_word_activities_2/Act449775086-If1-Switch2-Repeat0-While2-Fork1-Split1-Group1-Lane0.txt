@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:retarded clocked;
+split again
+-[hidden]->
+fork
+:lovelies troops;
+fork again
+:paragraphs placement; <<output>>
+fork again
+:tokens psychotherapy;
+end merge
+split again
+-[hidden]->
+:woody grizzly;
+kill
+split again
+-[hidden]->
+:lefts sandalwood; <<output>>
+-> temptations pertains;
+end split
+while (scrambling created?) is (multiplex mathematician)
+backward:roadhouse junior;
+:thriving memorable; <<save>>
+endwhile (rhinoceros peaceful)
+:bartending wavered;
+group chatty religion
+if (therapy reciprocal?) then (groundskeeper incinerator)
+:electoral pollack; <<input>>
+-> diversions hamsters;
+while (domain twelfth?) is (horizon identical)
+:daft recreate; <<output>>
+endwhile (intellectual add)
+-[hidden]->
+detach
+else (insulted unbecoming)
+:hideous deposed; <<continuous>>
+switch (cappuccino rouge?)
+case (nightly restart?)
+:hypnotize wonderfully;
+-> managers fizzle;
+case (baffling maestro?)
+:expressed molded;
+endswitch
+:slanted feminine; <<output>>
+kill
+endif
+switch (nutritional surfer?)
+case (exhibition ventures?)
+:spoilsport anthem;
+case (think slid?)
+:rejects condiment; <<load>>
+endswitch
+stop
+end group
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+box "rumpus unattainable"
+participant "wraps reverts" as 0
+end box
+autonumber 6 4
+0 ->] : solves wrinkle
+0 --> 0++ : eventuality spender
+0 -> 0: corruption mascot
+return future shiver
+autonumber stop
+0 -> 0: ails pout
+0 -// 0: affiliated prattling
+@enduml

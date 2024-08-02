@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:look determined;
+split again
+-[hidden]->
+switch (dolphin exterminating?)
+case (realizing dunked?)
+:superstition beamed; <<task>>
+case (disgusted swilling?)
+:blotchy prosecute; <<load>>
+case (diary census?)
+:climb wedgie;
+case (litigious nutmeg?)
+:candy hun; <<task>>
+-> wealth fuzz;
+endswitch
+split again
+-[hidden]->
+:analyzing rascals; <<procedure>>
+-> craze bitch;
+split again
+-[hidden]->
+split
+:puddle relief;
+split again
+:nagged sauce;
+-> orphanage tangerine;
+split again
+:pricey seduced;
+split again
+:thirst kicker; <<task>>
+end split
+end split
+:exorcise fleabag; <<continuous>>
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "flagged capitals" as 0
+participant "slippery bodyguards" as 1
+participant "newsletter squall" as 2
+autonumber 5 9
+1 <-] : horny unlikely
+2 -// 1: fawning renounce
+2 ->] : swings spilling
+1 -\\ 2: yikes neighborhoods
+2 -> 1: team purpose
+@enduml

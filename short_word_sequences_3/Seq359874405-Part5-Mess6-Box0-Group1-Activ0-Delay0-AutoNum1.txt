@@ -1,0 +1,20 @@
+@startuml
+participant "isolate rejecting" as 0
+participant "yippie whiteness" as 1
+participant "predictions turf" as 2
+participant "pestering sizeable" as 3
+== shoal rattlesnake ==
+autonumber 6 10
+1 -// 3: grog stuff
+autonumber stop
+create participant "bishop nutshell" as 4
+2 -> 4 : bishop nutshell
+autonumber resume
+4 <-> 3: brunch tournament
+3 <-> 4: event nurses
+3 --> 0: pax flotation
+autonumber stop
+loop garlic belabor
+2 ->x 2: vessels association
+end
+@enduml

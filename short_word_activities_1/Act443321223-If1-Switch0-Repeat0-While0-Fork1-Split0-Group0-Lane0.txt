@@ -1,0 +1,22 @@
+@startuml
+start
+:plowed bandage; <<input>>
+:photographers groundhog; <<task>>
+fork
+:trespasser twigs;
+fork again
+if (cacophony bout?) then (goad precedents)
+:beat loners; <<save>>
+:circulated incense; <<task>>
+else (errand bands)
+:apprehended hysterical;
+:beatnik licking;
+-> protesters recognition;
+:indistinguishable hooray; <<input>>
+endif
+fork again
+:flinch hunchback;
+fork again
+:screens fondle;
+end fork
+@enduml

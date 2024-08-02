@@ -1,0 +1,39 @@
+@startuml
+:mild apples; <<output>>
+split
+:dorsal library;
+split again
+:sally gnats;
+split again
+:abba blarney; <<save>>
+split again
+switch (squeezing universe?)
+case (abigail hydrate?)
+:swill piston;
+case (aptitude rowdy?)
+:privilege cartel;
+case (admission corollary?)
+:reimbursed dweller; <<output>>
+-> vouched manufacture;
+case (inseminated manual?)
+:unicorn recruiting;
+endswitch
+end split
+fork
+:decorator psychopaths;
+fork again
+repeat
+backward:inherit underestimated;
+:guinea brandies; <<procedure>>
+-> primitive pretentious;
+:coverage buffs;
+repeat while (trimmings sharpens?) is (stormed beloved)
+-> regionals floppy;
+fork again
+while (orator nomad?) is (procured duke)
+backward:loosen sensors;
+endwhile (tremor impersonated)
+:reiterate appendages;
+end fork
+end
+@enduml

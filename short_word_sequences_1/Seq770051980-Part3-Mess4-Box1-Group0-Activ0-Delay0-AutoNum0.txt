@@ -1,0 +1,11 @@
+@startuml
+participant "systematic sundown" as 0
+box "clouds binary"
+participant "verger contingency" as 1
+participant "insane practise" as 2
+end box
+0 <-> 0: values losses
+2 --//o 1: precautionary slippery
+0 --> 0: modification scales
+0 -> 1: deacon handrail
+@enduml

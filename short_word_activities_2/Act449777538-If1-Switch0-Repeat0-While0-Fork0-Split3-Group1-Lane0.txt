@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:revise secret;
+split again
+-[hidden]->
+split
+:avalanche pretext;
+split again
+:collateral wowed;
+split again
+:patented snatched; <<output>>
+end split
+split again
+-[hidden]->
+:visceral walked; <<load>>
+split again
+-[hidden]->
+:prettiest sanding;
+kill
+end split
+group alphabetically weep
+split
+:fertile hothead;
+split again
+if (university fortitude?) then (skirts garbage)
+:hangovers lex; <<continuous>>
+:portable dunking;
+:alerts admires; <<save>>
+kill
+else (outdid projector)
+:irony gunk; <<save>>
+:recipes cigarettes;
+endif
+split again
+:webs conductor;
+split again
+:marches extravagant; <<save>>
+-> priesthood recognizable;
+end split
+stop
+end group
+@enduml

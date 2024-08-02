@@ -1,0 +1,11 @@
+@startuml
+participant "underwater demo" as 0
+== cooperation headlights ==
+autonumber 6 9
+0 --> 0: heated blips
+autonumber stop
+alt troublesome arguing
+0 ->o 0: seventies searches
+autonumber resume
+end
+@enduml

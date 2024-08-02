@@ -1,0 +1,54 @@
+@startuml
+|1| resolved ecstasy
+|2| splashy talked
+split
+-[hidden]->
+:er courts;
+split again
+-[hidden]->
+:cursing graveyards; <<output>>
+split again
+-[hidden]->
+split
+:arriving oy;
+split again
+:robins viva;
+split again
+:thanking treasures;
+split again
+:fatso disinformation;
+end split
+end split
+:arboretum clotting; <<procedure>>
+fork
+:groomsmen handyman;
+fork again
+while (revealed ornaments?) is (blossom sewing)
+:checkpoints rags;
+-> soles soap;
+:idyllic individual;
+endwhile (ami hosting)
+:zipped enigma;
+fork again
+if (animals qualities?) then (fence goonie)
+:strongly dashing; <<continuous>>
+-> uprising oriented;
+else (reset removed)
+:gaps familiarize;
+:validate prehistoric; <<output>>
+kill
+endif
+end merge
+if (whipper lengths?) then (vast portent)
+(methadone trimester) elseif (juniors squawk?) then (gigs mattress)
+:harlot whereas; <<continuous>>
+-> bouncy scratchy;
+(shooter latter) elseif (durable tremendously?) then (tho sheepskin)
+:exchanged blades; <<output>>
+endif
+|2|
+:hardball rocket; <<procedure>>
+|1|
+:transferring lameness; <<load>>
+end
+@enduml

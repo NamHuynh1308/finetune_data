@@ -1,0 +1,16 @@
+@startuml
+participant "pancake phone" as 0
+participant "pounder nature" as 1
+participant "visceral growing" as 2
+box "scone plight"
+participant "blondes ranch" as 3
+end box
+ [-> 2: banal imagines
+...insincere strategizing...
+2 --> 3: dun sneezed
+...clunker crushed...
+1 -> 0: cranks unattended
+...perjure hardly...
+1 <-] : hypodermic imaginary
+0 -->x 1: savagely advocating
+@enduml

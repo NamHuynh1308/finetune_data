@@ -1,0 +1,35 @@
+@startuml
+start
+switch (responds assistance?)
+case (scooped transmitter?)
+repeat
+backward:kaleidoscope hid;
+repeat while (condensation scammed?) is (word specialist)
+case (quandary chimpanzee?)
+repeat
+:unwanted summertime;
+:nickname trig; <<save>>
+repeat while (limousine swirl?) is (genome luster)
+case (veronica assisting?)
+:elks premises;
+-> bearers refuse;
+case (fall physicals?)
+repeat
+:shall thrill;
+backward:ah slingshot;
+repeat while (additional bandages?) is (clung fundraisers)
+endswitch
+:breakthroughs shale;
+-> pitied scumbags;
+group psychiatric mates
+if (fantabulous courier?) then (benefits strategist)
+:calcium hedging;
+else (extent eighteenth)
+:idling crevasse; <<input>>
+:message reconstruct; <<procedure>>
+-> inspired grilling;
+kill
+endif
+stop
+end group
+@enduml

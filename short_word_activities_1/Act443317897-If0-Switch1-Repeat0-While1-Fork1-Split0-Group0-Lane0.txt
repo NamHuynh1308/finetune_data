@@ -1,0 +1,26 @@
+@startuml
+switch (puree rounds?)
+case (exceptionally fury?)
+:hup straddle; <<load>>
+-> unbeatable jamboree;
+case (thinner commensurate?)
+:veritable series; <<load>>
+case (partisan smokes?)
+:standstill okra; <<load>>
+case (judgments burton?)
+fork
+:slaughtered landscape;
+fork again
+:called bolted; <<save>>
+fork again
+:metropolitan ant;
+fork again
+:sighting twinkle;
+while (moped carrots?) is (commission wolves)
+backward:strained consummated;
+endwhile (punters drums)
+-[hidden]->
+detach
+end merge
+endswitch
+@enduml

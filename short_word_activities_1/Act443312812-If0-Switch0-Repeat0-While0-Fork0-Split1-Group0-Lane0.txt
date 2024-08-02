@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:missed balled;
+split again
+-[hidden]->
+:plaguing crescent; <<save>>
+split again
+-[hidden]->
+:lien investigate;
+end split
+:character adjusting; <<procedure>>
+:amounts cursory; <<load>>
+@enduml

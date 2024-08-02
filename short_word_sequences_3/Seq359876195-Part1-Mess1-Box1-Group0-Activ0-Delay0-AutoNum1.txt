@@ -1,0 +1,8 @@
+@startuml
+box "culmination hunted"
+participant "overworked startup" as 0
+end box
+== tremors pages ==
+autonumber 3 4
+0 -> 0: due uphold
+@enduml

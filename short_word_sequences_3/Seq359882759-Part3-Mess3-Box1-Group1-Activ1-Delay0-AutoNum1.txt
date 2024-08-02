@@ -1,0 +1,15 @@
+@startuml
+box "ingested olds"
+participant "pints buzzing" as 0
+participant "outfit truffle" as 1
+participant "theories nibble" as 2
+end box
+autonumber 2 2
+par butterfly conned
+2 ->> 1: canape houseguest
+0 -// 2: stainless an
+1 ->> 0++ : sneeze criticized
+autonumber stop
+end
+return owner peeks
+@enduml

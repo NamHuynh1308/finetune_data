@@ -1,0 +1,8 @@
+@startuml
+participant "forests crate" as 0
+participant "bleeder servitude" as 1
+autonumber 10 7
+1 ->> 0: rand exquisite
+...microscopic perfumes...
+1 <-] : dig dials
+@enduml

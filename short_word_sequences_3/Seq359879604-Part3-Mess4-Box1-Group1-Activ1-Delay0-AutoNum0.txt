@@ -1,0 +1,14 @@
+@startuml
+participant "raw chasing" as 0
+box "thick sickens"
+participant "upgraded cynic" as 1
+participant "gospel rattles" as 2
+end box
+1 -->x 1++ : apocalypse vents
+ [<- 2: fortunate hummus
+loop hustle mistook
+2 ->> 2: journeys rematch
+return generation revived
+1 -> 1: depraved allowance
+end
+@enduml

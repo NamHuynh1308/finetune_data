@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:dignitaries smorgasbord;
+split again
+-[hidden]->
+:complacent abuser; <<input>>
+-> rocket responding;
+split again
+-[hidden]->
+:donuts pace; <<procedure>>
+-> unparalleled damp;
+split again
+-[hidden]->
+:terror bad; <<load>>
+-> path pinafore;
+end split
+:shaft bogeyman;
+-> cryogenic physiological;
+group earlobe critter
+:con hurried;
+-> watery aboveboard;
+stop
+end group
+@enduml

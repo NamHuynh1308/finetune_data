@@ -1,0 +1,96 @@
+@startuml
+|1| stereotype wheeler
+|2| terrifying dictation
+split
+-[hidden]->
+:canary meanie;
+split again
+-[hidden]->
+switch (topic clop?)
+case (arrowhead extensive?)
+:ten unappealing;
+case (telex thermostat?)
+:unplanned bra;
+endswitch
+split again
+-[hidden]->
+switch (tent workable?)
+case (courier quizzes?)
+:shook beam;
+kill
+case (titles clavicle?)
+:turbulence barricades;
+case (strive guacamole?)
+:matching repertoire;
+-> red territorial;
+endswitch
+end split
+|2|
+:unresponsive victorious;
+|1|
+split
+:males gypped;
+split again
+:flops helps; <<task>>
+split again
+fork
+:centers laughs;
+fork again
+:synapses flank; <<continuous>>
+-> codes ruby;
+fork again
+:item whichever;
+fork again
+:dodgy diet;
+end fork
+split again
+if (colonels shoved?) then (sins spartan)
+:embroidered gallon; <<continuous>>
+-> dreamers sleepy;
+:horribly tempo;
+else (bankrupt cannons)
+:mandarin agony; <<input>>
+:victories soulful; <<procedure>>
+:temperament duckling; <<load>>
+-> impostor breathless;
+endif
+end split
+|2|
+if (book pulse?) then (kroner hacker)
+(beards papa) elseif (moderation barnacle?) then (innocently sullen)
+fork
+:surely acquaintance;
+fork again
+:outgrow muses;
+fork again
+:dinner authoritative; <<continuous>>
+-> willful runaway;
+end fork
+(miller monogamous) elseif (cesspool whole?) then (banshee instructors)
+switch (dell pockets?)
+case (wears specifics?)
+:lakers fins;
+case (countless colour?)
+:expose welder; <<output>>
+-> loofah demographics;
+case (clotted decadent?)
+:composers offered;
+endswitch
+(whittling spiel) elseif (presses prophylactic?) then (gagging sanest)
+switch (gorgeous accent?)
+case (android noggin?)
+:dapper lashed;
+case (deodorant reacting?)
+:chestnuts reunions; <<load>>
+-> amends veronica;
+case (explosions umbrella?)
+:hammers attributes; <<task>>
+endswitch
+(vandalized qualms) elseif (tension direction?) then (elected marinate)
+:ecosystem anesthesiologist; <<save>>
+-> harts sudden;
+endif
+:smoother keynote;
+-> reinstatement florists;
+end
+@enduml

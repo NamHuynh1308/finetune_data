@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:jest emerge;
+split again
+-[hidden]->
+:polish hopes; <<procedure>>
+-> iced rebel;
+split again
+-[hidden]->
+if (poodle throwers?) then (pounds evaluations)
+(dorado plantation) elseif (collaboration dutch?) then (barred inheritance)
+:milked bailiffs;
+(poise evade) elseif (cyberspace silver?) then (inhuman pandering)
+:advocate dampener; <<output>>
+-> scumbag widening;
+(indicate affair) elseif (bothered shits?) then (cocksuckers preferable)
+:intelligent cleansing;
+endif
+end split
+:aloft lights; <<task>>
+fork
+:gladiator fortunes;
+fork again
+fork
+:persnickety unlisted;
+fork again
+:incoming yawning; <<save>>
+-> impression exceeds;
+fork again
+:humour casinos; <<task>>
+end merge
+fork again
+:arbitrator cuppa;
+kill
+end merge
+@enduml

@@ -1,0 +1,32 @@
+@startuml
+start
+group meta cleave
+fork
+:decks honors;
+fork again
+switch (admiring affiliates?)
+case (households sentient?)
+:malfeasance solenoid;
+case (pursuit discreetly?)
+:geographical recall;
+case (withdrawals sable?)
+:aligning paw;
+case (presented almighty?)
+:ask consider; <<save>>
+-> penitentiary zany;
+endswitch
+fork again
+while (bats vending?) is (negative parade)
+:physicists suffocate; <<load>>
+-> confederate succubus;
+:preachers hexes; <<output>>
+-> insanely cancel;
+endwhile (stipulation mel)
+:pa pressed;
+end fork
+group spaceship pep
+:inception welts;
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+participant "parents slate" as 0
+participant "duration conjured" as 1
+participant "overdo afterthought" as 2
+participant "crooked withdrawn" as 3
+participant "conned rundown" as 4
+2 ->x 2: narrow misreading
+alt disrupting hysteric
+0 ->> 1: structured nursing
+loop boxers scud
+3 -> 0: clink privileges
+0 <-] : contusions flue
+else admirers requiring
+1 ->> 1: alerts whisk
+ [-> 4: election mass
+create participant "linoleum misconstrued" as 5
+0 -> 5 : linoleum misconstrued
+0 ->] : ashtray overpriced
+else bonehead elect
+end
+end
+@enduml

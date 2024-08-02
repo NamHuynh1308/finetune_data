@@ -1,0 +1,7 @@
+@startuml
+start
+group staggered overdressed
+:gears noise; <<continuous>>
+stop
+end group
+@enduml

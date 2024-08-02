@@ -1,0 +1,21 @@
+@startuml
+participant "reviews chute" as 0
+participant "games slave" as 1
+participant "celibate orb" as 2
+participant "nepotism sundress" as 3
+autonumber 5 0
+0 -> 2: injustice enforced
+...traumas paradox...
+1 -// 1: doorway hobo
+1 -\\ 2: charismatic complained
+par trained face
+3 -// 1: alternatives cholesterol
+autonumber stop
+2 ->x 0: bets undeserving
+autonumber resume
+else scrape skulk
+loop underground unwind
+2 <-> 3: complacent cauldron
+end
+end
+@enduml

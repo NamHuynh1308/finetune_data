@@ -1,0 +1,38 @@
+@startuml
+participant "fashion hoped" as 0
+box "hanger clanging"
+participant "appearing recurring" as 1
+box "anchoring foibles"
+participant "pus gargantuan" as 2
+box "jailbird screamer"
+participant "casualties correctional" as 3
+participant "consolation curb" as 4
+end box
+end box
+end box
+autonumber 7 8
+0 ->] : repentance disposition
+2 -> 2: muzzle bumbling
+autonumber stop
+0 -->x 4++ : veg forest
+autonumber resume
+3 --//o 0: fielding thrashing
+autonumber stop
+opt swindled tuition
+4 ->> 2: leverage splits
+return snowbank carvers
+autonumber resume
+loop eyebrow seizing
+1 ->> 4: entertainment boutiques
+break corporate scribbled
+2 -> 2++ : matchmaking spiny
+autonumber stop
+...interrupting lager...
+2 -> 4: mentor alchemist
+return maintaining intermittent
+autonumber resume
+else swimmer playroom
+end
+end
+end
+@enduml

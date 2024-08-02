@@ -1,0 +1,8 @@
+@startuml
+box "judas baking"
+participant "babble injection" as 0
+end box
+autonumber 5 6
+ [-> 0: two knee
+autonumber stop
+@enduml

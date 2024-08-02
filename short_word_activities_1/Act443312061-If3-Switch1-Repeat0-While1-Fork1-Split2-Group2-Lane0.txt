@@ -1,0 +1,75 @@
+@startuml
+split
+-[hidden]->
+:drippy ping;
+split again
+-[hidden]->
+:overcast exclusively; <<save>>
+split again
+-[hidden]->
+while (discourteous schmo?) is (barks dashed)
+:superman rubble;
+backward:astrophysics aisle;
+backward:sustaining manual;
+:punctual providing;
+endwhile (tested fin)
+:learning enormity;
+split again
+-[hidden]->
+switch (latent dashed?)
+case (serenade calmly?)
+:escort impounded;
+case (luckiest visa?)
+:commission lull; <<input>>
+-> sadist guy;
+case (expressed quickie?)
+:compulsion comparison; <<continuous>>
+endswitch
+end split
+group cavern notions
+split
+:cardiogram skirmishes;
+split again
+:automatics athlete; <<save>>
+-> forsaking hump;
+split again
+:aloft beaucoup; <<continuous>>
+end split
+if (pissant undergoing?) then (costing glazer)
+:dwelling fishnet; <<procedure>>
+-> mum guided;
+else (swiping preemptive)
+:beaded detoxing; <<input>>
+endif
+end group
+group slaughtered trajectory
+fork
+:stapled goatee;
+fork again
+if (interior interviews?) then (waxes roots)
+(volt buddies) elseif (careful schnitzel?) then (teams horrors)
+:pencils savings;
+(geography factions) elseif (wetlands banzai?) then (silk marked)
+:muse would;
+(hun desperate) elseif (foods clasp?) then (roman pore)
+:embarking contempt;
+(clerical tarp) elseif (damaged pesticides?) then (dandy watering)
+:curfew boardroom;
+endif
+fork again
+:sarcoidosis lightening; <<input>>
+-> crushing funerals;
+fork again
+if (misread celebrated?) then (dumper prissy)
+:dependant impaled;
+:however wore; <<output>>
+else (considers substance)
+:ivories interfered; <<continuous>>
+:heal dateless; <<load>>
+:rips gravy; <<continuous>>
+-> stall vasectomy;
+endif
+end fork
+stop
+end group
+@enduml

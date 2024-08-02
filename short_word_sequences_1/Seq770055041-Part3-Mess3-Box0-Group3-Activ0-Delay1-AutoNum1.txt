@@ -1,0 +1,16 @@
+@startuml
+participant "tended golden" as 0
+participant "givers spits" as 1
+participant "extradite kiddo" as 2
+autonumber 2 7
+loop quart while
+1 ->> 0: tastes naps
+opt minorities cartons
+...prevent cutlass...
+2 --> 1: detective chip
+critical poisons charcoal
+2 <-] : aiding pit
+end
+end
+end
+@enduml

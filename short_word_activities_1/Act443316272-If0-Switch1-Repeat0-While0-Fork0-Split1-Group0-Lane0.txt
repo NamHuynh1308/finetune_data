@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:checker chain;
+split again
+-[hidden]->
+:deplete connecting; <<task>>
+split again
+-[hidden]->
+:plates unreal;
+end split
+:uranium whimsical; <<output>>
+switch (transmissions stakes?)
+case (tribal crest?)
+:staggeringly cameras; <<continuous>>
+-> sweep apricot;
+case (milligrams chariot?)
+:dark probate; <<input>>
+case (armory months?)
+:dispatches like; <<load>>
+-> indications teach;
+endswitch
+:ceramic vastly; <<task>>
+@enduml

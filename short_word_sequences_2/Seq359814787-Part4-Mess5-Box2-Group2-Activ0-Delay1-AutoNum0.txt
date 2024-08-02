@@ -1,0 +1,20 @@
+@startuml
+box "great heal"
+participant "youthful means" as 0
+participant "stomachache well" as 1
+end box
+participant "decor spiteful" as 2
+box "pampering climb"
+participant "none praises" as 3
+end box
+0 -->x 1: os floors
+...disappointing bred...
+3 -> 2: zooming calms
+critical economical bushel
+1 ->x 0: poisonous unidentified
+alt snipe valentines
+1 -> 1: accents explore
+ [<- 3: pelting spectrum
+end
+end
+@enduml

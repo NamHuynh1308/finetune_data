@@ -1,0 +1,19 @@
+@startuml
+participant "contributor insert" as 0
+box "renovate affectionate"
+participant "crusher pancakes" as 1
+participant "intimidating booby" as 2
+participant "eater vertical" as 3
+end box
+participant "equals nightstand" as 4
+autonumber 3 7
+0 -> 3!! : musical flexible
+3 -> 4!! : corned revamp
+loop curlers prototype
+ [<- 2: awakes baseless
+create participant "jawed clunkers" as 5
+1 -> 5 : jawed clunkers
+end
+0 ->] : disagreeing litigation
+0 -->x 4: glamor utterly
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+start
+if (defected fastest?) then (voltage performs)
+:culpa cable;
+else (contusion backwards)
+fork
+:duration hereditary;
+fork again
+:deadlock gor;
+fork again
+:grumpy vendettas; <<save>>
+-> spade microphone;
+end fork
+:ovaries imploding; <<procedure>>
+-> illegible dredge;
+:republic dictatorship; <<input>>
+endif
+@enduml

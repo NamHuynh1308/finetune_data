@@ -1,0 +1,13 @@
+@startuml
+participant "gimmie removes" as 0
+autonumber 3 9
+0 ->o 0: bell sledding
+...change tuition...
+0 ->> 0: love brat
+opt rudely lass
+ [-> 0: all condemned
+0 -> 0: trained zoom
+autonumber stop
+else clogs officially
+end
+@enduml

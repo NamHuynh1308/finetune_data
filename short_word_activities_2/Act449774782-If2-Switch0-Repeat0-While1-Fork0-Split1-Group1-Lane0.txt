@@ -1,0 +1,33 @@
+@startuml
+group missions jingles
+if (pleasant wining?) then (crushed courier)
+(wedgies sleet) elseif (phones dominoes?) then (stroke digs)
+:birdcage curse;
+(due sanitarium) elseif (colonial skies?) then (unwrap barrage)
+if (lifesaver examiner?) then (fer raisers)
+:exited bonehead; <<task>>
+else (dicking documentary)
+:mishandled gunman;
+:shoemaker reject;
+endif
+(adjusting imaginary) elseif (corsage tug?) then (sacrilege sentiments)
+while (godlike commandant?) is (cohesive flotation)
+:resides dictated;
+:yielding absentee;
+backward:maintained cavalier;
+:audience captive; <<task>>
+-> gap kidnapped;
+endwhile (extort occupations)
+:regular whoa;
+(stepmother oblige) elseif (canceling doggone?) then (muzzle distribution)
+split
+:shipwrecked outgoing;
+split again
+:ambush compilation; <<load>>
+split again
+:cathedral communion;
+end split
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "eighty faults" as 0
+autonumber 3 3
+ [<- 0: doubles joy
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+start
+:panting spectacularly; <<load>>
+group dash clinched
+:sender motor;
+stop
+end group
+@enduml

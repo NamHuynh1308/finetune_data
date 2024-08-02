@@ -1,0 +1,7 @@
+@startuml
+start
+group basketball saluted
+:redecorate nomadic; <<output>>
+stop
+end group
+@enduml

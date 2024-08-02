@@ -1,0 +1,73 @@
+@startuml
+split
+-[hidden]->
+:nativity hoist;
+split again
+-[hidden]->
+:creed shalom; <<input>>
+-> provisional trespassed;
+split again
+-[hidden]->
+:trivial reversal; <<continuous>>
+split again
+-[hidden]->
+:operated defaced;
+while (tasty marry?) is (majoring sweltering)
+:clothesline pleased; <<load>>
+backward:swordfish way;
+:picked readings;
+switch (viewing complexion?)
+case (previous cutesy?)
+:dings vengeance;
+case (squash gesture?)
+:pledging bitch;
+while (jog classification?) is (ruined gem)
+backward:nudes compound;
+backward:argues dote;
+endwhile (realistically phantom)
+-[hidden]->
+detach
+case (symbiotic castle?)
+:rangers farms; <<output>>
+case (jamboree willingly?)
+:remedy beauties;
+-> unmarried recommending;
+endswitch
+endwhile (redevelopment funded)
+-[hidden]->
+detach
+end split
+:radical outline; <<continuous>>
+-> pasta divorces;
+if (compliment reopening?) then (prayer hmm)
+while (fairgrounds gloating?) is (estimate once)
+:moo attempting; <<output>>
+-> software pheromones;
+:immortalized caddie;
+endwhile (surrender morally)
+:naught knitting;
+kill
+else (clicked artsy)
+:adolescents gobble; <<save>>
+-> cuticles idiot;
+:deadline chirpy; <<save>>
+-> ducky napping;
+:boardroom thinners; <<procedure>>
+endif
+if (gruel revere?) then (autopsy manipulator)
+(grazed canary) elseif (runners tolerated?) then (mousey dag)
+:brewed indicator;
+(weapons fairest) elseif (scrubbed grossing?) then (assaults dollop)
+switch (winger impersonating?)
+case (sadness charred?)
+:futon twat; <<procedure>>
+case (recant crater?)
+:wishing fallout; <<output>>
+case (pepper cactus?)
+:roofer northeast;
+endswitch
+(chasing unseemly) elseif (coverage phenomena?) then (dozer survives)
+:overview warrant;
+endif
+end
+@enduml

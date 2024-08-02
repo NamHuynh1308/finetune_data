@@ -1,0 +1,38 @@
+@startuml
+|1| taunting punitive
+|2| reverend sighs
+split
+-[hidden]->
+:splash unload;
+split again
+-[hidden]->
+:phonies abandon; <<input>>
+-> dictates awe;
+split again
+-[hidden]->
+:celery gonzo; <<procedure>>
+end split
+:concentrating crawly; <<procedure>>
+-> yells simplest;
+|2|
+:squall umm; <<procedure>>
+|1|
+if (plot rumor?) then (muskrat raptors)
+split
+:undermined war;
+split again
+:cellars prop;
+-> whisked despise;
+split again
+:rya mannequins;
+split again
+:energized bassett;
+end split
+:blasphemous reconcile; <<load>>
+:unappealing converted; <<continuous>>
+else (tail snapped)
+:endangered almonds; <<save>>
+-> forum exaggerated;
+:swoops whence; <<output>>
+endif
+@enduml

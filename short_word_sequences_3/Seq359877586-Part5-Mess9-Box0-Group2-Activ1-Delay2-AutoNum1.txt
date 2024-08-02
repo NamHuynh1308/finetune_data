@@ -1,0 +1,34 @@
+@startuml
+participant "juggle indigestion" as 0
+participant "flap hundred" as 1
+participant "cottage sounds" as 2
+participant "cunning instant" as 3
+participant "tarred caddie" as 4
+autonumber 1 6
+0 ->o 0: blondes hobbling
+autonumber stop
+opt conducting fleeting
+ [-> 4: divorced hive
+autonumber resume
+...standstill melting...
+4 ->> 0: scuba button
+else recuperating brochures
+2 -> 3: pled toothache
+autonumber stop
+else upped aboveboard
+alt squall focused
+4 ->x 4: ballroom dam
+autonumber resume
+4 <-] : strolls sudden
+else strangle auditioning
+...numbing spliced...
+1 -> 0: soda inverted
+else maverick obese
+3 --//o 2: allergic robber
+end
+1 -\\ 3++ : imperfections brush
+autonumber stop
+else prints kayaking
+end
+return relive resting
+@enduml

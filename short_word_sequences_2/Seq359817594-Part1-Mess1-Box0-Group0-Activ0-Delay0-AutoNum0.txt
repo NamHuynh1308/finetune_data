@@ -1,0 +1,5 @@
+@startuml
+participant "tossing hypochondriac" as 0
+== schedules consults ==
+0 --> 0: tantrums charged
+@enduml

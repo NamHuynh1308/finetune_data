@@ -1,0 +1,18 @@
+@startuml
+box "magnolia audit"
+participant "feign proved" as 0
+participant "duchess adjutant" as 1
+participant "mounds grisly" as 2
+participant "patiently discomfort" as 3
+end box
+0 --//o 1: merry moving
+2 ->> 2++ : realization landscape
+opt tasks wring
+0 -> 3: barely civil
+alt recipient destroys
+2 ->o 0: hated clunk
+return yearning stronger
+0 --//o 2: spiritual bye
+end
+end
+@enduml

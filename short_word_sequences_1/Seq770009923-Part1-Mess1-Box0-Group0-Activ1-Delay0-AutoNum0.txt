@@ -1,0 +1,5 @@
+@startuml
+participant "intervention packs" as 0
+0 ->x 0++ : cheater surrogate
+return drier yuck
+@enduml

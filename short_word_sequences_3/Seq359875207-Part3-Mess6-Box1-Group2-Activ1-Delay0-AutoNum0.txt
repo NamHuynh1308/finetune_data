@@ -1,0 +1,18 @@
+@startuml
+participant "godlike blood" as 0
+box "bleeding boss"
+participant "revamp mama" as 1
+end box
+1 -> 1++ : shotguns mouthy
+1 --> 0: explanatory protector
+return chipper prying
+opt wins retainer
+create participant "reforms celeste" as 2
+0 -> 2 : reforms celeste
+critical faggot fattest
+1 ->x 0: mailboxes capsule
+0 ->] : hunchback illuminate
+end
+2 -> 2: zombie dwells
+end
+@enduml

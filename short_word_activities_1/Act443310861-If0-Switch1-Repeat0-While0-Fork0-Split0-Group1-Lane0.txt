@@ -1,0 +1,18 @@
+@startuml
+group dickens baffles
+:network cheapest; <<task>>
+-> hippies maybes;
+switch (metals goobers?)
+case (consumers marge?)
+:celibacy fuzz; <<save>>
+case (trap smiling?)
+:hold monitoring; <<procedure>>
+case (tiny uphill?)
+:nicotine nos;
+-> duration package;
+case (sincere clouded?)
+:mars cushions; <<load>>
+endswitch
+end group
+end
+@enduml

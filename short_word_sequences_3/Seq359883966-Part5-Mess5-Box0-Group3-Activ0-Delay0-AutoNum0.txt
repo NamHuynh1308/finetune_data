@@ -1,0 +1,18 @@
+@startuml
+participant "bed pro" as 0
+participant "slices spoon" as 1
+participant "homeopathic japan" as 2
+participant "singleton watermelon" as 3
+participant "item skittles" as 4
+2 -> 2: naught totaled
+par collapse scourge
+0 ->x 0: rashly timid
+par commendation timed
+0 -->x 4: pele wry
+1 -> 2!! : ailing pressing
+par publicity pads
+0 <-> 4: johnny impeached
+end
+end
+end
+@enduml

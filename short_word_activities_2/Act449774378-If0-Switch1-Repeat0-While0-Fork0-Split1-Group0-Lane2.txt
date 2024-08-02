@@ -1,0 +1,28 @@
+@startuml
+|1| rugged retainer
+|2| executed fiber
+split
+-[hidden]->
+:budgets creation;
+split again
+-[hidden]->
+:iff appraise;
+split again
+-[hidden]->
+:circumstantial shawl;
+end split
+:yuletide competitive;
+switch (commence sledding?)
+case (punks flopped?)
+:sodas blather; <<procedure>>
+-> company trellis;
+case (garnish letterhead?)
+:fogged spoon;
+endswitch
+|2|
+:dearly loosing; <<procedure>>
+-> delegates lob;
+:abused rely;
+-> genius entomology;
+end
+@enduml

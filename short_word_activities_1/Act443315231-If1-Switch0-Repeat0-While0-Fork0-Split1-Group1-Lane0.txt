@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:gramps silk;
+split again
+-[hidden]->
+:nothing fronts; <<load>>
+split again
+-[hidden]->
+if (orderly intends?) then (problem frank)
+(depiction oblivion) elseif (greeting jughead?) then (unfairly dreaded)
+:smarty brunt; <<procedure>>
+-> stupendous hoopla;
+(amount versus) elseif (reattach bulletins?) then (happening customary)
+:ness sleepyhead; <<continuous>>
+-> haps thought;
+(auditing nighthawk) elseif (tournament rewritten?) then (assures dowager)
+:momento perspective; <<continuous>>
+(mending unlocking) elseif (nailed executives?) then (kent vulnerable)
+:filet whirlwind;
+endif
+split again
+-[hidden]->
+:vaporized buyout; <<output>>
+end split
+group refined rows
+:parading novels; <<input>>
+stop
+end group
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:pronunciation motel;
+split again
+-[hidden]->
+:complimentary multiplex; <<procedure>>
+split again
+-[hidden]->
+:lighthouse shown;
+-> noticeable salinas;
+end split
+:rolling copyright; <<output>>
+stop
+@enduml

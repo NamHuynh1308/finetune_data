@@ -1,0 +1,11 @@
+@startuml
+participant "lap squish" as 0
+participant "chests carefully" as 1
+autonumber 5 3
+create participant "probable manic" as 2
+1 -> 2 : probable manic
+opt evident wild
+2 -> 0: curfews arts
+autonumber stop
+end
+@enduml

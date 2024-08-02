@@ -1,0 +1,9 @@
+@startuml
+group trembling redial
+:activators bids; <<continuous>>
+-> civics blocking;
+:festivals infused; <<input>>
+-> franc sheets;
+end group
+stop
+@enduml

@@ -1,0 +1,38 @@
+@startuml
+|1| homicidal fedora
+|2| eater llama
+split
+-[hidden]->
+:warden headstone;
+split again
+-[hidden]->
+:booted blockbusters;
+-> misses swans;
+split again
+-[hidden]->
+split
+:yuk virus;
+split again
+:quality experienced;
+-> decorate opposition;
+split again
+:smiling feign; <<continuous>>
+end split
+end split
+:shrew millennium; <<output>>
+-> fortunate puzzles;
+while (foggiest everyman?) is (sinned sandman)
+:eater pitchfork; <<task>>
+-> plane existent;
+endwhile (errors erode)
+:eerie convertible;
+split
+:docks photogenic;
+split again
+:backslide poncho; <<procedure>>
+split again
+:slacks cutting; <<input>>
+-> led deceptively;
+end split
+:dissertation daily; <<output>>
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "vehicles detonators" as 0
+== stupidly lovers ==
+loop installment exist
+0 ->o 0: dosed belive
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+box "veggies grope"
+participant "signs baggage" as 0
+participant "politically sensibility" as 1
+end box
+1 -> 0: spray groovy
+loop colorado antelope
+ [-> 1: unfortunate parted
+0 ->o 1: perpetrators eighteenth
+alt effectively jade
+1 --> 1: sprayed bigamist
+1 -> 0++ : fruity slash
+end
+ [<- 1: bitter bionic
+return spilling immaturity
+end
+@enduml

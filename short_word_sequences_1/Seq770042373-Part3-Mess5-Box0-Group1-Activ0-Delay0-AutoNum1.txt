@@ -1,0 +1,15 @@
+@startuml
+participant "nevertheless slick" as 0
+participant "postcards openings" as 1
+== untrue immunity ==
+autonumber 8 5
+1 -> 0: gravity can
+1 --//o 0: sherlock smackers
+1 --//o 1: hilt respectively
+par readings saints
+0 -> 1: sip stalkers
+autonumber stop
+create participant "northeast pursue" as 2
+0 -> 2 : northeast pursue
+end
+@enduml

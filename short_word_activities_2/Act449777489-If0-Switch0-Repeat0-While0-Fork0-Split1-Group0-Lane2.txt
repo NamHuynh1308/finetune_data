@@ -1,0 +1,25 @@
+@startuml
+|1| selfishness honest
+|2| grabs assertive
+split
+-[hidden]->
+:sunsets wire;
+split again
+-[hidden]->
+:countryside bishop; <<continuous>>
+-> walk debriefed;
+split again
+-[hidden]->
+:openness idols;
+-> bozo thereof;
+end split
+:wayside disrespecting; <<output>>
+|2|
+:honouring move; <<save>>
+-> builder verbal;
+|1|
+:decaf conceiving; <<load>>
+:practice li; <<input>>
+-> dickie yapping;
+end
+@enduml

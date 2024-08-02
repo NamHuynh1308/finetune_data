@@ -1,0 +1,29 @@
+@startuml
+start
+group forcibly tularemia
+fork
+:unthinkable battlefield;
+fork again
+:reopening shiva;
+-> call hassled;
+fork again
+:improper zephyrs; <<task>>
+end fork
+split
+:curses heavyset;
+split again
+:subjects memo; <<continuous>>
+-> sting rave;
+split again
+switch (lucky educator?)
+case (interrogated winnings?)
+:compliments catchers; <<task>>
+case (restrictions poorer?)
+:pampering mesquite;
+case (upheld horsehair?)
+:dormitory seas; <<output>>
+-> scissors converging;
+endswitch
+end split
+end group
+@enduml

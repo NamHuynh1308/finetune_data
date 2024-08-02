@@ -1,0 +1,88 @@
+@startuml
+|1| blacking orchestra
+|2| multimillion jewelry
+|1|
+start
+|2|
+if (course requirement?) then (centred coals)
+:caught sway; <<task>>
+:suffered paparazzi;
+-> crane chenille;
+switch (cuddly edition?)
+case (genetics nannies?)
+:sipped argentine; <<procedure>>
+case (surf fortuitous?)
+:facilitate outlook;
+case (instance toxic?)
+:devil worldly;
+endswitch
+else (reality reserve)
+if (beanbag women?) then (singles processing)
+(poets discomfort) elseif (abundantly madonna?) then (necklace invitation)
+:scarlet stairway;
+(leggy recreational) elseif (gull denning?) then (allure lack)
+:stammering rockets;
+-> fluorescent metaphorically;
+(alcoholism tree) elseif (provides ski?) then (hobble knowledgeable)
+:hotshot risking;
+(bogus luge) elseif (wallowing capsized?) then (medic functioning)
+:earning discusses;
+endif
+:applauding kissed; <<output>>
+fork
+:outright films;
+fork again
+:grand condor;
+fork again
+:cooper spineless; <<save>>
+end merge
+while (dummkopf extension?) is (contains scrounging)
+switch (thigh intercept?)
+case (bowing fixating?)
+:slaughtered vector;
+while (furry improves?) is (swapping conquered)
+:understood sent; <<output>>
+:grounded pencil;
+backward:vegetarians nuance;
+:fitter snapper;
+endwhile (assassin contrast)
+-[hidden]->
+detach
+case (raiser seminal?)
+:airman summoning;
+endswitch
+:doubly tact;
+:intellectual playbook; <<task>>
+endwhile (censor walla)
+-[hidden]->
+detach
+endif
+fork
+:muumuu rudimentary;
+fork again
+if (compost guarantee?) then (officer tenor)
+:miraculously dawning;
+:assess hostilities; <<input>>
+-> industry bulk;
+:humans accidentally;
+-> reinforced implanted;
+else (spotlights hey)
+:magistrate sewer;
+:sandalwood misfortune;
+:broke oracle;
+endif
+fork again
+:gazpacho subjective; <<save>>
+fork again
+repeat
+:address forbidding;
+-> eating dries;
+backward:compels shoo;
+repeat while (wax lameness?) is (silly cauldron)
+end merge
+:watches stockings; <<output>>
+-> giveaway manually;
+|1|
+:avoided famously; <<task>>
+stop
+@enduml

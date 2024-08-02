@@ -1,0 +1,24 @@
+@startuml
+box "ferrets deals"
+participant "snapshot slugging" as 0
+box "cabbage moldings"
+participant "reaches repertoire" as 1
+box "winkle theft"
+participant "fluke cannibals" as 2
+participant "bags airline" as 3
+end box
+end box
+end box
+== falls brewer ==
+autonumber 0 10
+ [<- 3: operator urban
+0 ->] : thrilled companions
+...humorless casserole...
+1 -// 1: pardner vigil
+autonumber stop
+0 -> 3: mess protested
+1 -->x 2++ : sidekick bronzed
+0 -\\ 2: lakers louden
+3 ->] : unforeseen labeled
+return scramble quarrel
+@enduml

@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:immobilize mates;
+split again
+-[hidden]->
+split
+:pertains boosters;
+split again
+:aspirin pampering;
+split again
+:academics swastika;
+split again
+:numbing scratched; <<save>>
+-> heaped present;
+end split
+split again
+-[hidden]->
+:various perspective; <<input>>
+end split
+group extradited involving
+switch (halitosis matador?)
+case (emotional validate?)
+:businessman sweaters;
+kill
+case (hesitated evolutionary?)
+:schooling provocative; <<save>>
+endswitch
+stop
+end group
+@enduml

@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:ballpark refreshments;
+split again
+-[hidden]->
+:pioneer escapade;
+-> precisely fallback;
+split again
+-[hidden]->
+:counts loads;
+kill
+end split
+switch (crisis ottoman?)
+case (calculation basis?)
+:yanked prophet; <<input>>
+-> agitators sofas;
+case (kicking clients?)
+:farewell perturbed; <<load>>
+case (pill banality?)
+:stiletto choosing; <<input>>
+case (conceited gives?)
+:lovelier product;
+-> dot share;
+endswitch
+if (smartass specified?) then (utter memos)
+if (post victim?) then (prettier disproportionate)
+:secretive willow;
+:muffled weirdoes;
+else (carpool punters)
+:cellular abdominal; <<continuous>>
+-> fleabag lied;
+endif
+else (bedpan agents)
+:destiny embellished;
+-> stat cross;
+:bring givers;
+-> mobilize thawed;
+endif
+:tuxes refinery; <<continuous>>
+-> scenarios buds;
+@enduml

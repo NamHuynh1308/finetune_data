@@ -1,0 +1,8 @@
+@startuml
+start
+group outrageous gopher
+:sliver heals; <<procedure>>
+-> crisp aesthetic;
+stop
+end group
+@enduml

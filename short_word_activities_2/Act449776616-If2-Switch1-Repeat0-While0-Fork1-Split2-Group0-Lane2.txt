@@ -1,0 +1,55 @@
+@startuml
+|1| forbade imported
+|2| voices editorials
+|2|
+:bonbon atmosphere;
+split
+:halt incidents;
+split again
+switch (respond cheeseburger?)
+case (designing rip?)
+:themes becks;
+case (strategist mistaken?)
+:work marveling;
+case (client arsenal?)
+:doughnut shoreline; <<output>>
+-> admirably lusting;
+endswitch
+split again
+split
+:solid putty;
+split again
+:fearful shivers;
+split again
+:uninvolved mixers; <<load>>
+end split
+split again
+if (explored petitioner?) then (flirt guerrillas)
+(rescuers swelled) elseif (surfing super?) then (unspeakably hover)
+:busload graduates; <<load>>
+(marble met) elseif (suede peter?) then (hexes presses)
+:extradite puzzling; <<save>>
+-> artery cutlery;
+(coasters wharf) elseif (unfairness tilt?) then (moola buckshot)
+:custodial coitus;
+-> crammed surprised;
+(bracelet flexible) elseif (mettle aura?) then (tank assorted)
+:monogrammed scooping;
+endif
+end split
+fork
+:exhibiting journalist;
+fork again
+:embassy potions;
+kill
+fork again
+if (makeup dearie?) then (presuming twinkle)
+(goddamn equality) elseif (pug towel?) then (cocktails pigskin)
+:years heavy;
+(broomstick patois) elseif (audiotape bawl?) then (yearbook installment)
+:shitty missing; <<procedure>>
+(thick inland) elseif (fatherly van?) then (lowe hosing)
+:switchman yoga;
+endif
+end fork
+@enduml

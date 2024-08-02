@@ -1,0 +1,9 @@
+@startuml
+start
+group preachy pencils
+:votes screaming; <<task>>
+-> coach bilingual;
+:consequence cain; <<load>>
+end group
+stop
+@enduml

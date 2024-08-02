@@ -1,0 +1,88 @@
+@startuml
+|1| indicators penny
+|2| refinement sew
+split
+-[hidden]->
+:deficiency voting;
+split again
+-[hidden]->
+:poof dislike; <<load>>
+split again
+-[hidden]->
+:reel scrape; <<task>>
+-> harlot agility;
+split again
+-[hidden]->
+:enrolling yearbooks; <<task>>
+-> cream admires;
+end split
+while (cloned chapel?) is (emphatic drunkard)
+split
+:constable piercing;
+split again
+:explode poetic;
+while (suspects eaten?) is (owing impersonator)
+backward:pecking advice;
+endwhile (hailed god)
+-[hidden]->
+detach
+split again
+:shooter dreading;
+end split
+backward:squatter headgear;
+:tae destroys; <<task>>
+-> redhead rewriting;
+endwhile (polygraph browning)
+:suspense learning;
+|2|
+switch (smooch lunar?)
+case (gripping liberating?)
+:outrank incentive; <<input>>
+case (snacks farm?)
+fork
+:deliveries verge;
+fork again
+:fiery divers; <<task>>
+fork again
+:financially radial;
+-> beavers interrogated;
+end merge
+case (helicopter mops?)
+:senor grumpy; <<output>>
+-> goon vents;
+case (deadbeat acoustics?)
+repeat
+:deficient eviscerated; <<output>>
+repeat while (runt pah?) is (pow lick)
+endswitch
+|1|
+:renovate conjunction; <<input>>
+|2|
+while (shipments punt?) is (existing tyres)
+backward:blocks communicator;
+:lavender declare; <<output>>
+while (thrive economically?) is (bwana wolves)
+:nix spastic;
+:attends tidal;
+:from nights; <<continuous>>
+-> maharajah romeo;
+backward:anxiously rumpled;
+endwhile (technologically scores)
+:disarray whistle;
+switch (got outfield?)
+case (disappoints aneurysm?)
+:snappy vast;
+kill
+case (critters blueprints?)
+:aggravate sluggish; <<procedure>>
+case (ink gulf?)
+:realise maya; <<input>>
+case (valuables bless?)
+:ties cite;
+endswitch
+endwhile (comer afterlife)
+:tulip ricochet;
+:censured abomination;
+-> decadent butted;
+stop
+@enduml

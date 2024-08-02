@@ -1,0 +1,12 @@
+@startuml
+participant "mamma otherwise" as 0
+participant "cranks freeloading" as 1
+box "oboe contusions"
+participant "bother memorable" as 2
+end box
+== vibrating passive ==
+2 ->> 1: nightlife cadmium
+ [<- 0: senior porch
+0 -->x 1: impassioned delight
+2 -> 2: essentially flute
+@enduml

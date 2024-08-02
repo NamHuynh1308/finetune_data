@@ -1,0 +1,27 @@
+@startuml
+participant "rehearsed host" as 0
+participant "exacting cornball" as 1
+participant "depict singers" as 2
+box "risks avoiding"
+participant "socializing misery" as 3
+participant "cushy macaroni" as 4
+end box
+autonumber 6 7
+1 <-] : distracting diaper
+autonumber stop
+...manatees characters...
+1 --> 1: drippy hook
+autonumber resume
+ [<- 4: activists hijinks
+3 -> 2!! : nifty muchachos
+autonumber stop
+3 -> 2: imperfections heaps
+...charlie medicare...
+0 -// 1: chocolate blending
+...zillion boiled...
+0 -->x 3: hopping cerulean
+autonumber resume
+...pip chaos...
+ [<- 4: glory overseas
+autonumber stop
+@enduml

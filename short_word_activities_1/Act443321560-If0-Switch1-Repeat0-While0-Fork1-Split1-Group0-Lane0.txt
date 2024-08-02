@@ -1,0 +1,24 @@
+@startuml
+switch (gruesome infecting?)
+case (sponsorship prevented?)
+fork
+:mannered kilos;
+fork again
+:opinions casa;
+fork again
+:purple watchful; <<task>>
+-> dwindling veterans;
+end fork
+case (authorization capable?)
+split
+:flicks plugged;
+split again
+:score geared; <<output>>
+-> dearly spontaneity;
+split again
+:often cardiac; <<task>>
+split again
+:tiff mach;
+end split
+endswitch
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+box "rummy mat"
+participant "perpetrate bot" as 0
+end box
+== external waving ==
+autonumber 7 3
+0 ->> 0: colonies pixels
+autonumber stop
+0 -> 0: leaflets ream
+@enduml

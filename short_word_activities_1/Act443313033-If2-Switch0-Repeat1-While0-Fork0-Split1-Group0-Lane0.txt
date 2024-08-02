@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:tribe ideally;
+split again
+-[hidden]->
+:mope lump;
+-> evoked siesta;
+split again
+-[hidden]->
+:claymore vermin; <<save>>
+-> innocuous help;
+split again
+-[hidden]->
+:amputated pralines; <<load>>
+end split
+:linking frontier;
+:thirteenth dispensers; <<procedure>>
+repeat
+if (strive unharmed?) then (locked eyeball)
+(stomachs venison) elseif (produce scope?) then (brochure schizo)
+:puffed practitioner;
+(bobbing falsify) elseif (tripled notices?) then (researchers gratified)
+:confederation satisfactory; <<input>>
+endif
+if (coincidences pong?) then (flying tummy)
+(splits omens) elseif (bothering errors?) then (pavement circumcision)
+:analysts beach; <<output>>
+(interplanetary statistic) elseif (licensed formidable?) then (duty brad)
+:pinhead pacific;
+(airmen compels) elseif (pink madre?) then (ears official)
+:apologizing reimburse; <<save>>
+endif
+repeat while (bane manufacturer?) is (disastrous amber)
+-> entrepreneurial friction;
+end
+@enduml

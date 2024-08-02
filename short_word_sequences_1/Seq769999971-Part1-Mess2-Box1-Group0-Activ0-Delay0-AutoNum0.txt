@@ -1,0 +1,8 @@
+@startuml
+box "fuzz cruising"
+participant "moth cursed" as 0
+end box
+== suitor prescribing ==
+0 -> 0: pig stopwatch
+0 -> 0: langley brewing
+@enduml

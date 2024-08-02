@@ -1,0 +1,10 @@
+@startuml
+group capture perimeter
+:rectal potted;
+group suite dopey
+:sensors paddy; <<load>>
+-> passkey metal;
+stop
+end group
+end group
+@enduml

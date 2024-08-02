@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:violin camping;
+split again
+-[hidden]->
+:glove matron; <<input>>
+split again
+-[hidden]->
+split
+:plural wheeler;
+split again
+:port cozier;
+split again
+:odorless shrugging; <<task>>
+end split
+split again
+-[hidden]->
+fork
+:informs overseas;
+fork again
+:diligence patrolmen;
+fork again
+:jurors sensuous;
+end fork
+end split
+group never submitted
+:duplicate gender;
+stop
+end group
+@enduml

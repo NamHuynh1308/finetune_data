@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:freshening popped;
+split again
+-[hidden]->
+:cruise vast; <<input>>
+split again
+-[hidden]->
+:liquidate casinos; <<load>>
+split again
+-[hidden]->
+if (ahem reserved?) then (headache pathologically)
+:recriminations gawk; <<procedure>>
+-> boyfriends lightness;
+:swamp conniving;
+else (continuance extensive)
+:darkest gramps;
+endif
+end split
+group obscene general
+:sophomore snoopy;
+:scientists balcony; <<task>>
+:rounding machinery; <<continuous>>
+end group
+@enduml

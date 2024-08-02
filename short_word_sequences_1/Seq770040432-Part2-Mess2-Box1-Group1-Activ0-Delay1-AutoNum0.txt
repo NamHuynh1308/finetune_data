@@ -1,0 +1,12 @@
+@startuml
+box "unannounced unplanned"
+participant "upsetting pinata" as 0
+participant "martial transcendent" as 1
+end box
+== flailing fellowship ==
+0 -->x 1: primates horoscopes
+alt lonesome magic
+...produces resigning...
+0 -->x 1: steering mumbling
+end
+@enduml

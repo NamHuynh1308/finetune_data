@@ -1,0 +1,21 @@
+@startuml
+participant "elevation grade" as 0
+participant "paced spandex" as 1
+participant "spreading complexity" as 2
+box "pry superstars"
+participant "academic catty" as 3
+participant "gush prissy" as 4
+end box
+2 -> 0: please carol
+4 --//o 1++ : igneous extermination
+3 ->x 3++ : construction pleaser
+alt ignore concepts
+1 ->> 2: crimes emit
+return forgeries clunker
+...aboriginal legalizing...
+3 -> 4: goading bash
+return wanted mercury
+0 ->x 1: windows rider
+0 ->o 4: murmur yawn
+end
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "neighborly reactions" as 0
+box "dullness marching"
+participant "posterior horoscopes" as 1
+box "genesis putting"
+participant "anarchy uncovered" as 2
+participant "limerick budget" as 3
+participant "quiet house" as 4
+end box
+end box
+0 <-] : goobers voting
+ [-> 1: grind fife
+1 --//o 4: billboards ruling
+3 <-] : heirloom paris
+alt glorious subcommittee
+...victoria insignificant...
+4 ->o 1: den straws
+end
+@enduml

@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:kicky telephone;
+split again
+-[hidden]->
+:wipe stark;
+split again
+-[hidden]->
+:troy automotive;
+-> operative flower;
+split again
+-[hidden]->
+:gripes peruse;
+-> affectionately authenticate;
+end split
+:washrooms repentance; <<task>>
+switch (executions tacked?)
+case (sicker brew?)
+switch (colors operations?)
+case (worried wrists?)
+:laughs anti; <<input>>
+case (uninteresting shirts?)
+:strained dutiful;
+case (silence magazine?)
+:defrost coiffure;
+case (findings repaid?)
+:earmarked flinging; <<input>>
+-> governess folk;
+endswitch
+case (discovering shaven?)
+:ode crabgrass;
+case (schools nougat?)
+:dragoons spiked; <<load>>
+case (senate duress?)
+if (urinating mixing?) then (decoded instructors)
+(mentality locks) elseif (circulatory result?) then (nougat saints)
+:labeled rigged;
+(squish nicely) elseif (grumpy compensation?) then (irregular weatherman)
+:flagship cupboards;
+endif
+endswitch
+stop
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+box "stashed eater"
+participant "cleats jilted" as 0
+box "airborne chromosomes"
+participant "sedation strenuous" as 1
+end box
+end box
+== gnome unblemished ==
+autonumber 8 0
+loop encountered obits
+0 -// 1: injuries hideous
+1 -> 1!! : hooked inflamed
+else craftsmanship fearless
+end
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+start
+group gran begat
+:forgiveness economy; <<load>>
+-> addition wrecking;
+stop
+end group
+@enduml

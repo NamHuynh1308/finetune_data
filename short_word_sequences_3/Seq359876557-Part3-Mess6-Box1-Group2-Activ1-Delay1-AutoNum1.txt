@@ -1,0 +1,22 @@
+@startuml
+participant "moderator crocket" as 0
+participant "unseasonably jazzed" as 1
+box "frostbite salty"
+participant "yes drywall" as 2
+end box
+autonumber 8 6
+0 -> 0: suffice toiling
+2 -> 2: chiffon sprinkler
+2 -->x 0: unwilling assign
+critical headpiece stubs
+...pacemaker kilt...
+1 ->o 2: improvised geographical
+0 -> 2++ : clotting lake
+autonumber stop
+par constellation crust
+1 -// 0: millions inventions
+autonumber resume
+end
+end
+return webster irony
+@enduml

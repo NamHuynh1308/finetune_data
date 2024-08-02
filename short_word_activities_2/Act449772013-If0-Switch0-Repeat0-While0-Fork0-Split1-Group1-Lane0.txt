@@ -1,0 +1,14 @@
+@startuml
+split
+:wimpy scalper;
+split again
+:mutt weekends; <<continuous>>
+split again
+:desolate flurry; <<procedure>>
+end split
+:clink nature; <<procedure>>
+group qualify centuries
+:solutions ganged; <<output>>
+stop
+end group
+@enduml

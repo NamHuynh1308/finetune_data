@@ -1,0 +1,7 @@
+@startuml
+group campuses meadows
+:gotten aqua; <<task>>
+:suggestions perceived; <<input>>
+end group
+stop
+@enduml

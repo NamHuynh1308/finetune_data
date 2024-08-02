@@ -1,0 +1,35 @@
+@startuml
+|1| eats negotiate
+|2| goody builds
+|1|
+start
+|2|
+if (statements coleslaw?) then (deliver fifth)
+:theres flattering; <<output>>
+else (roasts stale)
+:upstage bathtub; <<task>>
+-> succeed governess;
+endif
+if (disc questioning?) then (fearsome boar)
+(corner retail) elseif (goodness pavilion?) then (brilliantly weather)
+:lakes impersonator;
+-> mocked culturally;
+(tracing foolish) elseif (looked gramps?) then (flattered guesthouse)
+while (totals striving?) is (excommunicated smarty)
+backward:slippery juvenile;
+endwhile (scrubs equals)
+:dust breakthrough;
+(teach pokes) elseif (impacts drumsticks?) then (predators runny)
+fork
+:lingo sporty;
+fork again
+:pi charging;
+fork again
+:proactive tutors; <<task>>
+-> rehearsed beetle;
+end merge
+endif
+:dreams teamsters; <<load>>
+:loves devoting; <<load>>
+stop
+@enduml

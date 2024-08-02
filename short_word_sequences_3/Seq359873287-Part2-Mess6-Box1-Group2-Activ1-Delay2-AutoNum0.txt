@@ -1,0 +1,22 @@
+@startuml
+box "cod practising"
+participant "stat dispatch" as 0
+participant "beg cancels" as 1
+end box
+== drips quid ==
+0 -> 1!! : mixture beaten
+loop iceberg blab
+1 -> 1: sore cad
+0 -> 0: proofs victimless
+else suspension clone
+0 <-] : simony dummkopf
+...ports profusely...
+0 -\\ 1++ : grabs beige
+else hometown arms
+par deduct haps
+...menial quarterback...
+1 <-> 1: refinement alarmed
+return refrigerator coroner
+end
+end
+@enduml

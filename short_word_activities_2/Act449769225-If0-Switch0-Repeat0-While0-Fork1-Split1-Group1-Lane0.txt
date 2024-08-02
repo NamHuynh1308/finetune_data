@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:conclave antibody;
+split again
+-[hidden]->
+:mesa soupy; <<input>>
+split again
+-[hidden]->
+fork
+:swine tends;
+fork again
+:bottomed chili; <<output>>
+-> obnoxious chauvinistic;
+fork again
+:attending rotary;
+fork again
+:sack literacy; <<task>>
+-> accursed sleight;
+end fork
+end split
+group bey blab
+:dumps insulted; <<task>>
+stop
+end group
+@enduml

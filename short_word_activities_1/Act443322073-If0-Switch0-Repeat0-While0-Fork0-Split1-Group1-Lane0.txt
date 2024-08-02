@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:city sneak;
+split again
+-[hidden]->
+:potency promptly;
+-> bills hydrolase;
+split again
+-[hidden]->
+:pollard punky;
+split again
+-[hidden]->
+:arrhythmia joiner; <<procedure>>
+-> wiseass protest;
+end split
+group impossible traffic
+:quintuplets sipped; <<task>>
+stop
+end group
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "creamer reel" as 0
+participant "misgivings statue" as 1
+autonumber 0 9
+break idle mumbles
+1 -> 0: intellectual stead
+autonumber stop
+ [<- 0: handing wealthiest
+end
+0 -> 0: corresponds colin
+...haircuts wops...
+0 ->x 1: gallivanting guitar
+ [<- 1: emphasized paging
+@enduml

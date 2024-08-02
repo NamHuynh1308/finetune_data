@@ -1,0 +1,52 @@
+@startuml
+split
+-[hidden]->
+:faint indirectly;
+split again
+-[hidden]->
+:stressing coordinator; <<input>>
+-> lambda assured;
+split again
+-[hidden]->
+:around illegally; <<continuous>>
+-> blowfish retrograde;
+end split
+switch (foxhole banks?)
+case (staffer civilization?)
+:irrigate elephant; <<procedure>>
+case (recuse sickens?)
+while (beaming evaluations?) is (forming village)
+backward:immobilize costume;
+backward:resolved staging;
+endwhile (flaked dogged)
+:gratification omelette;
+case (autistic provocations?)
+:ladle tableau;
+endswitch
+switch (webster nitwit?)
+case (salaam sop?)
+:colleagues pipes; <<procedure>>
+case (needle cylinders?)
+fork
+:reclining beaver;
+fork again
+:marginal messengers;
+fork again
+:subbasement undercut;
+fork again
+:seams labyrinth; <<save>>
+-> additives shutting;
+end merge
+case (noisy potting?)
+split
+:anesthesia colonnade;
+split again
+:ghastly denounce;
+-> consistent subtext;
+split again
+:wife deleted;
+end split
+endswitch
+:weakened fog;
+end
+@enduml

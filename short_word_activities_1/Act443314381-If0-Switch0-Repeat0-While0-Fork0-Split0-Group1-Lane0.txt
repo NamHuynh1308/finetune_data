@@ -1,0 +1,7 @@
+@startuml
+start
+group fall metro
+:receding devious; <<save>>
+stop
+end group
+@enduml

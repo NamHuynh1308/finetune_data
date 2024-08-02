@@ -1,0 +1,16 @@
+@startuml
+participant "rival jackets" as 0
+box "participate theatrical"
+participant "ditsy escapee" as 1
+participant "slicer touchstone" as 2
+end box
+1 <-] : eliminating reconciliation
+critical crafty ose
+create participant "basics pier" as 3
+1 -> 3 : basics pier
+critical mafia notification
+...informational representations...
+2 -> 2: coasters provides
+end
+end
+@enduml

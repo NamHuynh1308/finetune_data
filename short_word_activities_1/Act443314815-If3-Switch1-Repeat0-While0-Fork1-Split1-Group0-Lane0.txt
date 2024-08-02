@@ -1,0 +1,60 @@
+@startuml
+:additional ingenue; <<procedure>>
+if (carmen molars?) then (visits crossed)
+(ailment sampling) elseif (scrap undetected?) then (lodge pounds)
+split
+:biscuits define;
+split again
+:freshwater earliest; <<save>>
+split again
+:stopped deeds;
+split again
+:jiggly awol; <<task>>
+end split
+(keeper assisted) elseif (photographing later?) then (vitamins sort)
+:wherefore agenda; <<load>>
+(sluggish post) elseif (showoff cold?) then (administered fleeting)
+:fro millionaires; <<task>>
+-> bender sickest;
+(extracts killed) elseif (shell quantity?) then (governed buffs)
+if (musicians goddamn?) then (cohesion housekeeper)
+(pimping carnivore) elseif (derogatory newlyweds?) then (understands publisher)
+:spoiled yak; <<save>>
+(separation sailed) elseif (shrimp furthering?) then (sponsors outfitted)
+:assembler unicorn;
+(foul sycophant) elseif (nailing empowerment?) then (prognosis peroxide)
+:withheld freelancer;
+-> devastatingly righto;
+(supplied sans) elseif (pruning heirloom?) then (bugger carelessness)
+:proverbial crocodiles; <<output>>
+endif
+endif
+switch (exasperated dashed?)
+case (tops cobweb?)
+:miniature mysterious; <<save>>
+-> sheriff spiritual;
+case (admitted buffalo?)
+if (gaggle limbo?) then (ruled blabbermouth)
+(synapses petrol) elseif (motorcycles colonels?) then (taxi brandy)
+:hogging cottage;
+(loons champ) elseif (rhyme clung?) then (recreational tells)
+:chores busting; <<load>>
+-> robbers reassemble;
+(gobs cushions) elseif (understudy culturally?) then (fringe libido)
+:ordinate rite; <<continuous>>
+-> incantation stupid;
+endif
+case (hung landlord?)
+fork
+:grapes waiter;
+fork again
+:newscast barely;
+fork again
+:freshest flowing;
+fork again
+:preamble naw; <<task>>
+-> fritters humming;
+end fork
+endswitch
+end
+@enduml

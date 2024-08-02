@@ -1,0 +1,7 @@
+@startuml
+participant "go horribly" as 0
+autonumber 5 0
+0 -> 0++ : potency catchy
+autonumber stop
+return golly typo
+@enduml

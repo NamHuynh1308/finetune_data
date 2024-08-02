@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:characterizing crouched;
+split again
+-[hidden]->
+split
+:poverty disloyal;
+split again
+:understand junkyard;
+split again
+:ritzy garland; <<task>>
+-> toothpaste brag;
+end split
+split again
+-[hidden]->
+:mural snooping; <<procedure>>
+split again
+-[hidden]->
+split
+:hank breakdown;
+split again
+:misfit helicopter;
+-> weekly particle;
+split again
+:foliage clings; <<output>>
+split again
+:advent precedence;
+-> rebound empathy;
+end split
+end split
+switch (sentiments standard?)
+case (dong diffusion?)
+fork
+:outlaws abolish;
+fork again
+:standing dol; <<save>>
+fork again
+:has accident; <<continuous>>
+fork again
+:fumigated phantoms;
+end fork
+case (gargantuan nelson?)
+:magnitude fragile;
+case (earring carried?)
+:maintenance soaked; <<continuous>>
+case (assortment surge?)
+:unharmed recollection; <<save>>
+endswitch
+@enduml

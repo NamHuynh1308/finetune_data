@@ -1,0 +1,79 @@
+@startuml
+split
+-[hidden]->
+:wooded gloves;
+split again
+-[hidden]->
+:interact indeterminate;
+-> charging conformity;
+split again
+-[hidden]->
+:intellectuals fraulein;
+-> satellite empowered;
+split again
+-[hidden]->
+:heed thoughtful;
+-> overtired elusive;
+end split
+switch (earmarks scat?)
+case (fronting airspace?)
+if (pineapple multiple?) then (cruelty ballplayer)
+:itches supernatural;
+:verbatim arteries;
+:banjo hotline;
+else (pass mixed)
+:descend fussing;
+-> thugs marked;
+:fudge prank; <<save>>
+endif
+case (novocaine mash?)
+if (timeline undone?) then (hatred snorted)
+(wipes seen) elseif (awe malfunction?) then (whimper mud)
+:crimp regulated; <<task>>
+-> hunch pus;
+(courtrooms slashed) elseif (regroup clue?) then (missus mileage)
+:finger hogs; <<procedure>>
+(mouthwash hairpin) elseif (bakeries matted?) then (nourish exporter)
+:chute lez;
+endif
+case (kiosk supposedly?)
+:rely satisfy; <<output>>
+-> working exit;
+endswitch
+group fits molars
+if (plum chests?) then (wolf beg)
+:boats swim; <<continuous>>
+kill
+else (crackerjack treatment)
+:fossil puppet; <<input>>
+-> religiously aggravating;
+if (depriving nuisance?) then (vendettas urologist)
+:narrowed alliance;
+while (wherein suckered?) is (eighteen mote)
+:saffron twat; <<load>>
+:aunts dripping;
+:noel headmaster;
+endwhile (compromising rockets)
+-[hidden]->
+detach
+else (mace grief)
+:sec overdo; <<procedure>>
+:unopened infraction; <<continuous>>
+while (booths vents?) is (beings musketeers)
+:deep truck;
+backward:perimeter shirtless;
+backward:advertised wiseass;
+:nuisance fitter; <<input>>
+-> extraterrestrial alliance;
+endwhile (gilded digs)
+-[hidden]->
+detach
+endif
+:collapsing innuendoes; <<output>>
+endif
+group combination nosh
+:round recreation; <<output>>
+stop
+end group
+end group
+@enduml

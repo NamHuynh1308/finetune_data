@@ -1,0 +1,18 @@
+@startuml
+box "peppers layout"
+participant "runners ladder" as 0
+participant "rekindled plotting" as 1
+participant "kimono material" as 2
+end box
+== muses eye ==
+2 <-> 1: bulbs graduating
+1 -> 0++ : magnificent meets
+opt tuxedo robin
+2 -> 1: sleepover mishap
+return shimmer share
+1 -// 0++ : closeted billie
+1 -// 1: custom stability
+else unworthy courting
+end
+return unsavory ripple
+@enduml

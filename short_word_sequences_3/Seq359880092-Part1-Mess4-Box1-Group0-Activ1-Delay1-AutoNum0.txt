@@ -1,0 +1,12 @@
+@startuml
+box "shots hearted"
+participant "sunny slingshot" as 0
+end box
+== politics casket ==
+ [-> 0: civilisation hazelnut
+0 <-> 0: tents tragedy
+...cheeseburgers gingerbread...
+0 ->> 0: coke wonderful
+0 ->x 0++ : memorabilia barnyard
+return utilities sunset
+@enduml

@@ -1,0 +1,44 @@
+@startuml
+start
+:appealed hike;
+group rehearsal necks
+:matchbook tickling; <<output>>
+group crimson espressos
+if (ounce delivered?) then (puller collapses)
+:fluids banister; <<continuous>>
+-> stationary eng;
+:pas icicles; <<procedure>>
+else (jerks framers)
+switch (render off?)
+case (convoy loca?)
+:maker antagonism;
+-> practitioner indignities;
+case (drunks splendor?)
+:virtually supply; <<output>>
+-> shun nailing;
+case (mortar pinot?)
+:turbine betrayed;
+case (slinky furthering?)
+:compartments height;
+endswitch
+while (uneventful vein?) is (glint debutante)
+backward:roses damning;
+:moulin rife;
+-> destiny probationary;
+switch (faked hygienic?)
+case (cursive joking?)
+:lint fundamentally; <<continuous>>
+-> kept trotting;
+case (rotting sends?)
+:surly harbors; <<load>>
+-> brin revoking;
+endswitch
+backward:winded woops;
+endwhile (bred silicone)
+-[hidden]->
+detach
+endif
+stop
+end group
+end group
+@enduml

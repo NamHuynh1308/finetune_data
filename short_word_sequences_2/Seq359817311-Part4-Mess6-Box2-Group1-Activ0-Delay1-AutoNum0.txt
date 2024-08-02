@@ -1,0 +1,22 @@
+@startuml
+box "filmmaking wily"
+participant "aging skittles" as 0
+participant "seasonal astray" as 1
+box "ramifications pans"
+participant "turkey mowed" as 2
+end box
+end box
+== gathering glorious ==
+create participant "genitals streetcar" as 3
+2 -> 3 : genitals streetcar
+ [-> 1: hydra queens
+loop baklava yardstick
+2 --> 0: easing aches
+2 --//o 2: farmhouse trigger
+else roommate reserves
+0 --> 3: prosecutor inconceivable
+...laundered chafing...
+3 -> 3: kiosk behaviour
+else raincoat crowning
+end
+@enduml

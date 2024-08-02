@@ -1,0 +1,27 @@
+@startuml
+start
+group composed yon
+switch (chlamydia moloch?)
+case (parachutes blackmailing?)
+split
+:experts tease;
+split again
+:competitive containing; <<output>>
+-> moonbeams pricked;
+split again
+:guy aftermath; <<input>>
+-> rent debating;
+end split
+case (fondling latino?)
+:pedigree appendix; <<task>>
+case (nonnegotiable establishments?)
+:brainstorm bunions; <<output>>
+endswitch
+group celebration virtuous
+:zoned polka;
+:lorry titles;
+-> phoebe certainty;
+end group
+stop
+end group
+@enduml

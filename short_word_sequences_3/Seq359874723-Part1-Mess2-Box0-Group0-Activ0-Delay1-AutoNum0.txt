@@ -1,0 +1,6 @@
+@startuml
+participant "hairstyles essential" as 0
+0 <-] : collapse record
+...robbed hopped...
+0 ->] : ring fowler
+@enduml

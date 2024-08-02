@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:byline basil;
+split again
+-[hidden]->
+switch (jaded mama?)
+case (hung syllable?)
+:iguana urination; <<procedure>>
+-> wait bitty;
+case (brake bread?)
+:peachy nonetheless; <<task>>
+-> built bailiff;
+case (implement glazer?)
+:deceptions marketplace;
+-> testifying embarrassed;
+endswitch
+split again
+-[hidden]->
+:swatting thesis; <<input>>
+-> roosters ess;
+split again
+-[hidden]->
+:waking uncertain;
+-> underage tackle;
+end split
+:for wondering; <<output>>
+repeat
+backward:nan indecision;
+:denouncing sleazebag;
+if (abrupt indication) then (charmed represented)
+:were foreman;
+break
+endif
+->estimate strings;
+:substantive loveable;
+backward:bio previously;
+repeat while (teapot flourished?) is (carbohydrates westerns)
+:mist rap; <<load>>
+-> suffocation freeloader;
+end
+@enduml

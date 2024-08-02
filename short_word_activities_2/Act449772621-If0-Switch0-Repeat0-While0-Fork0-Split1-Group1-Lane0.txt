@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:cataracts imperial;
+split again
+-[hidden]->
+:gray cherub; <<output>>
+split again
+-[hidden]->
+:press kid; <<save>>
+end split
+group suspects combust
+:boxer civilisation; <<task>>
+stop
+end group
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+box "epilepsy swivel"
+participant "colors analysis" as 0
+box "jeepers jaywalking"
+participant "poppet high" as 1
+end box
+end box
+== gauging execution ==
+0 --//o 0++ : aneurysm gavel
+ [<- 0: mime transgenic
+return batting careful
+@enduml

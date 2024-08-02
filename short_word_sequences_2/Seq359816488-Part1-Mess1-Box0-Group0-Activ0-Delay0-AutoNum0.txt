@@ -1,0 +1,5 @@
+@startuml
+participant "race spoken" as 0
+== belvedere battleship ==
+0 -> 0: cramped drawers
+@enduml

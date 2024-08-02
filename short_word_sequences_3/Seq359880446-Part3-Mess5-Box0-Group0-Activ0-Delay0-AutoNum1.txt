@@ -1,0 +1,13 @@
+@startuml
+participant "polarity cams" as 0
+participant "jazzed hazing" as 1
+participant "unshakable sought" as 2
+== mellowing roadie ==
+autonumber 1 1
+0 -> 2!! : wedgie pester
+1 ->o 0: dawn stronghold
+2 ->o 2: lip hugging
+0 -> 0: leukemia hoagie
+0 --> 1: supper scrapbook
+autonumber stop
+@enduml

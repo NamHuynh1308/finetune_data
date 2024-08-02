@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:testify marines;
+split again
+-[hidden]->
+if (gallbladder introduces?) then (flagging tail)
+:outpouring waits; <<input>>
+:luxury staking;
+else (chaplain kills)
+:plums taunting;
+:commodities implanted;
+-> desperado steno;
+:hostility bikers; <<task>>
+-> spirits requiring;
+endif
+split again
+-[hidden]->
+switch (challenger infatuation?)
+case (swords loyal?)
+:stuck fangs;
+case (commanders cocked?)
+:cheep calculated;
+case (which replicating?)
+:unsolved lagoon; <<save>>
+endswitch
+end split
+group butts eyelashes
+fork
+:dodgy wastes;
+fork again
+:proteus joust; <<continuous>>
+fork again
+while (scopes blameless?) is (regained mating)
+backward:genital compels;
+backward:tired degrading;
+endwhile (rapture resent)
+:fines measured;
+end fork
+:interrupting remaining;
+-> supple active;
+end group
+@enduml

@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:students cement;
+split again
+-[hidden]->
+:incense reverse; <<save>>
+-> cockney fisher;
+split again
+-[hidden]->
+:tireless medic; <<save>>
+-> maternity specifically;
+split again
+-[hidden]->
+switch (treachery explain?)
+case (objectives circus?)
+:alerts warfarin;
+while (giggling whatsoever?) is (fathered entrepreneurial)
+:hazard pinks;
+:orbital oboe; <<save>>
+endwhile (gallons deserving)
+-[hidden]->
+detach
+case (espresso borderline?)
+:commander fawning;
+endswitch
+end split
+:sweatshop henhouse;
+group fuhrer hatter
+switch (scallions earthquakes?)
+case (polling shrugs?)
+:seating visceral; <<save>>
+case (anonymous consolidated?)
+if (freelance grasshopper?) then (lashes residual)
+:mother tizzy;
+:goals hijinks; <<continuous>>
+kill
+else (freshener under)
+:looker wench;
+:minimalist screwed; <<task>>
+endif
+case (raising workload?)
+:hippopotamus misdemeanors; <<output>>
+case (exiles cheery?)
+:fireball wagons;
+endswitch
+:downsize friendliest;
+stop
+end group
+@enduml

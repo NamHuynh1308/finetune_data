@@ -1,0 +1,26 @@
+@startuml
+|1| preceded flounder
+|2| agile loner
+split
+-[hidden]->
+:seeks charmed;
+split again
+-[hidden]->
+:capsule horde;
+kill
+split again
+-[hidden]->
+:reproach curfews;
+-> gene trillion;
+split again
+-[hidden]->
+:bourgeois frames; <<output>>
+-> spotter thick;
+end split
+|2|
+:reads orange; <<task>>
+-> blazes midterms;
+:determines quart; <<procedure>>
+:sixteenth kent; <<procedure>>
+stop
+@enduml

@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:abortions position;
+split again
+-[hidden]->
+:recording shotgun; <<continuous>>
+split again
+-[hidden]->
+:footsies steroids;
+split again
+-[hidden]->
+:backing pheasant;
+end split
+group clogging ton
+switch (choose overweight?)
+case (tykes unprepared?)
+split
+:superpower enjoying;
+split again
+:fireball sauna;
+-> participating safest;
+split again
+:goodwill neutered;
+end split
+case (frees pluses?)
+:steady speculations; <<load>>
+endswitch
+repeat
+:unattached speeding; <<continuous>>
+-> chesty stipulated;
+repeat while (sensory joints?) is (kaput coppers)
+:uh entire; <<output>>
+stop
+end group
+@enduml

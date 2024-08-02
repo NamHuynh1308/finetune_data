@@ -1,0 +1,15 @@
+@startuml
+participant "confession beware" as 0
+participant "dowager getting" as 1
+participant "library intercepting" as 2
+box "hair natty"
+participant "farted smoothie" as 3
+end box
+autonumber 1 5
+1 ->> 3: servicing bobby
+loop thousands plain
+0 -> 3: gal cake
+0 -> 0!! : littlest hurray
+ [-> 0: daiquiri dui
+end
+@enduml

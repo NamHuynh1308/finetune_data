@@ -1,0 +1,13 @@
+@startuml
+participant "implied keel" as 0
+== separately fretting ==
+alt mowed persist
+0 ->o 0: carol raw
+0 --//o 0++ : scratch scald
+else various thrice
+0 <-> 0: discriminate bob
+return pathos gallons
+else doorknobs lounge
+0 <-> 0: grins canteen
+end
+@enduml

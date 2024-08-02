@@ -1,0 +1,5 @@
+@startuml
+start
+:loaning deliver; <<task>>
+end
+@enduml

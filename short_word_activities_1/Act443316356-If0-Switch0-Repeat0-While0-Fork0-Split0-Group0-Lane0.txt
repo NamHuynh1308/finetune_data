@@ -1,0 +1,6 @@
+@startuml
+start
+:married musing; <<load>>
+-> practicality sneaky;
+stop
+@enduml

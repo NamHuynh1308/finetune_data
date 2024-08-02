@@ -1,0 +1,17 @@
+@startuml
+:directed haven; <<load>>
+fork
+:boxer snagged;
+fork again
+:carefree greedy;
+fork again
+:faggy tyranny;
+-> crazier booth;
+fork again
+:direction seeing; <<save>>
+end merge
+group stay helo
+:upfront sanded; <<load>>
+stop
+end group
+@enduml

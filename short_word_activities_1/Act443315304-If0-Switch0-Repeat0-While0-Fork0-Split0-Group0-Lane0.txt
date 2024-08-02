@@ -1,0 +1,6 @@
+@startuml
+start
+:confidante sodas; <<task>>
+-> comes signifying;
+end
+@enduml

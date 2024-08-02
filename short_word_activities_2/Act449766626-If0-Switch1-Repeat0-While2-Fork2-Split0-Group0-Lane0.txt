@@ -1,0 +1,42 @@
+@startuml
+start
+fork
+:colchicine building;
+fork again
+:waterworks pigheaded;
+while (understandably tombs?) is (whammo entanglements)
+backward:headfirst fowler;
+fork
+:triumphed piles;
+fork again
+:befitting handful;
+fork again
+:idiosyncrasies ambulance;
+fork again
+:selectman ensued; <<output>>
+end fork
+:selflessness casbah; <<input>>
+while (tragic coriander?) is (baring lacking)
+:keyboard container; <<load>>
+backward:devoting fop;
+backward:shipshape shirtless;
+:protest competitiveness;
+endwhile (oaf caucus)
+:met centred;
+endwhile (balconies grateful)
+-[hidden]->
+detach
+fork again
+switch (stumbled intermediate?)
+case (panting furlong?)
+:echoes recommendation; <<load>>
+-> revealing memorize;
+case (onstage wondered?)
+:golden excluded;
+case (able waiting?)
+:paramedic flailing;
+case (darkest moly?)
+:saved render; <<procedure>>
+endswitch
+end merge
+@enduml

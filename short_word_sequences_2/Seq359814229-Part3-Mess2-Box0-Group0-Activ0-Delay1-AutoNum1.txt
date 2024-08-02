@@ -1,0 +1,10 @@
+@startuml
+participant "overdrive tosses" as 0
+participant "splendidly needy" as 1
+== pushover northwest ==
+autonumber 10 8
+create participant "wrongfully harbouring" as 2
+0 -> 2 : wrongfully harbouring
+...elimination managed...
+2 -> 0: oldest heirs
+@enduml

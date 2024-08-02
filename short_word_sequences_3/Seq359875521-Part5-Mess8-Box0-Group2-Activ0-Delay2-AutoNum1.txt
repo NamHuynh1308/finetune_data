@@ -1,0 +1,25 @@
+@startuml
+participant "grams your" as 0
+participant "scuzzy therein" as 1
+participant "briefcases graffiti" as 2
+participant "bathrooms tournaments" as 3
+autonumber 9 6
+0 -> 0: inning expectancy
+2 ->x 3: staring deal
+1 --//o 3: interrogated worker
+autonumber stop
+create participant "capitol nailing" as 4
+1 -> 4 : capitol nailing
+...warrants believed...
+0 -> 1: apprised mended
+critical souse raving
+...broadening fatalities...
+2 ->> 3: beaver user
+0 ->o 2: clarifying herniated
+autonumber resume
+opt disease marshmallows
+ [<- 4: ballon milo
+autonumber stop
+end
+end
+@enduml

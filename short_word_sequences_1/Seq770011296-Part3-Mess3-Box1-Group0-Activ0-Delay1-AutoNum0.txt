@@ -1,0 +1,12 @@
+@startuml
+participant "obvious pygmy" as 0
+participant "ambivalent birdies" as 1
+box "prosecution infects"
+participant "stethoscope board" as 2
+end box
+== duties knives ==
+2 -\\ 2: serious outfitted
+1 -> 2: instances aa
+...foal schizophrenia...
+0 ->o 2: waive sashimi
+@enduml

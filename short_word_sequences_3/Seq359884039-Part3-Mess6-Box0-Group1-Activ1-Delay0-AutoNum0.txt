@@ -1,0 +1,15 @@
+@startuml
+participant "yuppie transformation" as 0
+participant "sade preview" as 1
+participant "hitch acrobat" as 2
+== peeps slugged ==
+alt array intervening
+1 ->> 1++ : awkward explosives
+2 --//o 0: feverish kidnap
+end
+2 -// 2: accomplishment madman
+1 -// 2: mails murdering
+return grossed symbolism
+0 --> 0: mess verification
+1 -> 0: gestation deposit
+@enduml

@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:crater prominent;
+split again
+-[hidden]->
+if (moloch stories?) then (spilling tape)
+:side cheerleading;
+kill
+else (boiling baggy)
+:blowup phobic;
+endif
+split again
+-[hidden]->
+:steamroller exponential; <<input>>
+-> babysitters reeves;
+split again
+-[hidden]->
+if (vagina wrath?) then (flue sweatshirt)
+:entitle tiresome;
+:shreds unhealthy; <<procedure>>
+else (sparrow bracelet)
+:stereotype kindergarten; <<load>>
+-> ration pants;
+:wok everywhere;
+-> frightened guiding;
+:malt spleen; <<input>>
+endif
+end split
+group briefs scrambled
+:wanton profitable; <<input>>
+stop
+end group
+@enduml

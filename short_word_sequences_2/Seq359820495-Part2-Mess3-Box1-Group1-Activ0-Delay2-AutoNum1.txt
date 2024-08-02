@@ -1,0 +1,14 @@
+@startuml
+box "rainy dings"
+participant "rides remission" as 0
+participant "pitied nature" as 1
+end box
+autonumber 2 8
+1 <-> 0: chronic prude
+critical emission sucked
+...acne pellets...
+0 -> 1: releasing humanoid
+...sporting revered...
+1 -\\ 0: execute painkiller
+end
+@enduml

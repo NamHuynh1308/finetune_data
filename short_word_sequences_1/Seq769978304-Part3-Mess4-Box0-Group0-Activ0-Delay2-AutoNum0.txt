@@ -1,0 +1,11 @@
+@startuml
+participant "calculators sings" as 0
+participant "backstabbing brushing" as 1
+participant "simplicity hardens" as 2
+2 <-] : druggist stub
+1 -> 2: insertion lace
+...rehearsed marking...
+ [-> 1: hubris winter
+...lovable positives...
+ [<- 1: banners hunters
+@enduml

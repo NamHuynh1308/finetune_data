@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:flurries courage;
+split again
+-[hidden]->
+:alma speech; <<save>>
+-> brumby minion;
+split again
+-[hidden]->
+:personal sipped;
+while (cots distorted?) is (sacrament inflame)
+switch (froze charitable?)
+case (hamlet sheep?)
+:relish shuck; <<load>>
+-> ruffles straining;
+case (scolded bathtub?)
+:drab promoting;
+case (smells efficiently?)
+:dumped someway;
+case (lob pining?)
+:distorted poke;
+while (sugarplum impeccable?) is (outside colonial)
+:thrilling sew; <<save>>
+:activators imposing;
+:lit sutra; <<save>>
+-> manhood menagerie;
+endwhile (whats spending)
+-[hidden]->
+detach
+endswitch
+endwhile (soaking resentment)
+-[hidden]->
+detach
+end split
+group undergarment torment
+:distraught yuletide; <<procedure>>
+stop
+end group
+@enduml

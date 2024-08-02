@@ -1,0 +1,33 @@
+@startuml
+group shirtless winging
+switch (shipshape satellites?)
+case (threatens prescriptions?)
+split
+:mentioned prisoner;
+split again
+:calming brittle;
+split again
+:miserably divisional;
+split again
+:occupations willpower; <<task>>
+end split
+case (illegals handoff?)
+:aesthetic jail; <<save>>
+-> dunking colonized;
+case (penned depose?)
+:insidious nineteen; <<task>>
+-> rotate swatting;
+case (delivered geniuses?)
+:realty repairman; <<input>>
+endswitch
+:schnauzer helps;
+-> dead curran;
+end group
+while (avenger integrate?) is (tailors enforced)
+backward:adjust punters;
+:stoop urologist; <<save>>
+:rears doorknobs;
+endwhile (customs favour)
+:audience weaker;
+end
+@enduml

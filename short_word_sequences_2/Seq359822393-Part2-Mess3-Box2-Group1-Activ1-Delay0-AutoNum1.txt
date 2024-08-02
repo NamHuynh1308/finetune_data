@@ -1,0 +1,17 @@
+@startuml
+box "hitch instructors"
+participant "arbitrator spotlight" as 0
+box "paved matron"
+participant "newborns purse" as 1
+end box
+end box
+autonumber 5 2
+loop drawing influence
+0 -> 0++ : comedian kicky
+1 -> 0!! : survives contrived
+autonumber stop
+0 -> 1!! : overcame dermatologist
+else cornflakes chalk
+end
+return chewing salina
+@enduml

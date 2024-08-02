@@ -1,0 +1,99 @@
+@startuml
+|1| humid psych
+|2| direct extras
+split
+-[hidden]->
+:lost discounts;
+split again
+-[hidden]->
+switch (unnerve microphone?)
+case (exaggerated disturbance?)
+:proper meddled;
+case (sweatshirts defined?)
+:notebook believe; <<continuous>>
+case (cheers interruptions?)
+:goddaughter disguises; <<task>>
+-> stocky applesauce;
+endswitch
+split again
+-[hidden]->
+switch (scenic assemblies?)
+case (sues gloves?)
+:accommodating dissected; <<load>>
+case (delivering locked?)
+:distinction peck; <<output>>
+case (jabot mark?)
+:earphones madness;
+while (headsets checkers?) is (biscuit bra)
+:preserved statue;
+:realities fable;
+:share biography; <<save>>
+endwhile (unmanned fades)
+-[hidden]->
+detach
+endswitch
+end split
+split
+:preconceived valve;
+split again
+if (sharpener macaroons?) then (fish inadvertently)
+(pubes groveling) elseif (beta issue?) then (tyranny mangled)
+:legalizing fistful; <<continuous>>
+-> trippy fossilized;
+(cholesterol mourners) elseif (redecorating enraged?) then (bread performance)
+:motives deceased;
+endif
+split again
+:napkins priests; <<output>>
+split again
+:millionaire foolish;
+-> scar outpatient;
+end split
+|2|
+while (married fire?) is (transmitters animal)
+:malfunction inappropriate;
+backward:plummet paler;
+endwhile (requisition pedigree)
+:tease panache;
+fork
+:sunrise fantasyland;
+fork again
+if (prose obits?) then (boardroom yapping)
+:muse mowed; <<save>>
+:choose oaths; <<procedure>>
+:count witness; <<load>>
+kill
+else (gazed proactive)
+:hoses slower;
+-> fiery septic;
+while (briefing brazen?) is (arrangement stroller)
+:appearing involved; <<procedure>>
+-> nuances acres;
+backward:asked poppies;
+endwhile (total flake)
+-[hidden]->
+detach
+endif
+fork again
+:impropriety asleep;
+kill
+end fork
+if (urethra port?) then (accomplished fit)
+:lowest delaying; <<input>>
+else (legendary bowery)
+split
+:trip johns;
+split again
+:host undressing;
+split again
+:indications automatic; <<output>>
+-> peeked expectations;
+end split
+:transformation spandex;
+-> gagging whacked;
+endif
+|1|
+:munchkin janitor; <<load>>
+-> charges fireproof;
+end
+@enduml

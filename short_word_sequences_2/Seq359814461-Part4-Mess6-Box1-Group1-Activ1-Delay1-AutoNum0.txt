@@ -1,0 +1,18 @@
+@startuml
+box "skittles talkie"
+participant "arugula waxing" as 0
+participant "gooney ballerina" as 1
+end box
+participant "feasible highball" as 2
+participant "chaperone counting" as 3
+2 ->o 3: kane zombie
+2 <-> 2: extraordinaire shatter
+1 ->> 3: chimney laptops
+1 -> 1: unscrupulous workers
+0 -// 1: goners testing
+alt specialise was
+...wracking thrusters...
+3 -> 1++ : leeway roadblock
+end
+return vaccine thirteen
+@enduml

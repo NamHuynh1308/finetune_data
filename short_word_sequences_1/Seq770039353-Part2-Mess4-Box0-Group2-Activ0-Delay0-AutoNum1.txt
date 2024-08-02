@@ -1,0 +1,15 @@
+@startuml
+participant "delightfully fades" as 0
+== guerrilla congressional ==
+autonumber 3 0
+create participant "expect crunchy" as 1
+0 -> 1 : expect crunchy
+break militants proud
+0 -> 0: sly blight
+autonumber stop
+alt unclear much
+0 <-> 0: recovering turnips
+1 ->] : bash desktop
+end
+end
+@enduml

@@ -1,0 +1,42 @@
+@startuml
+start
+group missed mineral
+if (hallowed piggy?) then (protectors quince)
+(patties bullies) elseif (critter penal?) then (pork sent)
+:number endorsements;
+(jasmine scalper) elseif (sprouting guerilla?) then (nuggets bookie)
+if (bony honor?) then (lag imprisonment)
+(adverse honk) elseif (sterner jungles?) then (precludes crisps)
+:sabin bunking; <<output>>
+(rookie hepatitis) elseif (dabbled cutters?) then (jolly friendships)
+:swede bodyguard;
+endif
+endif
+if (institutions angst?) then (snarling freeway)
+:outset rainier; <<input>>
+else (scrape un)
+switch (mayors apostrophe?)
+case (moves massacre?)
+:flirtatious milligrams;
+case (departments pieces?)
+:witnesses detente;
+-> distribute develop;
+case (erases correspond?)
+:oral clinic;
+endswitch
+:eyelash saki;
+-> antibiotic eyeball;
+endif
+end group
+repeat
+:indie equality; <<input>>
+fork
+:strides burying;
+fork again
+:genealogy bouquet;
+fork again
+:bootleg smorgasbord;
+end fork
+repeat while (droves cornered?) is (testing subpoenas)
+stop
+@enduml

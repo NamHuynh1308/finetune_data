@@ -1,0 +1,14 @@
+@startuml
+participant "fearing knives" as 0
+box "surprisingly vivacious"
+participant "sampling alcazar" as 1
+participant "worshipping charismatic" as 2
+end box
+autonumber 4 7
+2 ->x 1: foreman steamroller
+autonumber stop
+1 --//o 1: obscenities fashioned
+0 -> 0++ : whittling examination
+autonumber resume
+return wormed administered
+@enduml

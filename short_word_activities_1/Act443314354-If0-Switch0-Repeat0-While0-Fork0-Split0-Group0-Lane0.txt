@@ -1,0 +1,6 @@
+@startuml
+:shaw scrounging;
+:dozing charts; <<output>>
+-> enchantment dung;
+stop
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "resilient pyramid" as 0
+participant "hammer dumping" as 1
+participant "reacts dreamy" as 2
+participant "horrible tape" as 3
+participant "landscaping rowboat" as 4
+== tailors congregation ==
+autonumber 6 1
+1 --//o 1: audition thrust
+autonumber stop
+create participant "industrious cannibal" as 5
+0 -> 5 : industrious cannibal
+0 --//o 4: launder proposed
+autonumber resume
+0 ->] : vitamin enjoying
+2 -\\ 1: midnight consultant
+@enduml

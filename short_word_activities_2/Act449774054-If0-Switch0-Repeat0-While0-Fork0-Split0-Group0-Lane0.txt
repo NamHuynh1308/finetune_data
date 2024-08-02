@@ -1,0 +1,6 @@
+@startuml
+start
+:parakeet wahoo;
+-> chatting bacterial;
+:trifled plankton; <<load>>
+@enduml

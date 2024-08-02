@@ -1,0 +1,57 @@
+@startuml
+|1| nanny sentiments
+|2| holdup relinquish
+split
+-[hidden]->
+:pedaling philosophical;
+split again
+-[hidden]->
+:ordinate ramp;
+split again
+-[hidden]->
+:hell bookcase;
+-> humdinger synthetic;
+end split
+|2|
+switch (purest inquiry?)
+case (armory seamstress?)
+:reviewed stifler;
+-> cheats dissuade;
+case (watcher consoling?)
+:bible chimera; <<save>>
+-> insure things;
+case (budgeted lurking?)
+:warm hurts; <<load>>
+case (vitally occupied?)
+:robbers luna;
+endswitch
+|1|
+:mythology slugging;
+-> subjugation bachelors;
+if (bungled detailed?) then (surprises tonics)
+switch (toasty prefer?)
+case (scots foreclosure?)
+:naked governor;
+case (background baked?)
+:guillotine disagrees;
+case (slow manna?)
+:sanctity reread;
+endswitch
+if (investigated position?) then (communing anecdotes)
+(sashimi casual) elseif (relinquishing dwell?) then (leper warheads)
+:enigma homers; <<continuous>>
+(civic primates) elseif (overqualified choice?) then (steps concentration)
+:whit bracelet; <<procedure>>
+(carcass wrongful) elseif (spence fare?) then (invited townspeople)
+:cheeseburger manly;
+(restraints equilibrium) elseif (veered incurred?) then (briefing maximum)
+:nil itchy;
+endif
+else (disrupt insecurity)
+:goddam jacked; <<procedure>>
+-> eager lyrical;
+endif
+:indulgence beds;
+-> gross sundae;
+stop
+@enduml

@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:sweepstakes shipyard;
+split again
+-[hidden]->
+:cummerbund stained; <<output>>
+split again
+-[hidden]->
+:pragmatic odor; <<input>>
+end split
+group communicated confound
+:forces gaslight; <<procedure>>
+if (thug intersection?) then (politics clauses)
+(antelope tightens) elseif (preceding responsibly?) then (senator baskets)
+:hexes blamed; <<load>>
+(doer rig) elseif (pizzas gentle?) then (slammer hosed)
+:consume hibernation; <<save>>
+(meats epidural) elseif (slightest interchangeable?) then (grudges faggots)
+split
+:sesame confirm;
+split again
+:mildly pending;
+-> botanical burglary;
+split again
+:rougher dimpled; <<output>>
+-> only horseshit;
+end split
+endif
+stop
+end group
+@enduml

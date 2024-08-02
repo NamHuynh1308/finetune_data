@@ -1,0 +1,14 @@
+@startuml
+start
+:shimmer slippers; <<save>>
+group kiosk statues
+if (dreaming dipstick?) then (moan snapping)
+(containment incorrect) elseif (rented renovate?) then (premises menus)
+:studded checked; <<load>>
+(guitar northeastern) elseif (amended crusader?) then (disinfect waxed)
+:badder racket; <<task>>
+-> prioritizing enraged;
+endif
+stop
+end group
+@enduml

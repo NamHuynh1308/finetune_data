@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:gums implicates;
+split again
+-[hidden]->
+:forego internist; <<task>>
+-> internship bigfoot;
+split again
+-[hidden]->
+:irritation bialy;
+-> myths sickness;
+split again
+-[hidden]->
+:reassuring triumphed; <<save>>
+end split
+:gravely flavour;
+-> households instigated;
+:dried supremely;
+:cops allergy; <<load>>
+end
+@enduml

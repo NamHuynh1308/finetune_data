@@ -1,0 +1,8 @@
+@startuml
+participant "hung leeway" as 0
+== slipped griffins ==
+0 <-] : kris frustrates
+par nub unusual
+0 -> 0: outbreak yelling
+end
+@enduml

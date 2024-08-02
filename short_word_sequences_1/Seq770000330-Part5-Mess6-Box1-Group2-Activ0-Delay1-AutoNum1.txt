@@ -1,0 +1,22 @@
+@startuml
+participant "aloha spills" as 0
+box "servicing galoshes"
+participant "rejecting angle" as 1
+participant "idiocy log" as 2
+participant "expectancy pregnancy" as 3
+end box
+autonumber 9 3
+ [<- 0: pageant starve
+opt whistle enticed
+0 <-> 3: sunless hansom
+loop clunk melon
+create participant "penguin buried" as 4
+3 -> 4 : penguin buried
+...burritos empire...
+0 -> 3: preference pads
+3 ->] : basically cleaners
+autonumber stop
+4 ->x 3: tree impacted
+end
+end
+@enduml

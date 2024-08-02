@@ -1,0 +1,19 @@
+@startuml
+participant "soaring icons" as 0
+participant "ample blower" as 1
+participant "swear miniscule" as 2
+participant "consolidated exceeded" as 3
+participant "hubbub hallowed" as 4
+== shorthand twain ==
+autonumber 3 1
+3 ->x 3++ : suffocation gong
+1 --//o 3: metropolitan hankie
+autonumber stop
+2 <-] : breather demur
+0 -// 2++ : conversational roger
+4 ->o 4: pensioners placate
+autonumber resume
+3 -> 0!! : antagonizing finessed
+return defenses footstool
+return bleed overpaid
+@enduml

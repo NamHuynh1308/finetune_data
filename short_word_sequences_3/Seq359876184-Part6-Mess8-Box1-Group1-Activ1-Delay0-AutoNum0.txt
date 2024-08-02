@@ -1,0 +1,21 @@
+@startuml
+participant "down airmen" as 0
+participant "squabble pledges" as 1
+box "illegally doggy"
+participant "understandable tiff" as 2
+participant "pigskin imam" as 3
+end box
+3 ->o 0: incorporate witless
+ [<- 0: aisles through
+create participant "assembled glamour" as 4
+1 -> 4 : assembled glamour
+2 -// 0: mediator shortsighted
+0 -\\ 3++ : disapproving defensive
+3 ->x 2: refusing variant
+2 ->x 0: covers restricted
+return barges permits
+par pressuring incorrectly
+create participant "coaxing bankrupt" as 5
+2 -> 5 : coaxing bankrupt
+end
+@enduml

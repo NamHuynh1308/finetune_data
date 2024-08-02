@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:solved downing;
+split again
+-[hidden]->
+split
+:objects dimension;
+split again
+:polar abortions;
+split again
+:discus derail;
+end split
+split again
+-[hidden]->
+:uncomfortable pound; <<output>>
+-> entirety malaria;
+end split
+group parsons stump
+:politician cupcake; <<procedure>>
+-> internationally restless;
+stop
+end group
+@enduml

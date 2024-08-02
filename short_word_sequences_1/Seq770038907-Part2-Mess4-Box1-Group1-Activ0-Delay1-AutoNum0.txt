@@ -1,0 +1,14 @@
+@startuml
+participant "deity bitty" as 0
+box "pavement burn"
+participant "sidewalks peon" as 1
+end box
+== transcripts ethical ==
+1 -> 1: morph intermediate
+alt couple naught
+...blues dreamer...
+0 ->] : merry tardiness
+0 -> 1: crumpled schoolboy
+1 -// 1: enforce naming
+end
+@enduml

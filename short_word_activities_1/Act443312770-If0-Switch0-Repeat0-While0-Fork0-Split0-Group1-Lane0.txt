@@ -1,0 +1,7 @@
+@startuml
+group sighing childhoods
+:random marshmallows; <<continuous>>
+-> lurch defaced;
+stop
+end group
+@enduml

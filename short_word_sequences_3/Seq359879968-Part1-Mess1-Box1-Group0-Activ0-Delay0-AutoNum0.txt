@@ -1,0 +1,7 @@
+@startuml
+box "mangos agrees"
+participant "pity pep" as 0
+end box
+== frostbite limos ==
+0 -> 0!! : liquidate experimenting
+@enduml

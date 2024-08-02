@@ -1,0 +1,27 @@
+@startuml
+participant "tracks croon" as 0
+box "majesty ketch"
+participant "salinas stubborn" as 1
+participant "unfaithful elephants" as 2
+box "fronting outlaw"
+participant "distinctive somber" as 3
+participant "benjamins arm" as 4
+end box
+end box
+autonumber 8 9
+2 ->> 1++ : ankle biohazard
+...bourbon newcomer...
+4 -->x 0: towel aquatic
+par molds wrecks
+...slice answers...
+0 ->] : incurred cloud
+1 ->x 0++ : prioritizing goiter
+...wraps sinful...
+ [-> 1: humiliates schnoz
+return foresaw echoes
+autonumber stop
+2 -> 0++ : swindled distances
+end
+return pittance freedman
+return web travesty
+@enduml

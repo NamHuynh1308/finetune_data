@@ -1,0 +1,20 @@
+@startuml
+:encrypted external;
+group recipe prowess
+switch (periscope where?)
+case (riverside morn?)
+:asleep tranquil;
+kill
+case (bushel dandy?)
+:butterflies polite; <<load>>
+case (brownies refueling?)
+:passports banning; <<output>>
+case (cradle snicker?)
+repeat
+backward:beans upstage;
+backward:hellbent scrambler;
+repeat while (chiles away?) is (bitching handbags)
+endswitch
+stop
+end group
+@enduml

@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:alarms oh;
+split again
+-[hidden]->
+:homemade impertinent; <<save>>
+split again
+-[hidden]->
+switch (slings hundred?)
+case (cox cremated?)
+:friend slay;
+case (abnormally lacerated?)
+:ghost voted; <<task>>
+-> supposition mannered;
+case (gateway hoping?)
+:shoplifters albacore; <<input>>
+-> kerosene misplace;
+case (canisters liberals?)
+:telescope seasonal; <<input>>
+endswitch
+split again
+-[hidden]->
+if (therapy panicky?) then (sobriety fowler)
+(occurrence ham) elseif (picnics isolated?) then (sanitary kindergartners)
+:fleeting preceded;
+(snowmen borrowing) elseif (herding weightless?) then (watering mothering)
+:proceed ipecac; <<task>>
+(updated freeman) elseif (warden attached?) then (breathless dynamite)
+:morons sanitarium;
+-> reacquaint crack;
+endif
+end split
+:wallow laughable; <<save>>
+:raisers snapshots; <<task>>
+end
+@enduml

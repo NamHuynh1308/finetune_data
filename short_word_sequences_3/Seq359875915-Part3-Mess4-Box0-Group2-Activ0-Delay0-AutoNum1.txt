@@ -1,0 +1,15 @@
+@startuml
+participant "pimples fussing" as 0
+participant "wised plan" as 1
+participant "expires dramas" as 2
+== harpies scratchy ==
+autonumber 7 7
+0 -> 0: cribbage tet
+1 ->o 2: blotto aspirins
+par pirates behave
+1 <-] : commented evicted
+alt groove mate
+1 --//o 2: blackouts diffusion
+end
+end
+@enduml

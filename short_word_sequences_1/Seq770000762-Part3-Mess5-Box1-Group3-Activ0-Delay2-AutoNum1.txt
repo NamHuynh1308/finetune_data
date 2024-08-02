@@ -1,0 +1,23 @@
+@startuml
+participant "requisition manufacturer" as 0
+box "mad hearts"
+participant "vaporized bloodshot" as 1
+end box
+autonumber 8 7
+create participant "betting zoom" as 2
+0 -> 2 : betting zoom
+autonumber stop
+critical pointe aces
+1 <-] : tended murdering
+1 ->x 0: fight ravage
+autonumber resume
+loop sunless burping
+...upgrades freighter...
+2 --//o 2: corporal grinning
+par harassment import
+...it anywhere...
+ [<- 2: rookies colleagues
+end
+end
+end
+@enduml

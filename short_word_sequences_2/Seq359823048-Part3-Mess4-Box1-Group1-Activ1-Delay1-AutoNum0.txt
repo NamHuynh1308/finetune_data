@@ -1,0 +1,17 @@
+@startuml
+box "unemployment decks"
+participant "dynamic credible" as 0
+end box
+== grievance slaughtering ==
+create participant "shelve confetti" as 1
+0 -> 1 : shelve confetti
+0 --//o 0: organizer prairie
+par heavier persuasion
+...swam twist...
+0 -> 1++ : ham dedicated
+create participant "hives dilettante" as 2
+1 -> 2 : hives dilettante
+return hereditary revoke
+else bridges benny
+end
+@enduml

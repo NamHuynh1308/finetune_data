@@ -1,0 +1,22 @@
+@startuml
+|1| prepared claustrophobic
+|2| composure grungy
+split
+-[hidden]->
+:comeuppance pram;
+split again
+-[hidden]->
+:holster heft;
+split again
+-[hidden]->
+:ailment address;
+end split
+:hassle intravenously; <<save>>
+-> coroner lunches;
+|2|
+:spreadsheet allowing;
+|1|
+:slowly omelettes; <<task>>
+|2|
+:huckleberry rancher; <<task>>
+@enduml

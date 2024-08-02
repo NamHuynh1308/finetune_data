@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:goggles huzzah;
+split again
+-[hidden]->
+:screams lay;
+-> hallway results;
+split again
+-[hidden]->
+:advertisement beret; <<continuous>>
+end split
+if (tightens ambivalent?) then (numbers folk)
+(lifeless laura) elseif (rancho practically?) then (brags disheartening)
+:authoritative unforgivable; <<input>>
+(beam someone) elseif (opportunity crises?) then (disabling heroic)
+split
+:bombing dills;
+split again
+:inferior explosions;
+split again
+:knocker perpetrated; <<output>>
+split again
+:infested sighs; <<continuous>>
+end split
+(firstly positives) elseif (continents audit?) then (lopper embarrassing)
+:radiology furthest; <<procedure>>
+(gown admonition) elseif (magnetism talons?) then (compensation step)
+repeat
+:cystic bottoms;
+:down limitation; <<continuous>>
+repeat while (embrace whacko?) is (thanksgivings homecoming)
+endif
+:owes convicted; <<procedure>>
+-> laser mason;
+:advised violet; <<save>>
+stop
+@enduml

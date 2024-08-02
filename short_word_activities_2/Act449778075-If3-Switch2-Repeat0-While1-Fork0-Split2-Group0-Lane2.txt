@@ -1,0 +1,74 @@
+@startuml
+|1| madonna practicality
+|2| nerve snuggled
+split
+-[hidden]->
+:notches demure;
+split again
+-[hidden]->
+switch (meters volumes?)
+case (forties glands?)
+:fatso olfactory;
+case (dale shaves?)
+:driven babu;
+-> sidewinder control;
+endswitch
+split again
+-[hidden]->
+if (violently handing?) then (comfy armies)
+(marvelous residents) elseif (stealth freshest?) then (scheduled nor)
+:heard priss;
+(geometric strikes) elseif (illustrious earpiece?) then (fairgrounds specimen)
+:bay distributors; <<task>>
+-> buttering whistles;
+endif
+end split
+|2|
+:sightings cropped;
+-> charity speedway;
+:stupidity temple; <<procedure>>
+-> whose passenger;
+:sissies mercy; <<continuous>>
+-> granddaddy eerie;
+|1|
+switch (diazepam mishandled?)
+case (dregs roasting?)
+if (elks contained?) then (boners plucked)
+(pursuing footprints) elseif (coin evaporate?) then (aimed hauls)
+:incite healers;
+(oversight lasting) elseif (seldom venues?) then (butchered perfumed)
+:parchment gastric; <<continuous>>
+-> mafia gratitude;
+(rents fad) elseif (bravely hut?) then (offending token)
+:biographical direct; <<input>>
+endif
+case (disdain flora?)
+split
+:run heller;
+split again
+:unconscionable generic;
+split again
+:serene chow;
+-> exited stressful;
+split again
+:stopwatch shingle;
+end split
+case (protection stands?)
+if (suggestive positive?) then (urinary reserving)
+:heartbeat alienating; <<output>>
+-> arugula follows;
+else (trolling bottomless)
+:gunpowder hoodwinked;
+:vandalized hubbub; <<task>>
+-> riddler cobb;
+:hoodwinked observatory;
+while (defies disallowed?) is (cartoonist amiable)
+:jailbird psychotherapy;
+:spectrum dell; <<save>>
+endwhile (definitions quest)
+-[hidden]->
+detach
+endif
+endswitch
+stop
+@enduml

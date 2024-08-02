@@ -1,0 +1,8 @@
+@startuml
+start
+group measures whipped
+:enigma regent; <<continuous>>
+-> finished dismissal;
+stop
+end group
+@enduml

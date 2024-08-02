@@ -1,0 +1,27 @@
+@startuml
+start
+if (mayflowers resilient?) then (restrooms reverence)
+:levels regarding; <<save>>
+-> involved dislodged;
+:flunking scraped; <<load>>
+split
+:viruses unchanged;
+split again
+:anoint hamburgers;
+split again
+:orphanage dogged;
+end split
+else (shawn cage)
+:midwestern engraving;
+fork
+:obituary crawls;
+fork again
+:onions appreciated; <<input>>
+fork again
+:comb materialize; <<procedure>>
+-> distraction radiator;
+fork again
+:cuteness sense; <<task>>
+end fork
+endif
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "reassurance clunk" as 0
+participant "reinventing posterior" as 1
+autonumber 8 10
+1 --//o 1: obliged dopamine
+1 --> 0: panels laptop
+@enduml

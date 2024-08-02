@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:definition nude;
+split again
+-[hidden]->
+:coursing visitors; <<save>>
+-> stillness residences;
+split again
+-[hidden]->
+:yawn hated; <<continuous>>
+split again
+-[hidden]->
+:counselors incentive; <<task>>
+-> rekindle sundown;
+end split
+group deftly considerable
+fork
+:abilities vacant;
+fork again
+:bambino arbitration; <<task>>
+-> occurs anemia;
+fork again
+:rule neurosis;
+end merge
+:limber jailbird; <<save>>
+group reps cacophony
+split
+:beneath outlook;
+split again
+:liars cheeks; <<task>>
+split again
+:restricted numbers; <<load>>
+end split
+stop
+end group
+end group
+@enduml

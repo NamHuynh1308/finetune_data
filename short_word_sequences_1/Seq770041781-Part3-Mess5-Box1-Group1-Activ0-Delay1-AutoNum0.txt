@@ -1,0 +1,15 @@
+@startuml
+box "singing contrived"
+participant "everyday skewer" as 0
+participant "disclose defied" as 1
+end box
+participant "upheaval courageous" as 2
+ [<- 0: sharpshooters carnie
+1 ->> 1: hooters sot
+...negotiations moans...
+2 -\\ 1: fuckers kites
+2 -> 1: pun children
+alt unauthorized rulers
+1 -\\ 1: flossing redress
+end
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "racquetball detected" as 0
+== towards yesterday ==
+autonumber 1 2
+0 <-> 0: byline towards
+ [<- 0: siege flak
+autonumber stop
+@enduml

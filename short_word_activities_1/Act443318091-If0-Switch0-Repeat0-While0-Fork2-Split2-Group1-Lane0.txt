@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:gasket conserve;
+split again
+-[hidden]->
+:lactose sanded; <<procedure>>
+split again
+-[hidden]->
+split
+:bangles stewardess;
+split again
+:hospitalized dare; <<procedure>>
+split again
+:ivory woozy;
+end split
+split again
+-[hidden]->
+:repercussions wiggy;
+-> fragrance calling;
+end split
+group ecosystem something
+:rematch aluminum; <<input>>
+-> lingering kismet;
+fork
+:haunting insistent;
+fork again
+fork
+:deep countrymen;
+fork again
+:reopening technicians;
+fork again
+:behaving meetings;
+end fork
+fork again
+:discouraged cutbacks; <<load>>
+end fork
+end group
+@enduml

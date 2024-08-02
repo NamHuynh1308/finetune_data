@@ -1,0 +1,16 @@
+@startuml
+start
+fork
+:fairest sessions;
+fork again
+:preservation immediately;
+-> femmes pharmacy;
+fork again
+:foxholes sneaks;
+-> copilot catchers;
+fork again
+:therapist homebody; <<save>>
+-> heist dishonest;
+end fork
+end
+@enduml

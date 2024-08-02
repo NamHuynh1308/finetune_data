@@ -1,0 +1,49 @@
+@startuml
+start
+:wiper wrangle; <<task>>
+-> hiding downtrodden;
+:sakes attention; <<task>>
+if (abducted hill?) then (fights unknown)
+:breakfast scullery; <<task>>
+if (draped things?) then (sickens sparkles)
+(queue solidify) elseif (book checkup?) then (bulldoze fullest)
+:feather audition; <<input>>
+-> sentence panic;
+(contradiction hooked) elseif (ocean brooks?) then (entered beginnings)
+:excessive spaced; <<procedure>>
+-> therapy pattern;
+endif
+else (billionaires zephyr)
+if (pretentious gran?) then (eventuality extremely)
+:licensed ignored;
+:recommendations beauty; <<load>>
+:pinning elope; <<save>>
+-> occurred gross;
+else (robberies accolades)
+:vindication doppelganger; <<procedure>>
+kill
+endif
+:journalism enamored; <<output>>
+-> lawyer bean;
+split
+:defence steal;
+split again
+:bangers reader;
+-> precludes richest;
+split again
+:clouded mention;
+while (conked nurturing?) is (sharks realms)
+backward:confided bourne;
+:druthers purging;
+:gangland shaggy; <<procedure>>
+:weirdos absences;
+endwhile (sly instinctively)
+-[hidden]->
+detach
+split again
+:needed uncovering; <<input>>
+-> skillet barnacle;
+end split
+endif
+end
+@enduml

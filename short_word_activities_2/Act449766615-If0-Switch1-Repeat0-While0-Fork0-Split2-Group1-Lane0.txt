@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:delve feign;
+split again
+-[hidden]->
+switch (stairs pilgrim?)
+case (quixote sausages?)
+:management freeing;
+case (zap praetorians?)
+:buckled sharpshooters;
+endswitch
+split again
+-[hidden]->
+:quitting protect; <<continuous>>
+end split
+group specs lark
+:intimated boss; <<input>>
+split
+:snoop opus;
+split again
+:swilling enthralled;
+-> madre hinted;
+split again
+:blends snatcher; <<continuous>>
+end split
+end group
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "number enable" as 0
+participant "hatchet satisfy" as 1
+participant "resourceful cutoff" as 2
+autonumber 1 1
+0 ->> 0: piddles cake
+autonumber stop
+0 ->x 2: voted cosmology
+autonumber resume
+par roomy shawl
+create participant "newt readers" as 3
+0 -> 3 : newt readers
+end
+@enduml

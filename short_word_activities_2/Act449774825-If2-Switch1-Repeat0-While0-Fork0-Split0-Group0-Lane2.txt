@@ -1,0 +1,43 @@
+@startuml
+|1| brunette spent
+|2| dangerous charlatan
+|1|
+start
+:escorted goodness;
+|2|
+:intros kirk; <<procedure>>
+-> newton audible;
+|1|
+if (giving locate?) then (hissing undone)
+:lifted preoccupied; <<input>>
+-> urging upkeep;
+:unit businesswomen; <<load>>
+-> emblem graduates;
+:teriyaki vivacious; <<continuous>>
+else (responding psychopathic)
+:mating concede; <<output>>
+-> impressed hunters;
+:hemisphere nacho;
+switch (fed suburb?)
+case (witchy unclaimed?)
+:bonds driveway; <<input>>
+-> baubles stub;
+case (recon slew?)
+:repossess awake; <<procedure>>
+case (gravy situation?)
+:twits dandelions; <<output>>
+-> patrolman hoof;
+endswitch
+kill
+endif
+|2|
+if (icebox paddling?) then (struts divine)
+(terror upped) elseif (hoop matchmaker?) then (illegible figuring)
+:throne wet; <<load>>
+-> blight wishing;
+(praise diligent) elseif (cafe imaginary?) then (shadow enrolling)
+:baker condemnation; <<output>>
+-> drips liaison;
+endif
+stop
+@enduml

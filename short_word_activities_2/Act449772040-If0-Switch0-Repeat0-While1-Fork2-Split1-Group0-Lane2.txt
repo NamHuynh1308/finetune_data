@@ -1,0 +1,43 @@
+@startuml
+|1| deputized students
+|2| brad quiche
+split
+-[hidden]->
+:womanizer tracer;
+split again
+-[hidden]->
+:accessing canteen; <<input>>
+split again
+-[hidden]->
+:confederate extension;
+end split
+|2|
+:opposable thataway; <<procedure>>
+fork
+:nines routines;
+fork again
+:muzzle ports; <<continuous>>
+fork again
+:patriarch lo; <<procedure>>
+-> fluids jean;
+fork again
+:previously apricot; <<output>>
+-> absences slot;
+end merge
+fork
+:style salads;
+fork again
+:shut faggot; <<load>>
+fork again
+while (renovations amiss?) is (homeless wrinkly)
+:transferred femmes;
+:significantly earrings;
+:peon advantageous; <<load>>
+endwhile (competitors mate)
+:cases specializing;
+fork again
+:coconuts vogue; <<continuous>>
+-> scare slightest;
+end merge
+end
+@enduml

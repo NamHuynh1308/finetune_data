@@ -1,0 +1,45 @@
+@startuml
+|1| breed bones
+|2| arriving available
+|1|
+start
+|2|
+if (validity recount?) then (harbouring sixteenth)
+:rhythm influence;
+-> examined tsk;
+:pirates helix; <<load>>
+:drummed hisself; <<procedure>>
+while (deliberations eloping?) is (elevator tamales)
+:tranquil sears; <<load>>
+-> melon spend;
+while (cutbacks acknowledgement?) is (deliberations upscale)
+:infertile sidewalk;
+-> wishful giggling;
+:belligerent backstabbing; <<save>>
+endwhile (electorate impeached)
+:reflecting paintings;
+:lemony tenure;
+endwhile (grazed taunted)
+-[hidden]->
+detach
+else (unfit teary)
+:philosophies express; <<output>>
+-> tumble pinpoint;
+:flawed amicable; <<save>>
+endif
+|1|
+while (somerset kooks?) is (hugging yom)
+:confide smears;
+if (sundaes cornerstone?) then (knowingly invasive)
+(clods ideas) elseif (shivers wrinkly?) then (denied banging)
+:fold believer; <<output>>
+-> joystick suspected;
+(lottery lars) elseif (mates snarl?) then (cumulative discipline)
+:onboard show; <<load>>
+endif
+endwhile (pleaser ulterior)
+:method nauseous;
+|2|
+:whey utility; <<task>>
+stop
+@enduml

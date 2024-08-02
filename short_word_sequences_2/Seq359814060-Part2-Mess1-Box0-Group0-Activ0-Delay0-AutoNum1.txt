@@ -1,0 +1,6 @@
+@startuml
+participant "sopranos zit" as 0
+autonumber 2 2
+create participant "manicures sniffed" as 1
+0 -> 1 : manicures sniffed
+@enduml

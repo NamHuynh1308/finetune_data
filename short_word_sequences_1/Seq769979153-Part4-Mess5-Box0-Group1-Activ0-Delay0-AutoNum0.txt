@@ -1,0 +1,14 @@
+@startuml
+participant "bulging hears" as 0
+participant "passer upward" as 1
+participant "packs breach" as 2
+participant "cadet gulf" as 3
+== finalize follicle ==
+ [<- 0: cholesterol airplanes
+ [-> 2: elixir tent
+opt explode extended
+1 <-> 2: leafy objectionable
+3 ->> 2: subterfuge deigned
+3 -> 0: reap wipers
+end
+@enduml

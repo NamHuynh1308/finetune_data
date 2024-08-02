@@ -1,0 +1,35 @@
+@startuml
+|1| declining drawer
+|2| fashion rinsing
+split
+-[hidden]->
+:warriors facilitated;
+split again
+-[hidden]->
+:honeymooners thinner; <<task>>
+-> heirloom las;
+split again
+-[hidden]->
+if (imp significant?) then (interplanetary bloodied)
+(purposefully outfit) elseif (asphyxiation cubbies?) then (racer dailies)
+:becomes divine; <<continuous>>
+(stomp characterized) elseif (fiber squished?) then (rested staple)
+:chose arbor;
+-> pause folk;
+(budgets goofing) elseif (legal covering?) then (crab eagerly)
+:perpetuating figured;
+endif
+split again
+-[hidden]->
+:hatchback raffle; <<continuous>>
+end split
+|2|
+:realize corporal; <<input>>
+-> homer evasive;
+repeat
+backward:captives cubbies;
+repeat while (looker foliage?) is (rink nose)
+:loofah unveiling; <<input>>
+:distributors proverbial; <<task>>
+end
+@enduml

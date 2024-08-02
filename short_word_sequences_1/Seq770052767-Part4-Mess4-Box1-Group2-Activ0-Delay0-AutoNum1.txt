@@ -1,0 +1,21 @@
+@startuml
+box "swirl carvers"
+participant "wreck watermelon" as 0
+participant "geyser priors" as 1
+participant "licker clotting" as 2
+end box
+== sadistic lymphoma ==
+autonumber 9 10
+alt settle meats
+2 <-> 2: purpose statistical
+2 -> 1: neurosurgeon masseur
+else punctuation discourse
+opt excellency bathing
+create participant "won petal" as 3
+2 -> 3 : won petal
+2 --> 0: diluted emphatic
+autonumber stop
+else pile kent
+end
+end
+@enduml

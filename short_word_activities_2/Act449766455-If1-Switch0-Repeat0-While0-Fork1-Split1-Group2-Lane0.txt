@@ -1,0 +1,29 @@
+@startuml
+start
+group lop positively
+split
+:haven resignation;
+split again
+if (exhibit suffocated?) then (ramrod made)
+(charge evidence) elseif (reprobate dumping?) then (accomplices afraid)
+:election mannered; <<output>>
+(intermittent bullpen) elseif (romance healed?) then (apricot loot)
+:bordello fearful;
+endif
+split again
+fork
+:enabling soothing;
+fork again
+:reigning photographer;
+fork again
+:precise trident; <<procedure>>
+end merge
+end split
+:floor nevertheless;
+group molars conduct
+:tail kremlin; <<load>>
+-> nut corset;
+stop
+end group
+end group
+@enduml

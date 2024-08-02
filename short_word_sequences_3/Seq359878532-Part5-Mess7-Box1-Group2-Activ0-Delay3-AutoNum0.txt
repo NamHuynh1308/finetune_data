@@ -1,0 +1,24 @@
+@startuml
+box "races hammered"
+participant "mules assembler" as 0
+participant "rounding sharpshooters" as 1
+participant "merl racquet" as 2
+end box
+participant "hesitant courier" as 3
+ [-> 2: bestowed repression
+2 <-] : commerce deviled
+critical own perfecto
+...attempt identities...
+3 -> 3: polish vacancies
+...exporter responding...
+1 ->] : abnormality rays
+else gasp mastermind
+create participant "boorish penis" as 4
+0 -> 4 : boorish penis
+par fees savages
+4 -->x 2: place forcing
+...excommunicated available...
+2 -\\ 1: drift quota
+end
+end
+@enduml

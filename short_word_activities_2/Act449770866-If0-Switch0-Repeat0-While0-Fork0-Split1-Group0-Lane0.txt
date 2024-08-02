@@ -1,0 +1,13 @@
+@startuml
+split
+-[hidden]->
+:ageless deceit;
+split again
+-[hidden]->
+:sugary celibacy; <<save>>
+split again
+-[hidden]->
+:lox succotash; <<output>>
+end split
+:helps hooky; <<input>>
+@enduml

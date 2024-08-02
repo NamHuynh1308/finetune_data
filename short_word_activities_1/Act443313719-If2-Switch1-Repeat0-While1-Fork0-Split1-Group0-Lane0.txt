@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:balances chink;
+split again
+-[hidden]->
+if (opera slaps?) then (hive bargained)
+:winery lager; <<output>>
+-> pearly explaining;
+:jones sic; <<output>>
+:townie assorted;
+kill
+else (boning buckeyes)
+:willies forces; <<load>>
+endif
+split again
+-[hidden]->
+:prance ongoing; <<procedure>>
+end split
+switch (fragile palp?)
+case (immaculate gambling?)
+:jaded serenity; <<load>>
+-> fiercest control;
+case (overkill incite?)
+:chamomile pharmaceutical; <<procedure>>
+case (chomp fifths?)
+if (faltered undergoing?) then (concepts contender)
+(bumble steamed) elseif (sift spic?) then (ampule complexion)
+:clubhouse print;
+(interfering comprised) elseif (dangle according?) then (icon kneeling)
+:intimidating undoubtedly;
+(regularity investigation) elseif (crises neurosurgeon?) then (crocket cocoa)
+:kvjbfs;
+while (intuition dries?) is (twinge sympathize)
+:poking lockers; <<load>>
+-> gauze stare;
+backward:shaves suppress;
+:meridian monthly; <<task>>
+:assessed physique;
+endwhile (fibre yeah)
+-[hidden]->
+detach
+(small ail) elseif (shortcake tourism?) then (kingpin clandestine)
+:digesting impressionable; <<continuous>>
+-> ambitions reset;
+endif
+endswitch
+stop
+@enduml

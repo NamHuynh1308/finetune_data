@@ -1,0 +1,7 @@
+@startuml
+participant "guinea stomachache" as 0
+0 --> 0++ : wages damages
+0 --> 0: asked gangly
+0 -> 0: powers releases
+return echoes irreparable
+@enduml

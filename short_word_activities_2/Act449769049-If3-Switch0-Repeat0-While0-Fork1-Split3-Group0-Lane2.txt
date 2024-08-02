@@ -1,0 +1,65 @@
+@startuml
+|1| indications had
+|2| thrice martyr
+|2|
+if (lighthouse miller?) then (highball honks)
+(speedboat assume) elseif (frank limey?) then (undercover particle)
+:recon experiments; <<task>>
+(observers cystic) elseif (crushes sup?) then (impudence thoughts)
+:accomplishments spell; <<task>>
+endif
+:violated ungrateful;
+|1|
+if (internship category?) then (dotty axle)
+split
+:nub ruthless;
+split again
+:everyday newspaper; <<task>>
+split again
+:sweetheart epinephrine; <<task>>
+end split
+if (stalkers lieutenants?) then (unanimously dispensary)
+(ballpark thighs) elseif (prohibit stupendous?) then (ventures lapse)
+:recognizes hears; <<output>>
+(predisposed dimple) elseif (counselor plates?) then (blurred carbuncle)
+:hairs lifesaver;
+(depends drier) elseif (meadow woolly?) then (para derby)
+:informal balk;
+-> sprained kilometers;
+endif
+kill
+else (wood dyke)
+:higher pea; <<task>>
+-> apparel publication;
+:eyebrow artists; <<continuous>>
+-> pail caritas;
+endif
+|2|
+split
+:jib snoop;
+split again
+:class heavens; <<procedure>>
+split again
+split
+:unclaimed danger;
+split again
+:presses candle;
+split again
+:consults chloride;
+split again
+:appliances blocks;
+end split
+split again
+:jerries outrun; <<save>>
+-> alcoholism donuts;
+end split
+fork
+:cyclops designed;
+fork again
+:compensation boulder; <<output>>
+fork again
+:gimmicks passageways; <<input>>
+-> ninny monsters;
+end merge
+end
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+box "pansy crashing"
+participant "dings smiling" as 0
+participant "hound hedge" as 1
+end box
+autonumber 4 0
+1 -->x 0: gargoyle stalker
+create participant "weekends bossing" as 2
+1 -> 2 : weekends bossing
+...abnormality sorts...
+1 <-> 0: races suggestion
+...recipes doodle...
+1 ->] : irony sycophant
+0 -> 0: impart accelerant
+autonumber stop
+...caviar awarded...
+1 ->> 1: mixing bake
+@enduml

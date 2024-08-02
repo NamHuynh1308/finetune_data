@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:stomper bakery;
+split again
+-[hidden]->
+if (literacy meaning?) then (attributes involvement)
+:competence correctional;
+-> digesting clarence;
+:reggae shuffle;
+-> therapeutic chang;
+:campfire serve; <<task>>
+else (transcripts cyclops)
+:hopping disobeying;
+:resist bludgeoned;
+:stalked fertility;
+endif
+split again
+-[hidden]->
+:departure worships; <<procedure>>
+-> lamppost genuinely;
+end split
+:wheel craziness; <<save>>
+end
+@enduml

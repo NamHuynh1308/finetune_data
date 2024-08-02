@@ -1,0 +1,14 @@
+@startuml
+participant "pineapples electing" as 0
+box "sunshine loot"
+participant "cows eleventh" as 1
+end box
+loop suitcase causing
+0 -> 1++ : planing decoded
+...conjure mayo...
+1 --> 0: patrolling limitless
+return gardening glutton
+1 -> 0++ : memorable pushes
+end
+return drugstore guitarist
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:cures bulky;
+split again
+-[hidden]->
+:heavyweight passports; <<input>>
+split again
+-[hidden]->
+:deluxe millimeter; <<input>>
+-> sizzle ratty;
+end split
+:antisocial blockade; <<output>>
+-> keeper beetle;
+stop
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+start
+group blurry honeymooners
+:rosebud triggers; <<load>>
+fork
+:trinket circumcision;
+fork again
+:disposable footsteps; <<save>>
+fork again
+:livelihood reversed;
+end fork
+end group
+end
+@enduml

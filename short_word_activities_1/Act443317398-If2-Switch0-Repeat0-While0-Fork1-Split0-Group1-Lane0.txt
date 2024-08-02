@@ -1,0 +1,28 @@
+@startuml
+group carnival primate
+:cremation pellet;
+if (builds bleed?) then (aspect wiener)
+(maze crystal) elseif (straightening wand?) then (laundry waterfront)
+:pyjamas abetted; <<output>>
+(stressing sympathy) elseif (dismiss fir?) then (boil clarinet)
+:extinguish eating;
+endif
+end group
+fork
+:loosely defiance;
+fork again
+:occupant sonnets;
+fork again
+if (disassembled hiding?) then (pfft survivors)
+:conceive roof;
+:radiance unsettled; <<output>>
+-> cellar godsend;
+:bells parsley; <<load>>
+else (hocus conflicting)
+:starlet geeky; <<task>>
+endif
+fork again
+:bedspread bruising; <<input>>
+end merge
+stop
+@enduml

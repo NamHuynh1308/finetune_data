@@ -1,0 +1,5 @@
+@startuml
+:crops diaries; <<load>>
+-> quarterbacks exact;
+stop
+@enduml

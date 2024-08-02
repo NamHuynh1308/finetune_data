@@ -1,0 +1,81 @@
+@startuml
+split
+-[hidden]->
+:burgundy middle;
+split again
+-[hidden]->
+switch (ebony often?)
+case (juice dysfunctional?)
+:shredded snuff; <<continuous>>
+case (sleazebag nineties?)
+:integrated um;
+case (bombarded operator?)
+:coached existent; <<output>>
+case (said habits?)
+:unsuspecting robust;
+endswitch
+split again
+-[hidden]->
+:theories ethnic; <<procedure>>
+split again
+-[hidden]->
+:aides slithering;
+end split
+split
+:revamp mainly;
+split again
+:order tinkering;
+split again
+:confronted sees; <<procedure>>
+-> iguana component;
+end split
+:reverts comparable; <<task>>
+-> snowstorm ours;
+if (gateway spades?) then (rougher towed)
+(mascots differential) elseif (monastery unseemly?) then (artificial sterner)
+split
+:institution tighter;
+split again
+:attorney freedoms;
+split again
+:diligently whew;
+while (lewd pitfalls?) is (khaki attraction)
+:surgically contestants;
+:throbbing moths;
+endwhile (arteries scones)
+-[hidden]->
+detach
+end split
+(reject complex) elseif (exciting squaw?) then (natives klutzy)
+if (muscular finesse?) then (upping wedgie)
+(endlessly prenatal) elseif (physique reshoots?) then (purged scalped)
+:dpkvcs;
+while (anniversary disciplinary?) is (town homicides)
+backward:carbs pruning;
+:choosers beers;
+endwhile (explodes medina)
+-[hidden]->
+detach
+(debilitating altruistic) elseif (nailed nepotism?) then (neurotic hombres)
+:lanes liposuction;
+endif
+(overachiever hacks) elseif (families painkiller?) then (perfumed squid)
+repeat
+:bitchy raid; <<load>>
+:giggling identical;
+:woozy carburetor;
+repeat while (coworker horde?) is (stealer sinner)
+-> surname repairing;
+(stalkers realism) elseif (disk jumbo?) then (influencing oysters)
+switch (excel thankfully?)
+case (possession wracked?)
+:phoebe foresee; <<continuous>>
+case (croon vaccine?)
+:revolver uterine;
+case (minus insightful?)
+:surrogate layaway; <<output>>
+-> boutiques regrettable;
+endswitch
+endif
+stop
+@enduml

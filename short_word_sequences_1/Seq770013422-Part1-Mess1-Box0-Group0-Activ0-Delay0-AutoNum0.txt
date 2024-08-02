@@ -1,0 +1,5 @@
+@startuml
+participant "fairway flag" as 0
+== hallucination tandem ==
+0 --> 0: knitted journals
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:wreaths organisation;
+split again
+-[hidden]->
+:antiquing sign; <<save>>
+split again
+-[hidden]->
+:bookends sidekicks; <<input>>
+-> absolution wanton;
+end split
+group reappears pedicure
+:hi whispered; <<input>>
+-> ability candlestick;
+split
+:janitor jones;
+split again
+:educated vent; <<input>>
+split again
+:sharp restrooms;
+end split
+end group
+:mental pixilated; <<input>>
+stop
+@enduml

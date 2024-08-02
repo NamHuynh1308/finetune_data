@@ -1,0 +1,16 @@
+@startuml
+participant "thanks scale" as 0
+box "painters machine"
+participant "grunt chipped" as 1
+participant "supremacy bleeder" as 2
+end box
+0 -> 2: midgets plays
+...layman knobby...
+0 <-] : slimmer aardvark
+1 ->] : roof stomach
+0 --> 1: swallowed dolphin
+1 ->x 0++ : brittle duel
+0 --//o 1: grad smudge
+2 ->x 2: step oversight
+return tony earthly
+@enduml

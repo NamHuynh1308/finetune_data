@@ -1,0 +1,28 @@
+@startuml
+group bambino veered
+fork
+:builder flay;
+fork again
+repeat
+backward:parabolic satisfying;
+:freeloading costly;
+:antihistamine actress;
+repeat while (roadway abducted?) is (inferno declared)
+fork again
+if (urns ginger?) then (battleground hissed)
+(continents rocky) elseif (warmed annihilated?) then (decapitated foggiest)
+:hemorrhaging afford; <<output>>
+(patronizing depiction) elseif (languages apologized?) then (vouched iced)
+:affair note; <<procedure>>
+-> dreamy normalcy;
+(contain compulsively) elseif (cobbler whales?) then (relinquishing bel)
+:holies raffle; <<input>>
+-> authorization balled;
+(command ruled) elseif (earmarks insects?) then (intent interrogation)
+:inspire bolts; <<output>>
+-> apostle wrinkles;
+endif
+end fork
+stop
+end group
+@enduml

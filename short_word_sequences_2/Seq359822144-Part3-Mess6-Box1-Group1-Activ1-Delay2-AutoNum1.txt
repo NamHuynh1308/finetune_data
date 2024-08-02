@@ -1,0 +1,22 @@
+@startuml
+participant "brunette tallest" as 0
+participant "strawberries uniforms" as 1
+box "psychoanalysis shortage"
+participant "thump suspense" as 2
+end box
+== took listing ==
+autonumber 6 10
+0 <-> 2: mort unsatisfying
+...categories ricochet...
+2 <-> 2: upstaged trustworthy
+...plantation revival...
+0 ->o 2: supermodel meddle
+2 --> 1++ : biology rifles
+1 <-> 0: god shredder
+autonumber stop
+alt lift unrelated
+2 ->x 1: anthology shedding
+return ugly copperhead
+autonumber resume
+end
+@enduml

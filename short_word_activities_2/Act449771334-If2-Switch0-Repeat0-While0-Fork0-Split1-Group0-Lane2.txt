@@ -1,0 +1,41 @@
+@startuml
+|1| houseguest cleared
+|2| campers outing
+split
+-[hidden]->
+:pierced unbeknownst;
+split again
+-[hidden]->
+:quid jaw; <<input>>
+-> allegations rides;
+split again
+-[hidden]->
+:pointed region; <<load>>
+split again
+-[hidden]->
+:meager binary; <<continuous>>
+-> losses smear;
+end split
+if (chipmunk lurks?) then (carving shrubs)
+(inclined makings) elseif (liberty lumberjack?) then (demonstrations pyre)
+:lawmen supreme; <<procedure>>
+-> difficulty radios;
+(protector vile) elseif (tamper district?) then (supervise boarding)
+:correct dropper; <<task>>
+-> facilitate turbulent;
+endif
+|2|
+:church eighteen; <<save>>
+:afterglow deadly; <<continuous>>
+:randomly inconsolable; <<input>>
+-> ballpoint web;
+|1|
+if (skills regulated?) then (dit adapt)
+(infants accountability) elseif (rehearsing glamour?) then (research lurch)
+:tush misery; <<input>>
+(broadcasting wealth) elseif (bumbling overthink?) then (quits fad)
+:usvvma;
+kill
+endif
+stop
+@enduml

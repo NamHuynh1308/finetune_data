@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:hamstring objective;
+split again
+-[hidden]->
+split
+:unloading qualifying;
+split again
+:screech clobbered; <<continuous>>
+split again
+:millionaires allergies;
+end split
+split again
+-[hidden]->
+:uninspired watery; <<continuous>>
+-> weights occupations;
+split again
+-[hidden]->
+:stipulates workday;
+end split
+group erase rialto
+while (hurts cleverly?) is (squatter recognizing)
+backward:floorboard villagers;
+split
+:skills holding;
+split again
+:righto tightening;
+split again
+:butter secretarial;
+end split
+backward:sky pacing;
+:proprietary livid;
+endwhile (magnify bullshit)
+:inherently nancy;
+stop
+end group
+@enduml

@@ -1,0 +1,57 @@
+@startuml
+|1| tone behaving
+|2| babe simpletons
+split
+-[hidden]->
+:enormity meet;
+split again
+-[hidden]->
+:sensibility stateroom; <<input>>
+-> succotash labyrinth;
+split again
+-[hidden]->
+:photographic contrite;
+end split
+fork
+:pirated cayman;
+fork again
+:wrappers mandatory;
+-> desire peacetime;
+fork again
+:tenacious soybean;
+-> accessing penned;
+fork again
+if (taped pedro?) then (sobering diving)
+(ilk blond) elseif (seltzer standish?) then (league hiring)
+:anarchists audience;
+(earshot pinata) elseif (rose resenting?) then (sulking kismet)
+:clef luminous; <<procedure>>
+-> removed ama;
+(nephews publishers) elseif (socializing ironically?) then (moloch overlook)
+:shroud capitalist;
+(scratch endings) elseif (telemetry moustache?) then (autographed oversleep)
+:utilities woods;
+endif
+end fork
+|2|
+:represented vanished; <<procedure>>
+-> plainclothes requirements;
+|1|
+:chops hick; <<continuous>>
+|2|
+if (satisfaction continuation?) then (spots stunning)
+(revise theres) elseif (wigs grocery?) then (dieting tightens)
+:pierced astounding; <<procedure>>
+(gargoyle cow) elseif (nailing exhibit?) then (insuring discovered)
+:orchestra homey; <<continuous>>
+-> rodents rubes;
+(meatballs aft) elseif (phonies deprived?) then (cherished foreskin)
+if (reconciling technological?) then (manipulation humored)
+(embedded communication) elseif (reveal ostracized?) then (tissues pickpockets)
+:heartburn ironically; <<output>>
+(drag publications) elseif (cross eczema?) then (antiques exchanged)
+:vigor bodyguards; <<procedure>>
+-> adrenals goading;
+endif
+endif
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "rearing contractor" as 0
+participant "methodical panel" as 1
+== pinkie thumbing ==
+autonumber 0 9
+create participant "aw sweetie" as 2
+0 -> 2 : aw sweetie
+0 <-> 1: monks touch
+...originality absorption...
+1 -->x 2: shopper logan
+2 -> 1: supported medication
+autonumber stop
+ [<- 1: vaporize dimensions
+autonumber resume
+loop arise sending
+...villas mutating...
+1 -> 1: grosser ma
+end
+@enduml

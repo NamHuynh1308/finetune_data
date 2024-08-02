@@ -1,0 +1,10 @@
+@startuml
+participant "senseless tendonitis" as 0
+participant "suffocating forging" as 1
+ [-> 0: beforehand build
+alt boarder recover
+...carriers stepson...
+0 -> 1: baton farms
+1 -> 1: tides trap
+end
+@enduml

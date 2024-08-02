@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:basketball biologically;
+split again
+-[hidden]->
+:auntie deflecting; <<output>>
+-> refresh pulpit;
+split again
+-[hidden]->
+:backfired willow; <<continuous>>
+-> adobe succulent;
+split again
+-[hidden]->
+:accuse patrolman; <<output>>
+end split
+group algorithms clutch
+:insisting ecstasy; <<task>>
+-> err allergic;
+stop
+end group
+@enduml

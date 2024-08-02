@@ -1,0 +1,54 @@
+@startuml
+split
+-[hidden]->
+:tung tests;
+split again
+-[hidden]->
+:hazing crate; <<continuous>>
+-> taxpayer angelus;
+split again
+-[hidden]->
+:offerings boobs; <<task>>
+split again
+-[hidden]->
+:rodent pressures;
+-> ogle loved;
+end split
+switch (skeeters unforeseen?)
+case (poultry depressed?)
+if (ma clutches?) then (workplace pantry)
+(survive planetary) elseif (babe vitality?) then (cedars appeal)
+:survive barbershop; <<input>>
+-> stipulated materialize;
+(about soups) elseif (guaranteed flinching?) then (inhale shreds)
+:shoved stocked; <<task>>
+-> inaccurate psychoanalyze;
+(hate artichoke) elseif (renaissance thanking?) then (rejects considerate)
+:estimating lore;
+endif
+case (fisherman chick?)
+:join prima; <<output>>
+case (regimental healed?)
+:hypnotic distinctly; <<input>>
+-> wayside questionnaire;
+case (offends smoochy?)
+:slay overwhelming; <<continuous>>
+endswitch
+repeat
+:carats backpacking; <<continuous>>
+backward:drifter curtains;
+:grins augmentation; <<load>>
+repeat while (glassy rugged?) is (surly examples)
+-> ponies natured;
+group also scots
+fork
+:fronts subatomic;
+fork again
+:creaming carry;
+fork again
+:housebroken bloated; <<continuous>>
+-> mates kindergartners;
+end fork
+stop
+end group
+@enduml

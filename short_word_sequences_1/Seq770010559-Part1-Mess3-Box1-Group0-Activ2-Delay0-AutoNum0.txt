@@ -1,0 +1,11 @@
+@startuml
+box "mints wallow"
+participant "rob donated" as 0
+end box
+== herding porky ==
+0 <-> 0++ : psalm introducing
+ [-> 0: beauties travelled
+0 --//o 0++ : eccentricities keyhole
+return pamphlets turn
+return transient rubble
+@enduml

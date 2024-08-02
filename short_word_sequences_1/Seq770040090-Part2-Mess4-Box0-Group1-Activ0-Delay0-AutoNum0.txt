@@ -1,0 +1,11 @@
+@startuml
+participant "smoothest foursome" as 0
+== pike scrambling ==
+0 --> 0: hyperbole burst
+0 <-] : unfairly troy
+0 -> 0: cardiologist cluttering
+opt croc hinges
+create participant "worm uses" as 1
+0 -> 1 : worm uses
+end
+@enduml

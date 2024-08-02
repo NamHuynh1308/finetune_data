@@ -1,0 +1,10 @@
+@startuml
+participant "campos renaissance" as 0
+participant "scrapbook imam" as 1
+autonumber 4 3
+0 -> 0!! : user eggshells
+autonumber stop
+loop ben addressing
+ [<- 1: lac producer
+end
+@enduml

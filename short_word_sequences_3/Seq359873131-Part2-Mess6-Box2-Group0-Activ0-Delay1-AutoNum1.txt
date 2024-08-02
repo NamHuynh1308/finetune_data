@@ -1,0 +1,17 @@
+@startuml
+box "shadowy soak"
+participant "masks inherit" as 0
+box "yodel worries"
+participant "inquiries phobia" as 1
+end box
+end box
+autonumber 0 10
+0 <-] : protocol nun
+autonumber stop
+0 -> 0!! : fantasizing aristocratic
+0 -->x 1: peon antibiotics
+0 <-> 1: hundreds oblige
+0 -> 1: magdalene wholeheartedly
+...chopper paralegal...
+0 -> 1: apparently vaginas
+@enduml

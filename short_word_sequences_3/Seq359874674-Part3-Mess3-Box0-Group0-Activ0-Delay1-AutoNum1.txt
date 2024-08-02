@@ -1,0 +1,11 @@
+@startuml
+participant "examples vantage" as 0
+participant "suspected stupor" as 1
+== skag groveling ==
+autonumber 3 5
+0 -> 1: rooftop col
+...birthday snicker...
+0 -> 1!! : fostered anesthetic
+create participant "kegs windowsill" as 2
+0 -> 2 : kegs windowsill
+@enduml

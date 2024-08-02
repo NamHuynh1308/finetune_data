@@ -1,0 +1,16 @@
+@startuml
+participant "freshest waddle" as 0
+participant "sponsor auras" as 1
+autonumber 6 9
+0 -> 1: fatigues limo
+0 <-] : parsons scientist
+...porcupine stage...
+1 -->x 1++ : launching replicate
+1 ->] : meals jerseys
+opt ravishing exigent
+0 -->x 0++ : elusive mumble
+autonumber stop
+end
+return dill sentient
+return righteousness yeast
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "omelettes meningitis" as 0
+participant "giggles shoplifters" as 1
+participant "ecstasy sparks" as 2
+participant "freeway alleluia" as 3
+== entail startup ==
+3 -> 2++ : contribute willpower
+1 ->] : octane excited
+return discord ornery
+create participant "representative jackasses" as 4
+1 -> 4 : representative jackasses
+0 ->> 2++ : colours prisons
+return altitude flyers
+@enduml

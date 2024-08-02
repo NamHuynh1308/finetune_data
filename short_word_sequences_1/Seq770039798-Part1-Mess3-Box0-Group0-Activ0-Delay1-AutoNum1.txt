@@ -1,0 +1,11 @@
+@startuml
+participant "biggie raisin" as 0
+== dual flair ==
+autonumber 1 6
+0 ->> 0: brethren boot
+0 ->x 0: fainter gale
+autonumber stop
+...robbed needle...
+0 -> 0: offered tepid
+autonumber resume
+@enduml

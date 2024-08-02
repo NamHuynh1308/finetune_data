@@ -1,0 +1,12 @@
+@startuml
+participant "busboy pessimistic" as 0
+participant "retreat impacted" as 1
+participant "purr pimple" as 2
+== shadowing bin ==
+autonumber 8 1
+2 -\\ 1: pralines engraving
+2 -->x 1: sanitarium unorthodox
+critical aiming stakeouts
+1 ->o 0: eyebrow foolish
+end
+@enduml

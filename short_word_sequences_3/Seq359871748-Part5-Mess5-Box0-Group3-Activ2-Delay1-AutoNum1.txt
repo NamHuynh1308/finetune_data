@@ -1,0 +1,26 @@
+@startuml
+participant "unveil philharmonic" as 0
+participant "traditions gang" as 1
+participant "sweeps supports" as 2
+participant "headline snuggling" as 3
+participant "fluff beavers" as 4
+== reliable rocker ==
+autonumber 6 2
+alt mousey sinker
+0 -> 1: toke buildup
+autonumber stop
+1 -->x 2++ : cleansed unscheduled
+...lures streets...
+2 ->> 0++ : blondes flowers
+autonumber resume
+else detachment imagery
+loop distraction ice
+0 -> 1: peeling odd
+opt withholding converse
+2 ->> 4: catfight matrix
+end
+end
+end
+return portal distressed
+return mingle pimp
+@enduml

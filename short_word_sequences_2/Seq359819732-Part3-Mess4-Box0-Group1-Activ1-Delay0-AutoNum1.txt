@@ -1,0 +1,16 @@
+@startuml
+participant "plaza override" as 0
+participant "automobile wimpy" as 1
+autonumber 1 2
+1 -// 1: designation aeroplane
+autonumber stop
+critical benedict hilltop
+1 -> 0++ : became rigging
+autonumber resume
+create participant "scolding sidekick" as 2
+1 -> 2 : scolding sidekick
+end
+0 ->o 1: regaining hallucinations
+return acknowledge scratching
+autonumber stop
+@enduml

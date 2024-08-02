@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:carwash mis;
+split again
+-[hidden]->
+while (winds consecutive?) is (fountain slowing)
+:spell deducted;
+endwhile (subbing closeness)
+:covering sentinels;
+split again
+-[hidden]->
+while (ritter majestic?) is (dispute natural)
+backward:hostilities investigated;
+:deck plaza; <<input>>
+endwhile (revere jeopardize)
+:scampi integrity;
+end split
+group yeller frills
+:folding skillful;
+-> anagram percentages;
+group proprietor jesuits
+:frosting had; <<continuous>>
+-> blume hormonal;
+:fodder negatively; <<save>>
+end group
+stop
+end group
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+box "normal rainier"
+participant "parade ala" as 0
+end box
+autonumber 1 4
+0 -> 0: roast goes
+0 ->o 0: pistachios pity
+@enduml

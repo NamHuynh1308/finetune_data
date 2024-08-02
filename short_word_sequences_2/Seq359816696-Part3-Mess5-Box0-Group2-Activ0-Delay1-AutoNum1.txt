@@ -1,0 +1,16 @@
+@startuml
+participant "cement thriller" as 0
+participant "rage plural" as 1
+participant "armor odd" as 2
+autonumber 2 2
+critical bugle combination
+1 <-] : amenities vent
+alt puller help
+1 --> 1: parental incendiary
+2 -> 2: appalling transmitter
+...overdo sympathize...
+1 -> 1: jugs sobering
+0 ->x 1: unseat reactor
+end
+end
+@enduml

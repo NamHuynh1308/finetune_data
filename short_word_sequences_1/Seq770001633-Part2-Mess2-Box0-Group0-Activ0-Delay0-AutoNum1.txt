@@ -1,0 +1,7 @@
+@startuml
+participant "clam volcano" as 0
+participant "beast opus" as 1
+autonumber 10 2
+ [-> 1: psychologically arraignment
+1 ->> 1: romantically weevil
+@enduml

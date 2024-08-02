@@ -1,0 +1,16 @@
+@startuml
+participant "handprint loins" as 0
+box "rousted bobby"
+participant "stings oxford" as 1
+participant "controls amended" as 2
+end box
+== behavior brandy ==
+2 -->x 2: mayday findings
+ [<- 1: unfortunate remover
+1 ->o 0: psyched baited
+1 -\\ 2: hugged qualifies
+par bummed lording
+...eroding deed...
+1 ->o 2: organism fluke
+end
+@enduml

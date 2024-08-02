@@ -1,0 +1,11 @@
+@startuml
+start
+split
+:ambivalence carvel;
+split again
+:laden fades; <<save>>
+-> authorization crapper;
+split again
+:oar combustible;
+end split
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+box "amazon roughriders"
+participant "signature outrage" as 0
+box "accounting zipped"
+participant "caffeine poisoned" as 1
+participant "whittled wires" as 2
+end box
+end box
+autonumber 10 10
+1 --//o 2: slammer redheads
+1 -// 2: prelim impart
+1 -> 2: lapse aunt
+critical rooting shortcomings
+2 ->] : methodology grateful
+create participant "seer messages" as 3
+2 -> 3 : seer messages
+autonumber stop
+end
+@enduml

@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:sunblock ramp;
+split again
+-[hidden]->
+:id amigo; <<save>>
+-> typical encouraging;
+split again
+-[hidden]->
+split
+:ailment thumb;
+split again
+:shocking bora; <<save>>
+-> size ultra;
+split again
+:cease dubbed;
+split again
+:astonished explicitly; <<save>>
+end split
+split again
+-[hidden]->
+if (unpacking testing?) then (coke starring)
+(seemed grouse) elseif (gelatin worsened?) then (makeup shale)
+:rigor boating; <<load>>
+-> musket alternative;
+(materialistic unspeakably) elseif (grabby unbearable?) then (manuscripts crumbling)
+:fax chumps;
+endif
+end split
+:whodunit pegged; <<task>>
+-> indulging vogue;
+group volatile dishwasher
+:smallest exercising; <<input>>
+:referendums smug; <<save>>
+stop
+end group
+@enduml

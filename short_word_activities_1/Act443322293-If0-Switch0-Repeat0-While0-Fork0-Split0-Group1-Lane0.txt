@@ -1,0 +1,8 @@
+@startuml
+start
+group jimmies insurmountable
+:sentinel barbaric;
+-> arf attacks;
+stop
+end group
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+participant "fluid lovingly" as 0
+0 ->x 0: lasers em
+@enduml

@@ -1,0 +1,120 @@
+@startuml
+|1| cracked human
+|2| enhancer enemy
+|2|
+if (colder pales?) then (faggy wielding)
+(sweet dribbles) elseif (forged yank?) then (cartographers ruthless)
+split
+:ergo humps;
+split again
+:mouthwash reach; <<output>>
+-> injuries keys;
+split again
+:hippopotamus evil;
+split again
+:harts studying;
+end split
+(outward inferior) elseif (gullible womanizing?) then (offerings hollandaise)
+:sign alternatives; <<procedure>>
+(gimmicks conceived) elseif (nostalgia honoring?) then (brassieres expendable)
+fork
+:thirteenth gives;
+fork again
+:discord breaker;
+fork again
+:accent recital;
+fork again
+:illegitimate could;
+end merge
+(substantiate assisting) elseif (adopted drooling?) then (hence blind)
+:impounded nut; <<continuous>>
+endif
+repeat
+fork
+:mick sewing;
+fork again
+:gargantuan execution;
+fork again
+:resin planets; <<task>>
+end merge
+:suburban botched;
+if (alcove bring) then (ling were)
+:asinine watered;
+break
+endif
+->muss subpoenaed;
+:wrinkles goatee;
+repeat while (resolved magnum?) is (streaming rollers)
+-> gracing royally;
+|1|
+:recruits economics; <<input>>
+if (perceive bottle?) then (finalizing abacus)
+(figurines five) elseif (compute unscathed?) then (avatar scaled)
+if (bangers madeleine?) then (exterminated episode)
+(tyrants browning) elseif (trussed humbling?) then (mails cooperate)
+:heritage goofy;
+(pet type) elseif (beers pending?) then (heaving forthwith)
+:rpoigl;
+kill
+(grub repeating) elseif (hallucination buckaroo?) then (photographic modeled)
+:nightfall ampule;
+(collection stricken) elseif (intact perk?) then (recruits ominous)
+:snacking cheesecake;
+endif
+(concentrated frazzled) elseif (milo misunderstood?) then (deeply equipment)
+split
+:eyes spotless;
+split again
+:moves snapped;
+split again
+:mousey starving;
+end split
+(register boogie) elseif (heirs tread?) then (designing priesthood)
+split
+:missions imply;
+split again
+:ravishing assassins;
+while (brigade nameless?) is (fear extent)
+:apparition conjugate;
+backward:exotic tendon;
+endwhile (coffeehouse slaughterhouse)
+-[hidden]->
+detach
+split again
+:bee unaffected;
+split again
+:jewels ancient; <<input>>
+end split
+endif
+|2|
+switch (politics suppertime?)
+case (pore stepmother?)
+:harriers pleasantly;
+while (anesthesiology coiled?) is (invoked firewood)
+:fleeing rumour; <<load>>
+if (engineer guineas?) then (regularity leading)
+:yah unfairness; <<task>>
+else (anchoring lasso)
+:hooves submarine; <<load>>
+while (pretentious disruptions?) is (fungus headsets)
+backward:inevitable networks;
+endwhile (told understood)
+-[hidden]->
+detach
+endif
+endwhile (bulge primates)
+-[hidden]->
+detach
+case (distress attuned?)
+if (engineer jaded?) then (nudes ether)
+(sensuous shallow) elseif (luxuries hard?) then (caves entries)
+:contents graffiti;
+(imagines motorbike) elseif (matrimonial imagine?) then (dynamo binary)
+:press tonight;
+(groceries concerning) elseif (dentures giggling?) then (warrants willingness)
+:declaration liftoff; <<procedure>>
+-> peering plotted;
+endif
+endswitch
+end
+@enduml

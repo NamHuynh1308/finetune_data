@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:fingered mooch;
+split again
+-[hidden]->
+:crikey appetizer;
+split again
+-[hidden]->
+:vroom winner; <<load>>
+-> butler marvellous;
+end split
+group panel protector
+:pierce foreclosure; <<load>>
+:mobility chops; <<load>>
+end group
+stop
+@enduml

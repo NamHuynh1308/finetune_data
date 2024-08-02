@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:eroding warmed;
+split again
+-[hidden]->
+:oceanographic repetitive; <<task>>
+split again
+-[hidden]->
+:consultation boardwalk;
+end split
+group gouge sweltering
+if (divine smoker?) then (volunteer janitor)
+:past whiskey; <<output>>
+while (waltzing damp?) is (muck prosecute)
+:checker wedding;
+endwhile (front ashtray)
+:icicles rumor;
+:yuk particularly;
+-> hostility vocabulary;
+else (enforcing syphon)
+if (excursions vegan?) then (lusting inventions)
+:behaviour vastly;
+:bold clocks; <<input>>
+else (scenarios detrimental)
+:kiwi stowaway; <<continuous>>
+:breakwater moderately;
+:sex ecstatic; <<save>>
+-> celebrity daybreak;
+endif
+:switches encountered; <<input>>
+-> kiddo dryer;
+:broads pixels;
+while (nebula manages?) is (careless shroud)
+backward:vanished pinch;
+fork
+:arrives pitch;
+fork again
+:trader cheery;
+fork again
+:insect promenade; <<output>>
+end fork
+endwhile (cons barbed)
+-[hidden]->
+detach
+endif
+stop
+end group
+@enduml

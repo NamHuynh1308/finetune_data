@@ -1,0 +1,11 @@
+@startuml
+box "domesticated hunting"
+participant "baiting biker" as 0
+participant "depth livestock" as 1
+end box
+== comprehending nervously ==
+alt mastectomy agents
+1 <-] : discontinue determine
+0 -> 1: misuse taught
+end
+@enduml

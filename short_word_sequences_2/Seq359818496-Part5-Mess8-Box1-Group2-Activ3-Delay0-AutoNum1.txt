@@ -1,0 +1,25 @@
+@startuml
+participant "outrageous parted" as 0
+participant "kooks dressy" as 1
+participant "unchanged pastrami" as 2
+box "inferiority floral"
+participant "paw straws" as 3
+participant "volume camera" as 4
+end box
+autonumber 10 4
+1 -> 4: burglary hygienic
+1 -> 2: jib anarchy
+0 -->x 4++ : marina retainer
+critical quit ripe
+ [-> 3: published outrageously
+1 -\\ 1++ : balmoral trained
+break elegant cooled
+3 -> 3: ovation tragedy
+0 --> 3: riveting pollen
+end
+3 -> 4++ : cucumber departments
+end
+return attack jacks
+return soups scamming
+return obscenity moles
+@enduml

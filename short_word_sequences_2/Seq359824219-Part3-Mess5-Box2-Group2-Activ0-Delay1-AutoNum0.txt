@@ -1,0 +1,19 @@
+@startuml
+participant "molto gutters" as 0
+box "stable source"
+participant "darkroom meltdown" as 1
+box "blitz showroom"
+participant "electricity eloquent" as 2
+end box
+end box
+0 -\\ 1: demented fruitcake
+alt exactly perjury
+...dorms dawning...
+1 -> 1: collectively penguin
+0 -// 0: exploiting tightened
+ [-> 2: claim drank
+par needed belly
+ [<- 2: cams rawhide
+end
+end
+@enduml

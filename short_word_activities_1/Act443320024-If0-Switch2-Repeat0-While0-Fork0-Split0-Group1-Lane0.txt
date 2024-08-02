@@ -1,0 +1,18 @@
+@startuml
+start
+group tenner yap
+switch (citizenship fingered?)
+case (pathetic crafts?)
+:reconstruct disks; <<task>>
+case (daffy goggles?)
+switch (victimless filtered?)
+case (spit code?)
+:cloven cowboy;
+case (moreover portent?)
+:seduced humanitarian; <<output>>
+-> concocting raiding;
+endswitch
+endswitch
+stop
+end group
+@enduml

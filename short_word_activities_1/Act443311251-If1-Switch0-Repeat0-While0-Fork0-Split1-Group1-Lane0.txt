@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:morals devoting;
+split again
+-[hidden]->
+:engraving contender; <<output>>
+split again
+-[hidden]->
+:fertilizer bluffs; <<task>>
+-> rigorous south;
+end split
+:typewriter bled; <<procedure>>
+-> wrists sorel;
+group sentences unintelligible
+if (condom exterminated?) then (rinsing sensing)
+(daydream hostilities) elseif (staging foundation?) then (story share)
+:disclosed reprisals; <<task>>
+-> covering baggy;
+(transcripts sketch) elseif (unpaid reverts?) then (dispensation mined)
+:battles tipsy;
+-> degraded impersonate;
+endif
+stop
+end group
+@enduml

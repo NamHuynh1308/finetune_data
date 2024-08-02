@@ -1,0 +1,12 @@
+@startuml
+start
+fork
+:varnish provide;
+fork again
+:underpants motive; <<load>>
+-> horned vermeil;
+fork again
+:arriving maneuver;
+end fork
+end
+@enduml

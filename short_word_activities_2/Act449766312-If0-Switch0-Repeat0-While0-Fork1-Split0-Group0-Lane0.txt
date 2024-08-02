@@ -1,0 +1,10 @@
+@startuml
+start
+fork
+:chomping goodness;
+fork again
+:dishes thirsty; <<input>>
+fork again
+:supplements breadth;
+end merge
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "sensory ballplayer" as 0
+box "parlor flaw"
+participant "spies grumpy" as 1
+end box
+autonumber 0 10
+ [-> 0: blueberries obstructed
+break hips beck
+0 ->> 1: late playoffs
+1 <-] : compatible delay
+ [<- 1: eros nations
+else infarction illusions
+1 -\\ 0: squeegee precedent
+critical testament demented
+...starboard handful...
+0 -\\ 1: rip reading
+end
+end
+@enduml

@@ -1,0 +1,30 @@
+@startuml
+|1| sunflowers thunderbird
+|2| auld shoddy
+|1|
+start
+:dampener abigail; <<continuous>>
+|2|
+:blacks remarkable; <<continuous>>
+|1|
+if (manger corporation?) then (hazardous snip)
+:hornet mental; <<task>>
+else (epileptic shagging)
+:watched issue; <<task>>
+-> inherit unified;
+:fattening shanghaied; <<output>>
+endif
+fork
+:skeptical suspected;
+fork again
+:sadder punishing;
+fork again
+split
+:incarnation eminently;
+split again
+:they violet;
+split again
+:exculpatory homey; <<procedure>>
+end split
+end fork
+@enduml

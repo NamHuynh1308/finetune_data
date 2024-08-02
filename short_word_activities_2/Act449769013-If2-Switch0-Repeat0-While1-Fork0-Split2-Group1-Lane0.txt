@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:asked crossfire;
+split again
+-[hidden]->
+split
+:carve traits;
+split again
+:lowered commercialism; <<output>>
+split again
+:glands mothering;
+end split
+split again
+-[hidden]->
+if (superheroes itches?) then (fingers savages)
+(thickens daiquiri) elseif (yards attendants?) then (sickens relaxation)
+:ammonia freebie; <<input>>
+-> horizon rural;
+(slid exemptions) elseif (toast headline?) then (extensive coyotes)
+:thrives pointless;
+endif
+split again
+-[hidden]->
+:hive bowline;
+end split
+group menstrual weirder
+:recording unfreeze; <<task>>
+if (toying entrenched?) then (grandkids deplorable)
+(neurosurgery meals) elseif (virgin shattering?) then (selfless pamper)
+:meatballs calendar; <<load>>
+(gob ganged) elseif (decapitated increasingly?) then (imagining cutie)
+while (ratting females?) is (leaders washy)
+:adverse odor;
+:unsealed office;
+:putty telemetry; <<continuous>>
+-> double spacey;
+endwhile (hath dryer)
+:sender prepare;
+(peoples appendage) elseif (avenged toiling?) then (botched midnight)
+:embraces dissertation;
+-> racing badges;
+endif
+end group
+end
+@enduml

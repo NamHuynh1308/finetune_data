@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:tasks sequences;
+split again
+-[hidden]->
+:fondest desert;
+kill
+split again
+-[hidden]->
+:psyched robbery;
+end split
+if (sterling delegation?) then (trolling deduction)
+(difficult saddled) elseif (weather shitting?) then (bygones eighth)
+:roped bombings;
+(physics quotation) elseif (vanished mocha?) then (hare arsonist)
+:bonuses haste; <<task>>
+-> pals perks;
+(generic sizzling) elseif (sweets administrator?) then (amulet bay)
+if (hound advising?) then (alarmed anticipated)
+(recitals sidle) elseif (riff committed?) then (cooperative germans)
+:headed inheritance;
+-> attend canape;
+(decoupage inquiry) elseif (intimidate superheroes?) then (diagnose considered)
+:stared foxes; <<save>>
+endif
+endif
+:orienteering gunshots; <<save>>
+stop
+@enduml

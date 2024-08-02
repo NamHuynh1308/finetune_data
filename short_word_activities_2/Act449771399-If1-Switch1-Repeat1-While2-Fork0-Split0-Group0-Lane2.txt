@@ -1,0 +1,49 @@
+@startuml
+|1| clan impeccable
+|2| psych wharves
+|1|
+start
+if (figurines lido?) then (oranges concerts)
+:stimuli dimple;
+:moloch desperation; <<output>>
+-> consortium speedo;
+else (clitoris loaded)
+:camping demeaning; <<load>>
+-> workers brave;
+while (upsets barbecues?) is (knot squiggle)
+:lech fog; <<procedure>>
+backward:entrails inhibitor;
+endwhile (checkered briefings)
+-[hidden]->
+detach
+endif
+|2|
+:deserves advertise;
+repeat
+switch (gratuitous ogre?)
+case (distended sparkling?)
+:offensive inflicting;
+case (utility lifeline?)
+:jest sordid;
+case (dysfunctional dismember?)
+:anarchists hazel;
+while (popper congratulating?) is (savin divers)
+backward:wept mowed;
+:underhanded daisy;
+endwhile (enact instinct)
+-[hidden]->
+detach
+case (lira psychos?)
+:census selective; <<continuous>>
+-> scat flashback;
+endswitch
+:grace certifiable;
+-> amorous pranks;
+repeat while (sewer giraffe?) is (poachers remarked)
+-> concocting melted;
+:housekeeper narrative; <<procedure>>
+-> marine disheveled;
+|1|
+:detect mayoral; <<input>>
+end
+@enduml

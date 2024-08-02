@@ -1,0 +1,7 @@
+@startuml
+participant "bombers abstract" as 0
+== luna conception ==
+0 --//o 0++ : plagues side
+0 <-] : imam involve
+return ties sores
+@enduml

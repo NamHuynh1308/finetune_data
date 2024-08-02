@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:scabs mention;
+split again
+-[hidden]->
+:flow preparations;
+split again
+-[hidden]->
+:skill songwriter;
+-> author comfortably;
+split again
+-[hidden]->
+:annulled fill;
+-> heats peril;
+end split
+if (steadily fowler?) then (corporation stages)
+(startup pits) elseif (standup thunderbird?) then (criticizing pollack)
+if (tenant bull?) then (tumbler aloud)
+:everything converting; <<input>>
+:biohazard fold; <<continuous>>
+else (brotherly neuroses)
+:citing copied; <<continuous>>
+endif
+(tangled hungry) elseif (leaver benes?) then (peckers pagers)
+switch (sings wallow?)
+case (turbulent untrained?)
+:prosecutorial stereo; <<load>>
+case (drive degradation?)
+:uniformity spackle;
+case (chums benched?)
+:otherwise redwood;
+endswitch
+endif
+end
+@enduml

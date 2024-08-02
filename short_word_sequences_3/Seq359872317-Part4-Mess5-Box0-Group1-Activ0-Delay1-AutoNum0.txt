@@ -1,0 +1,16 @@
+@startuml
+participant "hovel curt" as 0
+participant "located discolored" as 1
+participant "ruthlessly current" as 2
+opt crouched cardinals
+0 ->> 2: frying tombstone
+0 -> 0: incriminating jobs
+1 -// 1: tumor biographies
+create participant "laboratories neurosis" as 3
+2 -> 3 : laboratories neurosis
+else horrendous broadening
+...share headlines...
+2 -> 1: commendation kettle
+else configuration bassoon
+end
+@enduml

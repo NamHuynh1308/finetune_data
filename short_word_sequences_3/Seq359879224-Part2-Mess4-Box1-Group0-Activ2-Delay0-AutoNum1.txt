@@ -1,0 +1,16 @@
+@startuml
+box "espressos rolf"
+participant "museum weaver" as 0
+end box
+== benefit dearie ==
+autonumber 5 4
+0 -\\ 0: decorator crossbow
+0 -> 0++ : framework potency
+create participant "existing guilt" as 1
+0 -> 1 : existing guilt
+autonumber stop
+1 -\\ 1++ : embarked probes
+autonumber resume
+return distract pies
+return nirvana unsatisfied
+@enduml

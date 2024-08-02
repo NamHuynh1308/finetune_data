@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:crawlers forthright;
+split again
+-[hidden]->
+fork
+:depressors acting;
+fork again
+:perfumed canvas; <<procedure>>
+fork again
+:kickback pry;
+kill
+fork again
+:toys sneeze;
+end merge
+split again
+-[hidden]->
+:ejection whim; <<input>>
+end split
+:noticed realised; <<load>>
+-> watchful yay;
+group bertha steak
+:lord apartment; <<load>>
+-> pranks valiant;
+group overthink images
+:wearer koala; <<save>>
+stop
+end group
+end group
+@enduml

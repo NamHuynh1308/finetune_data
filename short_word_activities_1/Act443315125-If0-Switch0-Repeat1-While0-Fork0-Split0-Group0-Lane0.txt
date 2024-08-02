@@ -1,0 +1,6 @@
+@startuml
+repeat
+backward:farms troops;
+repeat while (liege panache?) is (separated witness)
+end
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "poll incoherent" as 0
+== goody harbors ==
+ [-> 0: subjected recital
+@enduml

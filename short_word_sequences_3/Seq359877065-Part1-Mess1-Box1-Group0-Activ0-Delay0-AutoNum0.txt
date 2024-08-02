@@ -1,0 +1,6 @@
+@startuml
+box "cyberspace accept"
+participant "trophy heartbreaker" as 0
+end box
+0 ->] : autograph membrane
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "prosecuted yardstick" as 0
+participant "seating openings" as 1
+0 -> 1: overlap informed
+0 --> 0++ : crammed baths
+1 -> 1: tracing sent
+ [-> 1: clods weekends
+1 -> 1: armies squared
+return espresso deficit
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:provoke squire;
+split again
+-[hidden]->
+:merchandise fake; <<output>>
+split again
+-[hidden]->
+:fungi ignores;
+-> lobbyist crafts;
+end split
+:vicinity erasing;
+-> undoubtedly ceremony;
+stop
+@enduml

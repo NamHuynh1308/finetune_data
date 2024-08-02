@@ -1,0 +1,20 @@
+@startuml
+box "assorted thrive"
+participant "bastard discuss" as 0
+end box
+== lathe identify ==
+autonumber 4 10
+0 --> 0++ : schematics souvenirs
+autonumber stop
+create participant "juror braiding" as 1
+0 -> 1 : juror braiding
+autonumber resume
+par auger roaring
+1 -> 1: reflects viewed
+critical obnoxious kahuna
+1 -> 0: payments soy
+return passport diva
+autonumber stop
+end
+end
+@enduml

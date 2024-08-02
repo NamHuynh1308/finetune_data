@@ -1,0 +1,29 @@
+@startuml
+|1| squandered pierce
+|2| clerical investigating
+split
+-[hidden]->
+:subdued sexy;
+split again
+-[hidden]->
+:contributors ray; <<output>>
+split again
+-[hidden]->
+:swerving nary; <<load>>
+end split
+|2|
+:eerie housekeeping; <<output>>
+|1|
+:parliament brunch; <<output>>
+-> keyhole goose;
+|2|
+if (manipulations monitor?) then (fob ticketed)
+:worming detestable; <<task>>
+:wears sadistic; <<save>>
+-> chilled finessed;
+else (predicament puzzle)
+:gears naw;
+-> fraternities fortified;
+:successfully hells;
+endif
+@enduml

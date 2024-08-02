@@ -1,0 +1,5 @@
+@startuml
+start
+:photographed debrief; <<input>>
+end
+@enduml

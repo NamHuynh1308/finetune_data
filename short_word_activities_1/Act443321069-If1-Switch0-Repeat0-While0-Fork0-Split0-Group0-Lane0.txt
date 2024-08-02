@@ -1,0 +1,12 @@
+@startuml
+:bails bends; <<procedure>>
+if (insistence pygmy?) then (lifeboats invasion)
+(crashes open) elseif (bodyguard gunpowder?) then (moonlit unhooked)
+:patron disks; <<procedure>>
+-> students changes;
+(offering paddles) elseif (philosophy executioner?) then (theft ducking)
+:jumped finds;
+endif
+:surgeons coca; <<load>>
+stop
+@enduml

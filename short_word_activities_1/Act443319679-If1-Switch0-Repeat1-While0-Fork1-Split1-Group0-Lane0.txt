@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:purposefully executives;
+split again
+-[hidden]->
+:wings dol;
+-> testified finder;
+split again
+-[hidden]->
+:monsieur matrimonial;
+kill
+end split
+fork
+:imports nanny;
+fork again
+if (improves running?) then (coroners fix)
+:suburbia mangled;
+:scag pouring;
+else (rots unearthed)
+:euthanasia unblemished;
+:token dandelion;
+:explorer trim;
+endif
+fork again
+repeat
+backward:game esophagus;
+repeat while (quest entertaining?) is (nightingale feverish)
+-> fella richest;
+end merge
+:mold misread; <<continuous>>
+@enduml

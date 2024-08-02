@@ -1,0 +1,4 @@
+@startuml
+participant "overgrown spans" as 0
+0 <-] : neutralize explicit
+@enduml

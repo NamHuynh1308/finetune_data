@@ -1,0 +1,14 @@
+@startuml
+participant "orgasmic safety" as 0
+participant "vaguest bacteria" as 1
+box "tryout rectangle"
+participant "civil fraternities" as 2
+end box
+== import live ==
+0 -> 0!! : nothing appointment
+critical improving technologies
+1 ->x 2: discrimination marched
+1 ->o 2: hamlet dusted
+ [-> 2: sentencing scar
+end
+@enduml

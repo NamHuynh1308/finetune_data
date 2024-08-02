@@ -1,0 +1,19 @@
+@startuml
+participant "sweatshirt barroom" as 0
+participant "chemicals rejuvenate" as 1
+alt whisper chasing
+0 -> 0!! : cleanliness sniping
+critical heavily educate
+1 <-> 1: proofs kingdom
+...chevalier hip...
+0 <-] : shallows shadowing
+1 -\\ 1: thanksgiving stomachache
+else cooing righto
+1 --> 0: matching hundreds
+else colorful championships
+create participant "airlines farmer" as 2
+1 -> 2 : airlines farmer
+else tendons intubate
+end
+end
+@enduml

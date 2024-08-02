@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:terrain triumph;
+split again
+-[hidden]->
+split
+:rage chunks;
+split again
+:market billing; <<task>>
+-> worthless collide;
+split again
+:occupying enlisted; <<input>>
+-> relative shagging;
+split again
+:overstepping invoice;
+end split
+split again
+-[hidden]->
+repeat
+:predecessors ouch; <<output>>
+backward:johns less;
+:minutes therapeutic;
+repeat while (threats arf?) is (pads basket)
+end split
+:eastbound pirate;
+-> awakes zander;
+:booklets feeding; <<input>>
+stop
+@enduml

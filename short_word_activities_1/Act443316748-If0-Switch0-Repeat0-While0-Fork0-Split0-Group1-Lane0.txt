@@ -1,0 +1,7 @@
+@startuml
+start
+group borrow leprechaun
+:hunchback levitation; <<input>>
+stop
+end group
+@enduml

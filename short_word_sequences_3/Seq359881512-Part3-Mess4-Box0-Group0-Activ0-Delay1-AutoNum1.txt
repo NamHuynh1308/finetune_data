@@ -1,0 +1,13 @@
+@startuml
+participant "outlived overdressed" as 0
+participant "corners chose" as 1
+autonumber 8 7
+0 -> 1: long midwife
+autonumber stop
+...rock stairway...
+1 -> 1: turndown twitchy
+create participant "fittest gremlin" as 2
+0 -> 2 : fittest gremlin
+autonumber resume
+0 ->> 2: shareholder scene
+@enduml

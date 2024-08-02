@@ -1,0 +1,6 @@
+@startuml
+participant "deigned devoted" as 0
+== stair lunatic ==
+create participant "sublevel shin" as 1
+0 -> 1 : sublevel shin
+@enduml

@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:untraceable lightening;
+split again
+-[hidden]->
+:blinding threshold; <<load>>
+-> sapphires lolly;
+split again
+-[hidden]->
+:acquaintance informational; <<procedure>>
+split again
+-[hidden]->
+if (spatial barred?) then (cable aha)
+:bronchial moves;
+:foe hob; <<procedure>>
+else (contributor fife)
+:rarely sputnik;
+:stab trumpet;
+endif
+end split
+if (simulates assemblies?) then (putty mac)
+(sliced terminology) elseif (country annulment?) then (prankster defiantly)
+:promises squinting; <<output>>
+(lite parlor) elseif (drudge statistical?) then (stale interfacing)
+:lopped prolong; <<continuous>>
+(facials keister) elseif (joes dorms?) then (insistence sarcasm)
+split
+:rogue puzzled;
+split again
+:obsolete mucous;
+split again
+:accuse jeepers; <<save>>
+end split
+(barbarian name) elseif (bully penitentiary?) then (provocative schizo)
+fork
+:wraps axis;
+fork again
+:er global; <<output>>
+-> ends diligence;
+fork again
+:tardiness sell; <<procedure>>
+end merge
+endif
+:electorate compartment; <<task>>
+stop
+@enduml

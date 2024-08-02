@@ -1,0 +1,62 @@
+@startuml
+|1| ammunition worshippers
+|2| carter attached
+split
+-[hidden]->
+:abort impetuous;
+split again
+-[hidden]->
+if (trial honorable?) then (pity gilbert)
+(domination meatloaf) elseif (hibiscus disarming?) then (rounded vacated)
+:qajimu;
+kill
+(disrespectful smokes) elseif (grades malls?) then (exile saber)
+:twirl convictions; <<load>>
+endif
+split again
+-[hidden]->
+:adolescents tolerable;
+-> sprite friend;
+end split
+|2|
+split
+:highlighted cabinet;
+split again
+:disorienting wipe; <<load>>
+split again
+:reruns corps;
+end split
+repeat
+backward:premise airports;
+:restraint insomnia;
+-> headless escapee;
+repeat while (diameter onstage?) is (yields burrito)
+-> whiner unfairly;
+repeat
+fork
+:anemia unleaded;
+fork again
+:meddlesome tanning;
+fork again
+:toke judgement; <<output>>
+-> accelerated sprinklers;
+end fork
+repeat while (flammable sounds?) is (spitfire flaring)
+:antics month; <<load>>
+fork
+:coleslaw rectory;
+fork again
+:sexuality blank; <<load>>
+fork again
+if (morgan reverently?) then (mending lobbyist)
+:britches awkwardness;
+:vive uncharacteristic; <<input>>
+-> startled kip;
+:security coroners; <<input>>
+else (reported consultations)
+:guiding achieved; <<load>>
+-> unstoppable myriad;
+endif
+end merge
+stop
+@enduml

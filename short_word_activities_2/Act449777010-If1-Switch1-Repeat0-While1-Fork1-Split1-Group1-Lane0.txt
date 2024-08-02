@@ -1,0 +1,49 @@
+@startuml
+start
+group scarves tireless
+split
+:joiner generator;
+split again
+switch (eventually angle?)
+case (nada lashed?)
+:horticulture silences;
+-> familiars specialists;
+case (heat intravenous?)
+:dry damsel;
+while (banner inlaid?) is (indicates newsstands)
+:courtesy indictments; <<task>>
+-> fend accomplishment;
+backward:stash preconceived;
+backward:beard betrayal;
+:chances classier;
+endwhile (trotting bullies)
+-[hidden]->
+detach
+endswitch
+split again
+:moment auras; <<procedure>>
+split again
+:zeroed presets; <<output>>
+-> wealthy finagle;
+end split
+if (fireproof saws?) then (biggie pining)
+(soothsayer corporeal) elseif (exceedingly clown?) then (consequence thoracotomy)
+fork
+:forester superficial;
+fork again
+:guesthouse proxy; <<input>>
+-> strolls flora;
+fork again
+:stoned idiots;
+fork again
+:whales bigmouth;
+end fork
+(stocking criminal) elseif (poems bachelors?) then (marched alienating)
+:liberated disillusionment; <<procedure>>
+(does caterwauling) elseif (institutions eventual?) then (peerless liftoff)
+:lowery nudie; <<save>>
+(prospective perry) elseif (meltdown plagued?) then (spends settling)
+:materials rebuilding; <<load>>
+endif
+end group
+@enduml

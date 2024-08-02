@@ -1,0 +1,16 @@
+@startuml
+box "arms midtown"
+participant "foxy oblivion" as 0
+participant "leave tramp" as 1
+end box
+participant "superpowers zonked" as 2
+2 --> 1: reef patchouli
+...sudden scar...
+1 ->o 2: connected noticing
+1 -> 2: flunkies validity
+...hots rigorous...
+1 --//o 2++ : tripe mental
+0 -> 0!! : viscount bad
+return sandalwood sykes
+1 -> 2!! : benthic luna
+@enduml

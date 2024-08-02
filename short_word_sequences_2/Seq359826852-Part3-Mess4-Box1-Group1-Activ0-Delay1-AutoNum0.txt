@@ -1,0 +1,16 @@
+@startuml
+box "handguns cove"
+participant "plums coax" as 0
+participant "stakeouts punctual" as 1
+participant "swelling vodka" as 2
+end box
+== rubs campus ==
+0 -// 0: implicitly compassion
+0 -->x 2: brand grant
+break patsy tomorrow
+...artillery bragged...
+0 -// 1: reservation remedial
+1 --> 1: poetry redid
+else drafting galactic
+end
+@enduml

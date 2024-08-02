@@ -1,0 +1,23 @@
+@startuml
+participant "sterner celibacy" as 0
+box "hack talk"
+participant "flirted romances" as 1
+participant "studying briefed" as 2
+box "bags custom"
+participant "perceive manually" as 3
+end box
+end box
+3 -// 0: beaucoup reed
+2 -// 1: contributed slink
+critical charlotte truffle
+1 -> 3++ : enjoyment evolve
+0 -> 2: internship visa
+return notices fifties
+...amiable scales...
+3 -\\ 0: gelato empirical
+else scalpel plated
+par folklore provisional
+ [-> 3: specific steamy
+end
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "peacetime gradually" as 0
+participant "conference prayed" as 1
+participant "overhaul bikers" as 2
+autonumber 9 3
+critical described charley
+0 -> 0: darkroom priss
+autonumber stop
+2 -> 0!! : improved alarms
+autonumber resume
+1 -> 1!! : closet politics
+else appalling militants
+0 -\\ 0: tailspin eyeing
+else forgery pantheon
+2 -// 2: grumbling trans
+end
+@enduml

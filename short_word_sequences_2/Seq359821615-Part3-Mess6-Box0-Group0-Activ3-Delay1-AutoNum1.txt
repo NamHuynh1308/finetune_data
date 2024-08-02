@@ -1,0 +1,18 @@
+@startuml
+participant "requires ultrasound" as 0
+participant "wax losses" as 1
+autonumber 3 3
+0 -> 0!! : mattresses workup
+create participant "hugger yanked" as 2
+1 -> 2 : hugger yanked
+1 -> 0: statistic corrupting
+...orioles dozing...
+0 ->> 2++ : manhandled terrified
+0 ->o 2++ : wringer infection
+autonumber stop
+0 ->> 1++ : wake infinitely
+autonumber resume
+return collaboration taxidermist
+return offering transfers
+return aggravation entice
+@enduml

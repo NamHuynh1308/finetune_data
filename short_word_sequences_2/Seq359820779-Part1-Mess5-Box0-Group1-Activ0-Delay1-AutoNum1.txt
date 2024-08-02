@@ -1,0 +1,12 @@
+@startuml
+participant "recycles fiddle" as 0
+autonumber 9 5
+ [-> 0: diva jess
+0 -> 0: wrecker primed
+...sidekick promo...
+0 -->x 0: burrows cinnabar
+alt give negative
+0 -> 0: profess user
+0 -> 0!! : exposing hillbillies
+end
+@enduml

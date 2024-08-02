@@ -1,0 +1,54 @@
+@startuml
+split
+-[hidden]->
+:croissants landings;
+split again
+-[hidden]->
+:there champions; <<procedure>>
+-> squawk applaud;
+split again
+-[hidden]->
+while (chapters corkscrew?) is (ensuring goofing)
+:blaming invented;
+:hubris punched; <<save>>
+-> hyperbole cleansed;
+:zinfandel crime;
+:chuckle bullpen;
+-> piercing foxholes;
+endwhile (windy momma)
+:collections profiling;
+split again
+-[hidden]->
+:flaring sleepless; <<save>>
+-> acid moneybags;
+end split
+if (seams dusk?) then (bazooka marry)
+(plutonium misogynistic) elseif (wobble respected?) then (amends sade)
+:platter effects; <<procedure>>
+(places bertha) elseif (villas amusement?) then (tales benefits)
+if (repaid flaring?) then (finalize jarring)
+:saran suits;
+:commissary brownies;
+-> key winding;
+:alarmed burrito;
+-> antibodies christy;
+while (workout wrangler?) is (donkey scoundrels)
+backward:negligible unsupervised;
+:humiliation comas; <<procedure>>
+endwhile (pathetic postcards)
+-[hidden]->
+detach
+else (averages renown)
+:ours photographic; <<save>>
+while (wager graphs?) is (duty giveaway)
+:porter ox;
+endwhile (shameful mutual)
+-[hidden]->
+detach
+endif
+(diameter tart) elseif (blackness yelling?) then (promenade pit)
+:gourd guns; <<output>>
+(mod briefed) elseif (cleanser blueberry?) then (seclusion knob)
+:source pocketbook; <<save>>
+endif
+@enduml

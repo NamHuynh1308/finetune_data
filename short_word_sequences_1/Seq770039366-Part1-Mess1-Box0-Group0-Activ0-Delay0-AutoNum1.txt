@@ -1,0 +1,6 @@
+@startuml
+participant "dignitaries confiding" as 0
+autonumber 0 8
+0 ->x 0: flowers parka
+autonumber stop
+@enduml

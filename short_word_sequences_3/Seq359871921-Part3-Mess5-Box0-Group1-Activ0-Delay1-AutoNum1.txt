@@ -1,0 +1,17 @@
+@startuml
+participant "salmonella rethink" as 0
+participant "locale unacceptable" as 1
+participant "moors meadow" as 2
+== mopped crooked ==
+autonumber 5 3
+2 --> 2: fates wanderer
+par muscle arachnid
+2 -> 0: slaps obeyed
+1 ->o 1: continent summons
+autonumber stop
+...invoices embedded...
+2 -> 0: dissection madwoman
+2 -->x 1: gavel cauldron
+autonumber resume
+end
+@enduml

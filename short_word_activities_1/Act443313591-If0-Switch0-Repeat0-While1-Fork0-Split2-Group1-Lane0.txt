@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:vet franchises;
+split again
+-[hidden]->
+:pooling cleavage;
+split again
+-[hidden]->
+split
+:passionately industrial;
+split again
+:molars marrow; <<procedure>>
+split again
+:dish courageous;
+split again
+:withstand distressing;
+end split
+split again
+-[hidden]->
+:scratch fizzled; <<output>>
+-> morocco sabers;
+end split
+group threat regulate
+while (incoherent throwing?) is (uncivilized helpless)
+:tomb metaphors; <<load>>
+backward:bin siding;
+backward:spreadsheets iceberg;
+endwhile (ignoramus toe)
+:desktop peeked;
+stop
+end group
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+participant "opal encourage" as 0
+participant "stitch bo" as 1
+participant "shay hell" as 2
+box "awkwardness barging"
+participant "agreements businessman" as 3
+box "hickey rule"
+participant "ignoring adopt" as 4
+end box
+end box
+autonumber 9 1
+loop ostracized bummer
+3 ->o 0: slaps chompers
+autonumber stop
+create participant "hungry nation" as 5
+0 -> 5 : hungry nation
+autonumber resume
+0 -> 4: arranged sit
+autonumber stop
+1 --//o 2: scored noticeable
+autonumber resume
+2 ->o 0: hiccup dramatically
+end
+@enduml

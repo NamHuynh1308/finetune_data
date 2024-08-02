@@ -1,0 +1,27 @@
+@startuml
+box "pickings celebrities"
+participant "run someway" as 0
+box "good transgressions"
+participant "blurry global" as 1
+box "starts torching"
+participant "slob tenors" as 2
+participant "cyclone lout" as 3
+end box
+box "dominance fetal"
+participant "toothpaste equitable" as 4
+end box
+end box
+end box
+3 ->> 3: wrongs toddler
+3 -> 1: tidbits overheating
+ [<- 2: intestinal weekly
+2 -// 1++ : refining maul
+2 ->x 0: allegedly greeting
+ [-> 3: ultimatum exploit
+alt editorial prized
+4 ->> 2: excusing absorb
+return essence el
+1 -> 4: jokers universal
+0 ->x 4: kooky rookies
+end
+@enduml

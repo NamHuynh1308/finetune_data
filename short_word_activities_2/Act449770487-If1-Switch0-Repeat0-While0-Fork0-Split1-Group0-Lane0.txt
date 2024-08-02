@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:converge significant;
+split again
+-[hidden]->
+if (congrats teller?) then (transcripts raven)
+:exploring planetarium;
+:double yoga;
+:first shortstop;
+else (faculty alumni)
+:era foolishness;
+endif
+split again
+-[hidden]->
+:questions hiatus; <<continuous>>
+end split
+:digital relapsing; <<output>>
+:rumours stupidity; <<load>>
+-> advises muck;
+:therapists internal;
+end
+@enduml

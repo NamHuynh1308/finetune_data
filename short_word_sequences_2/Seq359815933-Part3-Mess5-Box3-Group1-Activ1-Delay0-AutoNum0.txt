@@ -1,0 +1,21 @@
+@startuml
+box "brooding wisely"
+participant "deciding congestion" as 0
+box "blockage bully"
+participant "generously disputes" as 1
+box "machete owner"
+participant "cackle engineers" as 2
+end box
+end box
+end box
+== illness penned ==
+0 ->o 0: viruses ease
+break puller triad
+2 -> 0++ : hades tendencies
+1 ->o 0: snipe survivors
+else ashtray latex
+2 -> 0!! : panicking reproduction
+1 <-] : damaging removed
+end
+return recover ranks
+@enduml

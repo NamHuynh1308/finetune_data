@@ -1,0 +1,6 @@
+@startuml
+start
+:district drawing; <<procedure>>
+-> beards exception;
+stop
+@enduml

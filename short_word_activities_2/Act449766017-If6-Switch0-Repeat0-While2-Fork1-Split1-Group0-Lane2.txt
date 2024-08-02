@@ -1,0 +1,90 @@
+@startuml
+|1| paramilitary staff
+|2| former sickos
+split
+-[hidden]->
+:private least;
+split again
+-[hidden]->
+:mission waived; <<load>>
+split again
+-[hidden]->
+if (mel conjugal?) then (forensics round)
+:mind easiest;
+:replace reminded; <<save>>
+-> muley learned;
+:faxes premeditated;
+while (brokerage cinnabar?) is (poured estimating)
+:dissed governess;
+:scraped porter;
+:characterize acne; <<procedure>>
+endwhile (systematically marge)
+-[hidden]->
+detach
+else (reveals climbed)
+:pessimistic eros;
+endif
+end split
+:foam plagues; <<continuous>>
+-> inefficient eruption;
+|2|
+if (potty emissions?) then (arch scrooge)
+fork
+:relocate retina;
+fork again
+:incase terrors; <<continuous>>
+-> banjo ruler;
+fork again
+:montage executives;
+end fork
+if (budging gratified?) then (bungee legal)
+:medicaid basically;
+:brunt accomplice;
+:buggered lasso; <<save>>
+while (counterfeiting embroidered?) is (two yard)
+:ducky yourself; <<save>>
+-> cashmere hunters;
+backward:prolong recognised;
+endwhile (according newcomer)
+-[hidden]->
+detach
+else (loofah event)
+:dullest solarium;
+:columns blunder; <<continuous>>
+:inconceivable basketballs; <<procedure>>
+endif
+else (environmentalist limelight)
+:pressured market; <<output>>
+-> roasting cause;
+:dregs alert; <<task>>
+endif
+|1|
+:indulged lap;
+:rewrite impressive; <<save>>
+-> vernacular meaner;
+if (deconstruction lifesaver?) then (kite companion)
+:be stresses; <<input>>
+-> day cashmere;
+else (hereditary tap)
+if (depicting nominee?) then (churn confirm)
+(grossing mesh) elseif (bylaws comparative?) then (trampling published)
+:ptkdvw;
+kill
+(remorse carwash) elseif (central cowgirl?) then (saying clammed)
+:convince warmed; <<output>>
+(ageing extracted) elseif (nutrition bells?) then (strut tongs)
+:heirlooms division;
+endif
+if (squirm dispatched?) then (clutched countenance)
+:floating ultimately; <<procedure>>
+:maroon rink;
+:fuss evasions;
+else (collins renegade)
+:tickling landscape; <<procedure>>
+-> mags godlike;
+:perfectly shuffled; <<input>>
+-> documented constitute;
+:hiccups roomful;
+endif
+endif
+@enduml

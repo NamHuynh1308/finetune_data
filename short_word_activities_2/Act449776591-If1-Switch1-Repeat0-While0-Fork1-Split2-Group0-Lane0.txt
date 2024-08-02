@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:tat defraud;
+split again
+-[hidden]->
+:accordance pledged;
+split again
+-[hidden]->
+fork
+:mamma craze;
+fork again
+:ordinance bass;
+fork again
+:coca subservient;
+kill
+fork again
+:shindig rearranging;
+end merge
+split again
+-[hidden]->
+:tod sketch; <<save>>
+end split
+split
+:snifter quandary;
+split again
+if (spent westbound?) then (deserved desecrated)
+:peppermint estrogen;
+:interfering pardoned;
+else (hurray prayed)
+:mugs violate; <<procedure>>
+:docking speculative;
+kill
+endif
+split again
+switch (sleuth bureaucrat?)
+case (planes spirited?)
+:corps rotting;
+kill
+case (vegetables louse?)
+:beseech clad;
+kill
+case (revealing fourteenth?)
+:providing cremation; <<load>>
+case (biochemist fugitives?)
+:bacterial minimize; <<continuous>>
+endswitch
+end split
+end
+@enduml

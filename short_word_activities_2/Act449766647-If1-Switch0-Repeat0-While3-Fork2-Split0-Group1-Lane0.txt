@@ -1,0 +1,50 @@
+@startuml
+start
+group concord differently
+if (warned broom?) then (must submit)
+:legalizing gelato; <<input>>
+fork
+:renewed muffled;
+fork again
+:clutches uncharacteristically; <<task>>
+fork again
+:handball dinks;
+fork again
+:straddling paints;
+-> bonbon immaterial;
+end merge
+while (testimony suds?) is (tequila closer)
+:taping balled; <<procedure>>
+endwhile (goddess caretaker)
+-[hidden]->
+detach
+else (alcohol ordinary)
+:guiding calculus; <<continuous>>
+-> sapiens problems;
+while (squeak concern?) is (abolish honeymoon)
+backward:stoop bellies;
+fork
+:whichever disasters;
+fork again
+:regaining meta;
+while (blown brooms?) is (fully hairstyles)
+:sapiens biscuit;
+:continuing who; <<output>>
+endwhile (quitter promote)
+-[hidden]->
+detach
+fork again
+:automobile devour; <<output>>
+-> mug infections;
+end merge
+backward:provided moreover;
+:dopamine scottie; <<continuous>>
+-> administering tipping;
+endwhile (express retaliatory)
+-[hidden]->
+detach
+endif
+:oldest discharged; <<procedure>>
+stop
+end group
+@enduml

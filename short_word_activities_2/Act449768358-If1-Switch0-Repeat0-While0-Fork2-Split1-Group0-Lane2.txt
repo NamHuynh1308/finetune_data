@@ -1,0 +1,39 @@
+@startuml
+|1| tongue bee
+|2| rays clamp
+split
+-[hidden]->
+:vodka discourteous;
+split again
+-[hidden]->
+if (appalled pal?) then (refute untie)
+:emery sleuth;
+:hindsight skinner; <<input>>
+else (desserts vials)
+:whacked communities;
+kill
+endif
+split again
+-[hidden]->
+:perished psi; <<output>>
+end split
+:broken calculating; <<task>>
+fork
+:bombing lodge;
+fork again
+:suction log; <<input>>
+fork again
+fork
+:purest aloft;
+fork again
+:descriptive hippest; <<output>>
+-> harass impertinent;
+fork again
+:set detecting;
+end merge
+fork again
+:perceptions fucker; <<save>>
+end merge
+:fading luv;
+-> arming confirmed;
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+start
+group pilgrims pony
+:manifests filler; <<continuous>>
+stop
+end group
+@enduml

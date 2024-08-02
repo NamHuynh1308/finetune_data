@@ -1,0 +1,17 @@
+@startuml
+start
+split
+:torture upcoming;
+split again
+:biscuit halt; <<save>>
+-> stickup irresistible;
+split again
+:eastbound pulled;
+kill
+split again
+:harmless renovate; <<continuous>>
+end split
+:conveniently concoction; <<procedure>>
+-> curator us;
+end
+@enduml

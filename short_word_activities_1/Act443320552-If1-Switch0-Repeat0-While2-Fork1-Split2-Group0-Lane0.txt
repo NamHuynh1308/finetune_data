@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:peaked categories;
+split again
+-[hidden]->
+split
+:gratuity lounging;
+split again
+:misled mouthwash; <<save>>
+split again
+:shirking larceny; <<continuous>>
+end split
+split again
+-[hidden]->
+:polymerization philosophers;
+-> dancer potholes;
+split again
+-[hidden]->
+:extent pharmaceutical; <<load>>
+end split
+:briar chiles; <<procedure>>
+if (ashamed carts?) then (updating palp)
+:colored extradited; <<task>>
+-> crated saber;
+:kissing loca; <<procedure>>
+-> shows clarify;
+while (dissatisfied located?) is (splurge freeways)
+fork
+:mohair amaretto;
+fork again
+:toying grabs;
+fork again
+:argumentative wives;
+kill
+fork again
+:butlers latter; <<continuous>>
+end fork
+endwhile (contender golfing)
+-[hidden]->
+detach
+else (upgraded bell)
+while (freedom slayed?) is (gorgeous silences)
+backward:hornets instincts;
+:speedway states; <<load>>
+-> soundproof injection;
+:stomachs nobility; <<output>>
+endwhile (raining obscene)
+:branches grimes;
+:mariners clarity; <<output>>
+endif
+:indigo defuse;
+@enduml

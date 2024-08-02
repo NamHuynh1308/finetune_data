@@ -1,0 +1,11 @@
+@startuml
+participant "tampered ales" as 0
+participant "deviation using" as 1
+critical madman ops
+1 -> 0: surpass enables
+...senses beer...
+ [-> 1: stowaways possession
+...fryer shootings...
+0 ->> 1: undermine softy
+end
+@enduml

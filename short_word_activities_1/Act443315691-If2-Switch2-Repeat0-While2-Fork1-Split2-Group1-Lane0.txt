@@ -1,0 +1,82 @@
+@startuml
+start
+group pursue courteous
+split
+:doze psychologist;
+split again
+:mysticism modelling; <<input>>
+-> synergy foaming;
+split again
+:compass nursed;
+split again
+if (coopers wok?) then (admit moisturize)
+:obvious minstrel; <<output>>
+else (dump alpha)
+:explicitly runs;
+:prohibited float;
+endif
+end split
+switch (doughnuts wedgie?)
+case (employee fanning?)
+:obi citizenship;
+while (sway croc?) is (bob summoning)
+if (predisposition muffler?) then (translators piss)
+:company displace;
+:cologne midst;
+kill
+else (skateboards malpractice)
+:models indie;
+-> lassie write;
+:misogynistic sandbag; <<input>>
+-> secretive stresses;
+:atropine kitten; <<continuous>>
+-> package debonair;
+endif
+switch (deftly ganging?)
+case (rodeo kibosh?)
+:cutter cure; <<procedure>>
+case (deathly high?)
+:depriving cathedral;
+endswitch
+:welcomed stewardesses; <<output>>
+backward:flavours chagrined;
+endwhile (antidepressant tightly)
+-[hidden]->
+detach
+case (pothead about?)
+split
+:bogeyman retrieved;
+split again
+:vigilance strikes; <<input>>
+-> presses bellman;
+split again
+:felon emotional;
+end split
+case (kite wallets?)
+:gopher wolves;
+-> derivative cloven;
+case (loophole ranting?)
+:saliva traditional;
+while (mumbling turnpike?) is (tortoise worship)
+backward:contradicted ammonia;
+fork
+:returning country;
+fork again
+:transatlantic monsters;
+fork again
+:quell tongs; <<procedure>>
+-> quitting stupor;
+fork again
+:beater husband; <<procedure>>
+end fork
+backward:oppression containers;
+backward:pointy custodian;
+endwhile (depths parkway)
+-[hidden]->
+detach
+endswitch
+:conclusive vacation; <<load>>
+-> yeah dependable;
+stop
+end group
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+box "much decrypted"
+participant "bunch til" as 0
+end box
+0 <-] : beat fey
+alt understudy shoelaces
+...illnesses dumper...
+0 -> 0: grills lash
+end
+@enduml

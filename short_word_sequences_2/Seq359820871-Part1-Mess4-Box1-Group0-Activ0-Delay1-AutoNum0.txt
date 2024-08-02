@@ -1,0 +1,11 @@
+@startuml
+box "recipe bishops"
+participant "hessian poet" as 0
+end box
+== uncover museums ==
+0 -> 0: trimester investigation
+0 <-> 0: harassing parents
+...shrouds worshippers...
+0 -> 0!! : tripe entanglements
+0 -> 0: mints misspent
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "bills modern" as 0
+participant "enforced coward" as 1
+participant "monopoly hyper" as 2
+participant "straightening misconstrued" as 3
+2 ->o 0: legalities tattooed
+1 -> 1: hangouts ultra
+2 -> 3: ticketed ointment
+...clanking noodles...
+0 -> 1: grind gel
+...attired poppet...
+3 <-> 0: cherished sponsor
+3 ->> 3: absorbed sleeps
+opt childhood laughs
+...berlin wood...
+ [<- 1: shush mandarin
+0 ->x 2: bongo railroad
+end
+@enduml

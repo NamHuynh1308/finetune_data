@@ -1,0 +1,24 @@
+@startuml
+start
+group humanity rafting
+if (resolving bulldog?) then (fixating tracing)
+:changing grouch; <<save>>
+:shanghaied adhere; <<task>>
+fork
+:brass pimp;
+fork again
+:whether involve;
+kill
+fork again
+:halothane rewrites;
+fork again
+:occupational backpack; <<task>>
+end merge
+else (substantive sundown)
+:grafts obeying; <<task>>
+:maximum opposition; <<output>>
+-> harden holt;
+endif
+stop
+end group
+@enduml

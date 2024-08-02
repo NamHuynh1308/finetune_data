@@ -1,0 +1,13 @@
+@startuml
+:overheated butchers; <<input>>
+fork
+:larceny involvement;
+fork again
+:boosts balances; <<load>>
+fork again
+:developing blush; <<save>>
+end fork
+:corkscrew domain;
+-> tidbits endear;
+stop
+@enduml

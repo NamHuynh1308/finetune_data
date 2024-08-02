@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:galvanized stomachs;
+split again
+-[hidden]->
+fork
+:reroute pseudo;
+fork again
+:safe spit;
+-> surgery chanting;
+fork again
+:cite clarification; <<load>>
+-> grovel sneaking;
+fork again
+:trappings mohair;
+end merge
+split again
+-[hidden]->
+:pointe radio; <<procedure>>
+-> snorkel snowstorm;
+split again
+-[hidden]->
+:undoing cholera; <<output>>
+end split
+:wholesale listing; <<continuous>>
+:headlights homers; <<task>>
+group conceited merman
+fork
+:witnesses heft;
+fork again
+:swat headlining;
+fork again
+:waiter bars;
+-> lifted prof;
+end fork
+stop
+end group
+@enduml

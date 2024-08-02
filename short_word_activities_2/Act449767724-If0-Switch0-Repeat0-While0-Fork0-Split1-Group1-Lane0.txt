@@ -1,0 +1,13 @@
+@startuml
+group collar ducts
+split
+:liquidation hunh;
+split again
+:coupe loran; <<input>>
+split again
+:neighbor premiere; <<input>>
+-> protested convicted;
+end split
+stop
+end group
+@enduml

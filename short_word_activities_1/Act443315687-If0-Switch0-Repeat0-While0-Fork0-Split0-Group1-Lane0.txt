@@ -1,0 +1,6 @@
+@startuml
+group soulful fishing
+:snooze flair; <<save>>
+stop
+end group
+@enduml

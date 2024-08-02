@@ -1,0 +1,33 @@
+@startuml
+|1| cast mop
+|2| expectancy brownies
+split
+-[hidden]->
+:trick jumpers;
+split again
+-[hidden]->
+split
+:literature haste;
+split again
+:interactive lumbar; <<load>>
+-> tyranny excesses;
+split again
+:thorn accord; <<output>>
+end split
+split again
+-[hidden]->
+:weekends jugs; <<input>>
+-> gospel mousy;
+end split
+|2|
+:remarkable eligible;
+-> home liters;
+:hesitant wracked; <<task>>
+:pets ending; <<save>>
+-> demonology snake;
+:requires umbilical; <<save>>
+|1|
+:failing tiring; <<procedure>>
+-> tick sandbox;
+end
+@enduml

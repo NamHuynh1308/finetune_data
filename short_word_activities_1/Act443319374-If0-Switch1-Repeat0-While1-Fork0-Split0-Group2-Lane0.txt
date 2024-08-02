@@ -1,0 +1,26 @@
+@startuml
+group deferred overdone
+switch (alpine creating?)
+case (rattlesnake swears?)
+:terminated keeps; <<output>>
+-> brit reception;
+case (accessories specs?)
+:exiting helmet;
+-> magnitude myths;
+case (chuckle hootenanny?)
+while (sell pickups?) is (gaps jaywalking)
+:sound acquired;
+:hops feckless;
+endwhile (glad browning)
+:processional heritage;
+case (natty rainstorm?)
+:implicates shrug;
+endswitch
+:whirl embedded; <<continuous>>
+group attract exhaust
+:mascots withdraw; <<continuous>>
+-> taxes baited;
+stop
+end group
+end group
+@enduml

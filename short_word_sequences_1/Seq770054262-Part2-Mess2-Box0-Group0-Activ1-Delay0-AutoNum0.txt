@@ -1,0 +1,7 @@
+@startuml
+participant "half cubes" as 0
+create participant "lovelier detectives" as 1
+0 -> 1 : lovelier detectives
+1 -> 1++ : horse lakes
+return jester loot
+@enduml

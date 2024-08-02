@@ -1,0 +1,18 @@
+@startuml
+participant "cruised heaviest" as 0
+participant "transporting leper" as 1
+autonumber 6 5
+0 ->> 1++ : upgrade deli
+break vampire talky
+1 --> 0: hercules butch
+par sequestered condor
+1 --> 1: sidewinder resentful
+return fearful hicks
+0 -> 1++ : elegant multiply
+...condensation walked...
+0 -> 0: capping batter
+return barreling ani
+else jot lam
+end
+end
+@enduml

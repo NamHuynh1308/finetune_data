@@ -1,0 +1,14 @@
+@startuml
+box "turtles blended"
+participant "renting quicksand" as 0
+box "scissor ops"
+participant "bishops amused" as 1
+end box
+end box
+== series grandkid ==
+autonumber 3 2
+0 -> 1: crotch syllable
+0 -\\ 1: quickest specializes
+create participant "reconnected travel" as 2
+0 -> 2 : reconnected travel
+@enduml

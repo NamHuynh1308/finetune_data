@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:enriched advert;
+split again
+-[hidden]->
+:sewage tonics; <<save>>
+split again
+-[hidden]->
+:weld heaviest; <<input>>
+-> yuck cherished;
+end split
+:tapes deadlock;
+if (sand payoff?) then (shoves cone)
+(decorative trimmed) elseif (tropics examine?) then (powders inventions)
+:brothel vessel; <<continuous>>
+-> rivalry fiftieth;
+(rhino rebelling) elseif (icon inverted?) then (female impulses)
+fork
+:remitting freelancer;
+fork again
+:devote corny; <<output>>
+-> spiteful smell;
+fork again
+:swig amusing; <<save>>
+end merge
+endif
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+box "brace core"
+participant "tactful upgrading" as 0
+end box
+autonumber 0 0
+0 -> 0: mystical awakened
+0 ->] : culottes situated
+0 ->> 0: persuasive wildfire
+@enduml

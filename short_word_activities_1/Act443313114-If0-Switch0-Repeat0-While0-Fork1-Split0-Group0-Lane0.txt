@@ -1,0 +1,14 @@
+@startuml
+fork
+:heater erect;
+fork again
+:victoria biscuits; <<load>>
+-> wax mohel;
+fork again
+:taj snuggle; <<load>>
+-> curves slider;
+end fork
+:indifference elective; <<load>>
+:poised viral; <<save>>
+end
+@enduml

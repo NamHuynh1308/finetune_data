@@ -1,0 +1,11 @@
+@startuml
+group flogging soothes
+:robots easter; <<task>>
+-> dessert unearthed;
+group walled playboy
+:absolute everybody; <<load>>
+:collectively plagues;
+end group
+stop
+end group
+@enduml

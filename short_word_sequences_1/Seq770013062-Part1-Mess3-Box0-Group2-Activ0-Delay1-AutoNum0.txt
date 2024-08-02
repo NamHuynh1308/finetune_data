@@ -1,0 +1,12 @@
+@startuml
+participant "frog firing" as 0
+== kitchen amateurs ==
+opt henchman shoemaker
+ [<- 0: truth prettier
+0 -> 0: cackling poach
+par printed emperors
+...routinely zoo...
+0 ->] : shores potato
+end
+end
+@enduml

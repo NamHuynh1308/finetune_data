@@ -1,0 +1,19 @@
+@startuml
+box "gravely cynic"
+participant "diagnosis unpaid" as 0
+participant "inflamed informer" as 1
+end box
+participant "eggshell duffle" as 2
+box "chalked ventriloquism"
+participant "abusive barbarians" as 3
+end box
+== spotlight guilty ==
+loop sabin disinherit
+0 ->x 2++ : eminent colossal
+1 --//o 3: bathrobe missis
+3 ->o 2: skateboard waddle
+...grants suited...
+ [-> 2: courthouse maintaining
+end
+return mannered trey
+@enduml

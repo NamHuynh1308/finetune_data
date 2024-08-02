@@ -1,0 +1,9 @@
+@startuml
+participant "apprentice benefactors" as 0
+participant "restrict gunk" as 1
+autonumber 6 6
+ [<- 1: warlocks burnout
+...acclimated timothy...
+0 -> 0: artful try
+autonumber stop
+@enduml

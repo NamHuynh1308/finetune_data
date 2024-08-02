@@ -1,0 +1,9 @@
+@startuml
+participant "siblings twos" as 0
+participant "mettle acting" as 1
+== topes paintbrush ==
+autonumber 2 4
+create participant "makers molested" as 2
+0 -> 2 : makers molested
+1 --> 2: tights shields
+@enduml

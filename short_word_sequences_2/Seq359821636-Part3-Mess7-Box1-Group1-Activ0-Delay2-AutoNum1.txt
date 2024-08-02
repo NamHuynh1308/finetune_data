@@ -1,0 +1,22 @@
+@startuml
+participant "candidates garments" as 0
+participant "frequently generates" as 1
+box "outcome revisions"
+participant "contrite fuel" as 2
+end box
+autonumber 0 4
+0 -// 0: snifter enigma
+...nominated eking...
+2 <-] : reminded clunker
+1 -> 1!! : reconciling florin
+2 -> 2: slanderous inhabitants
+loop spends bind
+...entomology robs...
+0 --> 0: prodding prime
+autonumber stop
+2 <-] : screwup accepts
+autonumber resume
+end
+0 -> 0: ammo professional
+autonumber stop
+@enduml

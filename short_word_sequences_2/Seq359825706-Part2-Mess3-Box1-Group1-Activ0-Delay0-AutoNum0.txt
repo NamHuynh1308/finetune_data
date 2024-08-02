@@ -1,0 +1,11 @@
+@startuml
+participant "dunked drift" as 0
+box "mechanic counselor"
+participant "beads missile" as 1
+end box
+1 --> 1: stakeout bullpen
+1 ->o 0: breakdowns sabers
+alt dislike double
+ [<- 1: pinch creative
+end
+@enduml

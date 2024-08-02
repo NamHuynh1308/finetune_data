@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:grange scotches;
+split again
+-[hidden]->
+:goulash mapped; <<save>>
+split again
+-[hidden]->
+:tone detour; <<output>>
+-> synergy stack;
+split again
+-[hidden]->
+:postmaster custodian; <<continuous>>
+-> drift muskie;
+end split
+:wagon tongue; <<procedure>>
+-> inflicting mile;
+@enduml

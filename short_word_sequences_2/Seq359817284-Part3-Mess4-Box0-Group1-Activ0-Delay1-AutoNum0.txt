@@ -1,0 +1,12 @@
+@startuml
+participant "settings copier" as 0
+participant "receiving blackbird" as 1
+1 --> 1: mechanic perennial
+...motions morph...
+1 ->> 0: sandbar catcher
+create participant "bright exclusive" as 2
+0 -> 2 : bright exclusive
+opt departments snarl
+0 ->o 2: outer footstool
+end
+@enduml

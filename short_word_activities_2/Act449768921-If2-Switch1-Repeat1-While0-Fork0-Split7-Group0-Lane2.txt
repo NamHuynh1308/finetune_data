@@ -1,0 +1,96 @@
+@startuml
+|1| greyhound mingle
+|2| madeleine measured
+split
+-[hidden]->
+:tobacco curriculum;
+split again
+-[hidden]->
+:simmer remodelling; <<output>>
+split again
+-[hidden]->
+:battles completion;
+-> gather custody;
+end split
+|2|
+split
+:horrible unspoken;
+split again
+:derive taxpayers;
+-> cultures weight;
+split again
+split
+:conspiracies appraise;
+split again
+:floats fail;
+split again
+:day duffel;
+split again
+:stupendous disciples;
+end split
+end split
+repeat
+:recollection knees; <<task>>
+if (squealed salvaged?) then (hah denning)
+(spades tween) elseif (frisk guiding?) then (ancient comparative)
+:underage decent; <<output>>
+-> mano reviewing;
+(disaster excess) elseif (shaping insignia?) then (sirs freebie)
+:headlock gossip;
+endif
+split
+:hangover outbreak;
+split again
+:permitting amoral; <<task>>
+-> stunts bitches;
+split again
+:jacks ramble; <<save>>
+split again
+:filthy mortgages; <<save>>
+end split
+repeat while (considerable faces?) is (bunks dope)
+-> titanic vera;
+|1|
+if (imperfections pleads?) then (carefully soccer)
+split
+:forum volumes;
+split again
+:brash pretrial; <<save>>
+-> bribed neighboring;
+split again
+:punks jet;
+split again
+:gambit fundraiser;
+-> introduces adoration;
+end split
+split
+:gown larvae;
+split again
+:victims zillion;
+split again
+:repercussions exterminated;
+kill
+end split
+:explains birdseed; <<continuous>>
+else (diagonal morph)
+split
+:goggles reporting;
+split again
+:ticker fabric;
+-> hallo crafts;
+split again
+:hammers romeo;
+split again
+:rains staggered;
+-> ventriloquist immensely;
+end split
+switch (sweater grenade?)
+case (wacko info?)
+:tendon illegitimate; <<output>>
+-> sutra remotely;
+case (jackal nicer?)
+:drunk mustache;
+endswitch
+kill
+endif
+@enduml

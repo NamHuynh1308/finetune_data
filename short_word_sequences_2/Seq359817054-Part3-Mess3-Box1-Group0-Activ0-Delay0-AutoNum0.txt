@@ -1,0 +1,11 @@
+@startuml
+participant "magicians foster" as 0
+box "misunderstand midwife"
+participant "antacid boarding" as 1
+participant "dead credit" as 2
+end box
+== babble melodrama ==
+0 ->> 2: imagery tough
+0 --> 0: describes cameras
+2 ->o 1: swiping glitches
+@enduml

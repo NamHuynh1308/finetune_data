@@ -1,0 +1,11 @@
+@startuml
+start
+group collaborated freely
+:shocker siree; <<save>>
+:way earshot; <<load>>
+-> politician battery;
+end group
+:traveler quotes; <<task>>
+-> abductions postcard;
+stop
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+start
+:winning newcomer; <<continuous>>
+stop
+@enduml

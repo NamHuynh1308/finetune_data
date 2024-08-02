@@ -1,0 +1,25 @@
+@startuml
+box "pharmacy plaque"
+participant "studly warrior" as 0
+participant "matchbook abundantly" as 1
+end box
+participant "thrusts machine" as 2
+participant "penguin silken" as 3
+== pothole bethesda ==
+autonumber 2 8
+ [<- 2: clergy obeyed
+autonumber stop
+1 -// 0: often memories
+alt tactful cluttering
+0 -> 1++ : no reconsidered
+2 ->> 2: pace delta
+autonumber resume
+...sensitive inquisitor...
+3 --> 1: administering dispatch
+...vulgar damage...
+0 -> 3!! : snorting endorphins
+3 -> 3: fled troublemaker
+return forthcoming mended
+autonumber stop
+end
+@enduml

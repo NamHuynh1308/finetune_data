@@ -1,0 +1,63 @@
+@startuml
+split
+-[hidden]->
+:shitty feline;
+split again
+-[hidden]->
+if (antibiotics hungry?) then (northern bind)
+(helpers boombox) elseif (complains dinged?) then (apricot derriere)
+:atropine pantyhose; <<procedure>>
+(shadow plans) elseif (barges antagonistic?) then (haven vests)
+:discreet facilities; <<save>>
+-> unsure pretenses;
+(viewing figure) elseif (dumping brutal?) then (poorly scumbags)
+:budget humanly;
+-> review motherfucking;
+endif
+split again
+-[hidden]->
+switch (humming mushy?)
+case (patching denial?)
+:pigskin pedicure; <<save>>
+-> deserting divisions;
+case (moping digest?)
+:piggyback replicate; <<output>>
+-> conjuring spiny;
+case (incoming tears?)
+:cog bird; <<load>>
+-> stirred bananas;
+endswitch
+split again
+-[hidden]->
+if (floated geneva?) then (theory cares)
+:bludgeoned soothing;
+:transcripts babu;
+:dictionary successfully; <<output>>
+while (unwelcome fundraisers?) is (steaming described)
+:restructuring gunfire; <<task>>
+:stealing boyhood;
+-> mercenary diabolical;
+endwhile (plainly comebacks)
+-[hidden]->
+detach
+else (breached oracle)
+:ahead gates; <<input>>
+:dorms nitwit; <<save>>
+-> instructors pounds;
+:precision scotches;
+-> carnie autopsies;
+endif
+end split
+group skewer chandelier
+if (showered look?) then (ghastly spritzer)
+(sanest strenuous) elseif (cuss walk?) then (alas stormy)
+:fat yay; <<output>>
+(staked stave) elseif (exceptions pleading?) then (pleasures bleep)
+:flanks demonic;
+-> revolving energized;
+(bored described) elseif (riled dotes?) then (fleeting gusher)
+:postmaster fused; <<task>>
+endif
+stop
+end group
+@enduml

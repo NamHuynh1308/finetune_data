@@ -1,0 +1,29 @@
+@startuml
+box "auras cruised"
+participant "disk pancreatic" as 0
+participant "body scorched" as 1
+participant "manly rancho" as 2
+end box
+participant "house raft" as 3
+participant "defacing loafers" as 4
+3 -// 0: unwittingly crops
+par homecoming kitchen
+...rethought villa...
+2 ->x 3: recording clanging
+1 -->x 0++ : fondue roomful
+...colonies paramour...
+3 -> 4!! : season stoney
+create participant "terrorizing recommending" as 5
+3 -> 5 : terrorizing recommending
+else dago oven
+4 ->> 3: nuns ling
+...specially enhancer...
+3 -// 3: tremors shards
+...shill swallow...
+5 -->x 1++ : realises skid
+...squaring docking...
+4 <-] : enrage teaspoon
+end
+return conversion ale
+return hemolytic anesthesiology
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "anecdote veneer" as 0
+box "homecoming shortstop"
+participant "paintbrush polka" as 1
+participant "fondue whooping" as 2
+end box
+participant "movies patois" as 3
+3 ->x 3: boy sodomy
+...yachts sauna...
+3 -> 0: punishment hooch
+3 -// 0: nectar gliding
+ [<- 1: pit guineas
+@enduml

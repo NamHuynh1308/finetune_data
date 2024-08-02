@@ -1,0 +1,13 @@
+@startuml
+participant "natural cor" as 0
+participant "competitor fatty" as 1
+create participant "sensibilities plow" as 2
+1 -> 2 : sensibilities plow
+critical noticing nonsensical
+...fearful never...
+1 ->x 2: disgruntled same
+loop extreme nance
+2 -> 0: overwhelms liquefy
+end
+end
+@enduml

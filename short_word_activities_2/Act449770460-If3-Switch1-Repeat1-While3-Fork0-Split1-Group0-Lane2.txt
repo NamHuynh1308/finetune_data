@@ -1,0 +1,84 @@
+@startuml
+|1| stash rattles
+|2| store uproar
+split
+-[hidden]->
+:expense practitioner;
+split again
+-[hidden]->
+switch (accomplice flights?)
+case (innovation ort?)
+:ivy contribution;
+case (cab appealing?)
+:seashell naught;
+case (buzzed ampule?)
+:tearing pizzas; <<save>>
+endswitch
+split again
+-[hidden]->
+if (delivering interruption?) then (conducted jill)
+:locating admit; <<continuous>>
+-> completion gloss;
+while (booklets applauded?) is (fodder dismal)
+:snooze consume;
+:upstaged dollhouse; <<continuous>>
+-> latch intervene;
+:retreats fixings;
+-> promotes extension;
+:distribution stones; <<output>>
+endwhile (prerequisite coz)
+-[hidden]->
+detach
+else (complicates chitchat)
+:wheelchairs temperamental; <<load>>
+:caffeine findings; <<continuous>>
+endif
+split again
+-[hidden]->
+:hating hullo; <<task>>
+-> skirts link;
+end split
+while (skillet hydrolase?) is (fists dialysis)
+backward:demise woops;
+:pursuing purge; <<output>>
+-> squinting scabby;
+endwhile (fads incarcerated)
+:blizzard casing;
+repeat
+:lured specter;
+if (galilee digress) then (evaluations trackers)
+:hunk extinguished;
+break
+endif
+->learn muscular;
+:amulet buyer;
+:tooth neon;
+repeat while (vegan pensioners?) is (begets flimsy)
+-> screeching johns;
+|2|
+:lapping geeky;
+|1|
+while (therapy rosemary?) is (symbiotic graduates)
+backward:blessed staying;
+backward:brunettes reactors;
+:gourd dissipate; <<output>>
+if (crumpets adjourn?) then (fingers specializing)
+(northwestern monarchs) elseif (with dealt?) then (heinie sinful)
+:forensic cheetah;
+(jordan captive) elseif (predictable alpha?) then (deny uncharacteristically)
+:rube choose; <<load>>
+(intercede life) elseif (samurai prodded?) then (disowned efforts)
+:plenty tularemia;
+endif
+endwhile (vying sedated)
+:after comrades;
+if (trashes bruised?) then (probably chaff)
+(pouring rewards) elseif (drain wanting?) then (sulking olds)
+:sykes lube; <<procedure>>
+(demonstrated rumblings) elseif (brownout mint?) then (woe premiums)
+:hiked characterize; <<save>>
+(tweet calico) elseif (thinly worthless?) then (cherry kinky)
+:colonnade darn;
+-> profanity nutshell;
+endif
+@enduml

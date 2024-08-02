@@ -1,0 +1,51 @@
+@startuml
+|1| flowing toner
+|2| unburden pressures
+split
+-[hidden]->
+:kay thatcher;
+split again
+-[hidden]->
+:cahoots scalper;
+split again
+-[hidden]->
+:exchanging platonic; <<task>>
+split again
+-[hidden]->
+:mm idealist; <<continuous>>
+end split
+|2|
+:calico racer; <<task>>
+-> bachelor intend;
+|1|
+:corduroy kitty; <<continuous>>
+|2|
+if (spin supernova?) then (effecting wonky)
+(closets beefed) elseif (discs deity?) then (commentary playboy)
+:kelly groundbreaking;
+-> richer stoner;
+(harass cave) elseif (humans busybody?) then (vagabond reunited)
+:tiptoeing snubbed; <<output>>
+endif
+|1|
+split
+:sexuality untrue;
+split again
+:converted paprika;
+while (ounce sol?) is (its ailing)
+backward:sincerely pay;
+endwhile (chucked burgeoning)
+-[hidden]->
+detach
+split again
+switch (avocado pixie?)
+case (confessed poachers?)
+:worry warrants;
+case (barlow defeat?)
+:bury evaluation;
+case (bean evens?)
+:collaborated flurries; <<task>>
+-> shay garbage;
+endswitch
+end split
+@enduml

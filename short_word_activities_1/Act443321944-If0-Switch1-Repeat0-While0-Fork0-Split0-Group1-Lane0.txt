@@ -1,0 +1,17 @@
+@startuml
+start
+:relegated pleadings;
+-> reign popular;
+group aimed coattails
+switch (corduroy um?)
+case (daddies fasting?)
+:authorize princely; <<input>>
+-> ropes stilettos;
+case (solace dedication?)
+:virginity contemporary;
+case (sinker shirking?)
+:flimsy tattoos; <<output>>
+endswitch
+stop
+end group
+@enduml

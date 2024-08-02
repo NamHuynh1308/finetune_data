@@ -1,0 +1,11 @@
+@startuml
+participant "snooty illustrates" as 0
+participant "polish locally" as 1
+alt tailing proved
+1 ->o 0: gravity snails
+alt floor feedback
+...prelude hercules...
+1 ->] : precocious courtrooms
+end
+end
+@enduml

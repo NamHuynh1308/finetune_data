@@ -1,0 +1,11 @@
+@startuml
+participant "scat hires" as 0
+participant "you hairline" as 1
+0 -// 1: organizer attaboy
+opt madmen eruption
+ [<- 0: widow rah
+1 -\\ 1: milo fewer
+end
+0 -> 0: smart twists
+1 -> 1!! : prosciutto bilateral
+@enduml

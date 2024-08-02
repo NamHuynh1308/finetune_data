@@ -1,0 +1,8 @@
+@startuml
+start
+:bedpans busy; <<load>>
+-> swallows pheasant;
+:something backstroke; <<continuous>>
+-> seamless cabs;
+stop
+@enduml

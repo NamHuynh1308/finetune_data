@@ -1,0 +1,10 @@
+@startuml
+participant "dossier congress" as 0
+0 -\\ 0: rebellious drooling
+0 <-> 0: uncontrolled revival
+0 -> 0!! : trimmers roughly
+break intervene integrate
+0 -> 0: points lives
+0 ->x 0: diddly unhappiness
+end
+@enduml

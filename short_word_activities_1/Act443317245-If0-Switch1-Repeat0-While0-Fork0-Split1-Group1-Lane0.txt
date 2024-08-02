@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:stables moan;
+split again
+-[hidden]->
+switch (adjustable mollusk?)
+case (despising sponge?)
+:endowment bullpen;
+case (refresh desire?)
+:jammed goodbye;
+case (blackboard cigars?)
+:stuttering sickened; <<input>>
+case (devoted solarium?)
+:bully clumsy;
+endswitch
+split again
+-[hidden]->
+:slider yummy;
+end split
+group murals fastest
+:reckon rainy; <<input>>
+stop
+end group
+@enduml

@@ -1,0 +1,42 @@
+@startuml
+switch (freely influenza?)
+case (fathering gratuitous?)
+split
+:hospital thrives;
+split again
+:ravish decision;
+split again
+:joust mumps;
+end split
+case (mythological womanly?)
+if (ammonia gland?) then (nary fury)
+:replenish mid; <<task>>
+-> jet carats;
+kill
+else (its mulling)
+:barks dry; <<load>>
+endif
+endswitch
+switch (considers possum?)
+case (drumsticks peas?)
+split
+:stemmed confess;
+split again
+:decorum thunderbird; <<output>>
+split again
+:geezer jacks;
+end split
+case (rooms boutiques?)
+while (chirp economic?) is (evangelical rewind)
+backward:crown purchases;
+backward:blackmailing axel;
+:pedro attended; <<continuous>>
+-> quicksand touchdowns;
+:monkey continent; <<continuous>>
+-> hearing ethyl;
+endwhile (advisor dig)
+:difference collections;
+endswitch
+:dean chemically;
+end
+@enduml

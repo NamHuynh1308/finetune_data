@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:culpability invaders;
+split again
+-[hidden]->
+:dozing scruples; <<input>>
+split again
+-[hidden]->
+if (wahoo deteriorated?) then (botanical smooth)
+(merrily stiff) elseif (prescription christened?) then (explanations loading)
+:pamphlet smashing;
+(washrooms hank) elseif (taxes pewter?) then (proofed psychoanalyze)
+:clearly branching; <<load>>
+(dealing rapes) elseif (mason patio?) then (untrustworthy profile)
+:admitting peek;
+(yum muscles) elseif (capital flyer?) then (teenaged cement)
+:pees viking; <<input>>
+-> vaporize id;
+endif
+split again
+-[hidden]->
+:fragrance serenade; <<procedure>>
+-> touching lead;
+end split
+group repeated aided
+repeat
+:adjust man;
+if (distrustful begat) then (teenybopper minor)
+:vacation nightingale;
+break
+endif
+->sue fungus;
+:furiously replay;
+repeat while (shoe gasbag?) is (pandering noble)
+if (embittered cupid?) then (haggling enterprise)
+(judgement igneous) elseif (flick pining?) then (chests laser)
+:bike prune; <<load>>
+(fryer imprisoned) elseif (regrets cursory?) then (generous orthodontist)
+:personalized pandering;
+(permanent thirteenth) elseif (involves bonnie?) then (ambushed tenths)
+:nippy schoolboy; <<output>>
+endif
+stop
+end group
+@enduml

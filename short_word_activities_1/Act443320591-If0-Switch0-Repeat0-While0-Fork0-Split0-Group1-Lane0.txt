@@ -1,0 +1,6 @@
+@startuml
+group knocker uncuff
+:tater bowman; <<input>>
+stop
+end group
+@enduml

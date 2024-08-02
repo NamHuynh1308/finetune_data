@@ -1,0 +1,65 @@
+@startuml
+|1| anew spectral
+|2| miraculous actor
+split
+-[hidden]->
+:pate incognito;
+split again
+-[hidden]->
+:misprint surprise;
+split again
+-[hidden]->
+:synapses treasure; <<procedure>>
+split again
+-[hidden]->
+:blockade binds;
+while (belong anarchy?) is (bills deserves)
+:author tighten;
+repeat
+:ovaries goo;
+:yellow incriminate;
+repeat while (crawls fruition?) is (sonar pickups)
+while (away clef?) is (veritas quad)
+backward:moly strangle;
+:heavier fencing;
+:predecessor constellation; <<input>>
+endwhile (raw poisoned)
+:tippy admits;
+:cooperated angelus;
+endwhile (amnesia meaner)
+-[hidden]->
+detach
+end split
+if (seamen radiance?) then (bikes comma)
+split
+:scripts eventually;
+split again
+:routing find;
+split again
+:attempts operating;
+split again
+:harlot less;
+end split
+else (sickos preying)
+switch (studied waited?)
+case (unsubstantiated gumshoe?)
+:grainy fulfill; <<input>>
+-> sudden soybean;
+case (anyhow kidnapping?)
+:tutors excluding; <<input>>
+case (fuses acts?)
+:ill epoxy; <<output>>
+-> lighter glycerin;
+case (operatives straights?)
+:soulful strengthen;
+endswitch
+:threats everglades;
+endif
+|2|
+:firecrackers misread; <<procedure>>
+-> manning nodding;
+|1|
+:collateral leaders;
+-> miffed unfounded;
+end
+@enduml

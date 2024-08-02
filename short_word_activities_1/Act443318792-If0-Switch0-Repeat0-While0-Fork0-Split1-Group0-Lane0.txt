@@ -1,0 +1,16 @@
+@startuml
+start
+:ruby firefighters; <<procedure>>
+-> away accepts;
+split
+:aggression protector;
+split again
+:continues waterfall;
+-> go catwalk;
+split again
+:outbound futuristic;
+-> incubator thrive;
+end split
+:swooning mind;
+end
+@enduml

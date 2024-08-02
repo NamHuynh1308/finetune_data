@@ -1,0 +1,10 @@
+@startuml
+box "repeat sense"
+participant "burns duality" as 0
+end box
+ [<- 0: tardiness proper
+opt strategic zeroes
+ [-> 0: contra euro
+0 ->] : answered conclusive
+end
+@enduml

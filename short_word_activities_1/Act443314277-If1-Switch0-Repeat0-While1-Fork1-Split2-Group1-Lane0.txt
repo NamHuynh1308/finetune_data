@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:postcards leno;
+split again
+-[hidden]->
+:user underestimated;
+split again
+-[hidden]->
+:leagues stamina; <<output>>
+-> cremated swimmers;
+end split
+split
+:boombox purgatory;
+split again
+:microscopic ears;
+split again
+:servant grift;
+end split
+group plunge confidentiality
+:aunts whiff;
+fork
+:wench ruins;
+fork again
+if (covet squawk?) then (spic linoleum)
+:unwelcome cloves;
+:prescribe depending;
+:insomnia restrain; <<output>>
+else (outcome secretly)
+:summer sacks; <<task>>
+while (laces executives?) is (meteorite business)
+backward:polled programmed;
+:cocksuckers peel; <<output>>
+endwhile (disposition muscles)
+-[hidden]->
+detach
+endif
+fork again
+:runes goobers;
+kill
+end merge
+stop
+end group
+@enduml

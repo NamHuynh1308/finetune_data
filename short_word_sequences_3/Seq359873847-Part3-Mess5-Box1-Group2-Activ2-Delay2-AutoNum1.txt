@@ -1,0 +1,23 @@
+@startuml
+participant "rumours loves" as 0
+participant "diamonds artificial" as 1
+box "brightly jewel"
+participant "tempered warp" as 2
+end box
+autonumber 4 8
+2 ->] : topside linked
+0 -// 0: struggled firstborn
+...nutritionist stab...
+2 -\\ 1++ : impudence must
+autonumber stop
+alt sophisticated silliness
+2 --//o 2++ : auditing pokey
+opt prophet springs
+...leaning morn...
+0 -->x 2: printers obstetrician
+autonumber resume
+end
+end
+return shunned anvil
+return jitters helped
+@enduml

@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:temper grill;
+split again
+-[hidden]->
+:fluffed lira; <<input>>
+-> highness respectfully;
+split again
+-[hidden]->
+:goodwill needless; <<continuous>>
+-> therefore priors;
+split again
+-[hidden]->
+:somewhere judgments;
+-> criminally decorations;
+end split
+group dullard dimes
+if (instructing supposed?) then (measly cursory)
+(charlotte preemptive) elseif (vaccinated redemption?) then (fabricated economically)
+:compost scalping; <<output>>
+(discussion jarring) elseif (dilated discontent?) then (derris daddy)
+repeat
+:thermos whit; <<load>>
+:boldly forgets;
+repeat while (sink vegetative?) is (flops lake)
+endif
+stop
+end group
+@enduml

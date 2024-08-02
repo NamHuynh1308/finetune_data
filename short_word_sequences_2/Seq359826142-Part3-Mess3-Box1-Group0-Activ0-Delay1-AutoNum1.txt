@@ -1,0 +1,14 @@
+@startuml
+participant "poisons exceeds" as 0
+participant "dawdling flagship" as 1
+box "bungled hep"
+participant "pirate diamond" as 2
+end box
+autonumber 5 4
+ [<- 1: putting biochemistry
+autonumber stop
+...danger derogatory...
+1 -> 1: sludge authenticated
+autonumber resume
+ [-> 1: un package
+@enduml

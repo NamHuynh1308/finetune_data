@@ -1,0 +1,10 @@
+@startuml
+participant "whats inviting" as 0
+box "piddling wallpaper"
+participant "specified forgetful" as 1
+end box
+1 -> 0!! : prude wink
+...massively will...
+1 ->] : compass watchful
+0 -> 0: consortium vehicle
+@enduml

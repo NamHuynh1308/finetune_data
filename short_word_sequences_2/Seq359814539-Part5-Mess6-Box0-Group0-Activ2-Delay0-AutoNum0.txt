@@ -1,0 +1,16 @@
+@startuml
+participant "bottomless hilarity" as 0
+participant "regards clocked" as 1
+participant "trickster laird" as 2
+participant "naturally cool" as 3
+participant "ka rocks" as 4
+== toothpaste point ==
+1 -> 3++ : importing calmly
+4 <-] : ramble coughing
+return pioneer superstition
+1 ->] : skit shelter
+1 -> 0++ : bicker dol
+1 ->] : arboretum pathologist
+0 -> 2: kiwi spontaneity
+return missing ghoulish
+@enduml

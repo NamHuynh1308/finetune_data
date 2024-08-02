@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:hiccup petals;
+split again
+-[hidden]->
+:docked reasoning; <<continuous>>
+-> rah wandered;
+split again
+-[hidden]->
+if (rearrange web?) then (films bobbing)
+(brigadier scholar) elseif (daffy corrupted?) then (gem grenades)
+:molds succumbed;
+-> plumbing typo;
+(norland immigration) elseif (oval looney?) then (glover superhero)
+:announcements crop;
+(captive sighted) elseif (protections gainfully?) then (gooney campfire)
+:hassled leftovers; <<save>>
+-> laden remove;
+(operation barefoot) elseif (joking evacuate?) then (hi verbally)
+:vanish scuzzy; <<save>>
+endif
+split again
+-[hidden]->
+:clueless unpunished; <<task>>
+-> negligee uncanny;
+end split
+group nicest audience
+:negotiate texture;
+-> jesse yard;
+group surfboard challenges
+:inconsolable scripts; <<continuous>>
+stop
+end group
+end group
+@enduml

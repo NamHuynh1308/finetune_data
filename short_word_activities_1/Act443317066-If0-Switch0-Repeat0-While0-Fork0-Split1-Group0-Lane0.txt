@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:keno schedule;
+split again
+-[hidden]->
+:demand barley; <<load>>
+-> abetted homecoming;
+split again
+-[hidden]->
+:druggist wins;
+split again
+-[hidden]->
+:prompt citizens;
+end split
+:indigestion insecurities; <<continuous>>
+-> interferes read;
+:grandson rapture;
+-> detached consummated;
+stop
+@enduml

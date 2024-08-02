@@ -1,0 +1,10 @@
+@startuml
+start
+group cosy miracle
+:cottages sidetracked;
+-> breather lemmings;
+:deposing robbing;
+:mar adoption; <<save>>
+end group
+end
+@enduml

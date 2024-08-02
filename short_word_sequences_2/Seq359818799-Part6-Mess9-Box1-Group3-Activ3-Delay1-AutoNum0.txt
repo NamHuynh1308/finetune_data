@@ -1,0 +1,30 @@
+@startuml
+participant "haywire fallible" as 0
+participant "passable military" as 1
+participant "editorials limousine" as 2
+box "afar weir"
+participant "harms gamble" as 3
+participant "evaluations rebuilding" as 4
+end box
+== superior corridor ==
+alt prone dickens
+0 ->x 4: ole orienteering
+alt glade kismet
+3 -> 0++ : chastity naps
+...sidewalk squander...
+1 -> 2: slip oaf
+create participant "dewars softer" as 5
+1 -> 5 : dewars softer
+return speakeasy feelings
+ [-> 4: gondola scooter
+2 ->> 0: divorced stays
+4 -> 4: corn fainting
+1 --//o 2++ : stupidity genome
+break consists fuels
+0 -> 0++ : striking tommy
+end
+end
+end
+return dishonor effected
+return swizzle sinks
+@enduml

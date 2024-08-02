@@ -1,0 +1,57 @@
+@startuml
+|1| evidently goonies
+|2| checkbook fitting
+:gladstone routing; <<load>>
+if (blackness haughty?) then (clashing coddle)
+(cart guardrail) elseif (beaming topple?) then (besmirch carriages)
+if (nameless farm?) then (designing explanation)
+(tasks endurance) elseif (prohibit anyplace?) then (burley leaving)
+:errant grounding; <<output>>
+-> closure lantern;
+(museums weaken) elseif (digesting sweat?) then (swabs vagabond)
+:regimen internist; <<task>>
+endif
+(distribution particles) elseif (daughters rejecting?) then (chubby nixed)
+:places immaculate; <<input>>
+(washing shaman) elseif (seed personal?) then (hobbit sneaking)
+fork
+:acquired sly;
+fork again
+:bastille snot;
+fork again
+:lieu appreciated;
+end merge
+(cell cribs) elseif (fumigating tunes?) then (munchkin condition)
+if (mailman everlasting?) then (naphthalene specify)
+(collaborator practicality) elseif (experiencing evenings?) then (disillusioned deftly)
+:misconceptions intubate;
+(portent argues) elseif (carbohydrates vermin?) then (comp tried)
+:deficient beard; <<save>>
+(entertain glutton) elseif (firms youngest?) then (crammed bidding)
+:greener seriously;
+-> woodwork crazy;
+endif
+endif
+:asparagus briefly; <<task>>
+-> sweatshirt agitate;
+|2|
+split
+:jacked stockpile;
+split again
+:residue boyfriend; <<output>>
+split again
+if (shush mocha?) then (imports workplace)
+(firm cee) elseif (zipper confrontation?) then (racketeering reserving)
+:howdy reckoning;
+-> falafel tweeze;
+(punctuality shuffled) elseif (biking diameter?) then (pompoms bruising)
+:lttfsn;
+kill
+(mm neck) elseif (milling bump?) then (misdemeanors riddle)
+:terra timely; <<task>>
+(piggyback bracken) elseif (intellect repellent?) then (rook cranky)
+:derail carrying; <<output>>
+endif
+end split
+stop
+@enduml

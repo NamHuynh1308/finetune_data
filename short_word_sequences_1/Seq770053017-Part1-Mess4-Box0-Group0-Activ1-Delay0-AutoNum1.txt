@@ -1,0 +1,11 @@
+@startuml
+participant "tyrants tenacity" as 0
+autonumber 6 10
+0 -->x 0: cocktail concord
+0 -\\ 0: snooty skyrocket
+0 -\\ 0: toll ecstasy
+autonumber stop
+0 ->o 0++ : touched plates
+autonumber resume
+return weatherman tradeoff
+@enduml

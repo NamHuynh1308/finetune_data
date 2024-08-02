@@ -1,0 +1,23 @@
+@startuml
+start
+switch (snakebite initiate?)
+case (fulfil roughly?)
+:foamy dysentery; <<output>>
+case (leash liberties?)
+split
+:homecoming butlers;
+split again
+:newton obscene; <<task>>
+split again
+:clogging guides;
+split again
+:cab initials;
+end split
+case (respectful leeches?)
+:developed version; <<task>>
+endswitch
+group sierra consecutive
+:maternity novels; <<save>>
+stop
+end group
+@enduml

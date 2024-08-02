@@ -1,0 +1,29 @@
+@startuml
+box "shortcomings dishonest"
+participant "pirate eventual" as 0
+participant "seasonal begun" as 1
+box "mop backstreet"
+participant "fortress gouge" as 2
+participant "engineered demo" as 3
+end box
+end box
+autonumber 10 9
+create participant "unflattering imperfection" as 4
+2 -> 4 : unflattering imperfection
+par jubilee stylish
+3 -> 0: cyberspace prior
+alt electrodes covenant
+...polish inappropriately...
+1 -\\ 0: tape concentrating
+3 -> 2: merchandising auxiliary
+autonumber stop
+4 --//o 3++ : topped concentric
+else wolves investigate
+0 ->] : concentrating crazed
+else birds activation
+2 <-] : blam lullaby
+return interviews attempts
+autonumber resume
+end
+end
+@enduml

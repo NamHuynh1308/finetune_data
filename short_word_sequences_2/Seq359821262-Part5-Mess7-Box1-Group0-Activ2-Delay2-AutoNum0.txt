@@ -1,0 +1,20 @@
+@startuml
+participant "diatribes prospect" as 0
+participant "unsuitable passageways" as 1
+participant "transformed convinces" as 2
+box "leadership stricken"
+participant "stray clauses" as 3
+end box
+3 ->x 1++ : wretch potted
+create participant "worshipped pediatrics" as 4
+2 -> 4 : worshipped pediatrics
+return soonest legislature
+...cooler releasing...
+2 -> 0++ : hemoglobin tuition
+ [<- 2: quantity competent
+1 --//o 3: overlook overheating
+3 --//o 4: friendless dies
+return rave spills
+...dome cheddar...
+0 -> 4: mountainside cartons
+@enduml

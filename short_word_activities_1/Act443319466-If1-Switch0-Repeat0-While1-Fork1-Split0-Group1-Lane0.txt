@@ -1,0 +1,33 @@
+@startuml
+start
+group watching sipping
+while (mocking nearest?) is (cheaper showgirl)
+:fabulous excluding; <<input>>
+if (cerebral pianist?) then (barbershop mapped)
+(clarinet strokes) elseif (turned clothing?) then (ahold marshal)
+:hymns depths; <<task>>
+-> platters gusher;
+(ambition dynamics) elseif (acute entrenched?) then (mas flutes)
+:hubby adventurous; <<output>>
+-> teasing aggravated;
+(pops undeserving) elseif (endangering relation?) then (apply pate)
+:brandies endurance; <<input>>
+-> awakes hat;
+(fur escorted) elseif (haircut mermaids?) then (sunset jilted)
+:differ eaters; <<procedure>>
+endif
+fork
+:liquor swanky;
+fork again
+:reappeared prying; <<output>>
+-> holdup gingerbread;
+fork again
+:snags filming;
+end merge
+:gofer puns; <<input>>
+-> nautilus braid;
+endwhile (ballots sidekick)
+:zebra barrels;
+stop
+end group
+@enduml

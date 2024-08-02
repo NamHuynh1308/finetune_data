@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:coiffure inaccuracies;
+split again
+-[hidden]->
+:steak redefine;
+-> whilst talentless;
+split again
+-[hidden]->
+:coattails presence; <<procedure>>
+-> cola poverty;
+end split
+group lynch rubbing
+:before incoming; <<input>>
+-> tibia bluff;
+stop
+end group
+@enduml

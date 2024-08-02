@@ -1,0 +1,17 @@
+@startuml
+box "realms abusing"
+participant "duel categorized" as 0
+box "bleeding sabin"
+participant "burglary admonition" as 1
+end box
+end box
+== ribs booths ==
+1 -> 0: tiring repute
+1 -> 1!! : blitz frolic
+1 -->x 1: exit raft
+critical reverence obstacle
+...returned carl...
+1 --//o 0++ : bombarding controlled
+end
+return doily concentrated
+@enduml

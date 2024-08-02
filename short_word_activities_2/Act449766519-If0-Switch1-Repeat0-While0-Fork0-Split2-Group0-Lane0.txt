@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:slinky sixpence;
+split again
+-[hidden]->
+split
+:liberal essays;
+split again
+:fronting origins; <<output>>
+split again
+:incorporate agricultural; <<save>>
+-> shattered brick;
+split again
+:freedom skimming;
+end split
+split again
+-[hidden]->
+:townsfolk majority; <<input>>
+-> debate puritan;
+split again
+-[hidden]->
+switch (umbrella dirty?)
+case (lei morse?)
+:dollar inscription;
+case (culturally securely?)
+:godson boatload;
+-> sim lanyard;
+case (amphetamines heartwarming?)
+:towns perfectly;
+case (practical giants?)
+:gravely punishments;
+endswitch
+end split
+:wooed slay;
+:nectar stuffing; <<output>>
+:angry gowns; <<load>>
+@enduml

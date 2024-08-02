@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:cypress wreaked;
+split again
+-[hidden]->
+:croc bodyguard; <<save>>
+split again
+-[hidden]->
+:trouble detest; <<save>>
+split again
+-[hidden]->
+:diatribes goldenrod; <<save>>
+end split
+fork
+:cakewalk told;
+fork again
+:puddle traditions; <<load>>
+-> requisite valley;
+fork again
+:handball notes;
+end merge
+:pink meditate; <<task>>
+-> hatchet nervously;
+end
+@enduml

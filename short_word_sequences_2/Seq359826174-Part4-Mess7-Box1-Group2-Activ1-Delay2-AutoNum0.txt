@@ -1,0 +1,24 @@
+@startuml
+participant "brandy speeding" as 0
+box "mince derby"
+participant "profiles bikinis" as 1
+participant "tinsel hemisphere" as 2
+end box
+== creamed eclipse ==
+1 -> 2++ : reefer ponies
+alt sandstorm pastels
+2 -> 2: stripes grocer
+...breaks streams...
+1 -> 1: forbid wonky
+return cots thrilling
+else rising staked
+...tackle comes...
+0 <-] : bedtime purple
+loop agree gimmie
+1 <-> 1: consists creates
+create participant "firecrackers upward" as 3
+2 -> 3 : firecrackers upward
+end
+0 --> 3: seamen dagger
+end
+@enduml

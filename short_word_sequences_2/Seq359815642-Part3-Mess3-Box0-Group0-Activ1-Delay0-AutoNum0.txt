@@ -1,0 +1,9 @@
+@startuml
+participant "modem abused" as 0
+participant "tradition imperial" as 1
+participant "roller volcanoes" as 2
+0 -> 0++ : unmanned detect
+1 -->x 1: roadhouse muddy
+0 -> 2: thru concerts
+return on instructions
+@enduml

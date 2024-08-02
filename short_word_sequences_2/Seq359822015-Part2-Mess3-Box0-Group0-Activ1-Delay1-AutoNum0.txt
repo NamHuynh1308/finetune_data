@@ -1,0 +1,9 @@
+@startuml
+participant "seamen uncovered" as 0
+participant "upcoming whereabouts" as 1
+0 -> 0: loaded fits
+1 -// 1++ : unhinged independent
+...gridlock caged...
+1 -->x 0: ambush picks
+return miscreant corporations
+@enduml

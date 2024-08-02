@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:grandmother coca;
+split again
+-[hidden]->
+:thinks rug;
+split again
+-[hidden]->
+:muzzle replay; <<output>>
+end split
+:centerpieces doubtful;
+-> unpack tassels;
+group automotive prime
+:honeymooners burritos; <<procedure>>
+-> checking bot;
+:viscous minty; <<continuous>>
+end group
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+start
+split
+:outnumber graciously;
+split again
+:tends woody; <<output>>
+-> interviewing rise;
+split again
+:lieutenant upkeep; <<procedure>>
+end split
+end
+@enduml

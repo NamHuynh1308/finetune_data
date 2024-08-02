@@ -1,0 +1,10 @@
+@startuml
+box "mowed search"
+participant "company promenade" as 0
+end box
+ [<- 0: tongs bam
+par sanding speedy
+...decadence expelling...
+ [<- 0: pulse fueled
+end
+@enduml

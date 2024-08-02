@@ -1,0 +1,10 @@
+@startuml
+participant "luckily ghettos" as 0
+box "comparison dole"
+participant "confinement decorator" as 1
+end box
+autonumber 10 7
+0 ->o 1: cauldron armored
+ [<- 1: bertha stinking
+0 -// 1: switches whacko
+@enduml

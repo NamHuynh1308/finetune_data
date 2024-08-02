@@ -1,0 +1,6 @@
+@startuml
+participant "rethink cowboy" as 0
+autonumber 6 2
+0 --> 0++ : freezers brainstorm
+return crayons materialize
+@enduml

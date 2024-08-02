@@ -1,0 +1,5 @@
+@startuml
+participant "colds altogether" as 0
+ [<- 0: backward spider
+0 -> 0!! : hereafter virtuoso
+@enduml

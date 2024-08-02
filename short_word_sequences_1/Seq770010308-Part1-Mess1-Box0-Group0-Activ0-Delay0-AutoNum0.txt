@@ -1,0 +1,4 @@
+@startuml
+participant "weeny flaky" as 0
+0 -\\ 0: serving illogical
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "tau tolerated" as 0
+0 -->x 0: total arch
+0 -> 0: elbows overwhelm
+0 -->x 0: ambiguous renting
+@enduml

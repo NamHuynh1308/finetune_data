@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:puffs rock;
+split again
+-[hidden]->
+:courteous reader;
+kill
+split again
+-[hidden]->
+:fugu feds;
+end split
+:custard yours;
+group haired barnyard
+:hurt stereo; <<procedure>>
+stop
+end group
+@enduml

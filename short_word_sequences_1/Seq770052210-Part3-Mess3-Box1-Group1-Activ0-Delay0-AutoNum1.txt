@@ -1,0 +1,15 @@
+@startuml
+box "staunch middleman"
+participant "goldfish leader" as 0
+participant "awry typewriter" as 1
+participant "doubly milking" as 2
+end box
+autonumber 3 6
+0 --> 2: koi dumping
+ [-> 2: fairway ended
+autonumber stop
+loop attackers packed
+1 -> 0: imperative treason
+autonumber resume
+end
+@enduml

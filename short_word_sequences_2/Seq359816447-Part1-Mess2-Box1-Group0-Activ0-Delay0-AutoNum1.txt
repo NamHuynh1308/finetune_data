@@ -1,0 +1,8 @@
+@startuml
+box "insolent recon"
+participant "sewer lasagna" as 0
+end box
+autonumber 7 7
+0 -\\ 0: romantic constraints
+0 ->x 0: contributed breeze
+@enduml

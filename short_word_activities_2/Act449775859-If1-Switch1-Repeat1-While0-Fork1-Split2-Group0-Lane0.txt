@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:simulations graham;
+split again
+-[hidden]->
+split
+:workstation truths;
+split again
+:calzone ode; <<save>>
+-> periods formal;
+split again
+:isotopes household;
+split again
+:pisses oedipal;
+end split
+split again
+-[hidden]->
+:skied proposed;
+-> stretcher notoriously;
+split again
+-[hidden]->
+repeat
+:showoff reinstating;
+backward:strep hayseed;
+repeat while (waitresses motivation?) is (pseudo supermodel)
+-> laceration barometer;
+end split
+:therefore warfare; <<task>>
+switch (labs becks?)
+case (employment unstable?)
+fork
+:occurs willingly;
+fork again
+:labor pessimist;
+-> waistband telekinesis;
+fork again
+:set vivacious; <<input>>
+-> washcloth roster;
+end merge
+case (monarchy sesame?)
+if (stake surpassed?) then (appreciated would)
+(brag rejoice) elseif (ranchers conspirator?) then (haunt bandage)
+:crane antiquated; <<task>>
+-> tenner conspicuous;
+(hinted convenience) elseif (comforting evicted?) then (abandoned acclaim)
+:informer halothane;
+endif
+endswitch
+@enduml

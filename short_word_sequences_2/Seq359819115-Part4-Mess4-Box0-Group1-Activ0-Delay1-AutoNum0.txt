@@ -1,0 +1,14 @@
+@startuml
+participant "quits guerillas" as 0
+participant "amicable lethal" as 1
+participant "weld mandrake" as 2
+1 -> 2: laser jackets
+alt arrange sear
+create participant "gentlemen descendants" as 3
+0 -> 3 : gentlemen descendants
+...acquisitions literary...
+1 -> 0: housewives attached
+else regulated giver
+1 <-] : jimmy noticed
+end
+@enduml

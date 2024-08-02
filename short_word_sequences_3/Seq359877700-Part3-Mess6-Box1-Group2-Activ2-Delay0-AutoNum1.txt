@@ -1,0 +1,24 @@
+@startuml
+participant "slipper reminders" as 0
+participant "humph balk" as 1
+box "shattering teenagers"
+participant "stonewalled magnet" as 2
+end box
+autonumber 2 1
+2 -->x 2: transports asphalt
+opt exerting narrowing
+0 --> 0: soulless franchise
+1 -> 0++ : fool karaoke
+else luckiest dishonorable
+1 -\\ 1: emphatic separated
+return salamander mailed
+autonumber stop
+else treatable catches
+2 -> 0++ : penetration jewel
+end
+critical disobeying conducting
+0 -> 1: vespers cubby
+return malt never
+autonumber resume
+end
+@enduml

@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:discord imagination;
+split again
+-[hidden]->
+:sovereignty drumstick; <<task>>
+split again
+-[hidden]->
+:cutthroat accessory; <<input>>
+end split
+group anesthesia tae
+if (flamer every?) then (culturally firm)
+:inhabitants impervious; <<load>>
+:describe urethra; <<continuous>>
+-> manager bus;
+:motor dueling; <<continuous>>
+-> diverted impulsively;
+kill
+else (bobbin mowers)
+fork
+:warmed corsage;
+fork again
+:shalom rex; <<save>>
+fork again
+:monumentally soprano; <<load>>
+-> hokey clearly;
+fork again
+:downtrodden dolly; <<output>>
+end fork
+endif
+stop
+end group
+@enduml

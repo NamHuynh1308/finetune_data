@@ -1,0 +1,25 @@
+@startuml
+participant "chariots guardrail" as 0
+participant "difficulty fields" as 1
+box "postage cooper"
+participant "conferring caroling" as 2
+end box
+autonumber 0 0
+create participant "completes psi" as 3
+1 -> 3 : completes psi
+autonumber stop
+create participant "biding tumbling" as 4
+2 -> 4 : biding tumbling
+4 -\\ 2: mercenary inhaled
+autonumber resume
+...million unconcerned...
+2 --> 0: engraved provocations
+1 ->x 1++ : guitarist sack
+autonumber stop
+loop decoy flake
+...waving sightless...
+3 ->] : casualty robbers
+autonumber resume
+end
+return obsolete sissy
+@enduml

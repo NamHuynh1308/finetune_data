@@ -1,0 +1,17 @@
+@startuml
+start
+group smoke canned
+:seltzer settlement;
+-> converting pinhead;
+:allegation passage; <<load>>
+end group
+split
+:loosening fins;
+split again
+:coolant muzzle; <<procedure>>
+-> camping torches;
+split again
+:colonel worrying;
+kill
+end split
+@enduml

@@ -1,0 +1,35 @@
+@startuml
+start
+group soundly punch
+:spilled spiky;
+fork
+:armour illustrated;
+fork again
+if (rooming explains?) then (homeless baker)
+(during meager) elseif (angst waits?) then (aloe ballots)
+:speculations classification; <<task>>
+(neck reader) elseif (empathy butlers?) then (buggered buts)
+:squaring encyclopedias;
+(dreamer personal) elseif (bottoms poses?) then (business nouveau)
+:wildcats attendant;
+endif
+fork again
+while (injections purgatory?) is (euphemisms stopwatch)
+:hangover optimism;
+backward:jeep tasty;
+:nanny contained; <<input>>
+endwhile (audition stickers)
+:infighting defied;
+fork again
+split
+:dislike human;
+split again
+:gouge rises;
+split again
+:communion oops; <<procedure>>
+-> lovelorn picket;
+end split
+end fork
+stop
+end group
+@enduml

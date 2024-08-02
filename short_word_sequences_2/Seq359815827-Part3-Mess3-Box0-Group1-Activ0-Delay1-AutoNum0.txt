@@ -1,0 +1,14 @@
+@startuml
+participant "pedro fairy" as 0
+participant "tankers presently" as 1
+== cutter fifties ==
+alt repay gang
+0 --//o 1: silks spank
+...visitors flog...
+1 -> 1: see servants
+else dui tribute
+create participant "blasting movement" as 2
+1 -> 2 : blasting movement
+else knowledge skier
+end
+@enduml

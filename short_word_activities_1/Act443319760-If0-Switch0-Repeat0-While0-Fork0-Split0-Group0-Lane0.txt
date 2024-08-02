@@ -1,0 +1,5 @@
+@startuml
+start
+:manicures polls; <<procedure>>
+-> badminton doggies;
+@enduml

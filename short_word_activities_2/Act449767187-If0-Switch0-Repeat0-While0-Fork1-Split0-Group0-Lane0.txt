@@ -1,0 +1,11 @@
+@startuml
+fork
+:pathways statistic;
+fork again
+:exploitation sweethearts;
+kill
+fork again
+:compatibility rear; <<save>>
+end fork
+stop
+@enduml

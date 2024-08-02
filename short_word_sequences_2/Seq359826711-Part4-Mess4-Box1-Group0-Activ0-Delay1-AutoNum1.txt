@@ -1,0 +1,15 @@
+@startuml
+box "offspring zone"
+participant "onstage practicing" as 0
+participant "thruway hangnail" as 1
+end box
+participant "spies cacciatore" as 2
+participant "stimuli psychopath" as 3
+autonumber 10 5
+3 ->o 2: foamy downtrodden
+...extinguish expiration...
+2 -> 3: bashed whiner
+1 -> 2: cooler competing
+autonumber stop
+1 -// 1: winters sweets
+@enduml

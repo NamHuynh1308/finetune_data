@@ -1,0 +1,70 @@
+@startuml
+split
+-[hidden]->
+:favorites dweller;
+split again
+-[hidden]->
+:presents exchange; <<task>>
+-> celebrates scotia;
+split again
+-[hidden]->
+:richer alligator; <<continuous>>
+split again
+-[hidden]->
+switch (victor fathers?)
+case (prognosis snowboard?)
+:asks kidnapped; <<input>>
+case (artistry blow?)
+:experimental merl;
+endswitch
+end split
+repeat
+:pleas chairs;
+if (uprooted dinged) then (acing rein)
+:temperature medicine;
+break
+endif
+->bloodsucker platitudes;
+:droopy distorted;
+repeat while (preys column?) is (accomplishment humanly)
+group campfire chimpanzee
+switch (topics splendid?)
+case (quicker stalemate?)
+fork
+:consoled enables;
+fork again
+:solely catheter;
+-> protein cartels;
+fork again
+:coroners peaceful;
+end fork
+case (decor psst?)
+:thankless lasted; <<continuous>>
+-> pairs rationalize;
+case (stealthy smell?)
+:perpetual impacts;
+while (timeline dullard?) is (scrutinized rag)
+if (joining destroys?) then (command prescriptions)
+(detectors marvelous) elseif (prioritize mongoose?) then (upfront living)
+:horns sobbing; <<continuous>>
+-> surfed kaput;
+(aiming presence) elseif (beamed rebuilding?) then (thorn cos)
+:ftajaw;
+kill
+(booker officially) elseif (universe ridiculed?) then (evicted dispatch)
+:rialto radiator;
+(woman cooperative) elseif (dedicated chore?) then (celebrities hitting)
+:recipient rocky;
+endif
+:chambers scag; <<task>>
+-> accomplice misplaced;
+endwhile (grandfather whoops)
+-[hidden]->
+detach
+case (ramus doodles?)
+:swapped staple; <<continuous>>
+-> players concede;
+endswitch
+stop
+end group
+@enduml

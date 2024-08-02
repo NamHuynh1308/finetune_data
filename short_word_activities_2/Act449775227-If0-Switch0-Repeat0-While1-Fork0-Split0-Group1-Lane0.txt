@@ -1,0 +1,12 @@
+@startuml
+group problems kicker
+:hoisted strongly;
+:hindrance coworker; <<task>>
+while (conference nosy?) is (barker cataracts)
+backward:grades bonds;
+backward:saws alderman;
+endwhile (warheads boast)
+:fields king;
+stop
+end group
+@enduml

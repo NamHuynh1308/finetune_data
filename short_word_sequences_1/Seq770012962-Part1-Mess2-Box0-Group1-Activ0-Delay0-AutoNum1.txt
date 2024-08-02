@@ -1,0 +1,8 @@
+@startuml
+participant "tracing brochures" as 0
+autonumber 9 8
+0 <-> 0: unfold catfight
+critical torched waitress
+0 -> 0: onward trashes
+end
+@enduml

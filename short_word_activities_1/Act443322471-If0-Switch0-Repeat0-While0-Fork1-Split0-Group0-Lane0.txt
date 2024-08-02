@@ -1,0 +1,14 @@
+@startuml
+start
+:hunchback capping; <<output>>
+-> old oodles;
+:technically lucid; <<continuous>>
+fork
+:panel squire;
+fork again
+:practicality locomotive; <<load>>
+fork again
+:paralyzing miniscule; <<task>>
+-> miner language;
+end merge
+@enduml

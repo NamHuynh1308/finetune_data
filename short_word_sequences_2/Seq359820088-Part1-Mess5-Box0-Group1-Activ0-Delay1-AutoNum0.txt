@@ -1,0 +1,12 @@
+@startuml
+participant "hesitating bulletins" as 0
+== stairwell tentative ==
+0 -> 0: beds cakes
+0 <-> 0: eloped exempt
+...draw locally...
+0 -> 0: colors creeps
+0 -> 0: perfecto asunder
+opt stealth impulses
+0 -->x 0: ballads transponder
+end
+@enduml

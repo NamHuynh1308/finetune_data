@@ -1,0 +1,12 @@
+@startuml
+participant "salesman manufacturer" as 0
+participant "mutton briefed" as 1
+participant "parasailing sufficiently" as 2
+1 ->> 2: supervised throwers
+...madmen pixilated...
+2 -> 1++ : loran weed
+2 <-> 2: leave roaring
+create participant "through clincher" as 3
+0 -> 3 : through clincher
+return bloodshed saline
+@enduml

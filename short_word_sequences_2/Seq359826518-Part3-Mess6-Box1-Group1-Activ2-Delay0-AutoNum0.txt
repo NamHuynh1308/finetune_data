@@ -1,0 +1,17 @@
+@startuml
+box "infernal floe"
+participant "incoming monsignor" as 0
+participant "bidding memorable" as 1
+participant "grad fledged" as 2
+end box
+alt pussycat cruddy
+ [<- 1: tiramisu heads
+1 --> 1++ : pheasants dissolve
+0 -> 2++ : bell phony
+end
+ [-> 1: backward bombarding
+return mobilize criterion
+0 <-> 2: idiosyncrasies physiological
+return escapades pedicures
+ [<- 2: acorn reel
+@enduml

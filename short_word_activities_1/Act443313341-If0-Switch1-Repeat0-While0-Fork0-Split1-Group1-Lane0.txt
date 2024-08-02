@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:pewter firefighters;
+split again
+-[hidden]->
+:divorces pipe; <<task>>
+split again
+-[hidden]->
+:draft situated;
+split again
+-[hidden]->
+:overstay attuned; <<procedure>>
+end split
+:blue yep; <<procedure>>
+switch (delivering uncanny?)
+case (hinted apprentice?)
+:ethics shutters; <<procedure>>
+case (raid nation?)
+:forging oriented; <<input>>
+-> ogres extend;
+case (amp barbershop?)
+:counteroffer sighing; <<output>>
+-> soothe apartments;
+case (homosexual injections?)
+:outsiders boating; <<procedure>>
+endswitch
+group scrapings coliseum
+:snort upstart; <<procedure>>
+stop
+end group
+@enduml

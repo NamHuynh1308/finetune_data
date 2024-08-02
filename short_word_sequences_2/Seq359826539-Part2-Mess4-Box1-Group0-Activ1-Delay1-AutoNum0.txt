@@ -1,0 +1,12 @@
+@startuml
+participant "tournaments remembrance" as 0
+box "swooning client"
+participant "gangland hyperspace" as 1
+end box
+1 -> 1: magnitude packet
+...contain mimosas...
+ [-> 0: wondrous morphine
+1 ->> 0++ : phobias edging
+0 -->x 0: firebird rex
+return locals thirsty
+@enduml

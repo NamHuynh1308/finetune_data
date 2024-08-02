@@ -1,0 +1,13 @@
+@startuml
+participant "deflecting accent" as 0
+box "guardians attributes"
+participant "practices according" as 1
+participant "oneself anxiety" as 2
+end box
+0 -->x 0: eaten gamble
+opt phonies consortium
+0 --> 0: subways gaps
+2 ->> 1: seeker overreaction
+1 ->] : hypothetical stranglehold
+end
+@enduml

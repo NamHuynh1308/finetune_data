@@ -1,0 +1,31 @@
+@startuml
+participant "gauze waiter" as 0
+box "ledge pitcher"
+participant "assuredly harridan" as 1
+box "reconciling sweetly"
+participant "distortion octopus" as 2
+participant "monument catwalk" as 3
+box "regurgitate substantive"
+participant "following winks" as 4
+end box
+end box
+end box
+opt vandals foray
+2 -\\ 1: betrays autographed
+0 ->> 1: coast bones
+1 -// 1++ : diligently annoyed
+else player synapses
+par latch sincerity
+...southern remainder...
+4 -> 0!! : display mop
+return playful waitressed
+4 --//o 3++ : saving scar
+2 -\\ 4++ : knowing lips
+end
+3 <-> 1: politically deposing
+return toothed tsunami
+0 -> 1: powered phosphorous
+return lend coiffure
+else sear slim
+end
+@enduml

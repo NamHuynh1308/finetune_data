@@ -1,0 +1,15 @@
+@startuml
+start
+group theta embraces
+fork
+:commerce pail;
+fork again
+:inappropriately scientists;
+fork again
+:purse drips; <<load>>
+end merge
+:oxen domestic; <<continuous>>
+-> harpies wally;
+end group
+stop
+@enduml

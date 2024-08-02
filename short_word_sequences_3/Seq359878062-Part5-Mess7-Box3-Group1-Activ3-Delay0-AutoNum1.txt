@@ -1,0 +1,28 @@
+@startuml
+participant "willingly mousse" as 0
+box "agreement destination"
+participant "optimist riverbank" as 1
+box "roles enterprise"
+participant "deport goers" as 2
+box "intoxicating stiff"
+participant "formal unearthed" as 3
+end box
+end box
+end box
+autonumber 9 6
+0 -> 1: masseur cocktail
+break hob flagging
+0 -> 2++ : materialistic stow
+3 -> 3++ : practices authors
+else dew louder
+1 -// 1++ : sanded animals
+else calendar cranberry
+1 ->> 2: habits bunk
+create participant "social clerk" as 4
+3 -> 4 : social clerk
+3 -> 4: visas unlike
+end
+return drafting intense
+return abound meringue
+return muskrat scratchy
+@enduml

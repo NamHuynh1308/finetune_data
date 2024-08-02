@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:pales satire;
+split again
+-[hidden]->
+:pantry nonsensical;
+split again
+-[hidden]->
+:nerds erase;
+-> misfits clamp;
+split again
+-[hidden]->
+:rails altered; <<output>>
+-> sweeps discontent;
+end split
+repeat
+backward:hustle boorish;
+repeat while (tattooed concussion?) is (grazed revolutionaries)
+group schedule economic
+:terms celibate;
+-> intestines betting;
+stop
+end group
+@enduml

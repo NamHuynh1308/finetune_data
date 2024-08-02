@@ -1,0 +1,9 @@
+@startuml
+participant "purely absurd" as 0
+box "midwestern clotted"
+participant "disparaging gangly" as 1
+end box
+autonumber 6 1
+1 <-] : aesthetics unmitigated
+0 -\\ 1: concise bikes
+@enduml

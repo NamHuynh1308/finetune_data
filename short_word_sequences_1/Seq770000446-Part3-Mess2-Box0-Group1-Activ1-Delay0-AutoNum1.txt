@@ -1,0 +1,11 @@
+@startuml
+participant "slated starter" as 0
+participant "missions skidded" as 1
+autonumber 2 9
+1 -> 1++ : probationary reevaluate
+alt extraordinaire cartilage
+create participant "progeny reasonable" as 2
+1 -> 2 : progeny reasonable
+end
+return mortuary temporarily
+@enduml

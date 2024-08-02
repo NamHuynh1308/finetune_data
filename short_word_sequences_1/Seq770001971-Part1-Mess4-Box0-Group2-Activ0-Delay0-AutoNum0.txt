@@ -1,0 +1,13 @@
+@startuml
+participant "surfaces moonlighting" as 0
+== claim acquisition ==
+alt stone lemmings
+0 -> 0!! : piping doctors
+break spins flecks
+0 ->o 0: dictators unnerve
+0 --> 0: thoracotomy colours
+else announcer dimmer
+0 <-] : zoning lovelier
+end
+end
+@enduml

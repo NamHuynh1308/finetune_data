@@ -1,0 +1,45 @@
+@startuml
+|1| core pout
+|2| samples capitalist
+split
+-[hidden]->
+:schlep hushed;
+split again
+-[hidden]->
+:dossier overwhelm;
+split again
+-[hidden]->
+:thaw repeal; <<output>>
+end split
+|2|
+split
+:hospital next;
+split again
+:giants restrain;
+split again
+:fauna horrified; <<continuous>>
+-> embassy truckers;
+end split
+:verdict lingerie; <<task>>
+if (confidentially muddy?) then (envelopes incarcerate)
+(captured car) elseif (stubborn crawling?) then (diners expired)
+:timber parchment; <<continuous>>
+(disoriented flicked) elseif (embezzlement parade?) then (blasted regeneration)
+:channels distaste; <<procedure>>
+(steroids parenthood) elseif (businessmen summarize?) then (insecurity pestilence)
+:bordeaux approve; <<input>>
+-> castle denning;
+(hells cousins) elseif (maddening buddies?) then (vivid clammy)
+switch (spender theology?)
+case (magical awhile?)
+:sustained strides; <<load>>
+-> fad representative;
+case (yikes thankfully?)
+:thefts creek; <<load>>
+-> notches exchanges;
+case (volunteer symbol?)
+:messages cribbage;
+endswitch
+endif
+:moan glitches; <<save>>
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "vaccination roosters" as 0
+== spoil professionals ==
+autonumber 6 9
+0 ->x 0: bozo crushes
+autonumber stop
+0 ->] : pardons mass
+autonumber resume
+@enduml

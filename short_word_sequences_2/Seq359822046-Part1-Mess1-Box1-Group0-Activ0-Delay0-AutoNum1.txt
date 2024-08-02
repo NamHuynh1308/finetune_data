@@ -1,0 +1,8 @@
+@startuml
+box "heater columnist"
+participant "craftsmen stomping" as 0
+end box
+== courting barber ==
+autonumber 3 5
+0 ->o 0: organisms plainly
+@enduml

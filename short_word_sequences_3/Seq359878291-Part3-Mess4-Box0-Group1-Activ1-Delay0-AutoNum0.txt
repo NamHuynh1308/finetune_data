@@ -1,0 +1,13 @@
+@startuml
+participant "passions goobers" as 0
+participant "leper unlucky" as 1
+participant "unbearably subcommittee" as 2
+== riders menu ==
+0 ->> 2: sanctuary duress
+1 -// 1++ : umpire overdose
+ [<- 0: dory uptight
+loop topics lasers
+0 -> 0: morning farts
+end
+return writ rugby
+@enduml

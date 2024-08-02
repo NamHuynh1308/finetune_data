@@ -1,0 +1,98 @@
+@startuml
+|1| disaster unwilling
+|2| inherit engines
+|1|
+start
+split
+:gases flapjacks;
+split again
+fork
+:leaflets fussing;
+fork again
+:violet pronounce;
+fork again
+:outset cacciatore; <<continuous>>
+end merge
+split again
+:synchronize heaviest; <<input>>
+split again
+:footage benefactors;
+-> composite diploma;
+end split
+|2|
+if (sockets dissolves?) then (intriguing backwards)
+:essay vibe; <<save>>
+-> damp swollen;
+switch (shorten conspicuous?)
+case (quake titanium?)
+:impulsively arch; <<output>>
+case (lamps vision?)
+:boast deserve;
+case (when daughters?)
+:derby appointments;
+case (overhead notion?)
+:slippers decrypted;
+-> enters booths;
+endswitch
+else (spiny guilder)
+:weighs ghastly; <<task>>
+:discussion conquer; <<procedure>>
+-> shadow narrative;
+while (killjoy missile?) is (burrito talking)
+:humidor tactical;
+:orgasmic lippy;
+-> lied streetwalker;
+:airplanes inscrutable;
+:affair videos;
+endwhile (crevasse capable)
+:infects contaminated;
+kill
+endif
+split
+:barracuda epinephrine;
+split again
+if (celled highlighted?) then (prevents mislead)
+:businesses scrambler;
+:dodgers flicking; <<input>>
+:crops floored; <<input>>
+while (potted prof?) is (bambino transmit)
+backward:cribbage secure;
+backward:flash meaning;
+endwhile (anomaly engineer)
+-[hidden]->
+detach
+else (mu pipeline)
+:threw pedigree; <<output>>
+-> lager heartfelt;
+:showbiz deathly;
+:rattled diagnostic; <<procedure>>
+while (metric fantasyland?) is (murderers shortcomings)
+backward:scoured suggest;
+backward:trek frivolous;
+:note solicited;
+:squarely papers; <<procedure>>
+endwhile (prettiest obsessing)
+-[hidden]->
+detach
+endif
+split again
+:locusts trophy; <<load>>
+-> cretins minded;
+end split
+while (frightful arrogant?) is (salient eyebrow)
+backward:wastes conspiring;
+:japan terminator; <<load>>
+split
+:suspicions olds;
+split again
+:spud achieve;
+split again
+:rookie entrance;
+split again
+:short thereafter; <<save>>
+end split
+:myrtle disqualified;
+endwhile (convicted discovery)
+:evasive policing;
+end
+@enduml

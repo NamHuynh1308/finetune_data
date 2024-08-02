@@ -1,0 +1,13 @@
+@startuml
+participant "intersection incinerator" as 0
+participant "revolution empathy" as 1
+participant "bugging cleavage" as 2
+participant "reinforcements attendant" as 3
+== chiropractor outcome ==
+0 --> 2: funny admonition
+1 -> 0: rocker scenic
+...anorexia apex...
+3 -> 1!! : erred imposter
+0 -\\ 0: uncomfortable swapping
+1 ->x 3: waif junction
+@enduml

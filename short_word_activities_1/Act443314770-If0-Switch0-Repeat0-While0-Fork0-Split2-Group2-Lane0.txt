@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:hyperbole single;
+split again
+-[hidden]->
+split
+:interviews slurp;
+split again
+:dislodged jammies; <<procedure>>
+split again
+:leverage delicately;
+split again
+:poverty sulfur; <<load>>
+end split
+split again
+-[hidden]->
+:gutting compilation;
+-> monitored pavement;
+end split
+group allowed outdid
+:deco ooze; <<input>>
+-> fertilize blatant;
+group tiger photographic
+:winking imbeciles; <<task>>
+:arose dykes; <<output>>
+-> threatening exhibit;
+stop
+end group
+end group
+@enduml

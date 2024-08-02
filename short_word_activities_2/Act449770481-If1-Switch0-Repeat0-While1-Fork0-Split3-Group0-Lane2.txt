@@ -1,0 +1,58 @@
+@startuml
+|1| enduring currents
+|2| servants passageway
+split
+-[hidden]->
+:impending asphalt;
+split again
+-[hidden]->
+:fawning downtrodden; <<continuous>>
+-> gateway algebra;
+split again
+-[hidden]->
+:winnings french; <<continuous>>
+split again
+-[hidden]->
+split
+:morn intrigue;
+split again
+:money inscription;
+split again
+:humid cuff;
+split again
+:weekends macaroni;
+end split
+end split
+if (dasher dunking?) then (weeping puzzle)
+:neutralized snuggled; <<procedure>>
+:teasing toy; <<output>>
+while (texts disregarded?) is (ash physiological)
+:initiation ironing; <<save>>
+:ogres antsy;
+-> infliction imploding;
+:testicle relaxed;
+endwhile (deciding evacuating)
+:precaution cheeks;
+else (shuffling telepathic)
+:probable chestnuts;
+-> tolls schnauzer;
+:curly mole; <<procedure>>
+-> distinguish spoilsport;
+split
+:suburbia hangouts;
+split again
+:foregone lemmings;
+split again
+:clip prefix;
+end split
+endif
+:wanton intelligence; <<procedure>>
+-> regained extramarital;
+|2|
+:marginally traditionally; <<procedure>>
+|1|
+:satellites nails; <<continuous>>
+:closet don;
+-> dilute getup;
+end
+@enduml

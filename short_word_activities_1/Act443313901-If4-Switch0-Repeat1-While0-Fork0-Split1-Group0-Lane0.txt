@@ -1,0 +1,55 @@
+@startuml
+split
+-[hidden]->
+:fags obstetrician;
+split again
+-[hidden]->
+if (comebacks beams?) then (favours detonate)
+(sideburns interrupt) elseif (background hot?) then (croissants cupcakes)
+:ovaries hugger; <<output>>
+(clone buster) elseif (lucked dock?) then (rhythm unpack)
+:disfiguring switcheroo;
+endif
+split again
+-[hidden]->
+:sensibilities town;
+-> current heap;
+end split
+if (nick pronounced?) then (unimportant tangle)
+(initiated magdalene) elseif (yearned soft?) then (freed patient)
+repeat
+:projected treasures;
+-> comforting headless;
+backward:sunset guava;
+repeat while (crunches apocalypse?) is (blab wakes)
+-> eulogy wops;
+(poach clicks) elseif (snorted fundraiser?) then (overbite painting)
+:suede freed; <<save>>
+-> sparkles joystick;
+(thorough arrears) elseif (hopelessly ensure?) then (chaotic salient)
+if (carney bran?) then (big participants)
+(royalty effortless) elseif (disturbances advance?) then (nosing grouse)
+:swelling inflated; <<save>>
+-> ragging similarity;
+(carted loveless) elseif (wants hesitation?) then (rolling toy)
+:self ransom;
+(presidency drowned) elseif (funding tiara?) then (possum snipe)
+:comprise reliable; <<output>>
+(intelligently neural) elseif (primate absorbed?) then (thefts checkups)
+:serial insane;
+endif
+(model masculine) elseif (goofy prerogative?) then (strengths hobble)
+if (wavelength seekers?) then (unfinished sustaining)
+(stutter clusters) elseif (goods plantation?) then (sharking parenthood)
+:sizeable shipment;
+(embarrassment boardroom) elseif (joke adversary?) then (loch wall)
+:swede spacing; <<load>>
+-> smiles curt;
+(frayed millionaires) elseif (semple ducky?) then (tarot muffin)
+:sings spencer; <<task>>
+(accept abysmal) elseif (blueprints screens?) then (deserve otter)
+:divorcing interrogation;
+endif
+endif
+end
+@enduml

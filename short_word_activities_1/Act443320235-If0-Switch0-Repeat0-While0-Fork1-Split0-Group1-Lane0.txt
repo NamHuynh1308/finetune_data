@@ -1,0 +1,15 @@
+@startuml
+fork
+:topped kicker;
+fork again
+:fruitcake recruit;
+kill
+fork again
+:watch sedate; <<save>>
+end fork
+group ha infection
+:purchases scintillating; <<input>>
+-> freelance softer;
+stop
+end group
+@enduml

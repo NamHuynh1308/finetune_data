@@ -1,0 +1,43 @@
+@startuml
+if (argument fastball?) then (fifths mince)
+split
+:wagging chipped;
+split again
+:inexpensive celebration;
+-> testimony attending;
+split again
+:sneaker rare;
+end split
+fork
+:hijacking hots;
+fork again
+:diseased uptight;
+fork again
+:widening cupboard; <<output>>
+end merge
+:sorbet surface; <<procedure>>
+else (ness confession)
+:attention attends;
+while (typing harping?) is (gushy blowfish)
+backward:murmur wraith;
+if (succeeds audiences?) then (outrage egging)
+(kerry lifts) elseif (inconvenient twerp?) then (princesses plaque)
+:noise border; <<load>>
+(divide softly) elseif (blames quick?) then (bricks watcher)
+:spandex particles;
+(curriculum machete) elseif (delly ill?) then (underdog key)
+:babbling playgrounds; <<load>>
+(trajectory curie) elseif (constipation bedridden?) then (tipping desecration)
+:technicians druthers; <<load>>
+endif
+backward:suffered boutiques;
+endwhile (shapely tutti)
+-[hidden]->
+detach
+endif
+group skeptical digestion
+:chisel goober; <<load>>
+-> ushers lions;
+stop
+end group
+@enduml

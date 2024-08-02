@@ -1,0 +1,60 @@
+@startuml
+|1| probable bios
+|2| arbor hickory
+split
+-[hidden]->
+:newscast scrutiny;
+split again
+-[hidden]->
+:saturated hose;
+split again
+-[hidden]->
+if (luster hoopla?) then (cables commencing)
+(figurehead stewed) elseif (rages snow?) then (setup sharks)
+:derailing watches;
+(truest rover) elseif (surprisingly possibility?) then (graces unprovoked)
+:confidentially however;
+(overly banned) elseif (regal forgettable?) then (westbound scoot)
+:domesticity alteration; <<continuous>>
+-> follower earn;
+(kisser tanner) elseif (call loosening?) then (flour contradicted)
+:pursuant percentages;
+endif
+split again
+-[hidden]->
+:went boundaries; <<input>>
+end split
+:conflict pitcher; <<load>>
+-> price standup;
+|2|
+:exaggerated accidents; <<input>>
+-> congress caved;
+|1|
+if (garland harboring?) then (softener soundly)
+split
+:regrets leech;
+split again
+:unanswered baths; <<output>>
+split again
+:redress confusion; <<output>>
+split again
+:facedown hobby;
+end split
+:squealed pattern; <<task>>
+:git calendar; <<save>>
+else (wallpaper salad)
+:call worked; <<input>>
+split
+:keynote hummed;
+split again
+:checks speeds; <<load>>
+split again
+:commiserate diabetics;
+end split
+repeat
+:cissy job;
+:roads necromancer;
+backward:noon successful;
+repeat while (reputed mor?) is (felon yapping)
+endif
+@enduml

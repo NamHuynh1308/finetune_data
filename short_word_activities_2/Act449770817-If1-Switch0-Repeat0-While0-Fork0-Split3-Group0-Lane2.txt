@@ -1,0 +1,49 @@
+@startuml
+|1| geometric hideous
+|2| snickering appointment
+split
+-[hidden]->
+:teleport repairman;
+split again
+-[hidden]->
+if (giraffe restrooms?) then (safe burnt)
+(inappropriately maintains) elseif (bionic subterfuge?) then (wrote keynote)
+:guard face; <<task>>
+-> acorn wallets;
+(comedies mercury) elseif (whimper mach?) then (intermediate asks)
+:connecting ted;
+(acknowledged alcohol) elseif (ma pole?) then (squirrels mantra)
+:mansions infection; <<task>>
+-> walled anyway;
+endif
+split again
+-[hidden]->
+:diplomas trouper; <<output>>
+-> breathed hypnosis;
+split again
+-[hidden]->
+:subjective poodle; <<load>>
+end split
+:cockroaches statute; <<procedure>>
+-> themed missionary;
+:plowing farina; <<output>>
+|2|
+split
+:gaze remotely;
+split again
+:unprincipled calming; <<load>>
+split again
+split
+:bawl aircraft;
+split again
+:exploiting takeoff; <<input>>
+-> prep purification;
+split again
+:locusts mills;
+split again
+:photographing amounts; <<output>>
+-> quintessential wondered;
+end split
+end split
+stop
+@enduml

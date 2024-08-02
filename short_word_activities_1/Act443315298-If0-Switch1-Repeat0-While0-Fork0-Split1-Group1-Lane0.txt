@@ -1,0 +1,28 @@
+@startuml
+start
+:tuna dispense; <<continuous>>
+group farmer diving
+:behave choirs; <<input>>
+split
+:chewy varicose;
+split again
+:thinning beads;
+split again
+switch (providing morrow?)
+case (buds pine?)
+:wronged unexpressed; <<output>>
+-> crab wracked;
+case (mosquitos crazier?)
+:felonies signs;
+case (pecked homophobia?)
+:civic purple;
+case (spleen entertain?)
+:smudge preserved; <<task>>
+-> flustered manicure;
+endswitch
+split again
+:booklet assemblies; <<output>>
+end split
+stop
+end group
+@enduml

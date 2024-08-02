@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:repairing drill;
+split again
+-[hidden]->
+:smells paranoid; <<continuous>>
+split again
+-[hidden]->
+:barley sale;
+end split
+:hook empties;
+-> participating extra;
+end
+@enduml

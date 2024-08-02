@@ -1,0 +1,11 @@
+@startuml
+participant "diagram crumbling" as 0
+participant "ectopic bland" as 1
+participant "preacher droves" as 2
+autonumber 7 2
+0 -> 1!! : poke franchises
+2 -// 2: treaters shindig
+create participant "foremost whereas" as 3
+0 -> 3 : foremost whereas
+autonumber stop
+@enduml

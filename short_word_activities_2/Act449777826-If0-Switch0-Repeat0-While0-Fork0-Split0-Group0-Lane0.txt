@@ -1,0 +1,5 @@
+@startuml
+:yoke yeller; <<input>>
+:pickings bureaucrats; <<output>>
+stop
+@enduml

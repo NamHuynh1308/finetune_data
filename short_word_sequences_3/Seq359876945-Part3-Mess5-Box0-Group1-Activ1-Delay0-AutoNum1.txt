@@ -1,0 +1,18 @@
+@startuml
+participant "studies protector" as 0
+autonumber 4 7
+0 -> 0: thru depth
+autonumber stop
+create participant "souls exasperated" as 1
+0 -> 1 : souls exasperated
+opt expanding horns
+create participant "arrived subtext" as 2
+1 -> 2 : arrived subtext
+1 --//o 2++ : enjoys cubic
+autonumber resume
+else beakers phoney
+1 -> 0: rating genuinely
+return tube fiend
+else makeover piglet
+end
+@enduml

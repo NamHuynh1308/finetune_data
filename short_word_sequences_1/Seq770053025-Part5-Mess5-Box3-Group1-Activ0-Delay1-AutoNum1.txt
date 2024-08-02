@@ -1,0 +1,24 @@
+@startuml
+box "faster garb"
+participant "mattresses fulcrum" as 0
+box "gulch cleared"
+participant "lakeside compare" as 1
+participant "kirk rubbish" as 2
+box "stuffs developments"
+participant "yams lowdown" as 3
+end box
+end box
+end box
+== sentient angst ==
+autonumber 6 0
+1 -> 2!! : hunch acetate
+...merging contest...
+0 -->x 0: scoring academia
+autonumber stop
+1 <-> 1: dictates gratification
+create participant "hospitality encouraged" as 4
+2 -> 4 : hospitality encouraged
+critical coffins ghosts
+3 -->x 2: auctioneer convey
+end
+@enduml

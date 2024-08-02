@@ -1,0 +1,17 @@
+@startuml
+box "clay centre"
+participant "pleased minding" as 0
+participant "rejection blueberries" as 1
+participant "skimmed desperado" as 2
+end box
+participant "oozing honored" as 3
+== motivational myriad ==
+break housewarming coffins
+create participant "valuables tuned" as 4
+3 -> 4 : valuables tuned
+3 -> 1: headset seesaw
+end
+...mystified potter...
+4 -\\ 3: felons absence
+1 ->x 2: columnists pressed
+@enduml

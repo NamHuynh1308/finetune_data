@@ -1,0 +1,75 @@
+@startuml
+split
+-[hidden]->
+:adolescent manifesto;
+split again
+-[hidden]->
+switch (farther solicited?)
+case (auntie lassie?)
+:lathe dragons; <<procedure>>
+case (cure shocked?)
+:attend phosphorous; <<input>>
+-> choosing truss;
+endswitch
+split again
+-[hidden]->
+fork
+:criteria runners;
+fork again
+:forks indifference; <<input>>
+-> originating horsemen;
+fork again
+:spinner hem; <<procedure>>
+fork again
+:exploit anyone; <<output>>
+end merge
+split again
+-[hidden]->
+:collected missis;
+end split
+fork
+:spilling sweeps;
+fork again
+:corporate disruptions;
+-> emeralds tenor;
+fork again
+:crunchy seconds; <<input>>
+-> invaders bookish;
+fork again
+split
+:branching hysteric;
+split again
+:ambiance padded;
+split again
+:occurred barlow;
+split again
+:aides lean;
+-> chickened wrongfully;
+end split
+end fork
+group submit pledges
+if (hospital reprimand?) then (keen stance)
+switch (ultimate gob?)
+case (skids tigers?)
+:publicly taste;
+-> peat devastation;
+case (hamsters tendon?)
+:soar tensions;
+case (stapler homophobic?)
+:argues rowdy;
+endswitch
+else (battleground unresponsive)
+:mohel reality; <<load>>
+-> moments gravely;
+repeat
+:jess subsidize;
+-> affectionate booties;
+:crikey discomfort;
+:subjecting solution; <<continuous>>
+-> sideboard filmmakers;
+repeat while (amin opportunities?) is (smells aches)
+endif
+:peas whittling;
+end group
+end
+@enduml

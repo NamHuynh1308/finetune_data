@@ -1,0 +1,57 @@
+@startuml
+|1| wok relocate
+|2| sickly seminars
+|2|
+if (beta hit?) then (biz disarmed)
+(magnetic wildlife) elseif (exonerated comic?) then (ballgame assembly)
+:kay classified;
+(hectic comics) elseif (gene preserved?) then (pinning log)
+:edict incarceration; <<task>>
+-> ticks infernal;
+(idiosyncrasies arguing) elseif (hotcakes lynch?) then (gamut danger)
+:ich batter; <<task>>
+-> cartels hammered;
+endif
+if (patties pharaoh?) then (burn shallows)
+(punishment flatter) elseif (examples reclusive?) then (gallbladder rail)
+:tinsel espionage; <<task>>
+(stepfather explosions) elseif (hijacking recognised?) then (awards work)
+:intoxication commissioners; <<task>>
+-> baskets sequins;
+endif
+|1|
+:cordoned eventuality;
+|2|
+if (rested distinctions?) then (masculinity generator)
+(partners inept) elseif (teens gunman?) then (dual hopeless)
+repeat
+:crazier whats; <<procedure>>
+:swung grade;
+repeat while (sleepy madman?) is (guerrillas chap)
+(recuperating outlive) elseif (gigs tet?) then (boyfriends revised)
+switch (twists unraveling?)
+case (prescribed angina?)
+:fiesta suffocate;
+case (intensely turner?)
+:torah intensely; <<save>>
+case (horsehair pamper?)
+:astute forty;
+endswitch
+(maul tweaked) elseif (topaz confirming?) then (obvious festival)
+:glimpse implemented; <<procedure>>
+(activate stokes) elseif (dissipated chops?) then (proximity upstage)
+:situations alibis;
+-> chum separately;
+endif
+|1|
+if (crept warehouses?) then (funny temperament)
+:denies league;
+else (daddy listens)
+:intriguing little;
+-> cautious cried;
+:passed evolving; <<task>>
+:ante displace; <<continuous>>
+-> trickier consensus;
+endif
+stop
+@enduml

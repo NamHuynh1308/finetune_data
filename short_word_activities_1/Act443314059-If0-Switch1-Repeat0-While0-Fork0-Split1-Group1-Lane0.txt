@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:ditto gobbledygook;
+split again
+-[hidden]->
+:bragging necklace; <<continuous>>
+split again
+-[hidden]->
+:deposit annoyance;
+end split
+group arrives honda
+switch (encounters snack?)
+case (northeast wharves?)
+:partridge sleazy; <<load>>
+-> withered routing;
+case (senility trophies?)
+:appetites confederate; <<continuous>>
+-> hoppy tulle;
+case (platypus weakest?)
+:cholesterol laptops;
+endswitch
+stop
+end group
+@enduml

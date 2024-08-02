@@ -1,0 +1,25 @@
+@startuml
+participant "pickle doppelganger" as 0
+participant "matted margins" as 1
+box "technician regrettable"
+participant "innocently circulate" as 2
+participant "foothold decompose" as 3
+end box
+== kremlin considering ==
+create participant "tor unduly" as 4
+3 -> 4 : tor unduly
+opt riley compares
+...bodyguard sore...
+1 <-] : train pushed
+create participant "regrets paragraphs" as 5
+1 -> 5 : regrets paragraphs
+break totally limping
+...wind paranoid...
+ [-> 4: delinquency worth
+alt naval notions
+5 ->x 2: marrying snide
+5 -> 3!! : locating licker
+end
+end
+end
+@enduml

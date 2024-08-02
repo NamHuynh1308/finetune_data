@@ -1,0 +1,39 @@
+@startuml
+|1| negligee grave
+|2| familial husky
+split
+:fines flaked;
+split again
+switch (dialogue seating?)
+case (hyperventilate ornery?)
+:lactose kroner; <<load>>
+case (puzzle transmitters?)
+:serviced telly; <<output>>
+endswitch
+split again
+:archer bounds; <<save>>
+split again
+if (meat sand?) then (calm abstain)
+(grooms relics) elseif (cookbooks clone?) then (half helpers)
+:tranquilizer young; <<load>>
+(toffee punctured) elseif (curmudgeon serviced?) then (smooch embezzling)
+:kindly investigation;
+(bailiffs conference) elseif (daft storing?) then (democrats stark)
+:cowering fortitude; <<input>>
+(division dragons) elseif (shoehorn justice?) then (battles missile)
+:overnights nonnegotiable; <<load>>
+-> pomegranate raising;
+endif
+end split
+repeat
+:fortuneteller fourteen; <<output>>
+-> anecdotes tracking;
+backward:comments leaking;
+repeat while (rubbed massacres?) is (collaborate lad)
+-> seesaw theatre;
+:edit piece;
+-> inconsolable bionic;
+:indignities dotty;
+-> organisms cracks;
+end
+@enduml

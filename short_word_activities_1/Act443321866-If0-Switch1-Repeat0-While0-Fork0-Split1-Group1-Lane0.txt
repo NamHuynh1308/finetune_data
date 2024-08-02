@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:unemployment acceptable;
+split again
+-[hidden]->
+:auditioning substances; <<save>>
+split again
+-[hidden]->
+switch (booby outs?)
+case (mercy admission?)
+:shy mitts;
+case (season loosened?)
+:objectives struts;
+case (ruthless parents?)
+:separating amends;
+endswitch
+split again
+-[hidden]->
+:creed franchises; <<output>>
+end split
+group sustained reptile
+:fluffing navigation; <<load>>
+stop
+end group
+@enduml

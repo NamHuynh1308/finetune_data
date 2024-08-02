@@ -1,0 +1,8 @@
+@startuml
+participant "minks suave" as 0
+participant "bunting already" as 1
+autonumber 1 3
+0 -// 1: dinosaur prettier
+...wiggy dill...
+0 -> 0: rhyme milo
+@enduml

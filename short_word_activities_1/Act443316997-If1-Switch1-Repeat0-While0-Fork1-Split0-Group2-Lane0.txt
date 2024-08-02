@@ -1,0 +1,34 @@
+@startuml
+start
+group possibilities cots
+if (oxen madwoman?) then (adventurer boardwalk)
+:dapper provocative; <<save>>
+switch (undiscovered injections?)
+case (chauvinistic ads?)
+:doctrine lipped;
+case (sunshine topless?)
+:pregnancies alert; <<input>>
+-> associated coupon;
+case (scat keycard?)
+:alarm detain; <<output>>
+-> aggressor circulation;
+endswitch
+else (homely parton)
+:assessed tuxes; <<continuous>>
+:poofs arrest; <<procedure>>
+-> seaman abreast;
+endif
+group armored cooks
+:promenade snotty; <<task>>
+fork
+:riddler skate;
+fork again
+:appreciated nameless; <<input>>
+-> jumping draining;
+fork again
+:chest grips; <<output>>
+end fork
+end group
+stop
+end group
+@enduml

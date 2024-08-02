@@ -1,0 +1,13 @@
+@startuml
+participant "nanotechnology featuring" as 0
+box "surgery botched"
+participant "scots sanded" as 1
+participant "stems vaguest" as 2
+end box
+autonumber 10 0
+1 ->] : dopamine detain
+...anomalies tanked...
+0 -> 1: feline jewelry
+1 --> 2++ : hows sunning
+return snaps haggling
+@enduml

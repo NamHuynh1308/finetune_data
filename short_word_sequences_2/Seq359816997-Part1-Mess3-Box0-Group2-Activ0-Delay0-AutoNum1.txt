@@ -1,0 +1,11 @@
+@startuml
+participant "veronica map" as 0
+autonumber 0 1
+0 <-> 0: expendable eliminate
+opt listener forties
+0 <-> 0: unintentionally deposit
+alt jack sailed
+ [-> 0: convey suck
+end
+end
+@enduml

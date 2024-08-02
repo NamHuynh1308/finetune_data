@@ -1,0 +1,16 @@
+@startuml
+participant "weepy summit" as 0
+box "belly individually"
+participant "advance bins" as 1
+participant "sticky gearing" as 2
+participant "ransom pharaohs" as 3
+end box
+create participant "gripes muddy" as 4
+3 -> 4 : gripes muddy
+opt sizable lowers
+1 -> 3: shushing war
+...superego baptized...
+0 -> 2: bonded spell
+3 ->> 2: tribal easygoing
+end
+@enduml

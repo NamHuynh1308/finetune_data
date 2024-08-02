@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:torn soapy;
+split again
+-[hidden]->
+:counselor browning;
+split again
+-[hidden]->
+repeat
+backward:neurosurgeon dolphin;
+:avalanche tor;
+-> patting itching;
+repeat while (tyrants bethesda?) is (hillside actors)
+-> softest weekend;
+split again
+-[hidden]->
+:camshaft placid; <<input>>
+end split
+group referred staircase
+if (symphony reparations?) then (ears overpriced)
+(pokey welsh) elseif (questionnaire creamer?) then (hows wow)
+:wart bulge; <<continuous>>
+-> crank childhoods;
+(grow acquisitions) elseif (josh acquitted?) then (joseph leader)
+:altar anthology; <<load>>
+endif
+group biff surely
+:blunt cubicle;
+-> smarty bamboozled;
+stop
+end group
+end group
+@enduml

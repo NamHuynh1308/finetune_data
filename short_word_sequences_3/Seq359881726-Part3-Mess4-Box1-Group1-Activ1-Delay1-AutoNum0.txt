@@ -1,0 +1,17 @@
+@startuml
+participant "communication hopes" as 0
+box "warranted tired"
+participant "girlfriend unsuspecting" as 1
+participant "payoffs mixture" as 2
+end box
+== apartment calmed ==
+alt suite hemp
+0 --> 2: arsenic kindness
+2 -> 2: hint plumbing
+else carpentry pilgrim
+...crawly stimulation...
+0 -->x 2++ : ideal misinformed
+2 -> 1: marrying cheddar
+return upkeep planting
+end
+@enduml

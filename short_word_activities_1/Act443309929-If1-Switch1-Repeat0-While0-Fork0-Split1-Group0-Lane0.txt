@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:rectangle blocked;
+split again
+-[hidden]->
+:bitsy wake; <<task>>
+split again
+-[hidden]->
+:thrusters inflicting; <<procedure>>
+-> caps gnaw;
+split again
+-[hidden]->
+:cam levity; <<procedure>>
+end split
+switch (announce bolted?)
+case (poured deception?)
+:slimmer nameless; <<save>>
+case (noticing drag?)
+:wheezing outgrown;
+-> outhouse locations;
+case (moonlit please?)
+if (cold dismay?) then (blonds useful)
+:beeped white; <<procedure>>
+kill
+else (annoyingly extremists)
+:smoothest clinical;
+:possibility stud;
+:unlock sizable;
+endif
+case (verbal wood?)
+:virtual simultaneously;
+endswitch
+stop
+@enduml

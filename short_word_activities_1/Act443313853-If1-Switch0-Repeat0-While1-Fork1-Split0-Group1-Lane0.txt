@@ -1,0 +1,27 @@
+@startuml
+start
+group bleak damaged
+fork
+:campaigns doubled;
+fork again
+:emotions lacked; <<load>>
+fork again
+if (frigate persnickety?) then (glasses hardly)
+:ball likelihood; <<save>>
+:grindstone retailers;
+kill
+else (quantity autobiographical)
+:insane puberty; <<load>>
+endif
+fork again
+while (impediment lynx?) is (accoutrements collars)
+backward:derelict tutors;
+:objects chili;
+:plaza march; <<task>>
+:unfounded gouging;
+endwhile (outcome glossy)
+:cools achievement;
+end merge
+stop
+end group
+@enduml

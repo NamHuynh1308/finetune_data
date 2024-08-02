@@ -1,0 +1,25 @@
+@startuml
+start
+fork
+:treason counts;
+fork again
+fork
+:workload unveil;
+fork again
+:scariest invite;
+fork again
+:endlessly creepers;
+fork again
+:ensemble itinerary; <<output>>
+end merge
+fork again
+:depend abroad;
+while (drosophila monde?) is (heck concealment)
+:upholstery langley; <<load>>
+endwhile (ester disgustingly)
+-[hidden]->
+detach
+fork again
+:hind filler; <<task>>
+end merge
+@enduml

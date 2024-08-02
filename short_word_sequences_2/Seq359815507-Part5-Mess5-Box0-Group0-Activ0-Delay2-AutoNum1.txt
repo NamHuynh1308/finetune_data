@@ -1,0 +1,17 @@
+@startuml
+participant "slater chaperon" as 0
+participant "correctly squeak" as 1
+participant "meanest lids" as 2
+participant "aura dummies" as 3
+== wrath disciplines ==
+autonumber 5 7
+ [<- 0: kibble seven
+...huffing gems...
+3 -> 1: jock snorting
+...gourd eating...
+1 <-] : tireless emperors
+1 -\\ 1: stating transplant
+create participant "hyperventilate ladder" as 4
+2 -> 4 : hyperventilate ladder
+autonumber stop
+@enduml

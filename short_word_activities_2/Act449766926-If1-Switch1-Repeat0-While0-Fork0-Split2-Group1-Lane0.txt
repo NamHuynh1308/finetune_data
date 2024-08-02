@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:dispatches surrogate;
+split again
+-[hidden]->
+:sly eyesore;
+-> fittest cervical;
+split again
+-[hidden]->
+split
+:use suggestive;
+split again
+:decibels ringer;
+split again
+:freaky mechanics; <<procedure>>
+split again
+:embittered breakups; <<continuous>>
+-> feline doubly;
+end split
+end split
+if (vengeance hairy?) then (unfreezing excommunicated)
+(preference anaesthetic) elseif (hm proceeding?) then (stony fingerprint)
+switch (apprentice leaning?)
+case (vehicles coworker?)
+:averages tory;
+case (nozzle cognizant?)
+:purification assertiveness; <<task>>
+-> tonnage rendezvous;
+case (simulate nevermore?)
+:blade baggies; <<input>>
+endswitch
+(blockage wants) elseif (glazer delve?) then (burglaries index)
+:shrugged numbness; <<task>>
+-> begrudge exhilaration;
+(worlds land) elseif (grudge messy?) then (comforted kettle)
+:sandbar deterrent; <<load>>
+endif
+group wiretaps pirates
+:raided honoring; <<continuous>>
+stop
+end group
+@enduml

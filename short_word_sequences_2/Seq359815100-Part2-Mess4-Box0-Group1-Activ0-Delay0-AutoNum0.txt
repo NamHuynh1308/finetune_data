@@ -1,0 +1,10 @@
+@startuml
+participant "exhibition ornamental" as 0
+alt showered gut
+0 -\\ 0: weathered installments
+0 -> 0: confined loca
+0 ->x 0: kris soften
+create participant "occupants breasts" as 1
+0 -> 1 : occupants breasts
+end
+@enduml

@@ -1,0 +1,55 @@
+@startuml
+split
+-[hidden]->
+:productivity babble;
+split again
+-[hidden]->
+:sightless recommendation; <<procedure>>
+split again
+-[hidden]->
+:ballistic adherence;
+while (mourning particulars?) is (ripped knots)
+backward:switching med;
+endwhile (handguns billing)
+-[hidden]->
+detach
+end split
+fork
+:entire dispatched;
+fork again
+if (caprice possession?) then (directly hooded)
+(attain caritas) elseif (finder twenties?) then (eruption leary)
+:bending obvious; <<output>>
+-> stymied banged;
+(cynic harassing) elseif (love mushy?) then (steer cozier)
+:day footing;
+(tails jake) elseif (incognito amazed?) then (stats quantity)
+:bagman fattening;
+(columnists injection) elseif (windows chopping?) then (wrongfully grownup)
+:pawning cadavers;
+endif
+fork again
+switch (conspiracies murdering?)
+case (crayons outlast?)
+:consultations deserve; <<task>>
+-> manifest leprechaun;
+case (fleeting newcomers?)
+:folksy directors;
+case (nix boosters?)
+:vive discrete; <<input>>
+endswitch
+fork again
+if (audited stranger?) then (breakwater continuum)
+(garibaldi cities) elseif (amazon gambit?) then (goggle speeding)
+:physician elixir; <<continuous>>
+(executions confirms) elseif (trashes vigor?) then (messier dispensers)
+:lighthearted disciplined; <<save>>
+(benches nowadays) elseif (impart sighing?) then (lord city)
+:draped unresolved;
+-> pecks intensely;
+(hugger militants) elseif (suggesting goading?) then (rituals hook)
+:footer gargantuan; <<continuous>>
+-> apologies breaker;
+endif
+end fork
+@enduml

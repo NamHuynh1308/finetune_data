@@ -1,0 +1,26 @@
+@startuml
+|1| arrow compartment
+|2| flame unfairly
+split
+-[hidden]->
+:knocks faking;
+split again
+-[hidden]->
+:luster storms; <<save>>
+split again
+-[hidden]->
+:saying sanest;
+-> weasels expectation;
+end split
+:bumble empathy;
+|2|
+:certificate peter; <<procedure>>
+:fond kingdoms;
+-> invest insuring;
+|1|
+repeat
+backward:foot turkey;
+repeat while (consider reclaiming?) is (truly full)
+:prints coolers; <<input>>
+-> pothead theologian;
+@enduml

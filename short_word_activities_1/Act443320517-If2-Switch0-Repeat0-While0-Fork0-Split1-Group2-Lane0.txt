@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:cola shoots;
+split again
+-[hidden]->
+:rallied librarian; <<output>>
+split again
+-[hidden]->
+if (lurch candies?) then (comeback broke)
+:gangsters keeled;
+else (sweating incriminate)
+:wiggles compromise;
+endif
+split again
+-[hidden]->
+:show syphilis; <<load>>
+end split
+group wardrobe overexcited
+if (approximation planting?) then (dips geometric)
+:floodgates processes;
+:airman assuming; <<save>>
+-> direct jury;
+else (annihilated tremor)
+:flood masters; <<save>>
+:arraigned rattle;
+endif
+group bribed bombings
+:medicaid suckered; <<input>>
+stop
+end group
+end group
+@enduml

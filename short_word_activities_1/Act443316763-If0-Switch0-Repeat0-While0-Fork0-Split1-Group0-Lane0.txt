@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:lasers courtrooms;
+split again
+-[hidden]->
+:subbasement watts; <<output>>
+-> impressions consoled;
+split again
+-[hidden]->
+:incinerator delicately; <<procedure>>
+-> rodeo improvise;
+split again
+-[hidden]->
+:partnered itching;
+end split
+:heaved valley; <<task>>
+-> racked registration;
+@enduml

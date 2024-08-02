@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:discover acquitted;
+split again
+-[hidden]->
+:hypnotic waxes;
+split again
+-[hidden]->
+repeat
+backward:genes scintillating;
+repeat while (broody unfulfilled?) is (printed lightening)
+end split
+if (sacrament mushy?) then (befitting atmosphere)
+:hostages fantabulous;
+:delicate blemish;
+fork
+:constructed vigor;
+fork again
+:stripe inch;
+fork again
+:dusk hellhole;
+end merge
+else (hookup roadhouse)
+:clinging fungi;
+fork
+:offspring gopher;
+fork again
+:attack chilly;
+-> unchanged sensor;
+fork again
+:evasions bungee;
+fork again
+:agendas annex; <<procedure>>
+-> sterile grinder;
+end merge
+split
+:retract torso;
+split again
+:squeezes euphoric;
+split again
+:pear grey;
+split again
+:hotcakes donated;
+end split
+endif
+end
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:siesta eventful;
+split again
+-[hidden]->
+:taxis gum; <<continuous>>
+-> vanishing disgustingly;
+split again
+-[hidden]->
+:tadpole shuffled; <<procedure>>
+end split
+repeat
+:unseat morphine; <<input>>
+split
+:gimmie sleeve;
+split again
+:mints coral; <<procedure>>
+-> forfeits healed;
+split again
+:dentists screamed; <<output>>
+end split
+repeat
+backward:baroque minnow;
+repeat while (intelligently sincerity?) is (pursuant snuggles)
+-> positively castle;
+repeat while (trek breakdown?) is (contingencies positions)
+:barked quoth;
+@enduml

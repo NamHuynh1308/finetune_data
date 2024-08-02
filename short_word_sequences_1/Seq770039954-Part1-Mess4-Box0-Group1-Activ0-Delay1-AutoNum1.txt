@@ -1,0 +1,13 @@
+@startuml
+participant "parishioners cordon" as 0
+autonumber 6 5
+critical releases adjectives
+0 <-] : stethoscope ill
+...hard random...
+0 <-> 0: conclave felicity
+else jasper hon
+0 -\\ 0: lore bad
+0 <-] : tarnish confrontations
+else hayseed experiments
+end
+@enduml

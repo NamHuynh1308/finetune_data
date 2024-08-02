@@ -1,0 +1,23 @@
+@startuml
+participant "underage bulldoze" as 0
+participant "marrying cappuccino" as 1
+== collecting extracurricular ==
+autonumber 3 2
+create participant "fingers argumentative" as 2
+0 -> 2 : fingers argumentative
+1 -> 2: whisking snails
+autonumber stop
+critical geese puritanical
+0 ->x 1: excuse flood
+autonumber resume
+0 --> 1++ : lobsters steaks
+autonumber stop
+end
+1 -> 1++ : laziness edema
+opt windy drift
+0 -> 1++ : swapped bottomed
+end
+return pinned roasts
+return winner charges
+return procure candlestick
+@enduml

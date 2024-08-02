@@ -1,0 +1,70 @@
+@startuml
+split
+-[hidden]->
+:headway affecting;
+split again
+-[hidden]->
+:familiar slipping; <<procedure>>
+-> wildcats scope;
+split again
+-[hidden]->
+fork
+:virtuoso straighten;
+fork again
+:digestive groaning; <<procedure>>
+fork again
+:unanswered calmer; <<task>>
+fork again
+:caribou design;
+kill
+end merge
+split again
+-[hidden]->
+:intimidating anomalies;
+while (gloss perpetrator?) is (convention extension)
+switch (stretcher orderlies?)
+case (gender believed?)
+:honk consists;
+case (mezzanine toothed?)
+:globes campaigns; <<input>>
+endswitch
+switch (coach inhabitants?)
+case (arrears unwieldy?)
+:concrete anti; <<continuous>>
+case (luster mongoloid?)
+:chain backfiring;
+-> housewarming weaver;
+case (hopeful crimes?)
+:usefulness nipping; <<task>>
+endswitch
+endwhile (average sheila)
+-[hidden]->
+detach
+end split
+:idea karma;
+-> bigamy worrywart;
+group scram assurance
+:partisan truest; <<output>>
+-> enough raced;
+if (squealed endowment?) then (vacations disappears)
+:insolent drifted;
+:chuckle slammed; <<input>>
+-> proverb phoney;
+if (reckon incoherent?) then (shrine spotless)
+(removing sexes) elseif (appropriations sunlight?) then (leaves caprice)
+:prowess sprouts;
+(orb litigious) elseif (carpentry rushing?) then (famous nihilist)
+:videos snout; <<output>>
+(peddle seemed) elseif (painful smith?) then (archenemy sacred)
+:poetry trotting;
+(expel loons) elseif (mariners dealers?) then (compressions salty)
+:vault embassies; <<input>>
+endif
+else (trees tables)
+:slasher chops; <<input>>
+:ballpoint tipping;
+-> halls sector;
+endif
+stop
+end group
+@enduml

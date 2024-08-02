@@ -1,0 +1,33 @@
+@startuml
+box "candle daiquiri"
+participant "outlived heil" as 0
+box "antagonizing designs"
+participant "dope swayed" as 1
+participant "darkness teenage" as 2
+participant "eavesdropping totalled" as 3
+end box
+end box
+autonumber 2 6
+par educating frosty
+2 -> 0++ : annoyances temptation
+autonumber stop
+loop request ratting
+ [<- 2: electorate gnome
+create participant "runner varsity" as 4
+3 -> 4 : runner varsity
+par logical flew
+3 -// 0: undetected crapped
+return pencil royals
+autonumber resume
+4 <-> 2: pub smirk
+autonumber stop
+create participant "snack constantly" as 5
+0 -> 5 : snack constantly
+autonumber resume
+par brained platforms
+5 ->] : nipple broader
+end
+end
+end
+end
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "tea accidents" as 0
+participant "cos whack" as 1
+participant "pricks breaking" as 2
+== dummies confronting ==
+alt husks data
+1 --//o 0: crapper spawn
+...hamstring calm...
+0 -> 1: facility benign
+ [<- 0: membranes ruffled
+...wager handling...
+2 -->x 1: sky spender
+else sticky sluggish
+break cost proves
+...platelets preventative...
+0 -->x 1: mulch promo
+end
+end
+@enduml

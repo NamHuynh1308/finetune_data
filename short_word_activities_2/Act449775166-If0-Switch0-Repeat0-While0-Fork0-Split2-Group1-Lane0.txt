@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:skiing adobe;
+split again
+-[hidden]->
+:triceps oily;
+split again
+-[hidden]->
+:depository dose; <<load>>
+-> drive bookstore;
+split again
+-[hidden]->
+split
+:mark throwers;
+split again
+:mortals limping; <<procedure>>
+split again
+:patio boating; <<save>>
+-> unfunny audiences;
+split again
+:banged farmland; <<procedure>>
+-> enforce final;
+end split
+end split
+group infra deterrent
+:anna crepe; <<input>>
+-> oyez machines;
+:banished spunk;
+end group
+:boxes basically;
+@enduml

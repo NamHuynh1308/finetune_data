@@ -1,0 +1,9 @@
+@startuml
+start
+:thrall rubber; <<procedure>>
+:convict yard; <<task>>
+group bullpen catches
+:ingenious alcohol; <<save>>
+stop
+end group
+@enduml

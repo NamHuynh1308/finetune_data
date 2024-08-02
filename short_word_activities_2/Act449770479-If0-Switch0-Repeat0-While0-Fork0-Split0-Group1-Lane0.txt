@@ -1,0 +1,8 @@
+@startuml
+start
+group outfits bra
+:arrival blithering; <<load>>
+:movements stones; <<procedure>>
+stop
+end group
+@enduml

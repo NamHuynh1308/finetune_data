@@ -1,0 +1,8 @@
+@startuml
+start
+group premises pledges
+:stickup complications; <<save>>
+-> hound selfishness;
+stop
+end group
+@enduml

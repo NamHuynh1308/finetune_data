@@ -1,0 +1,19 @@
+@startuml
+participant "investigated shackles" as 0
+participant "copperhead admirably" as 1
+box "musicians biting"
+participant "medically pitted" as 2
+participant "stupendous rough" as 3
+participant "cared agent" as 4
+end box
+1 -// 4: gourd manage
+3 ->o 2: jar strangeness
+0 <-> 3: dot displeased
+ [<- 4: shrugs cloths
+...tangible braved...
+ [<- 2: bested wildly
+2 -> 2!! : spices swarming
+break saddled metaphysics
+4 ->o 0: blotto outfitted
+end
+@enduml

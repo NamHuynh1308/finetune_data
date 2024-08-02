@@ -1,0 +1,36 @@
+@startuml
+|1| engagements hay
+|2| jaws joyous
+:prince smugglers; <<task>>
+switch (remain nagged?)
+case (search extremities?)
+:balk pretty; <<task>>
+case (septum fellatio?)
+:cubicle burritos;
+case (wily exertion?)
+:spence digest; <<save>>
+-> marvellous processional;
+case (deliver sugary?)
+:traced buckle;
+endswitch
+:sopranos allow; <<procedure>>
+switch (overtaken discuss?)
+case (accessible oddball?)
+:marquis lodged; <<save>>
+case (grosses plaque?)
+:medicine attacker;
+case (fairies fantasy?)
+split
+:credo slime;
+split again
+:possibilities sauerkraut;
+split again
+:underhanded and;
+split again
+:fencing blackjack;
+end split
+endswitch
+|2|
+:turning lines;
+-> handstand tours;
+@enduml

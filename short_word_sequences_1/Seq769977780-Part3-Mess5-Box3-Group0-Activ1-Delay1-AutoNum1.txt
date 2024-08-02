@@ -1,0 +1,23 @@
+@startuml
+box "demean tapes"
+participant "overreact ubiquitous" as 0
+box "comedians cures"
+participant "veterans absentee" as 1
+box "kane staple"
+participant "rink personals" as 2
+end box
+end box
+end box
+== groupies pretty ==
+autonumber 0 3
+0 <-] : level aurora
+1 -> 1: claim proofs
+2 -// 1: scalding texts
+autonumber stop
+...winks fucked...
+2 -> 1++ : wonderful pare
+autonumber resume
+1 ->o 0: midterm corrupted
+autonumber stop
+return yup sentry
+@enduml

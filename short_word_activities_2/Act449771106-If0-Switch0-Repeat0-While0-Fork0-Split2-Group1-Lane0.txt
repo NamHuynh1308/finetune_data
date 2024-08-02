@@ -1,0 +1,20 @@
+@startuml
+group fumbling compulsive
+:questions gossip;
+:investments anger;
+split
+:spotter nervous;
+split again
+split
+:cauldron cleanliness;
+split again
+:unstable spectacular; <<output>>
+split again
+:mechanisms southbound;
+end split
+split again
+:sorcerers themes;
+end split
+end group
+end
+@enduml

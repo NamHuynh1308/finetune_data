@@ -1,0 +1,8 @@
+@startuml
+start
+:dabbled squawk; <<output>>
+-> quacks horseshit;
+:tests overlook;
+-> conspicuous deviants;
+end
+@enduml

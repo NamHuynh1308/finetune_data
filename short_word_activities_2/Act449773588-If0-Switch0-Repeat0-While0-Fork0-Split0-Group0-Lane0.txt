@@ -1,0 +1,7 @@
+@startuml
+start
+:aftermath manager; <<load>>
+-> wishful shoot;
+:lilacs unpleasantness; <<task>>
+stop
+@enduml

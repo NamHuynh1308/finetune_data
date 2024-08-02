@@ -1,0 +1,5 @@
+@startuml
+:denial daisy; <<input>>
+:sororities claymore; <<save>>
+-> embassies fidelity;
+@enduml

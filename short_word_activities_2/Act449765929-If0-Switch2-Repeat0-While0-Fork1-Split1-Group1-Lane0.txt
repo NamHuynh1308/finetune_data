@@ -1,0 +1,41 @@
+@startuml
+group spoke postponing
+:interrogate patent; <<continuous>>
+split
+:rivalry stand;
+split again
+fork
+:thready indulging;
+fork again
+:savin men; <<output>>
+-> posts corrupt;
+fork again
+:dubbed gunman; <<save>>
+-> slip stripes;
+fork again
+:conditions kibosh;
+end merge
+split again
+switch (relaxation once?)
+case (videos mend?)
+:pilar lobby; <<continuous>>
+-> recorders stringing;
+case (unspoiled hyperactive?)
+:testament chiseling;
+case (forsaken shrew?)
+:shortcut special;
+case (brownout every?)
+:swatches inferiority;
+endswitch
+split again
+switch (requesting terminator?)
+case (captives resting?)
+:weaver tachycardia; <<output>>
+-> urban syrup;
+case (featured sewer?)
+:nosed shack;
+endswitch
+end split
+end group
+stop
+@enduml

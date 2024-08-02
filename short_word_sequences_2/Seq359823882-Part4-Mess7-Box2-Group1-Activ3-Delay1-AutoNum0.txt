@@ -1,0 +1,25 @@
+@startuml
+participant "stereo coles" as 0
+box "instructor sendoff"
+participant "antelope motions" as 1
+box "ingest translate"
+participant "herbal motivation" as 2
+end box
+end box
+== southbound born ==
+2 -// 1++ : presume stewardesses
+2 -> 0: great blarney
+1 -> 0++ : toothbrush mannered
+0 -\\ 2++ : typing derivative
+...explore roadblocks...
+2 <-] : floated briefcase
+return kicking hypotenuse
+alt moisturizer loveless
+create participant "postponing wets" as 3
+2 -> 3 : postponing wets
+return multitude galleries
+3 -\\ 0: evaluated documents
+return holder carefree
+else saying underway
+end
+@enduml

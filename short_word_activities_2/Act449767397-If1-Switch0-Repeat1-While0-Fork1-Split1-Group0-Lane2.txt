@@ -1,0 +1,38 @@
+@startuml
+|1| zone detoxing
+|2| decisive poolside
+split
+-[hidden]->
+:palace protocols;
+split again
+-[hidden]->
+:airport niche; <<task>>
+-> spirits matzah;
+split again
+-[hidden]->
+:defenses raiser;
+end split
+if (costa scored?) then (shoplifting clings)
+:wean carts; <<task>>
+fork
+:panel contusions;
+fork again
+:downs close;
+-> cadet antidepressants;
+fork again
+:accepts anarchy; <<save>>
+end fork
+repeat
+backward:expresses tryout;
+:prioritize comparatively;
+repeat while (trump adjustable?) is (shielded fractures)
+kill
+else (crashed guardians)
+:peignoir versions;
+-> priesthood base;
+endif
+:lily mayday; <<continuous>>
+|2|
+:cities deception; <<task>>
+end
+@enduml

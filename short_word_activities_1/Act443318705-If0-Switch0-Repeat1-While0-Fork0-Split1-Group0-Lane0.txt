@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:sinuses knots;
+split again
+-[hidden]->
+:sickos invoked; <<task>>
+split again
+-[hidden]->
+:caesar horror; <<continuous>>
+-> plankton courtrooms;
+split again
+-[hidden]->
+repeat
+backward:poodle caregiver;
+repeat while (cheddar medications?) is (rhinestones flower)
+end split
+:oldie dee; <<continuous>>
+end
+@enduml

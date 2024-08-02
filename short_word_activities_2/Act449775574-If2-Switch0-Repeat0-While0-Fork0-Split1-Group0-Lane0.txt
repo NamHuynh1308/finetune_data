@@ -1,0 +1,29 @@
+@startuml
+start
+split
+:jury instruments;
+split again
+if (manually fate?) then (enlist gosh)
+:physicist sensors;
+:cerebral info;
+:blimp entertainer;
+else (conversational mom)
+:scouts glucose; <<procedure>>
+-> lame podiatry;
+kill
+endif
+split again
+:figurines louden; <<output>>
+split again
+if (preconceived ewe?) then (crocodiles rays)
+(slum secure) elseif (assuming culpability?) then (acted maybe)
+:rewritten bobcat; <<procedure>>
+(evaporated revolutionary) elseif (propose pushy?) then (actuality swimmingly)
+:admonished eggplant; <<input>>
+(parasites lowering) elseif (misjudged insuring?) then (spry surrounds)
+:dryers arise; <<output>>
+-> recycles closes;
+endif
+end split
+end
+@enduml

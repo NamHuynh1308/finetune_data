@@ -1,0 +1,11 @@
+@startuml
+participant "tents favorable" as 0
+autonumber 5 0
+0 -> 0!! : okra sits
+autonumber stop
+0 --//o 0: doubts clubs
+autonumber resume
+0 <-] : snarky discretion
+autonumber stop
+ [<- 0: prelim dazzle
+@enduml

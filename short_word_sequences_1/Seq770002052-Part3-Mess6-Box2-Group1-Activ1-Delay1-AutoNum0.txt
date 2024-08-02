@@ -1,0 +1,19 @@
+@startuml
+box "traveling henchman"
+participant "software loathed" as 0
+box "movies stirs"
+participant "manifesting pills" as 1
+participant "greets bijou" as 2
+end box
+end box
+2 --//o 0: iguana sufficiently
+0 -> 2: menagerie journalists
+0 -> 1!! : clumsy fantastic
+ [-> 0: spritzer berries
+opt manufactured preparations
+...spool legions...
+0 -// 2++ : teleportation speculate
+2 -\\ 0: sesterces jag
+return sowing seaplane
+end
+@enduml

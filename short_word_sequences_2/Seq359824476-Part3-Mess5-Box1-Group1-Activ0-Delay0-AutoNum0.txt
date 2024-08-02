@@ -1,0 +1,14 @@
+@startuml
+participant "stature weakened" as 0
+box "nurtured gallons"
+participant "sustenance injected" as 1
+participant "influenced uncontrollable" as 2
+end box
+0 -> 2: bouts hay
+2 -->x 1: legit aprons
+loop riverside innkeeper
+2 -> 1: nosey hellhound
+0 -> 0: resenting commonwealth
+end
+2 --> 2: enjoys crasher
+@enduml

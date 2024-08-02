@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:uppers penal;
+split again
+-[hidden]->
+:medication shown; <<input>>
+-> pep minions;
+split again
+-[hidden]->
+:upstanding lymphoma; <<procedure>>
+end split
+group leaders bus
+:bob pickpocket; <<continuous>>
+-> duress avoided;
+:rotary indulging; <<load>>
+-> liability melt;
+end group
+end
+@enduml

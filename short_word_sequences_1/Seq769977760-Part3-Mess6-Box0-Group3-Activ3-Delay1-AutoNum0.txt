@@ -1,0 +1,21 @@
+@startuml
+participant "aptitude speakeasy" as 0
+participant "sneaks knelt" as 1
+participant "hope gouge" as 2
+2 --> 0: thumbs juke
+opt preparing nelson
+1 --> 2++ : mailer exits
+critical casa mayday
+...parameters humbly...
+1 -> 2++ : cates gringo
+ [-> 1: circumcision font
+1 <-] : aargh hypotenuse
+loop minks hockey
+2 -->x 1++ : protector embarrasses
+end
+end
+end
+return beavers cranium
+return softball ticketed
+return regrets immoral
+@enduml

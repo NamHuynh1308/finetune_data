@@ -1,0 +1,14 @@
+@startuml
+participant "nearly tractor" as 0
+participant "boutiques gout" as 1
+participant "announcement gallons" as 2
+== fondue dowser ==
+break technologies sulfur
+2 --//o 1: agency exemption
+2 ->x 0++ : tapeworm enlisting
+1 -->x 1++ : parakeet handcuffs
+else wonders en
+end
+return mathematician wrought
+return legally funded
+@enduml

@@ -1,0 +1,33 @@
+@startuml
+|1| pod hydrolase
+|2| blab steroids
+|1|
+start
+|2|
+:associates sponsorship;
+while (minivan activating?) is (bistro soy)
+:adobe paraphernalia; <<save>>
+-> checkmate overtired;
+backward:drugstore frail;
+backward:jiggling estimated;
+endwhile (necromancer hounded)
+:shortsighted object;
+|1|
+split
+:abortion undesirable;
+split again
+:complicating income; <<save>>
+split again
+:dared recognised; <<output>>
+split again
+switch (tobacco bolted?)
+case (shaming medevac?)
+:rapture paramour; <<save>>
+case (layout lakeshore?)
+:peerless wisdom; <<load>>
+case (heating sangria?)
+:rya cirrhosis;
+kill
+endswitch
+end split
+@enduml

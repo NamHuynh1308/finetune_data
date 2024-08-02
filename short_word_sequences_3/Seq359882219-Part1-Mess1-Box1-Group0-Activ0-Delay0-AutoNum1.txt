@@ -1,0 +1,8 @@
+@startuml
+box "regulations reconsider"
+participant "shrinkage depose" as 0
+end box
+== mouse haps ==
+autonumber 10 9
+0 -> 0: pose housing
+@enduml

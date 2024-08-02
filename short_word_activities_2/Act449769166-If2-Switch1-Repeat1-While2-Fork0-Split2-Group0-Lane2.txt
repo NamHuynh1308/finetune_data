@@ -1,0 +1,63 @@
+@startuml
+|1| teen slaughtering
+|2| alarm scrubbed
+split
+-[hidden]->
+:toe committed;
+split again
+-[hidden]->
+:drones gagging; <<input>>
+split again
+-[hidden]->
+:delirium bound;
+while (trivial olive?) is (nelly elbow)
+if (gunk promises?) then (dalton bomb)
+(galore messier) elseif (funnier icon?) then (jerk trey)
+:matron albatross; <<output>>
+-> circles cowed;
+(wherein hacking) elseif (tambourine hemorrhaging?) then (boon coolly)
+:network pays; <<input>>
+(horseback brownout) elseif (exposure nosedive?) then (amazingly bras)
+:filtered manipulation; <<procedure>>
+endif
+backward:democrat tradition;
+backward:artistic unnerve;
+backward:ajar villa;
+endwhile (pauses false)
+-[hidden]->
+detach
+end split
+|2|
+split
+:clunkers wrote;
+split again
+:pharaohs arteries;
+while (blessings gunshots?) is (influence strictly)
+repeat
+:pounce currents; <<output>>
+-> comics muddle;
+:hanging infamy;
+backward:sooner footsies;
+repeat while (degrading sustain?) is (scroll recognizes)
+endwhile (pounder twos)
+-[hidden]->
+detach
+split again
+:sinister fuss; <<continuous>>
+end split
+:vanishes exclusively;
+-> reaper ashore;
+switch (bura chevalier?)
+case (ministers flown?)
+:squirrel pills; <<continuous>>
+case (salaam bliss?)
+if (gallons barrage?) then (shy carve)
+:goners explored; <<task>>
+else (earl pants)
+:disgusted detected;
+endif
+endswitch
+|1|
+:rarest cone; <<procedure>>
+stop
+@enduml

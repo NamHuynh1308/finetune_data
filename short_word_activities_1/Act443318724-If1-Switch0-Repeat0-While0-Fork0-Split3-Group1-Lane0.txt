@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:outwitted deftly;
+split again
+-[hidden]->
+split
+:cribs mama;
+split again
+:chasm nourish;
+kill
+split again
+:noo bilingual; <<load>>
+split again
+:inquiry pleadings; <<procedure>>
+end split
+split again
+-[hidden]->
+:cause foresaw; <<task>>
+end split
+:moans quilt; <<procedure>>
+-> drive manual;
+group humanitarian oyster
+split
+:undermining impressive;
+split again
+if (staying moths?) then (induce deets)
+(exhilaration concern) elseif (philanthropist broomstick?) then (cupboards purchasing)
+:stated treason;
+-> shabby reprobate;
+(conk lanky) elseif (knucklehead remorse?) then (entertain thirties)
+:burke materialize;
+endif
+split again
+:penguin vista; <<input>>
+-> impolite indigestion;
+end split
+stop
+end group
+@enduml

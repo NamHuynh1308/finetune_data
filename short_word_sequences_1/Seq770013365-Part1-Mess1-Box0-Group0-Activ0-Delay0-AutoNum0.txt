@@ -1,0 +1,4 @@
+@startuml
+participant "linear module" as 0
+0 --//o 0: omelette newsman
+@enduml

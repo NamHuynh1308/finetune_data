@@ -1,0 +1,25 @@
+@startuml
+box "anyone dramatic"
+participant "pickups eliminating" as 0
+participant "wooing services" as 1
+participant "invasive pug" as 2
+end box
+box "cure undivided"
+participant "floodgates stimulus" as 3
+end box
+== labor foray ==
+2 <-> 3++ : minions flatters
+2 -> 2: watching terrifies
+loop bragged tell
+3 ->x 0++ : zeta sheets
+alt loath encouragement
+create participant "offshore duped" as 4
+3 -> 4 : offshore duped
+return meaner eject
+1 -> 4++ : aqua prosecuting
+4 -> 2!! : errant grubs
+return turbulent sidekick
+end
+end
+return skit fluids
+@enduml

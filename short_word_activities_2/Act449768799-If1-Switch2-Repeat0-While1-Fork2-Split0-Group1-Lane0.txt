@@ -1,0 +1,54 @@
+@startuml
+switch (midterms give?)
+case (soothing bullies?)
+:essay madrigal; <<continuous>>
+-> parasites diagram;
+case (necklaces skillful?)
+:cunning biblical;
+while (stamp arbitrary?) is (perched jail)
+:expands eroding; <<input>>
+:scoring stench;
+fork
+:ranges betrayal;
+fork again
+:alias collateral; <<procedure>>
+-> hock approximate;
+fork again
+:climb tacit;
+end fork
+:slippers tonics; <<output>>
+-> assaulting laughs;
+endwhile (skiing disturbance)
+-[hidden]->
+detach
+case (providing vicar?)
+:predicting overwhelmingly; <<save>>
+endswitch
+group ways pachyderm
+:illogical abortions; <<task>>
+if (criminalistics eleventh?) then (maimed freak)
+(spill talents) elseif (company ultimate?) then (films savings)
+switch (players sailboats?)
+case (lineup weensy?)
+:baggage stadium;
+case (nomadic gourmet?)
+:goes trespassed;
+case (electrons meatball?)
+:enchant fans;
+endswitch
+(relieved rulers) elseif (microbes delegates?) then (circular batman)
+fork
+:hamstring expectations;
+fork again
+:soothes explorers; <<task>>
+-> famed accusations;
+fork again
+:bustier fielder; <<save>>
+fork again
+:respond boutonniere; <<save>>
+-> abetted lier;
+end fork
+endif
+end group
+end
+@enduml

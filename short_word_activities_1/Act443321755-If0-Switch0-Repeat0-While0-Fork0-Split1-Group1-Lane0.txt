@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:shooter pole;
+split again
+-[hidden]->
+:advantage scrubbed; <<load>>
+-> karaoke sweet;
+split again
+-[hidden]->
+:organize film; <<load>>
+-> overreaction admission;
+end split
+group pimped shifts
+:euros stressful; <<task>>
+stop
+end group
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "office cleaning" as 0
+participant "hora amounts" as 1
+== disturbances dumpling ==
+create participant "tempest stumped" as 2
+1 -> 2 : tempest stumped
+...sly rubbers...
+2 ->o 2: forces seat
+2 <-] : grounded divide
+@enduml

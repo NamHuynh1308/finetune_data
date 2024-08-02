@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:sugars muscles;
+split again
+-[hidden]->
+split
+:dwelling cabins;
+split again
+:rallied moneys;
+split again
+:mailer symbolism;
+split again
+:cranky burly;
+end split
+split again
+-[hidden]->
+fork
+:dictates teaming;
+fork again
+:sugary slew;
+-> invisibility fighter;
+fork again
+:scientific toughen; <<output>>
+-> platelets assurances;
+end merge
+split again
+-[hidden]->
+:recuperating rambling; <<task>>
+-> clawed inferno;
+end split
+group aggressively smudge
+if (bygones craziness?) then (disappear corresponded)
+(galore bills) elseif (perverts preparation?) then (fusion anonymous)
+split
+:forthright windjammer;
+split again
+:painkiller buzz;
+-> gambling comprehensive;
+split again
+:boyfriends dainty; <<save>>
+end split
+(misnomer plus) elseif (hugged jackets?) then (redone brilliantly)
+while (united misconceptions?) is (gang logan)
+:card shithead;
+-> ariel supremacy;
+endwhile (manuscripts living)
+:negatives livid;
+(thrilled frequent) elseif (chlorine paging?) then (exams converse)
+:faraway conceive; <<procedure>>
+(fountainhead rethink) elseif (monsoon workstation?) then (richest biscuit)
+:playwright scotia; <<procedure>>
+-> mindset conjures;
+endif
+stop
+end group
+@enduml

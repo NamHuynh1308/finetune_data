@@ -1,0 +1,75 @@
+@startuml
+split
+-[hidden]->
+:offense heroic;
+split again
+-[hidden]->
+:cod medusa; <<input>>
+split again
+-[hidden]->
+if (leukemia stamina?) then (required conversation)
+(clarify supervised) elseif (home mack?) then (astound spell)
+:routed widower;
+(till gutting) elseif (swilling callous?) then (javelin construed)
+:uncharacteristic rifling;
+(manifests blizzard) elseif (spartan oink?) then (wayside multimillion)
+:interns bowler; <<load>>
+(snags tau) elseif (unbreakable impolite?) then (chug crepe)
+:hourly ass;
+endif
+split again
+-[hidden]->
+if (rushing sounded?) then (acquaint allows)
+(expect doctor) elseif (scribble implement?) then (characterize choreography)
+:tuition degree;
+(townie juices) elseif (hellhound soaps?) then (hollers educate)
+:channel presumptuous;
+(scanner wrinkled) elseif (series navigational?) then (authenticate lech)
+:blowjob manifestations;
+(houseman mouthy) elseif (findings tongs?) then (friction quarterback)
+:reaper tank;
+endif
+end split
+if (fledgling prosciutto?) then (manages contemplating)
+(work ba) elseif (solves doctrine?) then (bestseller arf)
+:ending expedition;
+-> pause fly;
+(invented crawls) elseif (thirteen planning?) then (blazes scraping)
+:surfers reelection; <<input>>
+-> assassination extremely;
+(feta bracket) elseif (auditor stab?) then (establishments coup)
+fork
+:insistent throughout;
+fork again
+:tuba snitches;
+while (pantheon beery?) is (compel workout)
+:settlement merely; <<procedure>>
+endwhile (friend ketch)
+-[hidden]->
+detach
+fork again
+:primary hate;
+fork again
+:downriver rousing;
+while (wised trifle?) is (dude caution)
+:withdrawn transponder;
+:sunflower killjoy; <<procedure>>
+backward:assimilate wrapping;
+:moronic oh; <<input>>
+-> fabrication ram;
+endwhile (illustrious rhythm)
+-[hidden]->
+detach
+end merge
+endif
+:beige banzai; <<continuous>>
+split
+:afternoon counselling;
+split again
+:accusation afraid; <<output>>
+split again
+:typewriter consoling; <<load>>
+split again
+:saleswoman brass; <<load>>
+end split
+@enduml

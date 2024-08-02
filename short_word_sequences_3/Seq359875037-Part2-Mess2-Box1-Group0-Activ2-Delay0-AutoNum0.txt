@@ -1,0 +1,10 @@
+@startuml
+participant "intercourse smaller" as 0
+box "mascots contained"
+participant "whoops excel" as 1
+end box
+0 -\\ 1++ : steal materials
+0 -> 0++ : topes depressed
+return hunk retrieve
+return broadcasts glory
+@enduml

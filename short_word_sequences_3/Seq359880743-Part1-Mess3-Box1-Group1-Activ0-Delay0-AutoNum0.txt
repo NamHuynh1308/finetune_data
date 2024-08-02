@@ -1,0 +1,10 @@
+@startuml
+box "kibosh dragged"
+participant "shaking progressing" as 0
+end box
+0 <-] : strict coals
+0 ->o 0: farmland fixings
+opt shouts alienate
+0 <-> 0: slumming freshen
+end
+@enduml

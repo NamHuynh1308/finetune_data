@@ -1,0 +1,15 @@
+@startuml
+participant "survives candlelight" as 0
+== reactions rein ==
+0 -> 0!! : boy supper
+create participant "shoemaker foreigners" as 1
+0 -> 1 : shoemaker foreigners
+0 -> 1++ : stinks pattern
+...plucky soaring...
+0 -> 0: groomer unprepared
+opt solarium bannister
+...lull helluva...
+ [-> 1: realizes classrooms
+end
+return outhouse crouching
+@enduml

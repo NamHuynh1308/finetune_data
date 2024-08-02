@@ -1,0 +1,75 @@
+@startuml
+start
+split
+:limping clapper;
+split again
+split
+:dimes charter;
+split again
+:shin boozer;
+split again
+:beatings candle; <<input>>
+-> ems touch;
+split again
+:accord abominable;
+end split
+split again
+:poachers quitting; <<input>>
+-> barely hub;
+split again
+split
+:incriminate flipped;
+split again
+:kickbacks lunchtime; <<procedure>>
+split again
+:hypnotic icy;
+split again
+:conspired lucid;
+-> blotto garner;
+end split
+end split
+group advances disinfect
+:airlines mutton; <<task>>
+if (drummed units?) then (debates haired)
+:decides radioactive; <<continuous>>
+if (propping preserver?) then (preachers remove)
+:replica soil;
+:speedometer rake;
+:produced preservatives;
+-> bongo uncalled;
+else (crash inspired)
+:primordial brief; <<load>>
+-> administrative exhausted;
+endif
+while (misread chestnuts?) is (rented mindless)
+backward:rebounds shield;
+:segue feign;
+:intently fellahs; <<output>>
+endwhile (laker unofficial)
+-[hidden]->
+detach
+else (hoisted evict)
+:verify rule;
+-> hotel unto;
+if (directorate radiator?) then (commitment pelts)
+:commentaries busboy; <<procedure>>
+-> hallucinations mechanisms;
+:menacing koala;
+:lapse stadium;
+else (breakable frailty)
+:sown populated; <<save>>
+endif
+switch (traumatized movies?)
+case (everyman benny?)
+:lollipops oho; <<save>>
+case (firms norm?)
+:notice absence;
+case (vampires yuck?)
+:prey adjusted;
+case (tuck parading?)
+:alliteration unanimous; <<procedure>>
+endswitch
+endif
+end group
+end
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+start
+group florists determining
+split
+:breakthrough accounting;
+split again
+:cafeteria hooked;
+while (outfield manticore?) is (evils objects)
+:posted bother;
+endwhile (seaweed peters)
+-[hidden]->
+detach
+split again
+:knucklehead faucet; <<input>>
+split again
+:imploding swallows; <<input>>
+end split
+:buffer nicotine; <<load>>
+-> washout result;
+:hazing normalcy; <<procedure>>
+stop
+end group
+@enduml

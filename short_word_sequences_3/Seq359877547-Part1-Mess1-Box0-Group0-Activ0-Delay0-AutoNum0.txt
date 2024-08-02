@@ -1,0 +1,5 @@
+@startuml
+participant "starlets trophy" as 0
+== preference limitless ==
+0 <-] : mechanics wussy
+@enduml

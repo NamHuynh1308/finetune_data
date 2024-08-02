@@ -1,0 +1,18 @@
+@startuml
+start
+group dispensed smother
+switch (anorexic foot?)
+case (chaperones drools?)
+:stamp cavity; <<load>>
+case (bald manger?)
+split
+:waning alligators;
+split again
+:geezer canaries;
+split again
+:plants shriveled; <<load>>
+end split
+endswitch
+stop
+end group
+@enduml

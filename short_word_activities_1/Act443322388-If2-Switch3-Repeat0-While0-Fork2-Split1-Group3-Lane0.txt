@@ -1,0 +1,71 @@
+@startuml
+start
+group spoiled fronting
+if (guerillas impotent?) then (engine harvest)
+:parents yeah;
+else (unlikable yuletide)
+switch (rides melodrama?)
+case (quick cheeses?)
+:massager snobby; <<input>>
+-> universe binoculars;
+case (motley sentiments?)
+:madonna bystander;
+-> bale negative;
+endswitch
+endif
+group patten swimmingly
+if (sport mow?) then (impotence teriyaki)
+(these underestimating) elseif (squared contestant?) then (skate pastures)
+:craktz;
+kill
+(protocols resolution) elseif (explosives transformed?) then (badgering swine)
+fork
+:abetted succulent;
+fork again
+:papers angora; <<task>>
+fork again
+:brouhaha exquisite; <<continuous>>
+fork again
+:harmed hurtling;
+end merge
+(dignitaries pitiful) elseif (ginseng playmate?) then (runway footnote)
+fork
+:steno jut;
+fork again
+:vasectomy authorize;
+-> blanks students;
+fork again
+:unlikable displace;
+fork again
+:shunt ailing; <<procedure>>
+end merge
+(unborn reactive) elseif (probation canal?) then (thrusts mandate)
+:derby cheerio; <<task>>
+-> familiars nanosecond;
+endif
+group tinfoil flail
+split
+:ace degrading;
+split again
+switch (gravel kickback?)
+case (sideburns thugs?)
+:spareribs champion; <<task>>
+case (indifferent rose?)
+:dingy moon;
+endswitch
+split again
+switch (plague blemish?)
+case (considering baroque?)
+:slinky manifests;
+case (cronies esteemed?)
+:straightened intruders; <<save>>
+-> suitcase improves;
+case (temporary contemplated?)
+:events brethren;
+endswitch
+end split
+stop
+end group
+end group
+end group
+@enduml

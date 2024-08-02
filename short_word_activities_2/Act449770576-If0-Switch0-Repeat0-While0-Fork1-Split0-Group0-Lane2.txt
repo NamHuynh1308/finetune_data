@@ -1,0 +1,21 @@
+@startuml
+|1| snickers carpool
+|2| cashews dummies
+|1|
+start
+:shoelaces entomologist; <<procedure>>
+|2|
+:crackers paged; <<load>>
+fork
+:ascot griff;
+fork again
+:civilians anarchy;
+-> paratrooper contacted;
+fork again
+:chromosomes tortured; <<load>>
+fork again
+:interruptions presumptuous;
+end fork
+:petitioning fractions; <<input>>
+end
+@enduml

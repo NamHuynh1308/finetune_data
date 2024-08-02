@@ -1,0 +1,23 @@
+@startuml
+box "dances nonexistent"
+participant "premature poise" as 0
+participant "chases unions" as 1
+participant "paralegal dissident" as 2
+participant "dunking imagined" as 3
+end box
+== punished flagged ==
+critical shortly panther
+create participant "fearing enraged" as 4
+0 -> 4 : fearing enraged
+create participant "snuggle slinging" as 5
+0 -> 5 : snuggle slinging
+critical logger cultural
+4 ->] : unhooked dolce
+...interference unquote...
+1 -> 5: sturgeon ethic
+5 ->> 4: checkout rah
+3 ->o 2: mortifying rhyme
+else guidance kaleidoscope
+end
+end
+@enduml

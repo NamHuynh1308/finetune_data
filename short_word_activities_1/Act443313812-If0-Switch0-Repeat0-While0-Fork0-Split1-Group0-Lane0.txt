@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:testicular interested;
+split again
+-[hidden]->
+:blackness truck; <<task>>
+-> greyhound romancing;
+split again
+-[hidden]->
+:wilt starved;
+kill
+end split
+:completing nominal; <<task>>
+:public boundary; <<output>>
+:trajectory swine;
+-> boat exceptionally;
+end
+@enduml

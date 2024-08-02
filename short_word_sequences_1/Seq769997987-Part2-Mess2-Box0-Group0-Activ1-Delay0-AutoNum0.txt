@@ -1,0 +1,8 @@
+@startuml
+participant "auditing skid" as 0
+participant "seeks dimensional" as 1
+== failings prescription ==
+1 ->o 1++ : overhead cannibal
+1 ->> 1: question any
+return reefer poltergeist
+@enduml

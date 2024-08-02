@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:assassination allies;
+split again
+-[hidden]->
+:captains ginger;
+split again
+-[hidden]->
+:vial soothing; <<output>>
+end split
+:theatres stuffed; <<output>>
+-> transfusions bombs;
+fork
+:hellhole giraffe;
+fork again
+:collars sucker; <<task>>
+-> redemption island;
+fork again
+:risked package;
+-> reconsidered suds;
+end merge
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "rates dominick" as 0
+autonumber 2 1
+0 ->> 0: besieged affections
+0 -> 0!! : pony shoves
+0 ->o 0: beautiful handguns
+@enduml

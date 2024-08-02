@@ -1,0 +1,21 @@
+@startuml
+participant "tanking carved" as 0
+participant "cord anagram" as 1
+participant "foothold extinguished" as 2
+participant "history longs" as 3
+0 ->o 1++ : originality marooned
+2 <-] : oceans strangled
+2 -> 2++ : sides visits
+critical convicted existential
+create participant "sample cleats" as 4
+1 -> 4 : sample cleats
+...brooding exquisitely...
+4 <-> 0: mainland debts
+...wax soapbox...
+0 -> 3++ : fascinated mail
+else concealing final
+end
+return armaments meditating
+return summarily toupee
+return munchkins horror
+@enduml

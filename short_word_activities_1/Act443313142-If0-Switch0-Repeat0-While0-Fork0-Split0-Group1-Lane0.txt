@@ -1,0 +1,7 @@
+@startuml
+start
+group lander thorough
+:jars dynamics; <<continuous>>
+stop
+end group
+@enduml

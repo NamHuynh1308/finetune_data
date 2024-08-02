@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:troublemaker lifers;
+split again
+-[hidden]->
+:chickenshit impound;
+-> pumped concern;
+split again
+-[hidden]->
+:ripple arena; <<task>>
+-> loot neatness;
+split again
+-[hidden]->
+:insulted branched;
+-> mew unworthy;
+end split
+:dome whistle; <<task>>
+-> femur parlors;
+group nan tractor
+:gage recorders;
+split
+:society slid;
+split again
+:web oddest;
+-> followers snapping;
+split again
+:average alright; <<continuous>>
+-> deduct shiva;
+end split
+end group
+@enduml

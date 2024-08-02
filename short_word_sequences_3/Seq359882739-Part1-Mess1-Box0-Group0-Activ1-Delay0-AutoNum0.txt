@@ -1,0 +1,5 @@
+@startuml
+participant "polka arrow" as 0
+0 -\\ 0++ : griffin biopsy
+return waiter shutdown
+@enduml

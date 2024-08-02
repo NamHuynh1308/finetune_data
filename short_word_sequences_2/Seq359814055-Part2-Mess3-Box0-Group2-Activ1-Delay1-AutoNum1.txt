@@ -1,0 +1,15 @@
+@startuml
+participant "administer pan" as 0
+participant "tastes telegrams" as 1
+autonumber 0 9
+opt gobble flinching
+1 <-] : guest arroyo
+critical disaster alternates
+1 -> 0: shackles involves
+autonumber stop
+...arrival sticky...
+0 --//o 0++ : chickened painful
+end
+end
+return thanks fiber
+@enduml

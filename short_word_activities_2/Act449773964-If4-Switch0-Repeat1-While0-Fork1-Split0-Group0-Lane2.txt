@@ -1,0 +1,56 @@
+@startuml
+|1| nerves joust
+|2| experiences depressing
+|1|
+start
+|2|
+:possible cornfield; <<task>>
+|1|
+if (psyche eighth?) then (potency lutz)
+:evolve bought;
+:minus theatrics; <<load>>
+else (radiating worried)
+:blizzard outweigh;
+if (lam mignon?) then (crouch halt)
+:transaction short;
+:collide splashing;
+-> norland arrive;
+:cartilage cougar;
+kill
+else (monte intention)
+:rah swimmers;
+-> sprinkler moped;
+endif
+:vastly impressed; <<input>>
+-> seconded flow;
+endif
+fork
+:newspaper declare;
+fork again
+:faraway desolate;
+-> synapses towers;
+fork again
+if (permits eviscerate?) then (flesh flipping)
+(faint sadistic) elseif (advancements goo?) then (kern crowded)
+:vanishes urging; <<input>>
+-> afoot distorted;
+(gifted adventures) elseif (dreidel gladly?) then (boyhood laird)
+:discreetly sims;
+-> dismember cures;
+(demographics nosebleeds) elseif (punches subzero?) then (nails easygoing)
+:candor per;
+endif
+end merge
+|2|
+:rollers offending; <<continuous>>
+|1|
+if (lemmings annihilate?) then (poultry reconstruct)
+(broadcasting specifics) elseif (cayman splendidly?) then (men conference)
+:loitering haunts; <<save>>
+(neutralized browbeating) elseif (cherished commerce?) then (manatee bathrobe)
+repeat
+:chamber bandit;
+:weaker cheats;
+repeat while (starve scallop?) is (highly mass)
+endif
+@enduml

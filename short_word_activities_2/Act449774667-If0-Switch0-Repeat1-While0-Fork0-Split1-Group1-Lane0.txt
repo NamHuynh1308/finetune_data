@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:civics preparation;
+split again
+-[hidden]->
+:shoots mondo;
+split again
+-[hidden]->
+repeat
+backward:lower transmission;
+:grenades reimburse; <<procedure>>
+-> valve bleed;
+repeat while (warehouse guts?) is (decades responsibly)
+end split
+group signs receptive
+:disingenuous puppies; <<task>>
+-> concepts publications;
+stop
+end group
+@enduml

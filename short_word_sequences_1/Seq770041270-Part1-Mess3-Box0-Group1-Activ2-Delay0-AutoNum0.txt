@@ -1,0 +1,12 @@
+@startuml
+participant "blindly recognize" as 0
+== iron shuttle ==
+0 ->] : crank ramrod
+alt haystack yogi
+0 ->x 0++ : commoner what
+0 -// 0++ : lawyered booties
+else lifeboats metaphor
+end
+return voiced swans
+return symptoms stupor
+@enduml

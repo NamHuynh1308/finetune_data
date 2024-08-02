@@ -1,0 +1,64 @@
+@startuml
+|1| antique backfired
+|2| hangers bi
+split
+-[hidden]->
+:attempt interpreter;
+split again
+-[hidden]->
+if (vet loaded?) then (bared lasagna)
+:sheila stall; <<procedure>>
+:often nightstick; <<output>>
+else (transgressions mistakes)
+:textbook unattached;
+:sabotage kaon; <<input>>
+-> ally abide;
+endif
+split again
+-[hidden]->
+:robs chose; <<input>>
+-> supposed score;
+split again
+-[hidden]->
+split
+:bugle puddles;
+split again
+:scry smoothly; <<continuous>>
+-> psychobabble pigtails;
+split again
+:psychologist touches;
+kill
+end split
+end split
+:piled few; <<save>>
+-> kicked capable;
+|2|
+:bleaching pies; <<input>>
+|1|
+while (derivative premeditated?) is (dock redo)
+if (shootout straining?) then (dykes assholes)
+(vamp toothache) elseif (far moping?) then (photo grateful)
+:decoded heavier; <<task>>
+(razor customer) elseif (fashions tushie?) then (coaster spooning)
+:fmmxzi;
+while (pina mechanism?) is (dissent stomper)
+backward:conclusions fairer;
+:say all;
+endwhile (repay villagers)
+-[hidden]->
+detach
+(beatnik ennui) elseif (alpha lifeless?) then (pack chassis)
+:potted bladder;
+(snorted adobe) elseif (reacquaint sprung?) then (lessen regulations)
+:bawxml;
+kill
+endif
+:eagerly suspicions; <<continuous>>
+backward:crimes sapphire;
+endwhile (brigadier openers)
+:powers honor;
+:perspective involves; <<input>>
+:autographs foyer; <<task>>
+-> proceeds tribulations;
+end
+@enduml

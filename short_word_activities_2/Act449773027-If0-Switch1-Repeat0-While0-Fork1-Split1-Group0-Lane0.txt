@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:accessory fervor;
+split again
+-[hidden]->
+switch (misnomer rude?)
+case (trendy speedway?)
+:contradicting shoving;
+case (tidings joey?)
+:megaphone fill;
+-> complacency initiation;
+case (nightmares hatred?)
+:chambers judiciary;
+case (schoolboy block?)
+:belongs panache;
+endswitch
+split again
+-[hidden]->
+:corporation abound; <<save>>
+split again
+-[hidden]->
+fork
+:protections spool;
+fork again
+:mucus practising;
+fork again
+:highball gases;
+fork again
+:camps pretext;
+end merge
+end split
+:stimulation heartthrob;
+-> brief parable;
+:torpedoed gum; <<procedure>>
+@enduml

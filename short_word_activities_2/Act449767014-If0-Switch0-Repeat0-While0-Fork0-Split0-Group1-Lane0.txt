@@ -1,0 +1,10 @@
+@startuml
+start
+group sightless brotherly
+:pitfalls materials; <<output>>
+-> alexander thorns;
+:languages joystick;
+-> ancients flatulence;
+stop
+end group
+@enduml

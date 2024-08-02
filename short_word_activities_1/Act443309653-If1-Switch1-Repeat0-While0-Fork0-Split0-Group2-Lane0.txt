@@ -1,0 +1,29 @@
+@startuml
+start
+group macaws washes
+:tapeworm literary; <<input>>
+group flounder weensy
+:talks matches; <<input>>
+-> mercer logged;
+if (rumblings intertwined?) then (brakes lacked)
+(diaries fisherman) elseif (payoff dieting?) then (hurt ligature)
+:playwright frugal; <<procedure>>
+(cobbler carved) elseif (breech wires?) then (druthers relatives)
+switch (maiming ruling?)
+case (prioritizing disown?)
+:varies plowing;
+-> representations incriminating;
+case (enhanced rationalize?)
+:bailey shorthanded; <<output>>
+-> throat subbasement;
+case (protocols fishnet?)
+:cashed sweating;
+endswitch
+(preyed codicil) elseif (scientists divinity?) then (seventy roar)
+:mill wraith; <<save>>
+-> cherished chicano;
+endif
+end group
+stop
+end group
+@enduml

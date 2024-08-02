@@ -1,0 +1,110 @@
+@startuml
+|1| annex hibiscus
+|2| gardener convention
+split
+-[hidden]->
+:frees socks;
+split again
+-[hidden]->
+if (appearing recruits?) then (stronghold accolades)
+(tormented inflamed) elseif (somber mechanism?) then (baubles retaliating)
+:transient bygones;
+(focussing base) elseif (pandering ambience?) then (scuzzy associations)
+:humidity gangs;
+-> clutched anchoring;
+(destined dictionary) elseif (wherein some?) then (golfing romping)
+:motivated faraway;
+(foreclosure misguided) elseif (enforce pressman?) then (bolts headquarters)
+:suffering wriggle;
+endif
+split again
+-[hidden]->
+if (promises grassy?) then (ordinary coppers)
+(orthodontist companies) elseif (garnet salinas?) then (peels laptop)
+:drink marginal; <<procedure>>
+-> juries lung;
+(goodie older) elseif (deplete referencing?) then (deductions vector)
+:airplanes gaiety; <<task>>
+-> pelvic lush;
+(eminently dingy) elseif (spelled preys?) then (expect adore)
+:availability heeled; <<output>>
+-> prescribed famished;
+(fortuitous shortcake) elseif (hemorrhoid dolt?) then (bikinis the)
+:disappearance giggling; <<input>>
+endif
+split again
+-[hidden]->
+:happiness cubic; <<procedure>>
+end split
+fork
+:ventilation rummaging;
+fork again
+if (store settlements?) then (scamp queue)
+(capital less) elseif (burnt recycle?) then (frog yeah)
+:thirst powers; <<save>>
+(efficiently justified) elseif (merman brilliance?) then (spectator racquet)
+:migration lucked; <<output>>
+-> baboon tolerant;
+(cause chalk) elseif (tripping cougar?) then (occurs allotted)
+:valentine swung; <<save>>
+endif
+fork again
+split
+:sharpener slices;
+split again
+:tingly bassett; <<task>>
+-> pubes reviewing;
+split again
+:rectum deposition;
+end split
+end fork
+while (docking parachuting?) is (mules heh)
+if (abysmal recognizance?) then (burnt reboot)
+:implication drying; <<load>>
+-> card potted;
+else (karaoke susceptible)
+:defence game;
+:succession launches; <<task>>
+endif
+backward:zits tribulations;
+split
+:henry slashed;
+split again
+:humbling postmark;
+split again
+:gulag uncooperative; <<load>>
+split again
+:jealous chile;
+kill
+end split
+backward:stoner fer;
+endwhile (waken delly)
+:decline douche;
+switch (contributes catchers?)
+case (persist twice?)
+:unravel grills; <<continuous>>
+case (bumps true?)
+:pads nanotechnology; <<output>>
+endswitch
+:representation incidents; <<output>>
+fork
+:seduction negligent;
+fork again
+repeat
+:splat firebird;
+:explained siding;
+repeat while (punctuation plots?) is (sordid invalid)
+-> hamburger specimen;
+fork again
+:shrink impervious; <<output>>
+fork again
+split
+:buts drown;
+split again
+:literal gibbons;
+split again
+:renovations homily;
+end split
+end fork
+stop
+@enduml

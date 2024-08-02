@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:treadmill speechless;
+split again
+-[hidden]->
+switch (doggie beats?)
+case (boxes deterrent?)
+:trespassed grease;
+case (cheese attract?)
+:theater humiliate;
+case (rare brace?)
+:smallest landscaping; <<load>>
+case (drumsticks jettison?)
+:retreated transatlantic;
+kill
+endswitch
+split again
+-[hidden]->
+:cougar deductible; <<input>>
+-> gasses classics;
+split again
+-[hidden]->
+:seal shocks;
+end split
+group endorphins gardeners
+switch (goodie oink?)
+case (humid lessee?)
+repeat
+:renal standards;
+backward:myriad psychic;
+backward:printed picked;
+repeat while (booze study?) is (jiggly schoolteacher)
+case (maw fiesta?)
+fork
+:stem outpatient;
+fork again
+:sprouted solitude;
+fork again
+:traipse bowl; <<save>>
+end fork
+endswitch
+:fixings resemblance; <<output>>
+end group
+@enduml

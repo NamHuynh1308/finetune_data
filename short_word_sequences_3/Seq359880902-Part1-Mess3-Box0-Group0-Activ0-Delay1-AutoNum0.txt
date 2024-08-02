@@ -1,0 +1,7 @@
+@startuml
+participant "nothings colonists" as 0
+0 ->> 0: outbid potting
+0 -> 0: prove stylings
+...gap airmen...
+0 ->x 0: monitors palp
+@enduml

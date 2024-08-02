@@ -1,0 +1,51 @@
+@startuml
+split
+-[hidden]->
+:infections decontamination;
+split again
+-[hidden]->
+:conflict bugging; <<continuous>>
+split again
+-[hidden]->
+split
+:buffoons dub;
+split again
+:abandon chaps; <<input>>
+split again
+:beaming repentance; <<save>>
+-> actor commendable;
+end split
+split again
+-[hidden]->
+:nevermore lipped; <<procedure>>
+end split
+group horse fairway
+:download decker;
+-> spirit togetherness;
+switch (mm tracking?)
+case (dyer earthquakes?)
+while (hindrance unidentified?) is (by surely)
+backward:gullible cigars;
+backward:helper vail;
+endwhile (disillusionment millionaires)
+:fueling maximum;
+case (eliminating blankets?)
+switch (hovercraft genoa?)
+case (tool disloyal?)
+:nightcap blame;
+case (reporter opposing?)
+:angling amended;
+case (regretted cold?)
+:pilar summers; <<load>>
+case (ice lashes?)
+:solve linger; <<continuous>>
+endswitch
+case (creep exercises?)
+:attracted incur;
+case (sometimes sleeve?)
+:lounging caverns;
+-> bordello anonymity;
+endswitch
+stop
+end group
+@enduml

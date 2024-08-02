@@ -1,0 +1,13 @@
+@startuml
+start
+fork
+:examining happen;
+fork again
+:muskrat item; <<input>>
+-> er inbred;
+fork again
+:endorsements outcast; <<output>>
+-> swooping comfortably;
+end fork
+stop
+@enduml

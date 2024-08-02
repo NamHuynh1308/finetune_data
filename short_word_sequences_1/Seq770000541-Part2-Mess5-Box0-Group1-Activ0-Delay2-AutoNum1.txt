@@ -1,0 +1,18 @@
+@startuml
+participant "fanatics liners" as 0
+participant "hungry tamales" as 1
+autonumber 5 4
+ [<- 1: variety indication
+...parishioners druthers...
+0 ->> 1: sheds finalize
+autonumber stop
+...expanding concern...
+0 -> 0: paramedic barrio
+autonumber resume
+opt bussing hellbent
+1 <-> 0: watcher apparel
+autonumber stop
+1 ->o 1: spence mind
+else underhanded sided
+end
+@enduml

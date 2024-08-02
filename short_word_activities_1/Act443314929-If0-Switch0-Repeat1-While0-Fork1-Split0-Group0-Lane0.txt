@@ -1,0 +1,21 @@
+@startuml
+start
+repeat
+:forensics favour; <<load>>
+fork
+:cargo constrictor;
+fork again
+:pothead optimism; <<load>>
+-> freely gambit;
+fork again
+:ruptured brushed; <<load>>
+fork again
+:participating hut; <<save>>
+-> lapsed crackers;
+end merge
+repeat while (agency captives?) is (spur accessing)
+-> bizarre declining;
+:mousy paint; <<output>>
+-> anchovies cockamamie;
+end
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+participant "predictable ovation" as 0
+box "footwork footman"
+participant "dysentery instructions" as 1
+participant "bristol gigolo" as 2
+participant "late distances" as 3
+end box
+autonumber 3 9
+2 ->] : tomorrows ovation
+autonumber stop
+1 <-> 3: swiping dickens
+autonumber resume
+1 ->> 3: cuff shingle
+alt reincarnated smooch
+2 -\\ 2: effectively cane
+loop sup madness
+ [<- 2: charted whilst
+0 ->> 1: whiner fishnet
+par fleet pasts
+3 ->> 1++ : crazier ruffians
+end
+end
+end
+return uncooperative chassis
+@enduml

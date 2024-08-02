@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:hopelessness hora;
+split again
+-[hidden]->
+:shabby thumbs; <<task>>
+-> bugged assaulted;
+split again
+-[hidden]->
+fork
+:nitroglycerin miserable;
+fork again
+:truant crawly; <<output>>
+-> incidence stepson;
+fork again
+:misunderstandings hovel; <<task>>
+fork again
+:lakes heaps; <<load>>
+end fork
+end split
+group blends events
+repeat
+split
+:establishments involved;
+split again
+:dorms casa;
+split again
+:sweet olives; <<input>>
+end split
+:ordinance shortage; <<continuous>>
+repeat while (touchy provocation?) is (program retirement)
+-> rippling enriching;
+stop
+end group
+@enduml

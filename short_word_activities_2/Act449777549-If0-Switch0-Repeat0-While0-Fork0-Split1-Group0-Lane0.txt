@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:sims parkway;
+split again
+-[hidden]->
+:banner capitalism; <<save>>
+-> seminal lovemaking;
+split again
+-[hidden]->
+:teammate mixing; <<procedure>>
+end split
+:donation amazed; <<procedure>>
+-> thief trumpets;
+end
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+:pursue renown; <<continuous>>
+-> seasons bug;
+@enduml

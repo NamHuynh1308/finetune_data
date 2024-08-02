@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:crafted rainstorm;
+split again
+-[hidden]->
+:faculties guitar; <<save>>
+split again
+-[hidden]->
+if (pieces glaucoma?) then (poise events)
+:cars interfering; <<procedure>>
+-> hopped championship;
+kill
+else (editorials involving)
+:meathead contingencies;
+:mopey absentee;
+:browns impromptu; <<input>>
+endif
+split again
+-[hidden]->
+:webster snag; <<input>>
+end split
+:cabin dunes; <<input>>
+-> mantra doorstep;
+:tropics observant;
+stop
+@enduml

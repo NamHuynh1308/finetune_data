@@ -1,0 +1,14 @@
+cd pretrained/
+pip install -U huggingface_hub
+
+# download OpenGVLab/InternVL-Chat-V1-5
+huggingface-cli download --resume-download --local-dir-use-symlinks False OpenGVLab/InternVL-Chat-V1-5 --local-dir InternVL-Chat-V1-5
+
+# For LoRA adapter using a single GPU
+!CUDA_VISIBLE_DEVICES=0 bash shell/internvl_chat_v1_5_hermes2_finetune_continue_lora/internvl_chat_v1_5_hermes2_finetune_continue_lora.sh
+
+
+
+
+### Commands to fix some error
+pip install setuptools==69.5.1 => fix the error for installing flash-attn==2.3.6

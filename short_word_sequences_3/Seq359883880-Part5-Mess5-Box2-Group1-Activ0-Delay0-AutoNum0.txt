@@ -1,0 +1,19 @@
+@startuml
+box "brewing flint"
+participant "batting gawk" as 0
+box "titanium summons"
+participant "intravenous furry" as 1
+participant "bloodline carton" as 2
+participant "telescopic fielding" as 3
+end box
+end box
+== perks fir ==
+2 -> 3: duly cloud
+2 -> 2: gall celebrity
+create participant "bullshitting republicans" as 4
+3 -> 4 : bullshitting republicans
+par pollack roadway
+2 -> 3: uncharacteristic shirts
+4 -> 2: musician creased
+end
+@enduml

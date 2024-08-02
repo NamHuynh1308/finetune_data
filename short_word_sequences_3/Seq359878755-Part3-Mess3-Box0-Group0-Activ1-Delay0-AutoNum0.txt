@@ -1,0 +1,10 @@
+@startuml
+participant "hatchback derrick" as 0
+participant "extinct connoisseur" as 1
+participant "replace rages" as 2
+== authenticated wrinkles ==
+1 -// 0: freeway recorders
+1 -> 1: decorate granting
+1 -> 0++ : hogging exiles
+return scheduled foresee
+@enduml

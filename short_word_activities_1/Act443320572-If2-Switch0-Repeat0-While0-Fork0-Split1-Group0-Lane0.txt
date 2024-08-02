@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:reports fellers;
+split again
+-[hidden]->
+if (inadvertently cannons?) then (incurred runny)
+:youthful prizes;
+-> university gawking;
+:specialize strapped;
+-> willingness oppose;
+:newspaper wiping;
+else (diathesis spontaneously)
+:drug plus; <<load>>
+-> bureaucrat evils;
+:colleen jubilee;
+:oedipal laxative; <<procedure>>
+endif
+split again
+-[hidden]->
+if (intensive syphilis?) then (horoscopes limits)
+:skimming multiplication; <<task>>
+:pregnancies bel;
+kill
+else (doomed ambiguity)
+:investigative postmark; <<output>>
+-> asparagus majestic;
+:outdated cessation;
+endif
+split again
+-[hidden]->
+:peek stairs; <<save>>
+end split
+:annoyance deceive; <<output>>
+-> assaulted whim;
+:sitter buff; <<save>>
+end
+@enduml

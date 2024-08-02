@@ -1,0 +1,18 @@
+@startuml
+participant "attachment running" as 0
+autonumber 0 7
+opt hinges snooze
+0 --> 0: jumpsuit panels
+autonumber stop
+loop griff heaps
+0 ->o 0: priority chamomile
+0 <-> 0: clears milky
+else beverage creased
+critical winging snapping
+0 -> 0++ : then tendency
+0 -->x 0: destroyed army
+return metallic hindsight
+end
+end
+end
+@enduml

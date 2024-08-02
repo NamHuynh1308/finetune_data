@@ -1,0 +1,14 @@
+@startuml
+start
+group trembling democrat
+split
+:exploited bossy;
+split again
+:gases gizmo; <<continuous>>
+split again
+:gassy mm; <<procedure>>
+-> passed humanitarian;
+end split
+stop
+end group
+@enduml

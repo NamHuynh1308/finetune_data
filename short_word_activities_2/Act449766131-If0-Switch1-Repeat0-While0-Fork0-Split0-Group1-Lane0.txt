@@ -1,0 +1,11 @@
+@startuml
+group exotic regulations
+switch (hazards realms?)
+case (sink disintegrated?)
+:surly teeny; <<task>>
+case (detonators roadie?)
+:provision solve; <<load>>
+endswitch
+:roads fantastically;
+end group
+@enduml

@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:which curacao;
+split again
+-[hidden]->
+:smudge among; <<input>>
+-> events pedestrians;
+split again
+-[hidden]->
+:cameraman hypotensive;
+split again
+-[hidden]->
+fork
+:boxer fiery;
+fork again
+:cupcakes kahuna;
+fork again
+:retro corporate;
+fork again
+:drops favor; <<output>>
+end merge
+end split
+group standard retract
+repeat
+backward:highland mayan;
+backward:statewide milky;
+if (wreaking excitement?) then (truthfully glaring)
+:terminate cascade;
+:moon truffle;
+:reluctantly bombs; <<load>>
+-> sham sustained;
+while (chimney controversial?) is (foolishness euphoric)
+backward:implausible wondering;
+endwhile (munching fade)
+-[hidden]->
+detach
+else (essence leisurely)
+:dykes coeds; <<input>>
+-> crossed clearance;
+:extracts backseat; <<task>>
+endif
+repeat while (sisters sterile?) is (management spindly)
+group maxi pod
+:referred ratting; <<load>>
+stop
+end group
+end group
+@enduml

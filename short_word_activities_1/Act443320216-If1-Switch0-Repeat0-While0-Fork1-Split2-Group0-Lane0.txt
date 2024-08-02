@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:parachute lubricants;
+split again
+-[hidden]->
+:bottomless termites; <<load>>
+split again
+-[hidden]->
+fork
+:pouring wandering;
+fork again
+:beeps moniker;
+fork again
+:spores wrapping;
+end fork
+end split
+if (outlined snowmen?) then (union swilling)
+(sack ceased) elseif (skeleton dirt?) then (mor coronation)
+split
+:difference closet;
+split again
+:swing succotash; <<output>>
+-> domination fanaticism;
+split again
+:zero quitters; <<load>>
+-> parody cultures;
+end split
+(treaty crept) elseif (hurdles minuscule?) then (does employees)
+:comrades presuming; <<continuous>>
+-> envied chose;
+(pill gault) elseif (insufficient disillusioned?) then (leaving rub)
+:knoll climbed; <<input>>
+-> swimmer zephyrs;
+(specifically crimp) elseif (counselors right?) then (rin needed)
+:telly cockles; <<continuous>>
+endif
+stop
+@enduml

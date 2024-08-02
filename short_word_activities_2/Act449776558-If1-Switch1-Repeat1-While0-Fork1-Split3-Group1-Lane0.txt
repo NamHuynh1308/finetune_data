@@ -1,0 +1,63 @@
+@startuml
+split
+-[hidden]->
+:rode lear;
+split again
+-[hidden]->
+:attained summarize; <<task>>
+split again
+-[hidden]->
+repeat
+backward:whereas mobility;
+:vowed rob;
+repeat while (upheld fluke?) is (allegations coattails)
+split again
+-[hidden]->
+if (speller loaded?) then (misunderstand setbacks)
+:begrudge trashed;
+kill
+else (sandwich fishes)
+:likely als;
+endif
+end split
+group bubbly indignation
+split
+:delinquent attempt;
+split again
+split
+:nitrogen godlike;
+split again
+:unlucky standstill; <<continuous>>
+split again
+:youse diary;
+split again
+:discharge bowler;
+-> hiccup warming;
+end split
+split again
+:gargantuan gallons;
+split again
+:nah reluctantly;
+-> beaming hydrogen;
+end split
+:pail hatchback; <<load>>
+end group
+fork
+:cleansed ambivalence;
+fork again
+:intolerable fortune;
+-> fugue personalize;
+fork again
+switch (owls molested?)
+case (incriminate amniotic?)
+:egg porky;
+case (modest benefactor?)
+:guineas paternal; <<output>>
+-> democrats insist;
+case (profiling tightening?)
+:dissect expanding;
+case (masseuse genus?)
+:eighth prohibit; <<continuous>>
+endswitch
+end fork
+@enduml

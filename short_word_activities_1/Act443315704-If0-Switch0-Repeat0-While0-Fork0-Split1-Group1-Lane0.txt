@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:squished hilarious;
+split again
+-[hidden]->
+:hon exiled; <<load>>
+split again
+-[hidden]->
+:censorship decontamination;
+-> guerrillas diabetics;
+split again
+-[hidden]->
+:softness ringer; <<output>>
+-> bussing brass;
+end split
+group entry fanny
+:roughage consume;
+stop
+end group
+@enduml

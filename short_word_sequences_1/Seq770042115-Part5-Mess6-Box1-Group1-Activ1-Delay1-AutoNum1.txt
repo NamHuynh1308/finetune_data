@@ -1,0 +1,22 @@
+@startuml
+participant "sees petit" as 0
+participant "possesses bravest" as 1
+box "chandler lower"
+participant "shrink knucklehead" as 2
+participant "scratch pension" as 3
+end box
+autonumber 5 2
+create participant "devilishly lonelier" as 4
+3 -> 4 : devilishly lonelier
+0 -> 0: resents dawn
+autonumber stop
+3 ->] : relentlessly lefty
+par earl occupancy
+...mysteriously massive...
+1 --> 1: imaginative cone
+4 <-> 1: mount impressing
+end
+1 ->o 0++ : conniption intervening
+autonumber resume
+return unwrapping devon
+@enduml

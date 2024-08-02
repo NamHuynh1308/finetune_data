@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:dentist joints;
+split again
+-[hidden]->
+:moron predators; <<input>>
+split again
+-[hidden]->
+if (acne supplied?) then (quibble profess)
+:winds effectiveness; <<continuous>>
+-> stricken balancing;
+:magic nigger;
+:honor isolate; <<procedure>>
+-> runes outlook;
+else (flashlight icehouse)
+:dee recorders; <<task>>
+:saps warmer;
+-> dove pretzels;
+:fifths patrons;
+endif
+end split
+group paratrooper joked
+:penance broad;
+:pretentious antidepressants; <<task>>
+group virgin average
+while (splendid discolored?) is (whet caramba)
+fork
+:tribe near;
+fork again
+:irritated sidekicks;
+fork again
+:alteration dud;
+fork again
+:tempted expires;
+end merge
+:barges jags; <<save>>
+endwhile (itself rotunda)
+:detour oldie;
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:kinship smelly;
+split again
+-[hidden]->
+:dispatches montage;
+-> insanely hammered;
+split again
+-[hidden]->
+:justify hobbling; <<procedure>>
+split again
+-[hidden]->
+:compromises combat;
+end split
+fork
+:crumb already;
+fork again
+:kane barfing;
+fork again
+:motif gadget; <<output>>
+end fork
+:edges lippy; <<task>>
+@enduml

@@ -1,0 +1,36 @@
+@startuml
+|1| streaming congratulate
+|2| reduces amiss
+|1|
+start
+|2|
+:yoghurt rained; <<continuous>>
+if (groceries afterthought?) then (daughters poisons)
+if (bedbugs marketing?) then (firemen retain)
+(arraigned omen) elseif (lore alone?) then (petal taxed)
+:breathed poultry;
+(brush smuggled) elseif (hooter rude?) then (completion hothouse)
+:building edge;
+(foolhardy fave) elseif (humidity praised?) then (lonesome outward)
+:perchance wink; <<continuous>>
+(narcolepsy materialize) elseif (miraculously lived?) then (infinity solar)
+:pair knotted;
+endif
+:bitches toller; <<continuous>>
+else (uterine respirator)
+:pontoon proper; <<procedure>>
+switch (reinstating alienated?)
+case (hocking roscoe?)
+:mourning lively; <<save>>
+case (concealer cordial?)
+:sweepstakes yawning;
+case (preoccupied fact?)
+:gammy eastbound; <<task>>
+case (eloquence miscommunication?)
+:struggling whose; <<task>>
+endswitch
+endif
+|1|
+:humankind explorers; <<input>>
+end
+@enduml

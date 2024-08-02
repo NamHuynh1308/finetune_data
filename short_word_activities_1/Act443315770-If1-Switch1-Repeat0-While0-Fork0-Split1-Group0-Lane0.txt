@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:expert angle;
+split again
+-[hidden]->
+:haired parting; <<input>>
+-> crusades beef;
+split again
+-[hidden]->
+:recheck grainy;
+kill
+end split
+:antler bumbling; <<load>>
+-> bullshit pantaloons;
+if (noo silvery?) then (situation overactive)
+:secret bracelet; <<input>>
+:ers designation; <<continuous>>
+else (liberation taffeta)
+switch (reliable twit?)
+case (intruded ne?)
+:steal tripled;
+case (laziness candlelit?)
+:months backs;
+case (mischief bulletins?)
+:recreated peckers; <<task>>
+endswitch
+:warm sleepwalk; <<output>>
+-> pales laureate;
+endif
+:fine memorable;
+-> coles thank;
+end
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+:strangled dose; <<task>>
+-> doused cognac;
+end
+@enduml

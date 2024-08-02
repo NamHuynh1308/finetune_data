@@ -1,0 +1,73 @@
+@startuml
+split
+-[hidden]->
+:marines bodega;
+split again
+-[hidden]->
+:tracks humour; <<save>>
+-> volunteered spouse;
+split again
+-[hidden]->
+:soundstage mercer; <<continuous>>
+-> refuses privilege;
+split again
+-[hidden]->
+switch (fact taunts?)
+case (dissolving liners?)
+:mikes guessed; <<input>>
+-> dealership farmhouse;
+case (trend roughing?)
+:projecting pumps; <<input>>
+endswitch
+end split
+if (animosity cubs?) then (report etiquette)
+:insides unexplained; <<continuous>>
+-> mould nipping;
+if (trick accumulation?) then (zesty baa)
+(exhumed colleague) elseif (egomaniacal jewellery?) then (honorary journey)
+:cases ogre;
+(equity obligations) elseif (hailing revolver?) then (base bribing)
+:tardy upholstery;
+(lifeboats investigators) elseif (surprisingly consumption?) then (joiner dumplings)
+:pulsating homos;
+(gelato plagues) elseif (poets awesome?) then (creeds franchises)
+:nightmares nary; <<task>>
+endif
+else (holy depart)
+fork
+:savings enforced;
+fork again
+:vertigo barnacle;
+while (staring alarm?) is (corny flashy)
+:pimply arachnid; <<output>>
+backward:psychologist sizeable;
+endwhile (louse creature)
+-[hidden]->
+detach
+fork again
+:vee ravine;
+fork again
+:deity jumper;
+-> familiar rednecks;
+end merge
+if (real strangle?) then (disrespecting queen)
+:has shove;
+kill
+else (croupier automobile)
+:wrong thinkers; <<output>>
+:sweats virus; <<procedure>>
+:lifestyle judas;
+endif
+endif
+if (sympathy therapist?) then (hounding mugger)
+(mattress parishioner) elseif (mullet predator?) then (ultimatum parading)
+:dill ogling; <<continuous>>
+(security motive) elseif (enabled encountered?) then (dummy disapprove)
+:mount hauled;
+(psychopaths vindicated) elseif (upheaval spirits?) then (toon kins)
+:pentagon incomprehensible;
+endif
+:sarcastic dicking; <<output>>
+-> slate glassware;
+end
+@enduml

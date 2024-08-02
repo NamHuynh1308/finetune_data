@@ -1,0 +1,7 @@
+@startuml
+participant "canines inspect" as 0
+participant "liquored mice" as 1
+0 ->> 0: problem torch
+0 --> 1++ : gases bladders
+return priss groundbreaking
+@enduml

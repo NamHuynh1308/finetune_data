@@ -1,0 +1,9 @@
+@startuml
+participant "picturing panties" as 0
+autonumber 3 6
+ [<- 0: hairdo scouted
+ [<- 0: bat plaguing
+break statistics lop
+0 -> 0: gnats station
+end
+@enduml

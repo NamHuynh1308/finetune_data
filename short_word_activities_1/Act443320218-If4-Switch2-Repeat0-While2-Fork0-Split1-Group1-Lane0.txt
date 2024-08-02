@@ -1,0 +1,87 @@
+@startuml
+split
+-[hidden]->
+:shown sleepless;
+split again
+-[hidden]->
+:roadblock rates;
+-> ten voltage;
+split again
+-[hidden]->
+:dandelion arms;
+split again
+-[hidden]->
+if (land papa?) then (ratio threats)
+:extinguisher loaning; <<task>>
+-> ford oaf;
+:exerting consistently; <<input>>
+-> attitudes premium;
+:anonymous comparable;
+else (thug present)
+:warn physiologically; <<continuous>>
+:unrest benedict;
+:beckons irresponsible;
+-> increases nineties;
+endif
+end split
+group banking deathbed
+if (airmen remote?) then (tears duck)
+:birdseed uncaring;
+-> shapes fella;
+if (chess piston?) then (leopards sprinkles)
+:instilled diagnostician;
+:roomie convene; <<save>>
+-> violet charted;
+:glum similar; <<continuous>>
+while (glass brandies?) is (died abiding)
+backward:lime chunks;
+:spawned jubilee;
+:attracted conspiring;
+:tile cosmetics;
+endwhile (divulged theoretically)
+-[hidden]->
+detach
+else (like toothed)
+:ready stimulating;
+-> walling quarreled;
+:humidor enlisted;
+while (inbred clack?) is (bother shove)
+:inconsistent briefly;
+:below olive; <<task>>
+-> hocking operate;
+backward:humph occult;
+backward:vet organism;
+endwhile (deciding overprotective)
+-[hidden]->
+detach
+endif
+else (paddle rather)
+:cuffs lung;
+-> peppermint gamut;
+:bungee auk; <<load>>
+:seriousness youngster; <<output>>
+-> jobless vandals;
+endif
+if (athlete shoves?) then (unfounded thus)
+switch (owls shaped?)
+case (cystic altogether?)
+:sugarcoat whooping;
+case (treaty nil?)
+:breaths retire; <<save>>
+case (bowler snores?)
+:finer temper;
+endswitch
+:autism exclamation; <<load>>
+:responding sutures; <<load>>
+else (deaf molestation)
+switch (overview evil?)
+case (discouraged chitchat?)
+:chump systematically; <<continuous>>
+case (birthing gendarme?)
+:socially truthful; <<save>>
+endswitch
+kill
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "imports canisters" as 0
+== cases smirk ==
+autonumber 6 4
+loop aspen jingling
+create participant "guaranteeing clincher" as 1
+0 -> 1 : guaranteeing clincher
+autonumber stop
+0 -> 1++ : patent setting
+autonumber resume
+end
+return revolutionary remark
+@enduml

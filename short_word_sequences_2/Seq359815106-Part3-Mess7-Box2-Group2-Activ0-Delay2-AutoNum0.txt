@@ -1,0 +1,23 @@
+@startuml
+box "broomstick fudging"
+participant "juice contained" as 0
+box "thirds groups"
+participant "duality grange" as 1
+participant "sonata ultimatums" as 2
+end box
+end box
+== squandered marginally ==
+0 ->> 1: misprint rays
+2 -> 2: nonissue frauds
+2 -> 0: infamy chic
+alt subjective tubs
+...thawing deacon...
+0 -->x 2: croaker laureate
+...distasteful substances...
+0 --//o 1: snooze sterling
+0 ->o 0: hydrolase occurs
+opt animated seriousness
+1 ->> 2: afternoons audience
+end
+end
+@enduml

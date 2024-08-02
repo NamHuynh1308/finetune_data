@@ -1,0 +1,11 @@
+@startuml
+box "inconvenience tong"
+participant "praying mentions" as 0
+participant "honest listened" as 1
+end box
+autonumber 8 4
+0 -> 0!! : clunkers optional
+critical magnetic abortions
+0 ->x 0: sniffing judgmental
+end
+@enduml

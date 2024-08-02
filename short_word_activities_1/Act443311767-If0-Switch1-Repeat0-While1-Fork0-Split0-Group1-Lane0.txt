@@ -1,0 +1,21 @@
+@startuml
+start
+group johns tobacco
+:antivenin bowls; <<task>>
+-> slices jamboree;
+switch (dumbest modelling?)
+case (founded admits?)
+:poems ballpoint; <<load>>
+-> farther charmed;
+case (losses fools?)
+while (shadowy bustier?) is (weds felling)
+:residual rest;
+-> terminology calendar;
+:gowns tacky; <<output>>
+endwhile (denies empirical)
+:restrictions devotion;
+case (inhaler wore?)
+:mushrooms glitches; <<task>>
+endswitch
+end group
+@enduml

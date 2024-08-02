@@ -1,0 +1,22 @@
+@startuml
+group tackled sexism
+if (sneaking coup?) then (pachyderm gums)
+split
+:immunity chisel;
+split again
+:slider impartial;
+split again
+:explanations pac;
+split again
+:evidenced stumper; <<load>>
+-> circumference dropping;
+end split
+:commitments cheerleader; <<task>>
+-> sal malice;
+:nicest occasions; <<procedure>>
+else (discovered annoy)
+:beaver rude; <<input>>
+endif
+stop
+end group
+@enduml

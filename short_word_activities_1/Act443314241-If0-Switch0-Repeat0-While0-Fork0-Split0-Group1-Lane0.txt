@@ -1,0 +1,8 @@
+@startuml
+start
+:vote repository; <<task>>
+group unfathomable when
+:pittance merman; <<output>>
+stop
+end group
+@enduml

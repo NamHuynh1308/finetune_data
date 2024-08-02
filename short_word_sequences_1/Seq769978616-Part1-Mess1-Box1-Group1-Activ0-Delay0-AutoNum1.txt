@@ -1,0 +1,9 @@
+@startuml
+box "requirement approving"
+participant "interns communism" as 0
+end box
+autonumber 9 5
+par brandy paths
+0 -// 0: troubles backseat
+end
+@enduml

@@ -1,0 +1,73 @@
+@startuml
+|1| predecessors chapman
+|2| plead cain
+split
+-[hidden]->
+:murderer calamitous;
+split again
+-[hidden]->
+split
+:persecuted aargh;
+split again
+:picturing raisin;
+split again
+:treatment emphatically;
+-> dynamite grizzly;
+split again
+:sober quoting; <<save>>
+end split
+split again
+-[hidden]->
+if (piss repetitive?) then (visions prominent)
+:craftsmen points; <<task>>
+:signaled chosen; <<procedure>>
+:riverside refrigerators; <<procedure>>
+kill
+else (doubly pretzel)
+:giddy complications;
+-> offered instigated;
+:funk deck;
+-> handler drops;
+:vertical overblown; <<continuous>>
+while (licked performs?) is (pitchfork auntie)
+:literally rapists;
+-> snatcher disrupted;
+:sorry skier;
+backward:this refined;
+:highlands myths; <<continuous>>
+endwhile (spreadsheets harping)
+-[hidden]->
+detach
+endif
+end split
+repeat
+:hippie incident; <<save>>
+-> baronet bundle;
+backward:missions zapped;
+repeat while (horse lounge?) is (sheen heal)
+switch (surely honesty?)
+case (slithering grad?)
+:charlatan warner; <<save>>
+case (prudes urgent?)
+while (seventh receipts?) is (profiling outfitted)
+:cup calendar;
+:fascinating errors;
+backward:responsibilities knowingly;
+endwhile (darts sideways)
+:playwright kitchen;
+endswitch
+:layman gavel;
+:inadequacy process; <<procedure>>
+-> weights offspring;
+switch (meaner strangle?)
+case (tinkle shoplifting?)
+:evade pestering; <<continuous>>
+case (setting creamed?)
+repeat
+:twig vindicated; <<input>>
+-> bounty aluminum;
+repeat while (soldier skimmed?) is (jukebox unspeakable)
+-> tracing rickety;
+endswitch
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "borderline creek" as 0
+participant "carver imprint" as 1
+autonumber 0 0
+0 -> 0!! : betrayals routinely
+create participant "diabetic hopping" as 2
+1 -> 2 : diabetic hopping
+loop vegetative prevents
+2 -->x 2: seedy showgirl
+end
+@enduml

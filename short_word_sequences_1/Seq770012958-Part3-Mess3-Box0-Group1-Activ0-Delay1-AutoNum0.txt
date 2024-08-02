@@ -1,0 +1,11 @@
+@startuml
+participant "stalkers dispensed" as 0
+participant "sequined nobodies" as 1
+participant "moral admonition" as 2
+0 -// 0: progress tramp
+...lotion heartland...
+2 --//o 1: dryer sirs
+opt kitties munchkin
+1 -> 1: encyclopedia what
+end
+@enduml

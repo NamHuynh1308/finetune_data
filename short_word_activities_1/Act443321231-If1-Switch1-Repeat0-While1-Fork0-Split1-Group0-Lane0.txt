@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:tampons soulful;
+split again
+-[hidden]->
+:evaluate guide; <<task>>
+-> predator treasury;
+split again
+-[hidden]->
+:sandstorm seven; <<task>>
+-> gamer info;
+end split
+:discovered shock;
+-> deficient golf;
+while (winos mailed?) is (neither sweat)
+:marching bozos; <<continuous>>
+-> chose battles;
+if (squiggly file?) then (fills powers)
+(hearty coolest) elseif (speeding sprung?) then (hoedown dangerously)
+:recognizes fives; <<save>>
+(indiscreet responsibilities) elseif (delicate disregarded?) then (alto tandem)
+:decked littlest;
+endif
+switch (treads omnipotent?)
+case (stealthy indicative?)
+:morality triceps;
+case (bend objected?)
+:dashboard regard; <<output>>
+-> zipping maritime;
+case (warlord reports?)
+:scurvy erred;
+case (dissolved global?)
+:courteous canoes; <<continuous>>
+endswitch
+endwhile (contain coolly)
+:mutilate overcrowded;
+:pepper neurological; <<procedure>>
+stop
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "easygoing podium" as 0
+box "preach prepared"
+participant "parable balls" as 1
+participant "imbedded pinching" as 2
+participant "grips olives" as 3
+end box
+0 --//o 3: flossing bouncing
+opt tuxes snitches
+0 -> 0++ : aught discovering
+1 -> 3: beginnings commute
+return interrogations simulates
+end
+...revival hart...
+1 -> 2: malnourished indebted
+@enduml

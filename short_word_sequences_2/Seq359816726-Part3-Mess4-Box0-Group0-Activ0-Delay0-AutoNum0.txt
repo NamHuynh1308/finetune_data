@@ -1,0 +1,9 @@
+@startuml
+participant "pokes tippy" as 0
+participant "alto cruddy" as 1
+1 -> 0: refuse arithmetic
+create participant "cheats fuhrer" as 2
+0 -> 2 : cheats fuhrer
+1 -> 0: kerosene peacefully
+1 -> 2: thong paprika
+@enduml

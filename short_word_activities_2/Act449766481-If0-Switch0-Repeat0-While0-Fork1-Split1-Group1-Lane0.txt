@@ -1,0 +1,27 @@
+@startuml
+fork
+:suits autographed;
+fork again
+:meddle sisters;
+fork again
+split
+:occupy ramble;
+split again
+:trackers pace;
+split again
+:duckling spits;
+split again
+:dipstick reeve;
+end split
+fork again
+:camper den; <<procedure>>
+-> warmth half;
+end merge
+:honeymooners administered; <<input>>
+-> troy motivated;
+group gouging bunk
+:solar newest; <<output>>
+-> buster surly;
+stop
+end group
+@enduml

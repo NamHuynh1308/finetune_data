@@ -1,0 +1,10 @@
+@startuml
+participant "coaster injuries" as 0
+participant "sims circulated" as 1
+== digitally disarray ==
+opt few rent
+1 ->o 1: manufacturing polish
+1 -// 1++ : burner summoned
+end
+return seclusion jitters
+@enduml

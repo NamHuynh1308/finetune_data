@@ -1,0 +1,7 @@
+@startuml
+start
+group dag shrine
+:compulsory loca;
+stop
+end group
+@enduml

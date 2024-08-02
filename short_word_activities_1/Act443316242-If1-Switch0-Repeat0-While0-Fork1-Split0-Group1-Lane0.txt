@@ -1,0 +1,26 @@
+@startuml
+group rip zombie
+if (locusts fascism?) then (lama comprehend)
+(formality elevated) elseif (hurtling fuzz?) then (irregular chronology)
+fork
+:appropriate clumps;
+fork again
+:tinkering benny;
+-> mystical tasty;
+fork again
+:schematics cleaners; <<load>>
+fork again
+:chickenshit suppress;
+end merge
+(piddling alleys) elseif (graveyard lark?) then (wear believing)
+:shimmy dopamine; <<input>>
+-> folklore flop;
+(muscular steak) elseif (shortcomings melodrama?) then (tickling significant)
+:telethon angrier; <<save>>
+(billiard depicts) elseif (homosexuality vegetative?) then (keg soles)
+:gene wharf;
+-> doorknob gratuity;
+endif
+stop
+end group
+@enduml

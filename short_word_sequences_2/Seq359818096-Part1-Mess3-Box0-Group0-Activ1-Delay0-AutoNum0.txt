@@ -1,0 +1,8 @@
+@startuml
+participant "disclose vacuum" as 0
+== marina assisting ==
+0 -> 0++ : cavalry hooray
+0 -> 0: finally fungi
+0 ->o 0: appointment rejected
+return heed admonish
+@enduml

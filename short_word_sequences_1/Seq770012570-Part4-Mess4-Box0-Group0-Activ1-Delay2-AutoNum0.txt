@@ -1,0 +1,14 @@
+@startuml
+participant "warriors paramilitary" as 0
+participant "divine whipped" as 1
+participant "quad sharpening" as 2
+participant "chokes sometime" as 3
+== refund formation ==
+ [-> 1: whirlwind wisdom
+...taxed gimmicks...
+0 ->o 1: interviewing chaplain
+...cultured loathes...
+ [-> 1: scripts knee
+3 -->x 2++ : leader honk
+return listens established
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+start
+:loving shovels; <<load>>
+group dealing controversial
+:attached nonstop; <<input>>
+stop
+end group
+@enduml

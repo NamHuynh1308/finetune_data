@@ -1,0 +1,11 @@
+@startuml
+participant "operation physiology" as 0
+autonumber 0 10
+loop wallowing quaking
+0 -> 0!! : straw momentum
+0 -> 0: bestow hides
+opt verily royals
+0 ->] : mopping sarcasm
+end
+end
+@enduml

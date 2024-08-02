@@ -1,0 +1,8 @@
+@startuml
+start
+:glow lightning;
+group loathe shadowing
+:covered priests; <<output>>
+stop
+end group
+@enduml

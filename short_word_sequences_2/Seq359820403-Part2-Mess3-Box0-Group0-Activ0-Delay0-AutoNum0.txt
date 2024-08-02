@@ -1,0 +1,8 @@
+@startuml
+participant "mu agile" as 0
+== obstructed endowment ==
+create participant "scavenging swallowed" as 1
+0 -> 1 : scavenging swallowed
+ [-> 0: additional fret
+0 -// 1: flunk oneself
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "thins exit" as 0
+participant "namesake eyeful" as 1
+participant "croak alcoholics" as 2
+participant "postcards podiatrist" as 3
+== instance hall ==
+par kabob straw
+2 -->x 2: gesture decaf
+critical construction dryers
+1 ->] : programmer bronzing
+0 -// 2: upstanding statuary
+3 -> 0: plating bilingual
+...entertaining clack...
+0 --> 2: dye cruelty
+else lumpy cocaine
+end
+end
+@enduml

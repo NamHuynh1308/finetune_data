@@ -1,0 +1,53 @@
+@startuml
+|1| musicians drunkard
+|2| sake gunpoint
+split
+-[hidden]->
+:blossoms confrontations;
+split again
+-[hidden]->
+:index palm;
+while (touchdowns devised?) is (vacuuming domesticated)
+split
+:openness nu;
+split again
+:compulsive utilize; <<continuous>>
+split again
+:paths fairway; <<continuous>>
+split again
+:obsolete truckers;
+end split
+:revealed fussing; <<output>>
+:gold birds; <<input>>
+endwhile (chump reelection)
+-[hidden]->
+detach
+split again
+-[hidden]->
+:shove bulletin;
+-> mediocrity dealing;
+end split
+|2|
+:smiles conquering; <<continuous>>
+-> cyclone implausible;
+fork
+:skid jabs;
+fork again
+:cremated urchin; <<continuous>>
+fork again
+:charities slam; <<procedure>>
+end fork
+:wipers bakers; <<output>>
+|1|
+if (coronation motivation?) then (moat fabled)
+(smears toppings) elseif (ford roulette?) then (economic inspiring)
+:browbeat regurgitate; <<load>>
+(regroup nay) elseif (hob cam?) then (molecule daisy)
+while (vestibule qualified?) is (rotunda snobby)
+:aerobic squaring;
+:decipher combustion;
+:ton vindictiveness;
+endwhile (worrier swap)
+:hierarchy manifold;
+endif
+@enduml

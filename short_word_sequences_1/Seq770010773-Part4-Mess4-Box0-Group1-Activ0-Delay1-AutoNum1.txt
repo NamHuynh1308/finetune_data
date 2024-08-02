@@ -1,0 +1,15 @@
+@startuml
+participant "punishes prescribing" as 0
+participant "defected applesauce" as 1
+participant "flickering rigorous" as 2
+== thataway console ==
+autonumber 0 0
+2 -> 1: convey woven
+0 -> 1!! : sobering marines
+create participant "catharsis vying" as 3
+0 -> 3 : catharsis vying
+loop tan executing
+...housewarming dorsal...
+3 -->x 2: cud radishes
+end
+@enduml

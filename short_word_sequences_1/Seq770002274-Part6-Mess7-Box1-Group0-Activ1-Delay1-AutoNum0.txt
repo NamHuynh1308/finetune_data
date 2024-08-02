@@ -1,0 +1,19 @@
+@startuml
+participant "professed giddyup" as 0
+box "wisdom chimp"
+participant "explore hansom" as 1
+participant "cockpit subtitle" as 2
+end box
+participant "alluring spook" as 3
+2 -> 3: safe collage
+1 -> 2: vertigo iris
+0 -> 0: derogatory airstrip
+create participant "airs firewater" as 4
+1 -> 4 : airs firewater
+create participant "cubes were" as 5
+2 -> 5 : cubes were
+3 -> 2: inconceivable enclosed
+...boa extracted...
+4 -> 4++ : buzzards bedridden
+return bras hand
+@enduml

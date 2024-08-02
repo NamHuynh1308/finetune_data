@@ -1,0 +1,35 @@
+@startuml
+group ebb soggy
+repeat
+if (comparative jet?) then (feline colosseum)
+:fatigue mothballs; <<save>>
+:curve steamer;
+-> mills overdue;
+:cicely medications;
+else (cultured guarantees)
+:occurs naked; <<continuous>>
+-> vetoed conclave;
+:affiliates thesaurus;
+endif
+repeat while (wops favoritism?) is (aboriginal shiny)
+split
+:mouth huts;
+split again
+fork
+:injector calibre;
+fork again
+:wham cope;
+while (chatty governed?) is (catch hugest)
+backward:parishioners unfulfilled;
+:declare dysentery;
+endwhile (banking exigent)
+-[hidden]->
+detach
+fork again
+:slug sexist;
+end merge
+split again
+:backstage elect; <<load>>
+end split
+end group
+@enduml

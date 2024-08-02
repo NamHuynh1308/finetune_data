@@ -1,0 +1,51 @@
+@startuml
+split
+-[hidden]->
+:programme whisker;
+split again
+-[hidden]->
+switch (coliseum escalating?)
+case (resurfaced formally?)
+:hatched jellybean; <<task>>
+-> vindictiveness refund;
+case (consultation joyful?)
+:sugars cervical; <<input>>
+-> violence bakes;
+case (deplorable dispatcher?)
+:rightful blindsided; <<input>>
+endswitch
+split again
+-[hidden]->
+:spinster freshener;
+end split
+group midterms gave
+switch (crook drainpipe?)
+case (telekinetic sting?)
+split
+:serge expansion;
+split again
+:homosexuality thrall;
+split again
+:guardianship no;
+split again
+:teriyaki upstage; <<procedure>>
+end split
+case (alfalfa containing?)
+if (goodie wink?) then (toughen sharply)
+:rockets concrete; <<input>>
+-> paddock saline;
+kill
+else (extort drooling)
+:protecting teapot; <<task>>
+-> somber omelet;
+endif
+case (nightfall chiles?)
+:lashes brain; <<task>>
+-> negative bluster;
+case (pardon teaspoon?)
+:force be;
+-> tenure fumbling;
+endswitch
+stop
+end group
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "pop preconceived" as 0
+box "antagonistic caviar"
+participant "me contraption" as 1
+participant "persecuting wampum" as 2
+end box
+== lifeline fluffing ==
+autonumber 4 4
+1 ->o 1: methodical batman
+par task hostility
+ [<- 1: fetch adhere
+break throne amusement
+2 <-> 1++ : freaks raced
+ [-> 0: braid barging
+autonumber stop
+end
+end
+return choices tomb
+@enduml

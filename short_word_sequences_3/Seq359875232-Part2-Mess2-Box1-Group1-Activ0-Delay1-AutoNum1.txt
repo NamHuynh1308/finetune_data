@@ -1,0 +1,14 @@
+@startuml
+box "primal starry"
+participant "doc summertime" as 0
+participant "outcome sank" as 1
+end box
+== supports cerulean ==
+autonumber 0 10
+0 <-> 1: happiest acquired
+opt impromptu heinie
+...agonized governments...
+1 -> 0: clams lording
+autonumber stop
+end
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+participant "coaches stubs" as 0
+participant "tellers mademoiselle" as 1
+participant "cur slightest" as 2
+participant "mental dodged" as 3
+participant "potholes chapter" as 4
+autonumber 4 1
+2 -// 1: burro tammy
+...answers disrupting...
+2 --> 4: furnace hearings
+create participant "mas thataway" as 5
+0 -> 5 : mas thataway
+autonumber stop
+...temperament ceased...
+3 -> 3: grandfathers immutable
+autonumber resume
+3 <-] : sheets kneeling
+autonumber stop
+...teal dipped...
+3 -> 0++ : taxi cheat
+autonumber resume
+return caterpillars stowaways
+@enduml

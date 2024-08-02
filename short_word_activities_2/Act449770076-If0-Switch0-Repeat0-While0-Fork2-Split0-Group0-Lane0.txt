@@ -1,0 +1,19 @@
+@startuml
+start
+:shop fascist;
+fork
+:circle espressos;
+fork again
+:ugliest cris;
+-> freebie mosquitoes;
+fork again
+fork
+:decided traces;
+fork again
+:lack cookie;
+fork again
+:fantasies mariners;
+end fork
+end fork
+:decanter guilder; <<input>>
+@enduml

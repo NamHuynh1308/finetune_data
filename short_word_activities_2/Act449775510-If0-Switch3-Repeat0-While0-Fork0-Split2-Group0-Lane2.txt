@@ -1,0 +1,50 @@
+@startuml
+|1| shanghai voters
+|2| racism cooler
+split
+-[hidden]->
+:ruthlessly wagging;
+split again
+-[hidden]->
+:weed ream; <<save>>
+-> wary enamored;
+split again
+-[hidden]->
+switch (vary cleanser?)
+case (celery comeuppance?)
+:timers spur;
+case (fanatics control?)
+:eking intellectuals; <<input>>
+case (unloved prepared?)
+:athletic spade;
+case (unable failings?)
+:devious underlined;
+endswitch
+end split
+|2|
+:gave aforethought; <<load>>
+-> triple proverb;
+split
+:communists hisses;
+split again
+switch (bib embezzlement?)
+case (foreigners function?)
+:basics intoxicating; <<input>>
+case (salt treasures?)
+:lizard arrange;
+endswitch
+split again
+:torches dimly; <<procedure>>
+split again
+:specifics hugged; <<task>>
+-> sir cherished;
+end split
+switch (caged euphemisms?)
+case (ministry weeks?)
+:authorization roots; <<output>>
+case (cuddled moles?)
+:iris sulking; <<load>>
+-> rainbow overpaid;
+endswitch
+end
+@enduml

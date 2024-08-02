@@ -1,0 +1,15 @@
+@startuml
+participant "hysterectomy crepe" as 0
+participant "labels porridge" as 1
+== folded aeroplane ==
+0 -> 1!! : seldom huddled
+alt cup lace
+...mini gate...
+0 -->x 0: violent zag
+...flopped certified...
+1 ->o 0: toothpaste babe
+else irony maniacal
+0 ->x 0: glib sled
+else fanfare adults
+end
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+box "greed skimp"
+participant "wacky hemline" as 0
+participant "desecrate workstation" as 1
+participant "crimes bookcase" as 2
+participant "angel saucers" as 3
+end box
+== goodies prompt ==
+3 -\\ 2: vetoed input
+0 --> 3: cabins dates
+0 <-> 2: alternate proms
+1 <-> 3++ : plateaued quartet
+3 ->o 3: reassigning commonly
+return parents creek
+@enduml

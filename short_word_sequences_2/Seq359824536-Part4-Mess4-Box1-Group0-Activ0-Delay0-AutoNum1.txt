@@ -1,0 +1,13 @@
+@startuml
+participant "trainee timid" as 0
+box "stash pumped"
+participant "advert outstanding" as 1
+participant "page breath" as 2
+end box
+autonumber 8 3
+1 ->] : unfortunate putting
+create participant "repeat peck" as 3
+1 -> 3 : repeat peck
+0 -> 3: demonology tarragon
+0 -> 1: undue unbearable
+@enduml

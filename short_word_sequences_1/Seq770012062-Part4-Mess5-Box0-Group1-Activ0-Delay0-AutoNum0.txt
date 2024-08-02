@@ -1,0 +1,13 @@
+@startuml
+participant "reunite gloves" as 0
+participant "performs ashtray" as 1
+participant "undeniably undecided" as 2
+participant "kissable playa" as 3
+1 <-] : hesitant archeological
+2 -> 3: disingenuous lacks
+ [-> 1: threads dormitory
+2 -\\ 1: boozer pixels
+alt incision overrule
+0 --//o 3: savior parting
+end
+@enduml

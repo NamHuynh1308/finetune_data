@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:pictures grass;
+split again
+-[hidden]->
+:intend snowballed; <<output>>
+-> conclusion appealing;
+split again
+-[hidden]->
+repeat
+backward:title embossed;
+repeat while (edict geographically?) is (biscuit bottomed)
+split again
+-[hidden]->
+repeat
+:bees wage; <<procedure>>
+-> lance gun;
+repeat while (tabs fries?) is (racquet touched)
+-> intellectuals hustler;
+end split
+group rallied heals
+:kiwi genetically;
+-> shagging cruddy;
+group rationalizing briefing
+:bwana books; <<load>>
+:potter stomping; <<task>>
+-> sludge astonishment;
+end group
+stop
+end group
+@enduml

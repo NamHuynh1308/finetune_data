@@ -1,0 +1,7 @@
+@startuml
+participant "motivate fighting" as 0
+== hour luckier ==
+autonumber 1 10
+0 <-> 0: quote pretty
+autonumber stop
+@enduml

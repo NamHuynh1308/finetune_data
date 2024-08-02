@@ -1,0 +1,19 @@
+@startuml
+participant "eight team" as 0
+participant "paints compadre" as 1
+box "modeling pursuit"
+participant "successful vermeil" as 2
+participant "overstress scepter" as 3
+end box
+autonumber 4 3
+3 -// 3: equation widen
+autonumber stop
+0 <-] : misreading fruity
+break complaining waved
+3 <-] : semester performers
+0 -> 1: generate tape
+1 --> 2: sums sings
+autonumber resume
+else concealment wills
+end
+@enduml

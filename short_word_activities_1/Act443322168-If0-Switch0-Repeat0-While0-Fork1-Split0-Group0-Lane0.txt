@@ -1,0 +1,16 @@
+@startuml
+start
+:calming apiece;
+fork
+:pyre balloon;
+fork again
+:caterpillars judges; <<procedure>>
+-> jabbering ahoy;
+fork again
+:transvestite derby;
+kill
+fork again
+:asylum buffoons; <<task>>
+end fork
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "car ongoing" as 0
+participant "planned garbage" as 1
+== middies tire ==
+1 -\\ 1: foxholes extorting
+1 -> 0++ : faun outlet
+create participant "symptoms richer" as 2
+1 -> 2 : symptoms richer
+1 -> 2++ : reiterate transponder
+return conditioned protocol
+return answered bunks
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:confined wolves;
+split again
+-[hidden]->
+repeat
+:vets reopening;
+:shalt pinched;
+:diary wavelength;
+repeat while (quarrel rockets?) is (wound tippy)
+split again
+-[hidden]->
+repeat
+backward:husky beefs;
+backward:posing butler;
+:barging abetted; <<task>>
+repeat while (read airport?) is (pneumonia halo)
+end split
+:chanting civilized;
+:rumpus toddle; <<task>>
+stop
+@enduml

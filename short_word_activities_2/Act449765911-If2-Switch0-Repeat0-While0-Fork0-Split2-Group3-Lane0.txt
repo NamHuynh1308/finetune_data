@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:neighbor aisles;
+split again
+-[hidden]->
+:terraforming fisted;
+split again
+-[hidden]->
+:evolutionary spends;
+-> dismissing swamped;
+end split
+group pecans popper
+:welling transgressions; <<procedure>>
+group wheelchair saluting
+if (corollary dipstick?) then (lies marshal)
+(kingdoms rig) elseif (homey shoplifters?) then (ferret rumored)
+if (rapid fashionably?) then (regret kobo)
+(luckiest conjure) elseif (ma hiccup?) then (claymore shirking)
+:activists brewing;
+(feel slither) elseif (centre tarp?) then (coriander enterprise)
+:rip divorce; <<continuous>>
+-> twos corps;
+endif
+(tumbling whispering) elseif (impart clergyman?) then (tallest pirated)
+:willows worrywart;
+(husk inherit) elseif (challenges ounce?) then (caboose grubby)
+split
+:lesions magic;
+split again
+:fiefdom protocols;
+split again
+:corrections saffron;
+split again
+:familial unmentionables;
+end split
+endif
+group ruthless dour
+:establish botany;
+stop
+end group
+end group
+end group
+@enduml

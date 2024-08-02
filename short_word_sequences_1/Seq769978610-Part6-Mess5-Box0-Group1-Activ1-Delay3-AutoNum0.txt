@@ -1,0 +1,20 @@
+@startuml
+participant "clippings sins" as 0
+participant "crowd naw" as 1
+participant "delays scorching" as 2
+participant "siphoning demerits" as 3
+create participant "theirs fanning" as 4
+3 -> 4 : theirs fanning
+...butch cypher...
+4 -> 2!! : lucrative boating
+alt bogeyman displace
+...sappy courteous...
+2 -> 1: bijou membership
+...vestibule glamour...
+0 ->> 3++ : generic designate
+else pixies foiled
+create participant "canary squeal" as 5
+2 -> 5 : canary squeal
+end
+return morse kilometers
+@enduml

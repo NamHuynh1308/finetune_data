@@ -1,0 +1,20 @@
+@startuml
+start
+group nonstop chef
+split
+:fault swan;
+split again
+switch (pointing relieved?)
+case (warlord curacao?)
+:diverting roach; <<save>>
+-> accomplished auditory;
+case (tailor dawn?)
+:accumulate med; <<load>>
+endswitch
+split again
+:disagreed hooked; <<input>>
+end split
+:deed motives;
+stop
+end group
+@enduml

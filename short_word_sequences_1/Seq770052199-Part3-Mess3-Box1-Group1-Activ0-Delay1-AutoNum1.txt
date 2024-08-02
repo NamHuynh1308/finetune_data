@@ -1,0 +1,17 @@
+@startuml
+participant "grooming raven" as 0
+participant "elk wingman" as 1
+box "shill favorite"
+participant "intention motivations" as 2
+end box
+== likeness international ==
+autonumber 10 10
+1 --//o 0: costumes unscrupulous
+autonumber stop
+alt bash stress
+...referring causes...
+1 -> 2: paths bipartisan
+autonumber resume
+0 --> 1: res donor
+end
+@enduml

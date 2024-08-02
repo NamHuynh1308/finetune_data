@@ -1,0 +1,19 @@
+@startuml
+participant "hissed wrap" as 0
+participant "philandering lollipops" as 1
+participant "snout chamber" as 2
+box "pilot moves"
+participant "opposed mano" as 3
+end box
+== mulch salvation ==
+autonumber 0 5
+1 <-] : viewed crusts
+autonumber stop
+2 -> 1: drawing tae
+autonumber resume
+3 <-] : dirt deformity
+0 --//o 3++ : lowlifes stewards
+3 -> 2: vastly electro
+2 -> 2: newborns route
+return mascot camps
+@enduml

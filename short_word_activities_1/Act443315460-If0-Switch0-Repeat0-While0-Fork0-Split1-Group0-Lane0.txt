@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:privacy aspen;
+split again
+-[hidden]->
+:legendary sharpest;
+split again
+-[hidden]->
+:workers bullshit; <<continuous>>
+-> witless sliver;
+end split
+:muse kickback;
+:hallucination rivers; <<load>>
+-> indoor underneath;
+@enduml

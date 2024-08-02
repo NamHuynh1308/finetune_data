@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:evoked parts;
+split again
+-[hidden]->
+:visiting daffy; <<output>>
+-> plagued takedown;
+split again
+-[hidden]->
+:als bachelorette; <<output>>
+split again
+-[hidden]->
+split
+:depressors pennies;
+split again
+:conscience radically;
+split again
+:flash deconstruction;
+split again
+:injure altering; <<input>>
+end split
+end split
+group peed thatcher
+:coats flour; <<input>>
+stop
+end group
+@enduml

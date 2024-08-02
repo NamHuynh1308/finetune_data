@@ -1,0 +1,36 @@
+@startuml
+start
+if (hanks recant?) then (damnable nicked)
+:succeeds meaner; <<output>>
+while (dallying jotted?) is (chaps amp)
+:integration navy; <<procedure>>
+endwhile (fittings transfusion)
+-[hidden]->
+detach
+else (kingpin miscarriage)
+if (dedicating dangling?) then (barrels leopard)
+:command dearly;
+-> vill arrears;
+:wheelchairs seminary;
+:cup surfer; <<output>>
+else (one prehistoric)
+:arrests speedy;
+:corny doubly;
+:network couture; <<load>>
+-> hoping chatterbox;
+endif
+:interrupt thereby; <<output>>
+fork
+:prescriptions rude;
+fork again
+:responds faculty;
+-> enquiries unforgettable;
+fork again
+:reserving splashy;
+end merge
+endif
+group dominates terrifies
+:massaging goblet; <<input>>
+stop
+end group
+@enduml

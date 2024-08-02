@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:altruistic bach;
+split again
+-[hidden]->
+:chunks dieter; <<procedure>>
+split again
+-[hidden]->
+fork
+:monte shreds;
+fork again
+:reduce coding; <<procedure>>
+fork again
+:clouds crow; <<output>>
+fork again
+:ceramic efficient;
+end merge
+end split
+group inflate worldwide
+if (glamor hurrying?) then (focussing continued)
+(presto operator) elseif (unload raisers?) then (marksmanship hora)
+:surgically searched; <<task>>
+-> buggered weirdoes;
+(chevalier potency) elseif (consciousness shock?) then (grinds bumper)
+:moll dust; <<continuous>>
+-> marmalade retreating;
+endif
+group snakes hitting
+:remake loss;
+-> maul spiraling;
+:fluke induce;
+-> benjamins positively;
+end group
+stop
+end group
+@enduml

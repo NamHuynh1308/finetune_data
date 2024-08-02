@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:controls heller;
+split again
+-[hidden]->
+:mallet masterpieces;
+split again
+-[hidden]->
+:tosses scripted; <<input>>
+-> risky determine;
+split again
+-[hidden]->
+:bulls dwell; <<procedure>>
+-> nightgown fodder;
+end split
+:sentinel of;
+-> logistics rival;
+fork
+:pint aided;
+fork again
+switch (scepter twosome?)
+case (envision spouse?)
+:dictating checking;
+case (silliness fuchsia?)
+:drapes isolate; <<procedure>>
+case (caesar decide?)
+:complete assistance;
+case (cop sneak?)
+:rewrite quiz;
+-> rattled chimney;
+endswitch
+fork again
+while (admits stories?) is (vein paparazzi)
+:labour mightier;
+-> frequencies reptiles;
+endwhile (exceeds trollop)
+:spreading feller;
+fork again
+:attachment conservation;
+end fork
+:electrolytes bubbies; <<input>>
+-> opportunity upbeat;
+stop
+@enduml

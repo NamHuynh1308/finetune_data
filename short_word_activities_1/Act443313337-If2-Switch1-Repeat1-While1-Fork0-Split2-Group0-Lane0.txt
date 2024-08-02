@@ -1,0 +1,64 @@
+@startuml
+split
+-[hidden]->
+:disability overlooking;
+split again
+-[hidden]->
+:amphetamines oncoming; <<load>>
+split again
+-[hidden]->
+if (pees jackasses?) then (bulletins waltz)
+:beak disloyal;
+-> agin nightmarish;
+:bullshitting origami; <<input>>
+else (pheasants loss)
+:fisherman schemes; <<task>>
+endif
+end split
+repeat
+:clique authentic; <<output>>
+:governments dreading;
+if (sorry fool) then (foods malice)
+:oaf lock;
+break
+endif
+->defiantly wipers;
+:rue advertises;
+repeat while (errant marking?) is (workers cornerstone)
+-> fabulous affront;
+split
+:cowardice wants;
+split again
+:podiatry shackle; <<load>>
+-> set quarreled;
+split again
+if (penicillin disruptions?) then (candidates toddlers)
+:prejudice canter; <<save>>
+:typewriter guiding;
+-> fort await;
+:reckless crested;
+while (tsk wobble?) is (supermodel prophets)
+backward:attentive signor;
+backward:crabs impersonated;
+endwhile (drying sleigh)
+-[hidden]->
+detach
+else (immediate spinning)
+:symbols blocked; <<task>>
+-> sissy branches;
+:hollering bridesmaids; <<load>>
+endif
+split again
+switch (registered casualty?)
+case (alone mountains?)
+:stickup toes;
+case (advantage darken?)
+:poaching spackle;
+case (quieter centre?)
+:shabbily destroyed; <<load>>
+-> adequate wrapped;
+case (snatchers cocktails?)
+:cricket senator; <<load>>
+endswitch
+end split
+@enduml

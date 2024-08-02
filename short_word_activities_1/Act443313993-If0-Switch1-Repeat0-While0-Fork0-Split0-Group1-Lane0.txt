@@ -1,0 +1,19 @@
+@startuml
+start
+group prissy foxy
+switch (mainframe untrustworthy?)
+case (colour sitting?)
+:auspicious squeal;
+-> keeper dings;
+case (nether exceptional?)
+:calculations garbage; <<load>>
+case (claws unclear?)
+:snotty liberal; <<input>>
+-> ducky kindly;
+case (tetherball splinters?)
+:portals vat; <<input>>
+-> subvert uptown;
+endswitch
+stop
+end group
+@enduml

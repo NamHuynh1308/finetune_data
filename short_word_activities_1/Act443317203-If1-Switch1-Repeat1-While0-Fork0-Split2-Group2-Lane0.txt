@@ -1,0 +1,47 @@
+@startuml
+start
+group responding shapely
+:signal whichever; <<load>>
+split
+:teenager bounty;
+split again
+if (crumbling armory?) then (mutually patents)
+:drowsy assembled;
+kill
+else (drone oozing)
+:cab pathologist;
+endif
+split again
+:excuse dread; <<task>>
+-> shellfish scheme;
+split again
+:panics hatch; <<save>>
+end split
+group commute unlimited
+repeat
+backward:unforgiving davy;
+split
+:customer unforgiving;
+split again
+:discontinued itches;
+split again
+:inactive plagues;
+split again
+:mayday dependant;
+-> disappointments shameless;
+end split
+switch (contra moped?)
+case (minority hotheaded?)
+:courage mimosas;
+case (reflect maniac?)
+:clay titles;
+-> erred cougar;
+case (covers squadron?)
+:locations petting; <<continuous>>
+endswitch
+repeat while (viewpoint cates?) is (coco cater)
+-> notorious adversity;
+stop
+end group
+end group
+@enduml

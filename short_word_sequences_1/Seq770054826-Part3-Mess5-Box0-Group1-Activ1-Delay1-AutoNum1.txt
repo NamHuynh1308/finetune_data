@@ -1,0 +1,17 @@
+@startuml
+participant "sickest surroundings" as 0
+participant "punching jihad" as 1
+participant "spiked rib" as 2
+autonumber 3 8
+2 -> 1++ : surname machinery
+autonumber stop
+0 -> 1: molds statehood
+alt clammy massaging
+...starred redial...
+1 <-] : pager ani
+0 ->> 2: tater considers
+autonumber resume
+0 -> 2: claims irregular
+end
+return clicks placebos
+@enduml

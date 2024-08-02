@@ -1,0 +1,10 @@
+@startuml
+split
+:porridge depend;
+split again
+:furnace flamer;
+split again
+:peep fudged; <<input>>
+end split
+stop
+@enduml

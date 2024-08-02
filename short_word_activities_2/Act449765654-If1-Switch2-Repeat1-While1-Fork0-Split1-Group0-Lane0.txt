@@ -1,0 +1,49 @@
+@startuml
+start
+split
+:mutual shirt;
+split again
+switch (interesting enforcer?)
+case (shipment chopper?)
+:possessions softness; <<output>>
+case (eta salvaged?)
+:unparalleled abandoning;
+case (prototype pie?)
+:immaterial barbershop; <<output>>
+-> crumpled regardless;
+endswitch
+split again
+repeat
+:tell pantheon;
+:rituals soybean;
+repeat while (punches jeopardized?) is (tartar pickings)
+split again
+:transaction thruway;
+-> narcissism singleton;
+end split
+switch (refugees deader?)
+case (fingertips colosseum?)
+:instinct narcissist; <<task>>
+-> ignite squat;
+case (dills paperboy?)
+:stages boners;
+case (ambulances cover?)
+:merits grip;
+case (homicides connection?)
+if (trials premature?) then (war straightening)
+:fop nipper; <<continuous>>
+else (stepped electrodes)
+:acquisitions cavities; <<save>>
+-> implants out;
+:leafs fattest; <<output>>
+-> scholarly relationships;
+:convulsing hurricanes;
+while (dimming crime?) is (antibiotics unwanted)
+backward:elevator drugged;
+:referring extent; <<continuous>>
+endwhile (ghosts nam)
+-[hidden]->
+detach
+endif
+endswitch
+@enduml

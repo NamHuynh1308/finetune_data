@@ -1,0 +1,8 @@
+@startuml
+box "anarchists acres"
+participant "floorboards homestead" as 0
+end box
+alt funerals sore
+0 -->x 0: carvers uprising
+end
+@enduml

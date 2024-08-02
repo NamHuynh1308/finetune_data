@@ -1,0 +1,11 @@
+@startuml
+group traps lance
+:important writhing; <<output>>
+-> addition gar;
+:scratched disarm; <<task>>
+end group
+group recovered funds
+:schizo alternative; <<procedure>>
+stop
+end group
+@enduml

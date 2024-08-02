@@ -1,0 +1,12 @@
+@startuml
+participant "outlet spaced" as 0
+== package transports ==
+loop subtitles advanced
+0 -> 0: distress mustache
+0 ->o 0++ : clotting clouded
+end
+par alma muck
+0 ->o 0: glowing count
+end
+return expressed louvre
+@enduml

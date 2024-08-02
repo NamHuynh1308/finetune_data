@@ -1,0 +1,36 @@
+@startuml
+|1| locator woken
+|2| raising truffles
+split
+-[hidden]->
+:fallible depending;
+split again
+-[hidden]->
+repeat
+backward:islands turquoise;
+repeat while (hazy hemlock?) is (hideously edition)
+split again
+-[hidden]->
+:tardiness sculptor;
+end split
+:pellet puddle; <<load>>
+|2|
+:scraped waitresses; <<save>>
+-> grew landscaping;
+fork
+:pertaining neurologist;
+fork again
+:undoing junky; <<output>>
+-> congress impressionable;
+fork again
+:container lovelier; <<continuous>>
+end fork
+split
+:story lynch;
+split again
+:bit smokey;
+split again
+:recruit store; <<procedure>>
+end split
+end
+@enduml

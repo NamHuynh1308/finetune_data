@@ -1,0 +1,10 @@
+@startuml
+box "alcoholic manila"
+participant "rocker compensate" as 0
+participant "guts trimester" as 1
+end box
+== looker hawk ==
+1 -// 1: wrong check
+0 -> 1: adviser apes
+1 -\\ 1: allies nervousness
+@enduml

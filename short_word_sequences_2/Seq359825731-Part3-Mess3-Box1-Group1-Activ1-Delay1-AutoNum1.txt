@@ -1,0 +1,17 @@
+@startuml
+participant "discussing streetcar" as 0
+box "rifles alight"
+participant "bids conn" as 1
+participant "fine catwalk" as 2
+end box
+== finished arguing ==
+autonumber 5 8
+opt bits sweetbreads
+ [<- 0: quiz cutoffs
+...endorsing arrears...
+2 -> 1: punctuality backfires
+else dishonest amin
+0 ->> 1++ : hmm caritas
+end
+return met paw
+@enduml

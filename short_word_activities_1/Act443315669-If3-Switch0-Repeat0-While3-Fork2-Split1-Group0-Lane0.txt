@@ -1,0 +1,74 @@
+@startuml
+split
+-[hidden]->
+:dismiss tries;
+split again
+-[hidden]->
+:rashes leaver; <<input>>
+split again
+-[hidden]->
+:inherits breathing; <<load>>
+end split
+:hikers flags; <<input>>
+-> eroding bandages;
+if (industrialist fervor?) then (old unguarded)
+(decadence constitution) elseif (stain personalized?) then (executives hurdles)
+:awjemj;
+while (delivers bundle?) is (question larch)
+:however civilisation;
+:setup committed; <<output>>
+endwhile (jewels giver)
+-[hidden]->
+detach
+(attitudes trenches) elseif (disappears pajama?) then (font pitied)
+if (prisoner anyways?) then (magicians lonesome)
+:tying squads;
+else (landing baa)
+:originals odor;
+-> shipwrecked capper;
+endif
+(tilted revival) elseif (barricade proposal?) then (scag bree)
+:girlfriend smudged; <<save>>
+(determines benefactor) elseif (generation dissuade?) then (reunions pessimist)
+fork
+:picked backgammon;
+fork again
+:troubled bunches;
+while (carr flop?) is (swelled madder)
+backward:butler welts;
+endwhile (molasses verbatim)
+-[hidden]->
+detach
+fork again
+:bundle connections;
+-> reciting invitation;
+end merge
+endif
+fork
+:ell narcotics;
+fork again
+:blokes impulsively;
+fork again
+if (decompose culpability?) then (assume edges)
+:bed ponder; <<input>>
+:zeros debts;
+while (observation bumping?) is (hiss gardens)
+:grocer defiantly;
+:urinate slippery;
+-> heed sidewalks;
+backward:immaculate moors;
+:unbroken oldest;
+-> dismissive crossroads;
+endwhile (handcuffed shalt)
+-[hidden]->
+detach
+else (contrast forest)
+:tadpole batch; <<task>>
+-> coded filmmaking;
+kill
+endif
+fork again
+:pendant mike; <<load>>
+-> freely pac;
+end merge
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+group infomercial gran
+if (heath loaded?) then (titanic stampede)
+(spending levelheaded) elseif (splurge horizontal?) then (med paddock)
+:toddler crazed;
+-> finagle combat;
+(incarceration environment) elseif (vat geosynchronous?) then (bonuses tank)
+split
+:fear poison;
+split again
+:deciding charismatic;
+split again
+:hide broomstick;
+end split
+(monitored existed) elseif (majoring fold?) then (banish blueberry)
+:anise pace;
+-> escalating author;
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:marksmanship wildly;
+split again
+-[hidden]->
+fork
+:approve jimmies;
+fork again
+:trespassers bagels;
+fork again
+:conspiring tall;
+fork again
+:fervor hits;
+end merge
+split again
+-[hidden]->
+:condo lets; <<save>>
+-> amazing clump;
+split again
+-[hidden]->
+repeat
+backward:surprises tweed;
+repeat while (psychosis spectral?) is (concur suffocation)
+-> psychobabble exhume;
+end split
+group recanted vindication
+while (alert fond?) is (curtains slaps)
+:youngster hairnet;
+-> redskins blur;
+fork
+:jockey trumpets;
+fork again
+:volunteer knockdown;
+-> defiantly cleaning;
+fork again
+:foresight hippie; <<input>>
+end fork
+endwhile (whereof subtext)
+:birth realize;
+group grinning boundaries
+:biblical bull; <<task>>
+-> mixing analysis;
+stop
+end group
+end group
+@enduml

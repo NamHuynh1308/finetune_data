@@ -1,0 +1,9 @@
+@startuml
+participant "spectators coddling" as 0
+participant "pleasure window" as 1
+participant "designing honeymoon" as 2
+0 -> 2++ : shutdown uniformity
+0 -// 1: mended chosen
+2 --//o 0: dark regulated
+return diagonal legendary
+@enduml

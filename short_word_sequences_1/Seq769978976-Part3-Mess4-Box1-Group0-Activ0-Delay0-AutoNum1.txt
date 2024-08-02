@@ -1,0 +1,13 @@
+@startuml
+box "fronts defending"
+participant "song adjourn" as 0
+participant "buckeyes poorer" as 1
+end box
+autonumber 10 10
+ [<- 1: disturbance fern
+create participant "worthy purblind" as 2
+0 -> 2 : worthy purblind
+2 <-] : wrestling combustion
+autonumber stop
+2 --//o 1: scenario recall
+@enduml

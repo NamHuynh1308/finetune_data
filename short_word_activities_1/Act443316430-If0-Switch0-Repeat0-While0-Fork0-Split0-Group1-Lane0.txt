@@ -1,0 +1,7 @@
+@startuml
+start
+group lefty casualties
+:biff spooked; <<output>>
+stop
+end group
+@enduml

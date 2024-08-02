@@ -1,0 +1,63 @@
+@startuml
+|1| dismissing occupations
+|2| embittered delegation
+split
+-[hidden]->
+:splashing maw;
+split again
+-[hidden]->
+:wop swollen; <<output>>
+-> mash available;
+split again
+-[hidden]->
+:endangered gangs; <<input>>
+-> sewed displayed;
+end split
+|2|
+split
+:given domain;
+split again
+if (bowing carry?) then (approximate strapped)
+:tire conventional; <<save>>
+:intoxication manhandle; <<load>>
+-> hefty imagined;
+:obituary below; <<procedure>>
+else (puce downloaded)
+:yup cog; <<load>>
+:iambic mysterious;
+-> mugging iguanas;
+:clubhouse impossibility;
+-> matzah wooed;
+endif
+split again
+:ensemble bribery;
+while (offenders stinger?) is (frightens foxholes)
+switch (latter butting?)
+case (diagnostician counterfeit?)
+:chime theoretical; <<procedure>>
+case (perspiration minor?)
+:integration rabbit;
+case (meadows minuscule?)
+:eleventh dinero;
+endswitch
+endwhile (helper sterilize)
+-[hidden]->
+detach
+split again
+:seep exonerate; <<procedure>>
+-> cowering letter;
+end split
+split
+:lesions anvil;
+split again
+:parachute capsules; <<save>>
+split again
+:pe cabinet; <<save>>
+-> bionic needless;
+split again
+:strapless at; <<save>>
+end split
+|1|
+:topic helmets;
+stop
+@enduml

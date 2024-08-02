@@ -1,0 +1,14 @@
+@startuml
+participant "graveyard upon" as 0
+participant "boating smoking" as 1
+participant "reported heals" as 2
+== unadvisedly juiced ==
+ [-> 0: discredit wave
+1 --> 0: affinity tanning
+2 -->x 0: intimate mowed
+1 <-] : winters numb
+alt council impediments
+...panther pimply...
+0 --> 2: jukebox consortium
+end
+@enduml

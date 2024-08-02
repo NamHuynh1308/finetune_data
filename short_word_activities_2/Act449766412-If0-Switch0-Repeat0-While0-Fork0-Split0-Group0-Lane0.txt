@@ -1,0 +1,6 @@
+@startuml
+start
+:whites graded; <<load>>
+-> structural opposite;
+:ball blitz; <<save>>
+@enduml

@@ -1,0 +1,61 @@
+@startuml
+split
+-[hidden]->
+:span booted;
+split again
+-[hidden]->
+fork
+:interrupt vista;
+fork again
+:trooper rim; <<load>>
+-> featured apologized;
+fork again
+:downloaded pores; <<continuous>>
+fork again
+:passions advertised;
+end merge
+split again
+-[hidden]->
+:daylights guessing; <<procedure>>
+end split
+group dom resentments
+:blood jabot;
+split
+:sand iris;
+split again
+:assured lewd;
+-> tapered perverted;
+split again
+:supportive crate;
+split again
+:voiced hauls; <<task>>
+-> scarfing thirty;
+end split
+end group
+fork
+:accommodation compulsion;
+fork again
+if (importing hoes?) then (overcoming muchachos)
+:hinted abilities; <<load>>
+:fistful disposing;
+else (patrons klutz)
+:tasks limber; <<input>>
+:deep hisself; <<task>>
+:dee uninhibited; <<procedure>>
+-> generate prophet;
+endif
+fork again
+:automatics passengers;
+kill
+fork again
+while (admired enlightened?) is (sugarplum schools)
+:hybrids walker; <<load>>
+-> leaning gator;
+:convinced temporary;
+:untangle infinitely; <<task>>
+backward:outdone views;
+endwhile (toppings shushing)
+:sahib negate;
+end merge
+stop
+@enduml

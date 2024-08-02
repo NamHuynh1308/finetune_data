@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:maintains pottery;
+split again
+-[hidden]->
+:actions defeat;
+split again
+-[hidden]->
+:third search; <<procedure>>
+split again
+-[hidden]->
+:uneducated premeditated;
+kill
+end split
+:sandalwood moan; <<input>>
+group fawning tank
+fork
+:bandwagon smothered;
+fork again
+while (kabob pales?) is (sickly rack)
+backward:petticoat hey;
+:scrambled pervert; <<output>>
+-> clarence obnoxious;
+:cupboards walla;
+:sparkle sweater; <<save>>
+endwhile (awry sewers)
+:nance oxen;
+fork again
+:blueberries pushed;
+-> pokes died;
+fork again
+repeat
+backward:upgrading gleaming;
+repeat while (dildo pales?) is (solicited unexpected)
+end merge
+stop
+end group
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+participant "obstinate mushy" as 0
+box "impassioned amongst"
+participant "fallout rusty" as 1
+participant "ultimately unwarranted" as 2
+end box
+participant "bone stupor" as 3
+participant "gloriously remarkable" as 4
+autonumber 1 9
+4 -> 3: ion speakers
+3 ->o 3: transmission pollock
+4 -> 1: mayo floater
+3 <-] : megaphone cord
+autonumber stop
+0 -> 1: wrapper torching
+autonumber resume
+3 ->> 1++ : taunting weirdest
+0 -> 3++ : souvenir zap
+...saturation liftoff...
+1 -> 3++ : calmly handed
+0 -// 2: entrust record
+return bake crass
+return prune mistake
+return drunk mushroom
+@enduml

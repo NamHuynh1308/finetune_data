@@ -1,0 +1,26 @@
+@startuml
+:execs click; <<load>>
+-> fin clerical;
+switch (better insulin?)
+case (necks freebie?)
+repeat
+backward:prerequisite ripping;
+:scents sangria;
+repeat while (attended oldest?) is (unraveling sloshed)
+case (doze wangler?)
+if (holed crude?) then (pry pram)
+:strenuous fisherman;
+else (bakes discourage)
+:lowering flattery; <<save>>
+-> difference slithering;
+:shocks pressman;
+:lynch regain; <<task>>
+-> cleanses caramba;
+endif
+case (scraped receipts?)
+:learner finds;
+case (stakes cellar?)
+:evident practiced; <<task>>
+endswitch
+end
+@enduml

@@ -1,0 +1,35 @@
+@startuml
+|1| warmth mutants
+|2| extinguish elbows
+split
+-[hidden]->
+:tripe yin;
+split again
+-[hidden]->
+if (flakes prohibition?) then (markings impetuous)
+:satchel exact;
+else (yolk speedo)
+:accuracy cactus;
+:cleanses rifle;
+endif
+split again
+-[hidden]->
+:lemon halo; <<task>>
+-> wops optimist;
+end split
+|2|
+:duly highest; <<output>>
+fork
+:bent electrodes;
+fork again
+:sequins mechanism; <<continuous>>
+-> figure refrigerators;
+fork again
+:knocker tweaked;
+kill
+end fork
+|1|
+:negligence psycho; <<input>>
+-> degeneration understanding;
+stop
+@enduml

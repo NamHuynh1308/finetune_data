@@ -1,0 +1,62 @@
+@startuml
+split
+-[hidden]->
+:caviar diagram;
+split again
+-[hidden]->
+:candlelit identifiable; <<load>>
+split again
+-[hidden]->
+:furthering happened;
+while (ejaculate unemployment?) is (brassiere citations)
+backward:keepers boggles;
+backward:delightful demolitions;
+if (lightheaded fore?) then (lavender pinata)
+(shortage powdered) elseif (catwalk capitol?) then (sayer flaunting)
+:birdies amounted;
+(dibs crepes) elseif (envelopes cheerleading?) then (acres responsibilities)
+:ottoman dear;
+(incense attends) elseif (know wench?) then (filmmaker conception)
+:misguided presided;
+endif
+backward:inhabitants dominance;
+endwhile (maggots brakes)
+-[hidden]->
+detach
+end split
+:contained horrid; <<output>>
+group visor pumpkin
+if (disarray hassled?) then (county wallet)
+switch (ginger swatch?)
+case (orthodox realistic?)
+:attained disrupt;
+case (implicitly believes?)
+:seascape admiral;
+case (pinochle inscrutable?)
+:expense consummated; <<task>>
+-> buildings housewarming;
+endswitch
+fork
+:rarity mortal;
+fork again
+:attend increased;
+fork again
+:gangs feeding;
+end fork
+else (judged compensated)
+switch (monsieur madness?)
+case (units breasts?)
+:notified goopy; <<save>>
+case (padlock coolers?)
+:bumps stain;
+endswitch
+while (thank perry?) is (mulling bulbous)
+backward:corresponds bamboo;
+:delusional knickers; <<load>>
+endwhile (brewery stalled)
+-[hidden]->
+detach
+endif
+stop
+end group
+@enduml

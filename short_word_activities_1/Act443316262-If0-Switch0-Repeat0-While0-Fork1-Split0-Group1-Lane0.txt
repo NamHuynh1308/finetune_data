@@ -1,0 +1,14 @@
+@startuml
+start
+group tenacity ar
+fork
+:starring tandem;
+fork again
+:arguably munching; <<task>>
+-> criminal queasy;
+fork again
+:maximize cognizant;
+end fork
+stop
+end group
+@enduml

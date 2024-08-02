@@ -1,0 +1,9 @@
+@startuml
+box "rough canceled"
+participant "bronco perpetual" as 0
+end box
+autonumber 5 8
+0 -> 0++ : bongos eclipse
+autonumber stop
+return sitcom pinned
+@enduml

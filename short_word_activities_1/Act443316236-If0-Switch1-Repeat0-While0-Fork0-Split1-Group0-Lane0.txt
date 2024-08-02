@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:axe graduation;
+split again
+-[hidden]->
+:platitudes opium; <<output>>
+-> blazer kiwi;
+split again
+-[hidden]->
+:stipulated blues;
+end split
+switch (stabbed transistor?)
+case (era hoosegow?)
+:cruel digestion; <<load>>
+case (ultimately rammed?)
+:courts wherefore; <<procedure>>
+-> numerous hailing;
+case (worst payroll?)
+:commenting provenance;
+case (cur kindly?)
+:lacerated goodie; <<procedure>>
+-> weenie escalator;
+endswitch
+@enduml

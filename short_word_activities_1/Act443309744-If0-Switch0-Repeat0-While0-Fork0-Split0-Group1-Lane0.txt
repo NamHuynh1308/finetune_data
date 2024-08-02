@@ -1,0 +1,7 @@
+@startuml
+start
+group emphatic honored
+:thine disposing; <<save>>
+stop
+end group
+@enduml

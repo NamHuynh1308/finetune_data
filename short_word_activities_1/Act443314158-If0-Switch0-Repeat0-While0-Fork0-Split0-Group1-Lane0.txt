@@ -1,0 +1,7 @@
+@startuml
+group caballero rightfully
+:sandman missions; <<save>>
+-> chomp caters;
+stop
+end group
+@enduml

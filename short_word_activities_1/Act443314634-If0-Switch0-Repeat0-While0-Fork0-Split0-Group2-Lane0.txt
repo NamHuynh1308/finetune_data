@@ -1,0 +1,11 @@
+@startuml
+start
+group probes superheroes
+:ladders locking; <<save>>
+-> viewing alter;
+group define inkling
+:burner choosers; <<output>>
+stop
+end group
+end group
+@enduml

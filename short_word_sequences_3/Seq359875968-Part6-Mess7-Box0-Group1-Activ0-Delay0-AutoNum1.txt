@@ -1,0 +1,21 @@
+@startuml
+participant "selfishness props" as 0
+participant "holing observe" as 1
+participant "pledged accolades" as 2
+participant "heckles tolls" as 3
+participant "fumbling clumps" as 4
+autonumber 7 9
+0 ->o 2: inactive pinks
+autonumber stop
+2 -> 1: tone helmets
+0 -// 2: dismantling homeroom
+break crew neckline
+1 -> 4: neat cutout
+autonumber resume
+create participant "sisters number" as 5
+3 -> 5 : sisters number
+4 -->x 4: alabaster hades
+autonumber stop
+2 <-> 3: charmed tyrant
+end
+@enduml

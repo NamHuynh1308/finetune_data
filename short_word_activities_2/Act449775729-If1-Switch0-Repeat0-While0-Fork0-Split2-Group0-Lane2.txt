@@ -1,0 +1,44 @@
+@startuml
+|1| presentable blink
+|2| examination mileage
+split
+-[hidden]->
+:eloquently scared;
+split again
+-[hidden]->
+:riches lowlife; <<save>>
+split again
+-[hidden]->
+:horns alerts; <<save>>
+split again
+-[hidden]->
+:harbor loneliness; <<load>>
+end split
+split
+:studly hardship;
+split again
+:captivity transcript;
+split again
+:wireless forte; <<load>>
+split again
+:wilderness corrupting;
+-> purest counter;
+end split
+|2|
+if (interviewed sprained?) then (turbulence verse)
+:snapshot dot;
+-> beseech fouled;
+:benjamins kinship;
+-> beavers bonfire;
+else (dreadful stationary)
+:sparkling faults; <<load>>
+-> trafficker pal;
+:swanky excruciating; <<save>>
+:mink weds; <<output>>
+endif
+:collect fingerprint; <<task>>
+|1|
+:wherein heller;
+:itself party; <<task>>
+stop
+@enduml

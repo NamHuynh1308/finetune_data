@@ -1,0 +1,8 @@
+@startuml
+participant "uptake vulnerable" as 0
+autonumber 5 9
+loop exhaust theoretically
+0 ->> 0: dale mad
+autonumber stop
+end
+@enduml

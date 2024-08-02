@@ -1,0 +1,13 @@
+@startuml
+participant "shifting kisser" as 0
+box "drainage instructor"
+participant "spreading terminal" as 1
+end box
+== hails mountains ==
+create participant "emission gaiety" as 2
+1 -> 2 : emission gaiety
+2 -// 1: neon hatter
+break sparkling weirdly
+1 --> 0: contrast perch
+end
+@enduml

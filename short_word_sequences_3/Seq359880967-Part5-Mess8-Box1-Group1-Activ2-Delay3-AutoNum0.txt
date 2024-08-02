@@ -1,0 +1,25 @@
+@startuml
+participant "wants bagged" as 0
+participant "desperate midterms" as 1
+box "yawn overheard"
+participant "satanic modus" as 2
+participant "brunch slammed" as 3
+participant "pills bug" as 4
+end box
+ [-> 3: destroying window
+2 -> 0: immune injections
+...gliders tote...
+ [<- 3: encounters cornered
+1 ->o 0++ : administrator delicates
+0 -// 3: land cells
+loop uninterrupted resemblance
+...setback wants...
+3 -> 4: ride efficient
+return literature mesmerizing
+2 -> 3++ : bookkeeper paparazzi
+...flashed shocker...
+4 -> 3: eggnog anguished
+return liners outdated
+else scorch pissed
+end
+@enduml

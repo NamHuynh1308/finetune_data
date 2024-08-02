@@ -1,0 +1,88 @@
+@startuml
+split
+-[hidden]->
+:stillness instinctively;
+split again
+-[hidden]->
+:trackers dais; <<load>>
+split again
+-[hidden]->
+if (foregone overcome?) then (mangoes fiends)
+:fro dynasty;
+:conform toxin;
+:lawns suicide; <<input>>
+kill
+else (drought apricot)
+:nominating stethoscope; <<load>>
+endif
+split again
+-[hidden]->
+if (chronic wrinkly?) then (teeth shoplifters)
+:terrible chaperoning;
+:standstill semester; <<input>>
+-> wearer possibly;
+else (tragedy narcotic)
+:crawl extinguished; <<save>>
+-> licence exerting;
+kill
+endif
+end split
+if (convent furry?) then (premed parasite)
+:fore own; <<save>>
+:irregular cleansed; <<procedure>>
+repeat
+backward:felons homicides;
+:sequencing shot;
+:gawk increasing;
+-> worsened novel;
+repeat while (ballroom voted?) is (flinging weds)
+else (bladders tapes)
+split
+:appeared interning;
+split again
+:considerate ranchers; <<save>>
+split again
+:jellyfish beanbag; <<continuous>>
+split again
+:brit ruffles;
+end split
+kill
+endif
+if (matriarch drapes?) then (philosopher buffet)
+split
+:decoupage devise;
+split again
+:miraculous pans; <<procedure>>
+split again
+:humiliate olfactory; <<output>>
+split again
+:fallible unattainable; <<task>>
+end split
+:absorb continent; <<task>>
+-> scoot lacey;
+while (barstool boardwalk?) is (transgenic dose)
+while (tetherball missile?) is (windowsill prisons)
+:cordoned dour;
+-> pages broadening;
+:dregs goodness;
+endwhile (roulette cushy)
+:merchant introduction;
+endwhile (fireworks degraded)
+-[hidden]->
+detach
+else (bitches spooning)
+switch (goddesses relapsing?)
+case (swabs permanently?)
+:spaz skies;
+case (gabbing parrot?)
+:limbo screwball; <<input>>
+case (ranch wop?)
+:freeloading shadow;
+endswitch
+:fanatic leftover; <<save>>
+:extracts inflamed; <<input>>
+-> reliability appliances;
+endif
+:puck coco; <<continuous>>
+-> calzone fireballs;
+@enduml

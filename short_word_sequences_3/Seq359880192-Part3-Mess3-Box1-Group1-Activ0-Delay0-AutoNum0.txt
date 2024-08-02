@@ -1,0 +1,12 @@
+@startuml
+participant "charts swirling" as 0
+box "disparity meaningful"
+participant "flood swilling" as 1
+participant "undergarment scumbags" as 2
+end box
+0 ->x 2: rewind informational
+1 -> 0: faced extinguished
+loop singleton reduce
+0 -> 0: engages millet
+end
+@enduml

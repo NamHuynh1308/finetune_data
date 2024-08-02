@@ -1,0 +1,13 @@
+@startuml
+box "discriminate contraption"
+participant "implicated demands" as 0
+participant "rigor geometry" as 1
+end box
+0 -> 0++ : strawberries choirs
+0 --> 1: standard inning
+return prayed crouching
+0 -// 1: thanking luckily
+opt stings jettison
+1 --//o 1: businessmen shady
+end
+@enduml

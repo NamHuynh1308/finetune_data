@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:immunity orchestrating;
+split again
+-[hidden]->
+:mandates hoe; <<task>>
+-> allow nodding;
+split again
+-[hidden]->
+:hiccups prostitution; <<save>>
+end split
+:slapped menstrual;
+end
+@enduml

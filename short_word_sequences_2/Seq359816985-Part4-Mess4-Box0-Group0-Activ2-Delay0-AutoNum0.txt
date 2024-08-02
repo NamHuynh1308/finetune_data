@@ -1,0 +1,12 @@
+@startuml
+participant "equipped hygiene" as 0
+participant "protests lanes" as 1
+participant "gen chaser" as 2
+participant "doughnuts biographical" as 3
+3 -// 3++ : talkie psychotherapy
+ [<- 2: haycock testy
+2 -->x 3: football slumber
+return rows arms
+2 ->o 2++ : narcotics increments
+return indoors approximation
+@enduml

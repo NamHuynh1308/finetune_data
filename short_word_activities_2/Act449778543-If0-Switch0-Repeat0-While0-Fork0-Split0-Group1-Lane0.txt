@@ -1,0 +1,6 @@
+@startuml
+group fantastic comprise
+:subvert invited; <<task>>
+stop
+end group
+@enduml

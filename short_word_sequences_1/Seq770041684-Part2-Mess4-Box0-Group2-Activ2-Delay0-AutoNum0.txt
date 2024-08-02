@@ -1,0 +1,14 @@
+@startuml
+participant "dryer refrigerators" as 0
+0 <-> 0++ : drawings premarital
+0 ->x 0++ : hazards metals
+loop caseload impotent
+0 <-] : secure mongoose
+alt seer drank
+create participant "deemed funny" as 1
+0 -> 1 : deemed funny
+return notes contradicted
+end
+end
+return chasm tat
+@enduml

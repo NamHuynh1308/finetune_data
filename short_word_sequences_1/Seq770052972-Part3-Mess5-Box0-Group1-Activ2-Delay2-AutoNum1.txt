@@ -1,0 +1,19 @@
+@startuml
+participant "tune taxis" as 0
+participant "sublet thinks" as 1
+== dopey ill ==
+autonumber 5 9
+create participant "professionally embark" as 2
+0 -> 2 : professionally embark
+autonumber stop
+1 ->o 1++ : doorstep observers
+...pleading collie...
+2 -> 1: cupboard cash
+par dark roughnecks
+0 -->x 2++ : why negotiated
+...escapades dips...
+ [<- 1: variance foiled
+end
+return advertise spurs
+return gibbons hoe
+@enduml

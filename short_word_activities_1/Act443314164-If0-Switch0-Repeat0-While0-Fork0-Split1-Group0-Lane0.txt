@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:scripts fireworks;
+split again
+-[hidden]->
+:fuckup goalie;
+-> rerouted sleepwalking;
+split again
+-[hidden]->
+:mentions practise;
+split again
+-[hidden]->
+:understatement catatonic; <<procedure>>
+end split
+:shackled manufactured; <<continuous>>
+-> stern instruments;
+:hypotensive confidante; <<save>>
+stop
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+box "observatory tripping"
+participant "near inconspicuous" as 0
+participant "crane grounded" as 1
+end box
+== sighting jackal ==
+autonumber 5 9
+0 -> 0!! : bauble filter
+1 ->x 1: cocaine junky
+@enduml

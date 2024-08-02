@@ -1,0 +1,9 @@
+@startuml
+start
+:stability flexible; <<procedure>>
+-> sectors bowers;
+group scat separately
+:commune institutional; <<save>>
+stop
+end group
+@enduml

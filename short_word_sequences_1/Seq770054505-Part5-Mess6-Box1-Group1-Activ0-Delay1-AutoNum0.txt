@@ -1,0 +1,18 @@
+@startuml
+participant "toby reasons" as 0
+participant "twitch vulgar" as 1
+participant "corresponding steady" as 2
+box "door na"
+participant "barbarian pah" as 3
+end box
+2 ->o 3: polled tsk
+loop refocus incessantly
+...settled simulated...
+1 -->x 0: barker sensible
+0 -> 1: creaming amigo
+create participant "rubes lacks" as 4
+1 -> 4 : rubes lacks
+end
+1 ->o 0: piecing funerals
+ [<- 0: suggestions roust
+@enduml

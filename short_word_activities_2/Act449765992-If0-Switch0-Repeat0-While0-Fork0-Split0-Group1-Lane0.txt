@@ -1,0 +1,10 @@
+@startuml
+start
+:firecracker hyped; <<load>>
+:plants wasteful; <<continuous>>
+group promotions colonel
+:lifeline swerving; <<continuous>>
+-> chilling dateless;
+stop
+end group
+@enduml

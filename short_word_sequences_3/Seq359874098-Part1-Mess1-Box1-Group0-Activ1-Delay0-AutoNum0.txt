@@ -1,0 +1,7 @@
+@startuml
+box "nodded almonds"
+participant "stubble spiteful" as 0
+end box
+0 -> 0++ : faucet annoys
+return monopolizing adjacent
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "hunk winding" as 0
+participant "sew conversation" as 1
+participant "forties hippies" as 2
+participant "charitable incantation" as 3
+== temperament swallowed ==
+1 -// 0: possible incapacitated
+...joyous insurmountable...
+2 -> 1++ : bunker rots
+par reassurance prod
+ [-> 2: individuals pinheads
+return rumbling skulls
+ [-> 0: manage max
+end
+@enduml

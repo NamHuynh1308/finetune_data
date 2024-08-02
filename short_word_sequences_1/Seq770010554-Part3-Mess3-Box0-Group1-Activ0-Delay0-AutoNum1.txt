@@ -1,0 +1,13 @@
+@startuml
+participant "tenets haze" as 0
+participant "exchanges deputized" as 1
+== boldly virtual ==
+autonumber 10 1
+0 -> 0: slack sedatives
+autonumber stop
+1 -> 0: bundles plantation
+loop missionary executive
+create participant "latitude magically" as 2
+1 -> 2 : latitude magically
+end
+@enduml

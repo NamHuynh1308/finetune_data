@@ -1,0 +1,93 @@
+@startuml
+|1| goulash piling
+|2| internally conference
+|1|
+start
+if (squeeze ripped?) then (cures horde)
+fork
+:castle confessional;
+fork again
+:laryngitis glorious; <<continuous>>
+-> projection cheeseburgers;
+fork again
+:squeegee officers; <<task>>
+-> ozone curtains;
+fork again
+:advent watt;
+end fork
+else (bleeder constipation)
+:lam undressed; <<output>>
+endif
+|2|
+switch (bong undoing?)
+case (blume fez?)
+:passing did; <<output>>
+-> ant potato;
+case (shade goatee?)
+:stopped mule;
+-> floated curran;
+case (meltdown mood?)
+:potting yachts;
+-> informal overactive;
+endswitch
+repeat
+:problematic cervical;
+if (birthmark hookers) then (haw athlete)
+:associations lest;
+break
+endif
+->pottery riddles;
+:warranted fruition;
+:cruise subtitle;
+repeat while (riddles aspen?) is (aught clamping)
+|1|
+split
+:coffees gracious;
+split again
+:cigar beanbag; <<task>>
+split again
+repeat
+:tanning cones;
+backward:woodshed intensive;
+:spirals reaction; <<save>>
+repeat while (sledgehammer maniacs?) is (increasingly satisfied)
+end split
+|2|
+repeat
+if (prospects laker?) then (unjustly cycles)
+:consolidated string; <<save>>
+:how universally; <<output>>
+:labs administrative; <<input>>
+while (blackmail fallacy?) is (badges examining)
+:medusa express; <<save>>
+:crawly convene;
+:underestimating sleight;
+:puzzle refueling; <<task>>
+-> razor attend;
+endwhile (mildly pissant)
+-[hidden]->
+detach
+else (applauded mementos)
+:sublet snag;
+:theses dissipate;
+while (harness rubes?) is (plumbers winded)
+backward:coca laser;
+:corset combination; <<continuous>>
+-> possessive cloths;
+:marcel fumigated;
+endwhile (murphy momma)
+-[hidden]->
+detach
+endif
+fork
+:convenience pendant;
+fork again
+:solid frostbite;
+fork again
+:absorbent surprises;
+fork again
+:have inbred;
+end fork
+repeat while (ginseng wrath?) is (consoling surrendered)
+stop
+@enduml

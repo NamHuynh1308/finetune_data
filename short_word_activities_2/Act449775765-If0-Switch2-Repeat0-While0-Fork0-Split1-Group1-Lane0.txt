@@ -1,0 +1,34 @@
+@startuml
+start
+group caymans charming
+split
+:peaches tied;
+split again
+switch (cates platitudes?)
+case (heater creativity?)
+:information strings; <<save>>
+case (investigations grandpa?)
+:canteen slithering; <<load>>
+-> meanie disciplining;
+case (predictions nutmeg?)
+:cerebellum picking; <<continuous>>
+endswitch
+split again
+:specifications cheeseburger; <<procedure>>
+-> patrol ironing;
+split again
+switch (contusions allowable?)
+case (lentils thrice?)
+:cameraman exhibit;
+case (imprisonment critter?)
+:behooves robins; <<task>>
+-> scavenger disks;
+case (event illness?)
+:thanked farms;
+case (jilted consorting?)
+:bop such;
+endswitch
+end split
+stop
+end group
+@enduml

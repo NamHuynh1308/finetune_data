@@ -1,0 +1,11 @@
+@startuml
+participant "argued mote" as 0
+== modicum kidney ==
+0 -// 0++ : service pressures
+create participant "cord wit" as 1
+0 -> 1 : cord wit
+...committee peppers...
+1 -> 0: bringing soy
+0 -> 0: coat laid
+return zest garter
+@enduml

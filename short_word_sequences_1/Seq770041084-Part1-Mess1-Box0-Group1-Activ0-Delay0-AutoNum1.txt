@@ -1,0 +1,7 @@
+@startuml
+participant "tropics locate" as 0
+autonumber 10 9
+alt intact pitches
+0 -> 0: caskets certifiably
+end
+@enduml

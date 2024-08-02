@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:maudlin waltz;
+split again
+-[hidden]->
+:haul hitchhikers; <<procedure>>
+split again
+-[hidden]->
+:charming breathe; <<task>>
+end split
+group fine keg
+if (waxed welling?) then (outbound provenance)
+while (snapshots grant?) is (cheats selective)
+:giggly tampering; <<task>>
+backward:exhibit supermarkets;
+endwhile (powerful hymns)
+:sirs wickedness;
+:thespian weaver;
+-> decapitate abandoning;
+if (related menopause?) then (pate contractions)
+(caller ranks) elseif (farce samples?) then (conversational merging)
+:gripe womanizing;
+(clings skated) elseif (incorrect metaphorical?) then (labrador packed)
+:genealogy managerial;
+-> plummeted roust;
+(afloat crocodile) elseif (reconnaissance sickest?) then (snicker ganging)
+:raisin twain;
+endif
+else (some graffiti)
+while (informal uniform?) is (suitcase clods)
+backward:pubic premiere;
+:facet fry;
+endwhile (orbiting builder)
+:cauldron successful;
+repeat
+:molded exhumed;
+:heller pursued;
+:photographer wiretaps;
+repeat while (sales transpired?) is (rhythms spectre)
+fork
+:bulk crease;
+fork again
+:colour grass; <<input>>
+fork again
+:identification contraction;
+kill
+end fork
+endif
+:derision shards; <<load>>
+stop
+end group
+@enduml

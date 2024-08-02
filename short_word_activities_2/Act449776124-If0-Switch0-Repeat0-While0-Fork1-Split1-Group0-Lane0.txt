@@ -1,0 +1,20 @@
+@startuml
+start
+split
+:salamander live;
+split again
+fork
+:delete fuckup;
+fork again
+:crimp perceived;
+fork again
+:abigail envelopes;
+end merge
+split again
+:viking bathrobe; <<task>>
+split again
+:cork fabric; <<output>>
+end split
+:boxcar commonly;
+-> ascot naught;
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "nude cosmetic" as 0
+autonumber 0 1
+par scorpion celebration
+create participant "beaver chips" as 1
+0 -> 1 : beaver chips
+autonumber stop
+1 <-> 1++ : rainstorm famished
+0 -> 0!! : served megaphone
+autonumber resume
+else tonic shelled
+break shout targeting
+1 ->o 0: centerfold expectation
+autonumber stop
+end
+end
+return hairstyles priest
+@enduml

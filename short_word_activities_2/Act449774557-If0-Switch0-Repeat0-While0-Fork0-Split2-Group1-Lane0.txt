@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:reserving nougat;
+split again
+-[hidden]->
+:canary dab; <<procedure>>
+split again
+-[hidden]->
+split
+:rocker hypnotize;
+split again
+:continuation puppets; <<output>>
+-> marksmanship curious;
+split again
+:performs brighter; <<output>>
+-> breakdown hug;
+end split
+end split
+group page remnants
+:sample breakdowns; <<load>>
+-> shapes panicked;
+:disclosure disapproves; <<load>>
+end group
+@enduml

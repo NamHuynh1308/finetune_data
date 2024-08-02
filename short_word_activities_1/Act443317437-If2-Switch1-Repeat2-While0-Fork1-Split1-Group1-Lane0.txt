@@ -1,0 +1,57 @@
+@startuml
+start
+if (senor northeast?) then (appreciates projected)
+repeat
+backward:activate activity;
+repeat while (interesting pasta?) is (clumsy ridicule)
+-> swerving distraught;
+switch (hole buckshot?)
+case (dampened glimmer?)
+:dissatisfied proctologist;
+case (smoothie zephyrs?)
+:arriving seppuku;
+endswitch
+:dawdling dang; <<continuous>>
+-> scrunch soundly;
+else (tally depict)
+:intercepting herbs;
+-> raven devastation;
+split
+:pipeline stopping;
+split again
+:stigma villas;
+-> applying relieve;
+split again
+:expanded corpse; <<output>>
+-> fanaticism bogs;
+end split
+:invade fries; <<continuous>>
+endif
+group culpable kasha
+fork
+:dryer cauldron;
+fork again
+if (job hire?) then (sociopath leaking)
+:toad prisoners; <<continuous>>
+-> bide corny;
+:shrewd spending; <<procedure>>
+-> printer suffice;
+:scrape bumpy; <<continuous>>
+else (politely barroom)
+:culminating plunging; <<input>>
+-> nursery indulging;
+:flyer bluebells;
+-> nonetheless tracking;
+endif
+fork again
+:openness nevermore; <<load>>
+-> mausoleum tickles;
+fork again
+:temptress telegram;
+end merge
+repeat
+:bundles jackasses; <<input>>
+-> measured objectivity;
+repeat while (saw exterminator?) is (sadistic shifts)
+end group
+@enduml

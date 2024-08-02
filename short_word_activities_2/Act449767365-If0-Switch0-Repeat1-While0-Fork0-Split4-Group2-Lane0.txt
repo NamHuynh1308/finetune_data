@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:drunk antiques;
+split again
+-[hidden]->
+:inform anatomically; <<save>>
+split again
+-[hidden]->
+:staffer grades; <<output>>
+end split
+repeat
+split
+:movement bake;
+split again
+:locating my; <<save>>
+-> exemptions showing;
+split again
+:flake delegation;
+end split
+split
+:neutralized acquainted;
+split again
+:flopping concealed;
+split again
+:reduce amendments;
+end split
+repeat while (receiving lump?) is (sunken laughed)
+group paranormal generals
+split
+:hearty callous;
+split again
+:cubby bugging; <<save>>
+split again
+:most fiddler; <<output>>
+-> maximize gentler;
+end split
+group nu flute
+:felony nerds; <<task>>
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:peeled administered;
+split again
+-[hidden]->
+:flutes tourism; <<procedure>>
+-> maria puppy;
+split again
+-[hidden]->
+:alternate boils;
+while (hostile fanny?) is (outrun jack)
+backward:actor gusto;
+endwhile (rules balance)
+-[hidden]->
+detach
+end split
+group snook potatoes
+:opposition entitle; <<task>>
+:commentary stage;
+end group
+end
+@enduml

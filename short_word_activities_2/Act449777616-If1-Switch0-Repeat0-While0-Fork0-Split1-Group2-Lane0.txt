@@ -1,0 +1,26 @@
+@startuml
+start
+:punishes feline;
+-> tapping chlorine;
+group cynics sludge
+:liners sark;
+group demoted chokes
+split
+:junkyard corduroy;
+split again
+:oversleep depends; <<task>>
+split again
+:revolver competence;
+-> tribe yards;
+split again
+if (paddles howling?) then (mil bit)
+(pastor cholera) elseif (pudding exciting?) then (tainted seppuku)
+:infraction flare; <<output>>
+(prostitutes effective) elseif (attracts fireballs?) then (conspiracies ember)
+:complains tits;
+endif
+end split
+stop
+end group
+end group
+@enduml

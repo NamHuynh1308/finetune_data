@@ -1,0 +1,16 @@
+@startuml
+participant "commiserate dictate" as 0
+participant "aches humidor" as 1
+participant "interrupts bravery" as 2
+participant "impropriety beeswax" as 3
+== normalcy cheat ==
+opt swooped knotted
+1 -// 0: coverage descending
+2 -> 1: undershirt warmed
+else miraculous maya
+2 -> 1!! : president presentable
+...impractical demonstration...
+1 -> 2: dissolving camped
+else mouse mildew
+end
+@enduml

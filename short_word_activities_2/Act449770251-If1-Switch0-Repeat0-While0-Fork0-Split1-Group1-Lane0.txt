@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:flickering eludes;
+split again
+-[hidden]->
+if (auras technologies?) then (wonder teriyaki)
+:readings rephrase;
+-> em hills;
+kill
+else (dead infinite)
+:angles booker;
+:blatant buried;
+kill
+endif
+split again
+-[hidden]->
+:annoyance untamed; <<load>>
+end split
+group deity valuables
+:inflame slap; <<load>>
+-> bar lowdown;
+stop
+end group
+@enduml

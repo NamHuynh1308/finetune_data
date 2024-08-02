@@ -1,0 +1,34 @@
+@startuml
+start
+fork
+:confirmed nightingale;
+fork again
+:switchman roomy;
+fork again
+if (bustier depended?) then (gull intellectuals)
+(nicknamed siding) elseif (stealer marshmallows?) then (forum blabbermouth)
+:raising existing;
+(speed spaces) elseif (sanity minivan?) then (celebrate sip)
+:fleece tosses; <<procedure>>
+(depository heckled) elseif (cups ambiguous?) then (robotic synaptic)
+:dotted bel;
+endif
+fork again
+split
+:toro unknowns;
+split again
+:respectful whispering; <<save>>
+split again
+:flirting oil; <<input>>
+split again
+:upstate commentator;
+end split
+end merge
+group cuts horsing
+:boon gran; <<output>>
+group mistakes technicians
+:buffer wealthy; <<load>>
+stop
+end group
+end group
+@enduml

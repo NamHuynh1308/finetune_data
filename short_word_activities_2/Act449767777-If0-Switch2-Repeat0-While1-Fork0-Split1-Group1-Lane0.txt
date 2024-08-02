@@ -1,0 +1,32 @@
+@startuml
+start
+:horny chronicle; <<save>>
+group pot comedies
+switch (rugby frolic?)
+case (yikes pathetically?)
+split
+:recruited awaiting;
+split again
+:hounds belated;
+split again
+:thrusts deduction;
+split again
+:eking strobe;
+while (epinephrine eroding?) is (headboard cart)
+:adjusted maroon; <<load>>
+endwhile (developments ruining)
+-[hidden]->
+detach
+end split
+case (slicker years?)
+:hailing passive;
+endswitch
+switch (redwood seaplane?)
+case (harper whisper?)
+:importing respected;
+-> detective trainees;
+case (guests turndown?)
+:xerox meager; <<continuous>>
+endswitch
+end group
+@enduml

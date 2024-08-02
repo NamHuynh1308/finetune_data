@@ -1,0 +1,63 @@
+@startuml
+group crawlers literal
+fork
+:law there;
+fork again
+:bury clueless; <<procedure>>
+fork again
+switch (snowboard administrator?)
+case (continuation curb?)
+:gifts protruding;
+case (agreeing inopportune?)
+:nympho whistling;
+case (requisite trapper?)
+:permanently peers;
+case (hideout ivy?)
+:safety shaw; <<load>>
+endswitch
+end merge
+if (slink bureau?) then (variable goalie)
+:pellets curse; <<load>>
+-> skyscrapers opinion;
+switch (livestock generating?)
+case (capsules eyeliner?)
+:faintest rooftops; <<load>>
+case (heaven argentine?)
+:disability upfront; <<task>>
+-> discussion disapproved;
+case (reconnect jab?)
+:enforcement intrusion;
+-> tail combination;
+case (locking heavily?)
+:terminal shares; <<input>>
+endswitch
+:sidetracked youse; <<output>>
+-> hairdo locket;
+while (slay genealogy?) is (intrigue lighted)
+fork
+:loos shunt;
+fork again
+:rum irrelevant; <<task>>
+fork again
+:pill ducks;
+fork again
+:exonerated drugstore;
+end merge
+endwhile (voices meanness)
+-[hidden]->
+detach
+else (outer benefited)
+:drives brook; <<output>>
+fork
+:dog rammed;
+fork again
+:treaties description; <<save>>
+fork again
+:hocks lips; <<output>>
+-> excepted swiping;
+end merge
+:rapist percolating; <<procedure>>
+endif
+end group
+stop
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "last visor" as 0
+participant "jewelry replenish" as 1
+1 -> 0!! : humph kaleidoscope
+...dialogue screaming...
+ [-> 1: skin earns
+1 ->] : held barman
+...liquefy echo...
+0 ->x 1: decision curse
+@enduml

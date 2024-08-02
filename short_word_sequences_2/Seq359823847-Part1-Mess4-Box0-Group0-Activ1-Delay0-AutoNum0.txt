@@ -1,0 +1,8 @@
+@startuml
+participant "deserter rats" as 0
+0 ->> 0: dredging defiance
+0 ->o 0++ : chaperones tango
+0 -> 0: demon propose
+return rattles pecks
+0 ->o 0: goons novelty
+@enduml

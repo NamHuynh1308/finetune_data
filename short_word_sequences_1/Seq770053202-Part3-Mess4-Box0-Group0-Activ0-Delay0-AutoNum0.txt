@@ -1,0 +1,9 @@
+@startuml
+participant "pothead juror" as 0
+participant "silences minion" as 1
+participant "eighth fogged" as 2
+0 --//o 2: oysters connected
+2 -// 1: cushy snapped
+1 -\\ 2: derision sprouted
+2 <-] : tightness soviet
+@enduml

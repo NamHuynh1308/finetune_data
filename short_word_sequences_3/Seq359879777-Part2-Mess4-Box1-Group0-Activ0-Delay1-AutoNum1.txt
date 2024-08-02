@@ -1,0 +1,14 @@
+@startuml
+box "goose vouch"
+participant "pitches beckons" as 0
+end box
+autonumber 9 3
+ [-> 0: collapse primordial
+autonumber stop
+0 -->x 0: catty placing
+create participant "assignments installing" as 1
+0 -> 1 : assignments installing
+...crypts shyness...
+1 -// 0: racketeer silvery
+autonumber resume
+@enduml

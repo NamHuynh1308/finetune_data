@@ -1,0 +1,6 @@
+@startuml
+:airplane wrapping;
+-> unique beaten;
+:assignments id; <<continuous>>
+stop
+@enduml

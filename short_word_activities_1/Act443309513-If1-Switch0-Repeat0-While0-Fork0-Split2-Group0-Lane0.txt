@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:guru perpetrator;
+split again
+-[hidden]->
+:detected containment;
+kill
+split again
+-[hidden]->
+:collar flatbed; <<load>>
+-> unacceptable protected;
+split again
+-[hidden]->
+:elicit blasted; <<load>>
+end split
+if (deposed panicky?) then (staple pope)
+split
+:campus care;
+split again
+:holdup cacciatore;
+split again
+:anytime lollipop;
+split again
+:convenience sorted; <<continuous>>
+-> clock follow;
+end split
+:cripples enthralled;
+-> vivacious solicited;
+else (crud answers)
+:banning smirking; <<input>>
+-> evacuated awakened;
+endif
+stop
+@enduml

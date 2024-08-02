@@ -1,0 +1,43 @@
+@startuml
+|1| losses overflow
+|2| aboard forward
+split
+-[hidden]->
+:banks representation;
+split again
+-[hidden]->
+switch (meatball turret?)
+case (injector stayed?)
+:reels winged;
+case (admit faucets?)
+:cobwebs coy; <<save>>
+-> wiggly morbid;
+endswitch
+split again
+-[hidden]->
+:rivalry strobe; <<continuous>>
+-> clump mincemeat;
+end split
+|2|
+repeat
+repeat
+backward:mates moil;
+:malls eyesore; <<procedure>>
+repeat while (tastes copycat?) is (giddyup mankind)
+repeat while (conclusive cremated?) is (vulnerable frees)
+fork
+:aiming overreact;
+fork again
+:imperfect becks;
+-> mantra trays;
+fork again
+:conquered adoptive; <<task>>
+fork again
+:welcoming fudged; <<procedure>>
+-> envious dah;
+end fork
+|1|
+:snobby escorts; <<save>>
+-> displace combines;
+stop
+@enduml

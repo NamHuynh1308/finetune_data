@@ -1,0 +1,22 @@
+@startuml
+group overanxious sleepovers
+:snakebite peaks; <<task>>
+fork
+:yank hairs;
+fork again
+:layaway drawer;
+fork again
+split
+:renovating uncle;
+split again
+:resource sanitation;
+split again
+:triplicate murderer;
+end split
+fork again
+:gazed must; <<load>>
+end merge
+end group
+:browbeat slithering; <<task>>
+end
+@enduml

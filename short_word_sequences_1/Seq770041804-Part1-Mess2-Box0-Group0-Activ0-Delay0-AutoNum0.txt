@@ -1,0 +1,6 @@
+@startuml
+participant "poser runaways" as 0
+== banshee goldenrod ==
+0 <-] : blundering energized
+ [-> 0: sorting boutonniere
+@enduml

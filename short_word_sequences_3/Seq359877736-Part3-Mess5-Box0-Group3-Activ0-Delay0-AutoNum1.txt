@@ -1,0 +1,19 @@
+@startuml
+participant "researchers matchmaking" as 0
+participant "drumming endear" as 1
+== ensuing hips ==
+autonumber 1 3
+alt borrowing berries
+1 -> 0!! : overprotective rows
+loop biz drank
+1 -\\ 0: tenuous venting
+1 ->] : prided avocado
+else tippy sook
+1 -> 0: geography handcuffs
+loop motif sleeping
+create participant "digestive hunches" as 2
+0 -> 2 : digestive hunches
+end
+end
+end
+@enduml

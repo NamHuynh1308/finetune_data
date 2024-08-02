@@ -1,0 +1,6 @@
+@startuml
+participant "omen liver" as 0
+alt brightly characters
+0 ->o 0: repay prettiest
+end
+@enduml

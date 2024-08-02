@@ -1,0 +1,7 @@
+@startuml
+start
+group doubles orderly
+:mushy started;
+stop
+end group
+@enduml

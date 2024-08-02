@@ -1,0 +1,19 @@
+@startuml
+participant "painkillers lama" as 0
+participant "rent sims" as 1
+participant "photograph misprint" as 2
+autonumber 9 0
+2 <-] : harbors velocity
+alt impediment chocolate
+...survived dozed...
+ [-> 1: tavern bid
+2 -// 2: metabolic timeline
+autonumber stop
+break untouchable mimes
+1 ->> 1: dictionary restrain
+0 <-] : vive toner
+else chaperon deficiencies
+0 --> 1: bereft projectile
+end
+end
+@enduml

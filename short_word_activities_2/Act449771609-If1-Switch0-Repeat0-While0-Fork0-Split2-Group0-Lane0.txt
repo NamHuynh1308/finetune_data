@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:posters unfulfilled;
+split again
+-[hidden]->
+:packet alpha; <<load>>
+-> funeral negligent;
+split again
+-[hidden]->
+:culturally people;
+split again
+-[hidden]->
+:unsafe sweater;
+-> imperfections known;
+end split
+if (wampum commercially?) then (laundering folks)
+(gamma too) elseif (creamy croon?) then (telling synch)
+:sponsorship capsized; <<save>>
+-> painless combustion;
+(reclaiming dumber) elseif (intermediate obligatory?) then (peeling grander)
+split
+:regulations naphthalene;
+split again
+:magnificently shortcut; <<continuous>>
+-> smuggled cup;
+split again
+:admission ecological;
+kill
+end split
+(theme bylaws) elseif (evasions cultivating?) then (trade library)
+:rumpled extermination; <<save>>
+-> sprouted euphoric;
+endif
+stop
+@enduml

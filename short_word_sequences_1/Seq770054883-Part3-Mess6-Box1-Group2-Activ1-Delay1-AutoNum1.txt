@@ -1,0 +1,25 @@
+@startuml
+participant "radiant cheesy" as 0
+box "pieced mano"
+participant "noggin refrigerator" as 1
+participant "unopened sandwiches" as 2
+end box
+autonumber 4 0
+ [<- 1: linear northeast
+autonumber stop
+1 <-] : destruction filmmakers
+loop pathology whose
+2 -\\ 1++ : sufficient flaunt
+autonumber resume
+...names cystic...
+1 -// 2: impenetrable kale
+autonumber stop
+else barrow thoracotomy
+ [<- 0: accumulation smoothly
+else possum radiologist
+par omega adoption
+2 -> 1: bipolar mortgages
+end
+end
+return shelters ones
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+group stimulus victories
+:speeches backfire; <<input>>
+-> bongo moonlighting;
+stop
+end group
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "waking stomper" as 0
+box "bale bums"
+participant "towel classier" as 1
+participant "scheduled glorious" as 2
+end box
+participant "freeze wrenched" as 3
+== choosing alchemy ==
+autonumber 8 7
+0 --> 3++ : kicked capitalists
+1 <-> 1: declare jeopardy
+3 -->x 3: hiking buffet
+return waging possible
+3 <-> 3: victims researching
+0 ->> 3: jingle routine
+autonumber stop
+2 -// 2: luring simulate
+1 -// 3: baste lighthouse
+@enduml

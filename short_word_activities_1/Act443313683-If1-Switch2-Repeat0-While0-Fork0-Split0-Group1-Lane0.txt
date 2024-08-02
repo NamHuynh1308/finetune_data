@@ -1,0 +1,31 @@
+@startuml
+start
+group haystack smite
+switch (schmuck drawn?)
+case (embezzler whisk?)
+:counts shed; <<continuous>>
+case (giggly copperhead?)
+:seconds seventeenth; <<continuous>>
+-> wraith think;
+case (airman grasping?)
+:electronically petty; <<task>>
+endswitch
+if (fellas resignation?) then (glazed disappoints)
+(said recent) elseif (hemlines discreetly?) then (astonishment saver)
+:plugs changed; <<input>>
+(abiding shelters) elseif (complimentary notices?) then (nomination probably)
+switch (whales nighty?)
+case (exhilarating novel?)
+:linger allergies;
+-> introduce usher;
+case (drooled shoe?)
+:yearnings glimpsed;
+case (clumsily disposition?)
+:goalie concentrate; <<input>>
+case (intolerant icing?)
+:attempts market;
+endswitch
+endif
+end group
+end
+@enduml

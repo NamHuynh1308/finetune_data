@@ -1,0 +1,6 @@
+@startuml
+participant "toothpaste releases" as 0
+participant "fever quake" as 1
+0 ->x 1: curvaceous mailing
+1 <-> 1: townie equator
+@enduml

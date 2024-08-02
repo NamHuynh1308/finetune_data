@@ -1,0 +1,7 @@
+@startuml
+start
+group fit grindstone
+:unorthodox sleepwalking; <<load>>
+stop
+end group
+@enduml

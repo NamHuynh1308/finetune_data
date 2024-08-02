@@ -1,0 +1,18 @@
+@startuml
+participant "simpleton fresh" as 0
+participant "cut biking" as 1
+box "orb copperhead"
+participant "dunked orchestra" as 2
+participant "fresher hiccup" as 3
+end box
+participant "solid sat" as 4
+critical convicted imposition
+0 ->o 2: barbers holdings
+3 -> 0: flunky bribes
+0 --> 4++ : tyranny syrup
+else fuses zesty
+ [<- 3: colds ensure
+return cord indiscreet
+end
+2 -> 4!! : bluepoint headpiece
+@enduml

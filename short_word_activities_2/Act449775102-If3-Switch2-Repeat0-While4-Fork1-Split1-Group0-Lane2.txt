@@ -1,0 +1,96 @@
+@startuml
+|1| ceramic mortgages
+|2| early overpower
+split
+-[hidden]->
+:crowds creativity;
+split again
+-[hidden]->
+:aliases roadway;
+split again
+-[hidden]->
+:telly tapping; <<load>>
+split again
+-[hidden]->
+if (splashy into?) then (degrees tail)
+(seeks tots) elseif (confusion bellyaching?) then (blew clicker)
+:airplanes wrecks; <<input>>
+(faking fished) elseif (panda passions?) then (too rejecting)
+:bumps remarkably;
+-> lady mental;
+(prescribed trinkets) elseif (burly shear?) then (belie knoll)
+:life dearie; <<load>>
+-> weeks loading;
+(codependent stash) elseif (contained denying?) then (hunker venereal)
+:cheery wharf; <<save>>
+-> affiliated bowled;
+endif
+end split
+if (rue idiocy?) then (blanks tyre)
+:distressing spouting;
+:vesta vermeil;
+:prelim vintage; <<input>>
+else (mention nauseous)
+:target scamp; <<save>>
+-> naked hippie;
+:voyeur iceman; <<input>>
+fork
+:alienate santo;
+fork again
+:fronting upbringing; <<task>>
+-> grub swamps;
+fork again
+:accordingly emanates;
+fork again
+:maintain detonating;
+end fork
+while (preview overslept?) is (magnificence busty)
+backward:gutting underworld;
+backward:avoidance methods;
+endwhile (models opinionated)
+-[hidden]->
+detach
+endif
+|2|
+if (creep paleontology?) then (ocean jettison)
+:toothache prestige; <<load>>
+-> decibel nibbling;
+else (resilient performing)
+:impotent tee;
+while (rotted threatening?) is (freelancer therefore)
+backward:court cats;
+endwhile (delirium gals)
+-[hidden]->
+detach
+endif
+|1|
+switch (miracles generated?)
+case (priorities ungodly?)
+switch (heats mat?)
+case (blessed dynamics?)
+:terminus dueling;
+case (feast enters?)
+:geopolitical expertise;
+endswitch
+case (patrolled hater?)
+:smile radiator;
+while (relegated balcony?) is (galaxy annulled)
+:picks chowder; <<output>>
+while (hangouts multiple?) is (stripe spiritual)
+backward:mathematician syringe;
+:cryogenic stores;
+:doing packed;
+:delightfully unsatisfactory;
+endwhile (casually tenets)
+:radically unwieldy;
+endwhile (custodian sodas)
+-[hidden]->
+detach
+case (illustrious spooky?)
+:dating objects; <<input>>
+-> guacamole mace;
+case (rethink gambit?)
+:chapel unbroken; <<procedure>>
+endswitch
+stop
+@enduml

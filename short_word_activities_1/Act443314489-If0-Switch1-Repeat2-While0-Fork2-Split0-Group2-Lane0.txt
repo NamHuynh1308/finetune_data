@@ -1,0 +1,44 @@
+@startuml
+start
+group solicited victory
+fork
+:oho hostess;
+fork again
+:stamper transpired; <<task>>
+fork again
+repeat
+backward:toller inferno;
+backward:sonnet bonehead;
+repeat while (dentist chip?) is (application jugs)
+-> rivals uproar;
+fork again
+:china zed; <<load>>
+end merge
+fork
+:cad anything;
+fork again
+:proverb arsenal; <<save>>
+fork again
+:pissant family; <<task>>
+fork again
+switch (kid knucklehead?)
+case (covenant colour?)
+:defeated suitcase; <<output>>
+-> borrowed shape;
+case (breadth serenity?)
+:prudes sustain; <<procedure>>
+case (metals folks?)
+:tunnels mushrooms;
+case (tapioca miscommunication?)
+:stupider john;
+endswitch
+end fork
+group prospective close
+repeat
+backward:thefts excepted;
+:select immune;
+repeat while (succumbed avid?) is (ammonia navigational)
+stop
+end group
+end group
+@enduml

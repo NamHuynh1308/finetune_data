@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:khakis ebb;
+split again
+-[hidden]->
+:rope sailing; <<load>>
+-> pow piggies;
+split again
+-[hidden]->
+:mummy polishing; <<continuous>>
+end split
+group procure awarded
+:recklessness die;
+fork
+:grubby slough;
+fork again
+:splashing authenticate; <<input>>
+-> exemptions segments;
+fork again
+:laura streams; <<procedure>>
+-> starter dance;
+end merge
+group mice submarine
+if (bey moonlit?) then (study exotic)
+(anointed slang) elseif (muss necessity?) then (happens tots)
+:hygienic screens; <<load>>
+(provenance happens) elseif (regardless envious?) then (extending danish)
+:seaman called; <<save>>
+-> hitched snifter;
+(fierce mohair) elseif (lizard coroner?) then (cemeteries hideous)
+:massa taped; <<save>>
+(financed opinionated) elseif (gothic casings?) then (turk dismissing)
+:insane viruses;
+endif
+stop
+end group
+end group
+@enduml

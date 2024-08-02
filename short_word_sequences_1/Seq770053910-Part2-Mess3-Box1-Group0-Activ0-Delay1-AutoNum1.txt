@@ -1,0 +1,11 @@
+@startuml
+box "logs flash"
+participant "revelations vet" as 0
+end box
+autonumber 8 4
+0 --> 0: cardiac beams
+create participant "sing ceiling" as 1
+0 -> 1 : sing ceiling
+...filthy mother...
+0 -> 1: raving cutler
+@enduml

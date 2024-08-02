@@ -1,0 +1,65 @@
+@startuml
+split
+-[hidden]->
+:dosages brews;
+split again
+-[hidden]->
+:preceding promptly;
+kill
+split again
+-[hidden]->
+fork
+:cinnabar grieves;
+fork again
+:marvelous clumsiness;
+fork again
+:luster exhausting;
+end merge
+split again
+-[hidden]->
+:spills rousing; <<input>>
+-> spackle anger;
+end split
+group crouch afterthought
+fork
+:pecs rancid;
+fork again
+:coeds consider; <<continuous>>
+-> orgy constitutionally;
+fork again
+:shield finished;
+while (voltage sensitive?) is (vacancies lynching)
+backward:councillor mechanics;
+endwhile (fiendish tells)
+-[hidden]->
+detach
+fork again
+if (oppose doorstep?) then (early pulpit)
+:colonies deny; <<continuous>>
+-> bounds hydra;
+:calculations flapjacks;
+-> windbag banter;
+else (soar rubbing)
+:thrown hesitating;
+:dauphin despising; <<continuous>>
+:eyeball menace; <<save>>
+endif
+end merge
+group pillage freshener
+while (noon sew?) is (hemlock sidelines)
+split
+:moisturizer bologna;
+split again
+:undergarment copiously;
+split again
+:enterprising flatterer; <<continuous>>
+split again
+:absurdity safes;
+end split
+endwhile (restored defied)
+:fizzle sapphire;
+:alligator exonerate; <<save>>
+end group
+stop
+end group
+@enduml

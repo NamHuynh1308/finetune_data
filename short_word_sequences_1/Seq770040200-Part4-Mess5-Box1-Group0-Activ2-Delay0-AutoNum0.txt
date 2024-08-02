@@ -1,0 +1,16 @@
+@startuml
+box "mediocre vibrations"
+participant "clod homework" as 0
+participant "nevermore barged" as 1
+participant "pool ruled" as 2
+end box
+participant "individuals converted" as 3
+== chucked philosopher ==
+2 -> 1: repairing roofs
+2 --> 2++ : hula stairwell
+0 -> 3++ : newton twinge
+2 <-] : crawly tradeoff
+return despise microbes
+0 -> 0: keno jughead
+return cuneiform humidity
+@enduml

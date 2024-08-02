@@ -1,0 +1,23 @@
+@startuml
+participant "technicality leading" as 0
+participant "genetic medic" as 1
+== rush observer ==
+autonumber 6 1
+critical neither wait
+1 ->> 0: readings executed
+autonumber stop
+1 <-] : mattresses tense
+autonumber resume
+...improperly embezzle...
+ [<- 1: embrace purple
+1 -> 0: clarification sweatshop
+else sanitation niece
+...invincible narcissism...
+ [-> 0: blithely dorsal
+autonumber stop
+end
+loop airlifted impractical
+...infections hypodermic...
+0 --//o 1: sector vill
+end
+@enduml

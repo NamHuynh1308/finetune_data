@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:wonderland quirks;
+split again
+-[hidden]->
+:dredging newcomers; <<save>>
+split again
+-[hidden]->
+repeat
+:arugula ma;
+:ejaculate inheritance;
+-> fiver zebra;
+:molds uptake;
+repeat while (tabs henhouse?) is (false maverick)
+end split
+group knives caramba
+split
+:chatting encouragement;
+split again
+:negligee breeze; <<task>>
+-> breezing kitties;
+split again
+:letters hind; <<load>>
+end split
+split
+:reddish roadway;
+split again
+repeat
+backward:opener bolster;
+repeat while (loch dell?) is (motivates tape)
+-> dirty below;
+split again
+:holler zones; <<task>>
+-> lactic booted;
+end split
+:peels accusing; <<output>>
+-> expiration pollard;
+end group
+@enduml

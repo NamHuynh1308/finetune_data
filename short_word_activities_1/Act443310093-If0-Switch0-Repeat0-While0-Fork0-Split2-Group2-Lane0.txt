@@ -1,0 +1,24 @@
+@startuml
+start
+group cacophony haunt
+:disclosure sneaking;
+group freaking resisted
+split
+:smelt skilled;
+split again
+split
+:firemen academia;
+split again
+:tether nightstick;
+split again
+:thoroughly strengths; <<continuous>>
+end split
+split again
+:disciplined cool; <<load>>
+-> afterthought romper;
+end split
+:showing bandits; <<input>>
+end group
+stop
+end group
+@enduml

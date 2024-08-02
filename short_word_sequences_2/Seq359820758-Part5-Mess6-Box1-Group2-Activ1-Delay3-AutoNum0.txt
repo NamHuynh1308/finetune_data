@@ -1,0 +1,24 @@
+@startuml
+participant "titans origins" as 0
+participant "alpine crunches" as 1
+participant "reefs terrifically" as 2
+participant "dork grocery" as 3
+box "nighthawk skater"
+participant "pup transports" as 4
+end box
+opt stated include
+4 --> 0: lawsuits loafers
+critical wally sendoff
+3 -->x 0++ : inference incomparable
+...livers ventricle...
+4 -> 1: commissary embark
+return obtain speculate
+else attracting glen
+...pentagon hogs...
+0 ->> 2: discrepancy bayou
+end
+...lies vain...
+1 <-> 4: realms streams
+end
+0 ->> 1: see electrical
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:division claustrophobia;
+split again
+-[hidden]->
+:sixty kinder;
+split again
+-[hidden]->
+:acceleration cavern; <<load>>
+-> roofer marigold;
+split again
+-[hidden]->
+:mishandled peacefully; <<output>>
+-> earthquake sexless;
+end split
+:forgotten psychos; <<output>>
+stop
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+box "round asthma"
+participant "tinsel factoid" as 0
+participant "seniors ties" as 1
+end box
+box "hi propellers"
+participant "yuk optional" as 2
+participant "sprouting unforgettable" as 3
+box "unscrupulous snit"
+participant "waters volcanoes" as 4
+end box
+end box
+critical appearance emeralds
+1 ->o 0: matzah pines
+0 ->o 2: deserved somber
+...vanished cypress...
+3 -->x 4: cellars movements
+break trainee snowball
+1 <-] : hurray sectors
+alt brooch wrecker
+ [-> 0: matrix lately
+end
+end
+end
+@enduml

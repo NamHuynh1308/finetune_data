@@ -1,0 +1,4 @@
+@startuml
+participant "nitroglycerin unwrapping" as 0
+ [-> 0: teeny cloth
+@enduml

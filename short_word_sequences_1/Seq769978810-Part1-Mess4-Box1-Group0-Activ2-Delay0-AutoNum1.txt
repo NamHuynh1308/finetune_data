@@ -1,0 +1,15 @@
+@startuml
+box "meats legitimacy"
+participant "plop mines" as 0
+end box
+autonumber 2 2
+0 <-] : blasphemy queue
+autonumber stop
+0 <-> 0++ : slaughtering torque
+0 -->x 0: skittish galilee
+return brew exists
+autonumber resume
+0 ->x 0++ : henhouse em
+autonumber stop
+return stealthy voluntarily
+@enduml

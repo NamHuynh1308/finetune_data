@@ -1,0 +1,30 @@
+@startuml
+switch (writer coattails?)
+case (hunchback bullheaded?)
+repeat
+backward:joints shaves;
+repeat while (rangers twain?) is (tightening foil)
+case (bozos steerage?)
+if (byes vegetarians?) then (renaissance cramming)
+:sleazeball binoculars; <<procedure>>
+-> irony disrespected;
+else (limits van)
+:downed stranded; <<output>>
+:powerful floorboard;
+-> indulged rendered;
+endif
+case (mortal swiped?)
+:upbeat goddaughter;
+case (asinine sandwich?)
+switch (drywall capable?)
+case (janitor maroon?)
+:utterly proving;
+case (unreliable shortcut?)
+:ablaze act; <<input>>
+case (strips control?)
+:confiscated slow; <<save>>
+endswitch
+endswitch
+:bowler berserker;
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+box "redial dragging"
+participant "collected firecrackers" as 0
+participant "zipping whiplash" as 1
+end box
+autonumber 2 1
+create participant "appendectomy forces" as 2
+1 -> 2 : appendectomy forces
+...submarine mouse...
+1 --> 0++ : boilers staple
+return stump filing
+@enduml

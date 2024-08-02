@@ -1,0 +1,14 @@
+@startuml
+participant "swirl looting" as 0
+participant "felt baloney" as 1
+participant "suffice tore" as 2
+box "tease disappointments"
+participant "shalom manure" as 3
+end box
+1 --//o 0: villagers parent
+3 -> 1++ : cows kneecap
+1 --> 1: foundations erica
+...fulfill scrolls...
+ [-> 3: kicker orbiting
+return default just
+@enduml

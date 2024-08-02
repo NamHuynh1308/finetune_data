@@ -1,0 +1,7 @@
+@startuml
+group canary tango
+:retaliated delete; <<task>>
+-> piercing euphemisms;
+stop
+end group
+@enduml

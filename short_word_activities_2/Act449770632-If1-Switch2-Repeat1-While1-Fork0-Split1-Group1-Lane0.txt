@@ -1,0 +1,55 @@
+@startuml
+split
+-[hidden]->
+:spark gracefully;
+split again
+-[hidden]->
+:weeds kappa;
+split again
+-[hidden]->
+:inch dings;
+end split
+:functional fitter; <<continuous>>
+switch (attendant sunscreen?)
+case (remembrance locals?)
+repeat
+:deliveries venue; <<input>>
+backward:cultivating screamed;
+backward:containers formaldehyde;
+repeat while (durned authorizing?) is (guinea stickers)
+case (buckaroo drinker?)
+:haul reverend; <<output>>
+-> peat stored;
+case (casitas canals?)
+:dullest by; <<output>>
+-> suffocation aware;
+endswitch
+group independent drove
+switch (scrabble forsake?)
+case (estimate downhill?)
+:washout obstetrician;
+case (mechanical addictive?)
+if (glitter bathrooms?) then (direction dash)
+(winnings quilts) elseif (supervising undressing?) then (solitary rescinded)
+:hoof extinguish;
+(muddle idolized) elseif (loaned juice?) then (threatens conner)
+:themed jade; <<procedure>>
+-> supported uninvolved;
+(infinitely jugs) elseif (sustenance keeper?) then (overdose provisional)
+:homo unlike;
+(bonds marking) elseif (revolutions tantrum?) then (needed wholesome)
+:irrelevant puzzling;
+endif
+case (transgression middies?)
+:raffle mantra;
+while (poncho destroyed?) is (bounce vie)
+backward:doors experienced;
+:approved worthless;
+-> awry arithmetic;
+endwhile (latter atlas)
+-[hidden]->
+detach
+endswitch
+stop
+end group
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+start
+:fistfight delectable; <<continuous>>
+group humankind readily
+:heaving pushes; <<load>>
+stop
+end group
+@enduml

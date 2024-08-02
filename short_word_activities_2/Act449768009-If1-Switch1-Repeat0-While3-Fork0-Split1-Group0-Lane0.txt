@@ -1,0 +1,52 @@
+@startuml
+split
+-[hidden]->
+:franklin flee;
+split again
+-[hidden]->
+:gulf freighter; <<continuous>>
+split again
+-[hidden]->
+:packed professionals;
+end split
+:springtime gallbladder; <<continuous>>
+while (imports sputnik?) is (jacks passport)
+if (caveman sadness?) then (currency increases)
+(generation adhesive) elseif (tigers challenged?) then (perspectives allegations)
+:wets epoxy;
+(dally degrading) elseif (reacted explosion?) then (strange kern)
+:hmczwt;
+while (nutritious grossed?) is (confess clowning)
+backward:trials scrambling;
+backward:factions reliability;
+backward:shed scumbags;
+endwhile (skating nacho)
+-[hidden]->
+detach
+(masseuse done) elseif (improvements mutant?) then (tyranny ridiculous)
+:harmony buyers; <<load>>
+(shipwreck phooey) elseif (textile spareribs?) then (martinis herald)
+:whistles conscientious; <<load>>
+-> hangman swordfish;
+endif
+backward:thrashing excitement;
+backward:wizard toddler;
+switch (indignities recognizes?)
+case (seven carat?)
+:fishing baste;
+case (painful execs?)
+:hummed silenced;
+case (terrorize with?)
+:impeccable cupcake;
+while (frigate should?) is (dos implausible)
+:rides hints;
+backward:smooth grandeur;
+endwhile (chesty weapon)
+-[hidden]->
+detach
+endswitch
+endwhile (diets quest)
+:violins recital;
+:hind outrank;
+end
+@enduml

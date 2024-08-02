@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:yarn flying;
+split again
+-[hidden]->
+fork
+:ordering imbedded;
+fork again
+:characterize beasts; <<save>>
+fork again
+:bottle terminator; <<procedure>>
+fork again
+:tram ribs; <<continuous>>
+end merge
+split again
+-[hidden]->
+:interaction smorgasbord; <<output>>
+-> render rebellion;
+split again
+-[hidden]->
+:crosses obvious; <<load>>
+-> heyday statesmen;
+end split
+group amnesia splicing
+:interpreted compassion; <<procedure>>
+-> orthodox jacked;
+stop
+end group
+@enduml

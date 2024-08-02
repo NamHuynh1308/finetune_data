@@ -1,0 +1,11 @@
+@startuml
+participant "visor undetectable" as 0
+participant "induce soap" as 1
+== hurricanes wading ==
+autonumber 2 0
+0 ->x 0: headlock consultations
+0 <-] : administrators hesitated
+1 <-> 0++ : perk made
+0 -> 1!! : sonar unfit
+return excusing open
+@enduml

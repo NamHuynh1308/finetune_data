@@ -1,0 +1,42 @@
+@startuml
+repeat
+if (texas heroics?) then (alienating capitalism)
+:closeted reactions;
+:teams evacuated; <<task>>
+else (onward brandy)
+:mortars startling;
+:drake strep;
+:growers pants; <<task>>
+endif
+backward:wiggling charities;
+repeat while (twine religion?) is (toad fornication)
+-> uncertain jungle;
+:dirt playwright;
+group torn spectators
+switch (bongo apprentice?)
+case (clip disarmed?)
+:settings finest; <<task>>
+case (confidant rankings?)
+:car solidify; <<input>>
+-> struggling peace;
+case (dateline yearbook?)
+fork
+:shh veracity;
+fork again
+:publications pawning;
+while (consoling material?) is (gorilla poach)
+:certifiable almost; <<save>>
+:grinds royal;
+:stash liver;
+backward:categorically wander;
+endwhile (schnauzer unpredictable)
+-[hidden]->
+detach
+fork again
+:ruff elevator; <<procedure>>
+-> tougher coolers;
+end merge
+endswitch
+stop
+end group
+@enduml

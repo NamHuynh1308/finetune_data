@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:clogs biz;
+split again
+-[hidden]->
+:quarreled idly; <<output>>
+-> skewer chucks;
+split again
+-[hidden]->
+switch (league analyze?)
+case (grandkid republican?)
+:lovelier smashing; <<load>>
+-> integrated ecstasy;
+case (vodka culpa?)
+:landscaping lovable; <<input>>
+-> upkeep greased;
+endswitch
+end split
+:dictates educating;
+group impediment civilizations
+:hooligan neurosurgery;
+-> analysis coronary;
+stop
+end group
+@enduml

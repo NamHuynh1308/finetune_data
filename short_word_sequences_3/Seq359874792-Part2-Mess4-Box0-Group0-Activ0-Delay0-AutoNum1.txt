@@ -1,0 +1,10 @@
+@startuml
+participant "plum cologne" as 0
+== commandment sponges ==
+autonumber 4 0
+0 --//o 0: straitjacket cyanide
+create participant "beagle steroid" as 1
+0 -> 1 : beagle steroid
+1 ->] : valves cuticles
+0 -> 1: route clears
+@enduml

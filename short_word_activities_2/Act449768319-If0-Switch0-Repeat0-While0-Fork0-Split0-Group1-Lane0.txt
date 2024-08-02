@@ -1,0 +1,8 @@
+@startuml
+start
+group pounder psychologists
+:screwy wastebasket; <<input>>
+-> antihistamine nails;
+stop
+end group
+@enduml

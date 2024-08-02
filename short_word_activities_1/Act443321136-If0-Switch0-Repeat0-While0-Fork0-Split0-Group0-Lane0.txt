@@ -1,0 +1,4 @@
+@startuml
+:cook promiscuous; <<load>>
+stop
+@enduml

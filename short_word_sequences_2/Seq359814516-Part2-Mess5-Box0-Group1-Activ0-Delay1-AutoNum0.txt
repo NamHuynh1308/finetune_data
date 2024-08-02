@@ -1,0 +1,13 @@
+@startuml
+participant "rains nipped" as 0
+== waitressed guy ==
+create participant "chunks top" as 1
+0 -> 1 : chunks top
+1 -> 1: sightings salesmen
+0 -> 0: wised quality
+0 -> 0: legacy cooper
+alt southbound republic
+...origin containers...
+1 -->x 0: your resourceful
+end
+@enduml

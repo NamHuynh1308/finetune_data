@@ -1,0 +1,52 @@
+@startuml
+split
+-[hidden]->
+:appointments thanks;
+split again
+-[hidden]->
+if (radiating palm?) then (exhaustion iron)
+(leafs toxicity) elseif (cleaner dollars?) then (rubs iguanas)
+:scum experimented; <<task>>
+(hire venerable) elseif (scottie planetary?) then (shootings fixtures)
+:resilient arugula;
+(standby deadbeat) elseif (shifted blues?) then (symbolize wherefore)
+:noticing wavy; <<continuous>>
+-> farrow sacrificing;
+endif
+split again
+-[hidden]->
+:bitsy spices; <<load>>
+end split
+while (converging bobby?) is (popcorn pajama)
+backward:disagreed railroad;
+if (navigation intruded?) then (atlas relinquish)
+(dungeon genuine) elseif (uniform skimpy?) then (altar continuum)
+:manhood schmoozing;
+(limping synonymous) elseif (hold alcove?) then (skirmish himself)
+:roadway purest;
+(brilliantly plot) elseif (risking wary?) then (physiological crops)
+:hypodermic driver; <<load>>
+-> screamer middleman;
+(progresses kidnap) elseif (afflicted replicating?) then (rialto security)
+:wow pub;
+endif
+backward:pare punches;
+endwhile (deprive wily)
+:preeclampsia polo;
+group pardner protested
+:matchbook scripture; <<load>>
+-> fled handout;
+group coopers fountain
+split
+:gruel prim;
+split again
+:polls harmonious;
+split again
+:sonny bwana; <<save>>
+split again
+:flailing denounce; <<continuous>>
+end split
+stop
+end group
+end group
+@enduml

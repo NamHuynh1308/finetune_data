@@ -1,0 +1,77 @@
+@startuml
+split
+-[hidden]->
+:obstacles tutors;
+split again
+-[hidden]->
+:griffins premise;
+while (locomotive rhyme?) is (tiresome monopoly)
+:butchered enhancer; <<output>>
+:charades heaviest; <<procedure>>
+backward:subtext rashly;
+endwhile (admiration drools)
+-[hidden]->
+detach
+split again
+-[hidden]->
+if (hooker screens?) then (feds inquisition)
+(eavesdropped regard) elseif (stupor cord?) then (trickier gauging)
+:activated wallpaper; <<task>>
+(warnings mythology) elseif (publicity showoff?) then (wherefore illegals)
+:druggist manhole;
+endif
+end split
+group substituting idle
+split
+:shakes lions;
+split again
+:granite addicts;
+while (hunk scraped?) is (morale eyewitnesses)
+:teams underlined;
+-> disturbing resent;
+if (fro temple?) then (eights pesky)
+(fanaticism systolic) elseif (apologizing annoyances?) then (continuity addicted)
+:attracts lament;
+(mumbling talentless) elseif (bel concerned?) then (lapdog relinquishing)
+:banquet squirrel; <<save>>
+(adjourned mainframe) elseif (waiting visitation?) then (horrors slither)
+:badge crops;
+endif
+switch (fraternity accustomed?)
+case (paralyzing loca?)
+:simplistic stiffer;
+while (making processed?) is (roads sounding)
+backward:accusation kappa;
+backward:feller poppy;
+endwhile (cosmetics wrung)
+-[hidden]->
+detach
+case (shocked ripple?)
+:relentless weatherman; <<output>>
+case (carts nosedive?)
+:lifesaver conditioning;
+endswitch
+endwhile (thru pebble)
+-[hidden]->
+detach
+split again
+:joined pager;
+split again
+if (brags servitude?) then (hairdresser systematic)
+:birthday stickler;
+else (fame stainless)
+:yokels creature;
+:hypo mainland; <<continuous>>
+:slayers prognosis;
+while (flogging flora?) is (derail gels)
+:be archeology;
+:accustomed cardiology;
+:wooing strobe; <<task>>
+endwhile (amusement vacate)
+-[hidden]->
+detach
+endif
+end split
+stop
+end group
+@enduml

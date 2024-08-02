@@ -1,0 +1,6 @@
+@startuml
+participant "immigration royalties" as 0
+0 -> 0: forestry forethought
+create participant "victims penalty" as 1
+0 -> 1 : victims penalty
+@enduml

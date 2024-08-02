@@ -1,0 +1,15 @@
+@startuml
+box "emptying belted"
+participant "mismatched damnable" as 0
+participant "fistfight engineered" as 1
+end box
+== claustrophobia mountainside ==
+ [<- 0: hazy hunch
+loop warsaw degrade
+ [-> 1: technicalities scorched
+par despises started
+1 <-> 1: plummeted millions
+1 -> 0: spoiling remote
+end
+end
+@enduml

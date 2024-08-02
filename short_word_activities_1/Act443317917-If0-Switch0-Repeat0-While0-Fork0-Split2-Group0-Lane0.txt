@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:ideal traditional;
+split again
+-[hidden]->
+:propensity aria;
+kill
+split again
+-[hidden]->
+split
+:shelling draws;
+split again
+:identifying gasp;
+split again
+:worship syphilis;
+split again
+:pestering evolution;
+end split
+end split
+:idiosyncrasies mooch; <<output>>
+-> persistent level;
+end
+@enduml

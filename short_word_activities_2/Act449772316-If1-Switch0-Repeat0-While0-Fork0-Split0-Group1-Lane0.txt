@@ -1,0 +1,14 @@
+@startuml
+group interesting deadlines
+:cookbook pharmaceuticals; <<task>>
+if (laird decorator?) then (honks voted)
+(circuits clumsily) elseif (idling nixed?) then (briefed vacation)
+:amendment fairgrounds;
+-> aced alligators;
+(hysterically foresee) elseif (trite contact?) then (filters fell)
+:berate observations;
+-> profiles crucifix;
+endif
+stop
+end group
+@enduml

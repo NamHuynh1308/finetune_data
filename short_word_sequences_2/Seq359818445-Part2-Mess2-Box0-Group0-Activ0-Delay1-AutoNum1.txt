@@ -1,0 +1,9 @@
+@startuml
+participant "recaptured decked" as 0
+participant "photographer misinterpret" as 1
+== casbah wander ==
+autonumber 7 9
+1 -// 0: poses shrub
+...ambivalent haps...
+1 --> 1: taxicab butts
+@enduml

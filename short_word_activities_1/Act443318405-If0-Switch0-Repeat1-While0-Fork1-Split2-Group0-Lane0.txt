@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:caucus counted;
+split again
+-[hidden]->
+:fetish monument;
+split again
+-[hidden]->
+:palsy farms;
+kill
+split again
+-[hidden]->
+:terrify agitated;
+kill
+end split
+split
+:lacy occasions;
+split again
+repeat
+:compartments pineapples; <<save>>
+-> toxicology woken;
+:tearful albacore;
+backward:poetry deep;
+repeat while (flexible tonics?) is (refrigerator affirmative)
+split again
+:photographing tiffany; <<input>>
+-> sequences billboard;
+end split
+fork
+:meddlesome glassware;
+fork again
+:golly whitey; <<procedure>>
+fork again
+:account tangent; <<load>>
+fork again
+:reach schoolboy; <<save>>
+-> snacks culpable;
+end merge
+end
+@enduml

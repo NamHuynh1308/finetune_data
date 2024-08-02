@@ -1,0 +1,6 @@
+@startuml
+start
+:eighties embezzling; <<task>>
+-> jerky blueprints;
+stop
+@enduml

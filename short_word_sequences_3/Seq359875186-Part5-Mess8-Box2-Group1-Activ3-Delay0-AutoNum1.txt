@@ -1,0 +1,31 @@
+@startuml
+participant "bearer filmmakers" as 0
+box "giants intimidate"
+participant "liner massacres" as 1
+box "neglect efforts"
+participant "ante restrictions" as 2
+participant "docking behavior" as 3
+participant "catalyst blotto" as 4
+end box
+end box
+autonumber 8 3
+loop flexible flaky
+3 -> 0: implore cons
+autonumber stop
+2 -> 3: wind doughnut
+else rod seek
+ [<- 4: puffed leary
+autonumber resume
+end
+2 -\\ 0++ : empress riders
+autonumber stop
+4 --> 3: rum bud
+autonumber resume
+4 -->x 1++ : lollipops cloverleaf
+2 -\\ 3: youths removal
+return moderation changed
+4 -->x 3++ : westerns project
+autonumber stop
+return speakers griffins
+return eggnog attorneys
+@enduml

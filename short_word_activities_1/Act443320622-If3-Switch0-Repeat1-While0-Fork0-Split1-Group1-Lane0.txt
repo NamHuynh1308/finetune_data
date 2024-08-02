@@ -1,0 +1,47 @@
+@startuml
+start
+group thrones stylings
+split
+:convertibles statuary;
+split again
+:embankment easygoing; <<load>>
+split again
+repeat
+backward:linebacker mistaken;
+:miles harpoons;
+if (customs beauty) then (till preppy)
+:tinkle clavicle;
+break
+endif
+->sentimental feather;
+:conspirator ventricle;
+repeat while (fifties godlike?) is (guard beware)
+split again
+:bourbon dose;
+end split
+if (foreigners cornerstone?) then (tabby jukebox)
+(throne paddling) elseif (lackeys result?) then (rang maintains)
+:skids majoring;
+(offensive civilians) elseif (employees vetoed?) then (drywall creator)
+:ldcbty;
+kill
+endif
+end group
+if (percolating decadence?) then (vineyards shift)
+(freckling voter) elseif (geek hickey?) then (grooms response)
+:glassy dragging; <<load>>
+(drifting spectacles) elseif (for woodland?) then (busting exhaustive)
+if (despair aa?) then (pantaloons dimension)
+:album chartreuse;
+-> chevy eat;
+else (extenuating pizzas)
+:prompting beard;
+kill
+endif
+(provide frightens) elseif (pinpoint basic?) then (washing cabins)
+:stumbles exchange; <<continuous>>
+(strain bring) elseif (listed rex?) then (barre hateful)
+:executives oftentimes;
+endif
+end
+@enduml

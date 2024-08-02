@@ -1,0 +1,6 @@
+@startuml
+start
+:waterfront armed; <<continuous>>
+-> sock blue;
+end
+@enduml

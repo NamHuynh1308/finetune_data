@@ -1,0 +1,15 @@
+@startuml
+start
+group beards processed
+fork
+:faggot bambino;
+fork again
+:rat cockles; <<task>>
+-> disinfectant requests;
+fork again
+:volition middies; <<input>>
+-> bad loosening;
+end merge
+stop
+end group
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+box "exemplary ointment"
+participant "glengarry bachelor" as 0
+box "inexperience havoc"
+participant "beneficial uprising" as 1
+box "lighthearted surprise"
+participant "dreary prunes" as 2
+participant "sweating devour" as 3
+end box
+participant "aesthetics symptoms" as 4
+end box
+end box
+autonumber 6 2
+0 -\\ 0++ : snacking lira
+autonumber stop
+4 --> 3++ : wretched movements
+create participant "freeway revoking" as 5
+2 -> 5 : freeway revoking
+return wagging juggernaut
+autonumber resume
+loop skittish devours
+0 -> 4++ : discussion trollop
+autonumber stop
+4 ->o 3++ : spur bloated
+end
+return skinny husks
+return violate tossed
+return nippy yet
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+participant "gimmicks bass" as 0
+participant "seemingly cheers" as 1
+participant "funnies newsroom" as 2
+participant "clicks balls" as 3
+box "pension stagnant"
+participant "eerily setbacks" as 4
+end box
+== disk significant ==
+break potato medal
+4 -> 4: waterfront skivvies
+...skyscraper refills...
+2 -\\ 2: corona catch
+1 ->> 2++ : reciting ranch
+else mutated unbreakable
+ [<- 2: contestant proofing
+2 ->x 0: aerosol await
+return diagnoses helo
+loop landmark horizons
+create participant "confidant struggle" as 5
+4 -> 5 : confidant struggle
+...abilities dinky...
+ [<- 1: elevated grifters
+end
+end
+@enduml

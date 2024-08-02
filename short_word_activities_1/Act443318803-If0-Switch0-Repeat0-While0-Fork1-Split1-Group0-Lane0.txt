@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:edit accelerated;
+split again
+-[hidden]->
+:allowing ah;
+-> resent bambino;
+split again
+-[hidden]->
+:alive benched; <<input>>
+end split
+fork
+:experimental fuchsia;
+fork again
+:properly blazes;
+-> epiphany terra;
+fork again
+:chigger sawyer; <<continuous>>
+-> peck headstone;
+end merge
+stop
+@enduml

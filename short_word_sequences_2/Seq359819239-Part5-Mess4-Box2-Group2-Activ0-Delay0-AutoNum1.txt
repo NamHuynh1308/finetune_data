@@ -1,0 +1,24 @@
+@startuml
+participant "dato stones" as 0
+participant "stagger kayaking" as 1
+box "sanded couple"
+participant "symbiotic fiction" as 2
+box "disgruntled shelves"
+participant "sprinklers snore" as 3
+end box
+end box
+== announcer ford ==
+autonumber 8 7
+1 -> 2: begging produced
+opt annoys punctured
+0 --//o 0: bawl yours
+autonumber stop
+3 ->> 0: heave annihilation
+else marking registering
+alt rand manic
+create participant "bawl maximum" as 4
+1 -> 4 : bawl maximum
+autonumber resume
+end
+end
+@enduml

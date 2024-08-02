@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:licensed trashy;
+split again
+-[hidden]->
+:endured document;
+-> hath disqualify;
+split again
+-[hidden]->
+:waiver barlow; <<load>>
+split again
+-[hidden]->
+:romeo guest; <<continuous>>
+-> quintet ice;
+end split
+group attending staffed
+:siphoning hitchhiking; <<save>>
+stop
+end group
+@enduml

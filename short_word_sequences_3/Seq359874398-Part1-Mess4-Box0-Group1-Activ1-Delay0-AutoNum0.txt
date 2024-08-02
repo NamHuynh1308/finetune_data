@@ -1,0 +1,12 @@
+@startuml
+participant "vertigo nametag" as 0
+== hoisting pitcher ==
+0 -->x 0: blasphemy sleepover
+0 <-> 0: diva thinners
+par bad hawk
+0 -> 0: crafting shepherds
+0 ->> 0++ : frying sequestered
+else merger chests
+end
+return meow intravenous
+@enduml

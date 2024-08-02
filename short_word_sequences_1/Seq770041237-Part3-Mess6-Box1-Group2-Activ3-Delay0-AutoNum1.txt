@@ -1,0 +1,23 @@
+@startuml
+participant "pesky tablespoon" as 0
+participant "sabbatical chicken" as 1
+box "horticulture layout"
+participant "coolly stricken" as 2
+end box
+autonumber 0 8
+1 -\\ 1: principle horses
+alt toothbrush insight
+0 ->> 1: miscalculation influx
+alt warped vaccination
+1 -> 1++ : prof clips
+2 -> 2++ : howling sucks
+1 -> 2++ : sheila relationship
+autonumber stop
+1 -> 2: sympathize menopause
+return eviscerated snowing
+else crowing pheasant
+end
+end
+return balls insanely
+return lunch savagely
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+fork
+:watches horde;
+fork again
+:dimensions consistently;
+fork again
+:kicked firecrackers;
+end fork
+stop
+@enduml

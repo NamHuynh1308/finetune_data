@@ -1,0 +1,17 @@
+@startuml
+participant "accuracy unzip" as 0
+participant "trolling answer" as 1
+participant "axe predicted" as 2
+participant "asking manner" as 3
+3 ->o 0: hooked hunh
+2 ->] : cyclops ripe
+loop reeve inspectors
+1 ->> 1: circuits sanded
+3 -// 1: underage assaulting
+0 <-> 3++ : optimistic undermining
+else squad courtside
+ [<- 2: discolored banking
+2 ->] : dearly tut
+return cosmically velvet
+end
+@enduml

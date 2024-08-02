@@ -1,0 +1,12 @@
+@startuml
+fork
+:vantage fade;
+fork again
+:encouragement register;
+fork again
+:data performance;
+-> cloak messengers;
+end fork
+:birthright provision;
+end
+@enduml

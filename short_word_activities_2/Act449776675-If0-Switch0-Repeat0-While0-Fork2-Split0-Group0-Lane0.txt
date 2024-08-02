@@ -1,0 +1,19 @@
+@startuml
+fork
+:paradox conquered;
+fork again
+:bribery schoolteacher; <<load>>
+-> vintage nexus;
+fork again
+:impaired stalling;
+-> outsmarted dodging;
+fork again
+fork
+:six loudest;
+fork again
+:trains inverted; <<task>>
+fork again
+:costumes persuaded;
+end fork
+end merge
+@enduml

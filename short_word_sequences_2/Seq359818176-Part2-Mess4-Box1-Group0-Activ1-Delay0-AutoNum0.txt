@@ -1,0 +1,12 @@
+@startuml
+participant "bouquet christie" as 0
+box "drools beautiful"
+participant "fuchsia thorns" as 1
+end box
+== freight stench ==
+1 ->x 1: canines bunk
+0 -> 0: tribunal mirage
+1 -\\ 1: squeezes lock
+1 ->o 0++ : waken pointe
+return oodles lasagne
+@enduml

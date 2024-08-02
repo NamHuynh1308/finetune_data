@@ -1,0 +1,11 @@
+@startuml
+start
+group comparison tier
+:crawly strawberries; <<procedure>>
+-> dares alley;
+:hurricanes documentary; <<input>>
+-> peach pipes;
+:mealy calmer;
+end group
+end
+@enduml

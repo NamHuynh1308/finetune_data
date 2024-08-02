@@ -1,0 +1,17 @@
+@startuml
+participant "cronies grapefruit" as 0
+box "wares gimme"
+participant "baloney timely" as 1
+participant "beforehand dispatch" as 2
+end box
+participant "regain lobsters" as 3
+participant "bang theories" as 4
+3 -// 1: praised coupling
+2 --> 0++ : exhilarated prairie
+...spared sands...
+0 -\\ 0++ : milk pilgrimage
+3 --> 1: reign beckons
+0 --> 4: squander ya
+return sloppy brink
+return racquetball juicy
+@enduml

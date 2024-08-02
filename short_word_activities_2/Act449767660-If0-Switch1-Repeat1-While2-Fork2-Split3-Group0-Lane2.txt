@@ -1,0 +1,72 @@
+@startuml
+|1| seal rawhide
+|2| scones prompt
+split
+-[hidden]->
+:assumes resist;
+split again
+-[hidden]->
+:synergy peeling; <<load>>
+-> methadone tidal;
+split again
+-[hidden]->
+:versatile aging; <<output>>
+-> prolong charlotte;
+end split
+switch (elegance floated?)
+case (wrongful slid?)
+:arraignment sinking;
+case (favorably recognizance?)
+:ex amendment; <<save>>
+case (founding smelt?)
+fork
+:bundles weasel;
+fork again
+:indifference panama;
+fork again
+:banzai gizmos; <<continuous>>
+end fork
+case (ten welsh?)
+:daredevil shoelaces;
+endswitch
+|2|
+:amazed mesquite; <<task>>
+-> greetings trinket;
+while (gracious combust?) is (souvenirs inhibitors)
+backward:town pleasures;
+split
+:rebuilt indulging;
+split again
+:ipecac pesticides;
+split again
+:protect strangest; <<output>>
+split again
+:chatterbox cuppa;
+end split
+endwhile (furniture unpacked)
+:slew bracken;
+split
+:fax persuasion;
+split again
+fork
+:dole wronged;
+fork again
+:thy strips; <<continuous>>
+-> divided entity;
+fork again
+:filmmaker extend; <<load>>
+end fork
+split again
+while (calorie dessert?) is (temporary duds)
+:irrevocably franchises;
+-> yeh elude;
+endwhile (internist attracts)
+:sobered blaze;
+split again
+repeat
+:honours rollers;
+backward:ritzy dents;
+repeat while (schnoz rows?) is (captivity locate)
+end split
+stop
+@enduml

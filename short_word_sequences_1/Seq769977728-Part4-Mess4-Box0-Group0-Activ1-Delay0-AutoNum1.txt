@@ -1,0 +1,13 @@
+@startuml
+participant "planner destinations" as 0
+participant "lung gorge" as 1
+participant "wracked unimportant" as 2
+participant "car city" as 3
+autonumber 6 4
+2 -// 0: unspoiled puppy
+autonumber stop
+3 --//o 1++ : superstitious lip
+3 -> 2!! : reform relapse
+return fulfilled ways
+0 ->x 0: doily calamity
+@enduml

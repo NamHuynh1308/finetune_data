@@ -1,0 +1,12 @@
+@startuml
+box "summons omega"
+participant "headsets fig" as 0
+participant "attendance normalcy" as 1
+end box
+== help cinema ==
+autonumber 8 2
+0 -->x 0: subway gaby
+loop brit thusly
+1 -\\ 1: bravo honourable
+end
+@enduml

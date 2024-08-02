@@ -1,0 +1,26 @@
+@startuml
+box "admits solicit"
+participant "excels booked" as 0
+participant "paralysis clothe" as 1
+end box
+participant "adjective dodging" as 2
+participant "veterans fixating" as 3
+box "fetal musing"
+participant "stand gangrene" as 4
+end box
+autonumber 6 2
+3 -> 3!! : coral bumpkins
+3 -> 4: jammer congrats
+2 ->> 3: wraith wheel
+0 --> 1: magnet unthinkable
+create participant "misunderstandings beeps" as 5
+3 -> 5 : misunderstandings beeps
+1 -> 5++ : rivals edgewise
+create participant "seer diploma" as 6
+3 -> 6 : seer diploma
+opt tremendously rich
+4 -> 3: commissary unexplored
+return fallen pitch
+6 ->x 6: statutes shared
+end
+@enduml

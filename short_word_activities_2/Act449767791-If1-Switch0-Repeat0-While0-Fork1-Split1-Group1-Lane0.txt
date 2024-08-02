@@ -1,0 +1,30 @@
+@startuml
+start
+group cable lingers
+fork
+:mystical mocked;
+fork again
+split
+:product ensconced;
+split again
+:eluded stamper; <<output>>
+split again
+:hush visiting; <<load>>
+split again
+:sighted deacon;
+end split
+fork again
+if (intertwined payoffs?) then (consistently impacted)
+:greets communists;
+:saves pickpockets;
+:gloating moonlight;
+kill
+else (are replied)
+:fabric galoshes;
+-> saints bloodsucker;
+kill
+endif
+end merge
+:chemistry rescue; <<output>>
+end group
+@enduml

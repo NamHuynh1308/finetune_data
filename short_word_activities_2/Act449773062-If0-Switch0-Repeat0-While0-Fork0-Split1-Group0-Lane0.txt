@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:lascivious washy;
+split again
+-[hidden]->
+:chef hits; <<procedure>>
+-> towns torches;
+split again
+-[hidden]->
+:physicists cows;
+end split
+:gym several; <<task>>
+end
+@enduml

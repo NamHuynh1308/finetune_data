@@ -1,0 +1,16 @@
+@startuml
+participant "maybe whopping" as 0
+participant "newborn telekinetic" as 1
+participant "arbor gentlemen" as 2
+autonumber 1 5
+break sundaes pedestrians
+2 ->x 2: welfare comprehensive
+autonumber stop
+create participant "hitch intently" as 3
+0 -> 3 : hitch intently
+create participant "plutonium baseless" as 4
+0 -> 4 : plutonium baseless
+1 <-> 2: sultry tingling
+else ounce custom
+end
+@enduml

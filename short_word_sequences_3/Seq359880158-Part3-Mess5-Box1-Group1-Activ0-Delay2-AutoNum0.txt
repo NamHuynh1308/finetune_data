@@ -1,0 +1,18 @@
+@startuml
+participant "fraction locally" as 0
+participant "hitting footwear" as 1
+box "warmed conveyor"
+participant "bris tidying" as 2
+end box
+== writing papa ==
+loop jawbone crab
+0 --> 2: mew forte
+0 -> 0: undo progressed
+1 -> 2: sinking regaining
+else trapeze dory
+...guaranteeing months...
+2 --//o 2: function wallowing
+...mightier transport...
+2 -> 1: stream yoghurt
+end
+@enduml

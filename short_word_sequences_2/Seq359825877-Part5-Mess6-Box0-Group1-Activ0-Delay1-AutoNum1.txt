@@ -1,0 +1,20 @@
+@startuml
+participant "symbols motley" as 0
+participant "ducts pigsty" as 1
+participant "scents sharp" as 2
+participant "foreclosed bleep" as 3
+participant "orthodontist penthouse" as 4
+== wire detected ==
+autonumber 0 1
+opt glop cropped
+0 <-> 2: civilized bulldog
+4 -> 2!! : decorating impropriety
+4 ->> 2: visa crest
+autonumber stop
+end
+0 -\\ 1: legalizing escapes
+autonumber resume
+...podium met...
+0 ->o 4: investors letterman
+1 -> 2: gross perimeters
+@enduml

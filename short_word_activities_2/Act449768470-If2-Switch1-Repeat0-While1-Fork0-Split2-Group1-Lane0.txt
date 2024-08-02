@@ -1,0 +1,55 @@
+@startuml
+start
+:beeswax baronet; <<task>>
+split
+:clop reprieve;
+split again
+if (palsy vagabond?) then (wings figures)
+:tremor matter; <<continuous>>
+while (shindig hayloft?) is (droopy speedometer)
+:honeymooners subways; <<task>>
+:ounces monitored;
+endwhile (dispatcher families)
+-[hidden]->
+detach
+else (aiming misfit)
+:philosophies adhesive; <<load>>
+:crapping defendant;
+:homework venerable; <<save>>
+kill
+endif
+split again
+switch (ferret cod?)
+case (pull siblings?)
+:witless muffled;
+case (oversensitive fop?)
+:goon earphones;
+case (leadership piece?)
+:splash intros;
+case (forensics telemarketing?)
+:treated constellation;
+endswitch
+end split
+group intervening caterwauling
+if (griping auk?) then (peepers storm)
+(device parish) elseif (dainty fanning?) then (dreidel freezers)
+:obscured buster;
+-> vaguest bundle;
+(strengths concentrated) elseif (fueling concurrently?) then (disprove aboard)
+split
+:commune depressors;
+split again
+:stone mindless;
+split again
+:happy handbags; <<load>>
+-> fathom overpaid;
+split again
+:paintings synonymous; <<input>>
+-> expresses ridge;
+end split
+(sunscreen colosseum) elseif (payday spiraling?) then (explosive necklaces)
+:beeswax mopes;
+endif
+stop
+end group
+@enduml

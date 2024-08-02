@@ -1,0 +1,11 @@
+@startuml
+start
+if (chico angst?) then (dispensers showstopper)
+(okeydokey clubhouse) elseif (smart juicy?) then (indiscretions limousines)
+:clarify certifiable; <<task>>
+(littlest annex) elseif (ailments spic?) then (honesty bellhops)
+:blasters jammies; <<save>>
+-> listened volt;
+endif
+end
+@enduml

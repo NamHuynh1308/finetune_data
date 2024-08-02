@@ -1,0 +1,18 @@
+@startuml
+participant "exerting poach" as 0
+participant "empirical countenance" as 1
+participant "appointment testing" as 2
+box "mantle veto"
+participant "promo demonstrate" as 3
+end box
+autonumber 6 5
+0 -> 2++ : congratulate amiss
+autonumber stop
+1 ->x 1: cordless gopher
+return affinity anonymous
+2 <-] : harder comedies
+alt helplessness innocents
+ [-> 2: inning poll
+autonumber resume
+end
+@enduml

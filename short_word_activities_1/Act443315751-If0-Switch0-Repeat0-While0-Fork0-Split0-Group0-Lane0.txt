@@ -1,0 +1,6 @@
+@startuml
+start
+:automotive caribou; <<input>>
+-> complexities temptations;
+end
+@enduml

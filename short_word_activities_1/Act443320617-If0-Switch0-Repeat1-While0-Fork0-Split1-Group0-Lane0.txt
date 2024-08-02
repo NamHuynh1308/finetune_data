@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:file buff;
+split again
+-[hidden]->
+repeat
+:meddled casbah;
+repeat while (unfair whooping?) is (radial allegation)
+split again
+-[hidden]->
+:admitted breeding; <<input>>
+end split
+:bended foliage; <<task>>
+stop
+@enduml

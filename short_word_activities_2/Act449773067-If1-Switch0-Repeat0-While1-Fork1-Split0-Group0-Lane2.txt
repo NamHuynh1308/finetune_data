@@ -1,0 +1,33 @@
+@startuml
+|1| deuce unstable
+|2| piano gargoyles
+|1|
+start
+while (norther transporting?) is (optimist lay)
+:runoff zero; <<load>>
+endwhile (slicker tarot)
+:travel crammed;
+:bare commissary; <<save>>
+fork
+:neurological teal;
+fork again
+:headhunter prom; <<load>>
+-> stalled na;
+fork again
+if (stranded mitten?) then (engaging navigation)
+:skids scooping;
+-> swordfish chipped;
+:pixilated wills; <<continuous>>
+else (hubris endorse)
+:courageous revival; <<save>>
+:humid jiggle; <<input>>
+-> unload grange;
+kill
+endif
+fork again
+:stalling murderous;
+-> exhausts love;
+end merge
+|2|
+:badness disarray; <<task>>
+@enduml

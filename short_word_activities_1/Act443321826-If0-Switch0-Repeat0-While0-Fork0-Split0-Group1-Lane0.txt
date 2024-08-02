@@ -1,0 +1,7 @@
+@startuml
+group warned snatching
+:do volatile; <<task>>
+-> cates skewer;
+stop
+end group
+@enduml

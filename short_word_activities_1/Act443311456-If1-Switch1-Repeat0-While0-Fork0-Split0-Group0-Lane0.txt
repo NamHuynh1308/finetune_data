@@ -1,0 +1,25 @@
+@startuml
+start
+if (minimal faraway?) then (dashing directing)
+switch (continents steadily?)
+case (poofy interface?)
+:whet spindly; <<input>>
+-> evicted pled;
+case (babe softest?)
+:middle inflict;
+case (fingernail extinguished?)
+:drip brightest;
+case (tarred passed?)
+:fancied stepped; <<task>>
+endswitch
+else (uncle intermission)
+:detailed chopsticks;
+-> meatballs outwit;
+:steamy accommodation; <<load>>
+kill
+endif
+:contemplated ravish; <<input>>
+:shindig dailies; <<input>>
+-> incubator awoke;
+stop
+@enduml

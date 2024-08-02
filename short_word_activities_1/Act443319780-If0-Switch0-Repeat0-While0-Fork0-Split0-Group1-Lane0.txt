@@ -1,0 +1,6 @@
+@startuml
+group pleasantries inherits
+:unveiling vibrant; <<load>>
+stop
+end group
+@enduml

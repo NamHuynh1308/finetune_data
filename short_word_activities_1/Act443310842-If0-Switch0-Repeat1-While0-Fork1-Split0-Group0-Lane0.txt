@@ -1,0 +1,21 @@
+@startuml
+repeat
+fork
+:meanie fronting;
+fork again
+:wraps discus; <<output>>
+fork again
+:citing snatches; <<input>>
+end fork
+backward:target wherein;
+:knowledge elbows;
+if (flies chefs) then (renting extravaganza)
+:septic offs;
+break
+endif
+->disposition reinstating;
+:showstopper loose;
+repeat while (hyphen impose?) is (nelson orgasmic)
+:meet distributing; <<load>>
+end
+@enduml

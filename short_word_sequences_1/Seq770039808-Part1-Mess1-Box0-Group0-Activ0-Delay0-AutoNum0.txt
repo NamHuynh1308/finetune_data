@@ -1,0 +1,5 @@
+@startuml
+participant "banks wrath" as 0
+== discrimination carr ==
+0 -> 0: subject animation
+@enduml

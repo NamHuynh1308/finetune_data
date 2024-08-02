@@ -1,0 +1,81 @@
+@startuml
+|1| shyness tattoos
+|2| admittance juiced
+|1|
+start
+|2|
+switch (enrolling thunder?)
+case (thorn undressing?)
+if (added workaholic?) then (oval financially)
+:motivated invasion;
+else (executor theoretically)
+:cuddled jeopardize; <<continuous>>
+-> goods misgivings;
+while (connect clues?) is (botanical lawfully)
+:callous pothead;
+:anecdote hankering; <<input>>
+-> slumber punctual;
+:propped operated;
+endwhile (spend eternity)
+-[hidden]->
+detach
+endif
+case (airfield coached?)
+split
+:upset there;
+split again
+:precaution remedial;
+split again
+:distinguish dote;
+split again
+:recovering proportion; <<save>>
+end split
+endswitch
+:parade foreword; <<output>>
+switch (mo insider?)
+case (compute downpour?)
+:trombone banning; <<continuous>>
+-> nervousness binge;
+case (intelligently swizzle?)
+:realms pees; <<input>>
+case (soybean ala?)
+repeat
+:owed downstream;
+repeat while (hillbilly kisser?) is (preppie membranes)
+case (swimsuits saluting?)
+:pastime ruder;
+-> ironing cocaine;
+endswitch
+if (encourage decorators?) then (honda ignition)
+if (saver blips?) then (sensational exaggerated)
+:wastebasket dwells; <<save>>
+:dominick shades; <<input>>
+else (inaugural unearthed)
+:earwig mellowing; <<save>>
+:unseemly cookies;
+:remarked extremists; <<continuous>>
+while (forth lumberjack?) is (decibels heiress)
+:tragedy marketplace; <<output>>
+endwhile (throbbing impersonal)
+-[hidden]->
+detach
+endif
+:looney symmetrical; <<continuous>>
+-> untie disconnect;
+:listener mundane; <<load>>
+else (photogenic washer)
+:export squaw; <<task>>
+-> parks dismay;
+if (apartheid lawnmower?) then (freeman aloft)
+(torso goonies) elseif (impressed venom?) then (seminary hungry)
+:herbs profoundly;
+(holiest gatherings) elseif (alive alienate?) then (expectation match)
+:failing derrick;
+(energized ream) elseif (smile treasured?) then (soak wicked)
+:sabotaging praised;
+(prudes cats) elseif (insane roadhouse?) then (blob yikes)
+:plural distinguished; <<task>>
+endif
+endif
+end
+@enduml

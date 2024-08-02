@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:homebody confiscated;
+split again
+-[hidden]->
+while (endanger undisputed?) is (hex contents)
+backward:conversational quitters;
+:ribbon circumstances;
+endwhile (perfume unloading)
+:bassett peckers;
+split again
+-[hidden]->
+while (dorado ginger?) is (choppy nan)
+backward:entirely removed;
+:chaps pail;
+endwhile (streaks shunt)
+:barged cachet;
+split again
+-[hidden]->
+:jabot hitchhike; <<input>>
+end split
+fork
+:proofing floe;
+fork again
+switch (genome invented?)
+case (flatterer mirage?)
+:cancelled grabbed; <<input>>
+-> returning doors;
+case (canopy innuendoes?)
+:romp drainage;
+case (blown sale?)
+:hold bourgeois;
+case (visage bakery?)
+:holies intensive;
+endswitch
+fork again
+:empowered exemption; <<task>>
+fork again
+if (pitched fiendish?) then (cutlass temptress)
+:slay sleeve;
+else (insect melancholy)
+:sneak ligament;
+:cola earpiece; <<input>>
+:smothering antibiotic;
+-> innermost tons;
+endif
+end merge
+end
+@enduml

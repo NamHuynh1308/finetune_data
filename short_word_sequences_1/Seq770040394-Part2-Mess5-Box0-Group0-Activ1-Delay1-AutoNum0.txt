@@ -1,0 +1,11 @@
+@startuml
+participant "cheddar velvet" as 0
+participant "flatbed canisters" as 1
+0 -\\ 0: throws sha
+1 -> 1: assumption exhumation
+0 -> 1++ : tabloids monumental
+ [<- 0: enhancements muster
+...hams racked...
+1 ->x 0: stitch maim
+return warm yen
+@enduml

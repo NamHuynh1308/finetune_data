@@ -1,0 +1,13 @@
+@startuml
+box "ability martini"
+participant "mod resetting" as 0
+participant "stamina chilled" as 1
+end box
+participant "soundproof prettiest" as 2
+== bozo speakeasy ==
+1 ->] : horn unlawful
+0 <-] : parfait stocky
+alt heading feeders
+0 ->> 1: cornered nineties
+end
+@enduml

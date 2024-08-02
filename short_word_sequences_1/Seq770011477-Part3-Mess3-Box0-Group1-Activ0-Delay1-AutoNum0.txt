@@ -1,0 +1,12 @@
+@startuml
+participant "wringer lapel" as 0
+participant "orphans geneva" as 1
+participant "mixes hibernating" as 2
+== transpired attacked ==
+0 -> 2: publicity demographic
+...pawn petals...
+0 ->x 1: judas entrepreneur
+alt bomb hocks
+0 -> 0: mulled hats
+end
+@enduml

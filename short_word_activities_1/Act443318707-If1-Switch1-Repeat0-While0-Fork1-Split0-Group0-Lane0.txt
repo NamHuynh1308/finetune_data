@@ -1,0 +1,31 @@
+@startuml
+start
+switch (leotards daughter?)
+case (spoils spinach?)
+fork
+:affected phoned;
+fork again
+:mummies wield;
+fork again
+:glittering proofs;
+end merge
+case (curtsy damper?)
+:grandmothers chic; <<procedure>>
+-> abduct takedown;
+case (extracurricular described?)
+if (airwaves downriver?) then (bawl unseen)
+:leopards cameraman; <<task>>
+else (countess tart)
+:wrap coupons;
+-> pawing suppress;
+endif
+case (mountaineer castles?)
+:sapphire warehouse;
+-> dawdling touchy;
+endswitch
+:glade porridge;
+-> consisted matrix;
+:hallucinate freedom; <<continuous>>
+-> strobe desecrate;
+end
+@enduml

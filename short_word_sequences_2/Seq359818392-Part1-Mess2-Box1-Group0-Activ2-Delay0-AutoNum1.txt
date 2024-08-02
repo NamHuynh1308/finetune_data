@@ -1,0 +1,11 @@
+@startuml
+box "diagnostic chainsaws"
+participant "knew temperature" as 0
+end box
+autonumber 10 8
+0 ->> 0++ : carcass cuticle
+0 -> 0++ : teacup rearrange
+autonumber stop
+return greatly maim
+return ripple parkway
+@enduml

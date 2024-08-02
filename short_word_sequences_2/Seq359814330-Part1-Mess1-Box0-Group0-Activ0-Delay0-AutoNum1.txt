@@ -1,0 +1,5 @@
+@startuml
+participant "stringing zany" as 0
+autonumber 2 0
+0 ->] : music emphasized
+@enduml

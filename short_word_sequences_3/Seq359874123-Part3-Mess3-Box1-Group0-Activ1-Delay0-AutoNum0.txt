@@ -1,0 +1,12 @@
+@startuml
+box "nuclear obeyed"
+participant "postmortem boon" as 0
+participant "wild carl" as 1
+participant "swim perpetuating" as 2
+end box
+== downs bleeder ==
+1 -->x 0++ : bloodshot smiley
+1 -->x 1: giggles kale
+0 -> 0: diagnostician see
+return sook spur
+@enduml

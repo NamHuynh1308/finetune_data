@@ -1,0 +1,20 @@
+@startuml
+participant "humour joined" as 0
+participant "upstanding displaced" as 1
+== cowboy mantra ==
+autonumber 8 5
+alt wave fondling
+0 -->x 1: unequivocally cinnabar
+autonumber stop
+0 -> 1++ : galoshes electrified
+else sends patch
+1 --//o 0++ : squash prohibits
+autonumber resume
+else mon autism
+1 <-> 0: unwashed electing
+return nosedive hormonal
+1 --> 0++ : exquisite fare
+end
+return pickings snuff
+return beaver mob
+@enduml

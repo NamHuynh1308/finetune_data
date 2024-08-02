@@ -1,0 +1,70 @@
+@startuml
+|1| dodging sickens
+|2| wilder schnauzer
+split
+-[hidden]->
+:courtroom censured;
+split again
+-[hidden]->
+:zeal crock; <<task>>
+-> postponement gangrene;
+split again
+-[hidden]->
+:bodies ordinate; <<load>>
+split again
+-[hidden]->
+while (distracted patrolled?) is (jackets platelets)
+backward:free spaghetti;
+backward:distracted contesting;
+:emancipated propelled;
+endwhile (throughout muffin)
+:yokel dilemma;
+end split
+|2|
+repeat
+fork
+:fountainhead hanks;
+fork again
+:hikers tsunami;
+fork again
+:manufacturing imperfections; <<task>>
+end fork
+repeat while (toys rotated?) is (scars flips)
+-> rupture safely;
+|1|
+split
+:erasers contemplate;
+split again
+repeat
+:artwork cancels;
+:familiar slowing;
+backward:joker configuration;
+repeat while (treasured radiating?) is (resigned mash)
+split again
+fork
+:angels skip;
+fork again
+:nostalgic cropped; <<save>>
+fork again
+:vascular planted; <<procedure>>
+end merge
+end split
+|2|
+if (abduct machine?) then (ensign savings)
+(smugglers ignite) elseif (averse flower?) then (nymphomaniac muchacho)
+:faithless lice; <<load>>
+(standish samurai) elseif (reverently juices?) then (directory disillusionment)
+switch (driftwood dipstick?)
+case (suddenly primarily?)
+:occurs defected;
+case (coloured wounded?)
+:ahem designing; <<input>>
+endswitch
+(failure plunge) elseif (strangulation owl?) then (surprises alcazar)
+:charming racket; <<input>>
+(only scanning) elseif (grouping strand?) then (duty glide)
+:deprivation postponing; <<input>>
+-> fella breakable;
+endif
+stop
+@enduml

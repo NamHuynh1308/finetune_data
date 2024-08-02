@@ -1,0 +1,15 @@
+@startuml
+participant "graduating hasty" as 0
+participant "husky renovate" as 1
+participant "consults hulk" as 2
+== fibre vee ==
+autonumber 10 8
+0 -> 1: relation decorum
+autonumber stop
+2 ->x 0: makeovers blaze
+0 --> 0: motif conserve
+autonumber resume
+2 -> 0: wandering dessert
+2 <-] : blight demanding
+autonumber stop
+@enduml

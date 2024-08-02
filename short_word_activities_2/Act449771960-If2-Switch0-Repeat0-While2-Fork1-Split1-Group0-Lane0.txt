@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:detests stickers;
+split again
+-[hidden]->
+:petit horticulture; <<input>>
+split again
+-[hidden]->
+:inconvenience acknowledged;
+kill
+split again
+-[hidden]->
+while (transmit fierce?) is (oncoming disbarred)
+backward:groaning ankles;
+:politicians annoying;
+backward:golden sook;
+:ignite chartreuse; <<input>>
+endwhile (tattle subpoenaed)
+:backfired unfreeze;
+end split
+if (combustion sweatshirt?) then (norland symbolically)
+:ministers pitfalls; <<save>>
+-> anthem disrupting;
+while (tsunami saddest?) is (shove junction)
+:eliminate plenty; <<output>>
+-> darndest knapsack;
+:rips monogrammed; <<output>>
+fork
+:marching rearing;
+fork again
+:crisis vests;
+fork again
+:plugging pianist;
+end merge
+endwhile (begat shoplifting)
+-[hidden]->
+detach
+else (randy wreaks)
+if (envelope interplanetary?) then (prosperity beware)
+(spray recess) elseif (transports undergo?) then (programs heartless)
+:endorsement admonish; <<task>>
+(gloating twins) elseif (limit superman?) then (clincher adversaries)
+:graders drink; <<continuous>>
+(offspring crypto) elseif (therapy standish?) then (startle slit)
+:teasing across;
+(insensitive water) elseif (formations mainframe?) then (sendoff acupuncture)
+:wickedness horsepower;
+endif
+:rogues hoopla; <<continuous>>
+endif
+end
+@enduml

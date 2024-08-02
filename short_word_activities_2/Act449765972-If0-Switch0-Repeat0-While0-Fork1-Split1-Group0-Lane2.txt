@@ -1,0 +1,23 @@
+@startuml
+|1| handing poncho
+|2| comparatively risky
+fork
+:garment crafting;
+fork again
+:cougars revise; <<load>>
+fork again
+split
+:aspect humour;
+split again
+:prying drinkers;
+split again
+:pointy matinee; <<output>>
+split again
+:limit sedation; <<output>>
+-> juniors revolutionary;
+end split
+end merge
+:definitively citing; <<task>>
+:siege sapphire; <<procedure>>
+-> element diagnose;
+@enduml

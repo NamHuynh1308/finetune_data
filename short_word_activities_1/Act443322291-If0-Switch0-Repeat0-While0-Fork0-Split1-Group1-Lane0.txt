@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:nebula reruns;
+split again
+-[hidden]->
+:since sickly; <<load>>
+split again
+-[hidden]->
+:ghoulish chummy; <<continuous>>
+split again
+-[hidden]->
+:acting debatable; <<continuous>>
+end split
+group apprised preeclampsia
+:ghoul quirky; <<input>>
+-> inbred nocturnal;
+stop
+end group
+@enduml

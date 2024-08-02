@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:hayloft coupons;
+split again
+-[hidden]->
+:experimentation ditch; <<input>>
+split again
+-[hidden]->
+:contrary lentils; <<procedure>>
+-> paris symbiote;
+end split
+group leather extremism
+:regime fantastic;
+-> visceral adjourned;
+:hearsay maintenance; <<output>>
+-> shakes cosign;
+stop
+end group
+@enduml

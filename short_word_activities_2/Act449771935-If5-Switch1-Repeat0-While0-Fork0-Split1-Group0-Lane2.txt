@@ -1,0 +1,74 @@
+@startuml
+|1| christy recognition
+|2| skeletons carried
+|1|
+start
+|2|
+:around sol; <<input>>
+|1|
+if (prohibition wallop?) then (sill flames)
+(route completes) elseif (godsend twists?) then (braver festering)
+if (unions kingdom?) then (locally lear)
+:ado beret;
+:communications enchanted;
+-> morgues degree;
+:holiness baffled; <<procedure>>
+-> slick teddy;
+else (tubers overrated)
+:excuse nome; <<save>>
+endif
+(birch oppression) elseif (lis accomplices?) then (quilting display)
+if (matter cyclops?) then (fetish sunflower)
+(cuticle excursions) elseif (summarize arched?) then (scrapbook sail)
+:dents facts;
+-> diaries hitchhikers;
+(horseman realm) elseif (souvenirs nerd?) then (dressing radiology)
+:ooze reader; <<load>>
+-> lar sandy;
+(surfing vesta) elseif (turner speech?) then (shipped heightened)
+:bended handstand; <<input>>
+(snug puff) elseif (exemptions causing?) then (artery propelled)
+:eqhwrl;
+kill
+endif
+endif
+|2|
+if (oasis gangrene?) then (packing legislature)
+(blondes quicker) elseif (morgan cataracts?) then (blockage building)
+split
+:flask reinstate;
+split again
+:hailing cockles; <<continuous>>
+split again
+:lobbyist sacred; <<procedure>>
+split again
+:arid standoff;
+end split
+(dorsal appendages) elseif (flickering prove?) then (renovate labrador)
+if (eviscerated tackles?) then (bluer sleuth)
+:offends remark; <<input>>
+:lodged bobcat;
+:reads waitress; <<procedure>>
+else (loops civics)
+:wading feedback;
+:chemistry synthesis;
+endif
+(expansion meetings) elseif (suntan coffee?) then (hadj bunion)
+switch (vessels personalize?)
+case (preached understandable?)
+:tacked untenable;
+case (forbade jingles?)
+:gear withdraw;
+-> plumbing birdseed;
+endswitch
+(untrustworthy heats) elseif (deck rot?) then (sweltering revealed)
+:chemically britches; <<continuous>>
+-> pole managing;
+endif
+|1|
+:glares recon; <<load>>
+-> unannounced cannoli;
+|2|
+:ironed meatballs; <<input>>
+end
+@enduml

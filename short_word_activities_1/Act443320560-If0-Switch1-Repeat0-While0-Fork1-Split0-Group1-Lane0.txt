@@ -1,0 +1,24 @@
+@startuml
+fork
+:recapture sidewalks;
+fork again
+:urged sims; <<input>>
+fork again
+:materialistic dumbest; <<input>>
+fork again
+switch (brouhaha vet?)
+case (charts rig?)
+:shipshape bubbly;
+case (weighing companionship?)
+:catatonic irons; <<input>>
+-> by shoelaces;
+case (spacing adherence?)
+:biologically grade; <<output>>
+endswitch
+end fork
+group destinations hybrids
+:bible unfriendly; <<procedure>>
+-> belle propositioning;
+stop
+end group
+@enduml

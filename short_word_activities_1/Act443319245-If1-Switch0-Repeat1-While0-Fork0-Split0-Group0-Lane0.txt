@@ -1,0 +1,22 @@
+@startuml
+start
+:gangs flatbed; <<task>>
+:dominion carbohydrates; <<output>>
+if (coffee unbuttoned?) then (stowaways rope)
+(worrying duds) elseif (gerbils turbo?) then (chimp missing)
+:eggnog advantages; <<output>>
+(actualization graduates) elseif (boast frostbite?) then (seaweed commanding)
+repeat
+:admonition wonder;
+backward:umpire inner;
+:accidents uranium;
+repeat while (headlock achieve?) is (snails thinly)
+-> unborn dissed;
+(medal glances) elseif (estate liven?) then (invite recommendation)
+:unlisted eyed; <<procedure>>
+-> specimens probe;
+(interpreter acrobat) elseif (nonchalant solve?) then (under fostered)
+:tradition escorted;
+endif
+stop
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+box "rehabilitate balanced"
+participant "blackmailing motions" as 0
+end box
+create participant "disrupts radiation" as 1
+0 -> 1 : disrupts radiation
+...convoy bodega...
+1 -> 0++ : intercepting grumbling
+1 -> 1: realizes sharking
+return cedars birthplace
+@enduml

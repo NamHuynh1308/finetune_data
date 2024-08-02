@@ -1,0 +1,16 @@
+@startuml
+participant "breeds suspects" as 0
+participant "momma scooping" as 1
+autonumber 9 9
+create participant "goners dude" as 2
+1 -> 2 : goners dude
+1 <-] : poppy pacifist
+autonumber stop
+2 -> 0++ : implemented wetlands
+autonumber resume
+2 <-] : personalized flexibility
+return supplier thawing
+autonumber stop
+...jay missy...
+2 -> 0: enthralled colosseum
+@enduml

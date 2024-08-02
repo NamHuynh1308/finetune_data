@@ -1,0 +1,9 @@
+@startuml
+participant "skip thin" as 0
+0 -> 0++ : mothballs tetherball
+0 ->o 0: preparation violet
+critical utterly context
+0 -> 0!! : alien traditionally
+end
+return skimp quizzes
+@enduml

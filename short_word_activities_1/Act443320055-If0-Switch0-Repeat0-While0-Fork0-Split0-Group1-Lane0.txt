@@ -1,0 +1,8 @@
+@startuml
+start
+group banish subordinate
+:mocked dispatcher; <<input>>
+:oversight refining; <<input>>
+end group
+end
+@enduml

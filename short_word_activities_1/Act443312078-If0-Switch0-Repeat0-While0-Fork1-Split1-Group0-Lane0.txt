@@ -1,0 +1,23 @@
+@startuml
+:rats geriatrics; <<output>>
+-> soda pronto;
+:directly lidocaine; <<input>>
+split
+:psychopaths unstable;
+split again
+:lanky smeared;
+split again
+fork
+:temporarily lobe;
+fork again
+:ma hyperventilate; <<save>>
+fork again
+:aisles sobbing;
+-> patties categorized;
+fork again
+:braiding norland;
+end fork
+split again
+:quiche manhandle; <<continuous>>
+end split
+@enduml

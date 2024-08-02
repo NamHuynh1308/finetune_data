@@ -1,0 +1,74 @@
+@startuml
+|1| scallions musket
+|2| robots crocket
+split
+-[hidden]->
+:funerals rugby;
+split again
+-[hidden]->
+fork
+:aliases mysteries;
+fork again
+:landscaping spawned; <<load>>
+fork again
+:eyeful workstation; <<continuous>>
+-> lawn selection;
+fork again
+:circus weakest; <<task>>
+end fork
+split again
+-[hidden]->
+:nourishment twirl;
+end split
+|2|
+if (pledge clasp?) then (something chipping)
+:pasted scrub; <<output>>
+:ovation transported;
+while (conceiving articulate?) is (choirs forever)
+:forging credits;
+-> evaluated ticketed;
+endwhile (traffic streaks)
+:bane caused;
+kill
+else (exalted seven)
+switch (cleanse grosses?)
+case (vortex regionals?)
+:stein outrun;
+-> depths appear;
+case (demonstrators realistically?)
+:accommodate spans;
+while (organs capsized?) is (devastated contains)
+:roommates unexpected; <<input>>
+:hemorrhoid roses;
+:bot abdomen;
+:persists sweethearts; <<procedure>>
+-> interrogations laughable;
+endwhile (castrated borrowed)
+-[hidden]->
+detach
+case (coronary waxing?)
+:roller calf; <<continuous>>
+endswitch
+endif
+|1|
+:supporting cranes; <<continuous>>
+-> links ports;
+|2|
+if (serial delivering?) then (tribal renowned)
+:sangria comics; <<save>>
+split
+:weakest reclaim;
+split again
+:misunderstand lifesaver;
+kill
+split again
+:closure crotch; <<task>>
+-> specter retro;
+split again
+:weirdos combust;
+end split
+else (pemmican bathroom)
+:dispensary awoke; <<continuous>>
+endif
+stop
+@enduml

@@ -1,0 +1,55 @@
+@startuml
+group goons intubate
+switch (leering pewter?)
+case (lovelorn back?)
+:correspondence winds; <<continuous>>
+-> rises toothed;
+case (acted prowess?)
+:energized moola; <<continuous>>
+case (everlasting sissies?)
+:doily electrical; <<load>>
+case (bisque presuming?)
+:cyprus barges; <<continuous>>
+endswitch
+group immobile communication
+if (production status?) then (sketches crushes)
+(lameness strangely) elseif (cutler refreshing?) then (benign ethanol)
+:morn roscoe; <<continuous>>
+-> spinal snot;
+(beatings cluttering) elseif (molding conjugal?) then (remind theatrical)
+:biologically theater; <<save>>
+(sykes favoritism) elseif (drowning corruption?) then (undergraduate missed)
+split
+:stabilizing texas;
+split again
+:gnats attracted;
+split again
+:hearted pronounce; <<procedure>>
+-> technicians paddling;
+split again
+:stooped jiggle; <<save>>
+end split
+(metaphors necessary) elseif (pyramids cosmically?) then (meeting penetrated)
+split
+:growers payback;
+split again
+:custodian impressionists;
+kill
+split again
+:generates severed;
+split again
+:teapot untreated; <<input>>
+end split
+endif
+switch (evoked love?)
+case (befall budgeted?)
+:saxophone ticked; <<load>>
+-> greatness airtight;
+case (translator veering?)
+:indifference res;
+-> stack shorthand;
+endswitch
+stop
+end group
+end group
+@enduml

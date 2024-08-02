@@ -1,0 +1,17 @@
+@startuml
+box "suspicious jaguars"
+participant "throughway shaggy" as 0
+participant "rubies infectious" as 1
+end box
+0 -> 0!! : barker tone
+1 ->] : miles congratulated
+par appalling majesty
+create participant "deprivation wound" as 2
+0 -> 2 : deprivation wound
+ [<- 1: showers inexpensive
+else wells dwarf
+2 ->> 2++ : lier dummkopf
+else rejections imagining
+end
+return pauses endorse
+@enduml

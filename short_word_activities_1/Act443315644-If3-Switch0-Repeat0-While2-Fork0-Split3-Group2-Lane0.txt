@@ -1,0 +1,68 @@
+@startuml
+split
+-[hidden]->
+:steamer handicapped;
+split again
+-[hidden]->
+split
+:deigned cabs;
+split again
+:grading builds; <<input>>
+split again
+:cannibal swans; <<output>>
+end split
+split again
+-[hidden]->
+split
+:topping resulting;
+split again
+:parchment hatred; <<input>>
+split again
+:commence exited;
+end split
+end split
+if (hamburg slop?) then (springs overcrowded)
+(violets simulates) elseif (divvy possess?) then (ravish striving)
+:bullet hid; <<output>>
+(sportswear denominations) elseif (around floppy?) then (repulsive greeting)
+:pours affirming; <<output>>
+-> transcripts baffles;
+(dire unanswered) elseif (disparity lattes?) then (deli now)
+if (float fireplaces?) then (cheap sheds)
+(girl enriching) elseif (laceration midlife?) then (gurney hectic)
+:hoodwinked allegiances; <<output>>
+-> trite shah;
+(formally console) elseif (maroon chimpanzee?) then (islands doomsday)
+:defects sipping; <<task>>
+-> pecks jets;
+(whittled trattoria) elseif (gangway unintentionally?) then (helpful intimidate)
+:payback relic; <<load>>
+(faithful narrows) elseif (aimed presented?) then (rhetorical panhandle)
+:cleaner spoiler; <<continuous>>
+endif
+endif
+group pained fervor
+if (sexual sidetracked?) then (cum eel)
+(chores quarter) elseif (belt merman?) then (salads correspondents)
+while (flood insightful?) is (saline humbling)
+:disapprove scots; <<load>>
+:addition detest;
+-> scurvy propane;
+:sigma inning;
+endwhile (gripes strangled)
+:enlisting generals;
+(sides sniffling) elseif (regional narcotic?) then (magnificently polls)
+while (illnesses booster?) is (corkscrew circulation)
+:pandering clincher; <<output>>
+:via driver;
+:magazines cosmopolitan; <<continuous>>
+:mansion fighting;
+endwhile (eviscerate hooks)
+:fragments behooves;
+endif
+group um rectangle
+:unmentionables reconsider; <<input>>
+stop
+end group
+end group
+@enduml

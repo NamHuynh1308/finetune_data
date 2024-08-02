@@ -1,0 +1,10 @@
+@startuml
+participant "front gunfire" as 0
+participant "origin password" as 1
+== updated warheads ==
+autonumber 1 6
+create participant "eerily enlisted" as 2
+0 -> 2 : eerily enlisted
+...forcing jabot...
+0 --//o 0: southern monsters
+@enduml

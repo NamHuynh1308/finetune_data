@@ -1,0 +1,21 @@
+@startuml
+participant "waking warrior" as 0
+participant "begin playwright" as 1
+participant "iffy headlights" as 2
+box "intriguing clincher"
+participant "infidelity forwarded" as 3
+end box
+== sculptures hub ==
+autonumber 4 3
+1 ->] : products ritz
+autonumber stop
+3 -> 2: congregation abstinence
+autonumber resume
+2 -> 3: seizing clutched
+autonumber stop
+...sanitation notes...
+1 <-] : odd lunacy
+1 -->x 2: trustee sheltered
+autonumber resume
+1 ->x 1: rotates remnants
+@enduml

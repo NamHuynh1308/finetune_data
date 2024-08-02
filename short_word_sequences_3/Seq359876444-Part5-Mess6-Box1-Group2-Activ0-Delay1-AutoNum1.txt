@@ -1,0 +1,26 @@
+@startuml
+participant "brat hid" as 0
+participant "mortars rodents" as 1
+participant "garter inaccurate" as 2
+participant "repayment consisted" as 3
+box "grubby brays"
+participant "dawned speaking" as 4
+end box
+== dispenser wronged ==
+autonumber 8 3
+critical distrust sarcoidosis
+ [-> 3: peels stalks
+ [<- 3: multitude senses
+else tightrope lex
+0 -\\ 3: pollution improvising
+else explosions therefore
+1 -> 3: busload static
+else illusions goading
+opt bras ose
+...permissible realistically...
+2 -\\ 1: craze baller
+1 -> 4: believable splashing
+autonumber stop
+end
+end
+@enduml

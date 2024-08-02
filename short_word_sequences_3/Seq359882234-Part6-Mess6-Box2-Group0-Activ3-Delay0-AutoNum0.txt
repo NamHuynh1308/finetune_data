@@ -1,0 +1,21 @@
+@startuml
+participant "clink politics" as 0
+participant "uninvited bravely" as 1
+box "categorically chatterbox"
+participant "blonds hotel" as 2
+box "grape groundwork"
+participant "misfit brioche" as 3
+end box
+end box
+create participant "eject chocolatey" as 4
+0 -> 4 : eject chocolatey
+3 ->x 4++ : vanquish shuttle
+ [<- 4: ditches mops
+return notation perpetrate
+0 ->> 2++ : piano experimental
+2 -> 0++ : recommended undoing
+create participant "singers unmistakable" as 5
+4 -> 5 : singers unmistakable
+return chariots talisman
+return merciful lifts
+@enduml

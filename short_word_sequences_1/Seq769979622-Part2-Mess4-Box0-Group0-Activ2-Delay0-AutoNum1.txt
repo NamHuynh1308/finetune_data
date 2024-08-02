@@ -1,0 +1,13 @@
+@startuml
+participant "pus mettle" as 0
+participant "hauls guerillas" as 1
+autonumber 2 2
+0 -> 1++ : moll may
+autonumber stop
+1 -> 1++ : payload rendered
+autonumber resume
+0 --> 1: petrified attackers
+return nonsensical bigot
+0 -> 1!! : tussle junkie
+return sponsored shoes
+@enduml

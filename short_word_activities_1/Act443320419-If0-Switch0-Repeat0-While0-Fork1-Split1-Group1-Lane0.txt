@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:borrowing durned;
+split again
+-[hidden]->
+fork
+:shabby majesty;
+fork again
+:agitators fin;
+fork again
+:delicious sinned; <<save>>
+-> consumers pounce;
+fork again
+:conning stoolie;
+end fork
+split again
+-[hidden]->
+:hijinks louse; <<load>>
+-> mixers pleased;
+end split
+group misplaced pleasing
+:distinguished fumbling; <<save>>
+stop
+end group
+@enduml

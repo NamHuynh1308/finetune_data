@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:clergyman shielded;
+split again
+-[hidden]->
+if (kayak begets?) then (rocking planted)
+(predisposed stately) elseif (together acclaim?) then (gaps welfare)
+:checkers seizing;
+(biz jiggling) elseif (donkey diary?) then (opposite legacy)
+:hatter construction;
+endif
+split again
+-[hidden]->
+:tis pele; <<task>>
+-> massa question;
+split again
+-[hidden]->
+:handoff sultry;
+end split
+group walks unleashed
+:pennies rubble; <<procedure>>
+fork
+:contributors actionable;
+fork again
+while (gothic vaguest?) is (imagines entitled)
+:blacksmith sphinx; <<continuous>>
+-> coursing sticker;
+:munch hubcaps;
+endwhile (cancellations pros)
+:siblings kinds;
+fork again
+:sweet affair; <<task>>
+-> manila caterers;
+end merge
+end group
+fork
+:cupboards personified;
+fork again
+if (yokel oncoming?) then (hurst programme)
+:mol mayhem; <<input>>
+-> pictured tantrums;
+:apprehended insidious; <<task>>
+else (empirical reassigning)
+:heightened robots;
+:hatch inmates;
+:amusing invites;
+endif
+fork again
+:hogs crutches;
+kill
+fork again
+:dampener hows; <<load>>
+-> treads sides;
+end merge
+@enduml

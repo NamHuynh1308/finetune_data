@@ -1,0 +1,11 @@
+@startuml
+box "pelts pampered"
+participant "burns plum" as 0
+participant "settings arsonist" as 1
+end box
+alt raspberry serve
+0 -> 0++ : swabs devour
+1 <-] : drastically lads
+end
+return sweets transactions
+@enduml

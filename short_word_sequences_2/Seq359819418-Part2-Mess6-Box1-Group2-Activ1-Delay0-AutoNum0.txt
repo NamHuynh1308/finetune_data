@@ -1,0 +1,17 @@
+@startuml
+box "onboard harshly"
+participant "ubiquitous sighting" as 0
+participant "thereof billie" as 1
+end box
+1 <-] : rumblings goofing
+0 -// 1: assertive extinguish
+1 <-> 0: dole unannounced
+opt spectra defraud
+0 --//o 0++ : keystone feelers
+par pickled aforementioned
+1 -> 1: state rebellious
+1 <-> 1: sifting policemen
+end
+end
+return marshall meager
+@enduml

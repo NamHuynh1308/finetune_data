@@ -1,0 +1,62 @@
+@startuml
+start
+group wins tanked
+if (ills confronted?) then (fancied crude)
+:wash horoscope; <<task>>
+repeat
+:hogwash nylons; <<load>>
+:sigma puffing; <<procedure>>
+repeat while (pawning kooky?) is (sins robe)
+split
+:disaster umpteenth;
+split again
+:hare okeydokey; <<continuous>>
+-> strawberry colleagues;
+split again
+:diets infuriating;
+split again
+:stripped poets; <<procedure>>
+end split
+while (felicity scribble?) is (remitting mightier)
+if (blimey cache?) then (gunshot gossip)
+:contemporary wheeling;
+else (infrared humped)
+:leering mannered;
+:bribe sideboard; <<procedure>>
+endif
+backward:pestilence bundle;
+split
+:tablet conflicting;
+split again
+:altar yak;
+split again
+:chlamydia pets;
+kill
+split again
+:pampered frontal; <<task>>
+end split
+while (mistrial taunt?) is (theaters bike)
+:circumference decade; <<output>>
+:barring loved;
+:hookers castles;
+:chaperone doth;
+endwhile (infected rusted)
+:criticism pleasantries;
+endwhile (baroque revoke)
+-[hidden]->
+detach
+else (beforehand gene)
+:commits sensational; <<output>>
+while (air worth?) is (cerebral spud)
+:finish join; <<continuous>>
+backward:militia infamous;
+endwhile (blasphemy vat)
+-[hidden]->
+detach
+endif
+group exercise prints
+:visits learning; <<procedure>>
+stop
+end group
+end group
+@enduml

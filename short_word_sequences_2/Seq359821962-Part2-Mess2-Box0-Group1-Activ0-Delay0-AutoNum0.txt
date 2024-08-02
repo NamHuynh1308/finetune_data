@@ -1,0 +1,10 @@
+@startuml
+participant "philosopher piles" as 0
+participant "coding dorky" as 1
+== defended panicky ==
+alt arranging anxious
+0 -\\ 1: pounds fawning
+0 <-] : playoffs gestation
+else manhood spot
+end
+@enduml

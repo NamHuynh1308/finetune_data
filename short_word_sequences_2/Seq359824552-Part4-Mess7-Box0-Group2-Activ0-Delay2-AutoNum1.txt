@@ -1,0 +1,21 @@
+@startuml
+participant "berg blonde" as 0
+participant "withdrew ducky" as 1
+participant "embezzle boxer" as 2
+autonumber 4 0
+critical brush carriage
+ [<- 0: crippled sons
+...caribou article...
+2 -> 1: skiing hears
+1 -> 0: saved gofer
+else fresher schnitzel
+...ladies cicely...
+0 -> 1: divided lullaby
+alt extent chardonnay
+1 ->] : eleventh bows
+create participant "lunar bribes" as 3
+1 -> 3 : lunar bribes
+end
+1 -> 2: auspicious default
+end
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+box "curvaceous hiked"
+participant "maiden noon" as 0
+participant "wreaths plait" as 1
+end box
+autonumber 4 9
+0 -> 0: paperboy spewing
+0 <-] : unpunished cascade
+1 -> 0: timbre tunes
+0 ->] : pedestal consultations
+...nada oink...
+0 <-> 0: mercury transmitter
+@enduml

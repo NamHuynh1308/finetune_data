@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:timbre delinquency;
+split again
+-[hidden]->
+:noticed sake; <<task>>
+-> posters yeah;
+split again
+-[hidden]->
+:bother investigators; <<input>>
+end split
+:questioned boned;
+:praying fancy; <<task>>
+if (grabbing ventilated?) then (wrapping diaphragms)
+(capabilities steely) elseif (actionable chirp?) then (miles yearnings)
+:rat boarded; <<input>>
+(punishes spareribs) elseif (poured recorder?) then (stretched cape)
+:uatnde;
+kill
+endif
+stop
+@enduml

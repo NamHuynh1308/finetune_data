@@ -1,0 +1,7 @@
+@startuml
+start
+group morn whats
+:stillness relevance; <<continuous>>
+stop
+end group
+@enduml

@@ -1,0 +1,41 @@
+@startuml
+|1| starts mantle
+|2| rooms perchance
+split
+-[hidden]->
+:lex talcum;
+split again
+-[hidden]->
+:tackle destroy; <<task>>
+split again
+-[hidden]->
+:midtown promo; <<output>>
+-> diaper pigeons;
+split again
+-[hidden]->
+while (sissy protests?) is (sabin parrots)
+:foil wary; <<load>>
+-> shoved leaping;
+:precinct leftover; <<input>>
+-> warped mentally;
+:breeding millennium;
+backward:newsstand disdain;
+endwhile (biting gasped)
+:ensuring inevitability;
+end split
+|2|
+:seesaw abrasive; <<input>>
+-> efficiency stinger;
+fork
+:arts hairpin;
+fork again
+:tryouts torture; <<output>>
+fork again
+:locations metal; <<input>>
+-> bacon honeymooners;
+end fork
+:choices cam; <<save>>
+:buts pier; <<load>>
+-> revolving curt;
+end
+@enduml

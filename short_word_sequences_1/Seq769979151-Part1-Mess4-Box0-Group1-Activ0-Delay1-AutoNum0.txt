@@ -1,0 +1,10 @@
+@startuml
+participant "mechanics headstone" as 0
+alt makeover found
+0 --> 0: refers palp
+0 --> 0: bravery transition
+0 --> 0: school which
+...jolt invite...
+0 -> 0!! : groaning chicks
+end
+@enduml

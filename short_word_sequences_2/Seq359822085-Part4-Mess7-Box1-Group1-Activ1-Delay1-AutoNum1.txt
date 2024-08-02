@@ -1,0 +1,24 @@
+@startuml
+participant "fortune sandy" as 0
+box "res womanly"
+participant "kidnapping friends" as 1
+participant "informant lighted" as 2
+participant "shopped dummy" as 3
+end box
+== occupant diseases ==
+autonumber 6 10
+2 ->> 1: paranoid watts
+1 <-> 1: paintbrush lifestyle
+alt temptation nervous
+...lineup headaches...
+3 ->] : fusilli streaks
+2 -> 3!! : biking remains
+else fascist questionable
+2 -> 0: advancement davy
+1 -> 2++ : nary imposing
+autonumber stop
+0 <-> 0: marching hysteria
+autonumber resume
+end
+return lame fine
+@enduml

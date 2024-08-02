@@ -1,0 +1,21 @@
+@startuml
+box "eyeballs denominations"
+participant "increments eyebrows" as 0
+participant "romeo guiding" as 1
+participant "lizard lever" as 2
+end box
+box "repress flick"
+participant "disturb petrol" as 3
+participant "saline fathered" as 4
+end box
+3 -> 3: implies killing
+4 -->x 3++ : indigo entities
+create participant "conniving defiantly" as 5
+4 -> 5 : conniving defiantly
+4 <-> 4++ : thought not
+5 -> 1!! : jeez zone
+...rouge eerily...
+5 -\\ 3: mignon whey
+return vigilance stormed
+return footage misunderstood
+@enduml

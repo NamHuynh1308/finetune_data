@@ -1,0 +1,18 @@
+@startuml
+box "super peg"
+participant "skyrocket talkative" as 0
+participant "crater cheeseburger" as 1
+end box
+participant "arraignment handsome" as 2
+box "despondent newest"
+participant "building clouded" as 3
+end box
+create participant "henhouse telepathy" as 4
+2 -> 4 : henhouse telepathy
+2 --> 1++ : tactic kill
+...smash queers...
+1 -> 2: gazebo surviving
+return backdoor fritz
+3 --//o 0++ : acquainted brewing
+return nineties att
+@enduml

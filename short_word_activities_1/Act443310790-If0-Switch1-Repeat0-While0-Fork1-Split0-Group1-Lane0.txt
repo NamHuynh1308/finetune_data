@@ -1,0 +1,23 @@
+@startuml
+group thermal subbasement
+:college elaborate; <<load>>
+switch (gaps strides?)
+case (underestimated lock?)
+:worshippers darkness;
+case (digest garrison?)
+fork
+:monte speedometer;
+fork again
+:substance ruse;
+fork again
+:cheque edgy;
+end merge
+case (programme unfit?)
+:reward cursory; <<output>>
+-> consumes requisition;
+case (harmonious overview?)
+:fraternizing currency; <<output>>
+endswitch
+stop
+end group
+@enduml

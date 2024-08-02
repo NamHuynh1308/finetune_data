@@ -1,0 +1,9 @@
+@startuml
+participant "referenced tactful" as 0
+== salamander impersonal ==
+0 ->x 0: ennui klutz
+0 -->x 0: brothel maddening
+par hock dies
+ [-> 0: nibbling crushes
+end
+@enduml

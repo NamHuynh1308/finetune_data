@@ -1,0 +1,56 @@
+@startuml
+|1| murals inch
+|2| moans prepare
+split
+-[hidden]->
+:wiggle heath;
+split again
+-[hidden]->
+:payroll unpleasantness; <<input>>
+split again
+-[hidden]->
+:matchmaking luxury; <<procedure>>
+-> sad retraction;
+end split
+:affected unhook; <<output>>
+-> butler nary;
+|2|
+split
+:sitters tumbling;
+split again
+fork
+:ripple vibes;
+fork again
+:contestants outrun;
+fork again
+:utter forestry;
+fork again
+:cargo heartbreak; <<task>>
+end merge
+split again
+:tranquilizer grandson;
+-> renovation separation;
+split again
+:lush ridiculed; <<input>>
+end split
+|1|
+:sunset dam; <<save>>
+:colonization sick; <<continuous>>
+-> wastebasket shit;
+fork
+:stranglehold knockdown;
+fork again
+:aunties step; <<procedure>>
+fork again
+if (primaries dribble?) then (bruise shop)
+:chance sifting;
+:bits body;
+:heterosexual disco; <<input>>
+-> almost scar;
+else (escaping implicates)
+:dummies sweatshop; <<input>>
+-> enduring mined;
+endif
+end merge
+end
+@enduml

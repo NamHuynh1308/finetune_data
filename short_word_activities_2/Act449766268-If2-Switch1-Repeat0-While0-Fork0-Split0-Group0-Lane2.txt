@@ -1,0 +1,41 @@
+@startuml
+|1| fortunes drivers
+|2| snap distinguishing
+|1|
+start
+:gout awful; <<output>>
+-> student otto;
+|2|
+:sarcophagus slime; <<continuous>>
+switch (lemonade baker?)
+case (miserable electing?)
+:authorize extradited; <<task>>
+case (forester messes?)
+:conjuring seems; <<load>>
+-> subpoena annoyances;
+case (cried haircut?)
+:paleontologist satire; <<output>>
+-> ballgame shabbily;
+endswitch
+if (hydraulic tissue?) then (christening courier)
+(awaits alleging) elseif (butterfly hell?) then (swooning mellowed)
+if (redskins britches?) then (exacting arbitrary)
+:julep academia;
+:heresy earful;
+else (bearers snapped)
+:driven strengthen; <<load>>
+:thump sally; <<procedure>>
+-> slaughtering resulting;
+endif
+(bridges fugu) elseif (dauphin betrayal?) then (rightly haircuts)
+:indiscretions choked;
+-> validate detonators;
+(provocative short) elseif (ultimatum hobbling?) then (mousy corporeal)
+:shoveled algebra; <<save>>
+-> fiendish kobo;
+endif
+|1|
+:limelight spunky; <<output>>
+-> scorpion that;
+end
+@enduml

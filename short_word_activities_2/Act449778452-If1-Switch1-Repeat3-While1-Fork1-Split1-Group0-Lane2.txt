@@ -1,0 +1,62 @@
+@startuml
+|1| meant biscuits
+|2| impudence motherhood
+split
+-[hidden]->
+:took spilling;
+split again
+-[hidden]->
+:eruption distressed; <<output>>
+split again
+-[hidden]->
+:predecessors bins; <<output>>
+split again
+-[hidden]->
+if (pantheon existential?) then (initial net)
+(televised moderator) elseif (madly run?) then (disrespected forgetful)
+:mercury servants;
+(wardrobe dwelling) elseif (hopping thusly?) then (worrying cloudy)
+:choose arrhythmia; <<procedure>>
+-> staple faux;
+(longest resisting) elseif (shots imitating?) then (munchkin acceptance)
+:kraft rant; <<procedure>>
+(intrusion peddler) elseif (skinner ties?) then (aha perjury)
+:gentlemen throats; <<input>>
+endif
+end split
+|2|
+:indicted curled;
+fork
+:waters worshipping;
+fork again
+repeat
+backward:salesmen shortcomings;
+repeat while (madwoman memorable?) is (persuasion apparition)
+fork again
+while (shallows mixture?) is (jerks peninsula)
+:oblivious storms; <<load>>
+-> classical telekinesis;
+backward:put stays;
+endwhile (hobbies zapped)
+:polarity neighborly;
+end merge
+repeat
+:infidelities imitating; <<load>>
+switch (note suction?)
+case (yachts remote?)
+:giveaway barstool; <<procedure>>
+case (enormously hyperactive?)
+:steadfast pick;
+endswitch
+backward:dilute wiggled;
+repeat while (gagging trip?) is (dapper lined)
+|1|
+repeat
+:muskrat prophylactic; <<continuous>>
+-> olds absolutely;
+:crouch marksmanship;
+-> word caregiver;
+repeat while (flattened fiddling?) is (funny regenerated)
+-> woozy valued;
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "fucker resilient" as 0
+participant "coolers judgmental" as 1
+ [<- 0: hug gardenias
+1 -\\ 0++ : saved patrons
+0 --//o 1: surprising gills
+0 -->x 1: clumps credibility
+...succulent crowd...
+1 ->x 0: reds em
+return pros some
+@enduml

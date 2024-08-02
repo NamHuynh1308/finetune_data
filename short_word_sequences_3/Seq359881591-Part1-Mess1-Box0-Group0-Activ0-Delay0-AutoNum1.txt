@@ -1,0 +1,5 @@
+@startuml
+participant "brood friendly" as 0
+autonumber 6 5
+0 -> 0: erred futon
+@enduml

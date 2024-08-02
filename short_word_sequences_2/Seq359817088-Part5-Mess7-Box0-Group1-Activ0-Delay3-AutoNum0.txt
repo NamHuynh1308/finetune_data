@@ -1,0 +1,21 @@
+@startuml
+participant "joy wheel" as 0
+participant "slapping bugs" as 1
+participant "tasteful sour" as 2
+participant "tag moped" as 3
+alt trap cameraman
+3 --> 0: crisps torrid
+...melted pamphlet...
+3 ->> 3: damp creeds
+1 -> 2: gasp heartfelt
+else espresso beepers
+2 ->x 0: rosebuds restless
+else strangeness wiper
+...hurley provide...
+0 -> 0: twirl twists
+end
+create participant "softly auditions" as 4
+2 -> 4 : softly auditions
+...necessity accounted...
+0 -> 4!! : stuff pharaohs
+@enduml

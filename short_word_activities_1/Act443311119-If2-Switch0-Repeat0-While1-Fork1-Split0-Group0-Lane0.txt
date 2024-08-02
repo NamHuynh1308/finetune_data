@@ -1,0 +1,33 @@
+@startuml
+start
+if (interviewed parachute?) then (scribbled cuticle)
+:revising blue; <<continuous>>
+fork
+:personable moisture;
+fork again
+:impound zoned;
+-> horror bluest;
+fork again
+:sliver goblin;
+end fork
+if (barbershop kent?) then (inflated swan)
+(turned soon) elseif (bios spaz?) then (erases lawman)
+:bothered hint; <<input>>
+(advantage tea) elseif (permit inlaid?) then (medevac malignant)
+:expected ironies;
+(reacted clutter) elseif (belle dissatisfied?) then (seashells provided)
+:scans summoned; <<procedure>>
+(stinging nutmeg) elseif (wussies weaker?) then (hallways volcanoes)
+:chased dries;
+-> reconciled recruited;
+endif
+else (identical kitty)
+while (batted frigging?) is (technician literary)
+:floozy carrier;
+endwhile (infidelities blocking)
+:matzah blimey;
+:martyr allergies; <<output>>
+endif
+:gargoyle opposition; <<task>>
+stop
+@enduml

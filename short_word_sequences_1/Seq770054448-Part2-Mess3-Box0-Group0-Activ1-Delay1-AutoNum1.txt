@@ -1,0 +1,13 @@
+@startuml
+participant "misdemeanors ponder" as 0
+autonumber 5 2
+0 -> 0: swallowed shell
+autonumber stop
+create participant "kneeling roughing" as 1
+0 -> 1 : kneeling roughing
+autonumber resume
+...detached painful...
+1 -> 1++ : crossroads collins
+autonumber stop
+return lens artificial
+@enduml

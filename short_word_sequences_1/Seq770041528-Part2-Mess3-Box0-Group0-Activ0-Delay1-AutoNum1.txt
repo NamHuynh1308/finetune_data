@@ -1,0 +1,9 @@
+@startuml
+participant "pole regent" as 0
+participant "betrayals gill" as 1
+autonumber 5 3
+0 <-] : signatures circle
+...jaguars fantastic...
+1 -> 0!! : butterscotch disillusionment
+1 ->o 1: persists republicans
+@enduml

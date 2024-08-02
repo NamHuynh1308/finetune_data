@@ -1,0 +1,22 @@
+@startuml
+box "wins directly"
+participant "vermin authorizing" as 0
+participant "corroboration discus" as 1
+end box
+autonumber 3 4
+0 <-] : gringo soybean
+create participant "pageant rethinking" as 2
+0 -> 2 : pageant rethinking
+0 ->x 0: vis jesuits
+autonumber stop
+2 <-] : feign fit
+opt firefight unhappy
+...juniper landmarks...
+0 ->] : scriptures femme
+loop opinion determination
+...station betting...
+0 <-] : jerked malignant
+autonumber resume
+end
+end
+@enduml

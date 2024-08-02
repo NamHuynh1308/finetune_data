@@ -1,0 +1,31 @@
+@startuml
+participant "faucet mug" as 0
+box "ones garrison"
+participant "cosmetic scrubs" as 1
+participant "slinking wahoo" as 2
+end box
+box "spirituality circular"
+participant "pail arrangement" as 3
+participant "needed lays" as 4
+end box
+== battleground poppy ==
+autonumber 3 7
+4 -\\ 0: drip mending
+4 ->] : facet susceptible
+1 -> 3: rule speakers
+1 -> 2: broomstick snowstorm
+critical wreaked stature
+0 ->x 0: conception suspicions
+autonumber stop
+...shy garbage...
+2 ->o 0: idiosyncrasies reopen
+autonumber resume
+else loveable minorities
+alt jerk symbolically
+0 -\\ 0: crucifix eroding
+3 ->> 2: colonel inclined
+else motivation subletting
+ [<- 1: freshest fleabag
+end
+end
+@enduml

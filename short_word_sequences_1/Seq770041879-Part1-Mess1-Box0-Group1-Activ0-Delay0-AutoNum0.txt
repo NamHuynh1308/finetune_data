@@ -1,0 +1,6 @@
+@startuml
+participant "decay nineties" as 0
+par strategies rolls
+0 -> 0: vote steely
+end
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+box "reflex plutonium"
+participant "hilltop reaper" as 0
+participant "bending renown" as 1
+participant "heartthrob skins" as 2
+end box
+participant "duvet lamps" as 3
+== pounding spikey ==
+autonumber 3 0
+1 <-] : toxic gee
+...repaid bohemian...
+1 --> 0: storeroom toons
+create participant "tardiness engaged" as 4
+3 -> 4 : tardiness engaged
+autonumber stop
+2 -> 3: lively tavern
+1 -> 1++ : offerings squeaking
+return transmit orderlies
+@enduml

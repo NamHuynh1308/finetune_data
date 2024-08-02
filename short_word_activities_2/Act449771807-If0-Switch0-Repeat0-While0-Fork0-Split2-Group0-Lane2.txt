@@ -1,0 +1,33 @@
+@startuml
+|1| antagonizing plan
+|2| tone rosy
+split
+-[hidden]->
+:remarkably befitting;
+split again
+-[hidden]->
+:objective annex; <<task>>
+split again
+-[hidden]->
+:reform imply;
+split again
+-[hidden]->
+split
+:profusely irreplaceable;
+split again
+:stadium gangway; <<output>>
+-> telly excess;
+split again
+:inches disinherited;
+end split
+end split
+|2|
+:hopefully lanky; <<save>>
+|1|
+:potato happy;
+|2|
+:looney streetcar;
+-> barks requires;
+:groves chuckles; <<task>>
+end
+@enduml

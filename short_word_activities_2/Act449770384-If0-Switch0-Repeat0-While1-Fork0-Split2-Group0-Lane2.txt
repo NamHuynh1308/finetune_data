@@ -1,0 +1,37 @@
+@startuml
+|1| carp helpless
+|2| continue native
+split
+-[hidden]->
+:robes migration;
+split again
+-[hidden]->
+:feather grandstand; <<continuous>>
+-> touchstone overdue;
+split again
+-[hidden]->
+:cocky downstairs; <<task>>
+split again
+-[hidden]->
+:shouts stowaway; <<input>>
+-> ushers ruler;
+end split
+|2|
+:occupants lama;
+:pierced tried; <<load>>
+|1|
+while (nervously mugged?) is (landmarks circulation)
+:mediocre mere; <<output>>
+:loving ornery; <<task>>
+backward:zed threatens;
+split
+:mow snag;
+split again
+:autobiographical prose; <<load>>
+-> candlelit bleachers;
+split again
+:honey offend;
+end split
+endwhile (muchachos thumping)
+:overlapping psychopaths;
+@enduml

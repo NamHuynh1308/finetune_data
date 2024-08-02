@@ -1,0 +1,10 @@
+@startuml
+start
+group reddish sweats
+:elks chapel;
+-> bound phenomenon;
+:shaving veils; <<load>>
+end group
+:wiggy vivacious; <<input>>
+stop
+@enduml

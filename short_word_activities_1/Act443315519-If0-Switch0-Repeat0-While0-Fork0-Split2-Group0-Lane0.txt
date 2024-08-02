@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:trey stride;
+split again
+-[hidden]->
+:procrastinating substance;
+split again
+-[hidden]->
+:flirted snorted;
+split again
+-[hidden]->
+split
+:envelope neglected;
+split again
+:adaptable annihilation; <<save>>
+split again
+:seizing beating; <<continuous>>
+end split
+end split
+:floats belligerent;
+:justify shambles; <<load>>
+stop
+@enduml

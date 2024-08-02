@@ -1,0 +1,11 @@
+@startuml
+fork
+:racketeering serve;
+fork again
+:freedoms margarita;
+fork again
+:hurdles groped; <<load>>
+-> tempest burglary;
+end merge
+stop
+@enduml

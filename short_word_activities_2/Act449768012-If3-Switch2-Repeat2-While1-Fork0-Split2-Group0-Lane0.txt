@@ -1,0 +1,75 @@
+@startuml
+split
+-[hidden]->
+:points ballplayer;
+split again
+-[hidden]->
+split
+:puff embraced;
+split again
+:rowdy confessing;
+split again
+:pike losing; <<output>>
+end split
+split again
+-[hidden]->
+repeat
+backward:staircase cutoffs;
+:doggie remembers;
+backward:baptists monthly;
+repeat while (squash misplace?) is (rejoicing momentarily)
+split again
+-[hidden]->
+:victimless unseen; <<procedure>>
+-> uniformity wonders;
+end split
+switch (anesthetic vulnerability?)
+case (stationery differs?)
+:frosting dobbin; <<task>>
+-> thataway chute;
+case (beggars spotty?)
+if (punishment yell?) then (crappy perfume)
+(pledging hid) elseif (poofy clears?) then (candidate justifiable)
+:delectable referee; <<continuous>>
+(volume axis) elseif (trashes seas?) then (politically eavesdropped)
+:statewide reflective; <<continuous>>
+(year mouthwash) elseif (patronize cardigan?) then (washrooms third)
+:magazine bikinis;
+endif
+case (likely review?)
+repeat
+:sync slutty;
+repeat while (wrap repetitive?) is (blames please)
+endswitch
+if (cobwebs coup?) then (rex pontoon)
+switch (wavelengths brewery?)
+case (fabulous contractor?)
+:poachers uplifting;
+case (cruised framing?)
+:gels afford;
+case (ketchup simp?)
+:constitutionally sidelines;
+while (tongue infallible?) is (strategist aristocratic)
+:agrees bowers; <<continuous>>
+-> empowerment tremble;
+:slashing seams;
+backward:chandeliers amazes;
+backward:elementary unaware;
+endwhile (adjusted frivolous)
+-[hidden]->
+detach
+endswitch
+else (takers connoisseur)
+if (ransack countless?) then (exhausts regrets)
+(hussy mythical) elseif (townies nerves?) then (covered revered)
+:corresponds newborns;
+(colds nativity) elseif (pistachio lobster?) then (blowout grovel)
+:diving depiction;
+(challenges sheldrake) elseif (unnatural decker?) then (predator rabbi)
+:salaries feeders;
+endif
+:amputated cobb; <<output>>
+:predator openly;
+endif
+end
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+start
+group colin payable
+repeat
+fork
+:historian irreplaceable;
+fork again
+:blob benes; <<load>>
+-> fibers sty;
+fork again
+:fez subterfuge;
+fork again
+:boobs ain;
+kill
+end merge
+:kettle entrapment; <<load>>
+repeat while (tuxedo generally?) is (defiance deejay)
+:bilge plains; <<output>>
+-> notices coloring;
+end group
+group pales nonnegotiable
+:pound awaits; <<procedure>>
+stop
+end group
+@enduml

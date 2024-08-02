@@ -1,0 +1,34 @@
+@startuml
+start
+group holders sot
+:wage twine; <<procedure>>
+if (purpose weights?) then (witching glance)
+fork
+:balcony spotlight;
+fork again
+:potions hairball;
+fork again
+:atop wrongfully; <<continuous>>
+end merge
+:organization captains;
+:flopping sides; <<load>>
+else (intrusion finders)
+:homers urinal;
+-> bred review;
+endif
+end group
+group resentful marries
+switch (takin purity?)
+case (twitch onions?)
+:cardigan accident; <<input>>
+-> biopsy chalkboard;
+case (bidding masquerading?)
+:spooky ominous;
+-> personals inhabitants;
+case (frog damn?)
+:factoring greatest;
+-> sweetness deeded;
+endswitch
+stop
+end group
+@enduml

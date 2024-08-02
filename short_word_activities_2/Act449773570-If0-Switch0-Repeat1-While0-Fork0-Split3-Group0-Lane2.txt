@@ -1,0 +1,43 @@
+@startuml
+|1| cornerstone victory
+|2| credo snuggled
+split
+-[hidden]->
+:lowering space;
+split again
+-[hidden]->
+:decoupage squat; <<input>>
+-> evolution screwup;
+split again
+-[hidden]->
+:sappy raffle;
+-> shucks reelection;
+end split
+|2|
+split
+:ibuprofen mayo;
+split again
+:riches hiccups; <<save>>
+-> comer oversleep;
+split again
+:skill evangelical; <<input>>
+end split
+|1|
+:atrocities let; <<procedure>>
+-> encrypted starting;
+|2|
+:archenemy endanger; <<procedure>>
+|1|
+repeat
+split
+:pelting orthodontist;
+split again
+:country attackers; <<output>>
+split again
+:pathologically brother;
+kill
+end split
+repeat while (dunked jockey?) is (larger panicky)
+-> stuttering negligence;
+stop
+@enduml

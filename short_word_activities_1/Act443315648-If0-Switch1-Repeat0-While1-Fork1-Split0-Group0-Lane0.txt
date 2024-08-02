@@ -1,0 +1,21 @@
+@startuml
+switch (doom hopped?)
+case (canoe wheeler?)
+:social warheads; <<task>>
+case (screening puffy?)
+fork
+:piling profile;
+fork again
+:die auditor;
+while (purged lax?) is (wimps heartbreaker)
+:fussing minnow;
+endwhile (valve helicopter)
+-[hidden]->
+detach
+fork again
+:hotline casino; <<input>>
+fork again
+:straight routinely; <<output>>
+end merge
+endswitch
+@enduml

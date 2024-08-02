@@ -1,0 +1,19 @@
+@startuml
+participant "communications baffled" as 0
+box "intensely whatnot"
+participant "spindly fingernails" as 1
+participant "unhooked mats" as 2
+box "squirt tensions"
+participant "sequences embossed" as 3
+end box
+end box
+== winters nazis ==
+create participant "rooftops masterpiece" as 4
+1 -> 4 : rooftops masterpiece
+4 <-] : lavish breakwater
+1 -> 0++ : reduction wailing
+2 -> 3: curdle ward
+return fun underlings
+0 -// 3++ : properties idiom
+return shea smudged
+@enduml

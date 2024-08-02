@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:reprisal disrupted;
+split again
+-[hidden]->
+:referee commando; <<output>>
+split again
+-[hidden]->
+switch (tells tendons?)
+case (visage obits?)
+:shoo lizards;
+kill
+case (propped skedaddle?)
+:del bum; <<procedure>>
+-> pasties cleanses;
+case (clitoris mysterious?)
+:beery averse;
+case (fraulein antagonism?)
+:reclusive sphere; <<save>>
+-> eternity traces;
+endswitch
+split again
+-[hidden]->
+:inedible frequently; <<task>>
+-> batch matinee;
+end split
+:brute tossed; <<load>>
+-> wobble behooves;
+stop
+@enduml

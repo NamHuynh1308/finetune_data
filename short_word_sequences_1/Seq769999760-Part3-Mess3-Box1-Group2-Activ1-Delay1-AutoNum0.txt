@@ -1,0 +1,16 @@
+@startuml
+participant "sangria uncool" as 0
+box "compass microphone"
+participant "depending notoriously" as 1
+end box
+create participant "calico juice" as 2
+0 -> 2 : calico juice
+alt biological efficient
+...solved go...
+0 ->o 0: celled suffocating
+opt freaks trifecta
+0 -\\ 2++ : murderous covered
+end
+end
+return churches refined
+@enduml

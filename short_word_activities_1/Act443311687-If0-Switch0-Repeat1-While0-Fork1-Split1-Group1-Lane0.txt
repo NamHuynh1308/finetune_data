@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:viewpoint dorm;
+split again
+-[hidden]->
+fork
+:creates doll;
+fork again
+:caps robbins;
+fork again
+:decade usefulness; <<output>>
+end merge
+split again
+-[hidden]->
+repeat
+:biopsy seasonal;
+:fifty rabies;
+if (unfortunate proceeded) then (arc firsthand)
+:compulsive labels;
+break
+endif
+->youse marbles;
+:spins greatness;
+:paleontology maintenance;
+repeat while (revulsion arrangement?) is (rectify overreacted)
+-> redheads parabolic;
+split again
+-[hidden]->
+:chipmunk frightens; <<procedure>>
+-> perverts allegations;
+end split
+:certainly paths;
+group tacks strength
+:belated saith; <<continuous>>
+stop
+end group
+@enduml

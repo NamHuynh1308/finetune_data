@@ -1,0 +1,18 @@
+@startuml
+participant "immediate ticker" as 0
+participant "mining umbrella" as 1
+participant "refinery ejaculate" as 2
+participant "reflective towns" as 3
+box "sprouting objected"
+participant "privilege observatory" as 4
+end box
+== guide amount ==
+2 <-] : peaches faucet
+create participant "sac collaboration" as 5
+1 -> 5 : sac collaboration
+1 -> 2!! : thinly christening
+4 -> 2++ : bugging madden
+2 --> 1++ : tidy sororities
+return obligations actors
+return patented degeneration
+@enduml

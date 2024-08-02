@@ -1,0 +1,22 @@
+@startuml
+participant "stubs pronouns" as 0
+participant "mulling encinas" as 1
+participant "tequila barricades" as 2
+participant "shocks hurts" as 3
+participant "starred accept" as 4
+autonumber 6 8
+1 <-] : suppression availability
+...fiesta owed...
+2 ->x 3: random generating
+3 -> 1: enhancer congress
+autonumber stop
+alt palpable transcript
+2 -> 2++ : cubes waist
+autonumber resume
+4 -// 2: hierarchy comparatively
+autonumber stop
+ [<- 0: poles hosing
+return cowboy stumbled
+autonumber resume
+end
+@enduml

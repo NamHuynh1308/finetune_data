@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:apiece forgot;
+split again
+-[hidden]->
+:cabinet autobiographical;
+-> tenacious cash;
+split again
+-[hidden]->
+:optimistic incendiary; <<load>>
+end split
+:recycles scam; <<output>>
+-> poles drastic;
+@enduml

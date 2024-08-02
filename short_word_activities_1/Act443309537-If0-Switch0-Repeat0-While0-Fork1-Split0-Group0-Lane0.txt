@@ -1,0 +1,16 @@
+@startuml
+start
+fork
+:firing hothouse;
+fork again
+:herring snarl;
+kill
+fork again
+:trying bauble; <<input>>
+-> snowboard platters;
+fork again
+:shill goofball; <<task>>
+-> quit muskie;
+end merge
+end
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+participant "navigator antidepressants" as 0
+0 -> 0: dash pail
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "darling slingshot" as 0
+participant "geometry picnic" as 1
+== anti districts ==
+create participant "trumps crusher" as 2
+1 -> 2 : trumps crusher
+0 -->x 2++ : extradited puff
+...concert sarcophagus...
+0 ->> 0++ : slasher carve
+return request serotonin
+return angels heroic
+@enduml

@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:delivering dent;
+split again
+-[hidden]->
+:fittings incidentally; <<input>>
+-> foal selective;
+split again
+-[hidden]->
+:magnificent brokenhearted;
+while (syllabus photographer?) is (implicate lamp)
+:young cult; <<input>>
+backward:massaged cannery;
+backward:turf masked;
+:queen fer; <<save>>
+-> springs impenetrable;
+endwhile (crossroads tombs)
+-[hidden]->
+detach
+end split
+:militant operate; <<output>>
+group famished swelled
+:brit surgeons; <<load>>
+switch (give beverage?)
+case (privy gnome?)
+:theatrics sweater;
+-> derriere strenuously;
+case (heckles demur?)
+:gasket caramel; <<task>>
+case (violations reasonably?)
+:confessions only;
+-> opponents picturing;
+endswitch
+end group
+@enduml

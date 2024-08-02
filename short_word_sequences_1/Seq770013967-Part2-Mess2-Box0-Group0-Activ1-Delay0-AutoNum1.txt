@@ -1,0 +1,10 @@
+@startuml
+participant "percent pledging" as 0
+participant "headline yanks" as 1
+autonumber 0 3
+1 <-] : gardenias make
+autonumber stop
+1 -->x 1++ : revolver starboard
+autonumber resume
+return anthropology birthplace
+@enduml

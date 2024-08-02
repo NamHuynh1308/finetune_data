@@ -1,0 +1,20 @@
+@startuml
+participant "boutique click" as 0
+participant "vessels peroxide" as 1
+participant "undisciplined flinching" as 2
+== dresses ebb ==
+1 -> 2: tests reluctantly
+0 ->o 0: equation pinochle
+1 --//o 2++ : bluepoint lordship
+break stronghold mute
+0 -// 0++ : locale raising
+opt liftoff stair
+ [<- 0: rifling sweaters
+ [<- 1: division snuff
+create participant "karat multiplied" as 3
+0 -> 3 : karat multiplied
+return barreling soil
+end
+end
+return smooth endorse
+@enduml

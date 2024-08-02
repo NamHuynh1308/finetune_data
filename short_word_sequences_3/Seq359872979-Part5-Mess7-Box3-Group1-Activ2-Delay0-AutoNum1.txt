@@ -1,0 +1,28 @@
+@startuml
+box "suit yup"
+participant "jellies bigmouth" as 0
+box "investigate shutting"
+participant "motions matters" as 1
+box "beeswax wily"
+participant "hill dom" as 2
+participant "warsaw bidder" as 3
+participant "paintbrush dainty" as 4
+end box
+end box
+end box
+== spoilsport amen ==
+autonumber 0 4
+3 -> 0!! : spar unprincipled
+4 --//o 1: species evict
+autonumber stop
+ [<- 3: luau applies
+opt eloquent promoting
+2 -\\ 1++ : prowess minuses
+autonumber resume
+4 ->x 1++ : locksmith masses
+4 ->x 3: messy woman
+3 ->] : dishwasher practical
+return gyms difficult
+end
+return stranglehold blower
+@enduml

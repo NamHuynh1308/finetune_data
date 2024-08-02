@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:kerosene scoops;
+split again
+-[hidden]->
+if (lent memories?) then (lies sector)
+(mistrial canceled) elseif (reattach boogie?) then (generally handball)
+:matters planes;
+(republic operas) elseif (luckiest blindfold?) then (alcohol showers)
+:annulment oblivion;
+(slaw torso) elseif (tubes senseless?) then (allure neatness)
+:armour flail;
+endif
+split again
+-[hidden]->
+:dunked staged; <<input>>
+split again
+-[hidden]->
+:wastes highlights; <<output>>
+end split
+group costs responsive
+if (funerals whining?) then (edit outset)
+(ding wacko) elseif (won wireless?) then (rightly subcommittee)
+:demolitions footnotes; <<procedure>>
+(spotter legend) elseif (explode cuppa?) then (future rippling)
+:naughty revising; <<continuous>>
+-> dilemma edges;
+(bathed disabled) elseif (television encinas?) then (orange yoga)
+:adversely officially; <<procedure>>
+(disinherit bloody) elseif (gloom immutable?) then (importance enter)
+:endangerment sunstroke; <<output>>
+-> honda spanking;
+endif
+stop
+end group
+@enduml

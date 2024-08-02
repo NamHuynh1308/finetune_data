@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:disappoints readings;
+split again
+-[hidden]->
+switch (earlier murdering?)
+case (parasitic adoration?)
+:praise vowel;
+case (browbeat alfalfa?)
+:inflamed inseparable; <<input>>
+case (disfigured proofing?)
+:bathrobes raggedy; <<input>>
+-> race coolant;
+case (parasitic irons?)
+:flounder bred;
+endswitch
+split again
+-[hidden]->
+:fortunately tularemia;
+split again
+-[hidden]->
+if (valuable striving?) then (revising industrial)
+:textile awakened;
+-> knocking gaps;
+:payroll swig; <<output>>
+-> whoop explosives;
+else (chucks undergone)
+:aunts doughnuts;
+endif
+end split
+:bug entitle; <<procedure>>
+-> ponder scratches;
+group nausea salinas
+:dweeb specialties; <<load>>
+stop
+end group
+@enduml

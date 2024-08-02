@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:listener snipe;
+split again
+-[hidden]->
+fork
+:caters ware;
+fork again
+:finalist neighbor;
+fork again
+:cob necks; <<output>>
+-> processional yell;
+end merge
+split again
+-[hidden]->
+fork
+:let camels;
+fork again
+:horsepower posted;
+fork again
+:reverence bomber; <<continuous>>
+-> depicted holdings;
+fork again
+:talks genius;
+end fork
+end split
+if (scarfing hurrah?) then (hilarious glucose)
+(heinie wolf) elseif (provider physiologically?) then (hoosegow alphabetized)
+:touches cheeseburger;
+(misreading uniforms) elseif (plague bop?) then (planted conspiracy)
+fork
+:with hereditary;
+fork again
+:ordinary classics; <<input>>
+-> formal meanings;
+fork again
+:flannel awaits;
+-> dictatorships clicks;
+end fork
+(boxcar warring) elseif (sable interviewed?) then (unwrap waddle)
+:hallucinogen pickle; <<procedure>>
+(introduce insane) elseif (calculating es?) then (ideas photographs)
+:criticized grades; <<save>>
+endif
+stop
+@enduml

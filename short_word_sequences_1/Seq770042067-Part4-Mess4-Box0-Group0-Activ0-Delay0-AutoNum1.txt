@@ -1,0 +1,13 @@
+@startuml
+participant "conner pope" as 0
+participant "toasting freckle" as 1
+participant "shrine weatherman" as 2
+autonumber 1 2
+1 ->o 1: regarded ta
+autonumber stop
+create participant "tops presided" as 3
+1 -> 3 : tops presided
+3 -// 3: gifts poems
+autonumber resume
+0 ->] : pornographers widen
+@enduml

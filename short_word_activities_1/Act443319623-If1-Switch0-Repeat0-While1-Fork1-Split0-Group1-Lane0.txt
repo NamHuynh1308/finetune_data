@@ -1,0 +1,23 @@
+@startuml
+start
+group locally intake
+if (baron via?) then (convey coolest)
+fork
+:rousing beleaguered;
+fork again
+:tea senators;
+fork again
+:protection pickup;
+end merge
+while (emptied pokes?) is (pedigree lubricants)
+backward:same modification;
+endwhile (existential shipwreck)
+:responding unimportant;
+:scents perpetuating; <<procedure>>
+-> shoe hitters;
+else (culpability directive)
+:sounded humid; <<save>>
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:include crawls;
+split again
+-[hidden]->
+while (stapler fans?) is (hostiles the)
+:your constable;
+:strains deviants;
+backward:splash lasers;
+endwhile (initiate anemia)
+:brilliant brushed;
+split again
+-[hidden]->
+:unresponsive eaten; <<task>>
+-> flourished belted;
+split again
+-[hidden]->
+:pals march; <<output>>
+-> roof connects;
+end split
+if (dictating unlocked?) then (excellence nicknamed)
+(pumping unplug) elseif (acquire clipper?) then (quotation linens)
+:fewffe;
+while (shawl baller?) is (vultures lawsuit)
+:coworker nunnery; <<load>>
+backward:landmarks doorknob;
+:carp ritz; <<procedure>>
+-> gigs limo;
+endwhile (looney breeds)
+-[hidden]->
+detach
+(adjust skivvies) elseif (visited details?) then (dosages fleece)
+:zoom repetitive; <<task>>
+endif
+end
+@enduml

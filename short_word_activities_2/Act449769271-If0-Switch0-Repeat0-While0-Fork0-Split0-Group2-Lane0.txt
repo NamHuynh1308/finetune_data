@@ -1,0 +1,9 @@
+@startuml
+group originating changes
+:replies lump; <<continuous>>
+group contemporary encourages
+:dills daddies;
+stop
+end group
+end group
+@enduml

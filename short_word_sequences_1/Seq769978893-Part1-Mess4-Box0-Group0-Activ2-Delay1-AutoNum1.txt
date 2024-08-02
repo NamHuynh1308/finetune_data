@@ -1,0 +1,13 @@
+@startuml
+participant "midtown northern" as 0
+autonumber 9 0
+ [<- 0: yield tinsel
+autonumber stop
+0 -> 0++ : tony motives
+autonumber resume
+0 <-] : swimsuits aerosol
+return okra totem
+...prop jobs...
+0 <-> 0++ : overdose crest
+return navigator medals
+@enduml

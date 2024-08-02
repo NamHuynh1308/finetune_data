@@ -1,0 +1,8 @@
+@startuml
+participant "videotaped assorted" as 0
+participant "listeners coping" as 1
+== baskets enrolling ==
+0 -> 0!! : rhinoceros nukes
+create participant "manipulates cancer" as 2
+1 -> 2 : manipulates cancer
+@enduml

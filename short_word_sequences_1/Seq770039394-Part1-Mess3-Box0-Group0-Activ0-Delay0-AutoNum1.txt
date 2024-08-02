@@ -1,0 +1,10 @@
+@startuml
+participant "predisposition typing" as 0
+== simulate fight ==
+autonumber 1 7
+0 ->] : airborne uncovered
+autonumber stop
+ [<- 0: motion earth
+ [-> 0: tumors metropolitan
+autonumber resume
+@enduml

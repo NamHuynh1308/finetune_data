@@ -1,0 +1,24 @@
+@startuml
+participant "fondue fucking" as 0
+participant "porridge zapped" as 1
+participant "rifle someone" as 2
+participant "peck chilled" as 3
+participant "torso footnote" as 4
+autonumber 6 3
+4 -> 2: gutting enough
+create participant "stock provide" as 5
+3 -> 5 : stock provide
+alt einstein gained
+...hoisted bastille...
+2 -->x 0: mushrooms cracking
+...tubs taxis...
+2 -> 0: guides results
+...engineer defacing...
+3 -> 1: coma studs
+0 ->x 5++ : corny od
+autonumber stop
+end
+0 -> 1: teleport joining
+autonumber resume
+return offing bread
+@enduml

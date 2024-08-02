@@ -1,0 +1,29 @@
+@startuml
+box "sensory antacid"
+participant "wiper scumbag" as 0
+participant "strutting takes" as 1
+end box
+participant "bel ceremony" as 2
+box "lowered blacksmith"
+participant "chicks lacerations" as 3
+box "lingo timbre"
+participant "examiner wits" as 4
+end box
+end box
+== spoiling reassign ==
+4 <-] : premiere ship
+par liquid naturally
+create participant "endorphins nelson" as 5
+4 -> 5 : endorphins nelson
+4 -> 3!! : jawed lar
+ [<- 4: income dollar
+else particle undo
+loop levy scratched
+3 -\\ 1: validated became
+4 -->x 1: greedy instigator
+5 <-] : pyrotechnics translating
+ [<- 3: animals blowed
+else bind playmate
+end
+end
+@enduml

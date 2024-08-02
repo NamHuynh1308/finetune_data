@@ -1,0 +1,22 @@
+@startuml
+participant "jabot coloring" as 0
+participant "patterns chapters" as 1
+box "taunted capitalism"
+participant "deposits lyrics" as 2
+participant "chesty scares" as 3
+end box
+== honeymoon squirt ==
+0 <-> 3++ : wavy loosening
+create participant "until superwoman" as 4
+2 -> 4 : until superwoman
+3 <-] : counts mixing
+ [<- 1: stalled filing
+return crackpot acetate
+par yodel cheerleaders
+create participant "toolbox farina" as 5
+3 -> 5 : toolbox farina
+ [<- 3: repellent latched
+3 -> 4++ : upsetting guitars
+end
+return combined moneybags
+@enduml

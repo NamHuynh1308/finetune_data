@@ -1,0 +1,8 @@
+@startuml
+participant "summons squads" as 0
+autonumber 3 1
+0 -> 0!! : sodas birdcage
+0 ->o 0: shrewd soak
+...chewy yo...
+0 ->> 0: overall implications
+@enduml

@@ -1,0 +1,28 @@
+@startuml
+participant "locator rubber" as 0
+box "checkbook delivery"
+participant "spores summarily" as 1
+box "noises fleeting"
+participant "gall recycle" as 2
+box "gringo kings"
+participant "mortality dale" as 3
+end box
+end box
+end box
+autonumber 8 0
+ [<- 0: flashy undergarment
+autonumber stop
+3 <-> 2: cable adept
+0 -->x 2++ : jot stodgy
+1 <-] : despicable recently
+3 -> 1: selectman trespassed
+autonumber resume
+0 --//o 0: quirks priest
+create participant "menopausal gravest" as 4
+0 -> 4 : menopausal gravest
+loop fastened surveillance
+0 -// 2++ : creeds warn
+end
+return raincoat thickening
+return avengers absolutes
+@enduml

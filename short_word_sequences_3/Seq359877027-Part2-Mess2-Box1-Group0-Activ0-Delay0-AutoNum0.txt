@@ -1,0 +1,8 @@
+@startuml
+participant "commotion sources" as 0
+box "invent ascot"
+participant "claw proudly" as 1
+end box
+0 ->> 0: captives rumble
+0 ->o 0: patter confrontations
+@enduml

@@ -1,0 +1,52 @@
+@startuml
+split
+-[hidden]->
+:detaining toenails;
+split again
+-[hidden]->
+:durned gobble; <<load>>
+split again
+-[hidden]->
+while (longest honeysuckle?) is (retreating stuffs)
+:ends sparrow;
+-> thrusts correspondence;
+backward:pains venom;
+endwhile (kaleidoscope automobile)
+:bachelor labyrinth;
+split again
+-[hidden]->
+:illustrate subscriptions;
+end split
+:morale customs; <<output>>
+if (shootout cartel?) then (lemony tasting)
+:catching flexible; <<input>>
+-> vile graced;
+:conceivably flock;
+switch (botany fumble?)
+case (flaws evidenced?)
+:doppelganger stilettos; <<procedure>>
+case (shortsighted costume?)
+:client rampage;
+endswitch
+else (folklore uncooperative)
+:hearted radishes; <<load>>
+if (cheddar parsons?) then (golden fervor)
+:inspecting contracts; <<load>>
+:virginal vomit;
+:incriminate shows;
+kill
+else (propensity mucous)
+:spoilsport cheesed; <<load>>
+:wring premises;
+:sludge prayed;
+endif
+switch (paralyzed unlocks?)
+case (caution feel?)
+:dasher dual; <<load>>
+case (tights air?)
+:dole confer;
+endswitch
+endif
+:foul kayaking; <<task>>
+end
+@enduml

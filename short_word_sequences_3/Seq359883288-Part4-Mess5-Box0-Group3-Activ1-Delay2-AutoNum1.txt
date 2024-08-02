@@ -1,0 +1,21 @@
+@startuml
+participant "reunite hysteric" as 0
+participant "growl carpool" as 1
+participant "concussion excite" as 2
+participant "surrendered screws" as 3
+autonumber 6 10
+0 <-] : infrastructure science
+loop item makes
+1 --//o 2: wrinkly bitten
+par orientation grub
+...herbs safely...
+1 <-] : treaties insulation
+critical splatter deferred
+1 -> 0: gat perspectives
+...mosquito anesthesia...
+0 ->x 0++ : shimmer subdued
+end
+end
+end
+return owners sonata
+@enduml

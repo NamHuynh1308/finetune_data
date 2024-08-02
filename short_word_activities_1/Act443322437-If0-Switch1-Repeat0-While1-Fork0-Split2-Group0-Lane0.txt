@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:involves cheetah;
+split again
+-[hidden]->
+:segue toasted; <<output>>
+split again
+-[hidden]->
+switch (circumference refer?)
+case (proprietor hydra?)
+:preaching amputated; <<task>>
+case (young female?)
+:unmentionable repetitious;
+endswitch
+split again
+-[hidden]->
+while (knob displeased?) is (prefer tas)
+:silk clad;
+backward:requisitions thistle;
+:scream eyeliner;
+endwhile (retake pediatrician)
+:sunscreen shag;
+end split
+split
+:scrambler during;
+split again
+:detached taxpayers; <<output>>
+split again
+:flimsy laboratories; <<load>>
+end split
+@enduml

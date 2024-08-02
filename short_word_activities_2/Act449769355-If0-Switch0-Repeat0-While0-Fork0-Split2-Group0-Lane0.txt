@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:hem lucky;
+split again
+-[hidden]->
+:brushes eloping; <<procedure>>
+split again
+-[hidden]->
+split
+:meanest anise;
+split again
+:hefty weekends;
+split again
+:mentally favour;
+end split
+split again
+-[hidden]->
+:biologically seamen; <<continuous>>
+-> mars pizzas;
+end split
+:springs anyway; <<output>>
+-> barricaded cascade;
+@enduml

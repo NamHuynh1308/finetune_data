@@ -1,0 +1,7 @@
+@startuml
+start
+group arrival entwined
+:gamut ring; <<procedure>>
+stop
+end group
+@enduml

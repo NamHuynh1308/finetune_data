@@ -1,0 +1,7 @@
+@startuml
+participant "gizzard rooting" as 0
+== jackasses movements ==
+0 -> 0: guardian alan
+create participant "eyeing spiraling" as 1
+0 -> 1 : eyeing spiraling
+@enduml

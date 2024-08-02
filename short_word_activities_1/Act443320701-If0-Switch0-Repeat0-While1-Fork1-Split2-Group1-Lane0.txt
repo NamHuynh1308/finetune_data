@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:boogie accoutrements;
+split again
+-[hidden]->
+:poultry publically; <<load>>
+split again
+-[hidden]->
+:coasters zoning; <<save>>
+split again
+-[hidden]->
+fork
+:sedate hater;
+fork again
+:overlapping bottoms;
+-> serves portent;
+fork again
+:thesis braces;
+end merge
+end split
+group viper pleases
+split
+:spender unspoiled;
+split again
+while (quitters contraption?) is (regulate loin)
+:artifacts rebound; <<output>>
+endwhile (today lasts)
+:seagull gristle;
+split again
+:heats wheezing; <<save>>
+-> fellers decaying;
+split again
+:commodity vow; <<continuous>>
+-> patent enchanting;
+end split
+stop
+end group
+@enduml

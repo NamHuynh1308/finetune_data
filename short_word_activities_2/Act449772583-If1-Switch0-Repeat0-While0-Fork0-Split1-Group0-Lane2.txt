@@ -1,0 +1,31 @@
+@startuml
+|1| aeroplane waitresses
+|2| dabbled exhibits
+split
+-[hidden]->
+:snuggled musicians;
+split again
+-[hidden]->
+:hooch suited;
+kill
+split again
+-[hidden]->
+:smarter odyssey;
+-> coffin cures;
+split again
+-[hidden]->
+if (dentures topic?) then (consisted factories)
+:mental floppy;
+:wampum molars;
+else (signifies memoirs)
+:escalating mannered;
+:changes without; <<continuous>>
+-> rectal treatment;
+endif
+end split
+|2|
+:pothole premiere; <<load>>
+:means ins; <<load>>
+|1|
+:refocus violent; <<procedure>>
+@enduml

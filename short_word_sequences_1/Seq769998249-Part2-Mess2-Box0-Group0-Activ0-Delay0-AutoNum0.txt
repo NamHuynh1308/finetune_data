@@ -1,0 +1,7 @@
+@startuml
+participant "exemptions dreams" as 0
+participant "onward fine" as 1
+== information additives ==
+1 ->] : rooted escape
+0 -> 1: matters bossing
+@enduml

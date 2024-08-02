@@ -1,0 +1,19 @@
+@startuml
+participant "demolition scrabble" as 0
+participant "parlor stockings" as 1
+participant "officer comforting" as 2
+participant "faltered knob" as 3
+== recovering imbued ==
+autonumber 9 8
+ [<- 1: honorable health
+create participant "overlap unbeatable" as 4
+1 -> 4 : overlap unbeatable
+1 -> 2: crackling nuisance
+alt hiccup postage
+0 -> 0: diggers eavesdrop
+alt recount marten
+1 -> 0: sharpening croutons
+0 -> 3!! : triggers ducked
+end
+end
+@enduml

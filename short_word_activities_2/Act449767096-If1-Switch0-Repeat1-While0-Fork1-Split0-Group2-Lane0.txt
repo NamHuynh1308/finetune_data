@@ -1,0 +1,28 @@
+@startuml
+fork
+:dawdling ficus;
+fork again
+:communique embankment;
+fork again
+repeat
+:barging nerves; <<output>>
+-> tome eater;
+backward:flue errors;
+repeat while (defeat orchestrate?) is (blurred reef)
+fork again
+:ironic yearning; <<procedure>>
+end fork
+group aa canaries
+:extremes detectors; <<input>>
+-> overcast astrophysics;
+group crab missionaries
+if (gardenias detecting?) then (developer gowns)
+(green rejecting) elseif (mystery redefine?) then (competitors sponsors)
+:stares drinker;
+(beers kid) elseif (expensive spiked?) then (ratings pessimistic)
+:shimmer stumps; <<input>>
+endif
+stop
+end group
+end group
+@enduml

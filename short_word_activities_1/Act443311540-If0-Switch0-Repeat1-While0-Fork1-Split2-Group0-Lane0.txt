@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:reservation armed;
+split again
+-[hidden]->
+fork
+:comeuppance law;
+fork again
+:ultimatum lex;
+-> malfunctioning adage;
+fork again
+:dowser rising;
+fork again
+:learns intercept; <<save>>
+end fork
+split again
+-[hidden]->
+:dogwood fooling; <<continuous>>
+-> judo grandmothers;
+split again
+-[hidden]->
+:duff devote; <<output>>
+end split
+split
+:swatch bacterial;
+split again
+:pudding farted;
+split again
+repeat
+:shaven faux;
+if (letters consenting) then (bigger diploma)
+:conclave traced;
+break
+endif
+->cubs perverts;
+:talents mixes;
+backward:bwana feces;
+repeat while (loneliest succumbed?) is (wavelength types)
+end split
+:outraged evenly; <<task>>
+:bauble cocaine; <<output>>
+@enduml

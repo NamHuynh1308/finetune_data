@@ -1,0 +1,14 @@
+@startuml
+group discolored resident
+fork
+:sticks slung;
+fork again
+:ache arbor;
+fork again
+:meadow umbrella;
+fork again
+:cash trades; <<procedure>>
+end fork
+stop
+end group
+@enduml

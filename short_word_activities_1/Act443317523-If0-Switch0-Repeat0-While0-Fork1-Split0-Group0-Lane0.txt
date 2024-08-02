@@ -1,0 +1,11 @@
+@startuml
+start
+fork
+:claws fumigating;
+fork again
+:cough conservatory;
+fork again
+:specialist decks; <<output>>
+-> cates swimmer;
+end fork
+@enduml

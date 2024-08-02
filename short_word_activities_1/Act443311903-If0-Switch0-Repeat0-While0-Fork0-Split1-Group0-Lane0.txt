@@ -1,0 +1,11 @@
+@startuml
+split
+:import blowfish;
+split again
+:category schematics;
+split again
+:grey establishment; <<output>>
+end split
+:luxury hisself; <<input>>
+end
+@enduml

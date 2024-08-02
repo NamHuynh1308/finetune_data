@@ -1,0 +1,7 @@
+@startuml
+participant "but protect" as 0
+== mikes poking ==
+opt nods saucers
+0 -> 0: fury risked
+end
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+box "regulars poisonous"
+participant "taunted evolved" as 0
+end box
+create participant "corporations designs" as 1
+0 -> 1 : corporations designs
+0 <-> 1: custard veil
+loop competent stealth
+1 -\\ 1: lock backup
+...hippie struck...
+ [-> 1: grove tram
+end
+@enduml

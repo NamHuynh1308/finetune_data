@@ -1,0 +1,9 @@
+@startuml
+start
+group necromancer gumption
+:empowerment expresses; <<save>>
+:listed vessel; <<save>>
+-> willingly dreadful;
+end group
+end
+@enduml

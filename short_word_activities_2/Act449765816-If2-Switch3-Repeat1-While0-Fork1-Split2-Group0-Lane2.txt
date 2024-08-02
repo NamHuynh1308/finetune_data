@@ -1,0 +1,78 @@
+@startuml
+|1| magazines courtship
+|2| furniture hocus
+|1|
+start
+split
+:sweatshirts sting;
+split again
+if (trooper fancy?) then (uniforms evaluated)
+(reckoning influx) elseif (deranged berserker?) then (dealer remote)
+:mice quart; <<input>>
+(driver prudes) elseif (processed brave?) then (toiling kibble)
+:sidetracked prohibits;
+endif
+split again
+:stopping mammals; <<output>>
+split again
+:duet penetrated; <<continuous>>
+end split
+repeat
+:resents drafting; <<save>>
+backward:newsman silva;
+repeat while (beckons association?) is (regal droop)
+-> inopportune institution;
+|2|
+if (gateway woodsy?) then (insignificant proactive)
+(slacks dinning) elseif (prowess touched?) then (hamstring crisp)
+:sneaks correspondence; <<input>>
+(coop commitments) elseif (justifies passionately?) then (blue institutional)
+:ho rocky;
+(hoses ers) elseif (detailed hectic?) then (benches refute)
+:battle moly; <<continuous>>
+-> daytime cheated;
+(blume courtesy) elseif (bubbies musket?) then (prancer vow)
+switch (parents faced?)
+case (rebellious slayed?)
+:asks bunions; <<output>>
+case (punch fucked?)
+:litigation hypotensive;
+case (journalistic notices?)
+:lullaby quilts; <<save>>
+-> household utilize;
+case (conceiving decorate?)
+:decorations mechanics; <<procedure>>
+endswitch
+endif
+|1|
+switch (wack slighted?)
+case (behalf coaches?)
+split
+:chunks hugged;
+split again
+:crop station; <<output>>
+split again
+:leniency formality;
+end split
+case (unfit snout?)
+switch (plateaued nil?)
+case (quirk slant?)
+:instruction fore;
+-> hostile punishing;
+case (fear hyperbole?)
+:cacophony daffy; <<input>>
+case (embraced gaining?)
+:deferred unsettled; <<procedure>>
+endswitch
+endswitch
+fork
+:everyday warsaw;
+fork again
+:pencil surroundings;
+-> jolt dark;
+fork again
+:unrelated okra;
+-> hurry martini;
+end fork
+end
+@enduml

@@ -1,0 +1,39 @@
+@startuml
+|1| argues authenticate
+|2| slot visiting
+split
+-[hidden]->
+:gardenias pushy;
+split again
+-[hidden]->
+:steno startup; <<procedure>>
+split again
+-[hidden]->
+split
+:subsidiary dweeb;
+split again
+:lack butted;
+kill
+split again
+:stainless collects;
+end split
+split again
+-[hidden]->
+:arroyo heighten; <<save>>
+-> plunder normal;
+end split
+|2|
+:games planners; <<input>>
+:distended baffling;
+split
+:limos anytime;
+split again
+:honestly wade; <<procedure>>
+-> flogging dents;
+split again
+:intellect follows; <<output>>
+split again
+:manticore mildew; <<task>>
+-> morsel unwise;
+end split
+@enduml

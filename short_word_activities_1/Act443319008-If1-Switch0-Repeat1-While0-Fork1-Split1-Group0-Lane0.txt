@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:charging cavity;
+split again
+-[hidden]->
+:disposable nanotechnology; <<continuous>>
+-> gaiety bris;
+split again
+-[hidden]->
+:hacked signifies;
+-> rift feline;
+split again
+-[hidden]->
+:peninsula allure;
+-> sprouted copter;
+end split
+fork
+:raving sloshed;
+fork again
+if (southwest postmaster?) then (scag beetles)
+(donuts degenerative) elseif (shock rubes?) then (hostile royal)
+:employment provisions; <<procedure>>
+(whose plasma) elseif (aboard startle?) then (fled pyre)
+:hostage hide; <<continuous>>
+-> older cams;
+(erratic pinpointed) elseif (pamphlet slingshot?) then (hangout hatred)
+:pacifist knifed;
+endif
+fork again
+repeat
+:psychopaths mishap;
+:crawled fancied;
+:decoy sampled;
+repeat while (troublemaker volunteered?) is (glands medicine)
+fork again
+:obstacles narcissistic;
+-> comforting occurred;
+end merge
+end
+@enduml

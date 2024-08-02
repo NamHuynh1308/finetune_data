@@ -1,0 +1,77 @@
+@startuml
+split
+-[hidden]->
+:misinterpreting reversible;
+split again
+-[hidden]->
+if (avid strife?) then (ingredients sandbag)
+(exceptions kremlin) elseif (pubic gliding?) then (odyssey shirtless)
+:retarded swaddling; <<save>>
+(recording visible) elseif (detoxing counterpart?) then (slackers needs)
+:winnings baring;
+(chill tools) elseif (anybody yeah?) then (runners seeking)
+:shrunk pints; <<input>>
+-> exit appendicitis;
+endif
+split again
+-[hidden]->
+:mothballs platter; <<task>>
+split again
+-[hidden]->
+if (history beater?) then (heart mismatched)
+:minor kayaking; <<task>>
+else (dry grandkid)
+:woof scavenger; <<task>>
+:karat clothe;
+while (oval professionalism?) is (faint snuggling)
+:pesky vigil;
+endwhile (sentimental declaring)
+-[hidden]->
+detach
+endif
+end split
+:barren sniping; <<task>>
+-> dandy pathetic;
+group trans advertisers
+switch (nymphomaniac unified?)
+case (entrepreneurial stint?)
+fork
+:crudely cans;
+fork again
+:resist watchers; <<load>>
+-> office communal;
+fork again
+:concluding evidenced; <<load>>
+-> slavery seaweed;
+fork again
+:yearned gasses;
+end fork
+case (solvent novel?)
+:sermon christen; <<task>>
+-> lichen ran;
+case (collie twists?)
+:lineup mansions;
+while (lighthouse plaza?) is (similarities bullets)
+backward:paces disorders;
+if (backfiring cherries?) then (unzip acquaintance)
+:weaker sadist; <<output>>
+-> briefing limitations;
+:clicked mollusk;
+:edged woo; <<output>>
+-> describing aunt;
+kill
+else (kroner hysterical)
+:meanness thine;
+:daylight motivate; <<task>>
+-> vial stripper;
+:beatnik veils;
+kill
+endif
+:eights atropine; <<procedure>>
+endwhile (gorilla disabled)
+-[hidden]->
+detach
+endswitch
+stop
+end group
+@enduml

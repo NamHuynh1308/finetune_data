@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:handkerchief joey;
+split again
+-[hidden]->
+:handful befitting; <<procedure>>
+split again
+-[hidden]->
+:visitors confinement;
+-> coursing counterattack;
+split again
+-[hidden]->
+:mole dodger;
+-> ava fulfilling;
+end split
+:auditing civility; <<task>>
+-> brook peep;
+group preamble dialed
+:reassemble crumbled; <<output>>
+-> wisely swarm;
+:midlife illegitimate; <<output>>
+end group
+end
+@enduml

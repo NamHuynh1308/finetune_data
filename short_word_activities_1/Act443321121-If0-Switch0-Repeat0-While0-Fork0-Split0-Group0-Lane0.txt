@@ -1,0 +1,5 @@
+@startuml
+start
+:apartheid sells; <<continuous>>
+stop
+@enduml

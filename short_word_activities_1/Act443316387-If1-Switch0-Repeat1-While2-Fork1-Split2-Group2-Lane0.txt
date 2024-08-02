@@ -1,0 +1,64 @@
+@startuml
+split
+-[hidden]->
+:missus favored;
+split again
+-[hidden]->
+split
+:likes willingness;
+split again
+:vanishing maudlin;
+split again
+:tango rehash;
+while (script protects?) is (goof beans)
+:suspending excessive;
+:clear benefactor;
+backward:traveller hessian;
+endwhile (marketing jammer)
+-[hidden]->
+detach
+split again
+:burly emotion;
+end split
+split again
+-[hidden]->
+:squatters chickens; <<input>>
+-> scouting wording;
+split again
+-[hidden]->
+:lefty embroiled;
+-> beau whiny;
+end split
+group lately spectra
+if (historic hasty?) then (ironic spender)
+(workable dalliance) elseif (blossom bidding?) then (baroque who)
+:vacuumed garnet;
+(origami sweaty) elseif (infernal mac?) then (stockings provoked)
+:invincible despondent; <<load>>
+(rarely afternoons) elseif (breathed wreaking?) then (spite malevolent)
+:decompress championship;
+endif
+group rebirth including
+:solace si; <<task>>
+-> zag practitioner;
+repeat
+while (anyplace yammering?) is (tar pathogen)
+:fasten shovels;
+backward:returned squabble;
+:nativity auditorium;
+endwhile (bossy defeated)
+:al discotheque;
+fork
+:whistling rattled;
+fork again
+:clocking samaritan; <<save>>
+fork again
+:simmer contention; <<output>>
+fork again
+:notary breathable; <<load>>
+end merge
+repeat while (gave decaf?) is (booby stadium)
+stop
+end group
+end group
+@enduml

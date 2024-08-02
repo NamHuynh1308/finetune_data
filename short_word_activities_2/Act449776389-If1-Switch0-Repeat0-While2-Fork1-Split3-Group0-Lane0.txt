@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:elude medicare;
+split again
+-[hidden]->
+:agent tarnished; <<input>>
+split again
+-[hidden]->
+split
+:stirred repercussions;
+split again
+:staggeringly hated;
+split again
+:convoy envy;
+split again
+:housing attempts; <<load>>
+end split
+end split
+:complacent bumble; <<load>>
+:interface slaughtering; <<procedure>>
+fork
+:electronics smelling;
+fork again
+while (sin fay?) is (cranium juiced)
+backward:sunsets scrubs;
+endwhile (satchel plans)
+:epilepsy dinner;
+fork again
+:ornate freckling; <<procedure>>
+fork again
+:conflict unprepared;
+while (breathes splendid?) is (comedian redwood)
+:montage touchy;
+if (opposites stockings?) then (webster sanctimonious)
+:mysteries bars; <<procedure>>
+:nightlife quirks;
+else (ancestors fingernail)
+:diverting mold; <<input>>
+:stems nope;
+-> flour banning;
+:trippy officially;
+endif
+split
+:excepted cubs;
+split again
+:parsley commit; <<task>>
+split again
+:commodity broader;
+end split
+backward:conflicting spartan;
+endwhile (deserving succession)
+-[hidden]->
+detach
+end fork
+stop
+@enduml

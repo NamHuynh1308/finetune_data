@@ -1,0 +1,12 @@
+@startuml
+participant "sipping tuition" as 0
+participant "preliminary strawberries" as 1
+autonumber 0 2
+1 -> 0: pastels sudden
+loop conclusions geometric
+create participant "extortionist studly" as 2
+1 -> 2 : extortionist studly
+autonumber stop
+1 --//o 2: regard smoothie
+end
+@enduml

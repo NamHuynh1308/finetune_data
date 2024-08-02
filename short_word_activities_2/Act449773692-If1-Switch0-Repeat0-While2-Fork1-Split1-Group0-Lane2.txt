@@ -1,0 +1,48 @@
+@startuml
+|1| jefe chests
+|2| theatres apparition
+split
+-[hidden]->
+:selectman unfulfilled;
+split again
+-[hidden]->
+if (goofy intuition?) then (parade gurney)
+:boners culpable;
+:establishments requisite; <<task>>
+kill
+else (yellow petitioner)
+:educated demented;
+:boundary protocols; <<load>>
+:strolls astral;
+endif
+split again
+-[hidden]->
+:truest touchdowns; <<input>>
+split again
+-[hidden]->
+while (mitten banning?) is (rouse yea)
+:rematch schnitzel;
+:beech someplace; <<input>>
+-> succession receipts;
+endwhile (calendars stunk)
+:crew medina;
+end split
+|2|
+while (pubescent mush?) is (housewife yore)
+fork
+:loofah apologies;
+fork again
+:generation inexperience;
+fork again
+:microfilm medusa; <<input>>
+end merge
+endwhile (wholeheartedly commercially)
+:lather intuitive;
+:scarcely undecided;
+-> expressed object;
+|1|
+:hilltop tuba; <<load>>
+:blessed ken;
+-> vacate vermouth;
+end
+@enduml

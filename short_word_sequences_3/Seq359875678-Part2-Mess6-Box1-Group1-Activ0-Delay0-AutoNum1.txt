@@ -1,0 +1,19 @@
+@startuml
+box "stomped petrol"
+participant "function berry" as 0
+participant "nominees gainfully" as 1
+end box
+== larger mothballs ==
+autonumber 7 3
+0 -// 1: adjustments separates
+1 <-] : bun annoys
+autonumber stop
+0 -> 0: overpass crumbled
+1 --//o 0: translator impeccable
+0 <-> 1: dealers chuckles
+autonumber resume
+alt lift stowaway
+0 -->x 1: ginger few
+autonumber stop
+end
+@enduml

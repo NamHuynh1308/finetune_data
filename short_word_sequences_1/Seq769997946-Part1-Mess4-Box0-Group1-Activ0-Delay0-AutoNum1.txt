@@ -1,0 +1,11 @@
+@startuml
+participant "observatory macaroons" as 0
+== tedious deadlock ==
+autonumber 0 5
+loop gemma interface
+ [<- 0: credentials jug
+ [-> 0: glued anesthetic
+0 ->] : prejudice season
+0 -> 0: misprint upcoming
+end
+@enduml

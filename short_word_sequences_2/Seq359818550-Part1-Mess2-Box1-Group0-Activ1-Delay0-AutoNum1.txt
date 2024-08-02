@@ -1,0 +1,9 @@
+@startuml
+box "psi neurological"
+participant "sedative hindrance" as 0
+end box
+autonumber 8 1
+0 --> 0++ : yuk nickel
+0 <-> 0: gaps ye
+return geishas frightfully
+@enduml

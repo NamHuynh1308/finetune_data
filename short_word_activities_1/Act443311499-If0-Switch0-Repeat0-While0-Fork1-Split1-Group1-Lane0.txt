@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:transmission comedians;
+split again
+-[hidden]->
+:brain generous; <<save>>
+-> colonials tom;
+split again
+-[hidden]->
+:on tying;
+-> circular scuttled;
+split again
+-[hidden]->
+fork
+:scammed luv;
+fork again
+:recent three; <<load>>
+fork again
+:horrified studio;
+end merge
+end split
+group misled drafted
+:hooray reunion; <<save>>
+-> immortality incredibly;
+stop
+end group
+@enduml

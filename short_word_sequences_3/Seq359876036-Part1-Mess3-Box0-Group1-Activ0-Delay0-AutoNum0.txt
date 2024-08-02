@@ -1,0 +1,9 @@
+@startuml
+participant "blinked mastered" as 0
+loop chloride touchstone
+0 -> 0: intravenously renowned
+0 -->x 0: risk fugitive
+else neighbours golden
+0 --//o 0: sidle maps
+end
+@enduml

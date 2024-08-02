@@ -1,0 +1,11 @@
+@startuml
+start
+switch (chosen lads?)
+case (sea quotation?)
+:warlock homework; <<continuous>>
+-> disagrees ghoul;
+case (physics puller?)
+:gracefully injuries; <<task>>
+endswitch
+stop
+@enduml

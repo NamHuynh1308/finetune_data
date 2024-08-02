@@ -1,0 +1,25 @@
+@startuml
+box "snag angling"
+participant "chestnut plaything" as 0
+participant "tool unsavory" as 1
+participant "bloodied fit" as 2
+end box
+box "parish categories"
+participant "lulu spans" as 3
+participant "dot clearing" as 4
+end box
+== urination undergo ==
+3 -// 0: soonest milling
+alt ariel thusly
+0 -> 0: gasses altering
+1 ->] : statute muller
+ [<- 3: inclined tests
+alt thoracic tug
+3 ->o 1: colchicine restrooms
+ [-> 3: spotting hosed
+loop assemblies penalize
+0 ->] : concord stake
+end
+end
+end
+@enduml

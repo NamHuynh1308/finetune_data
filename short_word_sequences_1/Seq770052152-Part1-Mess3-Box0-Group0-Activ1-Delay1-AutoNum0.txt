@@ -1,0 +1,8 @@
+@startuml
+participant "fey cycles" as 0
+0 -// 0++ : weirdoes imitating
+0 -> 0: must stowaway
+return occurs pinned
+...stocked posture...
+0 -> 0: horses concern
+@enduml

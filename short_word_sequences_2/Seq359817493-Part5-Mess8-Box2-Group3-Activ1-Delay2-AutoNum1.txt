@@ -1,0 +1,33 @@
+@startuml
+box "admit deputy"
+participant "awoke itching" as 0
+participant "fusion clubs" as 1
+end box
+box "geek interns"
+participant "quite blast" as 2
+participant "index hypotensive" as 3
+end box
+== undoing cutler ==
+autonumber 0 4
+loop scholarly prostate
+3 <-> 0: countenance exhibition
+loop loyal becks
+ [-> 1: archer electricity
+2 ->> 2++ : orioles humbly
+loop flipper improves
+...hairpin tipper...
+3 ->x 2: caterpillar foreign
+return creaky disloyal
+3 --> 0: shaved villains
+autonumber stop
+...venison wondrous...
+0 <-> 3: sail quacks
+else crusader arena
+ [-> 0: insistence suds
+create participant "theatres darndest" as 4
+0 -> 4 : theatres darndest
+autonumber resume
+end
+end
+end
+@enduml

@@ -1,0 +1,49 @@
+@startuml
+switch (inform mayflower?)
+case (emperor refinement?)
+switch (greed poisonous?)
+case (trophy shooters?)
+:insult cattle; <<save>>
+-> mousey bunions;
+case (purely chitchat?)
+:militia robins;
+case (cocktails silliest?)
+:whales magnolia; <<continuous>>
+case (valuable bargain?)
+:statements reared;
+endswitch
+case (holiday preached?)
+:assessed unmentionable; <<save>>
+case (hungover ostensibly?)
+:conjunction mafia;
+endswitch
+group pampering secretaries
+split
+:guest attributed;
+split again
+if (jealous loyalties?) then (similar boulevard)
+:amateur conjure;
+-> envious balding;
+:abstain wee;
+kill
+else (privy predisposition)
+:reducing effected; <<task>>
+-> elimination precludes;
+:peninsula deer; <<input>>
+endif
+split again
+switch (jiggling browse?)
+case (supermarket groomed?)
+:using aspirin;
+case (choirboy immobile?)
+:haircut bane;
+-> ruffle weird;
+case (evils deliberations?)
+:dances sparked;
+endswitch
+split again
+:billie commandos; <<procedure>>
+end split
+stop
+end group
+@enduml

@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:healer requested;
+split again
+-[hidden]->
+fork
+:granted giddy;
+fork again
+:limos combination; <<save>>
+fork again
+:rack okay;
+fork again
+:penises equinox;
+end fork
+split again
+-[hidden]->
+:marigold benes; <<continuous>>
+-> dominoes murderous;
+split again
+-[hidden]->
+:blockhead offered; <<save>>
+-> ran scallop;
+end split
+group thrill snarl
+:stickup slush;
+-> busier freshen;
+:track renting;
+-> blends graduated;
+end group
+stop
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+participant "renders literary" as 0
+participant "backing graphic" as 1
+participant "logically salted" as 2
+box "overall deflated"
+participant "beard headline" as 3
+end box
+== deported tilt ==
+autonumber 7 6
+2 -\\ 3: forcibly ump
+3 -> 1: malnourished fictional
+alt scrutinized glass
+...rhyme capsized...
+1 -> 2: meanie forty
+autonumber stop
+create participant "scholarly asset" as 4
+0 -> 4 : scholarly asset
+autonumber resume
+...bren rein...
+0 -> 4: physicists tangerine
+else porch diagnosed
+0 -// 4: eyelids gliders
+end
+@enduml

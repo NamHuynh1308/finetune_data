@@ -1,0 +1,16 @@
+@startuml
+start
+group complained zlotys
+split
+:champion accountability;
+split again
+:flaming slide; <<task>>
+split again
+:guide shes; <<output>>
+split again
+:cunning finale;
+kill
+end split
+stop
+end group
+@enduml

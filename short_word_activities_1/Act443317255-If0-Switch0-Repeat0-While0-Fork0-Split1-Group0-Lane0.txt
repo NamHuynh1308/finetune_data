@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:manhattan basically;
+split again
+-[hidden]->
+:dozens manor; <<output>>
+split again
+-[hidden]->
+:environmental crevasse; <<output>>
+-> cheapest submitting;
+end split
+:boats bitty;
+-> saddest matter;
+stop
+@enduml

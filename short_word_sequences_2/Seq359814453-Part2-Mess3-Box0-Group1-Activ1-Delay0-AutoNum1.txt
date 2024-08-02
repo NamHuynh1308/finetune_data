@@ -1,0 +1,11 @@
+@startuml
+participant "ballon snowmen" as 0
+participant "pinpoint seltzer" as 1
+autonumber 6 7
+opt spit maiden
+0 ->] : bottomless holler
+0 --> 1: heft necessary
+0 ->x 1++ : locals crowded
+end
+return universe raider
+@enduml

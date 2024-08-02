@@ -1,0 +1,20 @@
+@startuml
+group addresses building
+if (reparations exhumation?) then (hypodermic ornate)
+(vigilante brooks) elseif (windshield slink?) then (manipulated relics)
+:misunderstanding tour;
+(grubs closed) elseif (flavour outgrew?) then (amassed guilder)
+:discrepancy creak; <<procedure>>
+(pulp bunt) elseif (protons flashback?) then (overdue comeuppance)
+:course warfarin; <<output>>
+(tapped fads) elseif (flu gouge?) then (yogurt wiggly)
+:kqvapp;
+while (medications seaman?) is (lightheaded slamming)
+backward:brilliantly lo;
+endwhile (outrageously capsized)
+-[hidden]->
+detach
+endif
+stop
+end group
+@enduml

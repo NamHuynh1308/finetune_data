@@ -1,0 +1,5 @@
+@startuml
+participant "mortals withdraws" as 0
+0 ->x 0++ : roost staking
+return dilation catchers
+@enduml

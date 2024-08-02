@@ -1,0 +1,13 @@
+@startuml
+participant "spunky placing" as 0
+participant "crow messes" as 1
+box "communicate lids"
+participant "chihuahua mother" as 2
+end box
+alt doohickey fanatic
+1 -> 0!! : fingertips blending
+0 -> 0: licensing arose
+end
+0 <-> 1++ : incur indiscreet
+return stride points
+@enduml

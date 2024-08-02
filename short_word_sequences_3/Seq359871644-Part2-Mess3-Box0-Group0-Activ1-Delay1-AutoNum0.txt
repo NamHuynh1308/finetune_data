@@ -1,0 +1,9 @@
+@startuml
+participant "chops yea" as 0
+0 ->o 0++ : captivity arctic
+create participant "counting invent" as 1
+0 -> 1 : counting invent
+return deluded maidens
+...thump chiefs...
+1 ->> 0: granger corset
+@enduml

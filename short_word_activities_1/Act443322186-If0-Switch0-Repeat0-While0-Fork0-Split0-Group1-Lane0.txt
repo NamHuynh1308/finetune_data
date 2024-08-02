@@ -1,0 +1,6 @@
+@startuml
+group paperback expires
+:flounder fans; <<save>>
+stop
+end group
+@enduml

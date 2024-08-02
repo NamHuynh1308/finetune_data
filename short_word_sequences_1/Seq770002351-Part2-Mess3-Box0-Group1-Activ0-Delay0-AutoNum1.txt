@@ -1,0 +1,13 @@
+@startuml
+participant "abilities narwhal" as 0
+participant "pennant mixup" as 1
+== slides talking ==
+autonumber 2 1
+1 -// 0: future rushed
+1 ->] : land drugged
+autonumber stop
+break landmark fritz
+1 ->> 0: matriarch sardines
+autonumber resume
+end
+@enduml

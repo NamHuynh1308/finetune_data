@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:proceedings adhesive;
+split again
+-[hidden]->
+:lopper amazes; <<output>>
+split again
+-[hidden]->
+if (forceful caviar?) then (magnitude cramps)
+:compete laying; <<output>>
+:classmate yo; <<load>>
+-> heartthrob scumbags;
+:scrape trellis; <<procedure>>
+else (cork beta)
+:sensors discounts;
+-> postponement goers;
+endif
+split again
+-[hidden]->
+if (elements explain?) then (grinder mannequins)
+:pacifist insane; <<continuous>>
+-> chesty rebate;
+:vampire pregnancies; <<continuous>>
+else (distort bliss)
+:autographed distracting; <<input>>
+:fraternity frizzy;
+while (nonsense paperboy?) is (disqualify jittery)
+:coast tween;
+backward:drove commissioner;
+backward:distract denominators;
+:femme undergrad;
+-> smartass gutters;
+endwhile (spirituality bulb)
+-[hidden]->
+detach
+endif
+end split
+group whacko brained
+:mystified issuing;
+stop
+end group
+@enduml

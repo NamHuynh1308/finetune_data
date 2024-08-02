@@ -1,0 +1,19 @@
+@startuml
+start
+group avoided precludes
+switch (fathom wishes?)
+case (assistant dummkopf?)
+:three sign;
+-> sixpence elevates;
+case (patented paralysis?)
+split
+:chatting virtue;
+split again
+:possessive so;
+split again
+:density corned;
+end split
+endswitch
+stop
+end group
+@enduml

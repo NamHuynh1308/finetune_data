@@ -1,0 +1,11 @@
+@startuml
+split
+:staircase splash;
+split again
+:salinas involving; <<save>>
+split again
+:vat torah; <<continuous>>
+-> confinement booking;
+end split
+end
+@enduml

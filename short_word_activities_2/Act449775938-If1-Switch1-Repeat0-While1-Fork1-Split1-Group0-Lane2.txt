@@ -1,0 +1,61 @@
+@startuml
+|1| sultan boulevard
+|2| stream spliced
+split
+-[hidden]->
+:arc bozos;
+split again
+-[hidden]->
+:shamrock university; <<procedure>>
+-> afforded adjustments;
+split again
+-[hidden]->
+:athletic insisted; <<procedure>>
+end split
+|2|
+:recuperating protectors; <<load>>
+if (calzone reactive?) then (firebird guy)
+(hotel unreachable) elseif (waterproof hammering?) then (collection biohazard)
+switch (nellie hacksaw?)
+case (aftermath laptop?)
+:classical outdoorsy; <<input>>
+case (quarterback namesake?)
+:interplanetary promptly; <<procedure>>
+-> crated smuggler;
+case (archeology urinal?)
+:detergent deets; <<procedure>>
+case (inhalation doth?)
+:carpool unattended; <<input>>
+-> loins malignant;
+endswitch
+(stab bulletins) elseif (conclude benching?) then (titan drifter)
+:mfhsaf;
+while (chubby prelim?) is (empowered gagged)
+backward:twister waved;
+backward:yearns gunning;
+:opus patronize; <<procedure>>
+-> nippy fiasco;
+endwhile (relieve genome)
+-[hidden]->
+detach
+(overbearing belated) elseif (corner cub?) then (breakfast melding)
+fork
+:improvise belted;
+fork again
+:baroque plaintiff;
+fork again
+:held clumsiness;
+fork again
+:booth overdrive;
+end merge
+(establishing breakwater) elseif (retina slimmer?) then (workup overqualified)
+:surgeons gawk;
+endif
+|1|
+:filter average;
+-> finds supervision;
+|2|
+:alleluia accept; <<input>>
+:maturity scrambling; <<save>>
+-> corresponded incomparable;
+@enduml

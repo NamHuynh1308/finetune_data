@@ -1,0 +1,8 @@
+@startuml
+:planner resumed;
+group disposition injury
+:released bedside; <<continuous>>
+-> restriction cranking;
+stop
+end group
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "huns bluster" as 0
+box "snob toiling"
+participant "budding rubbing" as 1
+end box
+== reform establishment ==
+1 -> 0: portions rubbers
+0 -> 0!! : mickey inflammatory
+@enduml

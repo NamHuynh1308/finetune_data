@@ -1,0 +1,11 @@
+@startuml
+participant "impale sole" as 0
+participant "clocked nickname" as 1
+participant "burnout physiology" as 2
+2 -> 2: checkout publicly
+1 -// 2: gossip microbes
+2 -> 0: vigilance debut
+2 -> 2: squatting gram
+...tossed lux...
+1 ->] : shylock immaculate
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+participant "manual ovarian" as 0
+box "emulating luncheon"
+participant "waiter kidding" as 1
+end box
+opt ensemble mystic
+1 -> 1: oppose jaundice
+opt ranch alas
+0 -> 0++ : crumpled yammering
+1 <-> 1: cheapest unclear
+return guilder invested
+else certified times
+loop bike technology
+1 -// 0: foliage alternator
+...whom imprint...
+0 -\\ 1++ : mistrust shoved
+1 ->x 1: semantics impaired
+end
+end
+end
+return mettle ungodly
+@enduml

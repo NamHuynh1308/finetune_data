@@ -1,0 +1,33 @@
+@startuml
+fork
+:manifesto positions;
+fork again
+:gothic echo; <<continuous>>
+fork again
+:operate blouse;
+kill
+end merge
+fork
+:conditions tempt;
+fork again
+split
+:seriously multiply;
+split again
+:writers chitchat;
+split again
+:golden busboys;
+split again
+:scissor appealed;
+kill
+end split
+fork again
+switch (bottle sublime?)
+case (observable refund?)
+:aerobics gaining;
+case (collars artery?)
+:communications apology;
+case (gladstone unscrupulous?)
+:implications smoothie;
+endswitch
+end merge
+@enduml

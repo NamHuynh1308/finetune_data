@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:parakeet courage;
+split again
+-[hidden]->
+:recalled zephyrs; <<load>>
+-> sip tallied;
+split again
+-[hidden]->
+:noo epoxy; <<continuous>>
+split again
+-[hidden]->
+:perfect lobby;
+end split
+:leech nominees;
+-> limitless quality;
+end
+@enduml

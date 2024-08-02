@@ -1,0 +1,9 @@
+@startuml
+participant "owns whip" as 0
+== driven rains ==
+autonumber 1 2
+opt fortnight earth
+0 -> 0: bypass simplify
+autonumber stop
+end
+@enduml

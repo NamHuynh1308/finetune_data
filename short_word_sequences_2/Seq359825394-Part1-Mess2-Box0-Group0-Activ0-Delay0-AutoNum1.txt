@@ -1,0 +1,6 @@
+@startuml
+participant "guest floors" as 0
+autonumber 8 8
+0 -> 0: organize punched
+0 -> 0: weighing enlist
+@enduml

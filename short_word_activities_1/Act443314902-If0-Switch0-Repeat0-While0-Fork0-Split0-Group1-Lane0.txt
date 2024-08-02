@@ -1,0 +1,8 @@
+@startuml
+:regain angina; <<procedure>>
+group incidence unannounced
+:mobility walk; <<input>>
+:luna evolutionary;
+-> reviews creeps;
+end group
+@enduml

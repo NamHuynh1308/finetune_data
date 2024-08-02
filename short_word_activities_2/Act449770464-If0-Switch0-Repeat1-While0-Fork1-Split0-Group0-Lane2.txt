@@ -1,0 +1,22 @@
+@startuml
+|1| gift barroom
+|2| cutoffs sprained
+|1|
+start
+|2|
+:roadway smuggling;
+-> discipline intoxication;
+repeat
+fork
+:rat muley;
+fork again
+:sorcery generator;
+fork again
+:valley races;
+fork again
+:ditches rooming;
+end fork
+repeat while (diggers elements?) is (drops let)
+-> neutral tender;
+:haywire kitty; <<input>>
+@enduml

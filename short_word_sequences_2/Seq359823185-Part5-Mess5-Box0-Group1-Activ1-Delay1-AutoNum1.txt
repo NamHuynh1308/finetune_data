@@ -1,0 +1,18 @@
+@startuml
+participant "tailors hunky" as 0
+participant "mates goodman" as 1
+participant "fleeing scarlet" as 2
+participant "shield code" as 3
+== gofer itches ==
+autonumber 5 10
+create participant "naphthalene junkies" as 4
+3 -> 4 : naphthalene junkies
+2 --> 4++ : homage tote
+0 -\\ 1: battering ominous
+2 --> 3: sort miller
+return enormity alike
+par courtship sweet
+...revise precautions...
+2 ->] : smoke pathways
+end
+@enduml

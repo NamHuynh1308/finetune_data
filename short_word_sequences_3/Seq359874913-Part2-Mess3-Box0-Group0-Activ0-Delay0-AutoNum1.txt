@@ -1,0 +1,9 @@
+@startuml
+participant "brigadier toothache" as 0
+participant "messengers bossy" as 1
+autonumber 3 6
+0 --//o 0: helps civilisation
+1 ->> 1: kicker boggles
+0 -->x 1: caramba odyssey
+autonumber stop
+@enduml

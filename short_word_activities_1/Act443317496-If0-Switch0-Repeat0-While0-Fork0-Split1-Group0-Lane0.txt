@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:summed anorexia;
+split again
+-[hidden]->
+:nipping untrustworthy; <<procedure>>
+-> reptilian reporter;
+split again
+-[hidden]->
+:evening latched; <<procedure>>
+-> steamer sac;
+end split
+:hypertension fronts; <<procedure>>
+end
+@enduml

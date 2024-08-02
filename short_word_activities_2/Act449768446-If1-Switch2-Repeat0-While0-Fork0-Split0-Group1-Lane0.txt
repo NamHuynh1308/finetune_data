@@ -1,0 +1,26 @@
+@startuml
+switch (wardrobe swerve?)
+case (hate exorbitant?)
+:unattractive mime; <<output>>
+case (rapid eggnog?)
+:prophets unwieldy;
+case (hamsters anecdotes?)
+:extorting nighttime;
+endswitch
+group reseda ligature
+if (district produces?) then (glitch mortal)
+switch (webs flavor?)
+case (frills festering?)
+:excellence intuition;
+case (paralyzing lease?)
+:fiefdom registrar; <<input>>
+endswitch
+else (paperboy announce)
+:microscopic intervene; <<procedure>>
+-> basketball push;
+:geneva proud; <<task>>
+-> generated minimal;
+endif
+stop
+end group
+@enduml

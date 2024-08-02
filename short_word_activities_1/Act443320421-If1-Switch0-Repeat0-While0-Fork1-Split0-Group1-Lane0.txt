@@ -1,0 +1,22 @@
+@startuml
+group instructing vendettas
+fork
+:orbed adventures;
+fork again
+:god parlour; <<task>>
+fork again
+:delivered escapades;
+fork again
+if (harming hibiscus?) then (laddies teen)
+:cannabis failing;
+:blather shrivel; <<continuous>>
+else (wrenched sandy)
+:costumes stammering; <<load>>
+:months delusional; <<task>>
+-> bio senses;
+:smooch purview; <<output>>
+endif
+end fork
+stop
+end group
+@enduml

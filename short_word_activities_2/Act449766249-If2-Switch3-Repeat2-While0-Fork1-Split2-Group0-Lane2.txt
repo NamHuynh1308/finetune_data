@@ -1,0 +1,85 @@
+@startuml
+|1| false strangling
+|2| reprimand organ
+split
+-[hidden]->
+:donna hotline;
+split again
+-[hidden]->
+repeat
+:majoring vasectomy;
+-> wrapper preventative;
+:beetles mythic;
+repeat while (licensing mags?) is (operas attitudes)
+split again
+-[hidden]->
+:producers insignia; <<output>>
+split again
+-[hidden]->
+switch (beach pentagon?)
+case (grass teammates?)
+:jin personals; <<load>>
+-> discredit medicating;
+case (clavicle trombone?)
+:theme cracker; <<output>>
+-> central landers;
+case (rotated tarred?)
+:greek warheads;
+endswitch
+end split
+switch (golly wraps?)
+case (supper sarcophagus?)
+:snores henry; <<save>>
+case (target pollen?)
+repeat
+:yuk disapproves;
+repeat while (explicit loathes?) is (recalling accoutrements)
+case (olives endorphins?)
+:come undetectable; <<input>>
+case (sides hotels?)
+:intake booster; <<procedure>>
+endswitch
+fork
+:hospital motherless;
+fork again
+:cackle yep; <<input>>
+fork again
+:stuffy hotbed;
+fork again
+if (packer palpitations?) then (loaf eighteenth)
+(alumni avoid) elseif (astound refrigerator?) then (dean eyeball)
+:nightmarish ravine;
+(relating reeve) elseif (zany nose?) then (flapjacks said)
+:farmers aspen; <<procedure>>
+(separation conversion) elseif (symbolize flinging?) then (expires strut)
+:takes memories;
+endif
+end fork
+|2|
+if (hugging scar?) then (taunt newsletter)
+(pebble surly) elseif (definitive drastically?) then (wage visor)
+split
+:thrives prostitute;
+split again
+:scoliosis fortress; <<output>>
+split again
+:fellers biochemistry; <<task>>
+end split
+(sabotaging felonies) elseif (complicates trapping?) then (stinking confides)
+switch (helping sweethearts?)
+case (mean holland?)
+:overdone alfalfa; <<continuous>>
+case (concepts elements?)
+:intermission rectangle;
+case (heckling shipments?)
+:downing dictatorships;
+case (banners panache?)
+:delirium topple;
+endswitch
+endif
+:overstepping reclaiming; <<procedure>>
+-> extort proofed;
+|1|
+:arboretum bawdy;
+stop
+@enduml

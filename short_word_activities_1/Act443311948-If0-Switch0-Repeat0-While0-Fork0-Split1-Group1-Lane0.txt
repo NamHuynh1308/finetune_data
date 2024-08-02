@@ -1,0 +1,16 @@
+@startuml
+group saline examiner
+split
+:publicly marten;
+split again
+:waltzing designated;
+split again
+:threat bilingual;
+split again
+:ness easier; <<input>>
+-> disorder swapping;
+end split
+:populations propose; <<output>>
+stop
+end group
+@enduml

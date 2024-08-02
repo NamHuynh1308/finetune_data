@@ -1,0 +1,11 @@
+@startuml
+box "philandering physical"
+participant "insufficient cherub" as 0
+box "groundbreaking artful"
+participant "constantly steaks" as 1
+end box
+end box
+== rechecked steak ==
+1 -> 1: consorting indebted
+0 ->> 1: galactic atrophied
+@enduml

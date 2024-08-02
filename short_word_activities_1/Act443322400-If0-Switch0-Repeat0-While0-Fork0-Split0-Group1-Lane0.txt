@@ -1,0 +1,7 @@
+@startuml
+start
+group compelling penthouse
+:toad hanger; <<continuous>>
+stop
+end group
+@enduml

@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:drifter light;
+split again
+-[hidden]->
+split
+:crepe bribed;
+split again
+:mopped uphill;
+split again
+:endive violate;
+end split
+split again
+-[hidden]->
+split
+:flew temperament;
+split again
+:wag conductor; <<output>>
+split again
+:august include;
+split again
+:manipulate trussed;
+end split
+end split
+if (sculptures absolution?) then (supercollider multiplex)
+:rabble guaranteeing; <<save>>
+-> diagnosis embracing;
+:chalet rivalry; <<input>>
+else (spokes carbs)
+:statuary whew; <<save>>
+-> prohibit judges;
+:cosmology scramble; <<procedure>>
+-> twas rigged;
+endif
+:synthesize deviated;
+-> infertile tracked;
+@enduml

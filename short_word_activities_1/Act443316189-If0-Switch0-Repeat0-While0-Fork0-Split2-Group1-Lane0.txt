@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:heaven coordinate;
+split again
+-[hidden]->
+split
+:memos showbiz;
+split again
+:armour letter;
+split again
+:cockamamie urban; <<save>>
+end split
+split again
+-[hidden]->
+:kneeling obvious; <<load>>
+split again
+-[hidden]->
+:exorcism mor; <<save>>
+end split
+:scan dissolving;
+group ganja nodding
+:grinds intimated; <<task>>
+stop
+end group
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "larvae humble" as 0
+create participant "bleachers pronto" as 1
+0 -> 1 : bleachers pronto
+@enduml

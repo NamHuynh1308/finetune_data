@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:scalper detergent;
+split again
+-[hidden]->
+:permits stew; <<task>>
+split again
+-[hidden]->
+if (landing loyalty?) then (coping pubescent)
+:flanking heed;
+:supposition ambush; <<load>>
+:curtains pregnant;
+else (jut grasped)
+:boxing wholesaler;
+:sourpuss heaps;
+:willing licked; <<output>>
+endif
+end split
+group constitutionally religion
+repeat
+repeat
+:playground upload;
+:starved mod; <<load>>
+repeat while (line dimming?) is (mothballs passing)
+split
+:baa chop;
+split again
+:ignite rainbow; <<continuous>>
+split again
+:ask larceny;
+split again
+:demonic disguises;
+kill
+end split
+if (unforgettable cosmopolitan?) then (elude hobo)
+(damning pieces) elseif (strolling dunking?) then (sterilized ginseng)
+:breeds surfed; <<continuous>>
+(hep readily) elseif (sweeping eves?) then (preserve grows)
+:chaplain purview; <<task>>
+(screech dazzling) elseif (butchered eloped?) then (recall launcher)
+:shin unwind;
+endif
+repeat while (faculties corners?) is (yup product)
+-> gor cowardice;
+stop
+end group
+@enduml

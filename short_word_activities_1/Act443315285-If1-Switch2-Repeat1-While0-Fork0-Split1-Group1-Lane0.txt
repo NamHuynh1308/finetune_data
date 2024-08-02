@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:pretends chameleon;
+split again
+-[hidden]->
+switch (integrity mountain?)
+case (minion patently?)
+:shiny assault; <<load>>
+-> precaution fudge;
+case (hornet historical?)
+:spurred beaches; <<task>>
+-> tomahawk frills;
+case (upheaval chest?)
+:diver peaceful; <<procedure>>
+endswitch
+split again
+-[hidden]->
+:relies begging;
+end split
+group dredged pantaloons
+:sideways renege; <<input>>
+switch (protocols fortress?)
+case (quadrant semantics?)
+repeat
+:sickened mouths;
+backward:honky verger;
+repeat while (lasagna outcast?) is (chicken informational)
+case (checkup tarnish?)
+:drooling helping;
+case (gripe daybreak?)
+:prospector rotted;
+case (shuffle podiatrist?)
+if (rash dinosaurs?) then (ruin platform)
+:starlet splinter;
+else (appearance wagging)
+:virtuoso rehabilitated;
+:shakers fabricate;
+endif
+endswitch
+stop
+end group
+@enduml

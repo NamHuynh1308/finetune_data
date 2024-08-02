@@ -1,0 +1,10 @@
+@startuml
+participant "terrain shoes" as 0
+participant "secrecy marrow" as 1
+participant "estimating hankering" as 2
+autonumber 10 1
+1 ->] : android boombox
+2 ->o 0: headgear stored
+autonumber stop
+1 ->o 1: ambivalence scrambled
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+switch (throttle fart?)
+case (sheet motherfuckers?)
+:hordes reprobate; <<task>>
+case (pesky brie?)
+:bloom paralyzed; <<continuous>>
+endswitch
+end
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "kaon mornings" as 0
+participant "felons berating" as 1
+autonumber 9 7
+critical bereavement redo
+0 -->x 0: stronger tissue
+autonumber stop
+0 -> 1: university stills
+else knees talky
+1 --//o 0: meal swatches
+autonumber resume
+else bats comparing
+alt audiences daytime
+0 ->x 0: snacks mick
+autonumber stop
+end
+end
+@enduml

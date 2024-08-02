@@ -1,0 +1,59 @@
+@startuml
+group jaguars locomotive
+fork
+:gags misses;
+fork again
+fork
+:teamwork harbouring;
+fork again
+:defacing caesar;
+fork again
+:glasses occurrence; <<input>>
+end fork
+fork again
+:dough yuk; <<input>>
+fork again
+:fragments compels; <<continuous>>
+-> bribe baiting;
+end merge
+if (blends unwashed?) then (literally heinous)
+(businessmen soupy) elseif (allergies bending?) then (carnival testifies)
+:fizzled hacked;
+(scrapbook bunny) elseif (lard seppuku?) then (cachet infirmary)
+repeat
+:mina understand;
+backward:dizziness invention;
+:within indicate;
+repeat while (brought skilled?) is (accomplish revenge)
+-> melodramatic bugged;
+(pets flashback) elseif (machinery blocks?) then (uncompromising dyed)
+:discovers towards;
+(contented stoop) elseif (inspiring scanning?) then (rebellion rectify)
+:respiration totally; <<save>>
+endif
+end group
+split
+:confronted cloth;
+split again
+split
+:pudding done;
+split again
+:floss unflattering;
+split again
+:ballast cash; <<continuous>>
+-> refusing diazepam;
+split again
+:napping dumb;
+end split
+split again
+fork
+:passionate salty;
+fork again
+:psychic predecessor;
+fork again
+:brutally extortion;
+fork again
+:season claim;
+end fork
+end split
+@enduml

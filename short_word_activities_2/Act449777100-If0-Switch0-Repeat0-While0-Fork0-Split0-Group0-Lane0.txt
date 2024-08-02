@@ -1,0 +1,5 @@
+@startuml
+start
+:whichever sublime; <<continuous>>
+stop
+@enduml

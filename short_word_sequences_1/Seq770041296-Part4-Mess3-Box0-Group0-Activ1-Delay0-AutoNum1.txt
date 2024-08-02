@@ -1,0 +1,12 @@
+@startuml
+participant "spoilsport pinching" as 0
+participant "normally lapse" as 1
+participant "donut inflammatory" as 2
+== kooks injured ==
+autonumber 3 6
+create participant "arches monsignor" as 3
+1 -> 3 : arches monsignor
+3 -> 1++ : cement acquired
+1 -> 2!! : craze commonplace
+return femmes millionaires
+@enduml

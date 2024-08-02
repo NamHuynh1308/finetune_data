@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:reportedly sofa;
+split again
+-[hidden]->
+if (stance perils?) then (grandfathers prancing)
+:example rude;
+kill
+else (braille advertising)
+:atheists splashing;
+:dramatically sporting; <<save>>
+-> adventures ranks;
+endif
+split again
+-[hidden]->
+:pinot negatively; <<output>>
+split again
+-[hidden]->
+:bottomless fibbing; <<input>>
+end split
+:goats violet;
+:intellect bulletins; <<load>>
+:rope thread; <<output>>
+stop
+@enduml

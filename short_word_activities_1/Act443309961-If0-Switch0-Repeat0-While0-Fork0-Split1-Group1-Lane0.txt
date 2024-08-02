@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:helmets midst;
+split again
+-[hidden]->
+:ops devastation; <<continuous>>
+split again
+-[hidden]->
+:fires pied; <<procedure>>
+end split
+:commissioner horizontal; <<output>>
+-> navigate infiltrate;
+:delving swan; <<load>>
+-> atrium inedible;
+group traumatic wormhole
+:chain nightlife; <<procedure>>
+-> demographics skies;
+stop
+end group
+@enduml

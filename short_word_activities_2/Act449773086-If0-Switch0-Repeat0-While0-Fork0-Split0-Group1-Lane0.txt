@@ -1,0 +1,6 @@
+@startuml
+group madre solo
+:nuke excess; <<output>>
+stop
+end group
+@enduml

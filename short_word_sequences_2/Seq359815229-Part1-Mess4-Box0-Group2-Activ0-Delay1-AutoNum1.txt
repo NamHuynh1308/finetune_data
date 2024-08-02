@@ -1,0 +1,17 @@
+@startuml
+participant "televised presidential" as 0
+== trombone connected ==
+autonumber 4 2
+0 ->] : rethought tango
+autonumber stop
+critical trophy chihuahua
+0 -->x 0: whit jaws
+...tae towels...
+0 -> 0: gained grid
+autonumber resume
+opt granted lasso
+0 -// 0: mocking closed
+autonumber stop
+end
+end
+@enduml

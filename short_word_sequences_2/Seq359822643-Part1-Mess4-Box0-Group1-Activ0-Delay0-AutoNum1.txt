@@ -1,0 +1,12 @@
+@startuml
+participant "savage lighter" as 0
+autonumber 8 10
+0 -> 0!! : enjoying hairpin
+autonumber stop
+ [<- 0: teed airmen
+0 --//o 0: extend spectacle
+alt muskrat fizzled
+0 -> 0: belittle overdosed
+autonumber resume
+end
+@enduml

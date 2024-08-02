@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:insulation whilst;
+split again
+-[hidden]->
+split
+:tod toon;
+split again
+:reconstruct wrought; <<save>>
+split again
+:banish displeased;
+split again
+:miners pathology;
+end split
+split again
+-[hidden]->
+:craze madame; <<task>>
+split again
+-[hidden]->
+:grove nothings; <<output>>
+-> naivete yippee;
+end split
+:division irony;
+:kindling noon; <<continuous>>
+repeat
+:exorbitant least; <<load>>
+repeat while (settlement balloons?) is (dip overheating)
+@enduml

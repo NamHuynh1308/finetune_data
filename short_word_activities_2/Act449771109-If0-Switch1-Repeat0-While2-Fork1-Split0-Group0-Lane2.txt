@@ -1,0 +1,33 @@
+@startuml
+|1| gases fulcrum
+|2| indigo baggage
+:assailant snarky; <<load>>
+fork
+:doofus seats;
+fork again
+:difficulties fiddle;
+while (cheesy snags?) is (commercial internally)
+backward:plaintiff dub;
+while (pedestal slippers?) is (command jiff)
+:audit lights;
+:containment castles;
+:debutante monarchs;
+:relentlessly argued;
+endwhile (accounts valiant)
+:enact quoth;
+endwhile (alcazar regards)
+-[hidden]->
+detach
+fork again
+:tactful heist; <<save>>
+end fork
+|2|
+switch (oncoming wayside?)
+case (crafty terrify?)
+:obligated clientele; <<load>>
+case (baggies sickens?)
+:perks pun; <<save>>
+endswitch
+:abundant rammed; <<load>>
+stop
+@enduml

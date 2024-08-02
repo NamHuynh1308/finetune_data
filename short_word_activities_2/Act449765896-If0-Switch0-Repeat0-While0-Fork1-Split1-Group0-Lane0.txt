@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:jingle sincerely;
+split again
+-[hidden]->
+:green bugging; <<continuous>>
+split again
+-[hidden]->
+fork
+:amuses traps;
+fork again
+:skepticism snorted;
+fork again
+:captive dit;
+kill
+end fork
+end split
+:handout yard; <<continuous>>
+end
+@enduml

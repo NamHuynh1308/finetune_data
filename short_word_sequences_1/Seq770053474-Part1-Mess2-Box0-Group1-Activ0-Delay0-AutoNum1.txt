@@ -1,0 +1,10 @@
+@startuml
+participant "viewing minutes" as 0
+autonumber 0 9
+0 -> 0!! : comical flutes
+autonumber stop
+opt terrain admissions
+0 <-] : businessmen backpacks
+autonumber resume
+end
+@enduml

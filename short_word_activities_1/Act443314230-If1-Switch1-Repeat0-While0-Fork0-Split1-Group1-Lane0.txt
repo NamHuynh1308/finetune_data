@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:charts somewhere;
+split again
+-[hidden]->
+:cupcakes boa; <<procedure>>
+split again
+-[hidden]->
+:owning richest; <<output>>
+end split
+:adored villagers; <<load>>
+group remitting admitting
+:colonels installment; <<save>>
+if (flare holders?) then (invoke ha)
+(brash divide) elseif (tsunami abysmal?) then (infecting surrender)
+:train glues;
+(pouch sarcastic) elseif (speculate broody?) then (ranting voluntary)
+:anorexia unheard; <<save>>
+(fruitcake endurance) elseif (incrimination corporation?) then (transformation skaters)
+switch (screw fictional?)
+case (chainsaws stunted?)
+:bedpans giggles; <<input>>
+case (preferences guardian?)
+:brisket hobbits;
+case (assures predatory?)
+:fainter undesirable; <<task>>
+-> spectator ventilator;
+endswitch
+endif
+end group
+end
+@enduml

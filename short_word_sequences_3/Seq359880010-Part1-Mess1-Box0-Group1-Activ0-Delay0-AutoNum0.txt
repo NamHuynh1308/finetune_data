@@ -1,0 +1,7 @@
+@startuml
+participant "dictate diets" as 0
+== momentarily hillbilly ==
+loop assortment historically
+0 --> 0: grainy eating
+end
+@enduml

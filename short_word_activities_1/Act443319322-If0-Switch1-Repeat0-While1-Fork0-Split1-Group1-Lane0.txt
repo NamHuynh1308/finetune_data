@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:possum runes;
+split again
+-[hidden]->
+:sentimental radial; <<procedure>>
+split again
+-[hidden]->
+:latch sung;
+-> bedlam hetero;
+end split
+group millennia claustrophobic
+switch (poached benching?)
+case (darned loyalties?)
+:despair recovers;
+while (cling toothbrush?) is (nostril rock)
+backward:enlisting followers;
+endwhile (vindictive puff)
+-[hidden]->
+detach
+case (cow curriculum?)
+:spawn delight; <<input>>
+endswitch
+:hemorrhoid drilling; <<procedure>>
+-> accustomed petal;
+end group
+@enduml

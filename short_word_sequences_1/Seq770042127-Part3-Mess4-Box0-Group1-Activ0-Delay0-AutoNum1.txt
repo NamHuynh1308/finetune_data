@@ -1,0 +1,13 @@
+@startuml
+participant "cavalcade folder" as 0
+participant "punches successful" as 1
+autonumber 3 2
+0 ->o 0: vastly philosopher
+autonumber stop
+1 ->o 0: cork muckraker
+critical fairway vino
+0 -> 1!! : rude balled
+create participant "albatross divulged" as 2
+1 -> 2 : albatross divulged
+end
+@enduml

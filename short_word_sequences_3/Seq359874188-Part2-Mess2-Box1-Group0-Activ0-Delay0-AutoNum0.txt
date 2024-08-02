@@ -1,0 +1,9 @@
+@startuml
+box "printing results"
+participant "eloquent saccharine" as 0
+participant "brownout hierarchy" as 1
+end box
+== mick disobeyed ==
+0 --> 0: caved timetable
+1 -> 0: winery delicately
+@enduml

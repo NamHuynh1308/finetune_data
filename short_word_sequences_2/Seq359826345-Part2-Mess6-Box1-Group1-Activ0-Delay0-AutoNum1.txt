@@ -1,0 +1,19 @@
+@startuml
+participant "tracks grins" as 0
+box "bicentennial drafted"
+participant "gleam owned" as 1
+end box
+autonumber 0 2
+1 <-] : wires speedily
+0 ->o 1: forensic maniacs
+0 -> 0: bowler catfight
+autonumber stop
+0 -// 1: modeling chili
+autonumber resume
+0 ->x 1: tiff mediterranean
+autonumber stop
+loop hunches limits
+0 -> 0: cocoa groped
+autonumber resume
+end
+@enduml

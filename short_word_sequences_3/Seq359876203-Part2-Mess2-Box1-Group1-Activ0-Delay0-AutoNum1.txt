@@ -1,0 +1,11 @@
+@startuml
+box "progressive environment"
+participant "cloak flora" as 0
+participant "log enlightened" as 1
+end box
+autonumber 5 9
+opt fearful drew
+1 <-> 0: schooled infuriate
+0 ->x 0: scratching dispatch
+end
+@enduml

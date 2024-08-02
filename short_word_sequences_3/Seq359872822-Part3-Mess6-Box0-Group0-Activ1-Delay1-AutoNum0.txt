@@ -1,0 +1,14 @@
+@startuml
+participant "speakerphone indication" as 0
+participant "easily plateaued" as 1
+== granger scares ==
+create participant "naming communicating" as 2
+0 -> 2 : naming communicating
+1 -> 0: gatehouse switching
+...livers thine...
+2 -\\ 1: incomplete hills
+ [-> 2: crux fright
+1 -\\ 0++ : trustee to
+1 ->> 2: meant scuba
+return santo servant
+@enduml

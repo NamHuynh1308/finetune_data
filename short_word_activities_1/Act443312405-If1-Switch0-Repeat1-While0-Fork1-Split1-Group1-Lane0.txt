@@ -1,0 +1,47 @@
+@startuml
+start
+fork
+:thrice fraction;
+fork again
+:wagon intimidated;
+kill
+fork again
+:lawyered pedaling; <<continuous>>
+fork again
+:advantages karaoke; <<output>>
+-> printers superego;
+end merge
+group meridian statewide
+if (idiosyncrasies presumptuous?) then (perchance treads)
+(stories convincing) elseif (fashioned gardener?) then (knockoff saltwater)
+split
+:live feeders;
+split again
+:calms clan;
+split again
+:admiral rant;
+split again
+:meow regard; <<task>>
+-> statues warden;
+end split
+(omitted superintendent) elseif (drill cooperative?) then (unbreakable merman)
+:punctuality dashboard; <<procedure>>
+-> cod misgivings;
+(castles unrealistic) elseif (classified exacerbate?) then (mission night)
+repeat
+:pelting pretext;
+if (evident undertaken) then (obituary happiest)
+:inexcusable comprehend;
+break
+endif
+->spencer starved;
+:this specter;
+backward:detached hired;
+:mystic dice;
+repeat while (queens cleansing?) is (valuable landscape)
+-> chastity fifth;
+endif
+:advisor strip; <<output>>
+stop
+end group
+@enduml

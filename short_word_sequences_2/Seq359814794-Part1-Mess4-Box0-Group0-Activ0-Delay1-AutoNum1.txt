@@ -1,0 +1,10 @@
+@startuml
+participant "enlisted filmmaking" as 0
+autonumber 1 1
+0 <-> 0: blasphemous wrench
+...deigned purely...
+0 -> 0: rascals thugs
+0 -> 0!! : babysitter fittest
+0 --> 0: laceration gallery
+autonumber stop
+@enduml

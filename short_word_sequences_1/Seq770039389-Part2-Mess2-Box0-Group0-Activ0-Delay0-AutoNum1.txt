@@ -1,0 +1,8 @@
+@startuml
+participant "trimester structure" as 0
+participant "fatigues origins" as 1
+autonumber 0 10
+0 ->o 0: spins squiggle
+1 --> 1: sue facilitate
+autonumber stop
+@enduml

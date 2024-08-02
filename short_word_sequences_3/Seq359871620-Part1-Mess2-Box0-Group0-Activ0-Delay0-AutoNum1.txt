@@ -1,0 +1,7 @@
+@startuml
+participant "hell wiped" as 0
+autonumber 10 2
+0 -> 0!! : ma subbasement
+0 -> 0: schizo tokens
+autonumber stop
+@enduml

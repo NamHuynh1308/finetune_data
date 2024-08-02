@@ -1,0 +1,7 @@
+@startuml
+start
+group incarcerate punishing
+:bridge nursing; <<output>>
+stop
+end group
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+box "forgery analyse"
+participant "scoops outpouring" as 0
+end box
+autonumber 2 4
+loop cowed unshakable
+0 -> 0++ : mon intake
+end
+return architect eclipse
+@enduml

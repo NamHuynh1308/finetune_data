@@ -1,0 +1,16 @@
+@startuml
+participant "permissible miscalculation" as 0
+participant "campos debates" as 1
+== boiling requisition ==
+autonumber 9 1
+par chicks people
+1 -> 0: vocation mags
+1 --//o 0: mainframe tuxedo
+else underestimated exes
+opt strains alternate
+1 ->o 0++ : wives bawdy
+autonumber stop
+end
+end
+return estimate recanting
+@enduml

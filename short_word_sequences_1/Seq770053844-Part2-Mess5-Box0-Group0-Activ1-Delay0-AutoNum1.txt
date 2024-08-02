@@ -1,0 +1,14 @@
+@startuml
+participant "joke misery" as 0
+participant "illusion threats" as 1
+== irritable lashes ==
+autonumber 9 10
+0 --> 0++ : bondsman schmoozing
+1 ->o 0: accountability noted
+autonumber stop
+1 ->o 1: gavel sneezed
+return swoops cerulean
+1 -// 0: captains drooled
+autonumber resume
+0 -> 0: puffs drumsticks
+@enduml

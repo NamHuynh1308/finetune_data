@@ -1,0 +1,10 @@
+@startuml
+participant "err prod" as 0
+== doer nobodies ==
+autonumber 0 0
+create participant "tightrope superstars" as 1
+0 -> 1 : tightrope superstars
+...phony slender...
+0 ->x 1++ : slush cranny
+return pornographic girlfriends
+@enduml

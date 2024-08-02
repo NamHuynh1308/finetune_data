@@ -1,0 +1,23 @@
+@startuml
+participant "insignia jughead" as 0
+participant "stunk syndicate" as 1
+participant "grope barbarian" as 2
+participant "liners negligence" as 3
+participant "elections doubts" as 4
+ [<- 4: aside scotches
+ [-> 2: intimacy linens
+3 --//o 1: sip fleas
+loop harass themed
+1 --//o 2: telekinetic mentions
+alt platelets braggart
+0 ->x 3: medieval embellished
+3 -> 0: comply pact
+loop aptly confuse
+0 ->> 0: faces combustion
+...attention eczema...
+3 -// 0: ghoulish pest
+else arrests smug
+end
+end
+end
+@enduml

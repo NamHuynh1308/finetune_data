@@ -1,0 +1,11 @@
+@startuml
+participant "originals details" as 0
+box "starry gimbal"
+participant "gruel shanks" as 1
+participant "teapot bludgeoned" as 2
+end box
+1 ->> 0: trainee lemony
+...intends hands...
+2 ->] : grad mettle
+0 -->x 0: jacket rats
+@enduml

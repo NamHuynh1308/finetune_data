@@ -1,0 +1,27 @@
+@startuml
+box "overhaul initiated"
+participant "wording luggage" as 0
+participant "tapped batted" as 1
+end box
+box "pearls bail"
+participant "dollhouse closets" as 2
+participant "pinches scramble" as 3
+end box
+autonumber 9 1
+critical mixed novelty
+ [<- 2: tramp communications
+1 -// 2: topnotch repair
+autonumber stop
+1 ->o 2: diabetic downstairs
+end
+opt rednecks buses
+0 ->> 2: tach pail
+0 -> 1: capsize lifting
+end
+...cameraman lion...
+1 --> 1: posture areas
+2 ->] : defendants backstage
+...lethal consciously...
+ [-> 0: manatee re
+autonumber resume
+@enduml

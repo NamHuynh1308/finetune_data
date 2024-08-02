@@ -1,0 +1,12 @@
+@startuml
+participant "exacting overflow" as 0
+participant "categories tenacity" as 1
+autonumber 10 5
+1 <-> 0: magnet gratuitous
+autonumber stop
+0 -\\ 1: tubing platoon
+0 ->x 1: capsized dizziness
+autonumber resume
+1 <-> 1: petrol pimp
+0 ->] : underage acme
+@enduml

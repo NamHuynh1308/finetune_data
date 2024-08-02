@@ -1,0 +1,4 @@
+@startuml
+:suitor automatics; <<continuous>>
+-> blight clock;
+@enduml

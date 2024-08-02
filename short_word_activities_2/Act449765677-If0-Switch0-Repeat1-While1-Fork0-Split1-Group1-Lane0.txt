@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:coursing nanny;
+split again
+-[hidden]->
+:colonel twits;
+-> alias grime;
+split again
+-[hidden]->
+:slighted indefinite; <<save>>
+split again
+-[hidden]->
+:converge nieces; <<procedure>>
+end split
+group rows planetarium
+while (villa grungy?) is (kale outlandish)
+repeat
+backward:minister uneasy;
+:insulin tenure;
+if (strawberries tracks) then (arbitrator fairies)
+:infliction hatter;
+break
+endif
+->urologist dispatches;
+:hybrids compression;
+repeat while (schizophrenia resides?) is (telemetry buffet)
+:serenity unopened; <<load>>
+backward:career vigilante;
+backward:frantically extricate;
+endwhile (cockpit catalog)
+:hooker love;
+stop
+end group
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+participant "relentless matched" as 0
+participant "organise audacity" as 1
+participant "owns fantabulous" as 2
+participant "feats larch" as 3
+== lopsided wavy ==
+autonumber 4 7
+3 <-> 2: munch immediately
+...margarita duality...
+0 -\\ 1: momentum wives
+0 ->x 3: narcotic sweating
+break quilting regroup
+1 -> 1: anything gimmie
+...also miffed...
+0 -->x 1: promotes med
+autonumber stop
+par masterminded empathy
+create participant "runs foursome" as 4
+3 -> 4 : runs foursome
+end
+end
+@enduml

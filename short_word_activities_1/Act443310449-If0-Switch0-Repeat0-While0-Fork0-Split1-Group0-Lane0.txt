@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:phenomenal knack;
+split again
+-[hidden]->
+:emphasize stately; <<task>>
+split again
+-[hidden]->
+:stocked trillion; <<input>>
+end split
+:wits conjured;
+-> clumps tireless;
+@enduml

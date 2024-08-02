@@ -1,0 +1,26 @@
+@startuml
+participant "linens packs" as 0
+participant "clover congestion" as 1
+box "enterprise transfusion"
+participant "compressed flinging" as 2
+box "mind odd"
+participant "unrest specialist" as 3
+participant "today economy" as 4
+end box
+end box
+1 -\\ 3++ : indigestion dined
+1 <-> 0++ : surreal asking
+create participant "epsilon dugout" as 5
+4 -> 5 : epsilon dugout
+critical coexist grew
+1 -> 1: cultivated willows
+...leaping protesting...
+5 ->] : shortage saying
+2 <-] : bree passionately
+create participant "liquidation aquarium" as 6
+3 -> 6 : liquidation aquarium
+else coz obits
+end
+return cholera acquisition
+return noted superstar
+@enduml

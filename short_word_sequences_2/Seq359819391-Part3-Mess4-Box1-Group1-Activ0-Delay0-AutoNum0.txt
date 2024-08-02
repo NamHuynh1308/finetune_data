@@ -1,0 +1,14 @@
+@startuml
+participant "inquiry souvenirs" as 0
+box "chooses unleash"
+participant "boundaries bringing" as 1
+participant "generates jujitsu" as 2
+end box
+== favored dowdy ==
+2 ->x 1: favored worry
+0 -> 0: carbs gimp
+loop masculinity accommodations
+1 -->x 2: averse affinity
+2 -> 2: choke suggestive
+end
+@enduml

@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:loudest pentagon;
+split again
+-[hidden]->
+:touchdown sloshed; <<output>>
+-> clause stands;
+split again
+-[hidden]->
+:observers forgave; <<input>>
+-> predecessor intervene;
+end split
+fork
+:muscles used;
+fork again
+:equinox humbled;
+fork again
+:mannequins slush; <<input>>
+fork again
+split
+:frightfully dojo;
+split again
+:openings grander; <<output>>
+split again
+:excursions weiner;
+-> caged gents;
+split again
+:tattooed regretted; <<procedure>>
+end split
+end fork
+end
+@enduml

@@ -1,0 +1,94 @@
+@startuml
+|1| payments releases
+|2| mostly sitters
+split
+-[hidden]->
+:ride scarfing;
+split again
+-[hidden]->
+:strawberries ages; <<save>>
+split again
+-[hidden]->
+:novelist watery; <<input>>
+split again
+-[hidden]->
+:lactose shone; <<continuous>>
+end split
+switch (prophets touch?)
+case (grisly tabloids?)
+:annulment volt; <<input>>
+case (ideally fossilized?)
+:puller dissent; <<save>>
+-> dreamers ornaments;
+case (platters malpractice?)
+:crosses moisturize;
+case (loosely battering?)
+:slithered heckling; <<procedure>>
+endswitch
+|2|
+if (garlic blueprints?) then (bonus diver)
+:strung communism; <<output>>
+:keg bodyguards;
+-> clocks backfire;
+:fourteen clench; <<save>>
+while (notable forfeit?) is (counted depicting)
+:tung loins; <<task>>
+endwhile (deserted opus)
+-[hidden]->
+detach
+else (focus permissible)
+:irrelevant forklift; <<task>>
+switch (naught limited?)
+case (brin motion?)
+:overdosed upheld; <<input>>
+case (bassoon streaks?)
+:landscapes designs; <<load>>
+-> sneeze nominees;
+case (sprouts dependant?)
+:spied haggis;
+case (reputation encyclopedias?)
+:sedatives graces;
+endswitch
+:cheesy dare; <<procedure>>
+endif
+|1|
+if (hormones pamphlets?) then (orbital rebels)
+(intercom dullard) elseif (tub amah?) then (cyst pyramids)
+:merlot scampered; <<procedure>>
+(bohemian hardens) elseif (coco stable?) then (commercialism nice)
+if (dimmer bark?) then (hurricane directed)
+(brock awarded) elseif (sacrificed urging?) then (gutter intern)
+:nusujv;
+while (badness basis?) is (flip healthiest)
+:heathen miscalculation; <<task>>
+endwhile (rekindled benevolent)
+-[hidden]->
+detach
+(itch lifesaver) elseif (beeped prospects?) then (lotte trainees)
+:minutes nodding;
+endif
+(dwarfs ordered) elseif (demonic depose?) then (classics facilitated)
+:defy infect; <<output>>
+endif
+fork
+:begs coarse;
+fork again
+while (demoted dragon?) is (dignitaries misfits)
+backward:canceled type;
+endwhile (league moral)
+:pan detests;
+fork again
+split
+:notwithstanding desperado;
+split again
+:smoother anesthesiology;
+-> weasel lungs;
+split again
+:peaks lingerie;
+kill
+end split
+fork again
+:trays broiler; <<output>>
+end merge
+end
+@enduml

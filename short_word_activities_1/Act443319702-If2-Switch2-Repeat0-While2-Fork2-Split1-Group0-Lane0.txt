@@ -1,0 +1,75 @@
+@startuml
+if (scrounging fibre?) then (fiance phosphate)
+split
+:glengarry divided;
+split again
+:trattoria poets; <<input>>
+split again
+:highness knit;
+split again
+:rotten smith;
+end split
+:smorgasbord waking; <<procedure>>
+switch (backdrop rex?)
+case (agin surgeons?)
+:democracy focus;
+case (reluctantly pendant?)
+:aspirins clockwork;
+endswitch
+while (dampened phenomenal?) is (exotic coat)
+fork
+:credibility communism;
+fork again
+:dilute cousins; <<load>>
+-> conditioning cash;
+fork again
+:oncology recruiting; <<save>>
+-> minimalist stance;
+end merge
+if (rangers beau?) then (beakers cris)
+:brig unexpectedly;
+:mills reader;
+-> shelled granger;
+else (admonition inducement)
+:uplifting blissfully; <<load>>
+:rots saline;
+endif
+:superego receiver; <<input>>
+-> squander custard;
+while (grazing plaid?) is (canines gazed)
+backward:enjoying sarge;
+backward:deluxe model;
+backward:crisp dwell;
+endwhile (hideout literacy)
+:biopsy engagements;
+endwhile (mythic rooming)
+-[hidden]->
+detach
+else (caucus tawdry)
+:gross standoff;
+switch (polar solarium?)
+case (forces time?)
+:shrinkage unsafe; <<output>>
+-> offensive crushing;
+case (crystal fractions?)
+:interrupted groundless;
+case (anything yardstick?)
+:incantations important;
+case (summons reassure?)
+:sharpshooters locations;
+endswitch
+endif
+:visualizing psyche; <<load>>
+fork
+:wrappers plumbers;
+fork again
+:requirements perpetuating;
+-> bowled duke;
+fork again
+:hoisting dialogue; <<continuous>>
+fork again
+:clarification hm; <<save>>
+-> whipping lawn;
+end fork
+stop
+@enduml

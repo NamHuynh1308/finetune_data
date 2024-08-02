@@ -1,0 +1,19 @@
+@startuml
+start
+:prerequisite apostle; <<input>>
+fork
+:execs raids;
+fork again
+split
+:metal video;
+split again
+:slayers interpreter;
+split again
+:saying historic; <<task>>
+-> licensing bacterial;
+end split
+fork again
+:hombre guest; <<output>>
+end fork
+end
+@enduml

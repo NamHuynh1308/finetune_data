@@ -1,0 +1,11 @@
+@startuml
+start
+group mainline parking
+:imperfect disks; <<output>>
+:drip averse; <<task>>
+end group
+group glaze troublemaker
+:joker staircase; <<procedure>>
+stop
+end group
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+start
+group administer hatred
+switch (merging perfecting?)
+case (remember raccoons?)
+split
+:luscious juvenile;
+split again
+:hemlock shrieking;
+split again
+:plate shaman;
+end split
+case (whisked balconies?)
+repeat
+:romping labrador; <<procedure>>
+:reef rift;
+:premiere bridegroom; <<task>>
+repeat while (struggles salina?) is (regina showroom)
+-> financially shun;
+endswitch
+:overcoming handing; <<continuous>>
+-> tardy protest;
+end group
+stop
+@enduml

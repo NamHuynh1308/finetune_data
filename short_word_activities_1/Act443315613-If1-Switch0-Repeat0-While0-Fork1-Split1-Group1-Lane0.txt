@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:sleazeball crumble;
+split again
+-[hidden]->
+:cringe pacer; <<input>>
+split again
+-[hidden]->
+:thoracotomy starlets; <<input>>
+split again
+-[hidden]->
+if (fibbing copier?) then (maximum cardiology)
+(miracle coral) elseif (spew rejuvenate?) then (son badgering)
+:grey crevasse; <<load>>
+-> baby captains;
+(whittle joyous) elseif (inheritance convert?) then (haste kibble)
+:organization plays; <<procedure>>
+(bwana overcooked) elseif (diffusion born?) then (aw debatable)
+:sandwiches donuts; <<procedure>>
+-> hideously utensils;
+(yell amputated) elseif (soups microbes?) then (crayons sis)
+:stoked hysterics; <<input>>
+endif
+end split
+fork
+:representation crummy;
+fork again
+:obscenity breaking;
+-> participated citizens;
+fork again
+:culturally trusty; <<load>>
+end fork
+group landscapes thorns
+:chalked glide; <<input>>
+stop
+end group
+@enduml

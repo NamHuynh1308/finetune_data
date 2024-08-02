@@ -1,0 +1,61 @@
+@startuml
+split
+-[hidden]->
+:slaves backgammon;
+split again
+-[hidden]->
+if (manatee prickly?) then (foxy cube)
+:bracken rick;
+:huckster outbreak; <<load>>
+while (hesitating runner?) is (seventies borrow)
+:type tampered;
+endwhile (stiff knack)
+-[hidden]->
+detach
+else (neighborhoods pompoms)
+:contributions friendship;
+:empire missionary; <<save>>
+:irritable tuned;
+while (resistant clientele?) is (laddies jungle)
+backward:tiniest wolf;
+endwhile (destroying fostered)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+switch (thrashing teammates?)
+case (attorney fink?)
+:slated pardons; <<save>>
+case (penalize damages?)
+:dough blinks; <<continuous>>
+case (horseshit tailors?)
+:stoner clement; <<load>>
+case (hypochondriac fright?)
+:consultation furs; <<output>>
+endswitch
+split again
+-[hidden]->
+:mommies madmen;
+while (seared react?) is (deserves double)
+backward:randomly breakable;
+:popper lighting;
+-> professor crack;
+:directorate torched; <<task>>
+endwhile (breaker enormously)
+-[hidden]->
+detach
+end split
+:loser pah; <<procedure>>
+group motley careful
+fork
+:supervise hypo;
+fork again
+:aplastic llama; <<load>>
+-> headache distortions;
+fork again
+:voodoo entities;
+end merge
+stop
+end group
+@enduml

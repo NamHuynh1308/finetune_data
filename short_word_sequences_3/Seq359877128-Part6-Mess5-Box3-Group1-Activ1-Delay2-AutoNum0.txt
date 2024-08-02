@@ -1,0 +1,25 @@
+@startuml
+participant "flaps sultan" as 0
+box "dishonorable cassette"
+participant "pessimistic rotten" as 1
+participant "deception inquisitor" as 2
+end box
+box "frivolous brainstorming"
+participant "credited respectful" as 3
+box "concert handling"
+participant "crumble amenities" as 4
+end box
+end box
+create participant "goblin sails" as 5
+0 -> 5 : goblin sails
+...expiration outsmarted...
+0 ->x 3++ : dwarves dream
+alt gospel mesmerized
+5 -> 0: protects transmit
+...beams simulate...
+5 --> 5: tango tuck
+return accuser ticklish
+else impersonator oyez
+1 <-] : radiating intros
+end
+@enduml

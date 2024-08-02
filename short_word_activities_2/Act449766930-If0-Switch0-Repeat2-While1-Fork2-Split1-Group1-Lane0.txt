@@ -1,0 +1,49 @@
+@startuml
+start
+fork
+:bankbooks establishing;
+fork again
+:indictment fights; <<load>>
+fork again
+:realized incidents;
+while (reducing ageing?) is (mosquitoes spend)
+split
+:squatting multiply;
+split again
+:mercenary jester;
+split again
+:rival perception;
+end split
+backward:avatars commoner;
+repeat
+:popcorn mule; <<save>>
+backward:altitude technical;
+:chemical surge;
+repeat while (broken severe?) is (financial clumsiness)
+repeat
+:unconstitutional ordeal;
+:pleas sandy; <<save>>
+:spiteful shut;
+if (beyond favors) then (embellished stumbles)
+:edging pretends;
+break
+endif
+->implicates assuming;
+:ecosystem empire;
+repeat while (goopy kneecaps?) is (competitors sneakers)
+endwhile (mousse citizen)
+-[hidden]->
+detach
+end merge
+group iff vehicular
+fork
+:suckered tonic;
+fork again
+:anoint cease; <<output>>
+fork again
+:zeros loco;
+kill
+end merge
+stop
+end group
+@enduml

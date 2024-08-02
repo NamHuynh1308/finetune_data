@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:jokes figurative;
+split again
+-[hidden]->
+:scourge barber;
+split again
+-[hidden]->
+:tarred gall; <<output>>
+-> bree expelled;
+split again
+-[hidden]->
+:coffers underway; <<continuous>>
+-> terrific amateur;
+end split
+group marriage renders
+:cabbage stare; <<load>>
+-> diplomas genius;
+group recite bride
+:marginal worships;
+:advent gleaming;
+end group
+stop
+end group
+@enduml

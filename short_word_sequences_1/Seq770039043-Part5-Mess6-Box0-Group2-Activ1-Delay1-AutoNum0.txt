@@ -1,0 +1,20 @@
+@startuml
+participant "anthology world" as 0
+participant "mistaken lag" as 1
+participant "invincible hive" as 2
+participant "weekend dreadful" as 3
+create participant "tacks eavesdropping" as 4
+0 -> 4 : tacks eavesdropping
+break longtime told
+1 ->x 2: tit sleeper
+1 -> 3++ : storming airing
+alt arraigned inseminated
+1 -> 1: handcuffs pompoms
+return ladder bluster
+4 ->o 2: classmate blends
+...recap walk...
+3 -> 4: body surgical
+else duet powders
+end
+end
+@enduml

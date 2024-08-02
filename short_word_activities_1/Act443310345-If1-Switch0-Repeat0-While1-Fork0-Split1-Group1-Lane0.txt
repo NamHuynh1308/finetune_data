@@ -1,0 +1,27 @@
+@startuml
+start
+:sprightly klutzy;
+group motivates discomfort
+if (knee apologise?) then (clicks blam)
+split
+:nearby reboot;
+split again
+:fleet academia; <<task>>
+split again
+:august transportation;
+split again
+:specifics sunburn; <<load>>
+-> article hypocrisy;
+end split
+:thaw mensa; <<task>>
+while (eggnog unconcerned?) is (declared savin)
+:enables drought; <<save>>
+endwhile (listeners flowering)
+-[hidden]->
+detach
+else (inheritance bolted)
+:photogenic khan; <<task>>
+endif
+stop
+end group
+@enduml

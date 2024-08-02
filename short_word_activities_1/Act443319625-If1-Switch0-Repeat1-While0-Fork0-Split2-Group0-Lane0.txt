@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:aa declare;
+split again
+-[hidden]->
+:outline review;
+kill
+split again
+-[hidden]->
+:scurvy glands; <<procedure>>
+end split
+if (phobic fought?) then (femmes smokey)
+:inflexible sleepless; <<task>>
+-> jean visa;
+:alcoholism belie; <<task>>
+-> containers gizzard;
+else (prefer ballerina)
+:marker fatigues; <<procedure>>
+-> endeavors bib;
+repeat
+:booted pales;
+:activate ligament; <<task>>
+-> abusing destroyer;
+:poles oncology; <<load>>
+-> hounding versus;
+repeat while (ramus forfeited?) is (unnecessary advancing)
+split
+:excruciating heroics;
+split again
+:hamstring tending; <<save>>
+split again
+:quest stretch;
+end split
+endif
+end
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "tidings incision" as 0
+participant "no qualifies" as 1
+alt circles braid
+1 -> 0: firstly horseradish
+1 --> 1: bawling licking
+end
+0 ->o 1++ : bookshelves stifle
+return nutritionist incommunicado
+@enduml

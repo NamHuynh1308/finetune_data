@@ -1,0 +1,10 @@
+@startuml
+participant "applejack answering" as 0
+== ingrates explosion ==
+par welt spared
+0 -> 0: answered swiping
+0 -->x 0: rehearsed congenial
+ [<- 0: delirious immune
+else dominate bluer
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "paragraphs pans" as 0
+box "approximate diathesis"
+participant "downed cam" as 1
+participant "lab pom" as 2
+end box
+== knobs punters ==
+0 -->x 1: sighting conceive
+0 -\\ 0: accurately parsons
+1 <-> 1: demolitions tons
+critical pathetically pow
+...putty ranking...
+2 ->o 1++ : seeking burying
+2 -> 1: falls fake
+end
+return hoist reactive
+@enduml

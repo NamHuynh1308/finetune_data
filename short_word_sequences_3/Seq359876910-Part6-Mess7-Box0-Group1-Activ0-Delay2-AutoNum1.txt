@@ -1,0 +1,25 @@
+@startuml
+participant "siege loading" as 0
+participant "langley cedar" as 1
+participant "caviar larch" as 2
+participant "cats trades" as 3
+participant "balancing tucked" as 4
+autonumber 7 5
+2 <-] : eleven turtles
+autonumber stop
+critical ventilation worried
+0 ->x 0: fate splashy
+autonumber resume
+4 -// 1: texas besieged
+create participant "narrator insights" as 5
+4 -> 5 : narrator insights
+autonumber stop
+ [-> 3: imbedded shaw
+else chalk domestic
+...atmosphere flopping...
+3 -> 3!! : cavalcade senate
+autonumber resume
+...deeply fridge...
+ [<- 0: nodes tramps
+end
+@enduml

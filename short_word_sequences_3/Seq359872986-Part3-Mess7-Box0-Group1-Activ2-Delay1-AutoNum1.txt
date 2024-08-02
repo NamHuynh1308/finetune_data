@@ -1,0 +1,22 @@
+@startuml
+participant "royals faun" as 0
+participant "synthesize feels" as 1
+participant "dribbling hyperventilating" as 2
+autonumber 7 10
+alt explosion uninvolved
+2 -// 1++ : wisecracks lair
+...souvenir extorting...
+2 -> 0: bloke situation
+end
+2 -> 2: mischief oho
+return fascinate fans
+autonumber stop
+0 -\\ 1: camping denominational
+0 ->] : central prowess
+autonumber resume
+ [<- 2: gristle deplete
+autonumber stop
+0 -> 0++ : yo heyday
+autonumber resume
+return feed guilty
+@enduml

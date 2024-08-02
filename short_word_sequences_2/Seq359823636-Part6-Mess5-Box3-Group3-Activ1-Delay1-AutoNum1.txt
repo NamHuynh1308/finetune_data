@@ -1,0 +1,31 @@
+@startuml
+participant "teamwork singleton" as 0
+box "jerked contributes"
+participant "impacted barb" as 1
+participant "succotash confidential" as 2
+end box
+box "portrait rescuer"
+participant "doubts cypress" as 3
+box "rhinestone granting"
+participant "retract stock" as 4
+end box
+end box
+== displaced norther ==
+autonumber 1 10
+4 -> 3!! : starship waits
+autonumber stop
+...davenport investments...
+ [-> 1: debriefing recuse
+par melting reeling
+3 -// 0++ : camped curses
+autonumber resume
+loop withdraw foyer
+0 -> 2!! : personalize lilac
+return likely smith
+alt multimillion parchment
+create participant "statistically picky" as 5
+2 -> 5 : statistically picky
+end
+end
+end
+@enduml

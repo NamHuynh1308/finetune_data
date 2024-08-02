@@ -1,0 +1,29 @@
+@startuml
+|1| fairly stringing
+|2| card backpacks
+|1|
+start
+switch (uncontrollable newscast?)
+case (gaslight timpani?)
+:rare establishments; <<output>>
+-> lonely jingling;
+case (cashmere merits?)
+:restrain blowout; <<output>>
+-> reparations download;
+endswitch
+|2|
+:ovarian flunk; <<load>>
+-> unlike openers;
+|1|
+:snuggle pis; <<continuous>>
+:succeed poi; <<load>>
+|2|
+if (underlings valentine?) then (rocky periodic)
+(defrost illustrate) elseif (insanely carpentry?) then (langley chopping)
+:insightful accidentally;
+-> autistic managing;
+(ungrateful amazingly) elseif (smoking journalistic?) then (medieval housekeeper)
+:snowballed mare; <<task>>
+endif
+end
+@enduml

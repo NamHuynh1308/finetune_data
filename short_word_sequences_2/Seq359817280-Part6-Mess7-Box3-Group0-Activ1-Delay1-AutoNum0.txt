@@ -1,0 +1,24 @@
+@startuml
+participant "ringing wishes" as 0
+box "attitude softly"
+participant "portrayed wing" as 1
+box "jester advise"
+participant "cola goddamned" as 2
+box "distances gramps"
+participant "hawking prunes" as 3
+participant "anchorage romance" as 4
+end box
+end box
+end box
+== screening hackers ==
+2 -> 2: pleases beg
+4 --> 0: luxury snuggles
+create participant "ems target" as 5
+3 -> 5 : ems target
+3 -> 5: promises mono
+1 -// 1: sparkle feign
+...herd blokes...
+0 -> 3++ : conducive concealer
+ [-> 5: wrappers examples
+return contractor masculinity
+@enduml

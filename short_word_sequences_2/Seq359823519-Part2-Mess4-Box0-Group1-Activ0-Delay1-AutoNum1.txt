@@ -1,0 +1,15 @@
+@startuml
+participant "gearshift airlifted" as 0
+participant "manuscript cleanup" as 1
+autonumber 7 3
+0 -->x 1: knocks diabetic
+0 -> 1!! : estate textbook
+autonumber stop
+critical dalton mate
+...airfield confidant...
+1 -> 0!! : proposing pitied
+autonumber resume
+1 ->x 1: trees experimented
+else mulberry bagging
+end
+@enduml

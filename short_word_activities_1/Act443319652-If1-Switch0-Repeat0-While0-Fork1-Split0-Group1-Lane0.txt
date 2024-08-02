@@ -1,0 +1,24 @@
+@startuml
+group protesting centerpieces
+if (gardener footman?) then (circuited decorum)
+(amount yeast) elseif (sapphire townie?) then (teaming counterattack)
+:the miggs; <<continuous>>
+-> bigmouth probability;
+(drip toughen) elseif (owes torch?) then (toughen assistant)
+fork
+:wearing discotheque;
+fork again
+:glorified secrets;
+-> swede prize;
+fork again
+:rivals libraries;
+-> scanning factors;
+fork again
+:was pity;
+end fork
+(tram terrifying) elseif (ally hogs?) then (dispensed heathen)
+:leisurely routed; <<continuous>>
+endif
+stop
+end group
+@enduml

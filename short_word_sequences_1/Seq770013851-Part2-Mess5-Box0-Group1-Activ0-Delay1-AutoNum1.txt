@@ -1,0 +1,14 @@
+@startuml
+participant "generosity flow" as 0
+participant "ones nicks" as 1
+== folksy tingle ==
+autonumber 0 7
+1 <-] : filling horizons
+...marketplace homemade...
+1 <-> 1: pulpit rehash
+1 <-] : oceanographic treadmill
+loop foul woodpecker
+1 ->> 0: enforcement creatively
+0 ->] : miraculously troops
+end
+@enduml

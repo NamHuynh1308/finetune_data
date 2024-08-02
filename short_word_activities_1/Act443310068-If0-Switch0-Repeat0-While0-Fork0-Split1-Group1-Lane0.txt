@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:editorials abba;
+split again
+-[hidden]->
+:strippers futuristic; <<continuous>>
+split again
+-[hidden]->
+:stretches nostrils; <<save>>
+end split
+group caddie thoroughly
+:reconciliation cowering; <<continuous>>
+-> mouths confining;
+stop
+end group
+@enduml

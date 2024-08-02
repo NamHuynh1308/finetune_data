@@ -1,0 +1,19 @@
+@startuml
+participant "cove earrings" as 0
+participant "fatherhood tending" as 1
+participant "stethoscope representative" as 2
+autonumber 9 3
+ [-> 0: doubly fins
+autonumber stop
+...fabrication duo...
+1 -> 2: rebel trait
+loop comprehending dubbed
+ [<- 1: maid repairing
+autonumber resume
+1 ->x 1++ : propulsion bull
+else comedians embalming
+2 -->x 0++ : building shriveled
+end
+return coast stocked
+return ballplayer eta
+@enduml

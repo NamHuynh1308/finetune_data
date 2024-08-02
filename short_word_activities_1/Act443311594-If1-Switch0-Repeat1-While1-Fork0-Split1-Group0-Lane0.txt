@@ -1,0 +1,29 @@
+@startuml
+start
+split
+:hibiscus economy;
+split again
+repeat
+:chases slack;
+backward:fidelity stages;
+backward:interrogation disoriented;
+repeat while (virginity chases?) is (street shifty)
+split again
+:lanyard dredging;
+while (begets tense?) is (crumble royalty)
+backward:scratching openings;
+backward:forsaking redneck;
+backward:mafia embark;
+endwhile (damaged rural)
+-[hidden]->
+detach
+split again
+if (dings lonely?) then (combination snivelling)
+:mezzanine mystery; <<continuous>>
+else (gestapo fuse)
+:caseload special; <<output>>
+endif
+end split
+:notwithstanding panda;
+end
+@enduml

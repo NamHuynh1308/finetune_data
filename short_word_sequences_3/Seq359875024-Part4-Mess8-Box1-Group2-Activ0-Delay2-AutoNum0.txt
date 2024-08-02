@@ -1,0 +1,23 @@
+@startuml
+participant "quarter unexpectedly" as 0
+participant "radiology reckless" as 1
+participant "philharmonic glad" as 2
+box "disillusionment abduct"
+participant "fleeting billboard" as 3
+end box
+par accomplice penetrating
+3 -// 0: smoother lamp
+ [<- 0: squashing hayloft
+else appointments ilk
+ [<- 0: superhero mortals
+end
+2 <-] : exhilaration lures
+2 -> 2!! : poppers brushes
+critical adenoids creatures
+...cissy nauseated...
+1 -// 2: informing would
+...sausages islanders...
+3 -> 2!! : binding strengths
+3 -\\ 2: concession shark
+end
+@enduml

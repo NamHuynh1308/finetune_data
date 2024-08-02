@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:interfered types;
+split again
+-[hidden]->
+:sot transporting; <<task>>
+split again
+-[hidden]->
+:decency rumpus;
+end split
+group gator yonkers
+:underdeveloped shirtless; <<task>>
+group barrels tailored
+repeat
+:emperor aforementioned; <<load>>
+backward:peanuts pick;
+:conversion plaything;
+if (bereft pinecone) then (pothole voiced)
+:wells insolence;
+break
+endif
+->police rescheduled;
+:notified keys;
+repeat while (cognizant appointing?) is (chic savannah)
+-> modicum patio;
+stop
+end group
+end group
+@enduml

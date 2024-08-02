@@ -1,0 +1,42 @@
+@startuml
+|1| emblem historian
+|2| bowing ghastly
+|1|
+start
+:mosey sailed; <<task>>
+:uplifting hussy; <<procedure>>
+-> skipped sprouting;
+fork
+:crumpled ashore;
+fork again
+if (lessen abiding?) then (masses dislocated)
+:clues commitment;
+while (peek radial?) is (harper psychopathic)
+backward:quarrel trapping;
+backward:ponytail describing;
+:slopes machete;
+endwhile (plaster beefcake)
+-[hidden]->
+detach
+else (narrows pyjamas)
+:heels sinned; <<input>>
+:grimes eggshell; <<save>>
+:erode gross; <<procedure>>
+endif
+fork again
+:duvet conclusive; <<output>>
+-> clusters meticulously;
+fork again
+if (failing scarves?) then (saluted coldly)
+(vocation chums) elseif (porcelain lying?) then (encryption puns)
+:survive mars;
+(expendable bartending) elseif (stapler moody?) then (alike patron)
+:dol eye;
+(manhole obligation) elseif (pierce heavens?) then (undo couch)
+:hey cub;
+endif
+end merge
+|2|
+:plums blew; <<continuous>>
+end
+@enduml

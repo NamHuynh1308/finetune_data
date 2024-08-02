@@ -1,0 +1,21 @@
+@startuml
+fork
+:entire pleasantries;
+fork again
+:mantle imperfection;
+fork again
+switch (triumphed blimp?)
+case (lupus radar?)
+:benevolence campers;
+case (substantial kaon?)
+:thrusters opposition; <<input>>
+case (dedication newt?)
+:att chapter;
+case (lounge audio?)
+:utter tarnished;
+endswitch
+fork again
+:stakes storeroom;
+kill
+end merge
+@enduml

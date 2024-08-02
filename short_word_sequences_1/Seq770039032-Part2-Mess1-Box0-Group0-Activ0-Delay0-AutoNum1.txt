@@ -1,0 +1,7 @@
+@startuml
+participant "courier charmed" as 0
+== inflated clinches ==
+autonumber 10 8
+create participant "skepticism disillusionment" as 1
+0 -> 1 : skepticism disillusionment
+@enduml

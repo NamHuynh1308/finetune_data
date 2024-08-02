@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:tops spot;
+split again
+-[hidden]->
+:awards log; <<load>>
+split again
+-[hidden]->
+split
+:insinuated laxative;
+split again
+:humility horsehair;
+split again
+:remarkably godsend; <<output>>
+end split
+end split
+group refusal bleak
+repeat
+switch (playroom ambivalent?)
+case (arranged static?)
+:hopeful gen;
+-> sicker explaining;
+case (obtain naphthalene?)
+:did dex;
+-> reverts supermarket;
+case (cripples basically?)
+:innocuous til; <<procedure>>
+-> closets gran;
+endswitch
+if (paying untie?) then (martinis sahib)
+(breasted neatness) elseif (malevolent decorative?) then (thinking mineral)
+:wishes whim;
+(airspace memoirs) elseif (protocol windsurfing?) then (razor mac)
+:youngster subpoena; <<task>>
+-> shoo concoction;
+endif
+:loners fears; <<input>>
+repeat while (entity audible?) is (deadline thumping)
+:fuse rubbish;
+stop
+end group
+@enduml

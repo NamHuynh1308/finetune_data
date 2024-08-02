@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:upon blending;
+split again
+-[hidden]->
+:nobodies headstone; <<save>>
+-> blasted angora;
+split again
+-[hidden]->
+:buckle identified; <<output>>
+-> snow bow;
+end split
+group fizzled citizen
+switch (exploited conflicted?)
+case (complicate stupid?)
+if (tiller modification?) then (wheeling react)
+:courageous divest; <<load>>
+-> sleepover fines;
+:coaster countless; <<procedure>>
+-> communicator sadistic;
+while (belts handbasket?) is (potsie moniker)
+:croquet kid;
+:affidavit matched;
+endwhile (lesser meathead)
+-[hidden]->
+detach
+else (courtesy relive)
+:bastard dwells;
+:northern crevasse;
+-> uninspired karat;
+:hopeful gunshot;
+endif
+case (maintains revealing?)
+:strong slogan; <<task>>
+case (added wars?)
+:besides oven;
+-> dowdy wishes;
+endswitch
+stop
+end group
+@enduml

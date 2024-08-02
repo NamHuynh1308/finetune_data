@@ -1,0 +1,9 @@
+@startuml
+participant "processors kitchen" as 0
+participant "represent droop" as 1
+== sedation lifesaver ==
+ [-> 1: otto conference
+0 <-] : refreshing academics
+ [-> 0: jackers zodiac
+1 --> 1: verbally spontaneous
+@enduml

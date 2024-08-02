@@ -1,0 +1,11 @@
+@startuml
+switch (viable breathless?)
+case (pendant peering?)
+:midgets broody; <<output>>
+case (deducted futile?)
+:glow drummed; <<output>>
+case (hyped normal?)
+:handball surgeries; <<continuous>>
+endswitch
+end
+@enduml

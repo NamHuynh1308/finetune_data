@@ -1,0 +1,12 @@
+@startuml
+participant "skeleton guerillas" as 0
+participant "virulent pulpit" as 1
+participant "elevate queens" as 2
+participant "spanked pickpockets" as 3
+autonumber 5 1
+2 --> 3: drums difficulty
+ [<- 3: rapture consultant
+1 <-> 1: apostles unworthy
+2 -> 3: feared shoveling
+autonumber stop
+@enduml

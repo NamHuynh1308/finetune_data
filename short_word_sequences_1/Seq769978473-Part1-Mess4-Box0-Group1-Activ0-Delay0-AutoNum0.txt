@@ -1,0 +1,10 @@
+@startuml
+participant "perfume example" as 0
+== meter machine ==
+0 -> 0: literature sycophant
+par ageing seeker
+ [-> 0: goalie icicle
+0 <-] : systolic tunnels
+0 -> 0!! : sisters metal
+end
+@enduml

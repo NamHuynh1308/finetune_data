@@ -1,0 +1,7 @@
+@startuml
+participant "laurel tote" as 0
+participant "extracts ravings" as 1
+1 --//o 0++ : pest undercover
+0 -> 0: tweed inconsiderate
+return disco beautifully
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "lifeline unbroken" as 0
+box "prophet repossess"
+participant "estimating interference" as 1
+end box
+1 ->o 1++ : instruction groaning
+1 ->o 1: harriers slacks
+0 ->x 1: effeminate delivering
+0 ->o 0: maniacs inflicting
+return tale lumbering
+...vitals berserk...
+0 -> 0!! : cystic goiter
+ [<- 1: sakes licking
+@enduml

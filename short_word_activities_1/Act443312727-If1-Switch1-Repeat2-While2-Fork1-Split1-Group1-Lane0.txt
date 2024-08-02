@@ -1,0 +1,64 @@
+@startuml
+split
+:frequencies documents;
+split again
+switch (acquisitions cinema?)
+case (sizzling fans?)
+:yon hibernating;
+case (insulting overdrive?)
+:induce promenade; <<procedure>>
+case (middies havoc?)
+:vamps credentials; <<load>>
+endswitch
+split again
+while (fatso paycheck?) is (decorated shoreline)
+:poofy overview;
+:medicine curacao;
+backward:cavalcade ems;
+:tempo procure; <<load>>
+-> numbered grazed;
+endwhile (consecrated bundles)
+:proclaimed raging;
+split again
+:warnings phooey;
+end split
+repeat
+backward:strip soupy;
+repeat
+backward:worthwhile violet;
+repeat while (plumbers bums?) is (counselling illegible)
+:wedding earplugs;
+if (spit typically) then (complicates sally)
+:toner united;
+break
+endif
+->intensely horseback;
+:follows boobs;
+repeat while (perennial implicated?) is (bracket camping)
+-> traded researcher;
+group anticipating airplanes
+if (cows windows?) then (geographically swordfish)
+:grift deluding;
+-> fixated blush;
+kill
+else (asbestos paralysis)
+:blindness evicted; <<input>>
+while (audit padlock?) is (bikes spread)
+backward:proven inducing;
+endwhile (noon ought)
+:nip centers;
+fork
+:orgasms guys;
+fork again
+:spurs gum; <<save>>
+fork again
+:stroller interfered;
+fork again
+:grabby write;
+-> tender bitter;
+end merge
+kill
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+group cheesecake relating
+:tube uninterrupted; <<load>>
+stop
+end group
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:liters seagull;
+split again
+-[hidden]->
+split
+:jacket stalk;
+split again
+:cocksucker levity;
+split again
+:saluting yelled;
+end split
+split again
+-[hidden]->
+:tat artifacts; <<save>>
+split again
+-[hidden]->
+:resurfaced inlaid; <<output>>
+-> plated ropes;
+end split
+group cola ear
+:moonlit estimating; <<input>>
+stop
+end group
+@enduml

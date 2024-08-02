@@ -1,0 +1,14 @@
+@startuml
+participant "loo specify" as 0
+participant "final punters" as 1
+participant "determining en" as 2
+participant "encrusted chloride" as 3
+== stuff schoolteacher ==
+2 ->> 1: troubadour shortness
+3 ->o 2++ : truant madness
+...diplomatic conspiring...
+3 -> 2: glasses built
+create participant "weirdest twitchy" as 4
+3 -> 4 : weirdest twitchy
+return torched rhinestones
+@enduml

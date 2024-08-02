@@ -1,0 +1,28 @@
+@startuml
+participant "ambience civics" as 0
+participant "hogs escape" as 1
+participant "already okay" as 2
+box "openers adoration"
+participant "steno supposed" as 3
+end box
+autonumber 7 3
+0 --> 1: woops megaphone
+2 -// 3: finishes ail
+autonumber stop
+alt hugged weatherman
+create participant "communism degraded" as 4
+0 -> 4 : communism degraded
+...composite disco...
+3 <-> 0++ : fourteenth author
+autonumber resume
+else brava commode
+1 -> 0: steamroll element
+end
+2 -\\ 0++ : nannies unhappy
+critical it dex
+...failures aurora...
+3 --//o 1: fossilized blouse
+return undoubtedly curtsy
+end
+return landed aspen
+@enduml

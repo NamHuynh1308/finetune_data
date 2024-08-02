@@ -1,0 +1,9 @@
+@startuml
+start
+group sausages melon
+:gender pedigree; <<save>>
+:external pen; <<save>>
+-> overcrowded tricky;
+end group
+stop
+@enduml

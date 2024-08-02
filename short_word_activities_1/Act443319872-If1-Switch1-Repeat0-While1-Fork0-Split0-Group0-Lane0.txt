@@ -1,0 +1,23 @@
+@startuml
+start
+switch (limbs radiation?)
+case (thump satisfaction?)
+if (cross scorched?) then (lily reprogramming)
+:stir strips;
+else (inspections descend)
+:blows judging;
+:curfews amino;
+:tree fruitful;
+while (fundamentalist dukes?) is (neglecting mountaintop)
+:mentor parking; <<task>>
+endwhile (unacceptable gawking)
+-[hidden]->
+detach
+endif
+case (rebate flopping?)
+:contented ruffle; <<input>>
+-> botulism finalized;
+case (paying consequences?)
+:trite impotence; <<procedure>>
+endswitch
+@enduml

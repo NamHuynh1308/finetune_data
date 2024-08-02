@@ -1,0 +1,17 @@
+@startuml
+participant "inflicted helo" as 0
+participant "angel bluebells" as 1
+participant "cycles corky" as 2
+participant "promote materials" as 3
+autonumber 8 3
+1 <-] : toothbrush griddle
+autonumber stop
+0 <-> 0: biologically boosters
+autonumber resume
+...hush severe...
+2 -> 3: ravings stung
+autonumber stop
+3 -->x 1++ : expenditure buttons
+autonumber resume
+return traits haycock
+@enduml

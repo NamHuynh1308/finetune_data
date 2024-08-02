@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:prefix bosomy;
+split again
+-[hidden]->
+split
+:mocha suffers;
+split again
+:operated manicures; <<save>>
+split again
+:plush alive; <<input>>
+split again
+:groove werewolves; <<save>>
+end split
+split again
+-[hidden]->
+:ballot horseman; <<procedure>>
+end split
+group stumper medical
+:yuletide pimping;
+stop
+end group
+@enduml

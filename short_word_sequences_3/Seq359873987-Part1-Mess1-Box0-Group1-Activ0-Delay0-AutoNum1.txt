@@ -1,0 +1,8 @@
+@startuml
+participant "siblings producer" as 0
+== floppy instead ==
+autonumber 5 1
+critical failures flashlights
+0 <-] : indicate holy
+end
+@enduml

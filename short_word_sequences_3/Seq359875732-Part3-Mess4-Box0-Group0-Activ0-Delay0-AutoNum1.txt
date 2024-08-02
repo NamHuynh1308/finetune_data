@@ -1,0 +1,11 @@
+@startuml
+participant "dugout lira" as 0
+participant "instant literate" as 1
+participant "venomous clearance" as 2
+autonumber 7 10
+2 -// 0: whine tinkered
+2 ->x 0: tabloids globe
+autonumber stop
+0 -> 0: ears tampon
+2 -> 2: grandkid volcanic
+@enduml

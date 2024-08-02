@@ -1,0 +1,15 @@
+@startuml
+participant "teriyaki kimono" as 0
+box "escort kitties"
+participant "naive furthering" as 1
+end box
+== receives rubs ==
+create participant "sarcastic shower" as 2
+0 -> 2 : sarcastic shower
+opt fertilizer barbecued
+1 ->> 2: debt detonating
+critical superior hernia
+1 -> 1: flak stand
+end
+end
+@enduml

@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:expectancy preceding;
+split again
+-[hidden]->
+:stag whittling; <<procedure>>
+-> tryouts sharp;
+split again
+-[hidden]->
+repeat
+backward:christening stumbles;
+:anticipating needlessly;
+if (eyelash treaties) then (stunk mandates)
+:crappy demands;
+break
+endif
+->tree implemented;
+:condos grad;
+:kindness lynx;
+repeat while (crows emblem?) is (product pi)
+end split
+while (strait portrait?) is (sided table)
+backward:grateful passed;
+endwhile (lore tofu)
+:chopsticks responsibility;
+:defies hoodwinked; <<continuous>>
+-> homeboys droppings;
+end
+@enduml

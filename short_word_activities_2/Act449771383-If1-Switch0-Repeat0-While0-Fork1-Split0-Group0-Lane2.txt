@@ -1,0 +1,27 @@
+@startuml
+|1| stomach blonde
+|2| leaving jus
+:earliest reassurance; <<load>>
+|2|
+:glance complimentary; <<input>>
+|1|
+if (lull dismiss?) then (ecstasy taking)
+fork
+:menstrual gasses;
+fork again
+:toasts censor;
+fork again
+:drone pancake;
+end fork
+kill
+else (spool rehearsing)
+:glum hysterically;
+-> crazier premarital;
+endif
+|2|
+:masquerading scariest; <<save>>
+-> winding screech;
+|1|
+:cluttering stake; <<load>>
+stop
+@enduml

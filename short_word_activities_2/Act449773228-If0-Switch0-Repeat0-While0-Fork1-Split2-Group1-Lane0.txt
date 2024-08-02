@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:suites birds;
+split again
+-[hidden]->
+:fraternal trust; <<output>>
+split again
+-[hidden]->
+:loo moans; <<save>>
+end split
+group mediocre circumstance
+fork
+:quirks humidifier;
+fork again
+split
+:cultural posting;
+split again
+:postpone prophecy; <<procedure>>
+split again
+:wash grass;
+split again
+:freckling realization;
+end split
+fork again
+:associations after; <<output>>
+-> probate sweatshops;
+fork again
+:wavered reconciled; <<task>>
+-> shambles collier;
+end fork
+stop
+end group
+@enduml

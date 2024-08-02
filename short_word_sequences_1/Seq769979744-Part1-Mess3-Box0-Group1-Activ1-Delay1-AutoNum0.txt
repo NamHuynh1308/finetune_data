@@ -1,0 +1,10 @@
+@startuml
+participant "alma petition" as 0
+0 -> 0: handles hoy
+0 ->o 0++ : innards replacements
+par introduce let
+...ail yeast...
+0 -->x 0: behooves insists
+end
+return brighten ships
+@enduml

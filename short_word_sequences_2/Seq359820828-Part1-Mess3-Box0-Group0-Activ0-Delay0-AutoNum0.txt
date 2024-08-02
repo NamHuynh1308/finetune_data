@@ -1,0 +1,6 @@
+@startuml
+participant "cafeteria shall" as 0
+0 -> 0: checked specializing
+0 ->o 0: raft damnable
+0 -->x 0: assemble princely
+@enduml

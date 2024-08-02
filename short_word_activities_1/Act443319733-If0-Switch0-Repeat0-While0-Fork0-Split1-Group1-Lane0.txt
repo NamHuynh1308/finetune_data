@@ -1,0 +1,14 @@
+@startuml
+start
+group dope straights
+split
+:swans comedy;
+split again
+:nougat causing; <<input>>
+split again
+:dolt document;
+-> tempest lads;
+end split
+stop
+end group
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+box "zephyrs trend"
+participant "hoodlums sperm" as 0
+end box
+opt dukes defended
+0 <-] : humiliation flora
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+repeat
+fork
+:matron puss;
+fork again
+:wagging maximize; <<output>>
+-> diver butchers;
+fork again
+:induce siphoning; <<load>>
+-> scoping clanging;
+end fork
+repeat while (tropical prune?) is (belated morn)
+stop
+@enduml

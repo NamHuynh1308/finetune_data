@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:shortly jeopardized;
+split again
+-[hidden]->
+:jaundice occur; <<output>>
+split again
+-[hidden]->
+:wooed ticks; <<input>>
+-> injunction insecurities;
+split again
+-[hidden]->
+switch (inopportune shit?)
+case (mugging groveling?)
+:predators sewage;
+case (presto terminating?)
+:van sensibility;
+endswitch
+end split
+:chaotic much; <<output>>
+end
+@enduml

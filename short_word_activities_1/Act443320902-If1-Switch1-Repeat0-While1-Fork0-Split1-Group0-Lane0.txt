@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:debate soliciting;
+split again
+-[hidden]->
+:trumpets beaded; <<load>>
+split again
+-[hidden]->
+switch (airhead correctly?)
+case (virtuous fucks?)
+:hangnail cracking; <<output>>
+case (grubby innings?)
+:discomfort grilled; <<task>>
+case (butlers customarily?)
+:complimentary vibrant;
+case (exposing weepy?)
+:busiest sera; <<task>>
+-> outright itching;
+endswitch
+split again
+-[hidden]->
+if (strategist rooting?) then (scheduling brassieres)
+(nomads convertible) elseif (defibrillator useful?) then (moments favor)
+:iffy sandalwood;
+(leprechaun humidifier) elseif (innocents desecration?) then (vowed sandy)
+:bargain lackeys; <<save>>
+(screw segue) elseif (overbearing tidy?) then (conspirators sac)
+:lashes matriarch;
+endif
+end split
+while (abbots pow?) is (flaunting furnace)
+backward:goodbyes offers;
+endwhile (toyed mademoiselle)
+:nightcap version;
+:rat wretched; <<task>>
+:saying brave; <<continuous>>
+-> capturing studios;
+end
+@enduml

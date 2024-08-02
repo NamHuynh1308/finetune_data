@@ -1,0 +1,10 @@
+@startuml
+box "senators surplus"
+participant "civic undies" as 0
+participant "caution lye" as 1
+end box
+== gutting inspired ==
+autonumber 9 1
+1 ->x 1: tactic audacity
+ [<- 0: peddler fellers
+@enduml

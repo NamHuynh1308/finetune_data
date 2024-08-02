@@ -1,0 +1,18 @@
+@startuml
+box "watchman wangler"
+participant "committee charmed" as 0
+participant "visitors hydrogen" as 1
+end box
+autonumber 5 4
+0 -> 0: humbling produced
+autonumber stop
+1 ->> 0++ : pinning companion
+autonumber resume
+1 -> 1++ : suggest deceased
+break strait rusty
+1 <-> 0: restitution grotesque
+0 -> 1: liquor node
+end
+return protocol demonic
+return jokes flower
+@enduml

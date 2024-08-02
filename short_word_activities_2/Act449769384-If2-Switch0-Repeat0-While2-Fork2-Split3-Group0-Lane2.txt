@@ -1,0 +1,84 @@
+@startuml
+|1| slated recon
+|2| monger siding
+split
+-[hidden]->
+:quarantine examiner;
+split again
+-[hidden]->
+split
+:anymore mayflower;
+split again
+:seashell vogue; <<continuous>>
+-> simulation passion;
+split again
+:tablecloths mamie; <<procedure>>
+split again
+:bombarding pranks; <<task>>
+-> bumpkins polecat;
+end split
+split again
+-[hidden]->
+if (excluded bonehead?) then (ethically improves)
+(forks like) elseif (hooch ciao?) then (touchdowns journals)
+:ragtime jogging; <<output>>
+(angle haste) elseif (blimey poets?) then (pocketed badges)
+:teary stakeout; <<continuous>>
+-> positives lowlife;
+(ends fortuneteller) elseif (intubate frightened?) then (limousine peeking)
+:greedy stomp;
+(treatment snowball) elseif (hives famed?) then (contributes owning)
+:okayed signed; <<continuous>>
+-> rushes cannot;
+endif
+end split
+|2|
+:weighs forgive; <<continuous>>
+fork
+:sayonara saps;
+fork again
+fork
+:muddy effect;
+fork again
+:capacity warped;
+-> campos slighted;
+fork again
+:unresponsive javelin; <<procedure>>
+-> policeman mutt;
+fork again
+:departed crier;
+end fork
+fork again
+:astrophysics disloyal;
+-> motorbike liar;
+end fork
+while (accidently subcommittee?) is (booty derailing)
+while (appears levee?) is (limousine decoration)
+:brushes biographical; <<task>>
+backward:inherited hotline;
+:cousin valid; <<input>>
+-> caymans trapping;
+backward:squish list;
+endwhile (stomped footprints)
+:sift diagonal;
+backward:cellmates individually;
+:efficiently missionaries; <<input>>
+-> benching primping;
+endwhile (slush jerries)
+:stunted elder;
+if (allergic kindest?) then (whey meat)
+:intolerant quarreled; <<output>>
+split
+:thirty abandons;
+split again
+:rewrite boysenberry; <<load>>
+split again
+:disorienting paparazzi; <<output>>
+-> travelers apparel;
+end split
+else (slaw distancing)
+:snags carton; <<load>>
+:strenuously jailhouse; <<task>>
+endif
+stop
+@enduml

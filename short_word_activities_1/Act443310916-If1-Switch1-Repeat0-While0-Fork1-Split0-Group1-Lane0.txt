@@ -1,0 +1,28 @@
+@startuml
+start
+if (located hasty?) then (thoughtful format)
+(containing blam) elseif (priced hardware?) then (correspondents ominous)
+switch (tensions furlong?)
+case (civilization soy?)
+:faux breech;
+case (voted hickey?)
+:farina shells;
+case (guarded mausoleum?)
+:scamp submitted;
+endswitch
+(shuffling believable) elseif (push bible?) then (hospital resemblance)
+:confit allegiances;
+(chant vomiting) elseif (soberly uninsured?) then (openness hong)
+fork
+:prioritizing jay;
+fork again
+:diddly herds;
+fork again
+:recover economics; <<load>>
+end fork
+endif
+group record agility
+:solicitation altar; <<continuous>>
+stop
+end group
+@enduml

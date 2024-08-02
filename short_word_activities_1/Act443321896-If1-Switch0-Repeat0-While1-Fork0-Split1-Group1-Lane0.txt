@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:weights seams;
+split again
+-[hidden]->
+if (soapy novelty?) then (lava fashion)
+:chaotic unimpressed; <<load>>
+-> fowl racking;
+:paychecks phoned; <<save>>
+:formaldehyde crouching;
+else (ejection bridesmaid)
+:whilst rating;
+endif
+split again
+-[hidden]->
+while (incriminating werewolf?) is (publicist sofas)
+:rations radish;
+endwhile (illnesses continental)
+:corrupt disappearing;
+split again
+-[hidden]->
+:inseparable persist;
+end split
+group convinced sidle
+:mercer league; <<save>>
+-> swede unscrupulous;
+stop
+end group
+@enduml

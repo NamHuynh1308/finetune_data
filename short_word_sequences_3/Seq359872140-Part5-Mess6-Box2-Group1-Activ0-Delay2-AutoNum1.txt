@@ -1,0 +1,24 @@
+@startuml
+box "snip attach"
+participant "sinister kaiser" as 0
+participant "partnered pardner" as 1
+end box
+box "bequest booger"
+participant "epiphany radial" as 2
+end box
+== fixated radioed ==
+autonumber 0 5
+1 -> 1!! : devours poorer
+...auditions spirals...
+0 -> 1: jake procrastinate
+create participant "displacement recognise" as 3
+1 -> 3 : displacement recognise
+3 ->o 1: clunker demur
+...herald spas...
+0 --//o 1: giggle dobson
+par arrival causing
+create participant "jabbering folksy" as 4
+2 -> 4 : jabbering folksy
+autonumber stop
+end
+@enduml

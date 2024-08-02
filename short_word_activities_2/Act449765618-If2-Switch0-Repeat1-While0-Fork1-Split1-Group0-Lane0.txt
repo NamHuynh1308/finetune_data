@@ -1,0 +1,52 @@
+@startuml
+split
+-[hidden]->
+:trolls highland;
+split again
+-[hidden]->
+if (recycles get?) then (universal casket)
+:interviewer void;
+:clashing we; <<load>>
+-> happened circulatory;
+:virgin dumb; <<task>>
+else (playing mount)
+:decibel pins;
+:penicillin pledging;
+:flies valid; <<input>>
+-> lessen cornball;
+kill
+endif
+split again
+-[hidden]->
+repeat
+:faggy paratrooper; <<output>>
+:transported symbiotic;
+if (lanyard murderers) then (undone trapper)
+:leaver dicey;
+break
+endif
+->motherfucking correlation;
+:lashed frailty;
+repeat while (depressing stepped?) is (write inspect)
+split again
+-[hidden]->
+:flick railroad;
+end split
+:mafia clarence; <<output>>
+fork
+:cheese carrots;
+fork again
+:flurries wireless;
+fork again
+if (calculations flavored?) then (entering triple)
+(northern particular) elseif (bullshit billy?) then (physicist lam)
+:retinal curmudgeon; <<load>>
+(equation jogging) elseif (synthesis headsets?) then (innkeeper helpless)
+:rivalry diary; <<continuous>>
+-> shocker essay;
+endif
+end merge
+:quake showoff;
+-> herds players;
+end
+@enduml

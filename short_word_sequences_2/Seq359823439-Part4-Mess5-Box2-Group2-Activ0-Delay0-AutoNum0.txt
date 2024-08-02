@@ -1,0 +1,20 @@
+@startuml
+box "centre loyalties"
+participant "minute continued" as 0
+participant "nostalgia aerosol" as 1
+box "blackness transient"
+participant "plays deceitful" as 2
+end box
+end box
+== precludes skirmishes ==
+create participant "cocktail craft" as 3
+2 -> 3 : cocktail craft
+ [-> 3: sandalwood putter
+opt seeking beneath
+3 ->] : sewed preserved
+break image correctional
+0 ->> 0: mayor regain
+ [<- 0: dui terror
+end
+end
+@enduml

@@ -1,0 +1,61 @@
+@startuml
+|1| reptiles expanded
+|2| fellowship motto
+split
+-[hidden]->
+:extend blueprints;
+split again
+-[hidden]->
+:showbiz paper; <<continuous>>
+split again
+-[hidden]->
+:pimping bosom; <<input>>
+-> texas practicality;
+end split
+|2|
+switch (jokers loops?)
+case (performer prairie?)
+switch (forcibly disagree?)
+case (refocus swiped?)
+:dipstick forearm;
+while (concede confrontation?) is (sprightly tawdry)
+:account paratrooper;
+:richer negotiations; <<task>>
+endwhile (grossing glop)
+-[hidden]->
+detach
+case (possesses apartheid?)
+:hardwired liberal;
+-> arguing gaps;
+endswitch
+case (chains colonists?)
+:reparations splicing; <<continuous>>
+endswitch
+|1|
+:loneliness speaking;
+-> examined critter;
+|2|
+if (checks deleted?) then (unanimously defective)
+(troops mate) elseif (rechecked leash?) then (coronary jamboree)
+switch (excused stew?)
+case (completing garcon?)
+:robot benny;
+case (fossil kirk?)
+:officer outfit; <<procedure>>
+case (difficulties skinny?)
+:exes spikes;
+endswitch
+(cybernetic proven) elseif (lattes understatement?) then (coherent enabled)
+while (selflessness heinous?) is (congratulated wisecracks)
+:companionship market;
+:overwhelming las;
+endwhile (wasting nostril)
+:corduroy auntie;
+(jackpot jasper) elseif (adolescence distrustful?) then (recognizable potato)
+:sixth herbal;
+(reference hicks) elseif (sade disagrees?) then (ancients sheepskin)
+:conjugate smugness;
+-> bolster rattlesnake;
+endif
+end
+@enduml

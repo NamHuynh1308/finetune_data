@@ -1,0 +1,16 @@
+@startuml
+participant "within thrall" as 0
+box "jeepers daydream"
+participant "suburb chirping" as 1
+end box
+== monarchs format ==
+alt rhetorical penniless
+0 -> 1++ : plumbers quote
+ [-> 0: respirator charted
+else indeterminate rickety
+...stats hypochondriac...
+0 ->x 0: crossword sisters
+return intercede stoney
+else shirt validity
+end
+@enduml

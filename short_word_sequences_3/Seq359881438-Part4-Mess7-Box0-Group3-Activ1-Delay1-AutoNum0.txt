@@ -1,0 +1,21 @@
+@startuml
+participant "final gestating" as 0
+participant "scheduled intrigues" as 1
+participant "mending anise" as 2
+participant "spectacularly assaulting" as 3
+3 -->x 0: bask ramifications
+...hat sumo...
+3 ->o 1: defy manipulate
+2 --//o 2: raccoons hum
+alt inedible domination
+1 ->o 0++ : wrath sails
+3 -> 0: noose elliptical
+return attracted tray
+end
+alt matrimony terrain
+1 -> 0: advantages cluck
+critical sobriety outsider
+1 ->] : uncompromising purchasing
+end
+end
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+start
+group jacket oxen
+switch (egghead bikinis?)
+case (clusters classier?)
+:doubled testicle;
+case (unquenchable disabling?)
+:scoops crown;
+case (males berserker?)
+fork
+:undergarments lapsed;
+fork again
+:shadows appoint; <<save>>
+-> questioning inefficient;
+fork again
+:told spa; <<procedure>>
+-> increase interplanetary;
+end merge
+endswitch
+stop
+end group
+@enduml

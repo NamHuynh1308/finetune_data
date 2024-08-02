@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:cheers wilt;
+split again
+-[hidden]->
+:admonition offensive; <<procedure>>
+split again
+-[hidden]->
+:abut voters; <<task>>
+-> devoted mountaineer;
+end split
+:posse sidekick;
+stop
+@enduml

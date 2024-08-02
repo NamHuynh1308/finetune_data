@@ -1,0 +1,8 @@
+@startuml
+group incidents lighting
+:shields sown;
+-> excusing coming;
+:curtains strolling; <<continuous>>
+end group
+stop
+@enduml

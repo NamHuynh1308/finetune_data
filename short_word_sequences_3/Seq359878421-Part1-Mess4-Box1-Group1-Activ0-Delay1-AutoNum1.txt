@@ -1,0 +1,16 @@
+@startuml
+box "paints watery"
+participant "earn extend" as 0
+end box
+autonumber 6 5
+loop screw hobbies
+0 -> 0: cannot gentler
+0 -> 0!! : holiday gratified
+...finalize existent...
+0 -->x 0: sidecar conceal
+autonumber stop
+else rigged optometrist
+0 -> 0: acrobat cussing
+autonumber resume
+end
+@enduml

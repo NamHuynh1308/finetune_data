@@ -1,0 +1,33 @@
+@startuml
+|1| sappy mash
+|2| bazooka innocuous
+split
+-[hidden]->
+:irrational tucked;
+split again
+-[hidden]->
+switch (shrugging spontaneity?)
+case (specimens preferably?)
+:blended possession;
+case (retrograde nine?)
+:aggravate expenses;
+endswitch
+split again
+-[hidden]->
+:slow decision; <<output>>
+end split
+:wildfire rainstorm; <<continuous>>
+-> apocalypse joins;
+|2|
+:socks primarily;
+:conducted razor; <<save>>
+fork
+:knowingly showstopper;
+fork again
+:bails intuition; <<procedure>>
+fork again
+:adversaries ladders; <<continuous>>
+fork again
+:misunderstandings channels; <<task>>
+end merge
+@enduml

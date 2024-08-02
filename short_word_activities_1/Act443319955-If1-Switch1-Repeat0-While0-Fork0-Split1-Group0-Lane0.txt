@@ -1,0 +1,25 @@
+@startuml
+start
+if (steps reasoning?) then (bartending dredging)
+split
+:snakeskin ought;
+split again
+:diagonal belted; <<procedure>>
+split again
+:hunker midnight; <<output>>
+-> suffocating programmed;
+end split
+:destinations storage;
+-> acne indicating;
+else (marooned chilling)
+switch (carlin schooled?)
+case (bam aurora?)
+:soulful recorded;
+case (lapdog beaches?)
+:advantage succulent; <<procedure>>
+case (sake misfit?)
+:erosion webbing;
+endswitch
+endif
+stop
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "snatcher properties" as 0
+== remember vertical ==
+autonumber 4 6
+0 ->o 0: charged rooting
+0 ->> 0: have fern
+autonumber stop
+@enduml

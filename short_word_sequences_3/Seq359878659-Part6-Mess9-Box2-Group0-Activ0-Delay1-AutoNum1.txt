@@ -1,0 +1,26 @@
+@startuml
+participant "notorious nebula" as 0
+box "swimmer eloquently"
+participant "imposed mortar" as 1
+participant "nervous christy" as 2
+end box
+participant "suggestion cheddar" as 3
+box "bluer rinse"
+participant "untimely overwrought" as 4
+end box
+== cancellation molested ==
+autonumber 6 4
+create participant "analyst invitations" as 5
+3 -> 5 : analyst invitations
+3 <-> 2: rehab catcher
+1 -\\ 1: battery transmitters
+autonumber stop
+3 -\\ 3: scrambled steak
+2 -> 1: breakable transported
+...scampered issues...
+ [<- 5: lifelike carrot
+4 <-> 1: commiserate rudely
+1 <-] : beloved videotape
+autonumber resume
+0 <-] : gage syphilis
+@enduml

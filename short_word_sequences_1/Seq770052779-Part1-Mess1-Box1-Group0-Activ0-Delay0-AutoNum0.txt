@@ -1,0 +1,6 @@
+@startuml
+box "panting either"
+participant "dreamless discrete" as 0
+end box
+0 -// 0: farewell confound
+@enduml

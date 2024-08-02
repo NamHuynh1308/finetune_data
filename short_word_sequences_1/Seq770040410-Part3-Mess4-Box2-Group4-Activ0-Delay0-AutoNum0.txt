@@ -1,0 +1,21 @@
+@startuml
+box "fluffy debutantes"
+participant "feedback purest" as 0
+participant "jumpsuit primate" as 1
+end box
+box "hallucination effortless"
+participant "blurting grabby" as 2
+end box
+par prowl elapsed
+1 <-] : wolf reparations
+break kibble tempted
+ [<- 0: wrecker impossibly
+opt researchers terrestrial
+0 <-> 2: imaginative aged
+alt gore dud
+2 -> 1: huggers initial
+end
+end
+end
+end
+@enduml

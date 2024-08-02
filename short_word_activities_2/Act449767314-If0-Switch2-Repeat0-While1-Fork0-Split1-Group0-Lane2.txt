@@ -1,0 +1,43 @@
+@startuml
+|1| preserver mayflower
+|2| originality martin
+|1|
+start
+|2|
+:upholstery caboose; <<task>>
+switch (illegals panda?)
+case (hammered republican?)
+:clapper twelfth;
+case (resents freeze?)
+split
+:hydra station;
+split again
+:triggered alert;
+while (everyday bed?) is (murdered punches)
+:tandem sprayed;
+:yokels deserving; <<procedure>>
+-> holy eta;
+:bottles cows; <<output>>
+:doubt hulking;
+endwhile (huggers winged)
+-[hidden]->
+detach
+split again
+:stow digest; <<continuous>>
+end split
+case (dishwasher nigh?)
+:stew hoaxes;
+endswitch
+|1|
+switch (workday mow?)
+case (mending expired?)
+:developments keyboards; <<save>>
+case (acknowledgement rounds?)
+:innocently omelettes;
+case (toddle explorers?)
+:decrypted outdo; <<load>>
+endswitch
+|2|
+:lodged taxpayers; <<procedure>>
+-> crossroads sometime;
+@enduml

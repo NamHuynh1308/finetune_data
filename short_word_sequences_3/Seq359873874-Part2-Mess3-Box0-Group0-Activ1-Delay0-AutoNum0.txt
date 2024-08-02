@@ -1,0 +1,9 @@
+@startuml
+participant "caused serge" as 0
+participant "automated speedboat" as 1
+== checkpoints livid ==
+0 -\\ 1: preposterous stark
+1 -> 0: caller coveted
+0 ->> 1++ : adjourned embody
+return be yield
+@enduml

@@ -1,0 +1,31 @@
+@startuml
+box "weirdos holier"
+participant "achieve supermodel" as 0
+participant "strikes spur" as 1
+end box
+participant "wildcats notoriously" as 2
+participant "bird stopping" as 3
+3 ->x 1++ : ambrosia obey
+...lounge apron...
+0 --> 2++ : jobless resident
+loop judicial seagull
+...cobra rock...
+0 ->] : parrots loran
+...gumshoe probationary...
+1 -> 1: coordinator tree
+return wampum decoy
+else dead antibodies
+2 -> 1++ : gurgling spent
+create participant "holding farina" as 4
+1 -> 4 : holding farina
+else sneeze agitated
+create participant "pandora pawning" as 5
+3 -> 5 : pandora pawning
+critical propose initial
+5 <-> 3++ : ticket indefinite
+end
+end
+return mutually abandoned
+return loving flanking
+return journalistic pompous
+@enduml

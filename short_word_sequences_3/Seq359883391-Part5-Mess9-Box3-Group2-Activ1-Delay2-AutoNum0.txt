@@ -1,0 +1,29 @@
+@startuml
+box "occupant licked"
+participant "worn ration" as 0
+participant "tries tumbler" as 1
+end box
+box "sulfur forgive"
+participant "arches sterner" as 2
+box "honesty bionic"
+participant "joys preserver" as 3
+participant "measured actual" as 4
+end box
+end box
+1 ->] : camper goddamned
+ [-> 2: representatives buildings
+0 ->> 2: needles taffy
+1 ->o 0: grownups excluding
+ [-> 4: stashed democrat
+ [-> 4: worrywart eventful
+...handsome favoritism...
+1 -> 2: envoy scalped
+par misogynistic herniated
+...tenacious firm...
+0 <-> 4++ : dined masseuse
+alt celebrates usually
+3 --> 1: wand selflessness
+return barging parked
+end
+end
+@enduml

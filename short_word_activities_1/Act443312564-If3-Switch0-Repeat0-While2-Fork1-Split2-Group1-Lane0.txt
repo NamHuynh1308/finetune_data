@@ -1,0 +1,65 @@
+@startuml
+if (thank classified?) then (debonair rouge)
+fork
+:firing mattered;
+fork again
+:catwalk mortal; <<output>>
+fork again
+:quits mayoral;
+fork again
+:happens dominate; <<input>>
+end fork
+:haunting balloon; <<task>>
+else (summit headgear)
+if (despicable representatives?) then (zoom senators)
+(itinerary nurtured) elseif (physicals storage?) then (shriveled jet)
+:physicists indicator;
+(civics militant) elseif (motley sign?) then (alternative dozen)
+:plague husk; <<output>>
+-> tut voiced;
+endif
+:placebos enduring;
+-> received round;
+while (stomper sentimental?) is (ions dozens)
+:frames grasp;
+endwhile (overseas bonehead)
+:reactive dopes;
+endif
+split
+:chenille leaked;
+split again
+:different coordinator; <<output>>
+-> furnished mines;
+split again
+:engrossing bridges; <<input>>
+end split
+group stomachache mad
+split
+:happy tile;
+split again
+if (woken holed?) then (poorhouse foregone)
+(initiatives urges) elseif (rental loveless?) then (praising coolly)
+:meadow crucial; <<output>>
+-> courtyard starred;
+(disease harass) elseif (squirm tucking?) then (instinctively delinquency)
+:hysterics breakups; <<task>>
+-> licks manuscript;
+(fervent grandbaby) elseif (defeats obsessive?) then (toured says)
+:biscuits toasts;
+(kayak commotion) elseif (herds incest?) then (privy hightail)
+:sculptor threatening; <<task>>
+endif
+split again
+while (grab vermeil?) is (rust withstand)
+backward:juggling validity;
+backward:tails recon;
+:carolling intrigues; <<save>>
+endwhile (topside idiotic)
+:methodical mew;
+split again
+:receptionist hooves; <<load>>
+-> veering contemplate;
+end split
+stop
+end group
+@enduml

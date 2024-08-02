@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:vie plate;
+split again
+-[hidden]->
+:stuffs kissy;
+-> robbins ribs;
+split again
+-[hidden]->
+switch (irrelevant excepted?)
+case (computers rulers?)
+:disposition citizen; <<input>>
+case (spreadsheets liners?)
+:tombs steel; <<continuous>>
+case (treasury dusty?)
+:news ruffles; <<input>>
+-> miracles feisty;
+endswitch
+split again
+-[hidden]->
+:dreading gale; <<procedure>>
+end split
+while (propped undermines?) is (oldie uplink)
+:ritual monument; <<procedure>>
+-> doves thunderbird;
+:throats rabbi; <<task>>
+backward:shawn mirage;
+endwhile (gage roller)
+:eats analogy;
+:prejudiced anybody; <<load>>
+-> swerving pharaoh;
+split
+:dyed telethon;
+split again
+fork
+:apostle duplicate;
+fork again
+:statewide flowering;
+fork again
+:greater stills;
+end merge
+split again
+:humanly coriander; <<procedure>>
+split again
+fork
+:regarded corridor;
+fork again
+:unshakable demons;
+fork again
+:hellfire badder;
+fork again
+:uncut exhilarated;
+end merge
+end split
+@enduml

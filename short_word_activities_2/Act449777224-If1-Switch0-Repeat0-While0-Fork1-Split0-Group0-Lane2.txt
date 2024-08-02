@@ -1,0 +1,25 @@
+@startuml
+|1| mid instructors
+|2| revising assembling
+|2|
+:wishing organise;
+-> comedians laughs;
+:demographic inferno; <<save>>
+|1|
+if (rosin whacked?) then (florist unemployed)
+:leper reconsidered;
+-> imbecilic grafts;
+:described floated;
+-> fasten probes;
+else (col drying)
+fork
+:businessman headhunter;
+fork again
+:underdog competent;
+-> fresher dive;
+fork again
+:volunteering edgewise;
+end merge
+endif
+stop
+@enduml

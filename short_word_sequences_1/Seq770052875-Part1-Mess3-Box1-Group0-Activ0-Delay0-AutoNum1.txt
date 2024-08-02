@@ -1,0 +1,11 @@
+@startuml
+box "straights unmarried"
+participant "beaver sulking" as 0
+end box
+autonumber 0 1
+0 ->o 0: stomped providence
+autonumber stop
+ [-> 0: restraint puny
+autonumber resume
+0 -> 0: anticipated paroled
+@enduml

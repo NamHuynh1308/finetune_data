@@ -1,0 +1,16 @@
+@startuml
+participant "cigar abilities" as 0
+participant "inhale coiled" as 1
+box "grange inch"
+participant "tripped wax" as 2
+participant "enjoy espresso" as 3
+end box
+== scampi dissed ==
+par scouted zlotys
+2 -> 1: tweaking comfortably
+1 --//o 0: competitiveness conceiving
+ [<- 3: coffee section
+else recommended john
+1 ->x 3: smiled stripped
+end
+@enduml

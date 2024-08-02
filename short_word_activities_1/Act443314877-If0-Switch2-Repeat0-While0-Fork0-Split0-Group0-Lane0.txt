@@ -1,0 +1,17 @@
+@startuml
+start
+switch (begun pulses?)
+case (crotch kegs?)
+switch (warlock use?)
+case (melody reflects?)
+:pound confound;
+case (conducts unsanitary?)
+:chestnuts bills;
+case (appease link?)
+:hubby concocting; <<output>>
+endswitch
+case (pay surprise?)
+:mouthy lye;
+endswitch
+end
+@enduml

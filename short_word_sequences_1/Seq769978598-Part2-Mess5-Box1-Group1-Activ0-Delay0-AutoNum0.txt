@@ -1,0 +1,14 @@
+@startuml
+participant "hamstring mache" as 0
+box "railroading leafy"
+participant "deprivation extract" as 1
+end box
+== bump roadster ==
+0 <-> 1: charming heavens
+1 -->x 0: volunteered roosters
+0 --//o 1: cuneiform windward
+1 <-> 1: saffron shock
+break hospitals requiring
+ [-> 0: bluer frankly
+end
+@enduml

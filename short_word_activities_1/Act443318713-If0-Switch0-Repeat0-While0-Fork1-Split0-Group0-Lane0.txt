@@ -1,0 +1,13 @@
+@startuml
+start
+fork
+:watts juices;
+fork again
+:complains troy; <<task>>
+fork again
+:tacked porn;
+end merge
+:action floorboard; <<output>>
+-> assertiveness gridlock;
+:buses snoop; <<procedure>>
+@enduml

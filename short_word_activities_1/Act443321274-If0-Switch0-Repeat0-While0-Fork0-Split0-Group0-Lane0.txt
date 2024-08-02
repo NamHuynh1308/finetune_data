@@ -1,0 +1,5 @@
+@startuml
+start
+:geometric it; <<save>>
+stop
+@enduml

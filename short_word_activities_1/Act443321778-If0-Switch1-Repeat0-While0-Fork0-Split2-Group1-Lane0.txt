@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:galore jilted;
+split again
+-[hidden]->
+:flunk kites;
+kill
+split again
+-[hidden]->
+:worrier perpetrated; <<input>>
+end split
+group tits rejections
+:housecleaning gross;
+:fuse manually; <<continuous>>
+end group
+switch (sicken adjective?)
+case (extremes mobile?)
+split
+:wolfram trashes;
+split again
+:vandals fletcher; <<output>>
+split again
+:clan constitutional;
+end split
+case (distant triggers?)
+:prostitution liberty; <<output>>
+case (cultures sticky?)
+:existentialist jacks;
+-> heed caliber;
+case (stonewalled paratroopers?)
+:loopholes cracked; <<output>>
+-> realistic contribution;
+endswitch
+@enduml

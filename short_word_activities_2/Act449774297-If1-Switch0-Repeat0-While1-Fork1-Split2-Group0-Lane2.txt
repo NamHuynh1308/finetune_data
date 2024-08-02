@@ -1,0 +1,49 @@
+@startuml
+|1| unhook posses
+|2| incantation notwithstanding
+split
+-[hidden]->
+:swamp poncho;
+split again
+-[hidden]->
+:intrigues questionable;
+split again
+-[hidden]->
+:preaching outskirts;
+kill
+split again
+-[hidden]->
+if (bygones fudging?) then (militants frills)
+:coon addressed; <<procedure>>
+else (luggage versatile)
+:yesterdays gridlock;
+:moderation scoundrels; <<output>>
+-> nocturnal leopard;
+endif
+end split
+:sponsored shtick; <<save>>
+|2|
+:dressy hells;
+split
+:neutered instance;
+split again
+:plutonium alumnus; <<load>>
+split again
+fork
+:sincerity hopping;
+fork again
+:comers nephew;
+while (employing hormone?) is (cooper redundant)
+backward:corrupt stymied;
+endwhile (grand overflowing)
+-[hidden]->
+detach
+fork again
+:peep interfere; <<continuous>>
+-> premed firecrackers;
+fork again
+:nub lava; <<output>>
+end merge
+end split
+end
+@enduml

@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:claws midterms;
+split again
+-[hidden]->
+:liter octopus; <<output>>
+-> gourd cinema;
+split again
+-[hidden]->
+fork
+:involving punching;
+fork again
+:asshole overcast; <<save>>
+fork again
+:oiled gestating; <<load>>
+end fork
+split again
+-[hidden]->
+switch (remind grumpy?)
+case (cares story?)
+:plutonium caffeine;
+case (limes cleanliness?)
+:yards heartbeats;
+-> appetizing dehydration;
+case (detention carl?)
+:soaring beautifully;
+case (ape backfiring?)
+:skid tape; <<task>>
+endswitch
+end split
+group hurt chemical
+while (agreements aright?) is (edible moneymaker)
+backward:flack signs;
+:corrected swears; <<save>>
+-> early cockney;
+backward:wildly situated;
+backward:lederhosen frustrates;
+endwhile (sewed periods)
+:primed unsigned;
+stop
+end group
+@enduml

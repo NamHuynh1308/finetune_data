@@ -1,0 +1,13 @@
+@startuml
+participant "wiggly expenses" as 0
+participant "hyped hank" as 1
+participant "cafeteria physically" as 2
+participant "toll central" as 3
+== hulking clogs ==
+1 -> 0: egghead hoodwinked
+3 --> 2: fuck slick
+...boards acne...
+ [-> 3: choosy gull
+ [-> 0: locals incompetent
+ [<- 0: seizing handicap
+@enduml

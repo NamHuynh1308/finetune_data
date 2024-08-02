@@ -1,0 +1,7 @@
+@startuml
+participant "foraging published" as 0
+== programmer kayak ==
+loop curious recording
+0 -> 0: twelve base
+end
+@enduml

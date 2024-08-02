@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:squishing social;
+split again
+-[hidden]->
+:picturing bookie; <<save>>
+split again
+-[hidden]->
+:impenetrable snowballing; <<load>>
+-> brings photography;
+split again
+-[hidden]->
+:gentlemen maternity;
+kill
+end split
+group panama atop
+split
+:veils jerks;
+split again
+:bandit precision; <<continuous>>
+split again
+:reek refresh; <<load>>
+split again
+:manuscript harbouring; <<input>>
+-> telly hisself;
+end split
+stop
+end group
+@enduml

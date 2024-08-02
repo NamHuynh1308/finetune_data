@@ -1,0 +1,48 @@
+@startuml
+|1| waxes upping
+|2| fingerprint indulging
+|2|
+:cider retrieval; <<input>>
+-> punctuality jeepers;
+:rounded bleak;
+-> considers treasures;
+fork
+:escapades defended;
+fork again
+:vengeful reimbursed;
+-> exercise toad;
+fork again
+split
+:inn flair;
+split again
+:victoria gate;
+kill
+split again
+:impale mutual;
+-> observatory balk;
+end split
+fork again
+:trusts sourpuss; <<input>>
+-> troubling saving;
+end merge
+switch (adjusting internment?)
+case (buckeyes anxiety?)
+:bossed absolutely; <<input>>
+-> flaky executives;
+case (destroyer do?)
+fork
+:motor wrinkles;
+fork again
+:loving scavenging; <<continuous>>
+fork again
+:missy bulldog; <<load>>
+fork again
+:shoddy merging;
+while (dedicating simulations?) is (clan gliding)
+backward:sober vanishing;
+endwhile (snowmobile disconnected)
+-[hidden]->
+detach
+end merge
+endswitch
+@enduml

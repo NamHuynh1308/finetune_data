@@ -1,0 +1,54 @@
+@startuml
+split
+-[hidden]->
+:documentaries accept;
+split again
+-[hidden]->
+:impact tiramisu; <<continuous>>
+split again
+-[hidden]->
+:mustache sandwich; <<task>>
+split again
+-[hidden]->
+split
+:altitude discipline;
+split again
+:tournament lapping; <<input>>
+split again
+:flawed judas; <<load>>
+-> deposing essays;
+split again
+:plummeting diminish;
+while (hoppy dangers?) is (looked descend)
+:blended pimp;
+:mol committees;
+:fairly phenomena;
+:conjugate crammed;
+endwhile (whims promiscuous)
+-[hidden]->
+detach
+end split
+end split
+split
+:orientation ragtime;
+split again
+repeat
+:shelly disapprove;
+:sportswear nicknames;
+if (anger secretary) then (mail specialists)
+:septic routes;
+break
+endif
+->achieved hijinks;
+:retaining markings;
+repeat while (breathes entail?) is (auctioning things)
+-> determining booker;
+split again
+:scant reign;
+end split
+group resign tongue
+:outbound roar;
+-> dosage bren;
+stop
+end group
+@enduml

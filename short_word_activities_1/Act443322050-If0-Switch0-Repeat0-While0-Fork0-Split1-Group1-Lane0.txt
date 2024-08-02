@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:choices deceptively;
+split again
+-[hidden]->
+:ogling detrimental;
+-> technicians shutdown;
+split again
+-[hidden]->
+:parsons chest; <<task>>
+-> spineless greyhound;
+end split
+:doggone auras; <<load>>
+group evacuated coordinating
+:mar insurmountable; <<load>>
+stop
+end group
+@enduml

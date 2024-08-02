@@ -1,0 +1,37 @@
+@startuml
+start
+group farther samples
+split
+:foamy goonie;
+split again
+fork
+:medical incredible;
+fork again
+:verily gain; <<input>>
+-> chores marched;
+fork again
+:video sympathies; <<load>>
+-> arm endowment;
+end merge
+split again
+:endless everyday; <<task>>
+split again
+:ventilation intending; <<load>>
+end split
+fork
+:bogeyman bankrolled;
+fork again
+:intravenously seminary; <<output>>
+-> limbs predisposition;
+fork again
+repeat
+:taxidermist phonies;
+:aloe secretarial; <<save>>
+repeat while (spider incredible?) is (chutes ambulances)
+fork again
+:gliders foolproof;
+-> soapbox fault;
+end merge
+end group
+stop
+@enduml

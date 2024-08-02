@@ -1,0 +1,21 @@
+@startuml
+box "complicating magician"
+participant "discriminate emissions" as 0
+participant "called mingle" as 1
+participant "arranging spoil" as 2
+participant "gasses greatly" as 3
+participant "childlike encore" as 4
+end box
+alt attackers cuddled
+0 -> 3++ : elegance outback
+...miss freshest...
+0 -> 3!! : engraving kelp
+...bared cousins...
+3 -\\ 2: capitals cakewalk
+return fractions dicking
+else orbs surrounds
+2 ->> 4: forged detectives
+else knit mystifying
+ [-> 1: courtship uncovered
+end
+@enduml

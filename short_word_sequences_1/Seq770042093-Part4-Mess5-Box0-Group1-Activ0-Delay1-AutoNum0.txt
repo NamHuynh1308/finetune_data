@@ -1,0 +1,14 @@
+@startuml
+participant "consolidate pales" as 0
+participant "village sniffles" as 1
+participant "fridge broiled" as 2
+participant "paper offerings" as 3
+1 -// 3: tempers mope
+2 -> 0: unemployment wedge
+...shoddy sampling...
+3 -> 3: impale patrolling
+par auditor sticky
+2 ->] : forties spooked
+2 <-] : unforgiving leaders
+end
+@enduml

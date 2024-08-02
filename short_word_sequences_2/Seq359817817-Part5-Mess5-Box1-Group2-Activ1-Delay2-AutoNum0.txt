@@ -1,0 +1,21 @@
+@startuml
+participant "sniper dykes" as 0
+participant "slipping caring" as 1
+participant "sarcoidosis sunflower" as 2
+box "mechanism enormity"
+participant "occupations confidence" as 3
+end box
+1 <-> 1: sleuth piping
+alt pepperoni fraternal
+create participant "headmaster superego" as 4
+1 -> 4 : headmaster superego
+...conning railroading...
+1 --//o 4++ : briefs chandeliers
+alt donated coo
+1 -// 1: doves splendor
+return towel theater
+...swings sale...
+ [<- 2: prohibition spell
+end
+end
+@enduml

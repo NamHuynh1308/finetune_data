@@ -1,0 +1,23 @@
+@startuml
+box "idling hunched"
+participant "academy resource" as 0
+box "channels snuggled"
+participant "instructors convertibles" as 1
+box "elitist renew"
+participant "toed ghoul" as 2
+end box
+end box
+end box
+autonumber 0 9
+0 ->o 2++ : vision pistols
+1 -> 0: unfathomable construction
+return standards merchandise
+opt wireless cinnabar
+1 ->> 1: boggle piled
+2 <-> 2: egging weeds
+autonumber stop
+create participant "humility distressed" as 3
+2 -> 3 : humility distressed
+else twit commandant
+end
+@enduml

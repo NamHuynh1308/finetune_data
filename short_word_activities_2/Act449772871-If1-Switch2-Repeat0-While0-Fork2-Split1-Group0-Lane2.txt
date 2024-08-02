@@ -1,0 +1,56 @@
+@startuml
+|1| kneel grove
+|2| bora eases
+split
+-[hidden]->
+:dictated disqualified;
+split again
+-[hidden]->
+fork
+:finagle decryption;
+fork again
+:conk mess; <<save>>
+fork again
+:hemisphere hoes;
+end fork
+split again
+-[hidden]->
+:booths realm; <<output>>
+-> neonatal dodgers;
+end split
+fork
+:amputation league;
+fork again
+switch (rescinded outspoken?)
+case (products allows?)
+:dive sire; <<procedure>>
+-> exciting immerse;
+case (carpenter blot?)
+:waive ceased;
+kill
+endswitch
+fork again
+:hitters raft; <<procedure>>
+fork again
+switch (businessman cruising?)
+case (riding recount?)
+:internment sakes;
+case (sarge stilts?)
+:seek diplomas; <<procedure>>
+endswitch
+end fork
+|2|
+:sums informing; <<output>>
+-> admonition precedents;
+|1|
+:briefcases jimmy; <<task>>
+-> gauntlet berries;
+if (soothe responsibly?) then (dancing confined)
+:edgewise ponder; <<input>>
+-> chloride refined;
+else (colin rancid)
+:bask assassination; <<save>>
+:tasting supply;
+:acknowledge bankbooks;
+endif
+@enduml

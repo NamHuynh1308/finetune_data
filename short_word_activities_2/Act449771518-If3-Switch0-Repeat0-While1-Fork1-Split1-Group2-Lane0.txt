@@ -1,0 +1,48 @@
+@startuml
+group triceps accessories
+:played stinking;
+group general unpaid
+if (houseguests horde?) then (studly dodgeball)
+if (condolences underpaid?) then (dangling extravagant)
+:anthropologist hyperspace; <<task>>
+-> bowed ben;
+:instructors map;
+:severe aging;
+else (sled elevate)
+:avocado hiccups;
+:instance drain;
+endif
+split
+:brent pretzels;
+split again
+:hillbillies sweethearts;
+split again
+:grandchildren pouting; <<load>>
+end split
+if (perpetrated snagging?) then (given tombs)
+(fiesta concussions) elseif (temple virile?) then (fur conception)
+:hymns northwestern;
+(controller sos) elseif (sixes dodge?) then (hives helo)
+:hookup shoplifters;
+(blight mend) elseif (forty gums?) then (stepmother services)
+:keynote welfare;
+endif
+else (relentlessly coup)
+fork
+:euphoric ivory;
+fork again
+:triggering eats;
+fork again
+:smacked symmetrical; <<save>>
+-> pain peels;
+end fork
+while (parlour preferences?) is (bounce queers)
+:sweaters canyons; <<task>>
+endwhile (widowed hallelujah)
+-[hidden]->
+detach
+endif
+stop
+end group
+end group
+@enduml

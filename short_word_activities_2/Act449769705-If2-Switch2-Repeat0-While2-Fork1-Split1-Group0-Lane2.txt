@@ -1,0 +1,75 @@
+@startuml
+|1| fuses mood
+|2| everybody archives
+split
+-[hidden]->
+:receding going;
+split again
+-[hidden]->
+:plummeted louvre; <<input>>
+-> actuarial indicate;
+split again
+-[hidden]->
+:lech eloping;
+-> neurologist utmost;
+end split
+while (paste crowns?) is (flown bubbies)
+:getup remained; <<procedure>>
+-> recheck laced;
+:turk oneself; <<save>>
+-> embarked choirboy;
+endwhile (uncovered boom)
+:frontier superb;
+:leagues conclusively; <<load>>
+switch (appearing hokey?)
+case (thesaurus cranial?)
+:reigning biology;
+-> strength cipher;
+case (hothouse unpunished?)
+:complacency nicer; <<output>>
+case (ferrets lay?)
+:craftsmanship nam; <<procedure>>
+endswitch
+if (around champs?) then (insufferable rode)
+(git recuperate) elseif (seekers cancel?) then (favorite disobedience)
+:obfwvg;
+while (temp granola?) is (comparable bumper)
+switch (pill adrenals?)
+case (prejudice arranging?)
+:airmen unethical;
+case (preparations pep?)
+:serviced skulls;
+case (deities poke?)
+:crumbles dehydrated;
+endswitch
+:counts plummet; <<task>>
+-> mushy blowtorch;
+:handguns clippings; <<load>>
+endwhile (leaf terrestrial)
+-[hidden]->
+detach
+(magnificent persuade) elseif (eventuality cursory?) then (craziness curator)
+:coding conveyor; <<save>>
+(shoots needle) elseif (showing duped?) then (nitroglycerin update)
+:interning performers; <<continuous>>
+-> reacting comma;
+(document commendable) elseif (ballet slit?) then (chowder healthy)
+:tenement flutes; <<procedure>>
+-> critically migrate;
+endif
+|2|
+if (exemption could?) then (hex heaped)
+(meetings pong) elseif (oral enchantment?) then (element lobby)
+:easel wider; <<output>>
+-> ala fellers;
+(delicate subsidy) elseif (metaphor limitation?) then (bear missionary)
+fork
+:bitch handgun;
+fork again
+:hollowed dears;
+fork again
+:versus understands;
+end fork
+endif
+end
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:deeded cyclone;
+split again
+-[hidden]->
+:underpaid mow;
+split again
+-[hidden]->
+split
+:fruition underdeveloped;
+split again
+:wacky balcony;
+split again
+:persuasive trampling; <<save>>
+end split
+split again
+-[hidden]->
+:appreciated racquetball; <<save>>
+end split
+:pediatrician prosthetic; <<continuous>>
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+box "anesthesia overstep"
+participant "job disillusionment" as 0
+participant "pregnant dispenser" as 1
+end box
+autonumber 5 1
+ [<- 1: huddle intrude
+0 --//o 1++ : paths advertise
+autonumber stop
+return unconscious miniscule
+@enduml

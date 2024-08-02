@@ -1,0 +1,8 @@
+@startuml
+participant "unprincipled adventures" as 0
+autonumber 8 1
+0 -> 0: with exclusion
+0 -\\ 0: kingdoms nana
+0 <-] : loathes dehydrated
+autonumber stop
+@enduml

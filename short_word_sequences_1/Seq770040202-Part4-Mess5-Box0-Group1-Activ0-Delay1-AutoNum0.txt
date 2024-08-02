@@ -1,0 +1,16 @@
+@startuml
+participant "humoring limp" as 0
+participant "communal wimpy" as 1
+participant "fellahs smuggle" as 2
+participant "spareribs redundancies" as 3
+3 --> 1: drake ordinate
+...lieutenant nuisance...
+0 ->] : hogs ranting
+loop smarter unfolds
+2 -> 3: reflection grabs
+ [<- 1: napping toms
+else runner racism
+3 -> 2: card granddad
+else oatmeal cures
+end
+@enduml

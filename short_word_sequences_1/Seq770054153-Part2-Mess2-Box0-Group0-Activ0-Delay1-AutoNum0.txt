@@ -1,0 +1,7 @@
+@startuml
+participant "attention vaguely" as 0
+participant "wiper perjury" as 1
+1 -> 0: ye gaze
+...body drawer...
+1 -> 0: mopey runaways
+@enduml

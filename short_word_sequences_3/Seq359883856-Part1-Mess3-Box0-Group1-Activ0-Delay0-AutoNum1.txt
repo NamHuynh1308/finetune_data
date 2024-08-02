@@ -1,0 +1,12 @@
+@startuml
+participant "capital internal" as 0
+== hotheaded woozy ==
+autonumber 4 7
+0 ->> 0: page rotating
+0 -> 0: screamer argue
+autonumber stop
+par pining chessboard
+0 --> 0: engaging stunning
+autonumber resume
+end
+@enduml

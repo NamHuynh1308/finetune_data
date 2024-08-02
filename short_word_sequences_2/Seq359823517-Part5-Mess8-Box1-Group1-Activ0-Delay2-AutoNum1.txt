@@ -1,0 +1,25 @@
+@startuml
+participant "darkroom mitts" as 0
+participant "prosperity eastern" as 1
+participant "oven flailing" as 2
+box "disappoints timing"
+participant "gypsies poems" as 3
+participant "overflowing commanders" as 4
+end box
+== radius speedos ==
+autonumber 2 10
+alt ethical lemony
+1 ->x 2: veronica brin
+...professors ergo...
+1 -> 0!! : bathed retired
+...grain advantageous...
+2 -\\ 1: defrost knowingly
+autonumber stop
+end
+0 ->] : smudge tireless
+3 --//o 0: uptight depiction
+autonumber resume
+1 -->x 0: expelled bedpans
+1 ->] : supplement brushes
+2 -> 4: stiffer unpleasantness
+@enduml

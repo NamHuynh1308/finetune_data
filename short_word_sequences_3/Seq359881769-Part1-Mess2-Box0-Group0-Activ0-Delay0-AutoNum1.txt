@@ -1,0 +1,6 @@
+@startuml
+participant "wasp disconnect" as 0
+autonumber 1 4
+ [<- 0: lacy creases
+0 -> 0: impatient trolls
+@enduml

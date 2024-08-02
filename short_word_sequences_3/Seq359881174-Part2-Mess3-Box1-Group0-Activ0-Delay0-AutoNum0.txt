@@ -1,0 +1,9 @@
+@startuml
+participant "pricked rolling" as 0
+box "dudes math"
+participant "retina lymphoma" as 1
+end box
+0 -\\ 0: scented disorienting
+ [-> 0: refuses waste
+ [<- 1: inmate restorative
+@enduml

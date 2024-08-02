@@ -1,0 +1,6 @@
+@startuml
+start
+:colonized lifeline;
+-> walk events;
+stop
+@enduml

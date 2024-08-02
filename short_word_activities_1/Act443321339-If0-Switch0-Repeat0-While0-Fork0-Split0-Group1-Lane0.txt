@@ -1,0 +1,7 @@
+@startuml
+group stores neurotic
+:service anesthesiologist; <<task>>
+:hearse whereabouts; <<input>>
+end group
+stop
+@enduml

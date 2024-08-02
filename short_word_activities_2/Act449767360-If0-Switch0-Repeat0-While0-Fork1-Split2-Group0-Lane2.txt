@@ -1,0 +1,31 @@
+@startuml
+|1| jo blues
+|2| mulligan panels
+|2|
+:washcloth flattened; <<load>>
+-> oar candy;
+split
+:ferret updating;
+split again
+split
+:rite aloha;
+split again
+:dub vest; <<load>>
+-> knickknacks mentor;
+split again
+:flavors soups;
+end split
+split again
+:robotic diplomatic; <<load>>
+end split
+fork
+:delight loophole;
+fork again
+:niche verify;
+-> innuendo snob;
+fork again
+:transported ordered; <<save>>
+fork again
+:sicken grinning; <<task>>
+end fork
+@enduml

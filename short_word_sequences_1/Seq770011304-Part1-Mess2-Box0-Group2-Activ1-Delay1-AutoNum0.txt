@@ -1,0 +1,11 @@
+@startuml
+participant "preface davy" as 0
+alt buys delivery
+0 -->x 0: express sociopathic
+loop tarzan flavors
+...cramps excluding...
+0 -> 0++ : hubris unsubstantiated
+end
+end
+return puritanical goat
+@enduml

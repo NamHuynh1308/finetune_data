@@ -1,0 +1,5 @@
+@startuml
+start
+:universe hairbrush; <<task>>
+end
+@enduml

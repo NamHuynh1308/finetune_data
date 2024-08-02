@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:winking superintendent;
+split again
+-[hidden]->
+:broom depot; <<procedure>>
+split again
+-[hidden]->
+:priss seizes; <<procedure>>
+split again
+-[hidden]->
+:eyesore dashed;
+kill
+end split
+repeat
+switch (importantly did?)
+case (pneumonia prevents?)
+:diver broiled; <<input>>
+-> smite cracks;
+case (lawn encore?)
+:jawbone sealing;
+-> hangs gossip;
+case (genie banal?)
+:disposing att;
+case (deliver inject?)
+:securing hoe; <<procedure>>
+endswitch
+backward:slit inspirational;
+repeat while (loran linger?) is (supporting mistreated)
+stop
+@enduml

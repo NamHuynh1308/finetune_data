@@ -1,0 +1,9 @@
+@startuml
+start
+:earl saddled; <<load>>
+group presented integrate
+:motivational cops; <<load>>
+-> workplace effectively;
+stop
+end group
+@enduml

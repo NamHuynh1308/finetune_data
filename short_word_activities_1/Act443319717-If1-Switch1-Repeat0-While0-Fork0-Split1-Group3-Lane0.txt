@@ -1,0 +1,36 @@
+@startuml
+group asteroid nerds
+switch (yellow boiled?)
+case (climate encrusted?)
+split
+:dissolved taffeta;
+split again
+:crosshairs autonomy; <<save>>
+split again
+:blowing anything;
+end split
+case (marigold bout?)
+:borrowing maddening; <<procedure>>
+case (felon reruns?)
+:rattle decompose; <<continuous>>
+case (hills titanium?)
+if (murder cyborg?) then (chevron classmates)
+(sent flail) elseif (cigars buzzard?) then (endorse tether)
+:alcazar whales;
+(physic stripe) elseif (imposing ravish?) then (med hector)
+:ponies firestorm; <<input>>
+(vigil blabbermouth) elseif (watered belittle?) then (twin diminutive)
+:transmitter stomach; <<load>>
+(procrastination voices) elseif (men wallets?) then (clanking parker)
+:bucko clones;
+endif
+endswitch
+group promo homicidal
+:theme provocation;
+group pheasant prescribing
+:reversal broadcast;
+stop
+end group
+end group
+end group
+@enduml

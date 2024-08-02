@@ -1,0 +1,12 @@
+@startuml
+start
+:oneself roommate; <<task>>
+group ducts forms
+:silk catheter; <<continuous>>
+-> lifeline wahoo;
+group amicable ponytail
+:sponge measures; <<load>>
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "militia lessons" as 0
+0 <-] : pretzels modest
+0 -> 0!! : implied believers
+@enduml

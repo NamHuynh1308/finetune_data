@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:limps affect;
+split again
+-[hidden]->
+:lawsuit catcher;
+split again
+-[hidden]->
+:screening cell; <<load>>
+end split
+group trashing guarded
+:offices enemies;
+group wreaths slaughterhouse
+fork
+:fibber untimely;
+fork again
+:allowing congratulating;
+kill
+fork again
+:scared promising; <<procedure>>
+fork again
+while (admired prevented?) is (centre organized)
+:impound herding; <<output>>
+:cryogenic neglectful;
+:sneer exceed;
+:wildly crowded;
+endwhile (sweetbreads refocus)
+:refund hospitable;
+end merge
+:rough carol; <<load>>
+-> casualty friendly;
+stop
+end group
+end group
+@enduml

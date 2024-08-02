@@ -1,0 +1,7 @@
+@startuml
+participant "crapped blocked" as 0
+== wrapper glaring ==
+ [<- 0: dunes supplier
+ [-> 0: dinner unfaithful
+0 <-] : humane mixing
+@enduml

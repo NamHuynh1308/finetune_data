@@ -1,0 +1,9 @@
+{
+    "simple_states": {
+      "root": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/simple_states",
+      "annotation": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/simple_states.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 1000
+    } 
+}

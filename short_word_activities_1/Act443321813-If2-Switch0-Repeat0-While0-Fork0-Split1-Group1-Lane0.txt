@@ -1,0 +1,30 @@
+@startuml
+start
+group vertebrae trade
+split
+:beaucoup disappeared;
+split again
+if (suburb cheep?) then (flip potatoes)
+(euphemisms disturbed) elseif (intoxication hogs?) then (clapper volunteers)
+:crackers pinning;
+(coney debate) elseif (homosexuality lectured?) then (thistle lattes)
+:informs defect;
+(wrestling turbo) elseif (girls spinner?) then (shaft daybreak)
+:orbital skit; <<task>>
+(fake rhetorical) elseif (crap armaments?) then (mechanical mix)
+:thrashing sapiens;
+endif
+split again
+if (professionalism effects?) then (hip wacky)
+:evict time; <<continuous>>
+:insolence photogenic; <<input>>
+-> towns caller;
+else (ignore culpa)
+:hotcakes perfume;
+:bluest disgusting;
+:ba ruckus; <<output>>
+endif
+end split
+stop
+end group
+@enduml

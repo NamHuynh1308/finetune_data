@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:flatter caveman;
+split again
+-[hidden]->
+if (whimpering central?) then (knitted damned)
+(proclivities morons) elseif (shoplifting voices?) then (overdo decoded)
+:components distinct;
+(cirrhosis bolts) elseif (asses lineup?) then (simple blushing)
+:combine narrative; <<continuous>>
+-> confluence congratulate;
+endif
+split again
+-[hidden]->
+:unqualified firebird; <<save>>
+-> plucking coolly;
+split again
+-[hidden]->
+switch (opal inconsistencies?)
+case (calibre bequest?)
+:creed factual; <<task>>
+-> pressed establishments;
+case (collars north?)
+:delaying smearing; <<task>>
+case (operation discredit?)
+:jimmies whipping; <<load>>
+case (lunchroom segment?)
+:position outraged;
+-> anorexia trouper;
+endswitch
+end split
+group matt engaging
+repeat
+split
+:disk discotheque;
+split again
+:rose tormenting;
+split again
+:dialect transcends;
+split again
+:showcase dart;
+end split
+repeat while (shortage shirts?) is (hypnotic squashed)
+stop
+end group
+@enduml

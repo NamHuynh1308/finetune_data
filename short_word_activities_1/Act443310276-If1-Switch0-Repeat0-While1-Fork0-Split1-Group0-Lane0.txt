@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:potion crosshairs;
+split again
+-[hidden]->
+:sidewalk acceptable; <<task>>
+split again
+-[hidden]->
+:risky rejoice;
+-> horseman smell;
+split again
+-[hidden]->
+:xerox better;
+end split
+while (porterhouse kraft?) is (venetian proportions)
+backward:syndicate frightens;
+if (condoned daylights?) then (detestable prunes)
+:mashed securities;
+-> cacciatore aged;
+:yeah raises;
+-> emphasized poisoned;
+kill
+else (manhood snails)
+:sledgehammer apparently;
+:evade tonsils; <<load>>
+endif
+endwhile (force juror)
+:patting disappearance;
+end
+@enduml

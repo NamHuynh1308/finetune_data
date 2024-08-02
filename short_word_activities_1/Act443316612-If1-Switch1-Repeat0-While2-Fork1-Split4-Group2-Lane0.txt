@@ -1,0 +1,76 @@
+@startuml
+split
+-[hidden]->
+:concentric blockbusters;
+split again
+-[hidden]->
+:hideous napkins; <<input>>
+-> flops agent;
+split again
+-[hidden]->
+:jumble hairless; <<procedure>>
+-> turnpike loft;
+end split
+group anthropologist severity
+while (faltered orbit?) is (simulate feeling)
+split
+:sirens deceive;
+split again
+:foiled lear; <<continuous>>
+split again
+:charges names;
+-> logical requisite;
+split again
+:limousine cybernetic; <<procedure>>
+end split
+split
+:varnish mixed;
+split again
+:taste hookup;
+split again
+:watching wholly; <<task>>
+-> cholera dispensers;
+split again
+:accommodations mightier;
+end split
+:regionals delusions; <<output>>
+endwhile (beetles coached)
+:milligrams joke;
+if (abductions oppress?) then (unparalleled rekindle)
+:witnessed pickle;
+else (patty asses)
+fork
+:sickens fact;
+fork again
+:fondest shoe; <<load>>
+fork again
+:purging exalted;
+end merge
+:unfaithful bails;
+endif
+end group
+group scrapbook hangover
+switch (smother swirly?)
+case (divorced barricades?)
+while (massive monsieur?) is (veg rituals)
+:winding transfusion;
+-> scotia makeovers;
+backward:breached waging;
+:mythical conceding;
+backward:disturbances shear;
+endwhile (wharf acoustics)
+:chuck buffet;
+case (laboratories spelling?)
+split
+:chancellor much;
+split again
+:secrets compensated; <<task>>
+split again
+:agreeing assign;
+end split
+case (barbecued securely?)
+:playmate fronts;
+endswitch
+stop
+end group
+@enduml

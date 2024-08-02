@@ -1,0 +1,17 @@
+@startuml
+box "thruway guarded"
+participant "animated criteria" as 0
+participant "bravest miscalculation" as 1
+end box
+autonumber 9 0
+alt penance nimrod
+0 ->> 1: deceiving curt
+1 ->x 0: forego amin
+else croon undress
+0 ->o 1: reciting worries
+0 ->> 0++ : salvaging nails
+ [-> 0: alienation whine
+else escaping kelly
+end
+return coffin mainland
+@enduml

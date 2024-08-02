@@ -1,0 +1,11 @@
+@startuml
+participant "accounting bourne" as 0
+autonumber 10 10
+0 <-> 0++ : routed unlocks
+...lowers smudged...
+0 -> 0: motley proclaimed
+return nuggets revelations
+loop trip storage
+0 ->o 0: worked parallel
+end
+@enduml

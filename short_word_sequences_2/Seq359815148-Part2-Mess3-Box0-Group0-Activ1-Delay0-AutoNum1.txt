@@ -1,0 +1,9 @@
+@startuml
+participant "contest bee" as 0
+autonumber 0 6
+0 <-> 0++ : proceed fame
+0 <-> 0: stalled brutality
+return securely thesaurus
+create participant "torrid specials" as 1
+0 -> 1 : torrid specials
+@enduml

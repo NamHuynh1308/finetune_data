@@ -1,0 +1,16 @@
+@startuml
+box "coincidentally relentlessly"
+participant "science serves" as 0
+participant "mack standing" as 1
+end box
+== beret armored ==
+autonumber 4 8
+ [-> 0: operate manicures
+...log ins...
+0 <-] : polished contemplating
+opt waltz condensation
+1 -> 1: imam tried
+autonumber stop
+1 -> 0: careful ripping
+end
+@enduml

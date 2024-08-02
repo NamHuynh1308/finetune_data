@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:galilee paced;
+split again
+-[hidden]->
+if (relieving gecko?) then (trash compadre)
+:troop succinct; <<load>>
+while (unreliable byline?) is (remembered progresses)
+backward:daughters horseman;
+endwhile (swig symptomatic)
+-[hidden]->
+detach
+else (transcripts hightail)
+:weave brag;
+endif
+split again
+-[hidden]->
+if (whereas sandy?) then (hoof collection)
+(pollen sporting) elseif (amorous quilt?) then (puns heist)
+:opens schemed;
+-> interrogated fiancee;
+(symphony lite) elseif (blueberries maintained?) then (ventricular reunited)
+:gonorrhea malevolent; <<continuous>>
+endif
+end split
+group holy bankruptcy
+:berlin gnats; <<load>>
+:kidding stocking; <<output>>
+end group
+end
+@enduml

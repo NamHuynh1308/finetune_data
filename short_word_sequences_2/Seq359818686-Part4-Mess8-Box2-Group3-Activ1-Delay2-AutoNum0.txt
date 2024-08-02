@@ -1,0 +1,29 @@
+@startuml
+box "irreparable furnace"
+participant "remitting manifest" as 0
+box "exactly chromic"
+participant "psychoanalysis suite" as 1
+participant "outraged evaluation" as 2
+participant "census female" as 3
+end box
+end box
+3 -\\ 0: relate themes
+alt eavesdropping vig
+0 --//o 2: vacated pothead
+2 -> 1: freer thunderbolt
+3 ->x 0: zoom pen
+...laundering pastime...
+3 ->x 0: awake cooked
+else improves lasagne
+critical flavour hellbent
+1 -> 0: ageless voted
+par posing consistent
+2 -\\ 1++ : born whether
+...cusp mass...
+0 -> 3: reject rounded
+return dead precipice
+else plunging lodged
+end
+end
+end
+@enduml

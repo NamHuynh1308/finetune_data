@@ -1,0 +1,15 @@
+@startuml
+start
+:slimy gerbil; <<continuous>>
+fork
+:punishment unicycle;
+fork again
+:physical headline;
+kill
+fork again
+:peddle plenty;
+end merge
+:complaints manufactured;
+-> travelling lists;
+end
+@enduml

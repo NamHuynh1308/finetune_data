@@ -1,0 +1,16 @@
+@startuml
+box "inactive populated"
+participant "headpiece homeopathic" as 0
+participant "nervously terminated" as 1
+box "workmen bask"
+participant "toothache insulin" as 2
+participant "spook geishas" as 3
+end box
+end box
+autonumber 3 1
+0 -> 3: barf jewellery
+3 -\\ 3: toes inhalation
+1 -> 3: chewed camcorder
+1 --//o 2: pry arboretum
+ [-> 1: publisher thanks
+@enduml

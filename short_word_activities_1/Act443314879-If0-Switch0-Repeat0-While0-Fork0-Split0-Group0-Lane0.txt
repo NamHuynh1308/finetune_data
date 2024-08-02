@@ -1,0 +1,6 @@
+@startuml
+start
+:jeopardy factory;
+:direction congress; <<input>>
+:geek vermin;
+@enduml

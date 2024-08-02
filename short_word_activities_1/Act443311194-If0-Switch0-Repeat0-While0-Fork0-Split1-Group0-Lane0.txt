@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:equestrian rather;
+split again
+-[hidden]->
+:hangers lunching;
+split again
+-[hidden]->
+:coroners mausoleum;
+split again
+-[hidden]->
+:seeking vixens; <<procedure>>
+end split
+:broadcasting distraction;
+-> footed rent;
+stop
+@enduml

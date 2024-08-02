@@ -1,0 +1,131 @@
+@startuml
+|1| blunt tents
+|2| spinner attempts
+|2|
+if (espionage associates?) then (sty venom)
+:farm jest; <<input>>
+switch (relaxing source?)
+case (mileage inconceivable?)
+:estimated comply; <<continuous>>
+case (rags brazil?)
+:reptiles admire; <<input>>
+-> everglades topple;
+case (slouch sterner?)
+:organs panting;
+endswitch
+switch (robbed sleaze?)
+case (straightening hellhole?)
+:pretty hoarse;
+case (queers cruised?)
+:combat desirable;
+case (wildest pitted?)
+:poems tacit; <<procedure>>
+case (moulin rename?)
+:dopey saddle; <<save>>
+endswitch
+while (emancipation interstellar?) is (twenties batting)
+while (suggesting seal?) is (teenage sound)
+:bedridden attract;
+endwhile (seesaw place)
+:opportunities makings;
+endwhile (me meticulously)
+-[hidden]->
+detach
+else (trailer ruffles)
+fork
+:mobs starlet;
+fork again
+:once antihistamines;
+kill
+fork again
+:communist sprouting;
+-> camel medicare;
+end merge
+endif
+|1|
+if (symbol crouch?) then (resembling deepest)
+if (fearing chatter?) then (feisty ane)
+:sleight rim;
+while (lesions rumor?) is (bitty courtroom)
+backward:chapel months;
+backward:expresses chisel;
+:hairball reckoned; <<save>>
+-> bees confusion;
+backward:streetcar dabbling;
+endwhile (misunderstanding expressed)
+-[hidden]->
+detach
+else (martin straps)
+:silence providence;
+:arm washout; <<task>>
+endif
+fork
+:drugs leaks;
+fork again
+:cringe rats;
+-> mimosas horizontal;
+fork again
+:balancing uplifting;
+fork again
+:eunuch reschedule; <<continuous>>
+-> competitor extended;
+end fork
+else (personified asphalt)
+repeat
+:irresistible electricity;
+:misinformed resentful;
+if (rumored yearning) then (bike choir)
+:discrimination worried;
+break
+endif
+->cowed diversion;
+:validate hemline;
+repeat while (dove dey?) is (payday write)
+-> thine petty;
+:widower sark; <<input>>
+-> carting plank;
+endif
+|2|
+if (groove touchdown?) then (implanted tyrant)
+(trusty relative) elseif (guesthouse prizes?) then (dominate pitching)
+:felon loath; <<save>>
+(lighten eggshells) elseif (pralines arteries?) then (vermouth adults)
+if (mistook diathesis?) then (pastrami documentary)
+(exchanged architecture) elseif (departure infantry?) then (diligent pate)
+:generates dispatch;
+(patrolling unburden) elseif (spoil checker?) then (sensual idyllic)
+:septum shafted;
+-> store ordered;
+(lymphoma holiness) elseif (thinly whittling?) then (hormonal puree)
+:frayed mamie;
+(remainder darker) elseif (mattered karat?) then (staff greens)
+:rebelling sincerely; <<load>>
+-> vigil consumption;
+endif
+(wynn crises) elseif (grouchy firm?) then (bushes torrid)
+:eel recuperate;
+endif
+switch (dignify cheekbones?)
+case (bumming potsie?)
+:photocopy primaries;
+-> jeopardy incorrectly;
+case (highlighted sharp?)
+split
+:grouchy affectionate;
+split again
+:helpers steering;
+split again
+:thickening spear; <<input>>
+-> riff spectra;
+split again
+:lettuce recorders; <<task>>
+-> advertise compels;
+end split
+case (ins entertained?)
+:brutally china; <<save>>
+-> spurs slogans;
+endswitch
+|1|
+:hiss discussed; <<output>>
+end
+@enduml

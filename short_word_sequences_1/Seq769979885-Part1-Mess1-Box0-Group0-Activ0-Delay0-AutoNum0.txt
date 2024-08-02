@@ -1,0 +1,4 @@
+@startuml
+participant "truths anesthesiologist" as 0
+0 ->] : solution forsake
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+participant "unbuttoned confluence" as 0
+participant "dip savages" as 1
+participant "obese norm" as 2
+box "always destroyed"
+participant "bottles both" as 3
+box "blowup inflicting"
+participant "distinction lighters" as 4
+end box
+end box
+autonumber 4 5
+alt straws colorado
+1 -\\ 3: models sideline
+autonumber stop
+4 ->> 1: landscapes unbecoming
+ [<- 4: rescue directions
+1 -> 1: irritating pacifist
+4 --> 4: fries stellar
+2 --//o 0++ : gargoyles crumbling
+autonumber resume
+par crusty choirs
+...screeching hippo...
+4 --> 2: toured rattle
+return marshmallow withdrawn
+end
+end
+@enduml

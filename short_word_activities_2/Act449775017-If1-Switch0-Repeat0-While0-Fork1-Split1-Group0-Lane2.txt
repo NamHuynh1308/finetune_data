@@ -1,0 +1,37 @@
+@startuml
+|1| tightening inaugural
+|2| sexuality commandments
+split
+-[hidden]->
+:tightening newsstands;
+split again
+-[hidden]->
+if (extracting couriers?) then (with production)
+:digging foxes; <<load>>
+-> spoil bracing;
+else (whimpering bump)
+:considerably logger;
+endif
+split again
+-[hidden]->
+:windbag stride;
+-> pasties leftover;
+end split
+|2|
+:snow lower; <<save>>
+|1|
+:hairnet moist; <<input>>
+|2|
+:universe client; <<task>>
+fork
+:customers pools;
+fork again
+:tropics spatial; <<load>>
+fork again
+:familiars merchandising; <<load>>
+-> sickos extracting;
+end fork
+|1|
+:pipeline rick; <<task>>
+stop
+@enduml

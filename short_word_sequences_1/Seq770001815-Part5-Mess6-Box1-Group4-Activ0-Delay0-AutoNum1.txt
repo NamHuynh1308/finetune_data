@@ -1,0 +1,27 @@
+@startuml
+participant "sneaked icon" as 0
+box "boosters displacement"
+participant "disguises eliminating" as 1
+participant "pepperoni ar" as 2
+participant "amend admittedly" as 3
+end box
+== triggers conn ==
+autonumber 7 8
+opt acoustics apparently
+1 -> 1: cud rain
+alt divest reduces
+3 -> 2: franklin adversely
+loop spices buddies
+create participant "reconnect wiretap" as 4
+3 -> 4 : reconnect wiretap
+2 -> 2: bris robust
+autonumber stop
+alt beaming skates
+ [<- 2: every jazz
+4 -> 1: ran easiest
+autonumber resume
+end
+end
+end
+end
+@enduml

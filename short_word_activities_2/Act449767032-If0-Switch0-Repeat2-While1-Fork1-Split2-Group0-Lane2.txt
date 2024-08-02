@@ -1,0 +1,51 @@
+@startuml
+|1| thumbprint lira
+|2| souffle instruct
+split
+-[hidden]->
+:blob derby;
+split again
+-[hidden]->
+repeat
+:pertaining drugged; <<output>>
+-> needles unwrap;
+repeat while (divest fist?) is (ritual renaissance)
+split again
+-[hidden]->
+:age eyelash; <<task>>
+-> bobcat dictator;
+split again
+-[hidden]->
+fork
+:partners condescending;
+fork again
+:firms bubble;
+fork again
+:tire criminalistics; <<task>>
+end merge
+end split
+:atrium dangling;
+-> freshly reorganizing;
+:birdseed practising; <<save>>
+|2|
+while (tent similarity?) is (apartment toasted)
+backward:weighs tale;
+backward:lance shea;
+:named depart; <<load>>
+endwhile (pharaohs overload)
+:ticket forthcoming;
+split
+:amenities evicted;
+split again
+:exchanges immediate; <<continuous>>
+split again
+:display axe; <<load>>
+split again
+repeat
+:tongs weekends;
+backward:cripples arterial;
+repeat while (nuthouse reduces?) is (seemed pepperoni)
+end split
+:kidney periods; <<task>>
+stop
+@enduml

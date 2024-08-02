@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:donations mack;
+split again
+-[hidden]->
+fork
+:childhoods poodle;
+fork again
+:jiminy drunk;
+fork again
+:portray hayloft; <<save>>
+-> unity rendezvous;
+fork again
+:cultured violin;
+end fork
+split again
+-[hidden]->
+:headgear under; <<continuous>>
+-> earning revival;
+end split
+group vampire sook
+:wishing whiplash; <<save>>
+stop
+end group
+@enduml

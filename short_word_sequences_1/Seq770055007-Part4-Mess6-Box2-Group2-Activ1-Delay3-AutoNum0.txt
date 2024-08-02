@@ -1,0 +1,25 @@
+@startuml
+box "bored iguanas"
+participant "cosmetic rewarded" as 0
+box "drying deposit"
+participant "doggy midwives" as 1
+participant "devastation nixed" as 2
+participant "nicknames bio" as 3
+end box
+end box
+par elf unscheduled
+0 -\\ 2++ : scenic fudging
+...muggings intends...
+ [-> 0: trumps tramp
+else vantage edits
+...prophet civil...
+3 -> 2: university clusters
+end
+...fortnight cook...
+1 ->x 1: pistachio alternative
+return asylum country
+opt damnable yea
+1 ->o 3: ripped hunch
+3 -\\ 2: intends together
+end
+@enduml

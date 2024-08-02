@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:onward weeds;
+split again
+-[hidden]->
+:meathead newsstands;
+split again
+-[hidden]->
+:offense authenticate; <<procedure>>
+end split
+group rebelling photographing
+split
+:guaranteed bait;
+split again
+:regiment corollary;
+split again
+:turnpike deluxe; <<continuous>>
+end split
+stop
+end group
+@enduml

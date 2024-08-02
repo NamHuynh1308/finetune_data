@@ -1,0 +1,14 @@
+@startuml
+box "nutty tippy"
+participant "toll correctional" as 0
+box "drippy some"
+participant "ester calculator" as 1
+end box
+end box
+== contagious book ==
+1 -> 1: computers weakness
+loop skies scented
+create participant "drown fizzled" as 2
+1 -> 2 : drown fizzled
+end
+@enduml

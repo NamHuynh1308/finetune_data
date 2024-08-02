@@ -1,0 +1,36 @@
+@startuml
+start
+group vinegar treasures
+switch (wakes workings?)
+case (lunch enlightenment?)
+:pleasant bike;
+case (questioned cat?)
+:postman mascara; <<input>>
+endswitch
+split
+:woodshed bullets;
+split again
+:performed accepted; <<task>>
+-> warlock lending;
+split again
+split
+:resents revered;
+split again
+:jewellery detected; <<continuous>>
+-> femmes willingly;
+split again
+:fibrosis rump; <<output>>
+end split
+split again
+fork
+:bundles repair;
+fork again
+:perceptive selfless; <<task>>
+-> activity middleman;
+fork again
+:month clipping;
+end fork
+end split
+end group
+end
+@enduml

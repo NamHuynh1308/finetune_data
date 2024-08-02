@@ -1,0 +1,74 @@
+@startuml
+|1| sizing editor
+|2| strobe mailboxes
+split
+-[hidden]->
+:sexes celibate;
+split again
+-[hidden]->
+:milo stiffer;
+-> extraction stoop;
+split again
+-[hidden]->
+:crow debonair; <<continuous>>
+split again
+-[hidden]->
+:catch troublesome;
+end split
+|2|
+while (jeep overstep?) is (ar severity)
+if (prerequisite giraffes?) then (transmitters preceded)
+:hearsay moulin; <<save>>
+-> minuscule answering;
+:turban paw; <<task>>
+-> breather dismissal;
+else (oven nil)
+:chronology events;
+kill
+endif
+endwhile (col strangeness)
+:bighorn maverick;
+fork
+:genoa wary;
+fork again
+while (maroon afterthought?) is (streaks coy)
+backward:morse might;
+backward:unfaithful bunting;
+endwhile (suitcase rubbing)
+:tractors barbershop;
+fork again
+:fieldstone condor; <<input>>
+fork again
+:diving bossing;
+while (version promotes?) is (rat home)
+:dewars kinship; <<load>>
+-> compass elegance;
+switch (dredged slicer?)
+case (prance grosses?)
+:fronts pendant;
+-> comebacks clientele;
+case (coma sniffles?)
+:bet lira;
+case (jeepers menopause?)
+:baseless ensign;
+endswitch
+split
+:dills herniated;
+split again
+:up eaves; <<load>>
+split again
+:rational suckers;
+split again
+:justify semple; <<save>>
+-> instructing clad;
+end split
+endwhile (compel muddy)
+-[hidden]->
+detach
+end fork
+|1|
+:dodger lenses; <<continuous>>
+:oblige growing; <<output>>
+-> matey leaver;
+stop
+@enduml

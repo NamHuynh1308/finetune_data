@@ -1,0 +1,9 @@
+@startuml
+participant "defibrillator cubed" as 0
+participant "august minivan" as 1
+== marten divide ==
+autonumber 5 10
+0 -->x 1: submitted rogue
+autonumber stop
+1 <-] : attempting protestants
+@enduml

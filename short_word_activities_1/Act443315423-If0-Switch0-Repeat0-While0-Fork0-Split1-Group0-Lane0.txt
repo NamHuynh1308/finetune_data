@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:fixable snapshot;
+split again
+-[hidden]->
+:already nightclub; <<continuous>>
+-> galilee growers;
+split again
+-[hidden]->
+:talkie pinky; <<continuous>>
+-> laryngitis toddlers;
+split again
+-[hidden]->
+:saffron roofer; <<task>>
+end split
+:rah li; <<load>>
+stop
+@enduml

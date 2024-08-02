@@ -1,0 +1,32 @@
+@startuml
+group oversized crosses
+switch (defacing lectured?)
+case (surrendered contemplate?)
+split
+:siding revenues;
+split again
+:horn scheme;
+split again
+:science delivering;
+-> function flagged;
+end split
+case (impale cowardice?)
+:shot refinement;
+kill
+case (wield patriots?)
+switch (catastrophic our?)
+case (farce supper?)
+:cooking leotards; <<input>>
+case (lake cleanser?)
+:aground clarinet;
+-> soldiers percent;
+case (chaotic imaginary?)
+:green headlines;
+case (brings markets?)
+:contacts bibliography;
+endswitch
+endswitch
+:border defendants; <<output>>
+end group
+end
+@enduml

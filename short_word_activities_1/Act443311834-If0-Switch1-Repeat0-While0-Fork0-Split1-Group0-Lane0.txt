@@ -1,0 +1,24 @@
+@startuml
+split
+:obeying coiffure;
+split again
+:casts dues;
+split again
+:auditing humoring; <<output>>
+-> against simmer;
+split again
+switch (your mor?)
+case (dignitaries loudest?)
+:supple skewer;
+case (tote rewind?)
+:alcove carvel; <<task>>
+case (glide toaster?)
+:surgeries offset;
+case (eloped wolf?)
+:fertilize cones;
+endswitch
+end split
+:heard aground; <<input>>
+-> dawned documentaries;
+stop
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+start
+:obi colonized;
+:fanatic sandalwood; <<load>>
+-> ambiance lighthouse;
+group pinning psychically
+:tavern maddening; <<output>>
+stop
+end group
+@enduml

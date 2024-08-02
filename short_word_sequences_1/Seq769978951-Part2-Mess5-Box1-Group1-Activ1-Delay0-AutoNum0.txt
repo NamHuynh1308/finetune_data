@@ -1,0 +1,16 @@
+@startuml
+participant "hairdresser expunged" as 0
+box "tax colours"
+participant "madly sneaker" as 1
+end box
+== carnival moped ==
+0 ->> 0: organisms blam
+break requests monte
+1 --> 0++ : miraculous flares
+1 --//o 1: stars lackluster
+return exam drought
+0 -> 1!! : pinned saddest
+0 -> 0: stimulus cyclone
+else butch overpriced
+end
+@enduml

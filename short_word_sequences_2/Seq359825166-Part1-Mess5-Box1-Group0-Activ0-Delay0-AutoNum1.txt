@@ -1,0 +1,13 @@
+@startuml
+box "being blip"
+participant "unlovable fork" as 0
+end box
+== spokes hammer ==
+autonumber 7 10
+0 <-> 0: foam infra
+0 --//o 0: ejection riddler
+autonumber stop
+0 -\\ 0: presenting scrounging
+0 -->x 0: quixote deployed
+0 ->> 0: indigestion roulette
+@enduml

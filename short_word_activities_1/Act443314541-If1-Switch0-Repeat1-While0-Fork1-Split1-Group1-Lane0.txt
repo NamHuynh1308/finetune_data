@@ -1,0 +1,37 @@
+@startuml
+start
+repeat
+fork
+:harshly bill;
+fork again
+:disloyal chameleon;
+fork again
+:unselfish disproportionate; <<load>>
+end fork
+:yards furiously; <<load>>
+-> loves poles;
+:electrical carpet; <<procedure>>
+repeat while (townspeople twirl?) is (coroner civility)
+group revive undying
+split
+:charismatic protectors;
+split again
+:narrowed murmur; <<continuous>>
+split again
+if (hogan panting?) then (fanning thoracic)
+(worker slacker) elseif (impetuous congestion?) then (disputes predators)
+:deductible convent; <<save>>
+(administered bowed) elseif (depot racking?) then (tau snowball)
+:droves concoction; <<continuous>>
+-> jeepers disadvantage;
+(expresses auk) elseif (peak toby?) then (coffins argument)
+:confirming underestimate; <<task>>
+endif
+split again
+:situated jelly;
+end split
+:spell abetted; <<save>>
+-> calibre never;
+end group
+stop
+@enduml

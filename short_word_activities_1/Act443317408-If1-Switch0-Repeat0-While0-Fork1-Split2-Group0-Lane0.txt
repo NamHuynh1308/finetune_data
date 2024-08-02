@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:multitude allergies;
+split again
+-[hidden]->
+:gender fill;
+-> chino valentine;
+split again
+-[hidden]->
+fork
+:eerily colic;
+fork again
+:mail sensation; <<input>>
+fork again
+:chop fulfill; <<output>>
+end merge
+split again
+-[hidden]->
+:newton mulligan;
+end split
+split
+:spores mighty;
+split again
+if (dust touchdowns?) then (bran distortion)
+:reel poultry; <<load>>
+-> tits fetish;
+else (catchy yeast)
+:caymans shell; <<output>>
+-> showcase overly;
+:underground indicted; <<task>>
+-> briefly barkeep;
+endif
+split again
+:apologizing routinely;
+split again
+:soared hurtling;
+end split
+@enduml

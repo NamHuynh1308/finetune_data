@@ -1,0 +1,27 @@
+@startuml
+box "slow sequined"
+participant "temple cactus" as 0
+participant "pagan astronomical" as 1
+end box
+participant "senate sonar" as 2
+autonumber 0 2
+0 -> 0!! : insufficient laird
+opt also haywire
+create participant "sunstroke occupancy" as 3
+0 -> 3 : sunstroke occupancy
+autonumber stop
+break warlord hernias
+0 --> 1: suspects games
+2 -> 2: indict delectable
+autonumber resume
+else neighbours abstract
+0 -> 0: slumming deft
+autonumber stop
+critical securing beige
+ [-> 1: adhesive pardoned
+3 -\\ 1: acrobat spear
+else recriminations disqualified
+end
+end
+end
+@enduml

@@ -1,0 +1,68 @@
+@startuml
+|1| firehouse deposition
+|2| courteous deferred
+if (truer puck?) then (spurred aesthetics)
+:prose highlight; <<load>>
+switch (endorsements oyster?)
+case (flurry yielding?)
+:legend depiction; <<input>>
+-> rotation ridiculous;
+case (heller nosy?)
+:elder argues;
+case (waking harem?)
+:sponsoring reviving;
+-> screens haircut;
+case (admired aggravating?)
+:cubbies companion; <<task>>
+endswitch
+while (plain hibernation?) is (festivities eaves)
+split
+:falafel arming;
+split again
+:overpaid tremble; <<procedure>>
+split again
+:administrative ticket;
+end split
+if (sketching marvelous?) then (repeated lecturing)
+:aisle bronze; <<output>>
+while (campaigning bura?) is (vulgar amusement)
+backward:barreling debut;
+:contacts maul; <<continuous>>
+-> sodomy picketing;
+:redundancies aboriginal;
+:herd adolescent;
+endwhile (exceptions euros)
+-[hidden]->
+detach
+else (swore susceptible)
+:untouched grotesque; <<continuous>>
+-> futility identity;
+:battery unemployment; <<procedure>>
+-> bounced salaam;
+:disrespect simp;
+-> exhaust withhold;
+kill
+endif
+while (teary testimonies?) is (skillful understudy)
+backward:ruling parable;
+:improvising extenuating;
+:liquidate jester;
+:specialty best;
+endwhile (jesse on)
+:goodwill whiteness;
+repeat
+:trifling munching;
+backward:repugnant banks;
+repeat while (hic crumble?) is (pup lanyard)
+-> od wondrous;
+endwhile (law convinced)
+-[hidden]->
+detach
+else (tolls rand)
+:tourism scripted; <<save>>
+kill
+endif
+:pro teams; <<load>>
+:chariot eminent; <<output>>
+end
+@enduml

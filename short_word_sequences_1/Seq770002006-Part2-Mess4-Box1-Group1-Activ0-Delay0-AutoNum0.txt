@@ -1,0 +1,13 @@
+@startuml
+box "evaluations surfers"
+participant "swimmingly transaction" as 0
+end box
+== bikes ablaze ==
+0 -> 0: nodded orderlies
+par wavy hardwired
+0 -\\ 0: regimes humane
+create participant "swimming millions" as 1
+0 -> 1 : swimming millions
+end
+ [-> 0: stretch begging
+@enduml

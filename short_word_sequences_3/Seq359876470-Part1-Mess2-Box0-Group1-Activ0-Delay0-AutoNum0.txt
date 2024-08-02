@@ -1,0 +1,8 @@
+@startuml
+participant "employees lutz" as 0
+== downer action ==
+loop shagging cowed
+0 --//o 0: roust physical
+0 -> 0: alternate bambino
+end
+@enduml

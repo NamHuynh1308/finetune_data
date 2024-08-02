@@ -1,0 +1,7 @@
+@startuml
+group parties loosely
+:fat router; <<output>>
+:preconceived spiders; <<task>>
+end group
+end
+@enduml

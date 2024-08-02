@@ -1,0 +1,10 @@
+@startuml
+split
+:veil spacing;
+split again
+:reactive temp; <<load>>
+split again
+:germans myriad; <<input>>
+-> newton specialists;
+end split
+@enduml

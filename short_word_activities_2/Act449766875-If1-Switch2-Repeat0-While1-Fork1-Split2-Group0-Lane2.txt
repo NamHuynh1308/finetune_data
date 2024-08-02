@@ -1,0 +1,67 @@
+@startuml
+|1| turner yoghurt
+|2| dinosaurs publishing
+split
+-[hidden]->
+:bucket humph;
+split again
+-[hidden]->
+switch (ottoman burdened?)
+case (preparation tushie?)
+:homeopathic nines; <<save>>
+-> lambs biopsy;
+case (toughness durable?)
+:coma nutrition; <<procedure>>
+-> rainstorm bite;
+case (bendy scrapings?)
+:contradict windy; <<save>>
+case (lollipop emulating?)
+:collective exile;
+endswitch
+split again
+-[hidden]->
+:concluding prints;
+split again
+-[hidden]->
+:impeach posies; <<load>>
+end split
+|2|
+:restraint confessional; <<task>>
+|1|
+:fastest reconstruct;
+-> assembler logical;
+if (ventilate accepted?) then (listened seduced)
+:moves scamp; <<input>>
+fork
+:thrills make;
+fork again
+:french infuriate; <<save>>
+-> cussing griffins;
+fork again
+:impassioned unscheduled;
+fork again
+:moody holly;
+end merge
+else (tasteful spoiler)
+switch (bowl tiller?)
+case (saucers sullen?)
+:hurtful ingenue; <<save>>
+-> inhumane concealer;
+case (necessity slices?)
+:stared panicking;
+endswitch
+endif
+|2|
+split
+:blindfold limerick;
+split again
+while (autumn withdrawal?) is (parts reproach)
+:practice rubs;
+:wiser riverbank;
+endwhile (warehouses proven)
+:marketplace learns;
+split again
+:judgments banter; <<save>>
+-> apply pillow;
+end split
+@enduml

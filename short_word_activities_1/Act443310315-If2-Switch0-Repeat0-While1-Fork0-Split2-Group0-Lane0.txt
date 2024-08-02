@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:sigma orthodontist;
+split again
+-[hidden]->
+if (acted deliberate?) then (conner funnies)
+:rainy interests;
+-> prayed milkman;
+else (feminist brake)
+:gospel cruddy; <<continuous>>
+endif
+split again
+-[hidden]->
+:dreaded easel;
+while (meatball shareholder?) is (scheme lulu)
+:visa crusty; <<procedure>>
+:abuser bouncer;
+-> crown ulcers;
+if (notches posture?) then (preeclampsia blossomed)
+:imprint chlamydia;
+:confidential lace;
+else (immortalized thatcher)
+:wing pithy; <<task>>
+:crawlers curling; <<input>>
+endif
+split
+:bestowed flack;
+split again
+:stereotype establishment;
+kill
+split again
+:qualms whites;
+split again
+:mouthing pint; <<input>>
+-> sycamore appraise;
+end split
+endwhile (hospitality loudest)
+-[hidden]->
+detach
+end split
+:sum educator; <<load>>
+-> tailspin suitcase;
+:swear subtitle; <<save>>
+-> anchorage satisfy;
+stop
+@enduml

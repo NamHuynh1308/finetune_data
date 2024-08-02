@@ -1,0 +1,14 @@
+@startuml
+participant "scallions assessing" as 0
+== funerals wireless ==
+autonumber 1 9
+opt usher manatee
+ [<- 0: werewolf ankles
+autonumber stop
+alt dialect decaf
+create participant "depiction privilege" as 1
+0 -> 1 : depiction privilege
+autonumber resume
+end
+end
+@enduml

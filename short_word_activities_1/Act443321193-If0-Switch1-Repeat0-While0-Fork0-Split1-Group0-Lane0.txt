@@ -1,0 +1,23 @@
+@startuml
+start
+switch (rubbed coast?)
+case (metaphor savoring?)
+split
+:genre cashmere;
+split again
+:dozens figures; <<output>>
+split again
+:stirred relinquish; <<input>>
+-> creeds spoiler;
+split again
+:uppity maniacs;
+end split
+case (dui defacing?)
+:capsized react; <<input>>
+case (ended pace?)
+:disabling champs; <<output>>
+-> parrot prettiest;
+case (piecing venture?)
+:neighbour vocation; <<procedure>>
+endswitch
+@enduml

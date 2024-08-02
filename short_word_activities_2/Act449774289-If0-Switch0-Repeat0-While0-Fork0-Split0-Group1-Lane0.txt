@@ -1,0 +1,10 @@
+@startuml
+start
+:stool sideburns; <<load>>
+group estrogen fatigue
+:doctor administrators;
+-> attempt cheats;
+:acetate scooped; <<task>>
+stop
+end group
+@enduml

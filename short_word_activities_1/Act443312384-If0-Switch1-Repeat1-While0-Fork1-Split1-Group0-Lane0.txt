@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:nominating oil;
+split again
+-[hidden]->
+switch (unseal twinge?)
+case (synthesize convincing?)
+:beasts panther;
+case (bruised thong?)
+:reattach clipping; <<continuous>>
+-> syllable frustrated;
+case (decanter amused?)
+:swing berries;
+endswitch
+split again
+-[hidden]->
+:seeds populations; <<output>>
+split again
+-[hidden]->
+fork
+:shrewd scarf;
+fork again
+:juvenile leopards;
+fork again
+:present truer;
+fork again
+:scrounge cello; <<input>>
+end merge
+end split
+repeat
+backward:bun influences;
+backward:daredevil drugs;
+repeat while (bounced hyenas?) is (considering noting)
+@enduml

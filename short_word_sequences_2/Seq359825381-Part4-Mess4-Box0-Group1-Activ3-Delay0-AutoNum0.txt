@@ -1,0 +1,15 @@
+@startuml
+participant "earring scow" as 0
+participant "western requisitions" as 1
+participant "finalize wearing" as 2
+participant "whenever instantly" as 3
+1 -\\ 1++ : surrounds immobilize
+0 -->x 2++ : angrily smog
+0 ->x 3++ : true clobbered
+par rechecked revolve
+3 -> 0: occurrence gladiators
+return dug hairdo
+end
+return children dual
+return flammable decorations
+@enduml

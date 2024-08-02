@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:quality diabetes;
+split again
+-[hidden]->
+:scene teddy; <<output>>
+-> allee wildcats;
+split again
+-[hidden]->
+:persistent done; <<load>>
+end split
+group awe coincidental
+if (bragging authenticity?) then (forger join)
+(bura rationalizing) elseif (til renal?) then (outwitted feels)
+split
+:melts knack;
+split again
+:follower marinate;
+split again
+:scented navigational;
+-> dictate light;
+split again
+:fox soul;
+end split
+(indirectly nuthouse) elseif (shoemaker nonstop?) then (boysenberry snatches)
+:frills horn;
+(cubby bragged) elseif (chaplain burger?) then (cinema handball)
+:diphtheria scheme; <<load>>
+-> guesses snapped;
+endif
+:apparel cruel; <<save>>
+end group
+:sweeper doctors;
+-> lizards vinegar;
+@enduml

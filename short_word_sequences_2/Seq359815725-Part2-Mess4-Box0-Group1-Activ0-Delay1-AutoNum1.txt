@@ -1,0 +1,17 @@
+@startuml
+participant "delegation revolves" as 0
+participant "dyeing clothed" as 1
+autonumber 7 7
+1 <-> 1: bedtime amusement
+autonumber stop
+par tub rides
+...seg insists...
+1 -> 1!! : bridge fascinate
+autonumber resume
+1 -->x 1: all geography
+autonumber stop
+else sentiments mines
+1 -\\ 0: operatives musketeer
+autonumber resume
+end
+@enduml

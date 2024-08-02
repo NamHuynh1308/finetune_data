@@ -1,0 +1,27 @@
+@startuml
+start
+switch (muskrat laundry?)
+case (insight processing?)
+:moderation blew; <<load>>
+-> natured homegrown;
+case (vending ditching?)
+:ironclad messes; <<save>>
+case (removed betrayals?)
+fork
+:endangered booths;
+fork again
+:cayman hoot;
+fork again
+:scratched lordship;
+kill
+fork again
+:passports forgery; <<task>>
+-> dementia sashimi;
+end fork
+endswitch
+group luxuries doggie
+:retained soak;
+-> sail meatloaf;
+stop
+end group
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+participant "duck prim" as 0
+participant "herein intern" as 1
+box "handful homegrown"
+participant "skirmishes triplicate" as 2
+end box
+autonumber 2 7
+1 --> 2++ : space kinship
+1 ->x 2: prettier itch
+autonumber stop
+0 -> 1++ : dieter collier
+autonumber resume
+1 <-> 1: crane degenerative
+return heard ding
+loop vindication minimal
+1 -> 0: eighteenth sales
+autonumber stop
+loop stewed stomped
+0 <-> 2++ : chardonnay expressly
+end
+end
+return illuminate mortals
+return amah jammed
+@enduml

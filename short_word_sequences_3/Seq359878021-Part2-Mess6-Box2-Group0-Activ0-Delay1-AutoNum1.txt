@@ -1,0 +1,18 @@
+@startuml
+box "bitty duff"
+participant "patten backed" as 0
+box "alibis namesake"
+participant "sad tonsil" as 1
+end box
+end box
+autonumber 5 8
+0 ->x 0: culinary positions
+autonumber stop
+0 --//o 1: dalton blouse
+0 -> 0: stirs outdated
+autonumber resume
+0 -> 1: vomit undisputed
+...shes resigning...
+1 --> 1: civics timers
+1 --> 0: implications telepathy
+@enduml

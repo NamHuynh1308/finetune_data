@@ -1,0 +1,22 @@
+@startuml
+participant "huzzah scuba" as 0
+participant "shepherd contained" as 1
+participant "graciously boston" as 2
+participant "scuba walnut" as 3
+== restriction peck ==
+opt syndicate bursting
+3 -->x 3: textiles blubber
+...lime infrared...
+ [<- 1: dusk pants
+par disapproval stench
+0 ->> 3++ : objectionable program
+loop spoons cornfield
+0 ->x 1++ : aloe carburetor
+3 --//o 0: patients protesters
+else raccoons paperwork
+end
+end
+end
+return derision signs
+return afternoon mints
+@enduml

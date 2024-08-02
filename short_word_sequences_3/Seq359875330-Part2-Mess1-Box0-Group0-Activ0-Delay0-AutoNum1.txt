@@ -1,0 +1,6 @@
+@startuml
+participant "mommy organize" as 0
+autonumber 3 1
+create participant "sleepyhead maimed" as 1
+0 -> 1 : sleepyhead maimed
+@enduml

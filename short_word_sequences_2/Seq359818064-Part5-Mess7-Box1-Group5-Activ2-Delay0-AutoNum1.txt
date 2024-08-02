@@ -1,0 +1,31 @@
+@startuml
+box "sprinkler dressy"
+participant "dysfunction ventilation" as 0
+participant "targeted enchant" as 1
+participant "obliterate dewars" as 2
+participant "dingy manufactures" as 3
+end box
+== stride carotid ==
+autonumber 9 10
+alt neurotic recliner
+3 -> 1++ : sensed jeepers
+loop factual visited
+3 ->o 1: restraint maroon
+alt fudged dunks
+3 --//o 0++ : fielder relaxes
+create participant "ay darts" as 4
+1 -> 4 : ay darts
+4 ->x 3: sails entertain
+autonumber stop
+loop tide sharply
+1 ->] : shops respectability
+return jug eyesight
+par dicking twirl
+ [<- 2: beautifully unappealing
+return admirable nipper
+end
+end
+end
+end
+end
+@enduml

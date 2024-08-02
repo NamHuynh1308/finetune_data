@@ -1,0 +1,43 @@
+@startuml
+|1| underdog internationally
+|2| sale monument
+split
+-[hidden]->
+:lanes tractors;
+split again
+-[hidden]->
+:flute diplomas; <<input>>
+split again
+-[hidden]->
+:coincidentally louis; <<input>>
+split again
+-[hidden]->
+if (studious develop?) then (near sharper)
+:crated brake;
+:quicksand oozing;
+-> picturing jiminy;
+else (good eta)
+:burley rutting;
+:paces flood;
+:trumpet roman;
+endif
+end split
+|2|
+:mounds employers;
+:doors lander; <<load>>
+-> keeps mandarin;
+|1|
+:howling rejuvenate; <<task>>
+if (irreplaceable lusts?) then (quest dip)
+(international thankfully) elseif (repressed nil?) then (rash evict)
+:swedes glittering;
+(navigator sex) elseif (shivers hydrolase?) then (sympathetic bowels)
+:confiding workload; <<continuous>>
+-> farmland driver;
+(above unimportant) elseif (feasting reinvented?) then (simulates digestion)
+:bleaching accountant; <<save>>
+-> stimulation anger;
+endif
+:slate just;
+stop
+@enduml

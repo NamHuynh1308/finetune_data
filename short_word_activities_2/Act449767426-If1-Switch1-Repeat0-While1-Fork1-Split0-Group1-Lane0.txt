@@ -1,0 +1,39 @@
+@startuml
+start
+group phenomena strait
+fork
+:tacky relapse;
+fork again
+switch (exiting joseph?)
+case (princely cuddly?)
+:breathe unprecedented;
+-> talcum disguises;
+case (synthesis concord?)
+:vogue closets;
+case (empowered attachments?)
+:grease scoliosis;
+case (subsidiary tribute?)
+:proportion oregano;
+endswitch
+fork again
+if (do whereof?) then (standards tomahawk)
+:eves successful;
+:eyelashes clarification;
+:taxi literally;
+else (demonstrations wit)
+:stoic wraps;
+while (darkness dial?) is (unveil beast)
+backward:aching undershirt;
+backward:adversaries no;
+:darkened reimbursed;
+:communities sketch;
+-> synthesize sutra;
+endwhile (guardianship bound)
+-[hidden]->
+detach
+endif
+end merge
+:pope beeped;
+stop
+end group
+@enduml

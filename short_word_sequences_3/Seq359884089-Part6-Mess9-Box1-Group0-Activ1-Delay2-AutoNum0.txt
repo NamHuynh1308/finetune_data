@@ -1,0 +1,23 @@
+@startuml
+participant "footman haunt" as 0
+participant "crashers delicate" as 1
+participant "apprehend epizootics" as 2
+box "confession grilling"
+participant "physician synchronicity" as 3
+participant "file huge" as 4
+end box
+== collectors distended ==
+3 <-> 2++ : profile soundstage
+create participant "swim glop" as 5
+0 -> 5 : swim glop
+...snap tidy...
+1 -> 5: fission reproductive
+4 -// 1: tell cooking
+0 -> 2: jumbled photograph
+1 ->o 0: format socket
+...pesos team...
+0 -> 2: accountable barracks
+return statement unavailable
+4 -> 1: wonders desks
+5 <-> 5: fucks contours
+@enduml

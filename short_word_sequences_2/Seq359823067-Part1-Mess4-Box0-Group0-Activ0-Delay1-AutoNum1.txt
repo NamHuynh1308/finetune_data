@@ -1,0 +1,11 @@
+@startuml
+participant "fumble mansion" as 0
+autonumber 2 4
+0 --//o 0: neighbours pitted
+...smog empathy...
+0 -->x 0: phobia carousel
+autonumber stop
+0 -> 0: conference row
+autonumber resume
+ [<- 0: marry knocker
+@enduml

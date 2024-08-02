@@ -1,0 +1,9 @@
+@startuml
+participant "rage tracker" as 0
+box "interactive slugging"
+participant "cris delicacy" as 1
+end box
+0 ->] : agree statue
+0 -->x 1: douche slick
+0 --> 0: moldy choked
+@enduml

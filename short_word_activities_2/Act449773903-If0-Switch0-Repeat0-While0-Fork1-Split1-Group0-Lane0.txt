@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:extracurriculars dopes;
+split again
+-[hidden]->
+:followed arts; <<input>>
+split again
+-[hidden]->
+:hired daylight;
+-> motivational snot;
+end split
+fork
+:sprightly coven;
+fork again
+:ninth reclaim; <<continuous>>
+fork again
+:sandman volunteering; <<input>>
+-> uprooted weaver;
+fork again
+:marvelous sheen; <<load>>
+-> ion choking;
+end merge
+end
+@enduml

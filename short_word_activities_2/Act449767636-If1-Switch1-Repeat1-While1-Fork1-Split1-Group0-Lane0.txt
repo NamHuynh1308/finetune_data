@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:goodness comment;
+split again
+-[hidden]->
+fork
+:sank elope;
+fork again
+:masseuse ace; <<procedure>>
+fork again
+:knocking lubricants; <<save>>
+fork again
+:alphabet drool; <<load>>
+-> stories ogre;
+end fork
+split again
+-[hidden]->
+:needlessly midlife; <<save>>
+end split
+switch (trove debate?)
+case (carvings unplugged?)
+repeat
+:supplied push;
+repeat while (casa somber?) is (pins bad)
+-> prattling stem;
+case (afloat iceman?)
+if (redundant lull?) then (injured doorbell)
+:jaundice loudest;
+:butter gnats; <<output>>
+-> bowed toenails;
+:twine switcheroo; <<load>>
+-> ginger smoked;
+while (galore rum?) is (nonsense wiping)
+:cathedral recruited;
+backward:poppet widow;
+backward:hurricanes lambda;
+:warming bloodsucker;
+endwhile (jacking experimenting)
+-[hidden]->
+detach
+else (together huck)
+:addictive hikers;
+:favoritism people;
+:inheritance inappropriate;
+kill
+endif
+endswitch
+end
+@enduml

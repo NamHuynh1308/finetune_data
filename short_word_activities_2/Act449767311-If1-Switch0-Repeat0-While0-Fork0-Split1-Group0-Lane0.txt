@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:raft nelly;
+split again
+-[hidden]->
+:unintelligible cleaner; <<procedure>>
+split again
+-[hidden]->
+:mafia warner;
+kill
+split again
+-[hidden]->
+if (workplace mentally?) then (yesterdays raiser)
+:district vast;
+else (fabricate fortuneteller)
+:arguably filed;
+endif
+end split
+:forestry programming;
+end
+@enduml

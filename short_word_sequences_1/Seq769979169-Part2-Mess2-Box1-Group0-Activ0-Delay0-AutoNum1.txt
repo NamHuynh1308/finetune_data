@@ -1,0 +1,10 @@
+@startuml
+box "cased missus"
+participant "dumps choreography" as 0
+participant "terrify nip" as 1
+end box
+== bohemian interstate ==
+autonumber 2 6
+ [<- 0: restaurants cute
+1 ->> 0: exiles tequila
+@enduml

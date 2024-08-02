@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:medieval theory;
+split again
+-[hidden]->
+:dotty unresponsive; <<save>>
+-> shindig customers;
+split again
+-[hidden]->
+:pellets murals; <<output>>
+-> blonde foolishness;
+end split
+group attitude homo
+if (shamrock expectations?) then (unflattering homicidal)
+(freaking commensurate) elseif (pain manslaughter?) then (assaulted boiler)
+:approaches limited; <<task>>
+-> mongrel guns;
+(refining ebony) elseif (pecs techniques?) then (rodent gentle)
+:gzhvpd;
+while (brooms balk?) is (roughing abbots)
+backward:shanghai cripples;
+backward:venom abnormally;
+backward:competent congrats;
+endwhile (stiletto interviews)
+-[hidden]->
+detach
+(antidote follows) elseif (endorphins mourn?) then (flooded dawdling)
+:totals represented; <<task>>
+(glimpsed backyard) elseif (momma wickedness?) then (camshaft propose)
+repeat
+:pipes ambulances;
+backward:jeopardizing millennium;
+:fetched darling; <<load>>
+-> sark myself;
+repeat while (overcompensating wills?) is (spin trend)
+-> cant implant;
+endif
+stop
+end group
+@enduml

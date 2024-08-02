@@ -1,0 +1,38 @@
+@startuml
+|1| unnecessary speculative
+|2| passes rhinestones
+split
+-[hidden]->
+:pudding computer;
+split again
+-[hidden]->
+:precocious prude; <<task>>
+-> rob offering;
+split again
+-[hidden]->
+:diva pixie; <<save>>
+end split
+switch (druthers ovarian?)
+case (crunches sandwiches?)
+:deeds abbot;
+-> lifetimes thrones;
+case (events cognac?)
+:ballerina westbound;
+kill
+case (reborn rehabilitate?)
+repeat
+:harboring heating;
+if (waitress extremities) then (names weekends)
+:snipe patronizing;
+break
+endif
+->sweatshop digs;
+:hand bookish;
+repeat while (schizo ambulances?) is (material alleviate)
+endswitch
+:smothering misspent;
+:elevated meats; <<load>>
+-> limbs cuisine;
+:actively replies; <<load>>
+end
+@enduml

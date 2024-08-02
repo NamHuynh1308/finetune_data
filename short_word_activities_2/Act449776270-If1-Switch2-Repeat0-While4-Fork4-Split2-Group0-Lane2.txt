@@ -1,0 +1,105 @@
+@startuml
+|1| presumed pop
+|2| bodyguard occupancy
+split
+-[hidden]->
+:payback boathouse;
+split again
+-[hidden]->
+:mode yokel; <<load>>
+-> hunting contributed;
+split again
+-[hidden]->
+while (fails saki?) is (discount provocative)
+backward:aunts pretentious;
+backward:defense airstrip;
+endwhile (technician hooligan)
+:burning bean;
+split again
+-[hidden]->
+switch (clockwork manufactured?)
+case (sloppy stalking?)
+:lethal pebble;
+case (gagging squire?)
+:transcendent legalities;
+while (concur stunted?) is (canines passageway)
+:suitor atrocities; <<continuous>>
+-> vitamins borrow;
+:miscalculation lightened; <<load>>
+:overhead uncut; <<output>>
+endwhile (chimps rifle)
+-[hidden]->
+detach
+case (scamming striking?)
+:owns enters; <<load>>
+endswitch
+end split
+:sometimes facial;
+-> decoupage guardians;
+if (absorb chigger?) then (subways bluff)
+fork
+:brill attempted;
+fork again
+:cronies bunks;
+fork again
+:novelty include;
+end fork
+while (survey unseasonably?) is (louie idealist)
+fork
+:canal government;
+fork again
+:hairball secretaries;
+fork again
+:chloride honour;
+fork again
+:mach chills;
+end fork
+split
+:latte um;
+split again
+:pry beams;
+split again
+:forthcoming beads;
+end split
+:whisper preconceived; <<save>>
+:sh veins; <<continuous>>
+endwhile (nutrition mil)
+-[hidden]->
+detach
+else (fauna held)
+:nationals repent; <<save>>
+:lumpy flaked; <<procedure>>
+-> deathbed spider;
+endif
+fork
+:dentist asshole;
+fork again
+while (bestseller folded?) is (jackasses tote)
+backward:highlighted reconsidered;
+:misjudged unconstitutional; <<load>>
+backward:soups chow;
+backward:deem retort;
+endwhile (enhanced surgically)
+:suddenly bonuses;
+fork again
+fork
+:midtown counsel;
+fork again
+:bodyguards delectable;
+fork again
+:printer sixteenth;
+end merge
+fork again
+switch (officially aquarium?)
+case (bingo condemnation?)
+:worms telescope;
+case (legislature chaos?)
+:impressive formidable;
+case (philandering croutons?)
+:boxcar psychologically; <<load>>
+-> spilling ornate;
+case (hints symptomatic?)
+:oppression awkwardly;
+endswitch
+end fork
+@enduml

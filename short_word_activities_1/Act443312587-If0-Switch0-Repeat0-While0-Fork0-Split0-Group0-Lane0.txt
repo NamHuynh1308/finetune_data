@@ -1,0 +1,4 @@
+@startuml
+start
+:brr vacancies; <<load>>
+@enduml

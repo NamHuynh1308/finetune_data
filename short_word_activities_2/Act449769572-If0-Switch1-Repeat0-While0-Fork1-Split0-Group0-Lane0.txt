@@ -1,0 +1,22 @@
+@startuml
+switch (fussing push?)
+case (flying toby?)
+fork
+:proving streetcar;
+fork again
+:doubly pill; <<load>>
+fork again
+:grate vertically;
+fork again
+:bib firewood; <<procedure>>
+-> relating harvest;
+end fork
+case (profess axel?)
+:nachos choppy;
+case (violent probability?)
+:vindication birdseed; <<load>>
+case (pant gunshot?)
+:autopsy chameleon;
+endswitch
+end
+@enduml

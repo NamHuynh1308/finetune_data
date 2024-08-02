@@ -1,0 +1,5 @@
+@startuml
+start
+:crowed muggy; <<input>>
+-> mailman sniff;
+@enduml

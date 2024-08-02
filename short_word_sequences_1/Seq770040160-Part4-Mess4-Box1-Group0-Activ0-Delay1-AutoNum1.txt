@@ -1,0 +1,15 @@
+@startuml
+participant "whet retreat" as 0
+box "funerals mixture"
+participant "sequel corner" as 1
+participant "glutton lukewarm" as 2
+end box
+autonumber 4 1
+1 -> 2: wiring stings
+create participant "mated tempers" as 3
+0 -> 3 : mated tempers
+...transformed latino...
+3 -->x 1: shackles establishing
+autonumber stop
+1 <-] : rich home
+@enduml

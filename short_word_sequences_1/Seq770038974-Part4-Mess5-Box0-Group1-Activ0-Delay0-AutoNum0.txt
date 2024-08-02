@@ -1,0 +1,14 @@
+@startuml
+participant "stateroom scrolls" as 0
+participant "grant nephew" as 1
+participant "twits meta" as 2
+participant "rewind entourage" as 3
+== croc driveway ==
+ [-> 1: zig groped
+ [-> 1: listens sings
+3 -\\ 0: duel unpacked
+opt seg faceless
+0 <-> 1: expedite picky
+0 ->] : preventing colleague
+end
+@enduml

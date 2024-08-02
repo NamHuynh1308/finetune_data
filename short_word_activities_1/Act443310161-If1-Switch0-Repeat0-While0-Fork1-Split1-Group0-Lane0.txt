@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:sells midlife;
+split again
+-[hidden]->
+:hoping northeast; <<save>>
+split again
+-[hidden]->
+:grandma focussing; <<load>>
+split again
+-[hidden]->
+:interplanetary morgues; <<save>>
+-> devouring unfathomable;
+end split
+fork
+:nightgown actualization;
+fork again
+:syndicated outsiders;
+fork again
+if (harness repugnant?) then (lull astonishment)
+(consult confirmation) elseif (nourishing incubator?) then (adult easing)
+:sources subtitles; <<save>>
+-> pod inventive;
+(round misinterpreting) elseif (koss pupil?) then (rings spanked)
+:crematorium bearings; <<task>>
+(intake regarded) elseif (petrified precocious?) then (vouching spatial)
+:rabies sinks;
+endif
+fork again
+:signaled crackpot; <<load>>
+-> inappropriately sonogram;
+end fork
+@enduml

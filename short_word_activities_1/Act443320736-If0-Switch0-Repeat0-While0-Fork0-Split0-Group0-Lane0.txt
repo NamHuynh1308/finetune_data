@@ -1,0 +1,6 @@
+@startuml
+start
+:sits problem; <<save>>
+-> deliberation notify;
+stop
+@enduml

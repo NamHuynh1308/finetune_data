@@ -1,0 +1,14 @@
+@startuml
+participant "bird stamper" as 0
+participant "razors fittings" as 1
+autonumber 5 9
+opt represent slowly
+0 ->x 1++ : pant snubbed
+autonumber stop
+1 -->x 1: horrible hesitated
+autonumber resume
+else gossiping rekindled
+0 ->> 1: viper truthfully
+return pan underworld
+end
+@enduml

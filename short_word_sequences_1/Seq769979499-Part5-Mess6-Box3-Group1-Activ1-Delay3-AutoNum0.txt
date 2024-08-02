@@ -1,0 +1,25 @@
+@startuml
+box "humanitarian mementos"
+participant "initiatives triplets" as 0
+box "tub linked"
+participant "herding bookshelves" as 1
+box "jerseys expand"
+participant "tubes fronts" as 2
+participant "knocked knickknacks" as 3
+end box
+end box
+end box
+0 -->x 3: slugged partial
+...theses sleepovers...
+0 -> 2: chickenshit tossed
+create participant "affects mumps" as 4
+2 -> 4 : affects mumps
+critical sweetness vicar
+3 -> 2!! : aura reprobate
+...directing regeneration...
+3 -> 3: arbitrary hums
+...seasonal skillet...
+2 <-> 4++ : policies raincoat
+end
+return stirred entertainment
+@enduml

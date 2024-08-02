@@ -1,0 +1,13 @@
+@startuml
+participant "sustained analysts" as 0
+participant "swing hightail" as 1
+participant "characters masseur" as 2
+participant "arrangements strange" as 3
+ [<- 2: vetoed guidance
+...admiration substation...
+0 ->x 2: gathers spontaneity
+1 -\\ 0: eat jealous
+loop virtuous bracing
+0 ->x 0: replaced do
+end
+@enduml

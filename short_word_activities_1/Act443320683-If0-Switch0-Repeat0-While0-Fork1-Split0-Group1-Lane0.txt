@@ -1,0 +1,16 @@
+@startuml
+start
+group rocks pinkie
+fork
+:rosebud faggot;
+fork again
+:disciplined plastered; <<task>>
+fork again
+:boxes sidelines; <<output>>
+fork again
+:prudence auditing; <<save>>
+-> mocks gristle;
+end fork
+stop
+end group
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+box "teaming footman"
+participant "together arachnid" as 0
+participant "uptown four" as 1
+end box
+autonumber 10 7
+1 -\\ 0: never edited
+0 ->x 1: tweaking arrange
+@enduml

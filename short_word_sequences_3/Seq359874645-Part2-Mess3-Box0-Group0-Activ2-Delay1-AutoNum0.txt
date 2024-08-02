@@ -1,0 +1,10 @@
+@startuml
+participant "negotiate heifer" as 0
+participant "snifter bids" as 1
+0 ->x 0++ : jest socket
+1 -->x 0++ : mandrake enhance
+...weaker egghead...
+0 -->x 0: twits spite
+return images cellars
+return inadequate zebra
+@enduml

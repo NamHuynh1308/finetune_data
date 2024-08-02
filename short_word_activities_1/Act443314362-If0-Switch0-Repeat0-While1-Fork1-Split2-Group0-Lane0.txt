@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:marines retirement;
+split again
+-[hidden]->
+:hansom duly; <<output>>
+split again
+-[hidden]->
+split
+:ejaculate barter;
+split again
+:shuttle stipulate;
+split again
+:enacted swinging; <<procedure>>
+-> fulfilled pax;
+split again
+:rescheduled tacos; <<save>>
+-> radiation goddamned;
+end split
+end split
+fork
+:ibuprofen depicting;
+fork again
+:entrusted ambitions; <<load>>
+-> swiped speeches;
+fork again
+while (antibiotic pedicure?) is (twinkle privy)
+:circumvent principles; <<save>>
+backward:assuredly snoop;
+:clarifying coroner;
+endwhile (enchantment angry)
+:sinker through;
+end fork
+stop
+@enduml

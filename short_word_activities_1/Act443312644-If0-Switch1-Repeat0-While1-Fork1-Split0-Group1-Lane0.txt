@@ -1,0 +1,25 @@
+@startuml
+start
+group swimsuit perpetual
+switch (revised buddies?)
+case (wreaking wrappers?)
+:speedo rowdy; <<continuous>>
+case (ornament blossomed?)
+:jammies depot; <<output>>
+case (repeatedly lock?)
+while (holiness turns?) is (discs career)
+:attribute exemplary;
+:grassy fee;
+endwhile (chilled incidents)
+:lasers gated;
+endswitch
+fork
+:haute oceans;
+fork again
+:ventilate gut; <<procedure>>
+fork again
+:census bop; <<continuous>>
+-> asked screwup;
+end fork
+end group
+@enduml

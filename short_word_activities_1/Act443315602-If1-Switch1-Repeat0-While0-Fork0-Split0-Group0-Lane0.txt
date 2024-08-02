@@ -1,0 +1,15 @@
+@startuml
+:donation cancels; <<procedure>>
+switch (undecided cutie?)
+case (conclude swatting?)
+if (pinned insinuations?) then (unions region)
+:microscope hushed; <<procedure>>
+:bishops splinter; <<procedure>>
+else (discotheque outstanding)
+:personals dilemma; <<output>>
+:leering paralyze;
+endif
+case (neurologist independence?)
+:growers ashore; <<output>>
+endswitch
+@enduml

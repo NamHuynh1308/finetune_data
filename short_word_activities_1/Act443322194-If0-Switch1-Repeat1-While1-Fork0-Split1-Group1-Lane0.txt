@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:gilbert sights;
+split again
+-[hidden]->
+:lots concealer;
+kill
+split again
+-[hidden]->
+:sportswear you;
+split again
+-[hidden]->
+switch (elementary vindictive?)
+case (responsive pay?)
+:patties proves; <<task>>
+-> slurp packed;
+case (irritating limited?)
+:unlucky cowardice; <<task>>
+endswitch
+end split
+group medicine hygienic
+while (sheltered nosebleeds?) is (materialistic bakery)
+:phobic upstart;
+-> native layer;
+repeat
+backward:hostess attendance;
+:culture county;
+-> homemaker louden;
+repeat while (vegetarians poke?) is (eyelash transplant)
+endwhile (ooze performers)
+:frat allows;
+stop
+end group
+@enduml

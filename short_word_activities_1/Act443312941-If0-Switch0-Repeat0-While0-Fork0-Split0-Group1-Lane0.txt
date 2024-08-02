@@ -1,0 +1,7 @@
+@startuml
+start
+group audiences locker
+:wishes charismatic;
+stop
+end group
+@enduml

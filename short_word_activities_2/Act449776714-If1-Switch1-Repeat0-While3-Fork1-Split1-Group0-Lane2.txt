@@ -1,0 +1,62 @@
+@startuml
+|1| exhibiting getup
+|2| classmate darkened
+split
+-[hidden]->
+:gasp calico;
+split again
+-[hidden]->
+:apostrophe watchman; <<task>>
+-> store salaam;
+split again
+-[hidden]->
+:lending generation;
+kill
+end split
+:raise consisted; <<continuous>>
+fork
+:lone thanked;
+fork again
+if (pitchers imploding?) then (brad cretins)
+:footnote covered;
+:corrective cuddly;
+while (decadence midterm?) is (weddings barrier)
+backward:yawning peers;
+:clowns trophies; <<task>>
+:implore nuances;
+endwhile (tissues gumption)
+-[hidden]->
+detach
+else (shoal bins)
+:enhanced hooked;
+:uninsured calcium;
+endif
+fork again
+switch (durned occupational?)
+case (heartbreak roscoe?)
+:challenger amends;
+case (lead overnight?)
+:ripples radiation; <<continuous>>
+-> leased mace;
+case (somewheres christened?)
+:finessed creatively;
+kill
+case (condemned agency?)
+:interfered basket;
+kill
+endswitch
+end fork
+while (annoyed overreact?) is (spic snake)
+while (overcast homeboy?) is (flashes coast)
+backward:joseph investigators;
+backward:assurance purblind;
+endwhile (description nimrod)
+:who lynch;
+backward:reek oats;
+endwhile (manicure headliner)
+:lively clumsy;
+:eavesdropping rex; <<load>>
+:kismet whopping; <<output>>
+-> hibernating pointed;
+end
+@enduml

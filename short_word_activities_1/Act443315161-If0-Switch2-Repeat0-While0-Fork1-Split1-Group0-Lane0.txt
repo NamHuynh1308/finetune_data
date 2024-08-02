@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:disable wept;
+split again
+-[hidden]->
+:relentlessly cardiologist; <<load>>
+split again
+-[hidden]->
+:patching buffy;
+end split
+switch (valid physicists?)
+case (deductible cartons?)
+:dilated knives; <<input>>
+case (treat diets?)
+:stomping claw;
+endswitch
+fork
+:transferred wage;
+fork again
+:demographics exchanging; <<input>>
+fork again
+switch (fractions flea?)
+case (classier quarantined?)
+:loudest notwithstanding; <<input>>
+case (particular regards?)
+:ambivalence unauthorized;
+kill
+endswitch
+fork again
+:lynched tripled; <<input>>
+-> busboys nostalgia;
+end fork
+@enduml

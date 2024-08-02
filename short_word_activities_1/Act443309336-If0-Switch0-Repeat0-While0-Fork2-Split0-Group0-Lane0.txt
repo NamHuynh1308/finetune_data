@@ -1,0 +1,17 @@
+@startuml
+start
+fork
+:suing stings;
+fork again
+fork
+:quoted kickboxing;
+fork again
+:locations pronounce; <<load>>
+-> motorcycles leap;
+fork again
+:belonged tryout; <<input>>
+end fork
+fork again
+:ami exploiting; <<task>>
+end fork
+@enduml

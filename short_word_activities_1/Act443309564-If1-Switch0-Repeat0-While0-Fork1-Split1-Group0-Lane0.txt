@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:surface guacamole;
+split again
+-[hidden]->
+:strengthen testament; <<procedure>>
+-> awakening goggles;
+split again
+-[hidden]->
+:peek shocked;
+-> snotty million;
+end split
+if (chow calamity?) then (headset skids)
+(muchachos sapphires) elseif (warrant natives?) then (wiping cessation)
+:bib greener; <<save>>
+-> awesome enquiries;
+(pregnancies rubbers) elseif (dreaming crass?) then (tendonitis crunched)
+:chute unique; <<input>>
+-> drifting contortionist;
+(boundaries mermaid) elseif (spinning issues?) then (excuses bequest)
+fork
+:fasting clearances;
+fork again
+:squiggle proverb; <<procedure>>
+fork again
+:housewarming upward; <<save>>
+end fork
+(punished focussing) elseif (dug conjunction?) then (creamy dim)
+:scot relations;
+endif
+stop
+@enduml

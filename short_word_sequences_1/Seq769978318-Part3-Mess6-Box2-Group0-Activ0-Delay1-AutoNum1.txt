@@ -1,0 +1,18 @@
+@startuml
+participant "cosmetic celery" as 0
+box "hotheaded deflecting"
+participant "methods beginner" as 1
+box "ritz meadow"
+participant "wrist reminder" as 2
+end box
+end box
+autonumber 0 2
+2 -> 0: doing bloated
+ [<- 1: paltry insecurities
+2 --//o 1: bowler deity
+1 -> 1: convulsing sex
+autonumber stop
+...gobbledegook puppy...
+ [-> 1: grandmother construct
+1 -> 1: portion persistent
+@enduml

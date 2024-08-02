@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:elliptical attachments;
+split again
+-[hidden]->
+:humour sessions;
+split again
+-[hidden]->
+:dominoes kelly; <<save>>
+end split
+if (organised undiscovered?) then (geographically porky)
+:handsomest dun; <<procedure>>
+:transfers crashing; <<save>>
+-> anchoring quiver;
+else (butter presiding)
+switch (folder nobility?)
+case (ballots announcer?)
+:rummaging mood;
+case (frequently evaluation?)
+:robbins crucify;
+endswitch
+:towels troublemaker; <<procedure>>
+-> electrolyte raccoons;
+while (approximation pencils?) is (hobbit antiquities)
+backward:skivvies system;
+:tundra religiously; <<continuous>>
+endwhile (rumpled soy)
+-[hidden]->
+detach
+endif
+@enduml

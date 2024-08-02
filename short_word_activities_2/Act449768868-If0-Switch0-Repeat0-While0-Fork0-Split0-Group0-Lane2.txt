@@ -1,0 +1,14 @@
+@startuml
+|1| absurdity jabot
+|2| relay convenes
+|1|
+start
+:midterms tangling; <<input>>
+|2|
+:applejack hires; <<procedure>>
+|1|
+:provides disciplined; <<save>>
+:myriad gearing; <<save>>
+-> fibber sailboat;
+end
+@enduml

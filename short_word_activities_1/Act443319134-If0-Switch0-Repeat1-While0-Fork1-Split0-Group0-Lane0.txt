@@ -1,0 +1,13 @@
+@startuml
+repeat
+fork
+:displayed estranged;
+fork again
+:croissants linger; <<procedure>>
+fork again
+:motherfucker dissolves;
+end fork
+repeat while (overbite lovelorn?) is (yoghurt mishap)
+-> food carcinogens;
+end
+@enduml

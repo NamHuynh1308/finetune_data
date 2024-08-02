@@ -1,0 +1,14 @@
+@startuml
+participant "chests gunk" as 0
+box "ticks prospector"
+participant "butting hooks" as 1
+end box
+autonumber 1 9
+1 ->> 1++ : inspections sputnik
+autonumber stop
+par goddaughter capsules
+0 -->x 1: abort erratic
+return grasped illusions
+autonumber resume
+end
+@enduml

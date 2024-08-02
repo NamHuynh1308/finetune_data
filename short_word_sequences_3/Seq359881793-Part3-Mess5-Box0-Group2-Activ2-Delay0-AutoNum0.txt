@@ -1,0 +1,18 @@
+@startuml
+participant "icky descendants" as 0
+participant "craft bustier" as 1
+participant "context clipper" as 2
+== rerouted hogging ==
+1 <-> 0: marble concluding
+1 ->> 1: wield attacked
+alt malfunctioning vertically
+2 <-] : posttraumatic wriggle
+par forgetting tightrope
+2 --//o 1++ : unearth chaplain
+2 <-> 2++ : worthy footing
+else modelling tore
+end
+end
+return proprietor inquisition
+return race examined
+@enduml

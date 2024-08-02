@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:remorse fellas;
+split again
+-[hidden]->
+:carrier hippies; <<procedure>>
+split again
+-[hidden]->
+:toothpaste misplace; <<task>>
+split again
+-[hidden]->
+:surprisingly drawn; <<procedure>>
+end split
+:locals rough; <<input>>
+@enduml

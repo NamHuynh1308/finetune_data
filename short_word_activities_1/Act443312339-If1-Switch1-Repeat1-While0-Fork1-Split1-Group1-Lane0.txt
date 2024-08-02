@@ -1,0 +1,39 @@
+@startuml
+switch (announcement frosty?)
+case (restroom haunted?)
+fork
+:tagging chemistry;
+fork again
+:milt typically;
+fork again
+:mummies specified; <<input>>
+fork again
+:evasions minimize; <<load>>
+end fork
+case (jasper shushing?)
+:salmon screwing; <<procedure>>
+-> clutch sos;
+case (canyon begged?)
+:boomerang trouble; <<output>>
+-> efficiency pathologist;
+endswitch
+group jokers public
+if (skeletons recuperating?) then (evade ducts)
+:folder sermons;
+else (recovering cemetery)
+split
+:trustworthy combustion;
+split again
+:facing courtyard; <<input>>
+split again
+:exodus deemed; <<task>>
+-> openly hypnosis;
+end split
+repeat
+:love maharajah; <<procedure>>
+:realization paged;
+repeat while (indeed graduation?) is (affiliated propping)
+endif
+stop
+end group
+@enduml

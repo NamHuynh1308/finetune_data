@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:obsessive videos;
+split again
+-[hidden]->
+:limited wooed; <<load>>
+split again
+-[hidden]->
+:novelty slogans; <<load>>
+-> folklore leaders;
+end split
+:bums staggered; <<task>>
+-> untrustworthy admire;
+group streaks hanky
+:stock homicidal; <<output>>
+-> beams mickey;
+group effort clipping
+split
+:exerting regret;
+split again
+switch (att tablecloth?)
+case (eggshells versatile?)
+:regimes termites; <<procedure>>
+-> shellfish sidewalk;
+case (whomever tan?)
+:drawn messes; <<continuous>>
+endswitch
+split again
+:playa stink; <<save>>
+end split
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+start
+group thinning commence
+:yeti wanted;
+:coalition loathed; <<load>>
+-> hunched swanky;
+end group
+stop
+@enduml

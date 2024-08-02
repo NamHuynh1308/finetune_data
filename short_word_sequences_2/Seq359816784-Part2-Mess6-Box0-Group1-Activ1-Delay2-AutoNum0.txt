@@ -1,0 +1,16 @@
+@startuml
+participant "said disapproving" as 0
+participant "copying caff" as 1
+== dropper recognizable ==
+0 ->> 0: gloves playhouse
+0 <-> 1: newfound nerves
+0 -> 0!! : meteorite collide
+...rekindled dory...
+0 -> 0: tremors schizo
+opt outer decks
+...poison delivering...
+1 ->x 1++ : consideration mourn
+0 -> 1: pelt barracks
+return literary unanimous
+end
+@enduml

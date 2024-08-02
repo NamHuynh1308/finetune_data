@@ -1,0 +1,11 @@
+@startuml
+participant "paddock admit" as 0
+autonumber 5 8
+loop acupuncturist receipt
+0 -> 0++ : requisitions mosque
+loop weird spokes
+0 -> 0!! : slaughterhouse elapsed
+end
+end
+return sic qualities
+@enduml

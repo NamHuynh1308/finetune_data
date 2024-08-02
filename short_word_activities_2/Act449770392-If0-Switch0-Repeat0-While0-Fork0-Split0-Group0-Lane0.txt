@@ -1,0 +1,5 @@
+@startuml
+start
+:schedule overanxious; <<continuous>>
+-> pah grog;
+@enduml

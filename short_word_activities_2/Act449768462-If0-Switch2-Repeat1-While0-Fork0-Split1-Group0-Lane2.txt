@@ -1,0 +1,44 @@
+@startuml
+|1| tomato infra
+|2| sirens vowed
+split
+-[hidden]->
+:persuasion bandits;
+split again
+-[hidden]->
+switch (medicine foiled?)
+case (frauds relativity?)
+:triplicate curt; <<task>>
+case (fuses memorial?)
+:platform wronged;
+case (want ovulating?)
+:abundance dosed;
+endswitch
+split again
+-[hidden]->
+:barracks grandchildren; <<save>>
+end split
+:actin approached; <<save>>
+|2|
+repeat
+switch (magnet busybody?)
+case (struts subsidies?)
+:anxiously hilt;
+case (kaiser copilot?)
+:skiing derives; <<output>>
+-> reset punching;
+case (penitentiary parked?)
+:comas downtown;
+-> mangled ordinarily;
+case (blundering owls?)
+:mugger resource; <<task>>
+-> fiend rarity;
+endswitch
+repeat while (chairs guard?) is (expansion boosters)
+|1|
+:investigate staggering; <<input>>
+|2|
+:requiem lift; <<continuous>>
+:cataracts scalped; <<output>>
+end
+@enduml

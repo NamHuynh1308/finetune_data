@@ -1,0 +1,18 @@
+@startuml
+participant "sheer rating" as 0
+participant "graders resumed" as 1
+participant "als forgets" as 2
+participant "implicates trucks" as 3
+1 -> 1++ : whisky smoothie
+...vest spinning...
+0 <-] : vigilante heavy
+0 --//o 1: morality cannibals
+...cows influenza...
+3 -> 1: whodunit butler
+return faxes precaution
+1 -> 0: roommates canyons
+0 -// 0: ruckus responsible
+create participant "sandy philandering" as 4
+3 -> 4 : sandy philandering
+1 -> 1: capote pinks
+@enduml

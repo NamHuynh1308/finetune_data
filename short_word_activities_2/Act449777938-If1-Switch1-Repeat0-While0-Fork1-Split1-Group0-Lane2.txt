@@ -1,0 +1,43 @@
+@startuml
+|1| mortuary penguins
+|2| rave drought
+|2|
+:poolside victimless;
+:straw there; <<output>>
+fork
+:consummated recreational;
+fork again
+:reporting entourage;
+-> fowl fifths;
+fork again
+:gizzard bedrooms; <<output>>
+fork again
+:representative decision; <<continuous>>
+-> picnic welcomes;
+end merge
+switch (nap smashing?)
+case (disclosure mortgages?)
+split
+:reconstruct preserve;
+split again
+:paperback gangway; <<output>>
+split again
+:valid prosecute; <<procedure>>
+end split
+case (roaming hides?)
+:casting kosher; <<input>>
+-> scribble crying;
+case (scraps fiance?)
+if (eraser therapeutic?) then (gondola puffy)
+(undertaken emperors) elseif (deranged grizzly?) then (deftly muss)
+:lips boundary;
+(packages swamped) elseif (rec engages?) then (starving parasitic)
+:impotence buggy;
+(snipers territory) elseif (autistic assigning?) then (district resisted)
+:mend rhythm; <<input>>
+-> calm resistant;
+(crimp misconception) elseif (beaches stocking?) then (oblique mulch)
+:onstage pasta;
+endif
+endswitch
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "lot trickster" as 0
+box "audited tae"
+participant "anachronism surprise" as 1
+end box
+== suited sickos ==
+0 <-> 1: comprehending gramps
+0 <-> 1++ : superfluous forensic
+0 ->o 1: unsavory ode
+1 -> 1: mortal screams
+return bozo broadcast
+@enduml

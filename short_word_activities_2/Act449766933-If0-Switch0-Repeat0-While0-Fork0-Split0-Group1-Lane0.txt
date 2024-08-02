@@ -1,0 +1,9 @@
+@startuml
+start
+:rephrase weekend; <<save>>
+group breed bread
+:ropes servicing;
+-> suicidal charges;
+stop
+end group
+@enduml

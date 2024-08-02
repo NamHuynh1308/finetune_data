@@ -1,0 +1,7 @@
+@startuml
+participant "fending moloch" as 0
+participant "client tipper" as 1
+== obsessing official ==
+1 -// 1: encourage cottage
+1 -\\ 1: adequate sparkling
+@enduml

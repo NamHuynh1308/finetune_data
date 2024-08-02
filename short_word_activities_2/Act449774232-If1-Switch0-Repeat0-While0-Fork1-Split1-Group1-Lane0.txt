@@ -1,0 +1,32 @@
+@startuml
+start
+if (rabies remaining?) then (represented ballerina)
+:pace undiscovered; <<save>>
+-> parliamentary rekindle;
+:calculation encountered; <<continuous>>
+else (apollo bushes)
+fork
+:withering overdue;
+fork again
+:advisor praising;
+fork again
+:traveler starboard;
+-> imbued cubs;
+end merge
+:dorms railroads; <<continuous>>
+-> conducive alcove;
+endif
+split
+:lamps recrimination;
+split again
+:readings circulate;
+-> gender papers;
+split again
+:master tardy; <<save>>
+-> arrogance primed;
+end split
+group ignores turner
+:arty regulate; <<save>>
+stop
+end group
+@enduml

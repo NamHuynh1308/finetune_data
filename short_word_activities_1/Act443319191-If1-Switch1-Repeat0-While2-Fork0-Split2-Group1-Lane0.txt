@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:vanquishing trance;
+split again
+-[hidden]->
+split
+:springs wise;
+split again
+:suggest unexpectedly;
+split again
+:gargoyle uncool;
+split again
+:muscled suspending;
+end split
+split again
+-[hidden]->
+if (shortest flashes?) then (ignition snow)
+(notion revival) elseif (stenographer irrationally?) then (pinned inedible)
+:latent nauseating;
+(bluffs dots) elseif (schooled cinema?) then (counter ado)
+:gunpowder depression;
+(jews bison) elseif (noticeable finds?) then (homosexuals phobias)
+:concerning caroling;
+endif
+end split
+:patients abstract; <<output>>
+group skeeters foamy
+while (ick crabgrass?) is (discreetly frightening)
+:tae moles; <<procedure>>
+-> barged unusual;
+backward:philharmonic furnace;
+while (canoe characterized?) is (extricate cologne)
+backward:rave sunrise;
+backward:primitive martyrs;
+backward:blindsided accustomed;
+backward:relaxes expiration;
+endwhile (planes reiterate)
+:relief misconstrued;
+:exterminator creates; <<continuous>>
+-> that exchanging;
+endwhile (congratulating boogie)
+:givens drinker;
+switch (outcast catcher?)
+case (quartet endanger?)
+:collaborated upgrades; <<output>>
+case (jazzed halfway?)
+:murders goading; <<input>>
+-> package squealed;
+endswitch
+end group
+end
+@enduml

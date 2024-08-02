@@ -1,0 +1,9 @@
+@startuml
+participant "sneak elite" as 0
+participant "hydra stockpile" as 1
+participant "fortitude speedo" as 2
+1 <-> 2: jus ram
+1 ->x 1: trailer lite
+2 --> 2++ : clicked bun
+return heighten snowy
+@enduml

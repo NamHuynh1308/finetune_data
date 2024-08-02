@@ -1,0 +1,61 @@
+@startuml
+split
+-[hidden]->
+:spray clutches;
+split again
+-[hidden]->
+switch (passengers withheld?)
+case (decides legality?)
+:wagon schooling; <<procedure>>
+-> hap winkle;
+case (sweating responsibly?)
+:vent disguise; <<input>>
+case (pleasant blemish?)
+:streets ooh;
+while (whiny anorexia?) is (conventional pressure)
+:tackle potential; <<task>>
+-> guards ingredient;
+:reacquaint absolution;
+:extinguish nutty;
+:acquire euro;
+endwhile (annihilate perish)
+-[hidden]->
+detach
+case (unwashed treasure?)
+:malign demerits;
+endswitch
+split again
+-[hidden]->
+fork
+:sobbing eraser;
+fork again
+:tug vocalist; <<load>>
+fork again
+:estimating asteroids; <<load>>
+fork again
+:wealthiest tokens;
+end fork
+end split
+group solo hikers
+:assisted substantially; <<continuous>>
+-> adoption marriages;
+:tub breakdowns; <<load>>
+end group
+fork
+:sober confiscated;
+fork again
+split
+:effeminate trapping;
+split again
+:faculties mademoiselle;
+split again
+:defects decency;
+split again
+:herding ache;
+end split
+fork again
+:changed tizzy; <<save>>
+fork again
+:uncover thatcher;
+end fork
+@enduml

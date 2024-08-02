@@ -1,0 +1,19 @@
+@startuml
+box "pest incentives"
+participant "robe prognosis" as 0
+participant "bullshit gun" as 1
+end box
+participant "hothead role" as 2
+2 ->o 0: abrasive advocate
+loop fractured cybernetic
+0 -> 0: romances brownies
+break plaster consulting
+0 -> 1: impolite quirky
+alt stung ranchers
+0 -> 0: snuggle calamitous
+2 <-] : cadmium streaming
+else yore wharf
+end
+end
+end
+@enduml

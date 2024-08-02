@@ -1,0 +1,22 @@
+@startuml
+participant "pimping obscenities" as 0
+box "appointed impatience"
+participant "astronomy fitting" as 1
+participant "approaches requirements" as 2
+box "antisocial guided"
+participant "modeled meditate" as 3
+end box
+end box
+autonumber 5 1
+loop brigadier teal
+1 ->> 2: pigtails audited
+autonumber stop
+1 ->o 2++ : clam oho
+...lift backseat...
+0 ->] : bake octane
+autonumber resume
+ [<- 3: explorers uncontrollably
+3 -> 0: drugging indigestion
+end
+return bandit factor
+@enduml

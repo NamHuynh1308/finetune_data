@@ -1,0 +1,10 @@
+@startuml
+participant "slashing tiger" as 0
+participant "cuts where" as 1
+participant "karat mapping" as 2
+2 ->> 0: reminders apparition
+2 -> 1: chum pro
+2 -> 1: chop bidding
+2 -// 1++ : boating stack
+return luce roommate
+@enduml

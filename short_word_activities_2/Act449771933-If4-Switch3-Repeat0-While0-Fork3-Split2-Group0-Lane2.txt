@@ -1,0 +1,99 @@
+@startuml
+|1| affiliated contest
+|2| blather exonerate
+split
+-[hidden]->
+:selfish windows;
+split again
+-[hidden]->
+:gangs owl;
+split again
+-[hidden]->
+fork
+:wanted holy;
+fork again
+:coach momma;
+fork again
+:extremism walla;
+-> arrow afterthought;
+fork again
+:kickboxing humored;
+end fork
+end split
+fork
+:shrub ringing;
+fork again
+:chamberlain sans; <<output>>
+fork again
+switch (lemmings chefs?)
+case (lowered pulsating?)
+:tourists encountered;
+-> humane testified;
+case (quiche sampled?)
+:defiance ship; <<output>>
+endswitch
+end fork
+|2|
+if (vine curling?) then (morgue gimmie)
+split
+:journals terrifically;
+split again
+:sedate tours;
+split again
+:distances unrest;
+end split
+if (consider several?) then (tragically reproach)
+(acupuncture gynecologist) elseif (blasters teary?) then (squashed convict)
+:bedroom raked;
+(diddly puzzling) elseif (technical kicker?) then (lackluster productive)
+:mangos tee; <<input>>
+endif
+fork
+:virile wheat;
+fork again
+:guava pages;
+fork again
+:inflammatory advise; <<output>>
+fork again
+:millet awkwardly;
+end merge
+else (crowning wildlife)
+if (evaluated troopers?) then (smiling gram)
+(functional shell) elseif (provide spiteful?) then (chute eliminates)
+:strenuous jus; <<task>>
+(explore under) elseif (syndicated unavoidable?) then (bold decade)
+:plane lumberjack; <<task>>
+-> hoops presto;
+(remission truckers) elseif (disperse describe?) then (surprised realizing)
+:cherish coldest;
+(lasted reinstate) elseif (trattoria canton?) then (fueling flinging)
+:someplace decide;
+endif
+:nazi sour; <<procedure>>
+-> unbreakable cleans;
+:realistic levy; <<output>>
+-> employee lady;
+endif
+|1|
+switch (ship pointe?)
+case (recognised warm?)
+if (rickey world?) then (dusted scouted)
+(sentenced castles) elseif (nixed unpack?) then (incredible imp)
+:clawed jacking; <<input>>
+(abducted lowery) elseif (suffocation review?) then (sweets cobras)
+:passive partying; <<input>>
+-> revelation printer;
+endif
+case (establishing prematurely?)
+switch (security caper?)
+case (typhoid freedoms?)
+:clearances giggles; <<load>>
+-> earphones cosmopolitan;
+case (collide surging?)
+:stood britt;
+case (interfacing fiery?)
+:managers vasectomy;
+kill
+endswitch
+endswitch
+@enduml

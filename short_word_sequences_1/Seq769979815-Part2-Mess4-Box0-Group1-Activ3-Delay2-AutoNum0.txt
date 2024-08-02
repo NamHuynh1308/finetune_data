@@ -1,0 +1,15 @@
+@startuml
+participant "cutlass event" as 0
+participant "pulses pimp" as 1
+1 -> 0++ : gloves slipped
+...clutch sleazy...
+0 ->o 0++ : dory implanted
+0 ->o 1++ : announcing charlotte
+par stomping brooding
+...overdressed floss...
+0 ->o 0: hailing belt
+return spun officers
+end
+return stunningly rink
+return delighted coastal
+@enduml

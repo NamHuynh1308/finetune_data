@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:squad toward;
+split again
+-[hidden]->
+:battery organize; <<task>>
+split again
+-[hidden]->
+switch (snowball frolic?)
+case (tightened tho?)
+:recanted weights; <<procedure>>
+case (meantime suffer?)
+:endlessly giraffe; <<procedure>>
+case (plotted rerouted?)
+:queue sidewinder;
+case (rosebud sentient?)
+:warnings bean;
+endswitch
+end split
+group ignorance prefix
+:burying overdue;
+-> heist survivor;
+stop
+end group
+@enduml

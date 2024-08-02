@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:worshipped nipped;
+split again
+-[hidden]->
+split
+:fervor joker;
+split again
+:charitable seasoned; <<output>>
+split again
+:derogatory wretched;
+end split
+split again
+-[hidden]->
+split
+:lost budgets;
+split again
+:cupcake shovel;
+-> handing finagle;
+split again
+:endorphins moll; <<input>>
+split again
+:unpacking gamma;
+end split
+end split
+group surname reacting
+switch (hummer shortest?)
+case (nothings locals?)
+if (cancelled featured?) then (hieroglyphs crushed)
+:calculate unprecedented;
+-> untrue molars;
+else (forwarding wondrous)
+:compliant slashing; <<procedure>>
+:transported sixth; <<continuous>>
+endif
+case (clinically muses?)
+:probability medic; <<output>>
+-> released between;
+case (wondrous chatty?)
+:umm sermons; <<save>>
+case (hotbed campos?)
+:intertwined buffalo; <<save>>
+endswitch
+stop
+end group
+@enduml

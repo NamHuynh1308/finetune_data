@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:councilors mystic;
+split again
+-[hidden]->
+if (emotional cripples?) then (boundaries sycophant)
+:pronouns distancing; <<load>>
+:iguana diseases; <<procedure>>
+:quest gizmo; <<procedure>>
+-> shoemaker dip;
+else (tack banners)
+:illegally jewel; <<continuous>>
+:gardening waffle;
+endif
+split again
+-[hidden]->
+fork
+:hokey clothe;
+fork again
+:decides necks;
+fork again
+:searched dock;
+end fork
+end split
+group slimy trader
+:questionnaire chow; <<continuous>>
+-> ow pa;
+stop
+end group
+@enduml

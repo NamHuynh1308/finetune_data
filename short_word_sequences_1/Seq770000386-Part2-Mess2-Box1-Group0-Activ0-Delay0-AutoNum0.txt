@@ -1,0 +1,8 @@
+@startuml
+participant "discussions keen" as 0
+box "threat dire"
+participant "assumption toddlers" as 1
+end box
+0 -> 0: scream cooperation
+0 -> 1: spied admiring
+@enduml

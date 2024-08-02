@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:infallible hearty;
+split again
+-[hidden]->
+:overreacting hunches;
+split again
+-[hidden]->
+:moldy etcetera; <<output>>
+split again
+-[hidden]->
+:relapse retribution;
+end split
+:thumbing communicate;
+-> chorus green;
+stop
+@enduml

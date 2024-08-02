@@ -1,0 +1,15 @@
+@startuml
+participant "acquaintances airfield" as 0
+participant "rehearsed fuckers" as 1
+autonumber 2 10
+1 --//o 0: welfare bear
+autonumber stop
+0 -// 1++ : company thirteen
+autonumber resume
+alt doctor referee
+create participant "stalker propaganda" as 2
+1 -> 2 : stalker propaganda
+autonumber stop
+end
+return homily sinners
+@enduml

@@ -1,0 +1,42 @@
+@startuml
+|1| mohel semi
+|2| naming refrigerators
+split
+-[hidden]->
+:birdseed crocodiles;
+split again
+-[hidden]->
+:knows shades;
+-> containers conference;
+split again
+-[hidden]->
+if (lovelies real?) then (hormones greens)
+(pathologically guarding) elseif (trivial barley?) then (almost admiring)
+:led mirrors;
+(physically hitching) elseif (talkie spinal?) then (clap rotary)
+:einstein midterms;
+(evenings dweller) elseif (muller mister?) then (mascara groomed)
+:disloyal laced; <<continuous>>
+endif
+split again
+-[hidden]->
+:watering spinal;
+end split
+fork
+:vacation laker;
+fork again
+:favoritism specify; <<procedure>>
+fork again
+:ahold algae; <<save>>
+-> bravery somehow;
+fork again
+:varsity responsive;
+-> murals profess;
+end fork
+|2|
+:neckline settled;
+|1|
+:spur maneuver; <<procedure>>
+-> superpower poof;
+:confided debit; <<task>>
+@enduml

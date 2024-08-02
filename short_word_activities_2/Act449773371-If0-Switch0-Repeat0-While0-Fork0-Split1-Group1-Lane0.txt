@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:adviser dropper;
+split again
+-[hidden]->
+:agreement values; <<output>>
+-> blouse subways;
+split again
+-[hidden]->
+:bowled overly; <<input>>
+split again
+-[hidden]->
+:loveable education;
+end split
+group consumers bassoon
+:undertake trailers;
+stop
+end group
+@enduml

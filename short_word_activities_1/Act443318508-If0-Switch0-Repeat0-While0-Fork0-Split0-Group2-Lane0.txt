@@ -1,0 +1,10 @@
+@startuml
+start
+group stymied organization
+:fashionably though; <<input>>
+group declining tongue
+:dimension huge; <<output>>
+stop
+end group
+end group
+@enduml

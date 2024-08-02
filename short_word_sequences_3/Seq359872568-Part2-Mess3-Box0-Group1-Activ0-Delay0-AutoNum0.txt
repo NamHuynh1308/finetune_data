@@ -1,0 +1,10 @@
+@startuml
+participant "highlighters reggae" as 0
+participant "ideology signatures" as 1
+loop wavy whiff
+0 --//o 1: protocols amendments
+1 ->x 0: hallo sulk
+0 -\\ 0: constantly negotiation
+else wussies attackers
+end
+@enduml

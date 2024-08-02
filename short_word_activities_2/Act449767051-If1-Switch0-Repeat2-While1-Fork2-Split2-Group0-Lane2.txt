@@ -1,0 +1,64 @@
+@startuml
+|1| gym eves
+|2| expressed preach
+split
+-[hidden]->
+:rabbit drunkard;
+split again
+-[hidden]->
+:nursing tosses;
+split again
+-[hidden]->
+split
+:publishing steamroller;
+split again
+:combines tea; <<input>>
+split again
+:stalkers do;
+split again
+:bulimic aardvark; <<continuous>>
+-> animal maggots;
+end split
+end split
+|2|
+:dioxide information; <<load>>
+:hotels probate; <<load>>
+fork
+:rots digress;
+fork again
+:feelings moved;
+fork again
+:lightness fishing; <<procedure>>
+end merge
+fork
+:pretends lo;
+fork again
+:gar intolerable; <<load>>
+-> rink wasp;
+fork again
+while (faucet aced?) is (bears riddance)
+:motivations indulgence;
+-> transitional calender;
+:broiled stole; <<load>>
+endwhile (appliance distinct)
+:sandy firebug;
+fork again
+:board critter; <<input>>
+end merge
+repeat
+if (advantages hemlines?) then (fabulously threads)
+:ambrosia starvation; <<task>>
+-> boarded sizzle;
+:deco sampled;
+else (souvenirs slowed)
+:fellahs petitioning;
+endif
+:saves toy; <<task>>
+-> pranks pussycat;
+repeat
+:manages avenged;
+repeat while (pronto marge?) is (servicing spent)
+-> forgettable caballero;
+repeat while (vented rightly?) is (surviving hesitation)
+end
+@enduml

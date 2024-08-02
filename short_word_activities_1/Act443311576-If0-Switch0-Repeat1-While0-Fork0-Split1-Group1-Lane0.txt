@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:curie remotely;
+split again
+-[hidden]->
+:screwup cremation; <<input>>
+split again
+-[hidden]->
+:ecological rendezvous; <<output>>
+end split
+group calls factions
+:rape deceit; <<load>>
+-> liberal illustrated;
+repeat
+:experiment testimony; <<save>>
+repeat while (adventures quits?) is (activating rogue)
+-> stoned strap;
+end group
+end
+@enduml

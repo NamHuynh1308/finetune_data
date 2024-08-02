@@ -1,0 +1,25 @@
+@startuml
+box "annex epilepsy"
+participant "regain underestimating" as 0
+box "conditioned amigo"
+participant "trusting damned" as 1
+box "players snap"
+participant "opal confessions" as 2
+participant "barrio seduction" as 3
+end box
+end box
+end box
+autonumber 1 7
+par taco smuggler
+3 ->> 0: planting dreary
+0 --//o 2: contain wad
+par fantasized godly
+3 <-> 1: chapel initially
+ [-> 2: safely martinis
+loop prosthetic sol
+...separately lips...
+2 <-> 3: thunder overboard
+end
+end
+end
+@enduml

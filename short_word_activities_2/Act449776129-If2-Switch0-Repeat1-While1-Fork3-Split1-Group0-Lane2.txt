@@ -1,0 +1,76 @@
+@startuml
+|1| vocalist neighborhood
+|2| knocked parents
+split
+-[hidden]->
+:dozer condominium;
+split again
+-[hidden]->
+:kaiser waging; <<output>>
+split again
+-[hidden]->
+:booths finals; <<load>>
+-> weather darts;
+split again
+-[hidden]->
+:pocketbook corrected; <<task>>
+end split
+if (selecting prescribe?) then (lavished regulated)
+repeat
+backward:cots fort;
+repeat while (overwhelmed hums?) is (ran nu)
+else (fireplace renaissance)
+fork
+:suspending sanatorium;
+fork again
+:repeatedly bale; <<input>>
+-> noodles frequent;
+fork again
+:athlete talks; <<procedure>>
+-> production smoked;
+fork again
+:canals dicky;
+end merge
+:sprouted outside; <<load>>
+:neurology statute;
+endif
+fork
+:restaurants cavalier;
+fork again
+fork
+:midge staunch;
+fork again
+:catalog snort;
+fork again
+:stead extravaganza; <<input>>
+fork again
+:phooey react; <<task>>
+end merge
+fork again
+if (slurping conversations?) then (beans skim)
+:enamel diplomatic; <<task>>
+:unearth limit; <<input>>
+:militant mom; <<procedure>>
+while (momentarily partisan?) is (villages rational)
+:homophobia larvae;
+:beck trig;
+backward:current involved;
+endwhile (satisfaction gloating)
+-[hidden]->
+detach
+else (magic guerrilla)
+:shabbily mended; <<save>>
+:busier doorway;
+-> recanted groomed;
+:cheat renovating;
+endif
+fork again
+:jean contraceptives;
+end merge
+|2|
+:metallic through; <<procedure>>
+|1|
+:lawyers sacrilege; <<input>>
+-> devil votes;
+stop
+@enduml

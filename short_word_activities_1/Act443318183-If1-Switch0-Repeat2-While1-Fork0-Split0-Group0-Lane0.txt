@@ -1,0 +1,25 @@
+@startuml
+start
+:quintet sympathy;
+if (recurring encourages?) then (proper forwarding)
+:faced flurry; <<task>>
+else (conclave breather)
+repeat
+:oasis tempting;
+:projectile gripes;
+backward:pimping burden;
+repeat while (swat rednecks?) is (beanie drum)
+:guarantees estimates; <<save>>
+while (crested faxes?) is (chez leaflets)
+:mowing tarot;
+backward:warhead moderation;
+repeat
+backward:adolescence downsize;
+repeat while (monastery pointy?) is (glengarry scrounging)
+endwhile (cruiser likes)
+-[hidden]->
+detach
+endif
+:beard latch; <<load>>
+stop
+@enduml

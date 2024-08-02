@@ -1,0 +1,9 @@
+@startuml
+box "freckle notified"
+participant "socket indirectly" as 0
+end box
+autonumber 7 8
+ [<- 0: irritated strolling
+0 -> 0++ : treated lobotomy
+return gizmos messing
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+participant "simplistic goof" as 0
+participant "insist graham" as 1
+box "prepare zeal"
+participant "scottie statues" as 2
+box "chaperoned mescaline"
+participant "duff sockets" as 3
+end box
+end box
+== vague enterprise ==
+autonumber 5 1
+create participant "regatta tantric" as 4
+1 -> 4 : regatta tantric
+4 --//o 4: dobbins untimely
+4 -\\ 2: marshal oars
+...opener puppy...
+ [-> 3: federation hugs
+loop loudest scares
+create participant "stark yea" as 5
+1 -> 5 : stark yea
+par yech sweetie
+4 -\\ 0: tabloid sighting
+autonumber stop
+0 -> 5++ : needs incorrectly
+else chipping blow
+end
+end
+return idealized fess
+@enduml

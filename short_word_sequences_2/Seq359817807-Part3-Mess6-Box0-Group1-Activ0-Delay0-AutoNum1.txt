@@ -1,0 +1,17 @@
+@startuml
+participant "disappearance chow" as 0
+participant "kooks repairman" as 1
+participant "bolted fibers" as 2
+autonumber 5 1
+1 -> 2!! : victory highlighted
+ [<- 1: furry sweatshirt
+break jumper seller
+1 -> 1: discover dullest
+2 ->o 0: postcard year
+1 --//o 2: salina beside
+autonumber stop
+0 -> 0: recent instances
+autonumber resume
+else drag implied
+end
+@enduml

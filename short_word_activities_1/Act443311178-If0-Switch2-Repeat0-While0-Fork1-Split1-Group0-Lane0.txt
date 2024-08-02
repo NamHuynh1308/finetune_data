@@ -1,0 +1,37 @@
+@startuml
+:conserve quandary; <<input>>
+split
+:setbacks legacy;
+split again
+fork
+:snit unflattering;
+fork again
+:similar axis; <<input>>
+-> testimonies willing;
+fork again
+:incantation stony;
+end merge
+split again
+switch (tears avocado?)
+case (canceling up?)
+:described overanxious; <<save>>
+case (alaska nicotine?)
+:lipped gram;
+case (condor sized?)
+:gravel antiques;
+case (handwriting print?)
+:networks conferences; <<load>>
+endswitch
+split again
+switch (ludicrous chained?)
+case (aprons participating?)
+:gemma gravity;
+-> duds ghosts;
+case (physically rerouted?)
+:lymph annoys;
+case (fishnet slimmer?)
+:rhino daddy; <<output>>
+endswitch
+end split
+stop
+@enduml

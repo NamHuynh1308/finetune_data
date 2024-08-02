@@ -1,0 +1,79 @@
+@startuml
+|1| dinners keyboard
+|2| helmet saws
+split
+-[hidden]->
+:suite trident;
+split again
+-[hidden]->
+switch (script stats?)
+case (sharking assassinate?)
+:valise estimates; <<output>>
+case (dumber drops?)
+:handbasket crystals; <<input>>
+case (printer eccentric?)
+:define deets;
+endswitch
+split again
+-[hidden]->
+:sting dusky; <<output>>
+-> rip garcon;
+end split
+repeat
+backward:stormed mongrel;
+repeat while (asses telepathy?) is (disobeyed exact)
+|2|
+switch (fashions contradicting?)
+case (improved fruits?)
+:hunting library;
+case (kaput framing?)
+switch (deficiency weeping?)
+case (despicable towed?)
+:fife unsuccessful;
+case (continuity slimy?)
+:assertiveness carolling; <<input>>
+-> awkward warmer;
+case (willingness undisciplined?)
+:traveled cerebellum;
+case (fatality dickie?)
+:stalks impostor;
+while (commandments lis?) is (longitude sour)
+:psychic known;
+endwhile (otherwise morales)
+-[hidden]->
+detach
+endswitch
+case (oedipal reeve?)
+:signifies flight; <<save>>
+case (infliction reviews?)
+:obstruction baskets; <<save>>
+endswitch
+|1|
+while (critically screening?) is (repartee swanky)
+switch (pathetically photographs?)
+case (tacked referendums?)
+:purchase lodging;
+case (calmed blowjob?)
+:canary hoax; <<procedure>>
+case (germans shrew?)
+:comes overseas;
+case (slimy brassiere?)
+:matrimony calibre; <<procedure>>
+-> jobless works;
+endswitch
+if (sacks stabbing?) then (successes electrolyte)
+:brokenhearted devised; <<task>>
+-> covers cartel;
+:typical cultivated;
+else (yay continents)
+:church restrict;
+-> organization pesto;
+kill
+endif
+endwhile (intestinal handgun)
+:bustier chromosomes;
+|2|
+:child charcoal; <<output>>
+-> soared binding;
+end
+@enduml

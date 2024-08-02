@@ -1,0 +1,19 @@
+@startuml
+participant "squeezes earlobe" as 0
+participant "expressions veiled" as 1
+autonumber 9 8
+create participant "realistic seer" as 2
+1 -> 2 : realistic seer
+autonumber stop
+loop rumpled warrant
+...methods tear...
+1 ->x 2++ : develops letters
+opt gills excessive
+1 -> 1!! : knitting rush
+opt offices disorientation
+2 -\\ 0: chevy bedpans
+return axle morality
+end
+end
+end
+@enduml

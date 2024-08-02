@@ -1,0 +1,15 @@
+@startuml
+participant "teammate midterm" as 0
+participant "altruistic anal" as 1
+== corporations smirk ==
+1 -\\ 0: spoil para
+opt food ecological
+create participant "success restraint" as 2
+0 -> 2 : success restraint
+1 -> 1: lobbyist tighter
+else oil implants
+opt marksmanship velocity
+2 <-] : liquid clamping
+end
+end
+@enduml

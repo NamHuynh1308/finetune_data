@@ -1,0 +1,15 @@
+@startuml
+box "manifested communal"
+participant "vacationing housecleaning" as 0
+box "conflicts cramped"
+participant "purely homophobic" as 1
+end box
+end box
+1 ->] : perception stormy
+0 --//o 1++ : airman silliness
+0 <-> 0: vill potty
+alt mount digits
+0 -> 0: firemen rev
+return allowable countermeasures
+end
+@enduml

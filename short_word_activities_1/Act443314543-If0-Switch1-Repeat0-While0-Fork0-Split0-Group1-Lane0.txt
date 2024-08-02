@@ -1,0 +1,15 @@
+@startuml
+start
+switch (batman notified?)
+case (employer jerry?)
+:transports robots;
+-> destroyed paprika;
+case (busboys ruby?)
+:harsh redone; <<task>>
+-> abdomen challenges;
+endswitch
+group aced vanity
+:cheesed flagship;
+stop
+end group
+@enduml

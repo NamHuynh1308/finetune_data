@@ -1,0 +1,22 @@
+@startuml
+box "quad like"
+participant "scheming short" as 0
+participant "optimum hangovers" as 1
+participant "stalemate length" as 2
+end box
+autonumber 1 10
+par dub yearns
+1 <-> 2: wack procrastination
+autonumber stop
+...toothpick perfecto...
+ [<- 0: quack expedient
+autonumber resume
+else sideline puck
+1 ->o 2: scanned cleave
+autonumber stop
+critical suspects welts
+0 -->x 2: swim relegated
+autonumber resume
+end
+end
+@enduml

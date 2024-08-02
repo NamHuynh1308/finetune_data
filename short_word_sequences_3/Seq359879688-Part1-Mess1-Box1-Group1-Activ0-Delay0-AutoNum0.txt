@@ -1,0 +1,8 @@
+@startuml
+box "robbin silks"
+participant "mirth conclude" as 0
+end box
+critical complains leash
+0 -> 0!! : capitalize withdrawal
+end
+@enduml

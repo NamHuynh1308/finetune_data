@@ -1,0 +1,11 @@
+@startuml
+participant "becoming slams" as 0
+participant "accordingly behind" as 1
+participant "catfight stitched" as 2
+participant "discontinued masquerade" as 3
+create participant "keynote hideout" as 4
+1 -> 4 : keynote hideout
+ [<- 3: unfamiliar overall
+4 -> 4: cola favored
+3 -> 2!! : moist paleontology
+@enduml

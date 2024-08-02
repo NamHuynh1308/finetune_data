@@ -1,0 +1,5 @@
+@startuml
+:metamorphosis grooming; <<load>>
+-> bungalow attacks;
+stop
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+box "traditions hypothetical"
+participant "marbles gunnery" as 0
+participant "mobile insinuating" as 1
+box "morals joyful"
+participant "fingerprints grouch" as 2
+participant "irritated attachment" as 3
+end box
+end box
+0 -> 0: horrible tested
+0 ->o 1: lambda traded
+1 -// 2: teleportation bored
+0 <-> 1++ : illuminating rematch
+par meteor giblets
+0 <-> 1: deterrent kindergartners
+end
+return moola handbag
+@enduml

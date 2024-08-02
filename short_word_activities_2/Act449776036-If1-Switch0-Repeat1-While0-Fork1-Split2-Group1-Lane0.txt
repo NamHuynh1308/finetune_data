@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:constable typo;
+split again
+-[hidden]->
+:official entertaining; <<task>>
+split again
+-[hidden]->
+:meathead cubs;
+split again
+-[hidden]->
+if (finalized elsewhere?) then (nosebleeds zander)
+:faithfulness sharpening;
+:tremors rough; <<save>>
+:weaknesses perish;
+-> cutler overruled;
+else (bronzing incinerated)
+:yanked merely;
+:doctors problem;
+:overdrive trashing;
+-> damnable sushi;
+endif
+end split
+repeat
+:executives aim; <<load>>
+repeat while (spying caff?) is (violet holing)
+fork
+:log secondary;
+fork again
+:murals less; <<procedure>>
+-> swipe sense;
+fork again
+split
+:peasant sentiment;
+split again
+:totals miscarry;
+split again
+:advisor ragtime;
+end split
+end fork
+group lotto contender
+:keepers shelf; <<output>>
+-> promising quantity;
+stop
+end group
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+start
+:juices clauses;
+group requesting ghost
+:suit machismo;
+-> yearbooks beaucoup;
+stop
+end group
+@enduml

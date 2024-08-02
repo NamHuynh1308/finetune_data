@@ -1,0 +1,7 @@
+@startuml
+start
+group fixes strife
+:educators territorial; <<task>>
+stop
+end group
+@enduml

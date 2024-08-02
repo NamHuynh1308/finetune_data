@@ -1,0 +1,15 @@
+@startuml
+start
+group juggling bitter
+split
+:recuperate mockery;
+split again
+:deliveries middleman;
+split again
+:benefited difficulty; <<output>>
+split again
+:theres deeds; <<load>>
+end split
+stop
+end group
+@enduml

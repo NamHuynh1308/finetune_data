@@ -1,0 +1,33 @@
+@startuml
+start
+switch (sos insulin?)
+case (revoked wondrous?)
+:advertises exams;
+-> alligator bailiff;
+case (synch sox?)
+split
+:rotary serum;
+split again
+:icing ignoring;
+kill
+split again
+:magdalene pyromaniac; <<save>>
+split again
+:hogging transform;
+kill
+end split
+case (vacuuming applies?)
+fork
+:arrangements recorder;
+fork again
+:interrogate essence;
+fork again
+:diminutive eel;
+-> muddle valor;
+end merge
+endswitch
+:dismissive worms; <<save>>
+:reimburse brad; <<save>>
+-> accursed tuning;
+end
+@enduml

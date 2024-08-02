@@ -1,0 +1,21 @@
+@startuml
+fork
+:candidate seduction;
+fork again
+if (procreate titles?) then (meatball lighter)
+:caliber scooping;
+:trench drooling; <<procedure>>
+kill
+else (blouse collars)
+:cradle khan; <<input>>
+-> auto stallion;
+:scampered wrestling; <<output>>
+-> shade detect;
+:outcast pool; <<output>>
+kill
+endif
+fork again
+:simultaneously upping; <<save>>
+end fork
+stop
+@enduml

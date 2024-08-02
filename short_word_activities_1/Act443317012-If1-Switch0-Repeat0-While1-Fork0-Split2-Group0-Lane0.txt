@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:explosives above;
+split again
+-[hidden]->
+split
+:ox canyons;
+split again
+:creativity herself; <<procedure>>
+split again
+:gas doze;
+end split
+split again
+-[hidden]->
+if (bees scheming?) then (discontinue conclave)
+:jar admiration;
+:thriller twits; <<continuous>>
+:kindergarten posed;
+else (chile drinks)
+:mission stipulated;
+:corset windpipe;
+while (remainder missing?) is (treatments applied)
+:requirements heightened;
+-> powered yuppie;
+backward:dateline tryouts;
+endwhile (undead intimate)
+-[hidden]->
+detach
+endif
+end split
+:productions memories; <<task>>
+-> unbecoming sailors;
+stop
+@enduml

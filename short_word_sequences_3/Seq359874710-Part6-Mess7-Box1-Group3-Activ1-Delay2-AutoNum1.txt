@@ -1,0 +1,33 @@
+@startuml
+participant "misnomer blotto" as 0
+participant "brewer captains" as 1
+box "hotter crap"
+participant "hogs fully" as 2
+participant "poisonous deviled" as 3
+participant "enrolling admittance" as 4
+end box
+== iced entrust ==
+autonumber 0 4
+ [<- 4: dearly salt
+alt snag dominion
+...clause capacity...
+0 <-> 1: distributing covenant
+autonumber stop
+loop dog cruise
+4 -\\ 0++ : shrinking record
+autonumber resume
+...stashed posed...
+4 ->o 2: charge kangaroo
+return provocative pigs
+autonumber stop
+opt grate stands
+0 ->> 3: blank rightful
+autonumber resume
+create participant "someday witnesses" as 5
+0 -> 5 : someday witnesses
+1 -> 3: taxidermist roar
+autonumber stop
+end
+end
+end
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:fee emphasized;
+split again
+-[hidden]->
+:stuntman hitch; <<task>>
+split again
+-[hidden]->
+:freeways watchman;
+-> handy finally;
+end split
+:imp stamped; <<continuous>>
+end
+@enduml

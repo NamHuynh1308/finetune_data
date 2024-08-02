@@ -1,0 +1,27 @@
+@startuml
+participant "pinching pitcher" as 0
+participant "compute benny" as 1
+participant "brain sergeant" as 2
+box "hospital brook"
+participant "entertained huddle" as 3
+participant "trimmings mended" as 4
+end box
+ [<- 0: outback subtly
+...thorough admonish...
+ [<- 0: vow ana
+2 -> 4: taint make
+break rosebush kaon
+3 <-> 2++ : them jester
+ [<- 1: effective daylights
+3 -->x 1: arrows talents
+return gadget samples
+alt roadblocks tortious
+2 <-] : orbed intervening
+0 --//o 4++ : mint babu
+alt shirtless excuses
+ [-> 2: entered bothering
+return pinks hydrogen
+end
+end
+end
+@enduml

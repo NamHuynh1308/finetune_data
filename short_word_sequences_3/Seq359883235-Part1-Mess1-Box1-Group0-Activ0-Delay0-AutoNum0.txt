@@ -1,0 +1,6 @@
+@startuml
+box "romper seem"
+participant "blowfish jinx" as 0
+end box
+0 -> 0: accursed allee
+@enduml

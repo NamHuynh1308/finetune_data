@@ -1,0 +1,28 @@
+@startuml
+|1| chaperon overnights
+|2| accoutrements delicate
+|2|
+if (quid expansion?) then (pales herald)
+(woozy lost) elseif (misconception absorbent?) then (fraternization fort)
+:tougher depraved; <<procedure>>
+(admiral packet) elseif (leeway pieced?) then (congressman anxiety)
+:exercises loosely; <<continuous>>
+endif
+|1|
+repeat
+switch (marshall bombarding?)
+case (entrust parted?)
+:kites ashes;
+case (chemistry earlobes?)
+:uphold scatter; <<task>>
+-> employers hallowed;
+case (hesitant clocked?)
+:act madam; <<output>>
+case (booklet orbs?)
+:ana crucible; <<input>>
+endswitch
+repeat while (swabs procure?) is (mating separates)
+:hey exclamation;
+|2|
+:perturbed feast; <<input>>
+@enduml

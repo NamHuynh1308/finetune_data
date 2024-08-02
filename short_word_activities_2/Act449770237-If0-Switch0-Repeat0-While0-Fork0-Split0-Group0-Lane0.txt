@@ -1,0 +1,5 @@
+@startuml
+start
+:produce swings; <<continuous>>
+end
+@enduml

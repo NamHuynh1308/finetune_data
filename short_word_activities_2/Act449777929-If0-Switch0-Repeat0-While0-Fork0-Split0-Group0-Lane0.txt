@@ -1,0 +1,7 @@
+@startuml
+start
+:revive doily; <<input>>
+:harriers discredit;
+-> ampule capsize;
+stop
+@enduml

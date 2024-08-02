@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:retail impersonal;
+split again
+-[hidden]->
+split
+:buff versed;
+split again
+:sleight biohazard; <<continuous>>
+split again
+:thumping conjured; <<task>>
+end split
+split again
+-[hidden]->
+:yeast appreciate;
+while (conviction empress?) is (powder scumbag)
+switch (civics scrape?)
+case (weapons lays?)
+:pointer larval; <<output>>
+case (divulged regime?)
+:tops earn; <<continuous>>
+case (matador glow?)
+:fling academics;
+endswitch
+endwhile (sprouting sandbox)
+-[hidden]->
+detach
+end split
+if (cusp affectionately?) then (futon symbolize)
+(countess strutting) elseif (busted satisfy?) then (grazing operates)
+:perk stomachs; <<continuous>>
+(sifting sorry) elseif (ward prevailed?) then (psychopathic pencil)
+:slob coin; <<load>>
+-> extraterrestrial hails;
+endif
+stop
+@enduml

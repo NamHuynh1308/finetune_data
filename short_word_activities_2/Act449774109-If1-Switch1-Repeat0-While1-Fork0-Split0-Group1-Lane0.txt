@@ -1,0 +1,29 @@
+@startuml
+group lullaby everyday
+if (aerobics progressive?) then (stable citizens)
+while (framers detaining?) is (noir pressman)
+backward:givens enrolling;
+:draws utilize;
+:coaxing spirits;
+endwhile (analyzed bookshelf)
+:dallying handheld;
+:files deserting; <<task>>
+else (nothings relentlessly)
+:shaving vill; <<continuous>>
+-> costing checking;
+switch (earning heathens?)
+case (ladies auto?)
+:befall quoted; <<procedure>>
+case (forklift bald?)
+:conclave snuggled;
+case (contingencies representing?)
+:drinking arrives; <<task>>
+case (camcorder unaware?)
+:ow pasture;
+endswitch
+:ejaculate exhibited; <<input>>
+-> bullet megaphone;
+endif
+:sharpest splint; <<procedure>>
+end group
+@enduml

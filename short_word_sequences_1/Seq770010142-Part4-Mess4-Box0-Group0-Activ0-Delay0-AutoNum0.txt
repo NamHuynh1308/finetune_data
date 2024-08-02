@@ -1,0 +1,10 @@
+@startuml
+participant "pinot geography" as 0
+participant "puritan wreaks" as 1
+participant "launder cripes" as 2
+0 -\\ 0: shards scurvy
+1 -> 2: outfit hurst
+create participant "always bunks" as 3
+0 -> 3 : always bunks
+ [-> 2: exterminator quantities
+@enduml

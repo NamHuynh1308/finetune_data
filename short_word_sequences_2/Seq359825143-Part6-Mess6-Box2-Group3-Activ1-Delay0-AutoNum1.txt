@@ -1,0 +1,27 @@
+@startuml
+box "tokens stewardess"
+participant "chicken attention" as 0
+participant "respirations arachnids" as 1
+participant "coincidences stampede" as 2
+participant "clipped fountainhead" as 3
+end box
+box "prostitution excluding"
+participant "ripple toolbox" as 4
+end box
+autonumber 10 1
+opt wager smelled
+4 --//o 1: clots foibles
+create participant "podiatry pain" as 5
+0 -> 5 : podiatry pain
+2 -> 2++ : volunteered agonizing
+break squeeze snooping
+ [<- 0: importance contraband
+return reprisals retaliatory
+autonumber stop
+par pavement agencies
+3 ->x 4: miner seventeen
+5 ->o 2: screwup precedents
+end
+end
+end
+@enduml

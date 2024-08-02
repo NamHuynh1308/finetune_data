@@ -1,0 +1,10 @@
+@startuml
+participant "agony barely" as 0
+autonumber 0 4
+create participant "alienation immune" as 1
+0 -> 1 : alienation immune
+alt staggered swill
+0 -> 1++ : explosion liquidate
+end
+return attribute gentler
+@enduml

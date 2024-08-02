@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:person provisional;
+split again
+-[hidden]->
+repeat
+backward:corned caprice;
+backward:handstand spic;
+repeat while (gorilla aa?) is (involved cinnamon)
+split again
+-[hidden]->
+:noticeable mooch; <<load>>
+end split
+:affirmative neighbour; <<load>>
+end
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:chile hedges;
+split again
+-[hidden]->
+:licence paranoia; <<save>>
+-> homework stokes;
+split again
+-[hidden]->
+split
+:woodpecker tweet;
+split again
+:dink rodents; <<input>>
+split again
+:munchkins witch; <<load>>
+end split
+end split
+:hunches gizmo;
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:bonding empathic;
+split again
+-[hidden]->
+:typed sphinx;
+split again
+-[hidden]->
+repeat
+:shrugged deal;
+:recent sap; <<save>>
+:runaways kingdom; <<save>>
+repeat while (prime mallard?) is (promises hypothetically)
+split again
+-[hidden]->
+:swelled bridegroom;
+-> pampering objectives;
+end split
+:sampled eyeing; <<continuous>>
+group untamed gas
+:ability lounging; <<input>>
+group grudge memory
+:impulsive kissing;
+-> dowser savour;
+stop
+end group
+end group
+@enduml

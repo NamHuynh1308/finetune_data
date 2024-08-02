@@ -1,0 +1,9 @@
+@startuml
+participant "specials black" as 0
+autonumber 6 4
+create participant "softener outwit" as 1
+0 -> 1 : softener outwit
+par saying consultations
+1 -> 0: rex hens
+end
+@enduml

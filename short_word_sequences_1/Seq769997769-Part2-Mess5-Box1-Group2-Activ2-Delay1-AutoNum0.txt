@@ -1,0 +1,19 @@
+@startuml
+participant "realization eastbound" as 0
+box "courtroom payoffs"
+participant "innocently sobbing" as 1
+end box
+1 -->x 0: cynicism dances
+critical parade tapped
+0 -> 1++ : beeped pardner
+1 -> 0: invading stateside
+return partisan colonial
+else badness unqualified
+alt coop piling
+...push laptops...
+1 ->x 1++ : attorney succeeded
+ [<- 1: fabric unencumbered
+end
+end
+return dials fixings
+@enduml

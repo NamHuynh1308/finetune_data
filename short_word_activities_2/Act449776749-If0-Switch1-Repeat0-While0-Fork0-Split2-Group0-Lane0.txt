@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:earful issued;
+split again
+-[hidden]->
+:cacciatore author;
+split again
+-[hidden]->
+:refused housekeeping;
+split again
+-[hidden]->
+:footprints universe; <<load>>
+-> jackpot marzipan;
+end split
+switch (terrorist implied?)
+case (motivates snuggling?)
+:horsemen attack; <<task>>
+case (forgiveness transported?)
+split
+:alight cognizant;
+split again
+:somewhere hector; <<task>>
+-> physical sprained;
+split again
+:unfortunately rows; <<procedure>>
+-> accuracy heel;
+end split
+endswitch
+end
+@enduml

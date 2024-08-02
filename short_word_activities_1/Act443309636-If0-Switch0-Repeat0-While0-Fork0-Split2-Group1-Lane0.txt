@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:glance romantic;
+split again
+-[hidden]->
+:barnyard catch; <<task>>
+split again
+-[hidden]->
+split
+:untie changing;
+split again
+:would unquote; <<input>>
+split again
+:granddaughters baste; <<continuous>>
+-> vacant agitated;
+split again
+:ribbon poach;
+end split
+split again
+-[hidden]->
+:shaggy pram; <<continuous>>
+end split
+group charmer wear
+:presidential overwhelms; <<input>>
+stop
+end group
+@enduml

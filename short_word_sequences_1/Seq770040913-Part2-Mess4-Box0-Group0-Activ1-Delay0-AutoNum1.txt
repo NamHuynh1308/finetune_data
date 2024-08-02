@@ -1,0 +1,11 @@
+@startuml
+participant "syringe greatest" as 0
+autonumber 10 4
+create participant "sardines plateau" as 1
+0 -> 1 : sardines plateau
+1 <-] : narcissist shoved
+1 -> 0++ : baptist hanks
+autonumber stop
+0 ->> 1: picker tarot
+return inconceivable elixir
+@enduml

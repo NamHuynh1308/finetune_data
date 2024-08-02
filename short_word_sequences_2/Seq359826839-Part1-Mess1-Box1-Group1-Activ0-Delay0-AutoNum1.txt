@@ -1,0 +1,9 @@
+@startuml
+box "publisher official"
+participant "indignation mayflower" as 0
+end box
+autonumber 9 9
+alt clairvoyant cleanse
+0 <-> 0: festering mindset
+end
+@enduml

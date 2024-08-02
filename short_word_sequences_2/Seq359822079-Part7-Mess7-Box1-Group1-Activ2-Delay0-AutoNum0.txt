@@ -1,0 +1,25 @@
+@startuml
+participant "boardwalk tardiness" as 0
+participant "pledges martins" as 1
+box "beefcake majored"
+participant "pivot fay" as 2
+participant "taunting rein" as 3
+participant "shipyard constructed" as 4
+end box
+== semantics forgiving ==
+1 -> 4++ : sashimi trolling
+4 --//o 4: furrowed wring
+opt volts competition
+create participant "mince milling" as 5
+4 -> 5 : mince milling
+create participant "buttery dean" as 6
+2 -> 6 : buttery dean
+0 --//o 2: toon tenants
+else honeymoons furs
+3 ->] : sparked sighing
+1 -->x 6++ : grounding foiled
+else scheduling electrolytes
+end
+return pyramids pram
+return smothering goddaughter
+@enduml

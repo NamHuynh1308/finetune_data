@@ -1,0 +1,16 @@
+@startuml
+box "muggy campuses"
+participant "cox grandfathers" as 0
+participant "subjugation plucking" as 1
+participant "oxen triumphed" as 2
+end box
+== fortunes retribution ==
+1 -->x 1: mould cutaway
+2 --> 2: confused virgins
+create participant "ordinary second" as 3
+1 -> 3 : ordinary second
+2 <-> 1: dent bugging
+break banister noticeable
+3 -> 1: rooming warpath
+end
+@enduml

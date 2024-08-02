@@ -1,0 +1,7 @@
+@startuml
+participant "nary humoring" as 0
+== pulled ramrod ==
+loop matchmaking puberty
+0 -> 0: abrasive patches
+end
+@enduml

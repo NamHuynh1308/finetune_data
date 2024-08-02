@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:plates births;
+split again
+-[hidden]->
+:winters ropes;
+split again
+-[hidden]->
+:perjury tortillas; <<task>>
+end split
+:dramas model;
+-> weighing cabdriver;
+:fared dismal;
+@enduml

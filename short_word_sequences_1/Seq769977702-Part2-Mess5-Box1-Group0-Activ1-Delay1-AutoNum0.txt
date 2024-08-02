@@ -1,0 +1,14 @@
+@startuml
+participant "idolized considering" as 0
+box "nominating frame"
+participant "hiring phases" as 1
+end box
+== improved academy ==
+0 -> 1: flags rebuild
+...gestures starvation...
+ [<- 1: elaborate mavis
+1 -> 1!! : squeeze reopening
+1 --//o 1++ : pa theatres
+0 ->x 0: genus oaf
+return tenors expressed
+@enduml

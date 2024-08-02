@@ -1,0 +1,21 @@
+@startuml
+start
+if (under councilors?) then (composers cellmates)
+(fido kat) elseif (intrigues convened?) then (moped perish)
+:ancient jerk; <<input>>
+(recorders resemble) elseif (shindig hardship?) then (deficit nodes)
+switch (profits personnel?)
+case (blossoms walker?)
+:flicked erica;
+kill
+case (catholic sucked?)
+:bake trusty;
+case (comprehending godfather?)
+:searching erroneous;
+endswitch
+endif
+group mourners testifies
+:tastes laps; <<input>>
+stop
+end group
+@enduml

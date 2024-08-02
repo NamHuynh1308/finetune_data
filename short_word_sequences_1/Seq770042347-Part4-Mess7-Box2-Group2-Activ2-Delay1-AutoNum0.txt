@@ -1,0 +1,25 @@
+@startuml
+participant "parfait cougars" as 0
+box "people burner"
+participant "overactive popping" as 1
+box "glasses pickle"
+participant "terrifically metropolitan" as 2
+participant "tubing spliced" as 3
+end box
+end box
+3 -> 0++ : roaring fission
+...temporary millisecond...
+1 -> 0: seashell illustrated
+critical exhausts brief
+ [-> 3: touchstone flu
+alt away renewed
+3 ->x 1: fair requisite
+1 <-] : pinochle soupy
+else stud gnats
+2 ->x 1++ : magnificent barnacle
+end
+3 -> 0: id inception
+end
+return conner deeds
+return molecule clerical
+@enduml

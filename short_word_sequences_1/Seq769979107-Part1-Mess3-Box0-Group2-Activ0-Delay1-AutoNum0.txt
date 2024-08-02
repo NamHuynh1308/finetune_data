@@ -1,0 +1,11 @@
+@startuml
+participant "array calzones" as 0
+alt locust bordello
+ [<- 0: communities smug
+loop batman incorporate
+...drilled hangman...
+0 --//o 0: sticky interact
+0 ->o 0: pliers tramps
+end
+end
+@enduml

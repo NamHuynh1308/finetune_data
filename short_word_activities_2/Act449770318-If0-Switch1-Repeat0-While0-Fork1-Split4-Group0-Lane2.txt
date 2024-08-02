@@ -1,0 +1,67 @@
+@startuml
+|1| negotiate finally
+|2| bawling poncho
+split
+-[hidden]->
+:deli sprint;
+split again
+-[hidden]->
+:struggled jeopardy;
+split again
+-[hidden]->
+:promoting chug; <<load>>
+end split
+split
+:untoward models;
+split again
+split
+:idiom boggling;
+split again
+:icebergs cleavage; <<procedure>>
+-> horsehair notify;
+split again
+:traipse hemorrhoids; <<save>>
+-> motivations spending;
+split again
+:canisters starved;
+end split
+split again
+:succotash lowery;
+-> doggy springtime;
+end split
+|2|
+:gleaming wheezing; <<input>>
+|1|
+:whittle budging; <<load>>
+-> backside frames;
+|2|
+switch (pleasantly traumas?)
+case (interface nodes?)
+fork
+:blond nocturnal;
+fork again
+:fitting flaming; <<load>>
+fork again
+:banner snow; <<procedure>>
+fork again
+:hangouts parking;
+end fork
+case (hydra packets?)
+:behooves hefty;
+-> plucky agreed;
+case (songs postpartum?)
+split
+:tabby nation;
+split again
+:purer referendums; <<continuous>>
+-> pond matter;
+split again
+:rah cross; <<input>>
+split again
+:temperament ends; <<task>>
+end split
+case (pinochle decorate?)
+:subtlety stationed; <<save>>
+endswitch
+end
+@enduml

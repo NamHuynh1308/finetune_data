@@ -1,0 +1,6 @@
+@startuml
+group feasible complicate
+:councilors transcript; <<input>>
+stop
+end group
+@enduml

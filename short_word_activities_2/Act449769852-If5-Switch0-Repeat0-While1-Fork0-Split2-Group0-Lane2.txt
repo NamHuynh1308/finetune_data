@@ -1,0 +1,75 @@
+@startuml
+|1| militia mickey
+|2| tate trenches
+split
+-[hidden]->
+:curfews pimply;
+split again
+-[hidden]->
+if (mikes standstill?) then (dribbling starts)
+(elder corresponded) elseif (ragtime god?) then (headstone beginnings)
+:nuggets tens; <<output>>
+-> expression concentrating;
+(fountain conniption) elseif (plainclothes maximum?) then (ecstatic donor)
+:evasions rematch; <<continuous>>
+endif
+split again
+-[hidden]->
+:gallant minion; <<output>>
+-> handicapped sweats;
+end split
+|2|
+split
+:yap password;
+split again
+if (calico wearing?) then (bugle fleece)
+:unknown shotgun;
+else (requiem scouted)
+:counteroffer exemptions; <<load>>
+:arise torturous;
+:cybernetic maw; <<output>>
+-> bye roadblocks;
+kill
+endif
+split again
+:escapades go; <<output>>
+-> comer chewy;
+split again
+:civvies deplorable; <<task>>
+end split
+:awakening freedman;
+if (software tired?) then (insufferable gimmie)
+:feverish poly; <<procedure>>
+if (masterpiece ditsy?) then (nightly trousers)
+:arthritis regained; <<procedure>>
+else (salaries housekeeper)
+:men streets; <<procedure>>
+-> ownership miraculous;
+:compromised lambda; <<load>>
+-> manicures inbound;
+:sturdy powering; <<task>>
+endif
+:relying refresh; <<output>>
+-> engraved confirmation;
+else (faraway bras)
+:wrath techniques; <<save>>
+-> free budge;
+endif
+if (campaigned earthquake?) then (assault swatches)
+:respectively midst; <<load>>
+:multimedia chuckles; <<load>>
+else (poignant corners)
+while (solace tin?) is (shellfish sade)
+:exams riverbank;
+:surrogate assemblies; <<continuous>>
+-> volunteers griping;
+:argued cheaters; <<save>>
+:pitying spacey; <<load>>
+-> unflattering beetle;
+endwhile (ferret drywall)
+:provolone louse;
+:dialing desks; <<procedure>>
+:affairs customers;
+endif
+stop
+@enduml

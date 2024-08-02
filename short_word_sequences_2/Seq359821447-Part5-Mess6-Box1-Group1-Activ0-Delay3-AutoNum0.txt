@@ -1,0 +1,20 @@
+@startuml
+participant "sleazebag studio" as 0
+participant "prey defeat" as 1
+participant "unnerve nightlife" as 2
+box "tangent nutritionist"
+participant "ahead platypus" as 3
+end box
+create participant "rumblings german" as 4
+1 -> 4 : rumblings german
+...sorry bedlam...
+0 ->> 3: shrouds hit
+critical diamond wo
+...winding braiding...
+0 ->x 2: shill scalper
+...benefited engines...
+2 ->o 0: faster handle
+ [-> 4: jerseys flipper
+4 --> 2: contempt interfere
+end
+@enduml

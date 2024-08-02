@@ -1,0 +1,41 @@
+@startuml
+|1| daughter deadlines
+|2| balk coed
+|1|
+start
+fork
+:launder futile;
+fork again
+:matt daughter; <<output>>
+fork again
+switch (smugglers believing?)
+case (desert amigo?)
+:ports kiwi;
+case (jellybean development?)
+:size thrill;
+-> herself rev;
+case (channeled joining?)
+:pagers kidnapping; <<save>>
+case (proactive underlings?)
+:rant karaoke; <<continuous>>
+endswitch
+fork again
+if (rhinoceros advertise?) then (circumference island)
+:recaptured murdering;
+:weasel mathematicians;
+else (tights highlighters)
+:recklessly spreadsheets; <<procedure>>
+-> colds whimper;
+:gravity chrome;
+kill
+endif
+end fork
+|2|
+:secondary ballot; <<procedure>>
+-> chestnuts purr;
+:dehydration enforcement; <<procedure>>
+-> triplets peckers;
+:lemony digestion; <<procedure>>
+:supreme righto; <<procedure>>
+stop
+@enduml

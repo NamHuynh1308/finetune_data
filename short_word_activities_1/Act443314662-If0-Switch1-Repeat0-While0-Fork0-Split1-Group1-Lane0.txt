@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:edging herein;
+split again
+-[hidden]->
+:struck chaperones; <<task>>
+split again
+-[hidden]->
+:prestige poise; <<save>>
+end split
+:carousel surfed; <<load>>
+-> lockup eliminated;
+group occupation merman
+switch (ability breached?)
+case (autographed more?)
+:illustrates vanishing; <<input>>
+-> waterworks jus;
+case (vase adventures?)
+:camped unzip; <<input>>
+case (grandchild betrayal?)
+:orientation commissary;
+endswitch
+:possibilities ammonia;
+stop
+end group
+@enduml

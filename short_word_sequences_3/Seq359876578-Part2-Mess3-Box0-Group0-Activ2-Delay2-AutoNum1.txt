@@ -1,0 +1,13 @@
+@startuml
+participant "gloom superhero" as 0
+participant "catalog cells" as 1
+autonumber 8 0
+1 ->o 0++ : lager rascals
+...tucked reconcile...
+0 -> 1: scalp librarian
+return figuring grudging
+...browbeating stolen...
+1 -> 0++ : den requirements
+autonumber stop
+return scenic pointing
+@enduml

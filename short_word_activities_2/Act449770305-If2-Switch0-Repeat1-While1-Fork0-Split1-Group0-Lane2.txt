@@ -1,0 +1,45 @@
+@startuml
+|1| vibrant spin
+|2| lodging pyre
+split
+-[hidden]->
+:blazes switcheroo;
+split again
+-[hidden]->
+:ennui docks;
+-> courageous flog;
+split again
+-[hidden]->
+while (brutal bakery?) is (riverbank buttoning)
+backward:loot squatting;
+endwhile (recitation removing)
+:cosmos infiltration;
+end split
+|2|
+if (decree salesmen?) then (sailboat wholly)
+(unsettled dauphin) elseif (contacted skeletons?) then (pointy jitters)
+:grandparent sugar;
+-> auctioneer provided;
+(bugging compass) elseif (para whoops?) then (caddie header)
+:silliness managing; <<save>>
+-> wearer corrective;
+(widen spleen) elseif (inconsistent upstate?) then (scrapings cozy)
+:rejoicing scriptures; <<output>>
+endif
+if (baskets adjusted?) then (synergy knowingly)
+(mental pools) elseif (reprogram headless?) then (cutout five)
+:stag ecological; <<task>>
+(background un) elseif (federation motivational?) then (kilter adversity)
+:rubbing stems; <<continuous>>
+endif
+:vicious eager; <<load>>
+|1|
+repeat
+:dropping infected; <<output>>
+:relevance dramatic; <<output>>
+-> armaments shirts;
+:abuser taffy; <<continuous>>
+repeat while (luggage palms?) is (ripping joins)
+:depend improperly;
+stop
+@enduml

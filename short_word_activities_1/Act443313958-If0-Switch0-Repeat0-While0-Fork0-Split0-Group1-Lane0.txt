@@ -1,0 +1,7 @@
+@startuml
+start
+group defies billboards
+:fittest wheat; <<input>>
+stop
+end group
+@enduml

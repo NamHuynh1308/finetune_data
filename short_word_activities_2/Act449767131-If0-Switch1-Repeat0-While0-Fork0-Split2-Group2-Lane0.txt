@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:barricades composition;
+split again
+-[hidden]->
+split
+:melt buffs;
+split again
+:debrief elderly; <<save>>
+split again
+:jams minion; <<task>>
+-> campos infamous;
+end split
+split again
+-[hidden]->
+:streaks spectra; <<task>>
+-> kiosk refuses;
+end split
+group bullpen infidelities
+:lunchtime collarbone; <<task>>
+-> spiders arrived;
+group junk retreat
+switch (shaman midterms?)
+case (noggin collateral?)
+:sharply pilots; <<continuous>>
+-> mystifying lunchroom;
+case (revolutions adolescent?)
+:manatees blinked;
+-> harm slackers;
+case (eminently hostilities?)
+:obi criminalistics; <<task>>
+endswitch
+stop
+end group
+end group
+@enduml

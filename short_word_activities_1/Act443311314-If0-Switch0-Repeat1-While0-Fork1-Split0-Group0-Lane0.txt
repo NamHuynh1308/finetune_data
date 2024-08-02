@@ -1,0 +1,13 @@
+@startuml
+repeat
+fork
+:tribal bigot;
+fork again
+:marvellous eclectic;
+fork again
+:golfers will;
+-> neediness bleached;
+end fork
+repeat while (why majored?) is (rock noise)
+:lantern nacho; <<save>>
+@enduml

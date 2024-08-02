@@ -1,0 +1,6 @@
+@startuml
+box "cypher rook"
+participant "fabulous bloods" as 0
+end box
+0 <-] : introduced happily
+@enduml

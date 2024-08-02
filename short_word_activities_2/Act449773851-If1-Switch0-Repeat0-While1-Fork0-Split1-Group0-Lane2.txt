@@ -1,0 +1,39 @@
+@startuml
+|1| barman car
+|2| bed snapper
+split
+-[hidden]->
+:pyramids crushed;
+split again
+-[hidden]->
+:variations witty; <<load>>
+split again
+-[hidden]->
+:pine quirk;
+-> these dolt;
+end split
+|2|
+:ulcers virgin; <<input>>
+-> extraction mort;
+while (drafted prattling?) is (setbacks glossy)
+backward:pissant processors;
+:plea glitch; <<task>>
+:caterer tycoon; <<save>>
+backward:mimes wacko;
+endwhile (leaps smoothest)
+:congresswoman horrendous;
+|1|
+if (spewing ammonia?) then (donation predecessors)
+:hearings entertaining;
+-> nunnery determination;
+:inaccuracies towards;
+kill
+else (undertake smile)
+:herbs unbroken; <<save>>
+-> spartan polka;
+kill
+endif
+:junkyard imitating; <<save>>
+:injector mainframe; <<task>>
+stop
+@enduml

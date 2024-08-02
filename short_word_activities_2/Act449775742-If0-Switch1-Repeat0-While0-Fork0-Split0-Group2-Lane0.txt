@@ -1,0 +1,15 @@
+@startuml
+group gorge escorts
+switch (biting carpenter?)
+case (crashers objections?)
+:freighter severance; <<task>>
+case (violently privileged?)
+:cornerstone retired; <<procedure>>
+-> people redeeming;
+endswitch
+group indies entries
+:reprisals pages;
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "sausages introduced" as 0
+participant "heaping select" as 1
+autonumber 0 7
+0 -> 0: sheen copier
+1 ->o 0++ : pills onion
+0 <-> 1: airman sickening
+return lout glint
+@enduml

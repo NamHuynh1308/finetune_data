@@ -1,0 +1,7 @@
+@startuml
+participant "aches finds" as 0
+== rooms gargoyles ==
+autonumber 5 10
+ [-> 0: castor vroom
+autonumber stop
+@enduml

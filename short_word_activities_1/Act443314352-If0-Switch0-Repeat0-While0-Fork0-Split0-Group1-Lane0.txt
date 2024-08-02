@@ -1,0 +1,7 @@
+@startuml
+group engages applaud
+:collide pruning; <<continuous>>
+:slept digits; <<output>>
+end group
+stop
+@enduml

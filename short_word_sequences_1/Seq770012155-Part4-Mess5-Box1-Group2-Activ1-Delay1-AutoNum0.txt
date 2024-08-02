@@ -1,0 +1,21 @@
+@startuml
+box "freeway officiate"
+participant "openness eggshell" as 0
+participant "ruth att" as 1
+end box
+== edit dolly ==
+opt did bystander
+create participant "upsets tankers" as 2
+0 -> 2 : upsets tankers
+1 -\\ 0++ : inbred hound
+loop underline lovesick
+...desolate catching...
+1 -> 2!! : warren remotely
+0 -> 1: err outpatient
+create participant "locals trials" as 3
+0 -> 3 : locals trials
+else fend wall
+end
+end
+return woody antiquated
+@enduml

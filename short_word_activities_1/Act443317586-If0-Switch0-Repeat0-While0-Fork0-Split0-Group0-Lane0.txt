@@ -1,0 +1,8 @@
+@startuml
+start
+:dolly steamy; <<input>>
+:sideline knocked; <<task>>
+:rubies pleasantries;
+-> manufactures puree;
+stop
+@enduml

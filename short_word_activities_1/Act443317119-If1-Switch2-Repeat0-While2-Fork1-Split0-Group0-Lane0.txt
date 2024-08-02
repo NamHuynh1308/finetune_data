@@ -1,0 +1,59 @@
+@startuml
+start
+fork
+:act clogged;
+fork again
+:regret bonfire;
+fork again
+if (troubling imbecilic?) then (abstain influenza)
+:tentative bike;
+while (minion built?) is (charts arrow)
+backward:inhabit adding;
+:commentary disqualified; <<output>>
+:recanted committees; <<task>>
+backward:bungled gimp;
+endwhile (distances commented)
+-[hidden]->
+detach
+else (jade soundproof)
+:imposition untoward;
+:lockup untoward;
+:artillery quintessential; <<task>>
+-> vacancies supposition;
+endif
+end fork
+switch (gents gloriously?)
+case (complexion waning?)
+:antiquing kisses;
+while (vicious judgement?) is (lavish oceanographic)
+backward:criminally plenty;
+backward:babies promised;
+:clarity darts; <<procedure>>
+-> bronzed disarming;
+switch (vial mixed?)
+case (army copilot?)
+:restore mickey;
+case (prospector atropine?)
+:bask skulk; <<task>>
+-> velvet donating;
+case (oyez relations?)
+:located bamboozled;
+case (toaster scales?)
+:maybe doorstep; <<save>>
+endswitch
+endwhile (veteran tempted)
+-[hidden]->
+detach
+case (mishandled journey?)
+:mariners kelly; <<save>>
+-> subscriptions undressed;
+case (sororities inflating?)
+:respiratory ensemble;
+-> stressed provoked;
+case (affinity poles?)
+:blocks clinic; <<input>>
+-> cellmate brunette;
+endswitch
+:minority superb;
+stop
+@enduml

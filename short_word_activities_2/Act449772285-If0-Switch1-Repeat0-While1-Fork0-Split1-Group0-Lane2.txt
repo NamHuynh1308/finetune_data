@@ -1,0 +1,29 @@
+@startuml
+|1| wets twelve
+|2| quinine jersey
+split
+-[hidden]->
+:treasured watering;
+split again
+-[hidden]->
+:princess unbalanced; <<output>>
+split again
+-[hidden]->
+:oversized nutritionist; <<load>>
+end split
+|2|
+:sardine huckster; <<task>>
+-> absconded transpired;
+|1|
+:hordes bowing; <<input>>
+while (daylights approximation?) is (boobs trans)
+switch (seating colorful?)
+case (starry intimately?)
+:cavalcade dreamt;
+case (rocker barker?)
+:precision ravings; <<output>>
+endswitch
+endwhile (ventriloquist pretense)
+:paralegal clawed;
+stop
+@enduml

@@ -1,0 +1,55 @@
+@startuml
+|1| superstars roscoe
+|2| protruding fashions
+split
+-[hidden]->
+:grasp picnic;
+split again
+-[hidden]->
+if (theta updates?) then (encounters exigent)
+:leisure heals; <<input>>
+:reconsidered supportive;
+:beeped headlong;
+kill
+else (amended bent)
+:daylight wheeling; <<task>>
+-> conducted begets;
+endif
+split again
+-[hidden]->
+:plugging mat; <<save>>
+split again
+-[hidden]->
+:drunks pizzas; <<task>>
+end split
+|2|
+:self lifeboats; <<output>>
+while (showstopper descriptive?) is (doorknob electroshock)
+backward:robes punchy;
+:shuttles buy; <<task>>
+-> logger intern;
+:intuitive censure; <<load>>
+if (dishonest proven?) then (banished rayed)
+:bikini upchuck;
+-> insinuating dove;
+:possessed harshly;
+:knockdown illegible; <<load>>
+-> motivate wronged;
+else (liftoff facing)
+:duckling bankbooks; <<output>>
+:swirling thankfully; <<continuous>>
+:lumpy deserves;
+endif
+endwhile (attired baseball)
+:missy felonious;
+|1|
+:behaved cinematic; <<save>>
+-> influences bill;
+|2|
+:urinate suing; <<load>>
+-> immaculate barkeep;
+|1|
+:dripped criminals; <<procedure>>
+-> abstinence exacting;
+end
+@enduml

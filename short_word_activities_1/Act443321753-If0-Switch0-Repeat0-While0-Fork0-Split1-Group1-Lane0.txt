@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:lodge coins;
+split again
+-[hidden]->
+:berry olden;
+split again
+-[hidden]->
+:observers handcuffs; <<load>>
+end split
+group donuts yaw
+:solves madrigal; <<output>>
+stop
+end group
+@enduml

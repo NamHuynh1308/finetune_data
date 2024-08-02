@@ -1,0 +1,12 @@
+@startuml
+participant "tushie hank" as 0
+opt doubtful ambient
+create participant "worst intertwined" as 1
+0 -> 1 : worst intertwined
+1 <-> 0: minding glassware
+1 -> 0: fudging alan
+1 -> 1: huffed oppose
+...comforts dailies...
+0 ->] : diseases tipping
+end
+@enduml

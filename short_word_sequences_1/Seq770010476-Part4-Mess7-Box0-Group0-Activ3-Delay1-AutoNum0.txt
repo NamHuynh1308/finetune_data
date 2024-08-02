@@ -1,0 +1,18 @@
+@startuml
+participant "recheck adolescent" as 0
+participant "arraignment policing" as 1
+participant "grifters declare" as 2
+participant "reign stump" as 3
+== biographies storing ==
+3 -> 2++ : pneumonia chronology
+1 -> 0++ : ballot cowboys
+2 -// 1++ : nametag treat
+1 -// 3: sabin cowed
+ [-> 3: blemish wry
+return discussions succeed
+...sable lore...
+2 ->> 0: manipulate greatness
+2 <-> 0: polio mob
+return vitality zombies
+return rhinestones particularly
+@enduml

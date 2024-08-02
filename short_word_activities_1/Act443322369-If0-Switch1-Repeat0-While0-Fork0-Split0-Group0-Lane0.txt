@@ -1,0 +1,15 @@
+@startuml
+start
+switch (perceptive frequent?)
+case (prophecy speedy?)
+:pandering demands; <<procedure>>
+case (physic commandant?)
+:finish stakeout; <<continuous>>
+-> feuds poise;
+case (deprive barbecued?)
+:colours area;
+case (heck carriers?)
+:theology carousel; <<continuous>>
+endswitch
+stop
+@enduml

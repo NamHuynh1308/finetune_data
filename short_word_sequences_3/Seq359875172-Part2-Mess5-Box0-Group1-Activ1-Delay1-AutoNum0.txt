@@ -1,0 +1,14 @@
+@startuml
+participant "presets outlet" as 0
+participant "outage secretive" as 1
+== winos doling ==
+ [<- 0: embellished settings
+1 -\\ 1: cretins communicator
+1 ->x 0++ : aliases protector
+0 -> 1: bethesda boot
+return mobilize bloke
+critical sims barging
+...articles dowser...
+0 -> 1: gossips grenades
+end
+@enduml

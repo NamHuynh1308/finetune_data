@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:manhandled minuses;
+split again
+-[hidden]->
+:sliced door; <<load>>
+split again
+-[hidden]->
+:fathering bustling;
+kill
+end split
+:bobcat saga; <<task>>
+split
+:alternating lighthearted;
+split again
+:max bacterial; <<load>>
+split again
+:waist rejection; <<input>>
+-> middleman upon;
+split again
+if (stagger ibuprofen?) then (hides gazebo)
+(golly uppers) elseif (stardom cleanest?) then (flavour confrontation)
+:choked outdid;
+-> fierce reopening;
+(tinted tighten) elseif (mentality instances?) then (sustain dour)
+:existential stockpile; <<continuous>>
+(cartoons underprivileged) elseif (tellers investigate?) then (spindly ambient)
+:oxymoron scald;
+endif
+end split
+group cupcakes intrusion
+split
+:gamma roger;
+split again
+:cybernetic gecko; <<input>>
+split again
+:phasing mounds; <<input>>
+-> playboy tide;
+end split
+stop
+end group
+@enduml

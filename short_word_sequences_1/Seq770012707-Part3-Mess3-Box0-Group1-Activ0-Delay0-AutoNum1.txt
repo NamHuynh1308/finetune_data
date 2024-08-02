@@ -1,0 +1,13 @@
+@startuml
+participant "pumpkin gearing" as 0
+== technically precedence ==
+autonumber 8 9
+create participant "stoked scissors" as 1
+0 -> 1 : stoked scissors
+break outsiders mustard
+0 <-] : beef forests
+autonumber stop
+create participant "biscuit evolved" as 2
+1 -> 2 : biscuit evolved
+end
+@enduml

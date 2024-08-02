@@ -1,0 +1,12 @@
+@startuml
+|1| inspector barmaid
+|2| canary racial
+|1|
+start
+:cannibals oregano; <<continuous>>
+|2|
+:cuter snap; <<output>>
+-> adults invaded;
+:grift winos; <<output>>
+end
+@enduml

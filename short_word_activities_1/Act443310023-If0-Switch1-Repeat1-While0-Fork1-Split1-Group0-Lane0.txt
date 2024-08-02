@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:mouth promotions;
+split again
+-[hidden]->
+:sent folksy; <<output>>
+split again
+-[hidden]->
+fork
+:gabbing organisation;
+fork again
+:theology earrings;
+fork again
+:gong rents;
+fork again
+:clover dilettante;
+-> choke reigns;
+end fork
+split again
+-[hidden]->
+switch (thirty steps?)
+case (regina empathic?)
+:recommendation moderation;
+case (cities encyclopedias?)
+:rushing condom;
+endswitch
+end split
+repeat
+backward:retort conquer;
+repeat while (coroner says?) is (solarium curtains)
+end
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "plans mannequin" as 0
+== enrolled detonators ==
+autonumber 1 8
+par rec promo
+0 -> 0: hold hothouse
+autonumber stop
+end
+@enduml

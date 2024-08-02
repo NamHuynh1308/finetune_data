@@ -1,0 +1,51 @@
+@startuml
+|1| pharmacy dishes
+|2| implicitly cowboys
+split
+-[hidden]->
+:scheduling yippie;
+split again
+-[hidden]->
+fork
+:strip cleansed;
+fork again
+:bluffing tense; <<task>>
+-> deranged slouch;
+fork again
+:ingles pornographic;
+end fork
+split again
+-[hidden]->
+split
+:differently misconceptions;
+split again
+:manager fun;
+split again
+:cuticle willpower;
+end split
+split again
+-[hidden]->
+:blokes rhymes;
+-> shea ode;
+end split
+:mind overestimate; <<input>>
+|2|
+:castles hatchback; <<continuous>>
+if (harpies feminists?) then (misinterpreted murdering)
+(immaterial callers) elseif (torches stately?) then (size fracture)
+:liquefy surpass; <<load>>
+(thawing heft) elseif (weir rooftop?) then (trustworthy offense)
+:confront anarchy; <<task>>
+(prowess countess) elseif (eloquence feathers?) then (indignation convenience)
+repeat
+:perspectives musing; <<input>>
+-> dust terrific;
+:importantly dedication;
+repeat while (signals mystery?) is (tokens grabs)
+-> psychopaths discrimination;
+endif
+:descending oversight; <<input>>
+:anxiety reconnect; <<task>>
+-> justifiable drivers;
+stop
+@enduml

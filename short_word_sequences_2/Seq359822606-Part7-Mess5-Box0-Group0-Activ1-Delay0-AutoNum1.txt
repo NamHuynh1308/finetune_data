@@ -1,0 +1,19 @@
+@startuml
+participant "owed huskies" as 0
+participant "singed youngest" as 1
+participant "scanned tremendously" as 2
+participant "buttering perm" as 3
+participant "retrieving motions" as 4
+== constructed whim ==
+autonumber 5 3
+0 -> 3: ultimately licked
+create participant "sends timpani" as 5
+2 -> 5 : sends timpani
+autonumber stop
+0 -\\ 0: lifeline curl
+2 <-> 2++ : juicy bod
+create participant "hygienist estimates" as 6
+5 -> 6 : hygienist estimates
+autonumber resume
+return breathing forgetful
+@enduml

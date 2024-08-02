@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:possible cigar;
+split again
+-[hidden]->
+if (prouder geology?) then (wealthiest reporter)
+:knocking confusion;
+-> inland binder;
+:contented hornet;
+else (schizophrenic spooky)
+:glazed clothed;
+while (leisurely duchess?) is (fizzle poppers)
+backward:knowledge political;
+:mercy bottomless;
+:elevate hap;
+endwhile (hardy reacting)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+fork
+:goopy hinting;
+fork again
+:receiving stupidly; <<save>>
+fork again
+:respects nourishment; <<task>>
+-> coax educational;
+fork again
+:dues rumba; <<output>>
+end fork
+end split
+group tactile arsonist
+:shifter turkeys; <<input>>
+group toenail contemplate
+:canter hoop;
+stop
+end group
+end group
+@enduml

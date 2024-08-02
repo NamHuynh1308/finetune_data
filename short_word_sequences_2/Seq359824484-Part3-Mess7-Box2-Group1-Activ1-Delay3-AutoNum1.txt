@@ -1,0 +1,29 @@
+@startuml
+participant "impulse compass" as 0
+box "zone freezer"
+participant "telly farewells" as 1
+box "eulogy shortcut"
+participant "progresses nose" as 2
+end box
+end box
+autonumber 4 3
+2 <-] : persuasion occupied
+alt sword lords
+0 -> 2: stud savages
+autonumber stop
+2 ->] : cyclotron viewers
+else cruising constraints
+...resort moved...
+0 ->x 2++ : sociable unblemished
+autonumber resume
+else bot foolhardy
+...tampering mission...
+0 -> 1: improperly filthy
+autonumber stop
+...gems pithy...
+0 <-> 2: plaster blossomed
+return absolutes intimate
+end
+1 -->x 1: sexuality peach
+autonumber resume
+@enduml

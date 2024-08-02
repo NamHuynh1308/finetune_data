@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:overstep dailies;
+split again
+-[hidden]->
+:schooling millet;
+split again
+-[hidden]->
+fork
+:wetter checked;
+fork again
+:glint overstayed; <<save>>
+-> ceremonies speller;
+fork again
+:amuse requisite; <<save>>
+end fork
+end split
+:crawly approaching; <<load>>
+group unattended peckers
+:achieve mural; <<load>>
+stop
+end group
+@enduml

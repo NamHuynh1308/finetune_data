@@ -1,0 +1,9 @@
+@startuml
+start
+group viva hog
+:friction goodie; <<procedure>>
+:regularity grape; <<output>>
+-> shine goggle;
+end group
+end
+@enduml

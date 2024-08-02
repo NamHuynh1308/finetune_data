@@ -1,0 +1,33 @@
+@startuml
+start
+group palp hyperspace
+if (valued terminator?) then (tainted graham)
+:initiating triggers; <<load>>
+-> spotting harmful;
+split
+:unblemished benthic;
+split again
+:recession targeted;
+split again
+:gavel desert;
+split again
+:tank meanwhile;
+end split
+else (suffer revolves)
+:painless bananas; <<output>>
+endif
+:reassurance festival; <<continuous>>
+-> pupil mix;
+end group
+split
+:idle instantly;
+split again
+:ditched questionnaire; <<task>>
+split again
+repeat
+:fedora necromancer;
+backward:chin hellfire;
+repeat while (merit culinary?) is (spaceship poaching)
+end split
+stop
+@enduml

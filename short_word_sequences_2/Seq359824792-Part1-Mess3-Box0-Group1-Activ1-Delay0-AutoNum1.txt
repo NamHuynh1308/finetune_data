@@ -1,0 +1,11 @@
+@startuml
+participant "dock team" as 0
+autonumber 2 1
+loop whipped hustler
+0 --//o 0++ : bugger disease
+0 <-> 0: yell talkie
+return dominion altar
+autonumber stop
+end
+0 ->x 0: temptation cracks
+@enduml

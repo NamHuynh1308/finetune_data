@@ -1,0 +1,8 @@
+@startuml
+start
+group maintaining trigger
+:spinal reinvented; <<input>>
+:stalks boomerang; <<procedure>>
+end group
+stop
+@enduml

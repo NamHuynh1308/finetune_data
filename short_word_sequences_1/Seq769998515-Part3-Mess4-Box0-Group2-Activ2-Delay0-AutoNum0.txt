@@ -1,0 +1,15 @@
+@startuml
+participant "know kingpin" as 0
+participant "norther quit" as 1
+0 --//o 0++ : chilly flicking
+loop provided pacemaker
+create participant "torture tolerant" as 2
+0 -> 2 : torture tolerant
+return pack costa
+1 ->> 2++ : lacy roasts
+opt solitary tweaking
+ [-> 2: thesaurus blameless
+end
+end
+return mites elevation
+@enduml

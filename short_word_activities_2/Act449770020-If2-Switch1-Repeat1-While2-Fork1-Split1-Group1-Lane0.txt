@@ -1,0 +1,62 @@
+@startuml
+start
+:land bending; <<save>>
+split
+:life butted;
+split again
+:dwell escorted;
+-> bleachers hostage;
+split again
+switch (softer puree?)
+case (symbol tinkering?)
+:cryptic replay;
+case (gatehouse pity?)
+:wreaked philosophy;
+endswitch
+split again
+:convened bravado; <<procedure>>
+-> duce undress;
+end split
+group tiny wiggles
+if (inroads masterpiece?) then (inherited clause)
+:gimp re; <<input>>
+:churn middle; <<load>>
+:manifesting vulnerability; <<load>>
+else (boned newcomer)
+while (classified polio?) is (satire torches)
+backward:recreational hour;
+backward:dopamine electrolyte;
+endwhile (sauerkraut aides)
+:fingered lefty;
+if (uninteresting beaver?) then (groin photographer)
+(plump maneuvering) elseif (education volume?) then (sanctuary problem)
+:stewed museum;
+(swooped contusion) elseif (neighbours stoney?) then (choosing sabotage)
+:persist produces; <<load>>
+endif
+while (inhaling juggling?) is (parable heaving)
+repeat
+:apostrophe strutting;
+:smog gore;
+repeat while (tory reading?) is (fighter hounding)
+-> rounded feud;
+fork
+:severe earring;
+fork again
+:requiring happy;
+fork again
+:large frat; <<output>>
+-> venue internal;
+fork again
+:prep riley;
+end merge
+:unlovable starship; <<procedure>>
+-> yah princesses;
+backward:mensa creamer;
+endwhile (heartbreaker torturous)
+-[hidden]->
+detach
+endif
+stop
+end group
+@enduml

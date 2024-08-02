@@ -1,0 +1,17 @@
+@startuml
+participant "pagers pyre" as 0
+box "megaphone allowance"
+participant "nightingale loosen" as 1
+participant "bossed mittens" as 2
+end box
+0 --//o 1: jasmine transformation
+1 ->o 2: gutter duvet
+2 ->x 2: destined shalt
+create participant "unavailable intervene" as 3
+2 -> 3 : unavailable intervene
+opt creates spokesman
+3 ->o 1: consolidate psychosis
+2 --> 0: hoping blended
+else exploration premier
+end
+@enduml

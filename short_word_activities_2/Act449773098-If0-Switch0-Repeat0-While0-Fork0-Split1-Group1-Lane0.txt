@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:gibson pledging;
+split again
+-[hidden]->
+:briskly marginal; <<procedure>>
+split again
+-[hidden]->
+:domestic crud;
+kill
+end split
+group lashes ted
+:history slow; <<procedure>>
+stop
+end group
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+start
+group actress enzyme
+if (soldiers drinker?) then (concentrating almond)
+split
+:bigger finch;
+split again
+:reveal colleen;
+split again
+:submit saturated;
+split again
+:whisked boutonniere; <<save>>
+end split
+:punchy chasing; <<save>>
+else (schematics white)
+:among harmless; <<input>>
+-> nurtured jones;
+repeat
+:booked activated;
+repeat while (researchers poker?) is (entrepreneur road)
+-> archeology contraceptives;
+kill
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:knife cardinal;
+split again
+-[hidden]->
+:beetle knight;
+split again
+-[hidden]->
+while (gray icon?) is (chatty funeral)
+backward:messed morris;
+endwhile (interrogate bowing)
+:cruised bastards;
+end split
+group still contract
+:skipper howling;
+stop
+end group
+@enduml

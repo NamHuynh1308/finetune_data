@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:housing leeches;
+split again
+-[hidden]->
+:shouted winks; <<load>>
+split again
+-[hidden]->
+switch (brushes huffy?)
+case (audited symptom?)
+:sunscreen dominion; <<task>>
+-> anatomically pretzels;
+case (pantheon convinced?)
+:abba amuses;
+-> fro salvaging;
+case (eloping thusly?)
+:beard search; <<task>>
+case (deserts needs?)
+:unspoken wheeze; <<continuous>>
+endswitch
+end split
+:dusted nickname; <<task>>
+:nostril midge; <<save>>
+end
+@enduml

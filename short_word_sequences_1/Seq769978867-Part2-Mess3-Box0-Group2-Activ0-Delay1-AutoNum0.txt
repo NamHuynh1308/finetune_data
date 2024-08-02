@@ -1,0 +1,12 @@
+@startuml
+participant "motels scattering" as 0
+create participant "thirsty stamps" as 1
+0 -> 1 : thirsty stamps
+loop library dot
+...kooky ratting...
+0 ->> 1: exhibit endearing
+loop metric resetting
+0 -> 1!! : cooked witch
+end
+end
+@enduml

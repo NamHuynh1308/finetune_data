@@ -1,0 +1,7 @@
+@startuml
+start
+group sale transmit
+:specializing curry; <<input>>
+stop
+end group
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "judged disorienting" as 0
+autonumber 2 2
+0 <-> 0: convenience sturgeon
+alt freshman extend
+0 ->x 0: tow couch
+create participant "misuse comforts" as 1
+0 -> 1 : misuse comforts
+end
+@enduml

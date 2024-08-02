@@ -1,0 +1,7 @@
+@startuml
+participant "gourd motorcycle" as 0
+== introduce synch ==
+autonumber 10 6
+0 <-] : vine jake
+autonumber stop
+@enduml

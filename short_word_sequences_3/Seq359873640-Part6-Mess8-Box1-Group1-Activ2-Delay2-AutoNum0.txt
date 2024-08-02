@@ -1,0 +1,25 @@
+@startuml
+participant "referendums penicillin" as 0
+participant "had extracting" as 1
+participant "succumb mouthpiece" as 2
+box "red angels"
+participant "minnow dreading" as 3
+participant "mae crunched" as 4
+end box
+4 -->x 1: basketball saying
+...lurking worming...
+ [<- 0: tickles martini
+create participant "coin visited" as 5
+4 -> 5 : coin visited
+2 -->x 0: gusto distorted
+...beefs earlobe...
+3 ->o 3: acknowledge concerts
+3 -->x 2++ : demographics defected
+critical fang administrative
+1 <-> 5++ : creature overhear
+ [-> 0: comforts regimes
+else cocktails eggs
+end
+return unique misplaced
+return volts tracks
+@enduml

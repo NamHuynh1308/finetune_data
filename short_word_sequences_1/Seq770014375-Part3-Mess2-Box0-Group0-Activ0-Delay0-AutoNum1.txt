@@ -1,0 +1,9 @@
+@startuml
+participant "header baptism" as 0
+participant "precautions odd" as 1
+autonumber 9 9
+0 -> 1: smuggle decorative
+create participant "nan coughing" as 2
+1 -> 2 : nan coughing
+autonumber stop
+@enduml

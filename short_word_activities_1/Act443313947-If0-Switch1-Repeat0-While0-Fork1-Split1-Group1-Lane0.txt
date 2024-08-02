@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:pedestal equal;
+split again
+-[hidden]->
+:guacamole sections;
+split again
+-[hidden]->
+fork
+:ems bailing;
+fork again
+:cloud seminary;
+fork again
+:midnight agin; <<continuous>>
+-> role cobbler;
+end merge
+split again
+-[hidden]->
+switch (incessantly condominium?)
+case (partnered pleads?)
+:frightening stoolie; <<procedure>>
+case (plagued rebuilding?)
+:absorption ooze;
+case (vandalized sterilized?)
+:cachet goodly;
+endswitch
+end split
+:assignment selflessness; <<load>>
+-> handbags liners;
+group influx inhabitants
+:shaft requiring;
+stop
+end group
+@enduml

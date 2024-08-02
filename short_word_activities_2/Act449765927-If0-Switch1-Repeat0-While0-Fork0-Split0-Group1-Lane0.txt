@@ -1,0 +1,12 @@
+@startuml
+group screamed sniffing
+switch (occupant colon?)
+case (overlooking pirates?)
+:notation tidying;
+case (foggiest mercer?)
+:within blurt;
+-> columns ratings;
+endswitch
+stop
+end group
+@enduml

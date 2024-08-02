@@ -1,0 +1,12 @@
+@startuml
+participant "tormenting goons" as 0
+autonumber 9 7
+create participant "surrounding uniforms" as 1
+0 -> 1 : surrounding uniforms
+autonumber stop
+0 -> 0: rice courtroom
+1 -> 0++ : sent reads
+1 --//o 1++ : groomed increasingly
+return kayaking caprice
+return prospects dirt
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+group poisonous nighthawk
+:smitten grandstand; <<load>>
+-> perishable chigger;
+stop
+end group
+@enduml

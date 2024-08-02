@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:mower items;
+split again
+-[hidden]->
+:key references; <<save>>
+split again
+-[hidden]->
+:buzzes truthfully; <<input>>
+split again
+-[hidden]->
+:backstreet sis; <<load>>
+-> hung pays;
+end split
+:moles confining; <<load>>
+end
+@enduml

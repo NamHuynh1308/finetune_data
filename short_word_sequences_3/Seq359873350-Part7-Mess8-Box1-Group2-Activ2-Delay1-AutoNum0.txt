@@ -1,0 +1,27 @@
+@startuml
+participant "fragrance advancements" as 0
+box "mothballs foothold"
+participant "blacking berlin" as 1
+participant "requiring shortcake" as 2
+participant "suntan twits" as 3
+participant "not silk" as 4
+end box
+alt portal roles
+3 -> 3: nuptials genetic
+...keyhole thou...
+ [<- 2: knee flips
+0 <-] : meringue detachment
+else ravings chaplain
+2 -> 2++ : alluring squatter
+create participant "rewarded mouths" as 5
+2 -> 5 : rewarded mouths
+return eyesight assembling
+create participant "bunt majority" as 6
+2 -> 6 : bunt majority
+2 -->x 4++ : shattering telescope
+end
+alt counterproductive panic
+ [<- 3: glaucoma mingle
+end
+return criminally aerosol
+@enduml

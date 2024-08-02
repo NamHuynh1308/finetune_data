@@ -1,0 +1,14 @@
+@startuml
+participant "creep hills" as 0
+== busiest impounded ==
+0 -\\ 0: tantrums pitiful
+0 <-] : meetings boggle
+...necking espressos...
+0 ->] : repairs terrorist
+par extinguish brew
+0 -\\ 0: planted flagged
+loop swami farmers
+0 -->x 0: carpeting spontaneously
+end
+end
+@enduml

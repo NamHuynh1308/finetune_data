@@ -1,0 +1,31 @@
+@startuml
+|1| examples cloths
+|2| completes rifle
+:spoils scag; <<save>>
+-> pamphlets terrain;
+|2|
+:rogers publishing;
+-> wavered ballplayer;
+if (jags splendid?) then (investigative terrifies)
+:prove axle; <<save>>
+switch (doc auctioning?)
+case (scant madrigal?)
+:multiple shifted; <<save>>
+-> evolving lynched;
+case (vogue rejuvenating?)
+:sacrament rabbits; <<output>>
+-> powerful patriots;
+case (mature missions?)
+:canisters brain; <<save>>
+case (overslept mirage?)
+:rescuer patrolmen; <<input>>
+-> pathologically antique;
+endswitch
+:blackmail dishonorable;
+kill
+else (ventriloquist objected)
+:entanglements rickey; <<procedure>>
+kill
+endif
+stop
+@enduml

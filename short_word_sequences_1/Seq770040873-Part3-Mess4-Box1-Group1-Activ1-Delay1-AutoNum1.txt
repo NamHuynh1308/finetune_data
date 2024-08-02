@@ -1,0 +1,17 @@
+@startuml
+box "voice heartbeats"
+participant "toll upscale" as 0
+participant "unleash ironclad" as 1
+end box
+autonumber 10 8
+create participant "begat management" as 2
+0 -> 2 : begat management
+break charred committees
+...imitating chases...
+2 -\\ 1: rednecks rowing
+1 ->> 1: complain delirium
+1 -> 2++ : clapping bathtub
+else surfaced garland
+end
+return heave licker
+@enduml

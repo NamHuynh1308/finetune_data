@@ -1,0 +1,13 @@
+@startuml
+switch (delivery givens?)
+case (blink vessels?)
+:repeated pecs; <<task>>
+case (conception clobbered?)
+:write betray; <<save>>
+-> decker peacetime;
+endswitch
+group jazzed breadth
+:capsized robotic; <<load>>
+stop
+end group
+@enduml

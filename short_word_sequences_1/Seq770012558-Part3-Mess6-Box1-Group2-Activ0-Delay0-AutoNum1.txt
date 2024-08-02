@@ -1,0 +1,19 @@
+@startuml
+participant "potty glazed" as 0
+participant "horseman clumsiness" as 1
+box "extort preppy"
+participant "payroll remake" as 2
+end box
+autonumber 0 2
+ [<- 2: aurora certainties
+2 -->x 2: ifs uncomfortable
+1 -> 1: trustee lent
+opt hideaway staking
+1 -// 0: unmanned therapists
+autonumber stop
+alt antics endanger
+0 -->x 1: equinox showroom
+1 ->x 1: stark starts
+end
+end
+@enduml

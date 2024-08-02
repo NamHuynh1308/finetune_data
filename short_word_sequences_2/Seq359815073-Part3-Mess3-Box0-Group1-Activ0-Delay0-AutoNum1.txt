@@ -1,0 +1,15 @@
+@startuml
+participant "decide forties" as 0
+participant "moustache reelection" as 1
+participant "challenge halves" as 2
+autonumber 3 4
+loop conquering neighbour
+1 -> 0!! : cautious confronting
+autonumber stop
+0 --//o 0: headpiece lin
+autonumber resume
+else reorganizing maim
+0 -> 2: economic bagels
+else credible belvedere
+end
+@enduml

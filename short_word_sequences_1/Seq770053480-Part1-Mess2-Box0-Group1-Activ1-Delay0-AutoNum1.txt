@@ -1,0 +1,9 @@
+@startuml
+participant "baiting meaningful" as 0
+autonumber 0 5
+0 -> 0++ : pressing implies
+alt pessimist dunk
+0 -// 0: absolutes failings
+return later petals
+end
+@enduml

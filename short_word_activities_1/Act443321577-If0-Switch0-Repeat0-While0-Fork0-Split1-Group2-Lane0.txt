@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:enamored fortuneteller;
+split again
+-[hidden]->
+:disrespecting fleas; <<load>>
+split again
+-[hidden]->
+:dominion sedan; <<load>>
+-> grandbaby venture;
+end split
+group rainier trio
+:healer conquer; <<procedure>>
+group pleasing janitor
+:tanks guys; <<input>>
+-> perturbed disrupt;
+stop
+end group
+end group
+@enduml

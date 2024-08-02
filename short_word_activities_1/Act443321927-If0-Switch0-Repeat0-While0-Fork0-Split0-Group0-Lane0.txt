@@ -1,0 +1,5 @@
+@startuml
+:stutter riverbank; <<continuous>>
+-> range dotty;
+stop
+@enduml

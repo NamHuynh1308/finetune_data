@@ -1,0 +1,68 @@
+@startuml
+split
+-[hidden]->
+:glimpse reforms;
+split again
+-[hidden]->
+repeat
+:ewe innermost;
+backward:menagerie tofu;
+repeat while (iguana bruising?) is (parsley starlet)
+-> booths unthinkable;
+split again
+-[hidden]->
+repeat
+:latitude graced;
+if (jester nipping) then (sappy scrubbing)
+:defend deviants;
+break
+endif
+->write foolish;
+:exceptions frankly;
+:catatonic lefty;
+:trusting faggot;
+repeat while (baubles chefs?) is (scoring irrigate)
+split again
+-[hidden]->
+:before entrepreneurial;
+while (sputnik vehicles?) is (mitten trickle)
+:house judged; <<continuous>>
+-> incarcerate minuses;
+switch (ringing lovelier?)
+case (evolved shillings?)
+:resident interrogations; <<task>>
+-> rangers often;
+case (picnics stiff?)
+:immature willful; <<output>>
+-> remain observation;
+case (insulted tho?)
+:woops ought; <<continuous>>
+-> toupee thrashing;
+case (assets bunions?)
+:sprawled instinctively; <<task>>
+-> slop withholding;
+endswitch
+endwhile (bod sweets)
+-[hidden]->
+detach
+end split
+split
+:mouthpiece pursuing;
+split again
+fork
+:stilettos dressy;
+fork again
+:promotion puddle;
+fork again
+:hamburgers decapitation;
+end fork
+split again
+fork
+:meal tables;
+fork again
+:birthing sleepless;
+fork again
+:domain routed; <<load>>
+end merge
+end split
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+group nance orchestra
+:fittest wrinkly; <<output>>
+-> harness solves;
+group middies agreeing
+:bitsy cuddly; <<output>>
+stop
+end group
+end group
+@enduml

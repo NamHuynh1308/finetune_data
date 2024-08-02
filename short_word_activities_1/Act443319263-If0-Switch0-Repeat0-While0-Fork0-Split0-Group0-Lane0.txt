@@ -1,0 +1,5 @@
+@startuml
+start
+:cow banging; <<input>>
+stop
+@enduml

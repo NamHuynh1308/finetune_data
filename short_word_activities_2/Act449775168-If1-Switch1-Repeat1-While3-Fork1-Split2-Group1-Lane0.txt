@@ -1,0 +1,73 @@
+@startuml
+split
+-[hidden]->
+:ignore cameras;
+split again
+-[hidden]->
+:modem coincidences; <<save>>
+split again
+-[hidden]->
+split
+:kicking wording;
+split again
+:most merger;
+while (mortals dollhouse?) is (corrective panda)
+:delayed brisket;
+:peddler recharge;
+endwhile (battles stuffing)
+-[hidden]->
+detach
+split again
+:zephyrs privately;
+end split
+split again
+-[hidden]->
+:cat ate; <<output>>
+end split
+group bowel toothbrush
+switch (flared missionaries?)
+case (horn lapping?)
+:enhancements bloated;
+while (passer davenport?) is (designer bulldoze)
+repeat
+backward:ventriloquist spice;
+repeat while (spooky questioning?) is (devoured trivial)
+endwhile (graphic visceral)
+-[hidden]->
+detach
+case (sets sizable?)
+fork
+:tacos incentives;
+fork again
+:freaked princess; <<procedure>>
+fork again
+:physical unreliable; <<output>>
+fork again
+:deposits tenets;
+end merge
+case (position curlers?)
+if (drinking labels?) then (overwhelmed urgent)
+(blend alliance) elseif (repugnant diesel?) then (untied handbook)
+:mismatched dandruff; <<input>>
+(washrooms rehearsals) elseif (infomercial killed?) then (teaches means)
+:instructor rotates; <<load>>
+-> imaginations debrief;
+(monte incapacitate) elseif (sexier chainsaws?) then (puzzling exists)
+:aphrtx;
+while (academic shrimp?) is (kudos listing)
+:iguana escaped; <<load>>
+:thorn recognizance;
+:cook surfboard; <<procedure>>
+-> sanctimonious polarity;
+endwhile (brief possibly)
+-[hidden]->
+detach
+endif
+case (unmistakable results?)
+:meanie backside; <<load>>
+endswitch
+:reassign wallowing; <<load>>
+-> interrupting retake;
+stop
+end group
+@enduml

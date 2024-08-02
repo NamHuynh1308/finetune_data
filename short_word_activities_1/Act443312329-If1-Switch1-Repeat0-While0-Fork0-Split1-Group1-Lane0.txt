@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:affecting submitting;
+split again
+-[hidden]->
+:participated embarrass; <<output>>
+split again
+-[hidden]->
+:whittling booked;
+-> morgan diets;
+split again
+-[hidden]->
+:unstable lab;
+end split
+:loath undeserving;
+-> asks undeniably;
+:crook festival; <<task>>
+group rut leadership
+switch (showgirl fighters?)
+case (condoms cheque?)
+:reactionary prototypes;
+case (returns production?)
+:knockoff fox; <<load>>
+case (soiled heading?)
+if (ascension seating?) then (polishing prosthetic)
+:assimilated papa;
+kill
+else (benjamins ampule)
+:opening activated; <<output>>
+:filmmakers flaunting; <<load>>
+-> kane haste;
+:ticker others;
+kill
+endif
+endswitch
+stop
+end group
+@enduml

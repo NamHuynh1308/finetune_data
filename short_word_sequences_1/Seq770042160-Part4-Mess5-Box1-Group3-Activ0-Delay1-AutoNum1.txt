@@ -1,0 +1,25 @@
+@startuml
+participant "solace builds" as 0
+participant "ambush chameleon" as 1
+box "bounty commiserate"
+participant "indicated warden" as 2
+end box
+== casket construction ==
+autonumber 5 4
+critical carburetor amaze
+ [<- 1: havoc simpleton
+autonumber stop
+1 <-] : vibrant infallible
+autonumber resume
+else thirty village
+opt contributions splinters
+2 <-> 0: cap margarita
+loop figuring urologist
+...enrich shall...
+0 -> 0: arguing award
+create participant "fumble credit" as 3
+2 -> 3 : fumble credit
+end
+end
+end
+@enduml

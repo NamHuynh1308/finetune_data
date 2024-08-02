@@ -1,0 +1,5 @@
+@startuml
+participant "exhibit levity" as 0
+autonumber 3 10
+0 -> 0: rash hemoglobin
+@enduml

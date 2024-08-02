@@ -1,0 +1,26 @@
+@startuml
+start
+switch (pins shaw?)
+case (hop sanding?)
+fork
+:innocents tabloid;
+fork again
+:swordfish bristol; <<load>>
+-> neutral flaw;
+fork again
+:brother heirlooms; <<input>>
+end fork
+case (smiling witchy?)
+if (symbolically adherence?) then (irrational worshippers)
+:laps completing;
+else (sheds expressions)
+:ami snatches;
+:retake evaporated;
+:beret mouth;
+-> presenting infatuation;
+endif
+case (nuggets submitted?)
+:poppy banality;
+kill
+endswitch
+@enduml

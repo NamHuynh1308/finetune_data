@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:enrich lifeguard;
+split again
+-[hidden]->
+:blockade well; <<procedure>>
+split again
+-[hidden]->
+:quarters figurehead; <<continuous>>
+-> freed croupier;
+split again
+-[hidden]->
+while (said tremendously?) is (presentable unreliable)
+:cuticle cuffs;
+:automatic inquisition;
+:reflecting chumps;
+:munchkin attache; <<load>>
+endwhile (everyday chutes)
+:thickening brill;
+end split
+:riverside bestseller;
+-> attendance dispense;
+@enduml

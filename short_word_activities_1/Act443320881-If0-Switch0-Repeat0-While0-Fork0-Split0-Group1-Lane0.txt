@@ -1,0 +1,8 @@
+@startuml
+start
+group alliance hogging
+:weights done; <<task>>
+-> benefits coon;
+stop
+end group
+@enduml

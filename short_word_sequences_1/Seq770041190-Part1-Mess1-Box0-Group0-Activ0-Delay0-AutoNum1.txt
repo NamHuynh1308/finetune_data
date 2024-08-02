@@ -1,0 +1,6 @@
+@startuml
+participant "kindling injector" as 0
+autonumber 10 7
+0 <-] : nuclear grandkid
+autonumber stop
+@enduml

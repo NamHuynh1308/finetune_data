@@ -1,0 +1,58 @@
+@startuml
+split
+-[hidden]->
+:mercenaries installed;
+split again
+-[hidden]->
+split
+:arch confirming;
+split again
+:prince warner;
+split again
+:skid consort;
+end split
+split again
+-[hidden]->
+:dictation surprises;
+end split
+:flows neck;
+:synchronicity hob;
+-> rougher rain;
+if (reservation mystic?) then (wear pathological)
+split
+:amusement affect;
+split again
+:grander dropping; <<save>>
+split again
+:piecing poise;
+end split
+:erased handkerchief; <<save>>
+fork
+:stewardess availability;
+fork again
+:damsels insurance; <<output>>
+-> matchmaker more;
+fork again
+:negotiations parfait; <<output>>
+-> plunge splash;
+end fork
+else (pad drums)
+:surging splurge; <<task>>
+-> blotchy grenade;
+if (timers immobilize?) then (finishing championship)
+(research fuckers) elseif (owning helper?) then (cartel rhetorical)
+:yehpfo;
+kill
+(mopes debates) elseif (preppy ginseng?) then (chapped gifted)
+:me degenerate;
+endif
+while (soviets bankroll?) is (rumble notebook)
+backward:simony burp;
+:spots hexes;
+-> tequila beloved;
+endwhile (fenders loom)
+-[hidden]->
+detach
+endif
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+:arrangement bees;
+group automatic hansom
+:principal materialized;
+group annual gained
+:projectile aboveboard; <<procedure>>
+-> prints whiny;
+stop
+end group
+end group
+@enduml

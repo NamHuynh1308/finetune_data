@@ -1,0 +1,7 @@
+@startuml
+group concussions garb
+:prioritizing intellectual;
+:stakeout salute; <<continuous>>
+end group
+stop
+@enduml

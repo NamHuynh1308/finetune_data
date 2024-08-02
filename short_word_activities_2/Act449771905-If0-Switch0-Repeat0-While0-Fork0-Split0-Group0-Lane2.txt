@@ -1,0 +1,18 @@
+@startuml
+|1| goblet glory
+|2| lash sprawled
+|1|
+start
+|2|
+:vow celebrated; <<task>>
+|1|
+:crazy mixup; <<save>>
+-> cap buffoon;
+:clutches pajama; <<input>>
+|2|
+:illogical visual;
+-> usable varsity;
+|1|
+:virtual monger; <<input>>
+end
+@enduml

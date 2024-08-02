@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:lacks uniformity;
+split again
+-[hidden]->
+:dispensing tolerate; <<load>>
+split again
+-[hidden]->
+:confusing ess;
+-> lighthouse drifted;
+split again
+-[hidden]->
+:tiresome vogue; <<save>>
+-> curses pled;
+end split
+group broiler seized
+switch (plain overbite?)
+case (documentary bathrobes?)
+:extinguisher snicker; <<load>>
+-> stockbrokers statehood;
+case (infiltrated piggy?)
+if (smiling swizzle?) then (canvas tries)
+:chimp undermine;
+-> soot post;
+:freezing defeat;
+:butterball bribed; <<input>>
+else (perpetual textbooks)
+:telekinesis harmful;
+:relations catheter; <<continuous>>
+-> nude restorative;
+:preserver elected;
+endif
+case (persistence compare?)
+switch (produces lick?)
+case (joker roto?)
+:serge immaculate; <<load>>
+-> neutered recurring;
+case (honk apprehensive?)
+:brighter cave; <<load>>
+endswitch
+case (expression igloo?)
+switch (preface collectors?)
+case (ordeal ai?)
+:psychotic cuppa;
+-> homegrown traces;
+case (possibilities gunshots?)
+:patch athletic; <<output>>
+endswitch
+endswitch
+group gut impale
+:patrolled bought; <<output>>
+stop
+end group
+end group
+@enduml

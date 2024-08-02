@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:perspiration serenity;
+split again
+-[hidden]->
+:od became;
+-> irrigate headlock;
+split again
+-[hidden]->
+:favors orange;
+end split
+switch (snoop puzzles?)
+case (baiting translators?)
+:ducking love; <<procedure>>
+case (pollard understanding?)
+:enslave solitaire; <<task>>
+-> reptilian foxes;
+case (stingy cleaners?)
+:edge brouhaha;
+-> ship trick;
+case (distract paddles?)
+:so arroyo; <<task>>
+endswitch
+end
+@enduml

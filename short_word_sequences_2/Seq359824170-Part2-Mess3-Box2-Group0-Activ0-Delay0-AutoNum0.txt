@@ -1,0 +1,11 @@
+@startuml
+box "adored autopsies"
+participant "compensated explaining" as 0
+box "swindled untouched"
+participant "advised multiple" as 1
+end box
+end box
+1 ->> 0: croon shove
+1 -> 1!! : temperature getter
+1 -// 0: observers shocks
+@enduml

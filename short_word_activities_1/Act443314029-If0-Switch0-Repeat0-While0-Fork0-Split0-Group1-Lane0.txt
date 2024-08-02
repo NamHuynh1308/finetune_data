@@ -1,0 +1,7 @@
+@startuml
+start
+group firecrackers creativity
+:slipped grounded; <<input>>
+stop
+end group
+@enduml

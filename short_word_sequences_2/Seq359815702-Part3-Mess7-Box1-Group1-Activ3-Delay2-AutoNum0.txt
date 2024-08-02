@@ -1,0 +1,21 @@
+@startuml
+participant "louder sideboard" as 0
+box "expectancy stranglehold"
+participant "bookmark claiming" as 1
+participant "claimed wear" as 2
+end box
+1 <-> 0++ : disapproved undermine
+...casing resorted...
+1 -\\ 1: supposition yipe
+2 -> 1!! : looney harass
+return snubbed fundamentalist
+0 -\\ 2++ : yet brightly
+loop plays restrain
+...puzzling salient...
+0 -> 0: mercer arbor
+0 ->] : transponder smokers
+0 ->> 2++ : cellular elixir
+end
+return johns perfume
+return virile agitators
+@enduml

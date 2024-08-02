@@ -1,0 +1,28 @@
+@startuml
+participant "soldier lost" as 0
+participant "unethical flier" as 1
+participant "booster penalized" as 2
+participant "sapphires tangled" as 3
+participant "cracked lapping" as 4
+autonumber 9 5
+1 ->x 1: overkill salvation
+ [<- 1: instrument manners
+autonumber stop
+1 -->x 2: lamb massaging
+autonumber resume
+1 ->> 2: loos falafel
+critical disrespectful occurrence
+...either salsa...
+4 -> 0++ : drumstick habits
+loop bandit stang
+0 -> 3: removes aprons
+autonumber stop
+1 ->o 2: pilar punk
+return vending reading
+end
+4 -> 2++ : unravel abandoning
+autonumber resume
+2 ->> 1: shyness spades
+return goofy attorneys
+end
+@enduml

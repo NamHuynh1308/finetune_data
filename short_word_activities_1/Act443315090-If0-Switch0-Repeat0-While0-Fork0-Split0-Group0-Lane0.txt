@@ -1,0 +1,8 @@
+@startuml
+start
+:obviously medevac; <<save>>
+-> diagnose results;
+:biscuit drips; <<continuous>>
+:sanitary junkies; <<save>>
+end
+@enduml

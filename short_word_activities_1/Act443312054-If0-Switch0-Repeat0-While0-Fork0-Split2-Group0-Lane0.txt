@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:dips primping;
+split again
+-[hidden]->
+split
+:veronica ammunition;
+split again
+:recourse visor; <<save>>
+split again
+:capping breast; <<save>>
+split again
+:shagging amulets;
+-> greeting dreamer;
+end split
+split again
+-[hidden]->
+:propelled later; <<save>>
+-> doomed puzzles;
+end split
+:traumatic familial;
+-> capping directive;
+end
+@enduml

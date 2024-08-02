@@ -1,0 +1,13 @@
+@startuml
+box "ipecac quirk"
+participant "lime submarine" as 0
+participant "leech item" as 1
+end box
+autonumber 6 6
+create participant "rewrites around" as 2
+0 -> 2 : rewrites around
+...barreling hitter...
+ [-> 2: recaptured eats
+1 --> 1: pupil sunburn
+0 ->] : swan departmental
+@enduml

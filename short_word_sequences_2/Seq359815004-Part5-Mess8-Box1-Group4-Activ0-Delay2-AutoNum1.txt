@@ -1,0 +1,32 @@
+@startuml
+box "presided sourpuss"
+participant "wiggly samurai" as 0
+participant "eagles flexibility" as 1
+participant "eventful point" as 2
+end box
+participant "sworn lag" as 3
+== traditionally giddyup ==
+autonumber 2 7
+create participant "boiled calories" as 4
+1 -> 4 : boiled calories
+par dealership thinners
+...cutesy hairy...
+4 -> 3: explains goobers
+autonumber stop
+1 ->x 2: quaker manipulations
+autonumber resume
+4 ->x 1: emulating restricted
+end
+par prohibition stats
+0 -> 2!! : relatives policing
+3 -> 4: doubts slayer
+else wealthiest exchange
+opt factions squat
+2 -> 3: vase backhand
+loop rumored fanciful
+...exodus indecision...
+1 ->x 4: tacos appliance
+end
+end
+end
+@enduml

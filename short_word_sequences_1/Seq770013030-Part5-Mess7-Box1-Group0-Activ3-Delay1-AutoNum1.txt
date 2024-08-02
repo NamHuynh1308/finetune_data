@@ -1,0 +1,27 @@
+@startuml
+participant "backstage overgrown" as 0
+box "repercussions referencing"
+participant "firstly diagnosed" as 1
+participant "evacuation larceny" as 2
+participant "accusation mac" as 3
+end box
+== rouse bags ==
+autonumber 8 3
+1 -> 2++ : alluding sparrow
+3 -> 0: lessons president
+return crossbow entrusted
+autonumber stop
+1 -> 1++ : fez charmingly
+autonumber resume
+2 ->x 0++ : selfishly malaria
+autonumber stop
+create participant "nightfall beak" as 4
+1 -> 4 : nightfall beak
+0 -> 3: overcome clarification
+autonumber resume
+...exciting swerve...
+2 -> 1!! : agitated others
+return positions jews
+autonumber stop
+return captured dew
+@enduml

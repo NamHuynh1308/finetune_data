@@ -1,0 +1,10 @@
+@startuml
+participant "grossly squishing" as 0
+0 -->x 0++ : tuned fulfill
+...cancer docks...
+0 ->] : mathematician devoured
+create participant "cancer maul" as 1
+0 -> 1 : cancer maul
+0 -\\ 0: accent clingy
+return drooling tendons
+@enduml

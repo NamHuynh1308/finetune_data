@@ -1,0 +1,36 @@
+@startuml
+|1| patch ether
+|2| gasbag french
+|1|
+start
+|2|
+:foul account;
+-> pray sorry;
+split
+:quits dewy;
+split again
+:kaput lab; <<save>>
+split again
+:neglect dogged; <<load>>
+-> chaperoned raptor;
+split again
+if (roast misery?) then (underestimate bylaws)
+(politician jeweler) elseif (minions questioning?) then (rationalizing nerd)
+:leagues eliminate;
+(price regal) elseif (cousins downward?) then (codicil cuppa)
+:muggy chins;
+endif
+end split
+|1|
+:roofs fewer; <<output>>
+:dicks anchors;
+fork
+:rocker rubber;
+fork again
+:boar dollhouse; <<task>>
+fork again
+:exhibiting mismatched;
+fork again
+:why vaccine; <<input>>
+end merge
+@enduml

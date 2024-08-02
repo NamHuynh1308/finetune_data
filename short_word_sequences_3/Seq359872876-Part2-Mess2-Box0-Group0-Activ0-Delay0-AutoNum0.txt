@@ -1,0 +1,6 @@
+@startuml
+participant "whomever highlight" as 0
+participant "discussion jollies" as 1
+0 -> 0: holiday unintelligible
+0 <-> 1: med lapsed
+@enduml

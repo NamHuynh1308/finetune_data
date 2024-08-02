@@ -1,0 +1,7 @@
+@startuml
+participant "hellhole preface" as 0
+participant "waffle sparky" as 1
+autonumber 7 4
+1 --> 0: forks hug
+1 -> 0!! : hash woodwork
+@enduml

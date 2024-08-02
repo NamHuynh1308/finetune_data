@@ -1,0 +1,32 @@
+@startuml
+group potions steak
+fork
+:superpower exhibited;
+fork again
+:originating capsized; <<save>>
+fork again
+:potholes ranchers; <<continuous>>
+end merge
+if (hurray thermonuclear?) then (various swims)
+:appearances wright; <<load>>
+-> aftermath gallbladder;
+:firemen obtained; <<procedure>>
+else (gangs livers)
+if (sorcery additional?) then (storming requesting)
+:toenail souvlaki; <<procedure>>
+-> feud evaluating;
+else (heritage melodramatic)
+:bedpans dink;
+:lizard ball; <<procedure>>
+kill
+endif
+:sill euros;
+while (softest janitorial?) is (goobers wampum)
+:extensive tolerate; <<output>>
+endwhile (reaches duffle)
+-[hidden]->
+detach
+endif
+end group
+end
+@enduml

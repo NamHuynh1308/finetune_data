@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:mickey disclose;
+split again
+-[hidden]->
+:ratings discipline;
+split again
+-[hidden]->
+:moo help; <<input>>
+-> lier snip;
+end split
+:snapped locket; <<input>>
+-> humbly parishioner;
+end
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+participant "awesome think" as 0
+participant "entitles penne" as 1
+participant "lemur decline" as 2
+participant "basic playboy" as 3
+participant "helm fluffed" as 4
+create participant "blossom pleas" as 5
+2 -> 5 : blossom pleas
+4 -> 1!! : runny merchandising
+break domination fortunes
+5 -> 5: mankind raked
+...perception escorted...
+1 -> 5: mumble poachers
+4 -> 5: undertake camels
+2 ->> 0++ : then terror
+end
+...fairest rotating...
+0 -> 1: eggplant gutting
+create participant "voter find" as 6
+1 -> 6 : voter find
+return fiery bails
+@enduml

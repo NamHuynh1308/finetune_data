@@ -1,0 +1,11 @@
+@startuml
+participant "ends fixings" as 0
+box "rebuilt reflexes"
+participant "flippers minty" as 1
+end box
+autonumber 3 9
+1 -> 0!! : suitable solve
+1 -->x 0: scripture pearly
+1 -// 0: locks stealth
+1 -> 0!! : cooker eyelids
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+start
+group indication clings
+:pipeline hamster; <<procedure>>
+-> attraction shush;
+group arrests semantics
+:emergencies ashram; <<continuous>>
+stop
+end group
+end group
+@enduml

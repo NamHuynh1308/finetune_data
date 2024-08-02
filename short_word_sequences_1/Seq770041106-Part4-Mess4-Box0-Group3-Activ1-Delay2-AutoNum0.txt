@@ -1,0 +1,19 @@
+@startuml
+participant "squash shuttle" as 0
+participant "desperate calamitous" as 1
+participant "sherlock paving" as 2
+participant "device jersey" as 3
+opt priss chose
+1 --//o 2++ : conquers catalyst
+...tell cumulative...
+1 ->] : alleviate shocker
+end
+break transports majesty
+3 -->x 3: investigations ghoulish
+alt scholar dealership
+...worn crashing...
+3 -> 0: deliberate anticipating
+end
+end
+return answering record
+@enduml

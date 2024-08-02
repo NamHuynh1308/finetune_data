@@ -1,0 +1,23 @@
+@startuml
+participant "aneurysm bluebells" as 0
+participant "cynic congratulated" as 1
+participant "singleton priced" as 2
+participant "feckless louse" as 3
+box "attributed heller"
+participant "trousers trot" as 4
+end box
+autonumber 0 4
+4 -\\ 1: eye exquisite
+3 -> 0: drifting papa
+autonumber stop
+alt folklore sobered
+create participant "happened presets" as 5
+0 -> 5 : happened presets
+5 --//o 2: momentarily bursting
+end
+break pleading seascape
+5 <-] : tight personified
+...realization footer...
+0 ->] : grievance liver
+end
+@enduml

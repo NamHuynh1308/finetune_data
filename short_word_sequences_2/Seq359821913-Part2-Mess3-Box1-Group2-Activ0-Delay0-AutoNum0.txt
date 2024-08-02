@@ -1,0 +1,14 @@
+@startuml
+box "alright mountainside"
+participant "sees conflicted" as 0
+participant "profession sneaker" as 1
+end box
+== pellets barometer ==
+par camera unburden
+1 -> 0: prize yelled
+0 ->> 1: prima urchin
+opt mounds imprint
+ [<- 1: duo humiliate
+end
+end
+@enduml

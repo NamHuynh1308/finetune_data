@@ -1,0 +1,7 @@
+@startuml
+box "partnered heirs"
+participant "guidelines judiciary" as 0
+end box
+0 -// 0: scuffle remembering
+ [-> 0: words sardine
+@enduml

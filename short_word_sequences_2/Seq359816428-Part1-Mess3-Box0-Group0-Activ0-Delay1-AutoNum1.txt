@@ -1,0 +1,10 @@
+@startuml
+participant "fledgling turmoil" as 0
+autonumber 0 0
+ [<- 0: retainer subconscious
+autonumber stop
+...bumped stadium...
+0 -> 0: arraigned brats
+autonumber resume
+0 ->] : soup scavenger
+@enduml

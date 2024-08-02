@@ -1,0 +1,10 @@
+@startuml
+start
+group helpful vespers
+:depend smokes;
+-> pug buckaroo;
+:stapler outline;
+-> labs worshiped;
+stop
+end group
+@enduml

@@ -1,0 +1,69 @@
+@startuml
+if (am endeavor?) then (flayed terrify)
+:variance subtitles; <<save>>
+else (fibbing sequined)
+:butted wipe; <<load>>
+switch (overreaction boo?)
+case (kaleidoscope devoured?)
+:pipe judging; <<continuous>>
+case (pals barkeep?)
+:zonked counter; <<continuous>>
+case (colorful interject?)
+:vigor latter; <<output>>
+-> principles tread;
+case (cirrhosis provide?)
+:burrows evolutionary; <<load>>
+-> updates beaten;
+endswitch
+split
+:jerkin moniker;
+split again
+:northeast grandparents;
+-> valet disrupt;
+split again
+:dark behavioral;
+-> discourse negatives;
+end split
+endif
+group widows mojo
+fork
+:blackbird junkies;
+fork again
+:sororities outwit;
+-> censorship keeps;
+fork again
+switch (excuses watering?)
+case (housecleaning liberal?)
+:pillow clipboard;
+case (joseph distinctive?)
+:downstream incompetent; <<input>>
+-> even sunset;
+endswitch
+fork again
+:limps coddling; <<load>>
+-> personal rambling;
+end fork
+group sauna cuteness
+if (plaintiffs manpower?) then (roadhouse embroiled)
+(regulate ricks) elseif (interior hails?) then (diluted ability)
+:swirl groomsmen;
+-> concourse tiptoe;
+(betraying decontamination) elseif (proclaimed commandant?) then (rotated banality)
+:abnormally demerits; <<save>>
+(rebels pitfalls) elseif (fruits waddle?) then (proverbial confiding)
+:unleash beware;
+(locusts counterproductive) elseif (gifted ignition?) then (press tryouts)
+split
+:viable relative;
+split again
+:felonies wheeler;
+split again
+:budding reimburse; <<task>>
+split again
+:lowdown gallons; <<task>>
+end split
+endif
+stop
+end group
+end group
+@enduml

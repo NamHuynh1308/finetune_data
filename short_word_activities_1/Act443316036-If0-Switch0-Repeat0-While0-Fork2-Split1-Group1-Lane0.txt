@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:protections staged;
+split again
+-[hidden]->
+fork
+:scrapped abundantly;
+fork again
+:pecs unappreciated; <<load>>
+fork again
+:catalyst affected;
+fork again
+:opportunist subterfuge; <<load>>
+end merge
+split again
+-[hidden]->
+:sun nicks; <<continuous>>
+split again
+-[hidden]->
+fork
+:pods apparently;
+fork again
+:debatable billy;
+kill
+fork again
+:heckled cockamamie; <<save>>
+-> xerox brooks;
+end fork
+end split
+group scorch element
+:asteroid clincher; <<save>>
+-> promoting provisions;
+stop
+end group
+@enduml

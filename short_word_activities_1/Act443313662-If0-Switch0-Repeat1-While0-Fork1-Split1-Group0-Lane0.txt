@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:intercept dire;
+split again
+-[hidden]->
+:sportswear rile;
+-> vulture outcast;
+split again
+-[hidden]->
+:vendetta os;
+split again
+-[hidden]->
+:headdress rarest; <<continuous>>
+end split
+repeat
+backward:unwrapping plating;
+backward:low delightful;
+:attired jolly; <<output>>
+repeat while (mart stead?) is (girls coordinated)
+fork
+:jaunt tidbits;
+fork again
+:corners holds;
+kill
+fork again
+:studies miner;
+end merge
+end
+@enduml

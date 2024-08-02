@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:microfilm headliner;
+split again
+-[hidden]->
+:gainfully headless; <<load>>
+split again
+-[hidden]->
+:condone community;
+end split
+:chronic clause; <<task>>
+end
+@enduml

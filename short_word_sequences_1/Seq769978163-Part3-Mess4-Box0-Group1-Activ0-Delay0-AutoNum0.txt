@@ -1,0 +1,12 @@
+@startuml
+participant "bimbo venison" as 0
+participant "art ushering" as 1
+== skates scariest ==
+critical dismemberment adrenaline
+create participant "sculptor flamer" as 2
+1 -> 2 : sculptor flamer
+1 -> 2: pseudo verbally
+2 ->o 0: milk sounds
+0 --> 0: inactive naw
+end
+@enduml

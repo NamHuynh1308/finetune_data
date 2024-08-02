@@ -1,0 +1,28 @@
+@startuml
+participant "painter bribery" as 0
+box "barbecue turnips"
+participant "awaiting fuse" as 1
+participant "minks judgement" as 2
+end box
+participant "measures clip" as 3
+== straightening sundae ==
+autonumber 1 2
+3 <-> 3++ : nervousness dividends
+opt whimsy schnitzel
+1 --//o 3: garment morgues
+return flustered hosed
+3 -> 1++ : riddles tonic
+else biography capturing
+0 -> 2++ : cuffing fountains
+end
+opt nice immoral
+3 -> 0: destabilize sanity
+0 -> 3: dapper unworthy
+return incapable film
+opt stateside formality
+2 -> 3++ : demented blouse
+end
+end
+return delights shifty
+return botany nightstand
+@enduml

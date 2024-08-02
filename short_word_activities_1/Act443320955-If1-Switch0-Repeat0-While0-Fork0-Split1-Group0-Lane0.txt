@@ -1,0 +1,20 @@
+@startuml
+start
+if (foibles gang?) then (wormed looks)
+:heighten hiss; <<continuous>>
+:moat aloft; <<save>>
+else (twenties disguises)
+split
+:spectre fences;
+split again
+:moment authorization;
+split again
+:equality custody; <<save>>
+end split
+:irrigate racist; <<save>>
+:decisions propellers;
+-> underestimated feedback;
+endif
+:weirdo deliberately; <<task>>
+stop
+@enduml

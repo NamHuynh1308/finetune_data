@@ -1,0 +1,6 @@
+@startuml
+group sights ajar
+:portrayal sundown; <<continuous>>
+stop
+end group
+@enduml

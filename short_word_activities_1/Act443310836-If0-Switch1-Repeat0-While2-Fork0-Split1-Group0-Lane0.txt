@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:entirely checkup;
+split again
+-[hidden]->
+:mayo sneezed;
+while (tiny terrifically?) is (natives barfing)
+:consul jess; <<procedure>>
+endwhile (grassy oversized)
+-[hidden]->
+detach
+split again
+-[hidden]->
+:squaw geography;
+split again
+-[hidden]->
+:transformation craziness; <<task>>
+end split
+:concentrated magicians; <<procedure>>
+switch (exhume dampener?)
+case (spool disqualify?)
+:operative incredibly; <<procedure>>
+case (langley refinement?)
+:outbound fluke;
+while (refrain roughly?) is (encounter sofas)
+backward:rugby snap;
+backward:largest purr;
+:sax speedway; <<save>>
+endwhile (thing stabbed)
+-[hidden]->
+detach
+case (strutting advances?)
+:macaroons bursting; <<task>>
+-> cholesterol signature;
+case (raiding whirl?)
+:programme symbolism; <<save>>
+endswitch
+end
+@enduml

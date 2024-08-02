@@ -1,0 +1,22 @@
+@startuml
+participant "skulls amigo" as 0
+participant "hyperspace spreading" as 1
+participant "penance downright" as 2
+participant "emerald traveled" as 3
+box "nimrod impressive"
+participant "handouts resorts" as 4
+end box
+== technical educate ==
+autonumber 4 4
+2 -> 3: yank swollen
+2 -> 4: shrug provoked
+ [<- 2: foresaw fixated
+autonumber stop
+...reconnected realized...
+1 -> 2!! : pecans mindless
+autonumber resume
+0 --//o 4: dioxide thoughtful
+create participant "according fondled" as 5
+4 -> 5 : according fondled
+3 -> 2: villa match
+@enduml

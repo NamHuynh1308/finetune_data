@@ -1,0 +1,14 @@
+@startuml
+participant "custodian credentials" as 0
+participant "mansions relay" as 1
+1 -> 0: powder golly
+break weeks notion
+0 ->] : stapled sector
+alt sanctimonious mayday
+1 ->x 0: feature tipping
+0 -> 1: brainwashed twisted
+0 --//o 1++ : elastic neighbours
+end
+end
+return deteriorated authoritative
+@enduml

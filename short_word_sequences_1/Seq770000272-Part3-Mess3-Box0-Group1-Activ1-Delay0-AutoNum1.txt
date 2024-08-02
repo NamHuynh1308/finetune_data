@@ -1,0 +1,12 @@
+@startuml
+participant "exhibits irresponsibility" as 0
+participant "memorizing overheard" as 1
+participant "reconsider vow" as 2
+autonumber 9 10
+2 -> 1!! : hellhound muscle
+loop cleanses florists
+1 -\\ 2++ : unforgiving arraignment
+2 -> 2: angioplasty uncontrollably
+return nick counting
+end
+@enduml

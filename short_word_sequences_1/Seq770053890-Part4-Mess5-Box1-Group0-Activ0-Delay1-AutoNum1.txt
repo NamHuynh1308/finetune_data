@@ -1,0 +1,18 @@
+@startuml
+box "lighter fink"
+participant "paler reinvented" as 0
+participant "moldy direct" as 1
+participant "composers fairies" as 2
+participant "sic noting" as 3
+end box
+== group cubed ==
+autonumber 1 3
+3 -> 0: sinful antihistamines
+autonumber stop
+1 <-> 2: hopper horrendous
+2 --//o 0: travelers poofs
+autonumber resume
+3 -> 1: vig scholarship
+...undoing recalling...
+2 ->o 2: numb occupant
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+start
+switch (unpack surrounded?)
+case (and collector?)
+:shack sound;
+case (ivy lonely?)
+:percentage zone; <<input>>
+endswitch
+:haired loons; <<save>>
+stop
+@enduml

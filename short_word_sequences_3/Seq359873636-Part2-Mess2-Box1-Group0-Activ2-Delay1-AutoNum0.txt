@@ -1,0 +1,12 @@
+@startuml
+participant "reeves nightly" as 0
+box "cruisers yahoo"
+participant "mounting attributes" as 1
+end box
+== housewarming attends ==
+1 ->> 0++ : stove shots
+...metals applies...
+0 -> 0++ : intestines withdrawal
+return torches tissue
+return sykes attacks
+@enduml

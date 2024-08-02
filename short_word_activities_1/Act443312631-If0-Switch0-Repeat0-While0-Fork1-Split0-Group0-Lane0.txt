@@ -1,0 +1,11 @@
+@startuml
+start
+fork
+:stilts dilation;
+fork again
+:canisters elsewhere; <<output>>
+fork again
+:contradicted censured; <<continuous>>
+end merge
+stop
+@enduml

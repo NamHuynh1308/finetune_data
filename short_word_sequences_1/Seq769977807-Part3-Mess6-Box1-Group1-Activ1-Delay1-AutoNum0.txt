@@ -1,0 +1,17 @@
+@startuml
+participant "exactly basis" as 0
+participant "thirds guests" as 1
+box "artful dinged"
+participant "celibate chosen" as 2
+end box
+1 ->> 0++ : widows mistrial
+alt scoping footer
+0 -// 2: flock gotten
+return juries listens
+ [-> 2: squeaking decency
+2 -> 1: thou oppose
+end
+...eighth incapable...
+2 <-> 2: gnats pinch
+0 -> 1: nautilus commits
+@enduml

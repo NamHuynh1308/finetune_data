@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:tense cannery;
+split again
+-[hidden]->
+switch (journey scumbag?)
+case (slumlord fillings?)
+:schematics flowering;
+case (comprehension overtired?)
+:fishy shit; <<load>>
+case (packet taxes?)
+:euros corks; <<task>>
+case (socialize conservatory?)
+:textbooks cozier; <<task>>
+endswitch
+split again
+-[hidden]->
+:accompany balloons;
+end split
+group delicates lapse
+while (wicked bustle?) is (communal conquers)
+backward:gen stroke;
+if (exercising guide?) then (gratified crushes)
+(willing ouch) elseif (grin chins?) then (courted learned)
+:marches inkling;
+(deposits frazzled) elseif (testament tactile?) then (afterlife tasteful)
+:vnsura;
+kill
+(swung patents) elseif (ambition states?) then (less radiant)
+:moose misfortune; <<load>>
+(diver toured) elseif (scariest fugu?) then (fellow overwhelming)
+:hcjhqg;
+while (tribulations hijacking?) is (facials violated)
+:convened amiable;
+:odorless dealings;
+:execute leotards; <<continuous>>
+:carts electrocute;
+-> boonies topnotch;
+endwhile (grizzly keeper)
+-[hidden]->
+detach
+endif
+:suppertime jab; <<output>>
+endwhile (dolly pi)
+:vitamin dimes;
+stop
+end group
+@enduml

@@ -1,0 +1,48 @@
+@startuml
+|1| doggone measured
+|2| inspector tinkered
+split
+-[hidden]->
+:bibliography lard;
+split again
+-[hidden]->
+split
+:forethought spartan;
+split again
+:board drudge; <<load>>
+-> blinders straighten;
+split again
+:continually harpoons;
+split again
+:kingdom shelling;
+end split
+split again
+-[hidden]->
+switch (impossible agile?)
+case (entrenched dime?)
+:barn waging; <<task>>
+-> hyperventilate about;
+case (fiends liquefy?)
+:dreaded sunblock;
+case (city ottoman?)
+:worrier debts;
+endswitch
+split again
+-[hidden]->
+:sighing shadows;
+end split
+split
+:battery pastor;
+split again
+:recommended lar;
+split again
+:say mismatched;
+-> internal retractable;
+end split
+:penicillin leaflets; <<load>>
+:blanket encrypted;
+-> veritas maniac;
+:spicy stakeout; <<load>>
+-> straining wars;
+stop
+@enduml

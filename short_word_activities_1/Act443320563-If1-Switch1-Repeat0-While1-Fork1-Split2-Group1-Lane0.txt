@@ -1,0 +1,59 @@
+@startuml
+split
+-[hidden]->
+:enemy engines;
+split again
+-[hidden]->
+switch (insured bozo?)
+case (reputation unwitting?)
+:interesting debrief;
+-> gesture expense;
+case (menu breakdown?)
+:sneezed flagship; <<save>>
+case (disciplining delving?)
+:serves marrow; <<input>>
+-> sparrow owls;
+case (pneumonia kins?)
+:espionage remorse; <<input>>
+endswitch
+split again
+-[hidden]->
+while (awhile doth?) is (motorized dwells)
+backward:limerick shackle;
+endwhile (canals conjures)
+:accounted cannibal;
+end split
+group virtue financial
+fork
+:jeans expressed;
+fork again
+split
+:there melt;
+split again
+:fishermen mutated;
+-> mischief cosmically;
+split again
+:cobwebs hic; <<input>>
+-> geezer snake;
+split again
+:triad stocking; <<procedure>>
+end split
+fork again
+if (golfing idiot?) then (models assure)
+(squashing fortnight) elseif (ambiguous countryside?) then (fodder mooch)
+:quintuplets pistons; <<output>>
+(torturing sneaking) elseif (nephews bratwurst?) then (shrubbery pup)
+:quietly poorhouse;
+(seriously bylaws) elseif (soccer brim?) then (tokens symptom)
+:backups knees; <<task>>
+-> showbiz cardigan;
+(man depressing) elseif (bottling metal?) then (heights incarnation)
+:badge monde;
+-> sneaker technique;
+endif
+fork again
+:conk drips; <<load>>
+end merge
+stop
+end group
+@enduml

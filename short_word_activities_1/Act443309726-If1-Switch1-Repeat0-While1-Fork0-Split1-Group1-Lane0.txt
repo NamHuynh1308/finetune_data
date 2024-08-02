@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:unwittingly projected;
+split again
+-[hidden]->
+:tampon coopers; <<save>>
+split again
+-[hidden]->
+if (caskets central?) then (ridiculous colic)
+(overcharge ifs) elseif (streetlights taped?) then (illuminating southern)
+:enlighten filled; <<input>>
+(steered belvedere) elseif (flagship teller?) then (embraced druthers)
+:teacup donating;
+endif
+end split
+group turning omen
+while (all schemed?) is (telekinesis line)
+switch (rise villagers?)
+case (senorita suntan?)
+:eerily biologically;
+case (shay slated?)
+:waters prosecuting; <<task>>
+-> coroners dearly;
+case (spied impacted?)
+:dateline tenuous;
+-> extraordinarily depositions;
+endswitch
+:hmm fives; <<input>>
+endwhile (balled ounces)
+:tokens bonkers;
+:bye laid; <<load>>
+-> underwear smithers;
+end group
+stop
+@enduml

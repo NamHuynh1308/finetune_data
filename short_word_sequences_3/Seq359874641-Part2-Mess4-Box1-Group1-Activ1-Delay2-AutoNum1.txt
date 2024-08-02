@@ -1,0 +1,16 @@
+@startuml
+box "poems broiler"
+participant "melody looker" as 0
+end box
+autonumber 0 3
+create participant "airlines horned" as 1
+0 -> 1 : airlines horned
+1 --> 1++ : neighbour unless
+...practically diligently...
+1 --> 1: entrapment athletes
+return retro stipulate
+opt os disrupt
+...sage badgering...
+0 -> 0!! : idle ugliest
+end
+@enduml

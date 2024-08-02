@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:boat shrinking;
+split again
+-[hidden]->
+:deal dweeb;
+split again
+-[hidden]->
+:reclaiming skim; <<continuous>>
+end split
+:defiant rally;
+:bigfoot interviewer; <<save>>
+@enduml

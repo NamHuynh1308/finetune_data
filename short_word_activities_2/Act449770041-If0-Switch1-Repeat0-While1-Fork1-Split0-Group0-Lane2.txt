@@ -1,0 +1,35 @@
+@startuml
+|1| flapped mounds
+|2| bakers hardest
+|1|
+start
+fork
+:pinochle knack;
+fork again
+switch (bravely drilled?)
+case (alphabetically eighteen?)
+:staggered jughead;
+case (posting team?)
+:kern repossess;
+while (skewered likes?) is (spade accompany)
+:anachronism cup;
+:crowding decor; <<input>>
+endwhile (antagonism reset)
+-[hidden]->
+detach
+case (defiant hows?)
+:refusal rotation;
+case (redeeming illegals?)
+:reassurance lordship; <<output>>
+endswitch
+fork again
+:interpreting bothers; <<procedure>>
+-> fair registry;
+fork again
+:sightless obliged;
+end fork
+|2|
+:thread ugliest; <<load>>
+:pointy conservative; <<input>>
+end
+@enduml

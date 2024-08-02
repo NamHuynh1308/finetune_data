@@ -1,0 +1,15 @@
+@startuml
+participant "limit schnapps" as 0
+== nest confusing ==
+autonumber 4 10
+alt irregular unheard
+0 ->> 0++ : unsuccessful whoopee
+0 -> 0: patrons bosses
+autonumber stop
+opt lens hypnotic
+0 --//o 0: development consumer
+autonumber resume
+end
+end
+return suspicions hobbling
+@enduml

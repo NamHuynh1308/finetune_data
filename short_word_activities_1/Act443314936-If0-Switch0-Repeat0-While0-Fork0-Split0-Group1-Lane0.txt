@@ -1,0 +1,8 @@
+@startuml
+start
+group touches hopelessness
+:cooties nukes; <<save>>
+-> reached yuppie;
+stop
+end group
+@enduml

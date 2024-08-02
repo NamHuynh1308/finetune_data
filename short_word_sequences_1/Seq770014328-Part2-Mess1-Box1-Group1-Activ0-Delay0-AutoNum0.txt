@@ -1,0 +1,10 @@
+@startuml
+box "parks polite"
+participant "indulged looked" as 0
+end box
+== printing squirts ==
+critical inventions skeletal
+create participant "snarl physicals" as 1
+0 -> 1 : snarl physicals
+end
+@enduml

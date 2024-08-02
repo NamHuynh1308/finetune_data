@@ -1,0 +1,14 @@
+@startuml
+participant "shrub woops" as 0
+box "gangly shoemaker"
+participant "popped errands" as 1
+end box
+== furthermore featured ==
+autonumber 4 4
+1 -// 1++ : puking phooey
+opt tangent zany
+create participant "evidently sunroom" as 2
+1 -> 2 : evidently sunroom
+end
+return goodman uncles
+@enduml

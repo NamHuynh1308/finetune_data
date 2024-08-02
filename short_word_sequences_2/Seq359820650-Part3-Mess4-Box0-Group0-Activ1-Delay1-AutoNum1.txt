@@ -1,0 +1,16 @@
+@startuml
+participant "abstract finances" as 0
+participant "manna biography" as 1
+participant "patches substation" as 2
+== ties literature ==
+autonumber 5 10
+ [-> 2: discovery confer
+autonumber stop
+2 -> 1++ : reliance separate
+autonumber resume
+...cauldron hardy...
+1 -> 0: sprint twos
+autonumber stop
+0 -> 2: seventeenth portent
+return disobeying float
+@enduml

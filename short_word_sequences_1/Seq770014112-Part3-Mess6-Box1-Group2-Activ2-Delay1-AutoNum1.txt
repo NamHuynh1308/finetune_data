@@ -1,0 +1,21 @@
+@startuml
+participant "podiatry spectrum" as 0
+participant "impersonal poser" as 1
+box "depicts severely"
+participant "splicing hoagie" as 2
+end box
+autonumber 6 9
+break specify indications
+0 -\\ 2: answered overtures
+loop scary greatly
+...picketing virgins...
+ [<- 1: cassettes nimrod
+2 ->] : spas fryer
+1 ->x 2++ : unstoppable arraigned
+2 --> 1++ : value fall
+end
+0 <-] : approach grid
+end
+return dour quiver
+return facedown pouting
+@enduml

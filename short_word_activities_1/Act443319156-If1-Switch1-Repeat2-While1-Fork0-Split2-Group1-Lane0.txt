@@ -1,0 +1,60 @@
+@startuml
+split
+-[hidden]->
+:doe moneymaker;
+split again
+-[hidden]->
+:trifecta alchemy; <<load>>
+-> hoppy makings;
+split again
+-[hidden]->
+:davy trickery;
+split again
+-[hidden]->
+:veer worrying;
+kill
+end split
+repeat
+backward:system dares;
+repeat while (altruistic un?) is (poof friends)
+-> muchachos current;
+if (symptom commuted?) then (charred foxy)
+:stereo divorces; <<input>>
+else (vested nachos)
+switch (revealed rawhide?)
+case (whiter sphere?)
+:surroundings nan;
+-> wynn easy;
+case (scopes boast?)
+:devoured latched;
+case (lifetime browns?)
+:swarming random; <<input>>
+-> are cost;
+case (sparkles flack?)
+:videotaped cowgirl;
+endswitch
+:deflecting marten; <<input>>
+:shaking later; <<continuous>>
+-> hearty animal;
+while (gut sequencing?) is (isolated spotter)
+:culinary bred;
+backward:quaker humus;
+backward:limerick jamming;
+:served monsieur; <<input>>
+endwhile (duds dancer)
+-[hidden]->
+detach
+endif
+group united linguistic
+repeat
+split
+:facial sender;
+split again
+:loosely nearly; <<output>>
+split again
+:pork hangman;
+end split
+repeat while (levitation merlot?) is (wartime champagne)
+stop
+end group
+@enduml

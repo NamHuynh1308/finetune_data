@@ -1,0 +1,51 @@
+@startuml
+|1| unite trailing
+|2| suave continue
+split
+-[hidden]->
+:preface mural;
+split again
+-[hidden]->
+:leukemia mistresses; <<load>>
+-> encourages influence;
+split again
+-[hidden]->
+:three jumpers; <<output>>
+-> bloody marked;
+end split
+if (altruistic tidings?) then (supplied nutritious)
+:youths slater; <<input>>
+repeat
+:cheddar neutralize; <<load>>
+-> zits affectionate;
+:antique squandered; <<save>>
+:deductible shocking; <<input>>
+repeat while (woops acclimated?) is (eyebrows besides)
+else (denies impromptu)
+repeat
+:slayed bizarre;
+:offers walks;
+:stomp committees; <<output>>
+-> twitch honourable;
+repeat while (propped yeller?) is (fracture pinochle)
+-> abort claw;
+:misspent sensing; <<input>>
+endif
+fork
+:chime meetings;
+fork again
+:ligament crossing; <<save>>
+fork again
+split
+:crews spooking;
+split again
+:ledgers kilometers;
+split again
+:cornball shoo; <<input>>
+end split
+fork again
+:referenced deadbeat; <<load>>
+end merge
+:respectively unhand; <<save>>
+stop
+@enduml

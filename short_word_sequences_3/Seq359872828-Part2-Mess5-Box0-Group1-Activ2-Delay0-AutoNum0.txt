@@ -1,0 +1,13 @@
+@startuml
+participant "barrage portable" as 0
+participant "publicly avenge" as 1
+0 ->> 1++ : appointment limousine
+ [<- 1: boomer threaten
+1 -> 0: ladle disgust
+1 --//o 1++ : zany dedicating
+break embroiled pawing
+1 ->o 1: merlot chiseling
+return unfairness commiserate
+end
+return operatives putter
+@enduml

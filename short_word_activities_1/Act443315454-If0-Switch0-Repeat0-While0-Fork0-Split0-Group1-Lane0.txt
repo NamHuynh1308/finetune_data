@@ -1,0 +1,9 @@
+@startuml
+group doggies hairdresser
+:payoff consorting; <<output>>
+:invitations victory; <<output>>
+:bondsman outsiders; <<save>>
+-> proteus burger;
+end group
+end
+@enduml

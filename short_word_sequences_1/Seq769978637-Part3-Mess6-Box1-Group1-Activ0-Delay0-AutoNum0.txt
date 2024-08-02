@@ -1,0 +1,15 @@
+@startuml
+participant "slider registered" as 0
+box "lemon argue"
+participant "socialize adrenals" as 1
+participant "individuality secretarial" as 2
+end box
+0 <-> 1: defend transfer
+1 ->x 0: enjoyable pharmaceutical
+1 ->> 0: trump firefight
+0 <-] : fingernail clarification
+loop wells superman
+ [-> 2: disagrees gassy
+0 --> 0: desk gumption
+end
+@enduml

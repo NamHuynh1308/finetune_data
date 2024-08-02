@@ -1,0 +1,6 @@
+@startuml
+participant "sensory jesuits" as 0
+autonumber 4 9
+0 --//o 0: cultivated technician
+0 -\\ 0: nerve handbook
+@enduml

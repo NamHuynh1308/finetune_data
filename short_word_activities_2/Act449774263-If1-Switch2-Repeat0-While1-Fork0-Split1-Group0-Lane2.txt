@@ -1,0 +1,53 @@
+@startuml
+|1| hubcaps granddad
+|2| compounds jewels
+split
+-[hidden]->
+:seascape forks;
+split again
+-[hidden]->
+:frank criteria; <<output>>
+split again
+-[hidden]->
+:northwest stolen; <<input>>
+end split
+:plucking strategies; <<save>>
+-> proportional preoccupied;
+:wipes history; <<procedure>>
+-> eyelashes mercenary;
+|2|
+:common infant;
+switch (handsomely snubbed?)
+case (delights hurdles?)
+if (such rowdy?) then (servers sidewalks)
+(slum skyscrapers) elseif (duet signaling?) then (doorknob fully)
+:stardom es;
+(joy motion) elseif (veer lecture?) then (resolving jerks)
+:inhibitors abort; <<procedure>>
+(enthusiasm strengths) elseif (hugs acquisition?) then (sheep prefer)
+:baskets status; <<save>>
+-> sark joseph;
+(roulette pottery) elseif (submitting mutant?) then (seduce antibody)
+:ukkuyy;
+while (destinations spindly?) is (sighing posting)
+:deaf rover;
+endwhile (package penniless)
+-[hidden]->
+detach
+endif
+case (cane gullible?)
+switch (cat am?)
+case (weave fertility?)
+:tucker paranoid;
+-> crows corrupt;
+case (guinea champagne?)
+:luring tate;
+case (tableau maggots?)
+:seeks fingerprint;
+case (quadrant ruthless?)
+:abortion prudes; <<save>>
+-> kirk rusty;
+endswitch
+endswitch
+stop
+@enduml

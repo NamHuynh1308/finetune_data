@@ -1,0 +1,60 @@
+@startuml
+split
+-[hidden]->
+:signals career;
+split again
+-[hidden]->
+:leech fists; <<procedure>>
+-> salty mack;
+split again
+-[hidden]->
+if (solarium equinox?) then (punctual document)
+:safeguards mopped;
+:tassels drug;
+:crashes lovingly;
+while (cars skulk?) is (purer frazzled)
+backward:rent robbin;
+:ana chaplain;
+backward:marina reimburse;
+endwhile (bowler pointy)
+-[hidden]->
+detach
+else (enormously swapping)
+:build auditions;
+:lax manpower;
+endif
+end split
+group lilacs just
+switch (elapsed amulet?)
+case (delightfully mandatory?)
+if (republican tides?) then (clairvoyant shrug)
+(cab ironies) elseif (helipad fools?) then (stamped pacing)
+:creating hanks; <<save>>
+-> scarier jamboree;
+(tavern stardust) elseif (hemolytic regaining?) then (goon pounder)
+:flunking rich; <<input>>
+-> excursion attacked;
+(blaring investigates) elseif (poised overlapping?) then (transmit sanding)
+:ratings quarters;
+-> liquor droop;
+(notification seasonal) elseif (spelled bladder?) then (honour struggling)
+:nuptials plumbing; <<continuous>>
+endif
+case (freeway usually?)
+switch (rotate platonic?)
+case (perfume diagnoses?)
+:pi outset; <<procedure>>
+case (massage comparing?)
+:waited evacuating; <<input>>
+case (resolving stiffer?)
+:emit suitable; <<procedure>>
+case (collection stuntman?)
+:clinches curate; <<task>>
+endswitch
+case (swims ampicillin?)
+:royalties limp; <<input>>
+-> confit fired;
+endswitch
+stop
+end group
+@enduml

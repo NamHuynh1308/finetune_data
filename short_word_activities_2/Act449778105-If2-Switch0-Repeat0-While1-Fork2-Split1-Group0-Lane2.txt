@@ -1,0 +1,53 @@
+@startuml
+|1| children crier
+|2| viewing lifelike
+split
+-[hidden]->
+:dozer growth;
+split again
+-[hidden]->
+:totaled finder;
+split again
+-[hidden]->
+if (teamsters doozy?) then (idiocy downgraded)
+(pole colosseum) elseif (trespassed apes?) then (visitors acrobat)
+:spoiler eliminates;
+-> deco refusal;
+(hobble dills) elseif (noir novel?) then (strolling mariachi)
+:centre ceremonies; <<output>>
+-> yen dissipate;
+endif
+end split
+|2|
+:stings models; <<task>>
+fork
+:contradict fixings;
+fork again
+if (expands violet?) then (schematics fungus)
+(jiffy wracked) elseif (thug kissy?) then (cannibal sleigh)
+:depends influenced; <<load>>
+(camper cessation) elseif (qualifying thus?) then (undermining tae)
+:ypdkju;
+while (innocently dreidel?) is (oily liter)
+:pervert inspiration;
+:preconceived whatnot; <<load>>
+:consulate bouncing; <<output>>
+-> amendment calf;
+:innings scan; <<load>>
+endwhile (reacts realty)
+-[hidden]->
+detach
+endif
+fork again
+:add global; <<continuous>>
+-> wring football;
+end fork
+fork
+:flanks rods;
+fork again
+:barefoot lapses; <<continuous>>
+fork again
+:dolce blameless; <<task>>
+end fork
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+:premature stowaway; <<output>>
+if (chicano riverbank?) then (lodgings establishment)
+:pickup spectacles; <<continuous>>
+:ogle formed;
+:belonging towel; <<output>>
+-> mamma airlifted;
+else (lovelies curling)
+:tease bib; <<continuous>>
+endif
+end
+@enduml

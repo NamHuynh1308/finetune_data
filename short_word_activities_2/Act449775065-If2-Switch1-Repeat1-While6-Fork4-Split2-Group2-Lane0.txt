@@ -1,0 +1,110 @@
+@startuml
+split
+-[hidden]->
+:forests famous;
+split again
+-[hidden]->
+:exhibition snobby;
+while (boxer breezing?) is (preemptive builds)
+backward:misspent croft;
+endwhile (someone terminated)
+-[hidden]->
+detach
+split again
+-[hidden]->
+split
+:unwelcome priors;
+split again
+:sabotaged systems; <<procedure>>
+-> spotty mezzanine;
+split again
+:racketeer simp;
+-> amateur campus;
+end split
+end split
+group untie hepatitis
+fork
+:scalding boogey;
+fork again
+:stinky scald; <<load>>
+fork again
+fork
+:reproduction extended;
+fork again
+:gentlemen prowler;
+fork again
+:ecosystem flaps;
+fork again
+:cheek splendid; <<output>>
+end merge
+fork again
+fork
+:fattening middle;
+fork again
+:psyche flashing;
+fork again
+:most comfy; <<continuous>>
+fork again
+:limitless concocting;
+end merge
+end merge
+group rendered tame
+if (hostile sift?) then (ectopic impersonating)
+if (sitter canape?) then (redone tarzan)
+:speed trunks;
+else (revenue swerve)
+:inconsolable guitarist;
+:editors halibut;
+while (brains cocky?) is (swimmer intercede)
+:expected controlling;
+endwhile (merely anything)
+-[hidden]->
+detach
+endif
+:es hunt;
+while (potassium brake?) is (retaliated turmoil)
+backward:airplane success;
+:lonely robberies; <<output>>
+endwhile (beg stateside)
+-[hidden]->
+detach
+else (leeway unfunny)
+repeat
+:snide ambrosia;
+repeat while (ecosystem fillings?) is (goldfish impression)
+fork
+:worried stunk;
+fork again
+:stops thinner;
+-> juncture assumption;
+fork again
+:securities spotlights;
+while (pills auld?) is (downfall social)
+:meaty learned; <<output>>
+endwhile (spear lunching)
+-[hidden]->
+detach
+fork again
+:campaigned environmentalist; <<procedure>>
+-> spate operations;
+end merge
+while (wedgies smithereens?) is (bloodshed booth)
+backward:prepped out;
+endwhile (offending courageous)
+-[hidden]->
+detach
+endif
+switch (kindergartners deposits?)
+case (sapphires spreads?)
+:teed designs; <<save>>
+case (suspicion narrowly?)
+while (sentinels thirty?) is (capture fulfil)
+:imagination runt; <<output>>
+-> audit finalize;
+endwhile (carnival persecute)
+:veterinarian stepfather;
+endswitch
+end group
+stop
+end group
+@enduml

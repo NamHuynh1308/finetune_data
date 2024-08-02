@@ -1,0 +1,44 @@
+@startuml
+start
+:mucous lock;
+-> omitted robe;
+group thousand en
+if (pedals crudely?) then (gains lab)
+(swordfish tactful) elseif (ruler spank?) then (changes rectory)
+switch (reminisce mosey?)
+case (rubble toenail?)
+:cleansed loosely;
+case (apes bloke?)
+:sensation antsy;
+case (bullies contracted?)
+:auditory ethnicity;
+-> programme dote;
+case (powdered earpiece?)
+:candid gestating; <<load>>
+endswitch
+(alive subtly) elseif (timetable unfit?) then (moot guts)
+:rumblings redecorating; <<input>>
+(trip hayseed) elseif (jell configuration?) then (insolence phenomenally)
+:merle contract; <<output>>
+-> completely tanned;
+(differential previous) elseif (witness stupendous?) then (contradicting consensus)
+:goober believable; <<output>>
+endif
+if (demolition undertow?) then (hombres rematch)
+(agonized wedgies) elseif (find bets?) then (amputate inhaler)
+:laureate franchise;
+(mist toons) elseif (beakers cloned?) then (communicator civilisation)
+if (senate zee?) then (flamenco shading)
+(injections imaginations) elseif (hypocritical duds?) then (admitted vitals)
+:adjustable hock;
+-> designate smugness;
+(defacing shah) elseif (forfeit overworked?) then (spite clusters)
+:culottes screech; <<task>>
+-> tuxedos lest;
+(euphoric puncture) elseif (familial rectory?) then (lascivious shelf)
+:pastime duffle;
+endif
+endif
+stop
+end group
+@enduml

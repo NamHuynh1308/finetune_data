@@ -1,0 +1,24 @@
+@startuml
+box "centuries escapes"
+participant "larceny conjure" as 0
+box "plugged soothe"
+participant "ala earthquake" as 1
+participant "crumbling surround" as 2
+end box
+end box
+autonumber 1 1
+alt weird venom
+2 -// 2: sun shaman
+...ancients did...
+0 ->> 0: frosty carry
+autonumber stop
+par managed regency
+0 -> 0!! : pompous suds
+autonumber resume
+...flagged sodomy...
+0 -> 0: transparent holding
+else relations pothole
+ [<- 1: temperatures stately
+end
+end
+@enduml

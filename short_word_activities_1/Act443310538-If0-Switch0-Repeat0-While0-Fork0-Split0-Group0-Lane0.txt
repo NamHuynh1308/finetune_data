@@ -1,0 +1,5 @@
+@startuml
+start
+:aurora giraffe; <<continuous>>
+end
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+box "wised topside"
+participant "dink wraith" as 0
+end box
+alt proper fielding
+0 --//o 0: disrespectful caste
+end
+@enduml

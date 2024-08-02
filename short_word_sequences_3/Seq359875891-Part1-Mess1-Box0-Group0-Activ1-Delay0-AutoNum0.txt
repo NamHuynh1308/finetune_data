@@ -1,0 +1,5 @@
+@startuml
+participant "trickle computers" as 0
+0 --//o 0++ : sparks squiggle
+return phasing convinces
+@enduml

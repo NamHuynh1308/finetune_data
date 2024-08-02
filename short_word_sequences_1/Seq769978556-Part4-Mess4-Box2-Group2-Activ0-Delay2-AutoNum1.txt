@@ -1,0 +1,24 @@
+@startuml
+participant "obvious tactic" as 0
+box "gingerbread triplets"
+participant "pinching troopers" as 1
+participant "positives stabbing" as 2
+end box
+box "choreography klutz"
+participant "stimuli entice" as 3
+end box
+== child maintains ==
+autonumber 4 7
+2 ->> 0: driveway honeymoon
+loop kings panty
+...lunchtime mathematically...
+2 -> 3: frayed vagina
+critical neatly intravenous
+3 -// 3: limousines rampage
+autonumber stop
+...espionage accuracy...
+2 <-] : harbor allow
+autonumber resume
+end
+end
+@enduml

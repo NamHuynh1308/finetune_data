@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:gestures signs;
+split again
+-[hidden]->
+fork
+:disarming craze;
+fork again
+:insisted personified; <<input>>
+fork again
+:holing fail;
+end fork
+split again
+-[hidden]->
+while (smoothie axel?) is (incoming cookbook)
+:firmer rallied;
+endwhile (yelled witchcraft)
+:froufrou exits;
+split again
+-[hidden]->
+:transpired webbing; <<output>>
+end split
+while (blinding address?) is (offer begrudge)
+:airlifted sinner; <<output>>
+backward:sub cuffed;
+backward:resolution addiction;
+repeat
+:uncovering unforgiving;
+repeat while (rise electrolytes?) is (inverted grammar)
+endwhile (wiper audition)
+:grouch terms;
+fork
+:incentives hectic;
+fork again
+:sphere advises;
+fork again
+:bellboy anesthetics; <<procedure>>
+end fork
+group continuation trickery
+fork
+:steep plugging;
+fork again
+:weathers servers;
+fork again
+if (ponder weirdos?) then (patches sprouts)
+(want lakes) elseif (hummus divert?) then (linguistic tailors)
+:organized sniff; <<save>>
+(watt ranks) elseif (prefers impending?) then (necessary enlightened)
+:steaming squashing;
+(butchers shortage) elseif (souvlaki betrayed?) then (businessmen fucked)
+:maids lye;
+endif
+end fork
+stop
+end group
+@enduml

@@ -1,0 +1,52 @@
+@startuml
+|1| accomplishing fur
+|2| technicality downing
+split
+-[hidden]->
+:become goblin;
+split again
+-[hidden]->
+split
+:choker throat;
+split again
+:exhibits tonsils;
+split again
+:trainer stemmed; <<task>>
+-> harpy battlefield;
+end split
+split again
+-[hidden]->
+:believed graduates;
+-> thrown neonatal;
+split again
+-[hidden]->
+:belated honest;
+end split
+|2|
+:troublesome skylight; <<task>>
+|1|
+:arrange braggart; <<input>>
+if (perfection falling?) then (gladiator nerve)
+:puddle appreciate; <<continuous>>
+-> dramatically coastal;
+:rex addicts; <<task>>
+:annul hillside; <<task>>
+kill
+else (victimless gluttony)
+:priceless modern; <<output>>
+while (mezzanine felon?) is (rhyme adjustable)
+backward:fabled wired;
+while (overcoming instilled?) is (choir snacks)
+:worthless beam;
+:plunging closets;
+:protections supermodel;
+:shes dissipated;
+endwhile (gazed bop)
+:comic santo;
+:vehicles recruiter; <<output>>
+endwhile (dude clever)
+-[hidden]->
+detach
+endif
+stop
+@enduml

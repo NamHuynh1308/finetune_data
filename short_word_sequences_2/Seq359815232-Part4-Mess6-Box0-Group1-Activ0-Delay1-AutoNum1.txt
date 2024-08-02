@@ -1,0 +1,22 @@
+@startuml
+participant "beefy gravy" as 0
+participant "reeves timpani" as 1
+participant "goofy sticky" as 2
+participant "comparatively condoms" as 3
+autonumber 10 7
+opt incensed scumbag
+2 -> 2!! : crapper shoemaker
+autonumber stop
+3 -// 3: keg vomit
+else naval pens
+...woven scammed...
+2 ->] : carmine appreciation
+autonumber resume
+ [-> 2: table deployed
+else accompanying glance
+2 <-> 3: doofus celibate
+else applicants moan
+ [<- 2: cans bloke
+autonumber stop
+end
+@enduml

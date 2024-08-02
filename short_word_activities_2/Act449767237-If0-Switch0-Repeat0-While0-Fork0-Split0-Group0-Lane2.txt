@@ -1,0 +1,8 @@
+@startuml
+|1| edited whoopee
+|2| organizer fronts
+:fluttering cashing;
+:races fencing; <<load>>
+|2|
+:connoisseur moneymaker; <<task>>
+@enduml

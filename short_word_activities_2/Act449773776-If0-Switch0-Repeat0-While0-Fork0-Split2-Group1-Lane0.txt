@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:drown cad;
+split again
+-[hidden]->
+:loading without; <<load>>
+-> meltdown wallaby;
+split again
+-[hidden]->
+:fistful lectures; <<save>>
+end split
+group jealousy sissy
+split
+:encinas caff;
+split again
+:greeting controls;
+kill
+split again
+:bane confession; <<input>>
+-> stumbles acquaint;
+split again
+:ladle silliest; <<input>>
+-> stores cheese;
+end split
+stop
+end group
+@enduml

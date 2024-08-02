@@ -1,0 +1,6 @@
+@startuml
+participant "overload fellah" as 0
+participant "coldest kirk" as 1
+ [<- 1: disintegrated fireproof
+1 <-] : caritas turnpike
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "vindicated posse" as 0
+participant "insect unbelievably" as 1
+== diameter carefully ==
+par gullible estimation
+1 -> 0: applied unforgiving
+1 ->] : rudeness assist
+alt membership grindstone
+create participant "suits symbolically" as 2
+1 -> 2 : suits symbolically
+loop passport clogged
+2 --> 2++ : mortars propane
+0 <-> 2: burnt claims
+end
+end
+end
+return pincushion weird
+@enduml

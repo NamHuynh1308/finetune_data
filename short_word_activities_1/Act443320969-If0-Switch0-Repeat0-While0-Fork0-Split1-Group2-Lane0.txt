@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:trashes stoney;
+split again
+-[hidden]->
+:crossroads named; <<procedure>>
+-> pets pledged;
+split again
+-[hidden]->
+:undergarment finch; <<load>>
+-> inch liability;
+split again
+-[hidden]->
+:prospects absorbent;
+-> pyromaniac smidgen;
+end split
+group deluxe spilling
+:morality pleases; <<input>>
+-> civilisation marigold;
+group registrar sketches
+:persons inappropriate; <<load>>
+:yawn perfect; <<save>>
+-> dressy wooden;
+stop
+end group
+end group
+@enduml

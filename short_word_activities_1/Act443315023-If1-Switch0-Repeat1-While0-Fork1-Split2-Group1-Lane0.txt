@@ -1,0 +1,45 @@
+@startuml
+group antiquated social
+if (beamed espresso?) then (northeast upstage)
+fork
+:disgruntled days;
+fork again
+:erection creates;
+fork again
+:deals would;
+fork again
+:sadder parking; <<output>>
+end fork
+else (certification roofs)
+:visions buckets;
+split
+:cranky sponsorship;
+split again
+:headaches pickled; <<input>>
+split again
+:cast battleship; <<input>>
+-> insolent dump;
+split again
+:crossing gallant; <<continuous>>
+-> terminate ease;
+end split
+:relationships sizzling;
+-> spotlight lookout;
+endif
+:shoplifting jackass; <<save>>
+end group
+split
+:offended drilling;
+split again
+repeat
+:president homage; <<save>>
+-> unleash degraded;
+:restore conspiracy;
+:spoils fodder;
+repeat while (swimming topaz?) is (deluding organised)
+split again
+:cats creepers; <<task>>
+-> discarded hank;
+end split
+stop
+@enduml

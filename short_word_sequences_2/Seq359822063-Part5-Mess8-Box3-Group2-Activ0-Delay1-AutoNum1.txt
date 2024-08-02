@@ -1,0 +1,32 @@
+@startuml
+participant "everyone benches" as 0
+box "redefine outgrow"
+participant "rehab nuttier" as 1
+box "boozer pants"
+participant "trajectory legality" as 2
+box "hellhound mime"
+participant "snakebite fox" as 3
+end box
+end box
+end box
+autonumber 4 9
+2 -> 2: quarters bequest
+opt barbershop sedated
+...cosmopolitan alcove...
+ [-> 2: trained nougat
+ [-> 3: louder pacing
+create participant "biscuit sailing" as 4
+3 -> 4 : biscuit sailing
+autonumber stop
+2 -// 0: fatso screeching
+else beagle uglies
+2 -> 4!! : ritualistic apparel
+autonumber resume
+loop prowler jets
+1 ->x 1: freak watchful
+autonumber stop
+2 -// 0: wildfire deceit
+autonumber resume
+end
+end
+@enduml

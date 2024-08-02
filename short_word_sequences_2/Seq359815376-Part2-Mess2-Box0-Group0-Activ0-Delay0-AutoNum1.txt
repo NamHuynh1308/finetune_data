@@ -1,0 +1,10 @@
+@startuml
+participant "peeked psychically" as 0
+participant "busboy estimate" as 1
+== sad gags ==
+autonumber 5 7
+0 -\\ 1: pale backing
+autonumber stop
+1 -> 1: bays pinky
+autonumber resume
+@enduml

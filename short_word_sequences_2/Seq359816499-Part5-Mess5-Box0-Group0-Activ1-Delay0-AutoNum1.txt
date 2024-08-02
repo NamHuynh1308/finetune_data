@@ -1,0 +1,17 @@
+@startuml
+participant "hangout reportedly" as 0
+participant "dwelling antibiotics" as 1
+participant "prednisone proceedings" as 2
+participant "affidavits files" as 3
+== degenerative constituents ==
+autonumber 4 3
+2 -> 3: sinister connected
+ [<- 0: baton resolving
+autonumber stop
+2 <-] : schmooze appointment
+autonumber resume
+1 --//o 1++ : shy interrupt
+create participant "refuses tarmac" as 4
+1 -> 4 : refuses tarmac
+return barrage punishment
+@enduml

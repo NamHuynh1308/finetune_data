@@ -1,0 +1,37 @@
+@startuml
+:hesitates tasks; <<continuous>>
+group rolf condoned
+switch (potatoes yeast?)
+case (indiscretions discussion?)
+repeat
+:fathering chateau; <<task>>
+backward:amigo bulbous;
+backward:moldy flustered;
+repeat while (commence discarded?) is (purely gagged)
+-> popular pawn;
+case (partial bigotry?)
+if (seduce scientist?) then (appears menu)
+(dubious geeks) elseif (lapse vocal?) then (veritable farewell)
+:nutshell mastered;
+(evil eye) elseif (uncharacteristically bucko?) then (transfusions mache)
+:tested omelette;
+(brainwashed presided) elseif (exemptions chemically?) then (pink transcript)
+:slim roofs;
+endif
+case (cutesy waitressed?)
+if (physicals siege?) then (mission viewed)
+(airs jeopardy) elseif (excitement roosters?) then (girls jacket)
+:journals swamp; <<save>>
+(queen winos) elseif (edging realistically?) then (westward cutler)
+:direct inbred;
+(at rent) elseif (horsemen bulldoze?) then (literate dioxide)
+:estimated dispensed;
+(curriculum fetus) elseif (untraceable lux?) then (recitation criteria)
+:torrent distributed; <<procedure>>
+endif
+case (uses drunk?)
+:schnitzel depository; <<procedure>>
+endswitch
+stop
+end group
+@enduml

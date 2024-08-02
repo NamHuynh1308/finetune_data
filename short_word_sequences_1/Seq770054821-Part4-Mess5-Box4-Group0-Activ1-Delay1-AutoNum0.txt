@@ -1,0 +1,21 @@
+@startuml
+box "beloved link"
+participant "shelves ramp" as 0
+box "dedicating muscled"
+participant "embezzling tutor" as 1
+box "inkling felon"
+participant "buggy celebrates" as 2
+box "cannot teas"
+participant "wringing ingenue" as 3
+end box
+end box
+end box
+end box
+3 -// 1++ : reimburse safeguard
+0 -> 2: manning this
+return huggers pillar
+3 ->o 0: hisself stirring
+1 -> 3!! : dinero registry
+...officiate siesta...
+2 -->x 3: auld beeps
+@enduml

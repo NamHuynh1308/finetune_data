@@ -1,0 +1,16 @@
+@startuml
+participant "councillor caterwauling" as 0
+participant "pork classless" as 1
+participant "revert mentioning" as 2
+1 <-> 0++ : shrubs flourished
+critical ar lance
+1 -->x 0++ : hostility taste
+2 -> 1: lobby sissy
+2 -> 1: phantom patty
+else bite coin
+ [<- 0: engraving issuing
+else rev cleave
+end
+return depriving emerge
+return locks alleging
+@enduml

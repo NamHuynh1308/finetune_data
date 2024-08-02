@@ -1,0 +1,15 @@
+@startuml
+participant "arrests authorize" as 0
+box "icicle unmarked"
+participant "teaspoons gold" as 1
+participant "exploding judge" as 2
+end box
+participant "consoling vitals" as 3
+0 <-] : gargling yards
+2 -> 3: replied evaluate
+2 ->] : grid bedlam
+ [-> 3: jeez systematically
+critical granting summons
+3 --//o 3: hopeless router
+end
+@enduml

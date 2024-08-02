@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:ostracized three;
+split again
+-[hidden]->
+if (conspiracy neutral?) then (deuces alto)
+:splinters swedes;
+:kirk bell; <<continuous>>
+else (bazaar handstand)
+:trespassed umm; <<load>>
+-> bleached riddle;
+:bussing implicated;
+:dahl honorably; <<load>>
+-> choppy flaps;
+endif
+split again
+-[hidden]->
+:freedoms actors; <<save>>
+end split
+group named intense
+:decapitated poking; <<procedure>>
+-> fortuneteller deluxe;
+:round godsend; <<task>>
+end group
+group lama veil
+if (darling twelve?) then (pleasing giggle)
+:unsettled differs; <<continuous>>
+-> manticore digits;
+kill
+else (punish accelerated)
+fork
+:henchmen nylon;
+fork again
+:locket unburden;
+fork again
+:rages amin; <<continuous>>
+end merge
+endif
+stop
+end group
+@enduml

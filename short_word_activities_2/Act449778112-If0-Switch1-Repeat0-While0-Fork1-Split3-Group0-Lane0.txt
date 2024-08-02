@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:fretting iguana;
+split again
+-[hidden]->
+split
+:pew jane;
+split again
+:issued transfers; <<input>>
+split again
+:granting chameleon;
+end split
+split again
+-[hidden]->
+:groupies surround; <<save>>
+split again
+-[hidden]->
+fork
+:manhole pretended;
+fork again
+:inhabit purification; <<input>>
+fork again
+:iguanas charging;
+end fork
+end split
+split
+:bullion decor;
+split again
+:due idealist; <<procedure>>
+split again
+:opponent untamed; <<continuous>>
+split again
+switch (wont touring?)
+case (dean worshippers?)
+:fringe zest;
+case (oaths hairdresser?)
+:depicting shaky;
+-> near stemmed;
+case (behalf fuels?)
+:attempt interacting;
+case (grins businesswomen?)
+:contortionist dinner;
+endswitch
+end split
+:volt sicker; <<continuous>>
+-> aneurysm fosse;
+@enduml

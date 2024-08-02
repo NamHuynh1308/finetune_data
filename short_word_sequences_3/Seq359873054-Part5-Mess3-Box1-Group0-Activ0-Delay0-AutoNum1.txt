@@ -1,0 +1,16 @@
+@startuml
+participant "gerbil induction" as 0
+participant "contestants strengthen" as 1
+box "misinterpretation weirdos"
+participant "underpaid hooks" as 2
+end box
+== sucker malnourished ==
+autonumber 5 1
+ [-> 0: meditating duress
+create participant "fad centered" as 3
+0 -> 3 : fad centered
+autonumber stop
+create participant "sincerity meter" as 4
+3 -> 4 : sincerity meter
+autonumber resume
+@enduml

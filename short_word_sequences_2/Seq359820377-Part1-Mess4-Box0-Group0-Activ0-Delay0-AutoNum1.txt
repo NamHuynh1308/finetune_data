@@ -1,0 +1,8 @@
+@startuml
+participant "move terraforming" as 0
+autonumber 1 6
+0 -\\ 0: undetected lids
+0 --> 0: shroud beneficial
+0 --//o 0: progeny up
+0 <-> 0: sage exacerbate
+@enduml

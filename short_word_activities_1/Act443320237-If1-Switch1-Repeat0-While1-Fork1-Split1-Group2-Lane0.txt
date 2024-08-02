@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:prophets chain;
+split again
+-[hidden]->
+while (drugs easy?) is (brochures ordered)
+backward:statute sic;
+backward:freedman chance;
+endwhile (dandelion latrine)
+:interaction exception;
+split again
+-[hidden]->
+if (shout obviously?) then (underpaid splits)
+(heater campaign) elseif (coincidence hearts?) then (lack spruce)
+:mapping nosebleeds;
+(vocabulary smelling) elseif (handwriting rosebud?) then (silences squeezes)
+:undermined squashing; <<input>>
+endif
+split again
+-[hidden]->
+:sleepwalk fortune; <<procedure>>
+end split
+group nominate sang
+:domicile wicked; <<procedure>>
+switch (torches cohesion?)
+case (burglar wedges?)
+fork
+:husk nostril;
+fork again
+:siren sayonara;
+-> silliness leopards;
+fork again
+:fairy brink; <<input>>
+end fork
+case (pollack slippery?)
+:toga distrustful; <<save>>
+-> wean tangible;
+endswitch
+end group
+group image casual
+:agree peddle;
+stop
+end group
+@enduml

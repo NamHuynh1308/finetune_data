@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:stakeouts flesh;
+split again
+-[hidden]->
+:viceroy pillage; <<task>>
+split again
+-[hidden]->
+:consults birthmark;
+split again
+-[hidden]->
+:fraternity centred;
+end split
+group sleigh shoved
+split
+:forget scenes;
+split again
+fork
+:telescopic councilors;
+fork again
+:prisoner bangers;
+fork again
+:talisman effectiveness; <<save>>
+end merge
+split again
+:grilled annoys;
+end split
+stop
+end group
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+box "spaceship sublevel"
+participant "inferior lei" as 0
+participant "absconded makeovers" as 1
+end box
+autonumber 3 4
+0 <-> 1: crumble chamberlain
+autonumber stop
+0 -> 1: dance sequel
+@enduml

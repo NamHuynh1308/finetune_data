@@ -1,0 +1,23 @@
+@startuml
+box "shuts cavities"
+participant "birdcage treatment" as 0
+participant "kilometers leaver" as 1
+end box
+participant "approximate dunks" as 2
+participant "snores youngster" as 3
+autonumber 0 8
+0 -// 0: ostracized cornflakes
+...vigorously nymphomaniac...
+3 ->> 0: razors scant
+opt pickle eruption
+3 -> 0++ : corporate cautious
+...starring super...
+3 -// 2: sugar cannons
+0 -> 1++ : amino sat
+else sneezed defined
+1 -->x 2: tip annoyingly
+0 -> 1: presentable abandon
+return prognosis reciting
+end
+return dominance museum
+@enduml

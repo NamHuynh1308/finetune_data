@@ -1,0 +1,15 @@
+@startuml
+participant "jest troublemakers" as 0
+participant "powered roommates" as 1
+autonumber 3 4
+0 -\\ 1: liftoff staging
+1 --//o 0: vying fulfil
+0 -> 0: dribble colour
+create participant "grabbing trip" as 2
+0 -> 2 : grabbing trip
+1 -\\ 0++ : enslaved renounce
+break registrar dating
+ [<- 2: redeeming reckoning
+end
+return regroup exclusion
+@enduml

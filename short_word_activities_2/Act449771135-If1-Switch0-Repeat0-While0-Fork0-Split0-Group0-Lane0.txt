@@ -1,0 +1,10 @@
+@startuml
+if (porcupine terminology?) then (sandbag unearth)
+:grafts cerebral; <<continuous>>
+-> tater critics;
+else (overstay infirmary)
+:grownups notified;
+-> incoming poofs;
+endif
+stop
+@enduml

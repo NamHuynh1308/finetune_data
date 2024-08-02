@@ -1,0 +1,12 @@
+@startuml
+participant "charter barbarian" as 0
+participant "divided bandits" as 1
+autonumber 0 1
+ [<- 0: himself traction
+...exercises overtaken...
+0 -> 1++ : incidental deposited
+...teenage unfairly...
+0 -> 1!! : casserole bullet
+autonumber stop
+return chill creeps
+@enduml

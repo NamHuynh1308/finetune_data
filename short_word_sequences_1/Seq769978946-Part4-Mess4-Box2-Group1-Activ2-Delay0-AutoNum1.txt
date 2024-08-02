@@ -1,0 +1,21 @@
+@startuml
+participant "escort improve" as 0
+box "disheartening clerks"
+participant "furiously ravings" as 1
+participant "bellman patented" as 2
+box "opens roscoe"
+participant "hammer sinks" as 3
+end box
+end box
+autonumber 8 0
+0 -> 1: demographics tots
+1 -> 3: treads dom
+0 ->o 2++ : sox rectangle
+autonumber stop
+alt vagabond noticing
+0 -> 0++ : slash wisely
+autonumber resume
+end
+return idiot kaiser
+return cognac crops
+@enduml

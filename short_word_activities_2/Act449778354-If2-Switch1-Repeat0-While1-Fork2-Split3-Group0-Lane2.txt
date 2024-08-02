@@ -1,0 +1,82 @@
+@startuml
+|1| affront bluebells
+|2| cowed idols
+split
+-[hidden]->
+:painful sources;
+split again
+-[hidden]->
+:demure goober; <<input>>
+-> taxis antique;
+split again
+-[hidden]->
+:installing indictment; <<task>>
+end split
+fork
+:progresses respect;
+fork again
+:shindig dispatcher; <<input>>
+-> fads soft;
+fork again
+:regrettably pollen; <<procedure>>
+end fork
+:targeted banshee;
+fork
+:delightful benefit;
+fork again
+:ventilate discreetly; <<output>>
+-> kibosh handbook;
+fork again
+split
+:hong town;
+split again
+:hotel voices;
+-> profits fractures;
+split again
+:racketeer bracken;
+kill
+split again
+:shushing documentary;
+end split
+fork again
+:murmur burbs; <<procedure>>
+-> engrossed situated;
+end fork
+split
+:upstairs fresher;
+split again
+:authentic sidewalk;
+split again
+switch (customarily insist?)
+case (reimbursed still?)
+:jigsaw kilt;
+-> incarnation bigmouth;
+case (assuredly fail?)
+:youngsters boxcar; <<input>>
+case (gobbles debatable?)
+:shaping warhead;
+-> vendettas hissing;
+endswitch
+split again
+:hologram negligence; <<save>>
+-> shillings oiled;
+end split
+if (aspirations handcuffed?) then (flee dissection)
+if (hooded hetero?) then (forging enrich)
+:porridge armed; <<procedure>>
+else (exhausts bananas)
+:leafy blimp;
+-> shout retro;
+endif
+else (overwhelm sissy)
+:overrun stride; <<load>>
+:gabbing dyeing; <<input>>
+while (tet understands?) is (lips verified)
+:overalls treaters;
+:powerful bean;
+-> bathed muscles;
+endwhile (tall key)
+-[hidden]->
+detach
+endif
+@enduml

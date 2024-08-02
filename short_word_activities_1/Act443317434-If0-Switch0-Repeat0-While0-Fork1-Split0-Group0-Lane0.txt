@@ -1,0 +1,15 @@
+@startuml
+start
+fork
+:faintest vials;
+fork again
+:brood decide;
+fork again
+:require mixes; <<load>>
+-> chesty coriander;
+fork again
+:latrine scripts; <<load>>
+-> weeks comforts;
+end fork
+end
+@enduml

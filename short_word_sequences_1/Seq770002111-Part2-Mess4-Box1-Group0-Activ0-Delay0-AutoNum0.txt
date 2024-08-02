@@ -1,0 +1,11 @@
+@startuml
+participant "trolls actuarial" as 0
+box "freezers low"
+participant "revamp astrophysics" as 1
+end box
+== filibuster payload ==
+1 -> 0!! : caddie namely
+1 -\\ 0: accommodations chances
+0 --//o 0: scuff sort
+1 -> 0!! : valet scintillating
+@enduml

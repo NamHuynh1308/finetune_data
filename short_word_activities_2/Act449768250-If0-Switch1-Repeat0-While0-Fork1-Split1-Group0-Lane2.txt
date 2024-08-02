@@ -1,0 +1,42 @@
+@startuml
+|1| glazed substances
+|2| renovating logger
+split
+-[hidden]->
+:theologian infecting;
+split again
+-[hidden]->
+:awards firing;
+-> diaphragms affections;
+split again
+-[hidden]->
+:thumping transport; <<output>>
+end split
+:formula partied; <<input>>
+switch (gasping spectacle?)
+case (combusted payments?)
+fork
+:thumb prejudicial;
+fork again
+:tragedy cuticles;
+fork again
+:organised trucks;
+end merge
+case (disapproving happening?)
+:namely yards; <<continuous>>
+case (herring evacuating?)
+:shunt hanky;
+case (goal inflate?)
+:vaginas manifesting; <<task>>
+-> felling harassed;
+endswitch
+|2|
+:pup cartel; <<load>>
+-> arresting grubby;
+|1|
+:monitors militants; <<procedure>>
+|2|
+:illuminating exculpatory;
+-> corps escorted;
+end
+@enduml

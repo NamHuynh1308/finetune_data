@@ -1,0 +1,12 @@
+@startuml
+:presenting bubbles; <<procedure>>
+-> greatly aliases;
+fork
+:condiment man;
+fork again
+:revive bombings;
+fork again
+:wiretaps reinstate; <<procedure>>
+end fork
+stop
+@enduml

@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:misconception imbedded;
+split again
+-[hidden]->
+:lime savour; <<task>>
+-> consecutive toby;
+split again
+-[hidden]->
+:tomatoes tad; <<save>>
+split again
+-[hidden]->
+split
+:operating pocketful;
+split again
+:lizard session;
+split again
+:audacity fusion; <<input>>
+end split
+end split
+:debates joint; <<input>>
+fork
+:morning wants;
+fork again
+:hungover giddyup;
+-> inbred outback;
+fork again
+:legwork behind; <<load>>
+fork again
+repeat
+:record rover;
+repeat while (deputies unscrupulous?) is (bonnet gangway)
+-> ticker asteroids;
+end fork
+split
+:assimilate spun;
+split again
+:schizophrenia chowder;
+split again
+switch (fable traumatizing?)
+case (recanting logically?)
+:bat meaningless;
+case (memorize garters?)
+:havoc incrimination;
+kill
+endswitch
+end split
+stop
+@enduml

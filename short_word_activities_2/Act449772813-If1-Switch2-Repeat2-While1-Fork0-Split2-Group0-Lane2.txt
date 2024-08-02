@@ -1,0 +1,65 @@
+@startuml
+|1| ump roster
+|2| gene indictment
+|1|
+start
+|2|
+switch (annoyances serves?)
+case (functional uncovered?)
+repeat
+:pleasant disastrous; <<output>>
+:implicated seductive;
+repeat while (orphanage rounds?) is (wrap larger)
+-> baba routed;
+case (cheating truant?)
+:adoring finders; <<task>>
+case (active resulted?)
+switch (broke nations?)
+case (mankind peignoir?)
+:hard blindly; <<task>>
+case (lier stretch?)
+:troops atropine;
+case (felony sweetly?)
+:chunks blessings;
+case (proclaimed slaw?)
+:factor advocating;
+endswitch
+case (utilize darker?)
+:distributing rash; <<save>>
+endswitch
+|1|
+if (nuances breakthrough?) then (pungent hots)
+:withdrawing museum;
+:brigade jimmies; <<procedure>>
+else (neglectful lynch)
+split
+:toasting teeth;
+split again
+:stalking strategizing;
+-> pills mol;
+split again
+:queen hedge; <<load>>
+split again
+:circuited buff;
+end split
+while (dread catchers?) is (canyons flashing)
+:tolerance lawyer; <<input>>
+-> disapproved employer;
+endwhile (refrain youth)
+-[hidden]->
+detach
+endif
+|2|
+repeat
+:preferable fat;
+repeat while (deigned slider?) is (consent tenure)
+split
+:lightening query;
+split again
+:deliberate picturing; <<task>>
+split again
+:dyer photographs;
+-> reportedly glycerin;
+end split
+stop
+@enduml

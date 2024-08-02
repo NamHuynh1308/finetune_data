@@ -1,0 +1,19 @@
+@startuml
+participant "luce benthic" as 0
+box "victoria contours"
+participant "bypass unto" as 1
+end box
+0 -> 1: strategies feat
+opt comatose slots
+...sway jollies...
+ [<- 0: bolt transaction
+1 -// 1: stage traps
+else getter julep
+...reinventing slacks...
+1 -> 0: laptops unclaimed
+opt bud mailboxes
+...clamped facets...
+0 ->o 0: astrophysics cited
+end
+end
+@enduml

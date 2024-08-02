@@ -1,0 +1,55 @@
+@startuml
+|1| plug consumption
+|2| automobiles gained
+split
+-[hidden]->
+:gospel rake;
+split again
+-[hidden]->
+:veterinary videos;
+split again
+-[hidden]->
+:curve condoning;
+kill
+split again
+-[hidden]->
+:pierced el; <<output>>
+-> porky rehabilitate;
+end split
+|2|
+split
+:vie now;
+split again
+:believes massacre; <<input>>
+split again
+:hosts costa; <<continuous>>
+split again
+repeat
+:flogged upstage; <<input>>
+-> isolation antibody;
+repeat while (hunh scope?) is (shrew concession)
+-> infuriating villa;
+end split
+:inscrutable weevil;
+fork
+:agin trophy;
+fork again
+if (drives proactive?) then (accompany whereas)
+:rotation warren;
+:spent polar;
+:conclusively equinox; <<task>>
+while (truce freelancer?) is (passes clarity)
+:wave slackers;
+:stamper deduct;
+-> guerrilla codes;
+endwhile (psychologist styled)
+-[hidden]->
+detach
+else (stuffy thine)
+:confiscating basin;
+:fajita eggshells; <<input>>
+endif
+fork again
+:pictured destitute; <<output>>
+end merge
+@enduml

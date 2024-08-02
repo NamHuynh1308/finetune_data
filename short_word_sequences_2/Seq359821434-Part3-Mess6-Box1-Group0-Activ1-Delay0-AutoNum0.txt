@@ -1,0 +1,14 @@
+@startuml
+participant "fraction taunting" as 0
+box "claimed detectors"
+participant "moneymaker spirits" as 1
+end box
+create participant "promotes blinked" as 2
+0 -> 2 : promotes blinked
+1 <-> 0: tree vodka
+1 -> 0++ : character competition
+2 -> 2: crank glycerin
+return dreading consortium
+2 <-] : factory fantasize
+2 <-] : intravenous furs
+@enduml

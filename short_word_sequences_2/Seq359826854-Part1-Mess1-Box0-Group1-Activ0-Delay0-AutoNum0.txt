@@ -1,0 +1,7 @@
+@startuml
+participant "mesa dinners" as 0
+== hamburgers hookup ==
+opt milt maple
+0 --> 0: northeastern childhood
+end
+@enduml

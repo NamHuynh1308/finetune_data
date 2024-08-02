@@ -1,0 +1,6 @@
+@startuml
+start
+:canines toe;
+-> state lettering;
+stop
+@enduml

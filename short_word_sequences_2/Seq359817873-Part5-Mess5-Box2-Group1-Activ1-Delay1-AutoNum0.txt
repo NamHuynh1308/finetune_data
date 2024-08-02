@@ -1,0 +1,22 @@
+@startuml
+participant "stigmata followed" as 0
+participant "presidential firestorm" as 1
+participant "antihistamines shoveled" as 2
+box "wad mavis"
+participant "socialize taunting" as 3
+box "mankind swamps"
+participant "toppings pacifist" as 4
+end box
+end box
+par ankle adept
+4 ->> 4: barnacle stranded
+2 -> 1++ : lucifer cubs
+else buttoned farmer
+...unsanitary lighthouse...
+3 --//o 0: aqua medevac
+return debacle beige
+1 -> 4!! : thus subsidy
+else arrowhead houses
+0 -->x 1: vastly tasteful
+end
+@enduml

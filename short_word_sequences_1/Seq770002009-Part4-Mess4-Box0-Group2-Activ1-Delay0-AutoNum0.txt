@@ -1,0 +1,16 @@
+@startuml
+participant "cure heartsick" as 0
+participant "pastime vermin" as 1
+participant "muffins yipe" as 2
+participant "intrigues ranging" as 3
+== block geriatric ==
+par shit casinos
+3 --> 0: inaugural reluctant
+loop riddles suave
+0 -> 0++ : notify rusty
+0 -// 3: spell bankroll
+end
+1 --//o 2: binding headless
+return stools battles
+end
+@enduml

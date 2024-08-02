@@ -1,0 +1,45 @@
+@startuml
+|1| footing deviants
+|2| craftsmen incorrigible
+split
+-[hidden]->
+:warsaw kidnap;
+split again
+-[hidden]->
+:cleansed jets;
+split again
+-[hidden]->
+:toller expressing;
+end split
+|2|
+split
+:tampon commensurate;
+split again
+:detergent cylinders; <<output>>
+split again
+if (destruct cool?) then (horseback turkeys)
+:squiggly terrorist;
+else (appetizer recriminations)
+:er fallback;
+:kicking carvers;
+-> embracing digging;
+endif
+end split
+:henry park; <<load>>
+-> vipers nipper;
+|1|
+:playbook thrones; <<save>>
+fork
+:finds refill;
+fork again
+split
+:treasury offshore;
+split again
+:service mowers;
+split again
+:orthodox awakened;
+end split
+fork again
+:retaining currents; <<output>>
+end merge
+@enduml

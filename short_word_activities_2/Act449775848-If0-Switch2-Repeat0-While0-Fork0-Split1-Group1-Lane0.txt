@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:graceful timeline;
+split again
+-[hidden]->
+:pharmaceuticals spells; <<input>>
+-> tachycardia extracurricular;
+split again
+-[hidden]->
+switch (misunderstanding jugular?)
+case (carrying chickened?)
+:beaming speculations;
+case (afternoon letterhead?)
+:requesting prisons;
+-> decapitate javelin;
+endswitch
+split again
+-[hidden]->
+:mixed dues; <<continuous>>
+end split
+group admirably resorts
+switch (rodman cuss?)
+case (prevails veterinary?)
+:paragraphs supplement; <<input>>
+case (un finalists?)
+:hub stung; <<output>>
+case (sweeps elemental?)
+:sphinx whims; <<task>>
+case (acquitted repulsive?)
+:abruptly motherfuckers;
+endswitch
+stop
+end group
+@enduml

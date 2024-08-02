@@ -1,0 +1,9 @@
+@startuml
+start
+group pointless toss
+:jack casing; <<save>>
+-> misplace calmly;
+:pinched limelight; <<load>>
+stop
+end group
+@enduml

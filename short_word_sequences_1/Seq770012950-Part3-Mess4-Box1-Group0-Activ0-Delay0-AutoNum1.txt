@@ -1,0 +1,15 @@
+@startuml
+participant "pis ridding" as 0
+participant "believers ecosystem" as 1
+box "cuddle pencils"
+participant "conformity caregiver" as 2
+end box
+== vacuuming heat ==
+autonumber 8 8
+0 ->] : livelihood farmland
+2 -> 2: corporate performers
+1 <-] : kris watches
+autonumber stop
+0 -> 1: rays beds
+autonumber resume
+@enduml

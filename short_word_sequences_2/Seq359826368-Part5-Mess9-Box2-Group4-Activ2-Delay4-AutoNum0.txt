@@ -1,0 +1,36 @@
+@startuml
+box "rattles providing"
+participant "installment nightcap" as 0
+participant "specimen acclaim" as 1
+end box
+box "hoax gaby"
+participant "placid notwithstanding" as 2
+participant "panicky whoop" as 3
+participant "euthanasia neediness" as 4
+end box
+0 --//o 1: fable writing
+break quoth skulls
+1 <-] : progress harboring
+3 -> 0: geographic reek
+else hooligans podium
+loop futures freshening
+2 -> 1: effectiveness atropine
+3 -> 0: robbins pause
+end
+par hollowed tsk
+...hothead elemental...
+4 -->x 4++ : dyeing checkups
+...mediterranean inkling...
+3 ->] : pegged pickpockets
+else asparagus sweaters
+break fringes prenatal
+...pemmican divisions...
+1 -// 4++ : forefathers blundering
+...filmmaking buddies...
+4 ->> 4: audience yanking
+return puzzle taxpayer
+end
+end
+end
+return cypress mulligan
+@enduml

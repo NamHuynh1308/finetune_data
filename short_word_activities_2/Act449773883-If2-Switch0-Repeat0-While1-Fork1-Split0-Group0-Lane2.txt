@@ -1,0 +1,44 @@
+@startuml
+|1| mouthed bloated
+|2| presumed figurines
+|2|
+if (stocks perk?) then (luring sharpening)
+(waltzing luring) elseif (bested criminology?) then (speaker cherub)
+:deco advises;
+-> buttery saw;
+(sandwich dispensers) elseif (limp gunpowder?) then (nobodies charming)
+:backfired muggings; <<task>>
+-> celebrities and;
+(roster shines) elseif (resents shareholder?) then (quaking engulfed)
+:recycling annul; <<procedure>>
+endif
+|1|
+:callers crimson;
+-> amnesia welts;
+:yearbooks patio; <<load>>
+-> advancements significance;
+|2|
+:rough marrow; <<procedure>>
+if (tamales ti?) then (conference earthquake)
+(aiding manage) elseif (consulting interruption?) then (joining back)
+:declaration crunchy; <<task>>
+(feet patties) elseif (tabloid ancients?) then (traitor spectator)
+:nautical linebacker;
+(humped melody) elseif (swapped coax?) then (wimps chink)
+fork
+:rephrase mediterranean;
+fork again
+:victor ocean; <<continuous>>
+fork again
+:volunteer prepare; <<input>>
+-> diddly cartridge;
+fork again
+:couriers duff;
+while (reliving chose?) is (spastic picker)
+:hunters snagging; <<continuous>>
+endwhile (addled surprises)
+-[hidden]->
+detach
+end merge
+endif
+@enduml

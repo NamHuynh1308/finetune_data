@@ -1,0 +1,13 @@
+@startuml
+participant "spas unhappiness" as 0
+participant "distillery parent" as 1
+participant "song punky" as 2
+ [<- 0: charts employment
+...shuttle strewn...
+0 ->] : helipad erasers
+...offshore initially...
+2 -->x 0: quarry setup
+alt extravaganza whole
+ [-> 0: guaranteeing indigo
+end
+@enduml

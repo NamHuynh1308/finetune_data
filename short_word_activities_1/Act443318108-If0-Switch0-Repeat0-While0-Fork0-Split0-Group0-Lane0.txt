@@ -1,0 +1,5 @@
+@startuml
+start
+:beets antisocial; <<task>>
+end
+@enduml

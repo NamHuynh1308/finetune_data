@@ -1,0 +1,14 @@
+@startuml
+start
+:disowned intends; <<output>>
+group asleep activating
+switch (proxy delegate?)
+case (attempts recordings?)
+:nelly cultural;
+kill
+case (orphaned rentals?)
+:loyalties gunned;
+endswitch
+stop
+end group
+@enduml

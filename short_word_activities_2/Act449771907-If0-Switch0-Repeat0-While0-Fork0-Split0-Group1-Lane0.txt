@@ -1,0 +1,6 @@
+@startuml
+group notary unforeseen
+:duck intestines; <<load>>
+stop
+end group
+@enduml

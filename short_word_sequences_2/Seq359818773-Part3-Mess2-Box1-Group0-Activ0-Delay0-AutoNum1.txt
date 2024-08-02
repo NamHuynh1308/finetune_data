@@ -1,0 +1,10 @@
+@startuml
+participant "squeegee mangy" as 0
+box "vig switchman"
+participant "varnish libation" as 1
+end box
+autonumber 8 1
+1 ->> 1: chamber visits
+create participant "tanner bereft" as 2
+0 -> 2 : tanner bereft
+@enduml

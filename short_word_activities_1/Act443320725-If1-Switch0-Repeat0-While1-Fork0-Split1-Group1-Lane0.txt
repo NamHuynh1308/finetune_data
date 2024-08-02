@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:tanking verbs;
+split again
+-[hidden]->
+:wait mound;
+-> swapping compadre;
+split again
+-[hidden]->
+:manifesto bolster; <<input>>
+end split
+:plot riches; <<output>>
+group exaggerate roughing
+while (stockings chino?) is (headlong warfare)
+backward:impromptu overqualified;
+if (revolved ligature?) then (takin difference)
+(duplex canton) elseif (striptease accelerant?) then (metamorphosis aisles)
+:urkinc;
+kill
+(digits melon) elseif (airhead souvenir?) then (conk clever)
+:affirm heartbeat; <<continuous>>
+(corporate earlier) elseif (recently pilots?) then (uncaring wants)
+:boonies possess; <<procedure>>
+-> days galoshes;
+(despair narrowing) elseif (textile outlandish?) then (assaults hobbit)
+:sloshed artificial; <<save>>
+endif
+backward:scams midterms;
+:benny hula; <<save>>
+-> recognized tween;
+endwhile (mystified consultant)
+:deck opportunist;
+stop
+end group
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+group either steadily
+:ether goo; <<task>>
+-> poultry fretting;
+stop
+end group
+@enduml

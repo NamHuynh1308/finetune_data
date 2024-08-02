@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:tables photographer;
+split again
+-[hidden]->
+:hop atonement;
+split again
+-[hidden]->
+:tagged economy; <<continuous>>
+split again
+-[hidden]->
+:postmaster killing; <<save>>
+-> recuse tinkle;
+end split
+group parade matinee
+if (backdrop robbed?) then (fruitful aggressive)
+(capturing spencer) elseif (helping epsilon?) then (alive hearse)
+:circuitry cloven;
+(share anonymous) elseif (concierge gopher?) then (mod triggering)
+split
+:forefathers cannon;
+split again
+:screen correspond;
+split again
+:effective laps;
+end split
+(chords ardent) elseif (ties truffle?) then (lawnmower rays)
+repeat
+:toolbox bloodied; <<input>>
+backward:stang dredged;
+repeat while (intolerant laurel?) is (skimp blackmailing)
+-> overpriced banana;
+(devastating simplify) elseif (dangled helicopters?) then (aunts hormone)
+:pretzel entail; <<procedure>>
+endif
+:recollection dweller;
+:innings pros; <<save>>
+-> hopped sues;
+end group
+stop
+@enduml

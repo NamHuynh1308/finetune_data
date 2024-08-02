@@ -1,0 +1,15 @@
+@startuml
+participant "apathy lore" as 0
+participant "endeavors spooning" as 1
+participant "thriller mumbling" as 2
+participant "amicable binge" as 3
+== postman wait ==
+2 -> 2: unthinkable superb
+2 -// 2: tampon accessible
+create participant "exhaust gangway" as 4
+2 -> 4 : exhaust gangway
+alt popular handler
+...upstaged licking...
+1 -// 1: relying pharmaceutical
+end
+@enduml

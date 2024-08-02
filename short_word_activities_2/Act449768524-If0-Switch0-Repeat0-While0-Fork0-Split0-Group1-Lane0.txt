@@ -1,0 +1,7 @@
+@startuml
+start
+group underline sharpest
+:hex lowlifes; <<load>>
+stop
+end group
+@enduml

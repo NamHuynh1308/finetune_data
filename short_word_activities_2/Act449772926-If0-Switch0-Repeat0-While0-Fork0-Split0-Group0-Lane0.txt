@@ -1,0 +1,4 @@
+@startuml
+:protectors repair; <<output>>
+stop
+@enduml

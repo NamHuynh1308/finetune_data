@@ -1,0 +1,10 @@
+@startuml
+box "passageways trashed"
+participant "agitated belts" as 0
+end box
+== mitts tightens ==
+autonumber 2 9
+ [<- 0: wrecking mixup
+...voted lumpy...
+0 -> 0: lying hiss
+@enduml

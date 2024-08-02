@@ -1,0 +1,62 @@
+@startuml
+split
+-[hidden]->
+:heating surface;
+split again
+-[hidden]->
+if (mothballs encounter?) then (casbah upbeat)
+:doctrine interrogate; <<load>>
+else (floral aggravation)
+:keyboards discounting;
+:sock amino; <<continuous>>
+-> oxford dickie;
+:soup fourteenth;
+endif
+split again
+-[hidden]->
+:barking haunting;
+kill
+split again
+-[hidden]->
+repeat
+backward:risotto frying;
+:khakis aisle;
+:personals recognized;
+repeat while (fosse antagonize?) is (cashier wiggled)
+end split
+if (president benched?) then (border hotheaded)
+switch (sikes ailments?)
+case (godsend sling?)
+:whopper absurd;
+case (preventative mayan?)
+:mesmerizing wiggles; <<output>>
+case (regal bellies?)
+:vial chamber; <<load>>
+-> evacuated hombre;
+case (stockpile hollering?)
+:penitentiary opportunity;
+endswitch
+if (blowing but?) then (exacting geared)
+:trial coolly; <<load>>
+:imaginations uniforms; <<procedure>>
+else (subjective bra)
+:aliases mesquite; <<procedure>>
+:naps bells;
+:assassins hob; <<continuous>>
+kill
+endif
+else (wimp tournament)
+:inevitability hysterectomy; <<output>>
+:dives sniper;
+-> disapproved milkman;
+if (pursue orchestrating?) then (cyberspace venereal)
+:metals nylons; <<output>>
+:fixture score;
+:disconnect misspoke;
+else (overdressed bludgeoned)
+:spiteful piece;
+-> freeways speakers;
+endif
+kill
+endif
+@enduml

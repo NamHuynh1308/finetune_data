@@ -1,0 +1,22 @@
+@startuml
+box "cucumber flora"
+participant "theoretical withstanding" as 0
+box "symbols wedded"
+participant "vestigial relieving" as 1
+box "ventilator confused"
+participant "lowest toddler" as 2
+participant "chasing unleash" as 3
+participant "finders obeyed" as 4
+end box
+end box
+end box
+2 -> 4: assured wizard
+ [-> 4: lefty serial
+loop something visualizing
+...tragedies cemetery...
+1 ->x 3: sleek thrall
+2 -\\ 3: lumpectomy really
+ [<- 2: contradicting hottest
+else unconscious clandestine
+end
+@enduml

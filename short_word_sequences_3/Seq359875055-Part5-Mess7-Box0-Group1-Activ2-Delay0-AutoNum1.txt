@@ -1,0 +1,24 @@
+@startuml
+participant "warts residue" as 0
+participant "sharpening cottage" as 1
+participant "managers heterosexual" as 2
+participant "processors screwups" as 3
+participant "childbirth stops" as 4
+autonumber 2 10
+loop concocting scalpel
+4 -> 2: questioned oasis
+autonumber stop
+1 ->> 4++ : professionalism guilt
+else protests machinery
+3 <-] : nativity fabricated
+return tightened recording
+autonumber resume
+3 <-> 4: restructuring owned
+ [<- 3: referendums rightly
+0 ->x 2: baffling vitality
+autonumber stop
+4 ->o 1++ : logged famine
+autonumber resume
+end
+return inhibitors unofficial
+@enduml

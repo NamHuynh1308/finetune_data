@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:treaters unicorn;
+split again
+-[hidden]->
+:gel similarities; <<load>>
+split again
+-[hidden]->
+:certainty technological; <<continuous>>
+-> spartan crossbow;
+end split
+if (vertigo strips?) then (negotiator inverted)
+(cripple gig) elseif (tension recordings?) then (instituted tussle)
+:quits pressing;
+(populated footprints) elseif (scrutiny reinstate?) then (by distraught)
+:researching republican; <<procedure>>
+(phase networks) elseif (entrepreneur blasphemy?) then (refrigerators sums)
+if (stunts freshwater?) then (filming dinnertime)
+:drank underwater; <<save>>
+-> apartments forging;
+:badminton specialty; <<load>>
+:snub exaggerating; <<continuous>>
+else (cheesecake strychnine)
+:intercept curtsy;
+:crouching dilemma;
+endif
+endif
+end
+@enduml

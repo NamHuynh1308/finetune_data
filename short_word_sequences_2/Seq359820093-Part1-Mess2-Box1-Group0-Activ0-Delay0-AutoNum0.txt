@@ -1,0 +1,7 @@
+@startuml
+box "epsilon consoled"
+participant "subsidies torah" as 0
+end box
+0 -> 0: grandmothers heckling
+0 -\\ 0: loveable splinter
+@enduml

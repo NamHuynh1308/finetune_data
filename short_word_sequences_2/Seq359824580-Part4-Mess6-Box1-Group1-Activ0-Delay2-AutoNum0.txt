@@ -1,0 +1,18 @@
+@startuml
+participant "taxpayers feta" as 0
+participant "reference finale" as 1
+box "cricket chimps"
+participant "contributors displacement" as 2
+end box
+0 <-] : spartan culpa
+1 -> 2!! : madonna belongings
+...manly enthusiast...
+0 <-] : sausage editing
+2 <-] : rehash branching
+opt subdued metro
+...ramrod horoscopes...
+0 <-] : forester afterglow
+create participant "banshee hemorrhaging" as 3
+2 -> 3 : banshee hemorrhaging
+end
+@enduml

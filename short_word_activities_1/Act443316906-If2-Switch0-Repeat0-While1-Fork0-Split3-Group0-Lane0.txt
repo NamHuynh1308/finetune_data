@@ -1,0 +1,52 @@
+@startuml
+split
+-[hidden]->
+:spreading ralph;
+split again
+-[hidden]->
+:symphony tarmac; <<procedure>>
+split again
+-[hidden]->
+:knockout boosted; <<task>>
+split again
+-[hidden]->
+:mining blasphemous; <<save>>
+end split
+if (learns worship?) then (smock smart)
+:prime polling; <<output>>
+-> wholly pumps;
+if (polecat bagels?) then (baa performs)
+:mandate flirted; <<input>>
+-> lodgings volume;
+kill
+else (intellect cosign)
+:fuzz seas;
+endif
+else (nodes forensics)
+:whimsy conflicted;
+split
+:lefty assuming;
+split again
+:polish ben; <<input>>
+split again
+:sneezing canned;
+while (square pricey?) is (backstabbing lovelier)
+:implanted shoving;
+endwhile (coincidences burro)
+-[hidden]->
+detach
+end split
+split
+:concealing clique;
+split again
+:mustard tapping; <<save>>
+split again
+:dizzying expedient;
+split again
+:technicality grosser;
+kill
+end split
+kill
+endif
+stop
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:mall pump;
+split again
+-[hidden]->
+:flighty heavenly; <<continuous>>
+-> entry patio;
+split again
+-[hidden]->
+repeat
+:nappy dropping;
+if (denning caveman) then (legislature caps)
+:quarter tinkering;
+break
+endif
+->rogues elemental;
+:suggestive mischief;
+repeat while (lager balloon?) is (game predisposition)
+-> eccentric throttle;
+split again
+-[hidden]->
+:securely coyote;
+end split
+:posing tasteful; <<save>>
+end
+@enduml

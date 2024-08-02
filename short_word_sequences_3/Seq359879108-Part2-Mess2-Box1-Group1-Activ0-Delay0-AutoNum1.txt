@@ -1,0 +1,12 @@
+@startuml
+participant "distasteful quarantined" as 0
+box "healed recycle"
+participant "happened levelheaded" as 1
+end box
+autonumber 9 7
+loop areas overcrowded
+1 -\\ 1: bluff lava
+autonumber stop
+0 -> 1!! : heckle visually
+end
+@enduml

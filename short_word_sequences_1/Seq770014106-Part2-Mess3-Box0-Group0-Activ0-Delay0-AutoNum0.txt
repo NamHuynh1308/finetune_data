@@ -1,0 +1,7 @@
+@startuml
+participant "calmer constable" as 0
+participant "brewed separating" as 1
+0 -> 1: disowned seize
+1 -> 0: disturbance treasured
+0 -// 1: deco died
+@enduml

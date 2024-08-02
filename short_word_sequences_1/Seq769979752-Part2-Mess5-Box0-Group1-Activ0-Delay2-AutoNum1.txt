@@ -1,0 +1,15 @@
+@startuml
+participant "deposing sidecar" as 0
+participant "five lap" as 1
+autonumber 0 8
+1 <-] : puss slugs
+1 --//o 1: stimulated accomplishments
+0 -> 1: ticketed housekeeping
+par noodle gentle
+...virtuoso turnips...
+1 -->x 0: gear been
+...lax noticing...
+1 -> 0!! : ecological scooped
+autonumber stop
+end
+@enduml

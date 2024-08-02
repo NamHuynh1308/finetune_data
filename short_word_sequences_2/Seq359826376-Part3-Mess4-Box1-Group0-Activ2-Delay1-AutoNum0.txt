@@ -1,0 +1,15 @@
+@startuml
+participant "jaws counterpart" as 0
+box "doubled yikes"
+participant "vacation anonymous" as 1
+end box
+== duvet manna ==
+create participant "hooking farms" as 2
+1 -> 2 : hooking farms
+2 <-> 0++ : corkscrew unlocked
+...gander gram...
+1 -> 1++ : milk pledge
+1 ->x 2: lunching insecurities
+return brake titty
+return enslave volcanoes
+@enduml

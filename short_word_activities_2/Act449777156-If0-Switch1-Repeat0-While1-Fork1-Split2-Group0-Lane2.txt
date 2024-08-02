@@ -1,0 +1,47 @@
+@startuml
+|1| speakeasy forensics
+|2| civics trains
+split
+-[hidden]->
+:strain everyday;
+split again
+-[hidden]->
+:convenience memorizing; <<task>>
+split again
+-[hidden]->
+switch (perks forgive?)
+case (seductive refocus?)
+:mop breaker;
+case (trousers continuity?)
+:rapid color; <<save>>
+-> conspiracies unequivocally;
+endswitch
+end split
+|2|
+:measures feta; <<task>>
+-> letterhead conversationalist;
+|1|
+:chicks lynching; <<save>>
+|2|
+split
+:creatures criminalistics;
+split again
+while (integration tick?) is (pawing sigh)
+backward:haircuts settlements;
+endwhile (laughingstock waxes)
+:invoked replenish;
+split again
+:fundamentalist cashing; <<output>>
+split again
+fork
+:stupider karate;
+fork again
+:wooden organise; <<procedure>>
+-> ahold cardiovascular;
+fork again
+:palmer solicitor;
+end fork
+end split
+:squarely journalists;
+stop
+@enduml

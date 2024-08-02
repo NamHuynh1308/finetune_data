@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:lunching consort;
+split again
+-[hidden]->
+:scarcely highest; <<output>>
+split again
+-[hidden]->
+fork
+:sacrament barracuda;
+fork again
+:angioplasty luscious; <<save>>
+fork again
+:premonition clods; <<continuous>>
+-> alderman habits;
+fork again
+:acoustics housekeeping; <<output>>
+end merge
+end split
+group recruited feverish
+while (knobby puppeteer?) is (bowls huck)
+split
+:credo gran;
+split again
+:palpable aligning; <<load>>
+split again
+:private vertical;
+end split
+backward:giving grisly;
+backward:bath cuss;
+endwhile (sonar citizenship)
+:mort lift;
+group civil cultures
+fork
+:prouder smokey;
+fork again
+:silks jockeys; <<output>>
+-> nutcracker pug;
+fork again
+:communities pathologically;
+kill
+end merge
+group guessed calculate
+:digit cutest; <<input>>
+stop
+end group
+end group
+end group
+@enduml

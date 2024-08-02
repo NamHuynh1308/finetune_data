@@ -1,0 +1,10 @@
+@startuml
+box "pickpockets spikes"
+participant "transitional caverns" as 0
+end box
+== hurst pushers ==
+0 --> 0: teaspoons vice
+create participant "vestigial merchandising" as 1
+0 -> 1 : vestigial merchandising
+0 -> 0: progression enhanced
+@enduml

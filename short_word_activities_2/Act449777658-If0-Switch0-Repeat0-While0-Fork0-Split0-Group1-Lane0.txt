@@ -1,0 +1,7 @@
+@startuml
+start
+group pistols captain
+:bilingual lunged; <<procedure>>
+stop
+end group
+@enduml

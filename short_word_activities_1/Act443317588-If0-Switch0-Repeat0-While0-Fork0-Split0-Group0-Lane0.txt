@@ -1,0 +1,7 @@
+@startuml
+start
+:locomotive plumbers;
+-> listeners forgive;
+:syndrome hypocrisy; <<continuous>>
+end
+@enduml

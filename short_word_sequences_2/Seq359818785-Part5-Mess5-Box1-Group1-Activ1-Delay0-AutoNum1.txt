@@ -1,0 +1,20 @@
+@startuml
+participant "dosage disabling" as 0
+participant "sweatpants its" as 1
+box "flames stood"
+participant "stylings advertising" as 2
+participant "spotted boot" as 3
+end box
+autonumber 0 7
+1 --//o 2: muggers bunting
+1 ->x 1: seminary untrained
+autonumber stop
+1 -->x 0++ : lifelike cutler
+create participant "criticizing toiling" as 4
+0 -> 4 : criticizing toiling
+autonumber resume
+opt bankrupt ranch
+2 -> 4: rails hath
+return related energized
+end
+@enduml

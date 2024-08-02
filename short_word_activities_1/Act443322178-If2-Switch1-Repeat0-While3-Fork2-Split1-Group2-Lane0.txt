@@ -1,0 +1,65 @@
+@startuml
+start
+group filly builds
+if (sneaking glove?) then (contributing thee)
+fork
+:irresistible columnists;
+fork again
+:transgressions sounded;
+kill
+fork again
+:encounter bagman;
+end merge
+else (visit headlong)
+:novel inner; <<save>>
+split
+:displacement schizo;
+split again
+:perchance lungs; <<save>>
+split again
+:bracing bristol;
+end split
+while (brighten qualifies?) is (sunless platypus)
+:quoting gills;
+endwhile (yikes den)
+:insincere holding;
+endif
+group edges summoning
+while (flippers fixed?) is (ties influential)
+fork
+:shuffle emerald;
+fork again
+:timbers bust; <<input>>
+fork again
+:benjamins minks; <<continuous>>
+fork again
+:sights snore;
+end fork
+:enjoys night; <<procedure>>
+endwhile (shifts sublime)
+:picky grape;
+if (respectfully sax?) then (illicit rubs)
+switch (quicker realistic?)
+case (wooden morris?)
+:indict recorder;
+case (detonated sheet?)
+:compatibility market; <<output>>
+endswitch
+while (plummeting browbeat?) is (outlander bumpy)
+:barely accusations; <<save>>
+:symbol cupboard; <<output>>
+-> subsidies thrilled;
+:suspected waited; <<save>>
+-> negotiator crabs;
+endwhile (received performs)
+-[hidden]->
+detach
+else (seashells unfounded)
+:symbiote renewing; <<load>>
+:prophecies nostrils;
+kill
+endif
+end group
+stop
+end group
+@enduml

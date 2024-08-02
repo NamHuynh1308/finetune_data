@@ -1,0 +1,12 @@
+@startuml
+participant "cage refreshments" as 0
+participant "created encounter" as 1
+participant "periods droll" as 2
+== scale artichokes ==
+0 -// 1++ : misinformed mule
+2 -> 0++ : wider malfunction
+1 -->x 2++ : heaving conversations
+return unprincipled corned
+return shove indigestion
+return shaking rapes
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "arts explosives" as 0
+box "evaluate cubed"
+participant "charged seems" as 1
+participant "linear sponge" as 2
+end box
+autonumber 9 5
+loop defect splat
+1 ->o 0++ : passkey gene
+autonumber stop
+2 ->o 0: debated sticks
+create participant "freelance eases" as 3
+0 -> 3 : freelance eases
+else bacterial wilderness
+end
+return correlation dice
+@enduml

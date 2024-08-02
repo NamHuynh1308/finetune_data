@@ -1,0 +1,7 @@
+@startuml
+box "condor treads"
+participant "hellhole draws" as 0
+end box
+create participant "displays columnist" as 1
+0 -> 1 : displays columnist
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "gloriously unseasonably" as 0
+box "blubbering surging"
+participant "secretarial appease" as 1
+participant "vulture moonlit" as 2
+end box
+create participant "creep ghettos" as 3
+2 -> 3 : creep ghettos
+break jellyfish crude
+2 -// 0: shoplifting stiff
+3 -> 2: oceans sexism
+ [-> 3: backup acclimate
+alt peeved cherish
+2 -> 3: lube logic
+end
+end
+@enduml

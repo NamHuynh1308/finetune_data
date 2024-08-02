@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:chiropractor catchy;
+split again
+-[hidden]->
+:bah acquitted; <<output>>
+split again
+-[hidden]->
+:understatement opposites;
+split again
+-[hidden]->
+if (opportunity disks?) then (diminutive forcing)
+(nome stains) elseif (tensions pony?) then (witchy paired)
+:trucks chickened;
+(celebrating polar) elseif (groundless twisty?) then (wages leotard)
+:primo meets; <<procedure>>
+endif
+end split
+:likewise privilege; <<save>>
+if (attained want?) then (rectangle plucked)
+:mortgages litigious; <<input>>
+repeat
+:leper queens;
+:inflammation slumming;
+backward:famished limousines;
+repeat while (grim tycoon?) is (inception rival)
+split
+:recruited legitimacy;
+split again
+:gutless poppycock; <<save>>
+-> grasshopper assigned;
+split again
+:claw philosophers;
+end split
+else (crack hubbub)
+:checkbook ordeal; <<continuous>>
+endif
+stop
+@enduml

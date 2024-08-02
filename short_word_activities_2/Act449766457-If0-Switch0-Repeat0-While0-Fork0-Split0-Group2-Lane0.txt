@@ -1,0 +1,10 @@
+@startuml
+group vegetable paid
+:cheer round; <<output>>
+-> lilies pincushion;
+group haggis dick
+:club guerrilla; <<task>>
+stop
+end group
+end group
+@enduml

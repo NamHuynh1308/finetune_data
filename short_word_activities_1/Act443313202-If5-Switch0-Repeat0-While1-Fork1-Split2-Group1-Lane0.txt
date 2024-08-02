@@ -1,0 +1,79 @@
+@startuml
+split
+-[hidden]->
+:shirtless visitation;
+split again
+-[hidden]->
+fork
+:fed slice;
+fork again
+:discussed antisocial;
+fork again
+:charted buyer;
+end fork
+split again
+-[hidden]->
+if (creeping negotiated?) then (cottage canceled)
+:sovereign burgers;
+:dalliance freshness; <<input>>
+else (warned busiest)
+:pronto addressing; <<procedure>>
+:explode retired;
+endif
+split again
+-[hidden]->
+:holders dishonor; <<task>>
+end split
+:owing buzzer; <<continuous>>
+-> oldest hocus;
+split
+:creamy piercing;
+split again
+:landfall distasteful; <<input>>
+-> antacid quizmaster;
+split again
+:fractures untamed; <<input>>
+-> trophies ties;
+end split
+group commando certain
+if (pleasures swamps?) then (mini after)
+:foretold gizmo;
+-> zeros webbing;
+:reelection knowledgeable; <<save>>
+if (terrace dusky?) then (bedroom walla)
+(leads inferiority) elseif (student rockets?) then (discount server)
+:powerless den; <<input>>
+-> deliberations tubby;
+(wield merl) elseif (senses nametag?) then (lopper room)
+:sayer made; <<save>>
+-> body trifled;
+endif
+else (transfers decibels)
+if (clash rya?) then (poker marks)
+(swerve protector) elseif (incomparable molestation?) then (peer macaroni)
+:bookie comrades; <<load>>
+-> summertime pinochle;
+(discovers swilling) elseif (premonition barged?) then (investigate rehabilitate)
+:elitist charlies;
+-> chugging hangout;
+endif
+:clunk swooped; <<task>>
+while (eyeballs fir?) is (occasion slop)
+if (doctor patriots?) then (consciousness fainter)
+:cheeks curie;
+:policies youth;
+:doomsday disappearance;
+else (expects mew)
+:midgets bel;
+:acquired judgmental; <<input>>
+-> cerulean cough;
+endif
+backward:stun passage;
+backward:resist spic;
+endwhile (mechanisms mon)
+-[hidden]->
+detach
+endif
+stop
+end group
+@enduml

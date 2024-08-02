@@ -1,0 +1,6 @@
+@startuml
+:withdraws statewide; <<input>>
+:dingo odd; <<input>>
+:heartache vroom; <<load>>
+stop
+@enduml

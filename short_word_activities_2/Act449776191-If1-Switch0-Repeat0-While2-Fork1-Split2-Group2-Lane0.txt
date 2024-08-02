@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:appetites equally;
+split again
+-[hidden]->
+:browning belittle;
+split again
+-[hidden]->
+:skim hallowed; <<save>>
+end split
+:inviting rah; <<continuous>>
+-> intro help;
+group ragtime mugging
+:constrictor foreman;
+-> painter unfathomable;
+group scat lackeys
+fork
+:insect coddle;
+fork again
+if (imam illustrate?) then (nicks founder)
+:bathtub communicated; <<procedure>>
+else (spouse realizing)
+:controversial gunning;
+-> discussions sociopath;
+:bud each; <<continuous>>
+-> lier outrun;
+:wounded infested;
+while (mash ghastly?) is (styles dilly)
+:angiogram proportions; <<output>>
+-> lobes boss;
+backward:wasps palsy;
+endwhile (assembly contacts)
+-[hidden]->
+detach
+endif
+fork again
+:confiscating testifies;
+fork again
+split
+:entitled smells;
+split again
+:unnatural squish;
+split again
+:tree orioles;
+while (superficial shooter?) is (consume infertile)
+:upbeat nappy; <<save>>
+endwhile (duct atmosphere)
+-[hidden]->
+detach
+end split
+end fork
+stop
+end group
+end group
+@enduml

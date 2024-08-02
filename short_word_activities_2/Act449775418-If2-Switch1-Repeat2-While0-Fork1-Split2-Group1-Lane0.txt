@@ -1,0 +1,70 @@
+@startuml
+split
+-[hidden]->
+:ogres compressed;
+split again
+-[hidden]->
+switch (boost copycat?)
+case (lubrication smarts?)
+:eugenia biased; <<procedure>>
+case (await partnership?)
+:bottled schooling;
+case (binding drifter?)
+:seclusion wily;
+case (relaxants moments?)
+:sim simplify; <<output>>
+endswitch
+split again
+-[hidden]->
+:compressions absconded;
+split again
+-[hidden]->
+:reminders possibly; <<save>>
+end split
+split
+:pinks holders;
+split again
+:oceans montage;
+split again
+:cave milk; <<continuous>>
+-> promising buffet;
+end split
+group unsure pleasant
+if (veracity teed?) then (beetles lunge)
+:sour destroy; <<load>>
+:pronouns thieves; <<output>>
+-> mandates whooping;
+:injunction adventures; <<procedure>>
+-> yet riverside;
+else (sleepwalk filler)
+if (avatar toxin?) then (dedicating perspiration)
+:snap costa;
+else (amused friendships)
+:penicillin capitol; <<task>>
+:combat skipping; <<procedure>>
+-> sickos slogan;
+:freely punctuality; <<output>>
+-> criminally masculinity;
+endif
+fork
+:skim playoffs;
+fork again
+:hamlet workload; <<save>>
+fork again
+:teenager perjure; <<input>>
+-> pulpit assholes;
+fork again
+:psychos yoghurt; <<load>>
+-> deaths romance;
+end fork
+endif
+repeat
+repeat
+:relationship bricked;
+:abusing shortness; <<output>>
+backward:reared temptation;
+repeat while (saran dies?) is (roundabout doubles)
+-> bilateral accomplishment;
+repeat while (essentially salute?) is (ethanol diamonds)
+end group
+@enduml

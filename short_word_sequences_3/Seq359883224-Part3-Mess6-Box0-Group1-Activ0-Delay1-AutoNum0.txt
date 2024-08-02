@@ -1,0 +1,17 @@
+@startuml
+participant "intermediate guessed" as 0
+participant "undisclosed nausea" as 1
+== stutter eyeballs ==
+ [-> 1: poodles couch
+0 -> 0: princes chemist
+critical appeased alchemy
+create participant "animation sonar" as 2
+1 -> 2 : animation sonar
+...embroidered shake...
+2 --> 1: greyhound tempted
+else heaped least
+ [<- 2: dynasty structural
+else negotiations diving
+ [-> 1: quits reverend
+end
+@enduml

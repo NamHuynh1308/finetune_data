@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:schnitzel governmental;
+split again
+-[hidden]->
+:recipes concern; <<load>>
+split again
+-[hidden]->
+:hypothermia geeks; <<load>>
+end split
+group crested balk
+if (inside godmother?) then (nausea testified)
+:snappy orgasmic; <<load>>
+:baths humiliates; <<continuous>>
+-> mailman candidates;
+split
+:kismet ovarian;
+split again
+:fulfilled characterizing;
+split again
+:woodsy behavioral;
+split again
+:bailiffs granddaughter; <<load>>
+-> completely teach;
+end split
+else (worm grasp)
+switch (nomadic regency?)
+case (flaunt congratulating?)
+:disruptions swilling;
+case (fisherman carpentry?)
+:shorter attracting;
+case (regular postpartum?)
+:jellyfish wellness;
+case (statuary motivate?)
+:bonding debt; <<load>>
+endswitch
+endif
+:shots edema; <<load>>
+stop
+end group
+@enduml

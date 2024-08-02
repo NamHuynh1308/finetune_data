@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:wink regionals;
+split again
+-[hidden]->
+:reporting article; <<input>>
+-> seeking curses;
+split again
+-[hidden]->
+:coroner contestant; <<continuous>>
+end split
+group tread coaching
+:sack pardons; <<input>>
+stop
+end group
+@enduml

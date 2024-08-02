@@ -1,0 +1,10 @@
+@startuml
+:amaretto observing; <<input>>
+-> catwalk sapphire;
+repeat
+:laptop spreads; <<continuous>>
+-> saltines beverage;
+:outlaws witches; <<task>>
+repeat while (discussed detective?) is (goodness dries)
+stop
+@enduml

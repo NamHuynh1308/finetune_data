@@ -1,0 +1,37 @@
+@startuml
+box "galaxy gadget"
+participant "pursuit lunatic" as 0
+participant "exposes rebelling" as 1
+end box
+participant "medley drugstore" as 2
+participant "bro upon" as 3
+box "strippers forgot"
+participant "exhaust mead" as 4
+end box
+== salvation hills ==
+autonumber 8 4
+0 -> 3: capital leagues
+autonumber stop
+1 ->> 1: smart intentional
+create participant "swift alderman" as 5
+1 -> 5 : swift alderman
+loop follow occupancy
+5 ->] : gilbert unhappily
+autonumber resume
+5 <-] : fifth illogical
+autonumber stop
+opt gee uncles
+0 -> 1!! : oversized lunatic
+par questionnaire rep
+1 ->x 0: mixer shushing
+alt earthy guitarist
+4 -->x 4++ : subsidy anguish
+autonumber resume
+...deftly mental...
+ [<- 1: machine sixpence
+end
+end
+end
+end
+return professionalism securely
+@enduml

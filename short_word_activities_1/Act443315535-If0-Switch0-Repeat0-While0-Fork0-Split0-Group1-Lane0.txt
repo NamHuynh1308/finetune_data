@@ -1,0 +1,9 @@
+@startuml
+start
+:scheduled administration; <<input>>
+-> goats dutch;
+group colleague snuggled
+:youths ruder; <<procedure>>
+stop
+end group
+@enduml

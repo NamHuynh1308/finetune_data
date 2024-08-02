@@ -1,0 +1,16 @@
+@startuml
+participant "professionals proceeds" as 0
+participant "plucked disbelief" as 1
+participant "levity mosquito" as 2
+== debate stymied ==
+1 -// 1: recommending circuitry
+loop brokenhearted munchkins
+2 -> 2: sloppy tippers
+loop nostalgia cliffs
+...fiesta mach...
+0 -> 2: syringe unresolved
+2 --//o 2: entwined airways
+else classy stinky
+end
+end
+@enduml

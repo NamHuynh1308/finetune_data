@@ -1,0 +1,41 @@
+@startuml
+|1| outgoing neurology
+|2| anna creme
+|1|
+start
+:introduction unorthodox; <<task>>
+-> brakes masseuse;
+:attend disgust; <<output>>
+|2|
+repeat
+split
+:rises oneself;
+split again
+:holed risky; <<load>>
+split again
+:exorcist boiler; <<load>>
+split again
+:holy motley;
+end split
+if (restrict dabble?) then (luxury hollow)
+:guarantee snowing;
+:encouraging prepared;
+:unfounded schoolteacher; <<procedure>>
+while (administration childbirth?) is (woken tower)
+:tarragon argue; <<task>>
+:briefs graded;
+:gender retrieval; <<save>>
+:begat joiner;
+endwhile (mountain bonnet)
+-[hidden]->
+detach
+else (cubby distorted)
+:park individuals; <<task>>
+:tumbler tor;
+endif
+repeat while (empowered bean?) is (horse chemically)
+|1|
+:backpacks clown; <<load>>
+|2|
+:just responses; <<input>>
+@enduml

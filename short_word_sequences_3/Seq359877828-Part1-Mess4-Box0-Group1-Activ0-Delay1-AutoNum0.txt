@@ -1,0 +1,12 @@
+@startuml
+participant "waive attended" as 0
+== whitey fitch ==
+0 -> 0: dollop heave
+0 -> 0!! : ablaze estimates
+alt dermatologist likely
+...possible snooty...
+0 -> 0: parish ponder
+0 -->x 0: hallways generators
+else hope sacrilege
+end
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "buttons reportedly" as 0
+participant "pixels ecosystem" as 1
+participant "nods coopers" as 2
+== fiefdom northeastern ==
+autonumber 3 5
+1 -> 0: paranoia referencing
+par none matted
+2 ->o 2: manufacturing fetch
+autonumber stop
+1 ->] : abiding dispenser
+end
+0 <-] : decision probate
+2 ->] : banish dagger
+autonumber resume
+2 ->x 0: entwined whispered
+autonumber stop
+@enduml

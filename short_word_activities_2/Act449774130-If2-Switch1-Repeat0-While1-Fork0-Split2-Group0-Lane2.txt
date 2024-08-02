@@ -1,0 +1,55 @@
+@startuml
+|1| boilers folklore
+|2| refrigerators programming
+split
+-[hidden]->
+:plaque conclude;
+split again
+-[hidden]->
+:quince leaked; <<input>>
+-> lacked welcomed;
+split again
+-[hidden]->
+:tableau larceny; <<output>>
+-> fashions chainsaws;
+end split
+:scab yeller; <<procedure>>
+-> loom risen;
+if (beer betrayals?) then (flaps jock)
+(contingency graveyards) elseif (rancher logical?) then (softy sparring)
+:loud authenticated; <<input>>
+(straights schmoozing) elseif (coal tongues?) then (lameness vermeil)
+:protector overwhelm;
+(crucified creme) elseif (aboard tissues?) then (bombed rhinestones)
+switch (grubs joking?)
+case (segue hellish?)
+:armies nineties;
+case (emptying quotes?)
+:burley pitted;
+kill
+endswitch
+endif
+:chardonnay insider; <<procedure>>
+if (degraded karaoke?) then (incompetence line)
+:humiliations assassination; <<output>>
+-> vase shift;
+:raids cloven;
+while (accuses sacrifice?) is (riverbank desks)
+:vanish tinsel;
+:fudging lapdog; <<save>>
+:overanxious omelettes; <<procedure>>
+endwhile (jig locusts)
+:latrine honored;
+kill
+else (farmland reasonable)
+split
+:damned fern;
+split again
+:flamenco hessian;
+split again
+:inflexible foolproof; <<output>>
+end split
+:rib mis; <<output>>
+endif
+end
+@enduml

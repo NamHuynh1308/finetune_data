@@ -1,0 +1,18 @@
+@startuml
+box "minions pretense"
+participant "boned cup" as 0
+participant "pointy salty" as 1
+end box
+participant "scaring kiosk" as 2
+autonumber 7 2
+0 -> 2: spies easiest
+alt guarded escalated
+2 -> 2!! : smarter fools
+autonumber stop
+opt businesswoman proposition
+create participant "cremation long" as 3
+0 -> 3 : cremation long
+autonumber resume
+end
+end
+@enduml

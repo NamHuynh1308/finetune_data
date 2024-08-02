@@ -1,0 +1,8 @@
+@startuml
+box "cope ripping"
+participant "espressos platonic" as 0
+participant "creepers bigfoot" as 1
+end box
+0 -> 1: gate thirds
+0 <-] : pretenses spectacles
+@enduml

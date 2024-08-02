@@ -1,0 +1,6 @@
+@startuml
+start
+:egyptian offshore; <<load>>
+:stomp gate; <<continuous>>
+end
+@enduml

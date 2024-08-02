@@ -1,0 +1,10 @@
+@startuml
+box "vanish coats"
+participant "slinking wonderful" as 0
+participant "gouged zany" as 1
+end box
+autonumber 2 1
+1 <-] : croft uncovered
+1 -> 0++ : clergyman heat
+return isolated walk
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "confrontation insured" as 0
+participant "entities del" as 1
+0 ->] : log viewpoint
+0 -// 1: preference banquet
+critical tunes abolish
+...tubes deliberation...
+1 -> 0: hopping resurrection
+...roasting blazers...
+1 -> 1: cooing buckshot
+else forbidden elite
+end
+@enduml

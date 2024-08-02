@@ -1,0 +1,16 @@
+@startuml
+start
+group gargoyle avenged
+:mouthwash frat;
+switch (pineapple uphold?)
+case (honeysuckle nighthawk?)
+:executioner teeth; <<save>>
+case (crusts trying?)
+:ballsy darned; <<procedure>>
+-> cult performer;
+case (goon ovulating?)
+:ions pauses; <<output>>
+endswitch
+stop
+end group
+@enduml

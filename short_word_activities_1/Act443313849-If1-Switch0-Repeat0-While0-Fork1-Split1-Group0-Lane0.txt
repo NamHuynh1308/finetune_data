@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:forcing scorch;
+split again
+-[hidden]->
+:typhoid survived; <<output>>
+-> animation traveled;
+split again
+-[hidden]->
+:spotty shipping; <<input>>
+split again
+-[hidden]->
+:malfunction specifications; <<continuous>>
+-> ramifications inquiries;
+end split
+if (gallbladder tuba?) then (joystick cordless)
+(changed anthology) elseif (bangles ouch?) then (drinks discontent)
+fork
+:opinions ceremony;
+fork again
+:coal luna; <<load>>
+-> preserver dad;
+fork again
+:sinners arraigned; <<save>>
+end merge
+(throne emphatically) elseif (compulsion cosmology?) then (skiff besmirch)
+:cellmates dandruff; <<procedure>>
+endif
+end
+@enduml

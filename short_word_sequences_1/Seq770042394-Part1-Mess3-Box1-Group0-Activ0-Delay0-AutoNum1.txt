@@ -1,0 +1,10 @@
+@startuml
+box "brick elk"
+participant "cagey chaperoning" as 0
+end box
+== bloodshot bankbooks ==
+autonumber 2 9
+0 ->] : scientific exhausts
+0 -> 0!! : fawning craftsmanship
+0 <-> 0: drone tommy
+@enduml

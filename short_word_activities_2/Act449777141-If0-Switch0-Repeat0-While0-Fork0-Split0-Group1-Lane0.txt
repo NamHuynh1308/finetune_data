@@ -1,0 +1,8 @@
+@startuml
+start
+:antiquities swaddling; <<task>>
+group weeds sides
+:girlfriend avenged; <<output>>
+stop
+end group
+@enduml

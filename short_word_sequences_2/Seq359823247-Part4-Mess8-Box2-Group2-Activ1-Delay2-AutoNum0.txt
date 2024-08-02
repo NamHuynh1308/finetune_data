@@ -1,0 +1,26 @@
+@startuml
+box "monumental witching"
+participant "constrictor workday" as 0
+participant "piping tyres" as 1
+end box
+box "friendships thyme"
+participant "conform seducing" as 2
+participant "flung hooter" as 3
+end box
+== processed shad ==
+1 ->] : horns abduct
+0 -\\ 1: encephalitis sewn
+...ironing confiding...
+3 <-> 1: jumble marched
+0 <-> 2++ : peppermint solo
+opt eraser ether
+2 ->] : worse malfunctioning
+return tunnel presuming
+0 <-] : screen broadcasting
+...hypothermia closeness...
+0 ->x 2: outdoorsy snivelling
+break braved elastic
+ [<- 2: spooks increasingly
+end
+end
+@enduml

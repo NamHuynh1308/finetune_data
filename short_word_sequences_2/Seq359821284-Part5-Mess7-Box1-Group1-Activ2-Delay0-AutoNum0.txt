@@ -1,0 +1,22 @@
+@startuml
+participant "creak pounds" as 0
+box "commodities boardroom"
+participant "gangly inbound" as 1
+participant "crutches couture" as 2
+end box
+participant "sponsorship dismount" as 3
+== welcomes debrief ==
+0 -> 1: effecting serpent
+1 -->x 3++ : puree contaminated
+2 -> 1++ : spouting dryers
+create participant "reassurance phrases" as 4
+2 -> 4 : reassurance phrases
+critical classical ingest
+2 -// 0: learning prudent
+0 -\\ 1: eyebrow fists
+ [-> 1: bunker assigning
+return amenities flunky
+else tapping compensation
+end
+return dedication classmates
+@enduml

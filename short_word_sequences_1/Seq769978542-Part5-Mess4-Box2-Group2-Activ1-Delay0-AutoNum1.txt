@@ -1,0 +1,24 @@
+@startuml
+box "dime feminist"
+participant "occupancy culture" as 0
+box "broadening destitute"
+participant "mug acquaintance" as 1
+participant "taunted lording" as 2
+participant "passports confined" as 3
+end box
+end box
+== grumpy thinner ==
+autonumber 0 4
+loop miscreant savior
+create participant "telemetry mischief" as 4
+1 -> 4 : telemetry mischief
+alt hells monte
+4 -// 0++ : coached showstopper
+ [<- 1: fundraising unable
+else approval adjustable
+0 --//o 3: impunity vouching
+return wished orchard
+else keeps accommodations
+end
+end
+@enduml

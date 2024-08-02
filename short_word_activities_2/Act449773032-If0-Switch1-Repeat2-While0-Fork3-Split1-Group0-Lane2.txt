@@ -1,0 +1,71 @@
+@startuml
+|1| cookie lifeguard
+|2| hitchhiker pincushion
+|1|
+start
+fork
+:polka careers;
+fork again
+:dollhouse therefore; <<task>>
+fork again
+:seventeen thrives; <<task>>
+fork again
+split
+:grabbing seared;
+split again
+:supermarket infectious;
+split again
+:reinforcement vigorously; <<procedure>>
+split again
+:requisite turtleneck;
+end split
+end merge
+switch (banker conk?)
+case (sinister reconciled?)
+fork
+:damnedest lush;
+fork again
+:infecting expresses;
+fork again
+:agreed deprived;
+fork again
+:analyzed guesses; <<input>>
+-> humored machete;
+end fork
+case (hippies baubles?)
+:bravely extend; <<load>>
+case (addiction commuted?)
+:feels bleeder; <<continuous>>
+case (strain fugitive?)
+:mangoes legislate;
+-> leaflets rioting;
+endswitch
+fork
+:verbal panache;
+fork again
+:curlers repayment;
+fork again
+repeat
+:invoice hygienic;
+:polling conjugal; <<save>>
+:cover zap;
+-> alarm western;
+repeat while (peak selflessness?) is (touchdowns harm)
+-> respect backfires;
+end fork
+:deal republic; <<output>>
+-> sexual analogy;
+repeat
+backward:resentful sensitivity;
+:discourteous carvings;
+-> fed firsthand;
+:squabble edging;
+if (nonsensical annoyed) then (coveralls embalmed)
+:alligator motivation;
+break
+endif
+->added exploding;
+:contented enterprising;
+repeat while (generally dehydration?) is (village burgundy)
+stop
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+start
+fork
+:laura rubbed;
+fork again
+:plumber burgess; <<output>>
+-> focussed barkeep;
+fork again
+:audiotape commandant; <<output>>
+end fork
+:railroading perversion;
+end
+@enduml

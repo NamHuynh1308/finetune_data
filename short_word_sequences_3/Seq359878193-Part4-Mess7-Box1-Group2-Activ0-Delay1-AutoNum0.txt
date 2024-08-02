@@ -1,0 +1,24 @@
+@startuml
+participant "teased fryer" as 0
+box "burnt waxed"
+participant "extermination betting" as 1
+participant "bind swiping" as 2
+end box
+create participant "nerves retired" as 3
+2 -> 3 : nerves retired
+critical disapprove casualties
+ [<- 3: titanic entire
+break beery goodwill
+ [-> 2: specialty stare
+ [-> 3: juice persistence
+else perfume recordings
+3 ->x 0: thrash bang
+else biased smashes
+2 -\\ 2: usually cosign
+else becomes reclusive
+...dissuade tip...
+3 -> 1: burgundy pore
+else praise fist
+end
+end
+@enduml

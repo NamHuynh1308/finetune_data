@@ -1,0 +1,22 @@
+@startuml
+participant "skepticism patties" as 0
+participant "loaf bible" as 1
+box "helpful longevity"
+participant "bases exorcist" as 2
+participant "cigar trashes" as 3
+end box
+autonumber 0 0
+par imp lunchroom
+0 -> 3: decay safeguards
+0 -> 1!! : psychopaths backroom
+else crackerjack knelt
+par sip rains
+2 -> 3!! : pantry harbouring
+2 -// 3: bravado judge
+else removing considering
+...razor exiles...
+3 -> 2: chainsaws patience
+3 -->x 3: threatens pickle
+end
+end
+@enduml

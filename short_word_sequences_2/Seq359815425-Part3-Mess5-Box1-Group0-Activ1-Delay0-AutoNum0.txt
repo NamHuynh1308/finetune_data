@@ -1,0 +1,13 @@
+@startuml
+participant "equitable neutral" as 0
+box "anchoring receding"
+participant "elbows anticipation" as 1
+end box
+ [-> 0: groundbreaking skewered
+create participant "pity innovation" as 2
+1 -> 2 : pity innovation
+ [-> 2: sure rosemary
+1 -> 0++ : postpartum etiquette
+2 -\\ 1: fools recycling
+return grip uncivilized
+@enduml

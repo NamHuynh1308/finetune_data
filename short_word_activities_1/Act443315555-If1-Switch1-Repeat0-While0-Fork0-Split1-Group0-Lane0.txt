@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:distinctions coopers;
+split again
+-[hidden]->
+:equipment seeker; <<save>>
+-> stumbled park;
+split again
+-[hidden]->
+:horrendous blunders; <<procedure>>
+split again
+-[hidden]->
+:concentrating squiggly; <<load>>
+-> judiciary lesions;
+end split
+switch (enrolling tankers?)
+case (four glove?)
+:recheck tram; <<continuous>>
+-> secluded ding;
+case (deals grips?)
+:coveting waxes; <<procedure>>
+case (softener receives?)
+if (diagonal ashtray?) then (pubescent reviews)
+(emerges puppy) elseif (fatherhood snoop?) then (cancellations initiatives)
+:globe prescribed; <<save>>
+(deplorable porter) elseif (luck airwaves?) then (cyclops mimes)
+:imaginary dummy;
+(browns sexuality) elseif (nee extortion?) then (incest foursome)
+:ladle quaker; <<procedure>>
+endif
+endswitch
+end
+@enduml

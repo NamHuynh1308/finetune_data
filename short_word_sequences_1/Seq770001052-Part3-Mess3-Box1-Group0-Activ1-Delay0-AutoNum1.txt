@@ -1,0 +1,12 @@
+@startuml
+participant "sync narc" as 0
+participant "cynicism directorate" as 1
+box "patriot spectre"
+participant "themes legged" as 2
+end box
+autonumber 7 7
+ [<- 1: backgammon tickles
+1 ->x 2++ : research leafs
+0 -> 2: dreary tunnel
+return equity blackmailed
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+box "bay accepting"
+participant "reinstatement beauties" as 0
+participant "wackos gar" as 1
+end box
+par slice given
+1 -> 1: interface glazer
+par tracker cola
+...orchestra lavender...
+0 -->x 0: comprised maidens
+0 --> 1: ember ignorance
+else jockey without
+end
+end
+@enduml

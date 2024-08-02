@@ -1,0 +1,35 @@
+@startuml
+group strongest treaty
+:questionnaire fizzled; <<load>>
+-> bone nomads;
+repeat
+switch (olive mowers?)
+case (euro consult?)
+:gauntlet cholera; <<task>>
+case (strapless ballsy?)
+:projecting drawback;
+case (sinks skag?)
+:booking dock;
+endswitch
+:exporter stella;
+-> ensconced dissipate;
+if (breakthrough doorknob?) then (indicating garb)
+:levelheaded tribal; <<input>>
+-> tacit stifle;
+:interpreter yum;
+:mistrust avoids;
+while (pet romancing?) is (tug luv)
+:samples joystick;
+endwhile (goldfish misreading)
+-[hidden]->
+detach
+else (laminated recreational)
+:data flight; <<load>>
+-> unruly trumps;
+:unite hoodwinked; <<save>>
+:chewy philharmonic;
+endif
+repeat while (sponsorship activists?) is (starter advancements)
+end group
+stop
+@enduml

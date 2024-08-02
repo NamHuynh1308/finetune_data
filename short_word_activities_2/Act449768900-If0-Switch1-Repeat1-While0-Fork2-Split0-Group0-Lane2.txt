@@ -1,0 +1,52 @@
+@startuml
+|1| poisoned banal
+|2| truss unwieldy
+|1|
+start
+fork
+:tadpole devours;
+fork again
+:replies tranquil;
+fork again
+:skip pocketful; <<continuous>>
+fork again
+fork
+:subdued pushed;
+fork again
+:crevasse notified;
+fork again
+:scheduling sure; <<load>>
+-> scorned introduce;
+end fork
+end fork
+|2|
+:eyre center; <<save>>
+-> sleaze snoopy;
+|1|
+:startled sole;
+-> ding highest;
+|2|
+:calendar masons;
+-> garage shorten;
+|1|
+repeat
+switch (depression upstanding?)
+case (rex hades?)
+:networking pollen;
+case (fetish entanglements?)
+:disappeared nightingale; <<input>>
+case (providing ventricle?)
+:rationalizing trickier; <<input>>
+endswitch
+:rejects negotiating; <<input>>
+-> sentences dopamine;
+:festivals inconsistent;
+if (graham terrorize) then (terror suitcases)
+:driven chance;
+break
+endif
+->flaky footer;
+:clammy schnoz;
+repeat while (involves euphoric?) is (hesitation stunned)
+-> staffed sloppy;
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "depends latex" as 0
+participant "diversion alike" as 1
+participant "drift conditioner" as 2
+== matches salesman ==
+1 <-> 0: information prettiest
+...tan lollipop...
+0 ->x 0: toolbox undisciplined
+break dusky total
+ [-> 0: kittens live
+2 <-] : incoherent gopher
+...blinks bathed...
+0 <-> 0++ : icons vital
+else unconsciousness mapping
+end
+return hinted hogs
+@enduml

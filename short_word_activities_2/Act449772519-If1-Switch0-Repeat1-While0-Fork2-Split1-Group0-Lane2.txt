@@ -1,0 +1,50 @@
+@startuml
+|1| smitten overwhelmed
+|2| improving tryouts
+split
+-[hidden]->
+:cutie caribou;
+split again
+-[hidden]->
+fork
+:fertilize celebrity;
+fork again
+:antiquities silver;
+fork again
+:undead snarling;
+fork again
+:condolences terry;
+end fork
+split again
+-[hidden]->
+:pals lasts;
+-> repressed ya;
+end split
+|2|
+:posies whodunit; <<output>>
+|1|
+:merely aesthetics;
+:shirt typing; <<output>>
+|2|
+repeat
+fork
+:beaded flashes;
+fork again
+:wedding funky;
+-> chancellor sporting;
+fork again
+:twigs bates;
+end fork
+:prelude ethics; <<continuous>>
+if (vis impressing?) then (chump leaflets)
+(streetwalker flushed) elseif (bowers moo?) then (redwood functioning)
+:thee pride; <<input>>
+-> contortionist confidante;
+(apprehension bounce) elseif (miserable quarantine?) then (issues falsify)
+:overstepping masons; <<input>>
+(plush performer) elseif (hubbub scald?) then (decoded harbouring)
+:loophole looks; <<input>>
+-> hosing dumped;
+endif
+repeat while (retinal mention?) is (keepers bottles)
+@enduml

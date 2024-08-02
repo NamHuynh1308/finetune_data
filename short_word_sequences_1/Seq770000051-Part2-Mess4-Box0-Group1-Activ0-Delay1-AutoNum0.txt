@@ -1,0 +1,13 @@
+@startuml
+participant "rhyme fuchsia" as 0
+== married hens ==
+create participant "transatlantic contortionist" as 1
+0 -> 1 : transatlantic contortionist
+break characters skeptical
+...fairway bachelorette...
+1 ->> 0: meditating dukes
+1 ->] : tangle immersion
+else acre attraction
+1 <-] : grief coolant
+end
+@enduml

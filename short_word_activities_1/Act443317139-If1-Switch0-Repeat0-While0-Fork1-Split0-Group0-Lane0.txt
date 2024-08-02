@@ -1,0 +1,18 @@
+@startuml
+start
+if (nova accounting?) then (edict voodoo)
+:sixteenth subtitle; <<output>>
+fork
+:cafeteria porky;
+fork again
+:merely kroner;
+fork again
+:flammable playful; <<load>>
+end merge
+kill
+else (outlook sanctioned)
+:minimal frank; <<output>>
+-> clairvoyant shortstop;
+:underpass sharpening;
+endif
+@enduml

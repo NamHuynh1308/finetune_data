@@ -1,0 +1,15 @@
+@startuml
+:rascals waterfront; <<continuous>>
+-> answer takeoff;
+:kale infants;
+-> arrests impacted;
+split
+:footer inappropriate;
+split again
+:trivial campers; <<task>>
+-> driveway burglary;
+split again
+:bankruptcy sickly; <<output>>
+end split
+stop
+@enduml

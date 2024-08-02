@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:bulky middleman;
+split again
+-[hidden]->
+:filler aloud;
+-> avoiding skimmed;
+split again
+-[hidden]->
+:contemporary revisions;
+kill
+end split
+:communism pleaser; <<continuous>>
+stop
+@enduml

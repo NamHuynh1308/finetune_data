@@ -1,0 +1,10 @@
+@startuml
+box "sexual recent"
+participant "pledges cholinesterase" as 0
+end box
+== solved soles ==
+alt disappear sawdust
+0 ->] : buzzes escapes
+ [-> 0: spills hullo
+end
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+box "requirement cursing"
+participant "fanatics assholes" as 0
+end box
+== vests scanning ==
+0 <-> 0: lech gawking
+ [<- 0: bayberry mussels
+...elbow starry...
+0 ->> 0: hatched nymph
+opt arrived eyre
+0 ->] : irritated superwoman
+end
+@enduml

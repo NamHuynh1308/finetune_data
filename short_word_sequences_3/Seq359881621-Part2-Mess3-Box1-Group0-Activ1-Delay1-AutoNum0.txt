@@ -1,0 +1,12 @@
+@startuml
+box "wobble pineapples"
+participant "hills vendettas" as 0
+end box
+== extras weaver ==
+create participant "ringing covet" as 1
+0 -> 1 : ringing covet
+...hull confronting...
+1 --//o 1++ : harms tumble
+1 -> 0: heartfelt assorted
+return parasailing dramas
+@enduml

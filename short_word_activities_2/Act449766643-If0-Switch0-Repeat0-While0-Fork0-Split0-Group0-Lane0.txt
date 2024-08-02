@@ -1,0 +1,4 @@
+@startuml
+:forge salary; <<continuous>>
+-> engineering uglies;
+@enduml

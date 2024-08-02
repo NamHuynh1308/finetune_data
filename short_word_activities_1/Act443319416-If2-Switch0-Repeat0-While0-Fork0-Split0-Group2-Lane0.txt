@@ -1,0 +1,26 @@
+@startuml
+start
+if (dinky misplace?) then (unhappily redecorate)
+:sawdust droop; <<procedure>>
+if (smelling activated?) then (tangent jaguars)
+:telethon classier; <<task>>
+:fay bats;
+else (honestly juniors)
+:bracelet throat;
+:slur hype;
+-> ruffians alienate;
+endif
+else (exporter characteristics)
+:regatta academia;
+-> wrangler experiments;
+endif
+group gathers pounding
+:dossier turks; <<task>>
+-> candidates smile;
+group universities ratings
+:hazel suspension; <<output>>
+-> cat finalize;
+stop
+end group
+end group
+@enduml

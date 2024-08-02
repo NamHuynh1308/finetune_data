@@ -1,0 +1,9 @@
+@startuml
+group bimbo spiel
+:rocker emptying; <<task>>
+-> detonator pathetically;
+:episodes housekeeper; <<output>>
+-> dimensions collapsing;
+stop
+end group
+@enduml

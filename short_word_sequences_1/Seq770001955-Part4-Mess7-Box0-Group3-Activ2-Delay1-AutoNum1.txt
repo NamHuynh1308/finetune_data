@@ -1,0 +1,25 @@
+@startuml
+participant "salsa editorial" as 0
+participant "blinks introduced" as 1
+participant "legendary pity" as 2
+participant "newly introduced" as 3
+autonumber 5 4
+ [<- 3: goners apostle
+2 <-> 1: cuddly obstinate
+autonumber stop
+1 --//o 0: aspirations demoted
+opt mitten arrive
+1 -> 3++ : satchel bibles
+alt lone whichever
+2 ->> 1++ : brush fits
+autonumber resume
+critical dale unsolved
+ [-> 3: appreciative prospects
+return phew often
+...bwana houseman...
+0 <-> 2: salvage attributes
+end
+end
+end
+return mocked items
+@enduml

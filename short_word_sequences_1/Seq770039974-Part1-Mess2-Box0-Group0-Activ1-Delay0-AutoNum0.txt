@@ -1,0 +1,7 @@
+@startuml
+participant "breather spectrum" as 0
+== seesaw vandals ==
+0 -->x 0: fanatic maintaining
+0 -> 0++ : month harbouring
+return academy own
+@enduml

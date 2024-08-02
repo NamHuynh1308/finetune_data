@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:pitfalls neighborhood;
+split again
+-[hidden]->
+:deductions vocation;
+kill
+split again
+-[hidden]->
+if (masquerade improvise?) then (crier relates)
+:widows gender;
+-> reconnaissance radios;
+while (witness superintendent?) is (nail spasms)
+backward:unanimously hemoglobin;
+endwhile (gruesome archeology)
+-[hidden]->
+detach
+else (stranded curve)
+:threesome donors; <<continuous>>
+-> calmed neutralized;
+:summit getting; <<load>>
+endif
+split again
+-[hidden]->
+switch (junk pertaining?)
+case (checks logged?)
+:bubble victim; <<continuous>>
+case (warhead link?)
+:hotter coronation; <<input>>
+case (kip gag?)
+:phoney disappointment;
+case (composers nitrous?)
+:improper upset; <<output>>
+-> rarest spirits;
+endswitch
+end split
+:privileged inverted; <<load>>
+-> overnight curtains;
+group catering cubes
+:dismember advances; <<output>>
+group arbitrary rejects
+:obnoxious brin; <<task>>
+-> steered monument;
+stop
+end group
+end group
+@enduml

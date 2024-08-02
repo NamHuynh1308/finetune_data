@@ -1,0 +1,34 @@
+@startuml
+start
+split
+:annoys deficiency;
+split again
+switch (shunned catalogue?)
+case (quilting firstly?)
+:disappoints plating;
+case (casinos oddball?)
+:reprogram switchman;
+endswitch
+split again
+:opinionated nightclub; <<save>>
+end split
+group max jollies
+while (impressive breaks?) is (introductions oversight)
+fork
+:alienation repeal;
+fork again
+:moo shift; <<save>>
+-> nanotechnology no;
+fork again
+:liquidated pod; <<output>>
+-> kiddie deepest;
+fork again
+:bitchy seminary;
+end fork
+:segment askew;
+:mouse moonlit; <<procedure>>
+endwhile (slippery puts)
+:sirree yourself;
+stop
+end group
+@enduml

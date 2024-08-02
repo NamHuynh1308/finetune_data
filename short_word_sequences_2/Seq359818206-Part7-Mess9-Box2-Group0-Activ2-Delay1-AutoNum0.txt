@@ -1,0 +1,25 @@
+@startuml
+box "commode swank"
+participant "overlap sailors" as 0
+participant "anthropologist ruining" as 1
+end box
+participant "theses goofing" as 2
+box "superman shops"
+participant "pressuring chaser" as 3
+participant "station blatantly" as 4
+end box
+4 --> 4: lever supremacy
+create participant "firebug chute" as 5
+3 -> 5 : firebug chute
+create participant "rations greens" as 6
+3 -> 6 : rations greens
+6 -> 2++ : genetically woodpecker
+0 ->] : siesta scratching
+...lifesaver swings...
+ [<- 2: lumps eyeliner
+4 ->> 0++ : chose east
+5 -> 3: freeze attained
+3 <-] : scow jackal
+return oils packer
+return adolescent cookies
+@enduml

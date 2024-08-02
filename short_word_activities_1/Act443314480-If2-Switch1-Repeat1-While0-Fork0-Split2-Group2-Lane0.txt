@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:nicer surrounds;
+split again
+-[hidden]->
+if (classified traitor?) then (thawing bicuspids)
+(touch navigation) elseif (animal lightning?) then (buffs hack)
+:rsosnu;
+kill
+(income unearthed) elseif (kibosh pacific?) then (diner blankets)
+:meanie alcoholic; <<save>>
+endif
+split again
+-[hidden]->
+repeat
+:bigfoot earshot; <<task>>
+-> redone auditory;
+backward:adversary levity;
+:chair stateroom;
+-> blurting lez;
+repeat while (espionage explanation?) is (abilities collarbone)
+split again
+-[hidden]->
+if (parameters impatient?) then (comfy eggshell)
+(stomachs reciting) elseif (lied mano?) then (cornucopia sprouting)
+:leisure eighth;
+(tack toxicity) elseif (stops turnout?) then (gumshoe drosophila)
+:observers bathe; <<save>>
+(aspirations skillet) elseif (resolution overanxious?) then (holier tunes)
+:cerebral tropical;
+endif
+end split
+group pacifist hackman
+:landslide helpless;
+:shopper speculations; <<input>>
+-> fearsome patriots;
+end group
+group piece hay
+split
+:screened bankrupt;
+split again
+:fudge saffron;
+-> intends tensions;
+split again
+switch (deer callers?)
+case (persuasive fake?)
+:wealth sycophant; <<procedure>>
+case (stones sensation?)
+:obsess thump; <<procedure>>
+case (assumes kaon?)
+:disinformation mustang;
+endswitch
+end split
+stop
+end group
+@enduml

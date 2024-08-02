@@ -1,0 +1,58 @@
+@startuml
+split
+-[hidden]->
+:ends beetles;
+split again
+-[hidden]->
+:worrying goon; <<continuous>>
+split again
+-[hidden]->
+:yells breakups; <<save>>
+-> yuk lusting;
+split again
+-[hidden]->
+:stasis conducts; <<output>>
+end split
+group spades scene
+switch (compatible nasal?)
+case (distort mommy?)
+:dateless glade; <<procedure>>
+-> knotted transportation;
+case (gunner respiration?)
+:phooey businessmen;
+case (limestone mu?)
+while (design banking?) is (missis puppies)
+backward:godly road;
+endwhile (sturdy overpriced)
+:nurtured employed;
+case (victor intolerant?)
+repeat
+:prescribed obtained; <<save>>
+:lakes hassle;
+:tainted cutbacks;
+repeat while (vector train?) is (proofing stupor)
+endswitch
+group undying attendance
+:taxed rain;
+switch (earful considerate?)
+case (inhabit angrily?)
+:torn wreaking;
+while (filmmakers infected?) is (figure practice)
+backward:singles reboot;
+:conscientious addicted; <<save>>
+endwhile (jerking electricians)
+-[hidden]->
+detach
+case (toss archeology?)
+fork
+:loneliness larceny;
+fork again
+:footsies navigational; <<procedure>>
+fork again
+:wraps tricking;
+end merge
+endswitch
+end group
+stop
+end group
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "lac auger" as 0
+create participant "conservative jewellery" as 1
+0 -> 1 : conservative jewellery
+@enduml

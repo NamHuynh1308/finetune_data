@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:lightheaded logically;
+split again
+-[hidden]->
+:plenty clawed; <<load>>
+-> suitcase microfilm;
+split again
+-[hidden]->
+:honk apropos; <<output>>
+end split
+:staring gangway; <<task>>
+@enduml

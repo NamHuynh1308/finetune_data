@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:sailor proportioned;
+split again
+-[hidden]->
+:rid booster; <<load>>
+-> conditioning admirer;
+split again
+-[hidden]->
+:affect alienated; <<continuous>>
+-> destroy plateau;
+end split
+:rears humane; <<load>>
+group feces precious
+if (subterranean mentioning?) then (trashy ulcers)
+(headless whisked) elseif (defrost lakeshore?) then (sterling seas)
+fork
+:diabolical regimental;
+fork again
+:characteristics radiant; <<load>>
+fork again
+:sherlock detached; <<task>>
+end fork
+(occurrences impulses) elseif (barefoot adventure?) then (depraved install)
+:antennae massaged; <<input>>
+-> shrugs milo;
+(undertaken aerosol) elseif (paddock audition?) then (nineties nomadic)
+:vial mileage;
+endif
+:composite dots; <<output>>
+stop
+end group
+@enduml

@@ -1,0 +1,52 @@
+@startuml
+start
+switch (industries diversions?)
+case (scriptures honorable?)
+split
+:unfriendly brat;
+split again
+:attack congenial;
+split again
+:emerge mortars;
+end split
+case (rag beaches?)
+:fan onion;
+case (intact excursion?)
+switch (natured exasperated?)
+case (ear registering?)
+:nightmare importance;
+-> airports hooray;
+case (woody hiccup?)
+:poofs unethical;
+case (majestic oily?)
+:demonstrate cardinal; <<load>>
+case (conked malfunction?)
+:trinkets etched;
+endswitch
+endswitch
+:enable padded;
+group spooking revoking
+split
+:horny cleaner;
+split again
+:nance erased;
+-> adequate stork;
+split again
+:cleverness grace;
+split again
+switch (feverish bandit?)
+case (landfall diplomas?)
+:humdinger quivering;
+case (windowsill shadowy?)
+:thinners poppy; <<input>>
+case (melting mart?)
+:crumbs hanged; <<input>>
+-> boarder ominous;
+case (pave morning?)
+:godson bird;
+-> breadth skateboard;
+endswitch
+end split
+stop
+end group
+@enduml

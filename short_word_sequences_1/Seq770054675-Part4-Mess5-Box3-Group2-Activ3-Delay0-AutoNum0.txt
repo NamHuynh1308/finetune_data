@@ -1,0 +1,24 @@
+@startuml
+participant "land benefactors" as 0
+box "escapades ampicillin"
+participant "frills statistic" as 1
+box "appetizer sniffles"
+participant "gullible measly" as 2
+box "posting bows"
+participant "homeless gorgeous" as 3
+end box
+end box
+end box
+par objectivity directory
+1 <-> 0++ : acrobat concourse
+2 --> 1: repartee gigs
+return ecstatic dribbles
+end
+1 --> 3: incompetent odd
+2 ->x 1++ : smearing conceal
+alt archer teleportation
+1 <-> 3++ : partnership ailing
+end
+return against absolutes
+return wax strummer
+@enduml

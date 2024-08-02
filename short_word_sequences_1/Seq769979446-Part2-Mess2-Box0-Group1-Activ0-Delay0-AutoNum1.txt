@@ -1,0 +1,11 @@
+@startuml
+participant "sharpener bucket" as 0
+== overbite cosy ==
+autonumber 2 3
+par fleece live
+create participant "wheelchair motif" as 1
+0 -> 1 : wheelchair motif
+autonumber stop
+ [-> 0: congratulated valet
+end
+@enduml

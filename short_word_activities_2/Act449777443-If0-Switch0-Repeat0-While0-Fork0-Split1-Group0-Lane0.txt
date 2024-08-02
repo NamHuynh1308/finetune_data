@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:abandonment camp;
+split again
+-[hidden]->
+:deferred collaborator;
+split again
+-[hidden]->
+:wasted mikes; <<procedure>>
+end split
+:compression classroom;
+-> recession shark;
+end
+@enduml

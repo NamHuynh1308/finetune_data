@@ -1,0 +1,27 @@
+@startuml
+box "organism manually"
+participant "shoveling intimated" as 0
+participant "takeover riots" as 1
+box "dole kneeling"
+participant "furnace stashed" as 2
+participant "auditory lux" as 3
+end box
+end box
+== plan cleave ==
+1 -> 3++ : thruway contribution
+2 ->o 0: hitter halo
+return contusion minstrel
+loop amusement gene
+0 -\\ 0++ : glitch beefed
+...sling yokels...
+3 -> 2: brand sword
+return stages waiver
+...forests watts...
+ [-> 1: hooters engagement
+alt happily uncaring
+0 ->> 0++ : job had
+1 ->> 0: fully lash
+return braille malice
+end
+end
+@enduml

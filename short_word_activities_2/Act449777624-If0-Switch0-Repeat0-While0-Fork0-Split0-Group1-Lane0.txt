@@ -1,0 +1,7 @@
+@startuml
+group tireless renovation
+:swamp dynamo; <<output>>
+-> egregious belated;
+stop
+end group
+@enduml

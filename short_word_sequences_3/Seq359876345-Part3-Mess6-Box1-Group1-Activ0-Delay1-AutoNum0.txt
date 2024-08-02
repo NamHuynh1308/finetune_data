@@ -1,0 +1,16 @@
+@startuml
+participant "martini disarm" as 0
+box "crumbs package"
+participant "scholarship retrofit" as 1
+participant "carousel flunking" as 2
+end box
+1 -> 0: grind hitched
+0 -> 1: existent correction
+0 <-> 1: lofty confederate
+...paler practiced...
+0 -> 0: intimidating bothers
+1 -> 1: rioja hushed
+alt gulag saves
+2 ->o 1: goofball flesh
+end
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "disable fighter" as 0
+== disconnect whitey ==
+autonumber 0 1
+0 --> 0++ : horns reminisce
+0 -> 0: earwig amen
+0 ->o 0: help dreaming
+return hotdog marooned
+@enduml

@@ -1,0 +1,75 @@
+@startuml
+|1| admiral rocker
+|2| shine tarot
+|1|
+start
+|2|
+if (describe vixens?) then (obeyed overtures)
+(battling bluer) elseif (wracking sporty?) then (puller woo)
+switch (violinist tankers?)
+case (flops youths?)
+:shooting blowtorch; <<procedure>>
+case (daring increasingly?)
+:fist shares; <<save>>
+endswitch
+(unprepared constellation) elseif (room unwrapping?) then (spool engine)
+:alcoholic urged;
+-> psyched expel;
+endif
+if (whoop kip?) then (contusions outsider)
+(acquaintance fellers) elseif (leads brave?) then (fantasyland pantry)
+split
+:dinosaurs filibuster;
+split again
+:recreated basketball; <<input>>
+-> platinum tradeoff;
+split again
+:haste murder;
+end split
+(keno threatened) elseif (temper commodity?) then (first bleeder)
+:thumbing glutton; <<save>>
+(obsession terrible) elseif (toby omelet?) then (considers overrun)
+if (both reserves?) then (muster perpetual)
+:unanimous slams; <<input>>
+:nuke amusing; <<continuous>>
+-> item fixtures;
+else (deaf glengarry)
+:obtuse shingles;
+:abortion pygmies; <<input>>
+endif
+(diversionary ruth) elseif (preservatives sadness?) then (dolled meticulous)
+:reckoning corresponding; <<output>>
+endif
+|1|
+:ta overstay;
+|2|
+:shells sails;
+switch (slider witnessing?)
+case (exponential mission?)
+repeat
+:grandson moving;
+repeat while (permanently manipulated?) is (deacon little)
+case (sherlock intensity?)
+:deceptively kerry; <<input>>
+-> embalming collars;
+case (retaliated traumatic?)
+split
+:craftsmanship toro;
+split again
+:gives loco;
+split again
+:lawsuit estrogen; <<procedure>>
+split again
+:ere kettle;
+end split
+case (beauty litter?)
+fork
+:ode dulled;
+fork again
+:caste arguments; <<procedure>>
+fork again
+:unfinished immunity;
+end merge
+endswitch
+stop
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+box "mistrust mishap"
+participant "inspected floppy" as 0
+participant "translation primarily" as 1
+participant "sprouted horrifying" as 2
+box "necessity deception"
+participant "fatherly chemo" as 3
+end box
+end box
+autonumber 10 10
+opt mirror tubby
+create participant "senility holding" as 4
+2 -> 4 : senility holding
+1 ->] : goes hassle
+par absurdity politician
+...caught velocity...
+2 -> 4: warring boggle
+3 -> 3: sacrificing of
+3 ->] : nip waking
+2 -> 0: bested swilling
+...screen torturous...
+3 -->x 1: puss autonomous
+end
+end
+@enduml

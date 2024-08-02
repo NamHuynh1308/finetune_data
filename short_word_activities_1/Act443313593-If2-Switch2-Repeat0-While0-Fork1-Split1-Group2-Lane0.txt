@@ -1,0 +1,50 @@
+@startuml
+group slugging riddler
+split
+:pedestrians javelin;
+split again
+switch (tackle fail?)
+case (transitional stampede?)
+:troubled unspoken; <<procedure>>
+-> confinement dedication;
+case (jog emissions?)
+:insider rednecks;
+endswitch
+split again
+:conk psyched; <<input>>
+split again
+:insects mandatory; <<continuous>>
+-> anxiously hooks;
+end split
+group reincarnated pruning
+if (young massa?) then (breach incorrigible)
+:dimpled holiest;
+-> rattles renewed;
+else (distillery sashimi)
+fork
+:prospective lunch;
+fork again
+:stole harpoons;
+fork again
+:elated multimedia;
+fork again
+:goon reads; <<output>>
+end fork
+:aids beck; <<load>>
+:shillings chlamydia; <<procedure>>
+endif
+if (catering reliable?) then (specializes obscure)
+(rephrase glorious) elseif (ser vague?) then (poise uncontrolled)
+:shat arty; <<task>>
+(ambiguous apologies) elseif (seduce bible?) then (subbing bitten)
+switch (shareholder fulfil?)
+case (disregard completing?)
+:coerced guarding;
+case (arranged acknowledgement?)
+:snatchers inactive;
+endswitch
+endif
+stop
+end group
+end group
+@enduml

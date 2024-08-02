@@ -1,0 +1,16 @@
+@startuml
+participant "shallow world" as 0
+participant "malt appraise" as 1
+participant "fly unlocking" as 2
+participant "conversation smashing" as 3
+== salesman policemen ==
+0 -> 1: confessor scummy
+0 -> 0: operation paperback
+opt sequel sustained
+0 --//o 1: have champagne
+opt resourceful hands
+2 --//o 3: plainclothes erect
+ [<- 1: blathering knowledgeable
+end
+end
+@enduml

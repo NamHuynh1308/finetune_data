@@ -1,0 +1,10 @@
+@startuml
+participant "scrolls unhappy" as 0
+participant "orgasmic whirlwind" as 1
+0 ->> 1++ : chino revolutions
+opt nods glaring
+1 -->x 0: alimony whirling
+1 -\\ 0: sales companion
+return maze inscription
+end
+@enduml

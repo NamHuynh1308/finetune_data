@@ -1,0 +1,28 @@
+@startuml
+start
+if (remaining health?) then (inhuman brain)
+fork
+:packet prancer;
+fork again
+:agrees psychiatry; <<procedure>>
+-> amulets accounting;
+fork again
+:poppet nice;
+fork again
+:chief official; <<input>>
+end merge
+:relaxed soar; <<continuous>>
+else (stockings misinformed)
+split
+:pirated matches;
+split again
+:stricken affidavits;
+split again
+:strippers tho;
+-> emptied confession;
+split again
+:feisty reverse;
+end split
+endif
+stop
+@enduml

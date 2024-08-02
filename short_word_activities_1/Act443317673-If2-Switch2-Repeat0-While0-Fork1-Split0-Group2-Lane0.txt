@@ -1,0 +1,47 @@
+@startuml
+group shotgun norland
+switch (often hoisted?)
+case (sewed troubles?)
+:reward powerless;
+-> pleases central;
+case (boss housewarming?)
+:burly humanly; <<input>>
+-> cyclotron weber;
+endswitch
+if (tons hostile?) then (motorcade conclusive)
+(playful reviewed) elseif (luv trips?) then (commercial temperatures)
+:stray hun; <<output>>
+(smiles injure) elseif (seas apply?) then (coordinated submitting)
+:impeached treatment; <<task>>
+endif
+end group
+group splurge regulations
+switch (briskly freezes?)
+case (caprice technology?)
+:hangman tomb; <<input>>
+case (carbo rat?)
+:overstating bluepoint;
+case (en juries?)
+if (clear vanished?) then (garnish cur)
+(joint driveway) elseif (canines mannered?) then (sublimating failing)
+:booster utensils;
+(expedient crewman) elseif (pokes rejects?) then (sapphires kappa)
+:assurances cornball;
+(attributed wok) elseif (indigo subservient?) then (teenybopper pictures)
+:fnwtrd;
+kill
+endif
+case (barkeep poets?)
+fork
+:thirty permission;
+fork again
+:whatever exploitation; <<task>>
+-> institutional alleviate;
+fork again
+:swim lemon; <<output>>
+-> sark supported;
+end merge
+endswitch
+stop
+end group
+@enduml

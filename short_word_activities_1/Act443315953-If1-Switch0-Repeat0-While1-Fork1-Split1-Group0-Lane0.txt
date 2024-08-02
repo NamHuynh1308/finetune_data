@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:yakking spooks;
+split again
+-[hidden]->
+fork
+:bathrobe clings;
+fork again
+:ground meridian; <<continuous>>
+fork again
+:cages chased;
+end merge
+split again
+-[hidden]->
+:detail considerable; <<procedure>>
+split again
+-[hidden]->
+:invoke traverse; <<output>>
+-> idols bwana;
+end split
+if (indulged topple?) then (coast dears)
+while (gamble poppers?) is (barred umpire)
+:ducked tactful;
+:progression bishop;
+-> expressly workers;
+:particularly holy;
+:expanding curiously; <<output>>
+endwhile (brews dreading)
+:maw corporeal;
+else (flirt mocking)
+:interstellar legislation;
+endif
+:miserably hopelessness;
+-> sacrifices applying;
+stop
+@enduml

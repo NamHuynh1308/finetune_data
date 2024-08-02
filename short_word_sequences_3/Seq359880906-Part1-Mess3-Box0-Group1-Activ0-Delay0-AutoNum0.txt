@@ -1,0 +1,9 @@
+@startuml
+participant "braid sunsets" as 0
+ [<- 0: grocer showoff
+par cycle liberties
+0 -> 0: latched agreed
+0 -> 0: autopsies sexist
+else someday frog
+end
+@enduml

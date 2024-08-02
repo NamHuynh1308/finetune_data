@@ -1,0 +1,68 @@
+@startuml
+split
+-[hidden]->
+:friendly christened;
+split again
+-[hidden]->
+fork
+:researchers lieutenants;
+fork again
+:swerve backwards;
+fork again
+:huffing butterball; <<load>>
+-> mayflowers extreme;
+fork again
+:primordial uninformed;
+-> residence crock;
+end merge
+split again
+-[hidden]->
+if (vista paddle?) then (yech supernova)
+(frost urn) elseif (prairie pale?) then (owners cunning)
+:converse caliber;
+(bankbooks catfight) elseif (abacus lockup?) then (registered loving)
+:governess induce; <<procedure>>
+-> wearer shrug;
+endif
+end split
+split
+:artistry wop;
+split again
+:simulation fluffing; <<procedure>>
+split again
+:criterion smile; <<input>>
+split again
+:fattening divers;
+end split
+group federal trollop
+:disabled mainline; <<output>>
+group cousin keeled
+if (sprite pixels?) then (agree pursuant)
+switch (difficulties barbershop?)
+case (glover fuss?)
+:sack insightful;
+case (twister dialing?)
+:roadies leaned;
+case (vasectomy yellow?)
+:dressing easter; <<continuous>>
+case (impassioned temps?)
+:outdid perverted; <<output>>
+-> researching gibson;
+endswitch
+else (minding endanger)
+:source probes; <<load>>
+:orally supervise; <<output>>
+if (clipper foreman?) then (muses android)
+:boosters clarifying; <<task>>
+-> objected vocal;
+else (gaslight notion)
+:fraternity flee;
+-> divvy lar;
+:revolved schooled;
+:signore tenderness;
+endif
+endif
+stop
+end group
+end group
+@enduml

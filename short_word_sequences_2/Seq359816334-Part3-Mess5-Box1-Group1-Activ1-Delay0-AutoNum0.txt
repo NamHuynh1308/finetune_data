@@ -1,0 +1,16 @@
+@startuml
+participant "battling diarrhea" as 0
+box "special engineered"
+participant "scrappy devised" as 1
+participant "bustle bystanders" as 2
+end box
+0 -> 0: digitally commit
+2 --//o 2++ : pelts labyrinth
+alt morrow baggage
+0 --//o 0: coney congratulations
+return bestow expose
+1 ->] : civilized linger
+else descendants traces
+ [-> 0: plucky architects
+end
+@enduml

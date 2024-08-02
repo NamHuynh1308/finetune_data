@@ -1,0 +1,5 @@
+@startuml
+participant "toner sheldrake" as 0
+0 -> 0: attends publisher
+0 <-] : pilgrim setting
+@enduml

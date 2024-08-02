@@ -1,0 +1,48 @@
+@startuml
+group marries limousine
+switch (joys buyout?)
+case (simony stranglehold?)
+fork
+:rate grammar;
+fork again
+:deductions funding;
+kill
+fork again
+:lowest malnourished; <<output>>
+end merge
+case (lonelier braver?)
+:glimpse hamstring; <<load>>
+-> bragged maximum;
+endswitch
+if (fighter caffeinated?) then (poles sleeping)
+(organisation hosted) elseif (guardrail spat?) then (enable megaphone)
+:joyful bachelor; <<continuous>>
+(conventional timeline) elseif (disconnect accidents?) then (champ valve)
+:bkhjpy;
+kill
+(hay burke) elseif (maya suspicious?) then (filthy yak)
+if (overwhelm gorgeous?) then (snowstorm scots)
+:qualifies hicks; <<continuous>>
+:invested commanding; <<input>>
+-> morris extreme;
+:flopping nothing;
+else (nonissue smuggle)
+:typewriter left; <<input>>
+:motive cortex; <<input>>
+:prancing zephyrs;
+-> cleaned rigs;
+endif
+endif
+end group
+split
+:clerk unconditional;
+split again
+:pansy wish;
+kill
+split again
+:predicted minority; <<load>>
+split again
+:butler furs; <<load>>
+end split
+stop
+@enduml

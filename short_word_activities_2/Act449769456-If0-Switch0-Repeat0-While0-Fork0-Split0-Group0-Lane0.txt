@@ -1,0 +1,5 @@
+@startuml
+:dour hygienic; <<output>>
+-> critters itself;
+end
+@enduml

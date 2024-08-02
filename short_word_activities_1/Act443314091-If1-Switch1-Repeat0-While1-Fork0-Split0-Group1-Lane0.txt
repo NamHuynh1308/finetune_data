@@ -1,0 +1,30 @@
+@startuml
+:eyelids screams; <<output>>
+-> trooper docks;
+:bialy spiny; <<output>>
+group dispenser pudding
+switch (across skittish?)
+case (electrocuted potsie?)
+while (sewers washed?) is (highball gilbert)
+:lessons cockpit; <<continuous>>
+:latex microscopic; <<continuous>>
+:tending escaping;
+:plaster alerting; <<task>>
+endwhile (lighten sly)
+:subsidy untouched;
+case (unreliable deferred?)
+if (touchy push?) then (happy fertile)
+(spotlights surrogate) elseif (retake pegged?) then (fiendish grows)
+:droll lapse; <<task>>
+(panache misty) elseif (knoll medley?) then (disputes middle)
+:run ratted; <<task>>
+(suggesting fret) elseif (recuperate maintaining?) then (spends dive)
+:vocal vitality;
+(anyways tote) elseif (evolutionary triumphed?) then (repellent plaster)
+:takeout fortuitous; <<continuous>>
+-> destroying missionary;
+endif
+endswitch
+stop
+end group
+@enduml

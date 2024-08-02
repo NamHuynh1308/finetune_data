@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:chili sensitivity;
+split again
+-[hidden]->
+:whose stirs; <<task>>
+-> whipped may;
+split again
+-[hidden]->
+:revenge breathed;
+-> lovely movers;
+end split
+:faced stinking; <<output>>
+end
+@enduml

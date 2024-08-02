@@ -1,0 +1,10 @@
+@startuml
+participant "screeching counter" as 0
+box "locate eleventh"
+participant "contesting bellybutton" as 1
+end box
+0 -> 0: unforgivable softest
+critical reconsider fez
+0 -\\ 0: pralines pan
+end
+@enduml

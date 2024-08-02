@@ -1,0 +1,13 @@
+@startuml
+participant "real explorers" as 0
+participant "platelets accounting" as 1
+participant "secretaries forms" as 2
+participant "shorted brokerage" as 3
+3 -\\ 1++ : symbolism scram
+...reserve bamboozled...
+3 -> 3: sketchy hostile
+return writ larceny
+0 ->] : impacted tote
+ [-> 1: vacant topic
+ [<- 0: officially forwarding
+@enduml

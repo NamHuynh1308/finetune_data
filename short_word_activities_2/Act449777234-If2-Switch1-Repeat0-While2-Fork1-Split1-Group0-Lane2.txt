@@ -1,0 +1,58 @@
+@startuml
+|1| runaways closer
+|2| possesses fish
+fork
+:ransack fleas;
+fork again
+if (airman situated?) then (trifled selection)
+:scalding skin; <<save>>
+-> primitive clothing;
+:gorgeous violin; <<task>>
+:screeching range; <<continuous>>
+while (release shuts?) is (cerulean bowery)
+:sixteen extortion;
+endwhile (opens blossom)
+-[hidden]->
+detach
+else (waters institutions)
+:income dispensers; <<input>>
+-> leaked nominee;
+:notwithstanding worrying; <<continuous>>
+endif
+fork again
+:immediate cola;
+end fork
+split
+:finessed distinctions;
+split again
+while (projector suspending?) is (extremes lighthearted)
+:glamor weeny; <<continuous>>
+:objected imagines; <<continuous>>
+-> tizzy adapted;
+:overreacting mishandled;
+endwhile (bikers imagining)
+:texas mechanisms;
+split again
+:distance sources; <<output>>
+-> resisting freckling;
+split again
+:barbed coercion; <<procedure>>
+-> puzzle exclusion;
+end split
+switch (apparatus isolation?)
+case (neat monumentally?)
+:creep subterfuge; <<continuous>>
+case (splurge city?)
+if (prioritizing viscount?) then (blurry aerospace)
+(toothbrush sob) elseif (musketeers gouging?) then (sandman trapeze)
+:fans hates;
+(pregnancy bitter) elseif (occurrence underestimate?) then (writ rests)
+:ivy unfathomable; <<continuous>>
+(white chimney) elseif (opera abductions?) then (heckled aiming)
+:thirst reported;
+endif
+case (leaving priorities?)
+:empowered dismissal;
+endswitch
+end
+@enduml

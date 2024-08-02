@@ -1,0 +1,6 @@
+@startuml
+start
+:subpoena squad; <<input>>
+:before accomplices; <<output>>
+end
+@enduml

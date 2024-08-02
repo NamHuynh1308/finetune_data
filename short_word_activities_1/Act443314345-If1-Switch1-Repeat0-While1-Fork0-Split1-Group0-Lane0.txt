@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:symbolic mathematics;
+split again
+-[hidden]->
+if (lumpectomy attired?) then (grotesque figures)
+:haps coyote;
+-> jockey organism;
+:moloch rampage;
+kill
+else (snoop vespers)
+:ornate firms;
+:rummaging playroom;
+endif
+split again
+-[hidden]->
+:artificial sprung; <<input>>
+-> pate ruby;
+split again
+-[hidden]->
+:danced disparity; <<load>>
+end split
+:decency towers;
+:publishing tic; <<load>>
+switch (beverage trimmings?)
+case (holocaust interfered?)
+:barbaric grossly;
+case (mil rod?)
+while (stirring textbook?) is (threatens guilty)
+backward:rounded slush;
+:surrender hooky; <<input>>
+backward:review accessible;
+backward:earth pliers;
+endwhile (specialize heroic)
+:bush narcissist;
+endswitch
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "slowed fungal" as 0
+participant "preserves rage" as 1
+participant "humoring empirical" as 2
+participant "ulcer coiffure" as 3
+participant "pupil rhinestone" as 4
+2 ->] : pleasure healer
+3 ->x 0: millennium cavern
+par antelope pointer
+4 -> 0: passive fogged
+0 ->o 3: snitches para
+ [<- 2: figured easiest
+2 -> 3!! : seminars hayloft
+end
+@enduml

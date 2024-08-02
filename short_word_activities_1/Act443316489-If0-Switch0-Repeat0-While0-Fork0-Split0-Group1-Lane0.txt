@@ -1,0 +1,10 @@
+@startuml
+start
+group token diary
+:libido miffed; <<input>>
+-> audible pate;
+:supervised buries; <<save>>
+-> airtight muggings;
+stop
+end group
+@enduml

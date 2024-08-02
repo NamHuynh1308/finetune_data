@@ -1,0 +1,10 @@
+@startuml
+participant "cells pfft" as 0
+participant "calculate longevity" as 1
+participant "quicker orphanage" as 2
+1 --//o 0: housing flush
+...addition completion...
+0 -> 0++ : misconstrued annoyingly
+1 -> 0: responding commandos
+return hisses tidy
+@enduml

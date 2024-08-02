@@ -1,0 +1,7 @@
+@startuml
+participant "murderous hoes" as 0
+participant "paved scripts" as 1
+1 ->o 1: lighters muss
+ [-> 1: accommodation preference
+ [-> 0: milkman cursive
+@enduml

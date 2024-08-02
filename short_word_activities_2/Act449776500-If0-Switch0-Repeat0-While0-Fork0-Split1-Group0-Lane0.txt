@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:afloat expunged;
+split again
+-[hidden]->
+:likelihood expedient; <<input>>
+-> piqued imagination;
+split again
+-[hidden]->
+:shameless lows;
+split again
+-[hidden]->
+:consoled beth; <<output>>
+end split
+:inevitability bears; <<procedure>>
+-> choke sells;
+stop
+@enduml

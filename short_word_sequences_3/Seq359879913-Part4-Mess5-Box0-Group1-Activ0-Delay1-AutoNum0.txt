@@ -1,0 +1,14 @@
+@startuml
+participant "cars tape" as 0
+participant "exchanges groundbreaking" as 1
+participant "freezers repair" as 2
+participant "speedboat terra" as 3
+loop invaders trainer
+ [-> 1: vipers apprised
+...mercer ancients...
+3 -> 1: defined bedtime
+end
+2 ->o 3: emergency uncivilized
+1 --> 0: shovel purposes
+0 ->o 3: injection unsubstantiated
+@enduml

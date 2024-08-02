@@ -1,0 +1,9 @@
+@startuml
+participant "sailboat islands" as 0
+box "goo blaring"
+participant "shameful es" as 1
+end box
+0 -\\ 0++ : nose fighter
+1 --> 0: hostile fudging
+return sold baboon
+@enduml

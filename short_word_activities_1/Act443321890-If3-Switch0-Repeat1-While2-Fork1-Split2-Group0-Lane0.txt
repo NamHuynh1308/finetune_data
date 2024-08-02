@@ -1,0 +1,87 @@
+@startuml
+split
+-[hidden]->
+:organizer vegetarian;
+split again
+-[hidden]->
+:flighty happened; <<task>>
+split again
+-[hidden]->
+:dye boxer; <<input>>
+split again
+-[hidden]->
+if (effeminate defied?) then (contemplate childlike)
+:interpreting sympathies; <<load>>
+-> radioactive kudos;
+:allowing stays; <<load>>
+:mar loosening; <<procedure>>
+-> hacks chiseling;
+else (promised indication)
+:allegiance favours;
+:salted skeletal; <<save>>
+:underpants parental; <<continuous>>
+kill
+endif
+end split
+:overrated agree;
+if (colonized rears?) then (sued groovy)
+fork
+:trig empirical;
+fork again
+:spits proud;
+-> eat motors;
+fork again
+:accidental undo;
+fork again
+:acknowledge viking;
+end merge
+:warn wipers; <<procedure>>
+-> dato claustrophobic;
+:shallow choke; <<continuous>>
+else (avatar expressly)
+:embracing toasted; <<continuous>>
+-> vicariously horrific;
+:memorizing contradiction;
+-> grandchild hauls;
+repeat
+:variable associated;
+backward:senate doily;
+:dresser locked;
+repeat while (professed antennae?) is (crooked backfires)
+-> cavity gym;
+while (knockers decadence?) is (mightier regeneration)
+:dildo sonnets; <<input>>
+-> closes vacancies;
+split
+:succulent drapes;
+split again
+:merciful trifling;
+split again
+:phantom alfalfa; <<continuous>>
+-> ouch seductive;
+split again
+:unsure chiseling; <<output>>
+end split
+backward:strengths yah;
+if (conspirator preventative?) then (grin centimeters)
+(converging energy) elseif (knot exodus?) then (adequate establish)
+:papnzg;
+while (scabs ones?) is (forwarding performances)
+backward:scintillating showgirl;
+:whence cant; <<save>>
+backward:touched minks;
+endwhile (withdraws fixating)
+-[hidden]->
+detach
+(pop mom) elseif (introductions toyed?) then (kibosh lying)
+:goonies trains;
+(burgers ankle) elseif (buffet repetition?) then (posses sockets)
+:commerce hombre; <<continuous>>
+-> huddle soda;
+endif
+endwhile (booby redneck)
+-[hidden]->
+detach
+endif
+stop
+@enduml

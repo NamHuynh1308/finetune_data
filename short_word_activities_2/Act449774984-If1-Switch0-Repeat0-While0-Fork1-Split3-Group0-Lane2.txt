@@ -1,0 +1,58 @@
+@startuml
+|1| spices negotiations
+|2| humorless dingy
+split
+-[hidden]->
+:comparative pi;
+split again
+-[hidden]->
+:skewed gage; <<continuous>>
+split again
+-[hidden]->
+fork
+:avatar triumphs;
+fork again
+:appreciates misbehave;
+fork again
+:madonna pneumonia;
+end fork
+split again
+-[hidden]->
+:whiter zander;
+end split
+|2|
+:counselling certainties;
+:trombone punish; <<task>>
+-> fads crossed;
+|1|
+:dipping minded; <<procedure>>
+-> conspiracy marbles;
+|2|
+:catalyst vow; <<load>>
+-> heigh cory;
+|1|
+split
+:sensors condoms;
+split again
+:pate cleansing; <<input>>
+split again
+if (bury imposition?) then (globe bronzing)
+:shackles gall;
+else (sinus stumper)
+:warned hounded;
+:leisure tosses; <<output>>
+:belongings examination; <<continuous>>
+endif
+split again
+split
+:double spectators;
+split again
+:tasty revolting; <<input>>
+-> cuteness patching;
+split again
+:enslave pudding;
+-> bangers evolution;
+end split
+end split
+end
+@enduml

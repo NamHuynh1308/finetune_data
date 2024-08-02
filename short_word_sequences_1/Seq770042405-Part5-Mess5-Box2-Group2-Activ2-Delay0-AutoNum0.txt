@@ -1,0 +1,24 @@
+@startuml
+participant "tellers re" as 0
+box "complaining on"
+participant "crept inspector" as 1
+box "vaccine waitresses"
+participant "sorrows salads" as 2
+participant "troy dismantled" as 3
+end box
+end box
+== peddling politely ==
+par blob destruct
+3 -\\ 1++ : scramble steamed
+3 <-> 1: oppression deluge
+opt canoe protruding
+2 --//o 0++ : duds sampling
+0 -> 3: fullest gardenias
+return protect interrupt
+create participant "slaughtering tendency" as 4
+1 -> 4 : slaughtering tendency
+else nephew ballads
+end
+end
+return beep flavors
+@enduml

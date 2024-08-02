@@ -1,0 +1,13 @@
+@startuml
+participant "syllabus plus" as 0
+box "divest chirpy"
+participant "discuss experiencing" as 1
+end box
+== waking hikers ==
+par huffed jiggle
+1 ->x 0: ogling lama
+critical landscapes stockbrokers
+1 <-] : litigation mutton
+end
+end
+@enduml

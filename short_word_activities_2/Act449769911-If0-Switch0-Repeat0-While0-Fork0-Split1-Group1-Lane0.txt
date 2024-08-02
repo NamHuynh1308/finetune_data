@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:freshener headlong;
+split again
+-[hidden]->
+:pele manipulated; <<input>>
+split again
+-[hidden]->
+:occurred duffel;
+end split
+group kingdoms bonnet
+:whence disappointments; <<load>>
+stop
+end group
+@enduml

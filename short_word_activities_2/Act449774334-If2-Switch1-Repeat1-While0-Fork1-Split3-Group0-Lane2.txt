@@ -1,0 +1,71 @@
+@startuml
+|1| abut willing
+|2| patter popcorn
+split
+-[hidden]->
+:aeroplane whittle;
+split again
+-[hidden]->
+split
+:shit savings;
+split again
+:whispering dateline; <<procedure>>
+-> chorus flagship;
+split again
+:venereal overwhelming;
+split again
+:field unidentified;
+end split
+split again
+-[hidden]->
+:plaything yom; <<procedure>>
+split again
+-[hidden]->
+:burritos pretending;
+end split
+if (homers connected?) then (population mm)
+if (rubber wearing?) then (calzones klutzy)
+:reception yipe;
+:fairgrounds faulty;
+else (nod sharpened)
+:dismount fountain; <<task>>
+:predicting fulfilling; <<save>>
+:nicely field;
+-> pudding software;
+endif
+else (expedient propaganda)
+split
+:warmed revolution;
+split again
+:telephone voluntarily; <<task>>
+split again
+:fen civilians; <<save>>
+end split
+endif
+fork
+:suburbia candle;
+fork again
+switch (machinations fundraisers?)
+case (blasphemous vaccinated?)
+:rem unsettling;
+-> bedspread turf;
+case (tribal novelty?)
+:portable units;
+case (weenies hymn?)
+:houses flippers; <<load>>
+endswitch
+fork again
+:vocabulary crock;
+fork again
+repeat
+backward:detect brooding;
+repeat while (squaring berate?) is (halt paper)
+end fork
+|2|
+:juicy coins;
+-> boned westbound;
+|1|
+:ketchup mystified; <<continuous>>
+-> images brin;
+stop
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "medic sabe" as 0
+autonumber 4 5
+loop carelessness elusive
+0 -> 0: recorder unopened
+autonumber stop
+par manipulate auntie
+create participant "neutron coronary" as 1
+0 -> 1 : neutron coronary
+1 -> 1!! : bilge maniacs
+autonumber resume
+end
+end
+@enduml

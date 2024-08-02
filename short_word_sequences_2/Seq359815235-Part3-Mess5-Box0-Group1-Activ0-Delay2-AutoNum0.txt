@@ -1,0 +1,14 @@
+@startuml
+participant "orange ineffective" as 0
+participant "west braid" as 1
+0 -> 1!! : naught corresponds
+create participant "affectionately biographies" as 2
+0 -> 2 : affectionately biographies
+2 <-] : philosophers wowed
+opt worries unacceptable
+...rebels urges...
+0 ->] : thawing disbarred
+...scapegoat present...
+1 -> 0: conjunction spouse
+end
+@enduml

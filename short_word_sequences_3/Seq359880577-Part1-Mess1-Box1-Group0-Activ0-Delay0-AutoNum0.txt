@@ -1,0 +1,7 @@
+@startuml
+box "grandmothers amended"
+participant "sale urine" as 0
+end box
+== advisor recovered ==
+0 -> 0: embassies monthly
+@enduml

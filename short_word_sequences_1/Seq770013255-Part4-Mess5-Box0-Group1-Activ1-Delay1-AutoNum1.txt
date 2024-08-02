@@ -1,0 +1,20 @@
+@startuml
+participant "whistling materials" as 0
+participant "beginning tab" as 1
+participant "sulfur squirrel" as 2
+participant "crummy dotty" as 3
+autonumber 0 1
+3 --> 0: schizophrenic insertion
+autonumber stop
+0 -\\ 3++ : harvest removes
+autonumber resume
+2 -// 2: snoop ponytail
+1 -> 2: ducts bludgeoned
+autonumber stop
+critical coop spas
+...quickest recommendation...
+2 -> 1: tractors impeding
+autonumber resume
+end
+return module bass
+@enduml

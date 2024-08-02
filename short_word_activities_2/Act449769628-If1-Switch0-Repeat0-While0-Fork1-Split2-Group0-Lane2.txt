@@ -1,0 +1,42 @@
+@startuml
+|1| garnish convened
+|2| dissolve harbors
+|1|
+start
+:deserted lowly; <<output>>
+-> contesting murphy;
+|2|
+:centerfold espionage; <<output>>
+|1|
+if (periodic ample?) then (different tying)
+:shebang busted;
+else (message decided)
+:weenie madman;
+-> inherits outwitted;
+split
+:waters hong;
+split again
+:homage extort; <<output>>
+split again
+:write grandchildren; <<save>>
+split again
+:satisfactory snoopy;
+end split
+endif
+fork
+:immortality discolored;
+fork again
+split
+:treated uprooted;
+split again
+:smoke underdog; <<save>>
+split again
+:mahatma departed; <<input>>
+end split
+fork again
+:tripped seep;
+-> midget merlot;
+end fork
+|2|
+:execution distances; <<task>>
+@enduml

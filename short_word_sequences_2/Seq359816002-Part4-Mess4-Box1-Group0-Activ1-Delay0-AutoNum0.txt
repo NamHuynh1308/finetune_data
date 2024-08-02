@@ -1,0 +1,14 @@
+@startuml
+participant "holies yom" as 0
+participant "survivor regimes" as 1
+participant "calzones grownups" as 2
+box "diagnoses loving"
+participant "performing intrigues" as 3
+end box
+== fraternization mel ==
+3 -\\ 3: subordinate brute
+0 --//o 3: endangering item
+2 <-] : synagogue client
+0 ->o 2++ : roger artful
+return mood willy
+@enduml

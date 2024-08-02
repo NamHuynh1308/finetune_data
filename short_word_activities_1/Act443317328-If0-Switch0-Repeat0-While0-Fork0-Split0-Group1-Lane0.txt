@@ -1,0 +1,7 @@
+@startuml
+group supposed immediately
+:crystal rooftop; <<output>>
+-> overreact partner;
+stop
+end group
+@enduml

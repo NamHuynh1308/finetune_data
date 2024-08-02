@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:designing hairpin;
+split again
+-[hidden]->
+:flight shout; <<task>>
+split again
+-[hidden]->
+:rehearsing statistics; <<load>>
+split again
+-[hidden]->
+:corroboration heavyset; <<continuous>>
+-> promiscuous congrats;
+end split
+group foremost tussle
+:terminal floats; <<save>>
+:clumsily trifecta; <<task>>
+end group
+@enduml

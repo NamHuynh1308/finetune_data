@@ -1,0 +1,5 @@
+@startuml
+:healing ether; <<procedure>>
+-> domesticated scenario;
+end
+@enduml

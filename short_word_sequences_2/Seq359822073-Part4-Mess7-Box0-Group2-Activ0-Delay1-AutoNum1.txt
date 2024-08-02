@@ -1,0 +1,21 @@
+@startuml
+participant "laces dummkopf" as 0
+participant "haze hitchhiker" as 1
+participant "applicants infamous" as 2
+autonumber 1 4
+2 -\\ 1: proceeding janitorial
+0 -// 1: sophistication clot
+ [-> 0: melts flex
+...medication nourishment...
+ [<- 2: desks embedded
+autonumber stop
+critical screamer first
+1 -\\ 1: umpteenth steer
+opt miserable doe
+1 <-] : completing tame
+create participant "eventful unfamiliar" as 3
+2 -> 3 : eventful unfamiliar
+else behind psychosis
+end
+end
+@enduml

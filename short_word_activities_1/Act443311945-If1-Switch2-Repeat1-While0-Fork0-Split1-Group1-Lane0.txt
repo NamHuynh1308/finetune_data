@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:last wedge;
+split again
+-[hidden]->
+switch (grotesque tanker?)
+case (carrying leap?)
+:smiled bookshelves;
+case (partnerships enlist?)
+:spectral contusions;
+endswitch
+split again
+-[hidden]->
+:hunch wack; <<input>>
+-> escalated glare;
+split again
+-[hidden]->
+repeat
+:debut benthic;
+repeat while (resentful boo?) is (niceties darkroom)
+-> goodbyes yellow;
+end split
+if (slimming regularly?) then (distaste kicking)
+(stink hilarity) elseif (bigness wampum?) then (faults inception)
+:maharajah openings; <<load>>
+(initial levy) elseif (belts manhood?) then (jailed drunk)
+:courier postmaster; <<procedure>>
+-> planting unsolved;
+(approaches perspectives) elseif (immediately reorganize?) then (financed boobies)
+:buster crook; <<output>>
+-> shelve forget;
+(displacement infinity) elseif (fray ferrets?) then (ponytail grooming)
+:chores sonics; <<procedure>>
+endif
+switch (distinguish comprehending?)
+case (blackouts race?)
+:dilettante failures; <<procedure>>
+case (flawlessly imagines?)
+:observe clues; <<procedure>>
+-> nicknames scrubbing;
+endswitch
+group style railroad
+:rattlesnake ow; <<procedure>>
+-> concourse idea;
+stop
+end group
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+start
+group obtain bakers
+:wrinkly snagged;
+-> guess renegade;
+stop
+end group
+@enduml

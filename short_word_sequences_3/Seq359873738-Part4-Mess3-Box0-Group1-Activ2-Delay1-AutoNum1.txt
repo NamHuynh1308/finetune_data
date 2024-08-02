@@ -1,0 +1,15 @@
+@startuml
+participant "dispatch freeman" as 0
+participant "cobra tacit" as 1
+participant "unpunished footman" as 2
+autonumber 4 0
+create participant "humored pursuits" as 3
+2 -> 3 : humored pursuits
+loop collectors toddy
+...protector mellow...
+2 ->x 0++ : halibut pinot
+2 --//o 0++ : circuit hanger
+end
+return lower believer
+return prowess volcanic
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "trellis equal" as 0
+participant "enlarged barfed" as 1
+participant "tranquilizer messenger" as 2
+box "flake thirds"
+participant "flaky met" as 3
+end box
+autonumber 4 1
+1 <-] : harping nerves
+2 -> 0: solicitation conditioner
+critical wheeler ivy
+create participant "autopsy lass" as 4
+3 -> 4 : autopsy lass
+4 ->] : dyed assets
+autonumber stop
+else exciting amaze
+4 <-] : category preemptive
+end
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+participant "toot jake" as 0
+participant "paperweight groomer" as 1
+participant "clothesline pals" as 2
+critical exhilarating burgeoning
+create participant "cans motherfucking" as 3
+0 -> 3 : cans motherfucking
+critical explaining colour
+...caved roast...
+3 -> 3: prove reassemble
+...abbot tinfoil...
+1 -> 2++ : cockney verger
+else sabotaged vacancies
+...scabs wets...
+2 ->o 3: away spend
+return homos anaesthetic
+2 -->x 3: theatrical dirt
+ [-> 3: shyness surging
+end
+end
+@enduml

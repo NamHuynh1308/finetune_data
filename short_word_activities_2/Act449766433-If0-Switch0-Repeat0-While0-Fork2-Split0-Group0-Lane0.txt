@@ -1,0 +1,19 @@
+@startuml
+fork
+:bookends lectures;
+fork again
+fork
+:guineas effeminate;
+fork again
+:tumbling drinker; <<task>>
+fork again
+:ailing mortars; <<input>>
+-> rudeness relentless;
+fork again
+:dunk campfire;
+end merge
+fork again
+:missionaries reluctant;
+end fork
+end
+@enduml

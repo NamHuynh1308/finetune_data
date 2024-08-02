@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:harassment skittles;
+split again
+-[hidden]->
+:unleaded calmer;
+-> pedal banks;
+split again
+-[hidden]->
+:lum ushers; <<output>>
+-> triumphs minerals;
+end split
+:curfew structure; <<save>>
+if (sergeant trains?) then (condolences fared)
+:circumstances near; <<output>>
+-> crack overbearing;
+while (tingle utilities?) is (reopened brunette)
+:manhandle transporting;
+endwhile (accustomed shrugged)
+-[hidden]->
+detach
+else (combust fragment)
+split
+:flamenco shutting;
+split again
+:emporium notch;
+split again
+:ballet overwhelm; <<load>>
+split again
+:psychotherapy intense;
+end split
+:felonies swayed; <<task>>
+-> chimney javelin;
+endif
+end
+@enduml

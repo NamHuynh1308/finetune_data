@@ -1,0 +1,8 @@
+@startuml
+participant "big cartouche" as 0
+participant "thanks bodily" as 1
+== honda yachts ==
+autonumber 9 4
+0 -> 0: dynamo testing
+ [<- 0: add glow
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+group dawn technologically
+:tender idea; <<task>>
+stop
+end group
+@enduml

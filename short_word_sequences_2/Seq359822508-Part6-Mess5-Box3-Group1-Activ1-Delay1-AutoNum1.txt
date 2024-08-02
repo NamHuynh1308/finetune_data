@@ -1,0 +1,26 @@
+@startuml
+box "caritas fax"
+participant "policing bobcat" as 0
+box "respecting amnesia"
+participant "urgency fans" as 1
+participant "danced ethanol" as 2
+participant "fiesta believable" as 3
+box "mocked matrix"
+participant "indiscretion sobriety" as 4
+end box
+end box
+end box
+== tiller poncho ==
+autonumber 3 9
+1 ->] : merrily mainland
+1 --> 1: cover eliminate
+2 -> 0++ : earthquakes chained
+opt strut op
+create participant "transgressions icy" as 5
+4 -> 5 : transgressions icy
+return debate explosives
+autonumber stop
+...jiffy allegedly...
+5 -> 4!! : indelicate picker
+end
+@enduml

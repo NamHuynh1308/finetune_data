@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:spitz biggest;
+split again
+-[hidden]->
+:statute snuggle; <<task>>
+split again
+-[hidden]->
+:scattering properties;
+-> fundamentalist exonerated;
+split again
+-[hidden]->
+:faking new; <<continuous>>
+-> shrubbery feasting;
+end split
+group crapping namesake
+:settling shanghai;
+-> prodding mousey;
+:savannah ballon; <<continuous>>
+-> earmarks intoxicated;
+end group
+group bombarded lyrics
+:beanie tonight; <<continuous>>
+stop
+end group
+@enduml

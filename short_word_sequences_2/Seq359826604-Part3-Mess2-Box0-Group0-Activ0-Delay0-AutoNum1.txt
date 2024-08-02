@@ -1,0 +1,9 @@
+@startuml
+participant "attained cabbage" as 0
+participant "yanks displaced" as 1
+== coordinator trophy ==
+autonumber 8 7
+0 ->o 1: panache impending
+create participant "bustling employer" as 2
+0 -> 2 : bustling employer
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+start
+group essential delaying
+switch (exceeding crepes?)
+case (righty deuce?)
+:royally teeny; <<load>>
+case (underpants heartland?)
+:professor differences; <<procedure>>
+-> hotheaded entertainer;
+case (innermost fried?)
+if (tinkering commissioners?) then (pony saran)
+(subpoenaed lawnmower) elseif (cocoon knocked?) then (scratch naphthalene)
+:moments occupation;
+(hardens numerous) elseif (fabled bel?) then (tags karaoke)
+:whimsy posts;
+(bearing doctored) elseif (so coolness?) then (swede leapt)
+:sahib buddies; <<continuous>>
+endif
+endswitch
+group implement dioxide
+:lighthearted mannered; <<input>>
+stop
+end group
+end group
+@enduml

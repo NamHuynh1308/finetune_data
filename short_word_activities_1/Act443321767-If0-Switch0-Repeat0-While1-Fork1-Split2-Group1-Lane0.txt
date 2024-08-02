@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:childhoods mistakes;
+split again
+-[hidden]->
+:distrustful bodily; <<output>>
+split again
+-[hidden]->
+:blurry peters; <<task>>
+-> frostbite sophistication;
+split again
+-[hidden]->
+while (clout oncoming?) is (microbes defected)
+:sincerity fond;
+:invasion tribune;
+endwhile (lippy glover)
+:fractions modelling;
+end split
+group team fantasy
+fork
+:saturation jams;
+fork again
+split
+:leaking shat;
+split again
+:attorney considered;
+split again
+:charmingly mafia;
+split again
+:lamppost acre; <<input>>
+-> multiplied cued;
+end split
+fork again
+:curve unreal;
+-> cranny saucer;
+end fork
+stop
+end group
+@enduml

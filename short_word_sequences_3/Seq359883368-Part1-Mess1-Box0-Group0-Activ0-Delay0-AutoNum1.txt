@@ -1,0 +1,5 @@
+@startuml
+participant "executive chile" as 0
+autonumber 8 6
+0 -> 0!! : scientists pedro
+@enduml

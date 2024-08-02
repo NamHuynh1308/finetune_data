@@ -1,0 +1,7 @@
+@startuml
+group annex sublet
+:banshee caregiver; <<input>>
+-> heartthrob darken;
+stop
+end group
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "gauntlet dove" as 0
+== drainage elect ==
+0 <-> 0: instilled spoke
+loop calzone blackout
+0 --> 0: central renewed
+0 -> 0: unwise kidney
+end
+@enduml

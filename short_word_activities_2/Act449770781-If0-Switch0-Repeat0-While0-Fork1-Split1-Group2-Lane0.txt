@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:opportune preachy;
+split again
+-[hidden]->
+:architects interrogated; <<output>>
+split again
+-[hidden]->
+:untoward socks;
+end split
+group absences black
+fork
+:jockstrap accessing;
+fork again
+:halo ahold; <<output>>
+-> torpedoes escalated;
+fork again
+:cleansing annihilated; <<load>>
+end fork
+group outdo detonating
+:reapers container; <<output>>
+stop
+end group
+end group
+@enduml

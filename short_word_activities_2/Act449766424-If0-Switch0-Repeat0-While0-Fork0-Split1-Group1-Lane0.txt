@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:actions cheek;
+split again
+-[hidden]->
+:sponsor acquire;
+split again
+-[hidden]->
+:calender catastrophe; <<continuous>>
+end split
+group orphanage mountain
+:schmooze slurp;
+-> rainier appoint;
+:franks cardinals; <<output>>
+end group
+@enduml

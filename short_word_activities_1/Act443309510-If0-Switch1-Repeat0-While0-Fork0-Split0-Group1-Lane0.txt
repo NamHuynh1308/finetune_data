@@ -1,0 +1,19 @@
+@startuml
+group eel sage
+:overreacted hastily; <<output>>
+:backstage laminated; <<continuous>>
+end group
+switch (fruity honk?)
+case (fingernail appetizing?)
+:victoria dimpled; <<load>>
+case (player fastball?)
+:reddish hugs;
+kill
+case (languages unscathed?)
+:raiser lunge;
+-> suits smiling;
+case (ridiculous breathe?)
+:suffered deposit; <<output>>
+endswitch
+end
+@enduml

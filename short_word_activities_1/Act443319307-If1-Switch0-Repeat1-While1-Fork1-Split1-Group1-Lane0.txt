@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:submarine weaning;
+split again
+-[hidden]->
+:preserved confused; <<save>>
+split again
+-[hidden]->
+:girlie stomachache;
+end split
+group protects mammals
+:pant proposing; <<input>>
+if (lounging spud?) then (earth aggressor)
+repeat
+:cuddly leering;
+-> lapping custodian;
+backward:skeptic feeble;
+:crowned execution;
+repeat while (mercury ebb?) is (overslept suburb)
+:sandbar packed; <<load>>
+else (exasperating revolving)
+:indeed editing;
+-> fifteen tapas;
+fork
+:doves quell;
+fork again
+:splits maintenance;
+fork again
+:bristol gabbing; <<load>>
+end fork
+:arboretum geological; <<output>>
+while (triad sublet?) is (tries vector)
+:pickpocket continuance;
+endwhile (toasty liberation)
+-[hidden]->
+detach
+endif
+end group
+stop
+@enduml

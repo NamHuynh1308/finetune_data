@@ -1,0 +1,16 @@
+@startuml
+participant "lax grocer" as 0
+box "perk badges"
+participant "coarse bribery" as 1
+end box
+== sweetly nectar ==
+0 -> 0: schematics nutcase
+1 -> 0++ : read tote
+0 ->x 1: millennium renovation
+return twelfth regaining
+par absence evolving
+1 <-] : belongs circulatory
+0 ->> 0: inventory gradually
+else jolly serial
+end
+@enduml

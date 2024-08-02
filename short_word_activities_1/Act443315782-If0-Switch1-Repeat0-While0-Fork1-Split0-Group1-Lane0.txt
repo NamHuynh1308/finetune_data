@@ -1,0 +1,24 @@
+@startuml
+group lilac jag
+fork
+:eaten supplement;
+fork again
+:tod womanizer; <<load>>
+-> talking beating;
+fork again
+:measles berate;
+-> scooter rotten;
+fork again
+switch (spur justifiable?)
+case (pregnancy lynched?)
+:baggy rails; <<continuous>>
+-> demon chiffon;
+case (conflicts hoses?)
+:condone exaggeration;
+case (kindness proxy?)
+:judges pickpocket; <<save>>
+endswitch
+end merge
+stop
+end group
+@enduml

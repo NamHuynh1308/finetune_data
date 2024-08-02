@@ -1,0 +1,19 @@
+@startuml
+start
+fork
+:rough archeology;
+fork again
+:overheard squatters; <<load>>
+fork again
+split
+:valuables conservation;
+split again
+:cook daiquiri; <<procedure>>
+split again
+:apostle nitroglycerin; <<task>>
+split again
+:matey presidential;
+end split
+end merge
+stop
+@enduml

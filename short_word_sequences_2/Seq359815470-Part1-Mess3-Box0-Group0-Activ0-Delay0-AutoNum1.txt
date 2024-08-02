@@ -1,0 +1,9 @@
+@startuml
+participant "east squares" as 0
+== shocked hobbit ==
+autonumber 2 0
+0 -// 0: weirdos blisters
+0 --> 0: pregnancies slayers
+0 -> 0: perimeters cork
+autonumber stop
+@enduml

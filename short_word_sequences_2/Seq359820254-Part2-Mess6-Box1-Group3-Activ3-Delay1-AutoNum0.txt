@@ -1,0 +1,22 @@
+@startuml
+participant "lamb docks" as 0
+box "specialize manpower"
+participant "fabric gridlock" as 1
+end box
+ [-> 1: dismount sculpture
+loop began belt
+0 ->x 1++ : brand dearly
+...explode memorabilia...
+1 --> 0++ : sucking explicitly
+0 -> 1++ : desktop tropics
+opt celebrating flawlessly
+1 -> 0: obsessions airway
+break oxen damper
+0 -> 1: arbitration questioning
+end
+end
+end
+return lupus resin
+return oomph whoop
+return buckaroo pandora
+@enduml

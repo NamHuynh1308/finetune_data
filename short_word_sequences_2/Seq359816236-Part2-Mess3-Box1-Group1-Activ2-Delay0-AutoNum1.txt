@@ -1,0 +1,14 @@
+@startuml
+box "boxing route"
+participant "lecturing nations" as 0
+participant "dolt nicknamed" as 1
+end box
+autonumber 0 3
+1 -// 0++ : mack willfully
+1 ->o 1++ : thespian sweatshops
+loop explains fugitive
+0 -> 1: sidebar displayed
+end
+return noh stitches
+return gangs liquefy
+@enduml

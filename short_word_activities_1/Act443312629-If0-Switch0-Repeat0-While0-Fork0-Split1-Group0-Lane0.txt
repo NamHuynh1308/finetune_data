@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:imposed shell;
+split again
+-[hidden]->
+:confirms chic; <<input>>
+-> scurry flooded;
+split again
+-[hidden]->
+:hup ravage;
+end split
+:rant fossilized; <<output>>
+:chutes brassieres;
+-> toxicity bouts;
+stop
+@enduml

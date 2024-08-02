@@ -1,0 +1,42 @@
+@startuml
+|1| actor awaiting
+|2| muff streaming
+split
+-[hidden]->
+:wishing rooming;
+split again
+-[hidden]->
+:steamroller hitchhiker; <<continuous>>
+split again
+-[hidden]->
+:than corresponding;
+-> hullo slices;
+end split
+|2|
+:repaid boiling; <<output>>
+-> regaining alfalfa;
+fork
+:aloe pomegranate;
+fork again
+:waging persecute; <<input>>
+fork again
+split
+:quarterbacks cardigan;
+split again
+:yah faded;
+split again
+:hustle complexion;
+end split
+end fork
+if (respectability ness?) then (kiddies means)
+:gimp planetarium; <<load>>
+:moll sinister;
+else (abduction troubles)
+:patented separating; <<task>>
+-> removal hurried;
+:notepad pinheads;
+:immobilize sol; <<save>>
+-> attractive anthology;
+endif
+stop
+@enduml

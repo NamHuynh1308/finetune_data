@@ -1,0 +1,56 @@
+@startuml
+|1| prophecy stadium
+|2| aging concession
+split
+-[hidden]->
+:landfill sleuth;
+split again
+-[hidden]->
+:recklessness frisky; <<input>>
+split again
+-[hidden]->
+fork
+:contributions exiles;
+fork again
+:notary banjo;
+fork again
+:jaywalking weekends;
+end fork
+end split
+|2|
+repeat
+:confer merman; <<task>>
+repeat while (minefield entitle?) is (matchbook wooed)
+-> weeks compare;
+|1|
+:adoring clinches;
+|2|
+:backpacks planing;
+|1|
+:eyeballs contusion; <<input>>
+if (caviar verification?) then (hunted drumsticks)
+(angels reply) elseif (finishing braver?) then (hacked wading)
+:fvwwgz;
+while (threatened elder?) is (lonely chubby)
+:tate seventeenth;
+-> cruiser climb;
+backward:advertisement warming;
+switch (bolts pamper?)
+case (ruby recession?)
+:guardians offering;
+case (famished fifteen?)
+:squashed uh; <<input>>
+case (function foray?)
+:intolerable blimey; <<procedure>>
+endswitch
+endwhile (adorable davy)
+-[hidden]->
+detach
+(gran deviated) elseif (blazing carnival?) then (apologetic busty)
+:bossed groundskeeper; <<procedure>>
+(underestimated damning) elseif (craft greatest?) then (senators seriousness)
+:swallowed hunchback;
+-> overexcited mining;
+endif
+stop
+@enduml

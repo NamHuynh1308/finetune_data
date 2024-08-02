@@ -1,0 +1,15 @@
+@startuml
+participant "composite corporate" as 0
+loop vitally beige
+ [-> 0: roasts painkillers
+0 <-] : safe stomachs
+0 -> 0: palomino orbiting
+else cheek alfalfa
+break sprained jarring
+0 <-] : totalled spotted
+critical abstinence undermined
+0 ->x 0: metals tabby
+end
+end
+end
+@enduml

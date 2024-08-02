@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:suspects circumference;
+split again
+-[hidden]->
+:text sleepwalk; <<output>>
+-> forty harnessed;
+split again
+-[hidden]->
+:tile splendor; <<procedure>>
+split again
+-[hidden]->
+:stutter housed; <<load>>
+end split
+group continue clap
+:empowered inquiry;
+-> wally preppie;
+:condominium pool; <<input>>
+end group
+stop
+@enduml

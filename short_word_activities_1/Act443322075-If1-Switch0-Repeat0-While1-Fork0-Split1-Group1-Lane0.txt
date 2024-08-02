@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:geometric heartache;
+split again
+-[hidden]->
+if (considering offerings?) then (staked execution)
+:going activity; <<save>>
+:answer quarter; <<procedure>>
+:checkbook reek; <<procedure>>
+else (yah harvest)
+:backfired grazed;
+:outrun eloquently;
+:cheesecake reappeared; <<procedure>>
+-> sphere pitchfork;
+while (loneliest combustion?) is (horsing hemisphere)
+:spunky strategic;
+endwhile (panting center)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+:rev wormhole;
+split again
+-[hidden]->
+:psychobabble bulls; <<output>>
+end split
+group wise jingling
+:sac police;
+-> each fondled;
+stop
+end group
+@enduml

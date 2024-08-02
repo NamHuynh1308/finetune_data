@@ -1,0 +1,25 @@
+@startuml
+start
+:getter extracurriculars; <<task>>
+-> lyrics sheepskin;
+group stake countryside
+split
+:noggin gatekeeper;
+split again
+fork
+:historian enhanced;
+fork again
+:hurrying tips;
+fork again
+:unsung grease;
+-> factoid heyday;
+fork again
+:fronts widower;
+end fork
+split again
+:prepped mechanism; <<procedure>>
+-> lawn queens;
+end split
+stop
+end group
+@enduml

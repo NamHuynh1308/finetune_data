@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:stinks merl;
+split again
+-[hidden]->
+:bakeries scorch; <<continuous>>
+split again
+-[hidden]->
+:chickadee ahem; <<output>>
+end split
+:speakeasy suspected; <<input>>
+group stiletto beck
+:invoked unprecedented; <<save>>
+stop
+end group
+@enduml

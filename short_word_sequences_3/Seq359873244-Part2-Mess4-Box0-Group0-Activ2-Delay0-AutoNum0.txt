@@ -1,0 +1,11 @@
+@startuml
+participant "knob mystery" as 0
+participant "fulcrum moody" as 1
+== jars batting ==
+0 --> 0++ : neighbor affectionate
+1 <-] : screwball lacking
+0 ->] : siege killer
+return celeste gathering
+1 -> 1++ : canals druthers
+return nickels retina
+@enduml

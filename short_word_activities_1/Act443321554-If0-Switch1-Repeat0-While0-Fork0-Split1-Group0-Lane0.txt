@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:pianos breakthroughs;
+split again
+-[hidden]->
+switch (draws descend?)
+case (untrustworthy furthering?)
+:unity gushy;
+case (lockup qualified?)
+:betray noise;
+-> lenses tenacious;
+case (item obligatory?)
+:listen holler;
+case (mutating handle?)
+:revere carotid; <<input>>
+-> welcomed scissor;
+endswitch
+split again
+-[hidden]->
+:aisles card; <<output>>
+-> piazza lasted;
+split again
+-[hidden]->
+:prancer myriad; <<output>>
+-> fave compares;
+end split
+:nice promotes; <<output>>
+end
+@enduml

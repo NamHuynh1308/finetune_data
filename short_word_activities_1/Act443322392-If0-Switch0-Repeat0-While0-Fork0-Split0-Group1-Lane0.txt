@@ -1,0 +1,6 @@
+@startuml
+group saffron photographing
+:dispatch necromancer; <<task>>
+stop
+end group
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:bearing geometric;
+split again
+-[hidden]->
+:testimonies pilar;
+split again
+-[hidden]->
+if (firmly dust?) then (swedes pinecone)
+:scrambler sen; <<procedure>>
+else (stamper poorhouse)
+:mister deflated;
+-> mines attendance;
+endif
+end split
+:separating erred;
+group pillar comer
+:suppress accommodation; <<load>>
+:dandelion hemorrhoids; <<input>>
+end group
+end
+@enduml

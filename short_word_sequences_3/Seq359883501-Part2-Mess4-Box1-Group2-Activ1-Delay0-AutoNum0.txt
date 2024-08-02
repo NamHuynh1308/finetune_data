@@ -1,0 +1,17 @@
+@startuml
+box "liters fist"
+participant "cared sentinels" as 0
+participant "startled bottle" as 1
+end box
+== pamphlets pods ==
+0 -> 1++ : noxious dim
+loop responds unlikely
+1 ->x 1: busier escapades
+0 --//o 0: deft coral
+return nametag destroyed
+else drudge webs
+par conspiracies khan
+1 <-> 0: bloodshed tyre
+end
+end
+@enduml

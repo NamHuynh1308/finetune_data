@@ -1,0 +1,4 @@
+@startuml
+participant "snook wreaths" as 0
+0 ->> 0: pollack stowed
+@enduml

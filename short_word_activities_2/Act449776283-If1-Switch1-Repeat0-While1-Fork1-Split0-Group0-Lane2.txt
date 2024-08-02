@@ -1,0 +1,45 @@
+@startuml
+|1| cretins costly
+|2| dish conn
+switch (buys lotto?)
+case (jobless maybe?)
+fork
+:supermodel jefe;
+fork again
+:minions overkill; <<output>>
+fork again
+:concierge officially;
+fork again
+:enjoyable moose;
+end merge
+case (demanded activated?)
+if (irrevocably first?) then (wised clamped)
+(piano attract) elseif (hug foiled?) then (example criminal)
+:jo seen;
+(detest circular) elseif (stunningly orthodontist?) then (plagues acids)
+:lead assurances;
+(algebra rocks) elseif (haberdashery crystal?) then (kidnapped linoleum)
+:yphhim;
+kill
+(reduce capsize) elseif (buckle slammed?) then (country appearance)
+:oxlcen;
+while (bump chump?) is (dissolving troll)
+:clairvoyant newest;
+:genetic eminent; <<load>>
+:timely encouraged; <<input>>
+endwhile (whereas eagles)
+-[hidden]->
+detach
+endif
+case (fainter volts?)
+:wisecracks outrun; <<task>>
+endswitch
+|2|
+:tarred bloods;
+|1|
+:imperfect snapshots; <<save>>
+-> inmates ballet;
+|2|
+:toothpicks compute;
+end
+@enduml

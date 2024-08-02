@@ -1,0 +1,17 @@
+@startuml
+participant "dong mall" as 0
+box "beatings barber"
+participant "clocks wavelengths" as 1
+participant "about better" as 2
+participant "flour confer" as 3
+end box
+== devastate hookup ==
+1 -// 0: crux goo
+2 -\\ 2++ : pocketful spud
+...smackers doses...
+0 -> 3: cayman pose
+loop estate radioed
+3 --> 0: attacking unwritten
+end
+return dressed occurrences
+@enduml

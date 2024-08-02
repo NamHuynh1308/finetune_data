@@ -1,0 +1,15 @@
+@startuml
+participant "paralyze clotted" as 0
+participant "amigo backdoor" as 1
+participant "levy racks" as 2
+loop distributing storming
+0 <-> 2: continuum pots
+0 -> 2: clammy appropriate
+create participant "sudden clowning" as 3
+0 -> 3 : sudden clowning
+alt salted paperweight
+3 -> 3++ : cooked complain
+end
+end
+return consider pricey
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+participant "cyanide tobacco" as 0
+participant "matzah barracks" as 1
+participant "alarm clamoring" as 2
+participant "nipper crescent" as 3
+box "impenetrable newsletter"
+participant "unpacked blooded" as 4
+end box
+autonumber 4 7
+4 ->> 2++ : wrists vacancies
+3 ->> 0: oiled lumbering
+autonumber stop
+3 ->] : sturgeon lovelies
+opt nastiest longest
+create participant "dance evacuation" as 5
+2 -> 5 : dance evacuation
+create participant "dangling intermission" as 6
+2 -> 6 : dangling intermission
+else arranging pied
+2 -> 5: aunt symphony
+...anything college...
+6 ->x 0: olds radial
+end
+return ruckus autographs
+@enduml

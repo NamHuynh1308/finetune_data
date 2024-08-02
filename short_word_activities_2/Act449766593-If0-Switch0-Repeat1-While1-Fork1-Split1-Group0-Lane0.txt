@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:supplements usefulness;
+split again
+-[hidden]->
+:blissfully handkerchief; <<task>>
+split again
+-[hidden]->
+:doggy meager; <<input>>
+split again
+-[hidden]->
+fork
+:backyard looks;
+fork again
+:veered snoring;
+fork again
+:stockings practices; <<output>>
+fork again
+:insert insatiable; <<load>>
+end merge
+end split
+:cured beards; <<input>>
+while (fellahs danger?) is (hideout concourse)
+repeat
+:calzone shoveled; <<output>>
+-> wanting laugh;
+:incinerator haunting;
+if (grub ohm) then (distrustful aspect)
+:cokes circulated;
+break
+endif
+->measures pinot;
+:fetch dynamic;
+:warring warp;
+repeat while (grandad invincible?) is (zipped unjustly)
+endwhile (pants knelt)
+:embezzlement clumps;
+stop
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "shay kitties" as 0
+participant "snifter lather" as 1
+alt lovelies overdosed
+ [<- 1: creations ashes
+1 -\\ 0++ : tired childhoods
+end
+return bethesda interrogated
+@enduml

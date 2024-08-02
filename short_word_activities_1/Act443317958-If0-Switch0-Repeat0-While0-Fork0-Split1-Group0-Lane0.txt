@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:minutes moonlit;
+split again
+-[hidden]->
+:speedometer carter; <<save>>
+split again
+-[hidden]->
+:bree mil; <<save>>
+split again
+-[hidden]->
+:caballero outdoor; <<procedure>>
+end split
+:prim instruction; <<load>>
+@enduml

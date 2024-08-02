@@ -1,0 +1,10 @@
+@startuml
+participant "harbors elapsed" as 0
+participant "faith plight" as 1
+participant "surely burdened" as 2
+== texts bard ==
+2 <-] : stall hesitate
+0 ->o 0: rotation disparaging
+2 ->] : antacid edict
+1 ->o 0: opposing cheering
+@enduml

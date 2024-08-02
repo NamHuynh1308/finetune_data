@@ -1,0 +1,10 @@
+@startuml
+box "madmen fulfil"
+participant "mourning rapture" as 0
+participant "abortion terminating" as 1
+end box
+autonumber 4 7
+0 ->> 1: gall kindly
+autonumber stop
+1 ->o 1: destroying siege
+@enduml

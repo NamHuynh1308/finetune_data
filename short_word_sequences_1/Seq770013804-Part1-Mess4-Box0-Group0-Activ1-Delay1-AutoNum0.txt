@@ -1,0 +1,9 @@
+@startuml
+participant "senora monarchy" as 0
+0 -> 0: mo skirmishes
+0 ->> 0: skipper shaved
+...crusade maniacal...
+0 ->x 0++ : cooked warfare
+0 -> 0: endorphins motorcade
+return blankly muffins
+@enduml

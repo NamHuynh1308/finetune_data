@@ -1,0 +1,11 @@
+@startuml
+participant "true easter" as 0
+participant "clubhouse person" as 1
+autonumber 0 6
+1 ->] : yield thumbs
+autonumber stop
+1 <-> 1: renovations antiquated
+0 -> 1: persists rowdy
+0 -> 0++ : hairs baffling
+return table sunbathing
+@enduml

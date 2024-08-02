@@ -1,0 +1,15 @@
+@startuml
+box "tribe mug"
+participant "hemline claims" as 0
+participant "scrooge helped" as 1
+box "humility vultures"
+participant "detour paramedic" as 2
+end box
+end box
+== arteries ag ==
+autonumber 6 9
+1 ->o 1: prejudice scraps
+ [-> 2: quicksand spirited
+ [<- 1: distributed calculator
+autonumber stop
+@enduml

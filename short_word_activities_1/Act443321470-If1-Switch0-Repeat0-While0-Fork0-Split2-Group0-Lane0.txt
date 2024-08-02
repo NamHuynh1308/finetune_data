@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:appendicitis checkers;
+split again
+-[hidden]->
+split
+:erasing rode;
+split again
+:architecture punctuality;
+split again
+:brin decline;
+end split
+split again
+-[hidden]->
+if (basement anesthetic?) then (crematorium goddamned)
+:drink bonnie;
+-> commercialism tanner;
+:woke warheads;
+else (creations submissive)
+:tommy posing; <<input>>
+:peed citations; <<task>>
+:cornucopia aloha;
+endif
+end split
+:tacit succession; <<input>>
+end
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+group modeled untimely
+:respecting spate; <<input>>
+-> pledges washout;
+stop
+end group
+@enduml

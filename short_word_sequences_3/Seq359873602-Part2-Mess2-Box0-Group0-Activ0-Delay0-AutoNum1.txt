@@ -1,0 +1,8 @@
+@startuml
+participant "fen suggestive" as 0
+== centred upkeep ==
+autonumber 7 8
+create participant "diatribes upchuck" as 1
+0 -> 1 : diatribes upchuck
+1 -// 1: coincide galling
+@enduml

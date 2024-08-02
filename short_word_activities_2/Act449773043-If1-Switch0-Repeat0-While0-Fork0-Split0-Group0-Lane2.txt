@@ -1,0 +1,18 @@
+@startuml
+|1| offbeat adjourn
+|2| wallaby importing
+|1|
+start
+|2|
+:focus bid; <<load>>
+if (abrupt quantity?) then (goofball crap)
+:furs physics; <<output>>
+else (dicky heroes)
+:peeked gigs; <<continuous>>
+:improved erupt; <<save>>
+endif
+:teal scares; <<procedure>>
+-> lodge prevent;
+:intoxicating spies; <<task>>
+stop
+@enduml

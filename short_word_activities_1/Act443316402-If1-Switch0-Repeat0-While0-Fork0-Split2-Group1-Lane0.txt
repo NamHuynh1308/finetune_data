@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:mechanic databases;
+split again
+-[hidden]->
+split
+:ministers quivering;
+split again
+:reform seedy; <<save>>
+split again
+:housed colonization; <<continuous>>
+-> portals ambassador;
+split again
+:cranes goodness; <<procedure>>
+end split
+split again
+-[hidden]->
+if (cellulite cartels?) then (busiest kingdom)
+:passageway burbs; <<save>>
+:armor prestige; <<task>>
+-> dissatisfied dulled;
+else (dead vandalized)
+:argues nostalgia; <<save>>
+-> matriarch joins;
+:pike expects;
+endif
+split again
+-[hidden]->
+:orderly colony; <<output>>
+-> rosin gutting;
+end split
+group contract simpletons
+:believe antics; <<task>>
+stop
+end group
+@enduml

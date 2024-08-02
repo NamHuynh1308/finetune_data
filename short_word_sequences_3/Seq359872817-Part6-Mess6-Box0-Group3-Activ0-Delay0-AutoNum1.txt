@@ -1,0 +1,23 @@
+@startuml
+participant "haute impulsively" as 0
+participant "skeeters tom" as 1
+participant "cranny colonials" as 2
+participant "faculties pretty" as 3
+participant "profiling vixens" as 4
+== bites smothering ==
+autonumber 1 9
+opt untouched appliance
+create participant "patronize negativity" as 5
+4 -> 5 : patronize negativity
+1 ->o 4: cry grandparent
+3 -> 0: forceps pachyderm
+else meathead rat
+opt stupid booker
+2 -\\ 5: donut influx
+0 ->] : subtle corpse
+critical flay pyramids
+3 -\\ 3: mini deflecting
+end
+end
+end
+@enduml

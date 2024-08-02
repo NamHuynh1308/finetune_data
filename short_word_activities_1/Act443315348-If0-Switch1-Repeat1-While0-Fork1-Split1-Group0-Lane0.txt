@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:projection audiences;
+split again
+-[hidden]->
+switch (tumors proposals?)
+case (units falling?)
+:consultations charades; <<load>>
+case (pets freedman?)
+:what waive;
+case (profession mowed?)
+:blackness specially; <<input>>
+endswitch
+split again
+-[hidden]->
+:muscles classics; <<task>>
+split again
+-[hidden]->
+:print lobsters; <<task>>
+end split
+repeat
+fork
+:schnapps entanglements;
+fork again
+:headliner owed; <<continuous>>
+-> skittish crafting;
+fork again
+:senator giblets;
+end merge
+backward:venison nag;
+repeat while (rebound enquiries?) is (amazes bora)
+:drudge humming;
+@enduml

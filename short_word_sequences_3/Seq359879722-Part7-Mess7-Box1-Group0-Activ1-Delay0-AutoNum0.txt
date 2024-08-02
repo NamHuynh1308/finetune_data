@@ -1,0 +1,19 @@
+@startuml
+participant "dung paved" as 0
+participant "grandpa brilliance" as 1
+participant "selfishly bauble" as 2
+participant "enact imperfection" as 3
+box "glades anyone"
+participant "bribes joke" as 4
+end box
+create participant "cleverness boating" as 5
+2 -> 5 : cleverness boating
+0 -// 5: ax tacky
+4 -> 1!! : fortnight straight
+0 -> 3: valued performed
+ [-> 3: unnerve workman
+create participant "weddings original" as 6
+0 -> 6 : weddings original
+4 -// 0++ : tulip judge
+return tremor dunes
+@enduml

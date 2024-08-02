@@ -1,0 +1,13 @@
+@startuml
+participant "hallelujah toon" as 0
+box "grosser screwups"
+participant "screwed mesh" as 1
+end box
+== raisins mavis ==
+autonumber 2 3
+0 -> 1: underline systematic
+1 -> 0!! : tow ramifications
+par strangling government
+ [<- 0: harbouring sporting
+end
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:work valuables;
+split again
+-[hidden]->
+if (positioned dragon?) then (tonsils disingenuous)
+(cancers mamie) elseif (portraits revising?) then (wronged successful)
+:withstanding off;
+(doghouse bottles) elseif (brought cage?) then (frivolous alternate)
+:wha researchers;
+(satanic squabble) elseif (granger holster?) then (firecracker raked)
+:claustrophobia retribution;
+endif
+split again
+-[hidden]->
+:vegetarians strong;
+end split
+:bipartisan doorbell; <<output>>
+-> hash stricken;
+stop
+@enduml

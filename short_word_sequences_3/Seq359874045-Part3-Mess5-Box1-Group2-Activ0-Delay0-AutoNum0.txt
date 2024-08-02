@@ -1,0 +1,17 @@
+@startuml
+box "slither antihistamines"
+participant "spectrum womanizing" as 0
+end box
+create participant "airing establishes" as 1
+0 -> 1 : airing establishes
+opt maid burglary
+1 ->] : stipulation massively
+par pitied incessantly
+0 ->> 1: unappealing oriental
+1 ->> 1: hyped widening
+end
+create participant "whenever contraption" as 2
+0 -> 2 : whenever contraption
+else pinochle hairbrush
+end
+@enduml

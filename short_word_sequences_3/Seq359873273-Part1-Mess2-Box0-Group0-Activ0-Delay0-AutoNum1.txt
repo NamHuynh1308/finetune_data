@@ -1,0 +1,8 @@
+@startuml
+participant "affects gor" as 0
+autonumber 0 2
+0 -> 0: destinations jukebox
+autonumber stop
+0 -> 0!! : disappearances lawns
+autonumber resume
+@enduml

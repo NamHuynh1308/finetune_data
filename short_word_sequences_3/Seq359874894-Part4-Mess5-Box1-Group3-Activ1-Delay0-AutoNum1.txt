@@ -1,0 +1,24 @@
+@startuml
+participant "stewardess fickle" as 0
+box "engagements warning"
+participant "nerves solicitor" as 1
+participant "votes psyche" as 2
+end box
+autonumber 10 3
+par tumbling arctic
+ [<- 0: lizards salaries
+opt breakdowns booby
+2 <-> 2: trashed disrupted
+critical alias approve
+create participant "represent ultra" as 3
+0 -> 3 : represent ultra
+autonumber stop
+ [-> 1: amputate empirical
+else predisposed lite
+3 -\\ 3++ : editorial lashed
+autonumber resume
+end
+end
+end
+return crucial animation
+@enduml

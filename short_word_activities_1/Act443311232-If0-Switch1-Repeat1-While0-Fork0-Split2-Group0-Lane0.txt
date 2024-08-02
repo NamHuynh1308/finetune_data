@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:digits cadmium;
+split again
+-[hidden]->
+repeat
+:squeal felonious; <<load>>
+:evacuating heinous;
+repeat while (overseeing migration?) is (straight nuptial)
+-> domesticated julep;
+split again
+-[hidden]->
+:opens nostalgic; <<load>>
+end split
+split
+:adventurous mayoral;
+split again
+:profession disasters;
+split again
+switch (dislike revolved?)
+case (cope chameleon?)
+:debacle calculus;
+case (candidacy shenanigans?)
+:planning coal; <<load>>
+case (horseman beeswax?)
+:cages chatter;
+-> aught beck;
+endswitch
+split again
+:telescope redo;
+end split
+stop
+@enduml

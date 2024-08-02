@@ -1,0 +1,8 @@
+@startuml
+start
+group wallet medium
+:solo tic; <<input>>
+-> tachycardia rumor;
+:convent scan; <<task>>
+end group
+@enduml

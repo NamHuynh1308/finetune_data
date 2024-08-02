@@ -1,0 +1,7 @@
+@startuml
+participant "avoids extracurriculars" as 0
+== bozos inappropriately ==
+autonumber 1 4
+0 -> 0: contesting classics
+0 -->x 0: substation ketch
+@enduml

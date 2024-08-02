@@ -1,0 +1,17 @@
+@startuml
+participant "guess reorganize" as 0
+participant "praising premises" as 1
+box "mocha odd"
+participant "rodeo allowing" as 2
+participant "foreman axle" as 3
+end box
+participant "wand worlds" as 4
+autonumber 8 10
+1 -// 3: unprincipled grime
+2 -// 2: bedlam fishy
+2 <-] : mitzvah alligators
+autonumber stop
+4 ->o 0++ : embroiled certifiable
+3 -> 3: weeds marigold
+return splits projection
+@enduml

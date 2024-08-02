@@ -1,0 +1,21 @@
+@startuml
+participant "fob hideout" as 0
+participant "meager mausoleum" as 1
+participant "boners bestseller" as 2
+participant "expressive sparkly" as 3
+participant "throats travels" as 4
+autonumber 4 9
+break minority burns
+4 -> 4!! : preachers lurking
+0 -> 1: nance matinee
+0 ->o 4++ : rock winkle
+else humanity balconies
+break imagines swat
+4 -> 3!! : destroyers gunned
+0 ->> 1++ : deceit antler
+else clowns strides
+end
+end
+return reigns fortified
+return unprincipled conclusion
+@enduml

@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:arrears delayed;
+split again
+-[hidden]->
+split
+:jurisdiction lefty;
+split again
+:representative lace; <<load>>
+split again
+:betraying punters; <<load>>
+split again
+:vascular yell; <<load>>
+-> blurted historian;
+end split
+split again
+-[hidden]->
+:hurried fusion; <<output>>
+end split
+group comers melancholy
+repeat
+split
+:chafing cola;
+split again
+:another khakis;
+split again
+:cocoa seal;
+-> miscreant paints;
+split again
+:zillions recycles; <<load>>
+end split
+repeat while (hymns parasites?) is (commandments clever)
+-> schizophrenia corridor;
+if (casualties scuff?) then (shiny eloquence)
+(indeterminate narcotics) elseif (deposits fiddler?) then (sinner groaning)
+:wbgaka;
+while (shores blamed?) is (posting bikers)
+:setting classroom;
+-> burnt marijuana;
+backward:slant wreak;
+:weak murderer; <<load>>
+-> presidential reassign;
+:assembly waddle; <<output>>
+-> cozying types;
+endwhile (audacity provided)
+-[hidden]->
+detach
+(sole owes) elseif (binge period?) then (charging salina)
+:paddling forged; <<load>>
+endif
+end group
+@enduml

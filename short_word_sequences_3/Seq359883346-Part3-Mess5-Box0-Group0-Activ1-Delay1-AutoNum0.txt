@@ -1,0 +1,13 @@
+@startuml
+participant "chirp curate" as 0
+participant "squashed blender" as 1
+participant "sewn vegetarians" as 2
+== metallic washroom ==
+0 -// 0: upholstery mash
+1 -->x 1++ : snapping stalemate
+1 -> 1: mid beeped
+return aspirins operations
+...res tackles...
+2 ->x 1: involving against
+0 -// 2: specifications sprouted
+@enduml

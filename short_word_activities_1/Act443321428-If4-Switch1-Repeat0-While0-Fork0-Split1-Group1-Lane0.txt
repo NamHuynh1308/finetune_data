@@ -1,0 +1,55 @@
+@startuml
+split
+-[hidden]->
+:barf crawly;
+split again
+-[hidden]->
+if (dominoes coven?) then (cobra burn)
+:cocoa piano; <<load>>
+-> confining booster;
+else (jag arterial)
+:nosy publishing; <<input>>
+:paternity obsessions;
+-> sponges collector;
+:snoop invoices; <<input>>
+endif
+split again
+-[hidden]->
+:punitive chubby;
+end split
+:surge warlock;
+-> deconstruction bangers;
+switch (encourages accessible?)
+case (lunacy fronts?)
+:daddies rocket; <<procedure>>
+-> planet horribly;
+case (forego seen?)
+if (eyeliner provenance?) then (counties perfection)
+:chucked experiments; <<load>>
+else (hull rubbers)
+:apollo muster; <<input>>
+kill
+endif
+case (wallowing summary?)
+if (plan spikey?) then (computer butterball)
+(itching formations) elseif (bunt momento?) then (vial alleged)
+:scottie bestowed;
+(lifeboats recorded) elseif (uproot slob?) then (blasting hurray)
+:processional tractors; <<load>>
+endif
+endswitch
+group squeezes hieroglyphs
+if (wanton piggy?) then (gill attitudes)
+(exempt delay) elseif (principal diatribes?) then (efficiently libation)
+:puking locating; <<procedure>>
+-> staffers approximation;
+(orbital mugged) elseif (undergarments chief?) then (transpired blade)
+:teamsters children;
+-> headdress canopy;
+(streaming raffle) elseif (chests server?) then (wrongfully door)
+:explorers ached;
+-> bottle colon;
+endif
+stop
+end group
+@enduml

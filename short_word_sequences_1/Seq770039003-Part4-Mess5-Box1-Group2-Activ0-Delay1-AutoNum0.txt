@@ -1,0 +1,19 @@
+@startuml
+box "framed teddy"
+participant "incorrigible oppose" as 0
+participant "syndicated owes" as 1
+participant "grind smugness" as 2
+end box
+create participant "cots braces" as 3
+1 -> 3 : cots braces
+critical robbed tankers
+...knifed minority...
+3 -> 1!! : goodie insuring
+opt toasting abigail
+0 ->] : bedbug shitting
+2 --> 1: boysenberry suggested
+else makeup spend
+ [<- 0: moods establishing
+end
+end
+@enduml

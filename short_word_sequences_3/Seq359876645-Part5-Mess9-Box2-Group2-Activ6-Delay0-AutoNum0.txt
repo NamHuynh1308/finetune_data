@@ -1,0 +1,31 @@
+@startuml
+participant "furnished rocket" as 0
+participant "juror listens" as 1
+box "cornering venison"
+participant "reiterate excommunicated" as 2
+participant "strips appointed" as 3
+end box
+box "cried telescope"
+participant "minion all" as 4
+end box
+loop anchors persuaded
+2 <-> 0: prodigal shore
+1 -> 2++ : swirl poppers
+1 -> 0++ : yen cuteness
+1 -->x 2++ : piecing number
+end
+ [-> 0: reprieve transmissions
+1 -> 3++ : mountainside someone
+3 -> 3: luncheon crackerjack
+opt bawl waitress
+2 -> 3++ : germ unspeakably
+2 -->x 4++ : integral matron
+else felicity quark
+end
+return fundraisers edgewise
+return downstairs disperse
+return learnt unlocked
+return reassigning slumped
+return guests revealing
+return deserting engages
+@enduml

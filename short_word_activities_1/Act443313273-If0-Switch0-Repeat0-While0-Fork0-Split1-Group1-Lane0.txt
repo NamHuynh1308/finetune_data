@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:combing olds;
+split again
+-[hidden]->
+:displaying splinters;
+-> aspects cagey;
+split again
+-[hidden]->
+:eccentric fifteen; <<save>>
+-> collision raked;
+end split
+group techniques alerts
+:banquet opinionated; <<input>>
+stop
+end group
+@enduml

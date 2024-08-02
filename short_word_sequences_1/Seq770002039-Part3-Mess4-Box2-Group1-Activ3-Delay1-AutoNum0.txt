@@ -1,0 +1,19 @@
+@startuml
+participant "definitions participation" as 0
+box "courses jammies"
+participant "polishing munchkins" as 1
+box "shipyard fugu"
+participant "formed human" as 2
+end box
+end box
+1 -> 2++ : messed percentage
+0 --//o 0: chink countless
+...crop prone...
+1 -> 0++ : plea punk
+alt wavelengths compared
+0 -> 2++ : undetectable collapse
+end
+return dispense potions
+return misnomer kroner
+return preying disservice
+@enduml

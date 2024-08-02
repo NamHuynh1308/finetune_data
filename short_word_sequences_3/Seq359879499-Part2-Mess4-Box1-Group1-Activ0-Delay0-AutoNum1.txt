@@ -1,0 +1,16 @@
+@startuml
+participant "originating journals" as 0
+box "bracelets princesses"
+participant "woman massa" as 1
+end box
+autonumber 2 4
+0 -> 1: ego bollocks
+ [<- 1: padded terrifying
+autonumber stop
+alt supplied gush
+1 ->] : scald waxy
+0 --//o 1: blume bronzing
+autonumber resume
+else menopausal compatible
+end
+@enduml

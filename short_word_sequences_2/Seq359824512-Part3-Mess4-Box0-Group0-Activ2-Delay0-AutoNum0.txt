@@ -1,0 +1,11 @@
+@startuml
+participant "lint betting" as 0
+participant "conferring decorative" as 1
+0 <-> 1++ : salaries receptive
+create participant "endorsing supported" as 2
+0 -> 2 : endorsing supported
+return endorse limes
+0 -> 0++ : relieve discontinue
+2 -> 2: audio whining
+return mosque butler
+@enduml

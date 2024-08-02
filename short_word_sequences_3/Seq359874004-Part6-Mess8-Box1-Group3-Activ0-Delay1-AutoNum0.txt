@@ -1,0 +1,26 @@
+@startuml
+participant "typically floorboard" as 0
+participant "ogling thorns" as 1
+participant "votes sissies" as 2
+participant "mulling cultured" as 3
+box "lasagne eluded"
+participant "types metabolic" as 4
+end box
+1 -// 4: emptied attacking
+2 --> 1: release pencils
+...stint pleaser...
+2 -// 0: shaver fudge
+par balboa divine
+4 ->> 0: skidded powder
+break gardeners luscious
+create participant "flexibility dom" as 5
+0 -> 5 : flexibility dom
+3 -> 1: candid babble
+else intensity dozing
+ [<- 0: malfunctioning unprotected
+alt mollie quad
+1 -> 0: yak county
+end
+end
+end
+@enduml

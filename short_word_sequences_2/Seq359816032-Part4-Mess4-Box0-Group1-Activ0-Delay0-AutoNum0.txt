@@ -1,0 +1,14 @@
+@startuml
+participant "skipper flask" as 0
+participant "machines half" as 1
+participant "shrapnel chez" as 2
+participant "violates appetite" as 3
+opt recognize goers
+2 --//o 3: signaled stomped
+3 ->x 3: quickest removing
+ [-> 1: darken majored
+else nu starters
+0 ->o 0: plaything levels
+else slugged lasso
+end
+@enduml

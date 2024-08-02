@@ -1,0 +1,68 @@
+@startuml
+split
+-[hidden]->
+:morello cashing;
+split again
+-[hidden]->
+:carol clam; <<output>>
+split again
+-[hidden]->
+if (figures less?) then (entrusted hypnotic)
+:thesis persists;
+kill
+else (jelly confiscated)
+:outbreak strips; <<load>>
+endif
+split again
+-[hidden]->
+if (bearing dysentery?) then (delusional irregular)
+:intertwined evidently; <<output>>
+:rundown messed;
+while (clumps bibliography?) is (embossed deal)
+:bipolar crack;
+:tiffany shared;
+backward:furiously searched;
+endwhile (creepers overbite)
+-[hidden]->
+detach
+else (requiem gearing)
+:swelled spastic; <<procedure>>
+-> stressing glassware;
+endif
+end split
+group examination thin
+:urban overbearing;
+-> ghastly hotel;
+fork
+:hated bleed;
+fork again
+:color hots;
+while (fanatics ritz?) is (demolish abandonment)
+switch (denial stickup?)
+case (madonna vapid?)
+:underwater forcing;
+case (roast flattered?)
+:lonely conscientious; <<task>>
+-> largest relax;
+endswitch
+:bosses enlarged;
+endwhile (perishable affections)
+-[hidden]->
+detach
+fork again
+fork
+:primary scams;
+fork again
+:mayo mutt;
+fork again
+:smoking cob;
+fork again
+:custody express;
+end fork
+fork again
+:heaping whack; <<load>>
+end merge
+:mulligan genetically; <<task>>
+end group
+stop
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+box "scroll cookbooks"
+participant "unflattering detests" as 0
+participant "buzzards happier" as 1
+participant "eth tights" as 2
+end box
+== mick briefcase ==
+par pinpointed takeout
+0 ->> 1: steer bragged
+1 --//o 1: desktop weirder
+else errands swedes
+1 --> 1: alongside fiefdom
+else cutter cappuccino
+end
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "birthmark separately" as 0
+participant "thread grail" as 1
+participant "telegram awaiting" as 2
+autonumber 0 1
+1 -> 0: misunderstanding bending
+0 ->o 1++ : gel ransack
+0 ->x 1++ : sentencing precision
+...scream mutt...
+1 --> 2: trespass condolences
+break soy beanbag
+ [-> 0: someday awkward
+alt solvent disappearances
+ [<- 0: vanilla teddy
+return faux vipers
+end
+end
+return accent repeated
+@enduml

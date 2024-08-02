@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:noel renown;
+split again
+-[hidden]->
+fork
+:pore executioner;
+fork again
+:realized ownership;
+fork again
+:insignificant faces;
+end fork
+split again
+-[hidden]->
+:nominal hunt; <<task>>
+end split
+group colosseum recant
+:lop mod;
+-> suites dog;
+:teen desecrate;
+end group
+group downpour myrtle
+:grotesque moustache; <<save>>
+-> anchoring humor;
+stop
+end group
+@enduml

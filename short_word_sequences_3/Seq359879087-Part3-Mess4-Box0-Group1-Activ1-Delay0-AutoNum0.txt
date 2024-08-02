@@ -1,0 +1,12 @@
+@startuml
+participant "addendum fantasyland" as 0
+participant "unharmed approaching" as 1
+participant "blend endorse" as 2
+2 --//o 0: canceled aggravating
+1 ->> 2++ : reacted rumours
+par rinsing tidy
+1 -> 0!! : content womanly
+2 ->x 0: adversely farina
+return quizzes blowfish
+end
+@enduml

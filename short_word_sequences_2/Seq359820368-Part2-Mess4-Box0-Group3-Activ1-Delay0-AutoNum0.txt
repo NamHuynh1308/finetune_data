@@ -1,0 +1,15 @@
+@startuml
+participant "mightier dribble" as 0
+participant "dependant dance" as 1
+par limited riverside
+1 ->] : watered serpent
+alt charms conquer
+ [-> 1: warned transgressions
+0 -> 1: disrespecting dunking
+end
+opt laps bravery
+0 -\\ 1++ : singling loitering
+end
+end
+return transition eyed
+@enduml

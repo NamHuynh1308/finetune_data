@@ -1,0 +1,12 @@
+@startuml
+box "blank lesson"
+participant "convenient telex" as 0
+end box
+ [<- 0: faulty slice
+0 <-] : muskrat disrespecting
+create participant "quarry journal" as 1
+0 -> 1 : quarry journal
+break dimes generator
+1 <-] : envision gridlock
+end
+@enduml

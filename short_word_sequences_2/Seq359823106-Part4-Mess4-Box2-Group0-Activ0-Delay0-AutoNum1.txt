@@ -1,0 +1,17 @@
+@startuml
+box "hunted halo"
+participant "serenade charts" as 0
+participant "culinary equinox" as 1
+end box
+box "unveil croupier"
+participant "bro dinosaurs" as 2
+participant "mittens dickie" as 3
+end box
+== burp scrubbing ==
+autonumber 9 3
+3 -\\ 0: euthanasia lass
+2 ->x 2: butch play
+3 -> 2: weakling radically
+autonumber stop
+3 ->x 1: linen downgraded
+@enduml

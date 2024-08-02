@@ -1,0 +1,11 @@
+@startuml
+participant "arousing gist" as 0
+participant "offbeat please" as 1
+== chums wanderer ==
+autonumber 1 6
+opt warrior philosopher
+1 ->] : swung grunge
+...puck oneself...
+0 -> 1: melting mutiny
+end
+@enduml

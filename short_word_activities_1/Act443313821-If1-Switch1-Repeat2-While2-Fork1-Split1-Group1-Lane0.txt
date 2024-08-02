@@ -1,0 +1,62 @@
+@startuml
+split
+-[hidden]->
+:mourning slinky;
+split again
+-[hidden]->
+:tricks scaled; <<continuous>>
+-> civics products;
+split again
+-[hidden]->
+:tablecloths reek;
+kill
+split again
+-[hidden]->
+switch (rejoicing conducts?)
+case (mew similarly?)
+:vocation gentleman; <<save>>
+-> surgically serving;
+case (designers effectiveness?)
+:inaccurate potter; <<continuous>>
+case (fizzled south?)
+:cleanser pinpointed; <<save>>
+-> skillful metamorphosis;
+endswitch
+end split
+group rural wart
+repeat
+while (infrared preferable?) is (insinuated ethanol)
+:swiss strikes; <<procedure>>
+endwhile (armored unequivocally)
+:cigars lobe;
+backward:nova consulting;
+repeat
+backward:villains conversion;
+repeat while (advisor mustache?) is (agonizing cupboards)
+repeat while (impulsive lordship?) is (recommendation sleepwalk)
+-> gurgling insolence;
+fork
+:advancement battery;
+fork again
+:eves lecturing; <<load>>
+fork again
+:fifth seminar; <<task>>
+fork again
+if (crying deadliest?) then (swap trespasser)
+:mimosas symptoms;
+:justifies backing;
+:bummers synch;
+while (divorce oral?) is (lipped assertiveness)
+backward:facial diplomas;
+:superstar shared; <<save>>
+:eighteen bones;
+endwhile (friend loads)
+-[hidden]->
+detach
+else (fearsome hunch)
+:dentist banquet; <<load>>
+-> liable wrestle;
+endif
+end merge
+end group
+@enduml

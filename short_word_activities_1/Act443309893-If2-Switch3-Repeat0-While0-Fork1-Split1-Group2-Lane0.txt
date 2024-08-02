@@ -1,0 +1,65 @@
+@startuml
+split
+-[hidden]->
+:payoff robbing;
+split again
+-[hidden]->
+:marines seagull; <<continuous>>
+split again
+-[hidden]->
+:impale pinky;
+-> shaking transvestite;
+end split
+switch (coherent coolant?)
+case (undeniably mending?)
+:yelling professor; <<load>>
+case (fast scented?)
+fork
+:hanging shroud;
+fork again
+:copied rentals;
+fork again
+:freeman reserve;
+fork again
+:moth flapped;
+end fork
+endswitch
+group rooms embarrasses
+switch (gargantuan talked?)
+case (repossess showed?)
+if (barreling contingencies?) then (dit tourism)
+:explain passer;
+:freeloader flock; <<continuous>>
+:taj cargo; <<load>>
+-> chap courageous;
+else (cheer tycoon)
+:peas lice; <<input>>
+:groovy station;
+endif
+case (unsuitable predictions?)
+:beeswax dragged; <<input>>
+-> explode witchcraft;
+case (vanishes excuse?)
+:sparkles tell; <<procedure>>
+-> foe allegiance;
+endswitch
+group pastures hades
+switch (cow phantoms?)
+case (understandable watch?)
+if (introduction initially?) then (memo between)
+(nether upscale) elseif (oiled shrapnel?) then (area champion)
+:underdog cosy;
+(tantrum forgets) elseif (refrigerated confession?) then (meeting swans)
+:centimeters steppe;
+endif
+case (intend stumbled?)
+:threshold snowballed; <<procedure>>
+case (ordinates colonization?)
+:hesitation kings;
+case (resistant gunpoint?)
+:creak wrinkly;
+endswitch
+stop
+end group
+end group
+@enduml

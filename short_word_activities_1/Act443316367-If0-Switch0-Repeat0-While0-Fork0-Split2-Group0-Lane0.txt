@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:coloring foxy;
+split again
+-[hidden]->
+split
+:dato originating;
+split again
+:monster censor;
+split again
+:angles companions; <<output>>
+-> adopting green;
+end split
+split again
+-[hidden]->
+:slightly copter; <<procedure>>
+-> occurrences detests;
+end split
+:way twins; <<load>>
+@enduml

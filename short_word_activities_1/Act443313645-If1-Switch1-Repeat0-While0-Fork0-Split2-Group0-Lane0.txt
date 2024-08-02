@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:touch technicalities;
+split again
+-[hidden]->
+:yawn crusty; <<continuous>>
+-> labs calming;
+split again
+-[hidden]->
+switch (sofas teary?)
+case (pompoms cheated?)
+:hailed info; <<load>>
+case (swipe cruise?)
+:branched accumulated;
+case (quickly veritas?)
+:aching jawed;
+case (faced imitation?)
+:autistic gold;
+endswitch
+end split
+split
+:rolling cascade;
+split again
+if (barroom facing?) then (chapman astronomer)
+:barre cleanest;
+-> wright counselor;
+:married derives; <<save>>
+else (underpass dispatched)
+:texas zits;
+:wielding length; <<output>>
+-> transmitter volumes;
+:flag maturity; <<procedure>>
+endif
+split again
+:pecking pulled;
+end split
+:adaptable renewed; <<continuous>>
+:burnout blowjob; <<output>>
+-> invoked probe;
+@enduml

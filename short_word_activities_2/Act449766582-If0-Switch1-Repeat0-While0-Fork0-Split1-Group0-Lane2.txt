@@ -1,0 +1,31 @@
+@startuml
+|1| omelettes principles
+|2| lawman marriages
+split
+-[hidden]->
+:hippie whack;
+split again
+-[hidden]->
+:doubtful bachelor; <<save>>
+split again
+-[hidden]->
+:obstacle movers; <<load>>
+-> figured moneybags;
+end split
+:josh whites; <<task>>
+|2|
+switch (airports levelheaded?)
+case (microwave hordes?)
+:coalition emeralds;
+-> hopelessly destruction;
+case (vaguely entered?)
+:more equestrian; <<output>>
+-> procrastinating plants;
+endswitch
+|1|
+:sire coax; <<input>>
+|2|
+:descriptive louvre;
+:discourteous magdalene; <<task>>
+end
+@enduml

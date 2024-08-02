@@ -1,0 +1,8 @@
+@startuml
+participant "signor laziness" as 0
+participant "groomed greasy" as 1
+participant "tribute tarantulas" as 2
+0 -->x 0: shopped viper
+0 -> 0: roam haggling
+2 <-] : binge onto
+@enduml

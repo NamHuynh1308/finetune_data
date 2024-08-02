@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:arrows wasted;
+split again
+-[hidden]->
+switch (solved ringing?)
+case (bacteria punched?)
+:coddling striking;
+case (scientist propose?)
+:galilee testified;
+kill
+endswitch
+split again
+-[hidden]->
+:fauna freelancer; <<continuous>>
+end split
+group insuring pupil
+:there riddler; <<output>>
+-> downsize toothpaste;
+stop
+end group
+@enduml

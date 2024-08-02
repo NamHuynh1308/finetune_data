@@ -1,0 +1,54 @@
+@startuml
+group revisions defence
+if (windsurfing candid?) then (lectured tray)
+:napkins also; <<task>>
+-> sheriff sacrificing;
+switch (chihuahua ointment?)
+case (triumphed bender?)
+:fiefdom poisoning;
+case (militant copied?)
+:unlovable landlords;
+case (muff poppers?)
+:ablaze roster;
+case (bastard scraps?)
+:amphetamines neon; <<output>>
+-> unpleasant fellers;
+endswitch
+else (inept convince)
+fork
+:diploma bookish;
+fork again
+:dials commence;
+fork again
+:starving varsity; <<input>>
+fork again
+:cricket splinters; <<load>>
+end fork
+:absurdly skin; <<task>>
+-> downing furs;
+if (asteroids wheel?) then (enjoyment rein)
+:posses laminated; <<output>>
+:upside twice;
+while (fled clearly?) is (confederate honorably)
+backward:aggressive weir;
+backward:savvy against;
+backward:jazz cockles;
+backward:distinctive subzero;
+endwhile (hobbit rom)
+-[hidden]->
+detach
+else (postponed trip)
+:soaring compromising;
+:unintentionally poured;
+endif
+while (graves jumbled?) is (del cole)
+:showgirl makeovers; <<load>>
+backward:zeroed gossip;
+:assimilate sculptures; <<save>>
+endwhile (thicker gave)
+-[hidden]->
+detach
+endif
+stop
+end group
+@enduml

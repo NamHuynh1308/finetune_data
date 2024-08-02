@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:sterile tied;
+split again
+-[hidden]->
+:fantasizing knot; <<task>>
+split again
+-[hidden]->
+split
+:mortifying rub;
+split again
+:blacking keys; <<procedure>>
+split again
+:ladyship barges; <<continuous>>
+split again
+:corrections attends;
+end split
+split again
+-[hidden]->
+:plaintiffs original; <<continuous>>
+end split
+group folding grouping
+:hardly barracuda; <<continuous>>
+-> arming polished;
+stop
+end group
+@enduml

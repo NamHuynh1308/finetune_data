@@ -1,0 +1,23 @@
+@startuml
+start
+group beats read
+:throat pub;
+-> reminders smack;
+split
+:kilter freckle;
+split again
+switch (stays scent?)
+case (sparing anywhere?)
+:sparkles prevail; <<save>>
+case (mystic pranks?)
+:resonance surroundings;
+case (cooties aberration?)
+:signatures stockholder;
+case (turkey dee?)
+:ta troll; <<continuous>>
+endswitch
+split again
+:snorkel assisting; <<load>>
+end split
+end group
+@enduml

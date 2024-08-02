@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:tanked our;
+split again
+-[hidden]->
+:strict alibis; <<procedure>>
+split again
+-[hidden]->
+:premature laundered; <<load>>
+split again
+-[hidden]->
+:purposes effectiveness; <<continuous>>
+end split
+:financed sanders;
+-> firefight lien;
+end
+@enduml

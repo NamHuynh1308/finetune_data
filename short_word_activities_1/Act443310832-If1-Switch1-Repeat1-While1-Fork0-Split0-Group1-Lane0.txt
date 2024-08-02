@@ -1,0 +1,39 @@
+@startuml
+start
+:elevate weatherman; <<load>>
+-> matzah townsfolk;
+group conceivable whipping
+:forestry deigned; <<task>>
+if (crime unsealed?) then (actually jailbreak)
+switch (greatness hairy?)
+case (glues notions?)
+:database casually; <<output>>
+-> models desires;
+case (sequined faculty?)
+:entertaining scout; <<task>>
+case (grove obsolete?)
+:painkillers commanders;
+case (dollhouse sprinkles?)
+:ridicule decorative;
+endswitch
+:fools male; <<task>>
+-> unexplained bummer;
+else (digestion eking)
+:arrests thistle; <<continuous>>
+repeat
+:glands cans;
+repeat while (classy audited?) is (emery granted)
+-> firewater thunderstorm;
+while (telepathy exist?) is (inability tortoise)
+backward:woes essence;
+:strip pellets;
+-> rally sedatives;
+backward:baby bathrobes;
+backward:estimates townie;
+endwhile (verbs bicycle)
+-[hidden]->
+detach
+endif
+end group
+stop
+@enduml

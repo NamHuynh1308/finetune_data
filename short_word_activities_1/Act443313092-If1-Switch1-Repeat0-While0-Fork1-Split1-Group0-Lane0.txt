@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:preachy harps;
+split again
+-[hidden]->
+:challenges die; <<continuous>>
+split again
+-[hidden]->
+fork
+:nut rover;
+fork again
+:tinkered hounds;
+fork again
+:mistrial wedgies; <<task>>
+fork again
+:nuptial quoted;
+end fork
+end split
+if (jean suffocate?) then (horrendous promoted)
+:measurements sublime; <<task>>
+:amaretto prosecuted; <<save>>
+-> lived distraction;
+:crosses planet; <<output>>
+kill
+else (neutralize objective)
+switch (participated monitored?)
+case (quandary foresaw?)
+:sanded commencing;
+case (laptops fondle?)
+:cling prized;
+case (lest symptomatic?)
+:chickened pretenses;
+case (chops occupy?)
+:expel cooler;
+endswitch
+:screwups botanical; <<procedure>>
+endif
+:tuba encryption; <<input>>
+end
+@enduml

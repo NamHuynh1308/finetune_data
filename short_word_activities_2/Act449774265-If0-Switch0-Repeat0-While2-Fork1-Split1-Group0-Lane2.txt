@@ -1,0 +1,41 @@
+@startuml
+|1| yolk cubes
+|2| respectable qualities
+|1|
+start
+|2|
+:designers yen; <<continuous>>
+:retort explains; <<continuous>>
+fork
+:indict dates;
+fork again
+:bison season;
+while (call alerts?) is (politics inform)
+split
+:ambulances refugees;
+split again
+:wrecker carjacking; <<input>>
+-> whisper span;
+split again
+:studying files;
+-> filming catcher;
+end split
+while (dulcet wasps?) is (educational doubles)
+:sapphires futures;
+backward:improperly conspirator;
+backward:bobbing assault;
+:catalog fuel; <<load>>
+-> ragging attitude;
+endwhile (wake bombings)
+:diagnosed fen;
+:protocols afraid;
+-> fraud trapping;
+backward:rectangle emerges;
+endwhile (margins theirs)
+-[hidden]->
+detach
+fork again
+:consummate pimply; <<task>>
+-> dismay trapping;
+end fork
+@enduml

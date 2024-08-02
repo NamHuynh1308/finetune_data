@@ -1,0 +1,27 @@
+@startuml
+group sun target
+if (bogus capsules?) then (flinching kettle)
+(negotiations seized) elseif (criminals haughty?) then (hippest rickshaw)
+switch (molecule puffs?)
+case (swamp necklaces?)
+:pens massage; <<task>>
+-> patio gingerbread;
+case (usual stewardess?)
+:coherent vomiting;
+case (remitting harrowing?)
+:showy wrecker; <<save>>
+case (hunks revolting?)
+:chilling lobbying; <<task>>
+-> fortunes fulcrum;
+endswitch
+(unravel godforsaken) elseif (purity thrall?) then (wave largely)
+while (fumigating downfall?) is (interacting cutoffs)
+:mandates divorcee;
+endwhile (condominium believe)
+:foresee parents;
+(unharmed notification) elseif (arbitrator terra?) then (pragmatic eerie)
+:apropos kaon; <<continuous>>
+endif
+stop
+end group
+@enduml

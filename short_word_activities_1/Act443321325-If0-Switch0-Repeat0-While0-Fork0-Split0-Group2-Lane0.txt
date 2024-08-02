@@ -1,0 +1,10 @@
+@startuml
+group shamrock initiative
+:matters ethnic;
+group stately quietly
+:backfire bug; <<output>>
+-> minks hopelessly;
+stop
+end group
+end group
+@enduml

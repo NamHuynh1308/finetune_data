@@ -1,0 +1,25 @@
+@startuml
+box "smuggler exasperated"
+participant "dimple unexpressed" as 0
+participant "rifles immortality" as 1
+box "deacon bath"
+participant "manufactures besides" as 2
+box "bestow hammer"
+participant "noo marathon" as 3
+participant "bearings boats" as 4
+end box
+end box
+end box
+== casts effortless ==
+2 <-] : cardiogram doses
+0 -> 4: admirers spliced
+1 --//o 0: jane whammy
+par seeping alike
+4 <-> 0: untreated condoning
+...thieves coiffure...
+ [<- 3: chorus nicked
+end
+ [<- 0: cissy handler
+create participant "vaccination marched" as 5
+1 -> 5 : vaccination marched
+@enduml

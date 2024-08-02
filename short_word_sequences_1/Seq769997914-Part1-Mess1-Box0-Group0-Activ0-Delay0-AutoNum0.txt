@@ -1,0 +1,4 @@
+@startuml
+participant "twitchy sheldrake" as 0
+0 --> 0: memo almost
+@enduml

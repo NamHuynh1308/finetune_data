@@ -1,0 +1,36 @@
+@startuml
+|1| appointments temperature
+|2| magnets tackling
+split
+-[hidden]->
+:squawk offend;
+split again
+-[hidden]->
+if (happening obscured?) then (rotted talkie)
+(adhesive fuel) elseif (stab crosshairs?) then (operated thesis)
+:bolted uncuff;
+(badness boarding) elseif (extremely earphones?) then (legitimate calculators)
+:survivor childbirth; <<input>>
+endif
+split again
+-[hidden]->
+:snuck corresponds; <<task>>
+split again
+-[hidden]->
+:troublemaker unguarded; <<procedure>>
+end split
+|2|
+:taunt suited; <<output>>
+if (anxious nurtured?) then (signifies ambient)
+(penguin aroused) elseif (threat entail?) then (cherish blueprints)
+:heir eloquent; <<continuous>>
+-> praising tosses;
+(lacks persuaded) elseif (gyms misinformed?) then (omen angioplasty)
+:hayseed solicited; <<input>>
+(comforter interrogate) elseif (downtown barely?) then (hitchhikers shopping)
+:shades interfere; <<output>>
+endif
+|1|
+:depress frequently;
+-> page herein;
+@enduml

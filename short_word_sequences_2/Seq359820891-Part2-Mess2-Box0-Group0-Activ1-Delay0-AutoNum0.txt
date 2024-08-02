@@ -1,0 +1,7 @@
+@startuml
+participant "soberly goalie" as 0
+participant "sidewalks snapshots" as 1
+0 <-> 0++ : flayed jordan
+1 ->x 0: unexplained skimmed
+return institute surname
+@enduml

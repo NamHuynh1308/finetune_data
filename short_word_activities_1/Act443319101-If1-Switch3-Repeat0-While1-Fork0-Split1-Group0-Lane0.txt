@@ -1,0 +1,58 @@
+@startuml
+split
+-[hidden]->
+:owing tarragon;
+split again
+-[hidden]->
+switch (snowflake snitch?)
+case (forgetting flattered?)
+:ribbed bertha;
+-> vig amino;
+case (invoked smokes?)
+:ceased rebuild;
+case (surge erogenous?)
+:buried ethyl; <<task>>
+endswitch
+split again
+-[hidden]->
+switch (larceny loser?)
+case (hunk mannered?)
+:loveliest sesame; <<continuous>>
+case (lightheaded strung?)
+:squeezing heroic;
+-> dealt massacres;
+case (moniker arthritis?)
+:delude edging;
+-> ajar hades;
+case (bah bask?)
+:shushing muskrat;
+-> points healthy;
+endswitch
+split again
+-[hidden]->
+:redemption dispensary; <<task>>
+end split
+:mourned galling; <<load>>
+if (certainty noticeably?) then (reject bayberry)
+(swimsuits tempted) elseif (electrical reassigning?) then (groups manipulated)
+:respectively galoshes;
+-> warrior anemia;
+(kills heaved) elseif (entice fumigated?) then (lessee crust)
+:biking doily; <<input>>
+-> naval bouncer;
+(packs stooping) elseif (bottles baby?) then (pulling antisocial)
+while (goad buttoned?) is (separating suburban)
+:asinine potting; <<continuous>>
+endwhile (contestant doubted)
+:different severance;
+endif
+switch (pampers jogging?)
+case (stockholders detonates?)
+:titanium optimum; <<load>>
+case (yeah salinas?)
+:scrubbed roundabout; <<input>>
+case (everyday skulk?)
+:tuned offbeat;
+endswitch
+stop
+@enduml

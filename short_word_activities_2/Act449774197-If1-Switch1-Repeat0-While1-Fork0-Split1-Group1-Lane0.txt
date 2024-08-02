@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:beery superstition;
+split again
+-[hidden]->
+:checkpoints labored;
+kill
+split again
+-[hidden]->
+:hotdogs unscheduled; <<input>>
+split again
+-[hidden]->
+while (gemma invoice?) is (sabers womanizing)
+:tas liars; <<load>>
+-> intentions sling;
+:unexpressed reeking;
+backward:unprecedented gabbing;
+:demolish vicious;
+endwhile (frigging pushes)
+:scissors thrills;
+end split
+group admiring undesirable
+switch (nominate carnival?)
+case (balding mashed?)
+if (mensa blackmailer?) then (hallucinating parachute)
+:besmirch eternity;
+else (swamped balloons)
+:therein hangs;
+:numerous baptized;
+:cubes poster; <<output>>
+endif
+case (dined boiling?)
+:grapevine guerrilla; <<output>>
+-> devouring dug;
+case (thrash tailing?)
+:lesions sip;
+-> cooked detonation;
+case (won manor?)
+:respects redheads; <<load>>
+endswitch
+stop
+end group
+@enduml

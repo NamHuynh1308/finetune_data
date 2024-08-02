@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:roscoe pressed;
+split again
+-[hidden]->
+if (raids coolers?) then (earthquake melted)
+(adamant equality) elseif (consume addiction?) then (plop contusions)
+:disclose dust;
+(coloring baron) elseif (nanotechnology cuddly?) then (lag idyllic)
+:block caramba;
+(controlled jib) elseif (explicit dangerous?) then (recollection dossier)
+:legitimacy ponytail;
+endif
+split again
+-[hidden]->
+repeat
+:businesswomen sideboard;
+:speck flippers; <<continuous>>
+-> heaped anatomy;
+:vibrating notepad;
+repeat while (recanted economically?) is (lodged stumped)
+end split
+group combustion staunch
+:joins cornball; <<save>>
+switch (liberal duality?)
+case (unharmed snarl?)
+:outing omens; <<save>>
+case (romeo watery?)
+:pastures intelligent;
+case (fanfare sickened?)
+:dismemberment unexpressed;
+kill
+endswitch
+end group
+end
+@enduml

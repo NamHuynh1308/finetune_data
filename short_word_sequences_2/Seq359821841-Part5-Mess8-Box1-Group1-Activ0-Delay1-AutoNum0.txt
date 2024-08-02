@@ -1,0 +1,21 @@
+@startuml
+participant "disabilities capo" as 0
+participant "golden countenance" as 1
+box "paved creak"
+participant "heartbeat boa" as 2
+participant "pouting shovels" as 3
+end box
+opt audio inner
+2 -->x 2: brash missy
+0 --//o 3: biding spears
+else burton hypnosis
+1 -->x 0: wording looks
+end
+create participant "wigs explains" as 4
+3 -> 4 : wigs explains
+...however cataloging...
+ [<- 0: extras nipper
+0 -->x 2: biz mayor
+0 -> 2: aching pay
+0 -> 2: amend scandal
+@enduml

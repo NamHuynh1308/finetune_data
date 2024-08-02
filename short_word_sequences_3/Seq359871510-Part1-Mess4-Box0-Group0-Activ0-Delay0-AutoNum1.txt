@@ -1,0 +1,9 @@
+@startuml
+participant "mainframe more" as 0
+autonumber 5 4
+0 <-] : wheeler reclaim
+0 -->x 0: pony graduation
+0 --//o 0: colonnade mastectomy
+0 <-] : burke seventeenth
+autonumber stop
+@enduml

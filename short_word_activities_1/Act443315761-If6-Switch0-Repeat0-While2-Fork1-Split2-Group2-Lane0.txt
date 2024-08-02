@@ -1,0 +1,97 @@
+@startuml
+split
+-[hidden]->
+:bill introduction;
+split again
+-[hidden]->
+if (mangoes neutered?) then (skies assemblies)
+:distort comers;
+:takes acoustic;
+-> assembly stressing;
+else (lifeline cosmetic)
+:forego matey;
+:adamant remains;
+while (auspicious beetles?) is (toasting neurosis)
+:overtime noticing;
+:fielding succeeded; <<save>>
+endwhile (tinted minty)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+:homers superb; <<load>>
+end split
+fork
+:bummers sheep;
+fork again
+:major figures;
+fork again
+:divided headsets;
+-> squalor inches;
+fork again
+:supports sec; <<procedure>>
+end fork
+group behold shorter
+if (swords bargained?) then (elliptical timpani)
+(harms presided) elseif (resolved riveted?) then (mailed restore)
+if (cause slaps?) then (fumigated cabins)
+:shafted specifics;
+else (feeder offset)
+:fiend catfight; <<save>>
+:raping stoked;
+-> sizzling produce;
+while (consisted lucid?) is (cleanses humiliation)
+:revolver actin;
+endwhile (curl loca)
+-[hidden]->
+detach
+endif
+(flattered candidate) elseif (woken guerrillas?) then (jeopardy overhear)
+:skimmed cobras; <<continuous>>
+-> choices sigh;
+(shaped humor) elseif (requests specials?) then (rockers boneless)
+:prerogative maggot; <<continuous>>
+(tracking chigger) elseif (infra disbarred?) then (coincidentally backer)
+if (charger arbitration?) then (responds rethinking)
+:weiner wink;
+else (feisty missy)
+:insecurity thrice;
+-> suffocate turk;
+:prophecies ness; <<load>>
+-> cynical custody;
+kill
+endif
+endif
+group biscuits advise
+if (burst explosive?) then (accurately milking)
+split
+:mollusk indication;
+split again
+:galore nonnegotiable;
+split again
+:curfew pathetic; <<load>>
+split again
+:misses subscription; <<load>>
+end split
+:lovesick balloon;
+-> sterling forfeited;
+else (molecular motel)
+if (upsetting batch?) then (maids pam)
+(randy doves) elseif (rears shoelaces?) then (irritation occurs)
+:deteriorated barrier;
+(spurred render) elseif (enticed completing?) then (armies backstroke)
+:pardoned madame;
+(greek mother) elseif (birds sluggish?) then (toothache bricks)
+:ourselves shrew;
+(horses resenting) elseif (truthful molto?) then (mathematician suspicions)
+:hykeyu;
+kill
+endif
+:harriers bloodhound; <<output>>
+:named lifelong; <<output>>
+endif
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:pale demanding;
+split again
+-[hidden]->
+fork
+:cavern euphoric;
+fork again
+:skedaddle restraints; <<load>>
+fork again
+:spill schemed;
+-> landfall spectator;
+fork again
+:murderer anon; <<output>>
+-> nuts adventurous;
+end merge
+split again
+-[hidden]->
+while (cocoon villains?) is (overlooked souse)
+:declare guineas;
+endwhile (fritter tidal)
+:mistaken stroll;
+end split
+:pedicure zig; <<task>>
+end
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+start
+split
+:ken tomato;
+split again
+:bash constitution; <<continuous>>
+-> hypotenuse prescribing;
+split again
+:session sergeant; <<save>>
+split again
+:qualify casting; <<save>>
+end split
+@enduml

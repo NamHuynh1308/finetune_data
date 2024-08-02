@@ -1,0 +1,16 @@
+@startuml
+participant "earful spacey" as 0
+participant "gall pink" as 1
+participant "repaired noises" as 2
+participant "goodie reprogramming" as 3
+autonumber 5 4
+critical identified pilots
+0 ->o 1: manhunt friend
+autonumber stop
+0 <-> 1: imp flogging
+autonumber resume
+2 -> 1++ : presuming dislike
+1 --//o 0: captivated tank
+end
+return payment soulful
+@enduml

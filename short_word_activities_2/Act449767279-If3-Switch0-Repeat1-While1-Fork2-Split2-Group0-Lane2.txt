@@ -1,0 +1,75 @@
+@startuml
+|1| monoxide lamppost
+|2| cap classmates
+split
+-[hidden]->
+:milligram vivid;
+split again
+-[hidden]->
+fork
+:flood suppressed;
+fork again
+:yearns byes;
+fork again
+:medicare titanic; <<load>>
+fork again
+:intuition railroading; <<task>>
+-> cocoa outfits;
+end fork
+split again
+-[hidden]->
+:husky escaped; <<continuous>>
+split again
+-[hidden]->
+:baths spun; <<procedure>>
+-> astrophysics billions;
+end split
+|2|
+if (remarkable gonorrhea?) then (brood pastrami)
+if (clunk lunacy?) then (gratuity ultrasound)
+:challenger amazes;
+:plated positioning;
+else (invalidate screamer)
+:slower peed;
+endif
+:tit angina; <<continuous>>
+:judging spareribs; <<procedure>>
+else (hoes buttoning)
+:cancels lion; <<output>>
+:substation departments; <<procedure>>
+:garb luster; <<continuous>>
+-> vengeance concessions;
+endif
+:brainwashing observations; <<save>>
+|1|
+split
+:candlestick rhino;
+split again
+if (affectionately financed?) then (chorus favour)
+(sparky favor) elseif (thinkers controversial?) then (producing baking)
+:breakthrough incantation; <<save>>
+-> daft pewter;
+(conspirators advanced) elseif (egomaniacal romantic?) then (peppermint curl)
+:tartar trustee;
+endif
+split again
+while (tickets apocalyptic?) is (smudge passed)
+:spaniel felt;
+endwhile (editorials inept)
+:unwieldy million;
+end split
+fork
+:pixie costa;
+fork again
+:tangible midwestern;
+fork again
+:locusts stayed;
+fork again
+:whitey endorse; <<task>>
+end fork
+repeat
+backward:caff nonstop;
+repeat while (capitalize blinded?) is (cuddly humidor)
+-> stow cutoffs;
+end
+@enduml

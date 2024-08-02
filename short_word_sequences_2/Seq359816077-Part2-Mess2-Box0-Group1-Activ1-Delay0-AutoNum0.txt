@@ -1,0 +1,10 @@
+@startuml
+participant "blume stringing" as 0
+participant "breech holden" as 1
+== apprehension provenance ==
+0 -> 0: except clashing
+opt brushing commentary
+1 -\\ 0++ : redeem wartime
+end
+return incredible undoing
+@enduml

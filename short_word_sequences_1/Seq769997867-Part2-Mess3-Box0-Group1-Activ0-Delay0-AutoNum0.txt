@@ -1,0 +1,10 @@
+@startuml
+participant "middies anywhere" as 0
+participant "lightning pleasantly" as 1
+1 ->> 0: wound prowess
+alt galling concede
+0 -> 0: steep huffed
+0 -\\ 0: bathroom ferrets
+else compromising schemes
+end
+@enduml

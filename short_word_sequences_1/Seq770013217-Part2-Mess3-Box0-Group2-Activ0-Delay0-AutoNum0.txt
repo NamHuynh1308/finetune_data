@@ -1,0 +1,11 @@
+@startuml
+participant "stomp elitist" as 0
+participant "formula ranting" as 1
+opt savin race
+1 -\\ 0: fuel celebrity
+par boner blowtorch
+ [-> 0: deposing pizza
+1 -\\ 1: incensed desirable
+end
+end
+@enduml

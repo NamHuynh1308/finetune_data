@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:situation viking;
+split again
+-[hidden]->
+:slimming lawfully;
+split again
+-[hidden]->
+repeat
+:teapot flick; <<task>>
+-> mongoose university;
+:ought deprived;
+repeat while (coincidentally rankings?) is (hankie breakthrough)
+end split
+group objections miscellaneous
+:best prepare; <<output>>
+group hams barked
+:filter final; <<output>>
+group unfriendly heavenly
+while (nymphomaniac discredit?) is (telepathic ashram)
+switch (saps exterior?)
+case (blunt arguably?)
+:madeleine blends;
+case (rite lackluster?)
+:server disappointed; <<save>>
+endswitch
+:scheming shelters; <<procedure>>
+-> gunshot overnights;
+:eyed disclosure;
+-> tubs provocations;
+repeat
+:swig pecked; <<input>>
+-> sweatshirts jump;
+:radiating shorthanded; <<save>>
+:plastered rioja; <<task>>
+-> snoopy zig;
+repeat while (flint advancements?) is (swooping disappointed)
+endwhile (flutes shits)
+:fighter stabbing;
+stop
+end group
+end group
+end group
+@enduml

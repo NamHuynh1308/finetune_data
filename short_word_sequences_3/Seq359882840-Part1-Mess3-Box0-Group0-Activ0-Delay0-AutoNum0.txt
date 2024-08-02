@@ -1,0 +1,6 @@
+@startuml
+participant "unfortunate dislike" as 0
+ [<- 0: sandwiches captured
+0 -> 0!! : masked shaves
+0 -> 0: potassium ink
+@enduml

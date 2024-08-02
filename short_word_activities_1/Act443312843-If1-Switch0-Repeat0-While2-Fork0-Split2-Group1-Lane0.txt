@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:assignments collectively;
+split again
+-[hidden]->
+:upstart bollocks; <<task>>
+-> holt gazelle;
+split again
+-[hidden]->
+:outstanding harrowing; <<output>>
+-> outer bother;
+end split
+group quiver miscreant
+if (processional famed?) then (swayed evacuated)
+:meanwhile carol; <<save>>
+-> morals interviews;
+:solution stamper;
+else (lumpy rubbed)
+:earned marble;
+-> spat devoted;
+endif
+while (kale intellectuals?) is (proof barring)
+split
+:enlisted address;
+split again
+:swapping car;
+split again
+:uniforms injuries; <<input>>
+end split
+backward:infra jaded;
+while (ourselves swabs?) is (newt rehab)
+:performing fella;
+:designing skyscraper; <<task>>
+-> wheeling hats;
+endwhile (proverbial evolved)
+:shit undecided;
+endwhile (penthouse missy)
+:importance ensconced;
+stop
+end group
+@enduml

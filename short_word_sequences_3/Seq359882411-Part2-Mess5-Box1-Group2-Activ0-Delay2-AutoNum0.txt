@@ -1,0 +1,18 @@
+@startuml
+box "scarves sketch"
+participant "tango indigo" as 0
+participant "consists marge" as 1
+end box
+== smelled crypt ==
+alt uncommon flailing
+ [<- 1: legions pluses
+0 ->x 1: condensed baffled
+...vicious assures...
+1 ->> 1: coy sacrificed
+...lived withheld...
+0 ->o 0: starved puddles
+opt turn and
+0 ->x 1: riddle stitching
+end
+end
+@enduml

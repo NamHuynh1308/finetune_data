@@ -1,0 +1,5 @@
+@startuml
+participant "demonstrators porterhouse" as 0
+create participant "resented fraternization" as 1
+0 -> 1 : resented fraternization
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+box "examining start"
+participant "champagne excesses" as 0
+participant "zipping hypocritical" as 1
+end box
+ [<- 1: blade offerings
+...gizmos ballplayers...
+1 -> 0: schnauzer sleepwalk
+...tops stiff...
+1 ->o 0: exasperated zing
+@enduml

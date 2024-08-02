@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:unhappiness strictly;
+split again
+-[hidden]->
+repeat
+:winger lick;
+:crikey unnerve;
+:parts hillbillies;
+-> theories courting;
+repeat while (induced enables?) is (single tackles)
+split again
+-[hidden]->
+split
+:vent lighters;
+split again
+:weir vanquishing;
+split again
+:amendment extremes;
+split again
+:snub torch; <<save>>
+-> dailies hyperventilating;
+end split
+split again
+-[hidden]->
+:digital recycles; <<task>>
+end split
+group sweatpants sneak
+:maggots disaster;
+stop
+end group
+@enduml

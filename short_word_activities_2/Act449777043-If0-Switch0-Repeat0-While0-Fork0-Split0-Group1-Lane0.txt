@@ -1,0 +1,8 @@
+@startuml
+start
+group happily grilled
+:dubious enhancements; <<input>>
+-> cherub loopholes;
+stop
+end group
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "hairdresser owed" as 0
+participant "proprietary mouse" as 1
+autonumber 6 1
+0 -->x 1: arguments select
+0 -->x 1: unpleasantness psychiatrist
+1 <-] : unprecedented highways
+autonumber stop
+loop shovels icehouse
+...deposition dopey...
+ [-> 1: tuxedo courageous
+end
+@enduml

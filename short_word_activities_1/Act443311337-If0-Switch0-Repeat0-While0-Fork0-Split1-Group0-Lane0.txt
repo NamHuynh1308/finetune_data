@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:stroller squandered;
+split again
+-[hidden]->
+:duke fuzzy; <<input>>
+split again
+-[hidden]->
+:sunbathing constitution; <<procedure>>
+-> keyboards ninja;
+split again
+-[hidden]->
+:pistons seep; <<procedure>>
+end split
+:strumpet musing; <<continuous>>
+end
+@enduml

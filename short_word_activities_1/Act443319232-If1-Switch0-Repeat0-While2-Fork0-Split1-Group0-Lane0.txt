@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:commerce deets;
+split again
+-[hidden]->
+:caprice progress;
+-> related deathbed;
+split again
+-[hidden]->
+:escalated echo;
+-> weasels steady;
+split again
+-[hidden]->
+if (soothing reconcile?) then (contemplated pressed)
+:mandarin understatement;
+while (does graduate?) is (discriminated nephew)
+backward:match renewing;
+backward:torpedoes snickers;
+backward:exemption phasing;
+endwhile (conned entrapment)
+-[hidden]->
+detach
+else (chipmunk collagen)
+:chiles roomie;
+-> limb infiltration;
+:unbearable dealt;
+:blankly sneak;
+endif
+end split
+while (empress rewrites?) is (burnout longs)
+:inspection locating; <<input>>
+-> coax itchy;
+backward:swede sized;
+:cheering conjecture; <<continuous>>
+:khaki little; <<input>>
+-> paperwork seafood;
+endwhile (fleabag choosy)
+:eminent interpreted;
+stop
+@enduml

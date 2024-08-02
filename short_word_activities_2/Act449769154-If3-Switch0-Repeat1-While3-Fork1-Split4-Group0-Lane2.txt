@@ -1,0 +1,113 @@
+@startuml
+|1| gold close
+|2| squeaks throughway
+split
+-[hidden]->
+:marquis restrooms;
+split again
+-[hidden]->
+:bus clap;
+while (muffins fieldstone?) is (intimidate coin)
+:rejects possibly;
+-> scalpel melts;
+:chartered snooze; <<input>>
+-> retirement cartons;
+endwhile (pole donna)
+-[hidden]->
+detach
+split again
+-[hidden]->
+:stakeout fattening; <<task>>
+split again
+-[hidden]->
+fork
+:inhaler next;
+fork again
+:luckily breathe; <<load>>
+-> ruff networking;
+fork again
+:mustangs thusly;
+-> suspect hunk;
+fork again
+:negative apron;
+end merge
+end split
+if (ago ruling?) then (shirt unpack)
+split
+:hankie groomer;
+split again
+:treasury hissing;
+while (channeled pretending?) is (dared bilge)
+backward:catatonic weak;
+backward:turner crushes;
+backward:horns lever;
+backward:sic merrily;
+endwhile (linoleum graphics)
+-[hidden]->
+detach
+split again
+:bozo struggle;
+split again
+:hurdles rearrange;
+end split
+:parks chastity; <<output>>
+:capable heap;
+-> escorted cloned;
+while (retirement brother?) is (prattling nubile)
+if (shag manifest?) then (urging blouse)
+:gracious squall;
+-> dozer hides;
+else (erratically slink)
+:devastate frogs; <<procedure>>
+-> interruptions tutors;
+:tango telemetry;
+:jukebox mistress; <<load>>
+-> ballpark responding;
+kill
+endif
+:hazards tidings;
+:scanner sunburn;
+-> prep mort;
+split
+:sphinx pork;
+split again
+:marvellous cuddled;
+kill
+split again
+:lard disposable;
+split again
+:hellhound deflate; <<output>>
+end split
+endwhile (artifact outback)
+-[hidden]->
+detach
+else (gang adjourned)
+:vamps spell; <<save>>
+-> passport fluke;
+:woops engines;
+-> implicated fusion;
+endif
+|2|
+:deny cleansed; <<save>>
+-> peach dents;
+|1|
+repeat
+backward:approaches plunder;
+if (sigma leather?) then (flesh fittest)
+(smoothie audience) elseif (pioneer ambush?) then (mouthed cultures)
+:radiant outdoorsy; <<save>>
+(coles discounts) elseif (vasectomy sweatshop?) then (allergy native)
+:organised surely; <<save>>
+endif
+repeat while (pumped fared?) is (odor includes)
+|2|
+split
+:flattering chick;
+split again
+:consultations extorting; <<output>>
+split again
+:apartments four; <<input>>
+-> doer cheaters;
+end split
+stop
+@enduml

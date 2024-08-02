@@ -1,0 +1,24 @@
+@startuml
+|1| disposal exhibit
+|2| shampoo stinging
+split
+-[hidden]->
+:donkey decapitated;
+split again
+-[hidden]->
+:studio melon;
+split again
+-[hidden]->
+:knobby cranks; <<output>>
+end split
+:platinum grinder;
+-> probe butch;
+|2|
+:pastor hosting; <<procedure>>
+-> arriving rooting;
+|1|
+:epiphany quietly; <<save>>
+:dreamer aptitude; <<output>>
+:improves clothe; <<input>>
+end
+@enduml

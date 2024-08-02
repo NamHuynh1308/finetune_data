@@ -1,0 +1,24 @@
+@startuml
+participant "menu posed" as 0
+participant "murderous reclaiming" as 1
+box "bashing squeaks"
+participant "dingo refrain" as 2
+participant "parker locally" as 3
+end box
+autonumber 1 0
+create participant "hairy muses" as 4
+3 -> 4 : hairy muses
+autonumber stop
+2 -> 4: engineer agenda
+autonumber resume
+opt reconsider tyrant
+create participant "relaxed unfathomable" as 5
+3 -> 5 : relaxed unfathomable
+...buns replenish...
+1 --//o 3: completely convention
+5 -> 4!! : called unqualified
+else player worn
+...swung nauseating...
+1 -\\ 0: saturation incidentally
+end
+@enduml

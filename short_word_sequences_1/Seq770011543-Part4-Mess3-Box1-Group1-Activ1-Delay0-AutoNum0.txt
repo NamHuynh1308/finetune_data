@@ -1,0 +1,16 @@
+@startuml
+participant "evasive quell" as 0
+participant "scholarships bubbly" as 1
+box "frog sorel"
+participant "wreck roaring" as 2
+end box
+== restraining arguably ==
+create participant "deadbeats hunh" as 3
+1 -> 3 : deadbeats hunh
+alt waxes determination
+2 -\\ 1++ : disrupting applied
+3 ->x 1: keeps thrills
+else bags spaces
+end
+return dummkopf receipts
+@enduml

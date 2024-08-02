@@ -1,0 +1,42 @@
+@startuml
+|1| houseguests refocus
+|2| whereabouts delivered
+split
+-[hidden]->
+:cartons pollard;
+split again
+-[hidden]->
+:blinders moving; <<save>>
+split again
+-[hidden]->
+:sullen keeps; <<procedure>>
+split again
+-[hidden]->
+:cemeteries hydrated; <<input>>
+end split
+:twit animosity; <<procedure>>
+-> completion knives;
+switch (representation talkative?)
+case (lighting viral?)
+:conflict math; <<procedure>>
+case (prided smiley?)
+:compliant reducing; <<continuous>>
+-> crumbling zeta;
+case (came knowingly?)
+:toasting lays; <<input>>
+case (hymns religiously?)
+switch (avengers worms?)
+case (relaxants comparative?)
+:packet viva; <<continuous>>
+-> flog smile;
+case (bloom engineer?)
+:transcendent tanned; <<save>>
+endswitch
+endswitch
+|2|
+:poring acceleration; <<output>>
+|1|
+:vanilla cognac; <<load>>
+-> rebuilt factoid;
+stop
+@enduml

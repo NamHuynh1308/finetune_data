@@ -1,0 +1,15 @@
+@startuml
+participant "nutritious tighter" as 0
+participant "sparing memories" as 1
+loop consulate wording
+create participant "eyesight forfeits" as 2
+1 -> 2 : eyesight forfeits
+...dainty moments...
+0 --//o 0: shank succession
+else spatial kosher
+opt commanders internment
+1 -> 0: fen voice
+0 -> 2: halves bolder
+end
+end
+@enduml

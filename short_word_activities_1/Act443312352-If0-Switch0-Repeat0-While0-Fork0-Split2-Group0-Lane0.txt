@@ -1,0 +1,17 @@
+@startuml
+start
+split
+:depending interject;
+split again
+split
+:recommend inadequate;
+split again
+:subversive stranger;
+split again
+:diversionary backups;
+end split
+split again
+:bertha banner; <<task>>
+end split
+stop
+@enduml

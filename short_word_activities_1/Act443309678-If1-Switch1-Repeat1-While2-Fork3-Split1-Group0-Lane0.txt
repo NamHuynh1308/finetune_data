@@ -1,0 +1,64 @@
+@startuml
+split
+-[hidden]->
+:spoon tables;
+split again
+-[hidden]->
+fork
+:degrading grouchy;
+fork again
+:address hound;
+fork again
+:shorten neck; <<output>>
+end merge
+split again
+-[hidden]->
+:fiber lush; <<output>>
+-> neurological takers;
+split again
+-[hidden]->
+if (bruising stint?) then (lapsed myrtle)
+:envision cheek; <<load>>
+else (hammering male)
+:nephew peeling;
+while (compensate kisses?) is (barbecued inefficient)
+:fractures mercenary;
+:robbing through;
+backward:methods collar;
+endwhile (advances impact)
+-[hidden]->
+detach
+endif
+end split
+fork
+:fiends tellers;
+fork again
+:deliver remarry; <<task>>
+fork again
+while (condominium juiced?) is (sicced crunch)
+backward:rust gliding;
+endwhile (urinal wrinkly)
+:fooling firewood;
+end merge
+switch (psychiatrists granddaddy?)
+case (exorbitant solvent?)
+:taping conferring; <<procedure>>
+case (shareholder reformed?)
+:yo program;
+case (epiphany sulfur?)
+:liven geniuses; <<task>>
+-> fail doghouse;
+case (comedy converse?)
+fork
+:maiming suicide;
+fork again
+:dessert snagging;
+fork again
+:cotillion dojo; <<continuous>>
+end fork
+endswitch
+repeat
+:revenues trouble;
+repeat while (judgmental perishable?) is (chat evade)
+end
+@enduml

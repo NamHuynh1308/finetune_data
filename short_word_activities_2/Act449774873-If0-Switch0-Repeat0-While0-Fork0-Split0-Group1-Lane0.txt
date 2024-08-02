@@ -1,0 +1,9 @@
+@startuml
+start
+:eclipse incidents; <<task>>
+-> rat safari;
+group cagey partnered
+:joining groove; <<output>>
+stop
+end group
+@enduml

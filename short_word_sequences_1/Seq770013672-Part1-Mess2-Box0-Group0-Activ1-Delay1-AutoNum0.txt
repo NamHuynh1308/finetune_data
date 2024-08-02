@@ -1,0 +1,8 @@
+@startuml
+participant "go disciplines" as 0
+== knitted disconnected ==
+0 -> 0: simulated belt
+...internally brava...
+0 --> 0++ : conducive om
+return temptation unloading
+@enduml

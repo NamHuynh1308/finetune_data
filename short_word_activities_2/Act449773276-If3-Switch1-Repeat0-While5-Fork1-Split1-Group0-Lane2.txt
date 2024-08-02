@@ -1,0 +1,84 @@
+@startuml
+|1| tingling midlife
+|2| clicker crap
+|2|
+while (assessment unseen?) is (scrape aerosol)
+:planning amendments; <<input>>
+endwhile (deftly existing)
+:inconceivable tenderness;
+:novelist severed; <<task>>
+-> upset vitals;
+if (spotted daisies?) then (freezers insincere)
+:diagnosis inevitable; <<output>>
+:lamb blocks; <<save>>
+-> betraying lantern;
+:paces gals; <<input>>
+else (killer baklava)
+if (explore vulnerable?) then (edgy find)
+:cursory ante; <<task>>
+-> violinist thriller;
+:elevated ravage; <<load>>
+else (seeker paralysis)
+:chill doubly;
+while (timber cur?) is (barfing center)
+:ups foods; <<save>>
+-> residency victoria;
+backward:difficulties boat;
+:ovarian strain;
+endwhile (funding fishing)
+-[hidden]->
+detach
+endif
+:available tutor;
+while (dressed oxen?) is (obtuse busload)
+while (sampled haunts?) is (administrative designate)
+:crazy smoked; <<task>>
+:commanders hitch;
+endwhile (shameful thanksgiving)
+:imperative constitutes;
+backward:preoccupied surge;
+endwhile (wins respectable)
+-[hidden]->
+detach
+endif
+fork
+:digit stellar;
+fork again
+:matrix victory; <<output>>
+fork again
+:gatekeeper slurp; <<task>>
+-> starboard barstool;
+end merge
+if (wop painted?) then (fierce yours)
+switch (still girl?)
+case (archenemy swerving?)
+:reconsidered authorizing; <<input>>
+case (handwriting assassination?)
+:declared detestable;
+case (procedures underwater?)
+:upbringing seated;
+endswitch
+:bodyguard tonight;
+:euphoric scruples; <<output>>
+-> postpartum sounded;
+else (risking arrhythmia)
+split
+:prescribes weeny;
+split again
+:phased stupidity; <<task>>
+split again
+:rubbers enemy;
+while (jingles trump?) is (relics nirvana)
+:shore purity; <<output>>
+-> shebang labs;
+backward:explicitly casbah;
+:grievance hallways; <<output>>
+endwhile (visiting stumper)
+-[hidden]->
+detach
+split again
+:ledgers blackout; <<continuous>>
+end split
+endif
+stop
+@enduml

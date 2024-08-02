@@ -1,0 +1,7 @@
+@startuml
+box "eighteenth cheesy"
+participant "arguments dramas" as 0
+end box
+autonumber 4 0
+0 -> 0: laboratories trampling
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "revenge decadent" as 0
+participant "tug handbags" as 1
+box "jingling soapbox"
+participant "paratroopers drugstore" as 2
+end box
+0 ->] : bakes appendectomy
+1 -> 1!! : superstition conning
+1 -> 2: planes worried
+2 --> 2: avoiding cautionary
+2 -\\ 1: opted pilar
+alt availability dissident
+0 -> 2: careful expression
+0 -\\ 1: excluding homeowners
+end
+@enduml

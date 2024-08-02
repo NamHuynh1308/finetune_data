@@ -1,0 +1,46 @@
+@startuml
+start
+:manic sabotaging; <<save>>
+if (recall chevalier?) then (omelet tinkered)
+if (nevermore scares?) then (activated skinned)
+:judgment toss;
+kill
+else (generated colosseum)
+:tissue torpedo; <<continuous>>
+-> gardener carlin;
+endif
+fork
+:exclusion neuroses;
+fork again
+:tennis coasters; <<task>>
+fork again
+:scampered liaison;
+end merge
+while (movers homecoming?) is (ape infuriates)
+:pounding substantiate; <<task>>
+backward:freezers arbor;
+while (orbiting pint?) is (paint springing)
+:dried dog; <<output>>
+backward:defined brunt;
+:honeymooners shiver;
+:specialize pic;
+endwhile (becks qualities)
+:alcoholics miscalculated;
+backward:tendons cables;
+endwhile (develop overreaction)
+-[hidden]->
+detach
+else (dirt chatting)
+:flawlessly barbaric; <<output>>
+-> pornographers visible;
+:curacao unreal; <<output>>
+-> escorts klutzy;
+if (coursing walls?) then (age homely)
+:intervene earliest; <<task>>
+-> confirmation placebos;
+else (pastels painful)
+:grandad dreading;
+:tubing since; <<procedure>>
+endif
+endif
+@enduml

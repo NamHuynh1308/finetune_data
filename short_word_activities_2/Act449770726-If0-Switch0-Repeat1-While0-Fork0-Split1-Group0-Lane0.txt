@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:deputy set;
+split again
+-[hidden]->
+:surrounded currents;
+-> sourpuss spilling;
+split again
+-[hidden]->
+:performance friendly; <<output>>
+-> milo beeped;
+split again
+-[hidden]->
+repeat
+:emerald horrible; <<output>>
+:rises hourly;
+:refugee arsonist;
+repeat while (philosophy invasive?) is (smallest molded)
+end split
+:elbow confirming; <<input>>
+end
+@enduml

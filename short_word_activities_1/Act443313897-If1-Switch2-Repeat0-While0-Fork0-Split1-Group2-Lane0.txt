@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:heir flags;
+split again
+-[hidden]->
+if (speakeasy fangs?) then (beautiful afar)
+:idly langley;
+kill
+else (rectory manila)
+:airplanes revoking;
+:projected dike; <<output>>
+-> blunder early;
+:bested flung;
+endif
+split again
+-[hidden]->
+:pornos corroborate;
+end split
+group divisional mauled
+switch (flog developments?)
+case (spurred alligators?)
+:melody winds;
+case (misconception condemned?)
+:sponsors copier; <<save>>
+endswitch
+:cleanses skip; <<output>>
+end group
+group dozing projected
+switch (conceited apologetic?)
+case (wisecracks sandy?)
+:sensuous raspberry; <<input>>
+-> illumination mucus;
+case (emerald beamed?)
+:verger triggers; <<task>>
+-> zones handyman;
+case (lions unraveled?)
+:lux range; <<save>>
+case (upfront compost?)
+:unsatisfied kosher; <<procedure>>
+endswitch
+stop
+end group
+@enduml

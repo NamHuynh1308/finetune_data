@@ -1,0 +1,30 @@
+@startuml
+participant "jam egyptian" as 0
+box "prowess unloved"
+participant "overalls backdrop" as 1
+participant "pellets observer" as 2
+end box
+box "uns dismissal"
+participant "koala confidentiality" as 3
+end box
+autonumber 10 0
+ [<- 2: quoth hook
+critical intermittent purification
+...hypotensive disappointed...
+0 -// 1++ : infect suspense
+2 ->x 1: lovable salute
+return dragons huckster
+autonumber stop
+else formed metaphor
+2 -> 0++ : dawning runny
+0 -> 1!! : watchers grubby
+else maniacs blip
+break cologne lick
+1 -> 1: unethical raiders
+ [<- 2: sweeper accompanied
+return fibber attract
+1 -> 3: assigned patty
+autonumber resume
+end
+end
+@enduml

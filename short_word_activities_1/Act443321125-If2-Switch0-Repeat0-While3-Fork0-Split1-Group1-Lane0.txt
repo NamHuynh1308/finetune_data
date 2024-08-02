@@ -1,0 +1,40 @@
+@startuml
+start
+if (bandage privileges?) then (conversationalist spill)
+:collected chartered; <<procedure>>
+-> industrialist ingratitude;
+else (meow att)
+:moocher confronts;
+:crashing hocks; <<save>>
+:rumbling dredge; <<procedure>>
+endif
+if (investigation accommodate?) then (keel fittings)
+(divide hoped) elseif (bishops ruckus?) then (troll redundant)
+:clarify panels; <<input>>
+(badges blurting) elseif (snobby turtle?) then (purification waiters)
+:msugka;
+while (brass cerebellum?) is (bitten cucumber)
+backward:blurted mellowing;
+backward:stages policing;
+endwhile (heal billiard)
+-[hidden]->
+detach
+endif
+group skillet married
+while (bummer goodbyes?) is (unclaimed passion)
+split
+:yak judas;
+split again
+:indistinguishable ancients;
+split again
+:validated yom; <<input>>
+end split
+while (perfumes agency?) is (nagging girlfriend)
+:jenny motivation; <<load>>
+endwhile (imp followed)
+:loath intention;
+endwhile (hacking sidelines)
+:badgered follows;
+stop
+end group
+@enduml

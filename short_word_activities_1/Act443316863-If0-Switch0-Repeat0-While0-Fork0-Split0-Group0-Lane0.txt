@@ -1,0 +1,5 @@
+@startuml
+start
+:orbiting crocodile; <<task>>
+stop
+@enduml

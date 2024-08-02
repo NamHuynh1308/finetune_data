@@ -1,0 +1,6 @@
+@startuml
+participant "statistically misleading" as 0
+participant "batman posed" as 1
+0 -// 0: comas whisper
+1 ->] : dominion lump
+@enduml

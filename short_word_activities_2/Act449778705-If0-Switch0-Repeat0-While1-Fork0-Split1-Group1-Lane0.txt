@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:thermal bustling;
+split again
+-[hidden]->
+:communities jewelry; <<input>>
+split again
+-[hidden]->
+:leased disbelief;
+split again
+-[hidden]->
+while (bigger allure?) is (adjutant wager)
+:sensibility colossal; <<save>>
+-> hedge skyrocket;
+endwhile (agents wellness)
+:lightning infectious;
+end split
+group highways bugging
+:yelled mono; <<procedure>>
+-> brunch uppity;
+stop
+end group
+@enduml

@@ -1,0 +1,50 @@
+@startuml
+|1| baseman rapture
+|2| vanilla needle
+split
+-[hidden]->
+:toons lark;
+split again
+-[hidden]->
+switch (designation moocher?)
+case (bond maps?)
+:cynicism canoes;
+case (daydreaming driven?)
+:till sewn;
+case (matzah possessed?)
+:fatherhood punt; <<save>>
+case (dripping turncoat?)
+:losses newsstand; <<save>>
+endswitch
+split again
+-[hidden]->
+:star talkie;
+end split
+:binary souse;
+-> dictator bump;
+|2|
+switch (buyer print?)
+case (through snatched?)
+split
+:slapped dubious;
+split again
+:eccentricities dallying;
+split again
+:sleazy passionately; <<continuous>>
+end split
+case (brewer home?)
+switch (especially revoked?)
+case (tricked elevators?)
+:shortstop rocks;
+kill
+case (turquoise moo?)
+:renovate bootleg; <<continuous>>
+case (ration loom?)
+:lascivious lovable; <<load>>
+-> prime fallout;
+case (seventeen caverns?)
+:herb except;
+endswitch
+endswitch
+:triggering curacao;
+@enduml

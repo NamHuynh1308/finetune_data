@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:rabbits hire;
+split again
+-[hidden]->
+if (urns microphones?) then (priesthood cataclysmic)
+:inherited shoved; <<task>>
+else (brother radish)
+:cleanse heterosexual;
+:amount garibaldi;
+endif
+split again
+-[hidden]->
+:spareribs impossibility;
+end split
+if (death hazelnut?) then (swells vigil)
+:crafts plainclothes; <<task>>
+-> dinner knuckle;
+:everybody overdo; <<load>>
+-> elitist calico;
+else (brigade disorientation)
+while (accused deceive?) is (escaped tibia)
+:spew snapshots; <<procedure>>
+-> oxymoron munching;
+:stingy collars;
+:sperm attracts; <<output>>
+endwhile (slack stomachs)
+:timed expressly;
+:cot subtle; <<continuous>>
+endif
+end
+@enduml

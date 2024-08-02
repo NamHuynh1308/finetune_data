@@ -1,0 +1,67 @@
+@startuml
+|1| deport popcorn
+|2| horoscopes corporeal
+split
+-[hidden]->
+:inspiration laps;
+split again
+-[hidden]->
+:tanning behold; <<task>>
+split again
+-[hidden]->
+fork
+:auxiliary shotguns;
+fork again
+:drill emerged; <<output>>
+-> mush twitching;
+fork again
+:laxative furious; <<save>>
+fork again
+:hazardous glands;
+end merge
+split again
+-[hidden]->
+if (chopped fiasco?) then (joiner slaw)
+:nod goodbyes;
+:homing knock; <<load>>
+-> species appear;
+:wildest invigorated;
+-> ick defector;
+else (matter orders)
+:repellent firebug; <<save>>
+-> busboy wean;
+:presence upbringing; <<task>>
+-> snowy invitations;
+:ow conversations;
+endif
+end split
+|2|
+:touching merrier;
+|1|
+:burning chemicals; <<save>>
+fork
+:checkpoints combative;
+fork again
+while (vet presumably?) is (bookends summit)
+:withheld ruined;
+:suffocating mealy;
+backward:liter diplomas;
+:margaritas sentence;
+endwhile (names latched)
+:subtle collier;
+fork again
+:hunks swank;
+fork again
+split
+:slated palace;
+split again
+:invalidate drives;
+kill
+split again
+:terminated trove; <<input>>
+split again
+:technician perpetual;
+end split
+end fork
+end
+@enduml

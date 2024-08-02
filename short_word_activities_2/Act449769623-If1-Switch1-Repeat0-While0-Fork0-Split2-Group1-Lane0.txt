@@ -1,0 +1,33 @@
+@startuml
+start
+switch (recovery ventilation?)
+case (authentic encrusted?)
+if (overrun excels?) then (bureaucrats butting)
+(antelope nub) elseif (elaborate true?) then (strangely heady)
+:tragic snakebite; <<task>>
+-> pulses softness;
+(chase diminutive) elseif (concerning ignored?) then (diggers holier)
+:wrinkled fiver; <<input>>
+(benefit griddle) elseif (demands inn?) then (guiding multimillion)
+:legitimate guesses;
+endif
+case (risked intended?)
+:caffeine ghoulish;
+endswitch
+group crosses nerve
+split
+:disguises tongs;
+split again
+:aback sarcoidosis;
+split again
+split
+:turnpike teeming;
+split again
+:heavier smooth;
+split again
+:approving ever; <<task>>
+end split
+end split
+stop
+end group
+@enduml

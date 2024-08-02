@@ -1,0 +1,11 @@
+@startuml
+participant "appendage chocolates" as 0
+box "crews adultery"
+participant "poisoning inconspicuous" as 1
+end box
+0 -\\ 0: yearbook bended
+create participant "steps lifeline" as 2
+1 -> 2 : steps lifeline
+...cranks striving...
+ [-> 0: impart hamburgers
+@enduml

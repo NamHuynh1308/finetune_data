@@ -1,0 +1,8 @@
+@startuml
+participant "yearnings fireball" as 0
+participant "bills swelling" as 1
+0 --> 1++ : committee ration
+1 -> 0: flustered lovelorn
+1 <-> 1: bribe cupcake
+return tippers bone
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+box "integrated bombarded"
+participant "coup talons" as 0
+participant "horse tenth" as 1
+end box
+== chesty hotheaded ==
+1 ->] : playwright mote
+...unhooked blissful...
+ [<- 0: spying alphabetized
+@enduml

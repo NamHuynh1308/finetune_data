@@ -1,0 +1,35 @@
+@startuml
+|1| establishment faults
+|2| national originals
+split
+-[hidden]->
+:nutcase recalled;
+split again
+-[hidden]->
+while (tow gypsies?) is (valentines groceries)
+:papers firefighters;
+endwhile (chairs shag)
+:conclude potholes;
+split again
+-[hidden]->
+if (hour countryside?) then (sap believer)
+(striking toting) elseif (leather superego?) then (surname discussing)
+:tourism hansom; <<input>>
+(baa hemlines) elseif (speakeasy kilos?) then (oyster oily)
+:cartels resurfaced;
+endif
+end split
+|2|
+while (blackness deluge?) is (eternal aprons)
+backward:shrivel mechanisms;
+backward:lech fibrosis;
+:finder heap;
+:appointing bewitched; <<procedure>>
+endwhile (us verbs)
+:ratted realms;
+|1|
+:nightmares sofa; <<output>>
+-> rebound agreement;
+:bottling dim;
+stop
+@enduml

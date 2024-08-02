@@ -1,0 +1,46 @@
+@startuml
+|1| psychiatrist outstanding
+|2| omega content
+split
+-[hidden]->
+:masterpiece superstition;
+split again
+-[hidden]->
+switch (structure quaint?)
+case (urinal aching?)
+:pressed bowled; <<load>>
+case (realism massages?)
+:turbulence reprisals; <<load>>
+case (autopsy construction?)
+:replica feign;
+case (primitive tolls?)
+:faculty stacks;
+endswitch
+split again
+-[hidden]->
+:byline sweetest; <<save>>
+split again
+-[hidden]->
+:honeymooning uniform;
+while (flunk mesquite?) is (mercer compulsively)
+:orgasmic thinners; <<save>>
+-> write unwilling;
+backward:unprepared eyelash;
+endwhile (nomadic quickest)
+-[hidden]->
+detach
+end split
+:timbers interfered; <<save>>
+|2|
+:clicker diagnoses;
+-> curdle not;
+:shoehorn stuffs; <<input>>
+if (jaded tremendous?) then (detachment paella)
+:infarction groundbreaking;
+kill
+else (preconceived into)
+:snowing crawlers;
+kill
+endif
+end
+@enduml

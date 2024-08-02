@@ -1,0 +1,61 @@
+@startuml
+split
+-[hidden]->
+:vixen express;
+split again
+-[hidden]->
+repeat
+:trousers boutiques;
+repeat while (individuals arterial?) is (wolves concierge)
+split again
+-[hidden]->
+:jingles brill;
+split again
+-[hidden]->
+:smoking supermarket; <<output>>
+end split
+if (toilets mosque?) then (arty anna)
+(banned sweatshop) elseif (fitted sha?) then (oblique jealous)
+:match thrust; <<save>>
+-> schooling billiard;
+(remind brewer) elseif (emphasize silliness?) then (embassies achingly)
+switch (prescribing sucked?)
+case (scopes hmm?)
+:relocate festive; <<procedure>>
+-> bah hustle;
+case (wacky ferrets?)
+:torn solicitor;
+endswitch
+(curl packer) elseif (telepathically evidently?) then (intertwined gale)
+split
+:classify hunting;
+split again
+:sneer decorum;
+split again
+:debts substantially; <<save>>
+-> grooms shiv;
+split again
+:clover remotely;
+end split
+endif
+:prohibition hairnet; <<procedure>>
+if (tiptoeing smear?) then (rodeo jungles)
+:hilarity jail; <<save>>
+:jock materialized;
+kill
+else (compares ceiling)
+if (fudging pleasantly?) then (bluff dish)
+:apollo concocting;
+:technically attic; <<task>>
+-> curly rare;
+:hood filters; <<procedure>>
+-> plunging lis;
+else (collections focal)
+:fished humiliating;
+:distrustful priesthood;
+kill
+endif
+:breather morgues; <<load>>
+-> nurturing beepers;
+endif
+@enduml

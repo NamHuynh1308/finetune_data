@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:false phosphorous;
+split again
+-[hidden]->
+:anon reporters; <<task>>
+-> likeness hush;
+split again
+-[hidden]->
+:foreign crying; <<continuous>>
+split again
+-[hidden]->
+repeat
+backward:tempting clash;
+:windmills foreclosure; <<input>>
+:yammer practices;
+repeat while (bargained taker?) is (penitentiary thereafter)
+end split
+:ensued universes; <<load>>
+-> entrust stopped;
+@enduml

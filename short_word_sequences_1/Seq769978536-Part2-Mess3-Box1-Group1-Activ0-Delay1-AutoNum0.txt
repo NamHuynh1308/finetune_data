@@ -1,0 +1,12 @@
+@startuml
+box "consoling wired"
+participant "witnessing boss" as 0
+end box
+0 -> 0!! : pellets bubbies
+create participant "copperhead cupcake" as 1
+0 -> 1 : copperhead cupcake
+break racked surname
+...splinter defensive...
+0 --> 0: accounting paradigm
+end
+@enduml

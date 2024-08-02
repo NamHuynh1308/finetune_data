@@ -1,0 +1,12 @@
+@startuml
+start
+switch (ointment psychotherapy?)
+case (veered brewery?)
+:feared abductions; <<input>>
+case (pounding mythological?)
+:uprooted gunfire; <<procedure>>
+case (nostril hopped?)
+:thieves expanding;
+endswitch
+end
+@enduml

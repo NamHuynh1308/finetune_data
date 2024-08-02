@@ -1,0 +1,11 @@
+@startuml
+start
+split
+:typed chopped;
+split again
+:filmmaking sickos;
+split again
+:smaller establishing; <<continuous>>
+-> grader ripples;
+end split
+@enduml

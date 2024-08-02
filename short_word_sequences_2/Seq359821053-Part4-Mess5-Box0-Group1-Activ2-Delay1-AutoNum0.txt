@@ -1,0 +1,17 @@
+@startuml
+participant "decoder workshop" as 0
+participant "idly one" as 1
+participant "backed expelling" as 2
+participant "was grabbed" as 3
+== reporters cholinesterase ==
+0 <-> 1++ : medicines catapult
+3 --//o 3: pints questionnaire
+critical retina plating
+...requisition cavities...
+2 ->> 2: satisfy regulation
+return grandstand chez
+ [<- 1: skewed suicidal
+end
+3 ->o 0++ : pelting boogey
+return prophesied whatchamacallit
+@enduml

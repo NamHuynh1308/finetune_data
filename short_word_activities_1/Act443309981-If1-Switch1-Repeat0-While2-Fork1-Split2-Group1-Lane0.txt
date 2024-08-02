@@ -1,0 +1,63 @@
+@startuml
+split
+-[hidden]->
+:across songwriter;
+split again
+-[hidden]->
+:telephone pneumonia; <<procedure>>
+split again
+-[hidden]->
+switch (miniscule psychologically?)
+case (hornets washcloth?)
+:conceive precedent; <<output>>
+case (sleepy herald?)
+:intensity indicted;
+case (screeching harmonious?)
+:polka diced; <<load>>
+endswitch
+split again
+-[hidden]->
+split
+:auctioning telemarketing;
+split again
+:class tremendously;
+split again
+:unplugged advocating;
+end split
+end split
+if (exertion fantabulous?) then (moms puppets)
+fork
+:necromancer commissioner;
+fork again
+:unlimited permission;
+while (types sneezing?) is (uncovering snorkeling)
+:rallying shields; <<input>>
+-> fucked ribbed;
+:reasons passkey;
+endwhile (raises gums)
+-[hidden]->
+detach
+fork again
+:licking slander; <<load>>
+fork again
+:eye grungy;
+end fork
+:eloped chefs; <<task>>
+while (chins plight?) is (drilled blob)
+:miniscule assurance; <<continuous>>
+-> congress incubator;
+:prerequisite machinations; <<task>>
+:geographical truthfully;
+:induced descend;
+endwhile (bringing lap)
+:stations applaud;
+else (complains implicated)
+:handles tiptoeing;
+-> piggies cuffs;
+endif
+group horseshit miscellaneous
+:roughing goo; <<continuous>>
+-> beast preserve;
+:adolescent fetuses; <<load>>
+end group
+@enduml

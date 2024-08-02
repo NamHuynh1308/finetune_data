@@ -1,0 +1,19 @@
+@startuml
+participant "fairy lyrical" as 0
+participant "backup hornets" as 1
+box "quickie travellers"
+participant "dissatisfied replicating" as 2
+box "sobriety ye"
+participant "rousted shipyard" as 3
+end box
+end box
+== reminders suitor ==
+2 -// 1: yuppies cardiogram
+opt rousing prickly
+1 ->] : boogie advertisement
+ [-> 2: narwhal proliferation
+0 ->> 3: lightening nope
+...sahib conferred...
+0 -// 2: snowflake yesterdays
+end
+@enduml

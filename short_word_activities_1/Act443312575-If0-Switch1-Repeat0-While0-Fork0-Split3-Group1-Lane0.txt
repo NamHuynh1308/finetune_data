@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:tits brownies;
+split again
+-[hidden]->
+split
+:erupt personalized;
+split again
+:honky transaction;
+split again
+:cerebrum hideout;
+kill
+split again
+:arachnid spark;
+end split
+split again
+-[hidden]->
+:resolve visited;
+split again
+-[hidden]->
+:executive ranchers; <<procedure>>
+end split
+group agin bugger
+split
+:heartbeats tireless;
+split again
+:loophole ane;
+kill
+split again
+:shovels enduring; <<task>>
+split again
+switch (boat affair?)
+case (pronounce sanitarium?)
+:reparations clarinet;
+case (truly once?)
+:toothbrushes preppy; <<procedure>>
+-> rob unbreakable;
+case (baboons dazzle?)
+:monde psycho; <<save>>
+endswitch
+end split
+stop
+end group
+@enduml

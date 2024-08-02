@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:arrived someone;
+split again
+-[hidden]->
+:tiles poet;
+split again
+-[hidden]->
+:parka duffle; <<load>>
+end split
+repeat
+split
+:romanticize lawfully;
+split again
+:betting march;
+split again
+:booty abacus;
+-> commemorating landing;
+end split
+:devastated loft;
+if (dealer imaginations) then (candor imply)
+:chuck fussy;
+break
+endif
+->searches kibble;
+:laureate landings;
+repeat while (alike iced?) is (servitude margarita)
+@enduml

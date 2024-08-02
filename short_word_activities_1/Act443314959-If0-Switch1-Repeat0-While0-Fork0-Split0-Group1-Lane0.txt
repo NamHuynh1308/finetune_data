@@ -1,0 +1,16 @@
+@startuml
+start
+group refined pillow
+switch (scrub decaf?)
+case (modicum inflamed?)
+:teleport trig; <<load>>
+-> paralyzed backing;
+case (insistent ongoing?)
+:balconies anorexic;
+case (intruders calming?)
+:verbatim glove;
+endswitch
+:infernal rowdy;
+stop
+end group
+@enduml

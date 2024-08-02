@@ -1,0 +1,5 @@
+@startuml
+participant "timed reject" as 0
+autonumber 10 9
+0 -> 0: speculating owner
+@enduml

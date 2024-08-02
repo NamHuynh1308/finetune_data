@@ -1,0 +1,10 @@
+@startuml
+box "fuses awakening"
+participant "pictured transport" as 0
+end box
+== interplanetary steady ==
+0 -> 0: lasers iceberg
+ [<- 0: creepy tribunal
+...hating borders...
+0 -> 0!! : discord acorn
+@enduml

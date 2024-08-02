@@ -1,0 +1,43 @@
+@startuml
+|1| reggae divers
+|2| secrecy reactions
+split
+-[hidden]->
+:reserved voiced;
+split again
+-[hidden]->
+:postpone saddest;
+kill
+split again
+-[hidden]->
+:normal flirted;
+split again
+-[hidden]->
+:squirrels sticking; <<task>>
+-> probes depicting;
+end split
+|2|
+:photography writer;
+switch (autumn composer?)
+case (luxuries prompting?)
+:pinched diuretics;
+-> batter briefcases;
+case (ramble colonized?)
+:straps grainy;
+-> tightly incoming;
+case (noon merits?)
+split
+:sandman girl;
+split again
+:dissection corpses;
+split again
+:ferment taxpayer;
+split again
+:cannibal spotter; <<save>>
+end split
+case (deflated overbearing?)
+:warped witnessing;
+-> nymphomaniac julep;
+endswitch
+:book jaywalking; <<save>>
+@enduml

@@ -1,0 +1,42 @@
+@startuml
+start
+group ganging twenty
+fork
+:trees treaters;
+fork again
+fork
+:axe boxers;
+fork again
+:champions tourism; <<output>>
+fork again
+:donut remind;
+kill
+fork again
+:desires scurry;
+end merge
+fork again
+:worrying exemplary;
+fork again
+:boner woe;
+kill
+end fork
+switch (bore newsstand?)
+case (fetch overestimated?)
+:winch pad;
+case (chaperoned drinking?)
+:wrongfully cigar; <<procedure>>
+-> anise pinto;
+case (composite alternative?)
+:inconsistent deducted; <<input>>
+endswitch
+if (redundancy teary?) then (much computer)
+(whoever husbands) elseif (feel passions?) then (expressive revels)
+:hangman hamstring; <<procedure>>
+(bays flavor) elseif (jabber abroad?) then (saintly err)
+:topple define; <<load>>
+(plank sodium) elseif (researchers urine?) then (ditz advert)
+:mate specify; <<procedure>>
+-> launches abs;
+endif
+end group
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "reinforced chipmunk" as 0
+participant "issuing watering" as 1
+autonumber 5 4
+1 -> 1: tutors student
+1 -> 0: vouch strait
+1 --> 0++ : moneys celebrates
+0 -->x 0++ : nefarious slogan
+autonumber stop
+0 -// 0: unfinished jailbird
+autonumber resume
+return clam replica
+return offence becks
+@enduml

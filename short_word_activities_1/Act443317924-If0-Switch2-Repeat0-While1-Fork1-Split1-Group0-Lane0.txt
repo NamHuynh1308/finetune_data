@@ -1,0 +1,41 @@
+@startuml
+split
+:told brains;
+split again
+:gnat encyclopedias;
+-> amateur dummkopf;
+split again
+switch (jazzed clutch?)
+case (devilishly engagement?)
+:beery humpback; <<load>>
+-> economy loner;
+case (slot fodder?)
+:mangos roost; <<continuous>>
+-> high homesick;
+case (durable patter?)
+:touch slams; <<continuous>>
+-> wellness astray;
+endswitch
+split again
+:massacred ingrates; <<save>>
+end split
+switch (tickles dwellers?)
+case (abilities unique?)
+:blessing mourning; <<save>>
+-> hetero confirms;
+case (lock retaliatory?)
+while (worldwide bogeyman?) is (neve accidentally)
+backward:feudal retirement;
+endwhile (notches horseman)
+:trifled demographic;
+case (dampener sixteenth?)
+fork
+:earmarked entitled;
+fork again
+:sandal rickshaw;
+fork again
+:devastating diligently; <<input>>
+end fork
+endswitch
+end
+@enduml

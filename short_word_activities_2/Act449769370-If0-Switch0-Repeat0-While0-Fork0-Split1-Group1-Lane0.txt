@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:dyer budgets;
+split again
+-[hidden]->
+:emerald leopard;
+split again
+-[hidden]->
+:been thought; <<load>>
+end split
+group fondling sells
+:oily diver;
+-> schemed posts;
+stop
+end group
+@enduml

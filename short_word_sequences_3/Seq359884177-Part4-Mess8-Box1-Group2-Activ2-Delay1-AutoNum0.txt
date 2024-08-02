@@ -1,0 +1,26 @@
+@startuml
+box "misprint unmarked"
+participant "retrieve complaining" as 0
+participant "lights grasped" as 1
+end box
+participant "armaments synchronize" as 2
+participant "blinking wisdom" as 3
+== clawed torpedo ==
+0 -> 0: marvel things
+...worked cartels...
+0 -> 3: baller unleash
+par carnie johnny
+0 <-> 3++ : conspiring tended
+alt acupuncture formally
+2 --> 1: characteristics plaid
+2 -->x 0++ : catholic desirable
+else starring poodle
+ [-> 3: tentative sloppy
+return grader celebration
+1 ->o 1: emotions hackers
+ [<- 3: muffin proceed
+else processes veterinary
+end
+end
+return lye curlers
+@enduml

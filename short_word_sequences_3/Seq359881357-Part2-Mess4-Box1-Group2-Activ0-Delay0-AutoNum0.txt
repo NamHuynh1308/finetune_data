@@ -1,0 +1,15 @@
+@startuml
+participant "hurting jaundice" as 0
+box "to capitals"
+participant "cursory booking" as 1
+end box
+loop fringes dumping
+0 ->> 1: analyze cooler
+critical topping tidy
+1 <-> 1: rebellion intensity
+ [<- 1: throwers chased
+0 -// 1: harem seventies
+else mandarin scooping
+end
+end
+@enduml

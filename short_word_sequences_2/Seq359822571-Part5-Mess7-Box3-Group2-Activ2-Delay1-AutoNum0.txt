@@ -1,0 +1,28 @@
+@startuml
+box "value arsenal"
+participant "lumbering pacifist" as 0
+box "kings multiple"
+participant "confit concord" as 1
+box "veal babe"
+participant "whose priesthood" as 2
+participant "carcass quaking" as 3
+end box
+participant "noses college" as 4
+end box
+end box
+par fife persuaded
+2 -// 0++ : ways tucker
+2 -> 3: plainly sensual
+else scoping otherwise
+2 <-> 4: fashion fortunately
+...turning sponges...
+4 -> 2: coo commiserate
+alt thousands hallway
+2 ->> 2++ : belie bide
+ [<- 2: sour softly
+1 -> 2: spa contrary
+return sighted loony
+end
+end
+return stocked trucks
+@enduml

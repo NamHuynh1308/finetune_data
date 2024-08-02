@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:dewars sterling;
+split again
+-[hidden]->
+:lemmings protested; <<continuous>>
+-> joker quarreled;
+split again
+-[hidden]->
+repeat
+:publications supposed;
+repeat while (separated duet?) is (plainly remarkably)
+-> rush bones;
+split again
+-[hidden]->
+:prosperity loophole;
+-> studied makes;
+end split
+group rarest lippy
+:steak blithely; <<task>>
+:board subtitled; <<load>>
+-> driveway boutonniere;
+group husks survive
+:thrashing ability;
+-> bestseller stops;
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+start
+group cyprus septic
+:crumb crisis; <<task>>
+-> spent overgrown;
+group chairman headless
+:peeing ignored;
+stop
+end group
+end group
+@enduml

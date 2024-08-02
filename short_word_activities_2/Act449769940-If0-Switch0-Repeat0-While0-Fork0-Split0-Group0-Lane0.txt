@@ -1,0 +1,5 @@
+@startuml
+:kind drone; <<load>>
+:sheep anonymous; <<save>>
+end
+@enduml

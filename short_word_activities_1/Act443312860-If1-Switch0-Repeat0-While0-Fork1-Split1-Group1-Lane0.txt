@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:invading delayed;
+split again
+-[hidden]->
+:differ realised; <<continuous>>
+-> lunch usefulness;
+split again
+-[hidden]->
+fork
+:festival shredded;
+fork again
+:kangaroo coffin; <<load>>
+-> strategies reinvented;
+fork again
+:filling alaska;
+-> astray overexcited;
+end merge
+end split
+group hesitant defected
+:tours disinfect; <<continuous>>
+if (grief propping?) then (oversized grosses)
+(devours railroads) elseif (mariachi kicky?) then (retail passable)
+:bowls pas;
+-> attention agitate;
+(policy foreclosed) elseif (charted secretary?) then (clearances especially)
+:commandments assertiveness; <<output>>
+(talks unauthorized) elseif (tonics tetherball?) then (classy lander)
+:roasted prompt; <<input>>
+endif
+stop
+end group
+@enduml

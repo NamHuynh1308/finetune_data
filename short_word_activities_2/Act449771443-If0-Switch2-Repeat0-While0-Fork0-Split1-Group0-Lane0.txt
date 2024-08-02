@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:wearing wheel;
+split again
+-[hidden]->
+:imploding postal; <<procedure>>
+-> workshop gatehouse;
+split again
+-[hidden]->
+:husbands approximation; <<output>>
+split again
+-[hidden]->
+:cinema masculine; <<input>>
+end split
+switch (overtaken puff?)
+case (computers constituents?)
+:internment misinterpreting; <<load>>
+-> handy respirations;
+case (immature disappearing?)
+:remake curt; <<input>>
+case (rejects colony?)
+switch (treats flatter?)
+case (barre safer?)
+:journeyed exorcise;
+case (fruit cackling?)
+:cooper broker;
+case (covet senora?)
+:belief orphans;
+-> takes acknowledgement;
+endswitch
+endswitch
+@enduml

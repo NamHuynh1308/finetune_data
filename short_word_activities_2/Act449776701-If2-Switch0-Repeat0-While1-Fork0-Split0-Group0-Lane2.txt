@@ -1,0 +1,33 @@
+@startuml
+|1| musketeers titan
+|2| crisp resorted
+|1|
+start
+|2|
+if (nick pathetic?) then (bargained predatory)
+:coworker cocky;
+while (vegetable villa?) is (skeletal judged)
+backward:garnish exit;
+:breadth croissants; <<task>>
+-> descriptive decorators;
+if (ore grandmother?) then (enrolled doer)
+(violinist reopen) elseif (seaman skyscrapers?) then (deranged cor)
+:leaves traumas;
+(surgeon program) elseif (diluted antiquities?) then (stubble amendment)
+:rings enhances;
+endif
+endwhile (nodding jawbone)
+-[hidden]->
+detach
+else (stocked wining)
+:mulligan sweating; <<continuous>>
+endif
+|1|
+:frustrated yes; <<save>>
+:bigamy decorations; <<load>>
+:bodega requisition; <<load>>
+-> presses bailing;
+|2|
+:graveyards forfeits;
+end
+@enduml

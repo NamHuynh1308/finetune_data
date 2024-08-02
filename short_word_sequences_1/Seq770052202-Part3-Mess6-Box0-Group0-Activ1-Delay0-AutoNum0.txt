@@ -1,0 +1,13 @@
+@startuml
+participant "soft mocked" as 0
+participant "spelt velocity" as 1
+participant "nil snowing" as 2
+== activation gatherings ==
+2 <-] : puncture beforehand
+2 -> 0++ : bouncing stun
+1 --> 0: task vesta
+return delving stimuli
+0 --//o 0: chopping infraction
+ [-> 2: infamous deficient
+2 ->> 1: hitchhiking participating
+@enduml

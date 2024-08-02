@@ -1,0 +1,10 @@
+@startuml
+participant "sook apology" as 0
+box "lobster exterminated"
+participant "fairest give" as 1
+end box
+0 <-> 0: guarding monks
+ [-> 1: call toad
+1 -> 0!! : cardiology lynch
+0 -> 0: document pledges
+@enduml

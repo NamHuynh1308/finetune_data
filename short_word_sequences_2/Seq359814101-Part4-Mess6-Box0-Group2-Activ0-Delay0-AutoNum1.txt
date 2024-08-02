@@ -1,0 +1,21 @@
+@startuml
+participant "underwater chang" as 0
+participant "print dolt" as 1
+participant "vents pounder" as 2
+participant "consortium bombers" as 3
+== ankle millennia ==
+autonumber 0 8
+loop syne tuxes
+ [-> 0: buries electing
+0 <-] : promotions shuffled
+else bio violin
+3 -\\ 0: origin stang
+autonumber stop
+else suits contender
+3 -// 3: discovery ache
+3 ->> 1: saturation lifeguard
+end
+alt newcomers loot
+3 ->x 1: degeneration stronger
+end
+@enduml

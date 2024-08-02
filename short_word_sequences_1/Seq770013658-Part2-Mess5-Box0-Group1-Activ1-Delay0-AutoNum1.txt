@@ -1,0 +1,14 @@
+@startuml
+participant "juror glen" as 0
+participant "flux josh" as 1
+autonumber 10 1
+1 --> 1: screwdriver shay
+1 -> 1!! : prep indiscretions
+1 ->o 1++ : fiends matchmaking
+alt ere audit
+1 ->] : damages slammer
+return hospitalized wuss
+0 ->] : face graciously
+autonumber stop
+end
+@enduml

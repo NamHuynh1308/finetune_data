@@ -1,0 +1,29 @@
+@startuml
+box "discussions strife"
+participant "pharmaceuticals jet" as 0
+participant "captains unto" as 1
+participant "mythic editing" as 2
+box "shaken those"
+participant "soapbox waltzing" as 3
+end box
+end box
+autonumber 1 0
+2 ->> 3++ : thoracotomy drought
+autonumber stop
+loop symbiotic hereditary
+1 <-> 1: stupor chiffon
+...unfortunate classics...
+3 -> 2!! : reflecting demolitions
+alt manicure acquire
+3 -> 3: lingo joust
+autonumber resume
+ [<- 0: defendant jug
+par digits shenanigans
+...talcum heroine...
+3 -->x 2++ : feasible empties
+end
+end
+end
+return centerpieces colonies
+return grits bundle
+@enduml

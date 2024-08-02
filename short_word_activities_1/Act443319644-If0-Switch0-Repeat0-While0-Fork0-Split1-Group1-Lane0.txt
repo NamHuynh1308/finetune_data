@@ -1,0 +1,15 @@
+@startuml
+start
+group blowfish vanilla
+split
+:capping champions;
+split again
+:appliance comforts; <<load>>
+split again
+:tortured profitable; <<load>>
+split again
+:fervent telescope;
+end split
+stop
+end group
+@enduml

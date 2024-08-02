@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:dominates warrant;
+split again
+-[hidden]->
+:traces flavour; <<task>>
+-> snook doohickey;
+split again
+-[hidden]->
+split
+:anthem interning;
+split again
+:tippers tracks;
+split again
+:dumpling infinity;
+split again
+:freakish crafty;
+-> lights knickknacks;
+end split
+end split
+:echo mild; <<input>>
+-> lawsuits browns;
+:stork cabdriver;
+-> smashing despising;
+end
+@enduml

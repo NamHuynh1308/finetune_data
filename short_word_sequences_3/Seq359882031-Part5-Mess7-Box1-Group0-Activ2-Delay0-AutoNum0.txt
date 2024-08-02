@@ -1,0 +1,18 @@
+@startuml
+participant "pool instinct" as 0
+participant "sly electronic" as 1
+box "impatient employer"
+participant "darts terrestrial" as 2
+participant "trappings cop" as 3
+participant "distillery browse" as 4
+end box
+0 <-] : pistachio stresses
+2 ->o 4: stocking secretary
+4 -> 1++ : hammer countries
+3 -->x 3: chalet tastes
+2 -> 2++ : changing feasting
+1 -\\ 4: village commodities
+return idol don
+ [-> 4: sanest conversion
+return shipyard reasonably
+@enduml

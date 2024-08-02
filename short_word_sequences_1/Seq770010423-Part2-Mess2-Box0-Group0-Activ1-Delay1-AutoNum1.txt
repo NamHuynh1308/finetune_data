@@ -1,0 +1,11 @@
+@startuml
+participant "lease certificate" as 0
+autonumber 10 5
+create participant "weirdos imposing" as 1
+0 -> 1 : weirdos imposing
+autonumber stop
+...blatantly macho...
+1 -> 1++ : sleeping hum
+autonumber resume
+return ritter ranting
+@enduml

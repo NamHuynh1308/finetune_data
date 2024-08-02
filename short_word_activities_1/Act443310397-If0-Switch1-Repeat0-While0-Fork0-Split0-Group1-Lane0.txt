@@ -1,0 +1,14 @@
+@startuml
+group unworthy altercation
+switch (mayflowers choosy?)
+case (reader mosquitoes?)
+:counselling meant;
+case (another presuming?)
+:brighten resources; <<output>>
+-> butler spareribs;
+case (beetles flesh?)
+:souffle gridlock; <<input>>
+endswitch
+stop
+end group
+@enduml

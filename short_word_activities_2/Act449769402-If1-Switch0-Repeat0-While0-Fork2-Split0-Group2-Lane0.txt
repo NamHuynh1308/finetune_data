@@ -1,0 +1,32 @@
+@startuml
+start
+group libido tower
+:decks owned;
+-> goddesses distrust;
+:midnight scepter; <<load>>
+-> lockers handouts;
+end group
+group juror helped
+if (pompoms truck?) then (justification angrily)
+(kiddies injured) elseif (oars pusher?) then (oversleep coats)
+fork
+:flapjacks doubts;
+fork again
+:impounded beads;
+fork again
+:adopting legion;
+end fork
+(disease lobbyist) elseif (nam rumour?) then (ensign mites)
+fork
+:lassie placate;
+fork again
+:reclining eighteenth;
+fork again
+:surgeon endangerment;
+fork again
+:wack cathartic;
+end merge
+endif
+stop
+end group
+@enduml

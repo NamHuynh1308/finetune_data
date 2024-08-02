@@ -1,0 +1,4 @@
+@startuml
+participant "grandstand confetti" as 0
+0 -\\ 0: ledge campaigned
+@enduml

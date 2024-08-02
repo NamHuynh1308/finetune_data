@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:minimum cribbage;
+split again
+-[hidden]->
+:pipes ocean;
+-> foul guff;
+split again
+-[hidden]->
+:faltered rituals;
+-> drafts whistler;
+end split
+group pastry butcher
+:outsmarted rags; <<task>>
+-> gauge lush;
+group loony closets
+while (minors exterminating?) is (coolers flaky)
+switch (corrections satisfy?)
+case (dolphin sibling?)
+:wealthy screwed;
+case (reckoning clinical?)
+:speeds unparalleled;
+endswitch
+switch (coffin precedent?)
+case (anecdote forestry?)
+:physic combust;
+-> fierce weed;
+case (flaky dropout?)
+:ducky shale;
+endswitch
+fork
+:requests marking;
+fork again
+:streams realise;
+fork again
+:agreeable briefing;
+-> boardwalk knapsack;
+fork again
+:curie drain; <<input>>
+end merge
+backward:acknowledges recite;
+endwhile (matters quarantined)
+:elastic imprint;
+stop
+end group
+end group
+@enduml

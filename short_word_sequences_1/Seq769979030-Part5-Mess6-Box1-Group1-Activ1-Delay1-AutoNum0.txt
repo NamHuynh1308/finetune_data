@@ -1,0 +1,20 @@
+@startuml
+participant "spate elsewhere" as 0
+participant "outs pop" as 1
+box "lapping masterpiece"
+participant "dismissed settles" as 2
+end box
+== threw disgruntled ==
+create participant "fundamental hiker" as 3
+0 -> 3 : fundamental hiker
+1 ->o 1: programmed spring
+create participant "razors waitresses" as 4
+1 -> 4 : razors waitresses
+...harrowing charted...
+4 ->] : eases alexander
+3 -> 4++ : syrup proposition
+critical yacht surely
+2 --//o 1: si endorse
+return waxy discotheque
+end
+@enduml

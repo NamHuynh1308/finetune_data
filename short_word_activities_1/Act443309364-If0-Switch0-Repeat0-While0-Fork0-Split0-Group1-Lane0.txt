@@ -1,0 +1,7 @@
+@startuml
+start
+group expelling realizes
+:by honey; <<load>>
+stop
+end group
+@enduml

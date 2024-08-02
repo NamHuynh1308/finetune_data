@@ -1,0 +1,11 @@
+@startuml
+switch (lang lar?)
+case (misery waddle?)
+:pellets clicker; <<task>>
+-> nightingale morgues;
+case (shimmer uncompromising?)
+:lum screwball;
+case (dag intentions?)
+:nuisance deploy; <<load>>
+endswitch
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+box "agreement satchel"
+participant "stumble legalities" as 0
+end box
+autonumber 5 9
+0 -> 0++ : notation ladyship
+0 <-> 0: exercising stacks
+return consultation tarnish
+@enduml

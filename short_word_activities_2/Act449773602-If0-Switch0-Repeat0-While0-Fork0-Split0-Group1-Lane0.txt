@@ -1,0 +1,8 @@
+@startuml
+start
+group noh referee
+:servers backing;
+-> syndicate residences;
+stop
+end group
+@enduml

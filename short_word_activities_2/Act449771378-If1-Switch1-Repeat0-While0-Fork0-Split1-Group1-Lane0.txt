@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:armies consortium;
+split again
+-[hidden]->
+switch (antidote immunity?)
+case (troll forum?)
+:mosey angry; <<output>>
+case (controversy disagrees?)
+:gradually baggy;
+case (feelings declined?)
+:snorkeling butted;
+case (saddle leopards?)
+:dinosaurs penalize;
+endswitch
+split again
+-[hidden]->
+:discoveries chainsaws;
+end split
+group idols charred
+if (lactose cleanse?) then (manslaughter tyres)
+(although magicians) elseif (abnormality for?) then (scariest leotard)
+:traps nitrous; <<save>>
+(pictured fading) elseif (emptiness investigation?) then (shapes sprawled)
+:nursery gunner; <<procedure>>
+-> trustees cartons;
+endif
+:summarily printing;
+stop
+end group
+@enduml

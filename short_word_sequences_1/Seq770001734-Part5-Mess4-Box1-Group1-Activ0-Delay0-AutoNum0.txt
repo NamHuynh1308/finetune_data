@@ -1,0 +1,16 @@
+@startuml
+box "bordering streak"
+participant "cloned handy" as 0
+participant "individually floors" as 1
+end box
+participant "swords neurosurgery" as 2
+participant "affirmative hooded" as 3
+== literary carton ==
+loop schemed monopolizing
+3 ->> 0: charted teenaged
+1 ->o 3: symbolizes hump
+0 -> 3: coloring nominate
+end
+create participant "franchise application" as 4
+0 -> 4 : franchise application
+@enduml

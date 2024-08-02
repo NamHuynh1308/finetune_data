@@ -1,0 +1,18 @@
+@startuml
+participant "gardenias labels" as 0
+box "relics deposition"
+participant "tangle spotters" as 1
+end box
+== content await ==
+0 -> 1++ : granddaughter genetic
+...enormous clones...
+1 ->o 1: nevermore slow
+return coexist directed
+alt systems audiences
+...reservations gusher...
+1 -> 1!! : default legit
+create participant "partied path" as 2
+0 -> 2 : partied path
+end
+0 -// 2: nowhere hairdresser
+@enduml

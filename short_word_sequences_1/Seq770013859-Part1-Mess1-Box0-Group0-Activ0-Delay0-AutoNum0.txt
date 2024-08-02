@@ -1,0 +1,4 @@
+@startuml
+participant "maiden wheeze" as 0
+0 -> 0: oy faked
+@enduml

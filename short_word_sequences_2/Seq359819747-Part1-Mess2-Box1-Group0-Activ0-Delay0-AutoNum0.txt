@@ -1,0 +1,7 @@
+@startuml
+box "bipolar biochemistry"
+participant "patches assets" as 0
+end box
+0 -> 0!! : pushers distributed
+ [<- 0: outdone scorcher
+@enduml

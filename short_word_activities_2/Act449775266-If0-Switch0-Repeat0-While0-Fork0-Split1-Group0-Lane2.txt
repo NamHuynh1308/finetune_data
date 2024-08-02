@@ -1,0 +1,27 @@
+@startuml
+|1| predators clouds
+|2| yech fighter
+split
+-[hidden]->
+:benedict ratty;
+split again
+-[hidden]->
+:keeper daphne; <<output>>
+-> wiser inaccuracies;
+split again
+-[hidden]->
+:painkillers gallivanting; <<procedure>>
+-> slope detonator;
+end split
+|2|
+:fault knucklehead; <<task>>
+|1|
+:tinfoil years; <<procedure>>
+|2|
+:sedan plots; <<task>>
+|1|
+:unnatural sheltered;
+-> acoustics commodity;
+:cavity hyenas; <<load>>
+stop
+@enduml

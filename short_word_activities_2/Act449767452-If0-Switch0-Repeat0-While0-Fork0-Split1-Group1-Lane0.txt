@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:unite upstaged;
+split again
+-[hidden]->
+:vernacular ho; <<task>>
+-> enhancer expands;
+split again
+-[hidden]->
+:heartless coins; <<load>>
+split again
+-[hidden]->
+:entertain meal; <<save>>
+end split
+group dreamless amicable
+:diabolical inspired; <<load>>
+stop
+end group
+@enduml

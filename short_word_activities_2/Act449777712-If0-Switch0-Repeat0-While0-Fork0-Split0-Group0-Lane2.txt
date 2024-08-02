@@ -1,0 +1,12 @@
+@startuml
+|1| becoming realises
+|2| freeloading attitudes
+|1|
+start
+:track wizard; <<continuous>>
+-> sweatshirts solidify;
+:tablespoon socialize; <<procedure>>
+|2|
+:callous horrified; <<input>>
+stop
+@enduml

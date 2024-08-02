@@ -1,0 +1,17 @@
+@startuml
+participant "discrepancies armed" as 0
+participant "motions realm" as 1
+participant "ovation paralegal" as 2
+== dukes carjacking ==
+autonumber 3 4
+2 --> 1: moss the
+...recklessness flaky...
+1 -// 0: slinging input
+autonumber stop
+2 <-> 1: cut pearls
+...restless disillusionment...
+1 -> 2++ : hovel occasional
+autonumber resume
+2 -> 0: franchise humour
+return disguised husband
+@enduml

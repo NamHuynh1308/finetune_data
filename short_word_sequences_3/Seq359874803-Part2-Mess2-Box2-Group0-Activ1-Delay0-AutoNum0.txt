@@ -1,0 +1,12 @@
+@startuml
+box "starter bush"
+participant "quickie threshold" as 0
+box "trolls soil"
+participant "determination inspections" as 1
+end box
+end box
+== gridlock managed ==
+1 ->> 1++ : fascinated finances
+ [<- 0: inbred napkins
+return corker pinot
+@enduml

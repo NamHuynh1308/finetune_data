@@ -1,0 +1,7 @@
+@startuml
+group roomful gouging
+:cripple browse; <<continuous>>
+-> canape brisket;
+stop
+end group
+@enduml

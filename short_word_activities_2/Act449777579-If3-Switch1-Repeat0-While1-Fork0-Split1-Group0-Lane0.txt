@@ -1,0 +1,52 @@
+@startuml
+start
+if (uses righto?) then (lowest unhappy)
+(sniper fatalities) elseif (motivations worldly?) then (stiletto chops)
+switch (aground fruits?)
+case (cheeks sum?)
+:sade actually;
+case (paris coldness?)
+:compartments embroidered;
+endswitch
+(coincidental movements) elseif (manually geosynchronous?) then (hooligans grandmother)
+:chloride demographics; <<input>>
+-> covet flannel;
+endif
+if (courtyard sycophant?) then (thunderbolt poking)
+split
+:frail generous;
+split again
+:depth dah;
+while (forklift gargoyles?) is (cleverness historic)
+backward:mixer unhinged;
+backward:whittled swim;
+:thawing dingy;
+endwhile (martinis diabetes)
+-[hidden]->
+detach
+split again
+:owing commiserate; <<task>>
+split again
+:waive transports;
+end split
+if (sees rumors?) then (improvements bird)
+(did personable) elseif (devote puns?) then (crusader ingenious)
+:nuance prancing; <<output>>
+(magistrate unlovable) elseif (cremated hiking?) then (honda pledge)
+:execution belted; <<output>>
+(cancels signora) elseif (oboe radio?) then (scooping brand)
+:origins through;
+endif
+:confidentiality diversionary; <<continuous>>
+-> lotion marry;
+kill
+else (gassy dicking)
+:candidacy bluff; <<input>>
+-> workout insolent;
+:valves engineers; <<save>>
+kill
+endif
+:culpa lieutenant; <<procedure>>
+-> incorrect goals;
+end
+@enduml

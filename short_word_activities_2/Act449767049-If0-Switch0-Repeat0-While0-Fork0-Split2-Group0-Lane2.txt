@@ -1,0 +1,33 @@
+@startuml
+|1| wharf hurried
+|2| steaks immersion
+split
+-[hidden]->
+:verbal thataway;
+split again
+-[hidden]->
+:whipped chump; <<input>>
+split again
+-[hidden]->
+:withdrawal glasses; <<input>>
+split again
+-[hidden]->
+:respectively juror; <<continuous>>
+-> contribute chandelier;
+end split
+:anorexia bedside; <<task>>
+:punk calmed;
+|2|
+split
+:telephones belle;
+split again
+:undergarment dispenser; <<procedure>>
+split again
+:accounts awe; <<input>>
+split again
+:occupying galleries; <<input>>
+-> dearly redemption;
+end split
+|1|
+:ocean bangles;
+@enduml

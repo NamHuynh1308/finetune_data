@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:spoke java;
+split again
+-[hidden]->
+switch (stifle spawned?)
+case (clinging podiatrist?)
+:authorization costume;
+-> parlour wore;
+case (skidded ruthless?)
+:lashes scratching; <<continuous>>
+case (icicles ballpoint?)
+:sales remedied; <<procedure>>
+-> quack decay;
+case (dwarfs revolves?)
+:fitting resent;
+-> precedent greets;
+endswitch
+split again
+-[hidden]->
+:sagging diamond; <<input>>
+-> groomer cave;
+end split
+switch (braces chipping?)
+case (freshmen paper?)
+:blarney ideology; <<procedure>>
+-> catholic corky;
+case (coopers premises?)
+:excommunicated cannon; <<continuous>>
+case (dumpling divining?)
+:neighbours shoves; <<load>>
+case (aside volt?)
+:yore capper; <<input>>
+endswitch
+group criminology courtesy
+:lighthouse blooming; <<load>>
+fork
+:scoop goa;
+fork again
+:sleepy repetitious; <<task>>
+-> slicer zander;
+fork again
+split
+:bene despair;
+split again
+:larceny stoop; <<load>>
+split again
+:miracles directions; <<save>>
+split again
+:crouch pun; <<task>>
+end split
+end fork
+stop
+end group
+@enduml

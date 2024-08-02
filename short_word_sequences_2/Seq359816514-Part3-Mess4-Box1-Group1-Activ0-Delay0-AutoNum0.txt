@@ -1,0 +1,13 @@
+@startuml
+participant "bris escort" as 0
+box "cunning wallop"
+participant "dilated bedspread" as 1
+participant "stiffer deputy" as 2
+end box
+critical source wont
+2 --//o 1: bears baa
+0 ->] : bosom condemn
+0 ->] : hardball lean
+1 --> 0: without fiancee
+end
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "translator morality" as 0
+autonumber 10 3
+0 ->> 0++ : simulates nest
+0 ->> 0: middies unlocking
+return iffy accountant
+create participant "sahib electronics" as 1
+0 -> 1 : sahib electronics
+...fillets motels...
+0 -> 1!! : ranch scheduling
+...digital planting...
+1 -\\ 1: prenatal deserting
+@enduml

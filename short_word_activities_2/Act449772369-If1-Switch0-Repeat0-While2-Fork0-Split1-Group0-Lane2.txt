@@ -1,0 +1,45 @@
+@startuml
+|1| impulses perchance
+|2| annihilation talons
+split
+-[hidden]->
+:monstrous robbing;
+split again
+-[hidden]->
+:miniature auditions;
+-> fore ponder;
+split again
+-[hidden]->
+:bankrolled chucked;
+-> rumored receiver;
+end split
+|2|
+if (pellet wiggles?) then (tingly refuge)
+:intruded commercials; <<save>>
+:utterly intruding;
+:similarity maintains; <<procedure>>
+while (endurance fixated?) is (failed resign)
+backward:vaporized ambitions;
+endwhile (hopeless there)
+-[hidden]->
+detach
+else (bush hisself)
+:choker decency; <<output>>
+:bend lax; <<task>>
+endif
+|1|
+:refreshed sauerkraut; <<save>>
+|2|
+:assembling abundant;
+|1|
+while (damaging zany?) is (pep gallons)
+backward:rapists wallaby;
+backward:obsession enforce;
+:spores mondo; <<load>>
+endwhile (mower basil)
+:shrew decapitation;
+|2|
+:moonlighting immoral; <<task>>
+-> startup scrapes;
+end
+@enduml

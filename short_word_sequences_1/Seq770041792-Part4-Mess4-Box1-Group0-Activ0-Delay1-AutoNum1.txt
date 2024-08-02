@@ -1,0 +1,14 @@
+@startuml
+box "meteor breakout"
+participant "shave geologists" as 0
+participant "conniption aloft" as 1
+participant "sideboard white" as 2
+participant "accept whopper" as 3
+end box
+autonumber 9 3
+ [-> 1: struggle locals
+...chit gerbils...
+2 -> 0!! : nuke announcer
+2 ->] : companion jets
+3 ->> 2: learnt gal
+@enduml

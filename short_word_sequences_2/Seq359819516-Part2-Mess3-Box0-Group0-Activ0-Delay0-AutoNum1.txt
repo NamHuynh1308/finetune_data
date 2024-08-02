@@ -1,0 +1,10 @@
+@startuml
+participant "applesauce jingling" as 0
+autonumber 0 2
+0 -> 0!! : checked parameters
+autonumber stop
+ [<- 0: compelled achieving
+create participant "fascinating jeans" as 1
+0 -> 1 : fascinating jeans
+autonumber resume
+@enduml

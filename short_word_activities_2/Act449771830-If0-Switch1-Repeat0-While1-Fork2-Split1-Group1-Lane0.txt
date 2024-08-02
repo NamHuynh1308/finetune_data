@@ -1,0 +1,52 @@
+@startuml
+split
+-[hidden]->
+:gasket twinge;
+split again
+-[hidden]->
+:middies redevelopment;
+-> calls soviets;
+split again
+-[hidden]->
+:killing enterprise;
+split again
+-[hidden]->
+fork
+:packet ethics;
+fork again
+:urgent dol; <<load>>
+fork again
+:right jungles; <<procedure>>
+-> sidebar risky;
+fork again
+:earthquakes uninspired; <<procedure>>
+-> mart sitter;
+end merge
+end split
+group manufacturing lark
+switch (grapes opposable?)
+case (crib trim?)
+fork
+:collagen behold;
+fork again
+:crisp veronica; <<output>>
+-> recognizes love;
+fork again
+:photographed projected;
+while (troops birthing?) is (counties saddened)
+backward:pad assured;
+endwhile (called developer)
+-[hidden]->
+detach
+end fork
+case (hyperspace sandpaper?)
+:mortality granny; <<output>>
+case (engaging merchandising?)
+:magnitude pooped; <<continuous>>
+case (flares indignities?)
+:takeout errand; <<procedure>>
+-> bree blindness;
+endswitch
+stop
+end group
+@enduml

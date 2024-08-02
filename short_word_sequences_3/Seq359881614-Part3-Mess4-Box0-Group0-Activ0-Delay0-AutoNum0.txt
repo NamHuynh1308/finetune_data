@@ -1,0 +1,9 @@
+@startuml
+participant "tantrums stating" as 0
+participant "lac wire" as 1
+participant "marines pupil" as 2
+1 -> 1: merchant latched
+0 -> 0!! : gloating reversed
+2 -\\ 1: conferences japan
+2 -> 0: conduct stopped
+@enduml

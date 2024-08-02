@@ -1,0 +1,16 @@
+@startuml
+group crazier mishandled
+split
+:creaky deployed;
+split again
+:nutritional sphinx; <<output>>
+split again
+repeat
+:boxes consult; <<output>>
+:exploration integrated;
+-> scallops rustle;
+repeat while (caffeine weirdo?) is (per carcass)
+end split
+stop
+end group
+@enduml

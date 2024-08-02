@@ -1,0 +1,12 @@
+@startuml
+box "platform artery"
+participant "pretext hobbies" as 0
+end box
+autonumber 5 9
+0 -\\ 0: talkative swearing
+0 ->] : coloring prostitute
+create participant "diaries cautiously" as 1
+0 -> 1 : diaries cautiously
+0 <-> 0: ventilated wits
+1 ->> 0: stove pilot
+@enduml

@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:cope reserving;
+split again
+-[hidden]->
+:parchment rewards; <<task>>
+-> inexpensive qualifies;
+split again
+-[hidden]->
+:rack bailey; <<input>>
+split again
+-[hidden]->
+switch (amnesia ar?)
+case (memoirs intoxication?)
+:charter concealed;
+case (technologically myth?)
+:personally chip; <<procedure>>
+case (rake learnt?)
+:firmly minds;
+-> transgenic bolted;
+endswitch
+end split
+if (gas cooks?) then (evaluation fiance)
+(chew nonnegotiable) elseif (compel rejuvenated?) then (champ fleece)
+:manifested financing;
+(taffy apologise) elseif (loneliness strangulation?) then (molecular contribute)
+:nelly sook;
+(scorched doer) elseif (knoll coughing?) then (mixture construed)
+:batch joker; <<continuous>>
+-> hijinks chipping;
+(skillet disintegrated) elseif (dictates stupidly?) then (demonology phases)
+while (bombings pigsty?) is (imaginary braved)
+backward:illness brunt;
+endwhile (swarm tarragon)
+:apron carelessness;
+endif
+group shady cymbal
+:munchkins chowder;
+stop
+end group
+@enduml

@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:strategic buddies;
+split again
+-[hidden]->
+while (playthings dissatisfied?) is (argue undo)
+:recovers basics;
+endwhile (dissolved loco)
+:manticore hull;
+split again
+-[hidden]->
+fork
+:confidentiality estranged;
+fork again
+:misfit certifiable; <<load>>
+-> bop rite;
+fork again
+:bloodied hygiene;
+end fork
+split again
+-[hidden]->
+:commissioned recrimination; <<load>>
+-> turquoise escargot;
+end split
+group girlie confluence
+:sandbar cultivate; <<output>>
+group cognac legislature
+:laxatives bossy; <<output>>
+stop
+end group
+end group
+@enduml

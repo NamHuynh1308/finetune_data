@@ -1,0 +1,7 @@
+@startuml
+participant "durable bothered" as 0
+autonumber 4 6
+alt rube lifers
+0 ->] : conspired boo
+end
+@enduml

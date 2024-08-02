@@ -1,0 +1,11 @@
+@startuml
+participant "annulment raiders" as 0
+== temporary meltdown ==
+critical trusting fairway
+0 -> 0: slinking album
+par framing celibate
+create participant "prisoner stuntman" as 1
+0 -> 1 : prisoner stuntman
+end
+end
+@enduml

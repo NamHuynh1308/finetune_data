@@ -1,0 +1,11 @@
+@startuml
+box "indigenous fueled"
+participant "geek alerted" as 0
+box "dinosaurs solicited"
+participant "argument welsh" as 1
+end box
+end box
+autonumber 5 3
+0 ->x 1: condolences techniques
+1 --> 1: acetate stricken
+@enduml

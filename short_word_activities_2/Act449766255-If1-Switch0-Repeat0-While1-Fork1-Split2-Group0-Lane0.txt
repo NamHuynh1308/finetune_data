@@ -1,0 +1,39 @@
+@startuml
+start
+split
+:medevac pitchfork;
+split again
+fork
+:vocal lured;
+fork again
+:vitally mugged; <<input>>
+fork again
+:vocal shunt;
+fork again
+:vee retired;
+end merge
+split again
+if (performers harpies?) then (pickle huckleberry)
+:investing cramp;
+else (boon argumentative)
+:invoke serge;
+:mates alliteration;
+while (fellah drifted?) is (heartsick pardoned)
+:journey discriminating;
+-> unplanned journals;
+endwhile (amassed tutu)
+-[hidden]->
+detach
+endif
+split again
+split
+:britt college;
+split again
+:scoring preservation;
+-> dancer inferno;
+split again
+:advantageous upgrade; <<save>>
+-> habit towers;
+end split
+end split
+@enduml

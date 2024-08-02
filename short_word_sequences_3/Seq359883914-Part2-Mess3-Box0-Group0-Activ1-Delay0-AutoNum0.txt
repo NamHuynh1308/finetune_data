@@ -1,0 +1,8 @@
+@startuml
+participant "lapdog ranking" as 0
+participant "laxative cocoa" as 1
+0 <-> 0++ : trippy maxim
+0 ->> 1: beaded magnify
+return military octopus
+ [<- 1: lore muffins
+@enduml

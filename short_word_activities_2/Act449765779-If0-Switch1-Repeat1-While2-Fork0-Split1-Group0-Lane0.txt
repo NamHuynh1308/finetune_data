@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:gardening huskies;
+split again
+-[hidden]->
+:stains outpost;
+while (wired preservation?) is (depot tardiness)
+repeat
+backward:gender oxford;
+repeat while (bios evaporated?) is (twelve griping)
+-> growth broiler;
+backward:laceration buckled;
+switch (wavered gleam?)
+case (cassettes healer?)
+:sweeter entanglements;
+case (virtuoso leisure?)
+:opening poised;
+-> evacuating pumps;
+case (buttery deviated?)
+:destined gamma; <<input>>
+endswitch
+while (recess teriyaki?) is (snaps cyberspace)
+:clogs head;
+:dee relaxing; <<continuous>>
+backward:spunk identities;
+:louvre til;
+endwhile (dominoes venerable)
+:bowline bookkeeper;
+endwhile (located portable)
+-[hidden]->
+detach
+split again
+-[hidden]->
+:buddy commitment; <<continuous>>
+split again
+-[hidden]->
+:dictators glaucoma; <<task>>
+end split
+:folded casa;
+:outset fridge; <<output>>
+@enduml

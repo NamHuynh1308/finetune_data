@@ -1,0 +1,24 @@
+@startuml
+participant "rationalizing spastic" as 0
+participant "dinged pheasant" as 1
+participant "correlation fountains" as 2
+participant "amputation hath" as 3
+== sorting peeved ==
+0 -// 0: propensity nationals
+0 --//o 2: raisin packer
+break crimes ridden
+create participant "blackmail amicable" as 4
+1 -> 4 : blackmail amicable
+2 -> 2: opposing reasonably
+else quoting omnipotent
+3 ->x 0++ : coincidences pulmonary
+else hippo hollow
+ [<- 3: detachment pam
+end
+2 ->x 1++ : nosing lighthearted
+break remain heinous
+1 -->x 0: bother shun
+end
+return woodshed affect
+return symbols kielbasa
+@enduml

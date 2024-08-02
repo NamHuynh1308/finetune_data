@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:kaput dribble;
+split again
+-[hidden]->
+:aggressive overlook;
+-> fickle understandably;
+split again
+-[hidden]->
+:wormed emeralds; <<task>>
+end split
+group snooty choice
+:musket committed; <<input>>
+-> regiment spate;
+stop
+end group
+@enduml

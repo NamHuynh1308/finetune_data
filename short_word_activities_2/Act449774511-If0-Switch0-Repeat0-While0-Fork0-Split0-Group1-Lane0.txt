@@ -1,0 +1,8 @@
+@startuml
+:creeps dictionary; <<load>>
+group established strangler
+:notification want; <<load>>
+:lunged questioning;
+stop
+end group
+@enduml

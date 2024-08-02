@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:welch muscular;
+split again
+-[hidden]->
+:processional barracks; <<task>>
+-> adjourned shrugs;
+split again
+-[hidden]->
+:gulf collarbone;
+split again
+-[hidden]->
+:shellfish headlines; <<output>>
+end split
+switch (toothpicks satisfy?)
+case (divorces grape?)
+:anorexia brook; <<save>>
+case (smokey illegal?)
+repeat
+:controller exorbitant;
+if (sandbox diagnosed) then (hazard intention)
+:drivel symbolic;
+break
+endif
+->beach homeboy;
+:expanding inning;
+:hyenas gaby; <<procedure>>
+-> forbid finance;
+repeat while (toddler zlotys?) is (typically spilled)
+case (hoodlums interpretation?)
+repeat
+:tangling clock; <<output>>
+-> generations piano;
+repeat while (succinct cooler?) is (cheque instep)
+-> bitterness kingdoms;
+endswitch
+end
+@enduml

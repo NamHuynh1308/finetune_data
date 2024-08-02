@@ -1,0 +1,8 @@
+@startuml
+box "employment damp"
+participant "musician loofah" as 0
+end box
+autonumber 7 7
+0 -> 0: mischief comrade
+autonumber stop
+@enduml

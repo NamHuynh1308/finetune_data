@@ -1,0 +1,14 @@
+@startuml
+participant "skater auditioning" as 0
+participant "smugness coveting" as 1
+participant "jerry eccentric" as 2
+loop sizzling unfortunately
+1 -->x 2++ : flatulence practice
+opt buff interrupting
+1 -> 2: impersonator fella
+2 --> 1++ : sewage galactic
+end
+end
+return comfort heap
+return indie statistics
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+box "sunshine spa"
+participant "josh motivated" as 0
+participant "bagman spotters" as 1
+end box
+== lip clone ==
+alt caller respiration
+0 --//o 1: anniversary photographers
+0 -// 1: severe phenomenally
+end
+@enduml

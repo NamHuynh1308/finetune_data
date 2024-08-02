@@ -1,0 +1,4 @@
+@startuml
+:roto bypass; <<save>>
+-> courts telemetry;
+@enduml

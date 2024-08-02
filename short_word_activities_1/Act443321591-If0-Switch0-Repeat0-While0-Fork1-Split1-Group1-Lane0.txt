@@ -1,0 +1,26 @@
+@startuml
+start
+group starting despair
+fork
+:calmer explosion;
+fork again
+:libido spitfire;
+kill
+fork again
+:diaphragm flirt;
+-> shoving decisive;
+end merge
+split
+:humps ba;
+split again
+:pay ideal; <<task>>
+-> excluding flatulence;
+split again
+:grate feared; <<continuous>>
+split again
+:request paramilitary; <<save>>
+-> training vented;
+end split
+stop
+end group
+@enduml

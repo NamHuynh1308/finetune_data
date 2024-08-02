@@ -1,0 +1,30 @@
+@startuml
+participant "cypher maharajah" as 0
+box "laura stationery"
+participant "satyr coward" as 1
+participant "underworld homeowners" as 2
+end box
+box "loom references"
+participant "perverted telekinesis" as 3
+end box
+create participant "dishwasher brute" as 4
+0 -> 4 : dishwasher brute
+critical jones assertiveness
+...hocus revoked...
+1 <-> 3: gothic teaching
+break importantly marketing
+3 ->> 3: credence frightens
+3 -> 1: hallucinations advise
+else insulated chisel
+loop spades dialed
+0 ->] : sheen preferred
+critical possessions severity
+...raid conditions...
+4 -> 3: comparable semester
+ [-> 2: poncho canoe
+else sculpture lobby
+end
+end
+end
+end
+@enduml

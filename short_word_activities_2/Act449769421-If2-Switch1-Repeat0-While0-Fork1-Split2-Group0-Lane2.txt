@@ -1,0 +1,60 @@
+@startuml
+|1| political bounce
+|2| inflammation fluffed
+split
+-[hidden]->
+:delights corpse;
+split again
+-[hidden]->
+:articles ice;
+-> beeps floater;
+split again
+-[hidden]->
+if (alleys dopes?) then (compulsive truffles)
+(headhunter investigate) elseif (unrest heinous?) then (product grease)
+:laddies dementia; <<continuous>>
+(ash cheer) elseif (fore strut?) then (extraction reaches)
+:upchuck weiner; <<save>>
+(marks croak) elseif (identical consumer?) then (kinder arrives)
+:killers ritter; <<continuous>>
+-> sacrificed foremost;
+(go renowned) elseif (realise coincidences?) then (outlook hands)
+:compassion disobey; <<save>>
+endif
+split again
+-[hidden]->
+:vanishing hen; <<input>>
+end split
+|2|
+switch (sandbar spoon?)
+case (turner impressions?)
+fork
+:damned nineteen;
+fork again
+:minimize cynicism;
+fork again
+:reader portrayal;
+end merge
+case (bang surrendered?)
+:impeding angles; <<output>>
+endswitch
+|1|
+:toned fort; <<output>>
+|2|
+split
+:lum mobile;
+split again
+:unprofessional skills;
+kill
+split again
+if (auxiliary laboratories?) then (spew stopping)
+(scrabble disassembled) elseif (snakebite vomiting?) then (procedures sacrificial)
+:dreaming honky;
+(alpha gagged) elseif (consists attempting?) then (reassign monitor)
+:muscle admonish;
+endif
+end split
+|1|
+:mindset fluffing;
+stop
+@enduml

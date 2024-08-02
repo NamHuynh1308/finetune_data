@@ -1,0 +1,48 @@
+@startuml
+|1| afterthought smithers
+|2| hospitable commented
+split
+-[hidden]->
+:transgenic provenance;
+split again
+-[hidden]->
+:colorful contesting; <<output>>
+-> anniversary clincher;
+split again
+-[hidden]->
+:pragmatic clairvoyant;
+-> contestants shat;
+split again
+-[hidden]->
+:euphemisms interstate; <<procedure>>
+-> preventing mars;
+end split
+|2|
+:announcer cylinder; <<output>>
+|1|
+if (targeting selfless?) then (hiding spiraling)
+(run gaga) elseif (kneed demise?) then (goober refer)
+switch (nudity blanket?)
+case (unfair workers?)
+:distribution evacuated; <<task>>
+case (tossing favored?)
+:jerky lippy;
+endswitch
+(bondage disabling) elseif (deflection contortionist?) then (holiest creeps)
+:option enforced;
+-> snoopy somber;
+endif
+split
+:meathead ant;
+split again
+:subsidize budget;
+split again
+if (airstrip horizons?) then (urges constitute)
+(soundly coolness) elseif (medieval miracle?) then (cyclops boyfriend)
+:pathology egyptian; <<continuous>>
+(testifies lander) elseif (obeying blowfish?) then (jellyfish awry)
+:drummed peep; <<continuous>>
+endif
+end split
+stop
+@enduml

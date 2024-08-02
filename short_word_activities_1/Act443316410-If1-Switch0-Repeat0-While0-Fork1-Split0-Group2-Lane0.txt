@@ -1,0 +1,21 @@
+@startuml
+start
+group bunnies tentative
+:suffers aloha; <<save>>
+group feeder scooter
+fork
+:mixup explosions;
+fork again
+:tacked basement; <<load>>
+fork again
+if (highway beagle?) then (lingering apes)
+(ornate croaker) elseif (topple capital?) then (fable books)
+:cartoon texts; <<procedure>>
+(hussy trellis) elseif (booths detente?) then (unlike terrorism)
+:avalanche fluffy;
+endif
+end merge
+stop
+end group
+end group
+@enduml

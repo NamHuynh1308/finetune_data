@@ -1,0 +1,62 @@
+@startuml
+split
+-[hidden]->
+:receipts interfere;
+split again
+-[hidden]->
+:miller copter; <<task>>
+-> visa responsibly;
+split again
+-[hidden]->
+:ed mountain; <<load>>
+end split
+if (blight recalled?) then (legged crave)
+:igloo powdered; <<procedure>>
+-> remarkably rooming;
+switch (lean slower?)
+case (assistants ghosts?)
+:game logger;
+-> ornate insulated;
+case (adjustable ebony?)
+:replacements and;
+case (fueling goats?)
+:rearrange snowboard;
+endswitch
+while (polite ditsy?) is (cowboy maya)
+:tended primer;
+while (budge harmful?) is (arrears loo)
+backward:bios gale;
+:impending meaningless;
+backward:risen saturation;
+endwhile (padlock catcher)
+:messes socket;
+endwhile (cappuccino wracking)
+-[hidden]->
+detach
+else (forage desks)
+:aggressive bagels; <<continuous>>
+:pursued passport; <<save>>
+repeat
+:windbag pigtails;
+:dewy notorious;
+:sidecar delivered;
+repeat while (planning knoll?) is (instructor shrug)
+-> directing penned;
+kill
+endif
+group cheque leaping
+fork
+:chic jester;
+fork again
+:forensic propping;
+fork again
+repeat
+:afflicted defect;
+:teasing muley;
+:pouting tweaked;
+repeat while (waiver recreated?) is (latest empowerment)
+-> sims cloudy;
+end merge
+stop
+end group
+@enduml

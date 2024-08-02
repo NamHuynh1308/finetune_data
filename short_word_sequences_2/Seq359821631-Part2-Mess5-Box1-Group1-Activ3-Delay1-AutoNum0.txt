@@ -1,0 +1,17 @@
+@startuml
+box "retrieve peanuts"
+participant "grander suckers" as 0
+participant "triplets suppression" as 1
+end box
+0 -> 1: augmentation untouchable
+alt aback elf
+0 -> 1++ : trouser inedible
+1 -// 1++ : peppermint contain
+0 -> 1++ : ort embedded
+...innings ladle...
+0 -> 1!! : psychosomatic sordid
+return particle happened
+end
+return slimy clone
+return scrunch undergone
+@enduml

@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:trip hibernating;
+split again
+-[hidden]->
+:texts acknowledged;
+-> electrocuted kirk;
+split again
+-[hidden]->
+split
+:dynasty tor;
+split again
+:stoked fortuneteller;
+split again
+:sissies jealousy;
+end split
+split again
+-[hidden]->
+:bathing hoax; <<procedure>>
+end split
+fork
+:yo drilling;
+fork again
+:extinguish intelligently; <<procedure>>
+-> band mobilize;
+fork again
+fork
+:subpoenaed power;
+fork again
+:mended seminal; <<input>>
+-> stabilize philharmonic;
+fork again
+:unfit outlines; <<continuous>>
+end fork
+end fork
+@enduml

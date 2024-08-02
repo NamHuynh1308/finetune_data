@@ -1,0 +1,17 @@
+@startuml
+participant "gnaw acknowledges" as 0
+participant "peppermint bowed" as 1
+box "truthfully breech"
+participant "inconvenience panting" as 2
+end box
+== proclivities strokes ==
+loop rabies tubes
+create participant "pricked confound" as 3
+2 -> 3 : pricked confound
+1 -> 1: cissy corpses
+else sandman martinis
+1 --> 0: evil dined
+2 ->> 3: watchers healers
+else await resent
+end
+@enduml

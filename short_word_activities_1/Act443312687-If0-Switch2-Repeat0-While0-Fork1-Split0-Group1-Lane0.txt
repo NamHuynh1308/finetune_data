@@ -1,0 +1,33 @@
+@startuml
+switch (exile spooky?)
+case (atrium throwing?)
+fork
+:rodents enter;
+fork again
+:orchestra extending;
+fork again
+:unsealed buckled;
+end merge
+case (inch opinion?)
+:sleight rectum;
+-> finance tumble;
+case (upscale clap?)
+:bagels cutoffs; <<save>>
+-> gondola geared;
+case (expedite occupancy?)
+:steadfast sportswear; <<save>>
+-> zapped preference;
+endswitch
+:smarty buttons; <<load>>
+-> dent downstairs;
+group entwined defied
+switch (jus taping?)
+case (judge hopper?)
+:tackles subconscious; <<task>>
+case (bookish guerrillas?)
+:bonded watching; <<load>>
+-> draped grasp;
+endswitch
+stop
+end group
+@enduml

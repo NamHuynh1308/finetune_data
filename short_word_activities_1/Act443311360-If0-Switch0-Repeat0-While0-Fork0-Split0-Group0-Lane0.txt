@@ -1,0 +1,5 @@
+@startuml
+:bind artiste; <<input>>
+:methods degraded; <<continuous>>
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "distances committed" as 0
+participant "maliciously edited" as 1
+== protons restaurateur ==
+autonumber 0 4
+ [-> 1: fiefdom recipient
+1 --> 0: trolls lively
+break compare secretary
+...telephone rack...
+1 -> 1: tipper horrors
+...brainstorm taxpayer...
+0 -> 1: complaining disappointing
+autonumber stop
+else orthodox validity
+0 -> 1: tender ashamed
+end
+@enduml

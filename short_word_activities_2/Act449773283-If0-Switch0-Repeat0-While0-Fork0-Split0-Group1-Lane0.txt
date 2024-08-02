@@ -1,0 +1,6 @@
+@startuml
+group lava pellet
+:flakes barmaid; <<output>>
+stop
+end group
+@enduml

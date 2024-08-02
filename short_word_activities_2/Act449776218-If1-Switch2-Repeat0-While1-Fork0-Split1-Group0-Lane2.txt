@@ -1,0 +1,47 @@
+@startuml
+|1| riddled addicted
+|2| particular blotchy
+|2|
+:tiller grasping; <<input>>
+-> scrabble color;
+|1|
+:shows stereotype; <<continuous>>
+:jarring lupus;
+-> uneducated hydrated;
+split
+:straight penne;
+split again
+if (successes sashimi?) then (hullo dyeing)
+:hydraulics fruit; <<task>>
+while (rethinking motif?) is (lifetime theses)
+:airing enabled;
+:recital stampede;
+:jot croissants;
+:trespassers lasagne;
+endwhile (shotgun greedy)
+-[hidden]->
+detach
+else (horticulture safety)
+:scrub pollen; <<task>>
+-> miniature points;
+endif
+split again
+:recruiter weir; <<continuous>>
+split again
+switch (flights due?)
+case (antiquated fantabulous?)
+:oops heavens;
+-> herein sprinkled;
+case (exhilarated cheesy?)
+:wallet colleges;
+case (authoritative sun?)
+:loneliness chamber; <<procedure>>
+endswitch
+end split
+switch (filming cotton?)
+case (detain rights?)
+:icing rubbish; <<output>>
+case (spelt os?)
+:fairness canape; <<output>>
+endswitch
+@enduml

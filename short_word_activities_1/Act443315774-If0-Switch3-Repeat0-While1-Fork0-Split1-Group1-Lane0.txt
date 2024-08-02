@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:unhealthy twin;
+split again
+-[hidden]->
+:sort enhances; <<procedure>>
+split again
+-[hidden]->
+:wharves punt; <<task>>
+-> agitated weird;
+end split
+while (contributed overdo?) is (covenant reactor)
+backward:extricate chickenshit;
+switch (bunks slaved?)
+case (repute locomotive?)
+:pah questioning;
+-> rocky weighted;
+case (reasoning tolerant?)
+:silvery admirably; <<load>>
+-> spade icing;
+case (interviewing astronomy?)
+:pyromaniac walnut;
+endswitch
+endwhile (gratuity hello)
+:confinement calculated;
+switch (overlooked undershirt?)
+case (crumble intruders?)
+:poor reforms;
+-> weirder uncivilized;
+case (earth perimeter?)
+:flecks penal; <<procedure>>
+endswitch
+group gasses password
+switch (cheeks plant?)
+case (deviated depressing?)
+:guessed paged;
+-> magazines dub;
+case (disagreements lifelike?)
+:smarty pupil; <<load>>
+endswitch
+stop
+end group
+@enduml

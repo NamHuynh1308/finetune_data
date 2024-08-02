@@ -1,0 +1,12 @@
+@startuml
+participant "collagen thin" as 0
+participant "jukebox peters" as 1
+participant "acclimated bungled" as 2
+participant "supper treasure" as 3
+create participant "repayment bot" as 4
+2 -> 4 : repayment bot
+4 --> 0: pizzas frighten
+0 -> 0: designer possible
+...appeals goopy...
+2 --> 0: contributions crease
+@enduml

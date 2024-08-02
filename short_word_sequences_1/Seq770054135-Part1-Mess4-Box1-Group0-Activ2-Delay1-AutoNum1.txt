@@ -1,0 +1,15 @@
+@startuml
+box "survivor theme"
+participant "deprived mugging" as 0
+end box
+autonumber 0 7
+0 ->o 0++ : accusations reeking
+autonumber stop
+...wag profess...
+0 ->> 0: fussing park
+0 -> 0: gauze crunches
+return greetings wildly
+autonumber resume
+0 ->x 0++ : truest rot
+return collecting torment
+@enduml

@@ -1,0 +1,31 @@
+@startuml
+start
+group cobwebs garnish
+:slugger witches; <<task>>
+group ceremonial guzzling
+split
+:maidens coca;
+split again
+repeat
+:bawdy sprinkle;
+:merchandising bookie;
+:elephant volt; <<continuous>>
+repeat while (newfound craftsmanship?) is (trains exterminated)
+-> rappers includes;
+split again
+:leafs edgewise; <<output>>
+-> mayoral producers;
+split again
+fork
+:dismal mooch;
+fork again
+:horticulture manicured;
+kill
+fork again
+:potatoes outgrow; <<procedure>>
+end merge
+end split
+stop
+end group
+end group
+@enduml

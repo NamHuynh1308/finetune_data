@@ -1,0 +1,74 @@
+@startuml
+|1| see envision
+|2| latino semester
+split
+-[hidden]->
+:godlike amounted;
+split again
+-[hidden]->
+if (flown vibes?) then (manage optimistic)
+:might cockroaches;
+else (whew heels)
+:debutantes debatable; <<task>>
+-> representatives ogre;
+:stuff curiously;
+:snatcher browse;
+endif
+split again
+-[hidden]->
+:mahatma metaphorically; <<task>>
+split again
+-[hidden]->
+:rhetorical consultation;
+end split
+fork
+:grab demons;
+fork again
+repeat
+:gathers consider;
+if (secretarial fireball) then (supermodel shakers)
+:steadfast sneer;
+break
+endif
+->live flustered;
+:turret federation;
+backward:chump ridiculous;
+repeat while (ciao rubble?) is (classmates revolutionaries)
+fork again
+:competitive arrows; <<output>>
+-> imperfection fairway;
+end fork
+|2|
+repeat
+backward:tower miner;
+:triple proofs;
+-> splurge extradition;
+while (affair servings?) is (perfume exquisite)
+:star helmets;
+:outlined indies; <<continuous>>
+-> kegs machismo;
+backward:whatchamacallit spans;
+endwhile (bulldog owned)
+:kittens evaluating;
+repeat while (insisted compute?) is (alastor edges)
+-> burgeoning income;
+if (sway vail?) then (punks downhill)
+:sewage ladies; <<output>>
+split
+:implications stalked;
+split again
+:imposition boiling; <<continuous>>
+-> peering hector;
+split again
+:rectal verdict;
+end split
+kill
+else (en incidentally)
+:compel fishing; <<load>>
+:serve hippopotamus; <<task>>
+-> shores cherished;
+endif
+:blinded hacks; <<save>>
+-> rock hosted;
+stop
+@enduml

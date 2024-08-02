@@ -1,0 +1,20 @@
+@startuml
+:homos shotgun;
+:gossips observers;
+split
+:hobbling blight;
+split again
+split
+:dampener coolness;
+split again
+:suave drowsy;
+split again
+:scummy assailant; <<input>>
+-> bowled charges;
+end split
+split again
+:conversion listing; <<output>>
+-> slower rusted;
+end split
+end
+@enduml

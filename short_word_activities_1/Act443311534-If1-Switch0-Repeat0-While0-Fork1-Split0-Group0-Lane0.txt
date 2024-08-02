@@ -1,0 +1,22 @@
+@startuml
+start
+:gory mantis; <<load>>
+if (tolerable intervening?) then (brigade shoulders)
+fork
+:loos roped;
+fork again
+:ivory presidency; <<save>>
+-> error grasp;
+fork again
+:arch enigma; <<save>>
+-> detonated vacated;
+fork again
+:swaddling bliss;
+end merge
+else (filtration patriot)
+:synch lifetime;
+-> edits bolts;
+:hut sparkles; <<save>>
+:fingerprints butts;
+endif
+@enduml

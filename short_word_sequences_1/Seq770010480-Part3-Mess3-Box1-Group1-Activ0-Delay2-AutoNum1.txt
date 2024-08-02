@@ -1,0 +1,17 @@
+@startuml
+participant "divining kinds" as 0
+box "tubby scoop"
+participant "crutches tribute" as 1
+end box
+autonumber 5 0
+create participant "zeros dishonor" as 2
+1 -> 2 : zeros dishonor
+autonumber stop
+...crops distance...
+0 <-> 2: admissions trumps
+critical referrals convention
+...tick unsealed...
+0 -> 2: sideline carol
+autonumber resume
+end
+@enduml

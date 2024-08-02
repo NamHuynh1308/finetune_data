@@ -1,0 +1,6 @@
+@startuml
+group grime shorten
+:banging rats; <<procedure>>
+stop
+end group
+@enduml

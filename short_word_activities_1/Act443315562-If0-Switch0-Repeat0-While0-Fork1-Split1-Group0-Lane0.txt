@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:maturity cakewalk;
+split again
+-[hidden]->
+:hostages santo; <<save>>
+-> trees anvil;
+split again
+-[hidden]->
+:matchmaking fuck; <<task>>
+-> purblind cable;
+split again
+-[hidden]->
+fork
+:continues heist;
+fork again
+:behaviour rowdy; <<output>>
+fork again
+:sneaks unlocks;
+end fork
+end split
+:miles melodramatic; <<task>>
+-> humus cropped;
+end
+@enduml

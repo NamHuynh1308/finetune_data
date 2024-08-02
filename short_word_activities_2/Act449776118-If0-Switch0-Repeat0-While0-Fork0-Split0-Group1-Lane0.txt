@@ -1,0 +1,9 @@
+@startuml
+group squiggle festering
+:surviving deadly; <<output>>
+-> playboys inept;
+:stylist contusions; <<output>>
+-> teens statistics;
+end group
+end
+@enduml

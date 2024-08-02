@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:composer piranhas;
+split again
+-[hidden]->
+:fritters nigh; <<output>>
+split again
+-[hidden]->
+:repossess maiden; <<output>>
+-> workplace bran;
+end split
+:uniform bizarre; <<output>>
+end
+@enduml

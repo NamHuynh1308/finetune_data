@@ -1,0 +1,6 @@
+@startuml
+group penguin jesse
+:remainder corpses; <<continuous>>
+stop
+end group
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:yuppies reevaluate;
+split again
+-[hidden]->
+:spinning scramble;
+split again
+-[hidden]->
+repeat
+:drug depress;
+:preceding restroom;
+if (psi concession) then (complacent beavers)
+:token cherub;
+break
+endif
+->benefited assess;
+:lord partnership;
+repeat while (operative vie?) is (attained pagan)
+split again
+-[hidden]->
+:tipped serve; <<procedure>>
+end split
+group corona controlled
+:makers baring; <<load>>
+-> pedicure nope;
+stop
+end group
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+start
+group preferences nauseous
+:shelly western; <<save>>
+-> sanity station;
+if (numbness tightening?) then (aerodynamics paperweight)
+(legalizing paternity) elseif (stocky order?) then (labyrinth combustion)
+switch (heel concise?)
+case (poles checkups?)
+:puck juniors;
+case (wangler licensed?)
+:ugliness diligence;
+endswitch
+(gibson sealed) elseif (angiogram destroyed?) then (volcanic reviewed)
+split
+:relations hi;
+split again
+:egotistical touchy; <<task>>
+-> congresswoman observers;
+split again
+:unforgiving cello;
+end split
+endif
+end group
+stop
+@enduml

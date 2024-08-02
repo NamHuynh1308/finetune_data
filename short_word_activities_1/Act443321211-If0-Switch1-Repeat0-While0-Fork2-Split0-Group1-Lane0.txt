@@ -1,0 +1,30 @@
+@startuml
+:matching whew; <<load>>
+-> audit hamburgers;
+group pacific squeaks
+switch (ample legion?)
+case (displays bothered?)
+:ginger surrounds;
+case (bends wishing?)
+fork
+:paper globe;
+fork again
+:dwindling chanting; <<output>>
+fork again
+:compel asleep; <<task>>
+end fork
+case (blueprints whipper?)
+fork
+:coroners tummy;
+fork again
+:senses lowery;
+fork again
+:murky brouhaha;
+-> shops chigger;
+end merge
+case (patrol shone?)
+:objected interact; <<load>>
+endswitch
+stop
+end group
+@enduml

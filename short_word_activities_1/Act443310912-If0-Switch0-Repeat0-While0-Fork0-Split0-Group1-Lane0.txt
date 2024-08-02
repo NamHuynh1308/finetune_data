@@ -1,0 +1,9 @@
+@startuml
+start
+:furs posts; <<input>>
+-> taunt freshening;
+group booths failing
+:wool uncommon; <<procedure>>
+stop
+end group
+@enduml

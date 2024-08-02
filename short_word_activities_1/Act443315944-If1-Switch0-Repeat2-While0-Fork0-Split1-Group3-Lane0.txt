@@ -1,0 +1,36 @@
+@startuml
+group coddle boardroom
+split
+:say helping;
+split again
+:topple mounds; <<load>>
+split again
+:showgirl mostly; <<procedure>>
+end split
+group stub walk
+repeat
+if (leftovers contender?) then (glass plenty)
+(sunk sandbox) elseif (thumbs pinned?) then (hikers contains)
+:flaming webster; <<output>>
+(pacemaker bozos) elseif (watchful neatness?) then (pounds chico)
+:swiss futon;
+(learned clover) elseif (clotted intellectual?) then (drooling military)
+:plotting fraud;
+-> horseradish story;
+endif
+repeat while (nuthouse newsstands?) is (embassy leaf)
+group shack deviated
+repeat
+:trouper empathy;
+if (knack overgrown) then (heartsick unusually)
+:bamboo dibs;
+break
+endif
+->hooky divisions;
+:equator sabe;
+repeat while (committed scared?) is (flopped decency)
+stop
+end group
+end group
+end group
+@enduml

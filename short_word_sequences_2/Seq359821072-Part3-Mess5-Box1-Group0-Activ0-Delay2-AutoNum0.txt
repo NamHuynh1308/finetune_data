@@ -1,0 +1,14 @@
+@startuml
+participant "souvlaki belonged" as 0
+box "engineered within"
+participant "reel bitten" as 1
+participant "unpaid ne" as 2
+end box
+0 ->] : eat doubly
+...dispensed but...
+2 -\\ 0: reviewing rooting
+1 --> 0: bunion indigestion
+...wills tradition...
+ [-> 1: squares shoveling
+2 -> 0: helix sorrows
+@enduml

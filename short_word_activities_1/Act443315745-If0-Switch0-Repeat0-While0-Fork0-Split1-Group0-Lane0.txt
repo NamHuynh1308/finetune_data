@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:insects geneva;
+split again
+-[hidden]->
+:gawk tits; <<output>>
+-> trousers overrun;
+split again
+-[hidden]->
+:eaten browbeat; <<task>>
+split again
+-[hidden]->
+:crafty hammered; <<continuous>>
+-> diary blasted;
+end split
+:meaningless cuticles;
+stop
+@enduml

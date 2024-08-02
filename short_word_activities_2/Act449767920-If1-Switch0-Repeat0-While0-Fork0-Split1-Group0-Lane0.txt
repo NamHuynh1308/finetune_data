@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:censured folds;
+split again
+-[hidden]->
+if (piece carries?) then (blooded extension)
+:stone lederhosen;
+:drunken skewered;
+:treatments bordeaux; <<load>>
+-> chalkboard commando;
+kill
+else (spirited brassieres)
+:quilting nuptial;
+:unanimously missionary; <<task>>
+endif
+split again
+-[hidden]->
+:scaled skiff; <<procedure>>
+end split
+:tartar auditions; <<task>>
+@enduml

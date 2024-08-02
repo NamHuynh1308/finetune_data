@@ -1,0 +1,14 @@
+@startuml
+participant "prices oxen" as 0
+participant "rarely redeem" as 1
+== scry bazaar ==
+1 ->] : disarmed sanitarium
+1 -> 1: antidepressant veggies
+opt hop believable
+0 --> 0: member nite
+0 -> 0: contemplating kicks
+end
+critical slaughter especially
+1 -> 0: filled dulcet
+end
+@enduml

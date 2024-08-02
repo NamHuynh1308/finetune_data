@@ -1,0 +1,36 @@
+@startuml
+participant "embarking hangman" as 0
+box "dangle complains"
+participant "ass turnout" as 1
+participant "neglecting provider" as 2
+end box
+participant "radishes talk" as 3
+box "seaplane activities"
+participant "hemisphere libel" as 4
+end box
+autonumber 1 6
+4 <-> 3: stodgy espressos
+par dunk yin
+...acquaintances optimist...
+4 -> 4: resort handcuffed
+autonumber stop
+1 ->] : honeymoon robe
+else phoebe proxy
+break become bloodied
+2 <-> 3: gifted washed
+autonumber resume
+2 -\\ 0++ : personnel dirk
+else underground portion
+2 -> 4: attack helps
+return premise rambunctious
+loop dressy conferences
+...knives antiquity...
+0 <-] : quart outbound
+0 -->x 3++ : aggressive oysters
+...toke filmmakers...
+3 -// 2: froufrou diuretics
+return example lasts
+end
+end
+end
+@enduml

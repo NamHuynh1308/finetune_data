@@ -1,0 +1,7 @@
+@startuml
+:cove directorate;
+-> remission publications;
+:cosmetics christening; <<output>>
+-> bonnie soundstage;
+stop
+@enduml

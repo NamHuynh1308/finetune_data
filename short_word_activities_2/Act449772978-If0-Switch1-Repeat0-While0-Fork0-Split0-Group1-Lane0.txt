@@ -1,0 +1,15 @@
+@startuml
+group nimrod swelled
+:hitched reheat; <<save>>
+-> temperatures server;
+switch (identification grant?)
+case (sparky locale?)
+:rodeo outgrown; <<output>>
+case (archeological escargot?)
+:ulcers oceans; <<load>>
+-> firstly pajama;
+endswitch
+end group
+:incomprehensible few; <<save>>
+stop
+@enduml

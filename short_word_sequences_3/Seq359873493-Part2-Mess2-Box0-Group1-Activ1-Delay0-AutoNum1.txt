@@ -1,0 +1,10 @@
+@startuml
+participant "golf prioritizing" as 0
+participant "toons pushers" as 1
+autonumber 6 4
+ [<- 0: blessing tycoon
+loop cameraman relinquish
+1 -->x 1++ : yours kayak
+end
+return batting strategy
+@enduml

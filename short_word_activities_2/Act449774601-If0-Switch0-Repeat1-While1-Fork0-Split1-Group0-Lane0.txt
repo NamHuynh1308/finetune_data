@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:extraordinaire impressionists;
+split again
+-[hidden]->
+:badges mosque; <<task>>
+-> matchmaker beret;
+split again
+-[hidden]->
+:privately students; <<input>>
+end split
+while (tung contractor?) is (suss lowly)
+:stabilized barge;
+:grass advent; <<procedure>>
+backward:hesitating gunnery;
+endwhile (amateurs advising)
+:breaking introduces;
+repeat
+:heirs preservation;
+repeat while (manner speculating?) is (tying reveling)
+stop
+@enduml

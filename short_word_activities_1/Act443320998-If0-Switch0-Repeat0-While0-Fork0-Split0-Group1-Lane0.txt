@@ -1,0 +1,10 @@
+@startuml
+start
+:mismatched calling; <<procedure>>
+:automobiles topnotch; <<input>>
+group clicking false
+:novels sibling;
+-> awaits demerits;
+stop
+end group
+@enduml

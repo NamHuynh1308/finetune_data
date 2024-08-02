@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:studly triggering;
+split again
+-[hidden]->
+:quartet lubricant; <<load>>
+-> radioactive hammock;
+split again
+-[hidden]->
+:confronting pheasant; <<procedure>>
+end split
+:nuance storybook;
+end
+@enduml

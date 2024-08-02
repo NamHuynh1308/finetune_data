@@ -1,0 +1,58 @@
+@startuml
+split
+-[hidden]->
+:financially vomit;
+split again
+-[hidden]->
+if (geek frustrated?) then (flank padre)
+:quicker cigar; <<load>>
+:clutch carotid;
+else (digesting dodgeball)
+:issuing trivial; <<load>>
+-> swipe giraffe;
+:residual silks; <<output>>
+-> snails snoopy;
+:unharmed declaration;
+endif
+split again
+-[hidden]->
+:tweeze craftsmen; <<output>>
+split again
+-[hidden]->
+:walking masters; <<task>>
+end split
+:copter weave; <<input>>
+group birthmark fan
+if (splinters accommodations?) then (friendly toasts)
+(blade ambulances) elseif (baboon apprehensive?) then (riverbank animated)
+fork
+:attired temp;
+fork again
+:scripted divine;
+fork again
+:badness rallying; <<continuous>>
+fork again
+:fuzz plaza;
+end merge
+(oozing staged) elseif (tulle awards?) then (daughter simulation)
+:harsh ashes; <<load>>
+(dog various) elseif (fusilli thinks?) then (epileptic blood)
+while (majestic holed?) is (excuses negative)
+:sera leary;
+endwhile (curate inspiring)
+:premature driftwood;
+(wholesaler understudy) elseif (justification hamlet?) then (reclaim enraged)
+if (fears mangy?) then (cappuccino overwhelmed)
+:necking auger;
+kill
+else (linking clapper)
+:koala vibe; <<load>>
+:catholic entrust; <<save>>
+:cat leap; <<input>>
+endif
+endif
+:alley gilded; <<continuous>>
+-> debated spectacles;
+end group
+end
+@enduml

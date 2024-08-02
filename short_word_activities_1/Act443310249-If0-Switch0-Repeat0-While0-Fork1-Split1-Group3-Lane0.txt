@@ -1,0 +1,26 @@
+@startuml
+group plateaued evolved
+split
+:strategies grieves;
+split again
+fork
+:impotent sabotaging;
+fork again
+:pun supernatural;
+fork again
+:vermouth fears;
+fork again
+:prim seconds;
+end fork
+split again
+:provoke lint; <<continuous>>
+end split
+group pyjamas uniforms
+:nodding clambake;
+group inflicting cents
+:hello impaled; <<save>>
+stop
+end group
+end group
+end group
+@enduml

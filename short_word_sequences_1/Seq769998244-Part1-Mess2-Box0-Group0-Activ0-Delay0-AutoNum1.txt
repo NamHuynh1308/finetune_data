@@ -1,0 +1,9 @@
+@startuml
+participant "progressed clinging" as 0
+== battleship rerouted ==
+autonumber 0 6
+0 <-> 0: portion store
+autonumber stop
+0 ->> 0: probable bystander
+autonumber resume
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "melodramatic branches" as 0
+box "copter hungry"
+participant "studded drugstore" as 1
+end box
+autonumber 10 6
+1 -> 1: creative decoupage
+autonumber stop
+0 ->] : juvenile morello
+@enduml

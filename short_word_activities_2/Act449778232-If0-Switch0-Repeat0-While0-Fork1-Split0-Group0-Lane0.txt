@@ -1,0 +1,10 @@
+@startuml
+fork
+:clinical intend;
+fork again
+:replicating leaked;
+fork again
+:storing glaring; <<output>>
+end merge
+end
+@enduml

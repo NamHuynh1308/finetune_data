@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:imaginable twin;
+split again
+-[hidden]->
+:sanitary zippy; <<task>>
+-> economical clams;
+split again
+-[hidden]->
+:funeral tacks;
+split again
+-[hidden]->
+:cosmopolitan teaspoons;
+end split
+split
+:luminous interns;
+split again
+:sikes exploratory;
+split again
+:foyer balloon;
+while (socialized brin?) is (rescuer romper)
+repeat
+:warrant snug;
+repeat while (freckling scud?) is (rescuers lavished)
+fork
+:shadowing suppressed;
+fork again
+:about fantasies; <<load>>
+-> personality drippy;
+fork again
+:sent flexible;
+kill
+end merge
+backward:issuing cooped;
+endwhile (lovemaking glide)
+-[hidden]->
+detach
+end split
+:selective memories; <<task>>
+-> deputy suites;
+@enduml

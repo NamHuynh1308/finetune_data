@@ -1,0 +1,28 @@
+@startuml
+|1| sorrow baffled
+|2| reprobate impunity
+split
+-[hidden]->
+:heel partially;
+split again
+-[hidden]->
+:alchemist plantation;
+split again
+-[hidden]->
+:logs filth; <<continuous>>
+split again
+-[hidden]->
+:corkscrew infuriates;
+end split
+repeat
+:sampled stupidity; <<load>>
+-> probably horrors;
+repeat while (drips ghastly?) is (perfumes yesterdays)
+-> dragons surfed;
+|2|
+:bustling neckline; <<output>>
+:regretting snowballing; <<continuous>>
+|1|
+:nibble welded;
+-> style classmate;
+@enduml

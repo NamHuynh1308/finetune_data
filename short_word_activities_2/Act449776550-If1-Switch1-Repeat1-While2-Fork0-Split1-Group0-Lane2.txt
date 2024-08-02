@@ -1,0 +1,57 @@
+@startuml
+|1| tonsil grouse
+|2| know troop
+split
+-[hidden]->
+:unharmed stance;
+split again
+-[hidden]->
+:declaration leopards; <<task>>
+split again
+-[hidden]->
+:kinky sailor; <<task>>
+split again
+-[hidden]->
+:tracked fronts;
+kill
+end split
+|2|
+while (circles avocado?) is (succinct contesting)
+backward:hoy padre;
+backward:cubicle olden;
+backward:fantabulous knelt;
+backward:swoop desert;
+endwhile (recycling sheds)
+:highs search;
+switch (invisibility cans?)
+case (banister goading?)
+:outlast squirrels; <<continuous>>
+case (processing politicians?)
+while (lounging encountered?) is (relaxants true)
+backward:whooping overreact;
+:redid chemist; <<input>>
+-> photograph campos;
+backward:poisons leaving;
+:fiance defrost;
+endwhile (foxholes mentioned)
+:identify spin;
+case (hostel sliver?)
+:pelting ah; <<save>>
+case (cottages demean?)
+:botulism mistress; <<output>>
+-> symbiotic redeeming;
+endswitch
+repeat
+if (staffers slopes?) then (touchdowns creak)
+:griffin spokesperson; <<continuous>>
+-> pool plethora;
+:lag sprayed;
+else (husky chatter)
+:primo tempered;
+endif
+repeat while (knobs rugby?) is (friend larceny)
+|1|
+:mace corner; <<load>>
+-> wooden sturgeon;
+end
+@enduml

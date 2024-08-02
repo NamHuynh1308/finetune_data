@@ -1,0 +1,14 @@
+@startuml
+start
+fork
+:yeh beautifully;
+fork again
+:deprived repayment;
+-> villain dyke;
+fork again
+:overgrown bleachers;
+fork again
+:turbine shipwrecked; <<task>>
+end fork
+stop
+@enduml

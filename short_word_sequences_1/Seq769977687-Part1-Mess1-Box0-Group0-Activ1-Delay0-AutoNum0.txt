@@ -1,0 +1,6 @@
+@startuml
+participant "weightless negligee" as 0
+== manufacture doorbell ==
+0 --//o 0++ : activating faults
+return bleachers mystic
+@enduml

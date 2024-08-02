@@ -1,0 +1,16 @@
+@startuml
+|1| patsy corps
+|2| cures ignite
+|1|
+start
+|2|
+:admirers deuce;
+-> doll growers;
+|1|
+:imprisonment torching; <<save>>
+|2|
+:bannister scholar; <<output>>
+|1|
+:theory bulldozers; <<save>>
+end
+@enduml

@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:pattern rushes;
+split again
+-[hidden]->
+fork
+:indentured bulky;
+fork again
+:intelligence continue; <<output>>
+fork again
+:geese reactions;
+fork again
+:rode eggshells; <<continuous>>
+end fork
+split again
+-[hidden]->
+:stooge consort; <<continuous>>
+split again
+-[hidden]->
+:cheating warhead; <<save>>
+-> embraces hocus;
+end split
+:tortured supremely; <<load>>
+group faint clusters
+:stolen homicide; <<procedure>>
+-> representing weatherman;
+:awaits oceans; <<task>>
+end group
+@enduml

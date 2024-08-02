@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:congratulated hunky;
+split again
+-[hidden]->
+:duce mongrel;
+split again
+-[hidden]->
+:homicides mythological; <<output>>
+end split
+group degradation expectancy
+:cockney dollars; <<task>>
+group behold incense
+split
+:insanely destined;
+split again
+:preventative hilltop; <<continuous>>
+split again
+:forgotten faithful; <<procedure>>
+end split
+stop
+end group
+end group
+@enduml

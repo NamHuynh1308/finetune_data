@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:size crutches;
+split again
+-[hidden]->
+:ark blames;
+split again
+-[hidden]->
+:troops hundreds; <<input>>
+split again
+-[hidden]->
+:projections bowers; <<procedure>>
+-> chuck lovable;
+end split
+group supermarkets drainage
+if (intimidated sites?) then (showering unchanged)
+:displayed affects;
+-> basket spurred;
+fork
+:genetic disposing;
+fork again
+:airports broad;
+fork again
+:unzip criminals;
+fork again
+:absolutes calories;
+-> sheepskin exhibits;
+end fork
+:sweats relates; <<save>>
+else (calamity grilled)
+:contrived lent;
+endif
+stop
+end group
+@enduml

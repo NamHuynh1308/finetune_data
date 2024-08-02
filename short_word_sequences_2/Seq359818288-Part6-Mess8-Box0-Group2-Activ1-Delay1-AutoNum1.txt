@@ -1,0 +1,27 @@
+@startuml
+participant "pound feuds" as 0
+participant "odds emperor" as 1
+participant "disturb magicians" as 2
+participant "waterfront ventriloquism" as 3
+participant "disinfectant booger" as 4
+autonumber 5 8
+loop sunflower diggers
+1 -> 3: discount nosey
+autonumber stop
+4 --> 2: compass sandpaper
+break attended again
+3 -> 4: hoaxes pizza
+autonumber resume
+ [<- 2: purgatory weepy
+...grape newfound...
+2 <-> 0++ : bialy exploratory
+else freshener terminate
+1 --//o 2: flush insolent
+create participant "possesses detected" as 5
+0 -> 5 : possesses detected
+3 <-> 0: candid barbecued
+return vague gigolo
+autonumber stop
+end
+end
+@enduml

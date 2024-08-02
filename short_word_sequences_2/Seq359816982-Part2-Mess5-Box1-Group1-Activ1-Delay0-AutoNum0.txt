@@ -1,0 +1,16 @@
+@startuml
+box "selectman bums"
+participant "bridesmaid edgewise" as 0
+participant "compared wiseass" as 1
+end box
+1 <-] : reheat guide
+alt campers cleanses
+0 <-> 0: unadvisedly washing
+1 -> 0: bren aforethought
+else lizard shrieking
+0 -> 1: fireballs credited
+else underestimating loosened
+0 ->x 1++ : arbitrary windpipe
+end
+return pegged forged
+@enduml

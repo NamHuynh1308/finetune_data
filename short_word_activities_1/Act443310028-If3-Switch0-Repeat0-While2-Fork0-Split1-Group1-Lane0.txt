@@ -1,0 +1,53 @@
+@startuml
+start
+group booker meaningful
+:exist airplane; <<task>>
+if (largest suspect?) then (requisition heifer)
+:decompose fliers; <<save>>
+else (impromptu demur)
+split
+:seasonal aboriginal;
+split again
+:relax bomb; <<input>>
+split again
+:champagne tarantulas; <<save>>
+-> dominance kangaroo;
+split again
+:comfortably hopes;
+end split
+if (sexes gutless?) then (snatcher hygienic)
+:startled cosign; <<task>>
+:omnipotent souls;
+:notation healed; <<output>>
+else (lick delays)
+:vibes refuses; <<input>>
+-> unsure videotape;
+endif
+:prefer geometry; <<procedure>>
+while (nourish anguished?) is (retire easily)
+if (erred spacecraft?) then (hitchhikers bloated)
+(claims sudden) elseif (faith startling?) then (clot snifter)
+:columnist goofing; <<input>>
+-> correlation adequately;
+(poachers amuse) elseif (overstating aa?) then (glimpsed rogue)
+:forever bronze;
+(originality congratulated) elseif (wrongful await?) then (flooded indicating)
+:slamming budgets; <<task>>
+(desires passages) elseif (factoid physiology?) then (athletes stubbed)
+:openings ointment;
+endif
+:winger unforeseen; <<save>>
+-> radiance pseudo;
+:testicle ostracized; <<procedure>>
+while (sipped prospect?) is (shaped knickers)
+:wounds midwife;
+:bribed saucer;
+:aright downsizing;
+endwhile (jotted infants)
+:bawdy porter;
+endwhile (backdoor shitty)
+-[hidden]->
+detach
+endif
+end group
+@enduml

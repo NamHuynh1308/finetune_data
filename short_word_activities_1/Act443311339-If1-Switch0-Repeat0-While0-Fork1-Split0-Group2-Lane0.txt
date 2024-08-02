@@ -1,0 +1,28 @@
+@startuml
+start
+group psychotic parallel
+:reggae hammering; <<save>>
+fork
+:optional den;
+fork again
+if (tab petals?) then (exercising proving)
+:mulled deadbeats; <<procedure>>
+-> fraternities hounded;
+:china preppie; <<output>>
+:flagship supervise; <<task>>
+-> interrupts goonies;
+else (buffalo pricked)
+:repaint matured;
+endif
+fork again
+:reptilian brings;
+-> argument grated;
+fork again
+:colonials begins; <<input>>
+end fork
+group pele nitroglycerin
+:goals handball; <<task>>
+stop
+end group
+end group
+@enduml

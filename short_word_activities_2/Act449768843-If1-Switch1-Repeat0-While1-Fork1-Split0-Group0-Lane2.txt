@@ -1,0 +1,47 @@
+@startuml
+|1| forests unveiling
+|2| handout uranium
+:employed hunker; <<continuous>>
+|2|
+if (clutches juvenile?) then (parrot portal)
+fork
+:jill take;
+fork again
+:laker yippee;
+fork again
+:riddles referenced; <<load>>
+-> ambassador lure;
+fork again
+:plots vitamins; <<save>>
+-> fertility begged;
+end merge
+:rainy phonies;
+else (rake seduction)
+switch (chasing illnesses?)
+case (froufrou anorexic?)
+:barkeep willpower;
+while (doggies fantastically?) is (disease khan)
+:fellah jeeps; <<output>>
+-> inherited disloyal;
+backward:burgundy lube;
+:chef docked;
+endwhile (concealment nails)
+-[hidden]->
+detach
+case (division schemes?)
+:anger indications;
+-> turndown ground;
+case (startle untraceable?)
+:encourage burrows;
+endswitch
+:imprisoned fitted; <<task>>
+:gobbledegook seated; <<load>>
+-> persuade suppress;
+kill
+endif
+|1|
+:hessian flag;
+|2|
+:tossing reef; <<procedure>>
+end
+@enduml

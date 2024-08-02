@@ -1,0 +1,10 @@
+@startuml
+group crest midtown
+:realms norther; <<save>>
+group nylons victor
+:asparagus jeeps; <<input>>
+-> clop undiscovered;
+stop
+end group
+end group
+@enduml

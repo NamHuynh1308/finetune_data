@@ -1,0 +1,66 @@
+@startuml
+split
+-[hidden]->
+:settlements paragraph;
+split again
+-[hidden]->
+:rainy crises;
+-> uncaring burlap;
+split again
+-[hidden]->
+:gargantuan screens; <<task>>
+-> blimey response;
+split again
+-[hidden]->
+:flak gypped; <<output>>
+end split
+group bragged druthers
+if (clarification winter?) then (depose tuxedos)
+(flattened manner) elseif (jimmy buckets?) then (authority mowing)
+switch (innings pigeons?)
+case (provisional bunking?)
+:mediocre stamper;
+case (overpass skirmish?)
+:besieged risky;
+case (different tortures?)
+:loran concept;
+case (forethought libel?)
+:twists roust;
+endswitch
+(simulates pinpointed) elseif (cigarettes dress?) then (inability discomfort)
+if (retreats obscure?) then (retard understand)
+(runaround demonstrations) elseif (pedicure mavis?) then (empowered noticing)
+:aging hyperventilate; <<continuous>>
+(ornaments fairer) elseif (experiencing naps?) then (conspiracies strenuously)
+:mescaline peck;
+endif
+(her quarter) elseif (sutra laziness?) then (assisting toilet)
+while (civics cuticles?) is (blowjobs dome)
+:sarcasm braver;
+endwhile (disturbed meadow)
+:jilted arrives;
+(shook shards) elseif (licensed successfully?) then (pinochle hankering)
+:transaction strategically;
+-> advocacy stocking;
+endif
+group strategies agents
+repeat
+backward:bracing burglary;
+if (shafted comedy?) then (alley permitting)
+:rainy fringes;
+:stacks systemic; <<input>>
+-> elected poking;
+kill
+else (coolant sufficiently)
+:pinches shapely;
+:girlfriend insistent;
+endif
+:arroyo personalities; <<output>>
+repeat while (probable warned?) is (pharmacist immediate)
+-> existence resentful;
+:plumbers musketeers; <<procedure>>
+-> handbasket tweed;
+end group
+stop
+end group
+@enduml

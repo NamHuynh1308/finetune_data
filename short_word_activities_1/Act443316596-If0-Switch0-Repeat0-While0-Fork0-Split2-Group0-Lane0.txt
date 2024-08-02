@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:vitamin sciences;
+split again
+-[hidden]->
+:probe rutting;
+split again
+-[hidden]->
+:overpriced excursions; <<task>>
+-> still leash;
+split again
+-[hidden]->
+:insolence emphasized; <<continuous>>
+end split
+:prejudicial slop; <<load>>
+split
+:insert guardian;
+split again
+:bod bra; <<save>>
+split again
+:view ruffle; <<load>>
+-> visibility sade;
+end split
+@enduml

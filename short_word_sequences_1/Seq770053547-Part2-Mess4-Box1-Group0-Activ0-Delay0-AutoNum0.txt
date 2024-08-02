@@ -1,0 +1,11 @@
+@startuml
+box "credited chalk"
+participant "bankers spreadsheet" as 0
+participant "quiver glass" as 1
+end box
+== roughnecks resonance ==
+0 --//o 1: jungle pathos
+0 <-] : daydream navigational
+1 -> 1: maxi sec
+1 -> 0!! : captivating sew
+@enduml

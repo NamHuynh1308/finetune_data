@@ -1,0 +1,14 @@
+@startuml
+participant "plum hounding" as 0
+participant "horses tails" as 1
+participant "harridan those" as 2
+== manicured plead ==
+autonumber 7 5
+create participant "speculate shotguns" as 3
+2 -> 3 : speculate shotguns
+autonumber stop
+0 ->> 1: cued beginnings
+autonumber resume
+0 ->] : blanket enquiries
+autonumber stop
+@enduml

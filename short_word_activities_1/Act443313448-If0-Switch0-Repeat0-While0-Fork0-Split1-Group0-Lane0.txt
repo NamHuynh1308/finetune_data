@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:screened washrooms;
+split again
+-[hidden]->
+:tutor freakish; <<continuous>>
+-> benefactor exempt;
+split again
+-[hidden]->
+:topped publish;
+-> analogy travels;
+end split
+:poppet in;
+:artery worries; <<load>>
+-> sampled sty;
+end
+@enduml

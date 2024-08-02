@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:scram slip;
+split again
+-[hidden]->
+:eyeball mended; <<task>>
+-> pussy muffled;
+split again
+-[hidden]->
+:gangly handicap; <<task>>
+end split
+if (guests bikinis?) then (laddies clarify)
+split
+:conning thongs;
+split again
+:followers idol;
+split again
+:ordered untenable; <<load>>
+end split
+:shadows strutting; <<input>>
+else (grownup chromosomes)
+if (innkeeper lipped?) then (interactive ahoy)
+:theres arf;
+-> sustenance squeaky;
+:coping unofficial;
+else (moping traces)
+:rutting delivery;
+-> mostly audio;
+:lizards equilibrium;
+:eggs filmed;
+endif
+:stomach committing;
+endif
+:callous engineer; <<task>>
+@enduml

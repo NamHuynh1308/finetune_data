@@ -1,0 +1,27 @@
+@startuml
+participant "rule humour" as 0
+participant "reserving differs" as 1
+participant "asshole nervous" as 2
+participant "documents tas" as 3
+participant "drugstore appeals" as 4
+2 <-] : swimming burdened
+alt sting wry
+create participant "skim grouping" as 5
+0 -> 5 : skim grouping
+3 <-] : doubtful snores
+else cold airborne
+ [-> 2: amendments cappuccino
+critical fess urgency
+2 ->o 1: imbecilic trouser
+3 --> 1: chandelier hoosegow
+else dosages melodramatic
+1 -// 3++ : minimums besieged
+else flossing theories
+2 --> 3++ : tubs hercules
+...renown goons...
+4 ->] : pawning abandon
+end
+end
+return preemptive historical
+return extracted warrior
+@enduml

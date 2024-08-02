@@ -1,0 +1,22 @@
+@startuml
+|1| paperboy totem
+|2| foursome dime
+split
+-[hidden]->
+:ill destroys;
+split again
+-[hidden]->
+:makes aesthetic;
+kill
+split again
+-[hidden]->
+:link dwindling;
+-> francs lakeside;
+end split
+:maid fridge; <<load>>
+:commodities flattery;
+-> project jingling;
+|2|
+:coroner messenger; <<task>>
+end
+@enduml

@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:fucked almond;
+split again
+-[hidden]->
+switch (survey findings?)
+case (arithmetic ironclad?)
+:mantis narc;
+case (computers earring?)
+:fibbing sweatpants;
+endswitch
+split again
+-[hidden]->
+while (dismissive deceptions?) is (triplets sweep)
+backward:tangled wed;
+:rowing compromise;
+endwhile (furlong cortex)
+:belligerent mammals;
+split again
+-[hidden]->
+repeat
+:paired dodged;
+backward:juices dim;
+repeat while (democratic cork?) is (burn expecting)
+end split
+group signora phi
+:plateau independent; <<output>>
+group safeguards obsessive
+fork
+:karaoke reprisal;
+fork again
+:got ending;
+fork again
+if (suspending furs?) then (langley bricked)
+(dawdling unofficial) elseif (plot vacation?) then (revealing outcast)
+:earpiece insinuations;
+(curriculum apache) elseif (accompanied jags?) then (renegade impressionists)
+:gremlin travelling; <<procedure>>
+endif
+end merge
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "shortly exchanges" as 0
+autonumber 6 7
+alt semi projections
+0 -> 0: communities podiatry
+end
+@enduml

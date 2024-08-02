@@ -1,0 +1,6 @@
+@startuml
+group nellie octane
+:muller drier;
+:birthing cellar; <<load>>
+end group
+@enduml

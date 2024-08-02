@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:outgoing smoker;
+split again
+-[hidden]->
+switch (belted leisurely?)
+case (unlocked gents?)
+:dahl infectious;
+case (entrust antiquity?)
+:entry recovery; <<save>>
+-> fought shingles;
+case (jerky miscarry?)
+:boar forego;
+-> headhunter tiki;
+endswitch
+split again
+-[hidden]->
+:until notorious;
+end split
+group unattainable patience
+:frequently hideaway;
+-> bickering glitch;
+stop
+end group
+@enduml

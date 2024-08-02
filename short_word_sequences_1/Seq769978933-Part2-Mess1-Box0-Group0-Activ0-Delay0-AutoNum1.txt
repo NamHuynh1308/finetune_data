@@ -1,0 +1,7 @@
+@startuml
+participant "gouging dash" as 0
+== unlocked snacks ==
+autonumber 8 4
+create participant "edema proudest" as 1
+0 -> 1 : edema proudest
+@enduml

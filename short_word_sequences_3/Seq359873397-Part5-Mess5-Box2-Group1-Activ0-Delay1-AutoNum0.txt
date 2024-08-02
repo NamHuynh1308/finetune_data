@@ -1,0 +1,20 @@
+@startuml
+participant "sinks prophesied" as 0
+box "illustration vive"
+participant "wrote folder" as 1
+participant "decker nerdy" as 2
+box "directed sign"
+participant "defector reassigned" as 3
+end box
+end box
+2 -> 0!! : lubrication merlot
+break she squandered
+...stilettos gaby...
+3 -// 2: shackled vessel
+create participant "merger debris" as 4
+1 -> 4 : merger debris
+4 -> 3: wheelchairs thermos
+else tach dodgy
+4 --> 1: burton earshot
+end
+@enduml

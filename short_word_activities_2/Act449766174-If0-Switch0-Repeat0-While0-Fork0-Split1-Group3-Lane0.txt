@@ -1,0 +1,20 @@
+@startuml
+start
+group marches analysts
+:shoulders apology; <<output>>
+-> virtual jogging;
+group prissy kilos
+split
+:lout dump;
+split again
+:aga fishermen; <<task>>
+split again
+:costumes sufficient;
+end split
+group bold civics
+:benefits aims;
+stop
+end group
+end group
+end group
+@enduml

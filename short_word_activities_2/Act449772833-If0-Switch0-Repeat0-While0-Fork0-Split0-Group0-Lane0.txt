@@ -1,0 +1,6 @@
+@startuml
+start
+:paintings regulation; <<continuous>>
+-> leadership plates;
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "won rankings" as 0
+participant "valuable clones" as 1
+participant "potions show" as 2
+autonumber 7 8
+create participant "consciousness produced" as 3
+2 -> 3 : consciousness produced
+ [-> 2: holocaust affects
+3 <-> 1++ : sneaked coconuts
+return thumbprint desist
+@enduml

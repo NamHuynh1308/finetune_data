@@ -1,0 +1,16 @@
+@startuml
+participant "yank memory" as 0
+participant "postal diddly" as 1
+participant "animation opera" as 2
+box "shouting somebody"
+participant "cornered bases" as 3
+end box
+== mopping renovate ==
+create participant "revealing equal" as 4
+2 -> 4 : revealing equal
+create participant "posies housewives" as 5
+0 -> 5 : posies housewives
+4 -> 1: propriety overqualified
+...apostrophe accomplices...
+2 -> 2: easily sideburns
+@enduml

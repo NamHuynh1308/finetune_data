@@ -1,0 +1,22 @@
+@startuml
+box "tad cemetery"
+participant "artistic playboy" as 0
+participant "segments impacts" as 1
+box "thoughtfully residences"
+participant "carpentry stat" as 2
+participant "prefers steer" as 3
+participant "occasion accommodations" as 4
+end box
+end box
+autonumber 7 10
+2 -// 2: debonair paradise
+3 <-] : workshop gushing
+ [-> 2: preppie billionaire
+autonumber stop
+ [<- 2: exporting cholera
+1 ->> 0: duress consultations
+2 ->o 2++ : neatly dough
+3 -\\ 4++ : fudged smashing
+return chlamydia hocking
+return employed adjourned
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+participant "telemetry flatterer" as 0
+participant "primary fanciful" as 1
+participant "wondering deathly" as 2
+participant "fails fallout" as 3
+participant "submarine perchance" as 4
+== inter stockbroker ==
+2 -->x 0: spooking accounting
+par flail interrogation
+3 -> 0++ : lifestyle heeled
+4 ->x 2: blowup exploitation
+return evaluating status
+else duckling avenged
+0 -> 0++ : constitutional gracefully
+...logan adjectives...
+4 -// 1++ : thrones camshaft
+0 -> 0++ : spirituality rings
+else poofy nautical
+4 -->x 3++ : vestibule destroyed
+else indulged infliction
+end
+return advocate enthused
+return resource rugged
+return jerky blindsided
+return enchantment material
+@enduml

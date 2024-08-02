@@ -1,0 +1,13 @@
+@startuml
+participant "pachyderm homeless" as 0
+participant "lopped caseload" as 1
+participant "peer cheerio" as 2
+== investors owner ==
+0 --> 1++ : remark soil
+1 -> 2: imperfection cello
+return departmental hay
+1 -> 2: conditioners advise
+alt deport endorsing
+0 ->] : resign canape
+end
+@enduml

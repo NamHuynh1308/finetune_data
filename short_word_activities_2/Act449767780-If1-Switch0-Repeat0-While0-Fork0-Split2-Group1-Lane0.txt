@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:conquer gear;
+split again
+-[hidden]->
+:gripe rebel; <<output>>
+split again
+-[hidden]->
+:imperial doughnut;
+split again
+-[hidden]->
+:clinches elf;
+end split
+group empress delicate
+:cemetery pele; <<task>>
+-> sunflowers eroding;
+split
+:mach wayward;
+split again
+if (alleys lynch?) then (pulses lukewarm)
+(unnerve fibber) elseif (wheel cole?) then (storm coincide)
+:beach anti;
+-> crystal you;
+(ugly crossroads) elseif (prancer reputation?) then (studly changing)
+:compatibility homicides;
+-> sane luminous;
+(tourists unsolved) elseif (destructs speculations?) then (confidant starlet)
+:furthermore bottled;
+endif
+split again
+:prosthetic olfactory;
+-> intravenous briar;
+split again
+:cry celebrate;
+-> louder beau;
+end split
+end group
+end
+@enduml

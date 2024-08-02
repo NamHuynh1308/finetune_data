@@ -1,0 +1,12 @@
+@startuml
+participant "talents placing" as 0
+== pacemaker path ==
+autonumber 1 1
+0 <-> 0: holdup mirror
+0 ->o 0: overstay fairway
+0 -> 0++ : flavored films
+autonumber stop
+ [-> 0: calling argue
+autonumber resume
+return demean rebelling
+@enduml

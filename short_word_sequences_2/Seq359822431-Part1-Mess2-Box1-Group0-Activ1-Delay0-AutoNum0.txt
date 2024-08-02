@@ -1,0 +1,9 @@
+@startuml
+box "joys dirt"
+participant "squeezed chemo" as 0
+end box
+== southbound flack ==
+0 <-] : hep postcard
+0 ->o 0++ : gulag regina
+return quiz ventricular
+@enduml

@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:astound act;
+split again
+-[hidden]->
+split
+:handguns associating;
+split again
+:felling sunless; <<task>>
+-> skill tamales;
+split again
+:described rosemary;
+while (airmen smirking?) is (scrambled lodgings)
+backward:li gruesome;
+:anoint humankind;
+endwhile (insurrection heroics)
+-[hidden]->
+detach
+end split
+split again
+-[hidden]->
+:racial wagon; <<continuous>>
+-> sill impulsive;
+split again
+-[hidden]->
+:tomorrow class;
+-> sarcastic irritable;
+end split
+:jam quickest;
+-> sixteenth museum;
+:excusing mischief; <<continuous>>
+-> limo tells;
+:artiste berry; <<load>>
+-> forfeit gloomy;
+end
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "sculptures attends" as 0
+participant "preys ski" as 1
+== casually converse ==
+1 -// 0: nod narcissistic
+0 -> 1: hopeful hotels
+0 ->o 1: transgressions prioritize
+@enduml

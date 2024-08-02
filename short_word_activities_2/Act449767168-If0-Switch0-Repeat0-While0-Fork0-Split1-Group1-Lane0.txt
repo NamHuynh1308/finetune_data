@@ -1,0 +1,14 @@
+@startuml
+start
+group soggy painters
+split
+:scribbling whim;
+split again
+:includes eyeful; <<load>>
+split again
+:bunny tablespoon; <<procedure>>
+-> sleuth speedo;
+end split
+stop
+end group
+@enduml

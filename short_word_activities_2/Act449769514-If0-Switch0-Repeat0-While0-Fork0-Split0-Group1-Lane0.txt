@@ -1,0 +1,8 @@
+@startuml
+group academics scholarships
+:outvoted withdraws; <<continuous>>
+:upping irrelevant;
+-> handy bicentennial;
+end group
+stop
+@enduml

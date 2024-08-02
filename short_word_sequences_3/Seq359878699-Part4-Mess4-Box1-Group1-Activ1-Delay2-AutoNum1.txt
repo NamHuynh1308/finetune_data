@@ -1,0 +1,20 @@
+@startuml
+box "make cavalry"
+participant "cornerstone sentry" as 0
+participant "humping robbers" as 1
+participant "saving familiars" as 2
+participant "patching cutlery" as 3
+end box
+autonumber 3 9
+critical raining raider
+0 <-> 3: flyboy infuriating
+autonumber stop
+ [<- 3: variable compact
+...salutations assassins...
+3 ->] : yum leaping
+autonumber resume
+...savour aha...
+2 -\\ 0++ : definition mamie
+end
+return eulogy challenges
+@enduml

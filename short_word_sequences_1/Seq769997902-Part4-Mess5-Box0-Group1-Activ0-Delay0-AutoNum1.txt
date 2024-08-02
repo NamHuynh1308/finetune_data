@@ -1,0 +1,17 @@
+@startuml
+participant "backpacks supplements" as 0
+participant "cartels pleaser" as 1
+participant "clunk exhumation" as 2
+participant "capacity angels" as 3
+autonumber 10 6
+ [-> 3: understand kidnapping
+1 -> 2: leukemia tactful
+alt albums iceman
+2 -\\ 3: bookshelves mistaken
+ [<- 0: classmates used
+autonumber stop
+2 <-> 1: confronts off
+autonumber resume
+else preventive leniency
+end
+@enduml

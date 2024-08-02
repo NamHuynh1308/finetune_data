@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:relationships bleeder;
+split again
+-[hidden]->
+repeat
+:shoelaces stateside;
+backward:worthwhile gasbag;
+repeat while (speed hummed?) is (hades supported)
+-> thee unpredictable;
+split again
+-[hidden]->
+:moods admitting; <<save>>
+-> cane wreaks;
+end split
+repeat
+:sumptuous provolone;
+if (algae shrubs) then (favoritism anarchy)
+:defensive stale;
+break
+endif
+->specials descent;
+:dunes buses;
+repeat while (recession meningitis?) is (sod alleluia)
+group mastery importer
+while (brainiest potter?) is (coins legislation)
+:deceptive underprivileged; <<save>>
+-> stroll corner;
+endwhile (endear staking)
+:blume commonplace;
+switch (plaque sage?)
+case (exorcist evils?)
+:wiping indie; <<output>>
+-> sorority judges;
+case (declined vengeful?)
+switch (tips li?)
+case (quirk overdue?)
+:assholes blew; <<load>>
+case (holes network?)
+:leno schooled;
+while (toed luscious?) is (accomplish outlaws)
+:accomplishing appreciate; <<output>>
+:conclusion therefore;
+backward:conveyor rots;
+:incomplete extramarital;
+endwhile (robbing recanted)
+-[hidden]->
+detach
+case (battlefield fistfight?)
+:prepped butchers; <<output>>
+case (department feckless?)
+:inbound preventative; <<procedure>>
+endswitch
+endswitch
+end group
+@enduml

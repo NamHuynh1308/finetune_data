@@ -1,0 +1,18 @@
+@startuml
+participant "turbo wiseass" as 0
+participant "promotes howdy" as 1
+participant "pesky western" as 2
+participant "enhanced faculties" as 3
+box "printed shielded"
+participant "fending strychnine" as 4
+end box
+== misspelled collections ==
+2 --//o 2: unseasonably compromised
+0 -> 3: aboriginal bandits
+...subtext drastic...
+3 ->> 3++ : sinned minority
+...furtive seriously...
+3 -> 4: approach goalie
+ [-> 0: persistence venetian
+return ethnic sub
+@enduml

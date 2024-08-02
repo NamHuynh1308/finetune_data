@@ -1,0 +1,12 @@
+@startuml
+participant "hillside dragonfly" as 0
+participant "spaniel flake" as 1
+critical finished names
+0 --//o 0: dumper cum
+0 -// 1: bookshelves reverse
+1 --//o 0: foreskin convert
+end
+0 -\\ 0: fatigues destruct
+0 <-> 0: pricks alternatives
+1 -> 1: grosses limitation
+@enduml

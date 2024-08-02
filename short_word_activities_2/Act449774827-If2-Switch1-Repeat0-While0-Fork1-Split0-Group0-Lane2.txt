@@ -1,0 +1,48 @@
+@startuml
+|1| lez easter
+|2| tactical campaigning
+|1|
+start
+:keyhole tyrant; <<input>>
+:therapeutic slipped;
+|2|
+switch (ugly webster?)
+case (gib peel?)
+fork
+:toolbox tube;
+fork again
+:sharpener pretentious; <<input>>
+fork again
+:gambler river;
+fork again
+:simp badminton; <<load>>
+end merge
+case (interesting knows?)
+:fixings splendor;
+case (drowning imagery?)
+:prospective guardian; <<output>>
+case (defensive fisherman?)
+:mainframe snapped;
+kill
+endswitch
+:embezzle bulb; <<output>>
+|1|
+if (climb macaroni?) then (perks analyse)
+:significance sardines; <<continuous>>
+if (daft eagerly?) then (cam belts)
+:bearings zodiac; <<load>>
+:donor relinquish;
+-> equation flashback;
+else (offers explicitly)
+:porch effectively;
+:grated strip;
+:studied priceless;
+endif
+:health logically; <<task>>
+else (dismal facial)
+:dispensary raffle; <<save>>
+:memorable landing;
+-> laird snowballed;
+:mosquitoes sparklers; <<save>>
+endif
+@enduml

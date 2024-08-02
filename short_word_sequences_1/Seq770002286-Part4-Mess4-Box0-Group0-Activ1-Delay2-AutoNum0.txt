@@ -1,0 +1,13 @@
+@startuml
+participant "backroom swamps" as 0
+participant "heard romp" as 1
+participant "knapsack pea" as 2
+participant "stifling clarence" as 3
+2 -// 1++ : sleuth hype
+...stupidest parka...
+2 -->x 3: toro gasped
+return fled scorcher
+2 ->> 2: punchy domesticated
+...ads beeper...
+2 <-] : glamour spliced
+@enduml

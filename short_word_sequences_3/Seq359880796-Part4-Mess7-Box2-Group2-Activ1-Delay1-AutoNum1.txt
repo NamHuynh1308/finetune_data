@@ -1,0 +1,27 @@
+@startuml
+box "classmate braces"
+participant "hollers deli" as 0
+box "fusilli sot"
+participant "debate frantically" as 1
+participant "jersey sixes" as 2
+end box
+participant "squalor ails" as 3
+end box
+== clunkers chastity ==
+autonumber 0 9
+1 ->o 1: milkman corrections
+2 ->> 3: majoring platelets
+autonumber stop
+2 -> 2!! : blooded erratically
+alt misreading miniscule
+0 -> 2++ : comforting parasites
+autonumber resume
+0 <-> 3: ritz drugged
+3 --> 0: doorknobs displeased
+alt drinker comparative
+...waterloo yippie...
+3 -> 3: ante converge
+end
+end
+return misspelled slough
+@enduml

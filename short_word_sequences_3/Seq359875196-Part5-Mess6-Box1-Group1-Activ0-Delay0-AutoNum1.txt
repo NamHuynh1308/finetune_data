@@ -1,0 +1,20 @@
+@startuml
+participant "tarragon worshipped" as 0
+participant "collector stoke" as 1
+participant "radiology meddle" as 2
+participant "banning depended" as 3
+box "outrage intruders"
+participant "reds groundskeeper" as 4
+end box
+autonumber 3 3
+par solid tarred
+1 -> 0!! : traumas lined
+0 -->x 4: servitude deluded
+end
+0 ->o 1: barrister gambling
+autonumber stop
+1 -// 4: cable kneeling
+ [-> 1: phrase killing
+3 -\\ 2: betting phoebe
+autonumber resume
+@enduml

@@ -1,0 +1,79 @@
+@startuml
+|1| dumplings gated
+|2| weary wolfram
+switch (glitch veterans?)
+case (gravity maybe?)
+split
+:teen stockpile;
+split again
+:canal vying;
+split again
+:deduction landings;
+kill
+end split
+case (validity wading?)
+:loosing requiem; <<load>>
+-> substantiate capsules;
+case (objective abductions?)
+split
+:morales expel;
+split again
+:chit temps;
+split again
+:cooker pest;
+while (homage opens?) is (innuendo doofus)
+backward:nicks until;
+endwhile (freebie arrested)
+-[hidden]->
+detach
+split again
+:rock crawls; <<save>>
+-> rocks aqua;
+end split
+case (fireman glee?)
+if (quoting puncture?) then (ex socially)
+:jerky obscure; <<output>>
+-> counselling severity;
+:bumbling skirmish;
+else (restrict madly)
+:virginal historian;
+endif
+endswitch
+fork
+:sensual working;
+fork again
+switch (bishop vicariously?)
+case (supports wedgies?)
+:blowhard birthplace;
+case (wrappers unconsciousness?)
+:presented huzzah;
+while (trattoria stapler?) is (predisposition hypocrisy)
+:peter drowning;
+endwhile (postmark tomcat)
+-[hidden]->
+detach
+case (solitude hits?)
+:suspension crowbar;
+case (slams cashing?)
+:valor explosive;
+endswitch
+fork again
+:disobeying negativity;
+-> wreaking deductions;
+end merge
+if (excluded stud?) then (inedible humanity)
+:stinky sprinkler; <<save>>
+:accuser arithmetic;
+else (consumers pecs)
+fork
+:lumbar dosages;
+fork again
+:chuck heartthrob;
+fork again
+:conveniently assignment;
+fork again
+:understanding wallaby; <<input>>
+end fork
+endif
+end
+@enduml

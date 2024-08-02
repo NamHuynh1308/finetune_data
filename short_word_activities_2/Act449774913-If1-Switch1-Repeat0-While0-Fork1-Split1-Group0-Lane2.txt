@@ -1,0 +1,44 @@
+@startuml
+|1| eternally playing
+|2| shafted themes
+|1|
+start
+|2|
+if (fuhrer texts?) then (husky manifests)
+:unofficial lodgings;
+:charter waterloo;
+split
+:dimmer reconsidered;
+split again
+:parade undies;
+split again
+:propping flannel;
+split again
+:outward arsonist;
+end split
+else (admonish motors)
+:wizard rotated; <<task>>
+-> herring indentured;
+:anesthesiologist midgets; <<input>>
+:yearns spinach; <<procedure>>
+kill
+endif
+:appliances revealing; <<continuous>>
+|1|
+:scissor bunnies; <<load>>
+|2|
+switch (necromancer loved?)
+case (catalog yawn?)
+:rationalize disclosed;
+case (scheduling overwrought?)
+:descends lyrics; <<continuous>>
+endswitch
+fork
+:panty sage;
+fork again
+:untouched denouncing;
+-> retract cams;
+fork again
+:trickier masseur; <<continuous>>
+end merge
+@enduml

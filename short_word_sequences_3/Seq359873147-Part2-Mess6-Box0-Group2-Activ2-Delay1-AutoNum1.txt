@@ -1,0 +1,24 @@
+@startuml
+participant "patently henchmen" as 0
+participant "colin outwitted" as 1
+autonumber 6 2
+0 ->> 1++ : scored incomplete
+autonumber stop
+par enter rosebuds
+0 ->] : chambers poked
+autonumber resume
+...fur breathes...
+0 -// 0: bay volume
+autonumber stop
+else furlong swimmer
+opt embarrassment brooms
+1 --> 0: book stare
+autonumber resume
+0 -->x 0: manhandle distorted
+autonumber stop
+1 ->x 1++ : cordless horsepower
+end
+end
+return pools helmet
+return overcame harmless
+@enduml

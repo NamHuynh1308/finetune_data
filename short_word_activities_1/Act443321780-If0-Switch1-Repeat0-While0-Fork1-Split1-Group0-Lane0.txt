@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:occurrences strep;
+split again
+-[hidden]->
+:anal bunking;
+split again
+-[hidden]->
+switch (entrusted brother?)
+case (arranged yuck?)
+:hydraulics sonar;
+case (burner reevaluate?)
+:liters clarifying;
+-> flamer frosting;
+case (fairness chaos?)
+:help vampire; <<input>>
+endswitch
+end split
+fork
+:reactors sneeze;
+fork again
+:calling virgins; <<save>>
+fork again
+:grenade retro; <<task>>
+-> high blunt;
+fork again
+:purblind brushed; <<input>>
+end merge
+stop
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+participant "decreased birdies" as 0
+box "composers spineless"
+participant "metropolitan twitchy" as 1
+participant "argumentative hybrids" as 2
+end box
+participant "barrels interesting" as 3
+box "buzzard galore"
+participant "evict oyster" as 4
+end box
+autonumber 1 6
+break shoddy ballgame
+ [-> 1: brush standby
+opt adhere expertise
+create participant "rejuvenate undermines" as 5
+0 -> 5 : rejuvenate undermines
+autonumber stop
+...musket whites...
+0 <-] : loot stately
+autonumber resume
+ [-> 5: saint anonymous
+2 ->x 4: gimbal recruits
+...purged hallowed...
+2 <-] : mantra extracurriculars
+0 -> 4: misfits gum
+1 -// 1: repayment jackers
+end
+end
+@enduml

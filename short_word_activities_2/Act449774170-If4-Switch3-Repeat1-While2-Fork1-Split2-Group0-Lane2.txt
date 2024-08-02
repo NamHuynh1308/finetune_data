@@ -1,0 +1,102 @@
+@startuml
+|1| overtime wuss
+|2| terminology jury
+|1|
+start
+|2|
+switch (understanding imam?)
+case (gutters gimmie?)
+:beauty jill;
+-> scorpions armour;
+case (downpour coconuts?)
+if (ilk jungles?) then (weep hat)
+:stride limes;
+:toots morgues;
+else (being picnic)
+:velocity restrictions;
+-> tether misnomer;
+kill
+endif
+case (fill tantric?)
+while (strategist flogged?) is (introduce notepad)
+:mason distance; <<load>>
+-> attest psychologist;
+:gammy eater;
+backward:nix assuming;
+endwhile (miraculous liberties)
+:bloke hemp;
+endswitch
+|1|
+switch (progeny paralysis?)
+case (dispensation wife?)
+:housed muggy; <<procedure>>
+case (innocently cobbler?)
+repeat
+backward:heckling brownout;
+backward:clippings horizons;
+repeat while (patois contributes?) is (patented restaurateur)
+-> builder objectionable;
+case (wisest thugs?)
+:pull everywhere; <<task>>
+endswitch
+|2|
+if (clients sharper?) then (love nutcracker)
+fork
+:pineapple window;
+fork again
+:skeletons tempest;
+fork again
+:broken groundhog; <<load>>
+end merge
+switch (explodes goggles?)
+case (rebel royalties?)
+:interviewing sal; <<task>>
+-> trade myself;
+case (foam relevance?)
+:enthused dowser;
+case (unreasonable forthwith?)
+:diddling blurted;
+endswitch
+else (imaginable gradually)
+:habit lung;
+kill
+endif
+split
+:forearm jiggling;
+split again
+if (yodel indistinguishable?) then (mini make)
+:bookstore weirdo; <<task>>
+-> contracted smog;
+while (mutually darks?) is (pensioners flimsy)
+:fortunately deadly;
+:doormat attending;
+endwhile (needles dismal)
+-[hidden]->
+detach
+else (clearance cooperative)
+:felony letterhead;
+endif
+split again
+:uncontrollable wahoo; <<output>>
+split again
+:demented pistons;
+end split
+split
+:hops dysfunctional;
+split again
+:quince attended; <<continuous>>
+split again
+if (louie yea?) then (queller instead)
+(honest lorry) elseif (excepted motherfucking?) then (licks gently)
+:cutler ability; <<continuous>>
+-> toffee ordinance;
+(hardly nutritionist) elseif (wreak apocalyptic?) then (essence retinal)
+:chapter matching; <<procedure>>
+(playboy tutoring) elseif (thing clowns?) then (fiancee cheapen)
+:hounded romanticize; <<save>>
+endif
+split again
+:releases visage; <<load>>
+end split
+end
+@enduml

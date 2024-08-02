@@ -1,0 +1,10 @@
+@startuml
+participant "feathers circuit" as 0
+box "freckling accusations"
+participant "rev endeavour" as 1
+end box
+== ditz motherhood ==
+create participant "spurs scone" as 2
+0 -> 2 : spurs scone
+2 -->x 1: eves oops
+@enduml

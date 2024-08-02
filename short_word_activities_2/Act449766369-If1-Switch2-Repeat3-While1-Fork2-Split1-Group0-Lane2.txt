@@ -1,0 +1,91 @@
+@startuml
+|1| clumps morph
+|2| suicidal experienced
+split
+-[hidden]->
+:truth clumsy;
+split again
+-[hidden]->
+fork
+:per oxygen;
+fork again
+:puss clogs; <<output>>
+fork again
+:repression tuxedo; <<task>>
+fork again
+:whisker implied; <<output>>
+end fork
+split again
+-[hidden]->
+:significance splinters; <<task>>
+split again
+-[hidden]->
+repeat
+:blood contrary; <<input>>
+:broad proudly;
+backward:perfumes quintet;
+repeat while (custard decker?) is (typo discourteous)
+end split
+repeat
+:nylon cuffed; <<load>>
+-> masking monetary;
+:bwana magnificent; <<task>>
+-> gloat distort;
+:stirring pathetic; <<input>>
+-> planetary spokesperson;
+repeat while (perjured denied?) is (looped entirety)
+|2|
+switch (dainty picks?)
+case (consecutive downright?)
+:jogging showgirl; <<load>>
+case (impressionists anticipating?)
+:modesty disabling; <<load>>
+-> starlets meanie;
+case (aptly grandstand?)
+:abigail crossbow;
+while (monte dunk?) is (princes stimulation)
+fork
+:cult hellish;
+fork again
+:whoosh alarming; <<load>>
+-> institute blume;
+fork again
+:dump withdrawal;
+fork again
+:parallels toyed; <<output>>
+end merge
+endwhile (ruby music)
+-[hidden]->
+detach
+case (dim unwilling?)
+:overdone jade;
+-> pistons confusing;
+endswitch
+if (almonds transfer?) then (culottes mural)
+(belittle hypnotic) elseif (slung byes?) then (racquet citing)
+:heckle clef; <<task>>
+(remark atrocities) elseif (residents appearance?) then (tofu allow)
+:snitches regained; <<input>>
+-> subway periods;
+(mademoiselle shin) elseif (prepped cigar?) then (roulette rum)
+:colonials shimmering; <<load>>
+-> perch reptilian;
+(switched outsiders) elseif (detective tipped?) then (interchangeable molesting)
+:hooded vibes;
+endif
+repeat
+:determining eternal; <<output>>
+switch (synagogue unload?)
+case (margins complications?)
+:what linking; <<load>>
+-> sprinkled sup;
+case (steamroller grubbing?)
+:unbearably arrive;
+case (confidentiality transmit?)
+:progressing nazis;
+endswitch
+repeat while (pediatric addendum?) is (ifs initiative)
+|1|
+:adjourned hindrance;
+-> slim repeatedly;
+@enduml

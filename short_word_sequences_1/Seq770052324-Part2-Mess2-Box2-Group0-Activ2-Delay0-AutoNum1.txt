@@ -1,0 +1,14 @@
+@startuml
+box "snags philosophies"
+participant "moms elliptical" as 0
+box "physiologically inspecting"
+participant "smokey pooh" as 1
+end box
+end box
+== noel tolerant ==
+autonumber 1 9
+0 ->> 0++ : roller pyre
+1 -> 0++ : hermaphrodite relax
+return heirloom nausea
+return elks poems
+@enduml

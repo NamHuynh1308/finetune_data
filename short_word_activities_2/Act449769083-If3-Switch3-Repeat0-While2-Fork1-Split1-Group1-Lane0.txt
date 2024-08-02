@@ -1,0 +1,82 @@
+@startuml
+switch (anomaly frankfurter?)
+case (suspect freelancer?)
+fork
+:strife practitioner;
+fork again
+:disk grasped; <<load>>
+fork again
+:squeegee massages; <<output>>
+end merge
+case (sapphire technological?)
+:exonerated agreed; <<task>>
+-> blankets lacerations;
+case (tights oatmeal?)
+if (til cognizant?) then (rips melted)
+:chain hymn; <<procedure>>
+-> defacing nearby;
+:cuticles mud; <<input>>
+:statues roller;
+while (residency dripping?) is (barricade geeks)
+:speculating circling;
+:walled signaling; <<procedure>>
+backward:decay magistrate;
+:safe novel;
+-> snatcher fritter;
+endwhile (golf predisposition)
+-[hidden]->
+detach
+else (brigadier spun)
+:delta droll; <<continuous>>
+:pediatric hilt;
+:protestants outlander;
+endif
+endswitch
+group guarding hazelnut
+split
+:pincushion deliberations;
+split again
+if (feminine battery?) then (memorize hounds)
+:smorgasbord proportioned; <<load>>
+:depressors fits;
+else (weenies featuring)
+:robbins continuation;
+:homeroom pizza; <<save>>
+-> sneaked baddest;
+:locator handy;
+while (phobias sheets?) is (reinvent baffles)
+:littering considerable; <<output>>
+:runner spokesman;
+:better decoded;
+backward:beggar benefactor;
+endwhile (redone modeling)
+-[hidden]->
+detach
+endif
+split again
+:nighttime spectacular; <<output>>
+-> repository monsoon;
+end split
+if (begat screwup?) then (for olden)
+:proclaimed bustle; <<load>>
+-> carwash forgettable;
+:sobbing overhearing;
+-> blast intruder;
+switch (brunette deflection?)
+case (harsh suckers?)
+:mannequins et;
+case (liberties sterner?)
+:groveling unfortunately;
+endswitch
+else (exceeded mention)
+switch (touchy innocently?)
+case (joints darkness?)
+:equally okayed;
+case (dandruff swordfish?)
+:swan thatcher;
+kill
+endswitch
+endif
+stop
+end group
+@enduml

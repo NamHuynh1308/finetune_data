@@ -1,0 +1,16 @@
+@startuml
+participant "chiseling snipe" as 0
+participant "seventy naw" as 1
+box "contributions tailspin"
+participant "program levitate" as 2
+end box
+opt caterwauling sometimes
+0 -\\ 1: tribe sores
+ [-> 0: clunker bunny
+end
+0 ->> 0: swapping tragedies
+par noon undisputed
+ [<- 0: enough grudging
+1 <-] : lux scorcher
+end
+@enduml

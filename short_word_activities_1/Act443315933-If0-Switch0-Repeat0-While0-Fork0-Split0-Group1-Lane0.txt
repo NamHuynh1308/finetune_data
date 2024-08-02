@@ -1,0 +1,7 @@
+@startuml
+group nerds passionately
+:move ops; <<procedure>>
+-> pestering renovate;
+stop
+end group
+@enduml

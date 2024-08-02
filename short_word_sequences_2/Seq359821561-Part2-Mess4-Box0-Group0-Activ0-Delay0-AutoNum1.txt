@@ -1,0 +1,10 @@
+@startuml
+participant "food poring" as 0
+participant "tissue punching" as 1
+autonumber 6 3
+0 <-] : jag commenting
+0 --> 1: authoritative anemic
+1 <-] : nepotism alternating
+0 ->] : clogging health
+autonumber stop
+@enduml

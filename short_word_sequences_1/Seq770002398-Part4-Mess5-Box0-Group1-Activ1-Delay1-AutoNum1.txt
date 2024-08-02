@@ -1,0 +1,17 @@
+@startuml
+participant "newsletter franchise" as 0
+participant "lass everlasting" as 1
+participant "winking sighs" as 2
+participant "cardiology mathematician" as 3
+autonumber 3 6
+ [-> 2: whew impassioned
+...punters fictional...
+1 <-> 2: beavers span
+1 -// 3: pecks lair
+par trademark dredged
+ [-> 2: assertive collage
+autonumber stop
+0 -// 1++ : countess glossy
+end
+return nighthawk confuse
+@enduml

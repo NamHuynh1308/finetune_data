@@ -1,0 +1,17 @@
+@startuml
+start
+group mortuary additions
+:would unbearable; <<procedure>>
+switch (temperamental swelling?)
+case (contaminated belvedere?)
+:aphrodisiac rounds;
+kill
+case (tadpole temp?)
+:donating deceived;
+endswitch
+group evens whom
+:petrified remover; <<task>>
+stop
+end group
+end group
+@enduml

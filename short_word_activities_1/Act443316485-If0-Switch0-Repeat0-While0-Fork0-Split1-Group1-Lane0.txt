@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:macadamia council;
+split again
+-[hidden]->
+:porno guarantees; <<procedure>>
+split again
+-[hidden]->
+:racer revulsion;
+-> unanimous toppings;
+end split
+group dinner challenges
+:bubbies mussels; <<load>>
+stop
+end group
+@enduml

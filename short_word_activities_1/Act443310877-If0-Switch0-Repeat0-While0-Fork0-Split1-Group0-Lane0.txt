@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:offer reinstatement;
+split again
+-[hidden]->
+:hostel pegged; <<procedure>>
+split again
+-[hidden]->
+:cold youths; <<save>>
+split again
+-[hidden]->
+:sharpener hubris;
+end split
+:strengthen indicative; <<procedure>>
+-> humidifier hump;
+@enduml

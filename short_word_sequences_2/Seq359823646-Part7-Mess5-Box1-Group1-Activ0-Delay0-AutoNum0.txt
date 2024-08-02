@@ -1,0 +1,20 @@
+@startuml
+participant "refusal varicose" as 0
+participant "yesterday chickens" as 1
+box "inseminated accusations"
+participant "sarcoidosis warranted" as 2
+participant "crusade blockhead" as 3
+participant "mascots eights" as 4
+end box
+opt someway handout
+create participant "choreography approving" as 5
+0 -> 5 : choreography approving
+1 -// 5: epileptic staple
+else psychologically rung
+3 <-] : sheltered ratings
+create participant "parallel righto" as 6
+5 -> 6 : parallel righto
+else trampling butch
+2 -> 1: supplier clarinet
+end
+@enduml

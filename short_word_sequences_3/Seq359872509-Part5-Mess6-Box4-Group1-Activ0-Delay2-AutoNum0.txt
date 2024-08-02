@@ -1,0 +1,25 @@
+@startuml
+box "downed classical"
+participant "barbers fluke" as 0
+box "bassinet lab"
+participant "bonnet caliber" as 1
+box "holes harlot"
+participant "pitcher infiltrated" as 2
+box "proteus mythic"
+participant "senate electrons" as 3
+participant "notes shortage" as 4
+end box
+end box
+end box
+end box
+3 ->] : everyone swiss
+1 --//o 4: acupuncture shriek
+...flight chalk...
+4 -->x 3: accessing ruth
+0 -> 4: leopard lancer
+...convenience princesses...
+1 -> 0: beloved salesperson
+par undisciplined tobacco
+2 -> 4!! : promiscuous denominational
+end
+@enduml

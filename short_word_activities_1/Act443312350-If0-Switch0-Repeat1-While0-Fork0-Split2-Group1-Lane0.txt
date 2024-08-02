@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:complicated geriatrics;
+split again
+-[hidden]->
+:combusted spotlight; <<input>>
+-> mild unlock;
+split again
+-[hidden]->
+:meddling deathbed; <<task>>
+-> healers roadway;
+end split
+:steaming historically; <<continuous>>
+group outgoing vandals
+split
+:miracles aptly;
+split again
+:tizzy accelerate; <<task>>
+split again
+:scaled arrangement;
+-> nanny herbs;
+split again
+repeat
+:unfortunate contortionist;
+repeat while (lifer acne?) is (calves prep)
+end split
+stop
+end group
+@enduml

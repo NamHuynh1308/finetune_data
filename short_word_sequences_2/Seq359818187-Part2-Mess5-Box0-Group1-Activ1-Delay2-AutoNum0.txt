@@ -1,0 +1,16 @@
+@startuml
+participant "cramp fattest" as 0
+participant "has heritage" as 1
+opt podiatrist chubby
+0 ->] : carp programs
+...fingertips puzzled...
+1 -> 1: farm fizz
+1 -> 1: pacing stamp
+else rambling centers
+0 ->x 0: quite bridge
+...respond skyscraper...
+1 -->x 1++ : worship tribe
+else edema washcloth
+end
+return inside milling
+@enduml

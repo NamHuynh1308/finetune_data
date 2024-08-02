@@ -1,0 +1,19 @@
+@startuml
+participant "proclivities signed" as 0
+participant "bleachers beta" as 1
+participant "ranges prominent" as 2
+participant "projected gathering" as 3
+autonumber 10 8
+2 -> 0: collecting naps
+create participant "readily tingly" as 4
+1 -> 4 : readily tingly
+1 -->x 2++ : distraction tap
+autonumber stop
+4 ->] : bristol fuhrer
+autonumber resume
+...shake persuasion...
+2 -> 1: caroling happier
+return masturbation deliberate
+autonumber stop
+3 ->x 2: shipping chatterbox
+@enduml

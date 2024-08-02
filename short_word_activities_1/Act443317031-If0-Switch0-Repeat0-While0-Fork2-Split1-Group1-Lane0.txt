@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:node hoopla;
+split again
+-[hidden]->
+fork
+:smears steer;
+fork again
+:candlelight makes;
+fork again
+:deals graphics; <<load>>
+fork again
+:eats flint; <<task>>
+end merge
+split again
+-[hidden]->
+:outside euphoric; <<input>>
+-> uninterrupted guiding;
+split again
+-[hidden]->
+:broiler rugby;
+end split
+group reminds tight
+:language plus; <<continuous>>
+:extras puzzling;
+fork
+:convention gardeners;
+fork again
+:hooker stripe; <<output>>
+fork again
+:mistresses wont; <<task>>
+end fork
+stop
+end group
+@enduml

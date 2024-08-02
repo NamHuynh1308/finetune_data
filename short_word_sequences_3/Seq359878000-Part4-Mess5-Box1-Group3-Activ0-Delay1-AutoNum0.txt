@@ -1,0 +1,22 @@
+@startuml
+participant "jamming notes" as 0
+box "manor specific"
+participant "coo target" as 1
+participant "predator pilot" as 2
+end box
+== ethanol eve ==
+opt vouched corps
+2 -> 2: amphetamines cannon
+alt sick pedaling
+...chat defects...
+1 -> 1: ineffective confusing
+1 ->x 1: rep endangerment
+else wise proved
+1 -// 2: decision affectionately
+par medicate interrupt
+create participant "cloud hah" as 3
+0 -> 3 : cloud hah
+end
+end
+end
+@enduml

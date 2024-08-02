@@ -1,0 +1,19 @@
+@startuml
+participant "reopen biased" as 0
+box "down moustache"
+participant "goo marksmanship" as 1
+participant "loos granted" as 2
+participant "harpy builder" as 3
+end box
+1 ->] : vehicle blazer
+opt sights subzero
+0 ->> 1++ : rusted uprising
+1 --> 1: conventional warped
+else ions gin
+2 --> 1++ : procession deathbed
+0 -> 2: drying marveling
+else sh peters
+end
+return favorites wage
+return opened hippopotamus
+@enduml

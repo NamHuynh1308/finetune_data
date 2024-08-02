@@ -1,0 +1,16 @@
+@startuml
+participant "tempered feelings" as 0
+participant "lurk crowning" as 1
+autonumber 8 4
+1 -// 0++ : haunted unclaimed
+0 --//o 0: foyer aimlessly
+1 -// 0: posed peasant
+opt helpful postponement
+0 <-> 1++ : vitally fleabag
+autonumber stop
+ [-> 0: front gorge
+0 -\\ 0: heal parasailing
+return obsessively lubrication
+end
+return personalities nines
+@enduml

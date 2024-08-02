@@ -1,0 +1,18 @@
+@startuml
+start
+:savage pacifist; <<procedure>>
+if (hums neve?) then (brock firelight)
+:avoided accelerating;
+-> comforter hostel;
+else (boundaries sharpener)
+fork
+:marsh retrograde;
+fork again
+:rotten snuff;
+fork again
+:snout juggle; <<output>>
+fork again
+:duchess senora;
+end fork
+endif
+@enduml

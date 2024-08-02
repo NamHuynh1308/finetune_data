@@ -1,0 +1,17 @@
+@startuml
+participant "warrant cubic" as 0
+box "archeological overachiever"
+participant "rules abbey" as 1
+end box
+== churches biz ==
+autonumber 6 0
+1 -\\ 0++ : endowment previously
+alt sooner abuse
+1 -->x 0: initial recklessness
+return planner uncomplicated
+autonumber stop
+...shapes encinas...
+0 -->x 0: hover incessantly
+autonumber resume
+end
+@enduml

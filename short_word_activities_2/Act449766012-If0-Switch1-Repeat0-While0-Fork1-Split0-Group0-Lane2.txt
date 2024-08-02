@@ -1,0 +1,27 @@
+@startuml
+|1| bongo stepmother
+|2| tent aim
+|1|
+start
+fork
+:stories epsilon;
+fork again
+switch (sighs mel?)
+case (overestimated successfully?)
+:treaty man; <<procedure>>
+-> trio grandeur;
+case (savoring experiences?)
+:sideburns flour;
+endswitch
+fork again
+:shaken balances;
+-> tanking summit;
+end fork
+|2|
+:spur quieter; <<procedure>>
+-> entourage ugliness;
+|1|
+:unsolved dismiss; <<load>>
+:distressed doughnut;
+stop
+@enduml

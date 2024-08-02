@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:nexus indignation;
+split again
+-[hidden]->
+:tyre medical; <<save>>
+split again
+-[hidden]->
+:replaced info; <<continuous>>
+end split
+repeat
+backward:signor sleepwalking;
+repeat while (slurping transports?) is (revolutionize foreclosed)
+-> sixes purest;
+:goatee decorator; <<save>>
+stop
+@enduml

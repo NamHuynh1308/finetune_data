@@ -1,0 +1,22 @@
+@startuml
+start
+group failings glide
+fork
+:doozy deadbeats;
+fork again
+:socially teller; <<continuous>>
+fork again
+:quirky castor;
+fork again
+:shrubs lin; <<continuous>>
+end merge
+fork
+:specializing igneous;
+fork again
+:dawning disco; <<input>>
+fork again
+:outgrew bay;
+end fork
+end group
+stop
+@enduml

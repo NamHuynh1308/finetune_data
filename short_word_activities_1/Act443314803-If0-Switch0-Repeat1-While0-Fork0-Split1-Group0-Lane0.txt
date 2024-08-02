@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:justification cohesion;
+split again
+-[hidden]->
+:evasions clink; <<task>>
+split again
+-[hidden]->
+:jobs pioneer; <<input>>
+split again
+-[hidden]->
+:explicitly silverware;
+end split
+:gratifying reed; <<save>>
+repeat
+backward:bellman testosterone;
+:bulldoze piece; <<save>>
+-> salesman screwball;
+repeat while (distort shad?) is (recovered homebody)
+:appears loons; <<task>>
+end
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+group carbuncle critters
+switch (evasions laughter?)
+case (dealer belated?)
+:injection nest;
+case (yeast vaccinated?)
+if (cushion collects?) then (observe cell)
+(primarily paris) elseif (gargling vaccine?) then (guineas childhood)
+:defeats olive; <<procedure>>
+(procession hunted) elseif (fives piggy?) then (accepted peeling)
+:vamp caseload; <<input>>
+endif
+case (uneventful eases?)
+:bails doing; <<input>>
+endswitch
+stop
+end group
+@enduml

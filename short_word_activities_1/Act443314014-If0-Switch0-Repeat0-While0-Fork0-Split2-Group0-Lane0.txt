@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:decorum sophomore;
+split again
+-[hidden]->
+:games celeste; <<task>>
+split again
+-[hidden]->
+split
+:spark beforehand;
+split again
+:manning than;
+split again
+:apart videotapes;
+end split
+split again
+-[hidden]->
+:denouncing colours; <<task>>
+end split
+:dealer goody; <<continuous>>
+-> practicing rehab;
+:seam definition; <<procedure>>
+end
+@enduml

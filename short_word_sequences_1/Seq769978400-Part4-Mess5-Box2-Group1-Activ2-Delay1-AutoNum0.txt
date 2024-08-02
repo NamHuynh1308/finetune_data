@@ -1,0 +1,20 @@
+@startuml
+box "bullet drank"
+participant "floors investigators" as 0
+box "toad hers"
+participant "terra outwitted" as 1
+participant "slimy joker" as 2
+end box
+participant "upstage biscuits" as 3
+end box
+alt thread toothed
+3 -> 0!! : shaver surrounding
+ [<- 0: awaken caged
+...domes garages...
+3 ->x 0++ : cumin colchicine
+3 ->o 1: extravaganza curve
+end
+0 -->x 1++ : admirers arguing
+return placid derision
+return cellulite spreads
+@enduml

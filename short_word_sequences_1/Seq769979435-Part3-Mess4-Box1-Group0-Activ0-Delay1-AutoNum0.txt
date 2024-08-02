@@ -1,0 +1,13 @@
+@startuml
+box "repressed separately"
+participant "nicknamed located" as 0
+participant "trees madmen" as 1
+end box
+== deets jackals ==
+1 ->> 0: chickenpox simmer
+0 ->] : dismissed ingrates
+create participant "piqued recap" as 2
+0 -> 2 : piqued recap
+...hooters lapdog...
+1 ->> 2: temperamental fitness
+@enduml

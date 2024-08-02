@@ -1,0 +1,75 @@
+@startuml
+split
+-[hidden]->
+:sharks passions;
+split again
+-[hidden]->
+if (factoid clammed?) then (deluxe trove)
+(hubby meaner) elseif (reasoning chickening?) then (posttraumatic painkiller)
+:jingles meadows;
+(burrows fiddler) elseif (pod employing?) then (jaunt dropout)
+:careers leeway;
+endif
+split again
+-[hidden]->
+switch (auk screamed?)
+case (improper specific?)
+:decided untouchable;
+case (announce activities?)
+:intermittent portfolio;
+-> nazis sinned;
+case (shoo tricycle?)
+:bribing flue; <<load>>
+case (reminder invested?)
+:underway chuck; <<input>>
+endswitch
+split again
+-[hidden]->
+:lot scum;
+-> dahl behaved;
+end split
+group saintly week
+if (chaplain waxes?) then (shifts swinging)
+(bogs triangle) elseif (illegible stewed?) then (mixed wish)
+if (mimes nitrous?) then (impressionists booties)
+(praises sniping) elseif (grope novels?) then (hangover roll)
+:distractions retake;
+(chompers sporting) elseif (disciplining goldfish?) then (overjoyed strapping)
+:appear stigmata;
+(equally kiosk) elseif (orb pilgrimage?) then (photographers survivor)
+:backfired reaper; <<task>>
+-> dismay sullen;
+endif
+(caste preserver) elseif (mostly loath?) then (execute ashes)
+if (intention medal?) then (dozed faun)
+:enjoyed alternating; <<load>>
+-> ubiquitous tune;
+else (impediments benching)
+:tickles lower; <<load>>
+-> nitwit breathed;
+:attracting circulation;
+:goldfish penises;
+-> tae hostel;
+while (procedures ruffle?) is (hallucinating soap)
+backward:hinting waterbed;
+endwhile (sim bishops)
+-[hidden]->
+detach
+endif
+(blinded pees) elseif (purchase sublevel?) then (biscuit apprentice)
+:ordinates tofu; <<procedure>>
+-> gator surprise;
+(groom upwards) elseif (lifeguard yogi?) then (owe entrapment)
+split
+:abrupt tournament;
+split again
+:chitchat fearless; <<save>>
+split again
+:largely taxis;
+end split
+endif
+:hero foibles; <<task>>
+end group
+:advisable incredible; <<output>>
+stop
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "guessed mixers" as 0
+participant "humbug davy" as 1
+== softy marginally ==
+autonumber 4 4
+1 <-> 0: cougars hovering
+1 -> 0!! : hurt jujitsu
+@enduml

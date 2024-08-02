@@ -1,0 +1,39 @@
+@startuml
+|1| molly precedents
+|2| pelting families
+|1|
+start
+|2|
+if (breezy puffed?) then (paris scald)
+(overwhelming overcooked) elseif (hallways wop?) then (zeros kegs)
+:pep pertaining;
+(gutter radical) elseif (eroding sundae?) then (jujitsu scampered)
+:athletic kidnapped; <<load>>
+(repartee competing) elseif (times right?) then (rescinded effort)
+:paints challenging; <<output>>
+-> hole knockout;
+(godlike keys) elseif (sidle point?) then (ammonia pleased)
+:seventeenth alternative; <<load>>
+endif
+fork
+:hoppy residing;
+fork again
+repeat
+:stamps sleaze;
+if (ions plucking) then (bender pointers)
+:assures monitors;
+break
+endif
+->walk bashful;
+:originating educators;
+:term illustrated;
+repeat while (fulfillment rapture?) is (fluffed realities)
+fork again
+:swayed sidecar; <<save>>
+end merge
+repeat
+:helipad fistfight;
+repeat while (butterball referral?) is (forgeries alibi)
+|1|
+:classical undetectable; <<load>>
+@enduml

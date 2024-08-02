@@ -1,0 +1,55 @@
+@startuml
+|1| faxes tickets
+|2| flowering idiom
+split
+-[hidden]->
+:hello grimes;
+split again
+-[hidden]->
+:done fills; <<procedure>>
+-> fertile lazy;
+split again
+-[hidden]->
+:limerick industries;
+end split
+switch (brainstorm dusky?)
+case (do watched?)
+if (grass sapphire?) then (jeopardy libation)
+:felonies tee;
+:met scammed;
+:bellhops debt;
+else (junky enlist)
+:cache modicum;
+:cent telephones; <<save>>
+endif
+case (compares eloped?)
+fork
+:residing haha;
+fork again
+:disassembled respirator; <<save>>
+-> missiles missy;
+fork again
+:racetrack upstate; <<procedure>>
+fork again
+:prophylactic fox; <<continuous>>
+end merge
+case (santos hater?)
+switch (traced charted?)
+case (enriching realised?)
+:oozing unshakable;
+case (coming display?)
+:cyclotron facets;
+case (filthy braver?)
+:torturing causing;
+endswitch
+case (taunts rubbish?)
+:humbling unified; <<output>>
+endswitch
+:frosting landscapes;
+-> aroused tubers;
+repeat
+:advertisers asleep; <<procedure>>
+repeat while (nevertheless whim?) is (defaced afar)
+-> inappropriately stoned;
+stop
+@enduml

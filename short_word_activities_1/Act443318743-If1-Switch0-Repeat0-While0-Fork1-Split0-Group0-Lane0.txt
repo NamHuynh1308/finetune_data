@@ -1,0 +1,21 @@
+@startuml
+if (talents shredded?) then (worships revolutions)
+(dong gases) elseif (applicants confides?) then (ordering coverup)
+:elm graveyards;
+(splendid reclaim) elseif (grind lively?) then (machete slaves)
+:horned mimicking; <<save>>
+-> sump yesterdays;
+endif
+:smarter geologists; <<task>>
+-> shylock vanishes;
+fork
+:became ordering;
+fork again
+:dandelions spaceship;
+fork again
+:plums accuse; <<save>>
+fork again
+:wiggly slanted; <<output>>
+end merge
+stop
+@enduml

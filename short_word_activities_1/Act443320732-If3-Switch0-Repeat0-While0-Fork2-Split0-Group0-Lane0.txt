@@ -1,0 +1,40 @@
+@startuml
+if (comedian inn?) then (dominion residing)
+(consecutive hassling) elseif (bulb releasing?) then (attempt shun)
+fork
+:hid detective;
+fork again
+:degenerate variant;
+-> reconciling ticket;
+fork again
+:preserve assigning; <<load>>
+end merge
+(brigadier interject) elseif (pores grading?) then (payday gallant)
+fork
+:jokes tease;
+fork again
+:provinces donated; <<task>>
+-> fizzle rejecting;
+fork again
+:tired spooking;
+fork again
+:fa adorable;
+end fork
+endif
+if (leech commonplace?) then (caverns adventurous)
+(nancy debates) elseif (troublemaker crucible?) then (measures swim)
+:spoiling rockers; <<input>>
+(pros hatchback) elseif (uppers busted?) then (inflammation eloped)
+if (judgement sleepyhead?) then (baboons clamoring)
+(transient locations) elseif (embezzlement requirements?) then (accurate automated)
+:archeology abstain; <<output>>
+(indulging enterprising) elseif (extracts honks?) then (memorizing exhaustion)
+:consultant measures; <<load>>
+(harmony driver) elseif (weathered attitudes?) then (switcheroo sorted)
+:praises recovery;
+(thrashing soda) elseif (pong seeds?) then (quart wrestling)
+:dancer informal;
+endif
+endif
+end
+@enduml

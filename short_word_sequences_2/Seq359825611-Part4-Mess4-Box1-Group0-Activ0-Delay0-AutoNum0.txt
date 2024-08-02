@@ -1,0 +1,13 @@
+@startuml
+participant "ambulance sore" as 0
+participant "mayday match" as 1
+box "river coughing"
+participant "speculations hydrated" as 2
+end box
+== encountered bijou ==
+create participant "landings checkered" as 3
+2 -> 3 : landings checkered
+2 -> 3!! : sniffed anew
+1 -> 2: relay foibles
+1 ->] : hmm relapse
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "pant dub" as 0
+participant "seedy rounds" as 1
+participant "trussed park" as 2
+== sights shortsighted ==
+0 -> 2: clues trusts
+1 ->o 2: humored clotting
+1 -> 0: deadline specimens
+loop evening wack
+ [<- 0: jailbird systolic
+end
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+start
+:bran cooped;
+group sitter colony
+if (discovers condition?) then (locate max)
+(perks breeding) elseif (yelling fink?) then (loco inventions)
+while (plate stupidest?) is (smothering squeaky)
+:hangnail spinner;
+:delly bossing;
+endwhile (shadow avenged)
+:stealing precautionary;
+(brewing retina) elseif (far irritation?) then (glaciers dis)
+:slighted outdoorsy;
+(sponge to) elseif (goa sprite?) then (semi glossy)
+:chilled gets;
+-> severance condoms;
+(veggies peddling) elseif (insistent chap?) then (mel pod)
+:valid figurehead;
+endif
+:flunked mobility; <<task>>
+-> obsess alarms;
+end group
+stop
+@enduml

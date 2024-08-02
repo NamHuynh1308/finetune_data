@@ -1,0 +1,6 @@
+@startuml
+group sirree conscience
+:flip jo; <<task>>
+stop
+end group
+@enduml

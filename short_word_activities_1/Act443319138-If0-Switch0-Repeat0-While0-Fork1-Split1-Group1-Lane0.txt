@@ -1,0 +1,22 @@
+@startuml
+start
+split
+:immobile flammable;
+split again
+fork
+:massage miracles;
+fork again
+:dreamed disgruntled; <<output>>
+fork again
+:reciting discovering;
+end fork
+split again
+:hum novocaine; <<input>>
+end split
+group plucky quoth
+:cod inviting; <<save>>
+:swede tablespoon; <<procedure>>
+-> founder terrorized;
+stop
+end group
+@enduml

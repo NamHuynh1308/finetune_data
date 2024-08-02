@@ -1,0 +1,7 @@
+@startuml
+start
+group pampering misheard
+:bragging reiterate; <<continuous>>
+stop
+end group
+@enduml

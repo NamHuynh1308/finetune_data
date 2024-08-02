@@ -1,0 +1,12 @@
+@startuml
+box "hedges redeem"
+participant "towers fiddling" as 0
+participant "breasts shushing" as 1
+participant "encephalitis sweatshop" as 2
+end box
+== beery offered ==
+0 -> 2!! : noun quite
+...daily poster...
+1 ->x 1: rambunctious frazzled
+ [<- 2: stuffs grapefruit
+@enduml

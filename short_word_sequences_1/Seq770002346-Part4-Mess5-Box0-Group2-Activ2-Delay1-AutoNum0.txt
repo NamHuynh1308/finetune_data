@@ -1,0 +1,20 @@
+@startuml
+participant "drove earmarks" as 0
+participant "woodwork smuggle" as 1
+participant "rickshaw birdie" as 2
+participant "swimmers busload" as 3
+== field hillcrest ==
+2 -// 1: buffs trussed
+0 --//o 2: bulb molds
+break combustible dorado
+...moil parakeet...
+1 ->o 1++ : haunt bribe
+2 ->o 0++ : shrugs photocopy
+else rely de
+critical wrote overturned
+2 -// 3: poisons recuperate
+end
+end
+return antiquing related
+return crushes mush
+@enduml

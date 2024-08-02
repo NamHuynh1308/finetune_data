@@ -1,0 +1,16 @@
+@startuml
+participant "sop consultation" as 0
+== transitional dandelion ==
+0 ->] : bobbin snooty
+opt lofty satisfaction
+0 -> 0: sabe are
+0 ->> 0++ : ping lynching
+else investigation flapped
+0 --//o 0: sweatpants prohibition
+return lost humiliations
+else fuse chefs
+alt tons allows
+0 <-> 0: familiars dictator
+end
+end
+@enduml

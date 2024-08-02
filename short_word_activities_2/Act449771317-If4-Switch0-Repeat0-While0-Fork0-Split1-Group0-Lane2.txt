@@ -1,0 +1,59 @@
+@startuml
+|1| grounding steps
+|2| blends tomcat
+split
+-[hidden]->
+:probe remembering;
+split again
+-[hidden]->
+:replacements oddly; <<procedure>>
+-> thawing faculties;
+split again
+-[hidden]->
+:gypsy tram; <<procedure>>
+split again
+-[hidden]->
+:bastards unusual;
+-> try lightheaded;
+end split
+|2|
+if (diva pioneer?) then (veterinarian yogurt)
+(castrated conditions) elseif (smelled exhibits?) then (drop blume)
+:bleeder bunking; <<task>>
+-> grades unsaid;
+(unthinkable boredom) elseif (pencils arose?) then (disrespectful expecting)
+:branched arbitration; <<task>>
+-> karat educating;
+(precinct berating) elseif (sponge evaluation?) then (proceed tourist)
+if (optometrist nibbling?) then (superiors ventriloquist)
+(transcript innermost) elseif (attributes walker?) then (chandeliers ick)
+:brilliant seriously; <<load>>
+-> independent spareribs;
+(headsets mindful) elseif (class advertised?) then (strategies tally)
+:dos hangman; <<continuous>>
+-> convinced stripe;
+(flaring intersection) elseif (finch capital?) then (blubbering vixens)
+:undercurrent apply; <<continuous>>
+(lob dinged) elseif (tuition caller?) then (deposing tipping)
+:benign has;
+endif
+endif
+if (improving nada?) then (flowers hottest)
+:studs automaton; <<task>>
+if (oatmeal scallop?) then (devil electrolyte)
+(guerillas ordinate) elseif (manufacturer tone?) then (travesty canceled)
+:winging stapler; <<load>>
+-> enzyme burgers;
+(favorably imaginable) elseif (humbled destruct?) then (remedial fueled)
+:agendas luckiest;
+(chainsaw weaker) elseif (declaration dash?) then (burton passable)
+:ridiculed flap; <<input>>
+endif
+else (flies curtains)
+:imaginable summit; <<load>>
+kill
+endif
+|1|
+:turnaround fees;
+stop
+@enduml

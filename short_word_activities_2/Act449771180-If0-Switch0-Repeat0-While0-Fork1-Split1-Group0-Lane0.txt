@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:pointe grandpa;
+split again
+-[hidden]->
+:matzoh un;
+-> crazed sorority;
+split again
+-[hidden]->
+fork
+:line archaic;
+fork again
+:singing question;
+fork again
+:clarifying lovebirds;
+end merge
+split again
+-[hidden]->
+:bop enchantment; <<input>>
+end split
+:skipped calms; <<task>>
+:births peeks; <<continuous>>
+-> comedy expelling;
+:distribution diesel; <<continuous>>
+@enduml

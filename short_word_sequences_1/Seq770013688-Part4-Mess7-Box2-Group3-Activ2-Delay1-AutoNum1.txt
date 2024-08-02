@@ -1,0 +1,30 @@
+@startuml
+participant "airlines incentive" as 0
+box "glop sleepovers"
+participant "sanatorium lighting" as 1
+participant "persnickety posters" as 2
+end box
+box "workstation brass"
+participant "exposes shoe" as 3
+end box
+autonumber 8 9
+3 ->x 3: abysmal lout
+loop continually speculative
+1 ->o 3: nice apollo
+break oral accelerated
+2 -> 1!! : away attuned
+autonumber stop
+1 -> 0++ : develops overflow
+...unsuitable lodged...
+2 ->o 3++ : crashes pneumonia
+autonumber resume
+else sensibility microwave
+loop succumb ahoy
+0 -\\ 3: bribe toothache
+3 -> 2!! : beaming galore
+end
+end
+end
+return baggage billing
+return serves wind
+@enduml

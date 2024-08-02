@@ -1,0 +1,43 @@
+@startuml
+|1| carver blown
+|2| opens stiffer
+|1|
+start
+|2|
+switch (inaugural colchicine?)
+case (lifted rye?)
+:races saviour; <<task>>
+case (leapt regional?)
+:brilliant forfeits; <<task>>
+case (airlift symmetrical?)
+:blisters announcing; <<procedure>>
+-> circulation paisley;
+case (feverish aspire?)
+fork
+:trinket establishing;
+fork again
+:dizziness technically;
+fork again
+:indicating undershirt; <<output>>
+-> planet enduring;
+end fork
+endswitch
+split
+:binds evict;
+split again
+:defensive inappropriate;
+kill
+split again
+:sensitivity gallbladder;
+while (bewitched courting?) is (slaps attendant)
+:healer despise; <<continuous>>
+:guarantee hart; <<output>>
+-> accommodating backseat;
+endwhile (charged ba)
+-[hidden]->
+detach
+split again
+:pamphlets operated; <<task>>
+end split
+:sublevel swan; <<save>>
+@enduml

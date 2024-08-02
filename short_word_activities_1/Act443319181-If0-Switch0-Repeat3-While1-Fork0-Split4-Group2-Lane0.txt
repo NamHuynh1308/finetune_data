@@ -1,0 +1,67 @@
+@startuml
+split
+-[hidden]->
+:friendship daredevil;
+split again
+-[hidden]->
+split
+:sleepwalk loaning;
+split again
+:fatigue leaks;
+split again
+:arc pessimistic;
+end split
+split again
+-[hidden]->
+split
+:burns appendage;
+split again
+:slices slingshot; <<output>>
+split again
+:mausoleum complaint;
+split again
+:oxygen nails;
+-> dragon sleuth;
+end split
+end split
+group stars dinosaur
+repeat
+split
+:elf briefed;
+split again
+:discounting disheveled;
+split again
+:snatcher hubris;
+split again
+:signatures overcoming; <<continuous>>
+end split
+:silliest undermines; <<task>>
+backward:rooster tragedy;
+repeat while (resorted looting?) is (vindictiveness scribbled)
+group existed lopper
+:smelled earmarks;
+repeat
+:abstract pow; <<save>>
+-> twitch intravenously;
+while (strangulation sleepless?) is (exiting vent)
+:solely canisters;
+endwhile (prompt volts)
+:improvising hiding;
+repeat
+backward:anecdote dimensions;
+:assimilated alexander;
+if (sauna overcompensating) then (lunches polar)
+:ephemeral berserk;
+break
+endif
+->lifting spoiling;
+:baseman questions;
+:turbulent palp;
+repeat while (gladstone bitching?) is (opened gave)
+-> mysticism tigers;
+repeat while (escapes obliterated?) is (furniture imaginations)
+-> evade infertile;
+end group
+stop
+end group
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:judicial recommendations;
+split again
+-[hidden]->
+:bot bridal; <<output>>
+split again
+-[hidden]->
+:prohibition resetting;
+-> answers conning;
+end split
+:renovation dissing; <<output>>
+end
+@enduml

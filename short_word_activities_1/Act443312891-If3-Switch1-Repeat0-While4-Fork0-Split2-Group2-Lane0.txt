@@ -1,0 +1,75 @@
+@startuml
+start
+if (lentils customers?) then (flagging clapped)
+:beefed jack; <<output>>
+-> casing hatches;
+:catch exempt; <<task>>
+kill
+else (badness manhattan)
+if (annulment psychiatrists?) then (pistons lighthearted)
+:picking stitched;
+:prosthetic revoked; <<procedure>>
+:perished timing;
+while (quoted infamy?) is (songwriter comics)
+backward:barren nicknames;
+endwhile (fowler bore)
+-[hidden]->
+detach
+else (bistro senor)
+:ready wrung; <<procedure>>
+-> sh roll;
+endif
+split
+:flattery sac;
+split again
+:gamer cooperated;
+split again
+:twerp dissed; <<save>>
+end split
+while (workday eves?) is (knocked yapping)
+backward:turkey frozen;
+:taunt blimp; <<load>>
+while (indirectly kudos?) is (hearing minister)
+backward:awakened borrowed;
+endwhile (author zeal)
+:whoosh unwritten;
+:inspectors transport; <<save>>
+endwhile (altercation pastime)
+-[hidden]->
+detach
+endif
+group flapjacks stood
+split
+:retaliated extraterrestrial;
+split again
+:radiating showering; <<input>>
+split again
+:edges wicked; <<save>>
+end split
+group wrestle bloodshot
+switch (melon bash?)
+case (moreover caucus?)
+:rehearse ream; <<task>>
+case (there cannibal?)
+:marriages spacey; <<input>>
+case (foamy restructuring?)
+:sprightly gerbil;
+-> rely wanton;
+case (jig collects?)
+if (dye accountable?) then (rousing burial)
+(growers easygoing) elseif (bassett insights?) then (neglect delegates)
+:last chased;
+-> puppies imagines;
+(prepped rumbling) elseif (rib terminating?) then (suggest eloping)
+:bvcvhh;
+while (admonished lord?) is (indestructible squatter)
+backward:therapists tearful;
+endwhile (earn fallible)
+-[hidden]->
+detach
+endif
+endswitch
+stop
+end group
+end group
+@enduml

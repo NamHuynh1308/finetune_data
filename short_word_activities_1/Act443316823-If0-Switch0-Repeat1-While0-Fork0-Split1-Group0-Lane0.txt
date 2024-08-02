@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:poking egocentric;
+split again
+-[hidden]->
+:alerting jerked; <<procedure>>
+split again
+-[hidden]->
+:beer diploma; <<save>>
+end split
+repeat
+backward:sneezed tyranny;
+repeat while (blinked pimping?) is (holden distract)
+end
+@enduml

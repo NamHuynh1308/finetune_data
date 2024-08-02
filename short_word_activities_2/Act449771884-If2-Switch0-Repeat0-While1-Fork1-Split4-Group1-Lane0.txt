@@ -1,0 +1,71 @@
+@startuml
+split
+-[hidden]->
+:faggy dojo;
+split again
+-[hidden]->
+:portrayal retainer; <<procedure>>
+-> tax cyclone;
+split again
+-[hidden]->
+split
+:pants honours;
+split again
+:phew subway;
+-> carpool cuss;
+split again
+:buckaroo dunking;
+end split
+end split
+if (logic acquisition?) then (buffalo dangerously)
+(cleats pathos) elseif (destructive arrive?) then (stigmata attest)
+:hydrochloride rages; <<task>>
+-> afforded climate;
+(laptops columnist) elseif (boomer waving?) then (paroled plains)
+:enjoyed constantly; <<task>>
+-> reprobate vie;
+(deprive scuff) elseif (joins qualify?) then (tanking inspires)
+split
+:international mouthpiece;
+split again
+:juiced seduces; <<load>>
+split again
+:secret ushering; <<procedure>>
+end split
+endif
+split
+:crucible fumes;
+split again
+if (pulling coppers?) then (unconsciousness sirs)
+:linking clogging;
+:edgewise clinches;
+else (induction bauble)
+:pinks shelter; <<task>>
+-> drowning lowe;
+:summoning personals; <<input>>
+endif
+split again
+:apron fights; <<save>>
+split again
+:kayaking suing; <<save>>
+-> marginally ketch;
+end split
+group decisive utterly
+while (seltzer lovebirds?) is (wanting scoop)
+fork
+:daft memorizing;
+fork again
+:appealing zipped; <<output>>
+fork again
+:tardy nefarious;
+fork again
+:poorer pan; <<save>>
+-> victoria worrisome;
+end fork
+:pine snorkeling;
+:pumps broadcast; <<output>>
+endwhile (sophomore sweatpants)
+:gooney pivot;
+stop
+end group
+@enduml

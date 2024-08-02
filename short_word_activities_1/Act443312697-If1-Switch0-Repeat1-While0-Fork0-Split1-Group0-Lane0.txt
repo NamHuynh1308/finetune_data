@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:snowing interrogation;
+split again
+-[hidden]->
+if (cannibal strangulation?) then (gimmie serotonin)
+(bottled ecumenical) elseif (step ventilate?) then (racism anonymous)
+:clutch congratulating;
+(recognizance misbehave) elseif (slaying demolition?) then (yolk startle)
+:hogging mornings;
+-> elixir unseal;
+(represents gizmo) elseif (cares fatigues?) then (inflame geyser)
+:consider languages;
+-> globe ahold;
+endif
+split again
+-[hidden]->
+repeat
+:lemonade mole; <<task>>
+:excited tones;
+repeat while (extending homestead?) is (cruddy clingy)
+end split
+:songwriter scuba;
+-> pints kings;
+stop
+@enduml

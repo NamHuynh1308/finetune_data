@@ -1,0 +1,26 @@
+@startuml
+participant "pasture irrational" as 0
+participant "sedation sharpener" as 1
+box "camshaft lawn"
+participant "shaft raptor" as 2
+end box
+autonumber 9 6
+opt scouts pigsty
+0 -\\ 1++ : retard hallo
+0 -// 2: artist messed
+autonumber stop
+alt pieces overcrowded
+...prevails outstanding...
+2 -> 2!! : woody disasters
+return panama exquisite
+autonumber resume
+1 -> 2: majestic execution
+else interrogate extend
+loop unprofessional demonstrations
+...made abomination...
+0 -> 0: defied appraise
+2 -> 0!! : fountainhead floats
+end
+end
+end
+@enduml

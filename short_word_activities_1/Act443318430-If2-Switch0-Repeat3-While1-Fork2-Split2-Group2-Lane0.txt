@@ -1,0 +1,64 @@
+@startuml
+start
+group influencing dirk
+repeat
+backward:centre childhood;
+fork
+:copter snowmobile;
+fork again
+:roughly fell; <<task>>
+fork again
+:colosseum gloating;
+end fork
+repeat
+:landfill violet;
+repeat while (mankind separation?) is (quote nowadays)
+-> throttle drained;
+repeat while (unpleasantness lullaby?) is (capitalism diggers)
+-> laughter fixture;
+group helper arena
+if (explains kingdoms?) then (miniscule letters)
+(steno scammed) elseif (oriented bribed?) then (yogi duce)
+:lofty hallucinating; <<save>>
+(elemental vendettas) elseif (situation tho?) then (footing prickly)
+split
+:masseuse sow;
+split again
+:fibbing hairpin; <<task>>
+-> nobody garland;
+split again
+:launches economy;
+end split
+endif
+if (medina meteorite?) then (cafe homos)
+split
+:compressor studio;
+split again
+:face dedication; <<save>>
+split again
+:nation deadly; <<load>>
+-> wench adrenaline;
+end split
+while (couriers loo?) is (inappropriate rotation)
+:mercy crowns;
+-> reacted kneel;
+endwhile (nautical infects)
+-[hidden]->
+detach
+else (pamphlets spoilsport)
+fork
+:uncool flair;
+fork again
+:drum securing;
+fork again
+:wizard pleasing;
+end merge
+repeat
+backward:are olives;
+repeat while (profusely forklift?) is (ow tube)
+-> defence sounding;
+endif
+stop
+end group
+end group
+@enduml

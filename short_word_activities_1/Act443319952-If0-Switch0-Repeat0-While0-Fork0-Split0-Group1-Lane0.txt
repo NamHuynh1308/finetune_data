@@ -1,0 +1,10 @@
+@startuml
+start
+:layaway grapefruit;
+:troops sahib; <<output>>
+-> suffered override;
+group bundle policeman
+:exodus luau; <<load>>
+stop
+end group
+@enduml

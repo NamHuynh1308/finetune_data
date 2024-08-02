@@ -1,0 +1,21 @@
+@startuml
+participant "diverted john" as 0
+participant "lousy diaper" as 1
+participant "nodules pellets" as 2
+participant "pasted corral" as 3
+participant "contemplating muley" as 4
+== bowing gouged ==
+loop lift confrontations
+create participant "entry nosed" as 5
+3 -> 5 : entry nosed
+critical foregone tiger
+1 ->o 4: captives bene
+...shipwreck mythological...
+5 <-> 2: mold scrambling
+else reassure reaper
+1 -> 2++ : equitable paintings
+ [<- 1: executed pecker
+end
+end
+return follows importing
+@enduml

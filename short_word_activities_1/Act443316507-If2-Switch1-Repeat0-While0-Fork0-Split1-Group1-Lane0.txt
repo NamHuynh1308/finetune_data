@@ -1,0 +1,37 @@
+@startuml
+start
+split
+:respectively shelve;
+split again
+:confederates competing; <<task>>
+-> inadvertently euphemism;
+split again
+:idiosyncrasies cortex;
+split again
+if (coins twosome?) then (eliminated mend)
+:carol outsmarted;
+else (unto madly)
+:asthma quarterback; <<load>>
+-> sherry objectionable;
+:skate forethought; <<save>>
+:requisitions flashlight; <<load>>
+endif
+end split
+group horribly ceramic
+:recorders canton; <<load>>
+if (scattered rapture?) then (rituals blossomed)
+:buns republican; <<procedure>>
+else (ozone coordinates)
+:pecs trite; <<load>>
+switch (translating infectious?)
+case (industry ski?)
+:insane motorcade;
+case (expands ratio?)
+:muzzle whee;
+case (demonology declare?)
+:assignments unfolding;
+endswitch
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+start
+group routing creep
+:urns nebula;
+-> admonished awhile;
+stop
+end group
+@enduml

@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:subpoenas nepotism;
+split again
+-[hidden]->
+:anthrax consulted; <<output>>
+split again
+-[hidden]->
+:decoys piggyback;
+end split
+group pave bourne
+fork
+:tome blithering;
+fork again
+:harmed kneed;
+fork again
+:tampering delude; <<task>>
+fork again
+switch (actor formerly?)
+case (bagged earthy?)
+:detect solvent;
+case (curling bankrupt?)
+:drill unit; <<input>>
+-> sensing maroon;
+endswitch
+end fork
+:benevolence ages; <<save>>
+stop
+end group
+@enduml

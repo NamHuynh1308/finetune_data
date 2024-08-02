@@ -1,0 +1,12 @@
+@startuml
+participant "commodities eking" as 0
+autonumber 1 10
+ [<- 0: cupid stupidity
+autonumber stop
+0 -> 0: consequently endurance
+0 --> 0: compilation hippo
+ [<- 0: critics moose
+autonumber resume
+...accurate splits...
+ [<- 0: boots stead
+@enduml

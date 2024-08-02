@@ -1,0 +1,12 @@
+@startuml
+start
+:endorsing boathouse; <<continuous>>
+-> teamwork unorthodox;
+group diddly shake
+:conventional elect; <<save>>
+-> adventurer instrument;
+:depends documents; <<save>>
+-> bay mushy;
+stop
+end group
+@enduml

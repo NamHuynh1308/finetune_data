@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:wampum hurdles;
+split again
+-[hidden]->
+:beef sweatshirts; <<input>>
+split again
+-[hidden]->
+:customer murmur; <<input>>
+end split
+group bop minions
+if (razors evaluating?) then (elective unfreezing)
+split
+:reporters profitable;
+split again
+:supernatural minor;
+split again
+:tipper concise;
+end split
+:cased venerable; <<input>>
+:motions oaks; <<continuous>>
+kill
+else (frosting weighted)
+:waterproof abiding; <<task>>
+endif
+fork
+:copy testosterone;
+fork again
+fork
+:meatball photographers;
+fork again
+:underpaid grape; <<continuous>>
+fork again
+:weak adversely;
+fork again
+:slowing toga;
+end fork
+fork again
+:breath successfully;
+while (sailed theses?) is (invasive dispensed)
+:hoisting corroborate; <<output>>
+-> capabilities educational;
+endwhile (carpeting lice)
+-[hidden]->
+detach
+fork again
+:impenetrable mutated; <<input>>
+-> peeping delivers;
+end merge
+stop
+end group
+@enduml

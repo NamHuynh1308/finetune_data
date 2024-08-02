@@ -1,0 +1,9 @@
+@startuml
+participant "deceptively embankment" as 0
+box "wacko uninvolved"
+participant "lovesick amnesia" as 1
+end box
+1 --//o 0++ : grinds robbers
+1 <-> 1: defiant wilderness
+return unconsciousness moneys
+@enduml

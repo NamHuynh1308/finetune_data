@@ -1,0 +1,60 @@
+@startuml
+split
+-[hidden]->
+:decision fruitless;
+split again
+-[hidden]->
+:expedition tangling;
+-> perception butting;
+split again
+-[hidden]->
+if (fawning hiccups?) then (educate meal)
+(coz shoddy) elseif (opinionated lenses?) then (graded fibbing)
+:restraints wangler;
+(slithering casinos) elseif (chino afterwards?) then (lifted imminent)
+:salmonella relentless; <<output>>
+(mercury benes) elseif (primarily suckers?) then (oatmeal gale)
+:onejho;
+while (apartheid lob?) is (bamboozled ill)
+:rafting squad;
+endwhile (aftermath mirth)
+-[hidden]->
+detach
+(induce pimping) elseif (diversion prize?) then (picket reviewed)
+:collapses nurses; <<continuous>>
+endif
+end split
+fork
+:riddled sights;
+fork again
+while (commies deleted?) is (dictatorship player)
+backward:patronize fatigue;
+:divorcing cutting; <<task>>
+backward:flaring pup;
+:adage flavour;
+-> activating overtaken;
+endwhile (monkey robotic)
+:gaff dobbin;
+fork again
+fork
+:ceased passenger;
+fork again
+:comfy titanic;
+fork again
+:heighten propaganda; <<output>>
+-> eluded deigned;
+fork again
+:learning roost;
+end fork
+end merge
+repeat
+backward:wraith debrief;
+backward:copilot massa;
+:sciences insistence; <<output>>
+-> yell dolt;
+repeat while (fave surpassed?) is (rebels divided)
+group meager yelling
+:heartbeats machismo;
+stop
+end group
+@enduml

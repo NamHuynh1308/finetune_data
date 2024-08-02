@@ -1,0 +1,8 @@
+@startuml
+start
+:freshener telekinetic; <<load>>
+-> hare flimsy;
+:acupuncturist classes; <<output>>
+-> bowing sail;
+stop
+@enduml

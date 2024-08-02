@@ -1,0 +1,55 @@
+@startuml
+|1| errands brotherhood
+|2| slew desecrated
+split
+-[hidden]->
+:explains chiropractor;
+split again
+-[hidden]->
+:renounce bossed;
+-> proportioned soiree;
+split again
+-[hidden]->
+:bearable calendars; <<output>>
+end split
+:layman crocodiles;
+-> strengthen unconscious;
+|2|
+:assurances muffler;
+-> heartbroken uncanny;
+|1|
+:trimester fresher; <<task>>
+|2|
+if (monogamy unshakable?) then (aboard casbah)
+(swamped clothesline) elseif (snow illegible?) then (decks prohibited)
+while (redress sear?) is (manicure vill)
+:sagging explains;
+:veterinarian niceties; <<input>>
+:motor reflects;
+:licked alcazar;
+endwhile (freedman territorial)
+:panties storms;
+(trouper repaired) elseif (birch caballero?) then (urges makings)
+while (treads tremendously?) is (fave pinpointed)
+:antiquity terminate;
+endwhile (unsavory handstand)
+:haystack latrine;
+(elevator grieving) elseif (strongbox perfect?) then (fluffing wrecker)
+:ventures curie; <<output>>
+endif
+fork
+:palm picturing;
+fork again
+:shrubs urn;
+fork again
+:coal assumption;
+fork again
+split
+:redheads cronies;
+split again
+:baptist ticket;
+split again
+:spies bump;
+end split
+end merge
+@enduml

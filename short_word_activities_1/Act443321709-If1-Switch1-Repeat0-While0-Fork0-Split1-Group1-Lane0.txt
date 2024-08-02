@@ -1,0 +1,29 @@
+@startuml
+start
+group diva spencer
+if (listed mailman?) then (stowaway jigsaw)
+switch (dispute slap?)
+case (piranhas exhausting?)
+:hates intravenously; <<input>>
+-> triumph warms;
+case (supervise cat?)
+:races charade; <<continuous>>
+-> outlets delighted;
+endswitch
+:worldwide cooperative; <<output>>
+:convened plight; <<input>>
+-> sunsets routes;
+else (bathroom tourist)
+split
+:burritos teeming;
+split again
+:instant borderline; <<procedure>>
+split again
+:dialysis tiniest;
+split again
+:postponement shit; <<save>>
+end split
+endif
+stop
+end group
+@enduml

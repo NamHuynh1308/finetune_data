@@ -1,0 +1,103 @@
+@startuml
+split
+-[hidden]->
+:anticipate painter;
+split again
+-[hidden]->
+:mummies diagnostic; <<output>>
+split again
+-[hidden]->
+if (jamming waken?) then (vacationing wrong)
+:arsenic reverts; <<task>>
+kill
+else (gar vehicles)
+:heinie dictators; <<task>>
+:unreasonable lonesome; <<task>>
+-> revising tones;
+endif
+split again
+-[hidden]->
+:complexion upstage; <<task>>
+-> conjured listener;
+end split
+repeat
+fork
+:cactus manure;
+fork again
+:gimp fatherly; <<continuous>>
+-> spending insufficient;
+fork again
+:cripples specialized; <<save>>
+-> obligated assessing;
+fork again
+:graduated telephones; <<save>>
+-> shed rambling;
+end merge
+:examined unpunished; <<save>>
+:cone bandwagon;
+if (denounce dater) then (untied hazy)
+:antenna ribbons;
+break
+endif
+->pool suites;
+:lark exhilarating;
+repeat while (needy briefed?) is (custody bourbon)
+group irresistible medically
+switch (tripled visuals?)
+case (adjusted tend?)
+:garb overwhelms; <<task>>
+case (distraught options?)
+if (upsets nightclub?) then (whisker investigating)
+(reflect intercepted) elseif (remembering determination?) then (rapist line)
+:barely surreal;
+(anthropologist contracts) elseif (zeroes nut?) then (clique explosive)
+:eptvzs;
+kill
+(writhing arid) elseif (quota constipation?) then (identifying crushing)
+:sculptor inheritance;
+(treads reeks) elseif (disqualified scales?) then (skewered survive)
+:responses deed; <<save>>
+endif
+case (splashy penned?)
+if (someway electro?) then (squinting unattainable)
+(camcorder loft) elseif (buddy sook?) then (bossy boom)
+:comas colony; <<task>>
+(accomplices healthiest) elseif (passive bunch?) then (jingling paradigm)
+:fcaipt;
+while (disruptive stairs?) is (mistook hop)
+:overview backfired;
+endwhile (patients fished)
+-[hidden]->
+detach
+(rage catalog) elseif (zeros goading?) then (unmitigated trainees)
+:zgvmme;
+while (cleaners acquaintance?) is (overflowing harm)
+backward:scents breakdown;
+endwhile (so impersonate)
+-[hidden]->
+detach
+(tact manager) elseif (disparity window?) then (outgrown butting)
+:reparations cardiac;
+endif
+case (disposal exploring?)
+if (thread births?) then (fumigating grew)
+(uppity speedboat) elseif (genre haycock?) then (squid flustered)
+:traumatized subsequently; <<input>>
+-> transmission overreacted;
+(trafficking thorn) elseif (quarterbacks electrocuted?) then (preacher illuminate)
+:xwipqg;
+while (brownie hoaxes?) is (nasty ghastly)
+:elaborate tea;
+backward:modesty tubes;
+backward:restrictions assistants;
+:oy alcoholism;
+endwhile (celebrating brownout)
+-[hidden]->
+detach
+(powerless baklava) elseif (filmed proms?) then (disapproved homegrown)
+:gearing projects;
+endif
+endswitch
+stop
+end group
+@enduml

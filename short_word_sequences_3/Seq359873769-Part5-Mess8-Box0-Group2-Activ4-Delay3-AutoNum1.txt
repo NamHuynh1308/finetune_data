@@ -1,0 +1,35 @@
+@startuml
+participant "crimson sail" as 0
+participant "leadership dispensers" as 1
+participant "profile dobbin" as 2
+participant "beef organism" as 3
+== windbreaker pieced ==
+autonumber 2 0
+loop venom stewardesses
+3 -> 0++ : redneck jot
+autonumber stop
+1 <-> 2++ : culinary legitimacy
+autonumber resume
+else treating conquest
+1 ->o 2: underestimating blowed
+return holes decline
+autonumber stop
+opt ant demerits
+...sermons whip...
+2 <-> 1++ : anesthetics hula
+autonumber resume
+...homosexuality matrix...
+2 -> 0: chores expectation
+autonumber stop
+create participant "conquers gently" as 4
+1 -> 4 : conquers gently
+return mouse substantially
+...flowing groundhog...
+2 -> 1: tug accuser
+return inventive puzzling
+0 -> 1++ : babu nomination
+else vetoed bloke
+end
+end
+return auger faux
+@enduml

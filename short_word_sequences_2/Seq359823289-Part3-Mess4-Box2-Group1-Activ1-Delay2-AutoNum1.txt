@@ -1,0 +1,20 @@
+@startuml
+box "once trellis"
+participant "disperse yield" as 0
+participant "frills cobweb" as 1
+end box
+box "hooch snook"
+participant "miserably gram" as 2
+end box
+== indigo allegiances ==
+autonumber 0 4
+1 -> 1: tiring rising
+...cognizant rectory...
+0 ->> 1++ : interstellar shoelace
+...leaky bill...
+2 -> 0: freebie embedded
+loop shabbily thumbprint
+1 <-] : trove growers
+return beets touches
+end
+@enduml

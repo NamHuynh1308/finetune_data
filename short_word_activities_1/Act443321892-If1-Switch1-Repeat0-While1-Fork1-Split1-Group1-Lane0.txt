@@ -1,0 +1,54 @@
+@startuml
+start
+:dug distillery;
+-> scouting cower;
+switch (leotards comics?)
+case (repairs heroin?)
+:us construct;
+case (granted bedside?)
+:inception liars;
+-> recording defence;
+case (dissect coddle?)
+:criticize giggly;
+-> disgruntled tomfoolery;
+endswitch
+group confidante washy
+split
+:sausage confederate;
+split again
+if (distort chestnuts?) then (cotillion touches)
+:mosque ambiance; <<load>>
+:unexpressed capitalism; <<procedure>>
+-> airways electrolytes;
+:spence conning; <<procedure>>
+else (unearth chiseling)
+:tone homicidal; <<task>>
+:limelight discipline; <<procedure>>
+:nurse diaphragms; <<load>>
+endif
+split again
+fork
+:batteries arbor;
+fork again
+:stress unrest;
+while (trailing soy?) is (trifled bred)
+:sourpuss gadget;
+:radio soothe; <<task>>
+-> parading spiny;
+:bosomy sen; <<procedure>>
+endwhile (inception signifies)
+-[hidden]->
+detach
+fork again
+:legislation showy;
+fork again
+:gaggle nominate; <<procedure>>
+-> stunk pump;
+end fork
+split again
+:eliminate courses; <<input>>
+-> occasional capping;
+end split
+stop
+end group
+@enduml

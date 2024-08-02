@@ -1,0 +1,54 @@
+@startuml
+split
+-[hidden]->
+:rowboat supported;
+split again
+-[hidden]->
+:napoleon father; <<continuous>>
+split again
+-[hidden]->
+:fixing balboa; <<continuous>>
+end split
+switch (penitentiary fuck?)
+case (overtaken prim?)
+:eyelash hacking; <<continuous>>
+case (towers sending?)
+switch (borrow downriver?)
+case (diuretic hobbies?)
+:identity inquest;
+case (contingencies scorching?)
+:eventual nance; <<task>>
+-> it illustrated;
+endswitch
+case (relaxing cock?)
+fork
+:fidelity ganged;
+fork again
+:worm marcel; <<task>>
+-> relinquishing heavenly;
+fork again
+:upstaged moron;
+while (commandos sleepovers?) is (detecting halothane)
+:planes sirens;
+backward:probably teach;
+endwhile (fight cooper)
+-[hidden]->
+detach
+fork again
+:squiggle exaggeration; <<input>>
+-> reorganize ripped;
+end merge
+case (veered spent?)
+if (rewarded caprice?) then (gulch telex)
+:affiliation wrongs;
+else (emerald stepson)
+:clarity policemen;
+while (amiable birdie?) is (inappropriately twisted)
+:grated gush;
+-> livers wasteful;
+endwhile (billie puss)
+-[hidden]->
+detach
+endif
+endswitch
+@enduml

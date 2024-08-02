@@ -1,0 +1,8 @@
+@startuml
+start
+:noir mixing; <<load>>
+:ephemeral honestly; <<save>>
+:feed moss;
+-> narwhal storms;
+end
+@enduml

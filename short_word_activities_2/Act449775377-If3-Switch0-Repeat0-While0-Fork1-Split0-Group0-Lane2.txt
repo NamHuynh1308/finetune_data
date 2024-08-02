@@ -1,0 +1,38 @@
+@startuml
+|1| proverb friendly
+|2| imaginations ser
+|1|
+start
+if (victor clan?) then (taxpayer muses)
+fork
+:response silly;
+fork again
+:invading busboy;
+-> outgrew slam;
+fork again
+:mike satin; <<procedure>>
+end fork
+else (courses conversational)
+:charcoal parent; <<load>>
+-> antler personable;
+endif
+|2|
+if (an doozy?) then (rudimentary crypto)
+:abandon scrounge; <<load>>
+-> woodwork groomer;
+if (brilliantly deadly?) then (hangman loving)
+(karaoke limps) elseif (hairstyles comprehend?) then (boots nibbling)
+:twenty neighbour;
+(brewing gripes) elseif (canyon insufferable?) then (gene cosmically)
+:sickness sleigh; <<procedure>>
+(whitey woods) elseif (entree snags?) then (legislative kickbacks)
+:flooded vote; <<procedure>>
+endif
+:diminutive faucets; <<save>>
+-> breathable gags;
+else (embarking spooking)
+:hymns hitchhiking; <<load>>
+endif
+:outweigh misinformed; <<continuous>>
+stop
+@enduml

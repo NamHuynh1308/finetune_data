@@ -1,0 +1,15 @@
+@startuml
+participant "diuretics standardized" as 0
+box "drained tachycardia"
+participant "glues signatures" as 1
+end box
+critical roughriders timpani
+0 -> 0: sugarplum gendarme
+opt dangerously potted
+0 --//o 1: coupons helper
+create participant "seams detail" as 2
+0 -> 2 : seams detail
+end
+0 -> 2: grammar monitors
+end
+@enduml

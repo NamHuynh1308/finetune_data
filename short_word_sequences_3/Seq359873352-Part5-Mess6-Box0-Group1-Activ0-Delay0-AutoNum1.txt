@@ -1,0 +1,19 @@
+@startuml
+participant "aesthetics unhappy" as 0
+participant "lever founded" as 1
+participant "sac sues" as 2
+participant "impostor ills" as 3
+participant "snit witnesses" as 4
+autonumber 2 6
+3 -> 4!! : bedpan chosen
+1 -->x 2: roll improve
+0 -> 3!! : profit stunt
+autonumber stop
+par odd human
+ [-> 0: dwarf chose
+autonumber resume
+1 ->> 2: chiropractor soberly
+else eggshell blotchy
+3 --//o 1: dutch learning
+end
+@enduml

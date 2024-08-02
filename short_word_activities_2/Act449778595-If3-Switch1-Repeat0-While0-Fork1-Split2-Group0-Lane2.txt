@@ -1,0 +1,66 @@
+@startuml
+|1| portent mobility
+|2| mutilation minks
+split
+-[hidden]->
+:jumpsuit comfort;
+split again
+-[hidden]->
+:stilettos icehouse;
+split again
+-[hidden]->
+:brace dalton; <<load>>
+-> goals broiler;
+end split
+|2|
+if (potato slugged?) then (party righto)
+(coerced merrily) elseif (characters anchovies?) then (impact guessed)
+:escort amuses;
+(wider alarmed) elseif (recapture daisies?) then (helping designed)
+if (med released?) then (monitored liquidate)
+(sensed ladder) elseif (warlord gunner?) then (fathers competition)
+:critter course; <<task>>
+(inappropriately reviews) elseif (sesame obsess?) then (suburb funerals)
+:palpitations sonnets; <<input>>
+-> exciting atrophied;
+endif
+(synchronized tut) elseif (pops cheesy?) then (seducing clogs)
+split
+:sung differential;
+split again
+:relocation heigh; <<output>>
+split again
+:bedbug nearby;
+end split
+(lopsided pinched) elseif (stereotypes pitcher?) then (lucky dogwood)
+fork
+:postmark slither;
+fork again
+:jigsaw functions;
+fork again
+:cuppa argumentative;
+fork again
+:clumsily dolce;
+end fork
+endif
+:pecs fairness; <<input>>
+|1|
+if (jamboree ritz?) then (effect throbbing)
+:frostbite stomachs; <<save>>
+-> pinpoint closing;
+else (filled distancing)
+switch (uninsured succotash?)
+case (disgraced braid?)
+:eraser aging;
+case (busty inflicted?)
+:loft fill; <<input>>
+endswitch
+:minks full; <<load>>
+-> carbuncle towel;
+:begins boozing; <<output>>
+-> victoria budding;
+endif
+|2|
+:taxpayers jiffy;
+end
+@enduml

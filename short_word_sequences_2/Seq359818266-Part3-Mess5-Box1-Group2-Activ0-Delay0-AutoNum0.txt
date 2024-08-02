@@ -1,0 +1,18 @@
+@startuml
+participant "toting yippie" as 0
+participant "troubles pied" as 1
+box "neurologist slated"
+participant "acquisitions scrambled" as 2
+end box
+== buffy dissertation ==
+opt hike croft
+0 -> 0: shaker canceled
+1 ->o 1: delights genius
+else goner everybody
+2 -\\ 0: mobster hens
+end
+2 ->] : facilities campfire
+critical snow shay
+2 -> 0: smuggling welding
+end
+@enduml

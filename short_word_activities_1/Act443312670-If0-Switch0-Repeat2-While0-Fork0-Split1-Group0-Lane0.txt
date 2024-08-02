@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:dealership donations;
+split again
+-[hidden]->
+repeat
+:flirting aimlessly; <<procedure>>
+-> merits centennial;
+backward:benny screamed;
+:personality alert;
+repeat while (bands apparently?) is (breathtaking boys)
+-> suitcases map;
+split again
+-[hidden]->
+repeat
+:request sitcom;
+:remains middleman; <<output>>
+repeat while (postmortem disillusionment?) is (vary colleen)
+-> perspectives extraction;
+end split
+:insulation dodged; <<task>>
+-> indicted tormenting;
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "lathe delivered" as 0
+create participant "licenses lacey" as 1
+0 -> 1 : licenses lacey
+...choke arguing...
+0 <-] : tosh magnetism
+0 -> 1++ : aloe column
+...premarital continue...
+0 <-] : knucklehead matey
+return string perry
+@enduml

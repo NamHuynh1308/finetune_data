@@ -1,0 +1,56 @@
+@startuml
+|1| slimmer hobbies
+|2| smoke squaring
+|1|
+start
+switch (tosses coats?)
+case (pathology throws?)
+:distributing farewells; <<procedure>>
+case (stoney divide?)
+if (sadly ser?) then (assuming umpteenth)
+:sons designing;
+while (down freelancer?) is (llama bigger)
+:cooperative holders;
+endwhile (incommunicado splash)
+-[hidden]->
+detach
+else (self figment)
+:system houseguest;
+-> sideshow vengeance;
+:forgives simp; <<continuous>>
+-> crusader dye;
+kill
+endif
+endswitch
+|2|
+:tentative hypertension;
+-> rehabilitation roost;
+|1|
+split
+:molecules prevention;
+split again
+switch (humph statistical?)
+case (raised diagonal?)
+:bravado ligament;
+case (pewter agrees?)
+:dolt invigorating;
+case (pastime socially?)
+:invigorated poison; <<continuous>>
+case (motivational guardrail?)
+:neat visceral; <<save>>
+-> trespassing strut;
+endswitch
+split again
+:accidents manatees;
+-> once sized;
+split again
+if (preserver copper?) then (variables aesthetics)
+:photographers senile; <<task>>
+:longs beckons;
+else (wart ignored)
+:pensions hokey;
+:intercede mangled;
+endif
+end split
+end
+@enduml

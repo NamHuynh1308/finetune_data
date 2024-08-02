@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:massager dauphin;
+split again
+-[hidden]->
+:tracks strenuous;
+-> selfishly cater;
+split again
+-[hidden]->
+fork
+:eager moldy;
+fork again
+:ran grownups; <<procedure>>
+fork again
+:clears provisions;
+end fork
+end split
+:sockets awfully; <<procedure>>
+@enduml

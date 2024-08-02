@@ -1,0 +1,15 @@
+@startuml
+start
+:arrives hexes; <<input>>
+group belvedere cologne
+split
+:campuses eve;
+split again
+:distributed heaven;
+split again
+:mulch owl; <<output>>
+-> discounting napalm;
+end split
+stop
+end group
+@enduml

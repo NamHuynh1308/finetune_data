@@ -1,0 +1,14 @@
+@startuml
+start
+group loud anxiety
+if (regain caved?) then (gator podiatry)
+(beefed apprised) elseif (misconceptions nature?) then (gluing sharpshooters)
+:prouder converting;
+(tuned contributes) elseif (catering nick?) then (sham rockers)
+:collections brush; <<output>>
+(bracelets panties) elseif (floral streetlights?) then (marquee hm)
+:vanity janitorial; <<load>>
+endif
+stop
+end group
+@enduml

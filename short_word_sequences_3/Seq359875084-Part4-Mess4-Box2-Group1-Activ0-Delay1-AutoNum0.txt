@@ -1,0 +1,17 @@
+@startuml
+participant "telly sheltered" as 0
+box "proportions keycard"
+participant "ferment grove" as 1
+participant "portal pinch" as 2
+box "his explanatory"
+participant "pretends religion" as 3
+end box
+end box
+2 -> 2: filled lake
+alt colleen bathed
+...shunt whim...
+3 -> 3: fines ricks
+2 -> 3: displays offend
+end
+2 -->x 0: decoys log
+@enduml

@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:measures idiocy;
+split again
+-[hidden]->
+:squinting damsels;
+-> handkerchief platter;
+split again
+-[hidden]->
+switch (faked simony?)
+case (flush hopping?)
+:commits refinery;
+case (cokes overdosed?)
+:rabbit dynasty; <<save>>
+case (chandler pantry?)
+:insults turkey;
+case (shaving wipers?)
+:affected copperhead;
+endswitch
+end split
+switch (relinquishing imagination?)
+case (steel talented?)
+:prescribed wiretaps; <<output>>
+case (rethink vastly?)
+if (heated fishes?) then (finish demise)
+:canal pretenses;
+else (helix repaid)
+:stinky pairs;
+:magnet inherits; <<save>>
+-> practical brad;
+endif
+case (laboratories armory?)
+:stinging frigate; <<output>>
+case (pointing berserk?)
+:voluntary treacherous; <<continuous>>
+endswitch
+switch (misguided granger?)
+case (splicing overheated?)
+:diploma distasteful; <<procedure>>
+case (beakers premise?)
+:melding ping; <<continuous>>
+endswitch
+@enduml

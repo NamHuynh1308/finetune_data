@@ -1,0 +1,72 @@
+@startuml
+|1| refreshed barbecues
+|2| rodeo fax
+split
+-[hidden]->
+:mussels hers;
+split again
+-[hidden]->
+:prescriptions rathole; <<output>>
+-> scummy playhouse;
+split again
+-[hidden]->
+switch (burgess despicable?)
+case (understood unarmed?)
+:graduating gagging; <<load>>
+case (remitting distaste?)
+:consummated forgot; <<procedure>>
+case (eleven grapefruit?)
+:smarter robe; <<output>>
+endswitch
+split again
+-[hidden]->
+:hades ammunition; <<procedure>>
+end split
+while (herd malfunctioning?) is (likely tacos)
+while (endorphins technicians?) is (corps combine)
+:cloths tong;
+backward:coats mud;
+:killing slapping;
+:equation worship;
+endwhile (hormones introductory)
+:fistful cellar;
+split
+:disingenuous vet;
+split again
+:competence evocative; <<save>>
+split again
+:gel versus; <<load>>
+-> catholic occurrences;
+split again
+:retreat elections; <<continuous>>
+end split
+repeat
+backward:sapphire anti;
+:approached faked;
+repeat while (acquaintance tony?) is (hysterical german)
+-> meaning skateboard;
+if (complacent matey?) then (rents obsessions)
+:madre phobia; <<output>>
+-> acknowledged caved;
+else (draining send)
+:distinctive predicted;
+:feverish fathers;
+while (luscious retina?) is (delivering dud)
+:ignoring accessory; <<procedure>>
+:propped hummer;
+endwhile (discredit housekeeping)
+-[hidden]->
+detach
+endif
+endwhile (aftermath arc)
+:lima mulling;
+|2|
+:sketching freshest; <<output>>
+:accommodate censure; <<procedure>>
+-> stiffer compass;
+|1|
+:tolerated radical;
+-> mildew thinners;
+:upon inception; <<input>>
+end
+@enduml

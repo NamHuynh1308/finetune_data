@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:synthesis whittling;
+split again
+-[hidden]->
+repeat
+:peeved congregation;
+:reprogram purple;
+-> kismet vail;
+backward:reconnaissance fairgrounds;
+repeat while (quad duce?) is (fleeting clouded)
+split again
+-[hidden]->
+repeat
+:loving apricot; <<input>>
+:capitol miscommunication;
+backward:lineup ideal;
+repeat while (measly inmate?) is (lunch downloaded)
+-> embassies gratification;
+split again
+-[hidden]->
+if (attache shopkeeper?) then (mistletoe tow)
+:request eavesdropping;
+:jesuits mullet; <<input>>
+else (clasp banquet)
+:gopher antidote; <<load>>
+endif
+end split
+:deflate cordless;
+-> models wrinkly;
+group alan particles
+:disallowed groundbreaking; <<output>>
+-> excursions metaphors;
+stop
+end group
+@enduml

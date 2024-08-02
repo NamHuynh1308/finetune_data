@@ -1,0 +1,6 @@
+@startuml
+start
+:breathing preconceived; <<output>>
+-> cells salvaging;
+stop
+@enduml

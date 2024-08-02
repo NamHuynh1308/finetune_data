@@ -1,0 +1,6 @@
+@startuml
+participant "thankfully hardy" as 0
+0 ->x 0: headless kicked
+0 --> 0++ : lunged tickets
+return neighboring survive
+@enduml

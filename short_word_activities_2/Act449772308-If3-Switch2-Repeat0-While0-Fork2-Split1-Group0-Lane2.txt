@@ -1,0 +1,86 @@
+@startuml
+|1| trek sluggish
+|2| admitted tasty
+split
+-[hidden]->
+:savannah exposed;
+split again
+-[hidden]->
+switch (plains coals?)
+case (knockout christen?)
+:fades prestigious;
+case (jubilee bagpipes?)
+:needle rethought;
+-> massacred prices;
+case (vendetta wooden?)
+:neatness wallop;
+-> debris embezzled;
+endswitch
+split again
+-[hidden]->
+if (acres destroying?) then (school silky)
+:normalcy trapping;
+:straddle braggart; <<input>>
+:freshness condolences;
+kill
+else (riders amaretto)
+:scotch breakout;
+-> welcomed undertaken;
+endif
+end split
+|2|
+if (tinsel sucks?) then (revising sparkling)
+(drone outraged) elseif (lackluster bonfire?) then (tropical farted)
+:washout burn;
+(perfectionist resolution) elseif (whooping defensive?) then (avoidance conclusions)
+:practising wok;
+-> dissed surfer;
+(thump dumper) elseif (matzoh takeout?) then (prancing fogged)
+if (anemic unfair?) then (trolls sook)
+(predict hooking) elseif (flagship distinguish?) then (mature garland)
+:ketch smooching; <<load>>
+(lacked encephalitis) elseif (puppets meathead?) then (treason clunk)
+:member postal;
+(likewise strategize) elseif (stump bombing?) then (squire shackles)
+:glycerin smeared;
+(content ordering) elseif (attempts assessment?) then (doorbell contestant)
+:bullpen twas; <<task>>
+-> carlin relief;
+endif
+(devilishly timid) elseif (rubies strongly?) then (genetically contingency)
+fork
+:appointments whims;
+fork again
+:originally subterfuge; <<save>>
+fork again
+:ambushed give;
+-> yang accursed;
+fork again
+:sun polo;
+end fork
+endif
+fork
+:goers cruises;
+fork again
+:indeed sugars;
+-> porcelain besieged;
+fork again
+:sponsor doctor; <<load>>
+end fork
+|1|
+switch (bagels lakeshore?)
+case (manure goof?)
+:thirty disgust; <<input>>
+case (ostensibly projecting?)
+:wrote reopening;
+-> longer swiss;
+case (hoot supply?)
+:checkup sedan; <<output>>
+-> waiter unlikable;
+endswitch
+:clicked traveled; <<procedure>>
+|2|
+:rooms orbit;
+-> trespassers unqualified;
+stop
+@enduml

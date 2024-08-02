@@ -1,0 +1,14 @@
+@startuml
+participant "condos addiction" as 0
+participant "viola yells" as 1
+participant "commode economic" as 2
+autonumber 6 0
+0 ->> 0: groups tooth
+ [<- 2: swanky explanations
+ [-> 0: fuss boardinghouse
+1 --> 1: windward cocoon
+loop starters scrounge
+1 <-> 0++ : impacts executor
+end
+return pacific kissed
+@enduml

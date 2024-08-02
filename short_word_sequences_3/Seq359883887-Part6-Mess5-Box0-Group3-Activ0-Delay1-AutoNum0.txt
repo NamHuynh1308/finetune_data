@@ -1,0 +1,21 @@
+@startuml
+participant "freckle adjusting" as 0
+participant "mouthwash quaint" as 1
+participant "adjourn knockdown" as 2
+participant "proceeded month" as 3
+participant "despising bagpipes" as 4
+== versions pancreatic ==
+create participant "diplomas slippers" as 5
+0 -> 5 : diplomas slippers
+...splatter deploy...
+4 -> 1: peon playa
+critical agonizing speaker
+0 ->] : massa sensibility
+loop hyper headboard
+2 -> 5!! : arson groggy
+alt macaws niceties
+5 ->> 2: strain sought
+end
+end
+end
+@enduml

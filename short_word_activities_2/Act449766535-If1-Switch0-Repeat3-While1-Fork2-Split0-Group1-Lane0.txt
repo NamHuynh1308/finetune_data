@@ -1,0 +1,52 @@
+@startuml
+start
+group changing foxes
+if (hopes glitter?) then (ourselves definition)
+fork
+:forty noir;
+fork again
+:keeled preparations; <<task>>
+fork again
+:tellers suckered;
+end merge
+:jobless lander; <<save>>
+:midway steamed; <<input>>
+while (grasp quantum?) is (equipped deception)
+fork
+:windpipe dictatorships;
+fork again
+:nonstop subtext;
+fork again
+:followed snickering; <<input>>
+fork again
+:consume helped; <<procedure>>
+-> hills diner;
+end merge
+repeat
+:others vendettas;
+if (attention fanaticism) then (pricked sympathize)
+:dike regulars;
+break
+endif
+->statue adhere;
+:internment browbeat;
+:weekend denominators;
+backward:kneecap robber;
+repeat while (adjust begs?) is (reserve tabloids)
+-> yuk footsies;
+endwhile (surface repay)
+-[hidden]->
+detach
+else (topics stock)
+:rubbers deliveries; <<output>>
+repeat
+:forces infertile; <<output>>
+:directors babysitters;
+-> swing acquaint;
+repeat while (tights strawberry?) is (filing conceivably)
+endif
+repeat
+backward:recession insatiable;
+repeat while (misnomer prepared?) is (begun zed)
+end group
+@enduml

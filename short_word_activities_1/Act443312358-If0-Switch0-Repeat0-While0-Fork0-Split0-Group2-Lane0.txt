@@ -1,0 +1,11 @@
+@startuml
+:dials mulligan; <<continuous>>
+group craftsmen calamity
+:footprints bathed;
+group throwers celebrity
+:castles pis; <<save>>
+-> more meddled;
+stop
+end group
+end group
+@enduml

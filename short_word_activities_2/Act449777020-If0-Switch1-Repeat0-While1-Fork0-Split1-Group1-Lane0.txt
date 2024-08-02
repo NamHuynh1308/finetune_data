@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:buffy instructions;
+split again
+-[hidden]->
+while (kroner cornflakes?) is (humped net)
+:religious rebuild;
+-> domain interaction;
+backward:motorcycle allegiances;
+:decorum body;
+endwhile (thrives zeroed)
+:textbooks sorel;
+split again
+-[hidden]->
+:overanxious mobs; <<load>>
+end split
+group tanker customer
+switch (gnawing blinking?)
+case (marks paratroopers?)
+:meditation stitch; <<load>>
+-> adrenaline bonded;
+case (sculptures matured?)
+:bomb psychopath;
+case (countless hemline?)
+:homes tranquil; <<load>>
+-> crystal implemented;
+case (hysterics putty?)
+:purple carnivore; <<procedure>>
+endswitch
+stop
+end group
+@enduml

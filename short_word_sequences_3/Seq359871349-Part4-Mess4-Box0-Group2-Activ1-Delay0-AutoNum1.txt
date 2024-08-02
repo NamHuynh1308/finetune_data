@@ -1,0 +1,19 @@
+@startuml
+participant "vowels deejay" as 0
+participant "hocus snapped" as 1
+participant "resolute scripture" as 2
+autonumber 9 4
+create participant "sarge pub" as 3
+2 -> 3 : sarge pub
+autonumber stop
+0 <-> 2: implanted goiter
+autonumber resume
+loop scattering strict
+2 -> 1!! : divine wick
+autonumber stop
+loop vets copperhead
+1 ->x 0++ : deadliest attuned
+end
+end
+return resolution accidents
+@enduml

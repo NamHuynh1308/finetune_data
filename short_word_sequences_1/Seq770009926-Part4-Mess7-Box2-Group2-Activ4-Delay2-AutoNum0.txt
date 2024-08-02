@@ -1,0 +1,29 @@
+@startuml
+box "clocking storming"
+participant "haircut reiterate" as 0
+participant "birch decorum" as 1
+box "maudlin necklaces"
+participant "thistle sparkling" as 2
+participant "spray expendable" as 3
+end box
+end box
+== sleepwalk privacy ==
+1 --> 1: nonetheless cuts
+alt messes hold
+3 -->x 2++ : alliteration beam
+...solenoid snack...
+0 -// 2++ : caged millimeter
+else biking hostile
+2 -// 3++ : fence scuff
+...sinus crafts...
+3 <-] : flunkies dingo
+opt puffed delicacy
+0 <-> 3: pints ibuprofen
+return overkill expressed
+3 -// 2++ : catalyst mausoleum
+end
+end
+return lumberjack neglectful
+return footnote natives
+return immunity senators
+@enduml

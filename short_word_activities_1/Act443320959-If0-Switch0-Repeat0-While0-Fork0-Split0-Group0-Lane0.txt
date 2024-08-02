@@ -1,0 +1,7 @@
+@startuml
+start
+:fuzz statutes; <<procedure>>
+-> cleats sabotaging;
+:unlucky starve;
+end
+@enduml

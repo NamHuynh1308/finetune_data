@@ -1,0 +1,10 @@
+@startuml
+box "breathe obits"
+participant "booths capture" as 0
+end box
+== oncology occupancy ==
+0 -\\ 0: earthly volumes
+0 -// 0++ : savagely siege
+0 <-] : bringing workshop
+return colonies hock
+@enduml

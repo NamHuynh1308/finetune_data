@@ -1,0 +1,20 @@
+@startuml
+participant "walled scorpions" as 0
+participant "renovating preaching" as 1
+participant "arguments pigheaded" as 2
+participant "chaperoned maniacal" as 3
+2 -> 3: difficulties mythological
+3 --//o 1++ : intervened presents
+opt sugars rushed
+1 ->o 0: kidnappers often
+return listening shocked
+create participant "geometry dumber" as 4
+3 -> 4 : geometry dumber
+0 <-> 0: taco putty
+...parabolic sendoff...
+0 ->] : detente parting
+end
+break poisonous susceptible
+1 <-> 4: shenanigans bribing
+end
+@enduml

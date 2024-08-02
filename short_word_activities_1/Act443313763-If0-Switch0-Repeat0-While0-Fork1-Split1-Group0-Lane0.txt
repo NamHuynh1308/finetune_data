@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:chain interview;
+split again
+-[hidden]->
+:grin dolly;
+split again
+-[hidden]->
+fork
+:canvas babe;
+fork again
+:unwind nos;
+fork again
+:cessation dusk;
+fork again
+:cough enjoyable;
+end merge
+split again
+-[hidden]->
+:dis comfort; <<output>>
+-> malign sized;
+end split
+:staked goddess;
+@enduml

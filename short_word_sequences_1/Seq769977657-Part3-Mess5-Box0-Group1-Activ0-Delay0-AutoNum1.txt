@@ -1,0 +1,13 @@
+@startuml
+participant "placid sparkly" as 0
+participant "hypothetically hoboes" as 1
+participant "geologists fees" as 2
+autonumber 3 5
+1 -> 0: vivacious matzoh
+0 -> 2: excused drawing
+2 ->] : mongoloid black
+2 -> 1: negotiations powder
+alt mousse replicating
+ [<- 2: stocking helluva
+end
+@enduml

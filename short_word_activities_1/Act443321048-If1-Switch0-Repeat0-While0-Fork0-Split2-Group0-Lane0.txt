@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:salvaged flapjacks;
+split again
+-[hidden]->
+:unsatisfactory sponsoring; <<continuous>>
+split again
+-[hidden]->
+:indication dimensions; <<input>>
+end split
+split
+:cigar overreacted;
+split again
+:dutch sailor; <<input>>
+split again
+:hordes manhattan; <<task>>
+-> ser deserter;
+split again
+if (obligatory ventilation?) then (preacher detonates)
+(mines receptionist) elseif (hazelnut exhausts?) then (gynecologist sprung)
+:chiseling entrance;
+(fitch dolphin) elseif (blowed beloved?) then (carelessness admitted)
+:hummed tame;
+(clandestine influence) elseif (pinot entourage?) then (biggie demanding)
+:conspicuous earring;
+(trapper starting) elseif (excessively pesos?) then (sine antennae)
+:soulless exposure;
+endif
+end split
+:wearing hid; <<continuous>>
+end
+@enduml

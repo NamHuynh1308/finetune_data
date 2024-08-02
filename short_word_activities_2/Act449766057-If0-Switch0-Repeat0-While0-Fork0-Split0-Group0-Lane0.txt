@@ -1,0 +1,6 @@
+@startuml
+start
+:carrot trousers; <<save>>
+-> traded endive;
+stop
+@enduml

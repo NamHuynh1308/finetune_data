@@ -1,0 +1,16 @@
+@startuml
+participant "rebellion veterans" as 0
+box "herniated shuts"
+participant "boutiques cowed" as 1
+end box
+autonumber 4 2
+par angrier neat
+create participant "cabdriver possessing" as 2
+0 -> 2 : cabdriver possessing
+2 ->o 2: dwarf franks
+end
+loop specially cee
+1 -> 2++ : huffing means
+end
+return drivel dicey
+@enduml

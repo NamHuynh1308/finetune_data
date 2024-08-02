@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:hiked compulsively;
+split again
+-[hidden]->
+:sporting robot;
+split again
+-[hidden]->
+:grungy flown; <<continuous>>
+-> gravely bell;
+end split
+:guacamole gargoyle; <<continuous>>
+:philanthropist curfew;
+@enduml

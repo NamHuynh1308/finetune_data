@@ -1,0 +1,5 @@
+@startuml
+:petty passenger; <<task>>
+-> coax fall;
+end
+@enduml

@@ -1,0 +1,37 @@
+@startuml
+group discomfort spoonful
+if (stimulated dressings?) then (rosin performing)
+(newcomer tighter) elseif (ridiculous disorder?) then (discounts canisters)
+:wayside thirteen;
+-> ere modification;
+(catharsis annex) elseif (mattered taint?) then (bedrock expired)
+if (perpetrator caller?) then (preliminary granting)
+:surroundings device;
+else (wan comprehend)
+:smashing daydream;
+:sifting stilts; <<procedure>>
+-> parties sardines;
+endif
+endif
+fork
+:memento actually;
+fork again
+switch (wants culture?)
+case (smokes paperboy?)
+:three targets;
+case (expelling posies?)
+:reptiles solve; <<input>>
+-> brake employment;
+case (freeing cacciatore?)
+:truly empowerment;
+case (deity buys?)
+:relieving tonnage; <<procedure>>
+endswitch
+fork again
+:permit networking; <<continuous>>
+-> aid calorie;
+end fork
+end group
+:chases managerial; <<output>>
+end
+@enduml

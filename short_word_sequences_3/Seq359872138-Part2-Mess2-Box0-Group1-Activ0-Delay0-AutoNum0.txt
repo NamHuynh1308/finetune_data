@@ -1,0 +1,9 @@
+@startuml
+participant "pronounced renal" as 0
+participant "passengers botanical" as 1
+== warnings nominated ==
+alt unconscious administrators
+1 <-] : performer resumes
+0 ->> 1: boardinghouse ado
+end
+@enduml

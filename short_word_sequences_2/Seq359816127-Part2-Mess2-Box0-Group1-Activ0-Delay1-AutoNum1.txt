@@ -1,0 +1,12 @@
+@startuml
+participant "tracked crops" as 0
+== detonation positioning ==
+autonumber 6 8
+alt implications mint
+create participant "jesuits chez" as 1
+0 -> 1 : jesuits chez
+autonumber stop
+...bosses invaded...
+ [<- 0: yield hotcakes
+end
+@enduml

@@ -1,0 +1,71 @@
+@startuml
+split
+-[hidden]->
+:jest scenes;
+split again
+-[hidden]->
+:slick booties; <<input>>
+-> homer goobers;
+split again
+-[hidden]->
+split
+:pawn stampede;
+split again
+:debriefed current;
+-> clipboard memorized;
+split again
+:biking simplistic;
+end split
+split again
+-[hidden]->
+fork
+:adjusting ballgame;
+fork again
+:observed hummus;
+fork again
+:economically riddle;
+fork again
+:smeared referencing; <<output>>
+end merge
+end split
+if (doofus eliminates?) then (scoured mat)
+(tested gladiators) elseif (accomplishing tolls?) then (provision statutes)
+:crafted welch; <<load>>
+-> legislature artwork;
+(disinfectant hummus) elseif (suicides paltry?) then (irrigate junky)
+:cocky unhappiness; <<load>>
+(perimeters harmed) elseif (thumb outsmarted?) then (comers pokes)
+fork
+:apartment lesbians;
+fork again
+:metaphors unit; <<input>>
+-> maritime notices;
+fork again
+:unstuck sterner;
+fork again
+:sycophant clarifying;
+end merge
+(travelling traditionally) elseif (prejudice murderers?) then (permanently spotlight)
+:fined atrium; <<continuous>>
+-> lame understand;
+endif
+group abstain diversion
+switch (continue might?)
+case (passkey outstanding?)
+split
+:blob titan;
+split again
+:indecision flawlessly; <<input>>
+-> diseases claw;
+split again
+:raids designed;
+split again
+:immature grovel;
+kill
+end split
+case (melon skate?)
+:occupational job; <<output>>
+endswitch
+stop
+end group
+@enduml

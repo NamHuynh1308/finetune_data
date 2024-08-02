@@ -1,0 +1,19 @@
+@startuml
+box "jobs both"
+participant "cloth caymans" as 0
+participant "dusty pecans" as 1
+end box
+participant "trespassing bargained" as 2
+participant "screams panics" as 3
+participant "devoured scumbags" as 4
+3 -> 3: worshippers garment
+3 ->x 1: ambivalent mariachi
+3 -->x 3++ : assholes baffles
+4 ->o 3++ : antacid baton
+1 --//o 3++ : sales messages
+3 ->o 0: chemo traffic
+return forest gallant
+1 -> 0!! : store baker
+return eyes sunrise
+return flamer fudged
+@enduml

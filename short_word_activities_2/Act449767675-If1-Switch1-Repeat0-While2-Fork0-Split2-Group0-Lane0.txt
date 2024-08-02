@@ -1,0 +1,48 @@
+@startuml
+start
+:default disciplined;
+split
+:selling accountability;
+split again
+:constitutes polled; <<output>>
+split again
+switch (roofer demonstrates?)
+case (dismantle flamenco?)
+:containers sneakers;
+case (indifference dearest?)
+:imported rattled;
+case (flint costing?)
+:steep wolf; <<task>>
+-> withdrawing waiver;
+endswitch
+end split
+while (topping hurts?) is (boathouse hair)
+:cryptic removed; <<load>>
+-> stimuli seventies;
+:avengers commandant;
+split
+:salmonella headquarters;
+split again
+:greased extremely; <<output>>
+-> sideburns terms;
+split again
+:monkey gill;
+while (frown dicks?) is (keynote haughty)
+:testified amazing; <<task>>
+-> finalizing stupor;
+:overwhelming crimes; <<output>>
+endwhile (meager scouts)
+-[hidden]->
+detach
+end split
+if (classify avalanche?) then (gizmos consistently)
+:courage grandfathers;
+else (wan shimmer)
+:hemp irritable; <<continuous>>
+:hatched sacrificial;
+kill
+endif
+endwhile (bargaining skyscrapers)
+:rid boycott;
+stop
+@enduml

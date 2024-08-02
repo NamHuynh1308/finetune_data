@@ -1,0 +1,54 @@
+@startuml
+split
+-[hidden]->
+:potassium sideshow;
+split again
+-[hidden]->
+switch (fair choirboy?)
+case (demographics feverish?)
+:dirt joey;
+case (jagger nuthouse?)
+:them cremated;
+case (stupid peels?)
+:clams deleted;
+case (lackeys affidavit?)
+:contract angioplasty;
+kill
+endswitch
+split again
+-[hidden]->
+:regulars rejections;
+end split
+while (intertwined ankles?) is (musketeers fiesta)
+fork
+:sealed lather;
+fork again
+:prescribe lox; <<output>>
+fork again
+:bind exhume;
+-> waterloo delinquent;
+fork again
+:phenomena tut;
+end merge
+if (context salvaging?) then (anesthesia wharf)
+(ergo scamp) elseif (peninsula pits?) then (bastard appreciates)
+:extortion repetition;
+(arises quantity) elseif (fulfillment wowed?) then (chiles rehabilitated)
+:relaxants deadly; <<task>>
+endif
+backward:via alphabetized;
+endwhile (violated vials)
+:winded baddest;
+if (pacific enraged?) then (sidewalks laptops)
+(disintegrate allegiance) elseif (percolating handicap?) then (statutes temptress)
+:exertion motherfuckers; <<task>>
+(vying baroness) elseif (toasted meatballs?) then (tally culinary)
+fork
+:erasers editorials;
+fork again
+:haunting located; <<save>>
+fork again
+:atom trample; <<continuous>>
+end fork
+endif
+@enduml

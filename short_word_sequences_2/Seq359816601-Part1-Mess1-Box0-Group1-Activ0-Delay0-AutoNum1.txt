@@ -1,0 +1,8 @@
+@startuml
+participant "unclear commonwealth" as 0
+== prayers elective ==
+autonumber 4 8
+opt most emergency
+0 -> 0: enforce flames
+end
+@enduml

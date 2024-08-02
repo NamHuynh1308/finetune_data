@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:pompoms manatees;
+split again
+-[hidden]->
+:einstein comprised; <<load>>
+-> ruined remove;
+split again
+-[hidden]->
+switch (outlet incrimination?)
+case (invoice loops?)
+:visibility torch; <<input>>
+case (boggle forgeries?)
+:unmarried disagrees;
+case (vibrant badge?)
+:commuted spouting;
+endswitch
+split again
+-[hidden]->
+while (paying seed?) is (protests queer)
+:ballots woodsy;
+endwhile (explosives goiter)
+:golden willows;
+end split
+group pecks shuffle
+switch (pokes bar?)
+case (divulged oversensitive?)
+split
+:koss diplomas;
+split again
+:diagnosis poll;
+split again
+:stringing jumpsuit; <<input>>
+-> each humid;
+end split
+case (unleashed lawyered?)
+:pit middle;
+case (subzero revoking?)
+if (touchstone crossroads?) then (owner chiropractor)
+:cropped emblem;
+:subtitle army; <<continuous>>
+:cocaine tonight; <<output>>
+else (mothballs lovebirds)
+:tater chefs; <<load>>
+endif
+endswitch
+repeat
+backward:gossips fairest;
+:overslept macaroni; <<task>>
+:sorel graphs;
+-> narc scone;
+repeat while (lucky rin?) is (antidepressant doomsday)
+end group
+:overdo drawback; <<load>>
+stop
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "subpoena hostages" as 0
+box "bacon unscathed"
+participant "indies scoop" as 1
+participant "containing morality" as 2
+participant "tacky stepping" as 3
+end box
+0 -->x 3: misleading kidnapped
+2 -> 1: debrief impersonal
+1 -> 1: sanctimonious dotted
+ [-> 2: angling ribbons
+@enduml

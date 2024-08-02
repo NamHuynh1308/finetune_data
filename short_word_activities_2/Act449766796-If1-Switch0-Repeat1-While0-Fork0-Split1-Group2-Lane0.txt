@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:birdie blowing;
+split again
+-[hidden]->
+:bop unforgettable; <<continuous>>
+split again
+-[hidden]->
+:disrupting gimmicks; <<input>>
+end split
+:flipped smooth; <<load>>
+-> antagonism headpiece;
+group reported odorless
+if (backseat curtains?) then (familiar nausea)
+(wreak malt) elseif (colony murals?) then (nouveau sewage)
+:compulsive hack; <<continuous>>
+-> slingshot caseload;
+(coupons dive) elseif (madonna curdle?) then (dirtiest ugly)
+repeat
+:pitches massacre;
+:sous rearing;
+repeat while (collier antibodies?) is (aboard improvements)
+-> engines regroup;
+endif
+group subbing horribly
+:cheeseburgers benefits; <<continuous>>
+stop
+end group
+end group
+@enduml

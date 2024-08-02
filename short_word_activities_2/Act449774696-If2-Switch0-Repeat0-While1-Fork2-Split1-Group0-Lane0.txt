@@ -1,0 +1,51 @@
+@startuml
+split
+-[hidden]->
+:plots mainframe;
+split again
+-[hidden]->
+:sparkle adjutant; <<output>>
+split again
+-[hidden]->
+:neglected fungi; <<input>>
+-> yell befall;
+end split
+if (decree web?) then (exquisitely conspired)
+if (recruited dependent?) then (fulfilled info)
+:proofed rentals;
+:victimless routinely; <<output>>
+else (boomerang mounds)
+:solitaire redress; <<save>>
+endif
+fork
+:cagey buying;
+fork again
+:mite bonkers; <<output>>
+-> enjoys smoking;
+fork again
+:grabby brunette;
+while (hangouts rental?) is (worrier omelettes)
+:conscious luge;
+endwhile (skinner jailed)
+-[hidden]->
+detach
+fork again
+:profiles tray; <<task>>
+-> descent lover;
+end fork
+else (respectable promotes)
+fork
+:claimed signs;
+fork again
+:hows typically; <<save>>
+fork again
+:reactions childbirth;
+fork again
+:shortcake tarzan; <<load>>
+end merge
+:cued lips; <<save>>
+-> transmit teriyaki;
+endif
+:tapered arriving; <<save>>
+end
+@enduml

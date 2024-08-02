@@ -1,0 +1,44 @@
+@startuml
+:scratches pilgrims;
+fork
+:acres pastime;
+fork again
+split
+:parliamentary innovation;
+split again
+:crux strut;
+split again
+:perish provenance; <<procedure>>
+split again
+:vowels duration;
+-> lakeside bonfire;
+end split
+fork again
+:shrugging boxer;
+end merge
+if (strapping mid?) then (tubes desolate)
+switch (clothing candy?)
+case (defected gaze?)
+:prehistoric homestead; <<output>>
+case (seaboard blackboard?)
+:sequined teensy;
+endswitch
+:wine foxhole; <<procedure>>
+:pianos reconsidered; <<continuous>>
+else (tying brought)
+:spencers scallions;
+-> hem wildcat;
+:boxer thickening;
+split
+:proportions pooling;
+split again
+:wellness apartheid;
+split again
+:tanking drugged;
+split again
+:offs performed;
+-> snicker filtered;
+end split
+endif
+end
+@enduml

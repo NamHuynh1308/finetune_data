@@ -1,0 +1,12 @@
+@startuml
+participant "refrigerators tycoon" as 0
+participant "sanctuary taffeta" as 1
+opt pricey mailman
+1 -> 0: honeymooners futility
+critical sawed fixings
+create participant "farms played" as 2
+0 -> 2 : farms played
+0 -\\ 0: linen pinheads
+end
+end
+@enduml

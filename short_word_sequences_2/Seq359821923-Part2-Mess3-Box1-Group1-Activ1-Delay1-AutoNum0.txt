@@ -1,0 +1,13 @@
+@startuml
+box "brunt statue"
+participant "manticore cages" as 0
+participant "hazelnut targeting" as 1
+end box
+0 ->x 0++ : swam buffoon
+loop attained brother
+ [-> 1: bandit sparing
+return startle insecure
+...sunbathing spells...
+0 -> 1: psychiatrists prices
+end
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "pulpit outfield" as 0
+participant "gypped backyard" as 1
+autonumber 1 7
+0 ->] : sorting intentionally
+autonumber stop
+ [<- 0: anchors again
+1 --> 1: flaring kelson
+autonumber resume
+@enduml

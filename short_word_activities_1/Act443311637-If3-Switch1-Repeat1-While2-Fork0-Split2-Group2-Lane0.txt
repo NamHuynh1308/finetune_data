@@ -1,0 +1,77 @@
+@startuml
+split
+-[hidden]->
+:cleans calming;
+split again
+-[hidden]->
+:canasta draft; <<save>>
+split again
+-[hidden]->
+if (scolding swapping?) then (woody inquiry)
+(weirdos tournament) elseif (operating brittle?) then (iced supposedly)
+:brumby visitation; <<continuous>>
+-> betrayer blackout;
+(cloverleaf executioner) elseif (contaminating catalyst?) then (rescinded production)
+:beyond girly;
+endif
+split again
+-[hidden]->
+:parsons bow; <<task>>
+end split
+group deadlier sark
+switch (repayment luscious?)
+case (sunglasses faded?)
+:prescriptions obvious; <<procedure>>
+case (entertain unity?)
+if (futuristic jock?) then (commonly observable)
+:absurdly bubble; <<output>>
+-> cain wean;
+else (unveil consults)
+:maroon broadcasts;
+:holes aged;
+:slaying comprehending;
+while (alcoholics scrapped?) is (tutu deficiency)
+:rubble circuitry; <<continuous>>
+endwhile (temperamental eve)
+-[hidden]->
+detach
+endif
+case (oops demoted?)
+:ever town; <<output>>
+case (wanting thanking?)
+if (superwoman bamboo?) then (defraud subpoenas)
+:enlightenment ballsy; <<output>>
+else (estimate disputes)
+:concluded produce; <<continuous>>
+-> whodunit hasty;
+:earning abruptly;
+kill
+endif
+endswitch
+group steadily sake
+repeat
+:stilts family; <<load>>
+while (realm afflicted?) is (recommendation interested)
+backward:creativity peasant;
+:drove tiger;
+-> mist bong;
+backward:overactive payback;
+endwhile (holler sexuality)
+:survival overcast;
+:apocalypse divorce; <<continuous>>
+-> seasons risks;
+repeat while (virtuoso crosshairs?) is (communal airstrip)
+-> monumental trapeze;
+split
+:scenic fixings;
+split again
+:rangers receding; <<continuous>>
+split again
+:romping evolved; <<output>>
+split again
+:tuba sugars;
+end split
+end group
+stop
+end group
+@enduml

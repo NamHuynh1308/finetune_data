@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:fixating establishment;
+split again
+-[hidden]->
+switch (minute auk?)
+case (bumper speedway?)
+:purposefully premiums;
+case (ended rouse?)
+:ridden buzzing;
+case (fluorescent homey?)
+:queue epiphany;
+case (regularity murky?)
+:exhausts seg; <<procedure>>
+endswitch
+split again
+-[hidden]->
+:pelts airborne;
+-> arts humiliated;
+end split
+group pathos gatekeeper
+switch (pony freaky?)
+case (deterrent gonzo?)
+while (raced begat?) is (dozens pregnancy)
+backward:camper blazer;
+:audition modification; <<output>>
+endwhile (plethora tyres)
+:out paths;
+case (alive crackerjack?)
+:ghetto acoustic; <<output>>
+endswitch
+:fools foray; <<continuous>>
+end group
+stop
+@enduml

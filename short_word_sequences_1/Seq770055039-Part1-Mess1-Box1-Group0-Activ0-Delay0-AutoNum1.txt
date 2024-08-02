@@ -1,0 +1,8 @@
+@startuml
+box "exclusively spooked"
+participant "victim hazel" as 0
+end box
+autonumber 1 2
+0 -->x 0: than notary
+autonumber stop
+@enduml

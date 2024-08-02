@@ -1,0 +1,31 @@
+@startuml
+box "filtered revoke"
+participant "blonds dated" as 0
+participant "astute fraught" as 1
+end box
+box "masses parks"
+participant "stonewalled molds" as 2
+end box
+== leafs poodles ==
+autonumber 9 6
+critical news dullest
+1 --> 1++ : defiance kaon
+autonumber stop
+opt hypnosis longitude
+1 -// 2: salesmen mystifying
+1 -> 2: forfeit aunties
+else gizmo humiliates
+0 <-] : bad susceptible
+1 --> 2: jazz cruising
+else untrue novels
+break luster shunt
+...pacer dock...
+0 ->x 1: footman cited
+return nauseating predictable
+autonumber resume
+...hamstring cornfield...
+2 <-> 2: truce paged
+end
+end
+end
+@enduml

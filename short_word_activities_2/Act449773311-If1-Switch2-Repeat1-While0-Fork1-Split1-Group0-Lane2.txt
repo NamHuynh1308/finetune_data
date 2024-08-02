@@ -1,0 +1,47 @@
+@startuml
+|1| glaze bossing
+|2| burglar megaphone
+|1|
+start
+fork
+:canine bilateral;
+fork again
+:lighters campers;
+fork again
+switch (deficiencies paella?)
+case (expresses rudimentary?)
+:anemic quantity;
+case (respectable cares?)
+:raw abdominal; <<continuous>>
+endswitch
+end fork
+|2|
+repeat
+switch (waist dissing?)
+case (origin regency?)
+:monitor redecorating;
+case (grandbaby untie?)
+:tended parted; <<input>>
+case (workable barfing?)
+:sweatshop insights; <<procedure>>
+endswitch
+repeat while (substances bolted?) is (progressing skaters)
+-> recognised sucked;
+if (apologizing combo?) then (smoother favored)
+(rushed wounds) elseif (goes delivered?) then (sensitivity severely)
+split
+:sixth room;
+split again
+:spiders rid; <<procedure>>
+split again
+:foisting taking; <<continuous>>
+split again
+:caretaker respectability;
+end split
+(manatees mascots) elseif (wally fingernail?) then (incorrectly food)
+:shepherd quickest; <<procedure>>
+-> tomfoolery outlet;
+endif
+:enjoyed incorrectly; <<task>>
+:kit inspection; <<task>>
+@enduml

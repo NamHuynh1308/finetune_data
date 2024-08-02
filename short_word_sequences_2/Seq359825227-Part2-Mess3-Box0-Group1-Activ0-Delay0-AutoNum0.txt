@@ -1,0 +1,10 @@
+@startuml
+participant "procedures constrictor" as 0
+participant "melted fibbing" as 1
+critical intervening cram
+1 -->x 1: unimaginative pipe
+0 --> 1: cos confessional
+1 -> 0: picky streets
+else archeology cold
+end
+@enduml

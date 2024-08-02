@@ -1,0 +1,17 @@
+@startuml
+start
+:od roommates; <<task>>
+switch (conceal advent?)
+case (estimates sunrise?)
+:prevail handshake;
+case (embarrass horrible?)
+:paramilitary anybody;
+-> manhood blissful;
+case (diminished infuriates?)
+:declaring fall;
+kill
+case (fell vanquish?)
+:lucifer despised; <<task>>
+-> flavours sha;
+endswitch
+@enduml

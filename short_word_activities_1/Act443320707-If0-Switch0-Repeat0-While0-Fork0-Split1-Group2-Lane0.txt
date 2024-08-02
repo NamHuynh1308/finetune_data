@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:solicitation flan;
+split again
+-[hidden]->
+:headset organize; <<task>>
+split again
+-[hidden]->
+:castles extraordinary; <<input>>
+end split
+group phantoms instinct
+:splits karma; <<procedure>>
+-> carolers feat;
+group cursory crafty
+:milky observatory;
+stop
+end group
+end group
+@enduml

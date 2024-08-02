@@ -1,0 +1,6 @@
+@startuml
+group clutter inconsistent
+:purity smiley; <<continuous>>
+stop
+end group
+@enduml

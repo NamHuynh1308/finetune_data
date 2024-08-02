@@ -1,0 +1,15 @@
+@startuml
+start
+group rooted headphones
+split
+:objective refer;
+split again
+:pinball mysteriously;
+-> marlin hectic;
+split again
+:quantum deftly; <<continuous>>
+end split
+:arraignment almonds; <<procedure>>
+end group
+end
+@enduml

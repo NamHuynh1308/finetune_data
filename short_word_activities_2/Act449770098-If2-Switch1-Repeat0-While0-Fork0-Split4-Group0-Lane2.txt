@@ -1,0 +1,69 @@
+@startuml
+|1| trumpets patriarch
+|2| brink skyrocket
+split
+-[hidden]->
+:defended spiny;
+split again
+-[hidden]->
+:exact skids; <<task>>
+-> culpa hitchhike;
+split again
+-[hidden]->
+if (beth coles?) then (pertaining badminton)
+:mythological duckling; <<output>>
+else (huck tenner)
+:finalized chop; <<output>>
+-> lard burn;
+kill
+endif
+end split
+|2|
+split
+:ins swinging;
+split again
+:warehouses cashews;
+-> vanquished riverbank;
+split again
+if (afloat proposal?) then (drastic apply)
+:skimmed spotters; <<save>>
+:extravaganza embroiled;
+else (vacuum softness)
+:trump inherit;
+endif
+split again
+:lifestyle rib;
+end split
+|1|
+:antiquing perverted; <<procedure>>
+:bigmouth suspended; <<load>>
+split
+:nature coating;
+split again
+split
+:starving smoke;
+split again
+:sees repress; <<save>>
+split again
+:snuggle insured;
+split again
+:upsets priceless; <<procedure>>
+-> autopsy reversed;
+end split
+split again
+:sheriff cease; <<task>>
+end split
+|2|
+switch (symbiote withheld?)
+case (useless decapitated?)
+:definitively profiles;
+-> grounds noting;
+case (versions hardy?)
+:substantive honors; <<load>>
+-> crack partnership;
+case (under performed?)
+:hemorrhoid semi;
+-> arsenic oiled;
+endswitch
+end
+@enduml

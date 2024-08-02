@@ -1,0 +1,8 @@
+@startuml
+participant "chomping laker" as 0
+participant "disciplinary ornamental" as 1
+0 -> 1!! : brewery yourselves
+opt meow burn
+1 <-] : hotheaded ell
+end
+@enduml

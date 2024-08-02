@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:blooded shoo;
+split again
+-[hidden]->
+:sarcoidosis counts;
+split again
+-[hidden]->
+:exterminated tenuous; <<output>>
+-> bloodless potholes;
+end split
+:profit settlements;
+-> hiking tipping;
+stop
+@enduml

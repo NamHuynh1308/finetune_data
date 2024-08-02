@@ -1,0 +1,13 @@
+@startuml
+participant "string sectors" as 0
+participant "pitch crunch" as 1
+autonumber 0 7
+0 ->x 0: snickering scoping
+critical devastation bomber
+0 -> 1: senseless cookies
+autonumber stop
+alt playbook instill
+ [<- 0: interject snout
+end
+end
+@enduml

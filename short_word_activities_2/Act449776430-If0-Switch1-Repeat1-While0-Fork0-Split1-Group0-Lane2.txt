@@ -1,0 +1,35 @@
+@startuml
+|1| worrisome botulism
+|2| pele epsilon
+split
+-[hidden]->
+:licked cognac;
+split again
+-[hidden]->
+:dungeon misunderstand; <<procedure>>
+split again
+-[hidden]->
+:shimmy handsome; <<load>>
+end split
+|2|
+:sicced assholes;
+|1|
+:windfall banged; <<input>>
+switch (extra tomfoolery?)
+case (comforts willies?)
+:spotlights forks; <<output>>
+case (unhappy administer?)
+repeat
+:broomsticks although; <<procedure>>
+:negatives stages;
+if (amiss toasted) then (particularly proverbial)
+:dungeon incapacitated;
+break
+endif
+->suspicion whittling;
+:tuna abduct;
+repeat while (summation savvy?) is (flee abreast)
+-> lockers skewer;
+endswitch
+end
+@enduml

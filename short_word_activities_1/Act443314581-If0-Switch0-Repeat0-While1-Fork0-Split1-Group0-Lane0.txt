@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:disarmed corridor;
+split again
+-[hidden]->
+while (coyote radios?) is (eldest diva)
+:adjacent need;
+:funeral litigious; <<load>>
+-> fiver objections;
+:harmed busboy;
+:deserted repairman;
+endwhile (thirteen summed)
+:robbed tidal;
+split again
+-[hidden]->
+:chug renovating; <<output>>
+end split
+:foresight hangnail;
+end
+@enduml

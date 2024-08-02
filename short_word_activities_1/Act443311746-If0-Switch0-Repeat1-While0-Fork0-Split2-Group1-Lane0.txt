@@ -1,0 +1,24 @@
+@startuml
+group poison fusion
+repeat
+split
+:daily elevator;
+split again
+:missions cleans;
+split again
+:quality indispensable; <<task>>
+split again
+:bounty heater;
+end split
+repeat while (shushing distant?) is (established premiere)
+split
+:brown somerset;
+split again
+:cashmere heather;
+-> shovels breaking;
+split again
+:implicates whodunit;
+end split
+stop
+end group
+@enduml

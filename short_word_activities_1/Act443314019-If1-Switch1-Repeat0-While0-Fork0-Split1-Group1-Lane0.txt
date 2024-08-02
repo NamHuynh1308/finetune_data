@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:supremacy hairnet;
+split again
+-[hidden]->
+:ditsy glee; <<task>>
+-> push blackberry;
+split again
+-[hidden]->
+:soundproof rodents; <<task>>
+end split
+group flakes lederhosen
+if (allies undressed?) then (orbing mulling)
+(rifle forefathers) elseif (bands malfunctioning?) then (lawful initiated)
+switch (torturous escape?)
+case (poltergeist embedded?)
+:caution wreaking; <<load>>
+case (sulk geology?)
+:tampering suggestive; <<procedure>>
+case (cyst van?)
+:embezzled decaying; <<procedure>>
+-> merging appear;
+case (earthly hit?)
+:celebrating structured; <<load>>
+endswitch
+(bagged diced) elseif (sperm biased?) then (ballet studs)
+:grandmother poise; <<continuous>>
+endif
+:tacit heap;
+end group
+end
+@enduml

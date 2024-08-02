@@ -1,0 +1,16 @@
+@startuml
+switch (concentrating insure?)
+case (blocked nuthouse?)
+:alone royal; <<continuous>>
+case (feed service?)
+:fusilli torching; <<save>>
+endswitch
+group servitude reinforcement
+:propose dozer;
+-> cauldron position;
+group unresolved poisoned
+:nap criterion; <<load>>
+stop
+end group
+end group
+@enduml

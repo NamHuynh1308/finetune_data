@@ -1,0 +1,22 @@
+@startuml
+box "ad cuffed"
+participant "buckets buffs" as 0
+participant "goodies nouveau" as 1
+participant "willed enormously" as 2
+end box
+autonumber 9 6
+create participant "bird blunders" as 3
+2 -> 3 : bird blunders
+0 -// 0++ : unsealed correct
+autonumber stop
+par alterations traumas
+2 -> 3: ritual arbitration
+return evidence concept
+autonumber resume
+...standing tear...
+0 -// 3: geographically nosebleeds
+else shebang infect
+create participant "contraption milking" as 4
+0 -> 4 : contraption milking
+end
+@enduml

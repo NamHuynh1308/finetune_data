@@ -1,0 +1,18 @@
+@startuml
+box "hunted teeth"
+participant "princes printers" as 0
+box "character graded"
+participant "sealed topaz" as 1
+participant "trophies op" as 2
+end box
+end box
+autonumber 4 1
+loop pun aims
+0 <-] : interference revoked
+autonumber stop
+2 <-> 0: liberating roaming
+autonumber resume
+...voila identifies...
+1 -> 0: embraced hothouse
+end
+@enduml

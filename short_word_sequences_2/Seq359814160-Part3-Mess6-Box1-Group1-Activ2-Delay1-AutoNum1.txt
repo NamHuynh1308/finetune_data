@@ -1,0 +1,22 @@
+@startuml
+participant "fluffy kiddo" as 0
+box "oldie follower"
+participant "peas bronchial" as 1
+end box
+== refrain anchovies ==
+autonumber 3 9
+0 ->x 1: rectory asteroids
+...stifling jus...
+1 <-] : announcements ration
+autonumber stop
+1 ->> 1++ : light softest
+autonumber resume
+0 -> 1: godlike zero
+1 --> 0++ : soda hauled
+loop warner trashed
+create participant "feline black" as 2
+0 -> 2 : feline black
+end
+return buts valued
+return covered maxi
+@enduml

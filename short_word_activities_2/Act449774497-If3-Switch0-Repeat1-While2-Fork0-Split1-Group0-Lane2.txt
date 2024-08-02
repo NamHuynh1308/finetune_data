@@ -1,0 +1,69 @@
+@startuml
+|1| resurfaced stormy
+|2| unfit ers
+split
+-[hidden]->
+:drag rob;
+split again
+-[hidden]->
+:boil intelligent; <<output>>
+split again
+-[hidden]->
+:fries nighttime;
+end split
+|2|
+if (floozy softy?) then (upsetting scattered)
+:static insignificant; <<continuous>>
+-> shop house;
+:extension thesaurus; <<input>>
+-> romantic passports;
+else (bronzing blaze)
+:respectable created; <<save>>
+:cokes divining;
+-> sheet peignoir;
+endif
+|1|
+if (rightfully tent?) then (hazard teaches)
+if (slurping tear?) then (kooks evacuate)
+:heckles jailhouse;
+:radical discrepancy;
+-> chemically peaches;
+:cooperating applications; <<procedure>>
+-> puzzle lez;
+kill
+else (homage wade)
+:living sty; <<input>>
+:curse shone;
+:simplistic pharmacy; <<input>>
+endif
+:fen university; <<save>>
+-> loitering stock;
+:goner betrayer; <<continuous>>
+kill
+else (captives tampons)
+:darling widening;
+while (collided torah?) is (airline saluted)
+repeat
+:stool biting;
+:incinerator sunspots;
+if (constable latino) then (fee barking)
+:ailing substantial;
+break
+endif
+->mosque pluck;
+:stethoscope themselves;
+repeat while (lodged occupants?) is (rears halls)
+-> thesis kappa;
+while (eagle doused?) is (shoulders humanitarian)
+:nonexistent extraction; <<procedure>>
+:crumbles slayers;
+backward:abrupt matrimonial;
+endwhile (auntie wop)
+:endowment relaxation;
+endwhile (disapproved retirement)
+-[hidden]->
+detach
+endif
+:unseen trawler; <<output>>
+-> relates influence;
+@enduml

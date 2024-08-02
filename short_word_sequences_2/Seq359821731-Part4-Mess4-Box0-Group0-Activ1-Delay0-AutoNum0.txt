@@ -1,0 +1,11 @@
+@startuml
+participant "cherub discredit" as 0
+participant "risky exchanging" as 1
+participant "bookends matador" as 2
+participant "napkin practicing" as 3
+3 ->o 3++ : walla blooming
+2 -> 2: genetic hayward
+2 ->] : mailbox construed
+return bib schmo
+3 -// 0: majesty loft
+@enduml

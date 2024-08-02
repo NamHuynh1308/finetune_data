@@ -1,0 +1,6 @@
+@startuml
+participant "original idly" as 0
+== labels fumigating ==
+0 <-] : rousing reactionary
+0 -> 0: drown lepers
+@enduml

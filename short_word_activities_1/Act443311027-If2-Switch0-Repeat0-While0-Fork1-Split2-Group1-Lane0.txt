@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:vegetative mercury;
+split again
+-[hidden]->
+:badges protector;
+-> swabs plaid;
+split again
+-[hidden]->
+:explained lapping;
+end split
+if (dweeb limerick?) then (hic ultrasound)
+:financed phoebe; <<continuous>>
+-> ostracized female;
+else (factory mo)
+:sentence glue; <<continuous>>
+-> fires poems;
+:emperor smart; <<task>>
+-> ended preachers;
+fork
+:landlord store;
+fork again
+:establishes irrevocably;
+fork again
+:pessimist devours;
+end merge
+endif
+group connection healthier
+:database corporeal; <<input>>
+-> birdseed exhume;
+if (armies seamless?) then (agility cultivating)
+(collagen cognac) elseif (cyclops flotation?) then (undergrad trapping)
+:thickening handrail;
+-> all agitate;
+(unwittingly arms) elseif (chocolatey scottie?) then (natured portrays)
+split
+:doctored tailing;
+split again
+:totaled homey;
+split again
+:monument migrate; <<save>>
+end split
+endif
+end group
+@enduml

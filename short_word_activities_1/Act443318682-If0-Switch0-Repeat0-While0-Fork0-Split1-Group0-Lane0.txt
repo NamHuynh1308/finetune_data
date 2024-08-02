@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:collie lone;
+split again
+-[hidden]->
+:clearing shorthand; <<task>>
+-> sideways decided;
+split again
+-[hidden]->
+:erase runner; <<save>>
+split again
+-[hidden]->
+:ignorant achievement;
+end split
+:surprises emerges; <<output>>
+:bonfire identified; <<continuous>>
+stop
+@enduml

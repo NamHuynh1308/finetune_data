@@ -1,0 +1,30 @@
+@startuml
+start
+split
+:cardigan martini;
+split again
+:intervene watered;
+split again
+:glint unaffected; <<continuous>>
+-> ignores scoreboard;
+split again
+:rubber cockamamie;
+end split
+group snowballing skateboard
+switch (shaw certainty?)
+case (reproach rubbed?)
+:certified correspond; <<input>>
+case (closest swearing?)
+fork
+:earplugs microfilm;
+fork again
+:fleeting hooked; <<input>>
+fork again
+:accounted absence; <<task>>
+end fork
+case (hydrochloride seizure?)
+:drama whit; <<save>>
+endswitch
+stop
+end group
+@enduml

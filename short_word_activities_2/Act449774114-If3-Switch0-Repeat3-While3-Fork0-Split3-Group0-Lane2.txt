@@ -1,0 +1,97 @@
+@startuml
+|1| winging maudlin
+|2| apartheid aurora
+split
+-[hidden]->
+:gouged booty;
+split again
+-[hidden]->
+:cutting finalist; <<output>>
+split again
+-[hidden]->
+repeat
+:yearning deliberations;
+:rarely plummeted; <<load>>
+-> poisoned truckload;
+repeat while (radiology overdid?) is (trucks full)
+split again
+-[hidden]->
+:flipping researcher; <<input>>
+-> rya lubricant;
+end split
+|2|
+repeat
+:personnel overcoming; <<load>>
+-> also dozing;
+:feelers complimentary; <<save>>
+repeat while (documentary comer?) is (podiatrist loosening)
+|1|
+split
+:paranoid rode;
+split again
+:denominators tempest; <<input>>
+split again
+:arch overhead;
+-> snagging restaurant;
+split again
+split
+:roughriders revoked;
+split again
+:swears explosions;
+split again
+:fastball sterner;
+while (doves cruisers?) is (alchemist annoys)
+backward:groveling mohair;
+backward:famously lima;
+:raisers swell;
+:conclusively sands;
+endwhile (dissipated barrier)
+-[hidden]->
+detach
+split again
+:respect violates;
+end split
+end split
+|2|
+:bossy gain; <<input>>
+-> compete bouts;
+if (entering strategizing?) then (confidences remain)
+(spiking dreaming) elseif (kicked alike?) then (ventures store)
+:ycabue;
+while (midtown circulate?) is (editorials primary)
+backward:afterglow premeditated;
+backward:snatcher zoned;
+if (macadamia tribulations?) then (de kabob)
+(treatment baffled) elseif (wrenched molecular?) then (offices lit)
+:export drools;
+(wipes virtue) elseif (bishops cursed?) then (aerodynamics northeastern)
+:imagination authors;
+(sculptor finder) elseif (handout convoy?) then (rappers scores)
+:bared shiv; <<output>>
+(congratulate corresponds) elseif (adherence revived?) then (blokes instructed)
+:balancing honourable; <<input>>
+endif
+endwhile (googly peripheral)
+-[hidden]->
+detach
+(rewritten punitive) elseif (impressionists earthlings?) then (snob exhausting)
+repeat
+:discourteous admiring;
+:psychiatric dissolved;
+repeat while (guests avid?) is (tasty livers)
+-> musical harassed;
+endif
+if (wishing boot?) then (periscope parts)
+(dizzying jinx) elseif (flushed lumbar?) then (rudder relief)
+:hippo endlessly; <<output>>
+-> feats grits;
+(permanently uptake) elseif (numb spectacularly?) then (authentic magazine)
+:herbs flush;
+(thongs mulberry) elseif (subdued parading?) then (bandit marriages)
+while (anti inhibitor?) is (passkey nervously)
+backward:dealer decoupage;
+endwhile (spoilsport operation)
+:ya seamless;
+endif
+stop
+@enduml

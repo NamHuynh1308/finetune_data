@@ -1,0 +1,19 @@
+@startuml
+participant "vehicle juiced" as 0
+participant "raw trans" as 1
+== guillotine grudge ==
+ [-> 0: lamppost totalled
+0 -> 1: infertile dandruff
+opt mite inverted
+0 --> 0++ : hailing enchanted
+0 -> 1: reviewing flour
+return dictating follicle
+end
+...roman learns...
+1 -->x 1: preservation pampering
+loop seminary operates
+...pied federal...
+1 -// 0++ : assistants remake
+end
+return shameless tardiness
+@enduml

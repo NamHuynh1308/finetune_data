@@ -1,0 +1,10 @@
+@startuml
+fork
+:nitroglycerin marriage;
+fork again
+:dresses lathe;
+-> tellers fresh;
+fork again
+:allowing ogres; <<continuous>>
+end merge
+@enduml

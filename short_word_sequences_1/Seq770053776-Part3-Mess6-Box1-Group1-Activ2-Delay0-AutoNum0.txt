@@ -1,0 +1,17 @@
+@startuml
+box "inconsistent dumdum"
+participant "trait rookie" as 0
+participant "translation insisted" as 1
+participant "practice unfolds" as 2
+end box
+0 ->> 1: flies occult
+2 -> 0++ : clarity drinker
+2 ->o 1: deposed bringing
+1 -// 2++ : hickey drooling
+2 -> 2: rebuttal entities
+alt kidneys society
+0 -> 1: blinds detect
+end
+return millimeter dispensed
+return soundstage poised
+@enduml

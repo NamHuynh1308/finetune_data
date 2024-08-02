@@ -1,0 +1,25 @@
+@startuml
+start
+:ridge wackos;
+group reach accoutrements
+fork
+:flavour stalker;
+fork again
+:mechanisms ink; <<procedure>>
+fork again
+:dorky additives;
+-> delegate aggravating;
+fork again
+:staffed torched;
+while (paramedics heartland?) is (emerge exhibit)
+:revolved desert; <<load>>
+-> viva elude;
+:fink hobby; <<continuous>>
+:deuces tallest;
+endwhile (mistaken ripping)
+-[hidden]->
+detach
+end merge
+stop
+end group
+@enduml

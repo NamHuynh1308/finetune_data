@@ -1,0 +1,17 @@
+@startuml
+participant "tae jitters" as 0
+participant "royal complication" as 1
+participant "ambitions exfoliate" as 2
+participant "cranny blithering" as 3
+== falcon treasury ==
+1 <-> 2: contrite scoop
+3 -> 2: briefcases apparition
+2 ->o 2++ : party playa
+0 -> 0: coughing override
+return vending deke
+2 --> 3: compartment giddy
+0 ->o 0: an university
+break hygienist retirement
+ [<- 3: manna presented
+end
+@enduml

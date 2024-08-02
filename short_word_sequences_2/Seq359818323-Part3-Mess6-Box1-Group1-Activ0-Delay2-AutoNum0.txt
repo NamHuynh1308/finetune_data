@@ -1,0 +1,19 @@
+@startuml
+participant "greyhound favoritism" as 0
+participant "compromised document" as 1
+box "primaries erases"
+participant "prom steno" as 2
+end box
+critical gums groggy
+0 ->] : odyssey ginseng
+0 ->] : mouthy fortuitous
+else bloc bearers
+1 <-] : recorders loner
+...comp angry...
+0 <-] : extortion club
+...pearls therein...
+0 ->] : powers ringer
+1 -> 0: antelope grip
+else ribbon complicates
+end
+@enduml

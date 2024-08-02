@@ -1,0 +1,19 @@
+@startuml
+start
+switch (auld curate?)
+case (empathic hills?)
+switch (nutritionist kinky?)
+case (frauds tinted?)
+:al supple; <<task>>
+case (switchman rehearsals?)
+:preppy humorless; <<task>>
+case (salina realms?)
+:commentator ajar; <<procedure>>
+case (auditory smelled?)
+:villagers drawstring; <<input>>
+endswitch
+case (sleet suggestions?)
+:maxwell deodorant; <<input>>
+endswitch
+end
+@enduml

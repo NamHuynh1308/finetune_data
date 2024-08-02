@@ -1,0 +1,6 @@
+@startuml
+repeat
+backward:marrying database;
+repeat while (kitchen bassinet?) is (madness withheld)
+stop
+@enduml

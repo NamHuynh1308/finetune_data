@@ -1,0 +1,18 @@
+@startuml
+box "wraps glamour"
+participant "bigamy weddings" as 0
+participant "transporting varsity" as 1
+participant "headphones grimes" as 2
+end box
+autonumber 3 10
+0 ->] : weep sledgehammer
+1 ->o 2: coal ailment
+1 -\\ 2: disrespectful reinstate
+autonumber stop
+create participant "groaning placebos" as 3
+1 -> 3 : groaning placebos
+autonumber resume
+...breathing lis...
+3 --//o 0: vocal fabricated
+3 -> 2: contributed jin
+@enduml

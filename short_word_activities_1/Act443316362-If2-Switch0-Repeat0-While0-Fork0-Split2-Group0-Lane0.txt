@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:cake prune;
+split again
+-[hidden]->
+if (draw announcing?) then (shyness cahoots)
+:buckled provocation; <<input>>
+-> someplace searches;
+kill
+else (whooping improves)
+:mostly torment; <<output>>
+:detect booth; <<save>>
+endif
+split again
+-[hidden]->
+split
+:auras proposing;
+split again
+:lean interact; <<continuous>>
+split again
+:undertake gracefully; <<output>>
+-> voluntary enormity;
+split again
+:visceral preserved; <<save>>
+end split
+split again
+-[hidden]->
+if (kibble guardians?) then (gridlock pawing)
+:degraded cruelty;
+else (jesuit digger)
+:primarily flattened;
+-> quoth sniping;
+:tiles anti;
+endif
+end split
+:conquering remedial; <<input>>
+end
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "goodbye flare" as 0
+participant "horrific growing" as 1
+box "marriage windpipe"
+participant "fodder suave" as 2
+end box
+autonumber 7 3
+opt distinctly presets
+1 -> 0++ : benefited noble
+create participant "cranial unsatisfying" as 3
+2 -> 3 : cranial unsatisfying
+end
+create participant "friendliest seat" as 4
+3 -> 4 : friendliest seat
+return includes chrome
+@enduml

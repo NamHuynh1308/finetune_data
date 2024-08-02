@@ -1,0 +1,28 @@
+@startuml
+participant "monetary leary" as 0
+participant "glitches recount" as 1
+participant "blueberry cholinesterase" as 2
+box "maria corned"
+participant "caper portrayal" as 3
+end box
+autonumber 1 0
+par wavelengths bauble
+1 ->o 0: revert glycerin
+par cadavers bonuses
+0 ->> 3: stared scented
+autonumber stop
+create participant "rebuilding booger" as 4
+2 -> 4 : rebuilding booger
+1 <-] : add negotiation
+autonumber resume
+loop truest twain
+1 -> 0!! : lawyers oaks
+autonumber stop
+ [<- 4: interested renovations
+autonumber resume
+2 --//o 0: nickel divas
+else tours abdominal
+end
+end
+end
+@enduml

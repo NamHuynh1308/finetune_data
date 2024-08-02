@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:testicles require;
+split again
+-[hidden]->
+split
+:baldness septic;
+split again
+:joust belly;
+split again
+:digress statuary;
+end split
+split again
+-[hidden]->
+:mulch snoop;
+-> enabling mallard;
+split again
+-[hidden]->
+:pricey chilly;
+end split
+:smooching moons; <<load>>
+-> straightforward fades;
+group shown impact
+repeat
+fork
+:guru led;
+fork again
+:exploitation stepson;
+fork again
+:braille quadrant; <<output>>
+fork again
+:baseless bawl;
+end merge
+repeat while (coroner declare?) is (admitting spoils)
+stop
+end group
+@enduml

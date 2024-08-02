@@ -1,0 +1,44 @@
+@startuml
+|1| hots introduced
+|2| takes convenes
+split
+-[hidden]->
+:potting chooses;
+split again
+-[hidden]->
+:refrigerators receptive; <<continuous>>
+split again
+-[hidden]->
+if (pistol chopping?) then (thereof swamps)
+(tons scarecrow) elseif (fond ram?) then (catty editors)
+:additions bagpipes;
+(bound stoolie) elseif (primates half?) then (unspoiled bloods)
+:pediatric stubborn; <<input>>
+endif
+end split
+|2|
+:alongside impale; <<procedure>>
+|1|
+:floats exposes; <<load>>
+|2|
+:cruises boss; <<continuous>>
+-> prissy remarry;
+:doorman molecular; <<procedure>>
+-> artery cobweb;
+|1|
+repeat
+:kneel shaken; <<input>>
+-> suppertime footsteps;
+:llama whip;
+if (gestapo nativity?) then (synchronicity fruitful)
+:disobedience economy;
+:court anna;
+:maintained won;
+else (acquainted ticks)
+:releases whooping; <<output>>
+-> mechanic tryout;
+kill
+endif
+repeat while (launder retainer?) is (vows circuitry)
+stop
+@enduml

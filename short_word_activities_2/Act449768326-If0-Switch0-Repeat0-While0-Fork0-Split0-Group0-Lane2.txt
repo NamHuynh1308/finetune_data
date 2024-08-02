@@ -1,0 +1,11 @@
+@startuml
+|1| shabby powder
+|2| clothed foregone
+|1|
+start
+:nods unfulfilled; <<task>>
+|2|
+:created southern; <<input>>
+:pane glares; <<output>>
+end
+@enduml

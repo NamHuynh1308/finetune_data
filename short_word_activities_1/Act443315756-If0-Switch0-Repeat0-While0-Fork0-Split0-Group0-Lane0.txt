@@ -1,0 +1,6 @@
+@startuml
+start
+:immaculate hologram; <<input>>
+-> mercenaries floorboards;
+stop
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+participant "fudging aloud" as 0
+box "bonding dugout"
+participant "incomparable broody" as 1
+participant "overcooked funeral" as 2
+box "achingly ambivalence"
+participant "geeks turn" as 3
+box "marathon napkins"
+participant "castle cornfield" as 4
+end box
+end box
+end box
+autonumber 5 5
+0 -> 0: tailed yard
+autonumber stop
+0 ->x 3: heirlooms swells
+...laird dispatch...
+2 -> 3: barroom degradation
+critical pike carburetor
+...taxicab yearbook...
+1 ->o 1: impervious crowding
+autonumber resume
+...mountaineer impart...
+2 ->> 4: commander loser
+autonumber stop
+end
+@enduml

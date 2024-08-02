@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:sights thrives;
+split again
+-[hidden]->
+:ratio shelf;
+-> markings screams;
+split again
+-[hidden]->
+:ravens doze; <<input>>
+split again
+-[hidden]->
+:that needless; <<task>>
+end split
+:cannon viewers; <<output>>
+end
+@enduml

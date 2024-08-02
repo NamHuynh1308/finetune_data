@@ -1,0 +1,16 @@
+@startuml
+|1| porridge sheer
+|2| trimmed records
+|1|
+start
+|2|
+:establishes ambiguous; <<procedure>>
+-> announces percentage;
+:bins customers; <<task>>
+|1|
+:infiltrated theological; <<procedure>>
+:gurney convert;
+|2|
+:viruses birdie; <<input>>
+stop
+@enduml

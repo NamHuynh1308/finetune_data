@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:gland heirloom;
+split again
+-[hidden]->
+:deduction southern;
+split again
+-[hidden]->
+:mildew displeasure; <<task>>
+split again
+-[hidden]->
+:hype reinvented; <<task>>
+-> glares demure;
+end split
+:sunken authoritative; <<procedure>>
+-> cerebral repository;
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "canned bobbin" as 0
+participant "deserts spotter" as 1
+participant "blob rowdy" as 2
+box "puzzle waking"
+participant "diver repository" as 3
+end box
+== exempt ferrets ==
+ [-> 2: naive convertible
+par friend tampering
+2 ->] : accepts conclusions
+3 -> 1: plucking unravel
+...join explained...
+2 ->x 3: orbed emperor
+end
+@enduml

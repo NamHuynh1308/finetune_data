@@ -1,0 +1,10 @@
+@startuml
+box "encrusted moly"
+participant "shortage gizmo" as 0
+box "withdrew salaries"
+participant "rocket unfair" as 1
+end box
+end box
+1 -> 1: peeled joy
+1 --//o 1: lizard sanctioned
+@enduml

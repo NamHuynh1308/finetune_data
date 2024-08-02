@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:outlived sandbar;
+split again
+-[hidden]->
+repeat
+:conversationalist heroes;
+if (rhinestone mallet) then (hallucinogen arf)
+:seller yearned;
+break
+endif
+->religion rebounds;
+:hazard clerical;
+repeat while (tingling complimentary?) is (mousse resistance)
+split again
+-[hidden]->
+:flapjacks motley; <<output>>
+end split
+:aerospace urgent;
+group corporate yacht
+repeat
+backward:pinks fracture;
+repeat while (electrician dasher?) is (poll hated)
+-> ruled colonists;
+:gruesome injected; <<save>>
+end group
+end
+@enduml

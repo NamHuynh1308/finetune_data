@@ -1,0 +1,29 @@
+@startuml
+participant "minivan adapting" as 0
+box "squadron rosemary"
+participant "hotheaded tries" as 1
+box "lynching clearances"
+participant "cockney fullest" as 2
+box "managerial select"
+participant "abysmal interpretation" as 3
+box "eight hysterectomy"
+participant "apparent upfront" as 4
+end box
+end box
+end box
+end box
+autonumber 8 9
+0 -\\ 4++ : gangly divorcing
+...sizing aggressive...
+4 -->x 3++ : paramilitary broadening
+critical kickbacks interrogations
+4 -> 0: masterpieces portray
+return endeavour subscription
+create participant "dwindling morons" as 5
+0 -> 5 : dwindling morons
+...intimate read...
+5 -> 0: jaw crumbled
+autonumber stop
+end
+return socially submarines
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+start
+if (mikes unfreeze?) then (aggressive seamen)
+(nibble explodes) elseif (cheep smallest?) then (youngsters humidor)
+:manuscripts showers;
+(coup refueling) elseif (tyres lunatics?) then (standards assured)
+switch (trembling nourishment?)
+case (edging asshole?)
+:before kings;
+case (spikey smuggler?)
+:payload torso; <<task>>
+-> malicious amended;
+endswitch
+endif
+stop
+@enduml

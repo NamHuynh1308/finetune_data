@@ -1,0 +1,60 @@
+@startuml
+split
+-[hidden]->
+:name referee;
+split again
+-[hidden]->
+:leukemia mechanic; <<continuous>>
+-> coins literacy;
+split again
+-[hidden]->
+:bridegroom appointment; <<continuous>>
+split again
+-[hidden]->
+:methadone bitter; <<input>>
+end split
+group candor blower
+if (scent sciences?) then (digging viper)
+(bob orchestrated) elseif (diligence zephyr?) then (job dukes)
+fork
+:killed stalks;
+fork again
+:viewing edit; <<save>>
+fork again
+:mickey stewed; <<continuous>>
+end fork
+(wow complaining) elseif (obits jasmine?) then (toothpicks occurs)
+:orbed shortage; <<input>>
+(farts helplessly) elseif (anyway crabgrass?) then (gazelle woody)
+repeat
+:notification remote;
+repeat while (handgun rough?) is (designs swede)
+-> passionately yokel;
+endif
+if (sort tramps?) then (motherless helpless)
+:voices quoted;
+:pool shielded;
+:feeding muss; <<task>>
+-> pedicure desktop;
+while (silva occurs?) is (fluid him)
+if (vacancies composition?) then (songs shrubbery)
+(forethought benefited) elseif (disturb claim?) then (atrium forgettable)
+:hangs hisses;
+(detonated chaperoned) elseif (partnership retract?) then (horrible responsibilities)
+:revamp exponential;
+(stricken crane) elseif (poop recanting?) then (sole sparkling)
+:resilient throbbing; <<load>>
+-> cancel pseudo;
+(lifesaver injustice) elseif (infamous truffle?) then (stoic slashing)
+:administration headlining; <<task>>
+-> fend logistics;
+endif
+endwhile (brutality smooth)
+-[hidden]->
+detach
+else (met railroad)
+:knockoff strutting; <<save>>
+endif
+stop
+end group
+@enduml

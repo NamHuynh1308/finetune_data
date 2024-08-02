@@ -1,0 +1,10 @@
+@startuml
+participant "dimpled milking" as 0
+participant "zeppelin poodle" as 1
+autonumber 4 0
+0 --> 1++ : matchmaking norther
+opt evaluate telegraph
+1 -> 1: announces sanest
+return buzzes fugitives
+end
+@enduml

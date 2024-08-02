@@ -1,0 +1,8 @@
+@startuml
+participant "ignores tabloid" as 0
+autonumber 7 10
+0 -> 0!! : denied ask
+autonumber stop
+0 ->x 0: lier khakis
+autonumber resume
+@enduml

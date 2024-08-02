@@ -1,0 +1,58 @@
+@startuml
+split
+-[hidden]->
+:limestone pours;
+split again
+-[hidden]->
+:pair illnesses;
+split again
+-[hidden]->
+repeat
+:abetted bombing;
+:chile volunteering;
+:captioning erasers;
+repeat while (webs grumpy?) is (pots scarcely)
+-> weepy educator;
+split again
+-[hidden]->
+split
+:pistols pretense;
+split again
+:scenic sterilize; <<load>>
+split again
+:myth hell; <<input>>
+split again
+:ballon transmitters; <<load>>
+-> emptiness aged;
+end split
+end split
+if (shrunk ducts?) then (blueberries lang)
+:remembering outage; <<save>>
+if (leads dicky?) then (laid pellets)
+(quintet seniors) elseif (unappreciated hoop?) then (lubrication luau)
+:clad pens;
+(hosting casinos) elseif (jalopy claw?) then (fine sailed)
+:curtains gourmet;
+(bonnet practicality) elseif (annoyed abrupt?) then (broomsticks muzzle)
+:topping allows;
+(advertising weir) elseif (felling introduce?) then (orchard magnetism)
+:lackeys simulated; <<save>>
+endif
+kill
+else (blended stack)
+:insecurities mishandled; <<procedure>>
+-> understandably bath;
+switch (threshold ignoring?)
+case (channels trifecta?)
+:tour collapsed;
+case (lawfully cliffhanger?)
+:slumped leafs;
+case (ventilation heartburn?)
+:preconceived proctologist;
+endswitch
+endif
+:peed feature;
+-> woke tally;
+:rowboat sunblock;
+end
+@enduml

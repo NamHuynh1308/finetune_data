@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:detectors waterloo;
+split again
+-[hidden]->
+:grotesque penguin; <<save>>
+split again
+-[hidden]->
+:phone limits; <<procedure>>
+end split
+group managerial prenatal
+:slammer lesser; <<procedure>>
+-> possibly invigorating;
+group glance inflict
+:scry engages; <<output>>
+:stumps responsive; <<continuous>>
+-> boozing tip;
+end group
+stop
+end group
+@enduml

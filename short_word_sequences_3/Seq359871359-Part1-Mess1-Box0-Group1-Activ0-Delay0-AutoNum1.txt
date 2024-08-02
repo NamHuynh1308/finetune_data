@@ -1,0 +1,7 @@
+@startuml
+participant "treason sledgehammer" as 0
+autonumber 2 7
+loop pixies incorrect
+0 ->] : cabins symmetrical
+end
+@enduml

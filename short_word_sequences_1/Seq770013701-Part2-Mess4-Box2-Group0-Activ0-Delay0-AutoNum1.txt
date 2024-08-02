@@ -1,0 +1,15 @@
+@startuml
+box "starred definitions"
+participant "situations motivated" as 0
+box "unfounded oh"
+participant "unfolds hopeless" as 1
+end box
+end box
+autonumber 0 3
+ [<- 0: constellation heavyweight
+1 ->x 0: hutch firebug
+autonumber stop
+1 -> 1: backroom palsy
+autonumber resume
+0 ->] : recap expose
+@enduml

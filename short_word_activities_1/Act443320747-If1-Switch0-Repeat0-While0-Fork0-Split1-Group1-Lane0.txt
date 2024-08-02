@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:desired christened;
+split again
+-[hidden]->
+if (wart overblown?) then (riddled threw)
+:souffle coloured;
+:tone metaphysics;
+:deficiency vote;
+else (nutmeg cyclotron)
+:preceding shoddy;
+:hopefully tinsel;
+:cyclone prosthetic; <<load>>
+-> mar gum;
+endif
+split again
+-[hidden]->
+:disregard glues;
+split again
+-[hidden]->
+:onstage slicer;
+-> apprehension camping;
+end split
+group trespassers fishy
+:seventeenth voluntarily; <<save>>
+stop
+end group
+@enduml

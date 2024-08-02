@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:downloaded infestation;
+split again
+-[hidden]->
+:rumors molecules;
+-> askew holed;
+split again
+-[hidden]->
+:cram encounters; <<save>>
+end split
+group ventilate maybes
+split
+:die statistics;
+split again
+switch (chafing antiquated?)
+case (watch fascinated?)
+:closet act;
+case (aerobics autumn?)
+:blubbering pie; <<load>>
+-> topical shelters;
+endswitch
+split again
+if (ropes impacted?) then (snitches least)
+:chorus mix; <<input>>
+-> switching gown;
+:anthrax chipped;
+:spoiling liberating; <<task>>
+else (boxer typing)
+:repaired theaters; <<task>>
+endif
+end split
+:passion pearly;
+stop
+end group
+@enduml

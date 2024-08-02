@@ -1,0 +1,26 @@
+@startuml
+participant "outbid intravenously" as 0
+participant "bunt southbound" as 1
+participant "processional bake" as 2
+box "knoll basements"
+participant "sealing runaround" as 3
+participant "grandkid symbolically" as 4
+end box
+0 -> 4: beggar grandkid
+0 --//o 3++ : generally nigh
+0 -// 1: solid wow
+critical literally patter
+0 -// 3: thing championships
+alt privileged adage
+...psychosis recycles...
+0 -\\ 0: sabbath melody
+return intellectual shorten
+2 -> 4: question navigating
+else pink footnote
+2 <-] : lesions addressed
+else compensated nihilist
+create participant "housekeeper dredged" as 5
+2 -> 5 : housekeeper dredged
+end
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "hooter blathering" as 0
+participant "dinks annul" as 1
+== horror reconnaissance ==
+autonumber 7 3
+ [-> 0: showed enemies
+1 -\\ 0++ : umpire unlocked
+autonumber stop
+ [<- 1: midtown delights
+return clutter ill
+autonumber resume
+@enduml

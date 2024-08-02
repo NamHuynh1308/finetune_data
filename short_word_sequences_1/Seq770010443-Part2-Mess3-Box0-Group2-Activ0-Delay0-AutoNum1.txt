@@ -1,0 +1,12 @@
+@startuml
+participant "knee paved" as 0
+participant "theatre cyclone" as 1
+autonumber 4 6
+alt proposing anesthesiologist
+1 -// 0: hacked acoustic
+1 -> 0: boar wandering
+end
+alt cleaners earl
+1 <-> 1: groaning connect
+end
+@enduml

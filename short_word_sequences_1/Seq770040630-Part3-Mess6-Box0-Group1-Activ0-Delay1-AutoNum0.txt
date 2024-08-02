@@ -1,0 +1,16 @@
+@startuml
+participant "terra drools" as 0
+participant "wrestler fragrance" as 1
+participant "lovelorn allegiances" as 2
+== shifts strongbox ==
+ [<- 0: wearer profusely
+opt agent ninny
+0 ->o 2: roomful fella
+1 ->> 0: nerves drawback
+else neglecting mistrust
+...proverbial valise...
+0 <-] : tummy peck
+1 -> 2: facet shipped
+ [-> 2: tiring showroom
+end
+@enduml

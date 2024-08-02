@@ -1,0 +1,18 @@
+@startuml
+box "tying gliders"
+participant "garibaldi yuppie" as 0
+end box
+autonumber 7 10
+alt totalled fishes
+0 <-] : bedridden ladders
+0 -\\ 0: sore incidentally
+else landlady surfaced
+0 -> 0++ : scud reproduction
+autonumber stop
+...raiding axle...
+0 --> 0++ : contents detest
+else dealer raiser
+end
+return disorientation ribbons
+return metaphors salvation
+@enduml

@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:blossomed buttering;
+split again
+-[hidden]->
+:casino mike;
+split again
+-[hidden]->
+:intelligently doghouse;
+-> merging slid;
+split again
+-[hidden]->
+:guarded wimp; <<task>>
+end split
+group degrading olds
+if (perspectives ad?) then (weeny unified)
+:footwork peeks;
+while (zest maxi?) is (chagrined tolerate)
+backward:conference shark;
+repeat
+backward:fully seventh;
+repeat while (hobbies callous?) is (authenticated sense)
+endwhile (simplistic snarling)
+-[hidden]->
+detach
+else (bumped sensation)
+:stepmother colored;
+:accountability jaw; <<procedure>>
+endif
+stop
+end group
+@enduml

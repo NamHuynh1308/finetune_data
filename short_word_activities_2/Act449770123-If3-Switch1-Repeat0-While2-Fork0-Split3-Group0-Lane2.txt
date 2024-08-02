@@ -1,0 +1,77 @@
+@startuml
+|1| nosebleeds unseasonably
+|2| kent sunbathing
+|1|
+start
+:commander cages;
+-> commodity pooch;
+:separates carry; <<input>>
+split
+:unwilling attendants;
+split again
+switch (abandoning keycard?)
+case (demur publish?)
+:statute laird; <<input>>
+case (butterflies buggered?)
+:illustrate dancing; <<save>>
+case (bangers sluggish?)
+:background catalyst;
+case (radiator preemptive?)
+:lessen tickets;
+endswitch
+split again
+:lenses cleaned;
+while (coals planet?) is (haircut sarcophagus)
+:insights gracefully; <<output>>
+backward:commands holier;
+if (preferably spectrum?) then (servings tate)
+:croon denominational;
+:hilt biohazard; <<task>>
+-> myth cared;
+else (orphanage taxpayers)
+:manufactured hotdog; <<task>>
+-> retraction clarify;
+:medical ruse;
+-> urinating tickling;
+:exhibition babbling; <<output>>
+while (hippie finer?) is (dumplings hurtling)
+:composition revolutions; <<output>>
+-> emulating thinning;
+:masturbated flared;
+endwhile (cerebrum ago)
+-[hidden]->
+detach
+endif
+:groundskeeper tenth; <<procedure>>
+endwhile (hollandaise polling)
+-[hidden]->
+detach
+end split
+if (fairest skeptic?) then (locking scratched)
+if (scientist pear?) then (overlapping executives)
+(disclosed major) elseif (slowing pokes?) then (peeking spectrum)
+:parliamentary ridiculously; <<output>>
+(swims trench) elseif (barefoot regret?) then (duffle quickie)
+:lunch forage;
+endif
+else (spurred remedied)
+split
+:colorado betrayer;
+split again
+:tolerate entomologist; <<task>>
+split again
+:coupon imperfections;
+end split
+:ooze hushed; <<load>>
+split
+:airplanes reconnecting;
+split again
+:apathy sardine;
+split again
+:atrophied losses;
+end split
+endif
+:remembering theatres; <<input>>
+-> ballroom focussed;
+stop
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "distillery colours" as 0
+participant "messes tones" as 1
+autonumber 0 10
+critical rummy forest
+0 -> 0!! : legendary seducing
+0 -> 0: samaritan insistent
+end
+0 ->> 1: coon civilized
+...enjoyment halves...
+0 -\\ 0: gauge transport
+0 -// 0: cleats accountable
+@enduml

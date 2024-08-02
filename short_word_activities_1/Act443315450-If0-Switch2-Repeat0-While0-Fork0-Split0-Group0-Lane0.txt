@@ -1,0 +1,21 @@
+@startuml
+:cuisine batty; <<continuous>>
+-> sociable fib;
+switch (communion glades?)
+case (squads candid?)
+:pothead star;
+-> mousey proposed;
+case (crouching cardiology?)
+switch (proud servicing?)
+case (oblige extensive?)
+:romantic salesmen;
+-> gas linear;
+case (preying outlast?)
+:minds approved;
+endswitch
+case (magnitude corridor?)
+:nocturnal doggy;
+kill
+endswitch
+end
+@enduml

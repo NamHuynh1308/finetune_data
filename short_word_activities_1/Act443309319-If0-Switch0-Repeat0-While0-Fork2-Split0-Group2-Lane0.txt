@@ -1,0 +1,23 @@
+@startuml
+start
+group tomcat ramifications
+fork
+:localized committing;
+fork again
+:overtaken garish; <<procedure>>
+fork again
+fork
+:civilizations undermining;
+fork again
+:patrolled protective;
+fork again
+:stumped wavelengths;
+end merge
+end merge
+:anchorage accused; <<output>>
+group hostile soothsayer
+:buckets fanfare;
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,63 @@
+@startuml
+split
+-[hidden]->
+:ironies capitalist;
+split again
+-[hidden]->
+:transactions comforted; <<task>>
+-> raspberry knob;
+split again
+-[hidden]->
+switch (sympathy papers?)
+case (sinuses advocating?)
+:student duty;
+case (interrogate luce?)
+:unearthed mothballs;
+case (retaliated immersion?)
+:stairwell strikes;
+endswitch
+split again
+-[hidden]->
+:painfully unnecessary; <<continuous>>
+end split
+group tramps whistle
+:combo spotted; <<input>>
+if (teased texas?) then (chameleon thermal)
+while (subdued opposed?) is (addressed paramedic)
+:thought ibuprofen;
+:viral routes;
+endwhile (aqua colds)
+:skipper cellulite;
+:goons superiors; <<procedure>>
+:yells nixed; <<save>>
+else (bin membranes)
+split
+:comeuppance eyesore;
+split again
+:discs cone; <<output>>
+split again
+:carolers salutations; <<input>>
+end split
+if (amen privileged?) then (bombings piling)
+(runs chesty) elseif (roughage snatches?) then (given terra)
+:operative tackles; <<save>>
+(ax pollution) elseif (spiral topics?) then (yards auger)
+:miracle assassination; <<continuous>>
+-> mattress biker;
+endif
+if (golf eddy?) then (voters daily)
+:serenity clawed; <<output>>
+else (begins rand)
+:ralph strap;
+:focussed self; <<continuous>>
+:overprotective beach;
+kill
+endif
+endif
+end group
+group organisms penniless
+:sugar aces; <<input>>
+-> stills sweatshirt;
+stop
+end group
+@enduml

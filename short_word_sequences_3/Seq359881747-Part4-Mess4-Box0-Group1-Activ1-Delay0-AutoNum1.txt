@@ -1,0 +1,18 @@
+@startuml
+participant "meanings appetite" as 0
+participant "outsmarted shines" as 1
+participant "bonkers babysitter" as 2
+participant "bacteria exhilarating" as 3
+autonumber 8 2
+loop dependency van
+1 -> 2: orbital breast
+2 -> 3!! : astute commoner
+autonumber stop
+3 -> 1!! : lowe faulty
+autonumber resume
+else hideously fern
+3 <-> 1++ : vital marijuana
+else stroller detecting
+end
+return discoloration swings
+@enduml

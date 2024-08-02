@@ -1,0 +1,12 @@
+@startuml
+participant "kudos fairness" as 0
+participant "camping shed" as 1
+== prize returned ==
+autonumber 2 1
+create participant "wrecking pierced" as 2
+0 -> 2 : wrecking pierced
+0 -> 1: hotels unfaithful
+autonumber stop
+2 -->x 2: slurp ownership
+autonumber resume
+@enduml

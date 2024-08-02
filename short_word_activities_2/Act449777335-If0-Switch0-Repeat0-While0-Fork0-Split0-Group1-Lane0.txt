@@ -1,0 +1,9 @@
+@startuml
+start
+:racked physically; <<task>>
+group matador perjury
+:thinks abnormality;
+-> foolishness catastrophe;
+stop
+end group
+@enduml

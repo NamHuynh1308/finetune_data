@@ -1,0 +1,21 @@
+@startuml
+participant "consume family" as 0
+box "stuffy openings"
+participant "doe seed" as 1
+participant "technical workday" as 2
+end box
+autonumber 5 9
+alt recriminations pies
+ [-> 0: raining colleen
+autonumber stop
+2 ->> 1++ : alan mole
+autonumber resume
+0 --> 1++ : concord insulation
+create participant "softener trespasser" as 3
+0 -> 3 : softener trespasser
+create participant "damaging straitjacket" as 4
+0 -> 4 : damaging straitjacket
+end
+return historically elder
+return fundamental bumming
+@enduml

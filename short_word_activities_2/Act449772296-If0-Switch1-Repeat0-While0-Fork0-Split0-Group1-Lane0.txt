@@ -1,0 +1,14 @@
+@startuml
+start
+:fruition impaired; <<continuous>>
+group sandal location
+switch (mermaid womanizing?)
+case (sparring losses?)
+:bosses foiled;
+case (clapping betrayer?)
+:backstroke highlight; <<procedure>>
+-> blending flag;
+endswitch
+stop
+end group
+@enduml

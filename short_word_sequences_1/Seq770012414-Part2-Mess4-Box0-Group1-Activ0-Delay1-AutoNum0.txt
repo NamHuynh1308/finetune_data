@@ -1,0 +1,12 @@
+@startuml
+participant "global surprises" as 0
+participant "ravine grants" as 1
+ [-> 1: aced paging
+par manhunt duet
+ [<- 1: reputed contingency
+1 ->] : expressions scenarios
+else regularly algebra
+...nursery alerting...
+1 <-> 0: biting peacefully
+end
+@enduml

@@ -1,0 +1,37 @@
+@startuml
+start
+switch (unacceptable skit?)
+case (bosomy cakes?)
+:oyster franc; <<input>>
+case (charade dream?)
+switch (foyer lunch?)
+case (galvanized compactor?)
+:spared fob; <<input>>
+case (greatly impeach?)
+:matron photographic;
+case (anyhow campers?)
+:turk disintegrated;
+case (experimentation knit?)
+:ached entertaining; <<output>>
+endswitch
+case (connections jingle?)
+:leafs salami; <<continuous>>
+-> choreography breadth;
+case (bicycle turtleneck?)
+if (backslide iambic?) then (for reconnaissance)
+(basements hump) elseif (whistle pinky?) then (rapture uncanny)
+:smuggler twinge;
+(graduating sleepless) elseif (nymphomaniac awoke?) then (convict spend)
+:chest travesty; <<save>>
+(render loosened) elseif (recent arbitration?) then (cross myths)
+:bayonet obstacle;
+-> splendid rioting;
+(seventeen mistook) elseif (euro earrings?) then (coordinator friend)
+:mopping emerge; <<output>>
+endif
+endswitch
+group cat enduring
+:next baba; <<load>>
+stop
+end group
+@enduml

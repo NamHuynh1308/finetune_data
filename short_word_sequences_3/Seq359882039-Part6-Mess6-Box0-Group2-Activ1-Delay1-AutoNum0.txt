@@ -1,0 +1,23 @@
+@startuml
+participant "rashly charismatic" as 0
+participant "responsive impressionable" as 1
+participant "unsuspecting sipping" as 2
+participant "lash ignorance" as 3
+2 --> 0: humbling slasher
+opt bourgeois bungalow
+0 -// 3++ : hags mullet
+...frolic entertaining...
+3 -> 0: batting dab
+else indulged calms
+create participant "courtside facilitate" as 4
+0 -> 4 : courtside facilitate
+else urge crypto
+1 -->x 2: gratification turbulent
+else estate silky
+critical shay visualizing
+create participant "glop wilder" as 5
+3 -> 5 : glop wilder
+return drastic spare
+end
+end
+@enduml

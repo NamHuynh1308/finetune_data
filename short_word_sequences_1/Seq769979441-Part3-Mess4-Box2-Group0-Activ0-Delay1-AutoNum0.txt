@@ -1,0 +1,14 @@
+@startuml
+participant "elderly smithers" as 0
+box "substantial handbag"
+participant "resides anew" as 1
+box "clumps homemade"
+participant "dining embarrassment" as 2
+end box
+end box
+ [-> 1: weird transfer
+0 ->x 0: cashews sharing
+1 -> 2: grandad theologian
+...embark roaring...
+0 ->o 2: diphtheria vaccinated
+@enduml

@@ -1,0 +1,36 @@
+@startuml
+start
+group creepers bravely
+:associate burton; <<task>>
+if (uncaring refreshed?) then (heroics volcano)
+repeat
+:uncertain misspelled;
+repeat while (luster sultan?) is (analysis vis)
+:shroud joyful;
+fork
+:perfume elementary;
+fork again
+:gaby staged;
+fork again
+:acupuncturist arrest;
+fork again
+:relaxants wiring;
+end fork
+kill
+else (captivating riley)
+:mutating fashionably; <<continuous>>
+-> confrontations jumpy;
+kill
+endif
+end group
+split
+:curiously commercial;
+split again
+:reprogram drew; <<load>>
+-> rollers puffy;
+split again
+:apologise confidence; <<input>>
+-> cleverness mew;
+end split
+end
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "aloft scammed" as 0
+autonumber 9 1
+0 --//o 0: oars edited
+autonumber stop
+@enduml

@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:reserving sink;
+split again
+-[hidden]->
+:cheats buster; <<save>>
+split again
+-[hidden]->
+:daddy lefty;
+end split
+group cells demonic
+while (asthma tenors?) is (breakfast groundwork)
+backward:kelly disruptive;
+if (scoundrels mass?) then (monogamy crash)
+(bill unguarded) elseif (dotes toaster?) then (functional roosters)
+:ogres tach; <<save>>
+-> trimmed condiment;
+(airways lad) elseif (peeked automatically?) then (waxy tanker)
+:intubate parfait;
+(screaming eclectic) elseif (endurance groupies?) then (extreme sleepyhead)
+:kinder absorbing; <<procedure>>
+-> booted miscalculation;
+endif
+:scorch collective;
+switch (redo redundancies?)
+case (integration risky?)
+:piazza imaginations; <<save>>
+case (blankly infectious?)
+:leering busy; <<output>>
+endswitch
+endwhile (route propped)
+:voices mo;
+stop
+end group
+@enduml

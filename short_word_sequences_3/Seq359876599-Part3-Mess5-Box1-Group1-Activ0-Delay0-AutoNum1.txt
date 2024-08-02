@@ -1,0 +1,16 @@
+@startuml
+participant "glengarry worrier" as 0
+participant "nights bloated" as 1
+box "batteries canter"
+participant "microchips blisters" as 2
+end box
+autonumber 5 0
+1 -\\ 1: rainstorm trapper
+alt handsomest complain
+2 ->x 1: happily fountains
+0 -> 1: resistant contributor
+1 --//o 1: misgivings robs
+0 -> 0: affidavit belonged
+autonumber stop
+end
+@enduml

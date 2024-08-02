@@ -1,0 +1,8 @@
+@startuml
+start
+group clothesline garland
+:holdings issued;
+-> pry skins;
+stop
+end group
+@enduml

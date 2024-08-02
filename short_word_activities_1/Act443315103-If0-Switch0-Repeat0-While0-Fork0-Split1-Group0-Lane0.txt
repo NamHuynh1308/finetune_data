@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:condoned alleging;
+split again
+-[hidden]->
+:queue environmentalist;
+-> drumstick briefs;
+split again
+-[hidden]->
+:torment letterhead; <<continuous>>
+-> repay jiff;
+split again
+-[hidden]->
+:shoreline bowed;
+-> bailey swizzle;
+end split
+:grubby conjures;
+end
+@enduml

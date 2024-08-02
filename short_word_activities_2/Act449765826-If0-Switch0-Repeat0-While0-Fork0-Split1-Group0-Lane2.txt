@@ -1,0 +1,20 @@
+@startuml
+|1| bereavement trouble
+|2| scheming evens
+split
+-[hidden]->
+:specifics tacit;
+split again
+-[hidden]->
+:ballroom influence; <<procedure>>
+split again
+-[hidden]->
+:dinosaurs tingly; <<load>>
+-> curses shore;
+end split
+|2|
+:cautiously taste;
+:sawdust wo; <<continuous>>
+-> teapot workplace;
+:nerves intervene; <<task>>
+@enduml

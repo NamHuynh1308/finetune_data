@@ -1,0 +1,11 @@
+@startuml
+box "desperado indoor"
+participant "tolerance grandeur" as 0
+participant "liars therapist" as 1
+participant "readings chatterbox" as 2
+end box
+1 -> 0++ : anthem stipulation
+1 -\\ 2: uppity narcissism
+0 -// 1: nether propose
+return silks tequila
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:veil hallucinations;
+split again
+-[hidden]->
+if (screwed metals?) then (hutch pachyderm)
+:bronze inlaid;
+while (athletes cave?) is (specifics unattended)
+backward:mirage snow;
+endwhile (team nominated)
+-[hidden]->
+detach
+else (interpretation potting)
+:psychoanalysis winding; <<load>>
+:tassels bargain;
+endif
+split again
+-[hidden]->
+:sentient caress; <<load>>
+end split
+:tipping wok; <<input>>
+end
+@enduml

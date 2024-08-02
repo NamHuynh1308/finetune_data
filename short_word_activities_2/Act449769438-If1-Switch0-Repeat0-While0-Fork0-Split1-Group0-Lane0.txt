@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:limber bags;
+split again
+-[hidden]->
+if (equinox bogs?) then (mushrooms misbehave)
+(philandering processing) elseif (displeasure inquisition?) then (onions turmoil)
+:lawman tearing;
+(efficiently stamps) elseif (trinity temporarily?) then (cranny clients)
+:expressing dullard;
+(canvas errands) elseif (ceremonies flare?) then (taint undertow)
+:profitable compartments;
+(turnaround messier) elseif (indelicate protested?) then (juncture stooping)
+:apparition fantasized;
+endif
+split again
+-[hidden]->
+:fondling referenced; <<input>>
+-> felon advancements;
+end split
+:scotch lyrics; <<continuous>>
+:alleluia imagine; <<output>>
+-> lectures postponed;
+:scow entrust; <<save>>
+@enduml

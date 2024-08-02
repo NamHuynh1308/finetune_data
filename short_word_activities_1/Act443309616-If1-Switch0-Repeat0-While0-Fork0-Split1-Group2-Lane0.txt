@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:hothead nods;
+split again
+-[hidden]->
+:finalized monitored;
+-> stillness chaperones;
+split again
+-[hidden]->
+:everyman snatching; <<output>>
+split again
+-[hidden]->
+if (bee umm?) then (darkness tan)
+:installment fabrication;
+:unexpected parakeet;
+-> aspen employees;
+:instance mockery;
+else (parliamentary garner)
+:ringers hides; <<task>>
+-> buffet mulled;
+:encounters bras;
+endif
+end split
+:spills lording; <<save>>
+-> farmers entitle;
+group attentions maps
+:hammered firecracker; <<load>>
+group volatile neck
+:equipment demise; <<continuous>>
+stop
+end group
+end group
+@enduml

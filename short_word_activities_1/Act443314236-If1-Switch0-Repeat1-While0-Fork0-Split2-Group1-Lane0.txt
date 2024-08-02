@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:straps itself;
+split again
+-[hidden]->
+split
+:businesswomen executive;
+split again
+:flamenco inland;
+kill
+split again
+:overall yell; <<continuous>>
+-> universal frizzy;
+end split
+split again
+-[hidden]->
+if (warner replace?) then (resign smug)
+(messed rubies) elseif (bushel chi?) then (lumber physique)
+:swanky slicer;
+-> cookies bendy;
+(knots torpedoed) elseif (caribou neighborhoods?) then (ordinarily slicker)
+:sue review;
+(autographed surrounded) elseif (maddening cor?) then (parker responsibly)
+:hyper brutal;
+(menorah attuned) elseif (newsman qualifying?) then (laughingstock behind)
+:exhilarating awe;
+endif
+end split
+group protections stockholder
+repeat
+:meters careers;
+repeat while (lee swords?) is (delight hugged)
+:problems circling; <<continuous>>
+end group
+end
+@enduml

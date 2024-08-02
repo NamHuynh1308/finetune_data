@@ -1,0 +1,8 @@
+@startuml
+participant "trunks dyed" as 0
+autonumber 0 2
+opt attachments egomaniacal
+create participant "popularity ample" as 1
+0 -> 1 : popularity ample
+end
+@enduml

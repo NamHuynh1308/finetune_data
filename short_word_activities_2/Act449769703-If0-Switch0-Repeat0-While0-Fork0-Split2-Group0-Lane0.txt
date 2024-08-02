@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:stove authenticity;
+split again
+-[hidden]->
+:fitch accorded; <<save>>
+-> faucets drop;
+split again
+-[hidden]->
+:feeder wiser; <<load>>
+end split
+split
+:screwed bro;
+split again
+:mustangs tracked; <<load>>
+split again
+:carving obsessive; <<input>>
+end split
+stop
+@enduml

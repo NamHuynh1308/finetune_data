@@ -1,0 +1,20 @@
+@startuml
+start
+split
+:pointed canned;
+split again
+fork
+:hum rumours;
+fork again
+:intellectual minuscule;
+fork again
+:shampoo honk;
+kill
+fork again
+:kissing revolver;
+end fork
+split again
+:languages cotton; <<input>>
+end split
+end
+@enduml

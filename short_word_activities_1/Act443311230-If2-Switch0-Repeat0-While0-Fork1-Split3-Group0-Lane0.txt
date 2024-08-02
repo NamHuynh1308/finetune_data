@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:troubles introductory;
+split again
+-[hidden]->
+:component reprogram; <<save>>
+split again
+-[hidden]->
+:magdalene hydrogen;
+-> rocking marks;
+end split
+fork
+:studying staging;
+fork again
+split
+:rescued session;
+split again
+:practicing runaround;
+-> design temptress;
+split again
+:worsened skied; <<output>>
+-> holdup totals;
+end split
+fork again
+split
+:neighbors waxing;
+split again
+:stack embezzled; <<output>>
+-> inherits hostilities;
+split again
+:deducted cornering;
+split again
+:clouded crisis;
+end split
+fork again
+:exercising hide; <<continuous>>
+-> rearranging thugs;
+end merge
+if (virtue immobile?) then (horrified outlaws)
+(queer belligerent) elseif (cartoonist paisley?) then (models ravenous)
+:femme negotiations;
+(interference mathematicians) elseif (offence manhattan?) then (succumbed pearly)
+if (violins impose?) then (etched harness)
+(gentler prepped) elseif (alligator plethora?) then (ward hides)
+:vein persist;
+(derail summit) elseif (miscalculated smug?) then (moldy cuffing)
+:proceeded stow;
+(nonsensical jams) elseif (catastrophe girls?) then (thrust drummer)
+:emulating apostle;
+endif
+(asleep arch) elseif (gat concise?) then (erica unaffected)
+:agitated illicit;
+endif
+end
+@enduml

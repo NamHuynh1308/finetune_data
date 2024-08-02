@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:singling creep;
+split again
+-[hidden]->
+:indistinguishable favours; <<continuous>>
+split again
+-[hidden]->
+:queller handguns; <<load>>
+-> quiet qualified;
+end split
+group mutilate needed
+repeat
+:moldy kris; <<save>>
+backward:fluke sterile;
+:toilets knight;
+repeat while (invention units?) is (rear jail)
+fork
+:mosey substitute;
+fork again
+:excuse opinions;
+kill
+fork again
+split
+:uninsured reconnected;
+split again
+:housed tasks;
+split again
+:eleven nameless;
+end split
+fork again
+repeat
+:bigamy lava;
+backward:pinball commensurate;
+repeat while (mulling suffocated?) is (west radial)
+end merge
+end group
+@enduml

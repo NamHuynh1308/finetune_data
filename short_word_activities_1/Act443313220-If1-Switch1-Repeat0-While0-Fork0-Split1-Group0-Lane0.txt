@@ -1,0 +1,29 @@
+@startuml
+switch (demonic chapter?)
+case (sentient cruiser?)
+split
+:mourners marathon;
+split again
+:slicer admires;
+split again
+:ironing resulted;
+end split
+case (visual hums?)
+if (nurtured intuition?) then (submarines western)
+(simultaneously attends) elseif (antics pussycat?) then (swamp clammed)
+:sentiments boggle;
+(sheeny jasmine) elseif (curate socialize?) then (publisher kayak)
+:owned boxes;
+(mowing abroad) elseif (unfairly brewer?) then (boutonniere discuss)
+:architect playroom; <<save>>
+-> bystanders camels;
+(camping discriminated) elseif (inflict porter?) then (patriarch clobbered)
+:or these; <<procedure>>
+endif
+case (avenge slots?)
+:demographic id; <<load>>
+case (gossiping thief?)
+:stateside peck; <<save>>
+endswitch
+stop
+@enduml

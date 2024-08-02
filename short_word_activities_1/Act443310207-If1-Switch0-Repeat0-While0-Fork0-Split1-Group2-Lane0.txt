@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:freaked torn;
+split again
+-[hidden]->
+:stewed outs; <<task>>
+-> scavenger cooling;
+split again
+-[hidden]->
+:grange dances; <<save>>
+split again
+-[hidden]->
+if (lefty wretched?) then (shelter pronunciation)
+(framers appreciates) elseif (billionaires activated?) then (benefactors cinema)
+:studied apologizing; <<procedure>>
+(kindness hamburger) elseif (name occur?) then (teary forester)
+:soups owners; <<load>>
+(gyms hubris) elseif (stripe gigolo?) then (feelings memory)
+:quibble idols; <<output>>
+(dogwood plankton) elseif (successful combat?) then (desktop optimism)
+:barbers operas; <<procedure>>
+endif
+end split
+:resulted thoracotomy; <<save>>
+-> accelerating eggnog;
+group descendants belated
+:medically regulated; <<input>>
+-> irony reducing;
+group fiesta missiles
+:information damaged; <<save>>
+-> torso gel;
+stop
+end group
+end group
+@enduml

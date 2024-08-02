@@ -1,0 +1,20 @@
+@startuml
+participant "countless flatter" as 0
+participant "surgically automatics" as 1
+box "cartoon newspapers"
+participant "considering hippos" as 2
+end box
+0 ->> 1++ : rickey wallowing
+...bicker relentless...
+2 ->] : loveliest recognize
+create participant "infestation insects" as 3
+1 -> 3 : infestation insects
+loop fruitful tipping
+3 -> 3++ : neve cleanse
+...reliance liven...
+1 -> 2++ : alcoholism guns
+end
+return sears initiated
+return peoples loaded
+return maintained benefits
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "fuchsia horsey" as 0
+box "corporation eng"
+participant "follow goofball" as 1
+end box
+0 -> 1++ : rewrote missionaries
+par payback tree
+0 -> 0!! : should dike
+end
+return orbital entertaining
+@enduml

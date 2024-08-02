@@ -1,0 +1,37 @@
+@startuml
+|1| cows icky
+|2| denominational two
+split
+-[hidden]->
+:lawman resident;
+split again
+-[hidden]->
+:superintendent unbecoming; <<procedure>>
+split again
+-[hidden]->
+:beauty chickadee; <<load>>
+split again
+-[hidden]->
+:prod unbeknownst; <<output>>
+end split
+if (companion sphere?) then (swamped zeal)
+(cursive gender) elseif (camel types?) then (thief antiques)
+:thermos bongo;
+(journal postmortem) elseif (genie roughnecks?) then (classics souvenirs)
+:planing ruby; <<output>>
+-> trustworthy anyway;
+endif
+:fascism perjure; <<output>>
+|2|
+while (veronica nods?) is (willfully booked)
+:lashed roped; <<task>>
+while (realistically parachuting?) is (discoloration lark)
+:boss bassett;
+endwhile (wholeheartedly tenure)
+:pave precedence;
+backward:pinecone bid;
+endwhile (wink hitchhiker)
+:fryer materials;
+|1|
+:sunset recession; <<continuous>>
+@enduml

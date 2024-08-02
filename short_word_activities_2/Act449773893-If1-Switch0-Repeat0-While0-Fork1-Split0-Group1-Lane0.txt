@@ -1,0 +1,17 @@
+@startuml
+group treat decompose
+fork
+:dominates guardians;
+fork again
+if (assistant moon?) then (forthwith enjoy)
+(morally whiff) elseif (earthlings resort?) then (digits overstay)
+:offenders cynical; <<input>>
+(intent flipping) elseif (shrugs womb?) then (rests blames)
+:moved occupation;
+endif
+fork again
+:convict behavioral; <<output>>
+end fork
+stop
+end group
+@enduml

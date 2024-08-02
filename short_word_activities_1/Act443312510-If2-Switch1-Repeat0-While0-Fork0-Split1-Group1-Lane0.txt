@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:christened exorcist;
+split again
+-[hidden]->
+:fitch magnolia;
+split again
+-[hidden]->
+if (expenses lax?) then (starlets moneys)
+(blueberry sanitation) elseif (democratic mutating?) then (cleaner redeeming)
+:infinitely tas; <<load>>
+-> ogres buckle;
+(vessels sparky) elseif (sucks droppings?) then (lamppost molecule)
+:mucous wrestler; <<save>>
+-> ardent converting;
+(windmills deceive) elseif (discredit trimmers?) then (night penance)
+:chaperone receipts; <<output>>
+-> chevalier totem;
+endif
+split again
+-[hidden]->
+if (eth doling?) then (sob baste)
+(rave merchandising) elseif (treasurer lacks?) then (reported heat)
+:spaghetti caress; <<load>>
+(lasers adversely) elseif (fending latex?) then (climate guaranteed)
+:champ distasteful;
+-> fearless prone;
+(delightfully tablespoon) elseif (surrogate zeroed?) then (houseguest spoils)
+:brooms sentiment; <<load>>
+endif
+end split
+group balboa poltergeist
+:luau extramarital; <<save>>
+-> flown knickers;
+switch (cathartic engulfed?)
+case (rashly extracts?)
+:presume decryption; <<procedure>>
+case (blood genre?)
+:arranged bet; <<procedure>>
+endswitch
+end group
+end
+@enduml

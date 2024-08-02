@@ -1,0 +1,20 @@
+@startuml
+participant "hellhound superintendent" as 0
+participant "hamburger recliner" as 1
+participant "sprinkler lukewarm" as 2
+participant "buyers rouse" as 3
+participant "sequencing playful" as 4
+2 ->> 1++ : hibernation freckling
+opt shaman managed
+2 -> 3: eaters includes
+return susceptible pitiful
+4 -> 1: stamps aboveboard
+else kilo tryout
+4 ->> 4: oho amber
+else immodest silenced
+1 --> 1: dobbin geneticist
+0 -// 0++ : retrofit welts
+2 -> 2!! : politics reneging
+end
+return gamer inject
+@enduml

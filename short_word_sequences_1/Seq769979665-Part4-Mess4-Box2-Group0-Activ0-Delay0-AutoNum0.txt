@@ -1,0 +1,14 @@
+@startuml
+participant "quantities repartee" as 0
+participant "veterinary headlines" as 1
+box "canvass warranted"
+participant "splitting handing" as 2
+box "craftsmen signing"
+participant "stressing conn" as 3
+end box
+end box
+0 -> 0: sponsored bubbies
+1 -->x 3: years apologizes
+0 -\\ 3: environmental neckline
+3 --> 1: chevalier most
+@enduml

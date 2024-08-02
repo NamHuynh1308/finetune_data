@@ -1,0 +1,20 @@
+@startuml
+box "table telephones"
+participant "convenience doomed" as 0
+end box
+== finishes wisely ==
+0 ->o 0: detachment meathead
+0 --//o 0: allies unprepared
+par feasible win
+0 ->x 0++ : scruples selling
+opt marooned prohibited
+create participant "rechecked er" as 1
+0 -> 1 : rechecked er
+opt whiter surrendered
+create participant "upset youse" as 2
+1 -> 2 : upset youse
+end
+end
+end
+return systemic gamble
+@enduml

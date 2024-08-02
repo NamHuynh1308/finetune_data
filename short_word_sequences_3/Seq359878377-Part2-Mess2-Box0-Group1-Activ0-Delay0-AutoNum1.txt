@@ -1,0 +1,11 @@
+@startuml
+participant "jerks drums" as 0
+participant "armory curl" as 1
+autonumber 0 6
+0 -> 1: errands quoting
+autonumber stop
+break crux freelancing
+1 ->] : permanent panic
+autonumber resume
+end
+@enduml

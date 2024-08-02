@@ -1,0 +1,16 @@
+@startuml
+participant "pecking titan" as 0
+participant "smeared vocals" as 1
+participant "medal shifty" as 2
+autonumber 6 1
+1 -> 0++ : brawl sociable
+autonumber stop
+ [-> 2: observatory steamed
+return cost incredibly
+1 -> 1: gravity accounts
+create participant "luck felt" as 3
+1 -> 3 : luck felt
+0 <-] : statehood misled
+autonumber resume
+2 ->o 2: thorn pounder
+@enduml

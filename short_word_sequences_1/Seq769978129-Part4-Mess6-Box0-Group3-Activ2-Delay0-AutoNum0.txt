@@ -1,0 +1,22 @@
+@startuml
+participant "moody radio" as 0
+participant "spoon abut" as 1
+participant "spreading pitching" as 2
+participant "resign washer" as 3
+== charlatan chap ==
+opt noodle fallout
+0 -> 3++ : carlin oversleep
+0 -> 1: disinformation immobilize
+return transmitted entail
+else declared pitiful
+break satellite wartime
+0 ->> 1: awakening initiating
+3 -\\ 1++ : janitors thereafter
+3 -->x 0: wartime exasperated
+return afternoons irrelevant
+alt stealer blaring
+0 <-] : defensive latch
+end
+end
+end
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:courses rigor;
+split again
+-[hidden]->
+:nasty heel;
+split again
+-[hidden]->
+repeat
+:pneumonia ingenue;
+-> effeminate bannister;
+repeat while (wanton file?) is (gill gaslight)
+-> champs inquest;
+end split
+group poke chicken
+:brewer factual;
+:peppermint immutable;
+end group
+:rashly besieged; <<continuous>>
+@enduml

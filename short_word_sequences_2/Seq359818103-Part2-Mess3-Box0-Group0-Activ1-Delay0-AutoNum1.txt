@@ -1,0 +1,11 @@
+@startuml
+participant "evaluations disadvantage" as 0
+== bask postmaster ==
+autonumber 5 1
+0 -> 0: creases winery
+create participant "males kibble" as 1
+0 -> 1 : males kibble
+0 -> 1++ : practising selections
+autonumber stop
+return wasp stringing
+@enduml

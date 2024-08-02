@@ -1,0 +1,5 @@
+@startuml
+participant "conclude aims" as 0
+autonumber 10 6
+0 --> 0: aside burial
+@enduml

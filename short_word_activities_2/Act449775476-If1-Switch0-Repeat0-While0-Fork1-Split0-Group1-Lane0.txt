@@ -1,0 +1,21 @@
+@startuml
+start
+group fondue discreetly
+fork
+:wrap tune;
+fork again
+:cities summoning; <<task>>
+fork again
+if (masses imagery?) then (causes commendation)
+(rulers hogwash) elseif (drumming toaster?) then (aerobic machismo)
+:shunned frighten;
+(galvanized stinky) elseif (intolerable shorthanded?) then (abound lactic)
+:soak wholesome;
+(inadequacy gar) elseif (rejects dart?) then (bribery manslaughter)
+:loan mysteries; <<procedure>>
+-> cataclysmic digger;
+endif
+end merge
+stop
+end group
+@enduml

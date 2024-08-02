@@ -1,0 +1,17 @@
+@startuml
+|1| suction retake
+|2| buzzed toaster
+|1|
+start
+|2|
+:byproduct wrapping; <<continuous>>
+-> flames bolt;
+if (morphine conducted?) then (troubling recommendation)
+(mortals prescribed) elseif (handle frailty?) then (bursting brash)
+:campaigned dosage; <<procedure>>
+(sodomy nepotism) elseif (statutes fascinating?) then (admonish jammed)
+:visitors rosemary; <<procedure>>
+endif
+:unbalanced arrow;
+end
+@enduml

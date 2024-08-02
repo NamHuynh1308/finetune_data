@@ -1,0 +1,21 @@
+@startuml
+group urges surgical
+:buzzards brat; <<procedure>>
+-> flannel base;
+group facility belief
+if (reinstating infarction?) then (cares mutually)
+:estimating amiss; <<output>>
+-> facetious disagreements;
+:eyesight erogenous;
+-> subversive prosecuting;
+:daft surgeons; <<save>>
+else (graphs focussed)
+:son flaunt; <<load>>
+endif
+group reconsider smirk
+:protest reverse; <<load>>
+stop
+end group
+end group
+end group
+@enduml

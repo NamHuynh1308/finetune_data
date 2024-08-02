@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:born coma;
+split again
+-[hidden]->
+:weakening suggesting;
+split again
+-[hidden]->
+switch (schizo tubs?)
+case (plots intrude?)
+:cyst discoloration; <<load>>
+case (doughnuts monogrammed?)
+:island identified;
+case (farina gliders?)
+:goblins windshield; <<save>>
+-> check nod;
+case (quaker tossing?)
+:weighed relatively;
+endswitch
+end split
+if (briefed from?) then (upsets explicit)
+(command epidemic) elseif (strolls conducive?) then (understand eccentricities)
+:pet bey;
+-> afloat regarding;
+(damsels carnival) elseif (scoundrel pleasures?) then (classics approved)
+fork
+:puny factory;
+fork again
+:dairy wary; <<continuous>>
+fork again
+:earmarks parks;
+-> nirvana wield;
+fork again
+:confused newsstand; <<continuous>>
+end merge
+(carving incantations) elseif (factual elegant?) then (helplessly caviar)
+:dogs chronology; <<procedure>>
+endif
+@enduml

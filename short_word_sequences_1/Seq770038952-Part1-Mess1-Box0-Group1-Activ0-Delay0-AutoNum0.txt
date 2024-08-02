@@ -1,0 +1,7 @@
+@startuml
+participant "berserk definition" as 0
+== money loud ==
+alt tolerant thinking
+0 <-> 0: singleton spoiling
+end
+@enduml

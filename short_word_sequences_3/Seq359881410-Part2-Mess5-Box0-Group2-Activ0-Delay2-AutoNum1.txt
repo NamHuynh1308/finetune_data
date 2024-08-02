@@ -1,0 +1,17 @@
+@startuml
+participant "forbid wonder" as 0
+autonumber 5 6
+0 ->> 0: luscious palette
+alt laughs urged
+0 ->o 0: stupor overpriced
+create participant "stains securely" as 1
+0 -> 1 : stains securely
+else driving outvoted
+...employment unified...
+1 ->] : headlock shine
+loop weave reveling
+...dodgy hollers...
+0 -> 1!! : diddly skinny
+end
+end
+@enduml

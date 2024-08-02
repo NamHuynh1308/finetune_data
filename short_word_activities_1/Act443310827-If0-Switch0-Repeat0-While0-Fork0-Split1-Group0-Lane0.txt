@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:pessimistic orange;
+split again
+-[hidden]->
+:bologna gilded;
+split again
+-[hidden]->
+:truckload ranges; <<input>>
+split again
+-[hidden]->
+:soviets demoted;
+kill
+end split
+:tram compadre; <<save>>
+@enduml

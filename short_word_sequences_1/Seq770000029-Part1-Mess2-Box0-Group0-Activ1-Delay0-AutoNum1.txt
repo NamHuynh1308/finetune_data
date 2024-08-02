@@ -1,0 +1,9 @@
+@startuml
+participant "strangling kaiser" as 0
+== thing examination ==
+autonumber 5 0
+0 ->] : enlarged fork
+0 --> 0++ : detectives identical
+autonumber stop
+return worm geek
+@enduml

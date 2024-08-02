@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:lowlifes cobweb;
+split again
+-[hidden]->
+switch (hardy sadder?)
+case (casually sided?)
+:escort grab; <<load>>
+case (sunless dare?)
+:later mesmerizing;
+endswitch
+split again
+-[hidden]->
+:chalked avoiding; <<save>>
+-> stronghold infiltrated;
+end split
+:denning luxury; <<procedure>>
+-> cellulite tagged;
+:tabloids bathed; <<continuous>>
+-> soaking rookie;
+end
+@enduml

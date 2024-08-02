@@ -1,0 +1,5 @@
+@startuml
+start
+:flinging bookcase; <<load>>
+stop
+@enduml

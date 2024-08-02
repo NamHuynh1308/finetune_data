@@ -1,0 +1,17 @@
+@startuml
+participant "naming grandad" as 0
+participant "mirage grandpa" as 1
+box "monthly wringing"
+participant "prankster badness" as 2
+participant "routing sightings" as 3
+end box
+critical renovating root
+ [-> 1: buzzard embarrassed
+3 ->o 1: governmental advocacy
+else overlap astronaut
+...deserved fireman...
+0 ->o 1: apocalyptic phenomena
+2 --//o 2++ : clippings supervised
+end
+return judging quizzes
+@enduml

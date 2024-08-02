@@ -1,0 +1,15 @@
+@startuml
+participant "resolve barbecues" as 0
+autonumber 1 6
+0 <-> 0: registrar troupe
+autonumber stop
+...snapper compiling...
+0 -> 0: apology expiration
+0 -> 0: westward downpour
+autonumber resume
+critical cyborg bay
+create participant "whining paradigm" as 1
+0 -> 1 : whining paradigm
+1 ->] : locker sharking
+end
+@enduml

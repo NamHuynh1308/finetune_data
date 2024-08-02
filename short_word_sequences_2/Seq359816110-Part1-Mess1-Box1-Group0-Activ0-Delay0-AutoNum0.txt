@@ -1,0 +1,7 @@
+@startuml
+box "clumsiness chrome"
+participant "regency mainly" as 0
+end box
+== riddler unselfish ==
+0 -> 0!! : distracted libraries
+@enduml

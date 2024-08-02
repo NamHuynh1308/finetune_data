@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:surfers feline;
+split again
+-[hidden]->
+:packer unwarranted; <<procedure>>
+-> ceremony massively;
+split again
+-[hidden]->
+:mattered awarded;
+-> attempting gargling;
+end split
+group ski miraculously
+:hangout shootout; <<save>>
+split
+:node unmarked;
+split again
+:woops technician;
+split again
+:mitts kiddie; <<output>>
+-> youse second;
+end split
+end group
+split
+:phantoms shoreline;
+split again
+switch (mew stub?)
+case (racket defects?)
+:proceedings enlisting;
+case (pepperoni activating?)
+:correspondent taj;
+endswitch
+split again
+:polled shrugging;
+-> disbelief toothpicks;
+split again
+:unprofessional inability; <<save>>
+end split
+stop
+@enduml

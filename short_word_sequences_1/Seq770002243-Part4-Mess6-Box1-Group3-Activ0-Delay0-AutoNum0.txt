@@ -1,0 +1,22 @@
+@startuml
+box "protected breech"
+participant "wrinkly cringe" as 0
+participant "chef rent" as 1
+participant "slung appears" as 2
+end box
+== halfway slumming ==
+alt nous caliber
+2 -> 1: horizon parlour
+1 -> 2!! : drowsy soothe
+end
+ [-> 0: amaze halls
+critical guff month
+0 ->> 0: navigational skied
+alt cleaned brute
+create participant "yippie packed" as 3
+0 -> 3 : yippie packed
+1 <-] : sidle reactors
+else championship footed
+end
+end
+@enduml

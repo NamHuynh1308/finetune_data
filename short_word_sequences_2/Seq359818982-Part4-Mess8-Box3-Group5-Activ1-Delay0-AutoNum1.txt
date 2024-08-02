@@ -1,0 +1,33 @@
+@startuml
+box "doily gagged"
+participant "slam trees" as 0
+box "sparks knitting"
+participant "order decoupage" as 1
+box "pralines jazzed"
+participant "ivory penguin" as 2
+participant "goose services" as 3
+end box
+end box
+end box
+autonumber 7 6
+0 --> 3: demolish britt
+par diver arrivals
+0 ->> 2: sounded labored
+alt conditions catfight
+2 -\\ 0: clam jocks
+2 ->] : jiggle shagging
+end
+opt diffuse minuses
+2 ->] : magnificent rubber
+ [<- 1: towed yesterdays
+par cornucopia mint
+3 -> 2++ : nasty ailing
+break focussing resisting
+1 ->] : hauls suburban
+autonumber stop
+end
+end
+end
+end
+return wrinkled steep
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+box "josh refrain"
+participant "sessions duration" as 0
+participant "whitey fess" as 1
+end box
+== officers rya ==
+break simpletons creature
+0 --//o 1: winning hamsters
+...kooky stag...
+1 -\\ 0: rhinestones accusers
+end
+@enduml

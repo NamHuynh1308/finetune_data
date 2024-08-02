@@ -1,0 +1,24 @@
+@startuml
+participant "stung reds" as 0
+box "jollies irrigate"
+participant "slots obeying" as 1
+participant "detain beleaguered" as 2
+participant "rural hiccups" as 3
+end box
+participant "sunset main" as 4
+0 -> 4: fascinating lowlife
+alt throne wallowing
+...exploding surgically...
+0 -> 2: horses heavy
+ [<- 4: petite dragged
+2 ->o 3: potential sickly
+...recreation treatable...
+0 <-] : insults spar
+2 ->> 2++ : mime actionable
+2 <-] : absurd qualifying
+return blockhead predators
+create participant "ducking swamps" as 5
+3 -> 5 : ducking swamps
+else cleanses overweight
+end
+@enduml

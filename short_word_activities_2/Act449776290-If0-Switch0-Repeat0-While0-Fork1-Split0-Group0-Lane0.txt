@@ -1,0 +1,12 @@
+@startuml
+start
+fork
+:lawsuit mobs;
+fork again
+:delusional vespers; <<procedure>>
+-> entered record;
+fork again
+:subtlety borrow; <<load>>
+end merge
+end
+@enduml

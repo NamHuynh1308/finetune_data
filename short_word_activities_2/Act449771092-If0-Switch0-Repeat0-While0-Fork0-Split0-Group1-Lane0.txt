@@ -1,0 +1,8 @@
+@startuml
+start
+:insulin elapsed; <<output>>
+group propane endorse
+:looting controlled; <<procedure>>
+stop
+end group
+@enduml

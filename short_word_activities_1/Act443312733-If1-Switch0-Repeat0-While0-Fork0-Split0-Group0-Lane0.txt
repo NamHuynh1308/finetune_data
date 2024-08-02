@@ -1,0 +1,10 @@
+@startuml
+start
+if (pop faulty?) then (allegation succession)
+(opened influenza) elseif (buttering wake?) then (pacifier disagreed)
+:declaration blazer;
+(mashed grammar) elseif (shivers convenient?) then (gondola inconsolable)
+:pillow stumble; <<procedure>>
+-> materials connections;
+endif
+@enduml

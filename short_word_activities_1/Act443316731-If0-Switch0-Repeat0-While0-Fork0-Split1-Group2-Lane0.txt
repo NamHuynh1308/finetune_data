@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:refined schooled;
+split again
+-[hidden]->
+:concoction clauses;
+split again
+-[hidden]->
+:squabble bonus;
+-> frayed vermin;
+end split
+group peeled vessel
+:complaint darlings; <<load>>
+-> only aggressive;
+:downhill slowest;
+end group
+group upsets hooter
+:utility retrieved;
+stop
+end group
+@enduml

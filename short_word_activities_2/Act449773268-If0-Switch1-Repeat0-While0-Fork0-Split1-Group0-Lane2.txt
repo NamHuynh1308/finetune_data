@@ -1,0 +1,35 @@
+@startuml
+|1| jest crouching
+|2| huzzah comprised
+split
+-[hidden]->
+:packs daffodils;
+split again
+-[hidden]->
+:codependent medley; <<input>>
+split again
+-[hidden]->
+switch (tattoo egos?)
+case (scholarly mayhem?)
+:slider victims; <<input>>
+case (needle admirable?)
+:meatball grandkid;
+case (carving housekeeping?)
+:sweeping labs;
+case (barren locale?)
+:claims geez; <<continuous>>
+endswitch
+split again
+-[hidden]->
+:grandfathers acquainted; <<input>>
+-> eyeball inhale;
+end split
+|2|
+:detained minuscule; <<output>>
+|1|
+:likelihood gnat; <<task>>
+-> rosebush lose;
+|2|
+:squeezed acid; <<task>>
+:ugly gathering; <<load>>
+@enduml

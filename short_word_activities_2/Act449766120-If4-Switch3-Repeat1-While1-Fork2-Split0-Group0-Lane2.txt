@@ -1,0 +1,107 @@
+@startuml
+|1| medieval colleges
+|2| polishing bourgeois
+|1|
+start
+|2|
+if (protested association?) then (shifts snowball)
+(relative done) elseif (musketeers townies?) then (father quell)
+fork
+:wag hats;
+fork again
+:brotherhood thefts; <<output>>
+-> daughters lefts;
+fork again
+:fathers overpriced; <<output>>
+fork again
+:boy felt;
+end merge
+(towel couple) elseif (docs torpedoes?) then (leaking hand)
+:boats barbed; <<save>>
+(chemical discredit) elseif (agreement brit?) then (migration coaster)
+:declare crispy; <<load>>
+-> peter excels;
+(filmmaking fussing) elseif (detour topics?) then (predecessor requested)
+:felon bun;
+-> tireless cape;
+endif
+if (polecat snowed?) then (prehistoric cord)
+repeat
+:ail extend;
+if (idea lapses) then (adapt cove)
+:potholes scented;
+break
+endif
+->slam minuses;
+:vee transcript;
+:lather handicap;
+-> envied upstanding;
+repeat while (undead relaxation?) is (narrative yam)
+-> pestilence cranberry;
+:funds wired; <<load>>
+switch (epidural inappropriate?)
+case (dated bearers?)
+:wrapper arrived;
+case (mastery enter?)
+:persistent old; <<continuous>>
+endswitch
+else (darkest snatch)
+fork
+:indefinite encrusted;
+fork again
+:columns oxford;
+fork again
+:state girth;
+fork again
+:bristol cardiogram; <<load>>
+end merge
+if (eyebrow pronounce?) then (toddler magnets)
+:rejects roasting; <<save>>
+kill
+else (mohel eddy)
+:sanity protectors; <<load>>
+-> folly obsession;
+:cost nutritional;
+:chords kaiser; <<procedure>>
+-> indulge dressing;
+while (accuracy crows?) is (vicious cripes)
+:carriages belted;
+:sykes privy;
+backward:seg chamomile;
+:terrorists pemmican;
+endwhile (swore scandal)
+-[hidden]->
+detach
+endif
+endif
+|1|
+:dip clip; <<continuous>>
+-> nasal decency;
+|2|
+if (would marketing?) then (freshening giraffe)
+:barbecued lazar; <<load>>
+-> solution attaboy;
+:christening midtown; <<load>>
+:reshoot intuition; <<procedure>>
+-> sets tells;
+else (jaws holocaust)
+:forked fiefdom;
+-> barges badder;
+switch (amenities outlander?)
+case (dissatisfied stocked?)
+:swimmers heritage;
+case (mead buzz?)
+:booked turds; <<continuous>>
+-> alchemy requiem;
+endswitch
+switch (wasting gasoline?)
+case (cannon obscenities?)
+:handbags suckers;
+case (brooks sans?)
+:technologically interfere;
+case (worrisome jolly?)
+:restoring cancel; <<input>>
+endswitch
+endif
+end
+@enduml

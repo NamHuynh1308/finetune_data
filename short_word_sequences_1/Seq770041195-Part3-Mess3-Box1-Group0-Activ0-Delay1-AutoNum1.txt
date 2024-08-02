@@ -1,0 +1,16 @@
+@startuml
+participant "horrors papers" as 0
+box "slugged citations"
+participant "exhibition sites" as 1
+participant "holy frantically" as 2
+end box
+== showering cell ==
+autonumber 8 0
+2 ->] : mopes currency
+autonumber stop
+1 --> 0: publically pip
+autonumber resume
+...methodology addict...
+1 -> 0: infatuated fight
+autonumber stop
+@enduml

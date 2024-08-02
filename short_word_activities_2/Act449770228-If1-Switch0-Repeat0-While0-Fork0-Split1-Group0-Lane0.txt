@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:poke speculating;
+split again
+-[hidden]->
+if (apologized elves?) then (countess gelatin)
+(pimple domestic) elseif (cheers plagued?) then (punctuality coffee)
+:wondering haired; <<input>>
+(vie morally) elseif (sometime mild?) then (hurtling policies)
+:gabbing nativity; <<save>>
+(recalling untrained) elseif (perennial menial?) then (transitional detection)
+:cornfield headgear;
+(ballpoint durned) elseif (patriotic doused?) then (lace manhunt)
+:alternating brutally;
+endif
+split again
+-[hidden]->
+:scarfing choosy; <<task>>
+-> assurance executions;
+end split
+:fluid unleash; <<input>>
+end
+@enduml

@@ -1,0 +1,33 @@
+@startuml
+group reapers twisting
+if (extradition wracking?) then (mustang initiated)
+switch (thoracic silvery?)
+case (cancel undecided?)
+:cruising quacks; <<input>>
+case (faxed statehood?)
+:kinder alarmist;
+case (robbins ballon?)
+:grandmothers normally;
+endswitch
+split
+:steam offbeat;
+split again
+:ana quiz;
+split again
+:harass headlines;
+end split
+kill
+else (species frail)
+:wretched softy; <<output>>
+if (commenting sucked?) then (dependable omnipotent)
+(snout discussion) elseif (expressed breakup?) then (catastrophe upstaged)
+:saga earl;
+-> grams dire;
+(hermaphrodite sugarcoat) elseif (laryngitis unsealed?) then (destabilize everlasting)
+:hyphen eaten; <<input>>
+endif
+:society risking;
+endif
+stop
+end group
+@enduml

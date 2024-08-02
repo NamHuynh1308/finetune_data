@@ -1,0 +1,8 @@
+@startuml
+start
+group happen grindstone
+:kiln unprofessional; <<load>>
+-> girly shrubs;
+stop
+end group
+@enduml

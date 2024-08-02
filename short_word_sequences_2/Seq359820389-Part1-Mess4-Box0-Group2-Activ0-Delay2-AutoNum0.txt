@@ -1,0 +1,13 @@
+@startuml
+participant "developments expanded" as 0
+alt sleepers sorcerers
+ [-> 0: wee exorcise
+ [<- 0: nicely motherhood
+...disturbance ghastly...
+0 --> 0: scopes airway
+loop horsey discrimination
+...invisibility abode...
+0 ->o 0: surviving coerce
+end
+end
+@enduml

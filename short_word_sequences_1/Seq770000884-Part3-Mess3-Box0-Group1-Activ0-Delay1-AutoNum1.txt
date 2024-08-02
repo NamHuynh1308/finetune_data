@@ -1,0 +1,13 @@
+@startuml
+participant "speakerphone lengths" as 0
+participant "cowboy demonstrate" as 1
+participant "snuggling morrow" as 2
+autonumber 2 4
+1 -> 0!! : bowery duct
+opt sensing alike
+...chassis wick...
+1 -// 2: chips technological
+2 <-] : whet hydrated
+else date scented
+end
+@enduml

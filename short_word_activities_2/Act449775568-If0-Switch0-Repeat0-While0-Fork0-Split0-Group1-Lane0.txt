@@ -1,0 +1,6 @@
+@startuml
+group curacao pic
+:stables firemen; <<input>>
+stop
+end group
+@enduml

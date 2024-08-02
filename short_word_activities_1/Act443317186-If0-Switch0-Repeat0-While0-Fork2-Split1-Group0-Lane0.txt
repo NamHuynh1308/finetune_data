@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:pessimistic tax;
+split again
+-[hidden]->
+fork
+:complex shortstop;
+fork again
+:liberation flawless;
+fork again
+:huts neutered;
+fork again
+:humanly preschool;
+end fork
+split again
+-[hidden]->
+fork
+:aggressive data;
+fork again
+:robbins concrete; <<save>>
+-> gar bended;
+fork again
+:tuxes maliciously; <<continuous>>
+-> greed burbs;
+end merge
+split again
+-[hidden]->
+:latino catchers; <<output>>
+end split
+:parading detest; <<continuous>>
+stop
+@enduml

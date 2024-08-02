@@ -1,0 +1,12 @@
+@startuml
+participant "lasers garages" as 0
+== obscurity oedipal ==
+0 --> 0: measurements suite
+0 ->> 0: restraints roach
+create participant "seminar barren" as 1
+0 -> 1 : seminar barren
+par late relates
+...saltines scuff...
+0 --> 0: competent baskets
+end
+@enduml

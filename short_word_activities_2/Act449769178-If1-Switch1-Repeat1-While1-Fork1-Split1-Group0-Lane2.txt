@@ -1,0 +1,51 @@
+@startuml
+|1| playthings disorganized
+|2| adopting ninny
+|2|
+split
+:victorious gargantuan;
+split again
+:hickory tidbits; <<load>>
+split again
+if (came straight?) then (malnourished discovering)
+:fixtures trusty;
+:debris respiratory;
+:reconnaissance biology;
+-> nepotism prerequisite;
+while (fluke beep?) is (appointed lonely)
+:shuck farrow;
+endwhile (fears admissions)
+-[hidden]->
+detach
+else (territorial bedpan)
+:droopy infantry; <<load>>
+:dust ones;
+-> backdoor ordinary;
+:collide underwear;
+-> pretzels swim;
+kill
+endif
+end split
+:scarfing aggravation; <<output>>
+|1|
+:assumed bordello; <<procedure>>
+fork
+:shifty repayment;
+fork again
+:misinterpreted santo; <<task>>
+fork again
+repeat
+:respectable coming; <<task>>
+repeat while (counterfeit sedative?) is (nutcracker components)
+-> tequila tall;
+fork again
+switch (lob entered?)
+case (humorless limelight?)
+:conceivable ladder;
+case (principal casa?)
+:demographics emphasize; <<output>>
+-> psalm daphne;
+endswitch
+end merge
+end
+@enduml

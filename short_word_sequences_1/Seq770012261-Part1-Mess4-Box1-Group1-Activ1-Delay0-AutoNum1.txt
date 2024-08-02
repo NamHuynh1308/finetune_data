@@ -1,0 +1,16 @@
+@startuml
+box "lutz identities"
+participant "gnome interest" as 0
+end box
+== lobotomy babu ==
+autonumber 10 7
+0 <-> 0: speaker blowout
+autonumber stop
+0 -> 0: bowed fuels
+autonumber resume
+0 -> 0++ : spotted zephyrs
+loop sticking fondle
+0 ->] : troll redecorating
+end
+return axe millisecond
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "swab regeneration" as 0
+0 -> 0++ : string stodgy
+return learning impostor
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "distinctive blinks" as 0
+participant "hypnotic zombies" as 1
+ [<- 1: nominate buttons
+par exact business
+1 <-] : milt impersonate
+end
+@enduml

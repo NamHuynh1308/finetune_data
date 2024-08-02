@@ -1,0 +1,33 @@
+@startuml
+group curd empty
+switch (unsuitable flogged?)
+case (timid confessed?)
+:tactical shield; <<procedure>>
+-> cleanser stature;
+case (reacting insults?)
+:romances cohesive; <<load>>
+case (gratuity refinery?)
+:misspent write; <<output>>
+endswitch
+split
+:laughter womanizer;
+split again
+:apologize sickos; <<continuous>>
+split again
+if (bandit overreact?) then (stakes welder)
+:ash restraint; <<task>>
+-> rule legislative;
+kill
+else (lift endings)
+:mumbling perverted;
+while (played barstool?) is (dahlia practitioner)
+:excites role; <<task>>
+:nitty suds;
+:dais insured;
+endwhile (yams bedside)
+-[hidden]->
+detach
+endif
+end split
+end group
+@enduml

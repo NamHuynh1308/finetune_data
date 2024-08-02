@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:loyal brushed;
+split again
+-[hidden]->
+:blubbering rookies; <<continuous>>
+-> beings fibber;
+split again
+-[hidden]->
+:porky minimize; <<output>>
+end split
+:conditioning affidavit; <<output>>
+:tradition shell;
+:secondary hearts;
+-> unlocking appointed;
+end
+@enduml

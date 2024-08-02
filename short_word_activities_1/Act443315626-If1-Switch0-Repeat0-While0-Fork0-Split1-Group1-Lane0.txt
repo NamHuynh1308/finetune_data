@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:protruding caretaker;
+split again
+-[hidden]->
+:overkill snowy; <<load>>
+split again
+-[hidden]->
+if (masculine igneous?) then (expressions prevails)
+:sufficient peaks; <<load>>
+-> slower supply;
+:bracelets occasionally; <<output>>
+-> lions needless;
+else (fluff voyeur)
+:noisy hailing; <<continuous>>
+-> oppose drags;
+:drafty outbound;
+endif
+end split
+group confederacy eternity
+:consultant mach; <<save>>
+-> salmonella bushel;
+:favours heck; <<continuous>>
+stop
+end group
+@enduml

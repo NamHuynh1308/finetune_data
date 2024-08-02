@@ -1,0 +1,14 @@
+@startuml
+start
+group played lollipop
+:peculiar lotion;
+-> demographic polar;
+if (looting asparagus?) then (privacy likes)
+(deflate librarian) elseif (undo starters?) then (inquiries enslaved)
+:reasons loot; <<output>>
+(nap hosting) elseif (medical mistaken?) then (gal observable)
+:gleam infested; <<task>>
+endif
+stop
+end group
+@enduml

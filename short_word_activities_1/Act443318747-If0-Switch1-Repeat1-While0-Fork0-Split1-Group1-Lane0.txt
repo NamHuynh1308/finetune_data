@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:fragments hoop;
+split again
+-[hidden]->
+repeat
+:lynched detonates;
+if (anaesthetic maggot) then (fabulous eyesight)
+:nosing psst;
+break
+endif
+->tortures bleachers;
+:positively sweaty;
+:controlling pulled;
+-> annoys limes;
+:specimens creepers;
+repeat while (drumstick hart?) is (trustworthy membranes)
+split again
+-[hidden]->
+switch (rippling handoff?)
+case (pads snipers?)
+:slime snatchers; <<procedure>>
+-> sustenance gander;
+case (kiddie archaic?)
+:fearless glanced;
+endswitch
+split again
+-[hidden]->
+:meatball exams; <<output>>
+end split
+group later detain
+:metamorphosis soft; <<load>>
+-> glasses bussing;
+:dodger operations;
+-> dizzy beetles;
+end group
+end
+@enduml

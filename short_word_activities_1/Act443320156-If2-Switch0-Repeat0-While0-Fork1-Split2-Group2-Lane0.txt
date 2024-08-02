@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:calms settled;
+split again
+-[hidden]->
+:hows janitor; <<continuous>>
+split again
+-[hidden]->
+if (drops shallow?) then (ingest chronically)
+(sweats boys) elseif (gatekeeper browsing?) then (blonde ravings)
+:soundly jane; <<task>>
+-> blame analogy;
+(constrictor racket) elseif (mine sayonara?) then (oppression hitters)
+:malfunctions addressing;
+(leery rafting) elseif (blacks lighten?) then (misfit backer)
+:auditing tapping; <<procedure>>
+endif
+end split
+group nonviolent inquisition
+:pleaded ignoramus;
+-> abusive commoner;
+group crimes dorm
+if (cannery spoonful?) then (touchdowns talkative)
+fork
+:library housecleaning;
+fork again
+:rodent handbags; <<task>>
+fork again
+:thankful fractions;
+end fork
+split
+:started promoting;
+split again
+:clippers profiles;
+split again
+:conceive ability; <<task>>
+split again
+:begat competent; <<load>>
+-> resides heartthrob;
+end split
+else (chosen distracting)
+:bland accommodating;
+endif
+stop
+end group
+end group
+@enduml

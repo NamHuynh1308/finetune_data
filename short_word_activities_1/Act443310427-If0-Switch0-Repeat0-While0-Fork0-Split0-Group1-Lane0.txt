@@ -1,0 +1,8 @@
+@startuml
+group toenail sleepovers
+:stupidly newsman; <<load>>
+:hurricane debate; <<input>>
+-> recon underestimating;
+end group
+end
+@enduml

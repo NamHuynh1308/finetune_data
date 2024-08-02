@@ -1,0 +1,8 @@
+@startuml
+box "athletes coma"
+participant "here flora" as 0
+end box
+autonumber 0 0
+0 -> 0: pretense trimester
+autonumber stop
+@enduml

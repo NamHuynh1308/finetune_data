@@ -1,0 +1,17 @@
+@startuml
+group councillor fondle
+:astrophysics airwaves; <<procedure>>
+split
+:shred nicks;
+split again
+:prancing bequest; <<continuous>>
+split again
+:nation chaotic; <<load>>
+split again
+:occasional magazine; <<continuous>>
+end split
+end group
+:dressy cheat; <<task>>
+-> breeds hunch;
+end
+@enduml

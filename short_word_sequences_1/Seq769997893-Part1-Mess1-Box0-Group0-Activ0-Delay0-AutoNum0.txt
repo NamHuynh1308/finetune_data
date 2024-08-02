@@ -1,0 +1,4 @@
+@startuml
+participant "tribe plumbing" as 0
+ [-> 0: grateful resetting
+@enduml

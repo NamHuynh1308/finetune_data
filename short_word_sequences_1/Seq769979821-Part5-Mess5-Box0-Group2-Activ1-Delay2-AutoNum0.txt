@@ -1,0 +1,20 @@
+@startuml
+participant "emporium ostracized" as 0
+participant "rocky unnerve" as 1
+participant "defy koi" as 2
+participant "popper rambling" as 3
+par breakup weiner
+3 --> 2: opinions piston
+...absurd reddish...
+0 -> 0: pistol comedians
+0 <-> 1: drape splat
+...extravaganza medicines...
+1 -> 2++ : carved swings
+else trapped sergeant
+alt rogue consoled
+create participant "frustrates camcorder" as 4
+3 -> 4 : frustrates camcorder
+return goons lawyered
+end
+end
+@enduml

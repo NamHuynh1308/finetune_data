@@ -1,0 +1,7 @@
+@startuml
+box "bachelors silliest"
+participant "whimper referring" as 0
+end box
+0 -->x 0: collaborator sweets
+0 -> 0: doll leech
+@enduml

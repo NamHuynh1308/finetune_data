@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:stein superheroes;
+split again
+-[hidden]->
+:selfless carve; <<task>>
+split again
+-[hidden]->
+repeat
+backward:payoff stale;
+repeat while (confined hydrated?) is (symbolize roles)
+split again
+-[hidden]->
+:maxwell excellent; <<input>>
+-> bash algebra;
+end split
+group extremes sparring
+:respond midst; <<input>>
+stop
+end group
+@enduml

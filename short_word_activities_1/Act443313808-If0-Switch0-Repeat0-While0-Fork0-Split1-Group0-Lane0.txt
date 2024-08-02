@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:adhesive harder;
+split again
+-[hidden]->
+:liters continues; <<procedure>>
+-> med tribute;
+split again
+-[hidden]->
+:bland republican; <<task>>
+end split
+:robotic horror; <<save>>
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+group ankles bighorn
+split
+:handsomest naughty;
+split again
+fork
+:sits surge;
+fork again
+:behave deployed;
+fork again
+:carburetor firestorm;
+end merge
+split again
+:marry criminalistics; <<continuous>>
+-> rewrites paid;
+end split
+:peed christen; <<continuous>>
+end group
+@enduml

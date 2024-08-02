@@ -1,0 +1,6 @@
+@startuml
+participant "antiquing euro" as 0
+0 -> 0++ : chocolate survival
+0 ->] : studious landlord
+return jewels curb
+@enduml

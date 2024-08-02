@@ -1,0 +1,8 @@
+@startuml
+box "drab discolored"
+participant "romanticize reminder" as 0
+end box
+autonumber 2 5
+0 -> 0: much mischief
+autonumber stop
+@enduml

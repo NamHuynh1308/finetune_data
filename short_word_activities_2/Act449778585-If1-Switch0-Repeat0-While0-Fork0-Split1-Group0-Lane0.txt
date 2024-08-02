@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:relinquishing prostitute;
+split again
+-[hidden]->
+:wedded smorgasbord; <<load>>
+split again
+-[hidden]->
+if (crafts operation?) then (joust riddle)
+:policemen auditing; <<task>>
+:distress vigilante;
+-> juicy pictures;
+else (periods casings)
+:packing primary;
+:ivories ballroom;
+:images jaunt; <<load>>
+endif
+end split
+:fleabag foresight; <<save>>
+stop
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+participant "complicates machinery" as 0
+box "chump crypt"
+participant "crushing argon" as 1
+participant "yams transaction" as 2
+end box
+participant "munchkins skies" as 3
+participant "peaked unload" as 4
+== trident consulate ==
+autonumber 10 6
+0 ->] : broiler ringside
+0 <-> 3: herniated welcoming
+loop bummer inspections
+...idea weaker...
+2 <-] : cute minorities
+ [-> 0: sooner frenzy
+4 -> 1!! : icons poses
+opt resilient disillusionment
+1 -> 4: necking presto
+end
+end
+@enduml

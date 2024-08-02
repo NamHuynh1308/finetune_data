@@ -1,0 +1,7 @@
+@startuml
+participant "professionalism straw" as 0
+alt greatness returns
+0 -\\ 0++ : chromosomes traveled
+end
+return additional chasing
+@enduml

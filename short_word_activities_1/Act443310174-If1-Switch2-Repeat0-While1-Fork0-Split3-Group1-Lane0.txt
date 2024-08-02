@@ -1,0 +1,64 @@
+@startuml
+split
+-[hidden]->
+:kissable pans;
+split again
+-[hidden]->
+if (creed meddlesome?) then (hades charmingly)
+(cardiology vengeance) elseif (accessories bribing?) then (estimated watery)
+:dive heather;
+-> axis fattest;
+(snobby narrow) elseif (resides precautions?) then (rocker officer)
+:designated remedy; <<output>>
+(snickers caprice) elseif (holds bats?) then (gasket cockney)
+:goblins phooey;
+endif
+split again
+-[hidden]->
+:coats slammer;
+-> manly pelts;
+end split
+switch (grapes referendums?)
+case (heckle rears?)
+:motivational copilot;
+case (weep draped?)
+:bimbo revels; <<task>>
+-> freshman hemisphere;
+endswitch
+group surprise cosign
+switch (thickening clothesline?)
+case (worst verge?)
+:rumour mannequin; <<save>>
+case (million grandkids?)
+while (quarrel gunned?) is (occupant leased)
+:vie testicles;
+:overqualified copacetic; <<save>>
+-> outlawed plowed;
+:desecrate hubris; <<task>>
+-> dislodge whispering;
+:negligent guardians; <<continuous>>
+-> strikes follicle;
+endwhile (arf sobered)
+:ebony weekly;
+case (cherries taxed?)
+split
+:submersible blisters;
+split again
+:clockwork raccoons; <<continuous>>
+split again
+:overlap shuffling; <<output>>
+-> taped desist;
+end split
+case (because soiree?)
+:occupation inbound; <<input>>
+endswitch
+split
+:speeding dermatologist;
+split again
+:spilled whiner; <<output>>
+split again
+:fair massacred;
+end split
+stop
+end group
+@enduml

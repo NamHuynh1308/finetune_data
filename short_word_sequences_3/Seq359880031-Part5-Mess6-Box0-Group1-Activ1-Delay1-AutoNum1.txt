@@ -1,0 +1,21 @@
+@startuml
+participant "numbing meant" as 0
+participant "dex sky" as 1
+participant "goopy platypus" as 2
+participant "peaches cutest" as 3
+== cultural settlements ==
+autonumber 9 8
+alt reciprocal disagreement
+2 ->> 1: faithless handing
+create participant "hemline spence" as 4
+0 -> 4 : hemline spence
+autonumber stop
+else erode mind
+4 <-] : toner imagine
+end
+0 -> 4++ : reconciled controller
+4 -\\ 1: flattened tarot
+return curiosity affections
+...baggage capitalists...
+4 ->o 3: wooden millimeter
+@enduml

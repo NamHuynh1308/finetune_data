@@ -1,0 +1,7 @@
+@startuml
+participant "jars intrigues" as 0
+participant "enhances lifetimes" as 1
+== library dispatched ==
+1 -> 1: applaud investigation
+1 <-] : contacts crated
+@enduml

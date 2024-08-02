@@ -1,0 +1,8 @@
+@startuml
+participant "gadget trigger" as 0
+autonumber 4 1
+alt clingy objecting
+0 -> 0: dawn diazepam
+autonumber stop
+end
+@enduml

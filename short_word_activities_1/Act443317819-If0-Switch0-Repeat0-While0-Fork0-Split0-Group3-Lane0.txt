@@ -1,0 +1,13 @@
+@startuml
+start
+group prescribed vaporize
+:doe aha; <<task>>
+group frontier heady
+:cane flyboy; <<task>>
+group ouch overdosed
+:warmer supported; <<save>>
+stop
+end group
+end group
+end group
+@enduml

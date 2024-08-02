@@ -1,0 +1,17 @@
+@startuml
+participant "newspaper delinquency" as 0
+participant "smuggler deduction" as 1
+autonumber 0 0
+0 --//o 0: blame attribute
+0 -> 1: very poppa
+autonumber stop
+ [<- 1: flail vindication
+autonumber resume
+break brooch marge
+create participant "maniacs itchy" as 2
+1 -> 2 : maniacs itchy
+opt dogged sark
+1 <-] : drumming nutshell
+end
+end
+@enduml

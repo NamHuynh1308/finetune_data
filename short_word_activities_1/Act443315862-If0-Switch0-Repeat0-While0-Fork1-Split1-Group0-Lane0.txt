@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:tortures timid;
+split again
+-[hidden]->
+:acing integrated; <<continuous>>
+-> despise provides;
+split again
+-[hidden]->
+:cents embroidered;
+end split
+:producers regarding;
+-> should mantle;
+fork
+:sleepers wand;
+fork again
+:proceeding letting;
+fork again
+:these starlet; <<input>>
+fork again
+:motley phrase; <<task>>
+end fork
+stop
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "carries hazelnut" as 0
+== punky ticking ==
+alt congestion loca
+ [<- 0: tried jiggling
+0 --> 0: sloppy slowing
+end
+0 --//o 0: banning idealistic
+0 ->> 0++ : minks forties
+return retreat goonies
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+participant "spinach studios" as 0
+box "upfront lovely"
+participant "femur ventricular" as 1
+box "eyeing violinist"
+participant "patrolled insecurity" as 2
+participant "liberals centimeter" as 3
+end box
+end box
+par primates coney
+create participant "schizoid detectives" as 4
+1 -> 4 : schizoid detectives
+...prioritize bikes...
+3 --> 1: detonated smartass
+else grooming unexpressed
+0 -> 2++ : deduct carter
+3 ->> 3++ : wine sucked
+par fortress colder
+...plane brownie...
+1 --//o 0: devoting cellular
+0 -// 2: gardeners mockery
+return alienate throttle
+else fuck columns
+end
+end
+return leisurely chat
+@enduml

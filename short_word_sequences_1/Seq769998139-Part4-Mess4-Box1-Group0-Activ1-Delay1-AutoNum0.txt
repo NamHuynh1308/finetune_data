@@ -1,0 +1,14 @@
+@startuml
+participant "proven hobo" as 0
+box "regime cosmetics"
+participant "teach waitressed" as 1
+participant "camels router" as 2
+participant "groundhog zipping" as 3
+end box
+0 -\\ 1: melancholy luxury
+3 -// 2++ : monitored caramel
+0 -// 0: plowed tell
+...inconsiderate smooching...
+2 -> 2!! : pedestrian hire
+return reserving dragon
+@enduml

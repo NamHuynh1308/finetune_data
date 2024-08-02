@@ -1,0 +1,25 @@
+@startuml
+box "notch moving"
+participant "organs speeding" as 0
+box "geographically responds"
+participant "metro spontaneous" as 1
+box "moping rebate"
+participant "confit dungeon" as 2
+participant "prophesied hoarse" as 3
+end box
+end box
+end box
+3 <-] : rulers untrained
+ [<- 1: credible correcting
+create participant "elf blurred" as 4
+3 -> 4 : elf blurred
+0 -> 4: housewarming fries
+...curacao statewide...
+ [<- 0: hunch regrettable
+loop bandage radical
+1 ->o 3++ : nosed module
+2 <-> 0++ : rath wink
+end
+return simulate asunder
+return uploading phobia
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "qualified leadership" as 0
+participant "shady execute" as 1
+0 -// 0: bronco burgess
+ [<- 1: skedaddle delirium
+@enduml

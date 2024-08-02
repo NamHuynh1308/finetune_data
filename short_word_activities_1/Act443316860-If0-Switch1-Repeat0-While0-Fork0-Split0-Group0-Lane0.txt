@@ -1,0 +1,10 @@
+@startuml
+switch (awe pleads?)
+case (speaking marshall?)
+:teacher whopping;
+case (sadness piling?)
+:admissions pitch; <<task>>
+-> provided skill;
+endswitch
+stop
+@enduml

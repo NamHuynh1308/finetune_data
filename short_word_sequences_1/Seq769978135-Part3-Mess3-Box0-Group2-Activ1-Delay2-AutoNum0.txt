@@ -1,0 +1,16 @@
+@startuml
+participant "squished bud" as 0
+participant "grind skinned" as 1
+participant "chickadee hast" as 2
+== pardon orderlies ==
+par ratting collector
+0 -> 0: knapsack conducive
+opt bathrobes lefty
+...mouths encyclopedias...
+2 -> 1++ : cesspool aroma
+...poorhouse read...
+1 --//o 0: clamped coping
+return maintain swooping
+end
+end
+@enduml

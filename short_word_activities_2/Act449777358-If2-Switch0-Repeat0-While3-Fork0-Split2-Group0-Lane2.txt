@@ -1,0 +1,60 @@
+@startuml
+|1| pull dip
+|2| biographies afar
+:kneecap symbolism;
+-> jungles devils;
+split
+:afterglow luck;
+split again
+split
+:scarecrow installed;
+split again
+:sells glassware;
+split again
+:parental policeman;
+split again
+:playing ruffled; <<task>>
+-> exposed sunscreen;
+end split
+split again
+:crawl traitors; <<output>>
+split again
+:chewed thorn;
+end split
+|2|
+:legally adoration; <<output>>
+|1|
+if (calmed recklessly?) then (slay newsman)
+if (rolls narcotics?) then (dingo seed)
+(sugars chickadee) elseif (hikers adolescence?) then (comprise searches)
+:wimps shrinks; <<procedure>>
+(trolling messes) elseif (maroon errand?) then (pyjamas beige)
+:candies dragging; <<output>>
+(dick leads) elseif (jell sorrel?) then (notice bind)
+:vital gills; <<procedure>>
+endif
+:slogans turks; <<procedure>>
+while (axe giddy?) is (winds scene)
+:booze malice;
+-> maturity birthright;
+:exclusively pam; <<continuous>>
+-> albums vacate;
+:freaked marker; <<continuous>>
+backward:iliad pyramid;
+endwhile (morals cooking)
+-[hidden]->
+detach
+else (unicycle musicians)
+:tempered clutch; <<input>>
+-> fallout lazar;
+while (shoots dressed?) is (resolution builds)
+while (oar dysfunction?) is (put inefficient)
+backward:judging differential;
+endwhile (paperboy shedding)
+:egghead lar;
+endwhile (flan messes)
+-[hidden]->
+detach
+endif
+end
+@enduml

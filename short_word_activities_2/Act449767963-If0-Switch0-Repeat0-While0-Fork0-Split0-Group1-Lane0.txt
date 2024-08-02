@@ -1,0 +1,7 @@
+@startuml
+start
+group ramp orienteering
+:disarm surprise; <<input>>
+stop
+end group
+@enduml

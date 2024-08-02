@@ -1,0 +1,30 @@
+@startuml
+if (speeds classroom?) then (bankbooks misses)
+:monthly labyrinth;
+:supple sunflower; <<task>>
+split
+:suspicious breeds;
+split again
+:barbecued fates; <<task>>
+-> subbasement martyr;
+split again
+:weighs specializing; <<procedure>>
+-> appraise disregarded;
+split again
+:compulsively tactful;
+end split
+else (seniors superstitious)
+fork
+:playing trove;
+fork again
+:duty livelihood;
+fork again
+:invites difference;
+fork again
+:stitch edging; <<task>>
+-> aright fellowship;
+end merge
+kill
+endif
+stop
+@enduml

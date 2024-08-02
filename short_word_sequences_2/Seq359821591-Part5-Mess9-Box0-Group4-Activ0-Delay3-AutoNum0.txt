@@ -1,0 +1,29 @@
+@startuml
+participant "tubs odious" as 0
+participant "vitally trotting" as 1
+participant "twain memorial" as 2
+participant "eventful ambience" as 3
+participant "gambling expected" as 4
+critical mick chill
+2 ->x 2: leisure tenner
+par thumping charitable
+4 -\\ 1: craft bunny
+4 -\\ 2: surgical stone
+else pun unblemished
+4 -> 0: distortions scab
+par chord discretion
+...maternal zephyrs...
+ [-> 1: adoptive photographed
+...mimes ardent...
+4 -> 2: owe depressed
+break commendation pale
+0 -> 1: obvious lapsed
+1 -// 4: shrivel milling
+...someone digit...
+1 -> 2: cherry addition
+else astute designated
+end
+end
+end
+end
+@enduml

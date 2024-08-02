@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:ascot hails;
+split again
+-[hidden]->
+:bragged disobedience; <<input>>
+split again
+-[hidden]->
+switch (betraying saber?)
+case (endangerment conveyor?)
+:foreword anxiously;
+case (reverts nature?)
+:wondering madden;
+endswitch
+end split
+if (ledge simpleton?) then (ironic entitled)
+(aunties manatees) elseif (recanted pancreatic?) then (happened crapper)
+:fountains frantically; <<save>>
+(doll shorthand) elseif (scenery pitching?) then (doodles skull)
+:films colleen; <<input>>
+endif
+@enduml

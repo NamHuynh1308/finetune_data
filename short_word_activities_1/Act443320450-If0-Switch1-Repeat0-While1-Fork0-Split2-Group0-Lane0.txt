@@ -1,0 +1,31 @@
+@startuml
+switch (vaccine laminated?)
+case (listening discussion?)
+split
+:spackle benevolence;
+split again
+:represented shoddy;
+-> symptom fixer;
+split again
+:toxicity promo; <<procedure>>
+-> treasurer psychiatric;
+split again
+:hercules dentist;
+while (goodness effectively?) is (ride warmest)
+:despising mergers;
+endwhile (disrespecting harboring)
+-[hidden]->
+detach
+end split
+case (crusty under?)
+split
+:harvest accommodation;
+split again
+:ambivalent toying;
+kill
+split again
+:weights travels;
+end split
+endswitch
+end
+@enduml

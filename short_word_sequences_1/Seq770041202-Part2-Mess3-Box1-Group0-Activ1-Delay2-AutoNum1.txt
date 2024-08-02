@@ -1,0 +1,15 @@
+@startuml
+participant "imaginary potholes" as 0
+box "slave langley"
+participant "futility doctor" as 1
+end box
+autonumber 1 10
+0 -> 0: insinuations regretted
+...footnote sins...
+1 -\\ 1: technology wagons
+autonumber stop
+...notably swill...
+1 --> 1++ : tinkle breakthrough
+autonumber resume
+return racism limping
+@enduml

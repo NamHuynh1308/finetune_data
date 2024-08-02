@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:pawing aground;
+split again
+-[hidden]->
+:blame perception;
+-> legal heathens;
+split again
+-[hidden]->
+:lifelike yuppie; <<output>>
+-> solitary attentions;
+split again
+-[hidden]->
+:sneezing interruption; <<save>>
+end split
+:bringing realizing; <<continuous>>
+group scrounging circular
+:chrome tangerine; <<continuous>>
+-> munching invitations;
+while (congeniality cuticles?) is (compass troubling)
+backward:evacuate stethoscope;
+backward:gnomes eminent;
+backward:sampled contained;
+switch (succeeds rah?)
+case (annihilate verdict?)
+:spot species;
+case (hemlock eng?)
+:pragmatist pierce; <<continuous>>
+-> unsafe slash;
+endswitch
+endwhile (sunlight crass)
+:aesthetics allow;
+stop
+end group
+@enduml

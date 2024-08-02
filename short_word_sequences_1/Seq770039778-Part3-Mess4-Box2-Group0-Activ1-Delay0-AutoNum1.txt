@@ -1,0 +1,16 @@
+@startuml
+box "organize alleluia"
+participant "paddling paroled" as 0
+participant "capping apparel" as 1
+end box
+box "throat procrastination"
+participant "cohesion huffed" as 2
+end box
+autonumber 0 10
+0 -> 2: booths deadliest
+2 <-] : scuzzy windy
+1 -> 2!! : determination scummy
+autonumber stop
+2 --> 2++ : quality unveiling
+return restraining mass
+@enduml

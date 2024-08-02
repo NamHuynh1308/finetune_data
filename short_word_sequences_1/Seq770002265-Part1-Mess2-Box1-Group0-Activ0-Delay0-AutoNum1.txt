@@ -1,0 +1,10 @@
+@startuml
+box "formations simply"
+participant "flunking freelancing" as 0
+end box
+== mobster motors ==
+autonumber 0 0
+0 ->> 0: bends zero
+0 <-] : uneventful breaks
+autonumber stop
+@enduml

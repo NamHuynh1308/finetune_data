@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:orthopedic soapbox;
+split again
+-[hidden]->
+repeat
+:reports desperately;
+backward:bronzed dungeon;
+:weak needless;
+-> niece parishioner;
+repeat while (feathering splint?) is (bible possessive)
+-> outlast overpower;
+split again
+-[hidden]->
+:goal surfed; <<task>>
+split again
+-[hidden]->
+:bye warden;
+end split
+group bypass met
+:aches eunuch;
+:waterbed disagreeing; <<procedure>>
+repeat
+:greek clothed; <<procedure>>
+:singed residing; <<output>>
+-> gargoyle incendiary;
+repeat while (lint bitch?) is (existing discusses)
+-> blond defects;
+end group
+end
+@enduml

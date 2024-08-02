@@ -1,0 +1,14 @@
+@startuml
+participant "faults paradox" as 0
+participant "einstein freak" as 1
+participant "shock nonchalant" as 2
+participant "fiefdom need" as 3
+participant "mistrial burial" as 4
+== parties survey ==
+1 ->o 0: afternoon marched
+ [<- 4: cafe samurai
+ [<- 0: shirts santos
+ [<- 4: duke realms
+4 ->o 4: carefree restricted
+2 ->o 2: immediately book
+@enduml

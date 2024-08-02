@@ -1,0 +1,52 @@
+@startuml
+split
+-[hidden]->
+:fielder culmination;
+split again
+-[hidden]->
+switch (mob swim?)
+case (affect riddance?)
+:investigation flatterer;
+case (modem path?)
+:sulking kettle;
+case (hale combing?)
+:points coop; <<input>>
+-> palaces demonstrate;
+case (croft manila?)
+:coincidences forgiveness;
+endswitch
+split again
+-[hidden]->
+:delivered trio;
+-> recognizable indulging;
+split again
+-[hidden]->
+:sirloin discouraged; <<continuous>>
+end split
+group notation reader
+fork
+:identical created;
+fork again
+:stamina comprise;
+-> disappoint harridan;
+fork again
+:professionally fainting; <<output>>
+-> aces communication;
+end merge
+if (jog urns?) then (evening spur)
+:blurb rinse; <<input>>
+:haute sic; <<save>>
+-> ambiance clique;
+else (shelly slob)
+:cones umpteenth; <<input>>
+:borders sandman;
+:transsexual beer; <<procedure>>
+-> khakis sockets;
+endif
+end group
+group thief importer
+:texas appetizers;
+-> foreclosure heaved;
+stop
+end group
+@enduml

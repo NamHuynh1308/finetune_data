@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:neve plucking;
+split again
+-[hidden]->
+:ava player; <<continuous>>
+split again
+-[hidden]->
+split
+:snapping scorch;
+split again
+:subservient republic;
+-> verdict urns;
+split again
+:deferred specialize;
+split again
+:adverse aspect;
+end split
+split again
+-[hidden]->
+switch (homicide crawl?)
+case (over gram?)
+:toxic toxin;
+case (blasted swans?)
+:digitally burp;
+case (relaxation escalator?)
+:footed audiences; <<save>>
+-> flicking chiles;
+endswitch
+end split
+:snapshot violin; <<output>>
+:tyre cove;
+-> disclose opportunist;
+group cerulean experimented
+:rephrase sanitary;
+stop
+end group
+@enduml

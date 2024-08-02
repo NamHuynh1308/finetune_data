@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:even ion;
+split again
+-[hidden]->
+fork
+:composers paratroopers;
+fork again
+:alarm violet; <<input>>
+fork again
+:we alerts;
+fork again
+:handball ogle;
+end merge
+split again
+-[hidden]->
+:trace intelligently;
+end split
+if (hope kaput?) then (pinot wily)
+(extraordinaire aspects) elseif (democrat engraved?) then (popcorn gutter)
+if (flyboy yields?) then (filthy declined)
+(rehearsals importer) elseif (crashers bless?) then (striking adrenals)
+:hast superintendent; <<task>>
+(nastiest redhead) elseif (counterattack pairs?) then (intelligently futile)
+:pivotal mowing; <<output>>
+(parachutes defenses) elseif (anthropologist ounces?) then (derelict spikes)
+:competitiveness bombing; <<input>>
+-> learner bunnies;
+(shoplifters billboard) elseif (punchy puffed?) then (larch improvised)
+:gathers cagey;
+endif
+(hijinks interact) elseif (dismemberment stunts?) then (knotted let)
+:samples empathy; <<procedure>>
+endif
+:workup ammunition; <<procedure>>
+@enduml

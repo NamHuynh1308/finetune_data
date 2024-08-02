@@ -1,0 +1,59 @@
+@startuml
+split
+-[hidden]->
+:sheer matted;
+split again
+-[hidden]->
+:middleweight wisely;
+split again
+-[hidden]->
+:favor milt;
+-> consultation shooters;
+split again
+-[hidden]->
+split
+:buying cab;
+split again
+:rumblings than; <<task>>
+-> annul conceding;
+split again
+:salinas phobia;
+split again
+:gnats breakup;
+end split
+end split
+if (peaches brilliance?) then (gran piss)
+(tram mowing) elseif (potato mu?) then (bureaucrat restitution)
+fork
+:hogwash acted;
+fork again
+:select mildew;
+fork again
+:adopted discussed; <<load>>
+fork again
+:include automatic;
+end fork
+(gaps crank) elseif (uproar stare?) then (purgatory exceed)
+:screened riot;
+-> pheasant sustained;
+(horsehair regency) elseif (choosing unwind?) then (disorganized strangler)
+:bot slowing; <<procedure>>
+endif
+:contained looped; <<input>>
+-> menagerie tibia;
+while (barfed plethora?) is (planetary organs)
+backward:dishonorable judges;
+switch (chainsaws birthplace?)
+case (relapsing flaps?)
+:irresponsible bloodied;
+case (enormously secondary?)
+:trident lure; <<save>>
+-> dare grazed;
+case (brewer possibility?)
+:almighty overreacting;
+endswitch
+backward:jailed petition;
+endwhile (bacon swamp)
+:hardship literally;
+end
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+if (leprechaun won?) then (outfield sample)
+(reclaim fugitives) elseif (bees platoon?) then (fauna dopamine)
+:random vegetable; <<output>>
+-> beginnings pints;
+(coddling bunch) elseif (dispose valuable?) then (gluttony those)
+:tag aging;
+endif
+group pyramid tea
+:persistent giants; <<continuous>>
+:hesitated begging; <<procedure>>
+-> heartthrob flask;
+stop
+end group
+@enduml

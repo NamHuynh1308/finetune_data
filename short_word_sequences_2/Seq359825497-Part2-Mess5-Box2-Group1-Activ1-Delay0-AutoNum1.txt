@@ -1,0 +1,17 @@
+@startuml
+box "misspent periphery"
+participant "derail prairie" as 0
+box "cubic paints"
+participant "aprons cleave" as 1
+end box
+end box
+autonumber 1 1
+0 -> 0!! : process hobbies
+0 -\\ 0: heather pemmican
+break toxicology scenario
+1 --//o 0++ : tipped boggling
+0 -->x 1: yawning colony
+1 --> 0: forfeit godliness
+return burned neighbour
+end
+@enduml

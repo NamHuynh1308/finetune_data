@@ -1,0 +1,9 @@
+@startuml
+participant "wanton cleaners" as 0
+participant "strewn flannel" as 1
+autonumber 5 8
+par cheaters forester
+0 --//o 0: grunt choirs
+1 -->x 0: squaw upgrade
+end
+@enduml

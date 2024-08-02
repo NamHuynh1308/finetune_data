@@ -1,0 +1,13 @@
+@startuml
+participant "heightened inquisition" as 0
+box "sleepwalk blitz"
+participant "tat extorted" as 1
+participant "induce string" as 2
+end box
+2 ->] : yuppies testing
+opt wiggling pasta
+ [-> 0: imbecilic smeared
+1 -->x 0: chatter bloodshot
+2 ->x 1: parenting landlord
+end
+@enduml

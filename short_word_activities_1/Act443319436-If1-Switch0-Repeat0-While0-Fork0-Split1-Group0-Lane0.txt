@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:verify pare;
+split again
+-[hidden]->
+if (dice continents?) then (fur disposable)
+(schmoozing unfunny) elseif (fiendish fountains?) then (suntan dost)
+:bluffs alluring;
+(gums technique) elseif (extensive tying?) then (developer scraping)
+:leads cranking;
+(socks bosses) elseif (recognizing doubly?) then (fortitude indulge)
+:wreaks afloat; <<output>>
+-> bulb pornography;
+(cleverly trans) elseif (exterminate cloth?) then (selfishness assignments)
+:loophole auditory; <<task>>
+endif
+split again
+-[hidden]->
+:panties paternity; <<procedure>>
+end split
+:candidates scar;
+stop
+@enduml

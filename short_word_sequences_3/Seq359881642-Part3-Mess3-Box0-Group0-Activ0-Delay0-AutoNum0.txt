@@ -1,0 +1,8 @@
+@startuml
+participant "touches vengeful" as 0
+participant "argon tapping" as 1
+participant "gym parks" as 2
+2 ->> 2: hows haven
+0 --> 2: slayer glimmer
+0 -> 2!! : alibis toon
+@enduml

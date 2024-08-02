@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:futuristic tease;
+split again
+-[hidden]->
+if (latched dictating?) then (corsage beer)
+:goodie losing;
+:wiring technically;
+else (sparing magnet)
+:pulp lid;
+:becoming prematurely; <<input>>
+endif
+split again
+-[hidden]->
+while (commoner crossword?) is (racer pressure)
+:resembling accomplishment; <<procedure>>
+:sorrow scourge; <<output>>
+endwhile (nipper tanning)
+:dun realities;
+split again
+-[hidden]->
+:woodsy cleared; <<procedure>>
+end split
+:am friends;
+@enduml

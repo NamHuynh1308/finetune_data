@@ -1,0 +1,17 @@
+@startuml
+participant "freak monoxide" as 0
+participant "drumstick punt" as 1
+participant "weekend stumbles" as 2
+== albums prefers ==
+2 -> 1++ : hopeful nauseating
+par gull species
+2 ->o 2++ : braces bond
+...monster fickle...
+2 -> 0: hottest festivities
+return stifle ajar
+break botanical colder
+1 -> 2!! : kidnappers pints
+return disappearance entrapment
+end
+end
+@enduml

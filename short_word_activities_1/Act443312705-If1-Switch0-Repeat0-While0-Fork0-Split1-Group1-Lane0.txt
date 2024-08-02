@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:receptive barmaid;
+split again
+-[hidden]->
+:gardening squirts; <<load>>
+-> scratchy continuing;
+split again
+-[hidden]->
+:shagging tussle; <<continuous>>
+split again
+-[hidden]->
+:swim discourage; <<save>>
+-> soaked ford;
+end split
+group melted plankton
+if (vest drill?) then (bloodless choke)
+:catalog happens;
+-> continental grudges;
+:pearly putting; <<load>>
+:moloch insomnia; <<save>>
+-> stage saddened;
+else (foods payload)
+:especially holdup;
+-> great forgiveness;
+endif
+:raging circled; <<load>>
+end group
+end
+@enduml

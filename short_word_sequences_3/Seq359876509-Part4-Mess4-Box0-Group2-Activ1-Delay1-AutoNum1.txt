@@ -1,0 +1,19 @@
+@startuml
+participant "lowly nominate" as 0
+participant "flap bummed" as 1
+participant "chicks hex" as 2
+participant "discussion interview" as 3
+autonumber 4 7
+2 ->o 0: sublime nerves
+opt hunting pastrami
+0 -> 2: trombone procreate
+autonumber stop
+...employed progressive...
+2 ->o 1++ : scented unsubstantiated
+else subterranean cruise
+opt shifting mushrooms
+1 -> 2: julep untrustworthy
+return odds obviously
+end
+end
+@enduml

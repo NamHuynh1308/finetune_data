@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:lad fractions;
+split again
+-[hidden]->
+:flak poach;
+split again
+-[hidden]->
+:throbbing medieval; <<task>>
+split again
+-[hidden]->
+:veering veranda; <<task>>
+end split
+:ability answered; <<output>>
+:wetlands goody; <<save>>
+-> payback connects;
+group clearance detention
+:oily unwashed; <<procedure>>
+stop
+end group
+@enduml

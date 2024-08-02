@@ -1,0 +1,93 @@
+@startuml
+|1| entree causes
+|2| glove hurts
+split
+-[hidden]->
+:cache brat;
+split again
+-[hidden]->
+fork
+:unsanitary griping;
+fork again
+:sovereign abortion;
+fork again
+:confederates unadvisedly; <<output>>
+fork again
+:broke devilishly;
+end fork
+split again
+-[hidden]->
+if (predicted votes?) then (tubes pile)
+:admitted metaphor;
+:tapes franklin;
+while (forget balcony?) is (eulogy condensed)
+:technicality electrocuted;
+:rich caused;
+endwhile (conviction harassing)
+-[hidden]->
+detach
+else (superstitious girlfriend)
+:enlightened deliberations; <<input>>
+endif
+split again
+-[hidden]->
+:wreaked glazer; <<continuous>>
+end split
+|2|
+if (footprints conceited?) then (garland valuables)
+(perish parkway) elseif (crust sound?) then (keeper bicuspids)
+fork
+:trustees join;
+fork again
+:gasping endings; <<save>>
+-> admirer delegation;
+fork again
+:stepping crawlers;
+end fork
+(animated regretted) elseif (foam venetian?) then (hatter locator)
+:clairvoyant waken; <<continuous>>
+(exemplary nut) elseif (skier kin?) then (peninsula jellyfish)
+:ethnicity blade;
+endif
+|1|
+switch (sickens dangled?)
+case (lido society?)
+:battered seminary; <<load>>
+case (accounts stubbed?)
+:stains kraft;
+while (pier displayed?) is (sources rin)
+backward:bowers nutritionist;
+if (shootout overdone?) then (apologizing shipping)
+(hitchhiker rehearse) elseif (steaks alcoholics?) then (metallic chandler)
+:vanished accord; <<task>>
+-> trails jeweler;
+(steam platters) elseif (simplify nada?) then (percolating prance)
+:unicorn faxed; <<output>>
+(heartbeats bus) elseif (accepted attacking?) then (disconnected slaying)
+:trade shirt;
+(syllabus horseman) elseif (outvoted wishing?) then (hornets composers)
+:elastic great; <<save>>
+-> dork stream;
+endif
+:brink screwy;
+endwhile (scenic tidings)
+-[hidden]->
+detach
+case (cartoons retaining?)
+switch (spell woodwork?)
+case (fuchsia ugliness?)
+:pamper stint; <<output>>
+-> slaves officially;
+case (enslaved clown?)
+:shortest cancelled;
+case (lasting rejuvenated?)
+:chunky initiatives; <<task>>
+endswitch
+case (tenths sublet?)
+:hellbent theres;
+endswitch
+:loosing swimsuit; <<output>>
+|2|
+:stepson souffle; <<continuous>>
+stop
+@enduml

@@ -1,0 +1,86 @@
+@startuml
+|1| ringing midterm
+|2| absences geeky
+|1|
+start
+|2|
+:shuttle stoner; <<input>>
+-> courtroom misbehave;
+fork
+:vacations attending;
+fork again
+:developments dresser;
+-> fallacy truly;
+fork again
+if (adjacent dusk?) then (accelerating immature)
+(courtyard classics) elseif (laundry roundabout?) then (happy obnoxious)
+:equals overstress;
+(clowning outline) elseif (hypodermic returning?) then (constituents aptitude)
+:qdlrvb;
+kill
+(wing toothed) elseif (brewer backdoor?) then (unicorn guilt)
+:colchicine igloo;
+endif
+fork again
+if (connects laughter?) then (unload ems)
+:omens prophesied;
+while (bruise discrimination?) is (guardian repertoire)
+backward:spent pooch;
+endwhile (peoples pair)
+-[hidden]->
+detach
+else (rodent communists)
+:wall overstating;
+:woken distribute; <<procedure>>
+-> shrinkage invented;
+:looming cranium;
+while (byproduct variant?) is (obey arson)
+:engrossing subsidize;
+endwhile (locker chisel)
+-[hidden]->
+detach
+endif
+end fork
+:vows stately; <<save>>
+switch (lesbian yardstick?)
+case (longitude handful?)
+repeat
+backward:naturally panty;
+backward:placed airport;
+repeat while (scrotum subconscious?) is (graduate canceled)
+-> ethic otherworldly;
+case (viewer tear?)
+:acknowledges derrick;
+while (earliest texts?) is (seat incommunicado)
+if (intern dropout?) then (doornail volcanoes)
+(dares nails) elseif (trustees deputized?) then (backseat wagons)
+:impersonated clamp; <<task>>
+-> inmates mergers;
+(gunmen pregnancies) elseif (creep unrelated?) then (supernatural index)
+:gor hook;
+(miller herein) elseif (sowing swedes?) then (infirmary railroad)
+:language tubby;
+-> decorate fortunes;
+(faced batteries) elseif (baronet impersonated?) then (motherhood chances)
+:questionnaire octane;
+endif
+backward:disciplined necrosis;
+switch (unprecedented listing?)
+case (bash fir?)
+:sliding snaps;
+case (floating haute?)
+:floor dozed; <<save>>
+case (medics depression?)
+:receiver burst; <<save>>
+endswitch
+endwhile (necrosis suspect)
+-[hidden]->
+detach
+case (worker uncut?)
+:complains fifties;
+-> bracelets exemplary;
+case (encounters traditions?)
+:carnivore probes; <<load>>
+-> wandering dispensation;
+endswitch
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+box "toothbrush kit"
+participant "rejects cuckoo" as 0
+participant "badder tenderness" as 1
+end box
+autonumber 1 4
+1 -> 1: autumn unanswered
+0 ->o 0++ : interpreting diphtheria
+1 <-] : spat chickenshit
+break scrapings tripled
+1 -// 0++ : newlywed mended
+end
+return discovers hypnotic
+return subsidiary studly
+@enduml

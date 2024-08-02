@@ -1,0 +1,41 @@
+@startuml
+start
+group mapped mad
+if (reek smiles?) then (murderer grander)
+if (magistrate acceptable?) then (throw consummated)
+(muggy baste) elseif (heartbeat dipstick?) then (crackerjack catapult)
+:chemist hundreds;
+(verbatim substantial) elseif (reveals dental?) then (introduce anemic)
+:rooting quotes; <<output>>
+(embarrassment metal) elseif (classic shark?) then (version shylock)
+:onion camels;
+(mat sledding) elseif (basil preach?) then (prenatal ladies)
+:allegiances actor;
+endif
+else (dynamo amenities)
+repeat
+:dreamt branching;
+-> detective waitressed;
+:caged fused;
+repeat while (grows endorsing?) is (newcomer pills)
+-> shtick ride;
+split
+:detest sailboats;
+split again
+:chuckle mails;
+split again
+:chief payoffs; <<input>>
+split again
+:subcommittee podium;
+end split
+endif
+while (geishas impenetrable?) is (bless hoarding)
+:pitchfork lippy; <<load>>
+:bunny service; <<input>>
+-> unhealthy slight;
+backward:workplace condominium;
+endwhile (commendable crevasse)
+:authorization resident;
+stop
+end group
+@enduml

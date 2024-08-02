@@ -1,0 +1,9 @@
+@startuml
+participant "delayed wings" as 0
+participant "recanting drippy" as 1
+0 -> 1: pedicures roof
+1 ->> 1++ : miniature melodrama
+...munch paltry...
+1 -// 0: mallet paradox
+return cooks darned
+@enduml

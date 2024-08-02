@@ -1,0 +1,8 @@
+@startuml
+start
+group guilder rodents
+:violence outlines; <<task>>
+-> adventures announce;
+stop
+end group
+@enduml

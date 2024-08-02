@@ -1,0 +1,16 @@
+@startuml
+participant "charley superintendent" as 0
+participant "corky cipher" as 1
+== waiver skull ==
+autonumber 1 3
+0 -\\ 0: camcorder muchacho
+create participant "neither trashing" as 2
+1 -> 2 : neither trashing
+break fetch tattoo
+0 -> 0++ : halt cumulative
+opt flank bookshelf
+2 -// 2: gosh lobby
+end
+end
+return nympho unhook
+@enduml

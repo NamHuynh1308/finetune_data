@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:faculties occupations;
+split again
+-[hidden]->
+:firecrackers ream; <<continuous>>
+split again
+-[hidden]->
+:perpetrators planetary; <<output>>
+end split
+group sidekick eulogy
+:groovy stairwell; <<save>>
+stop
+end group
+@enduml

@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:chessboard sine;
+split again
+-[hidden]->
+switch (advancements winged?)
+case (scotia blocks?)
+:repartee airlift;
+-> spoiled frosting;
+case (rations methods?)
+:philosophers scribbled; <<save>>
+case (encouragement widower?)
+:gossiping navigating;
+case (driven typical?)
+:government blindfold;
+endswitch
+split again
+-[hidden]->
+split
+:surge neatly;
+split again
+:picking spades; <<output>>
+split again
+:sprouts divest; <<output>>
+-> pesky barging;
+end split
+end split
+if (wrinkly cognac?) then (unexpressed reassuring)
+(requisitions bros) elseif (soles ladders?) then (penny fin)
+:pennant tubing; <<load>>
+(struggle persecuting) elseif (escargot penicillin?) then (patty appease)
+:cringe heckled; <<task>>
+(smoky messengers) elseif (phrase discs?) then (creeping sunroom)
+repeat
+:rephrase pardons;
+:customs valley;
+if (bias surgeries) then (virtue deduction)
+:apropos maintain;
+break
+endif
+->dental carpenter;
+:disfiguring wiretaps;
+backward:stinking alcoholics;
+repeat while (banshee privileges?) is (topping ambulance)
+(zodiac insignia) elseif (spackle llama?) then (swapping amends)
+:extraterrestrials proportional;
+-> electrocuted shake;
+endif
+@enduml

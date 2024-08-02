@@ -1,0 +1,16 @@
+@startuml
+participant "canvass births" as 0
+participant "shorten site" as 1
+create participant "evolve sen" as 2
+0 -> 2 : evolve sen
+critical unavailable heartless
+1 -->x 0: bravado daiquiri
+0 -> 0++ : auditions baldness
+else referee theses
+0 -> 1: dwarf boon
+...caroling polyester...
+1 ->> 1: permission volunteer
+1 <-> 1: continuation dissertation
+end
+return comedy pass
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+box "eclipse inject"
+participant "vocal endangerment" as 0
+participant "comedies smacks" as 1
+participant "sire sympathetic" as 2
+end box
+box "armies fussing"
+participant "doggone arteries" as 3
+end box
+== loyalty combusted ==
+autonumber 4 3
+3 -> 2: keno followed
+create participant "boysenberry android" as 4
+2 -> 4 : boysenberry android
+0 ->x 0: sunny breathless
+autonumber stop
+ [-> 2: frosty ascot
+alt shredder teeth
+4 --//o 2: backseat meditation
+end
+@enduml

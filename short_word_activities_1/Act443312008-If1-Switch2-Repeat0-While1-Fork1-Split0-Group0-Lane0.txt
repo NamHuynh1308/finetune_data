@@ -1,0 +1,34 @@
+@startuml
+start
+fork
+:invoices tagging;
+fork again
+:spa dominion;
+while (fruity misinterpreted?) is (wilt deposited)
+backward:mauled eats;
+endwhile (moist uninterrupted)
+-[hidden]->
+detach
+fork again
+switch (seem executor?)
+case (professionals procrastinating?)
+:nearby borrowed;
+case (electricians zits?)
+:nutty uninvited;
+case (operational donkey?)
+:build detecting; <<load>>
+endswitch
+end merge
+switch (mall been?)
+case (breached absolutely?)
+:dredge internment;
+case (persists untamed?)
+if (diversion surrounded?) then (gondola relevance)
+:unlimited require; <<continuous>>
+-> muffler technical;
+else (volcanoes clement)
+:stooped existentialist; <<task>>
+:players plunge; <<output>>
+endif
+endswitch
+@enduml

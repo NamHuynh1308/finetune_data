@@ -1,0 +1,14 @@
+@startuml
+participant "cruising rialto" as 0
+participant "kat doves" as 1
+participant "slicer existent" as 2
+== weathers lowdown ==
+autonumber 2 2
+critical name philosophy
+1 --//o 0: brought impromptu
+...across eaten...
+0 <-] : pinpointed bargaining
+0 <-> 1++ : finessed umpire
+end
+return funny wets
+@enduml

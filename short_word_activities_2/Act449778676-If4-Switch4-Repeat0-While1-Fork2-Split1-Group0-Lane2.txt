@@ -1,0 +1,104 @@
+@startuml
+|1| pimp snobby
+|2| wailing indirectly
+if (quitters pooped?) then (bribing brownie)
+:annoys bugging;
+:hum decides; <<task>>
+if (mopped breezy?) then (spartan lapel)
+(rabid bowled) elseif (hefty panache?) then (sis adjustment)
+:preferably weep;
+(smuggling genuine) elseif (ageless quandary?) then (reneging over)
+:hitter veal;
+(murphy cloned) elseif (traveller cicely?) then (newsman associations)
+:tenure kaiser;
+(document painter) elseif (chestnut threw?) then (compadre competing)
+:pitcher ama;
+-> rooms bacteria;
+endif
+else (bandit subject)
+:pioneer neurosurgeon; <<save>>
+fork
+:arguments junior;
+fork again
+:spin lid;
+fork again
+:panicking speculating;
+end merge
+switch (suggesting mounds?)
+case (midterm talentless?)
+:residents enjoyable; <<procedure>>
+case (unchanged wrangle?)
+:carats boorish; <<task>>
+endswitch
+endif
+|2|
+switch (role jay?)
+case (breech obliterated?)
+if (pages pedro?) then (farrow baffled)
+:vow northwestern; <<save>>
+-> reel squatting;
+:sycophant layout; <<input>>
+else (prisons gore)
+:liquidate petitioning; <<output>>
+-> champions chemistry;
+:distractions internment; <<procedure>>
+:pancake rents; <<output>>
+-> suburb aggressively;
+endif
+case (suites mellowing?)
+if (jewellery clubbed?) then (reassign outrageous)
+(ambitions sentimental) elseif (volumes gang?) then (buy delta)
+:shawl asses; <<save>>
+(incorrigible generous) elseif (sheets total?) then (experience masks)
+:rants fen; <<save>>
+(tumors psychiatrists) elseif (forming surfing?) then (rawhide gang)
+:sustained perjured;
+(fixer motorized) elseif (commerce flexibility?) then (frigging slice)
+:colour pickup;
+endif
+case (siblings molars?)
+switch (ganja negatively?)
+case (unwise stung?)
+:upholstery defects;
+-> latest four;
+case (rex supervisor?)
+:washroom plainclothes;
+case (las smashes?)
+:iron decisive; <<task>>
+case (risk moonlighting?)
+:inspection bucket;
+while (congrats endeavour?) is (gran deserted)
+:twerp fractions;
+endwhile (impressionable aversion)
+-[hidden]->
+detach
+endswitch
+case (mills confidant?)
+:hypnotic honorary;
+endswitch
+fork
+:mousey assuming;
+fork again
+split
+:ten damsel;
+split again
+:manifold factor;
+split again
+:essays due;
+kill
+split again
+:wastes china; <<task>>
+end split
+fork again
+switch (fantastically syndicated?)
+case (hoosegow nance?)
+:pleasure dabbling;
+case (oars slammed?)
+:flaws cricket;
+endswitch
+fork again
+:cubs toe; <<save>>
+end merge
+|1|
+:toured howling; <<procedure>>
+@enduml

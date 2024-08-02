@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:flashback scumbags;
+split again
+-[hidden]->
+:mayday bush;
+split again
+-[hidden]->
+:budge updated; <<procedure>>
+split again
+-[hidden]->
+:stocked sharpshooters; <<output>>
+-> paradise dolls;
+end split
+group glove jaws
+:grudge thicker;
+-> galaxy drive;
+stop
+end group
+@enduml

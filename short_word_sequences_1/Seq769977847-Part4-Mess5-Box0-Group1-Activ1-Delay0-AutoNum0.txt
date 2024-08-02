@@ -1,0 +1,15 @@
+@startuml
+participant "compatibility louden" as 0
+participant "loops crop" as 1
+participant "entourage tonnage" as 2
+par actions prototype
+0 -->x 2++ : missile dearly
+2 <-] : reinstate cautious
+create participant "champion flavour" as 3
+2 -> 3 : champion flavour
+0 ->> 3: corporations farrow
+else washrooms anorexia
+ [<- 1: oxen proteus
+end
+return craziest circuits
+@enduml

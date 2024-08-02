@@ -1,0 +1,23 @@
+@startuml
+box "knobs brake"
+participant "slow wondrous" as 0
+participant "neutral scramble" as 1
+participant "rectory hitting" as 2
+end box
+box "eyewitness delicious"
+participant "evangelical thereafter" as 3
+end box
+== hank tunnels ==
+1 ->o 1: sample dashed
+0 -> 0: flannel captivated
+...lima manufactures...
+2 -> 2: fifty parliament
+2 -> 2: admiral statehood
+critical dispute pupil
+0 -> 1++ : weir apiece
+0 --//o 1: cremated regained
+0 ->] : pronounce craving
+end
+0 ->] : know kissy
+return leaked typist
+@enduml

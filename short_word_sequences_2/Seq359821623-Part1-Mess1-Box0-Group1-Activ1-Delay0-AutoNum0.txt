@@ -1,0 +1,7 @@
+@startuml
+participant "shoehorn happily" as 0
+opt nuthouse scooped
+0 -> 0++ : squeal alliteration
+end
+return consorting eavesdropping
+@enduml

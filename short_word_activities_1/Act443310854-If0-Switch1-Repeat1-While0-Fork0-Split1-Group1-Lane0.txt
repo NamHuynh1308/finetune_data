@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:messages grumpy;
+split again
+-[hidden]->
+:regularity baronet; <<task>>
+-> tarts added;
+split again
+-[hidden]->
+:deviated diagonal;
+kill
+split again
+-[hidden]->
+:hypotensive incinerate; <<continuous>>
+end split
+switch (honky plant?)
+case (tubs snorkeling?)
+:kiddie mortal;
+case (dole mowers?)
+:commands toothpaste;
+-> hobble hairline;
+case (disarray flighty?)
+:sprints newsstands; <<continuous>>
+endswitch
+group host required
+:scrounge satchel;
+-> pardons puff;
+repeat
+backward:annually foxholes;
+repeat while (rained unexplored?) is (onward undressing)
+-> aloft churches;
+end group
+@enduml

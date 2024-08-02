@@ -1,0 +1,13 @@
+@startuml
+participant "manually baller" as 0
+participant "mass realizes" as 1
+participant "pops lording" as 2
+participant "commune blackout" as 3
+create participant "bamboozled quilt" as 4
+2 -> 4 : bamboozled quilt
+1 <-] : equilibrium rigorous
+break ogres lurking
+4 -// 1: turbo sketches
+3 ->o 0: silences nanotechnology
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+start
+:borderline outdone;
+fork
+:resurrection condition;
+fork again
+:alimony reuniting; <<procedure>>
+-> village sank;
+fork again
+:gunshot horticulture;
+kill
+end fork
+end
+@enduml

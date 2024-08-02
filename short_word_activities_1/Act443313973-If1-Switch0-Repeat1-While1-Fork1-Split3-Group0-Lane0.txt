@@ -1,0 +1,58 @@
+@startuml
+split
+-[hidden]->
+:obviously branches;
+split again
+-[hidden]->
+split
+:opposite settlements;
+split again
+:folks shank;
+split again
+:groin alfalfa;
+end split
+split again
+-[hidden]->
+:pencils peak; <<procedure>>
+split again
+-[hidden]->
+split
+:pill loosening;
+split again
+:chemist willpower;
+split again
+:feast behaving;
+split again
+:overlap hypocrite;
+end split
+end split
+repeat
+if (valley accompanying?) then (synthesize pail)
+(gifts ginny) elseif (cornball improvised?) then (grudging contaminating)
+:waxes holds; <<input>>
+(sketch trellis) elseif (waddle specified?) then (loaf pup)
+:earning select; <<task>>
+-> urgent intermittent;
+endif
+fork
+:butterscotch restraint;
+fork again
+:ping suitcase; <<input>>
+-> healing missionary;
+fork again
+:hypocrites lotion;
+while (entrance wound?) is (basements detonate)
+:classical obligations;
+:stewardesses mechanical;
+:ounces worthwhile;
+endwhile (faucets directly)
+-[hidden]->
+detach
+fork again
+:visualizing philosophies; <<procedure>>
+end fork
+backward:taxes fatality;
+repeat while (assessed boston?) is (bonuses immortal)
+:improvements throwers; <<save>>
+-> truck endorsements;
+@enduml

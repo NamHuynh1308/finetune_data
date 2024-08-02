@@ -1,0 +1,15 @@
+@startuml
+participant "pier visual" as 0
+participant "burritos conversion" as 1
+autonumber 5 6
+0 ->x 1: gerbils episodes
+...traumas manila...
+1 -> 0: ridicule towers
+autonumber stop
+loop aisle joys
+1 --//o 1: rigorous geriatric
+0 --//o 1++ : concentrated obtain
+autonumber resume
+end
+return haggling float
+@enduml

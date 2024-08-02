@@ -1,0 +1,10 @@
+@startuml
+box "belabor riled"
+participant "jettison creases" as 0
+participant "dawned sexy" as 1
+end box
+== restaurant conceited ==
+0 ->] : microwave juncture
+create participant "cracks suffocate" as 2
+0 -> 2 : cracks suffocate
+@enduml

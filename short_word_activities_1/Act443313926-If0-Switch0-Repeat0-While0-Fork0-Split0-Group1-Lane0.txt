@@ -1,0 +1,7 @@
+@startuml
+start
+group swear tops
+:purblind streaming; <<procedure>>
+stop
+end group
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:broomstick seasoned;
+split again
+-[hidden]->
+:suppertime swimming;
+kill
+split again
+-[hidden]->
+:supervisor electric; <<input>>
+end split
+split
+:midst customarily;
+split again
+switch (knack nourishment?)
+case (concludes liquidation?)
+:abnormal hierarchy;
+case (scotches pointless?)
+:zoned preppy;
+-> nippy items;
+case (waken overdid?)
+:talons crud;
+endswitch
+split again
+:catch scratched; <<input>>
+end split
+end
+@enduml

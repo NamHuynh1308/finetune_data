@@ -1,0 +1,5 @@
+@startuml
+start
+:hesitating workstation; <<save>>
+-> dynamo sweatshirts;
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:genome burke;
+split again
+-[hidden]->
+fork
+:professed organism;
+fork again
+:tranquil scanners; <<save>>
+-> northwestern hips;
+fork again
+:sore ping; <<procedure>>
+-> cornerstone bastille;
+end merge
+split again
+-[hidden]->
+:duvet bleeder;
+end split
+:denial dressed;
+end
+@enduml

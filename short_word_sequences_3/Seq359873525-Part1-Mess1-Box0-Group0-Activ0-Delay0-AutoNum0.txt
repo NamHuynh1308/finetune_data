@@ -1,0 +1,5 @@
+@startuml
+participant "indeed suction" as 0
+== stroller entity ==
+0 -// 0: exchanging revere
+@enduml

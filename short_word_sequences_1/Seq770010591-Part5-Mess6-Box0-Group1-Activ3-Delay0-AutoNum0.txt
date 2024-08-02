@@ -1,0 +1,19 @@
+@startuml
+participant "baked managers" as 0
+participant "plantation matinee" as 1
+participant "bathrobes euthanasia" as 2
+participant "shipment filly" as 3
+create participant "tricked mattress" as 4
+0 -> 4 : tricked mattress
+4 -> 1: lukewarm civility
+break arithmetic unclaimed
+0 <-> 2++ : roses rode
+4 <-] : cycles binary
+return crusader dewars
+else expansion disorientation
+0 -// 0++ : flaming boggling
+end
+4 -> 2++ : point wasteful
+return ironic overnight
+return soothes physiological
+@enduml

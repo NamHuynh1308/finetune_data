@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:sandals anything;
+split again
+-[hidden]->
+:packing reliable;
+split again
+-[hidden]->
+:maple pilgrim; <<input>>
+-> tad quitter;
+split again
+-[hidden]->
+:armpits erasing;
+end split
+group validate triceps
+repeat
+backward:snowboard smallest;
+:suspended breaks; <<load>>
+while (autonomous anything?) is (violet impetuous)
+:child minuscule;
+endwhile (raved dimes)
+:clerks remain;
+repeat while (advised delivering?) is (recombinant trilogy)
+-> aerosol peanuts;
+stop
+end group
+@enduml

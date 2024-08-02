@@ -1,0 +1,16 @@
+@startuml
+box "cyberspace heavyset"
+participant "themed onward" as 0
+end box
+== justifies mongoose ==
+autonumber 4 3
+create participant "exiles wimps" as 1
+0 -> 1 : exiles wimps
+alt sleaze monsieur
+1 -> 0: git clinches
+alt memorize practice
+0 -// 1++ : electronics aerial
+end
+end
+return bills mandatory
+@enduml

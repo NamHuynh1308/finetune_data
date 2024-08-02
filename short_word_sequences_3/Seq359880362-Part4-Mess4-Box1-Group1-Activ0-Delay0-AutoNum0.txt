@@ -1,0 +1,16 @@
+@startuml
+box "errands pronouns"
+participant "bullied calorie" as 0
+participant "baseless saline" as 1
+participant "acquaint real" as 2
+end box
+0 <-> 2: munching groundskeeper
+break source foods
+2 --> 2: barker upsets
+create participant "swiping beak" as 3
+2 -> 3 : swiping beak
+else axis toon
+1 ->> 0: gall reputed
+else mitten program
+end
+@enduml

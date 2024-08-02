@@ -1,0 +1,10 @@
+@startuml
+participant "wedded undoing" as 0
+box "deepest pills"
+participant "clerk compressor" as 1
+end box
+== groovy millisecond ==
+autonumber 10 2
+1 ->x 0: shelves decent
+0 -> 1: unhappily eyed
+@enduml

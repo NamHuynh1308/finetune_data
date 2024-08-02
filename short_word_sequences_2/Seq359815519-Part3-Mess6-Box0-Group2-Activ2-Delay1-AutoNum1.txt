@@ -1,0 +1,20 @@
+@startuml
+participant "randy gunpoint" as 0
+participant "intrigue prioritize" as 1
+participant "spindly ballgame" as 2
+autonumber 5 3
+ [<- 2: success against
+loop physiological technique
+0 <-] : penal tryouts
+0 ->] : stifling fob
+...guessed pinky...
+1 -> 2: scandal warms
+else medics invites
+2 ->o 2++ : outweigh drinking
+alt devised subtext
+0 --//o 0++ : cooling targets
+end
+end
+return stink absolved
+return precipice aboveboard
+@enduml

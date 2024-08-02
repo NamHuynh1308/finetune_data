@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:chain dumbest;
+split again
+-[hidden]->
+:ratty overturned; <<task>>
+split again
+-[hidden]->
+if (stupidity summarily?) then (clots eerily)
+(defendant mistrust) elseif (terrain reservations?) then (baffling mental)
+:alastor workload;
+(programme delivering) elseif (tackled carr?) then (appropriate oodles)
+:fryer foolhardy; <<output>>
+endif
+end split
+group hundred there
+:plotting brooms; <<task>>
+stop
+end group
+@enduml

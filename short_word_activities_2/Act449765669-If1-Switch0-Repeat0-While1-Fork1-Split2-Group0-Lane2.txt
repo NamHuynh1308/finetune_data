@@ -1,0 +1,45 @@
+@startuml
+|1| champ dogwood
+|2| chug ocean
+split
+-[hidden]->
+:variance loans;
+split again
+-[hidden]->
+:telemetry tuna;
+split again
+-[hidden]->
+:allergic coast;
+while (dumber royalty?) is (visions witnessed)
+backward:renewal pining;
+endwhile (ticks newlywed)
+-[hidden]->
+detach
+end split
+:drumstick operate;
+if (decorations interpreting?) then (fused earpiece)
+(atropine precision) elseif (innocuous circle?) then (due intervene)
+:rhyme classmates; <<output>>
+(physics undisclosed) elseif (miniature tea?) then (nightstick scrubs)
+:springer disciplining;
+endif
+fork
+:consul untouchable;
+fork again
+:testified hundredth;
+-> pedicure paperboy;
+fork again
+:plugged fortunate; <<continuous>>
+end merge
+split
+:bet columnist;
+split again
+:believed dismissed;
+split again
+:default nosh; <<load>>
+end split
+|2|
+:fewer nefarious; <<save>>
+-> overpass rivalry;
+stop
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+start
+:clones cryogenic;
+group marvel stream
+:hippos pissant; <<output>>
+stop
+end group
+@enduml

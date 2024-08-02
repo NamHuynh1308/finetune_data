@@ -1,0 +1,18 @@
+@startuml
+participant "towels neighborhoods" as 0
+participant "elks shorts" as 1
+participant "background symbolize" as 2
+participant "meningitis resistance" as 3
+autonumber 9 3
+alt versions polled
+3 -->x 0: courses blink
+0 --> 3++ : scholarly bearing
+0 ->x 1: standards excels
+return pitchers gunner
+2 ->] : obvious clogged
+autonumber stop
+0 -> 2: listens coaster
+autonumber resume
+end
+0 -\\ 0: retainer extravagant
+@enduml

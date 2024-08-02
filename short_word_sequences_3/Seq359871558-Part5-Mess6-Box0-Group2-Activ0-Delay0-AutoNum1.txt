@@ -1,0 +1,21 @@
+@startuml
+participant "alley peaceful" as 0
+participant "shootout pharaohs" as 1
+participant "limp travel" as 2
+participant "examination unclaimed" as 3
+== washrooms dwarves ==
+autonumber 10 7
+2 -> 2!! : made incapacitate
+3 <-] : rigging colin
+0 ->> 2: servers entertainment
+opt petit mandates
+create participant "awaiting shifty" as 4
+1 -> 4 : awaiting shifty
+alt builds wheeler
+0 -> 1: gnaw murals
+autonumber stop
+0 ->x 4: evocative previously
+autonumber resume
+end
+end
+@enduml

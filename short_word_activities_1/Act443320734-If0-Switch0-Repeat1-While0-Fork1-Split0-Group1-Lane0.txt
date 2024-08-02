@@ -1,0 +1,17 @@
+@startuml
+start
+group footstool interrupted
+fork
+:hydraulic roughing;
+fork again
+:pew partly; <<save>>
+fork again
+repeat
+:reasonably humiliates;
+backward:terribly ears;
+repeat while (lawsuit fences?) is (pond chunk)
+end merge
+:starvation devilishly;
+stop
+end group
+@enduml

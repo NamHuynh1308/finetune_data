@@ -1,0 +1,7 @@
+@startuml
+participant "hit strength" as 0
+== finessed benefits ==
+autonumber 5 6
+0 -// 0: holy confidence
+ [<- 0: celebrates aloha
+@enduml

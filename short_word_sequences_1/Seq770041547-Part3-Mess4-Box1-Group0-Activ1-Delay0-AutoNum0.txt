@@ -1,0 +1,12 @@
+@startuml
+box "yap closets"
+participant "plumbers cabins" as 0
+participant "armored drivel" as 1
+participant "sighing pygmy" as 2
+end box
+0 ->o 0: nipped cooling
+2 -// 1++ : directions cusp
+ [<- 2: lacquer thaw
+0 <-] : cannot emphasize
+return flick such
+@enduml

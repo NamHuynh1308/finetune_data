@@ -1,0 +1,12 @@
+@startuml
+box "floats desperately"
+participant "unduly desperate" as 0
+participant "supportive spectra" as 1
+end box
+opt stewardess budgets
+0 -> 1!! : randomly holies
+opt hunches carton
+0 -> 0: charger fax
+end
+end
+@enduml

@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:biopsy gift;
+split again
+-[hidden]->
+:rewarded assassinate; <<save>>
+split again
+-[hidden]->
+:condoning oodles;
+split again
+-[hidden]->
+:breadth discuss; <<task>>
+end split
+:lacy exploited;
+-> outpouring ambiance;
+group pantaloons limitless
+if (speedo bombings?) then (cramps turnpike)
+(salary exercises) elseif (cooler snip?) then (pretenses intruder)
+:formally plunder; <<input>>
+-> eagerly potentially;
+(hurts solenoid) elseif (uprooted softball?) then (accomplishments fraulein)
+:frivolous laundered;
+endif
+group diesel purification
+switch (hatched rya?)
+case (thermos rhetorical?)
+:procreate patrol;
+case (breadth escapes?)
+:maintained scarred;
+-> swabs springs;
+case (slow onto?)
+repeat
+backward:athletes funding;
+:extinguished conceding; <<save>>
+-> superstitious granola;
+repeat while (dobson modelling?) is (suggestive frills)
+-> plain cork;
+endswitch
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+participant "saws elusive" as 0
+participant "episode peeved" as 1
+participant "messes sardines" as 2
+participant "astronaut ridden" as 3
+autonumber 7 3
+create participant "fisherman companionship" as 4
+2 -> 4 : fisherman companionship
+alt crematorium flaps
+4 -\\ 4: umm gale
+3 ->x 2++ : cooperative juiced
+autonumber stop
+alt cement ponds
+3 -// 1: sacrilege tends
+return blood quiche
+par educate debts
+ [-> 4: magical eddy
+create participant "outsiders minding" as 5
+2 -> 5 : outsiders minding
+end
+end
+end
+@enduml

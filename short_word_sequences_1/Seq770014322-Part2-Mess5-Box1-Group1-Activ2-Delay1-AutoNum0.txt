@@ -1,0 +1,17 @@
+@startuml
+box "mayo content"
+participant "seller deets" as 0
+participant "pathologist branches" as 1
+end box
+== appetizing griffins ==
+1 -> 1!! : laundered dills
+1 -> 0++ : salmonella farmers
+1 ->> 0: assertive promo
+return sampled eccentric
+...departments solve...
+0 -> 0: synch prep
+loop phony distinctive
+1 -> 1++ : graham terrorize
+end
+return fringes hoot
+@enduml

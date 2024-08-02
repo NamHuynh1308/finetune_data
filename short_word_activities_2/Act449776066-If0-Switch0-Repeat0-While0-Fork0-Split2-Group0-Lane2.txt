@@ -1,0 +1,31 @@
+@startuml
+|1| wimp shameless
+|2| ensued cuts
+split
+-[hidden]->
+:thatcher colors;
+split again
+-[hidden]->
+:decides computers;
+-> racquetball suggested;
+split again
+-[hidden]->
+split
+:teas allegiances;
+split again
+:bracket provocation;
+-> churn liberated;
+split again
+:cheater fixtures;
+end split
+split again
+-[hidden]->
+:supernatural partied; <<task>>
+end split
+:collage fringe;
+-> unconsciousness alaska;
+:shelves curiously; <<output>>
+:unsettled tod;
+|2|
+:orchestrated serious; <<load>>
+@enduml

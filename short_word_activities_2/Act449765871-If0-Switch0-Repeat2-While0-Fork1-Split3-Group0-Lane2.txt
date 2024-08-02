@@ -1,0 +1,51 @@
+@startuml
+|1| sable anointed
+|2| penned sheltered
+split
+-[hidden]->
+:softest knapsack;
+split again
+-[hidden]->
+:crowding slayers; <<procedure>>
+split again
+-[hidden]->
+:trader speechless;
+end split
+split
+:occupations comedic;
+split again
+repeat
+:driver discrete;
+:swimsuit icon;
+repeat while (abundance relics?) is (geographical files)
+split again
+:resembling pacifist; <<input>>
+-> scabby salsa;
+split again
+fork
+:coco den;
+fork again
+:mathematics masterpieces;
+fork again
+:gladly buzzing;
+end merge
+end split
+|2|
+repeat
+:warrants him; <<output>>
+split
+:bought architecture;
+split again
+:mashed develops;
+split again
+:facing intrude; <<continuous>>
+split again
+:muskrat tach;
+end split
+:conception hyphen; <<load>>
+repeat while (fracture starship?) is (counsel electorate)
+|1|
+:fatso shoemaker; <<procedure>>
+:bridges dined;
+end
+@enduml

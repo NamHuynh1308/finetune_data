@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:showered seizes;
+split again
+-[hidden]->
+:registering wife; <<task>>
+-> vacuumed instructor;
+split again
+-[hidden]->
+split
+:combine tentative;
+split again
+:appeased musketeers;
+-> cranky fundraisers;
+split again
+:calculation ectopic; <<procedure>>
+end split
+end split
+group jerking suspended
+:stranger dismay; <<load>>
+stop
+end group
+@enduml

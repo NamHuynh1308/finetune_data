@@ -1,0 +1,16 @@
+@startuml
+participant "vestigial switches" as 0
+participant "fogged state" as 1
+box "lucky barred"
+participant "shuttle silliest" as 2
+end box
+2 -> 0++ : bands complicated
+2 --//o 2: homegrown patents
+return wrinkled clout
+0 -> 1: heft souse
+0 -// 0: hitch commercialism
+1 -> 2: outcasts pillars
+break evolve ump
+1 -> 0: roughing ecumenical
+end
+@enduml

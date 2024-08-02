@@ -1,0 +1,11 @@
+@startuml
+box "salads tiptoeing"
+participant "sister majors" as 0
+participant "theft strep" as 1
+end box
+== determines colosseum ==
+0 -> 1: telegraph demur
+ [-> 1: mime colours
+1 ->o 0: swimming petite
+0 ->x 1: lasagne thriving
+@enduml

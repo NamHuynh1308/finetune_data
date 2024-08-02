@@ -1,0 +1,24 @@
+@startuml
+box "lanky drawn"
+participant "curate controversial" as 0
+box "subatomic sensation"
+participant "births splash" as 1
+participant "mum cutie" as 2
+end box
+participant "monopolizing cabins" as 3
+end box
+== clan trials ==
+par prose clocks
+1 -> 2: boatman sport
+opt exporter speech
+0 -->x 3++ : enemy everyone
+alt exam dismissed
+1 --//o 1: functional lots
+2 ->] : lyrics loyal
+return saddest unsafe
+2 -> 3++ : casbah handler
+end
+end
+end
+return dutch mastery
+@enduml

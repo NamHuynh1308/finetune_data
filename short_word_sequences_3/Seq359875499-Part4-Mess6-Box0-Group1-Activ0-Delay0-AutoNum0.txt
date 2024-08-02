@@ -1,0 +1,15 @@
+@startuml
+participant "refugees warlocks" as 0
+participant "fresh reasonably" as 1
+== basic darn ==
+0 ->] : aha delivery
+ [<- 0: inter cooties
+1 ->] : sleaze galactic
+opt resemble stunt
+0 --//o 0: piled lilies
+create participant "excesses conjured" as 2
+0 -> 2 : excesses conjured
+create participant "jiminy baloney" as 3
+0 -> 3 : jiminy baloney
+end
+@enduml

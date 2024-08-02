@@ -1,0 +1,1902 @@
+WARNING:torch.distributed.run:
+*****************************************
+Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+*****************************************
+[2024-07-21 17:25:27,113] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-07-21 17:25:27,113] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+please install petrel_client
+please install petrel_client
+Replace train sampler!!
+Replace train sampler!!
+petrel_client is not installed. Using PIL to load images.
+petrel_client is not installed. Using PIL to load images.
+[2024-07-21 17:25:31,611] [INFO] [comm.py:637:init_distributed] cdb=None
+[2024-07-21 17:25:31,611] [INFO] [comm.py:668:init_distributed] Initializing TorchBackend in DeepSpeed with backend nccl
+[2024-07-21 17:25:31,611] [INFO] [comm.py:637:init_distributed] cdb=None
+07/21/2024 17:25:31 - WARNING - __main__ - Process rank: 1, device: cuda:1, n_gpu: 1distributed training: True, 16-bits training: False
+07/21/2024 17:25:31 - WARNING - __main__ - Process rank: 0, device: cuda:0, n_gpu: 1distributed training: True, 16-bits training: False
+07/21/2024 17:25:31 - INFO - __main__ - Training/evaluation parameters TrainingArguments(
+_n_gpu=1,
+adafactor=False,
+adam_beta1=0.9,
+adam_beta2=0.999,
+adam_epsilon=1e-08,
+auto_find_batch_size=False,
+bf16=True,
+bf16_full_eval=False,
+data_seed=None,
+dataloader_drop_last=False,
+dataloader_num_workers=4,
+dataloader_persistent_workers=False,
+dataloader_pin_memory=True,
+ddp_backend=None,
+ddp_broadcast_buffers=None,
+ddp_bucket_cap_mb=None,
+ddp_find_unused_parameters=None,
+ddp_timeout=1800,
+debug=[],
+deepspeed=zero_stage3_config.json,
+disable_tqdm=False,
+dispatch_batches=None,
+do_eval=False,
+do_predict=False,
+do_train=True,
+eval_accumulation_steps=None,
+eval_delay=0,
+eval_steps=None,
+evaluation_strategy=no,
+fp16=False,
+fp16_backend=auto,
+fp16_full_eval=False,
+fp16_opt_level=O1,
+fsdp=[],
+fsdp_config={'min_num_params': 0, 'xla': False, 'xla_fsdp_grad_ckpt': False},
+fsdp_min_num_params=0,
+fsdp_transformer_layer_cls_to_wrap=None,
+full_determinism=False,
+gradient_accumulation_steps=2,
+gradient_checkpointing=False,
+gradient_checkpointing_kwargs=None,
+greater_is_better=None,
+group_by_length=True,
+half_precision_backend=auto,
+hub_always_push=False,
+hub_model_id=None,
+hub_private_repo=False,
+hub_strategy=every_save,
+hub_token=<HUB_TOKEN>,
+ignore_data_skip=False,
+include_inputs_for_metrics=False,
+include_num_input_tokens_seen=False,
+include_tokens_per_second=False,
+jit_mode_eval=False,
+label_names=None,
+label_smoothing_factor=0.0,
+learning_rate=1e-05,
+length_column_name=length,
+load_best_model_at_end=False,
+local_rank=0,
+log_level=passive,
+log_level_replica=warning,
+log_on_each_node=True,
+logging_dir=work_dirs/internvl_chat_v2_76b_hermes2_finetune_continue_lora/runs/Jul21_17-25-31_c849.oscer.ou.edu,
+logging_first_step=False,
+logging_nan_inf_filter=True,
+logging_steps=1.0,
+logging_strategy=steps,
+lr_scheduler_kwargs={},
+lr_scheduler_type=cosine,
+max_grad_norm=1.0,
+max_steps=-1,
+metric_for_best_model=None,
+mp_parameters=,
+neftune_noise_alpha=None,
+no_cuda=False,
+num_train_epochs=1.0,
+optim=adamw_torch,
+optim_args=None,
+output_dir=work_dirs/internvl_chat_v2_76b_hermes2_finetune_continue_lora,
+overwrite_output_dir=True,
+past_index=-1,
+per_device_eval_batch_size=8,
+per_device_train_batch_size=4,
+prediction_loss_only=False,
+push_to_hub=False,
+push_to_hub_model_id=None,
+push_to_hub_organization=None,
+push_to_hub_token=<PUSH_TO_HUB_TOKEN>,
+ray_scope=last,
+remove_unused_columns=True,
+report_to=['tensorboard'],
+resume_from_checkpoint=None,
+run_name=work_dirs/internvl_chat_v2_76b_hermes2_finetune_continue_lora,
+save_on_each_node=False,
+save_only_model=False,
+save_safetensors=True,
+save_steps=200,
+save_strategy=steps,
+save_total_limit=1,
+seed=42,
+skip_memory_metrics=True,
+split_batches=False,
+tf32=None,
+torch_compile=False,
+torch_compile_backend=None,
+torch_compile_mode=None,
+torchdynamo=None,
+tpu_metrics_debug=False,
+tpu_num_cores=None,
+use_cpu=False,
+use_ipex=False,
+use_legacy_prediction_loop=False,
+use_mps_device=False,
+warmup_ratio=0.03,
+warmup_steps=0,
+weight_decay=0.05,
+)
+07/21/2024 17:25:31 - INFO - __main__ - Loading Tokenizer: ./pretrained/InternVL2-Llama3-76B
+[INFO|tokenization_utils_base.py:2025] 2024-07-21 17:25:31,752 >> loading file tokenizer.json
+[INFO|tokenization_utils_base.py:2025] 2024-07-21 17:25:31,752 >> loading file added_tokens.json
+[INFO|tokenization_utils_base.py:2025] 2024-07-21 17:25:31,752 >> loading file special_tokens_map.json
+[INFO|tokenization_utils_base.py:2025] 2024-07-21 17:25:31,752 >> loading file tokenizer_config.json
+[WARNING|logging.py:314] 2024-07-21 17:25:32,422 >> Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+07/21/2024 17:25:32 - INFO - __main__ - Loading InternVLChatModel...
+[WARNING|logging.py:314] 2024-07-21 17:25:32,425 >> Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+[INFO|configuration_utils.py:727] 2024-07-21 17:25:32,447 >> loading configuration file ./pretrained/InternVL2-Llama3-76B/config.json
+[INFO|configuration_utils.py:792] 2024-07-21 17:25:32,449 >> Model config InternVLChatConfig {
+  "_commit_hash": null,
+  "architectures": [
+    "InternVLChatModel"
+  ],
+  "auto_map": {
+    "AutoConfig": "configuration_internvl_chat.InternVLChatConfig",
+    "AutoModel": "modeling_internvl_chat.InternVLChatModel",
+    "AutoModelForCausalLM": "modeling_internvl_chat.InternVLChatModel"
+  },
+  "downsample_ratio": 0.5,
+  "dynamic_image_size": true,
+  "force_image_size": 448,
+  "llm_config": {
+    "_name_or_path": "NousResearch/Hermes-2-Theta-Llama-3-70B",
+    "add_cross_attention": false,
+    "architectures": [
+      "LlamaForCausalLM"
+    ],
+    "attention_bias": false,
+    "attention_dropout": 0.0,
+    "bad_words_ids": null,
+    "begin_suppress_tokens": null,
+    "bos_token_id": 128000,
+    "chunk_size_feed_forward": 0,
+    "cross_attention_hidden_size": null,
+    "decoder_start_token_id": null,
+    "diversity_penalty": 0.0,
+    "do_sample": false,
+    "early_stopping": false,
+    "encoder_no_repeat_ngram_size": 0,
+    "eos_token_id": 128003,
+    "exponential_decay_length_penalty": null,
+    "finetuning_task": null,
+    "forced_bos_token_id": null,
+    "forced_eos_token_id": null,
+    "hidden_act": "silu",
+    "hidden_size": 8192,
+    "id2label": {
+      "0": "LABEL_0",
+      "1": "LABEL_1"
+    },
+    "initializer_range": 0.02,
+    "intermediate_size": 28672,
+    "is_decoder": false,
+    "is_encoder_decoder": false,
+    "label2id": {
+      "LABEL_0": 0,
+      "LABEL_1": 1
+    },
+    "length_penalty": 1.0,
+    "max_length": 20,
+    "max_position_embeddings": 8192,
+    "min_length": 0,
+    "mlp_bias": false,
+    "model_type": "llama",
+    "no_repeat_ngram_size": 0,
+    "num_attention_heads": 64,
+    "num_beam_groups": 1,
+    "num_beams": 1,
+    "num_hidden_layers": 80,
+    "num_key_value_heads": 8,
+    "num_return_sequences": 1,
+    "output_attentions": false,
+    "output_hidden_states": false,
+    "output_scores": false,
+    "pad_token_id": null,
+    "prefix": null,
+    "pretraining_tp": 1,
+    "problem_type": null,
+    "pruned_heads": {},
+    "remove_invalid_values": false,
+    "repetition_penalty": 1.0,
+    "return_dict": true,
+    "return_dict_in_generate": false,
+    "rms_norm_eps": 1e-05,
+    "rope_scaling": {
+      "factor": 3.0,
+      "type": "dynamic"
+    },
+    "rope_theta": 500000.0,
+    "sep_token_id": null,
+    "suppress_tokens": null,
+    "task_specific_params": null,
+    "temperature": 1.0,
+    "tf_legacy_loss": false,
+    "tie_encoder_decoder": false,
+    "tie_word_embeddings": false,
+    "tokenizer_class": null,
+    "top_k": 50,
+    "top_p": 1.0,
+    "torch_dtype": "bfloat16",
+    "torchscript": false,
+    "transformers_version": "4.37.2",
+    "typical_p": 1.0,
+    "use_bfloat16": true,
+    "use_cache": true,
+    "vocab_size": 128265
+  },
+  "max_dynamic_patch": 12,
+  "min_dynamic_patch": 1,
+  "model_type": "internvl_chat",
+  "pad2square": false,
+  "ps_version": "v2",
+  "select_layer": -1,
+  "template": "internlm2-chat",
+  "torch_dtype": "bfloat16",
+  "transformers_version": null,
+  "use_backbone_lora": 0,
+  "use_llm_lora": 0,
+  "use_thumbnail": true,
+  "vision_config": {
+    "_name_or_path": "",
+    "add_cross_attention": false,
+    "architectures": [
+      "InternVisionModel"
+    ],
+    "attention_dropout": 0.0,
+    "bad_words_ids": null,
+    "begin_suppress_tokens": null,
+    "bos_token_id": null,
+    "chunk_size_feed_forward": 0,
+    "cross_attention_hidden_size": null,
+    "decoder_start_token_id": null,
+    "diversity_penalty": 0.0,
+    "do_sample": false,
+    "drop_path_rate": 0.0,
+    "dropout": 0.0,
+    "early_stopping": false,
+    "encoder_no_repeat_ngram_size": 0,
+    "eos_token_id": null,
+    "exponential_decay_length_penalty": null,
+    "finetuning_task": null,
+    "forced_bos_token_id": null,
+    "forced_eos_token_id": null,
+    "hidden_act": "gelu",
+    "hidden_size": 3200,
+    "id2label": {
+      "0": "LABEL_0",
+      "1": "LABEL_1"
+    },
+    "image_size": 448,
+    "initializer_factor": 0.1,
+    "initializer_range": 1e-10,
+    "intermediate_size": 12800,
+    "is_decoder": false,
+    "is_encoder_decoder": false,
+    "label2id": {
+      "LABEL_0": 0,
+      "LABEL_1": 1
+    },
+    "layer_norm_eps": 1e-06,
+    "length_penalty": 1.0,
+    "max_length": 20,
+    "min_length": 0,
+    "model_type": "intern_vit_6b",
+    "no_repeat_ngram_size": 0,
+    "norm_type": "rms_norm",
+    "num_attention_heads": 25,
+    "num_beam_groups": 1,
+    "num_beams": 1,
+    "num_channels": 3,
+    "num_hidden_layers": 45,
+    "num_return_sequences": 1,
+    "output_attentions": false,
+    "output_hidden_states": false,
+    "output_scores": false,
+    "pad_token_id": null,
+    "patch_size": 14,
+    "prefix": null,
+    "problem_type": null,
+    "pruned_heads": {},
+    "qk_normalization": true,
+    "qkv_bias": false,
+    "remove_invalid_values": false,
+    "repetition_penalty": 1.0,
+    "return_dict": true,
+    "return_dict_in_generate": false,
+    "sep_token_id": null,
+    "suppress_tokens": null,
+    "task_specific_params": null,
+    "temperature": 1.0,
+    "tf_legacy_loss": false,
+    "tie_encoder_decoder": false,
+    "tie_word_embeddings": true,
+    "tokenizer_class": null,
+    "top_k": 50,
+    "top_p": 1.0,
+    "torch_dtype": "bfloat16",
+    "torchscript": false,
+    "transformers_version": "4.37.2",
+    "typical_p": 1.0,
+    "use_bfloat16": true,
+    "use_flash_attn": true
+  }
+}
+
+07/21/2024 17:25:32 - INFO - __main__ - Using flash_attention_2 for LLaMA
+[INFO|modeling_utils.py:3473] 2024-07-21 17:25:32,451 >> loading weights file ./pretrained/InternVL2-Llama3-76B/model.safetensors.index.json
+[INFO|modeling_utils.py:1426] 2024-07-21 17:25:32,489 >> Instantiating InternVLChatModel model under default dtype torch.bfloat16.
+[INFO|modeling_utils.py:3582] 2024-07-21 17:25:32,489 >> Detected DeepSpeed ZeRO-3: activating zero.init() for this model
+[INFO|configuration_utils.py:826] 2024-07-21 17:25:32,501 >> Generate config GenerationConfig {}
+
+[INFO|configuration_utils.py:826] 2024-07-21 17:25:35,142 >> Generate config GenerationConfig {
+  "bos_token_id": 128000,
+  "eos_token_id": 128003
+}
+
+[2024-07-21 17:25:41,467] [INFO] [partition_parameters.py:343:__exit__] finished initializing model - num_params = 1318, num_elems = 76.26B
+Loading checkpoint shards:   0%|          | 0/32 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/32 [00:00<?, ?it/s]Loading checkpoint shards:   3%|▎         | 1/32 [00:33<17:07, 33.15s/it]Loading checkpoint shards:   3%|▎         | 1/32 [00:33<17:18, 33.52s/it]Loading checkpoint shards:   6%|▋         | 2/32 [01:06<16:45, 33.52s/it]Loading checkpoint shards:   6%|▋         | 2/32 [01:07<16:45, 33.53s/it]Loading checkpoint shards:   9%|▉         | 3/32 [01:33<14:34, 30.17s/it]Loading checkpoint shards:   9%|▉         | 3/32 [01:38<15:51, 32.81s/it]Loading checkpoint shards:  12%|█▎        | 4/32 [01:53<12:19, 26.42s/it]Loading checkpoint shards:  12%|█▎        | 4/32 [02:07<14:27, 30.99s/it]Loading checkpoint shards:  16%|█▌        | 5/32 [02:14<10:58, 24.39s/it]Loading checkpoint shards:  16%|█▌        | 5/32 [02:35<13:29, 29.98s/it]Loading checkpoint shards:  19%|█▉        | 6/32 [02:56<13:05, 30.20s/it]Loading checkpoint shards:  19%|█▉        | 6/32 [03:02<12:37, 29.14s/it]Loading checkpoint shards:  22%|██▏       | 7/32 [03:15<11:07, 26.68s/it]Loading checkpoint shards:  22%|██▏       | 7/32 [03:31<12:03, 28.95s/it]Loading checkpoint shards:  25%|██▌       | 8/32 [03:57<12:36, 31.51s/it]Loading checkpoint shards:  25%|██▌       | 8/32 [04:02<11:51, 29.63s/it]Loading checkpoint shards:  28%|██▊       | 9/32 [04:17<10:40, 27.86s/it]Loading checkpoint shards:  28%|██▊       | 9/32 [04:30<11:09, 29.09s/it]Loading checkpoint shards:  31%|███▏      | 10/32 [04:37<09:22, 25.56s/it]Loading checkpoint shards:  31%|███▏      | 10/32 [04:58<10:30, 28.65s/it]Loading checkpoint shards:  34%|███▍      | 11/32 [05:18<10:34, 30.23s/it]Loading checkpoint shards:  34%|███▍      | 11/32 [05:25<09:54, 28.33s/it]Loading checkpoint shards:  38%|███▊      | 12/32 [05:38<09:02, 27.14s/it]Loading checkpoint shards:  38%|███▊      | 12/32 [05:55<09:35, 28.76s/it]Loading checkpoint shards:  41%|████      | 13/32 [06:22<10:10, 32.12s/it]Loading checkpoint shards:  41%|████      | 13/32 [06:27<09:27, 29.87s/it]Loading checkpoint shards:  44%|████▍     | 14/32 [06:42<08:32, 28.49s/it]Loading checkpoint shards:  44%|████▍     | 14/32 [06:55<08:43, 29.06s/it]Loading checkpoint shards:  47%|████▋     | 15/32 [07:01<07:18, 25.82s/it]Loading checkpoint shards:  47%|████▋     | 15/32 [07:22<08:04, 28.48s/it]Loading checkpoint shards:  50%|█████     | 16/32 [07:42<08:05, 30.33s/it]Loading checkpoint shards:  50%|█████     | 16/32 [07:50<07:34, 28.43s/it]Loading checkpoint shards:  53%|█████▎    | 17/32 [08:03<06:53, 27.58s/it]Loading checkpoint shards:  53%|█████▎    | 17/32 [08:21<07:18, 29.24s/it]Loading checkpoint shards:  56%|█████▋    | 18/32 [08:45<07:26, 31.89s/it]Loading checkpoint shards:  56%|█████▋    | 18/32 [08:52<06:54, 29.64s/it]Loading checkpoint shards:  59%|█████▉    | 19/32 [09:07<06:13, 28.75s/it]Loading checkpoint shards:  59%|█████▉    | 19/32 [09:20<06:19, 29.16s/it]Loading checkpoint shards:  62%|██████▎   | 20/32 [09:26<05:11, 25.95s/it]Loading checkpoint shards:  62%|██████▎   | 20/32 [09:47<05:44, 28.67s/it]Loading checkpoint shards:  66%|██████▌   | 21/32 [10:07<05:35, 30.51s/it]Loading checkpoint shards:  66%|██████▌   | 21/32 [10:14<05:08, 28.04s/it]Loading checkpoint shards:  69%|██████▉   | 22/32 [10:27<04:33, 27.39s/it]Loading checkpoint shards:  69%|██████▉   | 22/32 [10:45<04:49, 28.90s/it]Loading checkpoint shards:  72%|███████▏  | 23/32 [11:08<04:43, 31.46s/it]Loading checkpoint shards:  72%|███████▏  | 23/32 [11:14<04:22, 29.14s/it]Loading checkpoint shards:  75%|███████▌  | 24/32 [11:29<03:44, 28.12s/it]Loading checkpoint shards:  75%|███████▌  | 24/32 [11:42<03:49, 28.64s/it]Loading checkpoint shards:  78%|███████▊  | 25/32 [11:49<03:00, 25.84s/it]Loading checkpoint shards:  78%|███████▊  | 25/32 [12:09<03:17, 28.19s/it]Loading checkpoint shards:  81%|████████▏ | 26/32 [12:30<03:01, 30.28s/it]Loading checkpoint shards:  81%|████████▏ | 26/32 [12:38<02:50, 28.41s/it]Loading checkpoint shards:  84%|████████▍ | 27/32 [12:51<02:17, 27.56s/it]Loading checkpoint shards:  84%|████████▍ | 27/32 [13:08<02:24, 28.97s/it]Loading checkpoint shards:  88%|████████▊ | 28/32 [13:37<02:12, 33.22s/it]Loading checkpoint shards:  88%|████████▊ | 28/32 [13:44<02:03, 30.89s/it]Loading checkpoint shards:  91%|█████████ | 29/32 [13:59<01:29, 29.72s/it]Loading checkpoint shards:  91%|█████████ | 29/32 [14:11<01:29, 29.75s/it]Loading checkpoint shards:  94%|█████████▍| 30/32 [14:19<00:53, 26.68s/it]Loading checkpoint shards:  94%|█████████▍| 30/32 [14:39<00:58, 29.19s/it]Loading checkpoint shards:  97%|█████████▋| 31/32 [15:01<00:31, 31.29s/it]Loading checkpoint shards:  97%|█████████▋| 31/32 [15:08<00:29, 29.11s/it]Loading checkpoint shards: 100%|██████████| 32/32 [15:30<00:00, 30.59s/it]Loading checkpoint shards: 100%|██████████| 32/32 [15:30<00:00, 29.06s/it]
+Loading checkpoint shards: 100%|██████████| 32/32 [15:31<00:00, 27.26s/it]Loading checkpoint shards: 100%|██████████| 32/32 [15:31<00:00, 29.09s/it]
+[INFO|modeling_utils.py:4350] 2024-07-21 17:41:12,944 >> All model checkpoint weights were used when initializing InternVLChatModel.
+
+[INFO|modeling_utils.py:4358] 2024-07-21 17:41:12,944 >> All the weights of InternVLChatModel were initialized from the model checkpoint at ./pretrained/InternVL2-Llama3-76B.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use InternVLChatModel for predictions without further training.
+[INFO|configuration_utils.py:779] 2024-07-21 17:41:12,958 >> loading configuration file ./pretrained/InternVL2-Llama3-76B/generation_config.json
+[INFO|configuration_utils.py:826] 2024-07-21 17:41:12,958 >> Generate config GenerationConfig {}
+
+07/21/2024 17:41:12 - INFO - __main__ - Finished
+07/21/2024 17:41:12 - INFO - __main__ - model.config.force_image_size: 448
+07/21/2024 17:41:12 - INFO - __main__ - data_args.force_image_size: 448
+07/21/2024 17:41:12 - INFO - __main__ - model.config.vision_config.image_size: 448
+07/21/2024 17:41:12 - INFO - __main__ - [Dataset] num_image_token: 256
+07/21/2024 17:41:12 - INFO - __main__ - [Dataset] dynamic_image_size: False
+07/21/2024 17:41:12 - INFO - __main__ - [Dataset] use_thumbnail: False
+07/21/2024 17:41:12 - INFO - __main__ - [Dataset] min_dynamic_patch: 1, max_dynamic_patch: 12
+07/21/2024 17:41:12 - INFO - __main__ - Formatting inputs...Skip in lazy mode
+07/21/2024 17:41:13 - INFO - __main__ - Add dataset:simple_states_0 with length: 1000
+07/21/2024 17:41:13 - INFO - __main__ - [Dataset] num_image_token: 256
+07/21/2024 17:41:13 - INFO - __main__ - [Dataset] dynamic_image_size: False
+07/21/2024 17:41:13 - INFO - __main__ - [Dataset] use_thumbnail: False
+07/21/2024 17:41:13 - INFO - __main__ - [Dataset] min_dynamic_patch: 1, max_dynamic_patch: 12
+07/21/2024 17:41:13 - INFO - __main__ - Formatting inputs...Skip in lazy mode
+[WARNING|tokenization_utils_base.py:3841] 2024-07-21 17:41:13,854 >> Token indices sequence length is longer than the specified maximum sequence length for this model (2131 > 2048). Running this sequence through the model will result in indexing errors
+07/21/2024 17:41:14 - INFO - __main__ - Add dataset:simple_activities_0 with length: 1000
+07/21/2024 17:41:14 - INFO - __main__ - [Dataset] num_image_token: 256
+07/21/2024 17:41:14 - INFO - __main__ - [Dataset] dynamic_image_size: False
+07/21/2024 17:41:14 - INFO - __main__ - [Dataset] use_thumbnail: False
+07/21/2024 17:41:14 - INFO - __main__ - [Dataset] min_dynamic_patch: 1, max_dynamic_patch: 12
+07/21/2024 17:41:14 - INFO - __main__ - Formatting inputs...Skip in lazy mode
+[WARNING|tokenization_utils_base.py:3841] 2024-07-21 17:41:14,399 >> Token indices sequence length is longer than the specified maximum sequence length for this model (2131 > 2048). Running this sequence through the model will result in indexing errors
+07/21/2024 17:41:15 - INFO - __main__ - Add dataset:simple_sequences_0 with length: 1000
+07/21/2024 17:41:15 - INFO - __main__ - [Dataset] num_image_token: 256
+07/21/2024 17:41:15 - INFO - __main__ - [Dataset] dynamic_image_size: False
+07/21/2024 17:41:15 - INFO - __main__ - [Dataset] use_thumbnail: False
+07/21/2024 17:41:15 - INFO - __main__ - [Dataset] min_dynamic_patch: 1, max_dynamic_patch: 12
+07/21/2024 17:41:15 - INFO - __main__ - Formatting inputs...Skip in lazy mode
+07/21/2024 17:41:17 - INFO - __main__ - Add dataset:complex_states_0 with length: 1000
+07/21/2024 17:41:17 - INFO - __main__ - [Dataset] num_image_token: 256
+07/21/2024 17:41:17 - INFO - __main__ - [Dataset] dynamic_image_size: False
+07/21/2024 17:41:17 - INFO - __main__ - [Dataset] use_thumbnail: False
+07/21/2024 17:41:17 - INFO - __main__ - [Dataset] min_dynamic_patch: 1, max_dynamic_patch: 12
+07/21/2024 17:41:17 - INFO - __main__ - Formatting inputs...Skip in lazy mode
+07/21/2024 17:41:18 - INFO - __main__ - Add dataset:complex_activities_0 with length: 1000
+07/21/2024 17:41:18 - INFO - __main__ - [Dataset] num_image_token: 256
+07/21/2024 17:41:18 - INFO - __main__ - [Dataset] dynamic_image_size: False
+07/21/2024 17:41:18 - INFO - __main__ - [Dataset] use_thumbnail: False
+07/21/2024 17:41:18 - INFO - __main__ - [Dataset] min_dynamic_patch: 1, max_dynamic_patch: 12
+07/21/2024 17:41:18 - INFO - __main__ - Formatting inputs...Skip in lazy mode
+07/21/2024 17:41:20 - INFO - __main__ - Add dataset:complex_sequences_0 with length: 1000
+trainable params: 207,093,760 || all params: 70,760,947,712 || trainable%: 0.2927
+trainable params: 207,093,760 || all params: 70,760,947,712 || trainable%: 0.2927
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.0.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.1.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.2.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.3.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.4.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.5.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.6.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.7.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.8.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.9.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.10.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.11.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.12.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.13.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.14.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.15.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.16.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.17.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.18.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.19.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.20.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.21.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.22.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.23.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.24.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.25.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.26.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.27.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.28.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.29.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.30.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.31.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.32.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.33.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.34.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.35.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.36.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.37.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.38.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.39.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.40.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.41.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.42.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.43.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.44.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.45.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.46.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.47.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.48.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.49.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.50.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.51.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.52.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.53.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.54.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.55.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.56.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.57.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.58.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.59.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.60.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.61.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.62.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.63.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.64.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.65.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.66.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.67.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.68.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.69.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.70.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.71.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.72.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.73.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.74.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.75.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.76.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.77.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.78.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.self_attn.q_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.self_attn.q_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.self_attn.k_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.self_attn.k_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.self_attn.v_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.self_attn.v_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.self_attn.o_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.self_attn.o_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.mlp.gate_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.mlp.gate_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.mlp.up_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.mlp.up_proj.lora_B.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.mlp.down_proj.lora_A.default.weight
+07/21/2024 17:41:23 - INFO - __main__ - language_model.base_model.model.model.layers.79.mlp.down_proj.lora_B.default.weight
+07/21/2024 17:41:23 - WARNING - accelerate.utils.other - Detected kernel version 3.10.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+[INFO|trainer.py:571] 2024-07-21 17:41:23,846 >> Using auto half precision backend
+[2024-07-21 17:41:24,042] [INFO] [logging.py:96:log_dist] [Rank 0] DeepSpeed info: version=0.13.5, git-hash=unknown, git-branch=unknown
+[2024-07-21 17:41:24,145] [INFO] [logging.py:96:log_dist] [Rank 0] DeepSpeed Flops Profiler Enabled: False
+Using /home/nam/.cache/torch_extensions/py39_cu118 as PyTorch extensions root...
+Using /home/nam/.cache/torch_extensions/py39_cu118 as PyTorch extensions root...
+Detected CUDA files, patching ldflags
+Emitting ninja build file /home/nam/.cache/torch_extensions/py39_cu118/fused_adam/build.ninja...
+Building extension module fused_adam...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+Loading extension module fused_adam...
+Time to load fused_adam op: 0.38621973991394043 seconds
+[2024-07-21 17:41:24,535] [INFO] [logging.py:96:log_dist] [Rank 0] Using DeepSpeed Optimizer param name adamw as basic optimizer
+[2024-07-21 17:41:24,536] [INFO] [logging.py:96:log_dist] [Rank 0] Removing param_group that has no 'params' in the basic Optimizer
+Loading extension module fused_adam...
+Time to load fused_adam op: 0.4032444953918457 seconds
+[2024-07-21 17:41:24,796] [INFO] [logging.py:96:log_dist] [Rank 0] DeepSpeed Basic Optimizer = FusedAdam
+[2024-07-21 17:41:24,796] [INFO] [utils.py:56:is_zero_supported_optimizer] Checking ZeRO support for optimizer=FusedAdam type=<class 'deepspeed.ops.adam.fused_adam.FusedAdam'>
+[2024-07-21 17:41:24,796] [INFO] [logging.py:96:log_dist] [Rank 0] Creating fp16 ZeRO stage 3 optimizer, MiCS is enabled False, Hierarchical params gather False
+[2024-07-21 17:41:24,796] [INFO] [logging.py:96:log_dist] [Rank 0] Creating torch.bfloat16 ZeRO stage 3 optimizer
+[2024-07-21 17:41:24,926] [INFO] [utils.py:800:see_memory_usage] Stage 3 initialize beginning
+[2024-07-21 17:41:24,927] [INFO] [utils.py:801:see_memory_usage] MA 71.79 GB         Max_MA 75.32 GB         CA 72.37 GB         Max_CA 77 GB 
+[2024-07-21 17:41:24,927] [INFO] [utils.py:808:see_memory_usage] CPU Virtual Memory:  used = 15.45 GB, percent = 3.1%
+[2024-07-21 17:41:24,950] [INFO] [stage3.py:130:__init__] Reduce bucket size 1000000000
+[2024-07-21 17:41:24,951] [INFO] [stage3.py:131:__init__] Prefetch bucket size 1000000000
+[2024-07-21 17:41:25,057] [INFO] [utils.py:800:see_memory_usage] DeepSpeedZeRoOffload initialize [begin]
+[2024-07-21 17:41:25,058] [INFO] [utils.py:801:see_memory_usage] MA 71.79 GB         Max_MA 71.79 GB         CA 72.37 GB         Max_CA 72 GB 
+[2024-07-21 17:41:25,058] [INFO] [utils.py:808:see_memory_usage] CPU Virtual Memory:  used = 15.45 GB, percent = 3.1%
+Parameter Offload: Total persistent parameters: 1557527936 in 1854 params
+[2024-07-21 17:41:26,025] [INFO] [utils.py:800:see_memory_usage] DeepSpeedZeRoOffload initialize [end]
+[2024-07-21 17:41:26,026] [INFO] [utils.py:801:see_memory_usage] MA 71.6 GB         Max_MA 71.79 GB         CA 72.37 GB         Max_CA 72 GB 
+[2024-07-21 17:41:26,026] [INFO] [utils.py:808:see_memory_usage] CPU Virtual Memory:  used = 15.51 GB, percent = 3.1%
+[2024-07-21 17:41:26,175] [INFO] [utils.py:800:see_memory_usage] Before creating fp16 partitions
+[2024-07-21 17:41:26,175] [INFO] [utils.py:801:see_memory_usage] MA 71.6 GB         Max_MA 71.6 GB         CA 72.37 GB         Max_CA 72 GB 
+[2024-07-21 17:41:26,176] [INFO] [utils.py:808:see_memory_usage] CPU Virtual Memory:  used = 15.51 GB, percent = 3.1%
+[2024-07-21 17:41:26,669] [INFO] [utils.py:800:see_memory_usage] After creating fp16 partitions: 1
+[2024-07-21 17:41:26,670] [INFO] [utils.py:801:see_memory_usage] MA 71.6 GB         Max_MA 71.6 GB         CA 71.98 GB         Max_CA 72 GB 
+[2024-07-21 17:41:26,670] [INFO] [utils.py:808:see_memory_usage] CPU Virtual Memory:  used = 15.51 GB, percent = 3.1%
+[2024-07-21 17:41:26,819] [INFO] [utils.py:800:see_memory_usage] Before creating fp32 partitions
+[2024-07-21 17:41:26,820] [INFO] [utils.py:801:see_memory_usage] MA 71.6 GB         Max_MA 71.6 GB         CA 71.98 GB         Max_CA 72 GB 
+[2024-07-21 17:41:26,820] [INFO] [utils.py:808:see_memory_usage] CPU Virtual Memory:  used = 15.51 GB, percent = 3.1%
+[2024-07-21 17:41:26,968] [INFO] [utils.py:800:see_memory_usage] After creating fp32 partitions
+[2024-07-21 17:41:26,969] [INFO] [utils.py:801:see_memory_usage] MA 71.99 GB         Max_MA 72.18 GB         CA 72.37 GB         Max_CA 72 GB 
+[2024-07-21 17:41:26,969] [INFO] [utils.py:808:see_memory_usage] CPU Virtual Memory:  used = 15.51 GB, percent = 3.1%
+[2024-07-21 17:41:27,117] [INFO] [utils.py:800:see_memory_usage] Before initializing optimizer states
+[2024-07-21 17:41:27,118] [INFO] [utils.py:801:see_memory_usage] MA 71.99 GB         Max_MA 71.99 GB         CA 72.37 GB         Max_CA 72 GB 
+[2024-07-21 17:41:27,118] [INFO] [utils.py:808:see_memory_usage] CPU Virtual Memory:  used = 15.51 GB, percent = 3.1%
+[2024-07-21 17:41:27,122] [INFO] [logging.py:96:log_dist] [Rank 0] time (ms) | init_optimizer_state: 0.10
+[2024-07-21 17:41:27,270] [INFO] [utils.py:800:see_memory_usage] After initializing optimizer states
+[2024-07-21 17:41:27,271] [INFO] [utils.py:801:see_memory_usage] MA 71.99 GB         Max_MA 72.37 GB         CA 72.75 GB         Max_CA 73 GB 
+[2024-07-21 17:41:27,271] [INFO] [utils.py:808:see_memory_usage] CPU Virtual Memory:  used = 15.51 GB, percent = 3.1%
+[2024-07-21 17:41:27,271] [INFO] [stage3.py:486:_setup_for_real_optimizer] optimizer state initialized
+[2024-07-21 17:41:27,757] [INFO] [utils.py:800:see_memory_usage] After initializing ZeRO optimizer
+[2024-07-21 17:41:27,758] [INFO] [utils.py:801:see_memory_usage] MA 74.04 GB         Max_MA 74.05 GB         CA 74.62 GB         Max_CA 75 GB 
+[2024-07-21 17:41:27,758] [INFO] [utils.py:808:see_memory_usage] CPU Virtual Memory:  used = 15.51 GB, percent = 3.1%
+[2024-07-21 17:41:27,758] [INFO] [logging.py:96:log_dist] [Rank 0] DeepSpeed Final Optimizer = adamw
+[2024-07-21 17:41:27,758] [INFO] [logging.py:96:log_dist] [Rank 0] DeepSpeed using client callable to create LR scheduler
+[2024-07-21 17:41:27,758] [INFO] [logging.py:96:log_dist] [Rank 0] DeepSpeed LR Scheduler = <torch.optim.lr_scheduler.LambdaLR object at 0x2ad2f642bfd0>
+[2024-07-21 17:41:27,758] [INFO] [logging.py:96:log_dist] [Rank 0] step=0, skipped=0, lr=[0.0], mom=[[0.9, 0.999]]
+[2024-07-21 17:41:27,771] [INFO] [config.py:996:print] DeepSpeedEngine configuration:
+[2024-07-21 17:41:27,771] [INFO] [config.py:1000:print]   activation_checkpointing_config  {
+    "partition_activations": false, 
+    "contiguous_memory_optimization": false, 
+    "cpu_checkpointing": false, 
+    "number_checkpoints": null, 
+    "synchronize_checkpoint_boundary": false, 
+    "profile": false
+}
+[2024-07-21 17:41:27,771] [INFO] [config.py:1000:print]   aio_config ................... {'block_size': 1048576, 'queue_depth': 8, 'thread_count': 1, 'single_submit': False, 'overlap_events': True}
+[2024-07-21 17:41:27,771] [INFO] [config.py:1000:print]   amp_enabled .................. False
+[2024-07-21 17:41:27,771] [INFO] [config.py:1000:print]   amp_params ................... False
+[2024-07-21 17:41:27,771] [INFO] [config.py:1000:print]   autotuning_config ............ {
+    "enabled": false, 
+    "start_step": null, 
+    "end_step": null, 
+    "metric_path": null, 
+    "arg_mappings": null, 
+    "metric": "throughput", 
+    "model_info": null, 
+    "results_dir": "autotuning_results", 
+    "exps_dir": "autotuning_exps", 
+    "overwrite": true, 
+    "fast": true, 
+    "start_profile_step": 3, 
+    "end_profile_step": 5, 
+    "tuner_type": "gridsearch", 
+    "tuner_early_stopping": 5, 
+    "tuner_num_trials": 50, 
+    "model_info_path": null, 
+    "mp_size": 1, 
+    "max_train_batch_size": null, 
+    "min_train_batch_size": 1, 
+    "max_train_micro_batch_size_per_gpu": 1.024000e+03, 
+    "min_train_micro_batch_size_per_gpu": 1, 
+    "num_tuning_micro_batch_sizes": 3
+}
+[2024-07-21 17:41:27,771] [INFO] [config.py:1000:print]   bfloat16_enabled ............. True
+[2024-07-21 17:41:27,771] [INFO] [config.py:1000:print]   bfloat16_immediate_grad_update  False
+[2024-07-21 17:41:27,771] [INFO] [config.py:1000:print]   checkpoint_parallel_write_pipeline  False
+[2024-07-21 17:41:27,771] [INFO] [config.py:1000:print]   checkpoint_tag_validation_enabled  True
+[2024-07-21 17:41:27,771] [INFO] [config.py:1000:print]   checkpoint_tag_validation_fail  False
+[2024-07-21 17:41:27,771] [INFO] [config.py:1000:print]   comms_config ................. <deepspeed.comm.config.DeepSpeedCommsConfig object at 0x2ad6899044f0>
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   communication_data_type ...... None
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   compile_config ............... enabled=False backend='inductor' kwargs={}
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   compression_config ........... {'weight_quantization': {'shared_parameters': {'enabled': False, 'quantizer_kernel': False, 'schedule_offset': 0, 'quantize_groups': 1, 'quantize_verbose': False, 'quantization_type': 'symmetric', 'quantize_weight_in_forward': False, 'rounding': 'nearest', 'fp16_mixed_quantize': False, 'quantize_change_ratio': 0.001}, 'different_groups': {}}, 'activation_quantization': {'shared_parameters': {'enabled': False, 'quantization_type': 'symmetric', 'range_calibration': 'dynamic', 'schedule_offset': 1000}, 'different_groups': {}}, 'sparse_pruning': {'shared_parameters': {'enabled': False, 'method': 'l1', 'schedule_offset': 1000}, 'different_groups': {}}, 'row_pruning': {'shared_parameters': {'enabled': False, 'method': 'l1', 'schedule_offset': 1000}, 'different_groups': {}}, 'head_pruning': {'shared_parameters': {'enabled': False, 'method': 'topk', 'schedule_offset': 1000}, 'different_groups': {}}, 'channel_pruning': {'shared_parameters': {'enabled': False, 'method': 'l1', 'schedule_offset': 1000}, 'different_groups': {}}, 'layer_reduction': {'enabled': False}}
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   curriculum_enabled_legacy .... False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   curriculum_params_legacy ..... False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   data_efficiency_config ....... {'enabled': False, 'seed': 1234, 'data_sampling': {'enabled': False, 'num_epochs': 1000, 'num_workers': 0, 'curriculum_learning': {'enabled': False}}, 'data_routing': {'enabled': False, 'random_ltd': {'enabled': False, 'layer_token_lr_schedule': {'enabled': False}}}}
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   data_efficiency_enabled ...... False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   dataloader_drop_last ......... False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   disable_allgather ............ False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   dump_state ................... False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   dynamic_loss_scale_args ...... None
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   eigenvalue_enabled ........... False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   eigenvalue_gas_boundary_resolution  1
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   eigenvalue_layer_name ........ bert.encoder.layer
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   eigenvalue_layer_num ......... 0
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   eigenvalue_max_iter .......... 100
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   eigenvalue_stability ......... 1e-06
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   eigenvalue_tol ............... 0.01
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   eigenvalue_verbose ........... False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   elasticity_enabled ........... False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   flops_profiler_config ........ {
+    "enabled": false, 
+    "recompute_fwd_factor": 0.0, 
+    "profile_step": 1, 
+    "module_depth": -1, 
+    "top_modules": 1, 
+    "detailed": true, 
+    "output_file": null
+}
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   fp16_auto_cast ............... None
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   fp16_enabled ................. False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   fp16_master_weights_and_gradients  False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   global_rank .................. 0
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   grad_accum_dtype ............. None
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   gradient_accumulation_steps .. 2
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   gradient_clipping ............ 1.0
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   gradient_predivide_factor .... 1.0
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   graph_harvesting ............. False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   hybrid_engine ................ enabled=False max_out_tokens=512 inference_tp_size=1 release_inference_cache=False pin_parameters=True tp_gather_partition_size=8
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   initial_dynamic_scale ........ 1
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   load_universal_checkpoint .... False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   loss_scale ................... 1.0
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   memory_breakdown ............. False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   mics_hierarchial_params_gather  False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   mics_shard_size .............. -1
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   monitor_config ............... tensorboard=TensorBoardConfig(enabled=False, output_path='', job_name='DeepSpeedJobName') wandb=WandbConfig(enabled=False, group=None, team=None, project='deepspeed') csv_monitor=CSVConfig(enabled=False, output_path='', job_name='DeepSpeedJobName') enabled=False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   nebula_config ................ {
+    "enabled": false, 
+    "persistent_storage_path": null, 
+    "persistent_time_interval": 100, 
+    "num_of_version_in_retention": 2, 
+    "enable_nebula_load": true, 
+    "load_path": null
+}
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   optimizer_legacy_fusion ...... False
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   optimizer_name ............... adamw
+[2024-07-21 17:41:27,772] [INFO] [config.py:1000:print]   optimizer_params ............. {'lr': 1e-05, 'betas': [0.9, 0.999], 'eps': 1e-08, 'weight_decay': 0.05}
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   pipeline ..................... {'stages': 'auto', 'partition': 'best', 'seed_layers': False, 'activation_checkpoint_interval': 0, 'pipe_partitioned': True, 'grad_partitioned': True}
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   pld_enabled .................. False
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   pld_params ................... False
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   prescale_gradients ........... False
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   scheduler_name ............... None
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   scheduler_params ............. None
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   seq_parallel_communication_data_type  torch.float32
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   sparse_attention ............. None
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   sparse_gradients_enabled ..... False
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   steps_per_print .............. inf
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   train_batch_size ............. 16
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   train_micro_batch_size_per_gpu  4
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   use_data_before_expert_parallel_  False
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   use_node_local_storage ....... False
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   wall_clock_breakdown ......... True
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   weight_quantization_config ... None
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   world_size ................... 2
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   zero_allow_untested_optimizer  False
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   zero_config .................. stage=3 contiguous_gradients=True reduce_scatter=True reduce_bucket_size=1000000000 use_multi_rank_bucket_allreduce=True allgather_partitions=True allgather_bucket_size=500,000,000 overlap_comm=True load_from_fp32_weights=True elastic_checkpoint=False offload_param=None offload_optimizer=None sub_group_size=1000000000 cpu_offload_param=None cpu_offload_use_pin_memory=None cpu_offload=None prefetch_bucket_size=1000000000 param_persistence_threshold=10000000 model_persistence_threshold=sys.maxsize max_live_parameters=1000000000 max_reuse_distance=1000000000 gather_16bit_weights_on_model_save=True stage3_gather_fp16_weights_on_model_save=False ignore_unused_parameters=True legacy_stage1=False round_robin_gradients=False zero_hpz_partition_size=1 zero_quantized_weights=False zero_quantized_nontrainable_weights=False zero_quantized_gradients=False mics_shard_size=-1 mics_hierarchical_params_gather=False memory_efficient_linear=True pipeline_loading_checkpoint=False override_module_apply=True
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   zero_enabled ................. True
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   zero_force_ds_cpu_optimizer .. True
+[2024-07-21 17:41:27,773] [INFO] [config.py:1000:print]   zero_optimization_stage ...... 3
+[2024-07-21 17:41:27,773] [INFO] [config.py:986:print_user_config]   json = {
+    "zero_optimization": {
+        "stage": 3, 
+        "overlap_comm": true, 
+        "contiguous_gradients": true, 
+        "sub_group_size": 1.000000e+09, 
+        "reduce_bucket_size": 1.000000e+09, 
+        "stage3_prefetch_bucket_size": 1.000000e+09, 
+        "stage3_param_persistence_threshold": 1.000000e+07, 
+        "stage3_max_live_parameters": 1.000000e+09, 
+        "stage3_max_reuse_distance": 1.000000e+09, 
+        "stage3_gather_16bit_weights_on_model_save": true
+    }, 
+    "fp16": {
+        "enabled": false, 
+        "auto_cast": true, 
+        "loss_scale": 0, 
+        "initial_scale_power": 32, 
+        "loss_scale_window": 1000, 
+        "hysteresis": 2, 
+        "min_loss_scale": 1
+    }, 
+    "bf16": {
+        "enabled": true
+    }, 
+    "optimizer": {
+        "type": "AdamW", 
+        "params": {
+            "lr": 1e-05, 
+            "betas": [0.9, 0.999], 
+            "eps": 1e-08, 
+            "weight_decay": 0.05
+        }
+    }, 
+    "gradient_accumulation_steps": 2, 
+    "gradient_clipping": 1.0, 
+    "steps_per_print": inf, 
+    "train_batch_size": 16, 
+    "train_micro_batch_size_per_gpu": 4, 
+    "wall_clock_breakdown": true
+}
+[INFO|trainer.py:1721] 2024-07-21 17:41:27,773 >> ***** Running training *****
+[INFO|trainer.py:1722] 2024-07-21 17:41:27,773 >>   Num examples = 6,000
+[INFO|trainer.py:1723] 2024-07-21 17:41:27,773 >>   Num Epochs = 1
+[INFO|trainer.py:1724] 2024-07-21 17:41:27,773 >>   Instantaneous batch size per device = 4
+[INFO|trainer.py:1727] 2024-07-21 17:41:27,773 >>   Total train batch size (w. parallel, distributed & accumulation) = 16
+[INFO|trainer.py:1728] 2024-07-21 17:41:27,773 >>   Gradient Accumulation steps = 2
+[INFO|trainer.py:1729] 2024-07-21 17:41:27,773 >>   Total optimization steps = 375
+[INFO|trainer.py:1730] 2024-07-21 17:41:27,790 >>   Number of trainable parameters = 207,093,760
+  0%|          | 0/375 [00:00<?, ?it/s][2024-07-21 17:41:31,027] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-07-21 17:41:31,027] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-07-21 17:41:36,862] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-07-21 17:41:36,862] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-07-21 17:41:41,976] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-07-21 17:41:42,063] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-07-21 17:41:47,253] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-07-21 17:41:47,253] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+please install petrel_client
+Replace train sampler!!
+petrel_client is not installed. Using PIL to load images.
+please install petrel_client
+Replace train sampler!!
+petrel_client is not installed. Using PIL to load images.
+please install petrel_client
+Replace train sampler!!
+petrel_client is not installed. Using PIL to load images.
+please install petrel_client
+Replace train sampler!!
+petrel_client is not installed. Using PIL to load images.
+please install petrel_client
+Replace train sampler!!
+petrel_client is not installed. Using PIL to load images.
+please install petrel_client
+Replace train sampler!!
+petrel_client is not installed. Using PIL to load images.
+please install petrel_client
+Replace train sampler!!
+petrel_client is not installed. Using PIL to load images.
+please install petrel_client
+Replace train sampler!!
+petrel_client is not installed. Using PIL to load images.
+Traceback (most recent call last):
+  File "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/internvl/train/internvl_chat_finetune.py", line 653, in <module>
+    main()
+  File "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/internvl/train/internvl_chat_finetune.py", line 641, in main
+    train_result = trainer.train(resume_from_checkpoint=checkpoint)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/transformers/trainer.py", line 1539, in train
+    return inner_training_loop(
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/transformers/trainer.py", line 1869, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/transformers/trainer.py", line 2772, in training_step
+    loss = self.compute_loss(model, inputs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/transformers/trainer.py", line 2795, in compute_loss
+    outputs = model(**inputs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/deepspeed/utils/nvtx.py", line 15, in wrapped_fn
+    ret_val = func(*args, **kwargs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/deepspeed/runtime/engine.py", line 1852, in forward
+    loss = self.module(*inputs, **kwargs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1538, in _call_impl
+    result = forward_call(*args, **kwargs)
+  File "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/internvl/model/internvl_chat/modeling_internvl_chat.py", line 133, in forward
+    vit_embeds = self.extract_feature(pixel_values)
+  File "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/internvl/model/internvl_chat/modeling_internvl_chat.py", line 221, in extract_feature
+    vit_embeds = self.vision_model(
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1538, in _call_impl
+    result = forward_call(*args, **kwargs)
+  File "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/internvl/model/internvl_chat/modeling_intern_vit.py", line 344, in forward
+    hidden_states = self.embeddings(pixel_values)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1538, in _call_impl
+    result = forward_call(*args, **kwargs)
+  File "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/internvl/model/internvl_chat/modeling_intern_vit.py", line 98, in forward
+    patch_embeds = self.patch_embedding(pixel_values)  # shape = [*, channel, width, height]
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1538, in _call_impl
+    result = forward_call(*args, **kwargs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/conv.py", line 463, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/conv.py", line 459, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+RuntimeError: GET was unable to find an engine to execute this computation
+Traceback (most recent call last):
+  File "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/internvl/train/internvl_chat_finetune.py", line 653, in <module>
+    main()
+  File "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/internvl/train/internvl_chat_finetune.py", line 641, in main
+    train_result = trainer.train(resume_from_checkpoint=checkpoint)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/transformers/trainer.py", line 1539, in train
+    return inner_training_loop(
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/transformers/trainer.py", line 1869, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/transformers/trainer.py", line 2772, in training_step
+    loss = self.compute_loss(model, inputs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/transformers/trainer.py", line 2795, in compute_loss
+    outputs = model(**inputs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/deepspeed/utils/nvtx.py", line 15, in wrapped_fn
+    ret_val = func(*args, **kwargs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/deepspeed/runtime/engine.py", line 1852, in forward
+    loss = self.module(*inputs, **kwargs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1538, in _call_impl
+    result = forward_call(*args, **kwargs)
+  File "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/internvl/model/internvl_chat/modeling_internvl_chat.py", line 133, in forward
+    vit_embeds = self.extract_feature(pixel_values)
+  File "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/internvl/model/internvl_chat/modeling_internvl_chat.py", line 221, in extract_feature
+    vit_embeds = self.vision_model(
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1538, in _call_impl
+    result = forward_call(*args, **kwargs)
+  File "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/internvl/model/internvl_chat/modeling_intern_vit.py", line 344, in forward
+    hidden_states = self.embeddings(pixel_values)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1538, in _call_impl
+    result = forward_call(*args, **kwargs)
+  File "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/internvl/model/internvl_chat/modeling_intern_vit.py", line 98, in forward
+    patch_embeds = self.patch_embedding(pixel_values)  # shape = [*, channel, width, height]
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1538, in _call_impl
+    result = forward_call(*args, **kwargs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/conv.py", line 463, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/nn/modules/conv.py", line 459, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+RuntimeError: GET was unable to find an engine to execute this computation
+  0%|          | 0/375 [00:28<?, ?it/s]
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 69063 closing signal SIGTERM
+ERROR:torch.distributed.elastic.multiprocessing.api:failed (exitcode: 1) local_rank: 1 (pid: 69064) of binary: /home/nam/.conda/envs/finetune/bin/python3.9
+Traceback (most recent call last):
+  File "/home/nam/.conda/envs/finetune/bin/torchrun", line 8, in <module>
+    sys.exit(main())
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 346, in wrapper
+    return f(*args, **kwargs)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/distributed/run.py", line 794, in main
+    run(args)
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/distributed/run.py", line 785, in run
+    elastic_launch(
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 134, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home/nam/.conda/envs/finetune/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 250, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+internvl/train/internvl_chat_finetune.py FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2024-07-21_17:41:58
+  host      : c849.oscer.ou.edu
+  rank      : 1 (local_rank: 1)
+  exitcode  : 1 (pid: 69064)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================

@@ -1,0 +1,25 @@
+@startuml
+participant "swivel commonwealth" as 0
+box "captains bilingual"
+participant "drivers sidewalks" as 1
+participant "coral warlocks" as 2
+end box
+participant "hieroglyphs livelihood" as 3
+participant "gringo samples" as 4
+par theoretical flies
+2 ->> 4: dispute treat
+create participant "astronauts hardened" as 5
+1 -> 5 : astronauts hardened
+0 ->x 5: dating vows
+0 -> 2++ : pilot mono
+5 -> 2!! : mat nervously
+0 <-> 0++ : hums improved
+1 ->> 1++ : chewed elegance
+1 <-] : horsey fouled
+return pistol vastly
+ [-> 3: hon radiating
+else dues sexual
+end
+return derives snowstorm
+return resisting battles
+@enduml

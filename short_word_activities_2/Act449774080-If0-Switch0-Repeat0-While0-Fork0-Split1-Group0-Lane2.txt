@@ -1,0 +1,27 @@
+@startuml
+|1| makeovers fulfil
+|2| curt consented
+split
+-[hidden]->
+:whew court;
+split again
+-[hidden]->
+:dieter pearls; <<input>>
+-> likes integration;
+split again
+-[hidden]->
+:stipulates chains; <<task>>
+split again
+-[hidden]->
+:morality dead;
+-> overload gunmen;
+end split
+|2|
+:drinks relaxed;
+|1|
+:travel nudes; <<load>>
+|2|
+:slugger panhandle; <<procedure>>
+:plaything uniform;
+stop
+@enduml

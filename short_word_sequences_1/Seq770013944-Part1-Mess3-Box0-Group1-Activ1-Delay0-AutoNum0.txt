@@ -1,0 +1,9 @@
+@startuml
+participant "rider depart" as 0
+ [-> 0: bringing handful
+0 ->] : pardon coexist
+opt pal huddled
+0 -->x 0++ : chutes candlelight
+end
+return floorboard goose
+@enduml

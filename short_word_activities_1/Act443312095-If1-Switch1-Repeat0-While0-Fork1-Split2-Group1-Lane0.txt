@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:electronic colonels;
+split again
+-[hidden]->
+split
+:jess dabbling;
+split again
+:mickey utilities;
+split again
+:denies planet; <<output>>
+split again
+:loads miscellaneous; <<output>>
+end split
+split again
+-[hidden]->
+:sharpened cooped; <<task>>
+-> parachuting hooligans;
+split again
+-[hidden]->
+fork
+:cook tailspin;
+fork again
+:musical unusually; <<procedure>>
+fork again
+:slashed nuptials;
+fork again
+:straddle poise; <<input>>
+end merge
+end split
+:dudes dowser;
+group bloodied gratuity
+if (gyms predators?) then (kerry export)
+switch (coating tangible?)
+case (junk upsets?)
+:iffy oldest; <<save>>
+case (privy damage?)
+:further plums; <<save>>
+-> dowdy peak;
+endswitch
+else (passport condo)
+:aced stalling; <<procedure>>
+endif
+stop
+end group
+@enduml

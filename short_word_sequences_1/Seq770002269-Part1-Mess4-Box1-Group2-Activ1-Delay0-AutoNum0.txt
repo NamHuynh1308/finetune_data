@@ -1,0 +1,15 @@
+@startuml
+box "cholinesterase breezy"
+participant "render flight" as 0
+end box
+== absolutes fine ==
+0 -> 0: hurst notice
+0 <-> 0++ : louse offended
+alt vestibule icon
+ [<- 0: dex layman
+break sharply lunchtime
+0 -> 0: hamster mercenaries
+end
+end
+return menagerie fascinate
+@enduml

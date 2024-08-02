@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:globe sends;
+split again
+-[hidden]->
+:finalized racking; <<input>>
+split again
+-[hidden]->
+if (chili annoys?) then (massaged limping)
+(conclude ghoulish) elseif (cube mosque?) then (duplex potholes)
+:blasters offended; <<continuous>>
+(settlements fig) elseif (voiced leads?) then (fortune sphinx)
+:anthropologist glop;
+(area cycle) elseif (homeroom apparel?) then (infallible medina)
+:represent slithered;
+endif
+end split
+if (heavy moping?) then (center wallets)
+(sumo extreme) elseif (partial disrupting?) then (whiz bearer)
+:pepper garlic;
+-> injections hereafter;
+(romp kindergarten) elseif (nozzle enslave?) then (fondling tapes)
+if (insensitive operating?) then (rods transmissions)
+:elsewhere fort; <<save>>
+:collateral devastation; <<continuous>>
+:emphasized forensic;
+kill
+else (besieged sedan)
+:sanctioned laird;
+-> tranquilizer bratwurst;
+:realizing thirties;
+while (manuscripts harry?) is (friendly purer)
+:hmm informational; <<load>>
+backward:scratch streetlights;
+backward:striping turning;
+endwhile (posses fought)
+-[hidden]->
+detach
+endif
+(outdo revolting) elseif (puzzled bras?) then (tiller neurosis)
+:bookcase tidal; <<load>>
+-> filter sores;
+endif
+end
+@enduml

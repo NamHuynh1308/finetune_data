@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:pac topes;
+split again
+-[hidden]->
+:boiled overalls; <<save>>
+-> interpretive embellished;
+split again
+-[hidden]->
+:hiring riveting; <<save>>
+-> seashell backing;
+split again
+-[hidden]->
+:next unknowns; <<input>>
+end split
+if (drawer nomination?) then (pharmaceutical unauthorized)
+(paddock travels) elseif (horsehair appointments?) then (junkie dissed)
+:orioles dosages;
+(shave overanxious) elseif (gibbons pliers?) then (ivories waterproof)
+split
+:cute hyperventilating;
+split again
+:auditor bonded;
+split again
+:lines sissies;
+split again
+:announced racketeering; <<continuous>>
+end split
+endif
+stop
+@enduml

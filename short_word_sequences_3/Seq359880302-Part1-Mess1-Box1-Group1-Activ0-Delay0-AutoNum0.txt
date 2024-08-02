@@ -1,0 +1,8 @@
+@startuml
+box "crapper diameter"
+participant "magistrate novelist" as 0
+end box
+loop vocals hypocrisy
+0 -> 0: blinding prospective
+end
+@enduml

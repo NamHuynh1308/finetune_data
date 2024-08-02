@@ -1,0 +1,14 @@
+@startuml
+participant "gigs maturity" as 0
+participant "dissent know" as 1
+0 -\\ 1: bris try
+...highball caribou...
+ [<- 0: executives awkwardly
+...divest pheasants...
+0 -> 1: polymerization corona
+1 -> 0!! : exceeded whistler
+opt pruning sprawled
+0 <-] : sliced monk
+1 ->o 0: cushions shorted
+end
+@enduml

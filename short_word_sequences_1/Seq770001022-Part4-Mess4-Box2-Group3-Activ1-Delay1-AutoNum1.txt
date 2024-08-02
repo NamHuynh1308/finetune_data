@@ -1,0 +1,28 @@
+@startuml
+box "heist fray"
+participant "swiping misspelled" as 0
+box "strung brunch"
+participant "witching yam" as 1
+participant "painted cartons" as 2
+participant "widower impaled" as 3
+end box
+end box
+== soonest kettle ==
+autonumber 5 10
+opt stomper handler
+2 ->x 0: el intermediary
+autonumber stop
+critical specialist diesel
+2 -> 0++ : holders rational
+autonumber resume
+0 -->x 1: barometer lameness
+autonumber stop
+else universal consults
+critical methods publishing
+...outfits browbeat...
+0 -> 0: faithless mayflower
+return dictator abetted
+end
+end
+end
+@enduml

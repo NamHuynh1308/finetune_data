@@ -1,0 +1,13 @@
+@startuml
+box "references rifling"
+participant "sources stooge" as 0
+participant "corrections innocence" as 1
+end box
+== softener productions ==
+1 <-] : disciplining motivated
+...epileptic slice...
+1 -> 0!! : thoracotomy forensic
+0 -> 0!! : manager maid
+...afterlife bluffing...
+0 ->o 0: ers alameda
+@enduml

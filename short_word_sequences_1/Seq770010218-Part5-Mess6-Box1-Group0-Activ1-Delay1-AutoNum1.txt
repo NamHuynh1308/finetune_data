@@ -1,0 +1,19 @@
+@startuml
+participant "running lifting" as 0
+participant "cracked cowboys" as 1
+box "enlist extracurricular"
+participant "negligent bro" as 2
+participant "cacophony wrecks" as 3
+end box
+== puppets flattery ==
+autonumber 10 6
+2 -// 0: butters bears
+create participant "rec distribute" as 4
+0 -> 4 : rec distribute
+4 <-] : nifty couture
+...alan once...
+1 ->> 2++ : missing acupuncturist
+2 --> 4: newfound lean
+2 -> 4: loser slanted
+return alleviate oho
+@enduml

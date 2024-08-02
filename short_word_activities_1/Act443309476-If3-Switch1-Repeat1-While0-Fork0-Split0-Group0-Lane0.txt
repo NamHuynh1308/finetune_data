@@ -1,0 +1,44 @@
+@startuml
+repeat
+switch (stripe sleazeball?)
+case (builds rue?)
+:ramus hiring;
+case (abductions smokes?)
+:kane threshold;
+kill
+case (funerals hyped?)
+:oven gunpowder;
+case (sirloin presentable?)
+:unwise fugu; <<input>>
+endswitch
+backward:listening stinking;
+repeat while (peeved piling?) is (commenting opposites)
+-> exclusion facial;
+if (rebelling sayer?) then (souvlaki receiving)
+(chapman mohel) elseif (makeup appointing?) then (asset appointing)
+:routines throat; <<continuous>>
+(containment anticipated) elseif (oink staging?) then (citizen complaints)
+:fiesta wounding; <<save>>
+(cape feeble) elseif (tackling screwy?) then (radioactive racket)
+if (functioning quickly?) then (fifteenth fleabag)
+(cent ruff) elseif (midge evens?) then (needlepoint echelon)
+:bonbon troll;
+-> choirboy devastate;
+(loom afternoons) elseif (proprietary trio?) then (idolized weatherman)
+:ghost kinder;
+(pressured sheeny) elseif (flowing artsy?) then (stupidity gliding)
+:axle humoring; <<save>>
+-> relevant angels;
+(rationally deprived) elseif (which innermost?) then (horned galvanized)
+:fracture beta;
+endif
+(afoot egregious) elseif (card cheep?) then (lacerated hurrying)
+if (trimmings misinterpret?) then (tiring dungeon)
+(pulling using) elseif (abilities army?) then (spritzer makeover)
+:archives senile;
+(worrier vegetative) elseif (moons mirage?) then (undergarment entree)
+:interactive confiscating; <<output>>
+-> protesters situated;
+endif
+endif
+@enduml

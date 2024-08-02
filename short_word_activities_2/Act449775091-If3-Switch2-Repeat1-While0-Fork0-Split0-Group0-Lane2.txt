@@ -1,0 +1,61 @@
+@startuml
+|1| swimmer deadbeat
+|2| aged degraded
+|1|
+start
+|2|
+if (value recharge?) then (norther busiest)
+:balmoral smelly; <<task>>
+switch (expected robots?)
+case (freebie roll?)
+:brow hatched;
+-> hocks convene;
+case (screw whats?)
+:paradise trident; <<input>>
+endswitch
+:lordship moment; <<output>>
+else (skirts attribute)
+:inhabitants puce; <<load>>
+repeat
+backward:gingerbread merit;
+:nice lactic;
+:goblins breeze;
+repeat while (indulge yaw?) is (fact adjourned)
+switch (identical weatherman?)
+case (studded clumsily?)
+:exemptions spawn; <<load>>
+case (in colony?)
+:sent rednecks;
+case (tent tuned?)
+:hunky obstructed; <<output>>
+-> peppermint specter;
+case (dominance laughed?)
+:delights righto;
+endswitch
+endif
+|1|
+:eighteen ammonia; <<task>>
+-> gracefully goat;
+|2|
+:chit down;
+|1|
+if (blessing sardine?) then (arcade dissident)
+(gauging translating) elseif (primer converge?) then (moneybags seminar)
+:at equality;
+(mill paramedic) elseif (heinie chambers?) then (roadblock surplus)
+if (scorching agreeable?) then (injure ways)
+(elbows reclaiming) elseif (presto discontent?) then (kilometer overstepping)
+:stranded fireplaces;
+(stresses downsize) elseif (adding unacceptable?) then (paragraphs eyeballs)
+:rejections agrees; <<task>>
+-> blaring squish;
+(ling macho) elseif (yoga ignoramus?) then (planting addressed)
+:compromised destructive;
+(floppy heathens) elseif (trapeze unplugged?) then (comforted overcharge)
+:misguided searching;
+endif
+endif
+:showstopper regretting; <<input>>
+-> density intrigues;
+stop
+@enduml

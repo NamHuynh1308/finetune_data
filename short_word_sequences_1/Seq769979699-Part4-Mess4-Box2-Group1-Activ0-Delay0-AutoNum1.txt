@@ -1,0 +1,18 @@
+@startuml
+participant "surprises primary" as 0
+box "hardened abysmal"
+participant "irreplaceable wares" as 1
+box "earthly swear"
+participant "amuses unseemly" as 2
+participant "carelessness hurst" as 3
+end box
+end box
+autonumber 10 10
+1 --//o 1: prototype permits
+3 -> 0: renewal went
+3 --> 1: calorie clad
+break brad concept
+3 -->x 3: privately reclining
+autonumber stop
+end
+@enduml

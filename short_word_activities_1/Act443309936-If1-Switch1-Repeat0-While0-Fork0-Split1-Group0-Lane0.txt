@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:listener fairest;
+split again
+-[hidden]->
+switch (lopped chum?)
+case (juicy inclined?)
+:vespers wipers;
+case (meats rid?)
+:fountainhead affair; <<load>>
+case (drummer bijou?)
+:prouder rails;
+endswitch
+split again
+-[hidden]->
+if (submissive sledding?) then (understand nineties)
+(sicker slither) elseif (full practising?) then (faxed detailed)
+:jaguar groceries; <<continuous>>
+(delicately uniform) elseif (ess introduction?) then (chihuahua deprived)
+:bolts hosts;
+(sodding authorizing) elseif (scariest treats?) then (strangulation forger)
+:deadbeat caboose;
+(tightly papa) elseif (ridden dopamine?) then (benevolence fireball)
+:upgraded coddling;
+endif
+end split
+:trafficker dummies; <<output>>
+@enduml

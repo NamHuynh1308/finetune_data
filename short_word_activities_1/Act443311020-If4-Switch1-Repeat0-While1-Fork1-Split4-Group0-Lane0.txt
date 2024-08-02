@@ -1,0 +1,100 @@
+@startuml
+split
+-[hidden]->
+:contribution snowflakes;
+split again
+-[hidden]->
+:beau punt;
+-> reveals newborn;
+split again
+-[hidden]->
+:pear promoted; <<load>>
+-> ornament flashy;
+split again
+-[hidden]->
+if (manifesto compound?) then (shorts dapper)
+(diabetics random) elseif (contamination prance?) then (hedging affecting)
+:cheek kooky; <<load>>
+(ogre gun) elseif (marathon outrun?) then (dog escapade)
+:viral galloping;
+(conservatory fission) elseif (drill hysteric?) then (condition slacker)
+:imaginative mastectomy; <<load>>
+(fought blind) elseif (culminating theatre?) then (absolutely repayment)
+:pittance commode; <<continuous>>
+-> coz chops;
+endif
+end split
+if (no harassing?) then (flavors brewery)
+:firelight visible;
+-> mundane plank;
+if (banning ponder?) then (trollop haircuts)
+(interpreting chutes) elseif (appear mimic?) then (psychiatry alderman)
+:plaster clockwise; <<input>>
+-> monde charm;
+(boob synonymous) elseif (manor vacuumed?) then (favors freedom)
+:contamination unzip;
+(leaping cleanliness) elseif (mummy crab?) then (noisy journal)
+:moustache visit; <<continuous>>
+-> canine thermonuclear;
+(street soaring) elseif (eloquence emergency?) then (nobodies beret)
+:brie lengths; <<continuous>>
+endif
+:affront ostracized; <<continuous>>
+else (fatigues does)
+fork
+:commencing wife;
+fork again
+:sink construct;
+-> blowed whisker;
+fork again
+:confronted generating;
+end fork
+endif
+split
+:plantations graves;
+split again
+:resolute homing; <<save>>
+-> disposition soups;
+split again
+:measuring frustrating; <<input>>
+split again
+:desecrate stuck;
+end split
+split
+:praising tet;
+split again
+switch (complained questionable?)
+case (cypher goulash?)
+:weary gondola;
+case (jumps wheeze?)
+:guff boulevard;
+endswitch
+split again
+split
+:piles lashing;
+split again
+:lighted operator;
+split again
+:tunnels edict;
+split again
+:overactive evens;
+end split
+split again
+if (ambient commentator?) then (dictates lei)
+:browning foreclosure;
+:mack glasses; <<output>>
+-> kingdoms thankless;
+while (heating notably?) is (clunk hydraulic)
+backward:bravo rumba;
+:north enter;
+-> mouthed fixer;
+:buttoned supporting; <<output>>
+endwhile (darts encyclopedias)
+-[hidden]->
+detach
+else (skinner galling)
+:tardiness evolution;
+:certifiably homage; <<continuous>>
+endif
+end split
+@enduml

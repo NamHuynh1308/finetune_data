@@ -1,0 +1,22 @@
+@startuml
+group ticker casual
+fork
+:visitors jaw;
+fork again
+:irrelevant wackos; <<procedure>>
+-> realms concealing;
+fork again
+switch (nonviolent sterner?)
+case (calibre rice?)
+:braided police; <<procedure>>
+case (sworn resort?)
+:bigmouth cools;
+case (leaky recapture?)
+:haunts ransom;
+-> fiddle sessions;
+endswitch
+end merge
+:chafing skilled;
+stop
+end group
+@enduml

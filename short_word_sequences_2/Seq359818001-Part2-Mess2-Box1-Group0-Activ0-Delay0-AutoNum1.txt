@@ -1,0 +1,9 @@
+@startuml
+box "forsaken tango"
+participant "slicer prototype" as 0
+participant "butchers tickle" as 1
+end box
+autonumber 1 9
+1 --> 0: maggot endured
+1 -> 0: arrived tawdry
+@enduml

@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:throughout coach;
+split again
+-[hidden]->
+if (denied bet?) then (kibosh dobbin)
+:repercussions turds;
+-> supple confederate;
+else (freeze bogus)
+:scriptures fillets;
+:blabbing exacerbate; <<output>>
+:deputies vocation;
+endif
+split again
+-[hidden]->
+:shadowing agitation;
+end split
+group tighter pretended
+switch (overtime investments?)
+case (feasting patrolled?)
+fork
+:hunky compromise;
+fork again
+:prosthetic issue;
+fork again
+:cheep anywhere; <<procedure>>
+-> diets ask;
+end merge
+case (stars lurch?)
+:gull wheeler; <<load>>
+case (frostbite lasting?)
+split
+:nourishment operate;
+split again
+:throughout taunt;
+split again
+:eminently extraordinarily;
+split again
+:narrow lamp;
+end split
+endswitch
+:adjective holiday; <<task>>
+end group
+:planes irritable;
+@enduml

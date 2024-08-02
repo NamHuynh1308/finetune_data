@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:interrupting goodman;
+split again
+-[hidden]->
+:cages inexperience;
+split again
+-[hidden]->
+:argue composure; <<save>>
+end split
+group founder stumper
+switch (nipper starry?)
+case (extended peel?)
+:unconcerned publishing; <<save>>
+case (thinning rectangle?)
+:card indicating;
+endswitch
+fork
+:negotiator pentagram;
+fork again
+if (untimely legal?) then (eraser inferiority)
+:trusty blonds;
+else (restored recreate)
+:leggy lint;
+:schizophrenia infant; <<input>>
+-> ecological fools;
+:terrorist phantoms; <<output>>
+-> sewed tips;
+endif
+fork again
+:wielding face; <<procedure>>
+end fork
+end group
+stop
+@enduml

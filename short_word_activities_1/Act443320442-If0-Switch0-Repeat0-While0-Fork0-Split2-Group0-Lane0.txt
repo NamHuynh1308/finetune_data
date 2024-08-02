@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:severely attends;
+split again
+-[hidden]->
+split
+:gargling pictures;
+split again
+:lick ingenue; <<output>>
+split again
+:purchase whiteness; <<output>>
+end split
+split again
+-[hidden]->
+:showroom mitten; <<continuous>>
+end split
+:lakeshore become; <<task>>
+-> answer onward;
+stop
+@enduml

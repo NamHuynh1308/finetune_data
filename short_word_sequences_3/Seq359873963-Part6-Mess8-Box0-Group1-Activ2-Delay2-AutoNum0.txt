@@ -1,0 +1,23 @@
+@startuml
+participant "awoke linebacker" as 0
+participant "possum monsters" as 1
+participant "xerox essential" as 2
+participant "ado hale" as 3
+participant "creating pop" as 4
+== refining bolts ==
+ [-> 3: postage intentional
+par zebras smallest
+...proportioned elect...
+ [-> 2: reclining macaroons
+...logan notepad...
+2 ->x 1: dang stagger
+end
+0 <-> 1++ : dictation videotaped
+2 -\\ 4++ : desire aggressive
+4 <-] : goblet basically
+2 -// 4: regent counts
+create participant "dope outlaws" as 5
+1 -> 5 : dope outlaws
+return bolted footer
+return enterprising posing
+@enduml

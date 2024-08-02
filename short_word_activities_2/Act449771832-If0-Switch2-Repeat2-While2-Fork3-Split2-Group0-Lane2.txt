@@ -1,0 +1,92 @@
+@startuml
+|1| knows site
+|2| sewed worshippers
+split
+-[hidden]->
+:borrowing handbook;
+split again
+-[hidden]->
+fork
+:gibson exploration;
+fork again
+:hippopotamus housekeeper;
+fork again
+:stabilizing twentieth; <<output>>
+fork again
+:hallucination futuristic;
+end merge
+split again
+-[hidden]->
+:bungalows spate;
+while (cultivating classes?) is (overheating toots)
+:vending autism;
+split
+:slobbering tore;
+split again
+:external carver; <<continuous>>
+split again
+:masculinity rotates; <<task>>
+split again
+:fairies diaphragms; <<output>>
+end split
+repeat
+:hunchback bronchial;
+if (idly sissy) then (hatched coarse)
+:remainder lieutenants;
+break
+endif
+->suspicions pus;
+:attack mess;
+repeat while (governess mustang?) is (advocate teaming)
+endwhile (force probably)
+-[hidden]->
+detach
+split again
+-[hidden]->
+switch (officially production?)
+case (adds assembly?)
+:buttercup diffuse;
+-> drastic represents;
+case (multiplication digit?)
+:outstanding scampered;
+case (demean detonation?)
+:monitor awed;
+endswitch
+end split
+repeat
+switch (depicting screen?)
+case (envelopes frigate?)
+:immobile interject; <<save>>
+case (insomnia vendors?)
+:turtles beaded;
+while (proceeded dressing?) is (and pharmacist)
+:tens bowed; <<load>>
+:advertised boredom;
+endwhile (license proposes)
+-[hidden]->
+detach
+endswitch
+:dazzled render; <<output>>
+-> stun comedy;
+fork
+:inadvertently cheerleader;
+fork again
+:crash schedule; <<task>>
+-> hightail understandably;
+fork again
+:portrait radial;
+fork again
+:joked uneducated;
+end fork
+repeat while (grain distort?) is (indigo specialist)
+:standing handout; <<load>>
+fork
+:cater umpire;
+fork again
+:lawfully bonfire; <<output>>
+fork again
+:digger peanuts; <<task>>
+end fork
+:nodules cultivated; <<procedure>>
+end
+@enduml

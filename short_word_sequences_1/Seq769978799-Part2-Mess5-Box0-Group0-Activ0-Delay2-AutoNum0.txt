@@ -1,0 +1,12 @@
+@startuml
+participant "errant ultrasound" as 0
+participant "fussing purse" as 1
+== albatross tablet ==
+ [-> 1: sacks civil
+...adapt precinct...
+1 -> 0: jabs tenderness
+...waste submissive...
+0 --> 0: cycles yellow
+1 ->x 0: corner attributed
+1 --> 0: informal institutional
+@enduml

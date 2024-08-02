@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:gallivanting leader;
+split again
+-[hidden]->
+:badges unattached;
+split again
+-[hidden]->
+if (consensual blowout?) then (skeletal bravado)
+:dismissive imposing;
+else (executions nationally)
+:opens sham; <<procedure>>
+kill
+endif
+end split
+:smacks hick; <<save>>
+-> option crashing;
+:angioplasty delirious; <<load>>
+end
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:spic boiling;
+split again
+-[hidden]->
+:stomper sheen; <<procedure>>
+-> black chugging;
+split again
+-[hidden]->
+:newborn protests; <<procedure>>
+-> turbine composers;
+end split
+:demographics kale; <<continuous>>
+:prosthetic fairest;
+:complacent steal; <<input>>
+end
+@enduml

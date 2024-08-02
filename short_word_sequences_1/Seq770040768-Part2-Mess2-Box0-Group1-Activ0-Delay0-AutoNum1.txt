@@ -1,0 +1,10 @@
+@startuml
+participant "depends coasting" as 0
+autonumber 3 2
+create participant "school whats" as 1
+0 -> 1 : school whats
+autonumber stop
+opt cocoa smash
+0 -> 0!! : derrick perishable
+end
+@enduml

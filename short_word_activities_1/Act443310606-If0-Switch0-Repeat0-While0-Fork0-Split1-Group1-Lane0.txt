@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:strangler eagerly;
+split again
+-[hidden]->
+:feelers innermost; <<save>>
+split again
+-[hidden]->
+:fasting placebos; <<continuous>>
+split again
+-[hidden]->
+:mellowing cost; <<load>>
+-> lotto enacted;
+end split
+group nursery enough
+:slogans relativity;
+-> colonies torque;
+stop
+end group
+@enduml

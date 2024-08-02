@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:lambert berg;
+split again
+-[hidden]->
+:merger guinea; <<continuous>>
+split again
+-[hidden]->
+:marginal heavens; <<input>>
+end split
+:corn cribs;
+-> enzyme waters;
+end
+@enduml

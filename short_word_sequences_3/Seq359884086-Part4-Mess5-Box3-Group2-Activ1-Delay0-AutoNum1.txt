@@ -1,0 +1,24 @@
+@startuml
+box "hacking trees"
+participant "harsh hash" as 0
+box "shuffled newsstands"
+participant "lawnmower unprovoked" as 1
+box "parrots handball"
+participant "yelled tumors" as 2
+participant "savin eyed" as 3
+end box
+end box
+end box
+autonumber 2 1
+2 ->> 1: loyalties purposely
+break treachery hook
+0 -> 1: nosing mastered
+2 ->x 3: ficus targets
+loop bails herald
+1 -\\ 2: prepare pillage
+3 -\\ 0++ : flatter crass
+autonumber stop
+end
+end
+return thought playground
+@enduml

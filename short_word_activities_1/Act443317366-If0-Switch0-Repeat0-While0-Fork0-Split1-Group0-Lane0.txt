@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:jabbering sideboard;
+split again
+-[hidden]->
+:pissed undertow; <<continuous>>
+split again
+-[hidden]->
+:transports reversed;
+-> eczema superman;
+end split
+:rotate wussies; <<output>>
+-> cords poppa;
+end
+@enduml

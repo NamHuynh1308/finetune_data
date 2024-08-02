@@ -1,0 +1,63 @@
+@startuml
+split
+-[hidden]->
+:styled based;
+split again
+-[hidden]->
+switch (encyclopedia clinging?)
+case (brainstorm frail?)
+:membership sofa; <<save>>
+case (credenza unhinged?)
+:clumsy grilled;
+case (tinkering yachts?)
+:german youths;
+case (dimensional vehicle?)
+:sooner sprang; <<task>>
+endswitch
+split again
+-[hidden]->
+:creep rummaging; <<output>>
+-> industrious enforcing;
+split again
+-[hidden]->
+split
+:birthdays rubble;
+split again
+:misunderstandings helicopter; <<input>>
+-> lunches wickedness;
+split again
+:gills tram; <<input>>
+end split
+end split
+group qualifications module
+if (find looked?) then (parading irrevocably)
+:japan banned; <<continuous>>
+:quieter bio; <<procedure>>
+while (fantabulous none?) is (query lusts)
+:imagery talented;
+backward:governments jellies;
+:sandal determining;
+backward:dispute corral;
+endwhile (prepping form)
+-[hidden]->
+detach
+else (drastic golf)
+:luxuries demonstrations; <<procedure>>
+:maximize uglies; <<procedure>>
+-> macaws fledged;
+fork
+:community strippers;
+fork again
+:winks grandmother;
+fork again
+:roadster preys;
+end fork
+while (wrists loopholes?) is (whittling polymerization)
+backward:cassette summer;
+endwhile (geese toward)
+-[hidden]->
+detach
+endif
+:flunky oblivious; <<task>>
+end group
+@enduml

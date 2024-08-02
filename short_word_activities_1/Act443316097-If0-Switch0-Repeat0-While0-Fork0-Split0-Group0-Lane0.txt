@@ -1,0 +1,6 @@
+@startuml
+start
+:sale mud;
+-> trickier bourne;
+end
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+box "proposal cures"
+participant "wrecked happened" as 0
+participant "shiva implied" as 1
+box "beastie aggressor"
+participant "sniffed schmuck" as 2
+box "evidently midterm"
+participant "cheerleading kahuna" as 3
+box "perfectionist broader"
+participant "rant drones" as 4
+end box
+end box
+end box
+end box
+autonumber 0 3
+ [-> 0: worrisome luxuries
+autonumber stop
+...skipped handler...
+4 ->x 3: territorial prudes
+...sprite arthritis...
+4 -> 3: iliad las
+opt ransack muscled
+4 --> 3: lordship bey
+0 <-] : jaded heckled
+...coincidences precedence...
+1 <-> 3: wrung pride
+autonumber resume
+end
+@enduml

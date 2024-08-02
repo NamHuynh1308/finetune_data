@@ -1,0 +1,27 @@
+@startuml
+group childish darkness
+switch (raft index?)
+case (tends bedside?)
+:retail choppers; <<task>>
+case (handsomest intake?)
+split
+:measles saddle;
+split again
+:precedence plaster; <<procedure>>
+-> zeros balled;
+split again
+:noodles distressed; <<output>>
+split again
+:specials aggressive; <<output>>
+-> fixable apprised;
+end split
+endswitch
+group freshen tailors
+:jolt en; <<output>>
+group protest sweetly
+:comrades controls;
+stop
+end group
+end group
+end group
+@enduml

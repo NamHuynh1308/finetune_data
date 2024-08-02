@@ -1,0 +1,19 @@
+@startuml
+participant "influenced worldwide" as 0
+participant "skit sadder" as 1
+== newscast stroke ==
+autonumber 4 5
+1 <-> 0: smell methadone
+...cynical aims...
+0 --> 0++ : melt klutz
+autonumber stop
+opt intrusion stalemate
+create participant "plumber barometer" as 2
+0 -> 2 : plumber barometer
+autonumber resume
+0 <-> 1++ : moneys hallucinating
+else appliance relax
+end
+return psychopath bees
+return acing eyeliner
+@enduml

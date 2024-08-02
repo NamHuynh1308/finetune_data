@@ -1,0 +1,24 @@
+@startuml
+participant "ark speaker" as 0
+box "deltas choir"
+participant "galactic benching" as 1
+participant "whey mosquitos" as 2
+end box
+participant "fig blaze" as 3
+box "byes honeymoon"
+participant "bookends separation" as 4
+end box
+== vocabulary nonchalant ==
+0 -> 1: albums prompting
+ [-> 3: jotted breather
+break levels protested
+ [<- 1: hisses forgetful
+break nimrod announce
+0 --> 4++ : audit eventful
+par mouse salary
+1 -// 0: blasted postal
+end
+end
+end
+return xerox pistachio
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+box "wagon glassy"
+participant "match importantly" as 0
+box "busload deigned"
+participant "previously muss" as 1
+participant "gauging hercules" as 2
+end box
+end box
+== fixtures circulated ==
+1 -> 2: jewels fragments
+opt imposed subpoenaed
+2 <-> 2++ : codicil thyme
+opt mailed stinks
+1 ->] : inactive embalmed
+end
+end
+return hades stabilized
+@enduml

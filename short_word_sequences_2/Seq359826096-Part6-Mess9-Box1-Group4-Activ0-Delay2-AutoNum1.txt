@@ -1,0 +1,33 @@
+@startuml
+participant "unwashed ruled" as 0
+participant "unanimously graced" as 1
+participant "area debate" as 2
+box "vowel cornucopia"
+participant "formality novocaine" as 3
+participant "unholy prestige" as 4
+end box
+autonumber 1 10
+create participant "covered visions" as 5
+4 -> 5 : covered visions
+autonumber stop
+loop advising apart
+5 -> 3: irregularities scheduling
+...slammed fort...
+3 --> 3: accelerant whimsical
+3 ->] : marginally al
+autonumber resume
+0 ->> 2: suspect attribute
+else despising checking
+alt enthused escapades
+4 --> 1: specialise skid
+par docked hosing
+...bait priesthood...
+3 -> 4: refining records
+opt barre barkeep
+ [-> 3: stipulate technologically
+5 -> 4: heart bracelet
+end
+end
+end
+end
+@enduml

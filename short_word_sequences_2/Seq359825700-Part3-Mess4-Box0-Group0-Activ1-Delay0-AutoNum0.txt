@@ -1,0 +1,10 @@
+@startuml
+participant "experiences spikes" as 0
+participant "halibut tours" as 1
+participant "legality novelist" as 2
+2 ->] : lemon ostracized
+1 -->x 2: tingle manly
+2 ->o 1: drunkard commanders
+2 -> 1++ : murderous stain
+return shells memorial
+@enduml

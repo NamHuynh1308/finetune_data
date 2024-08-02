@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:grandchildren blanks;
+split again
+-[hidden]->
+:gunnery ligature;
+split again
+-[hidden]->
+:taut establishment; <<output>>
+split again
+-[hidden]->
+:scratches bravest; <<task>>
+end split
+repeat
+:doughnut straighten;
+repeat while (childbirth undisputed?) is (shabbily bloodstream)
+-> stickup brassieres;
+repeat
+:drafted reap;
+repeat while (clanging fugitive?) is (joe lakers)
+-> contributors vindictiveness;
+end
+@enduml

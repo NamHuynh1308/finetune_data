@@ -1,0 +1,25 @@
+@startuml
+box "noel ecumenical"
+participant "iambic concussions" as 0
+box "hauls slashing"
+participant "tornado breech" as 1
+participant "sizing arriving" as 2
+box "breached uninformed"
+participant "virulent comebacks" as 3
+end box
+end box
+end box
+2 --> 3: platinum tendons
+1 -->x 3: esoteric cord
+3 -\\ 0: senile commentator
+loop meetings profanity
+...producer aerobic...
+1 ->] : slammed insightful
+loop cagey affects
+1 -> 2: toppings assembled
+0 ->x 3: awakes sonogram
+else elope penalize
+3 --> 3: walling oddest
+end
+end
+@enduml

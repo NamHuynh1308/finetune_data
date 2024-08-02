@@ -1,0 +1,14 @@
+@startuml
+participant "caddie streams" as 0
+participant "abdomen champagne" as 1
+autonumber 6 0
+1 --> 1: swallowed martin
+0 -> 1: wars collie
+autonumber stop
+ [-> 0: backside molten
+loop impeached seam
+1 -->x 1: skeptic fodder
+autonumber resume
+0 -\\ 0: copycat destination
+end
+@enduml

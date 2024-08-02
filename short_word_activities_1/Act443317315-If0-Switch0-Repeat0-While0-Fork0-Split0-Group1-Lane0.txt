@@ -1,0 +1,10 @@
+@startuml
+start
+:latch reactive; <<input>>
+-> emerged bars;
+group entrepreneur crane
+:fishermen proportions;
+-> rick bailed;
+stop
+end group
+@enduml

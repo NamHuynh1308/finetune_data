@@ -1,0 +1,12 @@
+@startuml
+|1| tricycle thumping
+|2| freakish fallible
+|1|
+start
+|2|
+:therapy stairway; <<save>>
+|1|
+:requiem platonic; <<input>>
+:roomy bugging; <<input>>
+-> fieldstone sorrows;
+@enduml

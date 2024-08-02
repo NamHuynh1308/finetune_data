@@ -1,0 +1,22 @@
+@startuml
+participant "fluffy buff" as 0
+participant "theatres charts" as 1
+participant "peace passing" as 2
+box "destroyers ago"
+participant "lowery ravens" as 3
+end box
+autonumber 10 3
+1 ->> 2: typing listen
+3 -> 3: narcotics underpants
+autonumber stop
+opt landing humming
+...appeared scratches...
+0 --//o 3: nun angry
+autonumber resume
+...patch rile...
+2 -> 0!! : contradiction missionary
+else indicate partnered
+create participant "playground hokey" as 4
+1 -> 4 : playground hokey
+end
+@enduml

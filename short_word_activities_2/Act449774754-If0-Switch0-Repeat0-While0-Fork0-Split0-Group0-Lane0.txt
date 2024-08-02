@@ -1,0 +1,6 @@
+@startuml
+:smugness sleep;
+:breathtaking launched; <<save>>
+-> fallback chartered;
+end
+@enduml

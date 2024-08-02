@@ -1,0 +1,21 @@
+@startuml
+participant "hades forceful" as 0
+participant "joe contortionist" as 1
+participant "whims nightcap" as 2
+participant "glib disastrous" as 3
+autonumber 6 6
+opt freelancing blissfully
+2 <-] : hunting cobras
+...movement worthless...
+2 -> 3!! : misheard odyssey
+end
+opt mole ulcer
+0 -> 3!! : chumps sigh
+2 ->x 3: kappa scarecrow
+ [-> 3: wrought compression
+else assertiveness fritters
+3 -->x 1: gilbert called
+2 <-> 1: extraterrestrial vagina
+else fees peacefully
+end
+@enduml

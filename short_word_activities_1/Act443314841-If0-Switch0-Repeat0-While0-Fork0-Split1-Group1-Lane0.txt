@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:bottomless performed;
+split again
+-[hidden]->
+:able encountered;
+split again
+-[hidden]->
+:moloch tenant;
+-> refusing frown;
+split again
+-[hidden]->
+:poet endangerment; <<task>>
+-> cherry marathon;
+end split
+group framed speculation
+:eases viscount; <<procedure>>
+stop
+end group
+@enduml

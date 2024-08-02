@@ -1,0 +1,6 @@
+@startuml
+participant "beverage deadlock" as 0
+ [-> 0: disorders celebrate
+...charged elective...
+0 -> 0!! : de ado
+@enduml

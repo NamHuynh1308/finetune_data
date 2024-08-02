@@ -1,0 +1,27 @@
+@startuml
+box "retailers ignited"
+participant "sea modern" as 0
+participant "devour deadlines" as 1
+participant "badminton booklets" as 2
+participant "trellis decorator" as 3
+end box
+autonumber 1 1
+1 -// 1: wear strive
+create participant "expressing attachments" as 4
+1 -> 4 : expressing attachments
+...policing hooks...
+2 -\\ 0: aroma mode
+autonumber stop
+2 ->o 3: lost concussions
+loop solicitation rewind
+0 ->] : diabetes chance
+0 -\\ 4: cubbies mellow
+autonumber resume
+par guy norm
+1 -\\ 1++ : museums crashing
+2 -> 4!! : handkerchief psychological
+else isotopes responding
+end
+end
+return uppity admiral
+@enduml

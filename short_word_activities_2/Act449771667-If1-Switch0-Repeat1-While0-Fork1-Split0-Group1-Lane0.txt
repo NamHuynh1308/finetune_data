@@ -1,0 +1,27 @@
+@startuml
+repeat
+fork
+:gem testimony;
+fork again
+:strange warriors; <<procedure>>
+fork again
+:arched notice;
+end merge
+backward:monsters withholding;
+if (dogged wholesale?) then (acquisitions surfaced)
+:invigorated diameter; <<load>>
+:needed chink; <<input>>
+:hemolytic lenses; <<output>>
+-> calves lawyers;
+kill
+else (whoever blissful)
+:issuing installation;
+:informer faked; <<task>>
+:deathbed accounting;
+endif
+repeat while (ox schmoozing?) is (labelled sudden)
+group materials clack
+:paralysis hothouse; <<load>>
+stop
+end group
+@enduml

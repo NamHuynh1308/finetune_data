@@ -1,0 +1,31 @@
+@startuml
+|1| enchant salvaged
+|2| unburden neurological
+|1|
+start
+|2|
+:rifling projecting; <<save>>
+-> picking snatching;
+|1|
+:shared cave;
+-> jawed liberal;
+fork
+:taut headache;
+fork again
+:eviscerated review;
+-> inspectors established;
+fork again
+:crashing graphic; <<procedure>>
+-> process holies;
+fork again
+if (accompany descriptive?) then (brewing patience)
+:wimp matters;
+kill
+else (commanders norland)
+:dinning wynn;
+:minor carried; <<output>>
+:named realms;
+endif
+end fork
+stop
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "boil weirdly" as 0
+participant "rug lawnmower" as 1
+create participant "harder privy" as 2
+1 -> 2 : harder privy
+alt pranks rewards
+...legion nicknames...
+1 ->o 0: fiendish colonials
+par diluted offers
+0 -> 1: chalet wanderer
+0 -> 0: situation tries
+else nevertheless unsuitable
+end
+end
+@enduml

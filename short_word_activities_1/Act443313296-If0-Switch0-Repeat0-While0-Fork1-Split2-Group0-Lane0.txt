@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:sickening viciousness;
+split again
+-[hidden]->
+split
+:cosmetic waiter;
+split again
+:confront ingenious; <<input>>
+-> intoxication password;
+split again
+:successfully visit;
+end split
+split again
+-[hidden]->
+:janitors tracer; <<procedure>>
+-> haggling accounted;
+end split
+:entities sold; <<output>>
+fork
+:encinas dormitory;
+fork again
+:medicating adoration; <<task>>
+-> mounting snagged;
+fork again
+:boners minding; <<procedure>>
+-> pincushion rural;
+end merge
+stop
+@enduml

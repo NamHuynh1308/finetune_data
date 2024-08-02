@@ -1,0 +1,21 @@
+@startuml
+participant "famous continents" as 0
+participant "august accounted" as 1
+box "northern operation"
+participant "butterfly max" as 2
+participant "damnedest inviting" as 3
+end box
+break dike intercept
+1 <-> 2++ : thousand boogie
+2 -> 0: gain incident
+return unsettled inheriting
+end
+par research tactile
+3 -> 0++ : consumer unnecessary
+par exasperated scribble
+...hardened turret...
+0 ->x 2: moron ruffles
+return settles disclose
+end
+end
+@enduml

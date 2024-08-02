@@ -1,0 +1,86 @@
+@startuml
+split
+-[hidden]->
+:harder connected;
+split again
+-[hidden]->
+:rap decomposed; <<output>>
+split again
+-[hidden]->
+switch (staffed bent?)
+case (aimed destructive?)
+:productions consensual; <<task>>
+-> strategize commissary;
+case (outgrow banking?)
+:paddles contacting; <<continuous>>
+case (improved worried?)
+:scorch patty;
+case (kissy lawsuit?)
+:wrestling thoughts; <<save>>
+endswitch
+end split
+:disbelief hostility; <<continuous>>
+if (lived strongest?) then (unlucky duped)
+if (thighs sheltered?) then (mentioning boardwalk)
+:proves sissy;
+:mamie racquetball; <<procedure>>
+-> alright ledger;
+else (lymph cooper)
+:tons his; <<procedure>>
+while (rectify insulated?) is (overwhelmed unscheduled)
+backward:referred growers;
+:handing soften;
+:dignity chess; <<procedure>>
+backward:buzzes inmates;
+endwhile (bashful buckshot)
+-[hidden]->
+detach
+endif
+split
+:fuse hint;
+split again
+:petty triumphed;
+split again
+:bozos tubers;
+split again
+:odor awkwardness; <<input>>
+end split
+while (spread scratching?) is (farther governments)
+backward:fortune individually;
+backward:stepson conform;
+:machismo receipts;
+endwhile (saint besieged)
+:suggests chad;
+else (inspectors percentages)
+:meetings fluffy; <<continuous>>
+-> helplessly shrinks;
+if (occupied truest?) then (cells trauma)
+:ten groomer; <<save>>
+else (fourth devil)
+:wiggly tangle;
+:transferred lone;
+endif
+:vicariously corral; <<task>>
+-> tutoring safer;
+kill
+endif
+group escapee kirk
+fork
+:inedible lilies;
+fork again
+:lilac nostalgic; <<save>>
+fork again
+:hieroglyphs realities; <<continuous>>
+fork again
+fork
+:smearing cuff;
+fork again
+:hags workman;
+fork again
+:schizoid determination; <<continuous>>
+-> docs manager;
+end fork
+end merge
+stop
+end group
+@enduml

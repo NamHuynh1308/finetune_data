@@ -1,0 +1,20 @@
+@startuml
+participant "hogs ruse" as 0
+box "spies birthright"
+participant "viewers bar" as 1
+end box
+autonumber 6 6
+0 -\\ 1++ : documentary patients
+0 -> 1++ : foods seduction
+autonumber stop
+par gin spackle
+1 -->x 0++ : leadership rain
+autonumber resume
+loop motor oversleep
+1 <-] : gentlemen brow
+return conferences ashtray
+end
+end
+return plethora blade
+return jinx sardine
+@enduml

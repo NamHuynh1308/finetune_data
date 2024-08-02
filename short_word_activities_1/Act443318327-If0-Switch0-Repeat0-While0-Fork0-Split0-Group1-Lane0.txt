@@ -1,0 +1,6 @@
+@startuml
+group jump monsieur
+:contract pistol; <<load>>
+stop
+end group
+@enduml

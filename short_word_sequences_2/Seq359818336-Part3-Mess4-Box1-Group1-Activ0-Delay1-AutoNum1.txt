@@ -1,0 +1,17 @@
+@startuml
+participant "gestapo steam" as 0
+participant "tableau pony" as 1
+box "uses overthink"
+participant "campfire hooch" as 2
+end box
+autonumber 9 7
+loop sprinkle defeats
+0 ->x 1: smoothest kid
+autonumber stop
+...vocabulary amnesia...
+2 ->] : empty cruisers
+2 -> 0!! : inflammatory flashbacks
+autonumber resume
+0 ->] : slighted miner
+end
+@enduml

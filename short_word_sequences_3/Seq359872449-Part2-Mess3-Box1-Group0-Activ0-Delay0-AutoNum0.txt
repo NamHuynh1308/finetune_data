@@ -1,0 +1,9 @@
+@startuml
+participant "disastrous pathways" as 0
+box "ripples philosophers"
+participant "freckling brushes" as 1
+end box
+1 -> 0: cyclone provoking
+1 ->x 1: hardship recitals
+0 -> 0: raving perimeters
+@enduml

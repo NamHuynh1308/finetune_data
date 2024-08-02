@@ -1,0 +1,13 @@
+@startuml
+participant "honors capable" as 0
+participant "sanitation dopes" as 1
+participant "helpless sentenced" as 2
+participant "crept himself" as 3
+0 <-> 0: careless reflexes
+0 ->o 3: food faltered
+1 -> 1: beards applejack
+3 -> 1: defended curt
+1 -->x 1++ : exalted embarked
+ [<- 0: hefty sanity
+return regulation shanks
+@enduml

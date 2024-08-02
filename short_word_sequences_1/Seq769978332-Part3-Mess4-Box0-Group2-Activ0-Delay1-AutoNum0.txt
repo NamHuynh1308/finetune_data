@@ -1,0 +1,15 @@
+@startuml
+participant "continuation guard" as 0
+participant "underage awaiting" as 1
+== riches glaring ==
+create participant "insight radically" as 2
+1 -> 2 : insight radically
+2 -// 0: urgently bacterial
+opt honeysuckle cachet
+2 -->x 2: impediment woodpecker
+alt spate pence
+...perched quarterbacks...
+1 -> 0: abusive vindictive
+end
+end
+@enduml

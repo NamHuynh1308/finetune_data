@@ -1,0 +1,19 @@
+@startuml
+participant "scry squishing" as 0
+box "stares curvaceous"
+participant "silent vermouth" as 1
+participant "docking pom" as 2
+end box
+autonumber 10 8
+0 ->] : lured delirium
+2 -> 1: infernal geriatrics
+1 --> 2: fabrication sedation
+autonumber stop
+0 -->x 2: retard remark
+autonumber resume
+break diuretic preserved
+2 <-] : sees unfreezing
+2 ->x 0: mystery bachelors
+else class meteor
+end
+@enduml

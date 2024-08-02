@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:poi liquidate;
+split again
+-[hidden]->
+:expedition rich; <<procedure>>
+-> champion difficult;
+split again
+-[hidden]->
+:enamored user; <<input>>
+-> bites serial;
+split again
+-[hidden]->
+:justifies tissue; <<input>>
+-> raiding shuttle;
+end split
+group appropriate gene
+:curran terrorism; <<input>>
+-> corner peripheral;
+:impetuous flyer; <<output>>
+end group
+group projector hiss
+:groomed leaping; <<continuous>>
+-> rig pushover;
+stop
+end group
+@enduml

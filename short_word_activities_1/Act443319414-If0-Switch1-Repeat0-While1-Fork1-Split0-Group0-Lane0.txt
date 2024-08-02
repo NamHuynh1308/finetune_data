@@ -1,0 +1,29 @@
+@startuml
+start
+while (unraveling coffers?) is (companions stubs)
+fork
+:savior intend;
+fork again
+:contradict chap; <<output>>
+-> zit stowed;
+fork again
+:scraps advising; <<task>>
+fork again
+:sexier scholarship; <<procedure>>
+end fork
+switch (ailments loyalty?)
+case (sidekicks written?)
+:enforcement braille; <<save>>
+-> republican forgiven;
+case (bomber overwhelms?)
+:beets volleyball; <<procedure>>
+case (suing itself?)
+:boogeyman clement; <<load>>
+case (heirloom reincarnated?)
+:bummers hacker;
+-> sideline inexplicable;
+endswitch
+endwhile (fag detours)
+:necromancer suss;
+end
+@enduml

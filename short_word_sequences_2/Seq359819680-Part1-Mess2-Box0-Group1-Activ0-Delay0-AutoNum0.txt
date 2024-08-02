@@ -1,0 +1,7 @@
+@startuml
+participant "seating curt" as 0
+0 -->x 0: crowning helo
+opt cur antique
+0 -->x 0: fittest standish
+end
+@enduml

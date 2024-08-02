@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:appropriations add;
+split again
+-[hidden]->
+:citations pines;
+split again
+-[hidden]->
+switch (intimate okayed?)
+case (drunkard bribe?)
+:unconditional superpowers;
+case (surrogate mikes?)
+:contemplate journalists; <<task>>
+endswitch
+split again
+-[hidden]->
+split
+:prefer heavily;
+split again
+:progeny believing;
+split again
+:motives valley;
+end split
+end split
+repeat
+if (fingers pretending?) then (quarterbacks oversee)
+(gargoyles revolve) elseif (blasters ruder?) then (constructive drunks)
+:belongings unveiling; <<output>>
+(prophecy harmless) elseif (smoother affections?) then (puny attempts)
+:blathering irrational;
+-> vigilance accompany;
+(addictive recycling) elseif (intensity melodrama?) then (mosey wept)
+:frightening rec;
+(tilted consistent) elseif (weirdly finishes?) then (ravish implicate)
+:mustangs disciplined; <<load>>
+endif
+repeat while (diffusion young?) is (demanded deliver)
+:degrade promoted;
+end
+@enduml

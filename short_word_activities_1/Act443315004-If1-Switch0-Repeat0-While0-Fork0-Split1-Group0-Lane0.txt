@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:traditions carrier;
+split again
+-[hidden]->
+:extinct trashes; <<load>>
+split again
+-[hidden]->
+:dorms cursed; <<load>>
+-> humming nations;
+split again
+-[hidden]->
+if (readout benedict?) then (admires crowding)
+:fellow dreary; <<output>>
+:cardiology whoops;
+else (caper dasher)
+:plotting fabric; <<load>>
+-> sheer unseat;
+endif
+end split
+:lubrication tripping; <<load>>
+-> smother alcoholics;
+end
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+participant "firebird endeavor" as 0
+box "gaps impatience"
+participant "bummer lite" as 1
+participant "astounding mermaid" as 2
+box "repeal pissing"
+participant "fat midland" as 3
+end box
+end box
+create participant "manifest seagull" as 4
+2 -> 4 : manifest seagull
+par hints fuss
+4 ->x 0: wastes dickens
+1 -> 2: racking lucifer
+else vetted unflattering
+alt prophesied midst
+3 -\\ 0: happily pollock
+end
+end
+@enduml

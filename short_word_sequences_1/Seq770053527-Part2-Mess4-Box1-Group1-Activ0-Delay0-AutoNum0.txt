@@ -1,0 +1,13 @@
+@startuml
+box "relentlessly seventeenth"
+participant "comrade nephew" as 0
+participant "swear platypus" as 1
+end box
+1 -> 0: tweak petition
+par poet hairbrush
+1 -> 1: javelin catastrophic
+1 ->> 1: barfing crashes
+else handoff dipped
+1 <-] : toxicity laboratories
+end
+@enduml

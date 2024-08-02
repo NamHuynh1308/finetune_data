@@ -1,0 +1,28 @@
+@startuml
+|1| bunions cheetah
+|2| billion contributor
+split
+-[hidden]->
+:surrendered giver;
+split again
+-[hidden]->
+:wrestle appetizing; <<output>>
+-> alarmed turn;
+split again
+-[hidden]->
+:insides mortifying; <<procedure>>
+end split
+|2|
+:depress work; <<output>>
+|1|
+:scientist delete;
+if (eleven sirree?) then (sidetracked daytime)
+:creamed incarcerated; <<continuous>>
+-> salmonella festivities;
+else (rescinded resurrection)
+:trigonometry percentage; <<load>>
+:loving loads; <<save>>
+-> misfit nomination;
+endif
+stop
+@enduml

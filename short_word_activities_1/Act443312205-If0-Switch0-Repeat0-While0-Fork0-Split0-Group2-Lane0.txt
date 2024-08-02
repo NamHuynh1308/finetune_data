@@ -1,0 +1,11 @@
+@startuml
+group pouting violation
+:symbiote weatherman; <<procedure>>
+-> felt splashy;
+group neurosis jam
+:commissioners malign;
+-> scenes minion;
+stop
+end group
+end group
+@enduml

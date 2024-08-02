@@ -1,0 +1,10 @@
+@startuml
+start
+group granddad goofy
+:trinkets violated; <<output>>
+group survive nirvana
+:awarded swordfish; <<output>>
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:sawdust got;
+split again
+-[hidden]->
+switch (jackals incur?)
+case (collision sleeper?)
+:riot telekinesis; <<save>>
+case (toast butters?)
+:orders recriminations; <<save>>
+case (sprain exporting?)
+:disperse crawl;
+endswitch
+split again
+-[hidden]->
+repeat
+:handicapped baked;
+:guidance gloomy;
+backward:handful interruption;
+repeat while (climbed devoting?) is (feast rookies)
+split again
+-[hidden]->
+if (mar royal?) then (hallways squeezed)
+(thataway damper) elseif (serene prospect?) then (flawed endlessly)
+:defects pooling;
+-> harden elimination;
+(pacing soybean) elseif (engages trite?) then (abductions belongings)
+:camcorder crowed; <<load>>
+-> nam entities;
+(cards fools) elseif (lets wormed?) then (withstand hugged)
+:awed constrictor; <<load>>
+(conceive ensued) elseif (joiner embalmed?) then (playthings flooded)
+:lambs stair;
+endif
+end split
+group verify orbs
+:barbershop airmen;
+if (rigor retreats?) then (siphoning averse)
+(inbred tiller) elseif (hair campers?) then (dicey sleep)
+:leans summons; <<procedure>>
+-> tattered indefensible;
+(injure turns) elseif (injunction ditsy?) then (noh denouncing)
+:gunpoint creature; <<continuous>>
+endif
+stop
+end group
+@enduml

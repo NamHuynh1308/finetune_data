@@ -1,0 +1,27 @@
+@startuml
+participant "zip exams" as 0
+participant "interrogating groom" as 1
+participant "blips kit" as 2
+box "postponement brains"
+participant "irritation consults" as 3
+end box
+== included arms ==
+autonumber 5 1
+1 ->o 3: sykes decoded
+autonumber stop
+0 ->x 2: saline dough
+autonumber resume
+2 ->> 3: rugged slack
+loop bridge godson
+1 ->] : anonymous dom
+autonumber stop
+create participant "things mattresses" as 4
+1 -> 4 : things mattresses
+autonumber resume
+0 <-> 0++ : breakfast quints
+else princesses uninspired
+4 --//o 3: pleasant pan
+3 <-> 4: wish discretion
+return blues correct
+end
+@enduml

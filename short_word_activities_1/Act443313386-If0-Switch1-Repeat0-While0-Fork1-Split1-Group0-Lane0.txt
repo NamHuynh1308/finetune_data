@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:route seems;
+split again
+-[hidden]->
+:counting cobras;
+split again
+-[hidden]->
+fork
+:grassy misgivings;
+fork again
+:chance intervened; <<output>>
+fork again
+:beheading impound;
+fork again
+:synchronize shadowing;
+end merge
+split again
+-[hidden]->
+:worm doozy; <<output>>
+end split
+:kiss experiencing; <<input>>
+-> official noticing;
+switch (flinging cucumber?)
+case (traditional complex?)
+:ignorant associated; <<save>>
+-> potholes weaver;
+case (prevent mingle?)
+:swelled divine; <<output>>
+-> dote checking;
+case (bris ensemble?)
+:reasonable abolish;
+endswitch
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+group gossiping gin
+:fancy coin; <<continuous>>
+stop
+end group
+@enduml

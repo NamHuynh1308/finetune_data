@@ -1,0 +1,11 @@
+@startuml
+start
+split
+:christen sigma;
+split again
+:vouched undressing;
+kill
+split again
+:yardstick victims; <<task>>
+end split
+@enduml

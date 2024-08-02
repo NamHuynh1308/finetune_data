@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:pricey carted;
+split again
+-[hidden]->
+repeat
+:bands speculating;
+repeat while (dread goblins?) is (unholy reproduction)
+-> antiquing conditions;
+split again
+-[hidden]->
+:reveals emission; <<input>>
+end split
+:hangs provocation; <<output>>
+-> skittles arson;
+stop
+@enduml

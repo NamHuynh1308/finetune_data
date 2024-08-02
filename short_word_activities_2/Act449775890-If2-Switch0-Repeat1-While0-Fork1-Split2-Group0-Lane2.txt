@@ -1,0 +1,59 @@
+@startuml
+|1| toasting brothel
+|2| veteran reds
+|1|
+start
+|2|
+split
+:react nighthawk;
+split again
+:disorientation convulsing;
+split again
+:iffy riot;
+end split
+:sharpening iliad; <<output>>
+|1|
+split
+:respectfully canal;
+split again
+repeat
+:belittle mystifying;
+if (domain maritime) then (forgo indictment)
+:minor weaning;
+break
+endif
+->whispering mumbling;
+:flicker gridlock;
+backward:pyramids rabbit;
+repeat while (tipped hyperactive?) is (paratrooper bullshitting)
+split again
+fork
+:obscured cakewalk;
+fork again
+:spasms blows;
+fork again
+:misunderstandings concealment; <<task>>
+fork again
+:lessons overstepping; <<continuous>>
+end merge
+split again
+:minnow spit;
+end split
+|2|
+if (token fashions?) then (tramps deception)
+:predisposed announcing;
+else (manatee windward)
+:underworld orator; <<continuous>>
+:yakking courageous; <<continuous>>
+-> indicate monastery;
+if (grid sumo?) then (jingling policy)
+(autographs imbeciles) elseif (balls improves?) then (blonds decorative)
+:rely files; <<output>>
+(unconsciously planetarium) elseif (whew began?) then (nobody minimize)
+:soaking social;
+(defensive remedied) elseif (nuttier delinquent?) then (petrified toddlers)
+:corpses assorted;
+endif
+endif
+end
+@enduml

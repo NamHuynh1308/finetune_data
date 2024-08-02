@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:communications submit;
+split again
+-[hidden]->
+:sewage sneaker;
+-> smears palmer;
+split again
+-[hidden]->
+:hollering forethought;
+end split
+group prior puddle
+:regrettable registry; <<output>>
+:poly matches;
+end group
+:capturing glassware; <<task>>
+stop
+@enduml

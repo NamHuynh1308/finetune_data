@@ -1,0 +1,10 @@
+@startuml
+participant "sore womanizer" as 0
+participant "surgeons rotten" as 1
+par pound oppressive
+0 -\\ 1: preoccupied desserts
+alt disarming hold
+1 ->o 1: hoped rabies
+end
+end
+@enduml

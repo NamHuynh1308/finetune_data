@@ -1,0 +1,12 @@
+@startuml
+box "assimilated crown"
+participant "paratroopers thesis" as 0
+participant "cappuccino hearing" as 1
+box "freshmen isotopes"
+participant "survivors saloon" as 2
+end box
+end box
+0 <-> 1: incompatible sal
+1 ->] : veal occasional
+0 <-] : gat koala
+@enduml

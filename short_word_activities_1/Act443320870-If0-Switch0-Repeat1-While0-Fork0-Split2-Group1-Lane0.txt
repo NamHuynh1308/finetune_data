@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:dominion ridge;
+split again
+-[hidden]->
+:doctrine toned; <<save>>
+-> similarity lead;
+split again
+-[hidden]->
+:tarantulas momentarily; <<output>>
+-> advancement orbit;
+split again
+-[hidden]->
+:muckraker bagels;
+end split
+group disappeared chenille
+:detained spliced; <<procedure>>
+repeat
+split
+:compressed pining;
+split again
+:stunned unquote;
+-> mach reckless;
+split again
+:rung toughness;
+end split
+repeat while (invaders displace?) is (amputate logger)
+end group
+@enduml

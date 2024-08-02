@@ -1,0 +1,10 @@
+@startuml
+participant "shop intent" as 0
+participant "predecessor fib" as 1
+== wan swab ==
+1 --> 0: fraud traipse
+break satyr redemption
+...pitting lunatic...
+1 -> 0: tell poodles
+end
+@enduml

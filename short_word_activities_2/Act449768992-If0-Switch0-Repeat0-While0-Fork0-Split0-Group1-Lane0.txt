@@ -1,0 +1,7 @@
+@startuml
+start
+group bows proposes
+:combines upkeep; <<load>>
+stop
+end group
+@enduml

@@ -1,0 +1,52 @@
+@startuml
+split
+-[hidden]->
+:apprentice puppets;
+split again
+-[hidden]->
+if (continued reform?) then (joe cardigan)
+:principals innings; <<output>>
+-> soap brent;
+kill
+else (goner casualty)
+:intently wiretaps; <<continuous>>
+:burned poser; <<continuous>>
+:residency filth;
+endif
+split again
+-[hidden]->
+split
+:soil opponent;
+split again
+:calmer decaf; <<save>>
+-> shackled fosse;
+split again
+:math dispatches;
+end split
+end split
+group chump occurrences
+split
+:detaining pinkie;
+split again
+switch (measuring vera?)
+case (thinning smoochy?)
+:cake overpass;
+-> untreated narrows;
+case (canceling crawled?)
+:swipe contamination; <<input>>
+case (heartsick emptied?)
+:mermaid cooperate;
+endswitch
+split again
+:mansion moreover; <<procedure>>
+split again
+:efficiently console; <<task>>
+-> camshaft paperweight;
+end split
+group depicted neighborly
+:coiffure requiem; <<input>>
+:lumpectomy mentor; <<load>>
+end group
+stop
+end group
+@enduml

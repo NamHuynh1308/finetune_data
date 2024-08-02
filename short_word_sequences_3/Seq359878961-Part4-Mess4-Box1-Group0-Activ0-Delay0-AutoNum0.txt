@@ -1,0 +1,12 @@
+@startuml
+participant "magnolia frogs" as 0
+box "leaving brilliant"
+participant "floated fixing" as 1
+participant "pressman backhand" as 2
+end box
+2 ->x 2: defenseless parties
+ [-> 1: thinks radishes
+create participant "result precisely" as 3
+0 -> 3 : result precisely
+2 -> 1: books sentences
+@enduml

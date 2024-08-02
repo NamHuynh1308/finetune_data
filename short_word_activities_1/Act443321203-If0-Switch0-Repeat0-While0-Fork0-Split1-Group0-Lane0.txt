@@ -1,0 +1,13 @@
+@startuml
+split
+-[hidden]->
+:brewer tolls;
+split again
+-[hidden]->
+:roomy downsize;
+split again
+-[hidden]->
+:malfunctioning advertised; <<procedure>>
+end split
+:consume beakers; <<input>>
+@enduml

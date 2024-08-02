@@ -1,0 +1,21 @@
+@startuml
+participant "sweater defenseless" as 0
+box "died funnies"
+participant "companions jumpsuit" as 1
+end box
+== little sleepwalk ==
+autonumber 4 4
+1 -> 0: phantom blotto
+autonumber stop
+...aimlessly rugby...
+1 ->x 0++ : reprieve kitten
+1 -> 0: drone piggyback
+return antiquities improvised
+par hazy battles
+...hath proved...
+1 ->] : sire barman
+create participant "hocks bottom" as 2
+1 -> 2 : hocks bottom
+else pork disco
+end
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:magnificently handguns;
+split again
+-[hidden]->
+:dismiss overestimated; <<output>>
+-> psychopath sixteen;
+split again
+-[hidden]->
+:mincemeat riches; <<input>>
+end split
+:surprised tyres; <<input>>
+-> turd tossed;
+group storming sue
+:pageant economic; <<task>>
+stop
+end group
+@enduml

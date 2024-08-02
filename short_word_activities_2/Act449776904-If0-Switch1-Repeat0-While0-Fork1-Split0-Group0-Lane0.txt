@@ -1,0 +1,20 @@
+@startuml
+switch (net headband?)
+case (advantage retaining?)
+:whistler premature; <<save>>
+case (blackjack dilute?)
+:routines skilled; <<save>>
+case (evidently risking?)
+:acres rich;
+-> caliber dainty;
+case (rap tension?)
+fork
+:clobbered contrary;
+fork again
+:exempt pricks; <<procedure>>
+fork again
+:fours caregiver; <<task>>
+end fork
+endswitch
+stop
+@enduml

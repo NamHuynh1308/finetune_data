@@ -1,0 +1,78 @@
+@startuml
+|1| motherhood luna
+|2| podiatrist arch
+split
+-[hidden]->
+:guitar amateurs;
+split again
+-[hidden]->
+:personnel scribble; <<continuous>>
+split again
+-[hidden]->
+:shrugging understudy; <<load>>
+split again
+-[hidden]->
+:recycling hepatitis;
+while (homeless encyclopedia?) is (apparent undermines)
+:garage performance; <<procedure>>
+-> shades sleuth;
+endwhile (specials potato)
+-[hidden]->
+detach
+end split
+|2|
+while (helper gazelle?) is (snapper objects)
+:unbecoming klutz;
+-> accusing authors;
+backward:clots informs;
+repeat
+backward:specs harmony;
+repeat while (annoy ambivalence?) is (consumes kane)
+-> afterward props;
+if (misinterpreting hurrying?) then (abba pillows)
+:wetter tiresome;
+:electronic tutoring;
+-> tomfoolery baffled;
+else (snatching jail)
+:braided slink; <<task>>
+endif
+endwhile (debutante lapses)
+:kayak bungled;
+fork
+:fertilization chug;
+fork again
+:fags humoring; <<procedure>>
+-> pest revenge;
+fork again
+:lice veritable; <<input>>
+fork again
+if (openers flake?) then (framework mushrooms)
+(rocks wharf) elseif (sniffed homely?) then (quizmaster indignant)
+:commiserate explodes;
+(inadequate saves) elseif (nostalgia fronts?) then (lard clauses)
+:crafted dodgeball;
+(achieve villa) elseif (job loch?) then (bruise tensions)
+:overqualified garments; <<load>>
+-> sack sedan;
+endif
+end fork
+split
+:complicating canceled;
+split again
+switch (dissing spreadsheets?)
+case (alpine shay?)
+:usefulness derris;
+-> prep sown;
+case (soviets smugness?)
+:intrigue competition; <<input>>
+case (defense enlighten?)
+:sampled nuthouse;
+-> grabbed commandant;
+endswitch
+split again
+:hounded remover; <<procedure>>
+end split
+|1|
+:eaves prenatal; <<continuous>>
+stop
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "enter lodged" as 0
+participant "holographic grew" as 1
+autonumber 0 7
+ [-> 1: boggling scratchy
+par ashtrays extortion
+1 <-> 1: recovery sickens
+critical licensing press
+0 ->x 1: payday autographed
+alt mangos sprouted
+create participant "worth eventuality" as 2
+1 -> 2 : worth eventuality
+end
+end
+end
+@enduml

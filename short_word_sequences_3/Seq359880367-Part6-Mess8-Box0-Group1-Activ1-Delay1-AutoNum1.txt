@@ -1,0 +1,23 @@
+@startuml
+participant "calves stalkers" as 0
+participant "venetian crumpled" as 1
+participant "shelter substation" as 2
+participant "fending specialties" as 3
+participant "downright unspeakable" as 4
+autonumber 4 3
+create participant "monsieur contusions" as 5
+1 -> 5 : monsieur contusions
+1 -> 5++ : bulldoze nuke
+alt fears pursuant
+3 ->x 5: literature crepes
+2 <-] : seem cultural
+5 -// 1: collided piglet
+3 <-> 1: lurch paroled
+return hemlines awoke
+...whoop thru...
+5 -\\ 2: charlotte skinny
+else backbone fishes
+ [-> 1: phases correspondence
+autonumber stop
+end
+@enduml

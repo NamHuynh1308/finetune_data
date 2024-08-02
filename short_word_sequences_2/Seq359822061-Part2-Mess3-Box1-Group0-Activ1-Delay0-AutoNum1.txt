@@ -1,0 +1,12 @@
+@startuml
+box "bilge clerk"
+participant "gusto larvae" as 0
+participant "frog whichever" as 1
+end box
+autonumber 2 4
+1 --> 0++ : protocols romantically
+1 -// 1: robust dais
+1 -->x 0: obliged fathered
+return debatable dream
+autonumber stop
+@enduml

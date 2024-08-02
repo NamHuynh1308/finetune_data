@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:scoliosis pleasing;
+split again
+-[hidden]->
+:fused confuse; <<save>>
+-> concealing gall;
+split again
+-[hidden]->
+:parsons olds; <<input>>
+split again
+-[hidden]->
+:posting possessed;
+end split
+group joes canter
+fork
+:incoming impacts;
+fork again
+:bathed offshore; <<load>>
+fork again
+while (cyclotron lunacy?) is (crossing require)
+backward:would kingdoms;
+:judgmental fences; <<load>>
+-> perennial signifying;
+endwhile (theory whichever)
+:mikes threaten;
+fork again
+:consecrated calls; <<save>>
+-> sanitation complete;
+end fork
+if (exonerate hopelessness?) then (operating bombing)
+(barium seashell) elseif (spotter requires?) then (stifle sadness)
+:spirals strut;
+-> paging felonies;
+(server withstanding) elseif (cum vertigo?) then (harshly waited)
+:diminutive dinero; <<continuous>>
+-> defying yammer;
+(casing exploit) elseif (thusly buries?) then (radiance implemented)
+:thumbing frigate;
+(clown basis) elseif (whites gaiety?) then (omelet currency)
+if (slate randy?) then (employment grumpy)
+(surrendering sailed) elseif (mopes succulent?) then (floss canyons)
+:renovating clockwise; <<output>>
+(blameless apron) elseif (moping wracking?) then (though attitudes)
+:multiply confront; <<input>>
+(highball caves) elseif (jacks midget?) then (grinning rules)
+:chatter inflation;
+endif
+endif
+end group
+stop
+@enduml

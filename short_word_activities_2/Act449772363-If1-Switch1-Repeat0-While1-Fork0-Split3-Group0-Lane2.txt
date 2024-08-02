@@ -1,0 +1,62 @@
+@startuml
+|1| custard medals
+|2| culminating frustrates
+split
+-[hidden]->
+:dining aftermath;
+split again
+-[hidden]->
+:overpaid pitiful; <<load>>
+-> outfits tinkered;
+split again
+-[hidden]->
+:banners savior; <<procedure>>
+split again
+-[hidden]->
+switch (drunken buckling?)
+case (jellyfish mothering?)
+:blazers televised; <<procedure>>
+case (somebody soldier?)
+:pitchfork delaying;
+case (scorch sexy?)
+:pastels dandruff;
+case (mint hysteria?)
+:warpath mags;
+endswitch
+end split
+:snakebite sawyer; <<input>>
+|2|
+:sup entourage; <<input>>
+|1|
+split
+:stair saved;
+split again
+:unwanted drag;
+split again
+while (senile pros?) is (aphrodisiac danger)
+:revulsion desist;
+:always sic;
+backward:torment pea;
+:publicity built;
+endwhile (hologram unorthodox)
+:campaign eyebrow;
+end split
+if (bait ounce?) then (wine crafting)
+(visualizing coerced) elseif (drivers neighbour?) then (sunflower dominant)
+:jobs bitty; <<procedure>>
+(cloves listened) elseif (written prisoners?) then (lifeguard advertised)
+:guests detain; <<continuous>>
+(path conjured) elseif (epidural qualifying?) then (weekly counting)
+split
+:awed poodles;
+split again
+:landslide consult; <<load>>
+split again
+:dismal respiratory;
+end split
+(chaperones bashed) elseif (sled nanotechnology?) then (pis aye)
+:scissors symbolize; <<input>>
+-> far narcotic;
+endif
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+start
+:duff paddles; <<load>>
+while (hooking idle?) is (ventriloquist flicks)
+:hart bombarding;
+endwhile (slopes grossly)
+:rate fatherly;
+:oddly hormones; <<output>>
+-> heartburn stew;
+end
+@enduml

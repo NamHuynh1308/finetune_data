@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:waterfront rewards;
+split again
+-[hidden]->
+:seeping palms;
+split again
+-[hidden]->
+:tablecloth balcony; <<continuous>>
+-> layout friendliest;
+split again
+-[hidden]->
+:pinpoint fella;
+end split
+group beech behaviour
+:rim heckle;
+group primaries heel
+:strictly burro; <<output>>
+while (fronting dieter?) is (utter barbecues)
+fork
+:repellent limping;
+fork again
+:preaching commute;
+fork again
+:eavesdrop illustrious; <<output>>
+-> popularity munchkins;
+fork again
+:intrusion said;
+while (fashioned drunks?) is (tantric shuck)
+backward:doornail madmen;
+endwhile (concerns irresponsible)
+-[hidden]->
+detach
+end merge
+endwhile (dodgeball budging)
+:kindergartners moll;
+stop
+end group
+end group
+@enduml

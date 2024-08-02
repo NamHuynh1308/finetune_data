@@ -1,0 +1,27 @@
+@startuml
+group themes shoulder
+repeat
+switch (carve recharge?)
+case (stowaway neurologist?)
+:barman ivy;
+case (decapitated chemical?)
+:comforter ardent;
+while (markers trickery?) is (bandages parachute)
+:beta waxing;
+backward:shout knack;
+backward:masterminded agricultural;
+:volatile coworker;
+-> broadcast taunts;
+endwhile (snowmen stowaways)
+-[hidden]->
+detach
+endswitch
+:absurdity chronic; <<input>>
+repeat
+:towers absorption;
+repeat while (toby slang?) is (accusers celebrating)
+repeat while (views smaller?) is (ignite barbers)
+-> gauntlet proclivities;
+stop
+end group
+@enduml

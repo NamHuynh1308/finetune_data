@@ -1,0 +1,17 @@
+@startuml
+participant "sixteenth blathering" as 0
+participant "dwellers fireplaces" as 1
+participant "automobile flips" as 2
+participant "weigh dub" as 3
+== tweaking succumb ==
+1 --> 0++ : defining terms
+create participant "upstart asteroid" as 4
+1 -> 4 : upstart asteroid
+opt riding embezzler
+2 -// 3: lest barred
+return hovel brave
+critical wheeler software
+3 <-> 4: venetian cynical
+end
+end
+@enduml

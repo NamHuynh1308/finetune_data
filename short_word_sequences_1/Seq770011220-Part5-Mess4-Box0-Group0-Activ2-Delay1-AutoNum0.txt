@@ -1,0 +1,14 @@
+@startuml
+participant "sprightly coal" as 0
+participant "pyramids dismount" as 1
+participant "motor fizz" as 2
+participant "fruits sharpshooters" as 3
+create participant "monitoring complexities" as 4
+0 -> 4 : monitoring complexities
+1 -->x 1++ : okra vacant
+3 ->] : pamphlet removal
+...bomber recheck...
+2 -> 4++ : jaunt parton
+return foibles rigs
+return labor retreat
+@enduml

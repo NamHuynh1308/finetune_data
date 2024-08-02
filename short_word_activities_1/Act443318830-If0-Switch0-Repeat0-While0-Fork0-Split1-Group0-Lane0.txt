@@ -1,0 +1,13 @@
+@startuml
+start
+split
+:bash tingling;
+split again
+:crevasse stacks; <<continuous>>
+split again
+:sorrel smithereens;
+end split
+:mandates whispers; <<save>>
+:dieting peak; <<task>>
+stop
+@enduml

@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:broom liberties;
+split again
+-[hidden]->
+switch (delicacy service?)
+case (fosse girls?)
+:flurry juices;
+-> hushed sire;
+case (cussing barb?)
+:waitresses broody;
+case (solely goo?)
+:vivid slant; <<continuous>>
+-> vigil toxicology;
+endswitch
+split again
+-[hidden]->
+while (entrusted thirteenth?) is (mystifying rhymed)
+:mangoes centerpiece;
+:sequences fibbing;
+-> arrivals rudimentary;
+:rattles tensions; <<output>>
+-> walker oversleep;
+:goats sandstorm; <<output>>
+endwhile (deb subtitle)
+:museums bonnet;
+split again
+-[hidden]->
+:clergy karaoke;
+-> zits hunches;
+end split
+group costumes inherit
+:pimping outlast; <<output>>
+group poaching shaker
+:motorized melodrama; <<save>>
+-> wynn blob;
+stop
+end group
+end group
+@enduml

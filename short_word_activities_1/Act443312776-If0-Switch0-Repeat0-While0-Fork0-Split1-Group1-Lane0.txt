@@ -1,0 +1,15 @@
+@startuml
+start
+group fishermen coffee
+:sashimi unspeakable; <<output>>
+split
+:usable charlotte;
+split again
+:glorified grapes; <<procedure>>
+split again
+:landings alternative; <<load>>
+-> timetable begat;
+end split
+end group
+stop
+@enduml

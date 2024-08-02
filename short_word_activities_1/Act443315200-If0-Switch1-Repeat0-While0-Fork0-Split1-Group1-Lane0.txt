@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:ploy pickpocket;
+split again
+-[hidden]->
+:scenic bolt;
+split again
+-[hidden]->
+switch (messenger disappears?)
+case (identical speculations?)
+:reaching symptom; <<task>>
+case (sophomore consented?)
+:sleet boogie; <<procedure>>
+case (jesse peoples?)
+:hairdresser curveball;
+endswitch
+split again
+-[hidden]->
+:abdominal tit;
+end split
+group jig makeover
+:scoff patriotic; <<continuous>>
+-> audiences stew;
+stop
+end group
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "tights piling" as 0
+participant "feeder antihistamines" as 1
+participant "commits clawed" as 2
+1 ->x 0: corps godlike
+...mongoose wingman...
+2 -->x 0: poisons detained
+ [<- 1: creaky evasions
+@enduml

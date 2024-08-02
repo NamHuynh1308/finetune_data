@@ -1,0 +1,12 @@
+@startuml
+participant "enjoyed tiger" as 0
+participant "sleazeball patently" as 1
+autonumber 8 10
+create participant "yell pi" as 2
+1 -> 2 : yell pi
+0 <-> 2: exorcism forged
+...neuroses barbarians...
+2 -> 2: quoting hitchhiker
+0 <-> 1: denominations waterbed
+2 -> 1!! : dignify devouring
+@enduml

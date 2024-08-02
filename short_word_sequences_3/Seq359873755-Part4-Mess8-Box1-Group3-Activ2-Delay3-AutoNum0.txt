@@ -1,0 +1,27 @@
+@startuml
+participant "blockbusters monastery" as 0
+box "roasting lorry"
+participant "givers liberty" as 1
+participant "laurel bobby" as 2
+end box
+participant "fairest requested" as 3
+critical introduce between
+0 -> 1: invaded chandler
+...frankly degrees...
+ [<- 1: sevens gulch
+1 -->x 2++ : carmen snub
+1 ->x 3: warehouses rested
+...moans defeats...
+3 --//o 3: illegally laughter
+return photogenic fifths
+alt music lex
+...codicil superman...
+2 ->x 0++ : shreds particularly
+critical lackluster discontinue
+0 -> 0: galvanized remodeled
+return purer attribute
+ [-> 2: sum federal
+end
+end
+end
+@enduml

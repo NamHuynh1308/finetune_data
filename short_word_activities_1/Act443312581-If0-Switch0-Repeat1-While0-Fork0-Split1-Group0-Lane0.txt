@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:fussing weed;
+split again
+-[hidden]->
+:salvaging anecdote; <<output>>
+split again
+-[hidden]->
+repeat
+:lite celibacy; <<save>>
+-> evens scrub;
+:testosterone flowering; <<task>>
+-> devise opposed;
+repeat while (poser runners?) is (mediocre creation)
+-> expert chimera;
+end split
+:insurrection faculties;
+-> messy slush;
+end
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+start
+group station bordello
+split
+:extraction toxoplasmosis;
+split again
+if (disown preliminary?) then (gasping psst)
+:longer mortality;
+:jungles beak; <<save>>
+-> bachelor tired;
+:objections amply;
+else (biscuit runaround)
+:darkness flicked; <<continuous>>
+:caste gibson;
+endif
+split again
+:concurrently cooperating;
+end split
+stop
+end group
+@enduml

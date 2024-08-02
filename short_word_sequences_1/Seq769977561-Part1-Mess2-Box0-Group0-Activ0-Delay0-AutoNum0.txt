@@ -1,0 +1,6 @@
+@startuml
+participant "bobbin logger" as 0
+== dago cassettes ==
+0 -> 0: shiny mathematician
+0 --> 0: helper derrick
+@enduml

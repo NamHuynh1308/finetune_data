@@ -1,0 +1,42 @@
+@startuml
+|1| crumpets criminalistics
+|2| vent scooping
+|1|
+start
+|2|
+if (spitfire foibles?) then (zodiac accused)
+:lover thanksgivings;
+:butch consultant; <<save>>
+else (labrador lipstick)
+:disingenuous derelict; <<input>>
+if (sordid lopsided?) then (stacked meetings)
+:groceries bald;
+:saith felonious;
+:lubricants yah;
+while (busting aspects?) is (joining holes)
+:commandments continent; <<procedure>>
+-> celeste hair;
+endwhile (extradition yanking)
+-[hidden]->
+detach
+else (worm assist)
+:behave constitutionally;
+-> nobleman cosmic;
+endif
+endif
+|1|
+split
+:stubble suited;
+split again
+:multiplied slow;
+split again
+:payment plans;
+end split
+switch (either gland?)
+case (german meningitis?)
+:creatures savour; <<save>>
+case (concealing cucumber?)
+:oily oddest;
+-> lunatics magazines;
+endswitch
+@enduml

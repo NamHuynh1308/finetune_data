@@ -1,0 +1,35 @@
+@startuml
+start
+group pence now
+:corks balmoral; <<procedure>>
+fork
+:cleaner clemency;
+fork again
+:claims landscape;
+fork again
+if (grazed compressor?) then (wormed buns)
+:mould insinuating;
+:tradeoff gypped;
+-> magnetic lessen;
+:statistic airing;
+else (lashed caretaker)
+:reviewing serenade; <<task>>
+:edits poppy;
+:dodgers fools;
+while (scriptures goddesses?) is (posterior fife)
+:weevil macadamia;
+:translate copying;
+:paddles talked;
+endwhile (humidity growers)
+-[hidden]->
+detach
+endif
+fork again
+:linebacker lubrication; <<continuous>>
+end merge
+end group
+group peeking millionaires
+:whenever shoelaces;
+stop
+end group
+@enduml

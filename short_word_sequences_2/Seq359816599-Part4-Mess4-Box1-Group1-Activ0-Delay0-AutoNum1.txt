@@ -1,0 +1,18 @@
+@startuml
+box "extracts selling"
+participant "whispered slumped" as 0
+participant "peon shirtless" as 1
+participant "naked rex" as 2
+participant "dial skipper" as 3
+end box
+== inspirational cutters ==
+autonumber 5 8
+0 ->] : firefight hose
+alt passages muck
+2 -// 0: buddies coerce
+autonumber stop
+ [-> 0: cleansed roughing
+autonumber resume
+1 <-> 1: whereof ants
+end
+@enduml

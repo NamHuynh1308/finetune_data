@@ -1,0 +1,6 @@
+@startuml
+start
+:commando lien; <<save>>
+-> participation plutonium;
+end
+@enduml

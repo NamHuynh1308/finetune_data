@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:gratuitous saturation;
+split again
+-[hidden]->
+:purer sprint;
+-> utilities catheter;
+split again
+-[hidden]->
+:brutally sleepers; <<input>>
+end split
+:riverbank laws; <<procedure>>
+-> reinstating upfront;
+end
+@enduml

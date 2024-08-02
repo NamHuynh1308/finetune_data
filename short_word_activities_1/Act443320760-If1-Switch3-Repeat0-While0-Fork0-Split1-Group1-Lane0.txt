@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:locale mat;
+split again
+-[hidden]->
+switch (homely cancers?)
+case (melancholy premarital?)
+:visuals verbatim;
+-> outlined barking;
+case (unanswered prosciutto?)
+:interstellar scapegoat; <<procedure>>
+-> campos dalton;
+case (genie pounds?)
+:panicked senorita; <<load>>
+-> souvenirs alarmist;
+case (shroud mote?)
+:ugliest chancellor;
+endswitch
+split again
+-[hidden]->
+:confidentially arrogant; <<continuous>>
+split again
+-[hidden]->
+:er dimensional; <<task>>
+end split
+switch (calamitous wrecker?)
+case (activators breathe?)
+if (inadequate kickboxing?) then (beaver renegotiate)
+:deadbeats solitary;
+:prosecutorial wigged; <<task>>
+-> hostage gangrene;
+else (tippers hospital)
+:investigator joint; <<continuous>>
+:discharge phone; <<load>>
+endif
+case (showing sounds?)
+switch (rigging indifference?)
+case (anesthesiologist represent?)
+:vanquished soundstage; <<continuous>>
+case (objects helpers?)
+:blind tapes; <<procedure>>
+endswitch
+endswitch
+group resist chameleon
+:collided scruples; <<load>>
+stop
+end group
+@enduml

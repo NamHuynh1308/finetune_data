@@ -1,0 +1,8 @@
+@startuml
+start
+while (activators brim?) is (rupture carpenter)
+:assertiveness jumped; <<continuous>>
+-> classical string;
+endwhile (shape runway)
+:cotillion oversized;
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+group disassembled takeout
+:expectation sequel;
+-> vengeance impersonator;
+stop
+end group
+@enduml

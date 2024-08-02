@@ -1,0 +1,29 @@
+@startuml
+start
+:defending waitresses; <<task>>
+:daughters maul; <<continuous>>
+fork
+:electrician clips;
+fork again
+repeat
+:chalet suffered; <<task>>
+-> calming kelp;
+:hyenas slow; <<input>>
+repeat while (framed flayed?) is (caliber leaf)
+-> profession matrix;
+fork again
+:blowjob groggy; <<task>>
+fork again
+switch (dignitaries rollers?)
+case (oblivion dictators?)
+:harm regained;
+case (stunts endings?)
+:offers bump;
+case (walk tuning?)
+:hoaxes disclosed;
+case (uncaring openly?)
+:fibre typo; <<task>>
+-> later appointed;
+endswitch
+end merge
+@enduml

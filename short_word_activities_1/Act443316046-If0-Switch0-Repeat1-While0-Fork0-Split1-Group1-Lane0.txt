@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:runaway expedite;
+split again
+-[hidden]->
+:venture strait; <<task>>
+split again
+-[hidden]->
+:privileges fig; <<input>>
+split again
+-[hidden]->
+:speedo teeth; <<load>>
+end split
+:weds bigfoot;
+-> electrical pounding;
+group headline mythic
+repeat
+:gibberish gravy; <<save>>
+-> brewery revenue;
+backward:breakwater adolescence;
+repeat while (fireballs cured?) is (motif doubles)
+:triple assembled;
+end group
+stop
+@enduml

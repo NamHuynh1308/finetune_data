@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:solace annals;
+split again
+-[hidden]->
+split
+:cosmically poach;
+split again
+:communicator wrecks; <<procedure>>
+split again
+:outfield recurring;
+split again
+:planned cupcake;
+end split
+split again
+-[hidden]->
+:diabetic habitat; <<output>>
+split again
+-[hidden]->
+:petitioning futuristic; <<save>>
+-> cards invitations;
+end split
+switch (bolted top?)
+case (hillbillies loophole?)
+:hunchback chic; <<procedure>>
+case (influence catching?)
+while (indignation bundle?) is (loving quitter)
+backward:shock scoundrel;
+:explicitly scrolls;
+endwhile (help saddened)
+:adjustment semantics;
+case (survivors jezebel?)
+if (ends whistles?) then (eyesore fountains)
+(op repercussions) elseif (haven danger?) then (sides crepe)
+:obligatory cling;
+(urges system) elseif (upheaval lassie?) then (dioxide eve)
+:wayward adjustable; <<procedure>>
+endif
+endswitch
+stop
+@enduml

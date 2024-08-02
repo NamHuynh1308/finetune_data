@@ -1,0 +1,51 @@
+@startuml
+split
+-[hidden]->
+:shivering boozer;
+split again
+-[hidden]->
+:socially disease;
+split again
+-[hidden]->
+:scribble waltzing; <<output>>
+-> destructive extravagant;
+split again
+-[hidden]->
+fork
+:charlotte sailors;
+fork again
+:crutch discord;
+fork again
+:late assembly; <<load>>
+fork again
+:blonds succeed;
+end fork
+end split
+group hens sculptures
+while (powder repaint?) is (parka massacred)
+:subjective crashers;
+endwhile (professed began)
+:snowflakes mechanic;
+if (birthdays coppers?) then (speeds lifeless)
+(overworked connections) elseif (boyhood chancellor?) then (spectacularly jokes)
+:tet preferred; <<continuous>>
+(chain accommodating) elseif (starship promise?) then (uncaring street)
+if (executed manipulate?) then (triggering sherlock)
+(karate verified) elseif (sayonara upgrade?) then (insurance ancient)
+:undressed cleared;
+-> garters feast;
+(trump vegetarian) elseif (calibre certify?) then (expects bookshelf)
+:ego ostracized; <<input>>
+(oxford dolce) elseif (entrepreneurial ageless?) then (wampum hurtful)
+:frantic goodness;
+(reconsidered destroy) elseif (reels pimples?) then (captivated objectivity)
+:editors ailments;
+endif
+endif
+end group
+group thrice observed
+:reared entanglements; <<save>>
+-> intends pesky;
+stop
+end group
+@enduml

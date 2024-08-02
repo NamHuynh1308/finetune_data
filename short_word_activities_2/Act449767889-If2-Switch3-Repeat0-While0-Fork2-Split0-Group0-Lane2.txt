@@ -1,0 +1,68 @@
+@startuml
+|1| dyed handbag
+|2| loafers imam
+|1|
+start
+switch (gangland culottes?)
+case (designer pulses?)
+switch (rains chores?)
+case (orchestrating evaluate?)
+:decency sideways;
+case (hopes brutality?)
+:ribbed fishnet;
+case (fillings vanish?)
+:belts louie;
+-> pretrial ink;
+case (clippers capping?)
+:quest steerage;
+endswitch
+case (spores reassignment?)
+:slammed workshop;
+-> potions garage;
+case (whipped malice?)
+:doubt diary;
+case (officer debutantes?)
+fork
+:kane pickpocket;
+fork again
+:skag shackle; <<procedure>>
+fork again
+:umbilical clement; <<input>>
+end fork
+endswitch
+fork
+:compass spree;
+fork again
+:wherefore blinked;
+-> ingrates hosting;
+fork again
+if (mooch stem?) then (insinuations letterhead)
+(wigged suburbs) elseif (credenza formerly?) then (lascivious spew)
+:answering brings; <<output>>
+(coaxing redeeming) elseif (ageless distance?) then (stigmata idling)
+:waging forehead; <<input>>
+(bagel flecks) elseif (intelligently inkling?) then (fruitcake beckons)
+:coolant unpleasantness;
+(tuxedo aide) elseif (boozing solitude?) then (wee absconded)
+:mercer voiced;
+endif
+end merge
+|2|
+if (downside electro?) then (solitaire item)
+:digs hotdog; <<load>>
+switch (lopsided kiddie?)
+case (aerosol cultural?)
+:actor buddy;
+case (footsteps gull?)
+:club limitless;
+case (wrench momento?)
+:headlining mess;
+-> genie pecks;
+endswitch
+else (prolong programs)
+:dined recriminations; <<task>>
+endif
+:solenoid consul; <<output>>
+-> reaching torching;
+end
+@enduml

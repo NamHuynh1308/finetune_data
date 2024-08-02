@@ -1,0 +1,9 @@
+@startuml
+start
+:shale explore; <<task>>
+-> destruct obi;
+group stork melodrama
+:aberration volunteers; <<output>>
+stop
+end group
+@enduml

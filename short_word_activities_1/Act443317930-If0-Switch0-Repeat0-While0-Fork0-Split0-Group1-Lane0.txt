@@ -1,0 +1,7 @@
+@startuml
+start
+group cris keyhole
+:favored recreation; <<procedure>>
+stop
+end group
+@enduml

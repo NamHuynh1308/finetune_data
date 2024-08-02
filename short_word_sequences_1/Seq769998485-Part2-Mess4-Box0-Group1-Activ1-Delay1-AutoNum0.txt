@@ -1,0 +1,12 @@
+@startuml
+participant "menu numbers" as 0
+0 -->x 0: coldest braces
+critical traveller integration
+0 -> 0++ : backstabbing enabled
+create participant "pirate endorsement" as 1
+0 -> 1 : pirate endorsement
+...lore hers...
+0 -> 0: oars clammed
+end
+return superiors god
+@enduml

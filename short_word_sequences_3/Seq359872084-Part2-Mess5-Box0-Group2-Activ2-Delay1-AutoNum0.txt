@@ -1,0 +1,17 @@
+@startuml
+participant "exports grouchy" as 0
+participant "expenditure forgeries" as 1
+opt harpy occur
+1 ->o 0++ : snagged grossly
+1 -> 1: rents chapped
+0 ->o 0: empty performs
+else haps graffiti
+alt caffeine slaying
+...flatterer common...
+ [<- 0: eloquently boosters
+1 --//o 1++ : saddened mingle
+end
+end
+return irritated troops
+return orgasm voices
+@enduml

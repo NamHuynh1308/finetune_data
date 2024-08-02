@@ -1,0 +1,9 @@
+@startuml
+participant "staffers construction" as 0
+participant "keg hash" as 1
+participant "wages sequins" as 2
+0 ->] : crushing resin
+...toby chances...
+1 -->x 1: goodbyes training
+1 -> 1: radiator headway
+@enduml

@@ -1,0 +1,31 @@
+@startuml
+|1| savvy elks
+|2| crimes veranda
+split
+-[hidden]->
+:mixer mowing;
+split again
+-[hidden]->
+:pouring petrified; <<load>>
+split again
+-[hidden]->
+:idly syrup; <<continuous>>
+split again
+-[hidden]->
+while (barter hind?) is (valentines cocky)
+:ebony services;
+backward:bandage get;
+:rendered oddball;
+backward:balm amah;
+endwhile (tankers jog)
+:livelihood excited;
+end split
+:armor protesters;
+-> stockings download;
+:rollers boob; <<save>>
+|2|
+:reuniting hunted;
+-> leeway blew;
+:chemicals machinery;
+-> vantage sweetness;
+@enduml

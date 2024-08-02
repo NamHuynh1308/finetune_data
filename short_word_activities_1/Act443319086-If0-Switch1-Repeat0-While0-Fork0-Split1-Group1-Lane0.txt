@@ -1,0 +1,26 @@
+@startuml
+:polish voluntary; <<continuous>>
+-> curious splinters;
+:uncle control; <<continuous>>
+-> prelim pilot;
+group insecurities sorted
+split
+:husbands playroom;
+split again
+:overpriced routine;
+split again
+:thereafter fighter; <<task>>
+split again
+switch (twerp subtlety?)
+case (lodged barb?)
+:seducing vials; <<task>>
+case (tabloid calamitous?)
+:assembling fundraiser;
+-> lessee favorably;
+case (jurisdiction transitional?)
+:sugarcoat staked;
+endswitch
+end split
+stop
+end group
+@enduml

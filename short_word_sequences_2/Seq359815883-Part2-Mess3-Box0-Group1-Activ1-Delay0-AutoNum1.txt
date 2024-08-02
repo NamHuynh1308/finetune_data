@@ -1,0 +1,13 @@
+@startuml
+participant "mornings carriers" as 0
+participant "constitute ballast" as 1
+autonumber 5 6
+0 --//o 0: frequent proxy
+loop range dimes
+1 ->x 1++ : rover madman
+autonumber stop
+0 -->x 1: senator youngest
+return moola coil
+else preview pressured
+end
+@enduml

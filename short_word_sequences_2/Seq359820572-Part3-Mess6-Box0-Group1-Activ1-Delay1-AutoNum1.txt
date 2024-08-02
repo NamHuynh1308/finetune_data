@@ -1,0 +1,19 @@
+@startuml
+participant "lite underwear" as 0
+participant "scheduling soundstage" as 1
+== assets precise ==
+autonumber 9 6
+0 ->x 1: it lighter
+alt radiology impolite
+...patience associates...
+1 --> 0++ : classier touche
+1 ->] : flashes chartreuse
+return fathers lighter
+1 ->] : rears wining
+create participant "serve grades" as 2
+1 -> 2 : serve grades
+ [<- 1: discussed reshoots
+autonumber stop
+else herself prospects
+end
+@enduml

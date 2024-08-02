@@ -1,0 +1,10 @@
+@startuml
+participant "innocents ships" as 0
+box "officials shipped"
+participant "fishy tends" as 1
+end box
+1 -> 1!! : laughs confronts
+...evidence snivelling...
+0 ->x 0++ : moving bonus
+return arsenic swizzle
+@enduml

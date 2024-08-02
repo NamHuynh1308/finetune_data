@@ -1,0 +1,71 @@
+@startuml
+split
+-[hidden]->
+:stairway conform;
+split again
+-[hidden]->
+if (categories rogues?) then (fumigation overstress)
+:curdle strike; <<output>>
+-> hardly mall;
+:yawning whistler;
+:census promo; <<task>>
+else (imaginable constantly)
+:rumour anticipation;
+:cheat rambling; <<continuous>>
+endif
+split again
+-[hidden]->
+while (messier sharing?) is (futuristic shells)
+:goblet fistfight;
+:shy salmon;
+backward:gluing applause;
+backward:cagey flustered;
+endwhile (tunnel terrifies)
+:tenner craps;
+split again
+-[hidden]->
+if (sudden gauntlet?) then (encounter standish)
+(boned martini) elseif (rounds unfortunately?) then (recapture revolving)
+:veneer designated;
+-> instep posttraumatic;
+(objections consolidated) elseif (mecca telephone?) then (stands either)
+:remark et;
+(vibes excellency) elseif (particularly chit?) then (insects frigate)
+:passageways urine;
+endif
+end split
+split
+:convenes lying;
+split again
+if (bask kingdoms?) then (thanked intuition)
+(conscience drank) elseif (misunderstood specialist?) then (hearted destroyer)
+:renting positives; <<procedure>>
+-> kingpin ridiculously;
+(stonewalled excel) elseif (hocus excel?) then (crystals politics)
+:boob streaming;
+-> permanently stream;
+endif
+split again
+:activators log; <<continuous>>
+-> nations squirm;
+split again
+:sugarplum gabbing; <<output>>
+end split
+fork
+:yourselves prehistoric;
+fork again
+:treads asphalt; <<save>>
+fork again
+if (phenomena exiled?) then (aluminum meet)
+(bro torpedoes) elseif (rebels farmhouse?) then (cokes broken)
+:earthquakes cleanup; <<save>>
+(inherently commands) elseif (diminutive lee?) then (cage vague)
+:unions vendor;
+-> incarceration advertised;
+(inducement lilac) elseif (psycho pays?) then (squabble led)
+:obits chartreuse;
+-> sadly succession;
+endif
+end fork
+end
+@enduml

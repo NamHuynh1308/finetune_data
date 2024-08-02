@@ -1,0 +1,25 @@
+@startuml
+participant "care polls" as 0
+participant "finalist conscience" as 1
+participant "quota coveting" as 2
+box "smothering chug"
+participant "bren incomplete" as 3
+participant "pant warn" as 4
+end box
+autonumber 6 8
+2 -> 3: large swoop
+3 -> 2: cuisine chess
+0 ->x 3++ : peddle diminished
+1 -->x 4: conducting memorable
+...focussing ancients...
+3 ->o 0: feller indigo
+3 <-> 1: jake premiums
+break forgets scratch
+0 -> 1!! : primates attacks
+autonumber stop
+...kaiser scallop...
+ [-> 1: hummed sporty
+else clerk carnivore
+end
+return needed re
+@enduml

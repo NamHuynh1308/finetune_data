@@ -1,0 +1,11 @@
+@startuml
+:infants licenses;
+fork
+:attempt kern;
+fork again
+:quotation breathing; <<procedure>>
+fork again
+:leaves madly;
+end merge
+end
+@enduml

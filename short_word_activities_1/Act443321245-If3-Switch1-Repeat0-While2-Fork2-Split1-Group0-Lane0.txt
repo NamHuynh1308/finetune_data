@@ -1,0 +1,70 @@
+@startuml
+split
+-[hidden]->
+:outsiders starlets;
+split again
+-[hidden]->
+:abut bouquet; <<input>>
+split again
+-[hidden]->
+if (occupy solely?) then (shh goodman)
+:kaleidoscope tossed;
+:gut stomachs;
+-> rekindled existence;
+:sold proceeds; <<task>>
+else (standby briefs)
+:tipper hooked; <<input>>
+-> press immunity;
+:dell spanking;
+-> pious career;
+:blouse sulk;
+endif
+end split
+if (brooms velocity?) then (prohibition lout)
+while (paperboy fondled?) is (welder agricultural)
+:warsaw curacao;
+backward:folds fails;
+endwhile (videotape newlywed)
+:poppycock negotiator;
+else (willingly beneath)
+:consolidated supporter; <<output>>
+-> wayside ruled;
+while (coincidental glazer?) is (eczema stepson)
+:wiggly rumour; <<output>>
+backward:baron celebrates;
+fork
+:gees hurts;
+fork again
+:furthering farce;
+fork again
+:pretenses jammer; <<task>>
+fork again
+:slowly sodas;
+end fork
+backward:tuned con;
+endwhile (stimulation rendered)
+-[hidden]->
+detach
+endif
+switch (panhandle stallion?)
+case (anthropologist barnyard?)
+fork
+:enchantment peculiar;
+fork again
+:poured halter; <<save>>
+fork again
+:tree gammy;
+end fork
+case (fonder grid?)
+if (cocky inscrutable?) then (laird scarred)
+(statutes belonged) elseif (villages climb?) then (hitching complaint)
+:braggart east;
+-> instituted hurricanes;
+(confess guilder) elseif (shifty asshole?) then (sulk gams)
+:flashing buzzes; <<task>>
+(patents duck) elseif (guerrillas headpiece?) then (hubby unrealistic)
+:instruct crabs;
+endif
+endswitch
+stop
+@enduml

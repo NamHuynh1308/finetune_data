@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:clipper dweller;
+split again
+-[hidden]->
+:understatement footnotes; <<task>>
+split again
+-[hidden]->
+:flames turner;
+split again
+-[hidden]->
+:infarction enrollment;
+-> charger robber;
+end split
+group mimicking woof
+:hubbub pussies;
+-> statistically hopper;
+stop
+end group
+@enduml

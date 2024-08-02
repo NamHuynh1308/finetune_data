@@ -1,0 +1,8 @@
+@startuml
+participant "apologise tyrant" as 0
+participant "countrymen twerp" as 1
+1 ->o 0: inactive risen
+1 -> 1: hazy change
+create participant "simulated defending" as 2
+1 -> 2 : simulated defending
+@enduml

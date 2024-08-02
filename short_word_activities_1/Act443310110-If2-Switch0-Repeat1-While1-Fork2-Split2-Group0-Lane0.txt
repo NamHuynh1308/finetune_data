@@ -1,0 +1,61 @@
+@startuml
+split
+-[hidden]->
+:haystack report;
+split again
+-[hidden]->
+repeat
+backward:aisles organizations;
+repeat while (resentments submarine?) is (flopping alarmist)
+-> shingle casually;
+split again
+-[hidden]->
+if (pebble irregularities?) then (pickle deposited)
+(circumference dimes) elseif (pressing crescent?) then (julep blurting)
+:recurring extremism;
+(jurisdiction haughty) elseif (alcohol rods?) then (pies deceived)
+:invite hub; <<procedure>>
+(identifies withdrawal) elseif (stamina smug?) then (touching slider)
+:wildfire cheeseburger;
+endif
+split again
+-[hidden]->
+while (starving federal?) is (memory commentaries)
+backward:shards angles;
+:lifelike overestimated;
+endwhile (exasperating sharpest)
+:suntan bitter;
+end split
+split
+:subsidiary billionaire;
+split again
+if (offerings garments?) then (sliced engineers)
+:jellyfish gimme;
+else (taunting heighten)
+:moisture predecessors;
+endif
+split again
+fork
+:hairbrush cholesterol;
+fork again
+:celibate fenders; <<procedure>>
+-> hypocrite hypothetical;
+fork again
+:shiny vowed;
+fork again
+:flattered trusted; <<procedure>>
+-> surprised hounding;
+end merge
+split again
+fork
+:parka primer;
+fork again
+:marathon swanky;
+fork again
+:repeated pygmies;
+fork again
+:honky garage;
+end fork
+end split
+end
+@enduml

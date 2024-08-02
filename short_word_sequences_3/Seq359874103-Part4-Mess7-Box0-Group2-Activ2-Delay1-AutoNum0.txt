@@ -1,0 +1,21 @@
+@startuml
+participant "permitted surgical" as 0
+participant "muskrat instructed" as 1
+participant "marcel kappa" as 2
+critical britt yesterdays
+create participant "stunted timid" as 3
+1 -> 3 : stunted timid
+opt outrun mustard
+ [<- 1: pram askew
+1 --//o 0: testicles pickings
+end
+1 --//o 3++ : genie med
+...piddles quitting...
+0 ->] : blunt frame
+return contradiction finch
+else stranded perturbed
+2 --> 3++ : phases cleaned
+end
+3 --> 3: strategies patter
+return glassware peas
+@enduml

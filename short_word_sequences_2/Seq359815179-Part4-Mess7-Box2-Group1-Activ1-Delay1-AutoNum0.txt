@@ -1,0 +1,22 @@
+@startuml
+box "ducks cruised"
+participant "flatulence magnum" as 0
+box "tube mutiny"
+participant "start holds" as 1
+participant "arises strobe" as 2
+participant "baldness repression" as 3
+end box
+end box
+opt symbols ignores
+2 -> 2!! : enthused epiphany
+...distracted refinery...
+3 <-] : engraved punctured
+3 -> 0++ : jimmies burbs
+else speculation easily
+3 <-> 3: muscles dignify
+return nachos lose
+1 -> 1: problems swastika
+3 <-] : pans ghettos
+end
+ [-> 3: compared egghead
+@enduml

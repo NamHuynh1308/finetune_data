@@ -1,0 +1,61 @@
+@startuml
+|1| confidences fabricate
+|2| glances uncles
+split
+-[hidden]->
+:containment pleased;
+split again
+-[hidden]->
+:product busting; <<continuous>>
+split again
+-[hidden]->
+fork
+:bongo matzah;
+fork again
+:reshoots concerts;
+fork again
+:cocktails fodder; <<continuous>>
+end fork
+split again
+-[hidden]->
+repeat
+:services wealthy; <<continuous>>
+:alfalfa confiscating;
+:neutered murky;
+repeat while (outgrow hisses?) is (committee wildly)
+end split
+repeat
+backward:conveyor exterminating;
+repeat while (homophobia priced?) is (overdosed jukebox)
+-> proxy creature;
+while (dispensation understandably?) is (of cranium)
+fork
+:trapeze intimacy;
+fork again
+:detecting ancient; <<save>>
+-> mask according;
+fork again
+:kelly comic;
+fork again
+:plagued stallion; <<output>>
+end fork
+:clambake blindfolded;
+-> absence philharmonic;
+backward:drama convened;
+fork
+:detective parody;
+fork again
+:airways forceps; <<procedure>>
+fork again
+:teapot groupies; <<output>>
+-> scarcely carving;
+fork again
+:actions lead;
+-> meticulously tilted;
+end merge
+endwhile (smoking picnics)
+:aspirin wiped;
+|2|
+:revoked bannister; <<output>>
+end
+@enduml

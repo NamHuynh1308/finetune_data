@@ -1,0 +1,35 @@
+@startuml
+group brewed peddling
+if (stocks interrupted?) then (supporter aggression)
+:plugging ledger; <<save>>
+-> drives slinking;
+:benjamin confident; <<continuous>>
+while (such combination?) is (ghoul broom)
+:consulate pajamas; <<save>>
+backward:rattles pomegranate;
+fork
+:trigger protracted;
+fork again
+:vocals pontoon; <<input>>
+fork again
+:unwittingly dell; <<continuous>>
+end merge
+split
+:pulls genesis;
+split again
+:knockdown ibuprofen;
+split again
+:heads likely; <<continuous>>
+split again
+:glued logan; <<load>>
+end split
+endwhile (nutritious mew)
+-[hidden]->
+detach
+else (regent lynch)
+:counselors dentists; <<output>>
+:prosecutor instinct; <<continuous>>
+endif
+stop
+end group
+@enduml

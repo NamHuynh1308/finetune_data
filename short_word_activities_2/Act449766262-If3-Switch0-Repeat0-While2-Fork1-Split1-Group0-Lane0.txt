@@ -1,0 +1,61 @@
+@startuml
+split
+-[hidden]->
+:symbolic genome;
+split again
+-[hidden]->
+if (dull starring?) then (wedgies obsess)
+(strung boo) elseif (varicose nitroglycerin?) then (ravage procrastinating)
+:plush trademark; <<procedure>>
+(praised dinged) elseif (urging nub?) then (stumbling hotels)
+:piazza bios;
+(basket rude) elseif (pilots kashmir?) then (sounded detours)
+:lnqyzv;
+while (conceited toons?) is (ceiling them)
+:unattended specialize; <<task>>
+:lifts circumstantial; <<task>>
+-> dysentery cruelty;
+backward:submitted modus;
+:awhile automatic;
+-> modelling sibling;
+endwhile (obeyed hitting)
+-[hidden]->
+detach
+(crutch hap) elseif (steered townhouse?) then (courtrooms futon)
+:star disown;
+endif
+split again
+-[hidden]->
+:congressional zap;
+-> scarves flipped;
+split again
+-[hidden]->
+if (persist murphy?) then (regulated damp)
+:brewery particle;
+while (overwhelmed purity?) is (unscheduled lettuce)
+:posing inability;
+backward:landscapes abetted;
+endwhile (barnacle underdeveloped)
+-[hidden]->
+detach
+else (coddling feathers)
+:redeeming crawl;
+:scrambler fumbling; <<output>>
+-> squeezing musicians;
+endif
+end split
+fork
+:interview aging;
+fork again
+:bitch entwined; <<task>>
+fork again
+if (wager flour?) then (flashy shrug)
+:fatality terminated; <<continuous>>
+else (brace tightly)
+:allergy hubcaps; <<load>>
+-> affiliates offence;
+kill
+endif
+end merge
+stop
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "fusion commentary" as 0
+participant "contrary banners" as 1
+== accepted contesting ==
+create participant "yokels spry" as 2
+1 -> 2 : yokels spry
+...outrage forward...
+2 ->> 0: brains remarry
+0 -> 1: semblance noisy
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "taut ferment" as 0
+== terminology backgammon ==
+autonumber 3 8
+0 <-] : overseeing shaggy
+autonumber stop
+0 ->x 0: underdeveloped wraps
+autonumber resume
+0 --> 0: surfaces atropine
+@enduml

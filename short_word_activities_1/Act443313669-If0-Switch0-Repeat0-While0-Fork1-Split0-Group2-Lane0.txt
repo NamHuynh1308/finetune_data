@@ -1,0 +1,21 @@
+@startuml
+start
+fork
+:ladies sync;
+fork again
+:chomp apologetic; <<load>>
+-> plop numbered;
+fork again
+:dinnertime overrule; <<save>>
+fork again
+:darndest garner;
+-> streetlights counter;
+end merge
+group jabber flapped
+:malice deep; <<procedure>>
+group outlined responding
+:challenging crude; <<procedure>>
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:dragoons bookshelf;
+split again
+-[hidden]->
+:betrayed led;
+split again
+-[hidden]->
+:motorized opener; <<output>>
+split again
+-[hidden]->
+:wiser ferret; <<load>>
+-> pin helluva;
+end split
+if (visa withheld?) then (comprehend midway)
+(possession prolonged) elseif (actions chemo?) then (daunting southbound)
+:silences checkmate;
+-> reclining orgasm;
+(flashy uniforms) elseif (lanes grounds?) then (developing jitters)
+:clods salesman;
+-> facials goodly;
+(laughing esteemed) elseif (swine debriefing?) then (mentions unhooked)
+if (objectivity skirts?) then (angels oily)
+:relative sides;
+-> cyclotron associating;
+:automobiles airway;
+-> christy layman;
+:centerfold citation; <<output>>
+else (sickly engaged)
+:frosting centerfold; <<save>>
+endif
+endif
+group sleek tardiness
+:straddling emperor; <<continuous>>
+-> twins temptress;
+stop
+end group
+@enduml

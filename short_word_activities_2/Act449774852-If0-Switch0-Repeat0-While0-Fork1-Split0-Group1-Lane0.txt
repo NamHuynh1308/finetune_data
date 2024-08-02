@@ -1,0 +1,16 @@
+@startuml
+start
+group recklessly explanatory
+fork
+:tightness defuse;
+fork again
+:annoy stud; <<task>>
+-> defence washout;
+fork again
+:railroad cannibal;
+fork again
+:alternator steamer; <<input>>
+end fork
+stop
+end group
+@enduml

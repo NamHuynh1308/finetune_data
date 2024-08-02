@@ -1,0 +1,6 @@
+@startuml
+start
+:conformity robot;
+-> cleavage westbound;
+end
+@enduml

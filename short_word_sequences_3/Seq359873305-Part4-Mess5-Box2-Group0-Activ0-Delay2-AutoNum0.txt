@@ -1,0 +1,17 @@
+@startuml
+participant "vests curves" as 0
+box "cinematic turncoat"
+participant "colony hydrogen" as 1
+box "anchors severe"
+participant "kindness scripted" as 2
+participant "twists adjective" as 3
+end box
+end box
+1 ->] : prestigious cranky
+ [<- 0: wallowing whey
+...fleabag terminology...
+0 -> 0: terrify publisher
+ [-> 2: conniption pampered
+...readily united...
+2 -> 2: shoveling candidates
+@enduml

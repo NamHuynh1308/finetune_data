@@ -1,0 +1,11 @@
+@startuml
+participant "multiplied snowmobile" as 0
+box "flapping hopefully"
+participant "citizens oyster" as 1
+end box
+ [-> 0: smoke woodpecker
+alt vibrant pits
+...etiquette battery...
+0 -// 1: goulash gremlin
+end
+@enduml

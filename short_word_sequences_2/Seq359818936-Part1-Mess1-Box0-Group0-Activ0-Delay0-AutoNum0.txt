@@ -1,0 +1,5 @@
+@startuml
+participant "handy borders" as 0
+== reverend public ==
+0 --//o 0: flashlight mad
+@enduml

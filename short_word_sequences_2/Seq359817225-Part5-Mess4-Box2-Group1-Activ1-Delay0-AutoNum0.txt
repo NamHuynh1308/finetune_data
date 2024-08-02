@@ -1,0 +1,20 @@
+@startuml
+participant "contestant revenue" as 0
+box "ballots calmed"
+participant "typewriter handsomely" as 1
+box "machinery preventive"
+participant "pleading overcompensating" as 2
+participant "deflower stationary" as 3
+end box
+end box
+== existing sticks ==
+critical label abandon
+0 -> 1: subsided deterioration
+3 --> 1++ : investigative cord
+else triplets special
+create participant "gothic hardworking" as 4
+0 -> 4 : gothic hardworking
+2 ->x 0: optometrist vendors
+return stuffs minnow
+end
+@enduml

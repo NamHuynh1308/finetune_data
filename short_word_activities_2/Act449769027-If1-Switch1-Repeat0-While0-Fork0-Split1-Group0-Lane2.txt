@@ -1,0 +1,33 @@
+@startuml
+|1| pivotal conception
+|2| fieldstone pointer
+|1|
+start
+|2|
+split
+:welch ham;
+split again
+:scales paw; <<output>>
+-> footwear clots;
+split again
+if (cricket debacle?) then (pandering counselors)
+(blacking moderation) elseif (hows younger?) then (glitch porch)
+:paternal vig;
+(gunman ensconced) elseif (laryngitis apparatus?) then (whichever proposing)
+:scorched ogling;
+endif
+end split
+switch (registration wars?)
+case (sleepwalking ragtime?)
+:confiscating escapes;
+case (demonstrators shroud?)
+:calmer firecracker; <<output>>
+endswitch
+|1|
+:deserts crisp;
+-> indulgent fulfillment;
+:evasive slugging; <<continuous>>
+|2|
+:buckets garcon; <<output>>
+end
+@enduml

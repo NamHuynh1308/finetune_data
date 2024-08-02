@@ -1,0 +1,23 @@
+@startuml
+box "humane nocturnal"
+participant "spud french" as 0
+participant "earplugs garden" as 1
+participant "hesitation prolong" as 2
+participant "lascivious belongs" as 3
+end box
+== puritanical sole ==
+create participant "scented bleeder" as 4
+3 -> 4 : scented bleeder
+...managers wily...
+2 --//o 4: vain mulled
+critical balances discipline
+0 --//o 4: manhandled switching
+3 <-> 4: liner drowned
+loop cork weightless
+...ripe cashier...
+2 -\\ 4: savings lonelier
+...spicy reduced...
+ [-> 4: positive pump
+end
+end
+@enduml

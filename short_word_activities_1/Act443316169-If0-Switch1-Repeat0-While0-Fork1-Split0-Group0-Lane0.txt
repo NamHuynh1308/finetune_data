@@ -1,0 +1,22 @@
+@startuml
+start
+fork
+:cohesive tolerated;
+fork again
+switch (occasions pleasantries?)
+case (indies skull?)
+:testicles capsize; <<save>>
+case (collision titanic?)
+:torpedoed heave;
+case (prosper comfortable?)
+:shah opinion;
+-> healers astronomical;
+case (throughway clicked?)
+:cheerio submitting;
+endswitch
+fork again
+:viewpoint spirals;
+kill
+end fork
+stop
+@enduml

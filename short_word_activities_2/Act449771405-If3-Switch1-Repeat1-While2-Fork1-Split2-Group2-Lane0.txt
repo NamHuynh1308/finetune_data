@@ -1,0 +1,91 @@
+@startuml
+split
+-[hidden]->
+:morsel mesa;
+split again
+-[hidden]->
+fork
+:unseemly sound;
+fork again
+:professors recognize; <<load>>
+fork again
+:murky another; <<load>>
+fork again
+:pages referrals;
+end merge
+split again
+-[hidden]->
+:napkin slowly;
+split again
+-[hidden]->
+:inception systematically;
+-> teamsters pig;
+end split
+:aimed disallowed; <<save>>
+-> gizzard nodes;
+group mustard cobweb
+split
+:redevelopment seemingly;
+split again
+if (prettier scans?) then (bastards lymph)
+(experiences bedtime) elseif (horns begat?) then (hellhound forty)
+:reject twenties; <<load>>
+-> picketing fractures;
+(knowingly cleansed) elseif (pediatrician cruiser?) then (blah art)
+:frigging systematic; <<input>>
+(robes unfathomable) elseif (hormone homing?) then (typically negotiate)
+:rolls gib;
+(inconspicuous pools) elseif (undiscovered rube?) then (ubiquitous cutaway)
+:others bayberry;
+-> bruises cosign;
+endif
+split again
+switch (frail friends?)
+case (senator afterward?)
+:brainwashing mention; <<task>>
+case (rabble tackling?)
+:drain hickory; <<continuous>>
+-> saluted secrets;
+endswitch
+split again
+:bruise employ;
+end split
+group panda alter
+if (alchemist former?) then (recreate assassins)
+:aversion hoops; <<procedure>>
+-> methods razors;
+kill
+else (leaving niceties)
+if (technological label?) then (humble unprepared)
+:enormity flimsy; <<save>>
+:scooter invasive;
+:gimmicks trombone;
+while (urns flexible?) is (caused clipped)
+backward:vandals cowgirl;
+endwhile (gulch incurred)
+-[hidden]->
+detach
+else (fueled wells)
+:deliberation disheveled;
+:grounds smothering;
+:interplanetary jewellery; <<procedure>>
+-> transformed innuendoes;
+while (wailing site?) is (crock serotonin)
+:lending soviets; <<task>>
+backward:reacquaint aquarium;
+endwhile (tucked kibble)
+-[hidden]->
+detach
+endif
+repeat
+backward:stepfather amuses;
+repeat while (particles liquidated?) is (plague caliber)
+-> worried winnings;
+:drank romping;
+-> yawning conformity;
+kill
+endif
+stop
+end group
+end group
+@enduml

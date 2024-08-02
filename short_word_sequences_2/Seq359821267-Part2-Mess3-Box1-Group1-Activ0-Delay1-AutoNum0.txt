@@ -1,0 +1,12 @@
+@startuml
+box "travel fir"
+participant "geologist pianos" as 0
+participant "axel clarify" as 1
+end box
+0 <-] : enthralled prodigal
+ [-> 1: gutter despair
+loop straightening triangular
+...moonlight enchant...
+ [-> 1: swimsuits rolling
+end
+@enduml

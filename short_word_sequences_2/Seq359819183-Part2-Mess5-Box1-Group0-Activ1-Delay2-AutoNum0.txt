@@ -1,0 +1,14 @@
+@startuml
+box "junkie stigma"
+participant "starving spiteful" as 0
+participant "narrows affidavit" as 1
+end box
+ [<- 0: emanates referral
+...fish arguing...
+1 -\\ 0: homophobic tipsy
+ [-> 0: wires scientist
+...bathtub lifeline...
+0 --//o 0++ : croutons uncertainty
+1 -> 1: nelson claiming
+return flatbed coaxing
+@enduml

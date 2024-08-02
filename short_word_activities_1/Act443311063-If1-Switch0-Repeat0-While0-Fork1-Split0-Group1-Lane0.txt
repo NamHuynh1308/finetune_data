@@ -1,0 +1,22 @@
+@startuml
+group buys objectives
+fork
+:goddesses regenerate;
+fork again
+:landslide impound; <<load>>
+-> yay regain;
+fork again
+:tones attracts; <<task>>
+fork again
+if (doubts balled?) then (caffeine museum)
+(outhouse pancakes) elseif (whitey scooter?) then (turnips blemish)
+:accountant headlining;
+(ordinate criminal) elseif (overturned rumour?) then (sleepwalking mules)
+:canape stirs;
+(muffins algebra) elseif (clammed terrace?) then (perceive gaslight)
+:evacuate treacherous; <<input>>
+endif
+end fork
+stop
+end group
+@enduml

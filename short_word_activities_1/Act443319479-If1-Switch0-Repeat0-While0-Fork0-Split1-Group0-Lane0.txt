@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:rehash farther;
+split again
+-[hidden]->
+if (imbecile fob?) then (geographical height)
+:fiber launder; <<save>>
+else (viper scrubbing)
+:fertilization duffel;
+:limb simulations;
+:boosters synchronized;
+endif
+split again
+-[hidden]->
+:matches fifties; <<task>>
+end split
+:accusations safeguards; <<load>>
+-> index socialism;
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+split
+:delusional smog;
+split again
+:stench dorm; <<save>>
+-> mailbox interviewed;
+split again
+:evidence form;
+split again
+if (issuing talked?) then (goobers laxatives)
+(cocktails plotted) elseif (train cultured?) then (unhealthy mismatched)
+:intake digestive;
+(bowery well) elseif (slicer regrettably?) then (vague helped)
+:orange weaken; <<output>>
+(smear grudge) elseif (stripping harboring?) then (poorest pervert)
+:fistfight grew; <<input>>
+endif
+end split
+:plunge unpleasant; <<save>>
+end
+@enduml

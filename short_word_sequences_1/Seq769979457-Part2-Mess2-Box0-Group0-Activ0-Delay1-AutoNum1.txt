@@ -1,0 +1,9 @@
+@startuml
+participant "undertaking cruiser" as 0
+participant "lode voila" as 1
+== relates tramps ==
+autonumber 3 1
+0 -->x 1: altercation diddling
+...curious reconciled...
+0 ->] : flake drown
+@enduml

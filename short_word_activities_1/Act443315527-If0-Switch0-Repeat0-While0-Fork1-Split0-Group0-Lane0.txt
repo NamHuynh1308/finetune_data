@@ -1,0 +1,15 @@
+@startuml
+start
+:alternate confirms; <<save>>
+-> supporter imply;
+fork
+:flinching economical;
+fork again
+:told challenged; <<load>>
+fork again
+:dynamo disturbing; <<task>>
+fork again
+:doctored kilt; <<continuous>>
+end merge
+end
+@enduml

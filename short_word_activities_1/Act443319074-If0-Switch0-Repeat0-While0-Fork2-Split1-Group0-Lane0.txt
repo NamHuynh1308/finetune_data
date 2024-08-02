@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:anticipated tin;
+split again
+-[hidden]->
+:erupt establishes; <<task>>
+-> undo yogi;
+split again
+-[hidden]->
+fork
+:tweet branches;
+fork again
+:lug assaulting;
+-> strung gimmie;
+fork again
+:snitch baroness;
+fork again
+:hired canyon; <<task>>
+-> sterilize phobias;
+end fork
+end split
+:stigmata luring; <<save>>
+-> ambitious east;
+fork
+:warped loveliest;
+fork again
+:rendezvous guest; <<output>>
+fork again
+:contortionist wiretaps; <<continuous>>
+-> installment screwup;
+end fork
+end
+@enduml

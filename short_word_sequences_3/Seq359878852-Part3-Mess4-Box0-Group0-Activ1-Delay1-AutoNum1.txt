@@ -1,0 +1,13 @@
+@startuml
+participant "building trickier" as 0
+participant "heroine scolded" as 1
+autonumber 4 5
+0 -// 1: scot informed
+create participant "floorboard divers" as 2
+1 -> 2 : floorboard divers
+...fumigated psychiatry...
+ [-> 0: biting misreading
+2 -->x 2++ : expert productivity
+autonumber stop
+return confides uncles
+@enduml

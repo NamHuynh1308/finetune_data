@@ -1,0 +1,65 @@
+@startuml
+split
+-[hidden]->
+:supercollider lover;
+split again
+-[hidden]->
+:overjoyed undesirable; <<output>>
+-> prevents lessons;
+split again
+-[hidden]->
+fork
+:imitation checkpoints;
+fork again
+:feedback catwalk; <<save>>
+fork again
+:partial scorch;
+-> cheapen previous;
+end merge
+end split
+group tempo impromptu
+fork
+:executive tune;
+fork again
+:teenagers domesticated; <<load>>
+fork again
+:atmosphere marooned;
+-> benefit stabbed;
+fork again
+if (wronged devastation?) then (superman accompanied)
+(bands sook) elseif (pause concessions?) then (compounds stoop)
+:poly eyeball;
+(death freaked) elseif (ineffective bouncing?) then (bickering klutzy)
+:wholesale rephrase;
+(mythical he) elseif (values manning?) then (exertion banker)
+:rubbing dislodged;
+endif
+end merge
+group income reality
+:iguana intended; <<task>>
+-> takedown confessor;
+group interested victimless
+if (skateboard menace?) then (wick skirmishes)
+split
+:paranormal milo;
+split again
+:assignments entail; <<procedure>>
+-> swayed trans;
+split again
+:annals mailer;
+split again
+:flinch reassigned; <<continuous>>
+end split
+:compels sirloin; <<load>>
+else (passion appears)
+:absent taffeta; <<continuous>>
+:cockles exorcism; <<procedure>>
+:fly servings; <<save>>
+-> tropic immoral;
+kill
+endif
+stop
+end group
+end group
+end group
+@enduml

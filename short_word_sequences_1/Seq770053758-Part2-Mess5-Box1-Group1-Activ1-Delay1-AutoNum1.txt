@@ -1,0 +1,17 @@
+@startuml
+box "snagging extra"
+participant "rude matters" as 0
+participant "stunt turnaround" as 1
+end box
+== maharajah extensions ==
+autonumber 9 0
+0 -->x 0: cruelty telescopic
+1 -> 1: discarded lout
+break ventilate grow
+1 -->x 1: leadership drinking
+...embarrass oversight...
+1 -> 1: dueling psychopaths
+0 -> 1++ : steamroll trenches
+end
+return hijinks wheeling
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+participant "added folder" as 0
+participant "romances synchronized" as 1
+participant "processes might" as 2
+participant "kneecap haywire" as 3
+autonumber 4 6
+loop showdown overpriced
+0 ->] : allows biohazard
+1 -\\ 1++ : swimming tombstone
+1 -// 1++ : cone glitter
+else machismo doll
+opt imitate prima
+create participant "troubling pebble" as 4
+1 -> 4 : troubling pebble
+return usefulness pees
+loop elegance demonstrate
+3 --//o 0: skipped freelancer
+...toots rashes...
+4 <-] : last orchestrated
+return hype gal
+ [-> 4: merger leaning
+2 --> 3: sleet pathetic
+end
+end
+end
+@enduml

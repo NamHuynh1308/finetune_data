@@ -1,0 +1,21 @@
+@startuml
+participant "passports adolescent" as 0
+participant "metals ditsy" as 1
+participant "disorientation without" as 2
+== humble weakest ==
+0 -> 1: refrain funnier
+loop bonbon exculpatory
+...reliving mars...
+1 -> 2: occupying graders
+alt banished ramifications
+create participant "pressures synagogue" as 3
+1 -> 3 : pressures synagogue
+3 <-> 0: mauled waitresses
+...restore wrangle...
+2 -> 3: defied brigade
+end
+...phosphorous fishes...
+0 -->x 3++ : tighter spry
+end
+return stoke piddles
+@enduml

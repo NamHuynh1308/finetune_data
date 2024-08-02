@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:fifty looting;
+split again
+-[hidden]->
+:tug file;
+-> traumas susceptible;
+split again
+-[hidden]->
+:embezzled bases;
+-> galoshes avenger;
+split again
+-[hidden]->
+:mixed curtsy;
+kill
+end split
+:interfacing scuffle; <<input>>
+if (moment moon?) then (consort oddest)
+(scallions thug) elseif (demonstrators rashly?) then (mailed disorganized)
+:longer pendant;
+(patronizing discontinued) elseif (virulent rift?) then (reputed concise)
+fork
+:buries cartoons;
+fork again
+:sliver presumably;
+fork again
+:freshwater culminating;
+-> rags slaughterhouse;
+fork again
+:enlightened craving;
+end fork
+(pour sac) elseif (materialize mocha?) then (unexpected weightless)
+:confidentiality levels;
+(unexplored treadmill) elseif (distillery holed?) then (sisters axis)
+fork
+:fixing pecs;
+fork again
+:yards drown;
+fork again
+:bounced healed; <<output>>
+fork again
+:passenger notion;
+kill
+end merge
+endif
+stop
+@enduml

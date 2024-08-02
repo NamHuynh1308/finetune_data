@@ -1,0 +1,14 @@
+@startuml
+participant "narrowing neurotic" as 0
+box "thin electrical"
+participant "padre describes" as 1
+participant "low frosty" as 2
+end box
+alt nauseous loathing
+1 -> 0++ : chloroformed gin
+2 ->x 0: befall fling
+return tied bowers
+else rabbits announcing
+1 -->x 2: glade fault
+end
+@enduml

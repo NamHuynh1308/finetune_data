@@ -1,0 +1,6 @@
+@startuml
+participant "divest modem" as 0
+participant "foreman tries" as 1
+0 -\\ 0: joystick kent
+0 ->x 0: chucks bestseller
+@enduml

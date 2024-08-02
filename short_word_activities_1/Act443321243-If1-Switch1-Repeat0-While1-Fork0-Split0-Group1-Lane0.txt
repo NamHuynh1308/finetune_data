@@ -1,0 +1,25 @@
+@startuml
+start
+group beanbag slices
+if (baggy conduct?) then (admittedly doc)
+(plump lacy) elseif (laker prosecutorial?) then (cold painting)
+switch (confirming penny?)
+case (lighter poor?)
+:fibbing glassy;
+case (tinkered equally?)
+:baptist cumin; <<output>>
+case (ensuing down?)
+:foggiest faking;
+endswitch
+(vacated discrimination) elseif (crocodile talker?) then (purchased neighbours)
+:oqnfnv;
+while (ferret requests?) is (scarce auditor)
+backward:jalopy matriarch;
+backward:pinks herring;
+endwhile (pastor stretch)
+-[hidden]->
+detach
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+group chitchat west
+:referencing exhibiting; <<output>>
+:rubbing foiled; <<input>>
+end group
+:explicitly yippee; <<task>>
+-> strongest milo;
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:bedroom dispense;
+split again
+-[hidden]->
+:lotion batman; <<continuous>>
+split again
+-[hidden]->
+if (syllabus jaguar?) then (gibberish indication)
+(suspenders shell) elseif (tribune comfortable?) then (chins limping)
+:finals diving; <<task>>
+(abbots prerequisite) elseif (resurfaced sacrificial?) then (deflate touched)
+:ecosystem aspirins;
+(saltines scummy) elseif (hallowed proxy?) then (trip pessimist)
+:lite dealt; <<load>>
+(swearing impersonal) elseif (molestation chin?) then (damned millisecond)
+:spells tussle; <<save>>
+-> vineyards counter;
+endif
+end split
+group waning pap
+:coughs swapping; <<save>>
+stop
+end group
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "ruth unzip" as 0
+participant "decoys envelope" as 1
+== passageways unless ==
+0 <-> 1: demise bullied
+ [<- 1: darker brainstorm
+critical correlation departing
+1 ->o 1++ : bonus wars
+end
+return processes merchant
+@enduml

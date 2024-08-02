@@ -1,0 +1,14 @@
+@startuml
+box "adolescents deliberations"
+participant "operating progressing" as 0
+participant "hip hunker" as 1
+end box
+loop bailiffs marigold
+create participant "thistle talcum" as 2
+0 -> 2 : thistle talcum
+...sledding slide...
+0 -> 1++ : satisfactory ratting
+else generals pure
+end
+return imagination mental
+@enduml

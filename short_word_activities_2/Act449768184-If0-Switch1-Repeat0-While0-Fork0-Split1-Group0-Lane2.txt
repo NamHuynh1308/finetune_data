@@ -1,0 +1,32 @@
+@startuml
+|1| gargoyle hemorrhoid
+|2| ant snagged
+split
+-[hidden]->
+:token doping;
+split again
+-[hidden]->
+:marijuana folding; <<task>>
+-> hollering yarn;
+split again
+-[hidden]->
+:critics wit; <<task>>
+-> resin arteries;
+split again
+-[hidden]->
+:wowed listen; <<procedure>>
+-> brunt hurtful;
+end split
+|2|
+switch (sexless martial?)
+case (gale nights?)
+:fob vaguely; <<task>>
+-> homicidal overdrive;
+case (snorkel latent?)
+:snowflake guarantees; <<task>>
+-> stayed easier;
+endswitch
+:poofs hunter;
+-> page hacking;
+:undo warp; <<continuous>>
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+|1| mirrors monthly
+|2| interface mentally
+|1|
+start
+|2|
+:curious foraging; <<procedure>>
+:scratches aware;
+switch (implies dinner?)
+case (plugging recrimination?)
+:contraceptives lilacs; <<output>>
+-> tolerated forks;
+case (pas harper?)
+:sowing scouting; <<load>>
+case (hooters vintage?)
+fork
+:surprises disease;
+fork again
+:wrapping discounts;
+fork again
+:waitress undying; <<task>>
+end fork
+endswitch
+end
+@enduml

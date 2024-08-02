@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:gunfire repaid;
+split again
+-[hidden]->
+:yielding spears; <<output>>
+split again
+-[hidden]->
+:askew sleaze; <<procedure>>
+split again
+-[hidden]->
+split
+:tofu prophecy;
+split again
+:consequence immortality;
+-> fined yam;
+split again
+:symbolism jackass; <<input>>
+-> shad financially;
+split again
+:sheldrake monsignor;
+end split
+end split
+repeat
+backward:moons traveller;
+backward:derrick instrument;
+repeat while (dying extinguished?) is (excitement boyhood)
+stop
+@enduml

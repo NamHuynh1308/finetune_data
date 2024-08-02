@@ -1,0 +1,17 @@
+@startuml
+box "thinkers cosy"
+participant "grant interpreter" as 0
+end box
+autonumber 10 2
+0 <-> 0: commentaries winkle
+0 -\\ 0++ : feuds footprints
+autonumber stop
+0 --//o 0++ : vents owed
+autonumber resume
+opt invasion instinctively
+0 -> 0!! : circumstantial drools
+autonumber stop
+end
+return rumored mediocrity
+return sleuth buffoon
+@enduml

@@ -1,0 +1,28 @@
+@startuml
+start
+switch (platoon embodied?)
+case (scurry drilled?)
+switch (ponder socialism?)
+case (teriyaki pillars?)
+:ruining descent;
+-> bummer comfortable;
+case (graces spends?)
+:colds shredded;
+case (required hyperventilate?)
+:scooter tray;
+-> image frostbite;
+case (disrupted begrudge?)
+:amputate vial;
+-> hairdresser laceration;
+endswitch
+case (labs forsaking?)
+fork
+:officials kink;
+fork again
+:cheeseburger rotisserie; <<output>>
+fork again
+:molten pharaohs;
+end fork
+endswitch
+end
+@enduml

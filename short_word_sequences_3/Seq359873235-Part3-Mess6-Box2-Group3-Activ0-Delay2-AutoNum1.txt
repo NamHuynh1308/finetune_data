@@ -1,0 +1,26 @@
+@startuml
+participant "burbs edit" as 0
+box "gatehouse became"
+participant "menorah badgering" as 1
+box "appreciate hotdog"
+participant "indicating jester" as 2
+end box
+end box
+autonumber 2 10
+1 -// 2: themselves trans
+0 ->o 2: treasury poverty
+critical prudent climbing
+...secrecy wrangler...
+ [<- 0: tracking lubrication
+2 -// 0: hacks leading
+else cosy glance
+opt reception storm
+ [-> 2: mailing scoundrels
+autonumber stop
+loop veritas met
+...apparently digress...
+1 -> 0: approval sexism
+end
+end
+end
+@enduml

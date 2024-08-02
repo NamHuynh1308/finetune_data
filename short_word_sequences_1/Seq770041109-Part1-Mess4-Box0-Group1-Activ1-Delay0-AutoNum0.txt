@@ -1,0 +1,11 @@
+@startuml
+participant "minefield modeled" as 0
+0 --//o 0: sole jitters
+0 -> 0: captive harbor
+opt detonator strip
+0 <-] : fireball secretarial
+0 <-> 0++ : ami blushing
+else friendlier programmer
+end
+return credit narwhal
+@enduml

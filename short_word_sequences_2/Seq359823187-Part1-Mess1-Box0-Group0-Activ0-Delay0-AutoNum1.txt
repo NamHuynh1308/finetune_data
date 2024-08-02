@@ -1,0 +1,5 @@
+@startuml
+participant "skin understandably" as 0
+autonumber 1 3
+0 -> 0!! : hammer debating
+@enduml

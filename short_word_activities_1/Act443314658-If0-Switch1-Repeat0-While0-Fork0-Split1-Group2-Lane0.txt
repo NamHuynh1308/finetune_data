@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:aggravate unattached;
+split again
+-[hidden]->
+:publish mailboxes;
+split again
+-[hidden]->
+:headlights rutting; <<save>>
+end split
+group nutcase pope
+switch (incompetent flow?)
+case (sweatshop freaked?)
+:concert nuns; <<task>>
+-> priesthood generally;
+case (entered factions?)
+:rye pursuant; <<task>>
+endswitch
+:annoyance trans; <<output>>
+group lock clique
+:tykes justification; <<load>>
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+start
+:windy product; <<continuous>>
+end
+@enduml

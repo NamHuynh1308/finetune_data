@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:extended prey;
+split again
+-[hidden]->
+switch (margin imaginations?)
+case (bruise blamed?)
+:intrigued ribbons; <<save>>
+case (beseech disgust?)
+:christie genetics; <<save>>
+endswitch
+split again
+-[hidden]->
+:devouring apologize; <<input>>
+split again
+-[hidden]->
+split
+:rounding hip;
+split again
+:rights tome; <<task>>
+split again
+:outline trot; <<continuous>>
+end split
+end split
+while (terrifying lusting?) is (heil soars)
+fork
+:recovered selecting;
+fork again
+:prima floundering;
+fork again
+:believes thereafter;
+kill
+fork again
+:councillor scorpions; <<continuous>>
+-> suspicion revival;
+end fork
+endwhile (accounts leaves)
+:subconsciously cramming;
+repeat
+fork
+:seizures blowhard;
+fork again
+:pandora handles; <<load>>
+-> reek eviscerated;
+fork again
+:reappear suntan; <<procedure>>
+end merge
+repeat while (squadron taught?) is (margarita informed)
+@enduml

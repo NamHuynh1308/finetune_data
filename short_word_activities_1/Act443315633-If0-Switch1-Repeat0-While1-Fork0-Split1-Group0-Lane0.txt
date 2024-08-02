@@ -1,0 +1,26 @@
+@startuml
+start
+:loaning glop;
+-> caterpillar directive;
+split
+:sufficient tippers;
+split again
+switch (hibernating bitsy?)
+case (tissues miniscule?)
+:invigorating jingle; <<task>>
+case (standards glued?)
+:phenomena violet;
+case (commoner nominee?)
+:vanilla chucks;
+endswitch
+split again
+:mosquitoes dismount; <<save>>
+-> brush ordered;
+split again
+while (clippings readers?) is (ships arousing)
+:gloria combination; <<continuous>>
+-> queller blameless;
+endwhile (breached notch)
+:discrepancy saver;
+end split
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+participant "wiping directorate" as 0
+participant "squatters murdering" as 1
+box "bakers inventions"
+participant "promotion polluting" as 2
+end box
+autonumber 5 6
+0 --> 1++ : lemmings crises
+autonumber stop
+alt terry decanter
+0 -\\ 1: prowl amaretto
+return awfully gene
+autonumber resume
+par cox historical
+2 <-> 0: kicking downed
+2 <-> 2: trawler complacent
+else yes oversized
+end
+end
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:mumbles innocent;
+split again
+-[hidden]->
+:spot relapsing; <<save>>
+-> molester suffocate;
+split again
+-[hidden]->
+:catharsis transitional;
+split again
+-[hidden]->
+:consultant vixen; <<load>>
+end split
+:rigs barbecued; <<load>>
+-> muffler toots;
+end
+@enduml

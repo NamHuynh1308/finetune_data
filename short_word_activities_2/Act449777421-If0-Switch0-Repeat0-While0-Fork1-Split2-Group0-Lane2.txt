@@ -1,0 +1,32 @@
+@startuml
+|1| acquaintances parlor
+|2| fellow eccentric
+:sniffed forgeries; <<continuous>>
+:gods disruptions; <<input>>
+-> vehicular peeved;
+fork
+:delegate ritter;
+fork again
+:bunt click; <<load>>
+-> cadet impediments;
+fork again
+:worrywart dribbling;
+kill
+end merge
+:hem tell;
+split
+:bet flopped;
+split again
+split
+:atomic clothe;
+split again
+:sentry inconvenience;
+split again
+:walla gels; <<output>>
+end split
+split again
+:reconnect expedient; <<procedure>>
+-> singers unsavory;
+end split
+stop
+@enduml

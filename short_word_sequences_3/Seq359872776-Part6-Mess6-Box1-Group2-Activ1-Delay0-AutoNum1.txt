@@ -1,0 +1,22 @@
+@startuml
+participant "exterminate bottle" as 0
+participant "alienating costa" as 1
+participant "embark kale" as 2
+participant "staring commits" as 3
+box "birds auditions"
+participant "facet enact" as 4
+end box
+autonumber 10 9
+0 --//o 0: missed sickened
+3 -> 2: cystic partially
+1 ->] : dipping plumber
+create participant "intolerant excited" as 5
+4 -> 5 : intolerant excited
+loop photographing addicted
+4 -> 1++ : swallows transpired
+loop roscoe accomplishments
+5 ->o 5: driveways humanity
+return loaning theta
+end
+end
+@enduml

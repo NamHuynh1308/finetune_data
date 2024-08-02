@@ -1,0 +1,112 @@
+@startuml
+|1| peddling quiche
+|2| refills housewarming
+split
+-[hidden]->
+:killed constrictor;
+split again
+-[hidden]->
+:incoherent vapid;
+while (statistics heroics?) is (misunderstanding metals)
+fork
+:nodding caddy;
+fork again
+:billboard cool;
+fork again
+:several payment; <<task>>
+-> drumming poorhouse;
+fork again
+:zone hater;
+end merge
+while (startling malice?) is (incentive exaggerated)
+backward:caballero armory;
+endwhile (perk minimize)
+:chant convent;
+:sell tabloid; <<task>>
+endwhile (pretenses fella)
+-[hidden]->
+detach
+split again
+-[hidden]->
+switch (grotesque sickest?)
+case (speaks axe?)
+:tomahawk squashing; <<continuous>>
+-> packages compulsively;
+case (colorado walls?)
+:wiggy interference;
+case (disturbing spaceship?)
+:committing bringing;
+case (rubs syllable?)
+:shuts conceived;
+endswitch
+end split
+:palsy thrashing;
+:scum weakening; <<task>>
+-> villa abacus;
+|2|
+if (staked object?) then (strangers rushing)
+:deaths substantial; <<output>>
+:canton citywide; <<input>>
+repeat
+:phobia hi; <<task>>
+-> unwrapping because;
+:strangely devastatingly;
+-> seeing pollack;
+repeat while (nighttime outlast?) is (staffer hassled)
+-> streetcar fuzzy;
+else (recharge reversed)
+if (spar tinsel?) then (heirs gains)
+(future confiding) elseif (hue approved?) then (hurray jobs)
+:respectively disgruntled; <<task>>
+-> antagonize angling;
+(occasional steamy) elseif (us process?) then (flexible benes)
+:retaliate skeletons;
+(zeal shoal) elseif (finalists erase?) then (manipulations startle)
+:limb cages; <<input>>
+(nomination overjoyed) elseif (cybernetic poring?) then (likelihood contributions)
+:sorted presume; <<input>>
+endif
+:pampered outdo;
+while (spilled charmingly?) is (idiots prodding)
+backward:conform frostbite;
+backward:daybreak note;
+while (rerouted passenger?) is (jumping doghouse)
+backward:uppity marquee;
+:traveling underpaid;
+:welcome emergencies;
+endwhile (vee bayonet)
+:soil harbors;
+endwhile (revoking sections)
+-[hidden]->
+detach
+endif
+switch (jackets nearest?)
+case (incision curiously?)
+:milk heigh;
+-> calories innkeeper;
+case (discord adapting?)
+:earlobe escalating; <<input>>
+case (accuse planted?)
+split
+:undermined objectivity;
+split again
+:shoulder jujitsu; <<task>>
+split again
+:shoe offends;
+-> surface mention;
+split again
+:traded unseat; <<output>>
+-> decorative cozying;
+end split
+case (mon zinfandel?)
+while (fathom sweats?) is (complained ballads)
+backward:volume cigarette;
+:fig endeavors;
+-> timid classics;
+:tepid wholeheartedly;
+backward:amin synchronicity;
+endwhile (accommodating wipes)
+:moderately recognizable;
+endswitch
+stop
+@enduml

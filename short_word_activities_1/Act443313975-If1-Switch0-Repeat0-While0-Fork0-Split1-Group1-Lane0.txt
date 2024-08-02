@@ -1,0 +1,19 @@
+@startuml
+start
+group deleted fashion
+if (airmen complain?) then (scoured bends)
+:unpleasant trashed;
+else (medical angling)
+:daze lederhosen;
+split
+:rescue slashed;
+split again
+:decked mesquite; <<task>>
+split again
+:cyberspace unbeatable; <<procedure>>
+-> leapt croc;
+end split
+endif
+stop
+end group
+@enduml

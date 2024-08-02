@@ -1,0 +1,6 @@
+@startuml
+participant "reevaluate mythical" as 0
+0 -->x 0++ : spraying missed
+0 -> 0: compressed educators
+return citation depart
+@enduml

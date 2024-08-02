@@ -1,0 +1,5 @@
+@startuml
+participant "cooker ploy" as 0
+autonumber 2 6
+0 ->] : precinct unequivocally
+@enduml

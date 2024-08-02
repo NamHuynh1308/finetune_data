@@ -1,0 +1,11 @@
+@startuml
+if (common fuzz?) then (misdemeanors flat)
+(stomper sweaters) elseif (selecting gargantuan?) then (musing custodial)
+:dour electro;
+(dwindling wheeze) elseif (refrigerators many?) then (grouping pouting)
+:darling bronchial; <<output>>
+(carefully doer) elseif (loaned counted?) then (oversight responding)
+:incapacitated reps;
+endif
+stop
+@enduml

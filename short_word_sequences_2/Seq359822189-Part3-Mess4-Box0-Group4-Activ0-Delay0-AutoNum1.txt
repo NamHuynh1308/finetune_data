@@ -1,0 +1,20 @@
+@startuml
+participant "reseda result" as 0
+participant "hearty unmanned" as 1
+autonumber 6 2
+loop universal handful
+0 -> 1: daddy opportunity
+alt confides doubting
+1 -> 1: listing morons
+autonumber stop
+alt petition handbag
+0 <-> 1: grate musket
+loop paced chop
+create participant "skillful injury" as 2
+0 -> 2 : skillful injury
+autonumber resume
+end
+end
+end
+end
+@enduml

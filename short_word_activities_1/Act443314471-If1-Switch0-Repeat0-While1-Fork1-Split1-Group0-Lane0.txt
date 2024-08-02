@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:retro carjacking;
+split again
+-[hidden]->
+if (rhinestone truckload?) then (completion darker)
+(instead displeased) elseif (comas aforementioned?) then (considerate taking)
+:yearns endured;
+(daily judo) elseif (moral boathouse?) then (disabling foreseeable)
+:tallest wretched;
+-> convenes courts;
+(kins visitors) elseif (fondest perverts?) then (reform schedule)
+:persuasion benny; <<load>>
+(asphalt crazy) elseif (detaining theatrics?) then (restless whispering)
+:formidable boneless;
+endif
+split again
+-[hidden]->
+:sofas calculating;
+end split
+:sparks gunpowder; <<input>>
+:kingdoms fossilized;
+-> renegade knack;
+fork
+:difference violinist;
+fork again
+:fictional purged;
+while (direction embassies?) is (copied stellar)
+:kitties pulls; <<input>>
+backward:ruling renowned;
+endwhile (help converge)
+-[hidden]->
+detach
+fork again
+:worsened fay; <<task>>
+end merge
+stop
+@enduml

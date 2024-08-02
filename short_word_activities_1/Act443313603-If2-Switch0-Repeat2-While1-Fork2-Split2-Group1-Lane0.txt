@@ -1,0 +1,75 @@
+@startuml
+split
+-[hidden]->
+:vacuuming sharply;
+split again
+-[hidden]->
+:mining propensity; <<save>>
+split again
+-[hidden]->
+repeat
+:motor feed;
+if (sift matriarch) then (backup exhibition)
+:ballplayer legislate;
+break
+endif
+->scolding branches;
+:frantically gasped;
+:securing inspected;
+repeat while (baby casual?) is (proven discounts)
+split again
+-[hidden]->
+fork
+:skeleton shiver;
+fork again
+:court diagnostician; <<save>>
+-> sons felonious;
+fork again
+:gram flops;
+end merge
+end split
+while (dauphin caviar?) is (hefty dangers)
+if (remedies appraise?) then (facing airman)
+(agitate confronts) elseif (warhead drown?) then (paperback surgically)
+:kftrin;
+kill
+(decisive milligrams) elseif (timers nine?) then (inflicted highland)
+:decorative hunh;
+(commentator fence) elseif (repentance perm?) then (overrun sighting)
+:deliver labour;
+(yokel rushed) elseif (orbiting due?) then (runes panty)
+:stroll significance; <<save>>
+endif
+repeat
+:shrouds diagnose;
+-> rioting obstruction;
+repeat while (heinie chitchat?) is (doping mouthy)
+-> pained ruling;
+:glance fulcrum; <<output>>
+endwhile (lightly paltry)
+:yuan stomachs;
+group plural nomad
+fork
+:grizzly negotiable;
+fork again
+if (hippopotamus surf?) then (femmes wretch)
+:chumps signal;
+else (hiking psychiatric)
+:symbolism judo;
+:leaking imp;
+endif
+fork again
+split
+:closets priors;
+split again
+:scarf benes; <<input>>
+split again
+:club attained; <<load>>
+-> frigid threatens;
+split again
+:distribution hang; <<output>>
+end split
+end fork
+stop
+end group
+@enduml

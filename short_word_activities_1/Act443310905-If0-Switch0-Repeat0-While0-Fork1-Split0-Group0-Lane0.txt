@@ -1,0 +1,10 @@
+@startuml
+fork
+:salesmen slit;
+fork again
+:westward twerp; <<output>>
+fork again
+:renegade tears;
+end fork
+end
+@enduml

@@ -1,0 +1,84 @@
+@startuml
+split
+-[hidden]->
+:knockout glade;
+split again
+-[hidden]->
+:intruding pounder;
+while (scammed toaster?) is (esoteric pickup)
+fork
+:daytime chainsaws;
+fork again
+:motorcade mold;
+kill
+fork again
+:erosion downhill;
+end fork
+endwhile (insight playmate)
+-[hidden]->
+detach
+split again
+-[hidden]->
+split
+:flirt coworker;
+split again
+:overreacting plus;
+split again
+:rekindled slinking;
+split again
+:matches reparations;
+end split
+split again
+-[hidden]->
+:apologise irrational;
+end split
+group medicate pacemaker
+if (reassigning sent?) then (whiter tiring)
+(pathological dangers) elseif (meningitis climax?) then (chalked susceptible)
+if (silky lot?) then (patching inverted)
+:badder deceit;
+:existent mileage; <<load>>
+:hostilities flapping;
+else (labeled vixens)
+:rightfully resisting;
+while (toughest fives?) is (anticipated antibiotic)
+backward:ethical serene;
+backward:income smoker;
+backward:beaten bootleg;
+:roughriders supplements;
+-> drummed hyperactive;
+endwhile (noon ignorance)
+-[hidden]->
+detach
+endif
+(gibbons ponds) elseif (profiling increased?) then (albino fraternizing)
+while (oblique modeled?) is (awakes noxious)
+backward:vindication bearings;
+endwhile (academia unhinged)
+:hunting thoracic;
+(employing attired) elseif (electrified tedious?) then (renown function)
+fork
+:commentator withstanding;
+fork again
+:stub dais; <<save>>
+fork again
+:flapjacks shortcut; <<input>>
+end fork
+endif
+group hangover hated
+split
+:marsh recreating;
+split again
+:aspirations invitations; <<save>>
+split again
+:influx endorsing; <<input>>
+-> father erroneous;
+split again
+:guarantee blue; <<procedure>>
+-> length wavelength;
+end split
+:knowledge charcoal;
+end group
+stop
+end group
+@enduml

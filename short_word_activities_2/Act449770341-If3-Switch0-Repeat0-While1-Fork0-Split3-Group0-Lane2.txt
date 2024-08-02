@@ -1,0 +1,67 @@
+@startuml
+|1| significance brock
+|2| tantrum witty
+|1|
+start
+if (parlour barrier?) then (seamen bagged)
+if (mastectomy pillars?) then (exhausted sorrel)
+:stealing tended;
+:elective malevolent;
+:surrendered aerial; <<task>>
+-> measly ingest;
+else (simony rebellion)
+:withhold births; <<task>>
+:confides janitors;
+-> wager lobotomy;
+kill
+endif
+:squeezes nosed; <<task>>
+kill
+else (pity deferred)
+if (nouveau measles?) then (invitation vandals)
+(slayer bedbug) elseif (louis brilliantly?) then (ministry heist)
+:scale drippy;
+(presto conspiracy) elseif (chapel mints?) then (crane bonnie)
+:woops debts; <<task>>
+(exhilarating vouching) elseif (taxes collapsing?) then (impound shareholder)
+:torn bride; <<continuous>>
+(spur groomed) elseif (goblin ems?) then (briefly lymph)
+:stewardess mason; <<procedure>>
+-> garlic sentry;
+endif
+:buds mortar; <<procedure>>
+-> dishonest vein;
+endif
+split
+:clicked preach;
+split again
+:domes agency;
+while (canvass potent?) is (tent figurative)
+:cooker hoping; <<procedure>>
+-> stiles vaguest;
+:years importantly; <<output>>
+-> salmonella leagues;
+endwhile (endive firemen)
+-[hidden]->
+detach
+split again
+split
+:trial expense;
+split again
+:hoop controversial;
+split again
+:whodunit buckeyes; <<input>>
+-> cone gray;
+end split
+end split
+|2|
+split
+:thy foreclosed;
+split again
+:chandler companionship; <<procedure>>
+split again
+:jugular vertebrae; <<input>>
+-> personified aim;
+end split
+stop
+@enduml

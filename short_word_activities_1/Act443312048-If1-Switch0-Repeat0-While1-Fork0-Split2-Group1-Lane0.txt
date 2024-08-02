@@ -1,0 +1,36 @@
+@startuml
+group significance majored
+:teeth enhancements;
+split
+:celibacy road;
+split again
+:sentimental awkwardness; <<task>>
+split again
+split
+:prim soothsayer;
+split again
+:loca buckle; <<continuous>>
+split again
+:ammonia taunt;
+end split
+split again
+if (tear linear?) then (hungry ruling)
+(literary chaff) elseif (muse racquetball?) then (whodunit ane)
+:clothing know;
+(cathartic one) elseif (cranium legs?) then (phew volcanoes)
+:federation sneezed; <<save>>
+(gifted stupidly) elseif (firing misfits?) then (eavesdropping beagle)
+:jacks tablet; <<save>>
+endif
+end split
+end group
+while (structured flattered?) is (plugged miniscule)
+backward:snacking pluck;
+:practise hoses; <<task>>
+-> sec moxie;
+backward:me dating;
+:whys hump;
+endwhile (overpriced proudest)
+:clutter milked;
+end
+@enduml

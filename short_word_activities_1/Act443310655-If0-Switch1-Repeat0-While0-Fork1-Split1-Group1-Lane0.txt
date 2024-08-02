@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:err stockings;
+split again
+-[hidden]->
+:outgrew invasive; <<save>>
+split again
+-[hidden]->
+:balconies shucks; <<load>>
+split again
+-[hidden]->
+:gusher trafficker; <<output>>
+end split
+group darlings gracious
+switch (pornography med?)
+case (mystery sincere?)
+:burritos net; <<procedure>>
+case (undecided volunteers?)
+fork
+:toms dozing;
+fork again
+:windsurfing restrain;
+fork again
+:plead objective; <<procedure>>
+end fork
+case (yaw suspects?)
+:antagonizing volunteering;
+case (daisies juggle?)
+:punishment chiefs; <<input>>
+-> true ganging;
+endswitch
+stop
+end group
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+box "subject cohesion"
+participant "courteous backup" as 0
+participant "provoke radically" as 1
+end box
+par impersonal pained
+0 --//o 0: columnists intermission
+create participant "zonked prejudice" as 2
+1 -> 2 : zonked prejudice
+end
+@enduml

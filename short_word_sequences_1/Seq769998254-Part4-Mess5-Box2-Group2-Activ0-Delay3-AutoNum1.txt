@@ -1,0 +1,25 @@
+@startuml
+box "scoring summers"
+participant "serene meets" as 0
+participant "sphere antique" as 1
+box "migrate phones"
+participant "abnormalities release" as 2
+participant "magnum endear" as 3
+end box
+end box
+== detail loaded ==
+autonumber 4 4
+3 --//o 1: slander spreads
+opt beneath bridges
+...snicker obstinate...
+2 -> 0: signaling moving
+1 ->] : qualities brunette
+else overhearing homicidal
+opt herald exceedingly
+...patently airhead...
+2 -> 3: vast delicate
+...thirteen solvent...
+1 -> 0: ridiculously tiresome
+end
+end
+@enduml

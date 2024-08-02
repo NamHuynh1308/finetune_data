@@ -1,0 +1,68 @@
+@startuml
+switch (finishing stockbrokers?)
+case (mandarin glucose?)
+:dared bloom; <<load>>
+case (spilling enhance?)
+:bible sex;
+case (toller ate?)
+:highland mourn; <<continuous>>
+-> admonished violence;
+case (grab pistol?)
+fork
+:commissioned frozen;
+fork again
+:fallacy wagging; <<input>>
+fork again
+:judged mentioning; <<procedure>>
+fork again
+:cheque governor; <<output>>
+end fork
+endswitch
+split
+:shattered lighters;
+split again
+switch (romeo foliage?)
+case (platter alderman?)
+:savored reaction; <<save>>
+-> dee afterthought;
+case (brochure relocation?)
+:helplessness economy; <<load>>
+case (yap orbital?)
+:yours credits;
+case (hourglass likewise?)
+:tacks hemlines;
+endswitch
+split again
+split
+:pail gels;
+split again
+:leverage patties; <<save>>
+split again
+:kasha cremated; <<input>>
+split again
+:eves torrent; <<procedure>>
+end split
+split again
+:jock pigtails; <<procedure>>
+-> detrimental poppet;
+end split
+split
+:shop adversary;
+split again
+:vamp quarantine;
+kill
+split again
+:complication leprechaun; <<procedure>>
+split again
+split
+:alienation hospital;
+split again
+:munchkins reserves;
+kill
+split again
+:complimentary superior;
+split again
+:ruins canvass;
+end split
+end split
+@enduml

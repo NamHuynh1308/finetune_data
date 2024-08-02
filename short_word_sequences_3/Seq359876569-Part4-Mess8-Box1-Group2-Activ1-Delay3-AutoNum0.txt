@@ -1,0 +1,25 @@
+@startuml
+participant "hologram famished" as 0
+participant "cruisers unattached" as 1
+box "cruel evoked"
+participant "frills fraught" as 2
+participant "tackle fielder" as 3
+end box
+1 --> 1: miserably maintains
+3 -->x 1: jock lawn
+1 ->o 3: upfront untraceable
+...soundly thanks...
+1 -->x 0: stitch matey
+opt vet dot
+...interrupt worldwide...
+2 -> 2: hourly sera
+...capabilities roughing...
+0 -> 2: remodelling interrogations
+opt torture comply
+1 -// 3++ : noose subtitles
+3 -> 0: forego customarily
+else descends ales
+end
+end
+return manning misspent
+@enduml

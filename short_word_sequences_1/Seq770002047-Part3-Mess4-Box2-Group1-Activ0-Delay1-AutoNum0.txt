@@ -1,0 +1,17 @@
+@startuml
+box "askew slices"
+participant "shock crest" as 0
+participant "bars goonies" as 1
+box "hydra oyster"
+participant "chemistry carpet" as 2
+end box
+end box
+0 -// 0: citation confining
+...courts backwards...
+0 <-] : romantic retrieve
+loop oblige stoked
+0 -> 2: rippling bottles
+0 <-] : mature cellulite
+else sift whether
+end
+@enduml

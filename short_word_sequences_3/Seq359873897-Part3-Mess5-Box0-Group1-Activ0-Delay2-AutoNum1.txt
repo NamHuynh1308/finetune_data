@@ -1,0 +1,18 @@
+@startuml
+participant "providence gracing" as 0
+participant "faked expected" as 1
+== mommy accuses ==
+autonumber 2 0
+create participant "intravenously inspectors" as 2
+1 -> 2 : intravenously inspectors
+autonumber stop
+ [<- 0: recognizable urologist
+ [-> 2: unaware mastered
+...policemen holing...
+1 --> 0: dictators hootenanny
+autonumber resume
+critical courage boon
+...flew ala...
+2 ->] : cee stockbroker
+end
+@enduml

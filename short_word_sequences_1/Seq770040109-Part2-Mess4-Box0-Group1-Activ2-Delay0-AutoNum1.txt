@@ -1,0 +1,15 @@
+@startuml
+participant "paved ridding" as 0
+autonumber 6 9
+create participant "stakes upcoming" as 1
+0 -> 1 : stakes upcoming
+loop handler tangling
+1 -// 1++ : herring telepathy
+autonumber stop
+0 -->x 0: have sprint
+0 -> 1++ : conn flue
+autonumber resume
+end
+return doorstep giveaway
+return countdown hounding
+@enduml

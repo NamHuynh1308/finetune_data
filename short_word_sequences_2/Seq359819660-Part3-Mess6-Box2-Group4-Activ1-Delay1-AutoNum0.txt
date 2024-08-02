@@ -1,0 +1,25 @@
+@startuml
+participant "groping sable" as 0
+box "flannel continues"
+participant "carpool feet" as 1
+box "rippling piggies"
+participant "scholarship industry" as 2
+end box
+end box
+critical guava tours
+2 -// 0: hippest hitters
+2 ->] : squared politics
+par clanging rain
+2 -> 1: sounded did
+alt officer teal
+...moped squad...
+2 ->x 0: lumpy crowbar
+1 ->> 2++ : ought carbo
+opt fop smarty
+1 -> 0: stickup plant
+end
+end
+end
+end
+return zapped release
+@enduml

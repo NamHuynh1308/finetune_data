@@ -1,0 +1,14 @@
+@startuml
+participant "vomiting snacking" as 0
+autonumber 6 3
+par brutally gloating
+create participant "picket sided" as 1
+0 -> 1 : picket sided
+0 --//o 1: vegetative microscope
+par mild clement
+1 --//o 1++ : nonexistent sing
+1 ->o 0: tragically napkin
+return friendlier howling
+end
+end
+@enduml

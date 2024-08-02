@@ -1,0 +1,26 @@
+@startuml
+participant "fangs delectable" as 0
+box "gendarme carrier"
+participant "sidekick marzipan" as 1
+participant "divest trickery" as 2
+end box
+participant "mediocrity redress" as 3
+== fashion influenced ==
+autonumber 2 4
+ [<- 0: dorado goers
+autonumber stop
+2 <-> 0: bongo john
+par hesitation exhilarating
+3 --> 2++ : bearings prowess
+2 -> 1: diagram lacquer
+else disinherited took
+ [-> 1: accomplishments subsidiary
+return slash hormone
+else compactor uncomfortable
+...cannon blarney...
+3 ->> 2++ : colour rye
+autonumber resume
+else witchcraft godlike
+end
+return device favorably
+@enduml

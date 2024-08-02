@@ -1,0 +1,16 @@
+@startuml
+box "doorknob embark"
+participant "trinkets paced" as 0
+participant "warrants dabble" as 1
+participant "invade bids" as 2
+participant "enormity toffee" as 3
+participant "subtext jerk" as 4
+end box
+autonumber 10 0
+2 ->o 0: musicals irrevocably
+3 -->x 3: graphics beefs
+0 ->o 1: interviews deltas
+...haughty mastery...
+0 -> 3: infernal consciousness
+0 -> 4: warms gnomes
+@enduml

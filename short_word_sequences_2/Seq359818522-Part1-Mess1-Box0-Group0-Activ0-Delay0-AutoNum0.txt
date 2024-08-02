@@ -1,0 +1,4 @@
+@startuml
+participant "grading trying" as 0
+0 --> 0: demoted palpitations
+@enduml

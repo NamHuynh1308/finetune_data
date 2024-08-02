@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:screamer henhouse;
+split again
+-[hidden]->
+:borrow exhibits;
+split again
+-[hidden]->
+:viscous matted; <<output>>
+split again
+-[hidden]->
+:derriere tor; <<input>>
+end split
+group soda posted
+:stole helicopter; <<output>>
+:hillbilly tickles; <<continuous>>
+end group
+stop
+@enduml

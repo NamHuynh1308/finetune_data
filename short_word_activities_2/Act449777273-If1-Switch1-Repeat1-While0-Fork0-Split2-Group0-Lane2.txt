@@ -1,0 +1,45 @@
+@startuml
+|1| floating electrocute
+|2| optimum era
+split
+-[hidden]->
+:weakness jumpy;
+split again
+-[hidden]->
+:keeping trinkets; <<input>>
+split again
+-[hidden]->
+switch (chipping expand?)
+case (equals queasy?)
+:strides explanations;
+-> wake receiving;
+case (gaze trickery?)
+:alias stuffs; <<task>>
+case (domination candlesticks?)
+:shitty convicted;
+endswitch
+end split
+|2|
+:diaphragm unmentionable; <<continuous>>
+repeat
+backward:moulin leaflets;
+repeat while (font finest?) is (checkup verbal)
+-> lovingly vamoose;
+|1|
+split
+:penetrated permanently;
+split again
+:hybrid talent; <<task>>
+split again
+if (anticipated jolly?) then (taffy brews)
+(frigid adage) elseif (paychecks hamper?) then (imbeciles ripples)
+:scans disheveled;
+(joke trilogy) elseif (lighten wicked?) then (woe tippy)
+:perpetuating attempts;
+endif
+split again
+:lament assume; <<output>>
+-> radiology enacted;
+end split
+end
+@enduml

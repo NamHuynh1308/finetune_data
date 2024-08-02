@@ -1,0 +1,19 @@
+@startuml
+box "derives acquaintance"
+participant "concerns interpretive" as 0
+participant "graves pounds" as 1
+participant "buggy victimless" as 2
+end box
+par pessimist paddy
+1 -> 2++ : adventure messengers
+create participant "dex grumbling" as 3
+2 -> 3 : dex grumbling
+else differential ambivalent
+par checkout cube
+3 -> 1: flopping essential
+...anesthesia gigantic...
+2 -> 1!! : sunglasses transfusion
+return hourglass beakers
+end
+end
+@enduml

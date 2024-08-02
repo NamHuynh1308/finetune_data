@@ -1,0 +1,25 @@
+@startuml
+participant "coordinate collapses" as 0
+participant "vogue slowing" as 1
+box "graduates dumped"
+participant "revealed death" as 2
+participant "astronomer ala" as 3
+end box
+== priss rags ==
+autonumber 10 1
+2 -->x 1: miniscule exited
+autonumber stop
+1 -> 3: firewater excuses
+autonumber resume
+alt amorous swan
+0 -> 3: existentialist loft
+create participant "highlighters haggling" as 4
+0 -> 4 : highlighters haggling
+ [-> 4: runes religious
+create participant "impediment coronation" as 5
+2 -> 5 : impediment coronation
+ [<- 2: last threesome
+3 -> 2: dozed clerk
+else presence bears
+end
+@enduml

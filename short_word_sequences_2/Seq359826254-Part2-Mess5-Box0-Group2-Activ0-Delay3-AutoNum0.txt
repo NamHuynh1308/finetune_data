@@ -1,0 +1,17 @@
+@startuml
+participant "lockdown undoubtedly" as 0
+== scuzzy speck ==
+create participant "affiliation angst" as 1
+0 -> 1 : affiliation angst
+...stranded sanatorium...
+0 -> 1: mushrooms triple
+...covering slaves...
+0 -> 1!! : madmen mend
+opt warts visas
+1 -// 0: placing furthering
+critical nirvana clippings
+...administrators train...
+1 --> 1: disagreeing justifiable
+end
+end
+@enduml

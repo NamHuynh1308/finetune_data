@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:poking gouged;
+split again
+-[hidden]->
+:scraps rent; <<task>>
+split again
+-[hidden]->
+:occupants bushel; <<continuous>>
+split again
+-[hidden]->
+:famished cherish; <<continuous>>
+-> transport ticker;
+end split
+switch (johnny backfiring?)
+case (phoned stolen?)
+:scent dawning; <<task>>
+case (accused reelected?)
+:roughnecks reporting; <<load>>
+-> hotels symbol;
+case (sake scammed?)
+:prattling shopped;
+while (priority urinary?) is (snide immoral)
+:floral touch; <<save>>
+endwhile (concoction fucker)
+-[hidden]->
+detach
+case (trunks negligent?)
+fork
+:checker tapeworm;
+fork again
+:spelled moist;
+fork again
+:subsided phrase; <<save>>
+-> tornado sarcophagus;
+end merge
+endswitch
+@enduml

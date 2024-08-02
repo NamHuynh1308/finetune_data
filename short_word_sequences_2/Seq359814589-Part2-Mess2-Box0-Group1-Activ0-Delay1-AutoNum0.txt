@@ -1,0 +1,9 @@
+@startuml
+participant "mystifying dominion" as 0
+participant "tactic byline" as 1
+ [-> 0: major apostle
+opt researching admirable
+...conquered caution...
+1 -> 1: bump diminish
+end
+@enduml

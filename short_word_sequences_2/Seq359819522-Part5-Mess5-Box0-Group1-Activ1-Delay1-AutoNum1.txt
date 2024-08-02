@@ -1,0 +1,18 @@
+@startuml
+participant "disrupted metals" as 0
+participant "stew stinger" as 1
+participant "dictation cobra" as 2
+autonumber 4 8
+0 ->o 1: culmination refers
+create participant "dig stitched" as 3
+1 -> 3 : dig stitched
+3 -> 3++ : pedicure guineas
+par adenoids supposition
+create participant "deceptions dismember" as 4
+0 -> 4 : deceptions dismember
+autonumber stop
+...emission barrio...
+1 -> 1: projects capper
+end
+return slung pretzels
+@enduml

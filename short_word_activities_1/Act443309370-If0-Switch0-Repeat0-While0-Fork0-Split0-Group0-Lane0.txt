@@ -1,0 +1,6 @@
+@startuml
+start
+:always awesome; <<procedure>>
+-> expulsion landings;
+stop
+@enduml

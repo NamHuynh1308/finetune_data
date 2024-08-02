@@ -1,0 +1,18 @@
+@startuml
+participant "stranded crossbow" as 0
+box "morning giggling"
+participant "habitat similar" as 1
+participant "lawmen geese" as 2
+end box
+par paramour flavours
+1 --> 1: swatches clammed
+2 -// 2: claims cuticles
+ [<- 0: pee blotchy
+else able contraceptives
+ [<- 0: antibody monstrous
+else ivories twinkle
+0 -->x 2: starship disprove
+1 <-] : draw depressed
+else aurora regrettable
+end
+@enduml

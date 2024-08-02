@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:extinction senators;
+split again
+-[hidden]->
+fork
+:coworker wigs;
+fork again
+:ratings nearly;
+fork again
+:bars inquiry; <<continuous>>
+end merge
+split again
+-[hidden]->
+:muddle gander;
+end split
+if (piano heigh?) then (ape whatnot)
+(pacifist benjamin) elseif (boonies fathered?) then (electrolyte gallows)
+:bargain accountable; <<continuous>>
+-> truffles stapler;
+(machines fast) elseif (boomerang asteroid?) then (earthquake advisor)
+:abysmal bubbies; <<save>>
+(limps hour) elseif (bite cookie?) then (vegetable madmen)
+while (breast privacy?) is (rooms pliers)
+:stung overreacting;
+endwhile (marble gams)
+:shay unpacked;
+endif
+end
+@enduml

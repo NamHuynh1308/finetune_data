@@ -1,0 +1,42 @@
+@startuml
+|1| motorcycle pitiful
+|2| conversation meals
+split
+-[hidden]->
+:vented impersonate;
+split again
+-[hidden]->
+:shields accidently; <<procedure>>
+-> mick chaperon;
+split again
+-[hidden]->
+:tutoring grandkid; <<load>>
+-> circling joes;
+split again
+-[hidden]->
+:travellers jingling; <<load>>
+end split
+|2|
+split
+:inch counts;
+split again
+:guarded luv;
+split again
+:midlife middies; <<load>>
+split again
+fork
+:peacefully corker;
+fork again
+:gypped reimbursed;
+fork again
+:momentarily cabinet;
+end fork
+end split
+|1|
+:countries magnitude; <<procedure>>
+-> ballot throwing;
+|2|
+:loving handouts;
+-> preserve unlisted;
+end
+@enduml

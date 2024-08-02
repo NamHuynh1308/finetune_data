@@ -1,0 +1,17 @@
+@startuml
+group bustier crash
+split
+:dunking whore;
+split again
+switch (resist flashlight?)
+case (runner headmaster?)
+:meatballs chef;
+case (cheaper porter?)
+:goldenrod fleabag;
+endswitch
+split again
+:seeing parka; <<input>>
+end split
+stop
+end group
+@enduml

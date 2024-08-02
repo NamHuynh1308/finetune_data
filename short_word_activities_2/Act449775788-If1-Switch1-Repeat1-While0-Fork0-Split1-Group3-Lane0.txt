@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:inconsistent pappy;
+split again
+-[hidden]->
+switch (systems executed?)
+case (antidepressants boning?)
+:bizarre baptized; <<save>>
+-> proving centerpiece;
+case (visitor erosion?)
+:businessman mattresses; <<save>>
+case (lambert statistical?)
+:salad visor;
+case (ounce written?)
+:pinochle sunflowers;
+endswitch
+split again
+-[hidden]->
+:confidential checking;
+-> narrative sits;
+end split
+group eagles likewise
+if (primordial configuration?) then (sis clunkers)
+:bedpans kimono;
+-> suckered french;
+:privileged waits; <<input>>
+-> bazaar blasted;
+else (gladly pout)
+:reflective backstroke;
+kill
+endif
+group hyenas streetwalker
+:debacle draws;
+group energized scones
+repeat
+:guerilla mistrust; <<input>>
+-> fluorescent frankfurter;
+:ling apprentice; <<output>>
+:episodes developed;
+if (sharpening mothering) then (delinquent lavish)
+:biting happens;
+break
+endif
+->dent openness;
+:smearing movements;
+repeat while (lemon manufacture?) is (coroners shriveled)
+-> shape dandelion;
+stop
+end group
+end group
+end group
+@enduml

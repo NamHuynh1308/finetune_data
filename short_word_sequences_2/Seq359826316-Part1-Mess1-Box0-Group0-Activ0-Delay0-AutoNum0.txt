@@ -1,0 +1,4 @@
+@startuml
+participant "valued concord" as 0
+0 <-] : undercurrent incubator
+@enduml

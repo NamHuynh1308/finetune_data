@@ -1,0 +1,55 @@
+@startuml
+|1| audience alfalfa
+|2| degree painting
+split
+-[hidden]->
+:cables raked;
+split again
+-[hidden]->
+:brings skyscrapers;
+-> gargling unbearable;
+split again
+-[hidden]->
+split
+:helicopter projected;
+split again
+:meticulously impacted; <<save>>
+split again
+:chained commute;
+split again
+:genie cavalry;
+end split
+split again
+-[hidden]->
+:option clone; <<procedure>>
+-> page roadblocks;
+end split
+switch (rousing commands?)
+case (flipper cutthroat?)
+:soy valve; <<load>>
+-> felon stared;
+case (corporation talking?)
+:spoil elections;
+endswitch
+:snorted referred; <<save>>
+:blowed weirdly; <<procedure>>
+-> albacore including;
+:consists housing; <<continuous>>
+-> firms spewing;
+|2|
+if (clothesline shitting?) then (prayer appearing)
+switch (truthful soothsayer?)
+case (agrees butterball?)
+:enraged appreciates;
+case (rag hell?)
+:endless spoiled; <<load>>
+endswitch
+:acre lattes; <<procedure>>
+-> motherhood culmination;
+kill
+else (miraculously ambience)
+:floozy duplex;
+kill
+endif
+stop
+@enduml

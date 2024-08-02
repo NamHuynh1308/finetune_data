@@ -1,0 +1,23 @@
+@startuml
+box "contrite shafted"
+participant "indigo baroque" as 0
+participant "soothsayer wholesome" as 1
+box "procrastination pals"
+participant "poking wildly" as 2
+participant "analyse deficit" as 3
+end box
+end box
+== birdies informer ==
+3 -> 3!! : legends grandmothers
+par ambition cadavers
+3 -> 0: suburb legendary
+alt padlock wrapped
+1 -> 1: twain dismissive
+...saran hank...
+3 <-> 1++ : heart yes
+end
+0 -> 1!! : vertical feelings
+return soviet die
+end
+ [-> 0: condemn amoral
+@enduml

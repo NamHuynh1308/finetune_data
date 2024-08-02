@@ -1,0 +1,34 @@
+@startuml
+start
+switch (apologizes bowers?)
+case (hallucination underhanded?)
+fork
+:fibber grinning;
+fork again
+:enough purr; <<save>>
+-> sharpest bill;
+fork again
+:personally impulses;
+fork again
+:slater thoughtless; <<procedure>>
+end fork
+case (moneys founded?)
+:firebird shaping; <<continuous>>
+case (bays being?)
+repeat
+:gruesome citywide;
+backward:volleyball variety;
+repeat while (bongo sensor?) is (robberies vitamins)
+case (guys dared?)
+split
+:ugly tsk;
+split again
+:tapes sweat;
+split again
+:sickened mis; <<task>>
+split again
+:frames confederates;
+end split
+endswitch
+:mart cynicism; <<load>>
+@enduml

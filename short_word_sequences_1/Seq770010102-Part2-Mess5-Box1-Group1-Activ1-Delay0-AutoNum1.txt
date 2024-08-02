@@ -1,0 +1,17 @@
+@startuml
+participant "actuarial honor" as 0
+box "priest petitioning"
+participant "squeegee spectre" as 1
+end box
+autonumber 4 5
+1 -> 0: secrecy cheddar
+autonumber stop
+critical thrash wining
+0 ->] : scoops mousey
+0 ->x 0: vive poles
+1 -> 1: cleave tapioca
+else purposely jones
+0 -> 0++ : prisoners roads
+end
+return demolish scuzzy
+@enduml

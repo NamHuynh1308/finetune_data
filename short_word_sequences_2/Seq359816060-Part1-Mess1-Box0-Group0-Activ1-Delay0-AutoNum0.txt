@@ -1,0 +1,6 @@
+@startuml
+participant "colonies legislate" as 0
+== contains maliciously ==
+0 <-> 0++ : evaluations refrain
+return rinsing bureaucrats
+@enduml

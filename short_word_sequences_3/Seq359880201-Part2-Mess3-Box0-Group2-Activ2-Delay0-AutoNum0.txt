@@ -1,0 +1,13 @@
+@startuml
+participant "cook sweatshirt" as 0
+participant "lactose flips" as 1
+0 -> 1++ : hillcrest attired
+loop crest oceanographic
+1 ->x 0++ : agency abnormal
+loop pah dragged
+1 <-> 0: can narcotic
+end
+end
+return panhandle perspective
+return laid tomb
+@enduml

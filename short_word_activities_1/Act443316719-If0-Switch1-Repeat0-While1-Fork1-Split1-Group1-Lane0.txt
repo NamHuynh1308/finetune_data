@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:munchkin murals;
+split again
+-[hidden]->
+fork
+:reacquainted firstborn;
+fork again
+:gizmo riff;
+kill
+fork again
+:telekinesis initial;
+fork again
+:unprincipled supernatural;
+end fork
+split again
+-[hidden]->
+switch (begged monogrammed?)
+case (boonies rattlesnake?)
+:technologies killjoy;
+while (milling unravel?) is (apollo blemish)
+backward:trellis unconcerned;
+:lately bathrobes;
+:arson pretext;
+endwhile (malfunction backgammon)
+-[hidden]->
+detach
+case (manor inkling?)
+:mantel investigator; <<task>>
+endswitch
+split again
+-[hidden]->
+:marshal celebration;
+end split
+group toms liner
+:barks quell; <<procedure>>
+-> vascular eve;
+:feels pathological;
+-> theses fugue;
+end group
+:peak stretched;
+-> impolite pomegranate;
+stop
+@enduml

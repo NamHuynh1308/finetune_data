@@ -1,0 +1,17 @@
+@startuml
+box "infections prankster"
+participant "masters binder" as 0
+participant "raisins libation" as 1
+end box
+participant "fortunate poofs" as 2
+participant "billionaire couriers" as 3
+ [<- 0: ye saw
+1 ->o 2: wiping bailiff
+1 -> 3: sunspots rebellious
+2 -> 0: liter dudes
+...wag hanky...
+3 -> 3++ : jail smoother
+3 -// 1++ : combines willingly
+return hocus noir
+return organism skyscrapers
+@enduml

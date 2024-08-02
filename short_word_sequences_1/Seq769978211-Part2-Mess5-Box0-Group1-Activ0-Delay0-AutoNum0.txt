@@ -1,0 +1,11 @@
+@startuml
+participant "sickos landlord" as 0
+participant "liquidate players" as 1
+ [<- 1: catastrophic pools
+0 <-] : staring bottles
+1 -> 0: hicks concerns
+0 -> 0: shorthand gouge
+opt slapped public
+0 -\\ 1: other responsibilities
+end
+@enduml

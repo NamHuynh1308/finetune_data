@@ -1,0 +1,23 @@
+@startuml
+participant "procession selecting" as 0
+participant "buffer bennet" as 1
+participant "retreat read" as 2
+0 -> 1: ambition autism
+critical rendered gamut
+...nirvana venom...
+0 -->x 2++ : compass furthest
+break desperately taller
+1 -> 0++ : agricultural hopes
+alt headphones die
+create participant "eels bleaching" as 3
+2 -> 3 : eels bleaching
+return radically daylights
+2 -> 3: mood crossfire
+return fertilize beleaguered
+opt plan perversion
+0 -// 3: spoilsport bees
+end
+end
+end
+end
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+participant "sleeper tong" as 0
+0 -> 0!! : climax chopping
+@enduml

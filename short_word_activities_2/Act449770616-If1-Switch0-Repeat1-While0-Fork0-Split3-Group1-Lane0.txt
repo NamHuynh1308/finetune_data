@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:jaded significant;
+split again
+-[hidden]->
+:conjecture does; <<procedure>>
+-> emerald peters;
+split again
+-[hidden]->
+:weekend vests;
+end split
+group jell quake
+if (cordless injuries?) then (flak restaurants)
+:melted soprano; <<save>>
+split
+:gorilla juncture;
+split again
+:croquet guns;
+split again
+:fared overcooked; <<continuous>>
+end split
+else (shovel atmosphere)
+repeat
+:turbulence rooming;
+repeat while (tool tuition?) is (operator aforementioned)
+-> shuffling understatement;
+split
+:muggers inhaling;
+split again
+:burnout disagreed;
+-> yippee endorphins;
+split again
+:jerseys command;
+split again
+:weaken garibaldi;
+end split
+endif
+stop
+end group
+@enduml

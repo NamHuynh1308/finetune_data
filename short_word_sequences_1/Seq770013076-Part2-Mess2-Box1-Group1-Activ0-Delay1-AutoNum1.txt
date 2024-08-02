@@ -1,0 +1,15 @@
+@startuml
+participant "care statues" as 0
+box "fantastically beautiful"
+participant "words disrupting" as 1
+end box
+== bungalow cemeteries ==
+autonumber 0 1
+alt carr troubled
+1 -> 1: moreover cooling
+autonumber stop
+...payload punishing...
+1 -> 1: presently constitutes
+autonumber resume
+end
+@enduml

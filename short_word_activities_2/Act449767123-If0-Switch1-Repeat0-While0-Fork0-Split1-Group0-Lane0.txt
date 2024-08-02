@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:pilot approaching;
+split again
+-[hidden]->
+:botanical miserably; <<procedure>>
+split again
+-[hidden]->
+:pessimistic bath; <<task>>
+-> indict reclining;
+end split
+switch (premonition affiliates?)
+case (pedestal grinning?)
+:steady targeted; <<procedure>>
+case (batter glaze?)
+:petals padded; <<input>>
+-> cucumber flicking;
+endswitch
+:invited slamming; <<save>>
+-> swizzle fridge;
+:neat bluffs;
+@enduml

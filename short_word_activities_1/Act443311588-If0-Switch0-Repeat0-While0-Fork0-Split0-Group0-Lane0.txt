@@ -1,0 +1,8 @@
+@startuml
+start
+:delinquent requisition; <<output>>
+:disputing amiable;
+:executing outfit;
+-> lobsters survivor;
+end
+@enduml

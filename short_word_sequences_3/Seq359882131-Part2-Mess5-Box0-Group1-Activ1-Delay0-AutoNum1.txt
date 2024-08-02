@@ -1,0 +1,16 @@
+@startuml
+participant "hitched repeated" as 0
+participant "tagging louie" as 1
+autonumber 5 4
+1 -// 0: sans nickel
+autonumber stop
+1 ->x 0++ : regina homing
+0 -->x 1: beaucoup merrily
+return needless futon
+autonumber resume
+0 --> 0: silk revisions
+autonumber stop
+alt collector harness
+0 -->x 1: applause refugee
+end
+@enduml

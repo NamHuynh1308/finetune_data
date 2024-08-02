@@ -1,0 +1,9 @@
+@startuml
+participant "lecture salmon" as 0
+== appraisal psychotic ==
+autonumber 1 0
+0 -> 0: dessert scrappy
+0 -->x 0: curran howe
+0 <-> 0: breakfast poverty
+autonumber stop
+@enduml

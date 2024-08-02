@@ -1,0 +1,15 @@
+@startuml
+box "besides only"
+participant "imbedded watch" as 0
+participant "logs ugh" as 1
+end box
+1 ->> 0: inspire niche
+par rewind fundraiser
+0 -->x 1++ : wording silence
+alt eloquently thunder
+...proclaimed civilization...
+0 ->] : throne stretches
+end
+end
+return butlers chamber
+@enduml

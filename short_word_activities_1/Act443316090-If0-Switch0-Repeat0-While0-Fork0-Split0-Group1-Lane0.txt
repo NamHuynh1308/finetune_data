@@ -1,0 +1,9 @@
+@startuml
+start
+:madder bible; <<task>>
+-> doodles bomb;
+group turndown lotto
+:dishonest glassware;
+stop
+end group
+@enduml

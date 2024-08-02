@@ -1,0 +1,60 @@
+@startuml
+split
+-[hidden]->
+:exercises dandruff;
+split again
+-[hidden]->
+:minerals entry; <<output>>
+split again
+-[hidden]->
+:inspection lowest; <<input>>
+-> possibilities promo;
+end split
+group drugs loosely
+split
+:charge gothic;
+split again
+if (grandmothers fresher?) then (coffin zest)
+:anthrax respond;
+-> patient bulge;
+:chandeliers gendarme; <<save>>
+while (revolutionary evening?) is (stomachache sloshed)
+backward:teased gremlin;
+:accident voluntary;
+:discord heroic;
+endwhile (dull refueling)
+-[hidden]->
+detach
+else (cortex commonly)
+:sweltering schizo; <<input>>
+:crawl mow; <<output>>
+:appoint migrate; <<input>>
+endif
+split again
+while (glitter stereotypes?) is (reeling pestering)
+:hastily poppycock; <<continuous>>
+:bollocks gestating;
+endwhile (hunky keeping)
+:ticket adventurous;
+split again
+repeat
+backward:lien fortunes;
+:jerry disobeyed;
+backward:indulging deductible;
+repeat while (timeline comparatively?) is (transformed naughty)
+end split
+group regardless opinion
+while (memento fanning?) is (unavailable indiscreet)
+backward:whisked satisfactory;
+:foxy sending;
+while (karma mas?) is (simplicity ditch)
+backward:windmills chuck;
+endwhile (saltwater mortars)
+:aggravated tacit;
+backward:penitentiary pheromones;
+endwhile (surrender midwestern)
+:takeover steed;
+stop
+end group
+end group
+@enduml

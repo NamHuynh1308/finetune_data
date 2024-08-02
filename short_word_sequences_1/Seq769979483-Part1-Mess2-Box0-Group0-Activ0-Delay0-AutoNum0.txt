@@ -1,0 +1,5 @@
+@startuml
+participant "negative sparrow" as 0
+0 -> 0: interpretive projectile
+0 --//o 0: greasing no
+@enduml

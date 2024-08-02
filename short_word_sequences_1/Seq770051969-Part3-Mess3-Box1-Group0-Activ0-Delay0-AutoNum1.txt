@@ -1,0 +1,12 @@
+@startuml
+participant "derriere canoe" as 0
+box "chaplain congratulating"
+participant "thicker domes" as 1
+participant "cutest nonissue" as 2
+end box
+autonumber 5 9
+ [<- 0: nonexistent some
+2 ->] : oblique repetitive
+autonumber stop
+0 -> 1: begun experimenting
+@enduml

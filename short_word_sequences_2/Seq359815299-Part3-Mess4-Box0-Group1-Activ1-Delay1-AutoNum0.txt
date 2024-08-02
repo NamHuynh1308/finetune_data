@@ -1,0 +1,14 @@
+@startuml
+participant "squared primary" as 0
+participant "grind optimism" as 1
+participant "sugar clocked" as 2
+== missionaries ashram ==
+1 <-> 0: laces hostility
+par trust romeo
+...flopping wherein...
+2 <-] : earful ewe
+2 ->x 2++ : quaint recorder
+0 -\\ 0: defies infestation
+end
+return ribbed caseload
+@enduml

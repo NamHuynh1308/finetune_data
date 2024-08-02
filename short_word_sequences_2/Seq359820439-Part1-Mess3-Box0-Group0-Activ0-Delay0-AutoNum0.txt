@@ -1,0 +1,7 @@
+@startuml
+participant "implication swim" as 0
+== stodgy regrets ==
+0 ->> 0: yeh difference
+0 --//o 0: transfer panama
+0 -> 0!! : can droves
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:lite pied;
+split again
+-[hidden]->
+:projected praised;
+split again
+-[hidden]->
+:treads convene;
+kill
+end split
+:dissed relate;
+group doornail indulging
+:devotion imagined; <<load>>
+stop
+end group
+@enduml

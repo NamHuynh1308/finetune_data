@@ -1,0 +1,16 @@
+@startuml
+start
+switch (silks guest?)
+case (bookends disappear?)
+:loading saber;
+case (whale vigilant?)
+:alderman refuge;
+case (ole multitude?)
+:cages unlock;
+-> autobiographical weaning;
+endswitch
+:omelettes reindeer; <<task>>
+:charade godson; <<procedure>>
+-> imposed pointe;
+stop
+@enduml

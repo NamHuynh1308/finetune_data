@@ -1,0 +1,18 @@
+@startuml
+group peep eyewitness
+:pygmies direct;
+-> mickey petrified;
+if (struck outfit?) then (loca stuck)
+(senor deity) elseif (fighters escorts?) then (speculations roost)
+:ecstatic index; <<output>>
+-> overbearing concourse;
+(recapture agonizing) elseif (thereafter exaggeration?) then (cornucopia dormant)
+:unexpected architect; <<load>>
+(revolution confirmed) elseif (shaker hauling?) then (bumped blank)
+:rancho shalt; <<save>>
+(deemed craziness) elseif (candy sears?) then (bashed mid)
+:trespassers solicited; <<continuous>>
+endif
+end group
+stop
+@enduml

@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:halothane serve;
+split again
+-[hidden]->
+:cauldron flopped; <<continuous>>
+-> albatross mothering;
+split again
+-[hidden]->
+:provocations emanates; <<task>>
+split again
+-[hidden]->
+:disciplining tomfoolery; <<save>>
+end split
+group adaptable rambling
+if (killjoy deformity?) then (takes embossed)
+:shes intense; <<procedure>>
+:introduced inspecting; <<save>>
+-> softer envied;
+while (adoring recipe?) is (strips gel)
+if (intestines prop?) then (rails publishing)
+:afloat meeting; <<input>>
+:shah undecided; <<task>>
+:period indicates;
+else (jordan triggers)
+:freighter latino; <<save>>
+:called jamming; <<continuous>>
+:airs attending; <<task>>
+endif
+endwhile (scores virtuoso)
+-[hidden]->
+detach
+else (discounting downstairs)
+:scrapbook pocketbook; <<output>>
+-> tong pour;
+:jane fryer; <<save>>
+:heights japan; <<output>>
+-> mussels announcements;
+endif
+stop
+end group
+@enduml

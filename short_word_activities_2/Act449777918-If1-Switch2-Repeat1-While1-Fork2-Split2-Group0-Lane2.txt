@@ -1,0 +1,67 @@
+@startuml
+|1| intercepting pages
+|2| pucker relatives
+split
+-[hidden]->
+:proteus jockey;
+split again
+-[hidden]->
+:matchbook phone;
+split again
+-[hidden]->
+:warnings calzones;
+kill
+end split
+:german magicians;
+switch (chase bellyaching?)
+case (paths upstairs?)
+fork
+:tied steroids;
+fork again
+:sails miserable;
+fork again
+:grudging kane;
+end merge
+case (cuticles divest?)
+:liver storage; <<output>>
+endswitch
+fork
+:clanging comments;
+fork again
+:autistic hardwired; <<procedure>>
+fork again
+:eloquence spade; <<task>>
+end fork
+|2|
+if (drawback lovingly?) then (elegance fez)
+repeat
+backward:sadist metal;
+repeat while (estimated reassemble?) is (needy skit)
+:judge backside; <<continuous>>
+-> vented crank;
+:poppy forgetful; <<continuous>>
+else (visions sacrilege)
+:stately institution; <<task>>
+endif
+|1|
+switch (embrace horizon?)
+case (afterlife investors?)
+:lifeless calmly;
+while (ligament anthropology?) is (speller agonizing)
+split
+:gossiping dryer;
+split again
+:apes numbness;
+split again
+:toys als; <<save>>
+split again
+:assemblies electroshock;
+end split
+endwhile (amputation pancake)
+-[hidden]->
+detach
+case (lurch radiant?)
+:pacifier casserole; <<load>>
+-> quirky administrators;
+endswitch
+@enduml

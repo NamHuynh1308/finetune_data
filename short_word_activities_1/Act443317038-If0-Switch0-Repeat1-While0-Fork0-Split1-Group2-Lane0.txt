@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:autopsy potions;
+split again
+-[hidden]->
+:stabilized sandwich; <<input>>
+split again
+-[hidden]->
+:imbecile stipulates;
+split again
+-[hidden]->
+repeat
+:feels antibiotic;
+:risotto touchy;
+repeat while (sis maniacs?) is (torturing champions)
+end split
+group telegrams paragraphs
+:incomparable landlady; <<procedure>>
+group episodes tasty
+:brandy hall;
+stop
+end group
+end group
+@enduml

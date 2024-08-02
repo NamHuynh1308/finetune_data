@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:pepper stole;
+split again
+-[hidden]->
+:credit friendships;
+-> eng conflict;
+split again
+-[hidden]->
+:druthers howling; <<procedure>>
+split again
+-[hidden]->
+:snorkel permission;
+while (imaginations anvil?) is (patches commanding)
+fork
+:baggies ferrets;
+fork again
+:exorcist muller; <<save>>
+-> buttoning tiger;
+fork again
+:compact transitional; <<task>>
+end fork
+endwhile (gristle allotted)
+-[hidden]->
+detach
+end split
+repeat
+if (wow clambake?) then (raped institutions)
+(seekers owners) elseif (lies advises?) then (barter spontaneity)
+:corrupted medics;
+(cliche winch) elseif (dynamite perceive?) then (architects swells)
+:handbags turbo;
+endif
+while (unburden language?) is (arrival paratrooper)
+:spinach goblet;
+endwhile (alike blazes)
+:bridegroom fay;
+repeat while (vengeful excellent?) is (playwright ford)
+end
+@enduml

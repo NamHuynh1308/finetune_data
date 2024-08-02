@@ -1,0 +1,15 @@
+@startuml
+participant "pockets dunking" as 0
+box "regulated rocky"
+participant "smarts regarding" as 1
+end box
+autonumber 8 0
+0 ->> 1: vanquishing mastectomy
+create participant "swords drinkers" as 2
+1 -> 2 : swords drinkers
+break umpire baddest
+2 -->x 1: mislead drained
+autonumber stop
+0 --> 0: pseudo installments
+end
+@enduml

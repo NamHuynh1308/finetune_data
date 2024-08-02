@@ -1,0 +1,29 @@
+@startuml
+participant "single downside" as 0
+box "herds dishwasher"
+participant "coasters empress" as 1
+participant "sundae squealed" as 2
+participant "flea cam" as 3
+participant "investigates decisive" as 4
+end box
+autonumber 0 3
+ [<- 4: voluntary sixteenth
+autonumber stop
+1 -> 2++ : ladyship sympathy
+autonumber resume
+alt emerge cranial
+1 -> 0: mediator pertinent
+return plaza subterranean
+...gimmicks hospitals...
+2 ->o 3: legislative topped
+autonumber stop
+loop greed carnie
+3 -->x 2++ : winking lot
+autonumber resume
+...hup thongs...
+3 ->x 2: devoted taller
+else pandora solarium
+end
+end
+return reread cautious
+@enduml

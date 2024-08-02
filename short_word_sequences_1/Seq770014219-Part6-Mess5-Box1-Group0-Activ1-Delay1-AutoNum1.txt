@@ -1,0 +1,20 @@
+@startuml
+participant "gutless sexiest" as 0
+participant "saw ears" as 1
+box "shopping tormented"
+participant "monkeys complicates" as 2
+participant "pest rambling" as 3
+end box
+autonumber 3 0
+create participant "tuna catsup" as 4
+0 -> 4 : tuna catsup
+create participant "knit haze" as 5
+1 -> 5 : knit haze
+0 -->x 2++ : modified bibles
+autonumber stop
+0 -->x 4: hounds kneecaps
+...presidential strawberry...
+3 ->] : sensibility sexual
+autonumber resume
+return pediatrics sing
+@enduml

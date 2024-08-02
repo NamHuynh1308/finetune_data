@@ -1,0 +1,5 @@
+@startuml
+participant "backs instrument" as 0
+autonumber 1 4
+0 ->o 0: voted heroics
+@enduml

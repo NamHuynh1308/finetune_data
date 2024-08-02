@@ -1,0 +1,15 @@
+@startuml
+participant "receptive hayward" as 0
+box "exposing afforded"
+participant "gumshoe gooney" as 1
+box "pawning praising"
+participant "robe concrete" as 2
+end box
+end box
+create participant "airing swatting" as 3
+1 -> 3 : airing swatting
+...cozying catastrophe...
+ [<- 1: paving yin
+1 -> 3!! : males technicalities
+0 -> 3!! : hallmark bungee
+@enduml

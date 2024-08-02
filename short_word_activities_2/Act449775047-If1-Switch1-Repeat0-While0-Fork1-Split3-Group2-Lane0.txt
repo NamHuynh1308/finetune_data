@@ -1,0 +1,64 @@
+@startuml
+split
+-[hidden]->
+:valentines lights;
+split again
+-[hidden]->
+if (well marquis?) then (evasions contribute)
+(release loaded) elseif (mortuary northwest?) then (shtick relative)
+:impediments steely;
+(disobedience bound) elseif (youth weaver?) then (freshest rider)
+:ablaze kaiser;
+(petrol maps) elseif (salty agricultural?) then (manufactured nature)
+:wedding frightfully;
+-> booklets awry;
+(niggers hydrolase) elseif (slams rehearse?) then (kilometers sleazeball)
+:rancher clogs;
+endif
+split again
+-[hidden]->
+:skateboard preach;
+split again
+-[hidden]->
+:worrisome enthusiastic;
+end split
+group cedar heartbreak
+switch (quirk competition?)
+case (donors undermine?)
+split
+:image hazards;
+split again
+:paltry seeds;
+-> above slipping;
+split again
+:upholstery legislation; <<save>>
+-> cleats hurry;
+end split
+case (vowed gone?)
+fork
+:interviews reinventing;
+fork again
+:adventurer smelled;
+-> varicose entomologist;
+fork again
+:rearing members;
+fork again
+:approach decomposing; <<save>>
+-> transferred jumper;
+end fork
+endswitch
+:sprinkler grown; <<continuous>>
+end group
+group accessory frames
+split
+:breach lager;
+split again
+:muddy compute;
+split again
+:clarence grub; <<load>>
+split again
+:bonnie wigs;
+end split
+stop
+end group
+@enduml

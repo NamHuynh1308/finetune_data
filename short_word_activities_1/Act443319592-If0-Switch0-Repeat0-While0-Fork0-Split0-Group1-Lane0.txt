@@ -1,0 +1,7 @@
+@startuml
+start
+group stereo anon
+:sizeable ambient; <<continuous>>
+stop
+end group
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "properly shaves" as 0
+participant "rehearsals conspirators" as 1
+create participant "jammies tas" as 2
+0 -> 2 : jammies tas
+0 <-] : stoolie criteria
+0 --> 0++ : mail diagnostician
+return keynote spins
+@enduml

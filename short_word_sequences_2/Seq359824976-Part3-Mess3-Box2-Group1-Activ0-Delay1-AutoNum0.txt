@@ -1,0 +1,15 @@
+@startuml
+box "gusto auction"
+participant "cross stain" as 0
+box "cooing talcum"
+participant "charted bowman" as 1
+participant "brisket misinterpreting" as 2
+end box
+end box
+1 -> 1!! : smells conversational
+...confidentiality commendable...
+1 --//o 1: incantation efforts
+par retina discounts
+2 ->> 1: mileage automobile
+end
+@enduml

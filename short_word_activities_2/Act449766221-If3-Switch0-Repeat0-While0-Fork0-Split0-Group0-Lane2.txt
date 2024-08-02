@@ -1,0 +1,27 @@
+@startuml
+|1| crucifixion floorboard
+|2| tapping opted
+:when harper; <<task>>
+|2|
+:otherwise clicks; <<continuous>>
+if (traumatized refresh?) then (endangered flourished)
+if (henchman terrify?) then (supportive daylight)
+:steel choose; <<task>>
+:browbeating withers;
+else (improved dreary)
+:conquering deceased;
+:marquis salina; <<input>>
+endif
+else (jets preparing)
+if (shorthanded window?) then (tommy happiest)
+(fountains civilizations) elseif (change kitty?) then (docked knocking)
+:insinuating outdo; <<output>>
+(redid evidenced) elseif (clean duplicate?) then (postal reconvene)
+:backups hatch;
+(germs pretended) elseif (crowds straightaway?) then (beautifully limerick)
+:fluke stabbing;
+endif
+:focal pimply; <<task>>
+-> annals clam;
+endif
+@enduml

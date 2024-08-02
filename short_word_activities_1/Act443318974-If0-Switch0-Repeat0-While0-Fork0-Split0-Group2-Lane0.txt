@@ -1,0 +1,11 @@
+@startuml
+start
+group brainwash deserted
+:rabbits syringe; <<task>>
+group convene interfacing
+:steroid incapacitated; <<procedure>>
+-> tumors gigs;
+stop
+end group
+end group
+@enduml

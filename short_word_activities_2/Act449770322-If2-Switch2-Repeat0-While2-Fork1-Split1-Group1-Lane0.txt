@@ -1,0 +1,78 @@
+@startuml
+split
+-[hidden]->
+:honest scorned;
+split again
+-[hidden]->
+:chairman diseases; <<output>>
+-> diets errors;
+split again
+-[hidden]->
+:coached demonstrate;
+split again
+-[hidden]->
+:enraged folly; <<input>>
+-> desperado troubled;
+end split
+group scavenging absorbed
+:stoic rejuvenating;
+if (granddad allotted?) then (sapiens jackasses)
+:swaying murders; <<procedure>>
+while (pharmacy reaches?) is (ailing binge)
+backward:carpentry quarter;
+:occur whole;
+switch (flags fulfilling?)
+case (organism kay?)
+:destroys bussing; <<continuous>>
+-> hogwash decomposed;
+case (reefer scale?)
+:hostilities haw;
+case (suspects oak?)
+:sprightly unnerved; <<load>>
+endswitch
+if (eclectic prosthetic?) then (girlfriend reliance)
+:spice undergoing; <<input>>
+-> curtsy shabbily;
+:instincts unshakable;
+:huffing pitted; <<task>>
+-> conspiracy regardless;
+else (forfeit copilot)
+:assistants parenthood; <<input>>
+-> preventive blamed;
+:traces grips;
+kill
+endif
+endwhile (deviated prep)
+-[hidden]->
+detach
+else (postmaster harriers)
+:economically demanding; <<procedure>>
+switch (purpose cottage?)
+case (vermin valentine?)
+:sighting diplomas;
+case (replied mole?)
+:freebie subtitle;
+case (fallback apologise?)
+:topaz succinct; <<load>>
+-> bathrobes workstation;
+case (pigtails stagnant?)
+:devoted quitter;
+while (retrograde bathroom?) is (senile renting)
+backward:multiplied crawly;
+:hotcakes alright;
+endwhile (chart testicle)
+-[hidden]->
+detach
+endswitch
+fork
+:trawler beau;
+fork again
+:newton refund;
+kill
+fork again
+:liking calcium;
+end merge
+endif
+end group
+stop
+@enduml

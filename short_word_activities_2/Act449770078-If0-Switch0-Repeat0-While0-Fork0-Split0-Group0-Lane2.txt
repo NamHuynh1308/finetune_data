@@ -1,0 +1,14 @@
+@startuml
+|1| swedes navy
+|2| filtered research
+|1|
+start
+|2|
+:arrival moral; <<task>>
+-> artistic gonzo;
+:deficiencies rosebuds;
+-> pointy statistical;
+:aquatic mountainside;
+-> subjects ammunition;
+end
+@enduml

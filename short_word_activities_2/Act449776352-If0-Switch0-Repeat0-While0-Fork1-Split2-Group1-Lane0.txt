@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:aristocratic hunter;
+split again
+-[hidden]->
+:potting businesswoman; <<load>>
+split again
+-[hidden]->
+fork
+:toothed stealthy;
+fork again
+:semblance coed;
+fork again
+:wiggle untrue;
+end merge
+end split
+group preaching midwife
+:reach outward;
+-> riches thinks;
+split
+:triumph cower;
+split again
+:proportional disprove; <<load>>
+-> raven blossoms;
+split again
+:apologizes willing; <<task>>
+end split
+end group
+end
+@enduml

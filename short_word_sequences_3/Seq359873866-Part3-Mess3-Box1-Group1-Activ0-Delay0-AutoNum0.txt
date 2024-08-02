@@ -1,0 +1,13 @@
+@startuml
+box "scribbling squads"
+participant "bench vanishing" as 0
+participant "nurtured hamper" as 1
+participant "open gills" as 2
+end box
+== beeper bucko ==
+0 <-] : nutcase aga
+opt col kinder
+2 <-> 1: ostracized pretends
+2 --//o 2: invoked benching
+end
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:extraterrestrial dossier;
+split again
+-[hidden]->
+:buckled torpedo; <<continuous>>
+split again
+-[hidden]->
+fork
+:appraisal narwhal;
+fork again
+:marching amended; <<load>>
+fork again
+:heinie supervising;
+end fork
+split again
+-[hidden]->
+:undies melts; <<save>>
+-> brethren starlets;
+end split
+group guarantee tidy
+:acme overlooking; <<input>>
+:lemonade encyclopedia;
+end group
+stop
+@enduml

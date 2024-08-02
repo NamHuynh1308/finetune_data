@@ -1,0 +1,102 @@
+@startuml
+|1| expectations embodied
+|2| erased reached
+split
+-[hidden]->
+:dots pockets;
+split again
+-[hidden]->
+if (recruits unsuccessful?) then (scouting fence)
+:vertigo fervor; <<task>>
+-> shrunk porky;
+while (heights ruby?) is (hangouts basketballs)
+:replicating argue;
+:wasting weasels; <<input>>
+-> wealthy argued;
+backward:yanking uncharacteristically;
+endwhile (indifference roger)
+-[hidden]->
+detach
+else (staked nelson)
+:mischief tooth; <<task>>
+:amends droppings;
+:gargoyles champions; <<input>>
+-> profusely cutout;
+endif
+split again
+-[hidden]->
+:remarry avengers; <<input>>
+-> expansion companies;
+end split
+if (inexpensive bottomed?) then (villages detected)
+(carburetor folksy) elseif (diminutive wiser?) then (ramp lapdog)
+:talented plank; <<task>>
+(retrofit thumbing) elseif (manicure reduction?) then (accountant embellished)
+split
+:familiar recuperate;
+split again
+:labels fryer;
+split again
+:polyester snagged; <<output>>
+-> condiment bangers;
+end split
+(fatigues tested) elseif (whatsoever recreation?) then (twin matched)
+:dsmjdr;
+while (amounts candlelight?) is (renege filthy)
+backward:clothing nuts;
+while (pardner beau?) is (telescopic seventies)
+:classification filtration;
+backward:canasta tar;
+endwhile (punched standing)
+:fugitives prematurely;
+split
+:poppy rips;
+split again
+:rundown disorientation;
+split again
+:hummed stunk;
+end split
+:tales carvings;
+-> enlist waste;
+endwhile (stability dynamite)
+-[hidden]->
+detach
+(deviation diarrhea) elseif (licence snowy?) then (myth deodorant)
+if (exploit traumatizing?) then (contributions reptiles)
+:drab flattery;
+:fastened bride; <<task>>
+-> patio volunteered;
+:workings challenged; <<continuous>>
+kill
+else (loser hide)
+:folder fascinated;
+endif
+endif
+|2|
+switch (spencers mortgage?)
+case (tow hello?)
+:payload manifests; <<output>>
+case (sinned sorbet?)
+:abnormal reasons; <<continuous>>
+case (guillotine magician?)
+:ardent jin; <<task>>
+case (stoner manufactures?)
+:arriving flooded; <<load>>
+-> respond bedtime;
+endswitch
+while (bartender flaws?) is (butcher columns)
+backward:supervised sampled;
+if (livelihood extremism?) then (riddance gulch)
+(hymns tammy) elseif (crawling steppe?) then (cautious angling)
+:mulligan ticked;
+-> runaround dependent;
+(peddle footed) elseif (sewer barmaid?) then (rejecting portfolio)
+:aforementioned embarrassment; <<procedure>>
+(paparazzi speech) elseif (atheists quoted?) then (cheated cloak)
+:injure manufactured; <<load>>
+-> stung lips;
+endif
+endwhile (pleaser prof)
+:nil burke;
+end
+@enduml

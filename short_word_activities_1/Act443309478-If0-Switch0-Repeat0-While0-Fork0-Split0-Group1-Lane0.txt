@@ -1,0 +1,8 @@
+@startuml
+start
+group elaborate loads
+:informs showers;
+:survivors reinvented;
+end group
+end
+@enduml

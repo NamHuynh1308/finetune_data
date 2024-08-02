@@ -1,0 +1,7 @@
+@startuml
+box "talks kaiser"
+participant "hong hags" as 0
+end box
+0 ->> 0: guidelines enlightenment
+0 <-] : creased breathtaking
+@enduml

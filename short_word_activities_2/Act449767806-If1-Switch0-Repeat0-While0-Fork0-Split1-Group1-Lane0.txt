@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:commandos os;
+split again
+-[hidden]->
+:unofficial grindstone; <<task>>
+split again
+-[hidden]->
+:giggle terrify; <<task>>
+-> selected mocks;
+split again
+-[hidden]->
+if (koi organise?) then (alphabetically procession)
+(baton chord) elseif (playoffs vested?) then (requisitions functions)
+:snuck viewers; <<load>>
+(luau accessories) elseif (scanners muskie?) then (illusion mangy)
+:described considers;
+(squishing client) elseif (honours bashed?) then (editor rainstorm)
+:attacked upset; <<load>>
+(oxygen lamp) elseif (caribou opponents?) then (baste vindictiveness)
+:endive failings;
+-> chanting landscaping;
+endif
+end split
+group patrolled launcher
+:dalton teammates; <<continuous>>
+:consequences practice;
+end group
+:blissful telekinetic;
+stop
+@enduml

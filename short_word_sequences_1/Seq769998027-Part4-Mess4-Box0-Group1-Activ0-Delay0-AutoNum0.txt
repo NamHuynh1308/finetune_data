@@ -1,0 +1,13 @@
+@startuml
+participant "composers medicate" as 0
+participant "write fantasy" as 1
+participant "strife orphan" as 2
+participant "distasteful infinite" as 3
+== crutch fattening ==
+1 ->o 2: mildly copying
+2 <-> 0: explorer sickest
+critical capper blurting
+2 <-] : vendetta sin
+0 -> 0: portrayal wowed
+end
+@enduml

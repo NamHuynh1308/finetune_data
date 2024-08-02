@@ -1,0 +1,13 @@
+@startuml
+fork
+:dreamed obliged;
+fork again
+:commands meow; <<continuous>>
+-> ward exhaustive;
+fork again
+:antihistamine excellency; <<save>>
+fork again
+:service arrivals; <<continuous>>
+end fork
+stop
+@enduml

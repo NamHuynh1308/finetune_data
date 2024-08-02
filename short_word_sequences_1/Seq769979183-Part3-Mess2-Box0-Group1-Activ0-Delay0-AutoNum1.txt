@@ -1,0 +1,11 @@
+@startuml
+participant "telepathically vig" as 0
+participant "stewed gracing" as 1
+autonumber 7 5
+create participant "audible chloride" as 2
+0 -> 2 : audible chloride
+autonumber stop
+opt reamed benjamins
+2 <-> 2: rowing teachers
+end
+@enduml

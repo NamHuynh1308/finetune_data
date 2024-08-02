@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:dimly sic;
+split again
+-[hidden]->
+:league buckets; <<procedure>>
+split again
+-[hidden]->
+:crock godly; <<task>>
+split again
+-[hidden]->
+fork
+:citizenship duke;
+fork again
+:veritas underground; <<continuous>>
+-> concentrate contents;
+fork again
+:clergy foreigners; <<task>>
+-> goofball aback;
+end fork
+end split
+:expects persuade; <<continuous>>
+group first roosters
+repeat
+:trashes drifting; <<load>>
+switch (rust purposely?)
+case (filly yen?)
+:acquaintances spirals;
+case (confederates cakes?)
+:spins requiring; <<input>>
+-> addresses lizard;
+case (optimum look?)
+:unsigned mignon; <<output>>
+-> hydrogen nurturing;
+endswitch
+backward:unspoken velvet;
+repeat while (nephews nevertheless?) is (bridges blondes)
+:impersonated overweight;
+-> modeled seared;
+stop
+end group
+@enduml

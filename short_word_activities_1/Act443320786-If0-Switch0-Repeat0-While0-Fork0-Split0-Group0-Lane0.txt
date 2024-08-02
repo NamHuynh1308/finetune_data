@@ -1,0 +1,5 @@
+@startuml
+start
+:forbade slob; <<continuous>>
+-> trailers way;
+@enduml

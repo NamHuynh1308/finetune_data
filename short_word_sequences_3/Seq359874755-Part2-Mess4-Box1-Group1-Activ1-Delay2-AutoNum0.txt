@@ -1,0 +1,17 @@
+@startuml
+box "transmissions vespers"
+participant "paramilitary latte" as 0
+participant "selling grownup" as 1
+end box
+alt spender bronzed
+0 --//o 1++ : murders duffle
+...upper keno...
+0 --> 1: civilisation makeover
+return flair snatching
+...hovercraft thrift...
+0 ->x 1: wingman friend
+else dismantle plant
+0 --> 0: rewrites smidgen
+else widower donated
+end
+@enduml

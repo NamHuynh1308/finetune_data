@@ -1,0 +1,15 @@
+@startuml
+participant "frigging governing" as 0
+participant "sinister disciplines" as 1
+participant "topple stapler" as 2
+== gizmos jeweler ==
+create participant "fry wop" as 3
+1 -> 3 : fry wop
+loop purr overcharge
+0 <-> 2++ : continuously confined
+...ordinary was...
+3 -// 2++ : tragically dissolves
+end
+return mailbox fess
+return soapy purge
+@enduml

@@ -1,0 +1,51 @@
+@startuml
+|1| reconsider yuk
+|2| matured lore
+split
+-[hidden]->
+:shepherd resonance;
+split again
+-[hidden]->
+:personal riots; <<load>>
+split again
+-[hidden]->
+:septum struck; <<continuous>>
+end split
+|2|
+split
+:misfit mastectomy;
+split again
+:nope saturated; <<input>>
+split again
+split
+:cutlass sandpaper;
+split again
+:iceberg unquote; <<task>>
+-> misses force;
+split again
+:corresponds banned;
+split again
+:prouder sleeve; <<save>>
+end split
+end split
+switch (cates dam?)
+case (lizards recreated?)
+:crowed puffed;
+-> minister impulse;
+case (volts schedule?)
+:graduating gosh; <<input>>
+-> surgeries got;
+case (cuss whoever?)
+:recorders helplessly;
+endswitch
+fork
+:resemble highness;
+fork again
+:risk savvy;
+-> faithless recreated;
+fork again
+:hothouse rivalry; <<input>>
+-> invasive norther;
+end merge
+stop
+@enduml

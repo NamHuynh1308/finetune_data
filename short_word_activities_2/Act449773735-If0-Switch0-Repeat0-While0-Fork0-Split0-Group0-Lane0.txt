@@ -1,0 +1,5 @@
+@startuml
+:batman simulated; <<task>>
+:bed yams; <<task>>
+-> fraternizing hooker;
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "creature preyed" as 0
+participant "flail blown" as 1
+1 -> 1++ : heel relentless
+1 -> 1: caretaker slew
+return retaliating increasingly
+0 -> 1: sorcerers cauliflower
+@enduml

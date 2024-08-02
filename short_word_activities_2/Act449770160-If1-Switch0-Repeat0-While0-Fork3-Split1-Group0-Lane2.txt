@@ -1,0 +1,48 @@
+@startuml
+|1| snitch sealed
+|2| routinely gatehouse
+split
+-[hidden]->
+:assisting activation;
+split again
+-[hidden]->
+:convertibles juniper;
+-> pew disturb;
+split again
+-[hidden]->
+:devastate ailing; <<output>>
+-> maturity minimalist;
+split again
+-[hidden]->
+:cardiac fudged; <<load>>
+end split
+fork
+:blowout improving;
+fork again
+:grounded grid;
+fork again
+fork
+:universes resented;
+fork again
+:wallow slippery;
+fork again
+:bisque enterprise;
+end fork
+end fork
+:actual nappy; <<output>>
+-> doggy deductible;
+if (deprecating klutzy?) then (wiener flutes)
+fork
+:shad sanity;
+fork again
+:grams reruns; <<task>>
+fork again
+:infighting tetanus;
+fork again
+:snapper canvas;
+end merge
+else (falafel lasers)
+:lounge impersonal;
+endif
+end
+@enduml

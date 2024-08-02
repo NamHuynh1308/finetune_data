@@ -1,0 +1,6 @@
+@startuml
+box "fanning capitalists"
+participant "artificial lieutenants" as 0
+end box
+0 <-> 0: stopped shaves
+@enduml

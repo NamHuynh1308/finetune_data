@@ -1,0 +1,11 @@
+@startuml
+:contains starlets; <<task>>
+switch (cigarette revive?)
+case (sax bazooka?)
+:scavenger got; <<continuous>>
+-> tractor threshold;
+case (retard discount?)
+:divvy nancy; <<load>>
+endswitch
+stop
+@enduml

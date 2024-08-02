@@ -1,0 +1,5 @@
+@startuml
+participant "paddles mosquitoes" as 0
+create participant "boggling crushing" as 1
+0 -> 1 : boggling crushing
+@enduml

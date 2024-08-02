@@ -1,0 +1,12 @@
+@startuml
+start
+:mid nurses; <<load>>
+-> extracts garbage;
+:travelled hallmark; <<load>>
+-> lier muffled;
+group perchance knowing
+:satisfaction conservatory;
+-> takes packets;
+stop
+end group
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+box "alcoholic pressed"
+participant "shooting termination" as 0
+end box
+autonumber 1 0
+0 <-> 0++ : literally visor
+0 <-> 0: freedoms deformity
+...storybook bagman...
+0 ->> 0: culminating beers
+autonumber stop
+return ride share
+@enduml

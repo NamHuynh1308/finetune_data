@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:renowned sentry;
+split again
+-[hidden]->
+:drab stampede; <<load>>
+-> forge tagged;
+split again
+-[hidden]->
+:jabber allows; <<procedure>>
+split again
+-[hidden]->
+:bellhops diapers; <<input>>
+end split
+group cutout push
+:napoleon timeless;
+-> torches duke;
+stop
+end group
+@enduml

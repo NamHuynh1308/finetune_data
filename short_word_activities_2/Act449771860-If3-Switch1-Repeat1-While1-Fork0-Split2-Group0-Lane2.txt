@@ -1,0 +1,77 @@
+@startuml
+|1| info patrol
+|2| grumpy simulation
+split
+-[hidden]->
+:wallow liter;
+split again
+-[hidden]->
+split
+:swings completed;
+split again
+:huggers drilling; <<task>>
+split again
+:rocky auspicious; <<save>>
+-> interfacing jungles;
+split again
+:hurdles maniacal;
+end split
+split again
+-[hidden]->
+:acne mixing; <<continuous>>
+split again
+-[hidden]->
+:defuse knapsack; <<save>>
+-> away penetrated;
+end split
+:violence unscrupulous;
+while (overreacted benefited?) is (revisit sprouting)
+if (balloons urgent?) then (peeved narwhal)
+:immigration brisket;
+kill
+else (shipwrecked winery)
+:ideas learner; <<continuous>>
+:rent capable; <<load>>
+-> matzoh internment;
+endif
+repeat
+:undeserving redskins; <<procedure>>
+-> pip unopened;
+backward:bladders evenly;
+:fits sized;
+if (addressed gumption) then (contraction articles)
+:cruise maggots;
+break
+endif
+->pacific alcoholic;
+:economically countenance;
+repeat while (rent clotted?) is (imitating ideology)
+backward:confit objects;
+:depressor amazingly; <<input>>
+endwhile (commitments shore)
+:letters consistently;
+if (monstrous improper?) then (martini loofah)
+:local scram;
+else (consecrated dolphin)
+:hades interior; <<input>>
+:anesthesiologist redress;
+endif
+|2|
+:hides erasing; <<procedure>>
+if (splatter backdoor?) then (protestant nations)
+switch (accustomed bookstore?)
+case (earlier appease?)
+:guava lions; <<procedure>>
+case (beds carrier?)
+:ciao musicians;
+case (scheduled dagger?)
+:weakling temperatures;
+endswitch
+:butlers termites;
+else (rehab hereafter)
+:richer render; <<output>>
+-> whisked susceptible;
+:vigilante soft;
+endif
+end
+@enduml

@@ -1,0 +1,78 @@
+@startuml
+|1| imagining mistletoe
+|2| format primaries
+split
+-[hidden]->
+:forceful goggles;
+split again
+-[hidden]->
+fork
+:cedar scrunch;
+fork again
+:steak sarcastic; <<procedure>>
+fork again
+:held doling; <<procedure>>
+end fork
+split again
+-[hidden]->
+:bustle undecided; <<output>>
+split again
+-[hidden]->
+if (knickknacks criticized?) then (cyanide egotistical)
+:wining robbery;
+:lusts extremists;
+kill
+else (surge focussed)
+:mor transference;
+kill
+endif
+end split
+|2|
+:drape witness; <<continuous>>
+-> boarded mariachi;
+fork
+:sweets fend;
+fork again
+:gradually structural; <<procedure>>
+fork again
+:stabilized therefore; <<save>>
+fork again
+:treatable woodchuck; <<continuous>>
+end fork
+|1|
+:impacts hairstyles; <<continuous>>
+-> indentured detonate;
+fork
+:surgeons arcade;
+fork again
+fork
+:dragons endangered;
+fork again
+:lounge bugging; <<load>>
+-> grants banking;
+fork again
+:synonymous thickens; <<load>>
+fork again
+:model straitjacket;
+end fork
+fork again
+:obscure certified; <<input>>
+fork again
+while (goodie beech?) is (dole pirates)
+:jot put; <<load>>
+-> middleweight clung;
+:transform ministers; <<load>>
+-> mutant exodus;
+endwhile (falls appreciation)
+:cokes conflict;
+end merge
+split
+:smoking mol;
+split again
+:overwhelms cockles; <<procedure>>
+split again
+:rectory endorsement;
+split again
+:sexist fostered; <<input>>
+end split
+@enduml

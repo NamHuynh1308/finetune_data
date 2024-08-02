@@ -1,0 +1,24 @@
+@startuml
+participant "notion goal" as 0
+box "pheromones slaves"
+participant "samurai interrogations" as 1
+participant "recapture offensive" as 2
+end box
+box "strongbox bullies"
+participant "pitying gobbledegook" as 3
+participant "ka skipped" as 4
+end box
+autonumber 9 10
+critical villages unduly
+0 -> 3++ : works puny
+autonumber stop
+1 ->> 4: ambassador snowballed
+return unsung admiring
+autonumber resume
+1 -> 1: dolled yearnings
+0 --//o 1++ : juggernaut carats
+2 ->x 2: gym hopelessly
+return hike tod
+autonumber stop
+end
+@enduml

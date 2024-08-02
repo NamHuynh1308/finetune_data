@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:boosted tides;
+split again
+-[hidden]->
+:stuffed nauseating; <<input>>
+split again
+-[hidden]->
+:interviewing pacer; <<save>>
+end split
+split
+:reinvented volunteering;
+split again
+switch (matinee defector?)
+case (poolside workable?)
+:temporarily bleeding;
+kill
+case (bong waist?)
+:foreclosed pantry; <<save>>
+-> fence clippings;
+endswitch
+split again
+:aqua spartan; <<task>>
+-> deficit behold;
+split again
+while (camel orchard?) is (munchkins sender)
+backward:darkened publishing;
+:bordeaux contains;
+endwhile (compartment alligator)
+:parchment fond;
+end split
+group economics peeved
+:polarity bricks; <<load>>
+group edging aluminum
+:haunt liking;
+stop
+end group
+end group
+@enduml

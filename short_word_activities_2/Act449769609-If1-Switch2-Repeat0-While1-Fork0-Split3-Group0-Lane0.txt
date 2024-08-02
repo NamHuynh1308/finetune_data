@@ -1,0 +1,58 @@
+@startuml
+split
+-[hidden]->
+:winding belvedere;
+split again
+-[hidden]->
+:room mil; <<procedure>>
+-> stooge barbarians;
+split again
+-[hidden]->
+if (weapons momma?) then (fatten touch)
+(openly hare) elseif (gooney brownstone?) then (ifs suspects)
+:caverns libraries;
+(mathematically catholic) elseif (tenth hellhound?) then (beeswax braved)
+:satyr salamander;
+endif
+split again
+-[hidden]->
+:scolded for; <<task>>
+end split
+switch (scribbled unseen?)
+case (planes dates?)
+while (systems ostracized?) is (names ers)
+:stationed muses;
+backward:surround vast;
+:testified starring; <<procedure>>
+endwhile (grim selflessness)
+:hack corrective;
+case (recycles spilling?)
+:calculators tubs; <<continuous>>
+case (administration blow?)
+:pam straitjacket;
+endswitch
+switch (bread sniper?)
+case (warmth earthly?)
+:retaliating accusations; <<output>>
+-> sullen purse;
+case (spike succumbed?)
+split
+:sentient stables;
+split again
+:toothache anchors;
+split again
+:outfitted fuss;
+end split
+case (payback banquet?)
+split
+:gal tells;
+split again
+:marquee tent;
+split again
+:lash prompting;
+end split
+case (insurrection incomparable?)
+:clapped wager; <<task>>
+endswitch
+stop
+@enduml

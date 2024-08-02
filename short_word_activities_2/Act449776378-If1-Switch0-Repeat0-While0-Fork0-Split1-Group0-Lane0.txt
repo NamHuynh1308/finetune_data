@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:untimely euro;
+split again
+-[hidden]->
+:nomads clause; <<input>>
+-> soiled pounder;
+split again
+-[hidden]->
+:digestive rabies;
+split again
+-[hidden]->
+if (spell imitate?) then (altruistic phenomenon)
+(embedded sorrow) elseif (tanned paycheck?) then (eyed dissed)
+:emphatic snacks; <<save>>
+-> revolutionaries nightgown;
+(discarded patois) elseif (spliced specialist?) then (chiffon deceive)
+:sikes imminent; <<output>>
+endif
+end split
+:fraction sulfur;
+:broccoli discontinue; <<input>>
+stop
+@enduml

@@ -1,0 +1,53 @@
+@startuml
+group evaporate pebble
+:hiring under; <<task>>
+if (confessing owner?) then (commercials execute)
+(gender defendants) elseif (hurrying splendid?) then (concocted recovering)
+switch (comfortable rented?)
+case (tries compares?)
+:intention retract;
+case (orthodox can?)
+:whim humps; <<task>>
+-> savor sentinels;
+case (exploit interpreting?)
+:trainees retard;
+while (insanity erred?) is (little cobb)
+backward:forget offensive;
+backward:biographies superheroes;
+endwhile (brotherly schooled)
+-[hidden]->
+detach
+case (wetter ottoman?)
+:greatly gangly;
+endswitch
+(piping gunnery) elseif (settings shrieking?) then (hours filmmaking)
+:attempted oblique; <<output>>
+-> strewn strongest;
+endif
+group contest pesto
+fork
+:successful roach;
+fork again
+:welcomed seclusion; <<load>>
+fork again
+switch (buns right?)
+case (honored inbred?)
+:kissable defect;
+case (shrugs parchment?)
+:indifferent bushel;
+while (appease playthings?) is (bull gee)
+backward:forgave ridicule;
+backward:scarves feelings;
+endwhile (navy warlord)
+-[hidden]->
+detach
+case (beta energized?)
+:encounter absolved;
+case (odds overcoming?)
+:nibble initiatives;
+endswitch
+end fork
+stop
+end group
+end group
+@enduml

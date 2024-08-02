@@ -1,0 +1,11 @@
+@startuml
+participant "aloe cardiology" as 0
+box "deliberately hurrying"
+participant "carmine reuniting" as 1
+end box
+0 -> 0++ : smother manifests
+1 -// 1: handbasket philandering
+return though captioning
+0 -->x 1: johns retail
+0 -> 1: colonization winery
+@enduml

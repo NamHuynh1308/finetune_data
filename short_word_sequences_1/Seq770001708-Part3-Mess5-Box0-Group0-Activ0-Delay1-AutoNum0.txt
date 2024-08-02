@@ -1,0 +1,11 @@
+@startuml
+participant "wussy leash" as 0
+participant "weenie bleeds" as 1
+create participant "plotting heroin" as 2
+0 -> 2 : plotting heroin
+0 ->x 1: prospector tent
+1 -// 2: compounds blackmailing
+...persistence womb...
+0 <-> 1: prod scaring
+2 -> 0!! : reluctant goofball
+@enduml

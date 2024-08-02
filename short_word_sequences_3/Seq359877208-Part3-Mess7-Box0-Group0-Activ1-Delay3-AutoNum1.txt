@@ -1,0 +1,20 @@
+@startuml
+participant "startup matching" as 0
+participant "barometer planner" as 1
+participant "wages vee" as 2
+== bob evacuating ==
+autonumber 3 1
+ [<- 1: sundown doctrine
+ [-> 0: heartache minks
+0 ->] : earrings conductor
+...chatterbox glances...
+1 -->x 2: forsake swimsuits
+2 -// 2: stresses depository
+...shout mated...
+2 -> 1: white clientele
+autonumber stop
+...validated mascot...
+1 ->> 0++ : juggle auto
+autonumber resume
+return tab billboards
+@enduml

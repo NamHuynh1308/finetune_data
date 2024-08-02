@@ -1,0 +1,18 @@
+@startuml
+box "cornfield yay"
+participant "guts hippie" as 0
+participant "lemon deciphering" as 1
+end box
+participant "indistinguishable centerpieces" as 2
+box "misconception fuchsia"
+participant "chef generated" as 3
+end box
+0 <-> 1++ : sweat arrive
+...stirring burley...
+3 -> 3++ : deflower giggle
+2 ->o 0++ : colonials spank
+0 --//o 0: systems operas
+return curran cotton
+return purple hugger
+return anguished unsure
+@enduml

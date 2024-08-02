@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:instilled alcoholism;
+split again
+-[hidden]->
+split
+:revolution rolls;
+split again
+:mouthwash repository;
+split again
+:interpreting believer;
+split again
+:gran bridge;
+end split
+split again
+-[hidden]->
+split
+:intact salsa;
+split again
+:affected anna; <<task>>
+-> countdown moloch;
+split again
+:spartan extorting; <<procedure>>
+end split
+split again
+-[hidden]->
+fork
+:limey applause;
+fork again
+:psychiatrist showers; <<task>>
+-> treatable parfait;
+fork again
+:exercising establishment;
+fork again
+:whale selfishly; <<save>>
+end merge
+end split
+:predecessors denning; <<task>>
+stop
+@enduml

@@ -1,0 +1,80 @@
+@startuml
+|1| blonds fries
+|2| crashing mousy
+split
+-[hidden]->
+:attired means;
+split again
+-[hidden]->
+:wiping speak; <<task>>
+split again
+-[hidden]->
+:lasagna addict; <<load>>
+end split
+split
+:surviving horseman;
+split again
+:jesuit lucid;
+while (navigator ailing?) is (frustrates soar)
+:wow undermined;
+endwhile (lux clack)
+-[hidden]->
+detach
+split again
+:gym underway;
+split again
+:fading icky; <<continuous>>
+end split
+|2|
+split
+:brisket beaches;
+split again
+:cigarettes taunts; <<load>>
+split again
+:cinematic field;
+-> claiming villa;
+end split
+|1|
+if (stroke membrane?) then (cells kibosh)
+:cents saints; <<output>>
+split
+:babes idiocy;
+split again
+:comp bulky; <<procedure>>
+-> sod fractures;
+split again
+:bluepoint excellency;
+end split
+kill
+else (slicer tricky)
+while (brake pixilated?) is (interrupts simony)
+backward:shameful embossed;
+endwhile (dub thirties)
+:expecting planetarium;
+if (gossips divers?) then (shrubs workstation)
+:relentless dole;
+:disagreeing controller; <<load>>
+-> hells freshness;
+else (amenities recession)
+:jacks larceny;
+:budging sabers; <<input>>
+:ground overly; <<continuous>>
+endif
+while (barbershop threesome?) is (employers hold)
+backward:alters intrigue;
+:system wholesaler;
+-> drumstick fellers;
+endwhile (ignite wrappers)
+:nomad uncertainty;
+endif
+|2|
+while (geometric recreated?) is (monthly spiral)
+backward:imitate admonish;
+backward:burial goddamned;
+endwhile (attended ripples)
+:approach outdoor;
+|1|
+:ectopic seminary; <<task>>
+-> woe oriental;
+end
+@enduml

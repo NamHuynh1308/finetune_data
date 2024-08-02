@@ -1,0 +1,11 @@
+@startuml
+participant "calzones mitten" as 0
+autonumber 0 8
+critical says picketing
+0 --> 0: tomb gazpacho
+alt mm packer
+0 -> 0: geographically emperors
+0 -> 0!! : pleas kids
+end
+end
+@enduml

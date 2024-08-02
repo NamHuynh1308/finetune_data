@@ -1,0 +1,22 @@
+@startuml
+start
+group chase stairwell
+fork
+:enlighten indications;
+fork again
+:committed brown; <<output>>
+fork again
+:buzzard luxury;
+fork again
+fork
+:bastard compulsory;
+fork again
+:klutzy barber; <<procedure>>
+-> concentrated incense;
+fork again
+:togetherness notary;
+end fork
+end fork
+stop
+end group
+@enduml

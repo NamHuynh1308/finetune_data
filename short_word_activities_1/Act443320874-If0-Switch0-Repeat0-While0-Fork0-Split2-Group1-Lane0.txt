@@ -1,0 +1,23 @@
+@startuml
+start
+group walled prospective
+split
+:classmates braved;
+split again
+split
+:makeup authorize;
+split again
+:invites oedipal;
+split again
+:brown pubescent;
+kill
+end split
+split again
+:metallic lobotomy; <<procedure>>
+split again
+:ventriloquist narrowed;
+kill
+end split
+stop
+end group
+@enduml

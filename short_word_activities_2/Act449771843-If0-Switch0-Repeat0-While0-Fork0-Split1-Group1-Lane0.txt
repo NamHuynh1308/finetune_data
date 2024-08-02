@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:bright proceeding;
+split again
+-[hidden]->
+:candies martin; <<procedure>>
+split again
+-[hidden]->
+:tolerate piss; <<continuous>>
+end split
+:stamps mafia; <<input>>
+group refers mold
+:turbulence massive; <<save>>
+:objectives shelves; <<save>>
+stop
+end group
+@enduml

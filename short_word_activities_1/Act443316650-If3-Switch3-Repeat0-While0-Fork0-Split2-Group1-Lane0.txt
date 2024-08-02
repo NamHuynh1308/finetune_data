@@ -1,0 +1,65 @@
+@startuml
+split
+-[hidden]->
+:frequency cluttering;
+split again
+-[hidden]->
+switch (domestic deadlier?)
+case (okayed adobe?)
+:brochure robe; <<task>>
+case (commission chanting?)
+:bandit spiked; <<load>>
+case (smelled hemorrhoid?)
+:launching regretted; <<continuous>>
+endswitch
+split again
+-[hidden]->
+switch (eros entertainment?)
+case (pathogen smooth?)
+:rosebush magnificently;
+case (keyboard norm?)
+:income dole;
+endswitch
+end split
+:profoundly affair;
+group gaff pollute
+if (saucers made?) then (backfire mattress)
+:clingy coexist;
+:assumes drawers; <<procedure>>
+else (arise masterpiece)
+:visibility chickenpox; <<input>>
+-> council believe;
+switch (prepping foremost?)
+case (now dojo?)
+:sinner disposing; <<task>>
+case (stall blissful?)
+:wisecracks fibre;
+case (definitions submarines?)
+:roman proceeds;
+endswitch
+split
+:fascination symbol;
+split again
+:sorcerers flared;
+split again
+:exists wretch;
+end split
+kill
+endif
+if (toenails snotty?) then (toxicology offspring)
+(antisocial rodman) elseif (airline unreasonable?) then (tasted geriatrics)
+:governess comments; <<task>>
+(devoured untie) elseif (entirety signore?) then (bonnie gown)
+if (founder panty?) then (possession practicality)
+:funded apprised;
+else (crucial marina)
+:reflected hostile;
+:ocean boners; <<task>>
+:cum angel;
+endif
+(primary striping) elseif (judgement shines?) then (send meatballs)
+:admittance paradox; <<continuous>>
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "abdomen hatred" as 0
+box "destiny traces"
+participant "darling drafting" as 1
+end box
+1 <-> 1: sedation manifold
+opt businesswomen grandmother
+1 -> 0: seating painted
+...blemish sunlight...
+1 -> 1: sugar bullets
+end
+1 ->x 1: lucky marrow
+@enduml

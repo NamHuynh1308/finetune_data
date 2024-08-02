@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:groundskeeper chassis;
+split again
+-[hidden]->
+:lovelies humiliates;
+split again
+-[hidden]->
+fork
+:vindicated submitted;
+fork again
+:led abstinence;
+fork again
+:janitorial painters; <<input>>
+-> beaver gullible;
+fork again
+:hypocrites ninny;
+end merge
+end split
+if (accumulated icicle?) then (dizzy woke)
+:sis disciplined;
+:entities stinger;
+else (bearer blocking)
+split
+:louvre geese;
+split again
+:sweaty waiter; <<load>>
+split again
+:bride untrustworthy; <<save>>
+-> hurried protests;
+split again
+:overpaid koss;
+end split
+:prescribes defending; <<output>>
+endif
+:hooked seconded; <<load>>
+:hill shithead; <<task>>
+stop
+@enduml

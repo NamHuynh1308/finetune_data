@@ -1,0 +1,17 @@
+@startuml
+box "linguistic terminator"
+participant "suddenly slaughtering" as 0
+participant "probable regional" as 1
+end box
+box "bistro broadcasts"
+participant "saucers classmates" as 2
+end box
+== trenches creamer ==
+ [-> 1: figuratively atrocities
+create participant "anticipated pressed" as 3
+2 -> 3 : anticipated pressed
+3 --//o 2: mathematically financial
+0 -> 3: negotiate incoming
+...pick soap...
+1 ->> 0: tourist fearing
+@enduml

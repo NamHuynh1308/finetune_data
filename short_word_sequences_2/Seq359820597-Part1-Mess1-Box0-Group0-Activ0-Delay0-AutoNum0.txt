@@ -1,0 +1,4 @@
+@startuml
+participant "docked washes" as 0
+0 -// 0: format bib
+@enduml

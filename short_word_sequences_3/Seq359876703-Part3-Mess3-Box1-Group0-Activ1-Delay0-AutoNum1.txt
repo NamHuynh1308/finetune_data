@@ -1,0 +1,13 @@
+@startuml
+participant "weak worldwide" as 0
+participant "listened obsessive" as 1
+box "errands escapes"
+participant "gestating carol" as 2
+end box
+autonumber 7 1
+0 -// 2: grossed locals
+autonumber stop
+2 -->x 1: crawl stating
+0 -> 1++ : hound virgins
+return develops folding
+@enduml

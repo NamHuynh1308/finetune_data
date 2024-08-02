@@ -1,0 +1,28 @@
+@startuml
+box "quick closing"
+participant "graham agrees" as 0
+participant "spitfire knuckle" as 1
+participant "crossfire rampage" as 2
+box "nickname crumpled"
+participant "charities brad" as 3
+box "margin sharply"
+participant "compares bellies" as 4
+end box
+end box
+end box
+== steam applications ==
+1 -> 0: whiff potency
+opt intubate sponges
+ [<- 2: hitters notices
+0 -> 3!! : spine gofer
+4 -> 2: firewood antiquity
+break courier washy
+...itching thick...
+2 --//o 4++ : congratulating rematch
+...nipping bleach...
+2 -->x 1: supervised midtown
+return staggering worries
+else flick imaginations
+end
+end
+@enduml

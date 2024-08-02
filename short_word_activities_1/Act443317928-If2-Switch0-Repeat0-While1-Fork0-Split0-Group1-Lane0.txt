@@ -1,0 +1,33 @@
+@startuml
+group conscientious embarrassingly
+if (clunkers pen?) then (snitches bake)
+(cams breathless) elseif (casualty cling?) then (gouge snatched)
+:instrument delegate; <<save>>
+-> stitch certified;
+(moments waving) elseif (mar floral?) then (kaiser categories)
+:dramatic backhand; <<load>>
+-> magicians entwined;
+(marketplace dopey) elseif (bushes leg?) then (cop waking)
+if (ethyl tombs?) then (internist tundra)
+:oomph shrewd;
+:grounding stretcher; <<continuous>>
+-> yippie beggars;
+while (headhunter fouled?) is (methodical blab)
+backward:letting hopefully;
+:oatmeal pollack;
+:expecting surly;
+endwhile (distrustful tofu)
+-[hidden]->
+detach
+else (exotic ware)
+:pitches plantation; <<load>>
+-> them merrily;
+endif
+(diphtheria cris) elseif (plowing unnecessary?) then (eels maneuvered)
+:balconies detect;
+-> seismic shamed;
+endif
+:concentrating transsexual;
+stop
+end group
+@enduml

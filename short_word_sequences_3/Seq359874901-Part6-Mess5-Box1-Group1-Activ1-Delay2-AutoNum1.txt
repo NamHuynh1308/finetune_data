@@ -1,0 +1,22 @@
+@startuml
+participant "spotty snickers" as 0
+participant "moms contact" as 1
+participant "frightened went" as 2
+box "congresswoman hayloft"
+participant "venues dimpled" as 3
+participant "squishing titanium" as 4
+end box
+autonumber 3 7
+ [<- 4: boombox weepy
+autonumber stop
+1 --> 1: pupils guys
+loop machete skids
+...forcibly decency...
+4 <-] : epileptic whisk
+...ridicule docks...
+0 -> 1++ : faked deploy
+end
+create participant "corpses pitchers" as 5
+3 -> 5 : corpses pitchers
+return through objectives
+@enduml

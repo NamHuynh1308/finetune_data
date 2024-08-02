@@ -1,0 +1,4 @@
+@startuml
+participant "panic uprising" as 0
+0 ->x 0: creme unpredictable
+@enduml

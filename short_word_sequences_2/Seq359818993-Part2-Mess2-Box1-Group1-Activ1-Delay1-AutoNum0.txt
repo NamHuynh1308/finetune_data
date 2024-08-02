@@ -1,0 +1,13 @@
+@startuml
+participant "mysteries divers" as 0
+box "surgeon suitor"
+participant "decibels emit" as 1
+end box
+alt drawn bids
+0 ->x 1: priest alternate
+...humped spooking...
+1 --> 0++ : reclining asparagus
+else gutting countless
+end
+return psychiatrists pop
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+box "demon railing"
+participant "server brood" as 0
+end box
+autonumber 3 0
+alt particle noo
+0 ->] : backfires snapshot
+0 --//o 0: pragmatist intervening
+end
+0 -> 0: blooded backstroke
+opt wickedness brawl
+...peacetime forgiven...
+0 -> 0: snore unleashed
+autonumber stop
+0 -> 0!! : minus conceal
+autonumber resume
+end
+@enduml

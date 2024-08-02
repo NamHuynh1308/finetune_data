@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:khaki awe;
+split again
+-[hidden]->
+fork
+:resorts bulbous;
+fork again
+:everywhere busiest; <<save>>
+fork again
+:chalkboard yipe;
+end fork
+split again
+-[hidden]->
+:pe mathematicians;
+end split
+:fib asset;
+end
+@enduml

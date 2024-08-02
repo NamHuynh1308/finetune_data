@@ -1,0 +1,27 @@
+@startuml
+participant "trays convinces" as 0
+box "dental jeweler"
+participant "equilibrium monumentally" as 1
+box "staff narcotic"
+participant "vigilant hulk" as 2
+participant "rather baffling" as 3
+end box
+end box
+== buttoned evaluated ==
+ [<- 2: radiating worships
+loop menus refining
+0 -> 1: deduct refresh
+1 <-] : records tardiness
+else yaw mystical
+opt prehistoric moving
+3 -> 2!! : gives gams
+ [-> 2: convenes naked
+else gathers rifle
+break witty cocktails
+2 ->x 1++ : nighttime plagued
+0 -> 2: canine smiled
+return crowbar rubber
+end
+end
+end
+@enduml

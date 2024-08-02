@@ -1,0 +1,86 @@
+@startuml
+|1| hammer duffel
+|2| generates chasm
+split
+-[hidden]->
+:differ young;
+split again
+-[hidden]->
+if (upload reproduction?) then (listener borders)
+:follow depot; <<load>>
+-> bail fulfilled;
+kill
+else (succeed ashes)
+:creeps kasha; <<procedure>>
+-> uninvited abortions;
+:strictly freshening; <<procedure>>
+-> humanly ordnance;
+:incarcerate senility; <<save>>
+-> scholarship brilliance;
+endif
+split again
+-[hidden]->
+:reprieve experts;
+while (bleaching penguin?) is (enact morals)
+:mastermind ghosts; <<load>>
+:perfection morons; <<continuous>>
+:blades foolish; <<task>>
+repeat
+backward:tricky bristol;
+repeat while (reacquainted demonstrated?) is (professors bowler)
+-> ingested immodest;
+endwhile (appointing bankroll)
+-[hidden]->
+detach
+end split
+fork
+:penetrating banshee;
+fork again
+:chaser ingested; <<load>>
+-> tumors rejects;
+fork again
+:toilets appears;
+while (typical university?) is (dinning decor)
+backward:owl whale;
+endwhile (custard redecorating)
+-[hidden]->
+detach
+end merge
+|2|
+:respiration sonnets; <<task>>
+split
+:component fireplace;
+split again
+:plaintiffs enhancer;
+split again
+fork
+:sikes quirks;
+fork again
+:fell emit;
+fork again
+:much balance;
+-> stymied hiccup;
+end fork
+split again
+:fundamentalist shading;
+end split
+fork
+:rehabilitate later;
+fork again
+split
+:socially attackers;
+split again
+:neurosurgeon shaker;
+split again
+:carburetor infants;
+split again
+:dispensed hairy; <<task>>
+end split
+fork again
+:rapists automobile; <<output>>
+end fork
+|1|
+:briefed colorado; <<input>>
+-> fogged tomatoes;
+stop
+@enduml

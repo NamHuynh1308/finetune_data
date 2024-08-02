@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:brother yards;
+split again
+-[hidden]->
+if (motto giveaway?) then (overslept complimentary)
+(examining keister) elseif (behaviour nimrod?) then (stunk shaky)
+:carat platypus;
+(dozen strengthen) elseif (petals sleeps?) then (cutout tightly)
+:voter speculations;
+-> eastbound amused;
+endif
+split again
+-[hidden]->
+:iceberg drifted; <<save>>
+-> stomp hearty;
+split again
+-[hidden]->
+fork
+:benefactors dolt;
+fork again
+:vitals alternates; <<output>>
+-> momentum mutant;
+fork again
+:tragically squall;
+end merge
+end split
+group hoop typewriter
+:clicks quaking; <<input>>
+group bordello twenties
+:garage anticipate;
+fork
+:home trans;
+fork again
+split
+:latest forever;
+split again
+:bigger showered;
+split again
+:commotion improving;
+-> strangeness meanie;
+split again
+:alpine whistles;
+end split
+fork again
+:caretaker technique; <<task>>
+-> altering unburden;
+fork again
+:wilder supplement; <<save>>
+-> rods earned;
+end merge
+stop
+end group
+end group
+@enduml

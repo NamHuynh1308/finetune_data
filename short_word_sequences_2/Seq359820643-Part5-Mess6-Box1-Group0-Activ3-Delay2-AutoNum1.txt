@@ -1,0 +1,24 @@
+@startuml
+participant "peppers panther" as 0
+participant "mould toons" as 1
+participant "sells clearly" as 2
+box "exclamation ventures"
+participant "agility yech" as 3
+participant "bobbin faked" as 4
+end box
+autonumber 9 3
+1 -> 2!! : vice ladders
+autonumber stop
+ [-> 1: rare believers
+...herbal climb...
+4 -> 0++ : whirling light
+autonumber resume
+3 -> 0++ : breaks superiors
+...interfacing carl...
+2 --//o 4++ : flash absences
+3 -> 1: fringe heist
+autonumber stop
+return proverb unpleasantness
+return traveling blazing
+return perjured recent
+@enduml

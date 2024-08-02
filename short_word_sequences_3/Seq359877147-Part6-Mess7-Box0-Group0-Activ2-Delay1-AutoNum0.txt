@@ -1,0 +1,19 @@
+@startuml
+participant "cronies calzones" as 0
+participant "continuity eventually" as 1
+participant "contesting tipped" as 2
+participant "physics pulsating" as 3
+participant "apparently deluxe" as 4
+== pun hairdo ==
+create participant "encouraging mussels" as 5
+0 -> 5 : encouraging mussels
+0 -> 5: carcinogens shipwrecked
+5 <-> 4++ : shirts chandeliers
+1 -// 3: louder dislocated
+...submarines lam...
+2 ->> 4: plop crops
+4 -->x 1: ground unharmed
+return stating encephalitis
+0 -// 1++ : lorry grading
+return firehouse overjoyed
+@enduml

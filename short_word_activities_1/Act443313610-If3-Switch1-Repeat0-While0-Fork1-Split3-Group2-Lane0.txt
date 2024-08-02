@@ -1,0 +1,72 @@
+@startuml
+split
+-[hidden]->
+:cameraman dongs;
+split again
+-[hidden]->
+fork
+:grail rewrite;
+fork again
+:dilute blurb; <<load>>
+fork again
+:assembler lonely; <<save>>
+end fork
+split again
+-[hidden]->
+split
+:barbers breeds;
+split again
+:ditches impacts;
+split again
+:denominational node;
+end split
+end split
+if (specter yokels?) then (invigorated endear)
+(roster kindest) elseif (battery sod?) then (mascara anonymity)
+switch (puritanical comma?)
+case (dance twin?)
+:funnier cat;
+case (quantity cockles?)
+:advertises gals; <<load>>
+-> nodes ham;
+case (anticipated reads?)
+:crotch adapt;
+kill
+case (outrun vegetables?)
+:licensing geometry; <<input>>
+endswitch
+(firearms veto) elseif (edit cocktails?) then (hawking ants)
+:woodpecker absconded;
+(bluffs apartment) elseif (patrolman afforded?) then (pretenses solitude)
+:spiny domesticated; <<continuous>>
+-> bottomed climax;
+(guessing voters) elseif (kip souse?) then (subsequently nonexistent)
+:scrubbed deprivation;
+endif
+group listeners cosign
+:heyday insights;
+group blabbermouth treatment
+if (assets blatantly?) then (apostles physician)
+(ration switchblade) elseif (expensive riddled?) then (monger rogues)
+split
+:reeve doughnut;
+split again
+:wangler nostalgia;
+split again
+:equality smock;
+end split
+(pickups statement) elseif (floozy nitrogen?) then (replicate possession)
+if (enthusiast demerits?) then (rialto comprehensive)
+(traditionally luggage) elseif (objective thefts?) then (scampi trades)
+:plague bazaar; <<save>>
+-> clapped treasured;
+(poison diazepam) elseif (insist meatloaf?) then (microfilm decoys)
+:inclined commentaries;
+(bruise droves) elseif (presume buckle?) then (ventures impressing)
+:orthodox crates; <<task>>
+endif
+endif
+stop
+end group
+end group
+@enduml

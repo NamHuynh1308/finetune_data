@@ -1,0 +1,18 @@
+@startuml
+box "magazines varicose"
+participant "weaken jammies" as 0
+participant "muscles equestrian" as 1
+end box
+== lined las ==
+autonumber 3 10
+create participant "boggling constable" as 2
+0 -> 2 : boggling constable
+alt politely republican
+1 ->x 2: pester saffron
+2 ->x 1++ : merchandising menacing
+loop learnt menu
+0 --//o 0: compensate flakes
+end
+end
+return crumpled meteors
+@enduml

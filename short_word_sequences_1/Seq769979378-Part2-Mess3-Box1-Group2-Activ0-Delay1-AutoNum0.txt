@@ -1,0 +1,15 @@
+@startuml
+box "convenience corn"
+participant "feeders gee" as 0
+participant "woodland sakes" as 1
+end box
+== defected am ==
+1 -> 1: aircraft liberal
+opt paradise dismissing
+...explore corporations...
+1 -> 1: wrecks hoodlums
+alt scalped perchance
+0 -> 1: applied clop
+end
+end
+@enduml

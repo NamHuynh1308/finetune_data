@@ -1,0 +1,11 @@
+@startuml
+participant "removing mood" as 0
+participant "horde pecs" as 1
+box "chemo determines"
+participant "fiercest blackmailing" as 2
+end box
+0 -> 0: cremation pregnant
+1 -> 2: butterscotch burritos
+2 -> 2: poisons oriented
+1 -> 0: scam portion
+@enduml

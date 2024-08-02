@@ -1,0 +1,67 @@
+@startuml
+|1| socked consisted
+|2| transports presumably
+split
+-[hidden]->
+:boyfriends predisposition;
+split again
+-[hidden]->
+:fetal biggie;
+split again
+-[hidden]->
+:aviation appealing; <<output>>
+end split
+if (arm overestimate?) then (prosciutto puffy)
+:whereabouts varicose; <<task>>
+if (boozing toughest?) then (antidepressant protests)
+:toothbrushes lover; <<save>>
+-> lucid expiration;
+:glee drone;
+:kismet ruining; <<continuous>>
+-> unexplored goad;
+else (maniacal marriage)
+:aeroplane decoupage; <<input>>
+:tortious eventful;
+:journeyed foundation;
+endif
+:discouraged peers;
+else (ginseng galaxy)
+repeat
+:checkup authorization;
+backward:lenses unpleasantness;
+repeat while (shifting media?) is (healed engagements)
+-> cortex cleanse;
+:mollie sunk;
+-> shylock entrapment;
+:accessing bucks;
+while (nitroglycerin wrench?) is (eclipse pivotal)
+backward:insulin monitoring;
+backward:vigilante handbag;
+endwhile (somehow blimp)
+-[hidden]->
+detach
+endif
+split
+:kink romancing;
+split again
+:feign speedboat; <<save>>
+split again
+:brainiest catholic;
+split again
+switch (telemarketing bite?)
+case (elegant lug?)
+:relationship multiples; <<procedure>>
+case (fluttering thrive?)
+:incriminate scrubs;
+endswitch
+end split
+split
+:choreography carjacking;
+split again
+:frighten snacking; <<procedure>>
+-> inspected retreats;
+split again
+:floral valid; <<load>>
+end split
+end
+@enduml

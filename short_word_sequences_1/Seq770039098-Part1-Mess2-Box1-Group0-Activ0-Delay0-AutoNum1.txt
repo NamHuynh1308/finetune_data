@@ -1,0 +1,8 @@
+@startuml
+box "permitting developer"
+participant "sponges consolidate" as 0
+end box
+autonumber 9 5
+0 --> 0: breadth unwarranted
+0 ->o 0: pedestrian squeaks
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "brains sark" as 0
+participant "rescuers sponsor" as 1
+1 -> 1: coleslaw snowmen
+create participant "turtles decade" as 2
+0 -> 2 : turtles decade
+break underwater credo
+1 -> 0: competitors shrug
+...lippy bulldozers...
+2 -> 0: comparatively vibrant
+loop siren sandal
+2 -> 0++ : clue wins
+2 --//o 2++ : slush shifts
+else faltered springing
+end
+end
+return irony indelicate
+return estranged lunatics
+@enduml

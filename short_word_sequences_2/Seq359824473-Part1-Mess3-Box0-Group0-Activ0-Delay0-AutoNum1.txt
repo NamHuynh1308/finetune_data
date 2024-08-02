@@ -1,0 +1,9 @@
+@startuml
+participant "two detective" as 0
+== penguin berlin ==
+autonumber 3 7
+0 -\\ 0: fondest tackle
+autonumber stop
+0 -> 0: writings stolen
+0 ->x 0: telegraph cruise
+@enduml

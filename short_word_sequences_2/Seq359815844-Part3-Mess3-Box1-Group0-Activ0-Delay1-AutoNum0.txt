@@ -1,0 +1,11 @@
+@startuml
+participant "sneezing socks" as 0
+participant "forceful snarky" as 1
+box "bolt ruse"
+participant "informal attitude" as 2
+end box
+ [-> 2: photographing monsieur
+...spoilsport original...
+ [-> 2: divest cronies
+0 -> 1: extravagant anaesthetic
+@enduml

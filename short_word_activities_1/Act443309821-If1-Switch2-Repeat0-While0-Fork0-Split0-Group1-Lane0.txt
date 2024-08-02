@@ -1,0 +1,28 @@
+@startuml
+start
+:anti contract; <<continuous>>
+group performing misbehave
+if (requisition chrome?) then (manual undergrad)
+(cipher eastbound) elseif (angels listeners?) then (trouper sights)
+:buildup narwhal;
+(pilgrimage imbued) elseif (behave albums?) then (misnomer mojo)
+:missy kettle; <<procedure>>
+endif
+switch (additives lands?)
+case (labeled cozy?)
+switch (unidentified flakes?)
+case (snooty homeboys?)
+:mumbles stooge; <<procedure>>
+-> eludes validate;
+case (nick consult?)
+:stifling selflessness; <<save>>
+-> varies benedict;
+endswitch
+case (became grandfathers?)
+:reliving smirking; <<input>>
+case (immoral breed?)
+:evacuation preventative;
+endswitch
+stop
+end group
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "panama flatter" as 0
+autonumber 7 0
+ [<- 0: luscious congenial
+autonumber stop
+0 --//o 0: sherry ward
+@enduml

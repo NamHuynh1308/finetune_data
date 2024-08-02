@@ -1,0 +1,14 @@
+@startuml
+box "cuticle orderly"
+participant "benched parishioners" as 0
+participant "phooey followed" as 1
+participant "gobs gratification" as 2
+end box
+== saver brethren ==
+0 --//o 0: holiness scald
+par sulking jews
+2 -> 0++ : utilize tacks
+1 <-> 0: courier recant
+return jujitsu corrupting
+end
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "labels fresh" as 0
+participant "colony gimbal" as 1
+1 --//o 1++ : prayer fistful
+0 -// 1: distinguished hairless
+0 -->x 1: buddy enriching
+return fumigation stewards
+@enduml

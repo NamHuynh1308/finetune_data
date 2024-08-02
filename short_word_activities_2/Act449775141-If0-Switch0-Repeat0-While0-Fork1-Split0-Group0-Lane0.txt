@@ -1,0 +1,14 @@
+@startuml
+start
+:cremation object; <<procedure>>
+-> intern wireless;
+fork
+:renewed recently;
+fork again
+:receipts phosphorous; <<task>>
+-> rechecked overdressed;
+fork again
+:garcon lightened; <<save>>
+end merge
+stop
+@enduml

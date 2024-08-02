@@ -1,0 +1,18 @@
+@startuml
+participant "packs cast" as 0
+participant "general staked" as 1
+autonumber 9 9
+ [<- 0: hanged enormity
+ [-> 0: assimilated romanticize
+autonumber stop
+0 -> 1!! : valiant reinvent
+autonumber resume
+0 --//o 0: sabers shoves
+create participant "anthropologist robs" as 2
+0 -> 2 : anthropologist robs
+par harper flux
+...banged imported...
+1 <-> 1++ : bacon banister
+end
+return unbelievable busier
+@enduml

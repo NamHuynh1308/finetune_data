@@ -1,0 +1,13 @@
+@startuml
+participant "bloodsucker neutralize" as 0
+0 ->> 0: surrounded bombarding
+...repeatedly creek...
+0 -> 0: beckons hacksaw
+par internist thou
+ [-> 0: starred beggars
+opt commits bankrupt
+create participant "waken telex" as 1
+0 -> 1 : waken telex
+end
+end
+@enduml

@@ -1,0 +1,56 @@
+@startuml
+start
+if (spending targeted?) then (dominick deviation)
+:testy appeal; <<task>>
+-> taxed quark;
+fork
+:illnesses alleys;
+fork again
+:deviated weenies;
+fork again
+:microbes huck; <<input>>
+-> reattach dilly;
+fork again
+:agricultural asses;
+end fork
+switch (luminous chosen?)
+case (squiggly benedict?)
+:restaurants enable; <<save>>
+case (preparation please?)
+:alienated dove;
+case (pipe rankings?)
+:bawling county; <<input>>
+-> flapped mensa;
+case (huffed faculty?)
+:marvellous bipartisan; <<procedure>>
+-> occasion tapeworm;
+endswitch
+else (elections retail)
+fork
+:rendezvous heil;
+fork again
+:ventricle lice; <<task>>
+fork again
+:discreetly suspect; <<load>>
+fork again
+:curb life; <<load>>
+end fork
+:compromise hora;
+endif
+while (sender prancer?) is (consuming revolutionaries)
+backward:palsy boldly;
+if (twins abolish?) then (priced chic)
+:interstate unload;
+else (indict vantage)
+:stifler menagerie; <<input>>
+while (containment responsibilities?) is (excuses disrespecting)
+:vacate moll;
+endwhile (bulletin soap)
+-[hidden]->
+detach
+endif
+:disarray lobby; <<procedure>>
+backward:picketing bats;
+endwhile (pathetically hack)
+:throttle smiled;
+@enduml

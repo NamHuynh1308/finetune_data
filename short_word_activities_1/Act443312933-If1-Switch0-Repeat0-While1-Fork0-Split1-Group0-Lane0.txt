@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:quieter marshmallows;
+split again
+-[hidden]->
+:mushrooms obnoxious;
+split again
+-[hidden]->
+:faintest rosebuds; <<save>>
+end split
+:prints contestant; <<continuous>>
+if (frolic cursory?) then (marksmanship spanked)
+(calms entertainer) elseif (relates accidents?) then (eastern publicity)
+:belie engine; <<save>>
+(dubious dogged) elseif (circulate gripping?) then (witless known)
+while (politician interfering?) is (investing chances)
+:adjustment inscription;
+:religious tabloid; <<save>>
+:personal liaison; <<output>>
+:deliberately renege; <<output>>
+endwhile (windpipe buries)
+:greatly shack;
+endif
+stop
+@enduml

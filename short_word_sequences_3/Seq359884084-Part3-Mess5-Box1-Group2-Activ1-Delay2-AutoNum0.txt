@@ -1,0 +1,19 @@
+@startuml
+participant "strains meaningless" as 0
+participant "decoupage centered" as 1
+box "guitar cobb"
+participant "mural contraption" as 2
+end box
+0 ->> 2++ : fiddling cubes
+2 -// 0: little chesty
+return rooftops raspberry
+...homebody terribly...
+1 -->x 1: rust refinement
+break buttering astronomy
+1 -\\ 0: affectionately staunch
+loop testimonies lucrative
+...pleasures protector...
+2 -// 2: reviving lodgings
+end
+end
+@enduml

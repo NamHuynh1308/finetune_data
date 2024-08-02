@@ -1,0 +1,21 @@
+@startuml
+participant "sporty trellis" as 0
+participant "slam alone" as 1
+participant "accounts tapes" as 2
+participant "stealing elected" as 3
+box "banged efficiency"
+participant "narrow director" as 4
+end box
+autonumber 0 10
+ [-> 4: bender biopsy
+0 -> 1: diamonds destroyers
+2 -> 2!! : neediness slots
+...statistic ambush...
+2 -> 3++ : alterations ferret
+...proceed chauffeur...
+0 --> 2: overpaid implant
+create participant "gaze nomination" as 5
+0 -> 5 : gaze nomination
+return reprobate hoarding
+4 <-> 5: explosives urgent
+@enduml

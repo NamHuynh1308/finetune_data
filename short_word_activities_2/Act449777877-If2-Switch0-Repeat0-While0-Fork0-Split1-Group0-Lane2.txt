@@ -1,0 +1,42 @@
+@startuml
+|1| pertaining creamer
+|2| topping lest
+split
+-[hidden]->
+:catching preach;
+split again
+-[hidden]->
+:expectancy eels;
+-> pastime stride;
+split again
+-[hidden]->
+:plausible luce; <<load>>
+-> chirpy erasing;
+split again
+-[hidden]->
+if (gaslight quiche?) then (sticks french)
+(seafood softest) elseif (somewheres killjoy?) then (chateau barred)
+:brownout finish; <<input>>
+(abroad constituents) elseif (archenemy collecting?) then (pronounced spaghetti)
+:bolted watchful; <<procedure>>
+-> insinuating hated;
+endif
+end split
+|2|
+:hamlet mitten; <<load>>
+|1|
+:smoker unsolved;
+if (rosemary pork?) then (whys nobody)
+(smitten fails) elseif (hangout paragraph?) then (geography clanging)
+:tote huggers;
+(struggling sandals) elseif (rune tenths?) then (indifferent guitarist)
+:inches formations; <<continuous>>
+(daphne predicting) elseif (revels expired?) then (withdrew notice)
+:thugs lemon; <<continuous>>
+(enlightenment impress) elseif (settlements meaningful?) then (buttering blessings)
+:bgjomp;
+kill
+endif
+:spaz egregious; <<continuous>>
+end
+@enduml

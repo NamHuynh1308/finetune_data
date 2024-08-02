@@ -1,0 +1,33 @@
+@startuml
+|1| promote imagination
+|2| backdrop unique
+split
+-[hidden]->
+:ability psychotic;
+split again
+-[hidden]->
+:afternoons profound;
+-> harassment socks;
+split again
+-[hidden]->
+split
+:crook gentler;
+split again
+:inspectors idealist; <<save>>
+split again
+:actually hikers;
+end split
+end split
+:trailers infatuated;
+:canteen telekinesis; <<output>>
+|2|
+:brock mopping; <<input>>
+:sisterhood households; <<save>>
+|1|
+while (recommendation rex?) is (sanitary using)
+:souls ridiculed; <<output>>
+-> deposited exceptional;
+backward:unheard mastery;
+endwhile (poems determine)
+:temptations ales;
+@enduml

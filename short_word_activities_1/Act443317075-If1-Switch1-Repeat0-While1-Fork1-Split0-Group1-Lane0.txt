@@ -1,0 +1,34 @@
+@startuml
+group counselors portfolio
+if (switchman supermarket?) then (jimmies ventilate)
+:penises bungled; <<input>>
+else (ventilate summary)
+switch (charlies porky?)
+case (savior swatch?)
+:pollute soars; <<continuous>>
+-> sadness lopper;
+case (plague teacher?)
+:buttocks unions; <<procedure>>
+case (extract mastery?)
+:humidifier diagonal;
+endswitch
+while (saints provisions?) is (horrid pompous)
+:ester arrival; <<task>>
+-> ahead lancer;
+fork
+:scribbling tea;
+fork again
+:stroke adventurer; <<save>>
+-> folk flicked;
+fork again
+:grimes headsets;
+end merge
+endwhile (mulberry lubricants)
+-[hidden]->
+detach
+endif
+:rapists blur; <<output>>
+-> appeal meddling;
+end group
+end
+@enduml

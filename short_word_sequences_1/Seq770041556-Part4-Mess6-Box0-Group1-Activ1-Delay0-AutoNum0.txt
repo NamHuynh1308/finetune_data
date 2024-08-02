@@ -1,0 +1,16 @@
+@startuml
+participant "pounder goofball" as 0
+participant "uprising manhandle" as 1
+participant "shorty cartouche" as 2
+ [<- 1: punishes dipped
+2 -> 1!! : excluding refugee
+0 ->] : blooded first
+par dependant students
+create participant "pals porch" as 3
+1 -> 3 : pals porch
+ [<- 0: every own
+else tracing laughed
+1 ->x 0++ : unfold eucalyptus
+end
+return contained beatnik
+@enduml

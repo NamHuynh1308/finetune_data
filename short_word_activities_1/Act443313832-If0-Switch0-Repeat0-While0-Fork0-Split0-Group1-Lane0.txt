@@ -1,0 +1,8 @@
+@startuml
+start
+:businessman purer;
+group nights espionage
+:cows telephones; <<load>>
+stop
+end group
+@enduml

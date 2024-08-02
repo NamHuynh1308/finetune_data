@@ -1,0 +1,8 @@
+@startuml
+start
+group flies psychologist
+:pleading foyer;
+:campus incision; <<procedure>>
+end group
+end
+@enduml

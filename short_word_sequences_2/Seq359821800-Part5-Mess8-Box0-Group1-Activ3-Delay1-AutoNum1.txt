@@ -1,0 +1,25 @@
+@startuml
+participant "carcass vault" as 0
+participant "acts decent" as 1
+participant "luncheon grimes" as 2
+participant "rosebuds deviled" as 3
+participant "encore wrongfully" as 4
+autonumber 7 4
+4 ->> 4: advises thumb
+2 -> 1: bulbous pulpit
+ [<- 3: collide bailiff
+4 -\\ 3++ : pessimist responding
+autonumber stop
+...bedpan presentable...
+3 --> 4: dub haircuts
+return sponsorship sucker
+autonumber resume
+2 -> 4++ : trunk blah
+break gunshot greeting
+0 <-] : amazing angelus
+autonumber stop
+3 -// 3++ : jockeys dribbling
+end
+return independent dependency
+return stray forks
+@enduml

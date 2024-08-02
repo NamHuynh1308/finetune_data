@@ -1,0 +1,7 @@
+@startuml
+participant "chaperones guardians" as 0
+participant "mustangs labrador" as 1
+0 -> 0: securing whichever
+1 <-] : hesitating circles
+0 --//o 0: godson boxer
+@enduml

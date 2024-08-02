@@ -1,0 +1,18 @@
+@startuml
+fork
+:emerge frighten;
+fork again
+:puritans luckily; <<continuous>>
+-> firecrackers kilo;
+fork again
+:marvel sauna; <<task>>
+fork again
+switch (sores complacency?)
+case (invalid stare?)
+:salvation cigars;
+case (penalize sobbing?)
+:refused coot;
+endswitch
+end fork
+end
+@enduml

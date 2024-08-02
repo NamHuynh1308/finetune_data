@@ -1,0 +1,16 @@
+@startuml
+participant "remarked teaspoon" as 0
+box "tasks nirvana"
+participant "weeny statistically" as 1
+participant "saul cities" as 2
+end box
+participant "lameness voices" as 3
+autonumber 7 8
+0 ->x 3: majoring selling
+3 -> 1++ : theater pedals
+autonumber stop
+ [-> 3: hansom complex
+1 -> 1!! : memory boundary
+return clapping complete
+autonumber resume
+@enduml

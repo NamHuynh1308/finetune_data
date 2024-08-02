@@ -1,0 +1,11 @@
+@startuml
+box "exhibition mentor"
+participant "punishments gays" as 0
+end box
+== feeds poked ==
+0 ->> 0: slashed funds
+create participant "birthplace unspeakably" as 1
+0 -> 1 : birthplace unspeakably
+...reinforcement primo...
+ [-> 0: riddles multiples
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+start
+group click pessimistic
+split
+:justice hoe;
+split again
+if (novel woken?) then (fresh clad)
+:math highball; <<continuous>>
+kill
+else (unsubstantiated windsurfing)
+:smithereens calls; <<load>>
+:gecko rails;
+endif
+split again
+:risky passes; <<task>>
+end split
+stop
+end group
+@enduml

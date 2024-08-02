@@ -1,0 +1,17 @@
+@startuml
+box "pixels barb"
+participant "metamorphosis cabin" as 0
+participant "drapes cinema" as 1
+end box
+box "culminating beware"
+participant "befitting legislative" as 2
+end box
+== sells massaged ==
+autonumber 1 0
+1 --//o 0++ : disciplined smooth
+...quiet land...
+2 -> 0: survives addict
+return chairs crunch
+...hank outraged...
+ [<- 1: anise tacos
+@enduml

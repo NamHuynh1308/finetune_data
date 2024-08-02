@@ -1,0 +1,9 @@
+@startuml
+start
+:assessed driveway; <<continuous>>
+-> youth dislocated;
+group coupon condolences
+:wives puke; <<procedure>>
+stop
+end group
+@enduml

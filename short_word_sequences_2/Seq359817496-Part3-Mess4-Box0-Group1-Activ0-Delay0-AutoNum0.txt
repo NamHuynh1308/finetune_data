@@ -1,0 +1,11 @@
+@startuml
+participant "finishes dent" as 0
+participant "extinction consorting" as 1
+participant "microphones unresolved" as 2
+1 -// 0: embracing fading
+1 --//o 2: enables censorship
+0 -> 2: moments canter
+opt suspenders oatmeal
+1 -> 2: tampered clop
+end
+@enduml

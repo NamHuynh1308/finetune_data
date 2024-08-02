@@ -1,0 +1,9 @@
+@startuml
+:knuckles turret; <<procedure>>
+group corks recreation
+:gaga jogger; <<load>>
+-> splinters biding;
+:briar bombers;
+end group
+stop
+@enduml

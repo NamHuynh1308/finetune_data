@@ -1,0 +1,4 @@
+@startuml
+participant "reattach immodest" as 0
+0 -// 0: analyse braille
+@enduml

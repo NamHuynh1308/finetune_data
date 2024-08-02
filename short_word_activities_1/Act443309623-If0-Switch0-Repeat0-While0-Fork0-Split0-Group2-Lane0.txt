@@ -1,0 +1,10 @@
+@startuml
+group delights ambiguous
+:dominates corresponds; <<input>>
+-> blueberries bustier;
+group frustrates elixir
+:epilepsy arbitration; <<output>>
+stop
+end group
+end group
+@enduml

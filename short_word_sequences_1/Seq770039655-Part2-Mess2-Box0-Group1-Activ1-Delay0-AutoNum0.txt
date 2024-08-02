@@ -1,0 +1,10 @@
+@startuml
+participant "pacifier vernacular" as 0
+== berating pride ==
+par heartache miscarriage
+0 -> 0++ : pitches defenseless
+create participant "firearms broadcast" as 1
+0 -> 1 : firearms broadcast
+end
+return fingernails beyond
+@enduml

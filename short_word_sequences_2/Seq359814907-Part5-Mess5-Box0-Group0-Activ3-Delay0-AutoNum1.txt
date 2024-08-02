@@ -1,0 +1,19 @@
+@startuml
+participant "rhinoceros marine" as 0
+participant "unforgiving stakeouts" as 1
+participant "chitchat genre" as 2
+participant "shingles practical" as 3
+participant "ordnance gamut" as 4
+== java chaperone ==
+autonumber 1 3
+2 --//o 0: mums peruse
+0 -> 1++ : bending wynn
+autonumber stop
+0 <-> 3++ : gout scripts
+3 --> 0++ : ships bamboo
+autonumber resume
+0 ->x 0: sabotaged waxing
+return inflicted wrangle
+return comment dobbins
+return moan aloe
+@enduml

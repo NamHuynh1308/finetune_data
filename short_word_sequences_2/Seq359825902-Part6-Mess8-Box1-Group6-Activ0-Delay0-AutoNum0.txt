@@ -1,0 +1,32 @@
+@startuml
+participant "contractor spends" as 0
+participant "nailed bugs" as 1
+box "taping disputes"
+participant "skill wet" as 2
+participant "pachyderm majesty" as 3
+participant "cherries jane" as 4
+end box
+== poppy transition ==
+0 -> 4: tackling regrettably
+critical blaze tooth
+1 ->> 3: fifths evacuate
+alt loathe bells
+ [-> 0: highball qualifications
+loop application pacemaker
+3 <-> 4: axel tapped
+critical al commoner
+ [-> 3: kelp burns
+create participant "sighing convinces" as 5
+3 -> 5 : sighing convinces
+else randy bottling
+break base dismissal
+5 ->o 3: wink ninny
+critical curled fared
+1 ->o 1: quiz conference
+end
+end
+end
+end
+end
+end
+@enduml

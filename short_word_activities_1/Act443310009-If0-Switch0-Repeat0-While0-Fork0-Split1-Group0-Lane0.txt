@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:chicano initial;
+split again
+-[hidden]->
+:finder spices; <<load>>
+split again
+-[hidden]->
+:classless pulses; <<output>>
+-> tweak stumble;
+end split
+:moral architecture; <<input>>
+-> rudder voyage;
+:enterprising spores; <<continuous>>
+stop
+@enduml

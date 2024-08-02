@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:program lantern;
+split again
+-[hidden]->
+:of shareholder;
+split again
+-[hidden]->
+if (dirk treaters?) then (pampers cramping)
+:banality demonstrated;
+else (coffee stitches)
+:had dispensation; <<load>>
+-> lymph founding;
+:flower transfers;
+-> withdraw kidnap;
+while (villas sparks?) is (proceeds ostracized)
+:moonlight poll;
+backward:grandfathers lobe;
+:landed kiwi; <<save>>
+-> righteous numb;
+endwhile (irritated ordinate)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+:honey sands; <<continuous>>
+-> bagel grinder;
+end split
+:emphasize connected; <<procedure>>
+while (secure species?) is (agility absurdly)
+fork
+:burger donkey;
+fork again
+:demonology poetic;
+fork again
+:napkins seg; <<load>>
+end merge
+backward:future biscuits;
+:hayseed plans; <<task>>
+:gasbag seeds; <<load>>
+endwhile (congregation compounds)
+:religion imprint;
+end
+@enduml

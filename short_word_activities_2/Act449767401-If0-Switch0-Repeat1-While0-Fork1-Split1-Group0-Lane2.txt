@@ -1,0 +1,28 @@
+@startuml
+|1| ax thyme
+|2| ballerina laureate
+split
+-[hidden]->
+:resembles evaluating;
+split again
+-[hidden]->
+:sorrow crypt; <<output>>
+split again
+-[hidden]->
+:vital fountainhead; <<task>>
+end split
+fork
+:motivated tile;
+fork again
+:synapses rolled; <<continuous>>
+fork again
+:destroying webs; <<output>>
+end fork
+:dredge urine; <<save>>
+:uncaring turtles;
+|2|
+repeat
+backward:limitless thesis;
+repeat while (dulled suspicion?) is (scoured florin)
+stop
+@enduml

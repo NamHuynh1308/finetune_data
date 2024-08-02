@@ -1,0 +1,13 @@
+@startuml
+participant "starters proteus" as 0
+box "aerosol paradise"
+participant "rabbit abilities" as 1
+participant "zits clocks" as 2
+end box
+0 ->> 1: victoria predatory
+...rudeness elite...
+2 -> 1: dizzying prohibition
+0 <-] : flashed puffs
+1 ->x 0: ashtray ozone
+ [<- 1: geopolitical suit
+@enduml

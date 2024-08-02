@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:oddest fairy;
+split again
+-[hidden]->
+:damp littered;
+split again
+-[hidden]->
+:feckless freshly; <<procedure>>
+end split
+fork
+:performed blackjack;
+fork again
+:hippest rusted; <<task>>
+-> opinionated booty;
+fork again
+:swamps two; <<load>>
+fork again
+:pawn beginner; <<task>>
+end fork
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+|1| layout signore
+|2| manuscript poncho
+split
+-[hidden]->
+:struggle battering;
+split again
+-[hidden]->
+:confusing sluts; <<task>>
+split again
+-[hidden]->
+:intro afloat; <<task>>
+-> knapsack minority;
+split again
+-[hidden]->
+:viscous replace; <<continuous>>
+end split
+:chin newcomers;
+|2|
+:crabby pursue; <<output>>
+-> glaucoma obits;
+|1|
+:ragged taxed; <<task>>
+|2|
+:smokey octane; <<procedure>>
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+|1| rarely geographic
+|2| studio pharmaceutical
+split
+-[hidden]->
+:sensation noticing;
+split again
+-[hidden]->
+:bumble prowler; <<continuous>>
+-> contest flex;
+split again
+-[hidden]->
+:immaculate limb; <<load>>
+end split
+:clusters poltergeists; <<save>>
+-> gloss insulted;
+:grudging deficit; <<input>>
+-> terrify shoehorn;
+:evoked overblown; <<load>>
+-> directing swirly;
+stop
+@enduml

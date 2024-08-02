@@ -1,0 +1,19 @@
+@startuml
+:find popcorn;
+split
+:compel aisles;
+split again
+fork
+:scholarly whopper;
+fork again
+:friction rods;
+fork again
+:error delinquent; <<output>>
+end fork
+split again
+:disruptions widower; <<continuous>>
+-> magnetism treaters;
+split again
+:anchorage diversionary;
+end split
+@enduml

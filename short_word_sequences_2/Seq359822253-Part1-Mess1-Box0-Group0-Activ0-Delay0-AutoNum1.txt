@@ -1,0 +1,5 @@
+@startuml
+participant "prototype cluttering" as 0
+autonumber 5 5
+0 <-> 0: fanciful sweaters
+@enduml

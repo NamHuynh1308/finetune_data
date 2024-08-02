@@ -1,0 +1,64 @@
+@startuml
+split
+-[hidden]->
+:manicures thrower;
+split again
+-[hidden]->
+if (pint denominations?) then (bailiff condemning)
+:prowess reliving;
+:handheld loans;
+-> putrid kilometers;
+:canvass suit; <<output>>
+-> peckish rudimentary;
+kill
+else (lasts spunk)
+:bibles transmitter;
+:proctologist principal;
+endif
+split again
+-[hidden]->
+fork
+:fleas morning;
+fork again
+:pedro delegation; <<procedure>>
+fork again
+:dryers accessory; <<save>>
+fork again
+:codicil banking;
+end fork
+split again
+-[hidden]->
+:links playmate; <<load>>
+-> alabaster background;
+end split
+repeat
+:popper harbor; <<input>>
+repeat while (grainy serenity?) is (witching developer)
+split
+:responses yard;
+split again
+:sighting dart; <<input>>
+split again
+:bumbling expedited;
+end split
+split
+:grandfather canyons;
+split again
+:endurance emotionally;
+-> seminal workday;
+split again
+:evolving expresses;
+split again
+fork
+:guests chaperones;
+fork again
+:undo valentine;
+fork again
+:donated scotches;
+fork again
+:redirect invoices; <<load>>
+-> shrieking surgically;
+end merge
+end split
+end
+@enduml

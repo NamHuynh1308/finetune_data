@@ -1,0 +1,32 @@
+@startuml
+|1| liane copyright
+|2| convene icebox
+split
+-[hidden]->
+:tubby marlin;
+split again
+-[hidden]->
+:fractures collins; <<procedure>>
+split again
+-[hidden]->
+:conducive tracker; <<input>>
+end split
+:scumbags barged; <<save>>
+|2|
+:diagonal airplanes; <<procedure>>
+|1|
+if (piqued anecdotes?) then (same copacetic)
+:meanings debated; <<continuous>>
+:attribute trapped;
+:beanbag repression; <<procedure>>
+else (disgruntled outbreak)
+if (handouts caprice?) then (tires traded)
+:guys winch;
+else (varicose tax)
+:disinformation confessor; <<output>>
+:treaters acquaint;
+:rodman modification;
+endif
+endif
+end
+@enduml

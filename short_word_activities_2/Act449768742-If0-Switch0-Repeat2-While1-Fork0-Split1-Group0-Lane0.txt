@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:necklaces cloths;
+split again
+-[hidden]->
+:chilled maudlin; <<procedure>>
+split again
+-[hidden]->
+repeat
+:vis uninhibited; <<save>>
+:fatalities hyperactive;
+backward:mar dodged;
+repeat while (gees creepers?) is (succumbed scoliosis)
+end split
+while (economically riders?) is (arrest sideways)
+repeat
+backward:seekers hon;
+backward:covering toasted;
+repeat while (lost racket?) is (larval nearly)
+-> softening unrealistic;
+endwhile (fusion dog)
+:maps alderman;
+end
+@enduml

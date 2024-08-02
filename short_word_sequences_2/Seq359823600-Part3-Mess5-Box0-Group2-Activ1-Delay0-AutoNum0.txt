@@ -1,0 +1,15 @@
+@startuml
+participant "brainstorming chore" as 0
+participant "machines subtly" as 1
+alt attribute guinea
+1 -> 1++ : fin pampered
+0 -> 0: garments angrier
+return hill pancreatic
+end
+create participant "diversion mortified" as 2
+0 -> 2 : diversion mortified
+alt baddest fiddler
+2 -// 2: infiltrate product
+0 <-] : treated chimera
+end
+@enduml

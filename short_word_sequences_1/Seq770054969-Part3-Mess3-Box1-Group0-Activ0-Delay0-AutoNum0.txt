@@ -1,0 +1,10 @@
+@startuml
+box "shrapnel dribble"
+participant "blasphemy stressful" as 0
+participant "confuse dolly" as 1
+end box
+participant "wimps hissed" as 2
+ [-> 2: hatchet acted
+2 ->o 0: chiefs vulnerable
+2 -> 0: cozying dag
+@enduml

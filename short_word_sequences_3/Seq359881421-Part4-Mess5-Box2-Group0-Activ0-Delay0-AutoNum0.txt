@@ -1,0 +1,15 @@
+@startuml
+box "comparable imitating"
+participant "practices doghouse" as 0
+participant "wheeler twitching" as 1
+box "marina rational"
+participant "timed support" as 2
+participant "chancellor untimely" as 3
+end box
+end box
+3 -> 2: viruses sill
+1 -> 1: luggage trove
+3 <-] : nothing vomiting
+1 ->> 1: aunts granny
+3 --> 1: rangers stimulus
+@enduml

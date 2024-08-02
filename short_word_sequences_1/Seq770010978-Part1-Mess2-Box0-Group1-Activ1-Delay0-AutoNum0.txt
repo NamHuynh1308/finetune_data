@@ -1,0 +1,9 @@
+@startuml
+participant "apologized reopen" as 0
+== limos kicking ==
+0 <-] : gasoline busload
+alt tarragon woke
+0 -> 0++ : ted appropriate
+end
+return homeopathic nothing
+@enduml

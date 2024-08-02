@@ -1,0 +1,11 @@
+@startuml
+participant "countermeasures phasing" as 0
+participant "ships crime" as 1
+0 -->x 1: merit huck
+...blissful shrunk...
+0 <-> 0: tenement canteen
+1 <-] : cubs deciding
+create participant "cited prognosis" as 2
+0 -> 2 : cited prognosis
+0 -> 2!! : influenced monitor
+@enduml

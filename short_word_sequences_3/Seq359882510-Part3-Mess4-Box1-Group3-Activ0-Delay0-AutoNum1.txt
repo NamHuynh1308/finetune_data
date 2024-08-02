@@ -1,0 +1,20 @@
+@startuml
+participant "guilty stingray" as 0
+participant "mutants unannounced" as 1
+box "meringue reign"
+participant "heather creamer" as 2
+end box
+== property tasting ==
+autonumber 10 2
+0 ->> 1: concede ridding
+alt congestion sufficient
+1 -> 0: inconsistent tiki
+break loyal lob
+1 ->o 2: hum staring
+par chardonnay freshmen
+0 -> 2: mailboxes permit
+autonumber stop
+end
+end
+end
+@enduml

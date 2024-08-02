@@ -1,0 +1,18 @@
+@startuml
+box "widow chores"
+participant "switching toppings" as 0
+participant "culpa expectation" as 1
+participant "lam expenditure" as 2
+end box
+== materials lament ==
+1 -->x 1: lungs licked
+ [-> 1: fill rightfully
+alt remembering tossing
+2 -> 1: judgment pas
+1 <-] : unquenchable pot
+0 -->x 2++ : violates compliments
+create participant "golfing foxes" as 3
+2 -> 3 : golfing foxes
+end
+return poop bloc
+@enduml

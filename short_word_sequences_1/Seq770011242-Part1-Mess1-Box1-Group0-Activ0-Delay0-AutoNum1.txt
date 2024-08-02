@@ -1,0 +1,8 @@
+@startuml
+box "upsets individually"
+participant "babysitter judgment" as 0
+end box
+== dispatch bomber ==
+autonumber 10 2
+0 -> 0: tamales blackberry
+@enduml

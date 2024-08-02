@@ -1,0 +1,18 @@
+@startuml
+participant "hocus disintegrated" as 0
+participant "splendidly possessive" as 1
+participant "soul stuffing" as 2
+participant "conn loyalties" as 3
+autonumber 0 8
+ [-> 2: fierce showroom
+2 ->> 2++ : blunt showers
+autonumber stop
+0 -> 3++ : curry unexpectedly
+autonumber resume
+critical loath forefathers
+ [<- 2: calzone preparation
+2 -> 3: geographic deserves
+end
+return hoedown holing
+return quitter firemen
+@enduml

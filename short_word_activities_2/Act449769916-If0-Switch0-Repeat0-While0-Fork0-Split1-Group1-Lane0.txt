@@ -1,0 +1,14 @@
+@startuml
+group hooray spicy
+split
+:fines hack;
+split again
+:blossoms bruises; <<input>>
+split again
+:overcharge exfoliate; <<input>>
+end split
+:dehydration louder;
+-> unsavory torturous;
+stop
+end group
+@enduml

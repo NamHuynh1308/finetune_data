@@ -1,0 +1,11 @@
+@startuml
+box "housing senate"
+participant "timer torches" as 0
+end box
+0 -> 0++ : chrome xerox
+...celeste upped...
+0 -> 0: pox nifty
+...priss alters...
+0 -> 0: leadership spends
+return angrier spoiling
+@enduml

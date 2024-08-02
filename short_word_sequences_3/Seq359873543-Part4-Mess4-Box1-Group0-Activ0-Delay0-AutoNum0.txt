@@ -1,0 +1,12 @@
+@startuml
+box "upheld industrial"
+participant "garb incapable" as 0
+participant "hacksaw face" as 1
+end box
+participant "positioned scab" as 2
+participant "naw toting" as 3
+3 ->o 1: windsurfing ornaments
+1 -// 1: existing recorded
+3 -// 3: league clogging
+2 ->x 1: vive persons
+@enduml

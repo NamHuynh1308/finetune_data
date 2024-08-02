@@ -1,0 +1,6 @@
+@startuml
+participant "installment believable" as 0
+participant "francs ultimately" as 1
+0 -> 0: recognition reader
+0 -// 1: immodest affidavit
+@enduml

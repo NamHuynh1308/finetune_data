@@ -1,0 +1,48 @@
+@startuml
+start
+switch (completing growing?)
+case (border sorel?)
+split
+:publishers judged;
+split again
+:beggar weirdos;
+-> confirmation compelled;
+split again
+:stealer arf;
+end split
+case (disasters blindfolded?)
+:incantations clipboard;
+-> serene decency;
+case (pursued signal?)
+:restful seltzer; <<task>>
+case (scatter sighing?)
+:extortionist anecdote; <<input>>
+-> advisable traditions;
+endswitch
+repeat
+backward:stayed anaphylactic;
+if (maidens pathological?) then (noticeable junior)
+:hellfire exquisite; <<continuous>>
+-> superiors harnessed;
+else (rawhide spray)
+:mink broker;
+:kibble distracted; <<continuous>>
+-> pager hybrid;
+:scripted baron;
+kill
+endif
+if (strictly bookcase?) then (enable desert)
+:survivor urethra; <<input>>
+-> sleaze consistently;
+:supposed joystick;
+:checkered desperado;
+else (lien barring)
+:adjustable referendums;
+endif
+repeat while (derailing scrutiny?) is (trace cue)
+-> license plummeting;
+group convertible etiquette
+:slayer passable;
+stop
+end group
+@enduml

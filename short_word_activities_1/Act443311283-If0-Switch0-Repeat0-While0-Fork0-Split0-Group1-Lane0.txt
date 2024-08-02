@@ -1,0 +1,9 @@
+@startuml
+start
+:define whilst; <<save>>
+group groom forge
+:forest electric; <<procedure>>
+-> psych knees;
+stop
+end group
+@enduml

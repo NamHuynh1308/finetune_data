@@ -1,0 +1,12 @@
+@startuml
+participant "morsel prophecy" as 0
+box "embassy profitable"
+participant "lemur tommy" as 1
+box "dean drowning"
+participant "vetoed pardoned" as 2
+end box
+end box
+2 --> 1: wiseass holders
+0 -\\ 0: cobbler koala
+2 -> 0: tomb inscription
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "yearbooks slayers" as 0
+participant "adoring fixtures" as 1
+box "expensive stadium"
+participant "team flavor" as 2
+end box
+0 -// 0: conquered extra
+...personals coordinates...
+1 -> 0: structured director
+1 <-] : represent unlucky
+...pleasantries bookman...
+1 -\\ 2++ : roommates overbearing
+ [<- 0: blunt pleasantly
+return northwest certain
+@enduml

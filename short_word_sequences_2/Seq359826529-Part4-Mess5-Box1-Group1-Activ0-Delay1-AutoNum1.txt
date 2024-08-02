@@ -1,0 +1,17 @@
+@startuml
+box "hire comparing"
+participant "psychosis biochemist" as 0
+participant "sheep gibbons" as 1
+end box
+participant "pies unwashed" as 2
+autonumber 2 1
+create participant "overstay profanity" as 3
+2 -> 3 : overstay profanity
+loop narrowed sweatshirts
+...bibles smile...
+2 -> 3: carefree orthodox
+1 <-] : studies risks
+end
+2 -// 2: queen does
+2 --//o 1: anatomically highlights
+@enduml

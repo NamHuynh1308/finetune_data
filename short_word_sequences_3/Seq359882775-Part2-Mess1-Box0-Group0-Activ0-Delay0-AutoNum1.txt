@@ -1,0 +1,7 @@
+@startuml
+participant "anointed tightly" as 0
+== countries circuit ==
+autonumber 9 8
+create participant "fattening ana" as 1
+0 -> 1 : fattening ana
+@enduml

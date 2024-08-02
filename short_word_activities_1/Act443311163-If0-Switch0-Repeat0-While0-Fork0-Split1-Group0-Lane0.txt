@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:read curse;
+split again
+-[hidden]->
+:dynasty sneaky; <<task>>
+split again
+-[hidden]->
+:grieving mack; <<load>>
+end split
+:blasters remains; <<output>>
+-> picturing fishing;
+:scene iff;
+end
+@enduml

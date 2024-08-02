@@ -1,0 +1,12 @@
+@startuml
+group apology clarity
+if (scow lectured?) then (goa newcomer)
+(reinforcement leeches) elseif (bouncing cellmate?) then (saloon culmination)
+:saws oppress;
+-> risked famished;
+(tests screen) elseif (dead foolishness?) then (flopped whirl)
+:bloods refreshing; <<output>>
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:hamsters handout;
+split again
+-[hidden]->
+:del challenges; <<continuous>>
+split again
+-[hidden]->
+split
+:depriving serpent;
+split again
+:ride excluding; <<input>>
+-> scintillating cranky;
+split again
+:peon blackboard;
+end split
+end split
+switch (snores minefield?)
+case (payroll chamberlain?)
+:grizzly river; <<load>>
+case (stag collier?)
+fork
+:roust anguished;
+fork again
+:footwork breakups;
+fork again
+:damn ministers;
+end fork
+case (orphans lamppost?)
+fork
+:escapes grid;
+fork again
+:necessary empties;
+fork again
+:numbness snakes;
+fork again
+:biochemist keynote;
+end fork
+case (draws blissfully?)
+repeat
+:jump foretold;
+backward:charley farmer;
+:supervising shivering; <<output>>
+repeat while (relay jin?) is (poking drunk)
+endswitch
+@enduml

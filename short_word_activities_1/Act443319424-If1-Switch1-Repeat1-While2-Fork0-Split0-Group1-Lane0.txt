@@ -1,0 +1,37 @@
+@startuml
+:elders innovation; <<task>>
+group outwit swerve
+switch (goalie startling?)
+case (lunchroom purged?)
+:sweatshirts crazy; <<output>>
+-> woof poofy;
+case (skin tasteful?)
+:steppe sheepskin;
+while (firmer cache?) is (flop nancy)
+repeat
+:lepers derogatory;
+:unearthed fed; <<input>>
+repeat while (announcements estimated?) is (actions etcetera)
+-> coffin fey;
+:overbite spew; <<procedure>>
+endwhile (ideal gulch)
+-[hidden]->
+detach
+case (wherefore spoiler?)
+while (assessed backing?) is (hating patten)
+:tyrant changing;
+:landlord inherit;
+:can lite; <<procedure>>
+endwhile (resolve sac)
+:plumbing hangout;
+case (mussels dobbins?)
+if (forgot penicillin?) then (gams gutting)
+(dawned puffy) elseif (related volts?) then (carpentry dreading)
+:lawman towel; <<output>>
+(attaboy fosse) elseif (payoffs town?) then (reversed issue)
+:plowing goober;
+endif
+endswitch
+stop
+end group
+@enduml

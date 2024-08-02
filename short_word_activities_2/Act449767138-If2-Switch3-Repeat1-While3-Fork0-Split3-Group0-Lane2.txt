@@ -1,0 +1,101 @@
+@startuml
+|1| belle thug
+|2| plural overjoyed
+split
+-[hidden]->
+:bumming inventory;
+split again
+-[hidden]->
+:moxie morn;
+kill
+split again
+-[hidden]->
+:ordnance soaring;
+-> butterflies lunching;
+split again
+-[hidden]->
+switch (aura slaughterhouse?)
+case (playgrounds hatred?)
+:bypass quizmaster;
+case (pager blankly?)
+:warrior imploding;
+case (emerge hooking?)
+:prop dolly;
+-> ostrich miraculous;
+endswitch
+end split
+split
+:tell pop;
+split again
+:riley passage; <<task>>
+split again
+:mates heaved; <<continuous>>
+-> sprints dominoes;
+end split
+switch (jams helluva?)
+case (authorized plaything?)
+:infecting paradigm;
+case (experts peaches?)
+:thorns pilot; <<procedure>>
+endswitch
+split
+:weathered plummet;
+split again
+:semple costume; <<output>>
+-> prognosis edema;
+split again
+switch (limited servants?)
+case (feces wedgies?)
+:could rand; <<input>>
+-> amazing secret;
+case (dissection deserter?)
+:protracted fritters;
+-> koala probable;
+case (hamper consorting?)
+:precise coolness;
+case (threads horizontal?)
+:felon hot;
+endswitch
+split again
+while (lesbians reschedule?) is (fortunate ammunition)
+backward:knotted charcoal;
+:friendlier lets;
+:cruise pregnancies; <<save>>
+-> tarred wussies;
+:soliciting underdeveloped;
+endwhile (cold startled)
+:minors auditory;
+end split
+|2|
+if (museum shopped?) then (stella angels)
+if (magnetism dealing?) then (derrick lobby)
+(alike taffy) elseif (moonlight landmarks?) then (cachet hubris)
+:walla tigers;
+(unheard peaches) elseif (snooty bugger?) then (form inadequate)
+:chore fling;
+-> blend slang;
+(thataway telegram) elseif (pastrami stinks?) then (rivers age)
+:insincere validate;
+endif
+:monogamy drowsy; <<save>>
+while (dilly nazis?) is (reserved commencing)
+repeat
+backward:councilors marquis;
+repeat while (thanksgivings beauty?) is (safety gel)
+-> ray mulling;
+endwhile (bays violating)
+-[hidden]->
+detach
+else (sportsmanship realization)
+:jeep balled;
+-> true granted;
+while (thunderbolt vent?) is (feuds belittle)
+:tranquilizer windowsill; <<task>>
+-> tall jealous;
+:excites slough;
+backward:blazers aqua;
+endwhile (physicists insists)
+-[hidden]->
+detach
+endif
+@enduml

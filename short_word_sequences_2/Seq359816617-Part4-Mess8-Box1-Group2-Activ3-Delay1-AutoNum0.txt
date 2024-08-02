@@ -1,0 +1,26 @@
+@startuml
+participant "ballots noel" as 0
+participant "wedded scintillating" as 1
+box "salute inspirational"
+participant "spits involvement" as 2
+participant "dearly axle" as 3
+end box
+== interfering phoned ==
+1 -\\ 2: offshore filmmaker
+0 ->] : conniving hoarse
+opt royalties woolly
+1 ->x 2++ : liberties avengers
+2 -> 0++ : gathered mum
+...gratification profusely...
+0 -// 3: centerpiece scared
+3 <-> 2++ : battle diva
+end
+alt martins preview
+3 -> 1: reevaluate wuthering
+2 ->> 1: scraps gallon
+else composed yards
+end
+return geriatric wynn
+return loathing unhook
+return dutiful hoist
+@enduml

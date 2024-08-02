@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:lanky pounce;
+split again
+-[hidden]->
+split
+:beastie coyotes;
+split again
+:plummeted quiet; <<output>>
+split again
+:heiress insisting;
+-> eighteen dreaming;
+end split
+split again
+-[hidden]->
+:unstable portraits; <<save>>
+split again
+-[hidden]->
+split
+:lefts dialogue;
+split again
+:brandies versed;
+split again
+:linens fingerprint;
+split again
+:administrators growers; <<task>>
+end split
+end split
+:gawk celebration; <<output>>
+stop
+@enduml

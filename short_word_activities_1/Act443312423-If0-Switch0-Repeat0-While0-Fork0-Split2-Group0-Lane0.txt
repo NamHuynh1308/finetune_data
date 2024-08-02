@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:drugged respectability;
+split again
+-[hidden]->
+:vessel fife;
+split again
+-[hidden]->
+:paranoia preview; <<task>>
+-> bulletin esoteric;
+split again
+-[hidden]->
+split
+:parishioner civilian;
+split again
+:together swami; <<procedure>>
+-> print adopted;
+split again
+:fallow tightness; <<load>>
+-> personalized sulking;
+split again
+:fluffing bamboozled;
+end split
+end split
+:treats underneath; <<task>>
+-> hurts anyplace;
+end
+@enduml

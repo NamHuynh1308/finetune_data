@@ -1,0 +1,6 @@
+@startuml
+participant "rifling cultural" as 0
+autonumber 5 8
+0 ->> 0: zephyr myrtle
+autonumber stop
+@enduml

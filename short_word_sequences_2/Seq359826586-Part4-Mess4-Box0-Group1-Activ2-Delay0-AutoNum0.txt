@@ -1,0 +1,15 @@
+@startuml
+participant "jumpers altruistic" as 0
+participant "bitch map" as 1
+participant "balcony combustion" as 2
+participant "energized workday" as 3
+0 -> 1++ : swept spotted
+alt wartime paris
+3 -// 0++ : retain strangeness
+3 -->x 1: exterminating seasonal
+return clouds pitted
+else being rhinoceros
+3 -->x 0: toaster grubs
+end
+return force retiring
+@enduml

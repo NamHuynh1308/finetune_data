@@ -1,0 +1,16 @@
+@startuml
+box "gaining prep"
+participant "plankton fertilize" as 0
+participant "slipping cock" as 1
+participant "sponge razor" as 2
+participant "problem yesterday" as 3
+end box
+autonumber 10 3
+2 -> 3: tryouts perhaps
+0 ->x 0++ : askew retro
+autonumber stop
+0 -> 1: consultations aim
+2 -\\ 3: outwit leaky
+2 ->x 3: agrees tile
+return heaviest exercising
+@enduml

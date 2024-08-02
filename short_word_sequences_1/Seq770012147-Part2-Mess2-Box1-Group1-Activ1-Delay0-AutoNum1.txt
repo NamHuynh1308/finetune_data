@@ -1,0 +1,13 @@
+@startuml
+box "gypsies stickup"
+participant "born zodiac" as 0
+participant "washing superego" as 1
+end box
+autonumber 6 9
+alt productions proportional
+1 -->x 0: robotic hesitant
+autonumber stop
+1 --//o 1++ : fearing juke
+end
+return beaver workers
+@enduml

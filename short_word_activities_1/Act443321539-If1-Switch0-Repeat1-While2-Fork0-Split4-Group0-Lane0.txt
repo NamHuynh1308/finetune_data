@@ -1,0 +1,58 @@
+@startuml
+split
+-[hidden]->
+:egghead baron;
+split again
+-[hidden]->
+split
+:unique stubbed;
+split again
+:vacation rattlesnake; <<input>>
+-> librarian petitioning;
+split again
+:sulking rascals;
+end split
+split again
+-[hidden]->
+:weiner oblivion; <<output>>
+-> messenger hurricane;
+split again
+-[hidden]->
+while (teacup dies?) is (handguns arachnid)
+backward:passengers barfed;
+endwhile (gathering lantern)
+:calmer weakest;
+end split
+repeat
+if (cuffs autopsies?) then (duly rickety)
+(rash breadth) elseif (advertise digit?) then (oily tears)
+:roots sandbar;
+(reacquaint vengeance) elseif (visas accessible?) then (felons fez)
+:assertive communists;
+endif
+:fleabag expensive;
+-> toothed lecturing;
+repeat while (replacements denounce?) is (defrost breadth)
+split
+:sticking brand;
+split again
+:gonorrhea merchandise; <<task>>
+split again
+:unsatisfying belongs;
+while (stilettos wink?) is (rigor mill)
+:undergone counter; <<output>>
+endwhile (classified mourn)
+-[hidden]->
+detach
+split again
+split
+:dais pledge;
+split again
+:shakers discriminated;
+split again
+:assholes modifications; <<continuous>>
+-> evasions outdated;
+end split
+end split
+stop
+@enduml

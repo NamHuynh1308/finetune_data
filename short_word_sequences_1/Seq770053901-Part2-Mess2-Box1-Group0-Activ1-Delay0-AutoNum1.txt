@@ -1,0 +1,10 @@
+@startuml
+participant "madam salinas" as 0
+box "flowers clears"
+participant "sends whats" as 1
+end box
+autonumber 6 3
+0 <-] : such verified
+0 -->x 1++ : scapegoat visor
+return bikini gringo
+@enduml

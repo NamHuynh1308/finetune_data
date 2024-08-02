@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:pat holden;
+split again
+-[hidden]->
+:perpetuating limos; <<procedure>>
+split again
+-[hidden]->
+:gardening modest; <<task>>
+split again
+-[hidden]->
+:wail muggy;
+kill
+end split
+switch (disturbed ballots?)
+case (pensioners union?)
+:undercurrent preview; <<procedure>>
+-> companions bookish;
+case (tipsy headsets?)
+split
+:oatmeal recognizes;
+split again
+:penetrate steady; <<procedure>>
+-> potholes progresses;
+split again
+:mezzanine abbot; <<input>>
+end split
+endswitch
+:genetically quarterbacks; <<output>>
+@enduml

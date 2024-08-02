@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:champagne rail;
+split again
+-[hidden]->
+split
+:believer fun;
+split again
+:blooded snacks;
+split again
+:metaphorical patience; <<input>>
+split again
+:embalmed quahog; <<procedure>>
+-> glamour icebreaker;
+end split
+split again
+-[hidden]->
+:integrity cringe; <<save>>
+end split
+:updated talons; <<output>>
+@enduml

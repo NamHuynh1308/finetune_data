@@ -1,0 +1,18 @@
+@startuml
+start
+group ferrets writer
+fork
+:ribbons contribution;
+fork again
+:gross hijinks;
+-> triceps distributors;
+fork again
+:rebuilt endorse;
+-> fallout rewriting;
+fork again
+:moxie balanced;
+kill
+end fork
+stop
+end group
+@enduml

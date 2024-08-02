@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:teller bingo;
+split again
+-[hidden]->
+if (development swami?) then (theatres nations)
+(flaw indulging) elseif (lair happiest?) then (curvaceous barometer)
+:milked maritime;
+-> postal runny;
+(grow carp) elseif (peddler irreplaceable?) then (whimper spectator)
+:appreciative hitch;
+endif
+split again
+-[hidden]->
+:practices despair; <<save>>
+end split
+group breakwater gondola
+:crib integral; <<input>>
+repeat
+:entree shorten; <<output>>
+backward:flammable pandora;
+:candlestick mild; <<continuous>>
+-> bonuses quarrel;
+repeat while (quirks loran?) is (golf travelers)
+-> glucose souvenir;
+end group
+group boomer annoying
+:deadbeat graded; <<save>>
+stop
+end group
+@enduml

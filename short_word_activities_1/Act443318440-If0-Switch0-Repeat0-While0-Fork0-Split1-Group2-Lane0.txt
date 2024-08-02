@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:conceive payday;
+split again
+-[hidden]->
+:hounds listener; <<task>>
+split again
+-[hidden]->
+:below expulsion;
+-> torque compounds;
+split again
+-[hidden]->
+:sympathy shell;
+end split
+group pave rewriting
+:middleweight stuffed; <<continuous>>
+group shorts mitten
+:hazardous slim;
+-> shampoo graceful;
+:shameful suspect;
+end group
+stop
+end group
+@enduml

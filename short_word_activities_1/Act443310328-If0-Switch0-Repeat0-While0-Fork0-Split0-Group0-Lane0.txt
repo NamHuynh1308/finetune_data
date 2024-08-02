@@ -1,0 +1,5 @@
+@startuml
+start
+:dating internal; <<input>>
+stop
+@enduml

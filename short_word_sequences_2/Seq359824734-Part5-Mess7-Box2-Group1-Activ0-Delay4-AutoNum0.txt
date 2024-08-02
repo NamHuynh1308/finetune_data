@@ -1,0 +1,24 @@
+@startuml
+participant "trollop grabs" as 0
+box "parishioners cookie"
+participant "timid withdrawing" as 1
+participant "lobsters abduction" as 2
+end box
+box "engineer resistance"
+participant "seashells sans" as 3
+end box
+create participant "airs underway" as 4
+1 -> 4 : airs underway
+...issue remember...
+1 -> 2!! : miniscule caged
+...ushers unreliable...
+ [<- 0: demographics determine
+...residence clods...
+4 -> 2: awakened equation
+1 <-> 0: anchoring infuriating
+...cancellations arts...
+0 -// 0: polo memorizing
+par texts compiling
+ [-> 2: birthright esoteric
+end
+@enduml

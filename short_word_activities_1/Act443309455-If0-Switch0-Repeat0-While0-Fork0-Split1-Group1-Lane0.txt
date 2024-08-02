@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:teleport mitten;
+split again
+-[hidden]->
+:unsealed trend; <<input>>
+split again
+-[hidden]->
+:changing broomstick; <<continuous>>
+end split
+group recovered dissolving
+:divest brouhaha; <<load>>
+stop
+end group
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "dressing office" as 0
+participant "bursting killer" as 1
+== paleontologist condemn ==
+1 -\\ 0: crocket trim
+...sawyer bump...
+1 -> 0!! : prints concerned
+@enduml

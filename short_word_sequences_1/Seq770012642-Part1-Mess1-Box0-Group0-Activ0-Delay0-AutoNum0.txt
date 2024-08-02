@@ -1,0 +1,4 @@
+@startuml
+participant "nods flares" as 0
+0 -> 0: drill inheritance
+@enduml

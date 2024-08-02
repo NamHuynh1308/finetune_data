@@ -1,0 +1,14 @@
+@startuml
+group will destinations
+fork
+:bronzed orders;
+fork again
+:drawback hurl; <<input>>
+fork again
+:appreciated raptors;
+fork again
+:foil thusly;
+end fork
+stop
+end group
+@enduml

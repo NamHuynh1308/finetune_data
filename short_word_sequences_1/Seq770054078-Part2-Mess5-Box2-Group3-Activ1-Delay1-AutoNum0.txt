@@ -1,0 +1,22 @@
+@startuml
+box "abusive eldest"
+participant "shorthand backyard" as 0
+box "misuse kiln"
+participant "castor curie" as 1
+end box
+end box
+alt guerillas goodly
+0 -// 1: tradition textbooks
+1 --//o 0: ailing yodel
+else masons poppa
+critical revealing negligent
+...tires touche...
+1 -->x 0++ : boozer initiation
+0 -// 0: pushers bouncer
+return innards eminent
+end
+alt attitude olden
+1 ->> 1: swoops smudged
+end
+end
+@enduml

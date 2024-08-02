@@ -1,0 +1,18 @@
+@startuml
+box "jumbled formation"
+participant "distressing professed" as 0
+box "neutral censured"
+participant "fulfill dateless" as 1
+end box
+end box
+autonumber 6 7
+alt motor hurtling
+0 -> 0: gaze suave
+ [<- 1: wastes mindful
+par ills frizzy
+...spooning airman...
+0 <-] : daybreak averages
+autonumber stop
+end
+end
+@enduml

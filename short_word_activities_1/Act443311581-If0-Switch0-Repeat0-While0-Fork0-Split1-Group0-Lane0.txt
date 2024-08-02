@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:wishes sticky;
+split again
+-[hidden]->
+:recommends lifted; <<task>>
+-> whipped hails;
+split again
+-[hidden]->
+:outpouring log; <<task>>
+split again
+-[hidden]->
+:hiccup organised; <<continuous>>
+-> touch both;
+end split
+:monkey psychological; <<input>>
+:ocean vary;
+-> puritan jess;
+@enduml

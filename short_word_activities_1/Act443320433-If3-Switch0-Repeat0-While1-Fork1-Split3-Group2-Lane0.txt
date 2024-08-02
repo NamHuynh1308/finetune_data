@@ -1,0 +1,80 @@
+@startuml
+split
+-[hidden]->
+:congestion communications;
+split again
+-[hidden]->
+:peruse hearts; <<procedure>>
+-> watched coroners;
+split again
+-[hidden]->
+:waif silence;
+split again
+-[hidden]->
+fork
+:camping barmaid;
+fork again
+:favors wallowing; <<input>>
+fork again
+:sluggish restart;
+end fork
+end split
+if (insurmountable faded?) then (turds enrolling)
+(method toga) elseif (schlep pajamas?) then (suited dickie)
+:graceful shanghai; <<procedure>>
+-> incubators massaging;
+(raven wet) elseif (enact marketplace?) then (vaguely loveliest)
+:fortress downy; <<input>>
+(toughen johns) elseif (caress eddy?) then (oppress dawning)
+split
+:thru stand;
+split again
+:shaven personnel;
+split again
+:engineers folded; <<task>>
+split again
+:obscurity teamsters;
+end split
+(predictable despise) elseif (pudding fortunately?) then (selfishness pro)
+:kvbtvk;
+while (concourse bagpipes?) is (disconnected clap)
+backward:vicar servers;
+backward:nutritious snot;
+split
+:rambling regime;
+split again
+:the specialized;
+split again
+:perfumes diuretics;
+end split
+endwhile (viscount birdies)
+-[hidden]->
+detach
+endif
+group buffoons gram
+:archer falafel; <<load>>
+group boston newest
+if (gridlock cellar?) then (disarmed wagons)
+(collects testicular) elseif (lock lied?) then (exclusion proper)
+:child nerd; <<output>>
+-> stampede adolescence;
+(endorphins humbling) elseif (sausages cater?) then (somber blameless)
+:welsh grind; <<input>>
+(satchel headaches) elseif (gobs outlander?) then (dismissal purview)
+:footage whims; <<save>>
+(perverted palsy) elseif (clever betraying?) then (mediator explicitly)
+if (objectives upshot?) then (blaring cos)
+(informer slip) elseif (movement demur?) then (unforgiving pockets)
+:skis formaldehyde;
+-> earl nauseated;
+(insulation inaccessible) elseif (skeletal degenerate?) then (turtleneck poorest)
+:yourselves cakes;
+(odyssey driveways) elseif (devoting regeneration?) then (motherhood enraged)
+:teaspoons judo; <<input>>
+-> brushing casing;
+endif
+endif
+stop
+end group
+end group
+@enduml

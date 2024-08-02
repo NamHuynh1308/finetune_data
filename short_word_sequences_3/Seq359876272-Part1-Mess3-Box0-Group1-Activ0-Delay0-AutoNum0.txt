@@ -1,0 +1,11 @@
+@startuml
+participant "underage wizard" as 0
+== concluded cowboy ==
+opt misspoke abstract
+0 -\\ 0: cloverleaf spotlights
+0 --//o 0: both premise
+else dough carbon
+ [-> 0: reckoned aye
+else deformity shotgun
+end
+@enduml

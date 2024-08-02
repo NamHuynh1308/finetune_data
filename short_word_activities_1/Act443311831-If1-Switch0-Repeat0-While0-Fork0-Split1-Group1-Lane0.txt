@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:duck welcoming;
+split again
+-[hidden]->
+:escalated newsstand; <<procedure>>
+split again
+-[hidden]->
+:chesty sausage; <<save>>
+end split
+if (buttery pores?) then (steaming carter)
+(combustion tushy) elseif (barrow mono?) then (erode slip)
+:warmer destabilize;
+(daphne nonetheless) elseif (concussion psychologically?) then (order ne)
+:feather continental; <<input>>
+-> amuses kissy;
+endif
+group carving bigamy
+:ovulating kimono; <<load>>
+-> student debated;
+stop
+end group
+@enduml

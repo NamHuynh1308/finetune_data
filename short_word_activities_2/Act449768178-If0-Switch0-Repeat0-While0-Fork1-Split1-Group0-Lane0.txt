@@ -1,0 +1,19 @@
+@startuml
+start
+fork
+:vigor plural;
+fork again
+:affairs finest;
+fork again
+split
+:gofer school;
+split again
+:installing potty;
+split again
+:malfeasance raiding; <<procedure>>
+split again
+:salary chills; <<task>>
+end split
+end fork
+stop
+@enduml

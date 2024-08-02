@@ -1,0 +1,17 @@
+@startuml
+start
+repeat
+backward:bedpan launder;
+if (stuffed shipment?) then (handoff once)
+(replacements countenance) elseif (stir harmed?) then (athletic panting)
+:gardener displaying;
+(weekly misspoke) elseif (collage naivete?) then (gangs carriage)
+:astound mechanic;
+endif
+repeat while (await juror?) is (extremists slip)
+group exterminator coexist
+:nastiest decide; <<load>>
+-> peck detached;
+stop
+end group
+@enduml

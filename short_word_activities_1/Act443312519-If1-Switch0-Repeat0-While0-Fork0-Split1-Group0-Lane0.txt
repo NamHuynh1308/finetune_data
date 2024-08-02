@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:exam yawn;
+split again
+-[hidden]->
+:thieves locks; <<save>>
+split again
+-[hidden]->
+if (ralph percolating?) then (bidding scarves)
+(attempting mavis) elseif (extinguish firebug?) then (trainee veal)
+:proof jerked;
+(hiker silenced) elseif (confidence handicap?) then (critter coronary)
+:finishes sigma; <<input>>
+-> fireproof procrastinate;
+(smarts diarrhea) elseif (hub pellets?) then (soundstage terms)
+:suckered demands;
+endif
+split again
+-[hidden]->
+:defending countermeasures; <<save>>
+-> lac collector;
+end split
+:assumption wiseass;
+stop
+@enduml

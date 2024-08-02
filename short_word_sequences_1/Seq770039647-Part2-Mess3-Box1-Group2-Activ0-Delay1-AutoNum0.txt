@@ -1,0 +1,15 @@
+@startuml
+box "tidings fills"
+participant "heroics gush" as 0
+participant "adoring troubled" as 1
+end box
+== stalks vials ==
+0 -> 1: menage bastards
+loop obtuse collage
+0 -> 0: surrender indeterminate
+critical incense blimey
+...evict adjustable...
+1 -> 1: formulating declaring
+end
+end
+@enduml

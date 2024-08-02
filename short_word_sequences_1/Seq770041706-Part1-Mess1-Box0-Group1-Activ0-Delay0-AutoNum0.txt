@@ -1,0 +1,6 @@
+@startuml
+participant "conferring secluded" as 0
+alt slum vacuumed
+ [-> 0: standing riviera
+end
+@enduml

@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:people divine;
+split again
+-[hidden]->
+split
+:clad shouted;
+split again
+:prefix anniversary; <<load>>
+split again
+:firebird fey;
+end split
+split again
+-[hidden]->
+:privately backpack; <<continuous>>
+split again
+-[hidden]->
+:transatlantic peat; <<save>>
+-> bloodstream scant;
+end split
+split
+:commented buffs;
+split again
+:sutures estimation; <<save>>
+split again
+if (activation syndicate?) then (lifeline cooker)
+:collector supermarket;
+:conquered winnings;
+else (excursion conducts)
+:tambourine cheeseburger; <<output>>
+-> ketchup introducing;
+endif
+end split
+stop
+@enduml

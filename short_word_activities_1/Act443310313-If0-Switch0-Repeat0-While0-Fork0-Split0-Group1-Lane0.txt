@@ -1,0 +1,7 @@
+@startuml
+group vested vector
+:magnitude tweaking; <<load>>
+-> trot permission;
+stop
+end group
+@enduml

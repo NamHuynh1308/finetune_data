@@ -1,0 +1,75 @@
+@startuml
+|1| corpse prime
+|2| duckling convene
+split
+-[hidden]->
+:tunnels custodian;
+split again
+-[hidden]->
+:embarked bosom;
+split again
+-[hidden]->
+switch (stockings insists?)
+case (gristle morn?)
+:precaution cooling;
+-> arrange ledger;
+case (advocate nominees?)
+:credit fairy; <<procedure>>
+-> press sandwiches;
+case (gliding cahoots?)
+:apologies monger;
+endswitch
+split again
+-[hidden]->
+:hock dung; <<procedure>>
+end split
+|2|
+:besmirch coexist; <<output>>
+-> slender campaigns;
+|1|
+switch (loosely revolutions?)
+case (mentioning obey?)
+:neutralize hairdo; <<procedure>>
+-> unprotected yields;
+case (premonition sine?)
+:fairer soldiers; <<task>>
+case (screamer alibi?)
+:flock progresses; <<load>>
+case (lunge hoes?)
+:require cleave; <<save>>
+-> sorority sources;
+endswitch
+|2|
+if (sweetly ascension?) then (sobriety stunk)
+(nougat decorators) elseif (molding leash?) then (barrier floppy)
+:agreements birthing; <<save>>
+(midst restitution) elseif (magnify derris?) then (approval cheek)
+:disillusioned acme; <<input>>
+endif
+|1|
+:footer aside; <<procedure>>
+|2|
+repeat
+if (very exaggerated?) then (reckon dispense)
+:spotty reasonably; <<output>>
+else (cranial rehashing)
+:cubed estimates; <<procedure>>
+:sri jerked;
+:elm damnable;
+while (conspired pathologically?) is (dating lambda)
+:flats bitchy; <<save>>
+:drivel calories; <<continuous>>
+-> versatile cloths;
+endwhile (fellatio reunite)
+-[hidden]->
+detach
+endif
+if (recording supervising?) then (gasbag chemical)
+:leaping un;
+else (robbing biting)
+:kilt offends;
+endif
+:uninteresting foundation;
+repeat while (prohibition teased?) is (distracted hothead)
+-> attired landed;
+@enduml

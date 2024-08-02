@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:cacciatore deprive;
+split again
+-[hidden]->
+repeat
+:rug housewarming;
+-> commune verily;
+repeat while (naughty bloodshot?) is (rearing lunching)
+split again
+-[hidden]->
+:coins sublet;
+end split
+group clinical forgery
+:gaby flick; <<input>>
+stop
+end group
+@enduml

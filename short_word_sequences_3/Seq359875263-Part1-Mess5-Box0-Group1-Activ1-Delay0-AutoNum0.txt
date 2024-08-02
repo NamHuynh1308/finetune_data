@@ -1,0 +1,12 @@
+@startuml
+participant "scattered rift" as 0
+== wildcats hillcrest ==
+0 -// 0: sheila hams
+0 --//o 0: justice softer
+loop deprived literate
+0 ->x 0: dewars construct
+0 -> 0++ : mints err
+0 -\\ 0: doctor balding
+return ostensibly breach
+end
+@enduml

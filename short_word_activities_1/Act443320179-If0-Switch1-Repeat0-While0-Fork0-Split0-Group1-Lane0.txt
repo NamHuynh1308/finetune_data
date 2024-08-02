@@ -1,0 +1,12 @@
+@startuml
+group cohesion marten
+:salvaged leaflets; <<output>>
+switch (lifeboats needle?)
+case (thieves bayonet?)
+:impenetrable urban;
+case (popcorn assholes?)
+:pinning examination;
+-> instant explode;
+endswitch
+end group
+@enduml

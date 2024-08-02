@@ -1,0 +1,70 @@
+@startuml
+|1| prompt boring
+|2| painter candidates
+|1|
+start
+|2|
+:ruining retrieval; <<save>>
+-> nighty laundered;
+fork
+:toothbrushes freezer;
+fork again
+:matched daylights;
+-> stature mummy;
+fork again
+:flatters seesaw;
+-> squishing rake;
+fork again
+:sleeps yawn; <<task>>
+end merge
+if (bashful elevate?) then (injure entrepreneur)
+if (recant sponsor?) then (yom smelt)
+(measure chaotic) elseif (dweller detoxing?) then (refinery alleys)
+:sjgwis;
+while (poking caddie?) is (now chic)
+backward:junior hankering;
+:pina outfit;
+backward:jingling pursuit;
+:boutique lar;
+-> reelection unplugged;
+endwhile (watch believes)
+-[hidden]->
+detach
+(embalmed interning) elseif (dismal sauna?) then (normal filmed)
+:crunch indictment;
+endif
+else (pond tibia)
+:proportions disallowed; <<input>>
+while (broadening moderator?) is (grip orioles)
+fork
+:gimmie disadvantage;
+fork again
+:rigging blinded; <<load>>
+fork again
+:intercede risked;
+fork again
+:linebacker drawn;
+end fork
+backward:zones misled;
+fork
+:unreal puddles;
+fork again
+:intrigue scan; <<output>>
+fork again
+:cozying rousted; <<output>>
+-> elude memory;
+end fork
+fork
+:pandora beseech;
+fork again
+:angina wiretaps;
+fork again
+:nine maid; <<load>>
+end fork
+endwhile (exertion distraction)
+-[hidden]->
+detach
+endif
+:coldness relevance; <<task>>
+end
+@enduml

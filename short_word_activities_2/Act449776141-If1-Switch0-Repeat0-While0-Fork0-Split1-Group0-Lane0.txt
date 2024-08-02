@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:caymans cirrhosis;
+split again
+-[hidden]->
+if (scrubbed drama?) then (brew venom)
+:charm reds;
+-> hostile folk;
+:spaghetti advocacy; <<output>>
+:campaigning fight;
+kill
+else (remedial pajama)
+:bloodless magazine;
+:blacked excessive; <<load>>
+:include brothers; <<output>>
+-> cates tends;
+endif
+split again
+-[hidden]->
+:fibrosis sprightly; <<output>>
+split again
+-[hidden]->
+:hallway endeavor;
+end split
+:repress stereo; <<load>>
+-> dang cougars;
+end
+@enduml

@@ -1,0 +1,53 @@
+@startuml
+|1| cacophony magic
+|2| weirdo wrenched
+|2|
+:realms console;
+-> loaning defendant;
+split
+:brushed berserk;
+split again
+switch (dobbin serves?)
+case (luncheon purely?)
+:tended furtive;
+-> arrowhead dork;
+case (matey geologist?)
+:observers trespass; <<output>>
+case (leno crawls?)
+:sinners cabdriver;
+-> singed swords;
+case (sportsmanship lumber?)
+:manatees develop; <<continuous>>
+-> gooey regarding;
+endswitch
+split again
+if (shop tangled?) then (functional welch)
+(resurfaced argued) elseif (pies shotguns?) then (stomp topic)
+:hates vendor;
+(frank gateway) elseif (cartographers jet?) then (uninvited craziness)
+:forthwith taxes; <<load>>
+(transfers sprinkler) elseif (oven gained?) then (insides ornamental)
+:olives speedy; <<task>>
+(render soul) elseif (outsiders possibilities?) then (cutthroat cutoff)
+:sustenance bond;
+-> smashed poorest;
+endif
+end split
+:overestimated carwash;
+-> ahoy thinly;
+|1|
+:combined chaperoned; <<output>>
+fork
+:scanning usher;
+fork again
+:attach sax;
+fork again
+if (older holder?) then (pheasant birch)
+:requisition pewter; <<save>>
+:bass jockey;
+else (wagons wheel)
+:mutiny straights;
+endif
+end merge
+end
+@enduml

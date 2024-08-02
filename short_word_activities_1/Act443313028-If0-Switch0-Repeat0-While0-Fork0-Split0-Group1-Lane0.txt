@@ -1,0 +1,7 @@
+@startuml
+group clout fuller
+:omitted calender; <<task>>
+-> veering baseball;
+stop
+end group
+@enduml

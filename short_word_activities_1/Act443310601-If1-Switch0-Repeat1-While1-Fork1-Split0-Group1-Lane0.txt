@@ -1,0 +1,33 @@
+@startuml
+start
+group guarded cowgirl
+:literature cowed;
+-> rats constructed;
+if (indications tread?) then (orphaned innings)
+:brace dressings; <<load>>
+-> display shown;
+:possessed duality; <<save>>
+else (hearing computers)
+fork
+:outgrow influencing;
+fork again
+:hazel presently;
+fork again
+:fishing wick; <<output>>
+-> cheater jazzed;
+fork again
+:scooter crackling; <<save>>
+end fork
+repeat
+backward:seed inmate;
+:skyscrapers dials;
+repeat while (meter intelligently?) is (tiffany twain)
+while (newsletter arterial?) is (chart bazaar)
+:tardy ell;
+:formaldehyde creepers; <<output>>
+endwhile (patchouli felony)
+:reclaiming hocking;
+endif
+end group
+stop
+@enduml

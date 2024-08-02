@@ -1,0 +1,9 @@
+@startuml
+box "cycle congratulate"
+participant "wagons unstable" as 0
+end box
+autonumber 1 10
+0 ->] : blackboard flee
+autonumber stop
+0 ->o 0: usefulness grasp
+@enduml

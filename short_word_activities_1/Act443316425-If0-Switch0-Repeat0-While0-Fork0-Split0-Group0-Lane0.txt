@@ -1,0 +1,5 @@
+@startuml
+:tarzan removing; <<output>>
+-> plumbing talking;
+end
+@enduml

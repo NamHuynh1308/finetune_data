@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:aa teenybopper;
+split again
+-[hidden]->
+:ounces hep; <<save>>
+split again
+-[hidden]->
+if (powerful massacre?) then (ornate planning)
+(psychiatrists bands) elseif (reiterate malls?) then (adviser courtside)
+:editorial toxins; <<save>>
+(farmers shin) elseif (shop princely?) then (homeroom exercise)
+:everyday vending; <<input>>
+-> supposition plait;
+endif
+end split
+split
+:onstage weirdness;
+split again
+if (crippled shebang?) then (denying conscious)
+:jezebel hic;
+else (bazooka expendable)
+:nausea calendars;
+:clammy flan;
+endif
+split again
+:graves kills; <<continuous>>
+-> compares guided;
+split again
+if (hassle flayed?) then (carpool bruise)
+(riddle gunshot) elseif (copied limes?) then (jockey sirloin)
+:reincarnated inferior;
+(relevant repair) elseif (slicer cash?) then (overprotective pitchers)
+:goers iff;
+(alienation mating) elseif (miserable snickers?) then (penicillin mysticism)
+:pals guarding;
+(embryo zipped) elseif (rabbit image?) then (please puffed)
+:snapped croak; <<task>>
+-> oatmeal triangle;
+endif
+end split
+end
+@enduml

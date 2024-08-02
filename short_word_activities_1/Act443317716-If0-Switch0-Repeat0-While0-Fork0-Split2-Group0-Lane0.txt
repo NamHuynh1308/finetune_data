@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:light select;
+split again
+-[hidden]->
+:stumped brock; <<continuous>>
+-> bleak lull;
+split again
+-[hidden]->
+split
+:rescuing demean;
+split again
+:masseur drawback; <<procedure>>
+split again
+:improvements fastest;
+end split
+end split
+:legit prance;
+:portrayal respectable;
+@enduml

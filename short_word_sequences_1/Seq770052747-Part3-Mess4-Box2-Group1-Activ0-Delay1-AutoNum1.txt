@@ -1,0 +1,20 @@
+@startuml
+participant "hatched demonstrates" as 0
+box "third pocket"
+participant "prohibition tet" as 1
+box "rafting discus"
+participant "looking walling" as 2
+end box
+end box
+autonumber 10 4
+0 --> 1: news divorce
+autonumber stop
+2 -> 2: scheming soccer
+autonumber resume
+loop schiller mick
+...appealed trout...
+2 -> 2: detective coerced
+ [<- 1: chasing hallucination
+else pirated checkup
+end
+@enduml

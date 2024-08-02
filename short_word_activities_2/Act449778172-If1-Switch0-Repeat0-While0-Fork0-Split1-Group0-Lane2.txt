@@ -1,0 +1,34 @@
+@startuml
+|1| misconception tongue
+|2| asinine dangerous
+split
+-[hidden]->
+:assurance albacore;
+split again
+-[hidden]->
+:swinging heaved; <<output>>
+-> hand shocks;
+split again
+-[hidden]->
+:feature exports; <<input>>
+-> latex chang;
+end split
+:probation laceration; <<continuous>>
+|2|
+if (thinkers synaptic?) then (uncharacteristically forage)
+(teaming preaching) elseif (cheated amend?) then (emphasized gnome)
+:elections roadster;
+-> barged riders;
+(header ancients) elseif (realty blissfully?) then (freeman tightly)
+:showed gat;
+(demise cork) elseif (synagogue peerless?) then (expression worldwide)
+:sportsmanship minnow; <<load>>
+(passageway cataracts) elseif (probable wealth?) then (toons seam)
+:definitely innuendo; <<output>>
+endif
+:shirts stub; <<procedure>>
+-> extracurriculars lancer;
+|1|
+:jumbled ducks; <<task>>
+end
+@enduml

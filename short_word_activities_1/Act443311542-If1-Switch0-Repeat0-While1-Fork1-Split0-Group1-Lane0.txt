@@ -1,0 +1,28 @@
+@startuml
+start
+group tidy instead
+fork
+:dotes divisions;
+fork again
+:jaguars om; <<load>>
+fork again
+if (burdens cultures?) then (euphemism mountain)
+:kris perjure; <<output>>
+:firsthand nerd; <<output>>
+else (brides gor)
+:improvements installments;
+while (leveraged higher?) is (everywhere stringing)
+:gatherings consummated; <<save>>
+:merl unfolding;
+backward:chums navigating;
+endwhile (vestigial beaucoup)
+-[hidden]->
+detach
+endif
+fork again
+:ashore howl;
+-> glitches instead;
+end fork
+stop
+end group
+@enduml

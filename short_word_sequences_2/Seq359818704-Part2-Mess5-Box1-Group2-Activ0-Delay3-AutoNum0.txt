@@ -1,0 +1,18 @@
+@startuml
+box "dollop vegetative"
+participant "potion itself" as 0
+end box
+0 -> 0!! : figures femur
+...absorbing stint...
+0 -> 0: creased cord
+create participant "visage boomer" as 1
+0 -> 1 : visage boomer
+critical biochemist cohesive
+...pentagon microphones...
+1 <-> 0: generates packets
+loop humans ritualistic
+...heritage sutures...
+1 -> 1: sow deceived
+end
+end
+@enduml

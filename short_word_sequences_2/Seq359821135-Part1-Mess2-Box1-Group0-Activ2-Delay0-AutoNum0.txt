@@ -1,0 +1,10 @@
+@startuml
+box "receptionist gaze"
+participant "pa slowing" as 0
+end box
+== discounting seals ==
+0 -> 0++ : sniffling hinted
+0 <-> 0++ : strengths agitated
+return jugular operation
+return calculator careers
+@enduml

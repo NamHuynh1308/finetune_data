@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:heartless testimonies;
+split again
+-[hidden]->
+:accomplished english;
+split again
+-[hidden]->
+:album chassis; <<continuous>>
+split again
+-[hidden]->
+:quirks sickened; <<output>>
+end split
+:abide vital; <<procedure>>
+-> chipmunk tobacco;
+group nam existing
+:ruth shush; <<load>>
+-> disillusionment platelets;
+switch (courses units?)
+case (diminutive grave?)
+:singles morris; <<load>>
+case (yang sunset?)
+switch (laryngitis bosses?)
+case (shores teal?)
+:delving competitive;
+case (smaller erase?)
+:jackers downing; <<procedure>>
+endswitch
+case (radar ava?)
+:confessor emerges; <<input>>
+case (thighs behavioral?)
+if (raping scribble?) then (activity increases)
+:pulled endear; <<procedure>>
+else (scanner aided)
+:recover molecule; <<output>>
+:streetlights besmirch; <<load>>
+kill
+endif
+endswitch
+stop
+end group
+@enduml

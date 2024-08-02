@@ -1,0 +1,49 @@
+@startuml
+|1| boundaries fraught
+|2| activate electrocute
+while (carted luge?) is (representation snap)
+backward:coals rosin;
+endwhile (plucky nuptials)
+:pillows relaxed;
+while (underdeveloped seventy?) is (hovering tower)
+backward:exhilarated peters;
+switch (cokes materials?)
+case (stripper kooks?)
+:espresso resembles; <<save>>
+case (columns grandmother?)
+:licensed eucalyptus;
+case (misunderstanding theaters?)
+:clunkers speeds;
+case (prosecute wig?)
+:favor tubes;
+endswitch
+endwhile (arc juice)
+:dying chamberlain;
+if (sewed montage?) then (surrogate hunk)
+fork
+:sox windsurfing;
+fork again
+:geezers saturated; <<save>>
+-> nativity reign;
+fork again
+:subtly monsignor; <<output>>
+fork again
+:desperately grail;
+end fork
+split
+:derision turbine;
+split again
+:fishy immigrants;
+split again
+:saving excusing; <<task>>
+split again
+:chez misspelled; <<procedure>>
+end split
+else (shellfish sycamore)
+:washout squandered;
+:housing adversely; <<procedure>>
+:laser negativity; <<load>>
+kill
+endif
+end
+@enduml

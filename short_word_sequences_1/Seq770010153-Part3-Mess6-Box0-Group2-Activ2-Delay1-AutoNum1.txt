@@ -1,0 +1,23 @@
+@startuml
+participant "toothpaste hallways" as 0
+participant "overstepping erases" as 1
+participant "backward fangs" as 2
+autonumber 2 7
+alt shes bounce
+0 <-> 0++ : rancid insecure
+autonumber stop
+break pretzel concourse
+ [<- 0: machine tall
+return volatile sporty
+autonumber resume
+...custody wanderer...
+2 -> 0: foal nighttime
+1 <-] : epidemic bag
+1 -> 1: gale screeching
+autonumber stop
+0 <-> 0++ : tights lecturing
+autonumber resume
+end
+end
+return injure appeased
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "piano distinguishing" as 0
+== gushing bun ==
+0 -> 0: chaps telescope
+create participant "blather suspicions" as 1
+0 -> 1 : blather suspicions
+@enduml

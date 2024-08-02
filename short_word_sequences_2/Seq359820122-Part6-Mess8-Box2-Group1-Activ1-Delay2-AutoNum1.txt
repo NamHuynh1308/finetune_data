@@ -1,0 +1,27 @@
+@startuml
+box "utopia hard"
+participant "irritable rigorous" as 0
+box "trust map"
+participant "prescribe lasers" as 1
+participant "messengers posies" as 2
+participant "ridiculously clique" as 3
+participant "pheasant struck" as 4
+end box
+end box
+autonumber 0 7
+create participant "father heckles" as 5
+4 -> 5 : father heckles
+2 -> 5: paramedics bet
+5 <-] : rubbing founding
+ [<- 4: textiles blurt
+...logistics quicker...
+5 -->x 4++ : invested seasoned
+alt seeker knuckles
+...teams wed...
+2 -> 4: piping sipping
+autonumber stop
+3 ->] : fatigue parfait
+1 ->> 4: befitting diners
+end
+return fez grams
+@enduml

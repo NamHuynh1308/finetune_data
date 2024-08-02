@@ -1,0 +1,14 @@
+@startuml
+participant "selective generations" as 0
+participant "busy anorexic" as 1
+participant "shelf squad" as 2
+participant "pagers rebirth" as 3
+== tutor incase ==
+ [<- 3: concourse sigma
+ [-> 1: fundraisers fetched
+3 ->> 3: hawks fussing
+3 --> 1: heartfelt resolved
+...remarked resemble...
+0 -\\ 3: accessories collateral
+ [<- 3: hearts actually
+@enduml

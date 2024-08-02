@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:unorthodox brilliance;
+split again
+-[hidden]->
+:lang lowery;
+-> repaid twisted;
+split again
+-[hidden]->
+:diagonal application; <<task>>
+split again
+-[hidden]->
+:unwashed corresponding;
+end split
+:obi neurotic; <<procedure>>
+group fringe streamlined
+if (doubles slumped?) then (manipulator deadlier)
+:sexual bending; <<procedure>>
+-> fowl attentions;
+else (potter ne)
+split
+:curling admits;
+split again
+:wheat roosters;
+split again
+:folding flowers; <<input>>
+-> loser programme;
+end split
+:clarity juncture; <<input>>
+-> brumby breezy;
+repeat
+:workaholic flowers; <<output>>
+:wigged popular;
+-> stat paprika;
+repeat while (crushing cheating?) is (flips unhand)
+endif
+stop
+end group
+@enduml

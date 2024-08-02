@@ -1,0 +1,21 @@
+@startuml
+participant "expelling baring" as 0
+participant "cappuccino dole" as 1
+participant "coddle junkies" as 2
+participant "gasbag appreciation" as 3
+== presumptuous stoop ==
+loop normalcy repetitious
+3 -\\ 2: ana founding
+0 -// 3++ : coo urgency
+par tiller passionate
+ [-> 1: unadvisedly brunt
+create participant "suffers napkins" as 4
+0 -> 4 : suffers napkins
+return jane fleet
+else sixties hep
+...licensed praying...
+0 <-> 1: poofy quark
+else curious synthetic
+end
+end
+@enduml

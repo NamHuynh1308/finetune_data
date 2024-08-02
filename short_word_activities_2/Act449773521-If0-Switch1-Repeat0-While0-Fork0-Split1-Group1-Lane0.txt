@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:definition detonator;
+split again
+-[hidden]->
+:violate mangoes; <<procedure>>
+-> shiver bluepoint;
+split again
+-[hidden]->
+:enthused football; <<task>>
+split again
+-[hidden]->
+:jelly maximum; <<save>>
+-> journal freeman;
+end split
+switch (brethren starling?)
+case (neighbour knot?)
+:stronghold napkin; <<save>>
+case (geek amigos?)
+:recognizable reformed; <<procedure>>
+case (incompetent bibles?)
+:whimper homes; <<continuous>>
+endswitch
+group frankfurter pledge
+:procession keen; <<save>>
+stop
+end group
+@enduml

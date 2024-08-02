@@ -1,0 +1,11 @@
+@startuml
+|1| banquet editors
+|2| traitor gallant
+|2|
+:ask looker; <<output>>
+-> counseling bonfire;
+|1|
+:barbers brewer; <<save>>
+|2|
+:restitution grudge; <<procedure>>
+@enduml

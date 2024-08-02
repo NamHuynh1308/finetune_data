@@ -1,0 +1,21 @@
+@startuml
+participant "nostril port" as 0
+participant "shuffle humidifier" as 1
+participant "ones luggage" as 2
+participant "geriatric jingling" as 3
+participant "obese drooled" as 4
+par identical unmarked
+3 --//o 0: magazine extremities
+ [<- 1: trapped laundry
+end
+par cooing preserve
+4 -> 1: clods ugly
+3 -> 3: mumps rumors
+...buyers finds...
+2 <-> 1++ : vetoed deserving
+3 <-> 1++ : olives deliberately
+else palpitations groovy
+end
+return graciously conclusions
+return window smarty
+@enduml

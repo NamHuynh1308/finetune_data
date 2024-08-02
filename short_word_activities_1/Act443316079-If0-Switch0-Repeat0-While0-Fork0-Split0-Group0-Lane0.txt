@@ -1,0 +1,4 @@
+@startuml
+:mealy supercollider;
+:electoral degree; <<continuous>>
+@enduml

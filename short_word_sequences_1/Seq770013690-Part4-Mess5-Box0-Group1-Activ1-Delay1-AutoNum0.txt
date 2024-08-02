@@ -1,0 +1,15 @@
+@startuml
+participant "seats lascivious" as 0
+participant "appointed busboys" as 1
+participant "habit stumped" as 2
+1 -// 0: such summarily
+create participant "fragile maple" as 3
+0 -> 3 : fragile maple
+break tarzan interpreting
+ [<- 2: plucky woodwork
+...contingency incorrectly...
+3 ->] : lawmen decryption
+2 -> 1++ : sniffling rich
+end
+return fever courageous
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+group weevil gobbledegook
+:blurt guardrail; <<continuous>>
+stop
+end group
+@enduml

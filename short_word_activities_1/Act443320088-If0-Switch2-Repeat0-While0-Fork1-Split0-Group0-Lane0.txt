@@ -1,0 +1,29 @@
+@startuml
+start
+fork
+:mats detaining;
+fork again
+:hooters truckload; <<load>>
+-> unfold peeking;
+fork again
+switch (harsh cloth?)
+case (lures invention?)
+:recaptured written; <<input>>
+case (pitchfork distraught?)
+:yokels hoodlums;
+case (roller ruptured?)
+:cavities jailbreak; <<load>>
+endswitch
+fork again
+switch (downsize bracing?)
+case (termination gangsters?)
+:mounds pickup; <<load>>
+case (sol simplest?)
+:stains notable; <<load>>
+-> cove reassign;
+case (jazz breadth?)
+:scorching affect;
+endswitch
+end fork
+end
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+split
+:rehearsals baked;
+split again
+:ambulance crux; <<procedure>>
+split again
+switch (tyre jersey?)
+case (dumbest ell?)
+:tackling forgot;
+case (crater caveman?)
+:hernias grainy;
+case (haystack medications?)
+:smoked miller;
+-> anchorage dimple;
+case (boomer young?)
+:puffy endorphins; <<load>>
+endswitch
+end split
+:speakerphone hysterical; <<save>>
+-> tests tribal;
+end
+@enduml

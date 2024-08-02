@@ -1,0 +1,12 @@
+@startuml
+group immerse freed
+:mug babbling; <<output>>
+:venerable painter; <<continuous>>
+-> ballerina sheets;
+end group
+group grass cyclone
+:winded sweater; <<task>>
+-> beam grades;
+stop
+end group
+@enduml

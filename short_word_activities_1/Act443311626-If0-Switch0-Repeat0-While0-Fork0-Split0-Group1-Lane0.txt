@@ -1,0 +1,8 @@
+@startuml
+group isolated armies
+:cubbies advert; <<input>>
+:subtly wuthering;
+-> inland footer;
+stop
+end group
+@enduml

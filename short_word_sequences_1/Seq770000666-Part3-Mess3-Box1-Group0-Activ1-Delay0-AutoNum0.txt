@@ -1,0 +1,12 @@
+@startuml
+participant "operated beach" as 0
+participant "interchangeable admonish" as 1
+box "conversations brightly"
+participant "ream shadows" as 2
+end box
+== fearful refreshing ==
+1 <-] : wack dudes
+2 --//o 0: examined unimportant
+1 -> 0++ : spat compressor
+return variant exhibiting
+@enduml

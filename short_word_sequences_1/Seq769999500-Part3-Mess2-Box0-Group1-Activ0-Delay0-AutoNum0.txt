@@ -1,0 +1,9 @@
+@startuml
+participant "gunnery fearless" as 0
+participant "hail collagen" as 1
+opt wriggle observation
+1 -> 1: slower chick
+create participant "dulcet beef" as 2
+1 -> 2 : dulcet beef
+end
+@enduml

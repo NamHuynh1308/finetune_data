@@ -1,0 +1,28 @@
+@startuml
+box "harboring reacquaint"
+participant "surviving rooting" as 0
+participant "thrones offshore" as 1
+participant "mitts sits" as 2
+box "schoolgirl tadpole"
+participant "expecting baton" as 3
+box "dirty establishment"
+participant "hibernation littered" as 4
+end box
+end box
+end box
+2 -\\ 3: swamps charity
+1 -->x 1++ : occasionally flinch
+3 -> 1++ : revert generate
+alt probably wackos
+...context skewer...
+0 -->x 3: temporarily finds
+ [-> 4: lawman misgivings
+create participant "patented sodas" as 5
+4 -> 5 : patented sodas
+return catches scrapes
+end
+1 -> 5: blames obnoxious
+return blazer puppeteer
+4 ->x 1++ : unaware bunions
+return disbelief expansion
+@enduml

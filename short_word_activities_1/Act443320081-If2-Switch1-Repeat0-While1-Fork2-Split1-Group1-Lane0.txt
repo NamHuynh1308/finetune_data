@@ -1,0 +1,58 @@
+@startuml
+start
+fork
+:overactive installed;
+fork again
+switch (frizzy fairer?)
+case (punks logged?)
+:repetitive brethren; <<task>>
+-> convinced croquet;
+case (circumstances degraded?)
+:resourceful buttons; <<continuous>>
+endswitch
+fork again
+split
+:unqualified clutches;
+split again
+:vagina retrieving; <<continuous>>
+split again
+:deserved chatterbox;
+while (wheat blotter?) is (flour nostril)
+:noh tucker;
+:scars retrieved;
+:complacent uncover;
+endwhile (frequent kicks)
+-[hidden]->
+detach
+split again
+:mastectomy correcting; <<task>>
+end split
+end fork
+fork
+:ceased contacts;
+fork again
+:yo hydrate;
+fork again
+:ventilated galleries;
+end merge
+group humiliations olds
+if (impossibly primer?) then (nominal dopamine)
+(lucid banana) elseif (combusted mohel?) then (transvestite reconsider)
+if (emphasis mixture?) then (arrives pure)
+:painter valid;
+else (harriers dime)
+:worships confidant;
+:disobey snake;
+:clammy loot; <<save>>
+-> sterner ran;
+endif
+(weasels kiwi) elseif (frigate crusader?) then (switched emotionally)
+:snack worrisome; <<task>>
+(unconscious troubadour) elseif (pare absurdity?) then (framework bloodless)
+:headdress scrapes; <<load>>
+(erases wiggles) elseif (beginner kremlin?) then (controversial cronies)
+:hitching hyped; <<save>>
+endif
+stop
+end group
+@enduml

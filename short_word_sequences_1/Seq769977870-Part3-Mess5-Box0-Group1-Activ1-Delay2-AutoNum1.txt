@@ -1,0 +1,17 @@
+@startuml
+participant "encountered relive" as 0
+participant "hayseed brat" as 1
+autonumber 2 8
+ [<- 0: wretched helipad
+1 -// 1++ : refusing flue
+autonumber stop
+...crackers deployed...
+1 ->x 0: wining integration
+return eliminates snitches
+loop apologized silent
+create participant "gag speculate" as 2
+1 -> 2 : gag speculate
+...sex banality...
+2 ->x 1: uh jargon
+end
+@enduml

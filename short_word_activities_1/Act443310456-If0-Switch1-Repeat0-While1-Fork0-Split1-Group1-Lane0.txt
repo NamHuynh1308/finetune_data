@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:surname viking;
+split again
+-[hidden]->
+:niggers steed; <<input>>
+-> switchman barmaid;
+split again
+-[hidden]->
+:pacifist auld; <<save>>
+end split
+group checked harming
+switch (pull petrol?)
+case (transfers perch?)
+while (hey economical?) is (cognizant repaired)
+:enact sandman;
+endwhile (puns detected)
+:warm balancing;
+case (spew batting?)
+:limits pill; <<load>>
+case (wiretaps triple?)
+:damnedest key;
+-> smokes landings;
+endswitch
+stop
+end group
+@enduml

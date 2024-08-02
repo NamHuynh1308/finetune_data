@@ -1,0 +1,11 @@
+@startuml
+participant "creaky her" as 0
+alt processing logic
+0 --> 0: prophesied scooped
+0 -> 0: explored academy
+par boggle own
+0 ->o 0++ : centennial infiltration
+end
+end
+return dopamine hired
+@enduml

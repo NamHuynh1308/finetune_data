@@ -1,0 +1,10 @@
+@startuml
+box "photography ovation"
+participant "sawing formally" as 0
+participant "intends dozing" as 1
+end box
+== unlike bane ==
+autonumber 9 0
+1 ->o 0: hic fieldstone
+ [-> 0: sapphire emerge
+@enduml

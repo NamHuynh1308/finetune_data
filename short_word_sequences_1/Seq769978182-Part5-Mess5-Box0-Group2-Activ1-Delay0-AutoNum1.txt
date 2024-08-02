@@ -1,0 +1,23 @@
+@startuml
+participant "comprehension ravish" as 0
+participant "disguised killing" as 1
+participant "bombed darn" as 2
+participant "starving toby" as 3
+autonumber 10 7
+create participant "fates brilliant" as 4
+3 -> 4 : fates brilliant
+autonumber stop
+alt justifiable vouched
+2 -> 0: sob accelerant
+autonumber resume
+4 ->x 4++ : dislodge legalizing
+autonumber stop
+else shriek detaining
+par apology voice
+4 -> 4: republicans insult
+autonumber resume
+1 <-] : belligerent workshop
+end
+end
+return gizzard smearing
+@enduml

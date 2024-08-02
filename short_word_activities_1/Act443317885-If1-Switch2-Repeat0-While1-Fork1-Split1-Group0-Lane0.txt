@@ -1,0 +1,44 @@
+@startuml
+start
+split
+:tightrope rapture;
+split again
+:pest mollie; <<output>>
+split again
+:stack reveals;
+split again
+:combusted unlawful; <<load>>
+end split
+fork
+:delegate dizzy;
+fork again
+while (creativity five?) is (molasses agitators)
+backward:riled list;
+endwhile (abort wares)
+:alarm fingertips;
+fork again
+switch (fours seriously?)
+case (hankering eater?)
+:tortillas smitten;
+case (inch gym?)
+:trashed hotcakes;
+case (reactor crest?)
+:general easygoing;
+case (resistance dieter?)
+:stifler license; <<save>>
+endswitch
+end merge
+if (confessions taking?) then (coerce stupider)
+:extracts edema; <<output>>
+-> accord annihilate;
+switch (illogical futile?)
+case (revulsion spot?)
+:parenthood capitalists;
+-> boy stopped;
+case (steering themes?)
+:sarge license;
+endswitch
+else (branches incantations)
+:confidante cookbook; <<input>>
+endif
+@enduml

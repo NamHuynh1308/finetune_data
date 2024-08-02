@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:demolitions uphill;
+split again
+-[hidden]->
+:gadget trattoria; <<load>>
+split again
+-[hidden]->
+fork
+:succotash hairpin;
+fork again
+:because salad;
+kill
+fork again
+:shalt ticker; <<load>>
+end fork
+end split
+group sweater patriarch
+while (unexplained peachy?) is (broads cashed)
+fork
+:spinal cougars;
+fork again
+:cards flaky; <<load>>
+-> followers presets;
+fork again
+:hellfire pink;
+end fork
+:sore wooed; <<output>>
+:benefits lien; <<continuous>>
+-> embroidered nonchalant;
+backward:existence residual;
+endwhile (balancing responsibilities)
+:familiars flopping;
+stop
+end group
+@enduml

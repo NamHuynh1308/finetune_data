@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:massacres baffles;
+split again
+-[hidden]->
+switch (reservation ironclad?)
+case (dispensation independent?)
+:sounds janitor;
+case (confided sequences?)
+:driving birdie;
+kill
+case (recovery spilled?)
+:expressed clipping; <<continuous>>
+-> bled hottest;
+endswitch
+split again
+-[hidden]->
+:enclosed striking;
+split again
+-[hidden]->
+if (poisons bonehead?) then (proving exact)
+:unimportant shred;
+:wrapper pragmatist;
+else (telemetry summon)
+:chestnut sprinkles; <<continuous>>
+-> invoked melons;
+:millimeter heartbeats;
+endif
+end split
+:pieced provocative; <<save>>
+group bobcat pacemaker
+:sparks palomino;
+:troy imposter; <<procedure>>
+-> abdominal neckline;
+end group
+end
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+box "seeing imported"
+participant "washes imagined" as 0
+box "ornaments software"
+participant "deck neurologist" as 1
+participant "trunk shrink" as 2
+end box
+end box
+== gallery half ==
+1 -\\ 0: narrowed flips
+0 -> 0++ : patron overhearing
+...reflex innuendoes...
+1 -\\ 2: loneliness secrecy
+create participant "bankbooks injury" as 3
+1 -> 3 : bankbooks injury
+1 --//o 0: contortionist nourish
+return queller lumpy
+@enduml

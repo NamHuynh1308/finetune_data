@@ -1,0 +1,28 @@
+@startuml
+box "souvenirs buildings"
+participant "mace fisherman" as 0
+participant "gross lye" as 1
+end box
+box "purity cutter"
+participant "rush injured" as 2
+participant "drying tough" as 3
+box "mucus fend"
+participant "dentists overcome" as 4
+end box
+end box
+4 -> 0: zed birthplace
+break menage shack
+0 -> 0: universities casing
+0 --//o 2++ : parking tetherball
+...agree shook...
+2 ->o 1: twist saki
+return toad distinguishing
+0 ->x 0: grown booklet
+2 --//o 3: sovereign lines
+2 -> 3!! : similarity strive
+alt matchmaker conjecture
+2 -> 0++ : screwing uncomplicated
+end
+end
+return inept repress
+@enduml

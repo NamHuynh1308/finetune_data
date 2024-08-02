@@ -1,0 +1,50 @@
+@startuml
+switch (hosts whiter?)
+case (supremely uproot?)
+:charges bullied; <<input>>
+-> drums beefy;
+case (librarian cramming?)
+:taxi spinster; <<procedure>>
+case (heartbeats fiasco?)
+split
+:worshipping stripe;
+split again
+:grim toxicology;
+split again
+:blacking troopers;
+split again
+:boogeyman ignore; <<save>>
+-> mensa toughness;
+end split
+endswitch
+group propping hernia
+:hesitating kangaroo; <<procedure>>
+-> rawhide mansion;
+group scotches pasties
+split
+:opium methadone;
+split again
+:villagers specifications; <<save>>
+split again
+if (snakes sharking?) then (soared disappointing)
+:locusts trappings; <<output>>
+:tapered insecurity;
+:tween circular;
+else (sociopathic obtained)
+:robbins diverting;
+:outsmarted elegant; <<input>>
+while (entering agreement?) is (graduate bronzing)
+:arugula moot;
+:eighteen likewise; <<input>>
+endwhile (shredded tamper)
+-[hidden]->
+detach
+endif
+split again
+:timely teleportation; <<output>>
+-> chastity morale;
+end split
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "behind sake" as 0
+== spores fortnight ==
+autonumber 2 10
+0 ->> 0: reprogramming assemblies
+...addictive transgression...
+0 <-> 0: monumentally reborn
+autonumber stop
+0 -> 0: appeals blush
+autonumber resume
+alt deceiving cooperate
+create participant "frosting flap" as 1
+0 -> 1 : frosting flap
+end
+@enduml

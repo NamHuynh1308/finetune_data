@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:summarily caffeine;
+split again
+-[hidden]->
+:scanners temporary; <<output>>
+split again
+-[hidden]->
+:sales pneumonia;
+end split
+if (messengers listeners?) then (hickory morgues)
+(decadent deserting) elseif (spikes infant?) then (pecs superego)
+if (appreciation nirvana?) then (porterhouse shoplifters)
+:doggies fixating; <<procedure>>
+-> convinces valentine;
+:aurora trespassing;
+:pierced glint; <<continuous>>
+else (bends achievement)
+:glands boiling;
+:moronic beam;
+:slapped realizes;
+endif
+(hinted tragic) elseif (pathos enhancements?) then (men kicked)
+:worst exile; <<task>>
+-> freely flowering;
+(ralph battery) elseif (quacks metropolitan?) then (regimes spinner)
+fork
+:inspections alleged;
+fork again
+:shopping reseda; <<save>>
+fork again
+:junky theory; <<procedure>>
+-> decided pledge;
+end merge
+endif
+end
+@enduml

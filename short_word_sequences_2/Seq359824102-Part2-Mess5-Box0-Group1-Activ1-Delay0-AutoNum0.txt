@@ -1,0 +1,13 @@
+@startuml
+participant "extinguisher worker" as 0
+participant "matrix youth" as 1
+== insights begging ==
+0 -> 1++ : accomplish chardonnay
+0 --//o 0: deadly tone
+return shows scrubs
+1 --> 1: fairness stymied
+1 ->x 1: arsenic charade
+par precipice handoff
+1 -\\ 1: linguistic silent
+end
+@enduml

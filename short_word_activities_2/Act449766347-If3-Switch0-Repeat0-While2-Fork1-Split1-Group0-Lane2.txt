@@ -1,0 +1,67 @@
+@startuml
+|1| electrician sights
+|2| truffles teenybopper
+|2|
+if (bribed juror?) then (obsession reckoning)
+:pint outlive; <<continuous>>
+else (tremendously strutting)
+split
+:rob prude;
+split again
+:begets domesticity; <<load>>
+-> sentimental fruitcake;
+split again
+:exploring carjacking;
+split again
+:unruly administrative; <<procedure>>
+-> dripping antihistamines;
+end split
+if (enrolling moisturizer?) then (retaining gumption)
+:stipulated cans; <<task>>
+:simony bio; <<save>>
+-> crumbles preschool;
+:disarray cad; <<task>>
+-> sexes fixtures;
+while (stand nefarious?) is (zeroes recruit)
+backward:devised withered;
+:subterfuge accents; <<continuous>>
+:poured idiot; <<load>>
+endwhile (problematic cemeteries)
+-[hidden]->
+detach
+else (vented comrade)
+:mock hyperventilating;
+-> correctional gracious;
+:realize detour;
+:criticizing auditorium; <<procedure>>
+endif
+while (investors catharsis?) is (batty baited)
+:illustrate superstition; <<output>>
+backward:theft speculate;
+endwhile (steam located)
+-[hidden]->
+detach
+endif
+:penance groundless; <<procedure>>
+-> puns blindsided;
+fork
+:mollusk boatman;
+fork again
+if (letterhead dasher?) then (transportation economy)
+(na enamored) elseif (mouthed beatnik?) then (brandy convey)
+:compressions arms;
+(personified tee) elseif (ultra deco?) then (errand nudge)
+:stroll intelligent;
+(scores mahatma) elseif (molasses offending?) then (egghead fed)
+:desirable scow; <<save>>
+endif
+fork again
+:directly wretch; <<procedure>>
+-> ambulance als;
+fork again
+:serenade debts; <<save>>
+end fork
+:economic displayed; <<load>>
+-> puppets barkeep;
+end
+@enduml

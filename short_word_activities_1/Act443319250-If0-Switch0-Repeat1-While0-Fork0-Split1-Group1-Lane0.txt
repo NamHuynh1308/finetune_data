@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:fragrance forum;
+split again
+-[hidden]->
+:nightly warsaw; <<save>>
+-> potassium baseman;
+split again
+-[hidden]->
+:nepotism brewed;
+end split
+group payload falcon
+repeat
+backward:profoundly sneer;
+repeat while (enjoyment driving?) is (endive whirling)
+stop
+end group
+@enduml

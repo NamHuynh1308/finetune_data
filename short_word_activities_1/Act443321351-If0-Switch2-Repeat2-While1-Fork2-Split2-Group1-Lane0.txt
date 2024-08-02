@@ -1,0 +1,77 @@
+@startuml
+split
+-[hidden]->
+:consul curfews;
+split again
+-[hidden]->
+fork
+:trials laboratory;
+fork again
+:unhinged legion;
+fork again
+:clop cornerstone;
+fork again
+:ethic strewn; <<input>>
+end merge
+split again
+-[hidden]->
+repeat
+:winkle tas; <<task>>
+repeat while (perfecting yen?) is (braid greet)
+split again
+-[hidden]->
+fork
+:discrepancy goddesses;
+fork again
+:planners jaundice;
+-> creeps birthmark;
+fork again
+:psyche planet;
+fork again
+:snapshots trash;
+-> union amputate;
+end merge
+end split
+switch (jungle cones?)
+case (guff torrent?)
+:cutest passports; <<task>>
+case (interning fortnight?)
+:gone separated;
+case (sacrament substation?)
+repeat
+backward:shotguns revere;
+:debilitating towels;
+if (anthem sea) then (domestic flogged)
+:wobble whack;
+break
+endif
+->bounce nosing;
+:sails proceeds;
+:meals kid;
+repeat while (scavenging delay?) is (cheaters mojo)
+endswitch
+group flyer whodunit
+split
+:cavalcade backdoor;
+split again
+:panty terrorizing;
+split again
+:aga fluffed;
+while (upcoming leaflets?) is (gringo cog)
+:juggernaut miles;
+backward:blam slamming;
+:unprovoked las; <<input>>
+:peerless edges; <<task>>
+-> flat sensory;
+endwhile (forgives cee)
+-[hidden]->
+detach
+end split
+switch (geology leather?)
+case (blinked veered?)
+:blam collaborating; <<task>>
+case (agin drudge?)
+:violating dinky;
+endswitch
+end group
+@enduml

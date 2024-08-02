@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:toned hounds;
+split again
+-[hidden]->
+:solitude paranormal;
+split again
+-[hidden]->
+:remind gatekeeper; <<input>>
+-> pruning setting;
+end split
+:highlighters piping; <<input>>
+-> accents hunting;
+end
+@enduml

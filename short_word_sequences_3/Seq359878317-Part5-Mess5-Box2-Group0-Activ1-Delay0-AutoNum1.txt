@@ -1,0 +1,20 @@
+@startuml
+box "typically freezes"
+participant "mats prudent" as 0
+box "casitas lookouts"
+participant "judge mainline" as 1
+participant "operates alley" as 2
+participant "tux spooky" as 3
+participant "allee dependant" as 4
+end box
+end box
+autonumber 7 4
+0 ->o 1: remarked indefinitely
+ [<- 4: complained disobeyed
+4 ->] : finders tranquil
+autonumber stop
+3 -> 3++ : autism cancers
+1 <-> 1: copper wizard
+autonumber resume
+return trappings detained
+@enduml

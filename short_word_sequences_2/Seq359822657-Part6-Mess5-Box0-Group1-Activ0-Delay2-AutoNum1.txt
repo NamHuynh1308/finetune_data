@@ -1,0 +1,18 @@
+@startuml
+participant "bracing effect" as 0
+participant "siree rifle" as 1
+participant "respect electrons" as 2
+participant "tailed choosy" as 3
+participant "pilgrim wondered" as 4
+autonumber 0 10
+par redwood thoughtful
+create participant "intensely decomposed" as 5
+0 -> 5 : intensely decomposed
+ [-> 3: selves hearted
+...submarine fascinating...
+0 -// 5: sycophant ward
+end
+4 <-] : oval sandy
+...tizzy husky...
+1 -> 5: citrus cozier
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+start
+:doorknob mention;
+:bullies identifiable; <<load>>
+-> frequencies floss;
+end
+@enduml

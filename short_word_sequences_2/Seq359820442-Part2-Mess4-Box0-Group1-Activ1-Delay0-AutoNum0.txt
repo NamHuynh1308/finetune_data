@@ -1,0 +1,12 @@
+@startuml
+participant "agencies month" as 0
+critical bark mix
+create participant "steering aimed" as 1
+0 -> 1 : steering aimed
+0 ->x 1++ : ambient rookie
+else mockery assembling
+1 -\\ 1: mangled withdrawals
+0 ->] : traveling ditches
+return political swatch
+end
+@enduml

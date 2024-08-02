@@ -1,0 +1,16 @@
+@startuml
+participant "forbids wobble" as 0
+participant "what thermos" as 1
+box "cuddle reserves"
+participant "pedestrian chapel" as 2
+participant "licenses alteration" as 3
+participant "upside measuring" as 4
+end box
+autonumber 1 5
+4 -// 3: wholly fastball
+1 <-] : safe partied
+ [-> 2: caste dividends
+1 --//o 4: disrupting quickest
+...poster cleanser...
+1 -> 3: rancher unseal
+@enduml

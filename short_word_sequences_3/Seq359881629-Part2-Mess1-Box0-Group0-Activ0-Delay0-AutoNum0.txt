@@ -1,0 +1,5 @@
+@startuml
+participant "clearly ben" as 0
+create participant "welcome peeking" as 1
+0 -> 1 : welcome peeking
+@enduml

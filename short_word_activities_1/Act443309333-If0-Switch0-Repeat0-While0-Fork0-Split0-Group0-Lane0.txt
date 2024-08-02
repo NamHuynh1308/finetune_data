@@ -1,0 +1,5 @@
+@startuml
+start
+:prospect attached; <<save>>
+stop
+@enduml

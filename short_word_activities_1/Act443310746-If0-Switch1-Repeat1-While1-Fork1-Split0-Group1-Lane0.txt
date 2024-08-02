@@ -1,0 +1,30 @@
+@startuml
+start
+group vehicular ultimatums
+fork
+:siren indigestion;
+fork again
+:stereotypes foxy; <<input>>
+fork again
+while (concentrating acquitted?) is (timers remodelling)
+:sidebar cleverly;
+:logs diagnostician;
+:true veterinary; <<continuous>>
+endwhile (dwindling plunge)
+:mower mood;
+fork again
+switch (before heartland?)
+case (punish waddle?)
+:torched tombs; <<load>>
+case (specter compensate?)
+:tactical hessian; <<task>>
+-> transplant hotshot;
+endswitch
+end fork
+repeat
+:profession titles; <<continuous>>
+repeat while (grudging ooh?) is (naps swarm)
+-> eraser paradise;
+:preach sail;
+end group
+@enduml

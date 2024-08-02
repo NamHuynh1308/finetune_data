@@ -1,0 +1,6 @@
+@startuml
+participant "tormenting protects" as 0
+participant "field ducks" as 1
+0 -->x 1: positives sickening
+1 -\\ 0: obtain curriculum
+@enduml

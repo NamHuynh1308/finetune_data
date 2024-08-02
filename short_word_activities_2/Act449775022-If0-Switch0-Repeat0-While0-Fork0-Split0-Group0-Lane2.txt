@@ -1,0 +1,13 @@
+@startuml
+|1| grunge melody
+|2| monument promo
+|1|
+start
+|2|
+:sentinel thesaurus; <<input>>
+:parade collie;
+-> prosecutors puncture;
+|1|
+:seems pip;
+end
+@enduml

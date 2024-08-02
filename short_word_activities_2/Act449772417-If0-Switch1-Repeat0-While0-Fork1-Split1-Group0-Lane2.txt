@@ -1,0 +1,40 @@
+@startuml
+|1| courtyard continually
+|2| pupils compactor
+|1|
+start
+fork
+:match yesterday;
+fork again
+:soften spawn; <<procedure>>
+-> propose bombers;
+fork again
+switch (ebony and?)
+case (paramedic prosecution?)
+:social derrick;
+case (gangrene coaster?)
+:spirals completing; <<continuous>>
+-> heck greener;
+case (haughty thereof?)
+:illnesses variant;
+endswitch
+end fork
+|2|
+:sadist centennial;
+split
+:legislation proofing;
+split again
+:memory until;
+kill
+split again
+:burke snapshots;
+-> composers condolences;
+split again
+:icing comfort; <<input>>
+-> massage flicker;
+end split
+|1|
+:cubic swaddling; <<input>>
+-> eats hm;
+end
+@enduml

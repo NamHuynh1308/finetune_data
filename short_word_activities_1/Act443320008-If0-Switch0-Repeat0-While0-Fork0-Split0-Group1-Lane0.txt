@@ -1,0 +1,8 @@
+@startuml
+start
+group night accounted
+:sluggish grazed; <<procedure>>
+-> mat colonel;
+stop
+end group
+@enduml

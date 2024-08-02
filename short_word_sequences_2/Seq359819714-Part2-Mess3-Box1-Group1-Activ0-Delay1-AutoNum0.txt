@@ -1,0 +1,13 @@
+@startuml
+box "forceps nighthawk"
+participant "diva pram" as 0
+participant "bedpan patients" as 1
+end box
+== protection atom ==
+0 ->> 0: wheeling apologies
+par straightaway hellfire
+1 <-] : stoop prettier
+...sacrilege organ...
+0 -// 1: badly jackets
+end
+@enduml

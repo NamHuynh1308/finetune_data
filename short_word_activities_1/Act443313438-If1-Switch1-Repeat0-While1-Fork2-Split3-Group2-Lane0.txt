@@ -1,0 +1,79 @@
+@startuml
+split
+-[hidden]->
+:hibernating kissy;
+split again
+-[hidden]->
+fork
+:affects separation;
+fork again
+:inaugural wills;
+fork again
+:footnotes cyprus; <<output>>
+-> credence cocoon;
+fork again
+:toothache abusing;
+end merge
+split again
+-[hidden]->
+split
+:mouthful lived;
+split again
+:pussycat peepers;
+split again
+:gifted evolving;
+split again
+:gamma embarrassed;
+end split
+split again
+-[hidden]->
+switch (chiffon salute?)
+case (lads eaves?)
+:instinctively compelled; <<continuous>>
+case (perfect agent?)
+:mileage sumptuous; <<procedure>>
+case (lasted curmudgeon?)
+:buggered handstand; <<load>>
+endswitch
+end split
+group folded time
+split
+:removes riddler;
+split again
+:intros phenomena; <<continuous>>
+split again
+:hardship dedicating; <<save>>
+split again
+fork
+:clamoring walk;
+fork again
+:shields arguments; <<save>>
+fork again
+:informs shindig; <<input>>
+-> prosecutor tonsil;
+fork again
+:resulting judgement; <<continuous>>
+-> superstitious jujitsu;
+end merge
+end split
+group sculpture unprovoked
+:proves sugary;
+if (flank lashing?) then (packets resign)
+:betrayer longest; <<task>>
+:sicko orderly; <<procedure>>
+while (departing fanfare?) is (beard dwellers)
+:motel skiff; <<output>>
+endwhile (personally coordinate)
+-[hidden]->
+detach
+else (un dimpled)
+:paste vigorously;
+-> smelt barman;
+:acceptance orders; <<output>>
+:smoothly pom;
+kill
+endif
+stop
+end group
+end group
+@enduml

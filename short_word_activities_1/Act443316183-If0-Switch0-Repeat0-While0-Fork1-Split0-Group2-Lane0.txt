@@ -1,0 +1,17 @@
+@startuml
+group banzai reassuring
+fork
+:mi unbelievable;
+fork again
+:runaround sleuth;
+kill
+fork again
+:increments colonials; <<procedure>>
+end merge
+:eels compensation;
+end group
+group arguably militia
+:investigators backer; <<task>>
+stop
+end group
+@enduml

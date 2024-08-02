@@ -1,0 +1,6 @@
+@startuml
+participant "temptation dressings" as 0
+0 <-] : bauble excessive
+create participant "races delusions" as 1
+0 -> 1 : races delusions
+@enduml

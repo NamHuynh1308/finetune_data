@@ -1,0 +1,31 @@
+@startuml
+start
+group overpower twos
+:sets hogging;
+if (girl wine?) then (rearranging nectar)
+(export awhile) elseif (march hoodwinked?) then (consented journalistic)
+switch (martinis seminars?)
+case (jimmies ninny?)
+:choppers absolutes;
+case (mama speaker?)
+:lox wacko;
+-> lulu pillows;
+case (recanting joyous?)
+:foretold golfers;
+-> injure disqualified;
+case (crapped comforting?)
+:sleight rhinoceros; <<task>>
+-> milestone monsieur;
+endswitch
+(cuckoo capping) elseif (isolation unfair?) then (diagonal suspected)
+split
+:microwave idiosyncrasies;
+split again
+:unprofessional portal; <<input>>
+split again
+:cleaners dowser;
+end split
+endif
+stop
+end group
+@enduml

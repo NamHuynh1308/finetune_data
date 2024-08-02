@@ -1,0 +1,21 @@
+@startuml
+box "reprobate jungle"
+participant "startle strutting" as 0
+participant "compliant reasoning" as 1
+end box
+box "affidavits ensued"
+participant "byes prohibited" as 2
+participant "kind detected" as 3
+end box
+autonumber 9 4
+2 -// 1: mattresses drill
+break axle surfer
+3 ->x 0: honk obsession
+...survived oceanographic...
+1 --> 2: huck entering
+else hearse smitten
+critical helicopter jogging
+ [-> 2: defeated nose
+end
+end
+@enduml

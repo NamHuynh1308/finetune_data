@@ -1,0 +1,12 @@
+@startuml
+box "baskets ganja"
+participant "faucets kit" as 0
+end box
+autonumber 4 0
+0 <-] : sold wedded
+0 --> 0++ : unsavory barreling
+0 ->> 0++ : resignation voluntarily
+0 -> 0!! : smothered displacement
+return delve moola
+return deets scab
+@enduml

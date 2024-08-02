@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:choppers carl;
+split again
+-[hidden]->
+:highlighters sender;
+kill
+split again
+-[hidden]->
+:blip senile; <<input>>
+-> explode footed;
+end split
+group quits creepers
+repeat
+repeat
+:galloping assisted;
+repeat while (finalists restroom?) is (wised sanity)
+backward:misfortune birdcage;
+repeat while (agonized ten?) is (casualty semantics)
+:floss balloons; <<load>>
+group lounging pursuant
+if (dementia robber?) then (sandal product)
+:cory cokes; <<input>>
+-> hover sketchy;
+repeat
+:clown debating; <<continuous>>
+:premature omega;
+backward:turner sleeper;
+repeat while (mischief typewriter?) is (flora softening)
+else (gather goods)
+if (writer twist?) then (cranking soundstage)
+:wrung satisfies; <<continuous>>
+:abilities modesty; <<continuous>>
+else (radiating dragged)
+:fluttering dealings; <<save>>
+kill
+endif
+:sadder belts; <<task>>
+endif
+stop
+end group
+end group
+@enduml

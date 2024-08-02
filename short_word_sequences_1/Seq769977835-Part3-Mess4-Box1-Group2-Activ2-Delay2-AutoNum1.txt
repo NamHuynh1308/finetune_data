@@ -1,0 +1,23 @@
+@startuml
+participant "dissolved thataway" as 0
+box "matzah bassett"
+participant "whining caterers" as 1
+participant "hoops wagging" as 2
+end box
+autonumber 5 2
+alt massacres relevance
+0 -> 1!! : linoleum waterfall
+...outdoor vegetarians...
+0 -> 2++ : asshole aimlessly
+autonumber stop
+alt glue man
+...coupling strangling...
+1 ->] : shoulder tongs
+2 --//o 2++ : prodigal blather
+autonumber resume
+else eat degeneration
+end
+end
+return dependable lamps
+return reinvented buts
+@enduml

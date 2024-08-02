@@ -1,0 +1,13 @@
+@startuml
+start
+group dictating trout
+fork
+:masks chomping;
+fork again
+:educating dropped; <<procedure>>
+fork again
+:adequately excursions;
+end fork
+stop
+end group
+@enduml

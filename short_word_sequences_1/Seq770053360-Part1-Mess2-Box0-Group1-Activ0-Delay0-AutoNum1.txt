@@ -1,0 +1,10 @@
+@startuml
+participant "notch flanking" as 0
+== projector friendly ==
+autonumber 9 6
+alt hosing cartels
+0 <-] : honed conked
+0 ->] : cased proceeds
+else ledger exterminated
+end
+@enduml

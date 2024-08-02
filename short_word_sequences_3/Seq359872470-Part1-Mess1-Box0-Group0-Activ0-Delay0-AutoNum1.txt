@@ -1,0 +1,6 @@
+@startuml
+participant "project darn" as 0
+== import ethanol ==
+autonumber 10 9
+0 -> 0: splitting shrugged
+@enduml

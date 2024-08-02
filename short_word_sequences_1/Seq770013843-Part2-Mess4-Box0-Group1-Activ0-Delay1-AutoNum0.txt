@@ -1,0 +1,11 @@
+@startuml
+participant "unemployed consumes" as 0
+participant "overall quilt" as 1
+break intentions staircase
+1 ->o 1: donated instilled
+0 --> 1: bowed nurses
+ [-> 1: plastic tosh
+...admired rehashing...
+0 <-> 0: heaviest understanding
+end
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "charlie fearless" as 0
+participant "prognosis rutting" as 1
+autonumber 4 2
+1 -> 0: negative pa
+autonumber stop
+0 ->x 1: overtime platoon
+autonumber resume
+0 -> 1: canoes vicar
+@enduml

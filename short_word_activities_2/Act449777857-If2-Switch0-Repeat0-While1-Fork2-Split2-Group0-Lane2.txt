@@ -1,0 +1,63 @@
+@startuml
+|1| bah scumbags
+|2| weasels tally
+|1|
+start
+|2|
+:alongside issuing; <<procedure>>
+split
+:terrifically mural;
+split again
+:twister vigilance;
+split again
+:prying fairies;
+split again
+:observant gripes; <<load>>
+end split
+fork
+:blinking dost;
+fork again
+:islands whatchamacallit; <<output>>
+-> producing crabgrass;
+fork again
+if (loca weepy?) then (seats slit)
+:exhaustion canal; <<input>>
+-> auditory bipartisan;
+kill
+else (humility curing)
+:assaulted attacking;
+endif
+end merge
+|1|
+split
+:camel irons;
+split again
+:sleazeball reneging;
+-> eleventh veg;
+split again
+fork
+:sneezed pliers;
+fork again
+:hibernating uneducated; <<continuous>>
+fork again
+:militia stabilized;
+while (sprinkler futures?) is (confiscating carvers)
+:perfumes pain; <<input>>
+:trace reacts; <<save>>
+endwhile (conceiving novels)
+-[hidden]->
+detach
+end merge
+end split
+|2|
+if (wan agile?) then (tonnage deductions)
+(sublimating zoom) elseif (mulled erogenous?) then (gloom whims)
+:toon therapy; <<load>>
+(reflective mocking) elseif (systemic evade?) then (pass wiggles)
+:nympho indicates; <<continuous>>
+-> polecat recovering;
+(fez dreaming) elseif (ahead intended?) then (toiling technologically)
+:taint looks; <<procedure>>
+-> recourse career;
+endif
+@enduml

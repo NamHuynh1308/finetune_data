@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:valve goodbye;
+split again
+-[hidden]->
+:locate commercially; <<task>>
+split again
+-[hidden]->
+:basis masseuse; <<save>>
+end split
+group gliding radiology
+:hateful scared; <<continuous>>
+-> intro fifty;
+group outward screwy
+fork
+:potter bad;
+fork again
+if (basketballs aneurysm?) then (wonderfully muffled)
+:smack inflate;
+:pixilated amongst; <<task>>
+while (excellence volunteering?) is (vacate auction)
+:door socked;
+backward:velocity newborn;
+:lamps crappy;
+endwhile (failures showing)
+-[hidden]->
+detach
+else (cube blatantly)
+:vows bot; <<procedure>>
+-> irresponsibility laminated;
+endif
+fork again
+repeat
+:overwhelming pretext; <<input>>
+-> polished souvenir;
+:leisurely ravishing;
+if (listen from) then (colonial stocked)
+:evangelical lumpectomy;
+break
+endif
+->visual crater;
+:promotion mound;
+:preparing evidently;
+repeat while (warn prouder?) is (gambling influential)
+end fork
+stop
+end group
+end group
+@enduml

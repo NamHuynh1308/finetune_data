@@ -1,0 +1,9 @@
+@startuml
+participant "polling repeat" as 0
+autonumber 6 10
+ [-> 0: unorthodox input
+autonumber stop
+opt goiter gore
+0 -> 0: apostrophe ducks
+end
+@enduml

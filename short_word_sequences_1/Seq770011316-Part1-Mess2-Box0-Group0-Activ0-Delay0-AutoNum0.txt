@@ -1,0 +1,5 @@
+@startuml
+participant "hauled dents" as 0
+0 <-] : unfolds language
+0 -> 0: unpunished landscape
+@enduml

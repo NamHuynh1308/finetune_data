@@ -1,0 +1,16 @@
+@startuml
+box "soak dislodged"
+participant "renovate chefs" as 0
+participant "winning scrunch" as 1
+end box
+autonumber 3 0
+1 ->x 0: ranchers veronica
+ [-> 1: fallback informs
+opt elitist jo
+...growl ball...
+0 ->> 1: allotted sycamore
+1 -> 0!! : hearts disappointment
+else hangovers rebel
+1 ->] : hale flashbacks
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+start
+group stem hansom
+split
+:additives pensions;
+split again
+:friendship outnumber;
+-> dilation renege;
+split again
+:chapters charging; <<task>>
+-> outcome keeled;
+split again
+:constable undercurrent; <<procedure>>
+end split
+stop
+end group
+@enduml

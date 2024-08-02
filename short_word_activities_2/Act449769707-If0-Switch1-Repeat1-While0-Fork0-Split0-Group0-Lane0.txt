@@ -1,0 +1,14 @@
+@startuml
+start
+repeat
+backward:setback ladies;
+switch (enterprises planetarium?)
+case (mouse floating?)
+:circumcision limousine; <<continuous>>
+case (voodoo cleanses?)
+:hooked expelled; <<load>>
+endswitch
+:hopeless package;
+repeat while (investigations prospector?) is (impediment awful)
+end
+@enduml

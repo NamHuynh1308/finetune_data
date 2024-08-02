@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:finders wondering;
+split again
+-[hidden]->
+:prosecute stalking; <<input>>
+split again
+-[hidden]->
+:hairdo cardinals; <<output>>
+-> el chump;
+end split
+group twinge laughingstock
+if (premonitions thespian?) then (rail majestic)
+while (attacking weaver?) is (needle constitution)
+backward:edited ponds;
+:trajectory drinking;
+endwhile (corridor unscrupulous)
+:langley overreact;
+:encounters misfits;
+-> reeks astray;
+:leg architect; <<procedure>>
+-> investors heckle;
+else (foxholes straights)
+:portent recess; <<continuous>>
+:cutaway plugged; <<load>>
+-> tiles emphasize;
+switch (fingernail backdrop?)
+case (ratty microphone?)
+:cedar impulse;
+case (transcript pretty?)
+:wiggling practising; <<load>>
+case (ventilated whisk?)
+:wop designs; <<continuous>>
+-> tips stoney;
+endswitch
+endif
+stop
+end group
+@enduml

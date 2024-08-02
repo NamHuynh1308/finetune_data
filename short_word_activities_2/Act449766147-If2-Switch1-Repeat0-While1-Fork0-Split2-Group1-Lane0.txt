@@ -1,0 +1,47 @@
+@startuml
+group champs dearie
+:mumbling oral; <<load>>
+-> mutants quack;
+if (happens cloths?) then (embezzler crawled)
+:confessing liftoff; <<procedure>>
+:sera nervously; <<input>>
+while (leisure caddie?) is (bunk domes)
+split
+:recitals repressed;
+split again
+:benedict instantly; <<save>>
+split again
+:refinement taping;
+split again
+:darling database; <<load>>
+end split
+endwhile (bale clawed)
+-[hidden]->
+detach
+else (sludge guard)
+:crepes chafing; <<continuous>>
+if (creaky adventurer?) then (dimming collide)
+:auk enhance; <<continuous>>
+:arming aftermath;
+else (zephyrs barf)
+:neither rung; <<output>>
+-> northern cheater;
+endif
+:demeaning saintly; <<save>>
+endif
+split
+:foxes fugitives;
+split again
+:hate jeeps; <<procedure>>
+-> darkest steel;
+split again
+switch (implicate cant?)
+case (configuration badly?)
+:nitwit standish;
+case (deserves crashers?)
+:cartel snowmobile;
+endswitch
+end split
+end group
+stop
+@enduml

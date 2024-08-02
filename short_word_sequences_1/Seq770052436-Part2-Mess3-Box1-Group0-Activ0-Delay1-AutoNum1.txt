@@ -1,0 +1,13 @@
+@startuml
+participant "hijinks sidewinder" as 0
+box "parlors gargantuan"
+participant "mowed barrio" as 1
+end box
+autonumber 0 10
+0 ->> 1: treasure negatively
+autonumber stop
+...eloped primarily...
+1 -> 0: alternating screened
+autonumber resume
+ [-> 0: effecting flatbed
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+participant "earlier stammering" as 0
+box "banish metaphor"
+participant "perturbed chatterbox" as 1
+box "tuned thanksgivings"
+participant "halibut beatings" as 2
+participant "caution stumps" as 3
+end box
+end box
+3 ->x 1: divinity biggest
+2 ->x 0: becomes groupies
+create participant "bursting shipped" as 4
+1 -> 4 : bursting shipped
+...monsoon prowler...
+ [-> 2: waif shrugs
+3 -> 2++ : wild economy
+alt reopened grief
+3 ->> 0++ : forget fir
+end
+return headgear heavyweight
+return cake locks
+@enduml

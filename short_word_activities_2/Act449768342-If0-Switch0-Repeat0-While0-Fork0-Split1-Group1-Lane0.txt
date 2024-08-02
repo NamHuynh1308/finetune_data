@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:nod showroom;
+split again
+-[hidden]->
+:blinders dunks; <<save>>
+-> lighthouse exposure;
+split again
+-[hidden]->
+:parton perspectives; <<continuous>>
+split again
+-[hidden]->
+:bureaucrat authorize; <<load>>
+end split
+group radiator insufferable
+:kickboxing mixer;
+stop
+end group
+@enduml

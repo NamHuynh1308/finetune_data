@@ -1,0 +1,45 @@
+@startuml
+:sleepwalking shitty; <<continuous>>
+group bordello drapes
+:acknowledged idly; <<input>>
+switch (dial souvlaki?)
+case (envoy criterion?)
+fork
+:wrestler limbo;
+fork again
+:eyes sanctioned; <<load>>
+fork again
+:yelling soldier; <<save>>
+end merge
+case (bronze fellowship?)
+:payroll sparks; <<continuous>>
+case (splashing saddled?)
+if (thinning oval?) then (delicacy dilly)
+:sender majestic; <<output>>
+:casbah marina;
+while (plums sponges?) is (ana burn)
+backward:giggly serves;
+:beams won;
+endwhile (shrew dissipate)
+-[hidden]->
+detach
+else (medley wrong)
+:playoffs sibling; <<task>>
+:prettier clinical; <<task>>
+-> gridlock comforts;
+endif
+case (dullard underwater?)
+switch (lukewarm taunt?)
+case (sprain flashes?)
+:racy plugging;
+case (aspirins feasting?)
+:milkman spawn; <<load>>
+case (toenail crudely?)
+:suds triangle;
+case (repeating ushering?)
+:dung enters;
+endswitch
+endswitch
+end group
+stop
+@enduml

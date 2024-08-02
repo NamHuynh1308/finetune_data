@@ -1,0 +1,8 @@
+@startuml
+participant "started pesky" as 0
+autonumber 8 10
+ [-> 0: copies attendance
+autonumber stop
+...adjutant repayment...
+0 ->o 0: rebel administered
+@enduml

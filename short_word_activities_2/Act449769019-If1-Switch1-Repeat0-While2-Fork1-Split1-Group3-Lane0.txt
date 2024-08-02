@@ -1,0 +1,63 @@
+@startuml
+split
+-[hidden]->
+:paroled salvaged;
+split again
+-[hidden]->
+switch (gallons ecstatic?)
+case (privy stocky?)
+:carbon differently; <<input>>
+-> chipped decadence;
+case (closets louse?)
+:garage mined; <<input>>
+-> modification deaths;
+case (programs biohazard?)
+:toot wired; <<input>>
+-> grey scalpel;
+case (instances perfumed?)
+:ennui impudence;
+endswitch
+split again
+-[hidden]->
+:footstool gunfire; <<continuous>>
+end split
+group earthquakes book
+:detectors enhanced; <<continuous>>
+group nuclear nudes
+:post projection;
+group thrashing brewed
+if (scraping seeker?) then (shrunken diphtheria)
+(singing throbbing) elseif (pestering massager?) then (haircut bridesmaid)
+fork
+:bummer vermouth;
+fork again
+:rigging quicksand; <<save>>
+-> autopsy intercept;
+fork again
+:clotting drone; <<load>>
+fork again
+:rebuilt pixie;
+while (hull unconsciously?) is (intercourse baiting)
+:trespass elected;
+-> fantasizing curb;
+:ventricular settles; <<procedure>>
+-> referenced steadily;
+endwhile (incubators recently)
+-[hidden]->
+detach
+end merge
+(catatonic duplicate) elseif (aspirins fletcher?) then (blond entered)
+while (managers slowed?) is (aviation admits)
+:bonded stalked; <<task>>
+backward:cramping dimple;
+:tranquilizer ado;
+:fellas eels; <<task>>
+-> depressed yanking;
+endwhile (outback debit)
+:sleeves heigh;
+endif
+stop
+end group
+end group
+end group
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+participant "knuckle whimsical" as 0
+box "artichokes unlisted"
+participant "sterile tornado" as 1
+end box
+autonumber 3 4
+1 -// 0++ : assistant baboon
+autonumber stop
+opt believer contents
+create participant "wounded coddling" as 2
+0 -> 2 : wounded coddling
+ [-> 1: flexibility bids
+return tier tony
+...bought summer...
+1 -> 0: axle cruising
+...continuous hive...
+0 -> 1: ambiguous starters
+autonumber resume
+0 -// 1: ballplayers whispering
+end
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+participant "planted skater" as 0
+box "packs recount"
+participant "stash loves" as 1
+box "hydrochloride pledges"
+participant "spook protestors" as 2
+participant "education countess" as 3
+participant "lien slaughterhouse" as 4
+end box
+end box
+autonumber 6 5
+0 -> 4++ : sportsmanship hostility
+break yokels puzzling
+0 -// 0: guardians bossy
+return cynicism mousy
+2 <-> 3: display rentals
+autonumber stop
+end
+alt girlfriends tweedle
+4 ->] : comedy carbs
+autonumber resume
+1 -> 2: yacht guarded
+4 ->x 1: colonnade admires
+end
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:griddle keep;
+split again
+-[hidden]->
+:fang celeste;
+kill
+split again
+-[hidden]->
+:streetlights dicking; <<load>>
+end split
+:wills peacetime; <<procedure>>
+stop
+@enduml

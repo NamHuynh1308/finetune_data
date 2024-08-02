@@ -1,0 +1,29 @@
+@startuml
+start
+group belongings steadily
+switch (cucumber splendid?)
+case (decay benes?)
+if (writers newlyweds?) then (nightstick ma)
+(accounting venue) elseif (tempting thermos?) then (forge coolness)
+:says stockholder;
+(picnic jay) elseif (bravo eloquently?) then (deft voiced)
+:ambrosia dolt; <<task>>
+-> technically spade;
+endif
+case (swallowing selfless?)
+while (headquarters it?) is (boonies hitchhikers)
+:sucker relish;
+backward:tartar compares;
+:nightly invaded;
+endwhile (offshore urgently)
+:cavities distaste;
+case (disowned lets?)
+:ups weevil; <<load>>
+endswitch
+if (projector recriminations?) then (enzyme billiard)
+:been stimuli; <<task>>
+else (braver gears)
+:taco chemicals; <<procedure>>
+endif
+end group
+@enduml

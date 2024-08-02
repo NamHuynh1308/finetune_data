@@ -1,0 +1,18 @@
+@startuml
+box "raft coveting"
+participant "mandates lodgings" as 0
+participant "journalists apropos" as 1
+participant "spry decorate" as 2
+end box
+participant "paranoia cerulean" as 3
+== candlelight hisses ==
+1 -// 2: suites niche
+1 ->o 3: chow laughing
+...linens wheezing...
+3 -> 2++ : hypocritical stockings
+2 --//o 1: interrupts span
+opt apostrophe membership
+ [<- 1: sneer unstable
+end
+return manager franchise
+@enduml

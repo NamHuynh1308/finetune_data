@@ -1,0 +1,30 @@
+@startuml
+start
+if (kissy ripples?) then (zip bulk)
+split
+:glimmer spray;
+split again
+:limos segue;
+split again
+:dim replacing; <<input>>
+end split
+repeat
+:candor enthusiasm; <<procedure>>
+-> entrenched philosophies;
+repeat while (preliminary formaldehyde?) is (uninteresting excite)
+fork
+:meditate painters;
+fork again
+:sudden peas;
+fork again
+:lowering ante; <<save>>
+fork again
+:aggravation tact;
+end fork
+else (clarifying buffs)
+:finishes yuppie; <<output>>
+-> quirks converted;
+:linoleum geosynchronous; <<input>>
+endif
+end
+@enduml

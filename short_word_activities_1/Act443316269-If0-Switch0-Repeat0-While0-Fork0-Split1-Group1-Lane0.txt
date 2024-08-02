@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:looker amicable;
+split again
+-[hidden]->
+:brute batch; <<input>>
+-> congresswoman gong;
+split again
+-[hidden]->
+:menagerie jacking;
+split again
+-[hidden]->
+:trophies lode; <<save>>
+end split
+group bedbug blooded
+:topnotch classroom; <<task>>
+-> cavern methodical;
+stop
+end group
+@enduml

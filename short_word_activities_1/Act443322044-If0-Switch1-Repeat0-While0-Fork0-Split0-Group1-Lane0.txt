@@ -1,0 +1,16 @@
+@startuml
+start
+group persistent toting
+switch (discomfort joint?)
+case (inherits anaesthetic?)
+:caboose ball;
+case (regimes madeleine?)
+:quiche lessen;
+case (charmed fainting?)
+:spar tantrum;
+case (drifter salaam?)
+:doctrine dissed;
+endswitch
+:theres pencils; <<procedure>>
+end group
+@enduml

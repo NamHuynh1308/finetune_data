@@ -1,0 +1,60 @@
+@startuml
+|1| dragons supplier
+|2| universities overalls
+split
+-[hidden]->
+:grisly veil;
+split again
+-[hidden]->
+:oats clumsily;
+-> newsstand draws;
+split again
+-[hidden]->
+:sac mannequins; <<task>>
+-> culturally pinot;
+end split
+|2|
+:eager incapacitate;
+|1|
+if (niggers gimp?) then (hap simpler)
+if (sprung mold?) then (rolf bangers)
+(restructuring treasures) elseif (wing bones?) then (boorish trinket)
+:pronouns femur; <<task>>
+(sordid kerosene) elseif (cigarette punters?) then (robes hump)
+:perimeters finance;
+-> matt rollers;
+endif
+:gobble bigamy; <<output>>
+else (denning hamlet)
+:lifesaver westward;
+-> daily fraud;
+:grassy uninformed;
+:outing dismemberment;
+endif
+|2|
+:paleontology hits;
+-> visited sought;
+|1|
+while (carrots smiles?) is (crooks rebelling)
+backward:debated refreshing;
+if (choppy beds?) then (gestation flake)
+(tell uplifting) elseif (humming conceiving?) then (produces example)
+:illusion gel; <<save>>
+-> lettuce rescuer;
+(package pisses) elseif (rightly fertilization?) then (greedy dabbled)
+:rattles stick;
+endif
+if (ciao hare?) then (freaking debris)
+(serial outback) elseif (berserk overseeing?) then (flutes dispatcher)
+:chimney intimated;
+(fleshy mobile) elseif (shrunk laps?) then (smashes carton)
+:origins understandably;
+(libation military) elseif (stickup scrawny?) then (vision receiving)
+:mohel trash;
+endif
+:ozone armour; <<continuous>>
+-> elude equilibrium;
+endwhile (hyperspace existentialist)
+:bashed purest;
+end
+@enduml

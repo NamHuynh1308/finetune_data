@@ -1,0 +1,18 @@
+@startuml
+box "cover auditor"
+participant "cutout extermination" as 0
+participant "vetted finest" as 1
+participant "stalling duff" as 2
+end box
+participant "dagger yippee" as 3
+== patriots corkscrew ==
+1 <-> 2++ : adolescent rays
+2 -\\ 1++ : underwater anniversary
+2 ->x 1: marking perceptive
+return chumps lack
+break groggy runner
+0 -> 0++ : deserting scoff
+end
+return excusing delegation
+return jailbreak pleased
+@enduml

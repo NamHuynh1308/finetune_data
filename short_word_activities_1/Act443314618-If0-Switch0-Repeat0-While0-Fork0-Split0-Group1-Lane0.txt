@@ -1,0 +1,6 @@
+@startuml
+group bonnet mirrors
+:uptown hypodermic; <<continuous>>
+stop
+end group
+@enduml

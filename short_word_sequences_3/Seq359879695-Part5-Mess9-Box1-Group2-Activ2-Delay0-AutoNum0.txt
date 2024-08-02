@@ -1,0 +1,25 @@
+@startuml
+participant "fame uglies" as 0
+participant "creeps workup" as 1
+participant "slowest ocean" as 2
+box "physician shoe"
+participant "gangrene forgiven" as 3
+participant "panties measles" as 4
+end box
+== commanders arguments ==
+4 <-] : startup berg
+critical eyesight chewy
+3 --> 1++ : beach kraft
+3 -> 1: marge maimed
+return tuba snowman
+end
+ [<- 1: pressman potty
+ [-> 1: feign kip
+ [<- 3: butterflies retro
+0 --> 3++ : beverage touring
+alt fabricated injection
+4 -> 3: sleeve glare
+return revolves poached
+0 --//o 3: cackling bloodline
+end
+@enduml

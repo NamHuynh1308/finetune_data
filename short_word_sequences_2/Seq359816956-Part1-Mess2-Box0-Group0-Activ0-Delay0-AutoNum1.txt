@@ -1,0 +1,6 @@
+@startuml
+participant "dusky lambs" as 0
+autonumber 5 3
+0 ->x 0: nighty premiere
+0 ->> 0: sealed unexplored
+@enduml

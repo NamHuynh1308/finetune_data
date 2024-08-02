@@ -1,0 +1,6 @@
+@startuml
+participant "seeds lode" as 0
+0 -> 0: reviewed laundering
+0 ->o 0: slaps alas
+0 ->] : stickler nigh
+@enduml

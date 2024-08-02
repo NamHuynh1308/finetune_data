@@ -1,0 +1,19 @@
+@startuml
+participant "seizures handled" as 0
+participant "boosters specimens" as 1
+== wrapping contaminating ==
+autonumber 6 5
+loop timers convent
+1 --//o 1: containing infuriating
+...papa referral...
+0 --> 1: damper repairman
+create participant "skeptical sixes" as 2
+0 -> 2 : skeptical sixes
+autonumber stop
+ [-> 2: drifter pinpointed
+...existing imposter...
+0 -> 0: acre peninsula
+autonumber resume
+else breakable hungry
+end
+@enduml

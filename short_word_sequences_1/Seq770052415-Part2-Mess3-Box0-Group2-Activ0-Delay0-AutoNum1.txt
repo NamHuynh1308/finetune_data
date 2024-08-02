@@ -1,0 +1,14 @@
+@startuml
+participant "malignant belvedere" as 0
+participant "walker catheter" as 1
+== decks ingest ==
+autonumber 2 6
+alt toothpicks trashes
+1 -> 0: polled shea
+autonumber stop
+1 --> 0: debacle diseases
+critical rogue beetle
+1 -> 0!! : gibbons dangling
+end
+end
+@enduml

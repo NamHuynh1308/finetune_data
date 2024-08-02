@@ -1,0 +1,17 @@
+@startuml
+box "cultivating bins"
+participant "prices floors" as 0
+end box
+autonumber 2 9
+0 -> 0: lullaby aim
+autonumber stop
+ [-> 0: canned stapler
+autonumber resume
+critical kooky blemish
+0 --> 0: ampicillin tow
+par for otter
+create participant "kite dictator" as 1
+0 -> 1 : kite dictator
+end
+end
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+box "limey quaking"
+participant "fundamental peeling" as 0
+box "squirrel visitation"
+participant "pretty nighty" as 1
+participant "auld important" as 2
+participant "jackers judgment" as 3
+end box
+end box
+autonumber 5 1
+2 ->x 3: creaky roost
+3 -\\ 2: touche discuss
+2 -> 0: mentions haul
+0 -> 3: stepping lacerated
+autonumber stop
+@enduml

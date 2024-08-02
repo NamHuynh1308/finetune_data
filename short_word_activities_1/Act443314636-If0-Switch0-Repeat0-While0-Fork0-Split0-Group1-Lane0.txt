@@ -1,0 +1,9 @@
+@startuml
+start
+group berry bazaar
+:penguin crammed; <<output>>
+:chicano lively; <<output>>
+-> impudence cardinals;
+end group
+end
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "rinsing destinations" as 0
+participant "cages schmooze" as 1
+participant "toasts demolition" as 2
+2 -\\ 2++ : titles swim
+2 <-> 0++ : conceived pharmaceutical
+0 <-] : aviation vixens
+return tiger nuts
+2 -->x 1: businesses leno
+return materialized manifests
+...belongs steely...
+2 ->> 1: subversive rowboat
+@enduml

@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:civilizations cuddy;
+split again
+-[hidden]->
+switch (unheard inconvenience?)
+case (blush apprehend?)
+:gruesome shorted;
+-> magnify ethically;
+case (reiterate operator?)
+:conclave reputation; <<load>>
+-> halter frightening;
+case (strong partial?)
+:fundraising rear; <<save>>
+case (embalming learner?)
+:designed glare; <<save>>
+-> quartet fans;
+endswitch
+split again
+-[hidden]->
+switch (yank dozen?)
+case (innkeeper gracing?)
+:outward alike; <<save>>
+case (sandalwood heel?)
+:embalming stodgy;
+case (molested likely?)
+:corner psychotherapy; <<continuous>>
+case (outcasts deck?)
+:atonement racking; <<output>>
+endswitch
+end split
+:wartime anointed; <<input>>
+-> circuitry rewrote;
+:arbitrator renegade; <<load>>
+@enduml

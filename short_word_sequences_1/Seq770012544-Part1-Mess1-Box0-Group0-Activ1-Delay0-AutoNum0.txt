@@ -1,0 +1,6 @@
+@startuml
+participant "register believed" as 0
+== barroom tut ==
+0 -> 0++ : grange revamp
+return sugars circuit
+@enduml

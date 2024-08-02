@@ -1,0 +1,11 @@
+@startuml
+participant "dearest graphics" as 0
+participant "humanitarian understudy" as 1
+== phenomenal doused ==
+create participant "laundry ostrich" as 2
+0 -> 2 : laundry ostrich
+1 -> 2: whimsy invest
+2 -> 1: ritzy bronzed
+...extraterrestrial commence...
+1 -->x 0: suffocating snores
+@enduml

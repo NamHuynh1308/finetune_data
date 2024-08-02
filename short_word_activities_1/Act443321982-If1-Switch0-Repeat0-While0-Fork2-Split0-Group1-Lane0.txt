@@ -1,0 +1,29 @@
+@startuml
+start
+group incubator undone
+if (privacy boogeyman?) then (flyers alter)
+fork
+:invade whats;
+fork again
+:preppy handler;
+fork again
+:undesirable mugger;
+fork again
+:caliber classify;
+end fork
+fork
+:put china;
+fork again
+:colitis depriving; <<task>>
+fork again
+:gazpacho freedman;
+end fork
+else (unnecessary shielded)
+:zombies orchard;
+endif
+:malfunctioning ponytail; <<load>>
+-> faithless egomaniacal;
+:unmentionable erases;
+end group
+stop
+@enduml

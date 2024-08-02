@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:platelets fishing;
+split again
+-[hidden]->
+:censured choosers;
+split again
+-[hidden]->
+:expunged wire; <<continuous>>
+end split
+:immersion maroon;
+:architecture almost; <<procedure>>
+:blackout holing; <<output>>
+stop
+@enduml

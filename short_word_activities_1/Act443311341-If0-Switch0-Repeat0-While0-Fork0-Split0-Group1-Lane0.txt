@@ -1,0 +1,8 @@
+@startuml
+group snails reliving
+:form cup;
+-> opposed baroque;
+:signora piecing; <<continuous>>
+end group
+stop
+@enduml

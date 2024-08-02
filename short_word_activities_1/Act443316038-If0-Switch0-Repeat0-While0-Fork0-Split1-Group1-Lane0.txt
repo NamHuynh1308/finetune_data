@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:exterminate visa;
+split again
+-[hidden]->
+:dark lay; <<procedure>>
+-> rubber floodgates;
+split again
+-[hidden]->
+:preferences footprints; <<task>>
+split again
+-[hidden]->
+:santo privacy; <<save>>
+end split
+group untouched incidents
+:clamoring aeroplane;
+-> shovel spiel;
+stop
+end group
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "dost scroll" as 0
+autonumber 9 8
+0 -->x 0: looped conjugal
+@enduml

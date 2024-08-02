@@ -1,0 +1,14 @@
+@startuml
+participant "bikes airplanes" as 0
+box "trials senile"
+participant "cockpit moves" as 1
+end box
+== politics pampers ==
+1 ->x 0: banjo bath
+1 -> 1: ahem section
+1 -> 0: chemistry divining
+alt apparent bribing
+...alumni institutionalized...
+1 -> 1: chickenpox dusted
+end
+@enduml

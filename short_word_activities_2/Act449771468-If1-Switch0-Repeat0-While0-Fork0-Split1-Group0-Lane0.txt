@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:loan incarceration;
+split again
+-[hidden]->
+:glances wham; <<procedure>>
+-> blocking enlisted;
+split again
+-[hidden]->
+if (hips throat?) then (spy momentary)
+(static cap) elseif (heaviest cooing?) then (asphyxiation cashmere)
+:absorb cockles;
+(grisly chosen) elseif (pedal nicest?) then (technology discovering)
+:skinny asteroids;
+(bankrupt opposition) elseif (volleyball privy?) then (honored returning)
+:diagnostic warden; <<input>>
+(erasers hemolytic) elseif (mina android?) then (outwit sloppy)
+:sack bris; <<save>>
+endif
+end split
+:reprimanded exact;
+@enduml

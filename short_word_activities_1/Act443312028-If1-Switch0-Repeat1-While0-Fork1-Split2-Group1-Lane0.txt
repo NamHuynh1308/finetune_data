@@ -1,0 +1,41 @@
+@startuml
+start
+:undergarments cost;
+-> fob foxholes;
+repeat
+if (attracts tacos?) then (bumps weave)
+:competitor interplanetary; <<task>>
+-> mobster ballon;
+else (pardner dizzying)
+:disturbance berg;
+:seat rousing;
+:howl cartoonist;
+endif
+repeat while (herding shtick?) is (crabs footprints)
+-> wedge dove;
+group canyons elk
+fork
+:humming frostbite;
+fork again
+split
+:corridor effects;
+split again
+:daddy ungrateful;
+split again
+:gassy dimes;
+end split
+fork again
+split
+:distinguish curtains;
+split again
+:hitch inscription;
+-> bitsy undertaking;
+split again
+:grounded easygoing;
+split again
+:rousted invented; <<task>>
+end split
+end merge
+stop
+end group
+@enduml

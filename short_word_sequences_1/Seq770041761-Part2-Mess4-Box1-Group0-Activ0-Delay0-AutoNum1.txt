@@ -1,0 +1,13 @@
+@startuml
+box "overtaken scalp"
+participant "profusely angel" as 0
+end box
+autonumber 0 8
+0 ->x 0: temple freebie
+autonumber stop
+create participant "otter anesthesia" as 1
+0 -> 1 : otter anesthesia
+autonumber resume
+ [-> 0: audition travelling
+0 ->> 0: denied jihad
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "hiccup electrocuted" as 0
+box "pinafore rookie"
+participant "commotion cakes" as 1
+end box
+0 ->o 1: overpaid finagle
+0 -> 1!! : in ecosystem
+1 ->x 0: renaissance variety
+@enduml

@@ -1,0 +1,63 @@
+@startuml
+split
+-[hidden]->
+:perils janitor;
+split again
+-[hidden]->
+switch (give nighttime?)
+case (anise irritating?)
+:bunker telephone;
+case (boxers internment?)
+:bun anatomy;
+case (inverted gracing?)
+:pinball hurst; <<task>>
+endswitch
+split again
+-[hidden]->
+if (unpleasantness exemption?) then (melon boxers)
+:tellers bombarding; <<save>>
+-> automatic snort;
+else (tow doohickey)
+:refreshed scepter; <<input>>
+:facts torture;
+-> reconciliation somewheres;
+endif
+end split
+if (settlements quaker?) then (manly northern)
+(outrage detract) elseif (repent realise?) then (wreckage resented)
+if (pebble panels?) then (shirking kilometer)
+(baubles pointers) elseif (using possession?) then (paroled bracket)
+:obstructed chaff; <<save>>
+-> compression unconsciousness;
+(defibrillator ell) elseif (melon comment?) then (narrator over)
+:action omega; <<continuous>>
+(henry ensuring) elseif (properly injure?) then (flock overreacting)
+:fostered nippy;
+(madrigal thug) elseif (gendarme jeopardized?) then (installments scenic)
+:shortage barnacle; <<task>>
+endif
+(handbasket nutritionist) elseif (organizations aboriginal?) then (assemble honey)
+:distribute sizzle; <<input>>
+-> careers approached;
+endif
+repeat
+:luv continuation;
+if (creeping lair) then (reputed pemmican)
+:gate wandered;
+break
+endif
+->capable nauseated;
+:room tryouts;
+while (row far?) is (teammate butchered)
+:entries quarantine;
+:orienteering barnacle;
+:annulment insincere; <<procedure>>
+endwhile (beagle defy)
+:decontamination dispenser;
+backward:reliability visitation;
+repeat while (pages playoffs?) is (dasher freer)
+group complete vat
+:wireless predator; <<output>>
+stop
+end group
+@enduml

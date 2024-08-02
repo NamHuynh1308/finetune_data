@@ -1,0 +1,17 @@
+@startuml
+participant "stored calculated" as 0
+box "frills mesh"
+participant "learn eviscerated" as 1
+end box
+autonumber 0 1
+0 -> 1: groggy invaded
+0 <-] : quandary corner
+...multimedia ani...
+1 -> 1++ : sweetness mastered
+autonumber stop
+0 <-] : ka storybook
+autonumber resume
+...boarded toasty...
+1 -> 1: skittles pah
+return executions rya
+@enduml

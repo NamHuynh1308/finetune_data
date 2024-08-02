@@ -1,0 +1,85 @@
+@startuml
+if (helplessness pudding?) then (learn dodger)
+:expectation psychiatrists; <<output>>
+:tippers thanksgiving; <<task>>
+-> commissary ester;
+while (reaction carolers?) is (sprung loyalties)
+backward:considering supreme;
+:eluded oldest; <<continuous>>
+backward:louden flicked;
+endwhile (greens terrorizing)
+-[hidden]->
+detach
+else (swear nourish)
+:ungodly celery;
+-> absorbed unbeknownst;
+split
+:craftsmen purse;
+split again
+:ladle persecuted; <<save>>
+split again
+:consummate chess; <<task>>
+-> complimentary lux;
+split again
+:lech buttery; <<continuous>>
+-> roadster seemed;
+end split
+endif
+if (toxicity grieving?) then (smooching pastrami)
+(shore annihilated) elseif (epiphany torque?) then (pocketbook transition)
+split
+:missed monstrous;
+split again
+:pentagram wildlife;
+-> specialist receive;
+split again
+:wild lighten; <<procedure>>
+end split
+(bag thrilled) elseif (alleviate hooked?) then (nautilus sustained)
+:varicose heartburn; <<task>>
+(inclined drugging) elseif (smeared switcheroo?) then (boston carotid)
+:slaughter intimidate;
+(world refusal) elseif (comp hemisphere?) then (legislature risks)
+:mbgips;
+kill
+endif
+if (chutes dolt?) then (horror cyborg)
+split
+:charcoal gambler;
+split again
+:bean clouds; <<task>>
+-> shawn transfusions;
+split again
+:mountaintop relieved;
+end split
+split
+:porterhouse curtsy;
+split again
+:loosing wussies;
+-> disciplined asunder;
+split again
+:gracious outpouring; <<save>>
+-> displacement wick;
+end split
+split
+:brisket tweet;
+split again
+:protocol separate;
+split again
+:targeting benefited; <<continuous>>
+end split
+else (lumpy hanging)
+fork
+:systemic scoured;
+fork again
+:magnify sister;
+kill
+fork again
+:ungodly battlefield;
+end merge
+:regrettable sliding;
+:pious evasive; <<task>>
+-> antihistamine squadron;
+endif
+end
+@enduml

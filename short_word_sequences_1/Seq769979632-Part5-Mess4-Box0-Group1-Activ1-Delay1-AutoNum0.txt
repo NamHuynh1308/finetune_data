@@ -1,0 +1,17 @@
+@startuml
+participant "cased infatuated" as 0
+participant "rube impassioned" as 1
+participant "plains panicked" as 2
+participant "correspondence nudity" as 3
+== glanced entrances ==
+create participant "indications marveling" as 4
+3 -> 4 : indications marveling
+0 ->o 3: entertainer nights
+break singer enslave
+2 -// 0++ : gal texture
+...mesa complain...
+ [<- 1: outwitted advising
+else voluntarily came
+end
+return label weigh
+@enduml

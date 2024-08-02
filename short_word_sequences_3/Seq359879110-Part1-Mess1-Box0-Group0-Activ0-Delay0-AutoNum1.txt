@@ -1,0 +1,5 @@
+@startuml
+participant "robes speculative" as 0
+autonumber 10 6
+0 -\\ 0: signals relinquish
+@enduml

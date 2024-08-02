@@ -1,0 +1,15 @@
+@startuml
+participant "cranium awkwardly" as 0
+participant "floorboards umbilical" as 1
+== fisher crucifix ==
+create participant "accoutrements roommate" as 2
+1 -> 2 : accoutrements roommate
+1 <-> 0: seniors tabloid
+alt contentment puking
+...abortion belted...
+0 ->o 0++ : unscrupulous billing
+2 -> 2++ : buffet chewing
+end
+return dwelling tweaked
+return swirling involves
+@enduml

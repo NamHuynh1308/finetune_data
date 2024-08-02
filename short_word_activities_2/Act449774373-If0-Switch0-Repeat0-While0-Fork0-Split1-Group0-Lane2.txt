@@ -1,0 +1,18 @@
+@startuml
+|1| cards bylaws
+|2| twins tongs
+|2|
+:weenie undergraduate;
+-> setting luggage;
+:woke dinnertime;
+|1|
+split
+:chucked wiggling;
+split again
+:insisted physically; <<output>>
+split again
+:carwash diva; <<task>>
+split again
+:medina inland; <<procedure>>
+end split
+@enduml

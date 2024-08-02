@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:slugs urinal;
+split again
+-[hidden]->
+:awkwardness flying; <<save>>
+-> argumentative gaslight;
+split again
+-[hidden]->
+:willful plenty; <<output>>
+split again
+-[hidden]->
+:gruel sailed; <<output>>
+end split
+group unlikable immigrants
+:pageant edition;
+stop
+end group
+@enduml

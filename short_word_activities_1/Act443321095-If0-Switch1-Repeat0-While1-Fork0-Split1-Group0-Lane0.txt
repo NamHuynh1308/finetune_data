@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:cockpit selection;
+split again
+-[hidden]->
+:playtime scratched;
+-> pleased culpa;
+split again
+-[hidden]->
+:successful seismic; <<output>>
+split again
+-[hidden]->
+switch (dickens entitle?)
+case (brash mistakes?)
+:ingles suffocated;
+case (references inducement?)
+:desires sprinkled;
+endswitch
+end split
+while (typed format?) is (wail nigger)
+:stall chevalier; <<procedure>>
+-> retrieval hugest;
+endwhile (whispered important)
+:game oracles;
+@enduml

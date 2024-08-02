@@ -1,0 +1,34 @@
+@startuml
+participant "hooligans fades" as 0
+box "nausea painless"
+participant "technologically poison" as 1
+participant "upside ridiculously" as 2
+end box
+box "reforms conservatory"
+participant "fun probable" as 3
+end box
+autonumber 7 4
+0 ->x 2++ : spitz condensed
+autonumber stop
+opt hails bulletproof
+2 -// 2++ : knocked settles
+0 <-> 2: earplugs tapas
+return skid works
+par remainder waitressing
+3 --//o 3: mineral intersection
+return anthology paging
+autonumber resume
+2 ->> 1++ : science sunless
+alt bribery reputation
+create participant "witch hinges" as 4
+1 -> 4 : witch hinges
+0 -> 4: stepmother irons
+loop half finch
+3 ->] : creased academy
+autonumber stop
+end
+end
+end
+end
+return homicides interplanetary
+@enduml

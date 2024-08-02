@@ -1,0 +1,16 @@
+@startuml
+participant "mocha deviled" as 0
+participant "eels recalled" as 1
+autonumber 9 1
+0 -> 1: wobble painless
+0 -> 0: toddler insuring
+0 <-> 0++ : mile forensic
+opt disobeying resentment
+1 -> 0: abba clear
+1 -> 0++ : commiserate boo
+else cypress prematurely
+1 ->x 1: international professional
+return pinafore wonderful
+end
+return takeout gains
+@enduml

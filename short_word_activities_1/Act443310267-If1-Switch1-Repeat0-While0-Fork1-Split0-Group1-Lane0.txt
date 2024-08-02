@@ -1,0 +1,29 @@
+@startuml
+start
+:guilty born; <<input>>
+group orange promoting
+:defiantly smudged;
+-> secondary reflects;
+if (superstitious embezzlement?) then (classmates decorate)
+(moles taut) elseif (encountered discourteous?) then (intern bouncer)
+:brews oaths; <<load>>
+(believe cruelty) elseif (consistent passer?) then (reminisce unconventional)
+fork
+:exhibits puts;
+fork again
+:dyer cosmology; <<task>>
+-> bison playgrounds;
+fork again
+:former volunteer;
+end merge
+(chap skies) elseif (goodman assessed?) then (bliss telekinesis)
+switch (roofer coroners?)
+case (steered monologue?)
+:shootings suitcase; <<save>>
+case (subtitled grifters?)
+:wished rape;
+endswitch
+endif
+stop
+end group
+@enduml

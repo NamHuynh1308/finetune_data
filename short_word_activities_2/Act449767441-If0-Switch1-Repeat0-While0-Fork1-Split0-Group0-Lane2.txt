@@ -1,0 +1,29 @@
+@startuml
+|1| outdoors trinkets
+|2| tomahawk minstrel
+|1|
+start
+|2|
+:umpire gained; <<task>>
+|1|
+switch (nervously raptor?)
+case (concerned hornets?)
+:hull pollard;
+case (drawings darken?)
+:cappuccino ti;
+kill
+case (insufferable marching?)
+:publish episode; <<input>>
+case (raw werewolf?)
+:thru boggle;
+endswitch
+fork
+:duchess dimension;
+fork again
+:baited denominational;
+fork again
+:bishop heinie; <<output>>
+end fork
+|2|
+:paradise lily;
+@enduml

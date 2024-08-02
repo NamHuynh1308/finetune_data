@@ -1,0 +1,73 @@
+@startuml
+|1| backs legacy
+|2| dumped unwanted
+split
+-[hidden]->
+:inaccessible primed;
+split again
+-[hidden]->
+:atom steaks; <<output>>
+-> beep judges;
+split again
+-[hidden]->
+:predictions blaring; <<load>>
+-> fronting manure;
+split again
+-[hidden]->
+:spoons prehistoric; <<input>>
+-> volant systolic;
+end split
+|2|
+:supervise drifter; <<output>>
+-> independence abnormal;
+|1|
+if (eyeliner whats?) then (dills chain)
+(nearly grave) elseif (veritas notices?) then (sirs bequest)
+:iglkns;
+kill
+(kerry vantage) elseif (murders unnecessary?) then (crusader buttoned)
+if (basket mopping?) then (largest henry)
+:devastatingly competitiveness;
+-> rendezvous percentage;
+:sharks shoo;
+kill
+else (abrasive shit)
+:pros workup;
+endif
+(messenger rods) elseif (solace sanction?) then (signed quarry)
+:shopping mosquito;
+-> press tracer;
+endif
+switch (matchmaker dedicating?)
+case (tacky sports?)
+:entail unhappily; <<save>>
+-> flush droll;
+case (tory posttraumatic?)
+fork
+:meet carve;
+fork again
+:visits deadliest;
+fork again
+:clashing springing; <<continuous>>
+end merge
+case (synthesis eavesdrop?)
+split
+:sinking affection;
+split again
+:erred therapeutic;
+split again
+:radius stoned;
+end split
+case (exerting seas?)
+split
+:alternating botanical;
+split again
+:himself boomer;
+split again
+:royally prototypes; <<save>>
+split again
+:ginger funky;
+end split
+endswitch
+end
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:destructs were;
+split again
+-[hidden]->
+:toner forbid; <<procedure>>
+-> blossom overlooked;
+split again
+-[hidden]->
+:vault severed; <<output>>
+-> greasing sank;
+end split
+:easy interfering; <<procedure>>
+group nome nifty
+if (compressed menacing?) then (formaldehyde distillery)
+:turban peeling; <<task>>
+else (hexes schoolwork)
+:flunking treats; <<continuous>>
+-> poking conceived;
+endif
+stop
+end group
+@enduml

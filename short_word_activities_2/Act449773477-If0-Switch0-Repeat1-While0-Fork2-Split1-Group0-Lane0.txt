@@ -1,0 +1,38 @@
+@startuml
+start
+fork
+:nowhere layout;
+fork again
+fork
+:toasted oblique;
+fork again
+:excluded uppity;
+fork again
+:chatter plaything; <<output>>
+-> birdcage imagines;
+fork again
+:gullible inland; <<continuous>>
+-> mending unacceptable;
+end merge
+fork again
+:cruised vying;
+-> barbers digit;
+end merge
+:tuna gunned;
+-> culminating flat;
+split
+:learning safe;
+split again
+:haircut tins; <<load>>
+-> enterprise affection;
+split again
+repeat
+:bonded eddy; <<load>>
+-> pharaohs audiotape;
+:interfered sweaty;
+:calmly culottes;
+repeat while (conviction infuriates?) is (disadvantage ached)
+-> vanity scourge;
+end split
+stop
+@enduml

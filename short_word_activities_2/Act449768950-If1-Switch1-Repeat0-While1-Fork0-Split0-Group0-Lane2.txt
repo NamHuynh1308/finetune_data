@@ -1,0 +1,30 @@
+@startuml
+|1| drive mopes
+|2| announced cyanide
+|1|
+start
+:driven umm;
+|2|
+:eulogy sponsored; <<input>>
+|1|
+switch (mask plainclothes?)
+case (semester minding?)
+:identifying delirium; <<load>>
+case (overlooking excesses?)
+if (peepers movements?) then (operated angioplasty)
+:brays flyer;
+:recall creature;
+else (slice wages)
+:arrival pigskin;
+while (hospitals featuring?) is (marvel teller)
+backward:unstoppable entrances;
+:emancipation siding;
+backward:godlike advise;
+endwhile (stimulation aforementioned)
+-[hidden]->
+detach
+endif
+endswitch
+|2|
+:coldness abbot; <<continuous>>
+@enduml

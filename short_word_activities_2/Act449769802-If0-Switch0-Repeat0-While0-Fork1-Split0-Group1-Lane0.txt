@@ -1,0 +1,14 @@
+@startuml
+:reptiles dots; <<procedure>>
+group crowned tenement
+fork
+:pumps slaughterhouse;
+fork again
+:mirage corporations; <<save>>
+-> poured walnut;
+fork again
+:tailored reflex; <<input>>
+end merge
+stop
+end group
+@enduml

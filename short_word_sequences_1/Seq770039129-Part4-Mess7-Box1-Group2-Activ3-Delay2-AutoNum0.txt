@@ -1,0 +1,25 @@
+@startuml
+box "senorita vessels"
+participant "fingerprints hums" as 0
+participant "perch debates" as 1
+participant "presence garden" as 2
+participant "monsters errand" as 3
+end box
+opt holding variety
+3 ->> 2++ : unmanned pesos
+2 -> 0++ : stadium noon
+...collide control...
+3 ->] : tony noticing
+return plight cornfield
+...swallowed dehydrated...
+2 <-] : bosom nutmeg
+return requirement fledgling
+break gram excruciating
+2 -> 2: ree outlines
+3 -> 3++ : violin schematics
+3 -> 2: openly surround
+else genuinely writings
+end
+end
+return sometimes expressions
+@enduml

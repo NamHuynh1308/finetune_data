@@ -1,0 +1,12 @@
+@startuml
+|1| outfits warlord
+|2| prince significant
+|1|
+start
+:handout disputes; <<continuous>>
+|2|
+:champs wandering; <<save>>
+|1|
+:chopper surprisingly; <<procedure>>
+end
+@enduml

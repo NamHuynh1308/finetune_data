@@ -1,0 +1,12 @@
+@startuml
+participant "potency enhancements" as 0
+participant "translating desperately" as 1
+participant "alleluia unexpectedly" as 2
+1 -// 2++ : permits arrest
+2 -> 1: formality incentive
+1 -->x 0: pill literature
+par mug rather
+ [<- 0: gale indestructible
+end
+return sacred participation
+@enduml

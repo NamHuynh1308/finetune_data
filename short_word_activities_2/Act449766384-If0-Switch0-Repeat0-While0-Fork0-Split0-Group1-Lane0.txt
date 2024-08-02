@@ -1,0 +1,7 @@
+@startuml
+start
+group kick inconsistent
+:boy installments; <<output>>
+stop
+end group
+@enduml

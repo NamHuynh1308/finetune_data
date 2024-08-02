@@ -1,0 +1,15 @@
+@startuml
+box "skill melody"
+participant "deserving hub" as 0
+participant "draft snowboard" as 1
+end box
+== ballots submissive ==
+autonumber 3 2
+0 -> 0: perfecto fountain
+1 -\\ 0: parabolic holies
+...hollandaise unit...
+1 -> 0: anthropologist nympho
+autonumber stop
+1 -> 0: correspondents stifling
+autonumber resume
+@enduml

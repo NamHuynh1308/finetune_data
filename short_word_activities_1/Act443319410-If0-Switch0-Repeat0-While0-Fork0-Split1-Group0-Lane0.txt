@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:tigers flimsy;
+split again
+-[hidden]->
+:mangled labeled; <<procedure>>
+split again
+-[hidden]->
+:hideous wheels; <<procedure>>
+end split
+:steaming disappear;
+-> extracurricular passer;
+:remark clumsily; <<save>>
+-> tormenting widows;
+:rattle fireproof;
+end
+@enduml

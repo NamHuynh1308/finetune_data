@@ -1,0 +1,24 @@
+@startuml
+participant "guest scrambler" as 0
+participant "matter sing" as 1
+participant "farewells faithfulness" as 2
+== worthwhile silliness ==
+par story canaries
+1 -// 0++ : mature cadet
+break sturgeon forensic
+...zephyr disabling...
+0 -> 2++ : seamless ewe
+alt zephyrs dullness
+...thefts renovation...
+2 -> 1: richest evade
+1 <-> 0++ : yapping entitles
+else pepper seagull
+create participant "frugal whereof" as 3
+2 -> 3 : frugal whereof
+return sangria grovel
+end
+end
+end
+return liven smashed
+return travelers biscuit
+@enduml

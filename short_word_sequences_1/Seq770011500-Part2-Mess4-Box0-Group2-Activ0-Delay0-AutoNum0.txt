@@ -1,0 +1,14 @@
+@startuml
+participant "goon memoirs" as 0
+participant "minimalist blueberries" as 1
+== stimuli unquote ==
+loop important almonds
+ [-> 0: lullaby vie
+1 ->o 0: nefarious plays
+else menus withholding
+break idealized mon
+0 -->x 0: stolen lakes
+ [-> 0: orgasmic watered
+end
+end
+@enduml

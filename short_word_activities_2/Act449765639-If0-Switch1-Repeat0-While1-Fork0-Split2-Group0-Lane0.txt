@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:kielbasa terminology;
+split again
+-[hidden]->
+while (gel dickie?) is (through nametag)
+:talkie states; <<input>>
+backward:blowing furthest;
+endwhile (mural stewed)
+:smashes wink;
+split again
+-[hidden]->
+split
+:sciences decoded;
+split again
+:adopt bionic;
+split again
+:circulated analyzed;
+end split
+end split
+switch (airman crux?)
+case (scag spin?)
+:scoot slaves; <<input>>
+-> spirited spectators;
+case (derision pub?)
+:plucky regal; <<continuous>>
+case (leads governess?)
+:impersonator warhead;
+kill
+endswitch
+:surprisingly gourd; <<continuous>>
+:dozing anchor; <<output>>
+-> downhill finances;
+stop
+@enduml

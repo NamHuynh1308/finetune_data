@@ -1,0 +1,14 @@
+@startuml
+participant "bloods witnessed" as 0
+participant "statewide snook" as 1
+box "hogwash carvel"
+participant "crooks quickie" as 2
+end box
+autonumber 5 1
+0 -> 2++ : smirking plucking
+1 -->x 0: quarry demand
+...begets tweak...
+1 -> 2: stature lesser
+return harm retreated
+2 -> 1: wheels aimed
+@enduml

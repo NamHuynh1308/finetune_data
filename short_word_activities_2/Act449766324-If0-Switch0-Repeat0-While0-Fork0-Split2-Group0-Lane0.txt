@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:stranger ticking;
+split again
+-[hidden]->
+split
+:efficiency sinks;
+split again
+:goals piled; <<procedure>>
+-> contributed shampoo;
+split again
+:hauls accuracy; <<task>>
+end split
+split again
+-[hidden]->
+:weird establishments; <<load>>
+end split
+:repeated blizzard;
+@enduml

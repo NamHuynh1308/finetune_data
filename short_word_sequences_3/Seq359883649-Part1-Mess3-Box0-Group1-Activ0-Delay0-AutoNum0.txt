@@ -1,0 +1,8 @@
+@startuml
+participant "hairline pathology" as 0
+ [<- 0: displaced archer
+0 -> 0: kid politically
+loop accorded charade
+ [-> 0: startup ensued
+end
+@enduml

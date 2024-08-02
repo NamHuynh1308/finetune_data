@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:timetable shreds;
+split again
+-[hidden]->
+:chin salamander; <<output>>
+-> exercising baggage;
+split again
+-[hidden]->
+:bazaar response;
+end split
+group bike massive
+:appease ambience; <<task>>
+-> reinventing coma;
+:assailant sitcoms; <<load>>
+end group
+end
+@enduml

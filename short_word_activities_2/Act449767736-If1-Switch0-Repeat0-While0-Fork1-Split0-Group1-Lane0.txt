@@ -1,0 +1,24 @@
+@startuml
+start
+group alcoholic angelus
+fork
+:improve supervision;
+fork again
+:hay casting;
+kill
+fork again
+:poop slugs; <<load>>
+-> waterfall statement;
+fork again
+if (paperboy sneaky?) then (incite studious)
+:pageant supposition;
+:prodding sponges;
+else (nana defining)
+:gala creeds;
+:balmoral retraction;
+endif
+end merge
+:bench reptile; <<continuous>>
+end group
+stop
+@enduml

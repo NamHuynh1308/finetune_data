@@ -1,0 +1,33 @@
+@startuml
+participant "hotheaded hickory" as 0
+box "spiteful outburst"
+participant "frank showed" as 1
+participant "sentences stars" as 2
+box "wherever transmitted"
+participant "sesterces neglect" as 3
+end box
+end box
+loop tracing bowers
+1 -> 1: blurred safest
+0 ->> 3: physician inexplicable
+...intervening change...
+3 -\\ 3: playing damaging
+...fling initials...
+1 -> 2: chuckle yum
+else nelly clarity
+opt premiere drifter
+create participant "visits perfumes" as 4
+2 -> 4 : visits perfumes
+critical perished compelled
+...stab cats...
+3 --> 4: jordan matinee
+...sicken duty...
+4 -> 2: epidemic newfound
+...broomsticks paycheck...
+2 ->o 2++ : differ democracy
+else topical spew
+end
+end
+end
+return scone occurred
+@enduml

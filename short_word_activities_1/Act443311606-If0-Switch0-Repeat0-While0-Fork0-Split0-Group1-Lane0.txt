@@ -1,0 +1,7 @@
+@startuml
+group startling wars
+:vendors trinkets; <<task>>
+-> trashed pearly;
+stop
+end group
+@enduml

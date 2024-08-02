@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:breathtaking sympathies;
+split again
+-[hidden]->
+:philosophies gurgling; <<load>>
+split again
+-[hidden]->
+:stern clothing; <<task>>
+-> toenail imaginative;
+end split
+:fibbing boggle; <<save>>
+group nights waking
+:prepare tas; <<input>>
+stop
+end group
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "switchman reminded" as 0
+autonumber 3 9
+0 ->o 0: microphone dental
+@enduml

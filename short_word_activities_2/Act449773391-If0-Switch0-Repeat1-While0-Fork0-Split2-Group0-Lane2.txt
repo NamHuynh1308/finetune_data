@@ -1,0 +1,39 @@
+@startuml
+|1| droopy capote
+|2| aboard distributor
+split
+-[hidden]->
+:crucified hired;
+split again
+-[hidden]->
+:awarded grim;
+-> brothel mowers;
+split again
+-[hidden]->
+split
+:pic highland;
+split again
+:succeed benefits; <<save>>
+-> stuffs hails;
+split again
+:housebroken buggy; <<task>>
+-> butlers calmly;
+end split
+split again
+-[hidden]->
+:slanted repertoire;
+end split
+|2|
+:mechanism distribution; <<input>>
+-> vortex handsomely;
+|1|
+repeat
+:dedication install;
+-> drapes confederacy;
+repeat while (cannonball applejack?) is (safes swears)
+|2|
+:scarcely ran; <<save>>
+:smear asks; <<procedure>>
+|1|
+:nudie submarine;
+@enduml

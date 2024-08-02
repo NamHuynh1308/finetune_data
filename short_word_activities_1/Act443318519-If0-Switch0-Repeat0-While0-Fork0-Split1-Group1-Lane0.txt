@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:seek sneaked;
+split again
+-[hidden]->
+:sync bickering;
+split again
+-[hidden]->
+:santos kat;
+end split
+group preferred smiling
+:watts primordial; <<input>>
+stop
+end group
+@enduml

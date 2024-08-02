@@ -1,0 +1,10 @@
+@startuml
+participant "baller groovy" as 0
+participant "countryside indiscretions" as 1
+== encore watching ==
+ [<- 0: conspirator staffed
+1 -> 0: refill wolves
+1 -> 0++ : speculation degrading
+1 -->x 0: took complaints
+return inferno presuming
+@enduml

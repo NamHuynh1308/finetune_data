@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:player recognise;
+split again
+-[hidden]->
+:hurting heartless;
+-> dense spurred;
+split again
+-[hidden]->
+:voicing zander;
+split again
+-[hidden]->
+:consensus typhoid;
+-> members fury;
+end split
+:thereby blindfolded; <<continuous>>
+:fluff uneducated; <<input>>
+-> disclosed prodigal;
+@enduml

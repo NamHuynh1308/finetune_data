@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:dentist restrain;
+split again
+-[hidden]->
+fork
+:movie cripes;
+fork again
+:payoff auger;
+fork again
+:ballistic optic;
+fork again
+:tickles deftly; <<output>>
+-> flagging headset;
+end fork
+split again
+-[hidden]->
+if (ventricular schizo?) then (conveniently developer)
+:thrall nutritious;
+kill
+else (chilly unisex)
+:paraphernalia winkle; <<output>>
+-> sporty purr;
+:pepperoni lung;
+while (quantity neurosurgeon?) is (cargo munchkins)
+backward:improved touchdown;
+:pitted chipper;
+backward:premiere pays;
+backward:final iris;
+endwhile (ganja distancing)
+-[hidden]->
+detach
+endif
+end split
+repeat
+backward:entirely boysenberry;
+switch (hiding stops?)
+case (coiffure evicted?)
+:surgeon norther;
+-> steered blackboard;
+case (disciplinary resources?)
+:nostalgia flatter;
+endswitch
+backward:corona documentaries;
+repeat while (tried twenty?) is (manual knowledge)
+stop
+@enduml

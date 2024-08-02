@@ -1,0 +1,11 @@
+@startuml
+box "overexcited vaporized"
+participant "coeds practice" as 0
+participant "shelve accustomed" as 1
+end box
+1 ->o 0: expect solid
+...middle swan...
+1 -->x 0: crucify intimidating
+0 <-] : pose tether
+0 -> 0: crosses struggled
+@enduml

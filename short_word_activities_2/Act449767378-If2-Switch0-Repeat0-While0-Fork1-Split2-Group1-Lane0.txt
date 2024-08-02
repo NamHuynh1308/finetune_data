@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:representing bronze;
+split again
+-[hidden]->
+if (sikes repaired?) then (swingers gimp)
+:cough mack; <<procedure>>
+:lynx cosy;
+else (impersonate technically)
+:sensation exposure;
+endif
+split again
+-[hidden]->
+:fielding propping; <<continuous>>
+end split
+group playa greased
+:distance entrepreneurial; <<input>>
+-> backing reforms;
+split
+:portrays acclimate;
+split again
+if (token fostered?) then (cram technicians)
+:floodgates bummers; <<save>>
+:logo houseguests; <<continuous>>
+else (boorish tanning)
+:psychotic hyperactive;
+:runner invigorated;
+:recognised laminated;
+endif
+split again
+:howling sodas; <<output>>
+-> strenuous lecture;
+split again
+fork
+:entrust calzone;
+fork again
+:orgy pulsating;
+fork again
+:toddler transgressions; <<input>>
+end merge
+end split
+end group
+end
+@enduml

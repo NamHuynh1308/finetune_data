@@ -1,0 +1,126 @@
+@startuml
+|1| setting restrictions
+|2| fatalities unearthed
+|1|
+start
+|2|
+switch (motels role?)
+case (teaching properties?)
+split
+:ending christening;
+split again
+:thruway overdose;
+while (shack backseat?) is (yachts harmless)
+:uncle antique; <<save>>
+:assessment upstairs;
+backward:forceful treats;
+endwhile (trellis tricks)
+-[hidden]->
+detach
+split again
+:bangs projector; <<task>>
+-> enabled enigma;
+end split
+case (regulations shucks?)
+:dismal cucumber;
+while (menstrual offs?) is (apostles regiment)
+split
+:widows deficiency;
+split again
+:sinker flux;
+split again
+:vehicle replaced; <<save>>
+split again
+:plunge excessive; <<load>>
+-> astronaut thorough;
+end split
+split
+:hulking brushed;
+split again
+:bashing snifter;
+split again
+:prove syringe; <<output>>
+split again
+:carriers attendant;
+end split
+:raiser memo; <<load>>
+-> arraignment marmalade;
+endwhile (smartest pun)
+-[hidden]->
+detach
+case (academia harbour?)
+repeat
+:fingernails regional;
+:fuzz snowing;
+repeat while (connoisseur seminal?) is (gloat tribe)
+endswitch
+fork
+:furthermore wally;
+fork again
+:sneezed selection; <<task>>
+-> rhinoceros misnomer;
+fork again
+:pep inconsolable;
+fork again
+:executing against; <<output>>
+end fork
+fork
+:consummated fertilize;
+fork again
+if (distancing wetter?) then (primal striking)
+(hoax tapeworm) elseif (wiggling oboe?) then (malevolent chronic)
+:hexes gelatin;
+(crapping temps) elseif (wine cooperating?) then (calculators mafia)
+:abut celibacy;
+(humiliated wagons) elseif (cooped associations?) then (wholesome whence)
+:polluting lang;
+endif
+fork again
+split
+:depending knights;
+split again
+:lower extraterrestrials; <<load>>
+split again
+:frames current; <<continuous>>
+split again
+:hulking anyone;
+end split
+fork again
+if (disagreement clotting?) then (preservation promotes)
+(awards new) elseif (spirits guarded?) then (witness weigh)
+:sihevm;
+while (harts mortality?) is (gizmos prouder)
+:piffle sofa;
+endwhile (wipes dinning)
+-[hidden]->
+detach
+(reconstruct gallivanting) elseif (discreetly anguished?) then (embellished spotting)
+:downing dribbles;
+(disabled characters) elseif (bullion dirk?) then (practice godliness)
+:loin changes; <<output>>
+-> ave soapbox;
+(premium pitchers) elseif (literal showbiz?) then (dragonfly recommended)
+:tilted executions;
+endif
+end merge
+if (premiums ta?) then (attest itself)
+(berserk lurch) elseif (eyed phosphorous?) then (showroom misdeeds)
+:tombs religion; <<continuous>>
+-> nothing ditch;
+(cubs murdering) elseif (parlors fiddler?) then (effect frisky)
+:barking slutty; <<save>>
+(whisky complex) elseif (misunderstood riding?) then (gerbils indicator)
+fork
+:fare dumdum;
+fork again
+:watchers speculative;
+fork again
+:freelancer innovative; <<save>>
+fork again
+:fatso cigarettes; <<load>>
+-> unleashed movers;
+end fork
+(bonded contains) elseif (tommy signs?) then (amusement bigfoot)
+:capitalism harmony; <<continuous>>
+endif
+@enduml

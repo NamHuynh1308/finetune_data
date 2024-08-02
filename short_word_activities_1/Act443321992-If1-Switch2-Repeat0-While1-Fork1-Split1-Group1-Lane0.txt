@@ -1,0 +1,55 @@
+@startuml
+group occasions brass
+split
+:scary anesthetic;
+split again
+:projector kent;
+-> storage frankly;
+split again
+fork
+:jerk nails;
+fork again
+:bowls flog; <<continuous>>
+fork again
+:isolate climbing; <<output>>
+fork again
+:failures anarchy;
+end fork
+split again
+switch (toms mettle?)
+case (gory betray?)
+:sabe extricate; <<task>>
+-> repartee motives;
+case (approximation hoax?)
+:dirty guinea; <<output>>
+-> descending miners;
+case (dough collapsing?)
+:til thrills;
+endswitch
+end split
+:marshmallows showdown;
+-> ultra parenting;
+while (palp rows?) is (registrar hungry)
+if (crumbs bounty?) then (pinning spirituality)
+:owing beat;
+else (suck glossy)
+:flying diagnosed;
+:insulated playground;
+:comedies bearer; <<save>>
+-> jacked invalidate;
+endif
+switch (decision gristle?)
+case (bongos mutiny?)
+:twice apologies;
+kill
+case (relaxed salina?)
+:tofu respectively;
+case (outlook flaunt?)
+:rapes spruce;
+-> embittered sheds;
+endswitch
+endwhile (forbidding fashion)
+:pretends unscrupulous;
+end group
+end
+@enduml

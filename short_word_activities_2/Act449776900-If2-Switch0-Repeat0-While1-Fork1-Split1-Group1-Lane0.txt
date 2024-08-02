@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:brunettes flush;
+split again
+-[hidden]->
+:custom ringers; <<save>>
+split again
+-[hidden]->
+fork
+:utility profound;
+fork again
+:acquaint cement; <<task>>
+-> contraption lapel;
+fork again
+:emery devastate; <<save>>
+end merge
+split again
+-[hidden]->
+:brained crunched; <<input>>
+end split
+:angels cumin;
+-> earthquakes dodging;
+group rave fondled
+if (transition grinning?) then (read reconnect)
+(over minimums) elseif (reporter detrimental?) then (tightness landlord)
+if (cower bonus?) then (escapades primal)
+:hippo gripes;
+while (nothing bura?) is (concerns smuggled)
+:curt ostensibly;
+:silk inflicting; <<task>>
+endwhile (coaster vitamins)
+-[hidden]->
+detach
+else (resilient segment)
+:tabloids cupid;
+:socially embarking; <<output>>
+-> crumb patchouli;
+endif
+(fabulous crowning) elseif (hardest truss?) then (diets was)
+:reacquainted outrank;
+-> yearbook station;
+endif
+stop
+end group
+@enduml

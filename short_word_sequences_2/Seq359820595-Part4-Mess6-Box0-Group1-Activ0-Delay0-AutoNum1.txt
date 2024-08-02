@@ -1,0 +1,21 @@
+@startuml
+participant "prodigal leap" as 0
+participant "betrayal securely" as 1
+participant "proven punished" as 2
+participant "propensity parasites" as 3
+== descendants sized ==
+autonumber 7 8
+0 <-] : existence bite
+par mike planner
+0 -> 0: getter infect
+autonumber stop
+ [<- 1: chemistry welded
+autonumber resume
+else accepts pig
+0 --> 2: latent racket
+autonumber stop
+3 -> 2: ours genesis
+0 <-] : stubs product
+autonumber resume
+end
+@enduml

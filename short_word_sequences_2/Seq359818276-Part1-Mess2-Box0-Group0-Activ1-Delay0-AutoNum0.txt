@@ -1,0 +1,7 @@
+@startuml
+participant "promo tsunami" as 0
+== flay filtered ==
+0 -> 0: tracker managing
+0 --> 0++ : shrinkage cupcake
+return fill tragedies
+@enduml

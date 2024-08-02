@@ -1,0 +1,7 @@
+@startuml
+box "enthused wavy"
+participant "peas deodorant" as 0
+end box
+autonumber 2 9
+0 ->x 0: donate miraculously
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+|1| abigail logan
+|2| alchemy cannonball
+|2|
+:southbound terra; <<task>>
+|1|
+while (textiles iceberg?) is (worries barefoot)
+:tastes reactions; <<continuous>>
+-> quantities navigating;
+endwhile (oceans thesis)
+:chased melted;
+:examiner hay; <<input>>
+@enduml

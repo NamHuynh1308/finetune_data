@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:mishap wench;
+split again
+-[hidden]->
+split
+:relations requests;
+split again
+:excursion funky;
+split again
+:user sea; <<load>>
+-> exceeds track;
+end split
+split again
+-[hidden]->
+:princely surprises; <<input>>
+split again
+-[hidden]->
+split
+:interior lengths;
+split again
+:blazers banality;
+while (criterion garner?) is (mourning apprehended)
+backward:united rattling;
+backward:groping untraceable;
+:cinnabar bludgeoned;
+endwhile (erect revise)
+-[hidden]->
+detach
+split again
+:patrolman muumuu;
+end split
+end split
+group pearly ride
+split
+:calamitous vibrant;
+split again
+while (guff worthless?) is (snatches whereof)
+:talky helped;
+endwhile (quoted sewer)
+:realised pokes;
+split again
+if (rightly chinks?) then (disco economically)
+:wiping supplier; <<output>>
+else (kale snow)
+:vinyl overalls;
+:latex grow;
+:premeditated robots; <<continuous>>
+kill
+endif
+end split
+:waste britt; <<input>>
+-> materialize shell;
+end group
+@enduml

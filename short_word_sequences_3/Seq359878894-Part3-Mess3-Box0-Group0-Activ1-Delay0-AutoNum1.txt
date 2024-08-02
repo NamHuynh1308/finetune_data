@@ -1,0 +1,11 @@
+@startuml
+participant "crust multiple" as 0
+participant "omitted punks" as 1
+participant "tunic rapidly" as 2
+autonumber 1 1
+0 -> 1: leaflets penniless
+2 -> 0++ : radiator despising
+1 -\\ 2: scalping ally
+return elevator honor
+autonumber stop
+@enduml

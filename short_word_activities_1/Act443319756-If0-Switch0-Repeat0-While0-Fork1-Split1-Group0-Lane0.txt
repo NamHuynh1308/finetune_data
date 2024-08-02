@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:revolves spoke;
+split again
+-[hidden]->
+fork
+:anchoring burger;
+fork again
+:reactions waitressing;
+fork again
+:splat market;
+fork again
+:dullard identity;
+end merge
+split again
+-[hidden]->
+:hostage communism; <<output>>
+end split
+:furnished fiesta;
+-> predisposed anxiety;
+:decaying moody; <<output>>
+-> underestimating calling;
+end
+@enduml

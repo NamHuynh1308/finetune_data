@@ -1,0 +1,32 @@
+@startuml
+participant "excel prospector" as 0
+participant "insulation sandbox" as 1
+participant "frivolous forethought" as 2
+box "split clientele"
+participant "resource shakes" as 3
+box "anaphylactic obits"
+participant "scab technicalities" as 4
+end box
+end box
+autonumber 0 10
+4 --> 2: cubes morally
+autonumber stop
+...brutality innermost...
+3 -> 4: unanimous lowly
+0 ->o 0: whale honouring
+autonumber resume
+loop tab restoring
+2 -// 2: fey flop
+autonumber stop
+4 <-> 0: fatalities smell
+autonumber resume
+end
+2 <-] : trigonometry crunched
+3 -> 0: armies remainder
+opt sweetheart technician
+1 -> 1: phosphorous abound
+3 -->x 4: beds prejudicial
+autonumber stop
+else plutonium distribution
+end
+@enduml

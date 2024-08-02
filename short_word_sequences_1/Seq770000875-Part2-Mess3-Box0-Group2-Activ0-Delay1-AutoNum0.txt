@@ -1,0 +1,12 @@
+@startuml
+participant "landlords hydrate" as 0
+participant "recycles dreck" as 1
+0 -->x 0: backdoor pyramid
+critical sugar whittle
+1 <-] : ritz thrall
+alt people headband
+...butterflies prompt...
+1 --//o 0: tonnage dieting
+end
+end
+@enduml

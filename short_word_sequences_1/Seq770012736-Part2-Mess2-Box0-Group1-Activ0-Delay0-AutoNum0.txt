@@ -1,0 +1,8 @@
+@startuml
+participant "panics saltwater" as 0
+participant "calzones chases" as 1
+0 -> 1: missionaries forego
+break charley skivvies
+1 -> 0: petite enchantment
+end
+@enduml

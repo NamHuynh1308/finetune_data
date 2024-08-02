@@ -1,0 +1,71 @@
+@startuml
+|1| exporter resent
+|2| ironed transformed
+split
+-[hidden]->
+:foundation junction;
+split again
+-[hidden]->
+:cheese pees;
+-> donkeys rising;
+split again
+-[hidden]->
+:scrubs domicile; <<task>>
+-> heavily diver;
+split again
+-[hidden]->
+if (herald enthusiast?) then (compelled servitude)
+(freshening subconscious) elseif (wished fowl?) then (presto snout)
+:chicano wily;
+(lard bladders) elseif (prosecutors pox?) then (epidural luckily)
+:round raptor;
+(franc script) elseif (disguised blindfold?) then (fondle flapjacks)
+:tweak mel; <<output>>
+endif
+end split
+:notwithstanding lucky;
+|2|
+if (dreamy redecorating?) then (facility introductions)
+(twist put) elseif (administrators belly?) then (exhilarated horrified)
+:fosse driving; <<procedure>>
+-> punky announcer;
+(eddy golf) elseif (undertow limbo?) then (recipes turned)
+if (ammonia snarl?) then (subtitle portrays)
+(launcher disappointment) elseif (stalkers doing?) then (analyzed sixty)
+:consumers prosecutor; <<load>>
+(mallard anise) elseif (workaholic instructing?) then (flimsy neon)
+:distract sneezing;
+(rebuilt bind) elseif (billionaire needlessly?) then (tile similarities)
+:criminal recheck; <<task>>
+endif
+(popcorn appointing) elseif (someway nonstop?) then (milligrams spiked)
+:embraces tasting; <<output>>
+endif
+:parachute fed; <<task>>
+if (regroup steno?) then (idiots traction)
+:moot weeping; <<continuous>>
+:wilder blindfolded; <<load>>
+else (dicky mastermind)
+:definition privileges; <<save>>
+-> exaggerating descriptive;
+endif
+fork
+:tenement unforeseen;
+fork again
+fork
+:bankers touched;
+fork again
+:innocuous nursed;
+fork again
+:dissolves outfit;
+kill
+end merge
+fork again
+while (handgun crucial?) is (trident linebacker)
+backward:marveling peepers;
+backward:privacy philosopher;
+backward:midland bombarding;
+endwhile (pardoned doormat)
+:jiggly airline;
+end merge
+@enduml

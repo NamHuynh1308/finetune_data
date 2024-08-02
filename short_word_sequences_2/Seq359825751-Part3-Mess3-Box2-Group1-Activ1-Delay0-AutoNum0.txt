@@ -1,0 +1,15 @@
+@startuml
+box "graveyards macadamia"
+participant "takers scuba" as 0
+participant "banjo ground" as 1
+end box
+box "clue sensor"
+participant "hierarchy irrelevant" as 2
+end box
+1 --> 1: postponed kidnaps
+par few slaughtering
+1 -> 2!! : invention vegetative
+1 --> 0++ : revisit dared
+end
+return naive constraints
+@enduml

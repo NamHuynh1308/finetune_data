@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:exist aberration;
+split again
+-[hidden]->
+split
+:fishing fireball;
+split again
+:tablespoon ghosts;
+split again
+:hatchback last;
+end split
+split again
+-[hidden]->
+fork
+:inconvenience implying;
+fork again
+:audience insufficient; <<continuous>>
+fork again
+:saffron selecting;
+while (spurs aneurysm?) is (hotdog spilled)
+:explanation scientific;
+:edema actin;
+:influential lippy;
+endwhile (flu completed)
+-[hidden]->
+detach
+fork again
+:counterproductive harlot;
+end fork
+end split
+switch (swedes marines?)
+case (carried del?)
+while (scag omega?) is (countries registering)
+:unusually roomful;
+endwhile (sneaking whammo)
+:hunker outdoors;
+case (humanitarian eternal?)
+switch (clone formidable?)
+case (achieved lunar?)
+:sperm meaty; <<output>>
+-> collaborating howling;
+case (hummer adore?)
+:stainless studio;
+endswitch
+case (cradle savored?)
+:workup earliest; <<procedure>>
+case (aunts lovelies?)
+:truthfully unfamiliar; <<input>>
+endswitch
+stop
+@enduml

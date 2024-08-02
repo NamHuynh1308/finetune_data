@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:commandments outgrown;
+split again
+-[hidden]->
+:incrimination composite; <<continuous>>
+split again
+-[hidden]->
+split
+:probate candlelight;
+split again
+:gland betray;
+split again
+:perry weaken;
+end split
+split again
+-[hidden]->
+:ticker road;
+-> rowdy skepticism;
+end split
+group celebrity coaxing
+:spiritual sat; <<save>>
+stop
+end group
+@enduml

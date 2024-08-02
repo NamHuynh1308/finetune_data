@@ -1,0 +1,22 @@
+@startuml
+start
+repeat
+fork
+:stupidity began;
+fork again
+:whiff reopening; <<task>>
+fork again
+:dossier freelancer; <<continuous>>
+fork again
+:sleepwalking revolutionaries;
+end merge
+split
+:falsely cordless;
+split again
+:asthma requisitions;
+split again
+:treacherous discredit;
+end split
+repeat while (rescues operates?) is (whiteness gumption)
+-> hickory fashions;
+@enduml

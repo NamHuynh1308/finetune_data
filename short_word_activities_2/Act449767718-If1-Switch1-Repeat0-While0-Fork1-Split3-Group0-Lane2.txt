@@ -1,0 +1,63 @@
+@startuml
+|1| wish lassie
+|2| suitcases lukewarm
+split
+-[hidden]->
+:medusa motors;
+split again
+-[hidden]->
+:designation blender; <<continuous>>
+split again
+-[hidden]->
+if (flee glaze?) then (questionnaire undivided)
+(lets natural) elseif (oceans disheveled?) then (facetious equipment)
+:motions wavelength; <<load>>
+(yesterdays spoils) elseif (tone dents?) then (reviewed adoration)
+:recapture substance; <<save>>
+(spook gloss) elseif (roast paralyzed?) then (ardent veg)
+:kayak eyebrows;
+endif
+end split
+|2|
+:crowed compassion;
+|1|
+split
+:substantial tower;
+split again
+fork
+:officers honorary;
+fork again
+:wireless endless;
+fork again
+:mute legislate; <<save>>
+-> psychopath appraisal;
+end merge
+split again
+switch (reviews flyboy?)
+case (promotion racquet?)
+:fart percentile; <<save>>
+-> pints surprising;
+case (patriotic plated?)
+:rookie quoth; <<continuous>>
+-> stood perception;
+case (center endure?)
+:unpacking sage;
+endswitch
+split again
+:disappearing clarence;
+-> platelets automatic;
+end split
+|2|
+:demonstrations nag; <<output>>
+|1|
+split
+:turquoise murmur;
+split again
+:inbound biggie; <<continuous>>
+split again
+:recording binge; <<output>>
+split again
+:forgettable schnapps; <<procedure>>
+end split
+stop
+@enduml

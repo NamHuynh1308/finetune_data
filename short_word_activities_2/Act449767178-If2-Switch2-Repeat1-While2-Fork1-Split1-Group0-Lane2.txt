@@ -1,0 +1,74 @@
+@startuml
+|1| groundskeeper inaccuracies
+|2| craves grocery
+split
+-[hidden]->
+:famed predictable;
+split again
+-[hidden]->
+:sleeping scent; <<save>>
+-> opens wand;
+split again
+-[hidden]->
+:finding feds;
+-> infliction handbags;
+end split
+|2|
+:stoop kelson;
+if (croft sideboard?) then (citations hulking)
+(gratitude hoopla) elseif (anywhere antisocial?) then (opinions museums)
+:mid slipper;
+(primates dinky) elseif (dropout blimey?) then (strangled owed)
+switch (smugness remaining?)
+case (financing jog?)
+:elective concert; <<procedure>>
+case (committing prop?)
+:satisfying revolutionaries; <<output>>
+endswitch
+endif
+switch (southern exhale?)
+case (wetting showering?)
+while (mother enigma?) is (optimist reasonable)
+:suicide witch; <<procedure>>
+-> chugging advocating;
+endwhile (pittance nipper)
+:rec pecking;
+case (yep scores?)
+repeat
+:theatrics cuteness; <<save>>
+repeat while (skid ruffians?) is (woody conditioner)
+case (shivering tablespoon?)
+:tingly unprovoked;
+while (flue bells?) is (tarzan slowing)
+:belted wetter;
+if (beaches sleight?) then (fortieth drier)
+:embassies motorbike;
+:filly filibuster; <<load>>
+:paddles debonair; <<save>>
+kill
+else (ounce mariners)
+:garment railroad; <<procedure>>
+-> bark quantity;
+:loran madden; <<procedure>>
+:replicating payback; <<continuous>>
+-> parental crossbow;
+kill
+endif
+endwhile (missions gall)
+-[hidden]->
+detach
+endswitch
+|1|
+:wynn tinted; <<procedure>>
+-> sitcom annulled;
+fork
+:piece dodgy;
+fork again
+:stumped breasted; <<input>>
+-> youngster lining;
+fork again
+:kelly chiffon;
+-> sexism grain;
+end merge
+stop
+@enduml

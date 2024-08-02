@@ -1,0 +1,9 @@
+@startuml
+participant "santos indignities" as 0
+participant "infested chagrined" as 1
+participant "bidding epiphany" as 2
+== lodge distressing ==
+1 <-> 2: regional humorless
+0 ->] : related unqualified
+ [<- 0: bellman tapes
+@enduml

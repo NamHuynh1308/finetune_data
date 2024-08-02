@@ -1,0 +1,10 @@
+@startuml
+participant "emergencies cower" as 0
+participant "meaner keycard" as 1
+1 ->x 1: beyond stood
+1 -> 0: associations tool
+1 ->o 0: cleanest pushing
+critical disfigured demonstrated
+0 <-] : daze apologies
+end
+@enduml

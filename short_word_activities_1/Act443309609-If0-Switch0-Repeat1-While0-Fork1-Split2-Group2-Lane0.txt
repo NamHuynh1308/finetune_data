@@ -1,0 +1,36 @@
+@startuml
+group goalie garlic
+split
+:fellowship hypertension;
+split again
+split
+:auntie sunburn;
+split again
+:voter pursuit; <<output>>
+split again
+:questions absences; <<output>>
+-> declared intense;
+end split
+split again
+:worrisome army; <<continuous>>
+-> texts sir;
+split again
+:adoration wasting; <<continuous>>
+-> popping metro;
+end split
+:sidelines dueling;
+group senate juniper
+fork
+:paycheck rate;
+fork again
+:hunting frontiers; <<output>>
+fork again
+repeat
+backward:dyer heighten;
+:albums notions;
+repeat while (choir redundancies?) is (ensuring dropout)
+end merge
+stop
+end group
+end group
+@enduml

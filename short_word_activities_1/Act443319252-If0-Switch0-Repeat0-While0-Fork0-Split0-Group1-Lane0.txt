@@ -1,0 +1,8 @@
+@startuml
+start
+group olds amigos
+:duel meadow; <<input>>
+-> mentioning troll;
+stop
+end group
+@enduml

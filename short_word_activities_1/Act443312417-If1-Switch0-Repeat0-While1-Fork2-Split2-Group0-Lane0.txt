@@ -1,0 +1,49 @@
+@startuml
+if (admission mouthful?) then (gullible waterfront)
+fork
+:supernatural galore;
+fork again
+:riddles scented;
+fork again
+:chatter arrival; <<save>>
+fork again
+:hobbit pushed;
+end merge
+else (clouded sickly)
+:reservations crackling; <<task>>
+-> commonly elder;
+split
+:bidder giblets;
+split again
+:disagreement cur;
+split again
+:matrimony drools; <<input>>
+split again
+:capitalize wakes; <<input>>
+-> cornering safest;
+end split
+endif
+split
+:confiding gentleman;
+split again
+while (lifesaver intruders?) is (charades assigned)
+backward:implicating regarding;
+:turning momentum; <<task>>
+backward:accent meditate;
+endwhile (pearly forsake)
+:professionally rig;
+split again
+fork
+:belly fusion;
+fork again
+:negatives slew;
+fork again
+:don educating; <<save>>
+fork again
+:star tonight;
+end fork
+split again
+:awe exhilarating;
+end split
+stop
+@enduml

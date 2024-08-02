@@ -1,0 +1,9 @@
+@startuml
+participant "magazine sentence" as 0
+participant "programmer succeed" as 1
+== decorations crafting ==
+0 -->x 0++ : wrangler la
+0 <-] : maestro sentence
+ [-> 0: debutantes earmarked
+return collins wither
+@enduml

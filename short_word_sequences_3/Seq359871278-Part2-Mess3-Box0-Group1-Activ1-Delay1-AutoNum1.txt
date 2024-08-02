@@ -1,0 +1,14 @@
+@startuml
+participant "smarts frying" as 0
+participant "room quarantined" as 1
+== uglies softly ==
+autonumber 9 7
+0 ->> 1: striped adjutant
+0 -// 0++ : mailed freakish
+autonumber stop
+opt rescues desserts
+...solo ram...
+ [<- 1: giants thief
+end
+return retain spears
+@enduml

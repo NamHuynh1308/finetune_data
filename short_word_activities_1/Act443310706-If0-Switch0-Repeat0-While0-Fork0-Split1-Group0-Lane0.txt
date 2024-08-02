@@ -1,0 +1,14 @@
+@startuml
+split
+:dated refreshments;
+split again
+:roger cliffhanger; <<input>>
+-> further purgatory;
+split again
+:broomsticks pong; <<procedure>>
+-> politics plutonium;
+split again
+:dyeing troy;
+end split
+end
+@enduml

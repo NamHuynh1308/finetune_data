@@ -1,0 +1,57 @@
+@startuml
+|1| virginal postcard
+|2| condemnation egghead
+split
+-[hidden]->
+:businesses tonsil;
+split again
+-[hidden]->
+:limited malice; <<task>>
+-> hysteria contempt;
+split again
+-[hidden]->
+fork
+:calculations discrepancies;
+fork again
+:heaps metaphors; <<continuous>>
+fork again
+:septic bedside;
+fork again
+:rotting firehouse;
+end fork
+end split
+:allotted doubles; <<continuous>>
+fork
+:knife no;
+fork again
+repeat
+:meetings indicating;
+:psychopaths downer;
+:insulted raggedy;
+repeat while (hairline reverend?) is (libel epsilon)
+-> insulated eraser;
+fork again
+:skeptic intoxicating;
+end fork
+switch (understudy bedrock?)
+case (disinherited imagining?)
+:downgraded spades; <<input>>
+case (julep slinking?)
+:identifying ones; <<task>>
+-> coronation lovers;
+case (hustler froufrou?)
+fork
+:emotion maiden;
+fork again
+:contaminate wholesaler; <<task>>
+fork again
+:disciples denominators;
+fork again
+:drum complicated; <<load>>
+end merge
+case (begin pubescent?)
+repeat
+backward:disorienting mecca;
+repeat while (sophomore friendliest?) is (buggered bazaar)
+endswitch
+@enduml

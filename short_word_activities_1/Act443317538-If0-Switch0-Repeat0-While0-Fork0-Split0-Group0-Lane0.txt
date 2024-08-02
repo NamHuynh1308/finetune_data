@@ -1,0 +1,5 @@
+@startuml
+start
+:disguise anchoring; <<output>>
+end
+@enduml

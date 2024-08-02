@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:ship smoother;
+split again
+-[hidden]->
+if (frustrates backdrop?) then (peppermint hobby)
+(dos monopolizing) elseif (meals buzzer?) then (dirtiest bested)
+:distended maxi;
+(kicky treachery) elseif (decade shyness?) then (malfunctioning tortoise)
+:egghead desirable;
+(kale croupier) elseif (observer mainly?) then (concert ethic)
+:coldest restaurant; <<task>>
+(superficial headaches) elseif (duckling cut?) then (complains caretaker)
+:schoolwork seating; <<load>>
+endif
+split again
+-[hidden]->
+:malice indignities; <<procedure>>
+-> unable bow;
+end split
+if (canasta candidate?) then (sullen muskrat)
+while (sykes horsey?) is (interstellar bear)
+:awry moors;
+-> iambic delectable;
+:subpoenas paddy; <<input>>
+endwhile (jihad sketchy)
+:chapter mechanical;
+else (paella retreated)
+:filtration reckoned;
+-> altar excused;
+endif
+end
+@enduml

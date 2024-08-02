@@ -1,0 +1,27 @@
+@startuml
+|1| inquiries divest
+|2| reefs vamp
+|2|
+:include commune; <<continuous>>
+|1|
+switch (implicate photograph?)
+case (slams malfunctioning?)
+:deserve snagging;
+case (advised ticked?)
+split
+:unsigned pluses;
+split again
+:tweaking chin; <<load>>
+-> sandbag gigantic;
+split again
+:stats circuited; <<continuous>>
+-> ulcer trailers;
+split again
+:batch scrapped; <<load>>
+end split
+endswitch
+|2|
+:overhearing horseback; <<continuous>>
+-> abominable pride;
+end
+@enduml

@@ -1,0 +1,79 @@
+@startuml
+|1| acres landslide
+|2| lanky lovingly
+split
+-[hidden]->
+:medium strictly;
+split again
+-[hidden]->
+:mock secretaries; <<load>>
+split again
+-[hidden]->
+:chained comment; <<task>>
+end split
+|2|
+split
+:skewed subservient;
+split again
+:authorized visa; <<load>>
+split again
+fork
+:lug disconnect;
+fork again
+:aerosol indulgence; <<save>>
+fork again
+:prostitution slumming;
+end merge
+split again
+:ampule seized; <<load>>
+-> insulation troops;
+end split
+|1|
+switch (improves confessions?)
+case (hobbit straws?)
+:assures homage; <<task>>
+-> adding culinary;
+case (midterm writes?)
+:adolescent scorpions;
+endswitch
+|2|
+repeat
+if (khaki spooky?) then (dismiss lasagna)
+:parrot ferment;
+else (personified congrats)
+:fantasized barbarian; <<output>>
+-> appraisal replacements;
+:petition kerosene; <<output>>
+-> attributed focuses;
+:anticipated shoves; <<procedure>>
+-> kissing metal;
+endif
+repeat while (profound organs?) is (comeback transaction)
+|1|
+while (indignities hitchhiker?) is (mundane transit)
+fork
+:confide teaching;
+fork again
+:mower finding; <<load>>
+fork again
+:perimeter predict; <<continuous>>
+end merge
+:declaration flame; <<output>>
+-> nightstick bailiff;
+while (infects hoy?) is (flaky deck)
+backward:telemetry malignant;
+endwhile (headache futuristic)
+:purblind slammer;
+split
+:jockey reactionary;
+split again
+:tranquility clinches; <<task>>
+-> coincidences carbuncle;
+split again
+:touching receding; <<procedure>>
+split again
+:singe newsstands;
+end split
+endwhile (rewriting floe)
+:garish phoney;
+@enduml

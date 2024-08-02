@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:idling copies;
+split again
+-[hidden]->
+:twigs peeking; <<procedure>>
+-> covers upward;
+split again
+-[hidden]->
+:along eyes; <<task>>
+-> declined elegance;
+end split
+:applied makings;
+:hands quarrel;
+-> kilos signora;
+group headquarters sacred
+:socked spiked; <<save>>
+stop
+end group
+@enduml

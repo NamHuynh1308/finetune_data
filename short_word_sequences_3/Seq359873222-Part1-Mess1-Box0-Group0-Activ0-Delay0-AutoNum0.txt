@@ -1,0 +1,4 @@
+@startuml
+participant "abominable internally" as 0
+ [<- 0: statement warmth
+@enduml

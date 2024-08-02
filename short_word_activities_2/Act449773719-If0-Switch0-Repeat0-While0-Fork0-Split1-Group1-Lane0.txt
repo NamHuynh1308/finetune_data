@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:enterprising hags;
+split again
+-[hidden]->
+:proceed environment; <<save>>
+split again
+-[hidden]->
+:doe tends; <<continuous>>
+-> janitor geosynchronous;
+end split
+group shoe lewd
+:cartel idol; <<load>>
+stop
+end group
+@enduml

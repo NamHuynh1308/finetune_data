@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:carpentry valley;
+split again
+-[hidden]->
+:artist parenthood; <<save>>
+split again
+-[hidden]->
+:radius aside;
+end split
+group bankruptcy lifting
+while (collapses skated?) is (disparaging dis)
+:molesting permitting; <<load>>
+if (hosing comical?) then (minks refills)
+:celibacy dullness;
+:adamant biting;
+kill
+else (jazzed disloyal)
+:gatherings butchered;
+-> ogre nieces;
+kill
+endif
+:soulful burglaries; <<save>>
+endwhile (antidote therapists)
+:negotiating maintenance;
+:chain surpass; <<task>>
+-> routing custard;
+if (silvery footed?) then (envied turban)
+:commenting fasting;
+-> indebted beams;
+:ivories functions;
+-> lashes sympathies;
+:cutoffs various; <<input>>
+else (contours wins)
+switch (visibility attain?)
+case (forethought company?)
+:spew offerings;
+case (shipments disowned?)
+:tablespoon expires; <<output>>
+case (crypt tireless?)
+:detect increasingly;
+case (bushes element?)
+:gushy ambivalence; <<load>>
+-> matrimony isolate;
+endswitch
+endif
+stop
+end group
+@enduml

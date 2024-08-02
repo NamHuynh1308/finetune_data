@@ -1,0 +1,6 @@
+@startuml
+start
+:genetic moan; <<task>>
+:fever baboons; <<input>>
+end
+@enduml

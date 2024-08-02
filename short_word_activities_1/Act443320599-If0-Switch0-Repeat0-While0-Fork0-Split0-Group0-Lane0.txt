@@ -1,0 +1,6 @@
+@startuml
+start
+:elegant deliberate; <<input>>
+-> talkative set;
+stop
+@enduml

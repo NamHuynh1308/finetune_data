@@ -1,0 +1,12 @@
+@startuml
+participant "unmarried homo" as 0
+participant "producers labelled" as 1
+participant "renegade referenced" as 2
+== angle symbolic ==
+0 -\\ 2: vehicle halls
+2 --> 2: sensational lard
+0 -> 0: channeled shrieking
+...innocuous towels...
+1 -> 1: novelist igloo
+1 -> 0: ganja boorish
+@enduml

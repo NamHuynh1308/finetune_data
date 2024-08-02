@@ -1,0 +1,29 @@
+@startuml
+|1| mud roast
+|2| chickened ajar
+split
+-[hidden]->
+:bazaar fragrance;
+split again
+-[hidden]->
+:proceedings paths;
+split again
+-[hidden]->
+if (arches disarming?) then (premonition pachyderm)
+:residents begat; <<load>>
+-> treachery tan;
+:betrayer copacetic; <<continuous>>
+else (surrogate ferret)
+:natty goldfish;
+-> otherworldly intoxicating;
+endif
+end split
+:revise gravy;
+|2|
+:exerting cycle; <<task>>
+-> drowned enthusiast;
+|1|
+:include hotdogs; <<save>>
+-> commonplace artery;
+:consideration el; <<procedure>>
+@enduml

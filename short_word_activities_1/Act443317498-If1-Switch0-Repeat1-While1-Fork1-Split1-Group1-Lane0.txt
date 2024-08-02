@@ -1,0 +1,43 @@
+@startuml
+group decor gassed
+repeat
+backward:helm cast;
+fork
+:sandman foreigners;
+fork again
+:pleaser barkeep;
+fork again
+:promised bumbling; <<task>>
+-> nee grabs;
+fork again
+:sleepy prospect;
+end fork
+repeat while (yippee gonorrhea?) is (dissect detectors)
+split
+:putting babes;
+split again
+:boa scampered;
+split again
+if (tack fizz?) then (accordance estate)
+(frankfurter lizard) elseif (irresponsibility accordingly?) then (kindergartners slicer)
+:reading pit; <<task>>
+-> triplicate rehearsals;
+(shagged running) elseif (coupon jammies?) then (nudge treasure)
+:trickery nightingale;
+(clinically creak) elseif (devote infarction?) then (packet pensioners)
+:showstopper browse;
+-> pickles wrinkle;
+(squeegee yours) elseif (weaker back?) then (blowing toes)
+:bobbing twists;
+endif
+split again
+while (rangers sixties?) is (swearing conditioning)
+:moth approved;
+:motivations clods;
+:great mystified;
+endwhile (dynamite pah)
+:caters memo;
+end split
+end group
+end
+@enduml

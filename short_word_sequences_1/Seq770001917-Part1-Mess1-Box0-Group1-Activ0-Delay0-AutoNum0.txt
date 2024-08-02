@@ -1,0 +1,6 @@
+@startuml
+participant "roulette diaphragms" as 0
+par bravery lobbyist
+0 -// 0: hits carjacking
+end
+@enduml

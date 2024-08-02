@@ -1,0 +1,54 @@
+@startuml
+group dirt manipulator
+fork
+:bunt momentary;
+fork again
+:virtual hunks; <<input>>
+fork again
+if (marker flak?) then (slid trig)
+:suffered clang;
+:hurtling cruising; <<input>>
+kill
+else (jamboree posterior)
+:stimulation prepare; <<save>>
+-> resentful cued;
+while (crunches decorating?) is (misspelled arbitrator)
+:laughter toes; <<input>>
+:dysfunctional active; <<output>>
+endwhile (incubator willingness)
+-[hidden]->
+detach
+endif
+end fork
+if (stakes reelection?) then (locksmith chart)
+(hooded undergoing) elseif (swapping truss?) then (drainage florin)
+:zxzxoh;
+while (postcards linear?) is (passion proven)
+while (stings consecutive?) is (flunkies specializes)
+:decorate year;
+:cat metaphorically;
+-> displeasure norm;
+backward:awaken arraignment;
+endwhile (concierge alluring)
+:vocal perpetrators;
+if (suss retail?) then (morph navigate)
+:infidelity counsellor; <<continuous>>
+:easily shortness;
+else (object frightening)
+:namely assuredly; <<task>>
+-> uninspired skillful;
+:pleads heaps; <<output>>
+-> detract helping;
+:racked diuretic; <<load>>
+endif
+backward:nudie alarmed;
+:magnolia darned; <<output>>
+endwhile (breaking blast)
+-[hidden]->
+detach
+(wrongfully uncharacteristic) elseif (severed allotted?) then (everybody moneys)
+:wosqxo;
+endif
+end group
+end
+@enduml

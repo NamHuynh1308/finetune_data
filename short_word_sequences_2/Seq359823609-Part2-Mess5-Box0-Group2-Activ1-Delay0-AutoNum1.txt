@@ -1,0 +1,15 @@
+@startuml
+participant "musical membrane" as 0
+participant "victorious munchkins" as 1
+autonumber 6 9
+par brewery thrift
+1 <-] : figuratively drone
+ [<- 1: ratting meningitis
+ [<- 0: fenders colic
+par stickup pumps
+1 -->x 0: plague piano
+1 --//o 0++ : vocabulary soaps
+end
+end
+return eighties applause
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+fork
+:hepatitis approaching;
+fork again
+:increments regime; <<input>>
+fork again
+:transition hanks; <<save>>
+end merge
+stop
+@enduml

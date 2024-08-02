@@ -1,0 +1,18 @@
+@startuml
+start
+fork
+:worshiped geishas;
+fork again
+:requiem eastbound; <<continuous>>
+fork again
+:powerful grind; <<input>>
+fork again
+split
+:victories admission;
+split again
+:procured outlive;
+split again
+:airhead edits;
+end split
+end fork
+@enduml

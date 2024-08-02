@@ -1,0 +1,21 @@
+@startuml
+fork
+:commercially ushers;
+fork again
+:nah entree; <<load>>
+fork again
+:instruments unfulfilled; <<output>>
+fork again
+split
+:busts bothering;
+split again
+:middies talentless; <<continuous>>
+split again
+:yea gong;
+split again
+:metropolitan galore; <<output>>
+-> unwashed inconsiderate;
+end split
+end fork
+stop
+@enduml

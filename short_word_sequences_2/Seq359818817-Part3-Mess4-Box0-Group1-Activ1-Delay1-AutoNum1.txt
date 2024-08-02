@@ -1,0 +1,17 @@
+@startuml
+participant "noh advertisement" as 0
+participant "scary crook" as 1
+== offender horrified ==
+autonumber 10 10
+1 -> 0: alma snagged
+autonumber stop
+opt useless comebacks
+create participant "spouting fuckup" as 2
+1 -> 2 : spouting fuckup
+1 -> 1: edits novel
+...simple fresher...
+0 -> 2++ : cuter drafting
+autonumber resume
+end
+return sidewalks wooing
+@enduml

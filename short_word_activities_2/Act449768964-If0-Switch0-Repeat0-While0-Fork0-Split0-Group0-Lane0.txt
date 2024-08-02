@@ -1,0 +1,6 @@
+@startuml
+start
+:computer mano; <<task>>
+-> thrash tuxedo;
+stop
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+:reamed appetites; <<input>>
+group hitting firecrackers
+split
+:mathematics channel;
+split again
+:six kingdoms; <<task>>
+-> bitch recitation;
+split again
+:core celebration; <<load>>
+split again
+:angry contemporary; <<task>>
+end split
+stop
+end group
+@enduml

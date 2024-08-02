@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:thistle maggots;
+split again
+-[hidden]->
+:provolone hostel; <<save>>
+-> wagons hooch;
+split again
+-[hidden]->
+:spawn shiver; <<load>>
+split again
+-[hidden]->
+:brews emissions;
+end split
+group concur sap
+while (uncle frizzy?) is (postmark barge)
+:ashtrays ahoy; <<task>>
+-> dawdling waging;
+endwhile (dormant activation)
+:clinging hurst;
+:bigotry motors;
+stop
+end group
+@enduml

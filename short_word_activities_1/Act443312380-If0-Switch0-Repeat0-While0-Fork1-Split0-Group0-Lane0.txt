@@ -1,0 +1,14 @@
+@startuml
+start
+:rooted numbers; <<continuous>>
+-> fake overachiever;
+fork
+:hunter arrests;
+fork again
+:staking civilisation; <<continuous>>
+-> blooming remarkable;
+fork again
+:inflame eyelids; <<procedure>>
+end fork
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+switch (allowed widowed?)
+case (atom stigmata?)
+:prednisone unclench; <<load>>
+-> reclaim speechless;
+case (bouncing zero?)
+:earwig curing;
+kill
+endswitch
+end
+@enduml

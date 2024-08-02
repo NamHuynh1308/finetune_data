@@ -1,0 +1,40 @@
+@startuml
+|1| mark limousine
+|2| pane precautionary
+split
+-[hidden]->
+:inherited telethon;
+split again
+-[hidden]->
+:signals fighters;
+split again
+-[hidden]->
+:channels doe; <<procedure>>
+-> width upsetting;
+split again
+-[hidden]->
+switch (jitters clean?)
+case (aversion blarney?)
+:doodle cockroach; <<output>>
+-> cranks masquerade;
+case (drawstring solves?)
+:surgeons nudist; <<continuous>>
+case (glamour intoxicated?)
+:tailed lowlife; <<task>>
+case (landmarks pope?)
+:bozo viewpoint; <<save>>
+-> progressed heartsick;
+endswitch
+end split
+|2|
+:recess strenuously; <<continuous>>
+|1|
+switch (descent ray?)
+case (backs rob?)
+:handstand pegged;
+kill
+case (panicking fundraisers?)
+:requisitions enact; <<procedure>>
+endswitch
+:swans multiplication;
+@enduml

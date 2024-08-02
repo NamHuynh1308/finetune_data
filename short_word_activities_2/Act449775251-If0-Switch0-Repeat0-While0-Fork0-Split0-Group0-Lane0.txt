@@ -1,0 +1,6 @@
+@startuml
+start
+:crayons skies; <<procedure>>
+-> forgets nominal;
+stop
+@enduml

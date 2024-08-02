@@ -1,0 +1,16 @@
+@startuml
+box "teleportation haunted"
+participant "slings delivered" as 0
+participant "minuses daddies" as 1
+end box
+== ashtrays make ==
+1 --//o 1++ : fluid hooray
+1 -// 1: moth popped
+return premeditated unseemly
+par jaws icky
+create participant "weaver branching" as 2
+1 -> 2 : weaver branching
+1 -->x 2++ : benevolent slowly
+end
+return goat expression
+@enduml

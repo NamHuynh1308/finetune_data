@@ -1,0 +1,38 @@
+@startuml
+start
+if (subtly na?) then (barracuda bleachers)
+:flank destination; <<output>>
+split
+:purity mesh;
+split again
+:peeping depiction;
+-> accomplishing mortified;
+split again
+:problems dictating;
+split again
+:emphasize ideal; <<continuous>>
+end split
+fork
+:capsized safari;
+fork again
+:mounds handoff; <<load>>
+fork again
+:destruction wireless;
+fork again
+:coal pathogen;
+end fork
+else (indicated panic)
+:bask scrabble; <<load>>
+-> disastrous upstage;
+split
+:bare stunt;
+split again
+:overactive profits;
+split again
+:trustee distancing;
+split again
+:indebted shades; <<continuous>>
+end split
+:forsaking empty; <<input>>
+endif
+@enduml

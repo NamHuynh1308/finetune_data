@@ -1,0 +1,19 @@
+@startuml
+participant "strangling wright" as 0
+participant "gazelle ambulance" as 1
+box "irritable punchy"
+participant "ironically garage" as 2
+participant "silver skag" as 3
+end box
+autonumber 6 4
+ [-> 1: hills chapter
+critical endear charter
+2 -> 1: laundered weensy
+0 <-] : weep burned
+ [<- 0: anarchy crafty
+else beaten exaggerate
+alt systematically standardized
+1 ->o 1: caste abortions
+end
+end
+@enduml

@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:legalizing hitters;
+split again
+-[hidden]->
+:tile win; <<output>>
+-> assist ideology;
+split again
+-[hidden]->
+:ion greener; <<continuous>>
+split again
+-[hidden]->
+fork
+:singer sensor;
+fork again
+:rise accept; <<output>>
+fork again
+:customer nixed;
+fork again
+:unclear hotheaded; <<continuous>>
+end merge
+end split
+repeat
+backward:seminars toby;
+if (belongs overdo?) then (comma incredible)
+(immodest vested) elseif (manufacturing yodel?) then (requires engaging)
+:agreeing shoulders;
+(binding transported) elseif (successfully dweeb?) then (dullness flops)
+:leaps lately;
+(relocation barely) elseif (squiggle atrium?) then (chums draft)
+:mobility steed; <<load>>
+-> handling exaggerating;
+endif
+repeat while (commitment ambrosia?) is (falafel straightened)
+-> pitchers lawful;
+@enduml

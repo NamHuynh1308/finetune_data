@@ -1,0 +1,15 @@
+@startuml
+participant "initiatives snit" as 0
+participant "omega freelancing" as 1
+participant "dreading piercing" as 2
+participant "nepotism alphabetically" as 3
+autonumber 4 4
+1 ->] : crucified preference
+3 -> 0++ : pyrotechnics wave
+alt civic squiggly
+ [-> 1: keeled penetrate
+return newsstand proudest
+1 --> 1++ : tragic overreacting
+end
+return upward exhibiting
+@enduml

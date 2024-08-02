@@ -1,0 +1,50 @@
+@startuml
+group humanoid nicely
+if (assessment eternity?) then (seated enjoyment)
+(ushers bronzed) elseif (thermos cuppa?) then (ambiguity trim)
+:bayberry walker;
+-> dinners haunted;
+(appointment whit) elseif (shrimp kissable?) then (disinformation tau)
+switch (ridiculed cup?)
+case (whammo housed?)
+:winter cyprus;
+kill
+case (syndicated developing?)
+:credits standish;
+-> flog liberated;
+case (tags cannons?)
+:holding weights;
+endswitch
+(double exits) elseif (mopes bathrobe?) then (repository captivating)
+switch (probably grits?)
+case (smooth late?)
+:tsunami interning; <<procedure>>
+case (geishas lifeline?)
+:interrupt retrofit;
+case (poop businesses?)
+:professionalism largest;
+endswitch
+(convertibles lurk) elseif (residing retribution?) then (steamroll confetti)
+:yelled recapture; <<continuous>>
+-> archenemy splat;
+endif
+fork
+:emit strap;
+fork again
+fork
+:wait objectivity;
+fork again
+:tacked babysitter;
+fork again
+:video hotter;
+kill
+end merge
+fork again
+:hercules whee; <<save>>
+-> traumatized parka;
+fork again
+:spirits versus; <<procedure>>
+end merge
+end group
+stop
+@enduml

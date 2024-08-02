@@ -1,0 +1,5 @@
+@startuml
+start
+:doggie stodgy; <<procedure>>
+-> stereo accidents;
+@enduml

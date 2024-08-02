@@ -1,0 +1,5 @@
+@startuml
+participant "paddock nothings" as 0
+== vulnerable trip ==
+0 ->x 0: invaded savages
+@enduml

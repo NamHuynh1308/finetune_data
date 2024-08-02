@@ -1,0 +1,14 @@
+@startuml
+participant "strikes alexander" as 0
+participant "therapeutic bop" as 1
+participant "possible incarcerate" as 2
+== debriefing grew ==
+autonumber 8 9
+create participant "caterers meddling" as 3
+0 -> 3 : caterers meddling
+2 -// 3: suburb harassment
+0 -> 1: rumpus chariot
+autonumber stop
+1 -> 3: chino bunches
+ [-> 0: medicare gouging
+@enduml

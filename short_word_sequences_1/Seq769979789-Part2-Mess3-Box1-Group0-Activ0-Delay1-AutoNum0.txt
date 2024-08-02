@@ -1,0 +1,10 @@
+@startuml
+box "combusted triggered"
+participant "improvising nicely" as 0
+end box
+create participant "dam considers" as 1
+0 -> 1 : dam considers
+0 <-] : tequila cheapest
+...editorials grows...
+0 ->x 1: postmaster shuck
+@enduml

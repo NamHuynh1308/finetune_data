@@ -1,0 +1,30 @@
+@startuml
+participant "checking passages" as 0
+participant "melting looney" as 1
+participant "suspected fruits" as 2
+box "voltage monopoly"
+participant "tombs will" as 3
+box "eccentric madder"
+participant "experienced golfers" as 4
+end box
+end box
+== collect coughing ==
+par spineless soapbox
+0 -> 3!! : loved ballplayers
+opt meteorite achieved
+2 <-] : sedan attended
+...censure clearance...
+0 --//o 3: house tummy
+else moly courtyard
+0 <-> 4: cavalry steamroller
+end
+opt yards heavyweight
+1 -\\ 3++ : admiration forming
+loop bios gawk
+1 -> 3: missy natty
+return unpleasant ante
+ [<- 4: vivid floral
+end
+end
+end
+@enduml

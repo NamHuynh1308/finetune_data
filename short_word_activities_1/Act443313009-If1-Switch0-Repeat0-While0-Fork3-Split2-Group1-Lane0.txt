@@ -1,0 +1,58 @@
+@startuml
+split
+-[hidden]->
+:poltergeists stigmata;
+split again
+-[hidden]->
+:margaritas armies; <<save>>
+split again
+-[hidden]->
+fork
+:doom kingdom;
+fork again
+:yearnings arrangement; <<load>>
+-> breasted seduce;
+fork again
+:prohibits accommodate;
+end merge
+split again
+-[hidden]->
+split
+:engrossing maroon;
+split again
+:drilling fertile;
+split again
+:placid squire;
+end split
+end split
+:grubs timbre; <<output>>
+group ivories remorse
+fork
+:bowler true;
+fork again
+:answer enamel;
+fork again
+fork
+:stowaways sperm;
+fork again
+:cellulite abundantly; <<save>>
+-> frankfurter act;
+fork again
+:vanishing gloat; <<task>>
+-> pathologically invading;
+fork again
+:ambivalent lam;
+end fork
+fork again
+if (snow pedigree?) then (epsilon cod)
+(piffle plant) elseif (observe laboratories?) then (retort escapade)
+:bracelet pork; <<load>>
+-> exorcise consideration;
+(advancement frankly) elseif (lever seized?) then (confidences sharpening)
+:slapping apology;
+-> finishing circuit;
+endif
+end fork
+stop
+end group
+@enduml

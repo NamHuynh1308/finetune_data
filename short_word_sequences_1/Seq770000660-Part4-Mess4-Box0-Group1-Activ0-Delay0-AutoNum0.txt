@@ -1,0 +1,14 @@
+@startuml
+participant "afterwards whodunit" as 0
+participant "innocents monitoring" as 1
+participant "booklets handshake" as 2
+== strategy scoreboard ==
+create participant "core inadequate" as 3
+2 -> 3 : core inadequate
+critical silences imports
+0 --> 1: spool debate
+2 --//o 2: misconstrued spelled
+0 ->> 2: ether concessions
+else snappy crack
+end
+@enduml

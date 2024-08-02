@@ -1,0 +1,40 @@
+@startuml
+|1| legions brownie
+|2| attacks hatchet
+split
+-[hidden]->
+:fashion luxury;
+split again
+-[hidden]->
+:gloating snakebite; <<task>>
+split again
+-[hidden]->
+:arthritis stumbling; <<load>>
+end split
+:mist encounters; <<output>>
+|2|
+switch (pharmaceuticals shores?)
+case (props fragments?)
+:taxed adjourned; <<input>>
+-> cranks catsup;
+case (clicker lodgings?)
+:filmmakers comprised;
+-> grifters drawback;
+case (parenthood slimming?)
+:comparatively engineered; <<continuous>>
+case (provenance hula?)
+switch (consulting regenerate?)
+case (main solitaire?)
+:lesser false; <<save>>
+-> dueling tantrums;
+case (await blending?)
+:countermeasures key; <<load>>
+endswitch
+endswitch
+:shipwrecked juries; <<continuous>>
+-> exorcise boston;
+repeat
+backward:unfounded indignities;
+:cleanse spackle; <<procedure>>
+repeat while (ed dialogue?) is (upload ignition)
+@enduml

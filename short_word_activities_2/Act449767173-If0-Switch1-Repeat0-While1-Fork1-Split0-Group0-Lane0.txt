@@ -1,0 +1,24 @@
+@startuml
+fork
+:evicted immortal;
+fork again
+:tray hasten; <<output>>
+-> jets puritan;
+fork again
+:insuring fleeting; <<input>>
+fork again
+switch (senators elitist?)
+case (sadist decontamination?)
+:procrastinate deemed;
+while (glover spooked?) is (best canal)
+:stallion lieutenant;
+endwhile (trolls crawl)
+-[hidden]->
+detach
+case (commendation draped?)
+:curl gravest;
+-> dying impounded;
+endswitch
+end fork
+end
+@enduml

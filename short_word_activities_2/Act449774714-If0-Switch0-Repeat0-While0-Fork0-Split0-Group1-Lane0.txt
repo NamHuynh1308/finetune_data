@@ -1,0 +1,7 @@
+@startuml
+start
+group cook bop
+:postpone awakened; <<continuous>>
+stop
+end group
+@enduml

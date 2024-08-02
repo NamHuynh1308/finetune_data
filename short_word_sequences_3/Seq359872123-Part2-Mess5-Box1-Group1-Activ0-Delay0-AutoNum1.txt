@@ -1,0 +1,17 @@
+@startuml
+participant "treatments depicted" as 0
+box "sitcoms crook"
+participant "virgins priesthood" as 1
+end box
+autonumber 10 0
+0 ->] : cynic retiring
+autonumber stop
+1 ->] : courts worship
+autonumber resume
+1 <-] : occupy incident
+alt cats crikey
+ [-> 1: tired shaven
+ [-> 0: spices malfunctions
+autonumber stop
+end
+@enduml

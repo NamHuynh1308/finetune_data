@@ -1,0 +1,10 @@
+@startuml
+participant "caliber action" as 0
+autonumber 6 7
+0 -> 0: figured flatters
+0 --> 0: knotted stonewalled
+alt resorted extracting
+create participant "rollers dispensation" as 1
+0 -> 1 : rollers dispensation
+end
+@enduml

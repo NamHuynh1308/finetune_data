@@ -1,0 +1,6 @@
+@startuml
+participant "discomfort catalog" as 0
+== northwestern goat ==
+0 ->o 0++ : destroying subscriptions
+return buffalo laird
+@enduml

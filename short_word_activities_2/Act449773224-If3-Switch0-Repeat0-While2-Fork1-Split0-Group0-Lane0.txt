@@ -1,0 +1,54 @@
+@startuml
+start
+if (mistress casserole?) then (void involved)
+:retrieved whipper; <<output>>
+-> envious fragrance;
+if (wishing takeoff?) then (courtrooms pianos)
+:fiddling spencer;
+:thunder marketing; <<task>>
+-> preside pleasing;
+:impossibility buttoned; <<load>>
+-> belvedere stocking;
+else (spending whopping)
+:lordship cannibals;
+-> exaggerate fiendish;
+:jacking charmingly;
+while (bolts bucko?) is (specialize continuously)
+:merciful fondle;
+backward:manual scuff;
+:inherited pollute;
+endwhile (vivacious highlands)
+-[hidden]->
+detach
+endif
+kill
+else (graphics annihilation)
+if (obsolete divert?) then (poisoned projectile)
+:exonerate sensed; <<load>>
+:anorexic dicey;
+kill
+else (spiel operations)
+:auxiliary raved;
+:circuit paralyze; <<output>>
+:insomnia hurrying;
+while (opal sized?) is (meadows viva)
+backward:gleam lab;
+endwhile (jelly dwarfs)
+-[hidden]->
+detach
+endif
+endif
+fork
+:scrapings rowdy;
+fork again
+:papayas turquoise; <<task>>
+-> environmental coddling;
+fork again
+:snook hangover; <<input>>
+-> tired clockwork;
+fork again
+:groped fibrosis; <<task>>
+-> flaw permissible;
+end merge
+:raped gum; <<save>>
+@enduml

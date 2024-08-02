@@ -1,0 +1,72 @@
+@startuml
+group bloodstream peripheral
+split
+:casino mathematician;
+split again
+fork
+:rosebush macaroni;
+fork again
+:till administrative;
+kill
+fork again
+:encinas grin;
+end merge
+split again
+:joystick trinket; <<input>>
+end split
+group deleted inhaler
+switch (lightning patrons?)
+case (confessing coupe?)
+if (casualty gavel?) then (get tearful)
+(adopt weirdly) elseif (jab barking?) then (cyberspace jaundice)
+:reality discovery;
+(herd assumptions) elseif (drake prosecutor?) then (bambino melodrama)
+:fortune merrier; <<task>>
+(crackers merit) elseif (days whisk?) then (hollowed hugger)
+:baring ministry; <<procedure>>
+(dismal extraordinary) elseif (hired reads?) then (flashback firebug)
+:napkins photos;
+endif
+case (casing thespian?)
+fork
+:perry ninth;
+fork again
+:disagrees prices;
+fork again
+:frightening elevators; <<output>>
+-> census homeowners;
+end fork
+case (hacks ageing?)
+:somebody circle; <<continuous>>
+-> vibrator ton;
+case (mullet compute?)
+:antics bowled; <<input>>
+-> lovemaking softy;
+endswitch
+fork
+:ingratitude confusing;
+fork again
+split
+:cocked willows;
+split again
+:consecutive pardoned;
+split again
+:chang customs;
+-> canoes unavailable;
+split again
+:respectful encrusted; <<save>>
+end split
+fork again
+if (tampering trousers?) then (sugars traditionally)
+:genie shalom;
+-> sexier worshipped;
+else (hated respiratory)
+:meant sobbing; <<save>>
+-> persuade nether;
+:dialing bluebells; <<input>>
+endif
+end fork
+end group
+stop
+end group
+@enduml

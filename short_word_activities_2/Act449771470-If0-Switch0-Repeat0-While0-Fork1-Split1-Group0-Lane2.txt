@@ -1,0 +1,21 @@
+@startuml
+|1| composure nite
+|2| ward profess
+:gramps poets; <<task>>
+split
+:hobble columns;
+split again
+fork
+:faithless carved;
+fork again
+:rookie reunions;
+fork again
+:actors arrogant; <<task>>
+end fork
+split again
+:brightly kickbacks; <<procedure>>
+-> polite purchases;
+end split
+:lapdog singleton; <<input>>
+-> couriers catch;
+@enduml

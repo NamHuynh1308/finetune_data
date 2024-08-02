@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:commissioners timers;
+split again
+-[hidden]->
+switch (underdog turbo?)
+case (waiting sequences?)
+:verge modem;
+case (montage comrades?)
+:rye drinking;
+kill
+case (schizophrenia securing?)
+:prudes variations;
+-> banished fan;
+endswitch
+split again
+-[hidden]->
+:beads sandbag; <<save>>
+-> expects broomsticks;
+split again
+-[hidden]->
+:clucking earrings; <<procedure>>
+end split
+fork
+:awaken tale;
+fork again
+if (bonds errands?) then (joiner negligee)
+(shredder panels) elseif (plateau polarity?) then (jumbled edema)
+:bayonet raved;
+(barb milk) elseif (scents mimes?) then (ballplayer auger)
+:ministry unpredictable;
+(buds paternity) elseif (spoons whoever?) then (hell lucrative)
+:starter promo;
+(tomb ramrod) elseif (barlow decided?) then (hiccups infantile)
+:disingenuous ceremonial;
+-> baroness gringo;
+endif
+fork again
+:disgust tragic;
+fork again
+split
+:coiled disrupted;
+split again
+:nothing weapons; <<continuous>>
+-> warlocks disoriented;
+split again
+:plead servicing;
+-> superstars circumstances;
+split again
+:bathrobes boulder;
+kill
+end split
+end fork
+stop
+@enduml

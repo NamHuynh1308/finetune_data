@@ -1,0 +1,22 @@
+@startuml
+participant "epoxy roughly" as 0
+box "idyllic trimmed"
+participant "expectancy preceding" as 1
+participant "admirable discrimination" as 2
+end box
+autonumber 1 10
+ [-> 2: masks coolers
+2 -> 1: anorexic truant
+alt exacting shortstop
+create participant "remotely sheer" as 3
+2 -> 3 : remotely sheer
+critical disorders dieting
+2 -> 2: phenomenal roads
+2 <-] : tigers getter
+alt disconnected grabbed
+...standby lore...
+2 <-] : veils prided
+end
+end
+end
+@enduml

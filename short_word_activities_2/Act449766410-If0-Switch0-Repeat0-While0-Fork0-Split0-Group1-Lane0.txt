@@ -1,0 +1,7 @@
+@startuml
+group assaulting wreaking
+:scarecrow presume; <<task>>
+-> irrelevant material;
+stop
+end group
+@enduml

@@ -1,0 +1,57 @@
+@startuml
+|1| practical posse
+|2| news weeds
+split
+-[hidden]->
+:astronomy winding;
+split again
+-[hidden]->
+if (mobs optometrist?) then (rings confided)
+(lid bulldozers) elseif (worrying amongst?) then (dykes beards)
+:hypnosis figment; <<input>>
+-> breach worrying;
+(narrowly scow) elseif (dol accolades?) then (homey prints)
+:pitcher cylinders;
+(brute realty) elseif (exporting assailant?) then (instigator swede)
+:alto groaning;
+(chapters argue) elseif (adjustable dyed?) then (savor dressings)
+:stockings targeted; <<output>>
+endif
+split again
+-[hidden]->
+:philosophical realm; <<task>>
+end split
+|2|
+switch (saddened lust?)
+case (tortoise near?)
+:laboratories hairdressers;
+-> extracts warrants;
+case (bachelorette overreacting?)
+:targets jockstrap; <<input>>
+endswitch
+|1|
+split
+:slinky ruthlessly;
+split again
+while (attitudes massacred?) is (planetary reverence)
+:dope waterproof;
+:waterbed contraction;
+backward:meddlesome flags;
+backward:overlooking hanks;
+endwhile (poultry thunderbolt)
+:pomegranate capable;
+split again
+if (captain yom?) then (stubs interrogated)
+:baklava exits;
+:hotdog vandals; <<task>>
+-> glycerin exertion;
+else (soft dozer)
+:spaceship cowgirl;
+endif
+end split
+:circuited striptease; <<task>>
+-> dunking gaslight;
+|2|
+:luminous loveable; <<output>>
+end
+@enduml

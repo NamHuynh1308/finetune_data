@@ -1,0 +1,22 @@
+@startuml
+participant "bays souffle" as 0
+participant "settlement teaming" as 1
+participant "parlour growing" as 2
+participant "craftsmanship gusto" as 3
+box "milking slithered"
+participant "boogie listener" as 4
+end box
+loop encinas foundation
+0 -> 2: lowlife plantations
+...export skeletal...
+3 -> 1: unfamiliar lis
+alt grants authorization
+1 ->x 4: stuttering ye
+critical broomstick thoughtfully
+1 <-] : combative jag
+ [<- 2: take environment
+else misdemeanors powerful
+end
+end
+end
+@enduml

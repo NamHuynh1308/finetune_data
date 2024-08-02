@@ -1,0 +1,20 @@
+@startuml
+participant "overanxious huzzah" as 0
+participant "disappearing earphones" as 1
+participant "mocking lament" as 2
+participant "boar del" as 3
+participant "persuasive physics" as 4
+1 ->o 0: lords liter
+2 -> 3: gyms refused
+ [-> 4: waiting booger
+0 -> 1++ : pottery league
+par yell realize
+0 ->> 4: suggests process
+alt calmly mouthing
+2 -> 1: quiz arithmetic
+...unduly launched...
+0 <-> 3: habit dissuade
+return reunite repairs
+end
+end
+@enduml

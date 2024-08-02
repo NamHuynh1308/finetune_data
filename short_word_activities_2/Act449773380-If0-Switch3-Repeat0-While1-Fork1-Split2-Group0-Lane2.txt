@@ -1,0 +1,70 @@
+@startuml
+|1| agonizing recitation
+|2| travelers retire
+split
+-[hidden]->
+:flog biographies;
+split again
+-[hidden]->
+:poker pleaded;
+-> tarnished spate;
+split again
+-[hidden]->
+switch (musicians lynch?)
+case (doctor disprove?)
+:frightens heart;
+case (melt knack?)
+:debriefing tularemia; <<continuous>>
+case (legally poetry?)
+:auctioning conveyor;
+-> minor fought;
+case (enhances glance?)
+:translate educating;
+endswitch
+split again
+-[hidden]->
+while (louse sturdy?) is (relocate fucked)
+:grip rockers;
+backward:exterior loner;
+backward:driftwood mowers;
+endwhile (reprimand advertising)
+:impassioned incapacitated;
+end split
+switch (detract amendment?)
+case (tomcat designation?)
+:obstinate nightmares; <<continuous>>
+case (collect foursome?)
+:stereo mangled;
+-> suburbs hour;
+case (ugliness superheroes?)
+:disposal fawning; <<continuous>>
+-> friendships icky;
+endswitch
+split
+:abandoning fretting;
+split again
+:hosted balanced; <<save>>
+split again
+:armed upstanding; <<input>>
+split again
+:labour supper; <<input>>
+end split
+|2|
+:sunblock spread;
+switch (probes benches?)
+case (people fucks?)
+:undertow diverted; <<input>>
+case (definite governments?)
+:breakthroughs microchips; <<input>>
+case (cylinders amiss?)
+fork
+:religious cleans;
+fork again
+:biochemistry knew; <<input>>
+fork again
+:grandmother straps; <<procedure>>
+fork again
+:insistent moonbeams;
+end merge
+endswitch
+@enduml

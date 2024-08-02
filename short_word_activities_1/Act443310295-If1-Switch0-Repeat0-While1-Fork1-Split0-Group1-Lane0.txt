@@ -1,0 +1,31 @@
+@startuml
+start
+:insights pools; <<task>>
+group dangling busting
+:prefers orphans; <<load>>
+fork
+:sicker bidding;
+fork again
+:scones throws; <<input>>
+fork again
+if (eventuality burst?) then (phantoms opinions)
+(jerries mariner) elseif (lubrication pour?) then (headaches swatches)
+:future canines; <<procedure>>
+(sync sen) elseif (edge gal?) then (cots greatly)
+:hddvcp;
+while (signs lovemaking?) is (fabulous himself)
+:significance urging;
+:beaten canary;
+backward:misheard outdid;
+endwhile (coroner unicycle)
+-[hidden]->
+detach
+(bumming drawings) elseif (eyeful mano?) then (unlawful vulgar)
+:beefed brains;
+(rounding malevolent) elseif (holt carvel?) then (automaton schooling)
+:feudal shutters;
+endif
+end merge
+end group
+stop
+@enduml

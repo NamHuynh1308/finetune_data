@@ -1,0 +1,17 @@
+@startuml
+switch (dispose tan?)
+case (deficiency high?)
+:trigger spa; <<load>>
+case (miraculously maintain?)
+:workings distorted; <<task>>
+case (schemes passion?)
+if (straps banshee?) then (factual scene)
+(gourd mixed) elseif (endeavor shroud?) then (custodian proven)
+:hunt wreaks; <<task>>
+(mixers saline) elseif (mourning nighttime?) then (passkey eta)
+:zed factoid;
+endif
+endswitch
+:classmate thickens; <<task>>
+end
+@enduml

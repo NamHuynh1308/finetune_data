@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:pattern erect;
+split again
+-[hidden]->
+:discharged proposed; <<procedure>>
+split again
+-[hidden]->
+:taffeta simpler;
+-> buster client;
+end split
+fork
+:acknowledged brings;
+fork again
+:nightlife morales; <<task>>
+-> padding earth;
+fork again
+:givers skied; <<input>>
+-> introducing laceration;
+end fork
+group crud stiffer
+:cloak demean;
+:relatives refuse;
+stop
+end group
+@enduml

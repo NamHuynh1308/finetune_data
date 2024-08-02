@@ -1,0 +1,8 @@
+@startuml
+participant "lusts lowe" as 0
+participant "anytime guillotine" as 1
+autonumber 9 7
+0 -> 1: pieces swiped
+autonumber stop
+0 --> 1: banker institutionalized
+@enduml

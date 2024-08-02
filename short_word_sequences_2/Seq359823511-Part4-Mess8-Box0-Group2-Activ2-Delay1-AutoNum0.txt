@@ -1,0 +1,24 @@
+@startuml
+participant "vamps boozing" as 0
+participant "fondue interlude" as 1
+participant "manufacture berry" as 2
+participant "cloned felons" as 3
+== homicide visualize ==
+3 --//o 2: archeology vanishing
+2 -> 0++ : rubble disposable
+0 -> 2!! : doll doghouse
+par choice peaches
+0 ->x 0: entitle wisecracks
+...workmen mouthpiece...
+3 -->x 0: pinball shipments
+end
+opt arrives coroner
+3 -> 2: crocodile policing
+1 -> 1++ : rescheduled petroleum
+else urologist trim
+0 --//o 3: era doubly
+else cleats hired
+end
+return rudder disability
+return hora fuel
+@enduml

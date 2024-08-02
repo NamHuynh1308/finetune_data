@@ -1,0 +1,7 @@
+@startuml
+participant "swat shoveled" as 0
+autonumber 9 1
+break invisibility subject
+ [-> 0: notice hunger
+end
+@enduml

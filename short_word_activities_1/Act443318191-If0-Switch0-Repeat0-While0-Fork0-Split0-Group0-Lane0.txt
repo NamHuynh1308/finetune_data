@@ -1,0 +1,5 @@
+@startuml
+:readings extortion; <<load>>
+-> gap dashboard;
+end
+@enduml

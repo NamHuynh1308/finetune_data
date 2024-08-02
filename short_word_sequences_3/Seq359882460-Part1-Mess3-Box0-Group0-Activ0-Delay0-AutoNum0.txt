@@ -1,0 +1,6 @@
+@startuml
+participant "amuses briefs" as 0
+0 --> 0: glucose include
+0 ->x 0: crap paradise
+0 -> 0: floozy exploiting
+@enduml

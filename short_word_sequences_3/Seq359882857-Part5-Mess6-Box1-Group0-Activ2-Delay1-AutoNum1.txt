@@ -1,0 +1,20 @@
+@startuml
+box "yapping bald"
+participant "shortcut poofy" as 0
+participant "boxing residents" as 1
+participant "slaw retrieving" as 2
+participant "bribery ambitious" as 3
+end box
+participant "pudding flags" as 4
+== injuries secretaries ==
+autonumber 3 8
+ [<- 4: lump disloyal
+...hob misguided...
+4 <-> 3: favoritism brooks
+1 -> 4: kittens revolution
+3 ->x 4++ : crunch facedown
+2 ->o 4++ : given reprisal
+3 ->> 3: gault blackmail
+return commander psychologists
+return welt outdone
+@enduml

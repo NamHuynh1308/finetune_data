@@ -1,0 +1,20 @@
+@startuml
+participant "al interrupting" as 0
+participant "goldenrod apocalypse" as 1
+participant "resentments bagging" as 2
+autonumber 10 1
+ [-> 2: tactical espressos
+0 -> 0!! : forgave sarge
+opt adherence vacationing
+0 -->x 0: roto miscommunication
+par gibson uncharacteristic
+0 ->] : formal malfunction
+...implicitly secluded...
+1 <-> 2: sturdy tod
+else incidence coffee
+create participant "icing bereft" as 3
+1 -> 3 : icing bereft
+autonumber stop
+end
+end
+@enduml

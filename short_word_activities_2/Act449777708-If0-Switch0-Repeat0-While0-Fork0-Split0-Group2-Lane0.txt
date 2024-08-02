@@ -1,0 +1,9 @@
+@startuml
+group brochures bulletproof
+:support blazing;
+group salty drama
+:hundred reprieve; <<continuous>>
+stop
+end group
+end group
+@enduml

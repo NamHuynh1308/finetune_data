@@ -1,0 +1,9 @@
+@startuml
+start
+:associating bottling;
+-> slowest cur;
+group tramps band
+:even quinine; <<procedure>>
+stop
+end group
+@enduml

@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:wholesaler hunky;
+split again
+-[hidden]->
+split
+:faux demonstrations;
+split again
+:marshmallow characteristics;
+split again
+:far corresponding;
+split again
+:superhero dots;
+end split
+split again
+-[hidden]->
+if (hollowed tailor?) then (lowery schoolteacher)
+:vindictiveness incessantly;
+-> tissues hats;
+else (operatives dew)
+:weights groveling;
+:pentagon dog; <<save>>
+endif
+split again
+-[hidden]->
+:slinking reasonable; <<task>>
+end split
+:outlived assign; <<save>>
+split
+:fay sundaes;
+split again
+:ambient dimly; <<load>>
+split again
+:captivated loin;
+split again
+repeat
+:shoved spasm;
+backward:limits mud;
+:told dreaded;
+repeat while (battlefield turban?) is (urging granddaughters)
+-> hap necklace;
+end split
+stop
+@enduml

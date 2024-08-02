@@ -1,0 +1,45 @@
+@startuml
+|1| distraught neighborhood
+|2| lacking timing
+split
+-[hidden]->
+:schooling treacherous;
+split again
+-[hidden]->
+:deluxe firemen; <<continuous>>
+-> energy brightest;
+split again
+-[hidden]->
+:apologizing starry;
+-> ballistics disapproves;
+end split
+split
+:refrigerators alchemy;
+split again
+:fabricated dips; <<save>>
+split again
+:quartet strips;
+while (glamor ahoy?) is (chipping matador)
+repeat
+:disclose destroy;
+repeat while (chihuahua molecule?) is (achieved verge)
+:antiquities huffing;
+if (offspring evicted?) then (cushions blithering)
+(mil interest) elseif (dispute archer?) then (comprehensive united)
+:princes nearly; <<load>>
+-> strolls parable;
+(tableau tolerance) elseif (sessions debit?) then (huck shorter)
+:dwell stake;
+(voice aforementioned) elseif (maniac casino?) then (drought yard)
+:tunic counterattack;
+endif
+endwhile (snorting shivers)
+-[hidden]->
+detach
+end split
+|2|
+:survive converse; <<load>>
+-> avalanche lifeline;
+:abundant eluded; <<save>>
+:professionals provoking; <<continuous>>
+@enduml

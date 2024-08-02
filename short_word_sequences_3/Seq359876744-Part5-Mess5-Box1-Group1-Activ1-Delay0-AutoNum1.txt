@@ -1,0 +1,21 @@
+@startuml
+participant "makeup mopped" as 0
+participant "chump klutzy" as 1
+participant "shoplifters sabotage" as 2
+participant "stupor pygmies" as 3
+box "foamy vitally"
+participant "desirable aspen" as 4
+end box
+== max knights ==
+autonumber 0 4
+0 -->x 1: airplane cousin
+1 -// 3++ : leap auditorium
+autonumber stop
+par shadowing latched
+2 --//o 2: attributes stave
+autonumber resume
+1 --> 0: calves evacuated
+return lent fainted
+ [-> 4: wad snub
+end
+@enduml

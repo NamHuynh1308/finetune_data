@@ -1,0 +1,27 @@
+@startuml
+participant "skeletons shrimp" as 0
+participant "hamburgers do" as 1
+participant "pedestal hombre" as 2
+box "curriculum intimately"
+participant "mobilize sofa" as 3
+box "stability pry"
+participant "perturbed itch" as 4
+end box
+end box
+== possessions buttercup ==
+loop broad matters
+0 -// 0: rehearsals abduction
+0 ->o 0: mergers swimmers
+...gong agents...
+2 -->x 1: dimming ironclad
+create participant "sequencing hearse" as 5
+3 -> 5 : sequencing hearse
+else laborers definitely
+...staking milky...
+3 -> 0: executioner chang
+ [<- 2: divas cubby
+alt ultrasound calves
+3 -// 5: whack drunkard
+end
+end
+@enduml

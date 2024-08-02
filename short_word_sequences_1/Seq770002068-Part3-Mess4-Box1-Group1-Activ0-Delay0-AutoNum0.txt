@@ -1,0 +1,13 @@
+@startuml
+participant "old freaked" as 0
+box "snarl complexity"
+participant "wording preppie" as 1
+participant "frozen honored" as 2
+end box
+1 --> 2: supermodel snowing
+1 -> 0: prices anarchists
+alt capitalism oversight
+ [-> 2: hips towers
+0 -> 1: hayward haggling
+end
+@enduml

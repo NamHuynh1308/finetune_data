@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:mercy altruistic;
+split again
+-[hidden]->
+:proceeding reliance;
+split again
+-[hidden]->
+:miracles sitting; <<output>>
+split again
+-[hidden]->
+repeat
+:mailed exactly;
+repeat while (identify worse?) is (coward legitimate)
+end split
+group invisibility letting
+:bondage beagle; <<task>>
+-> assassination conscious;
+:mote mummies; <<input>>
+-> propelled knight;
+stop
+end group
+@enduml

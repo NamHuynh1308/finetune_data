@@ -1,0 +1,60 @@
+@startuml
+split
+-[hidden]->
+:slight microphones;
+split again
+-[hidden]->
+split
+:puppeteer apparel;
+split again
+:scholar heady; <<load>>
+split again
+:capturing idiot;
+-> paradigm earn;
+split again
+:cellmate considerably; <<output>>
+-> diplomas cage;
+end split
+split again
+-[hidden]->
+:blues bayonet;
+-> kites hefty;
+split again
+-[hidden]->
+:dominating unlovable;
+end split
+group awakes multitude
+split
+:pitfalls ginseng;
+split again
+if (reelection enthusiasm?) then (condos in)
+(psychopaths therapy) elseif (deadlier mites?) then (bookshelf omens)
+:mommy portrayed;
+(seltzer sprite) elseif (dictate honour?) then (employers pot)
+:charley tattle;
+(gagged voluntary) elseif (democrat turtle?) then (someday silences)
+:warlock punchy; <<load>>
+(indifference gardenias) elseif (bachelor broomsticks?) then (giggly halls)
+:idptmz;
+while (kidney chartreuse?) is (bobby pressuring)
+:lout conquered; <<procedure>>
+:curled quark; <<output>>
+-> dumped decanter;
+endwhile (heroics pornographers)
+-[hidden]->
+detach
+endif
+split again
+split
+:cystic apropos;
+split again
+:indigestion instructor; <<task>>
+split again
+:mentor deny;
+split again
+:hock expensive;
+end split
+end split
+stop
+end group
+@enduml

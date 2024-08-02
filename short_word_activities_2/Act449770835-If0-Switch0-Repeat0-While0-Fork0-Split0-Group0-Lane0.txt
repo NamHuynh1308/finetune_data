@@ -1,0 +1,6 @@
+@startuml
+:manages dizziness;
+-> groped finds;
+:rehabilitation coupons; <<save>>
+stop
+@enduml

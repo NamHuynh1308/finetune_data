@@ -1,0 +1,12 @@
+@startuml
+participant "peeps scan" as 0
+box "sustaining anonymity"
+participant "aunts viscount" as 1
+participant "entrances boobs" as 2
+end box
+0 --//o 0: mountain pencils
+create participant "users suitcases" as 3
+1 -> 3 : users suitcases
+3 -> 1++ : labs waits
+return jellies marten
+@enduml

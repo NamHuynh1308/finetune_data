@@ -1,0 +1,22 @@
+@startuml
+participant "lucrative maintained" as 0
+participant "wham resources" as 1
+participant "riches jiffy" as 2
+autonumber 0 7
+opt zonked unconcerned
+0 ->x 0: deposing hour
+...barbecued darts...
+1 -> 0: banshee swank
+0 -\\ 0: synonymous gargantuan
+1 <-] : jenny comments
+autonumber stop
+...monsignor lifeguard...
+2 -> 2!! : leery survivor
+autonumber resume
+ [<- 2: immortal marching
+else budgeted wandering
+break inspected brewing
+1 -->x 0: passable assumption
+end
+end
+@enduml

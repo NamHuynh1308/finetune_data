@@ -1,0 +1,6 @@
+@startuml
+:quickly hotcakes; <<continuous>>
+:offenders derrick; <<input>>
+-> wrestler cheesy;
+stop
+@enduml

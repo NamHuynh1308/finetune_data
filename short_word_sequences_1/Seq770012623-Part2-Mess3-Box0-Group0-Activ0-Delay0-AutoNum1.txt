@@ -1,0 +1,10 @@
+@startuml
+participant "jake miller" as 0
+participant "yaw busy" as 1
+== saying jokes ==
+autonumber 8 5
+1 -> 0: buff nights
+0 -> 0!! : unconsciously sensing
+autonumber stop
+0 -> 0: mats heel
+@enduml

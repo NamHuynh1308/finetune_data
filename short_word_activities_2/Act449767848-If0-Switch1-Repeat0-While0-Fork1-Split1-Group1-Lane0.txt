@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:curveball head;
+split again
+-[hidden]->
+switch (violinist unwitting?)
+case (amulets proprietary?)
+:hatched elevated;
+case (thorn mercilessly?)
+:rattles on;
+kill
+endswitch
+split again
+-[hidden]->
+:stoke confederation; <<save>>
+split again
+-[hidden]->
+fork
+:ballplayers madwoman;
+fork again
+:florists interpreter;
+fork again
+:applejack nighty; <<output>>
+end fork
+end split
+:arranged compete; <<continuous>>
+group technically clutch
+:bunker objectionable;
+-> balls truss;
+:gray attachment; <<procedure>>
+-> joey mew;
+end group
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "benedict wore" as 0
+== prospect earlobes ==
+ [<- 0: exiting porcelain
+0 -> 0: pipe mistakes
+@enduml

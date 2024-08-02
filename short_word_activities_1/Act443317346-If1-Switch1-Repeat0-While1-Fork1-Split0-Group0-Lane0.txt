@@ -1,0 +1,34 @@
+@startuml
+start
+fork
+:enjoyment world;
+fork again
+:lazar rebellious;
+fork again
+switch (restaurateur returned?)
+case (narcotics spry?)
+:rowdy spokes; <<load>>
+-> distracted warheads;
+case (fruition wives?)
+:nerds calculated;
+endswitch
+end fork
+if (taco reef?) then (cretins matted)
+:devours arbitration; <<input>>
+:hospital casket; <<load>>
+-> horrifying tiger;
+:nominating matured; <<save>>
+-> uninspired propped;
+kill
+else (nude resumed)
+while (half degrade?) is (rescheduled paroled)
+backward:unscrupulous matey;
+backward:trashes vat;
+:deliberately sense; <<input>>
+-> cougars demand;
+endwhile (suffers briar)
+:spur commence;
+kill
+endif
+stop
+@enduml

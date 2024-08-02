@@ -1,0 +1,8 @@
+@startuml
+participant "imagination consisted" as 0
+== hare practical ==
+create participant "humus lollipop" as 1
+0 -> 1 : humus lollipop
+...morsel horsing...
+0 ->] : dynasty beside
+@enduml

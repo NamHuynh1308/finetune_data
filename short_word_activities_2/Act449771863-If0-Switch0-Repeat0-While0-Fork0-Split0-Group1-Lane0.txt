@@ -1,0 +1,7 @@
+@startuml
+start
+group effect crossroads
+:air monitors; <<load>>
+stop
+end group
+@enduml

@@ -1,0 +1,39 @@
+@startuml
+|1| contracts conventional
+|2| recover nails
+split
+-[hidden]->
+:chew chimp;
+split again
+-[hidden]->
+if (gault dictates?) then (delayed unloved)
+:bologna nostalgic;
+while (beleaguered leery?) is (breakdown offing)
+:staffer institution; <<load>>
+-> elapsed ballsy;
+endwhile (slap deb)
+-[hidden]->
+detach
+else (shares neediness)
+:optimist axe; <<input>>
+-> motherfuckers pulses;
+:slammed concentration;
+endif
+split again
+-[hidden]->
+:humbled gripes;
+-> trans kind;
+split again
+-[hidden]->
+if (publications godfather?) then (ignorant smartass)
+:floats bitching; <<output>>
+else (turban mysteriously)
+:homeboy conservation;
+endif
+end split
+:spit abandoning; <<save>>
+-> forcibly sticks;
+:bookmark fingerprint; <<continuous>>
+:nightlife tanning;
+end
+@enduml

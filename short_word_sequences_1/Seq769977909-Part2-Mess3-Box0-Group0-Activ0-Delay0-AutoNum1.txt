@@ -1,0 +1,9 @@
+@startuml
+participant "screwball indefinitely" as 0
+participant "obscured wedges" as 1
+== resources fundraising ==
+autonumber 5 0
+0 <-> 1: delusional homeroom
+0 -> 1: convent complete
+1 ->o 0: pralines hoisted
+@enduml

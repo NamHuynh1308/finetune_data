@@ -1,0 +1,52 @@
+@startuml
+split
+-[hidden]->
+:attitude damning;
+split again
+-[hidden]->
+switch (fever actresses?)
+case (ales clogging?)
+:federal proportional;
+case (fives bill?)
+:parameters peoples;
+case (electoral tantric?)
+:awaiting deader;
+case (vacate concord?)
+:standpoint sonnet;
+endswitch
+split again
+-[hidden]->
+:promise glares; <<save>>
+-> turf ode;
+end split
+group reseda frigate
+:resourceful pulled; <<load>>
+split
+:ambush lingo;
+split again
+while (fixes flunk?) is (madden spasms)
+:axle predatory;
+backward:technicality glum;
+endwhile (flaws globes)
+:pox mapping;
+split again
+:emblem tingly;
+-> persona unwrap;
+split again
+:shifter spring; <<save>>
+end split
+fork
+:riley bummer;
+fork again
+switch (publications agreements?)
+case (sunset financing?)
+:frame rerouted; <<procedure>>
+case (unfounded preferably?)
+:escapes representative;
+endswitch
+fork again
+:views tomb;
+end merge
+end group
+stop
+@enduml

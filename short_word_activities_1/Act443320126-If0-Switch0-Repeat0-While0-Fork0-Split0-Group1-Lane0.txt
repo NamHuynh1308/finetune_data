@@ -1,0 +1,8 @@
+@startuml
+start
+group slicker heroes
+:rephrase murdering;
+-> reprogram angling;
+stop
+end group
+@enduml

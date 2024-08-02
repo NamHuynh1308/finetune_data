@@ -1,0 +1,16 @@
+@startuml
+participant "mitzvah gear" as 0
+participant "cite film" as 1
+participant "bumming masked" as 2
+== colleen gym ==
+0 -> 0: quixote sexiest
+...cannibal encyclopedias...
+2 --//o 0: cognizant treasure
+loop crikey ballpark
+1 <-] : materials mantis
+break regimental relieve
+...qualifications masquerading...
+1 ->o 0: careless snipe
+end
+end
+@enduml

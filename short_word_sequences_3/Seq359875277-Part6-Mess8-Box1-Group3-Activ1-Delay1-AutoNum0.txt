@@ -1,0 +1,30 @@
+@startuml
+participant "exclusive arrogant" as 0
+participant "signal clement" as 1
+box "burying tango"
+participant "regulars peckish" as 2
+participant "mellowing fighters" as 3
+end box
+participant "haystack typist" as 4
+== personnel sanest ==
+opt orgasmic transporting
+create participant "fistful target" as 5
+3 -> 5 : fistful target
+...elms stumps...
+0 ->x 3: pajamas mouthful
+else teaspoons trumps
+alt polls posterior
+5 -->x 3: ninny gist
+4 ->] : baller winding
+else liven meanings
+2 -// 3: vitality dater
+3 -->x 5: underage toothache
+else pulpit infliction
+opt antihistamines rosebush
+3 -\\ 5++ : popped mooch
+0 -\\ 3: interlude masculinity
+return extradition tapeworm
+end
+end
+end
+@enduml

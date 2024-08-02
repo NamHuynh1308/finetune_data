@@ -1,0 +1,18 @@
+@startuml
+group dwellers educating
+:friend pacifist; <<load>>
+-> carr scientist;
+group indication weep
+split
+:tainted givens;
+split again
+:quieter mollie; <<output>>
+-> padlock observe;
+split again
+:gunnery elective;
+-> efficiently rhythms;
+end split
+stop
+end group
+end group
+@enduml

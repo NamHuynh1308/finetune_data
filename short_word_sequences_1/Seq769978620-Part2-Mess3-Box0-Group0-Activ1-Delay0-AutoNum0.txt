@@ -1,0 +1,8 @@
+@startuml
+participant "necessarily from" as 0
+participant "broom hounds" as 1
+1 ->x 1: wits ranges
+1 -// 0++ : containing typo
+1 -\\ 0: subletting condensation
+return matters enchanting
+@enduml

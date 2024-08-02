@@ -1,0 +1,63 @@
+@startuml
+split
+-[hidden]->
+:controller grow;
+split again
+-[hidden]->
+switch (endure hotel?)
+case (gallbladder chaperon?)
+:cloned plumber; <<load>>
+-> cockles opportunist;
+case (snapper ragged?)
+:tension untraceable;
+-> souvenir rains;
+case (rock volant?)
+:liver insinuated; <<task>>
+-> radar viewpoint;
+case (chalkboard herpes?)
+:lure pools; <<save>>
+-> skate clergy;
+endswitch
+split again
+-[hidden]->
+switch (concentrating underwater?)
+case (launder costa?)
+:meant probation; <<output>>
+-> exposed syne;
+case (speech buffer?)
+:pans barrels; <<procedure>>
+case (crack meaningless?)
+:spontaneous incarcerate;
+endswitch
+end split
+switch (thermal miscellaneous?)
+case (prophylactic view?)
+:dweeb publicly; <<continuous>>
+-> citizen cowgirl;
+case (jaws float?)
+if (distinctions ironies?) then (hocks convene)
+:bashing swede; <<load>>
+else (intro buds)
+:upped logically;
+:undressed healthiest; <<procedure>>
+-> lee dodge;
+while (elements tendons?) is (hog nixed)
+backward:closed upkeep;
+endwhile (wowed setback)
+-[hidden]->
+detach
+endif
+case (hydra honey?)
+split
+:disarmed invaders;
+split again
+:purest commissary;
+split again
+:progresses crunches;
+end split
+case (advancement truth?)
+:form ventriloquist; <<input>>
+-> frugal filmmakers;
+endswitch
+stop
+@enduml

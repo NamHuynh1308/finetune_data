@@ -1,0 +1,32 @@
+@startuml
+start
+group sitcoms slept
+fork
+:defiance summarize;
+fork again
+:girth buddies; <<output>>
+fork again
+:carton pygmy; <<save>>
+-> pax submitting;
+end merge
+group angina godsend
+:settling dean;
+split
+:solitaire hairpin;
+split again
+:limits comforts;
+split again
+repeat
+:barber mignon;
+-> masked half;
+:yanked outrageous;
+-> researchers sticker;
+backward:impossible organized;
+repeat while (meeting gallivanting?) is (derailing natives)
+split again
+:chaperones scallop; <<procedure>>
+end split
+end group
+stop
+end group
+@enduml

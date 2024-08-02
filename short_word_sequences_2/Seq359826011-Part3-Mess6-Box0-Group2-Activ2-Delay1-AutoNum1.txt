@@ -1,0 +1,24 @@
+@startuml
+participant "caddie poring" as 0
+participant "roughriders alterations" as 1
+autonumber 8 7
+critical nobodies sprayed
+create participant "raisin whoop" as 2
+1 -> 2 : raisin whoop
+1 ->x 2++ : whipping retake
+autonumber stop
+else traipse arrhythmia
+1 -// 1++ : snit calf
+autonumber resume
+...echoes escaped...
+1 ->o 0: fictional lineage
+return shaking delving
+1 -> 0!! : animal atrophied
+autonumber stop
+end
+break shout burglary
+0 <-] : relates immaturity
+autonumber resume
+end
+return authors hooligan
+@enduml

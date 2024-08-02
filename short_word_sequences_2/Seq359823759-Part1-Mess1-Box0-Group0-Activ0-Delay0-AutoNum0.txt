@@ -1,0 +1,5 @@
+@startuml
+participant "stabilized tat" as 0
+== delivers reconciled ==
+0 -> 0: spiritual loosely
+@enduml

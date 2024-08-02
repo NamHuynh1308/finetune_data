@@ -1,0 +1,15 @@
+@startuml
+box "pina comfort"
+participant "deflecting bare" as 0
+participant "insulin doll" as 1
+end box
+== tuning attracts ==
+autonumber 2 3
+1 -\\ 0: improvements unrelated
+1 -// 0: uproar freeman
+autonumber stop
+0 -// 1: solitaire inscription
+1 -> 0: wrenched tighten
+autonumber resume
+0 -->x 0: mustache boston
+@enduml

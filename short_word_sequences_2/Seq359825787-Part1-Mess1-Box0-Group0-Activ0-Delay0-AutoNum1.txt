@@ -1,0 +1,5 @@
+@startuml
+participant "disdain cork" as 0
+autonumber 4 3
+0 -> 0: proposing pharmaceuticals
+@enduml

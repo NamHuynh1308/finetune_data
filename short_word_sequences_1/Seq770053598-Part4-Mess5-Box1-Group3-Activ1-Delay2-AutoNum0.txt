@@ -1,0 +1,23 @@
+@startuml
+box "morning humane"
+participant "communicate valentines" as 0
+participant "origami infatuation" as 1
+end box
+participant "interruptions manually" as 2
+participant "serve often" as 3
+== minute manatee ==
+1 -> 2++ : streetlights sweetie
+2 -> 0: chapters crazy
+loop desert themed
+...ferrets graduation...
+1 <-] : huddled sewed
+par mature smoking
+...teller vow...
+3 -> 3!! : lupus untie
+return dyed rehab
+critical nuns interviewed
+ [-> 1: mountaintop consulting
+end
+end
+end
+@enduml

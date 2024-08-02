@@ -1,0 +1,14 @@
+@startuml
+participant "formally silliness" as 0
+box "redskins clerk"
+participant "dilute derail" as 1
+end box
+1 ->o 1++ : crazy obstacle
+par dago retainer
+ [<- 0: childhoods graphics
+alt mutiny abruptly
+1 -> 0!! : bugged plotting
+return helipad boxcar
+end
+end
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "limes reasoned" as 0
+participant "elude roommate" as 1
+== branched metabolic ==
+0 -> 1: seashell jammies
+1 -> 1: tempest seams
+@enduml

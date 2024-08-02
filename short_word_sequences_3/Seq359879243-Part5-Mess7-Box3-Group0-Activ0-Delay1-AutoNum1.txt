@@ -1,0 +1,25 @@
+@startuml
+box "coaches banana"
+participant "hoaxes spate" as 0
+participant "workmen herpes" as 1
+box "costumes calamitous"
+participant "hercules faucets" as 2
+box "frustrated back"
+participant "mohair deadbeats" as 3
+participant "dodger tiniest" as 4
+end box
+end box
+end box
+autonumber 2 0
+0 -// 4: partridge preamble
+2 <-> 0: recognizing harder
+4 -> 3: snowing gasping
+ [<- 4: misheard euphemism
+autonumber stop
+...vibrator decided...
+1 --> 2: assisting lowlifes
+autonumber resume
+0 -> 4: esoteric fox
+autonumber stop
+1 <-] : topnotch margaritas
+@enduml

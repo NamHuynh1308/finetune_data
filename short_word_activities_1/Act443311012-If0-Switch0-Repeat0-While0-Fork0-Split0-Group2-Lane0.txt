@@ -1,0 +1,10 @@
+@startuml
+group donated accoutrements
+:shushing contain;
+group bowls aright
+:blooming lemonade;
+-> bids matter;
+stop
+end group
+end group
+@enduml

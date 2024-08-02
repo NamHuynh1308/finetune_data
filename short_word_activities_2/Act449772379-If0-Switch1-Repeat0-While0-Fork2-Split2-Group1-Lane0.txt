@@ -1,0 +1,55 @@
+@startuml
+split
+-[hidden]->
+:accomplices gabby;
+split again
+-[hidden]->
+:paramour pause;
+-> guide ar;
+split again
+-[hidden]->
+fork
+:zebra hygiene;
+fork again
+:person waddle; <<input>>
+fork again
+:literary combustible;
+end fork
+split again
+-[hidden]->
+fork
+:quoted folly;
+fork again
+:ceremonial drawn;
+kill
+fork again
+:dinky volunteers; <<procedure>>
+-> jabber misleading;
+fork again
+:bathroom wrist; <<save>>
+end fork
+end split
+:jujitsu hoses;
+group hoof glamorous
+switch (oversensitive earplugs?)
+case (innermost oyez?)
+:any firstly;
+-> sugars solitude;
+case (punters luau?)
+split
+:sulking digest;
+split again
+:moniker striving;
+split again
+:familiars quaking;
+kill
+end split
+case (vera psychotics?)
+:fondled review; <<continuous>>
+case (gig willing?)
+:diaries reason;
+kill
+endswitch
+stop
+end group
+@enduml

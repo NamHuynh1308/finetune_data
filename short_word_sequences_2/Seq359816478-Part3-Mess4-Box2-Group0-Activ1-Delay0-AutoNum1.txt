@@ -1,0 +1,15 @@
+@startuml
+box "shampoo clack"
+participant "seventy dug" as 0
+participant "basic barfed" as 1
+end box
+box "kudos sparkle"
+participant "chic purposely" as 2
+end box
+autonumber 0 7
+0 ->> 2++ : souls attribute
+0 -> 0: breathable overdo
+return materialized ay
+0 -> 2: spun alluding
+1 ->x 1: secrecy regrettably
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+start
+group remitting cellular
+:republic pact; <<load>>
+stop
+end group
+@enduml

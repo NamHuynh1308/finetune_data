@@ -1,0 +1,8 @@
+@startuml
+participant "crocodile conditioner" as 0
+autonumber 5 9
+0 -// 0: argon offshore
+0 --//o 0: penthouse pipeline
+0 ->> 0: traffic cakewalk
+autonumber stop
+@enduml

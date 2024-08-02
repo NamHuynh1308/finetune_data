@@ -1,0 +1,22 @@
+@startuml
+participant "ore serves" as 0
+box "barley floater"
+participant "era whence" as 1
+participant "tweed necessity" as 2
+end box
+autonumber 6 5
+2 -> 1: village keeping
+...purview scratching...
+ [-> 0: situations ooh
+2 -> 0!! : generosity giddyup
+loop insanity qualifications
+ [-> 0: encouraging fasten
+2 ->] : skilled systolic
+alt tight twist
+...balding freakish...
+0 -> 1++ : empathy whipped
+autonumber stop
+end
+end
+return reprimanded subsidy
+@enduml

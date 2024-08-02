@@ -1,0 +1,6 @@
+@startuml
+participant "haired prisons" as 0
+participant "agitation wit" as 1
+1 --//o 1: indentured pleasures
+0 -> 1: de analyse
+@enduml

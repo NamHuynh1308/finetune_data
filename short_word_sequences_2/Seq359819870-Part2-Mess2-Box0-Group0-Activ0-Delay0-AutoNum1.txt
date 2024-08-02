@@ -1,0 +1,7 @@
+@startuml
+participant "socialite staffed" as 0
+participant "meeting concession" as 1
+autonumber 2 8
+1 -> 1: ugly streams
+0 -// 1: ahead pursuing
+@enduml

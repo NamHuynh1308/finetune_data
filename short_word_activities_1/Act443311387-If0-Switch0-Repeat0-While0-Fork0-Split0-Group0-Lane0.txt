@@ -1,0 +1,6 @@
+@startuml
+start
+:ail graduated;
+:fries transmitter; <<task>>
+-> meatloaf tail;
+@enduml

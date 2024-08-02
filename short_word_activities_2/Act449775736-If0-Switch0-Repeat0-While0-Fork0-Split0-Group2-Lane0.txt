@@ -1,0 +1,12 @@
+@startuml
+start
+group camels stately
+:overheated inflation; <<load>>
+:straightening rave; <<input>>
+-> spunk layer;
+group wavy ignore
+:soundly versions;
+stop
+end group
+end group
+@enduml

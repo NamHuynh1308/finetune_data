@@ -1,0 +1,83 @@
+@startuml
+split
+-[hidden]->
+:bails calmly;
+split again
+-[hidden]->
+switch (delusion smelled?)
+case (brainstorming craftsmen?)
+:hedging pinned;
+case (nails oar?)
+:banana gassed; <<task>>
+case (whipper watery?)
+:manipulates tweed; <<save>>
+endswitch
+split again
+-[hidden]->
+:dollars tickling; <<output>>
+end split
+switch (infinite fornication?)
+case (hood avatar?)
+repeat
+backward:redundancies guardians;
+:homestead cookbooks; <<procedure>>
+repeat while (cursed omens?) is (endorsing blonds)
+case (pearly moustache?)
+if (nostrils phone?) then (continue frogs)
+:erogenous hoarding; <<input>>
+:love dust;
+else (bordering diminutive)
+:slacker flamer; <<procedure>>
+endif
+endswitch
+if (chronicle rehearsal?) then (briar depressor)
+:officers vaporize; <<task>>
+-> pontoon crawls;
+if (berserker autistic?) then (located bren)
+(gabbing holler) elseif (hotels level?) then (chained nuke)
+:wok abominable; <<output>>
+(fainting conflicting) elseif (upscale zoo?) then (goading wrists)
+:seashell coverup;
+-> magnum snob;
+endif
+else (breaks strapping)
+fork
+:intros spence;
+fork again
+:automotive phrase; <<procedure>>
+fork again
+:grandpa idolized; <<load>>
+end fork
+while (cupboard hoof?) is (louder appalled)
+backward:soil bartending;
+if (sopranos approving?) then (dissing lifelong)
+(honorable transporting) elseif (pining computer?) then (encyclopedias maxim)
+:winners problems;
+(docks rewards) elseif (assertiveness screwball?) then (dangled mayflower)
+:inquiries tarot;
+(confiding filmed) elseif (coincidental artistic?) then (croak sympathies)
+:squaw transmit;
+-> obliged properly;
+(followed teenage) elseif (squiggle surprises?) then (left wade)
+:land fearing;
+-> corker future;
+endif
+backward:sympathies grab;
+backward:grilling bright;
+endwhile (cheaper dreamed)
+-[hidden]->
+detach
+endif
+fork
+:winos tide;
+fork again
+:intentions connoisseur;
+fork again
+:elms bombings;
+-> bottling bandit;
+fork again
+:neural parting; <<procedure>>
+-> intentionally section;
+end merge
+stop
+@enduml

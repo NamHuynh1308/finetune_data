@@ -1,0 +1,9 @@
+@startuml
+participant "unique transportation" as 0
+box "meow inferior"
+participant "altar worshipping" as 1
+end box
+0 ->] : grazing placement
+1 -> 0: urinary cart
+1 ->] : hereafter optic
+@enduml

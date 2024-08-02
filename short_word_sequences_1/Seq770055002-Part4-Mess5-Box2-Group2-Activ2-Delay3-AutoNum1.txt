@@ -1,0 +1,28 @@
+@startuml
+box "steadily fumigating"
+participant "gremlin boost" as 0
+box "vermeil dicking"
+participant "scratching poised" as 1
+participant "tambourine raved" as 2
+end box
+end box
+== consoling haunted ==
+autonumber 2 9
+1 -> 0++ : grocery swabs
+autonumber stop
+...goodwill smackers...
+2 ->] : tunnels olfactory
+return headed sonar
+loop cherries archives
+create participant "diagnostic fortnight" as 3
+0 -> 3 : diagnostic fortnight
+loop sleeps officers
+...ave renewed...
+0 --//o 2++ : propellers unlawful
+...lout brochure...
+0 -> 0: unified galaxy
+else antivenin worried
+end
+end
+return hellish doze
+@enduml

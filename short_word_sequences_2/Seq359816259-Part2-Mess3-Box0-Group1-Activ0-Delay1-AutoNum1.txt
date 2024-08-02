@@ -1,0 +1,12 @@
+@startuml
+participant "dungeon transportation" as 0
+participant "larval swamped" as 1
+autonumber 4 4
+loop tucker wild
+0 -> 0: indeed delivering
+1 <-] : profile panda
+else director townhouse
+...slimmer belonged...
+ [-> 0: regulated patients
+end
+@enduml

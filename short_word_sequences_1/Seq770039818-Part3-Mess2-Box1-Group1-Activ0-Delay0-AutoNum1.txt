@@ -1,0 +1,12 @@
+@startuml
+box "metropolitan dato"
+participant "pencil veterinary" as 0
+participant "thorns boarder" as 1
+end box
+autonumber 4 3
+1 <-] : turbulence buffet
+opt thinners mach
+create participant "rural understatement" as 2
+0 -> 2 : rural understatement
+end
+@enduml

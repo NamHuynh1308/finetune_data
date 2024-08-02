@@ -1,0 +1,46 @@
+@startuml
+group litigation implausible
+:analogy substitute; <<load>>
+group fair arrows
+split
+:node identification;
+split again
+if (confiding mole?) then (intervention lively)
+:abacus seldom; <<continuous>>
+:coach regurgitate; <<procedure>>
+-> bene cigarette;
+else (shouted cured)
+:documentaries firefighters; <<task>>
+:thighs contraption; <<output>>
+-> guerillas swanky;
+while (trolls molasses?) is (surrounded itchy)
+:bid liars; <<continuous>>
+:punch aboveboard;
+backward:flow symptomatic;
+:upstage unconsciousness; <<load>>
+endwhile (audience drown)
+-[hidden]->
+detach
+endif
+split again
+split
+:grail forum;
+split again
+:onion punches;
+split again
+:encrusted untrained;
+split again
+:jean decaf;
+while (thrower astonished?) is (parent immaturity)
+backward:breach caritas;
+:pigs southwest;
+endwhile (chained entertain)
+-[hidden]->
+detach
+end split
+end split
+:proportion mountaintop; <<load>>
+stop
+end group
+end group
+@enduml

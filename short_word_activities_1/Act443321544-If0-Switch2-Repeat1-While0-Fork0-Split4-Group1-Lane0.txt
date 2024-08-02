@@ -1,0 +1,59 @@
+@startuml
+split
+-[hidden]->
+:petitioner privy;
+split again
+-[hidden]->
+:brewery bygones; <<input>>
+split again
+-[hidden]->
+split
+:dame replicating;
+split again
+:outlive infantry; <<load>>
+split again
+:sample resting;
+-> halfback yonkers;
+end split
+split again
+-[hidden]->
+switch (conferred tripped?)
+case (aquatic er?)
+:foot denies;
+case (confident takeover?)
+:cork karaoke; <<load>>
+case (fresh cowardly?)
+:spawn friendliest; <<save>>
+endswitch
+end split
+split
+:refugee administrator;
+split again
+:interrogate shadowy;
+-> artists nozzle;
+split again
+:irrigate rejection; <<continuous>>
+-> banker contrary;
+end split
+repeat
+switch (registry bossed?)
+case (simulation bloodshed?)
+:regulations nitrogen; <<continuous>>
+case (explain handing?)
+:macaws gratified; <<save>>
+case (resource cams?)
+:schizophrenic ruse;
+endswitch
+:commonly truer;
+repeat while (trickster degrade?) is (imports brotherhood)
+group skill godsend
+split
+:congressman spend;
+split again
+:killers espionage;
+split again
+:ventilation buckaroo; <<input>>
+end split
+stop
+end group
+@enduml

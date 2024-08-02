@@ -1,0 +1,15 @@
+@startuml
+participant "pusher refrigerators" as 0
+box "arcade peeps"
+participant "hayward meatballs" as 1
+participant "pillars stopped" as 2
+box "execution tool"
+participant "mirage scotches" as 3
+end box
+end box
+0 <-] : yen irrelevant
+2 ->x 0: bereft twinge
+3 -> 3: lakeside returns
+create participant "revolutions glued" as 4
+3 -> 4 : revolutions glued
+@enduml

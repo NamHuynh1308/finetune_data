@@ -1,0 +1,14 @@
+@startuml
+start
+:hydrated attached;
+-> dwindling estate;
+switch (huckster surgically?)
+case (cute concession?)
+:lady deport; <<input>>
+-> concessions stretched;
+case (nationals joiner?)
+:ibuprofen yacht; <<output>>
+-> grainy excited;
+endswitch
+:crystals nationally; <<load>>
+@enduml

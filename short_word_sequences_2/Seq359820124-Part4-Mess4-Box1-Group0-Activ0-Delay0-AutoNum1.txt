@@ -1,0 +1,13 @@
+@startuml
+box "stone mediator"
+participant "aberration morocco" as 0
+participant "vampires lecture" as 1
+participant "themes gull" as 2
+end box
+participant "impregnated martin" as 3
+autonumber 1 7
+3 ->x 2: substantiate discolored
+0 -->x 3: solo healers
+0 -> 2: geometry reprogramming
+2 -->x 0: disable fog
+@enduml

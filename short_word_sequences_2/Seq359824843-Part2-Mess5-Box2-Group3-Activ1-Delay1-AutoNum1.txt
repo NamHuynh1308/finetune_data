@@ -1,0 +1,22 @@
+@startuml
+box "homework myth"
+participant "secretary carve" as 0
+box "reclaiming townhouse"
+participant "menagerie mano" as 1
+end box
+end box
+autonumber 3 3
+alt celebrating recreational
+0 -->x 0: signature fluids
+...constructive entries...
+1 <-] : derrick heater
+end
+opt jacks consumes
+1 -// 0: oboe serene
+ [-> 0: scented stretched
+end
+loop mathematically speculative
+0 -\\ 1++ : bark enchant
+end
+return moneys print
+@enduml

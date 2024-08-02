@@ -1,0 +1,19 @@
+@startuml
+participant "plow engineering" as 0
+participant "slang smithers" as 1
+participant "moves politically" as 2
+box "broadcasts blockbusters"
+participant "discourse eliminating" as 3
+end box
+create participant "guitarist aches" as 4
+3 -> 4 : guitarist aches
+2 -> 3: merman hullo
+par rousted jerry
+...bypass bubble...
+1 <-] : dodgers supernova
+...childhood mourn...
+0 -> 0: mumbling howe
+4 -> 2!! : sparks welch
+else butters suburbs
+end
+@enduml

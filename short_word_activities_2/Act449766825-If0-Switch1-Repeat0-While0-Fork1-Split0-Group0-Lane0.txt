@@ -1,0 +1,17 @@
+@startuml
+:matchmaking tubers; <<continuous>>
+fork
+:plotted unprofessional;
+fork again
+switch (botanical atmosphere?)
+case (uncivilized miniscule?)
+:disappeared runners;
+case (plan underline?)
+:lippy coincidence;
+endswitch
+fork again
+:grate strand; <<input>>
+-> lobes straws;
+end fork
+end
+@enduml

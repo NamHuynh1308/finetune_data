@@ -1,0 +1,9 @@
+@startuml
+box "wrappers specifications"
+participant "circular textbook" as 0
+end box
+ [<- 0: master ammunition
+0 --//o 0: unprepared bike
+0 -> 0++ : spaced flavors
+return phones tokens
+@enduml

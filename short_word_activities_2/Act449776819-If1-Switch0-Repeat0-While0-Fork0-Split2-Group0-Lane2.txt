@@ -1,0 +1,32 @@
+@startuml
+|1| transmitter guesthouse
+|2| playground masquerade
+split
+-[hidden]->
+:mannequins cooperation;
+split again
+-[hidden]->
+if (traitor mules?) then (rhino buckle)
+(miscreant bankers) elseif (anesthetics spend?) then (spaz advancing)
+:olden menage; <<procedure>>
+(fob hiccups) elseif (alleged bummers?) then (legalities governing)
+:hummer booty;
+endif
+split again
+-[hidden]->
+:defector commitments; <<output>>
+end split
+|2|
+:diary renewal; <<output>>
+|1|
+:subatomic panicking; <<load>>
+split
+:findings width;
+split again
+:plugged withstanding; <<save>>
+split again
+:agreeable calendar;
+split again
+:liquored percolating; <<input>>
+end split
+@enduml

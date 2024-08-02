@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:pro clods;
+split again
+-[hidden]->
+:violation washout; <<output>>
+split again
+-[hidden]->
+:disco anger; <<procedure>>
+end split
+:extending guitarist;
+end
+@enduml

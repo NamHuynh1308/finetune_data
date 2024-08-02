@@ -1,0 +1,22 @@
+@startuml
+box "kabob excited"
+participant "industry nappy" as 0
+participant "payload revenge" as 1
+end box
+box "monitor cappuccino"
+participant "rig promises" as 2
+end box
+loop fresher suggestions
+0 ->] : foxholes minimum
+loop during strictly
+0 <-> 0: violet obviously
+alt mayonnaise dabbled
+...diathesis crowds...
+0 -> 2!! : collectors optimistic
+opt event accident
+0 -> 2: snitches printed
+end
+end
+end
+end
+@enduml

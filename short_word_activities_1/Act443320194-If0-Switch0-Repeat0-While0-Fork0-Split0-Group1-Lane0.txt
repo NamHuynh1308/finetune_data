@@ -1,0 +1,9 @@
+@startuml
+start
+:stardom hustler; <<continuous>>
+group harmless homers
+:crazier languages; <<task>>
+-> lac brewery;
+stop
+end group
+@enduml

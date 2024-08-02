@@ -1,0 +1,14 @@
+@startuml
+fork
+:petticoat jumbo;
+fork again
+:anemia spurt; <<task>>
+fork again
+:explodes creased; <<output>>
+fork again
+:riff food; <<load>>
+end fork
+:virulent acknowledged; <<task>>
+-> jumper watches;
+stop
+@enduml

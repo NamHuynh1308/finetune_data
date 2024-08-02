@@ -1,0 +1,9 @@
+@startuml
+:bins earful;
+-> hat lasagna;
+group breezing awarded
+:swirling user; <<load>>
+-> venomous sweaty;
+stop
+end group
+@enduml

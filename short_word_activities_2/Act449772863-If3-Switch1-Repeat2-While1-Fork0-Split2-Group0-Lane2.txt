@@ -1,0 +1,72 @@
+@startuml
+|1| casualty announcing
+|2| resents sparks
+|1|
+start
+:choker quitting; <<continuous>>
+|2|
+switch (crick touchdown?)
+case (aced blume?)
+:despair misconceptions;
+-> division rivals;
+case (ghastly painting?)
+:distillery makeovers; <<save>>
+case (captive inmates?)
+:slipping jus; <<output>>
+-> unwrapping butchered;
+case (enslaved contamination?)
+:swatting peerless; <<procedure>>
+endswitch
+repeat
+:frankly outfits; <<procedure>>
+-> avalanche vomit;
+if (whipper glib?) then (taxed partisan)
+(bucket acrobat) elseif (disagreed electrolytes?) then (purposefully cheeseburgers)
+:syringe bro;
+(delete bruise) elseif (parker highlands?) then (calms polish)
+:owl sure;
+endif
+while (tends stylish?) is (sushi phases)
+:descends temptation;
+endwhile (armor canape)
+:hippopotamus penthouse;
+repeat while (sic founded?) is (spread clambake)
+split
+:leotards poncho;
+split again
+if (destinations drawing?) then (accelerated prior)
+:chipping ozone; <<task>>
+:defend declined; <<procedure>>
+:frightened smugglers; <<continuous>>
+-> grilling advocacy;
+else (showbiz halls)
+:looks diabetes;
+endif
+split again
+:arteries parachuting; <<output>>
+end split
+if (renting historical?) then (richest bash)
+:resource boom; <<input>>
+-> inappropriately censured;
+split
+:sudden intense;
+split again
+:serial stifling;
+split again
+:unattended holdup;
+split again
+:slated august; <<output>>
+-> caucus nutritionist;
+end split
+:belabor settings; <<task>>
+-> conducive wiretaps;
+else (carpet exorcism)
+:conceited provoke; <<output>>
+:sans annul; <<save>>
+repeat
+backward:seclusion rump;
+repeat while (cog model?) is (gloom rattles)
+-> era rewrote;
+endif
+end
+@enduml

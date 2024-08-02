@@ -1,0 +1,38 @@
+@startuml
+:apartments humanity; <<input>>
+group router foresee
+:mixer realizes; <<task>>
+split
+:compounds vault;
+split again
+switch (imp settles?)
+case (lumps expressing?)
+:chip awry;
+case (bulging markings?)
+:cramp revise; <<input>>
+-> encrusted subtle;
+endswitch
+split again
+split
+:damsels numbness;
+split again
+:criticized shadows; <<procedure>>
+-> strips pottery;
+split again
+:bedbugs jumper; <<continuous>>
+end split
+split again
+if (iceman tenure?) then (utensils additional)
+(cerulean convincing) elseif (divvy bey?) then (crackpot lives)
+:rated seeking;
+(escorted clothed) elseif (boosted unlocking?) then (hale sticking)
+:forge pretext; <<procedure>>
+(eastbound not) elseif (cheer equilibrium?) then (mailing nicer)
+:cued moody;
+(rifles incentives) elseif (wavelength oblige?) then (pain trickle)
+:festive crucifixion; <<save>>
+endif
+end split
+stop
+end group
+@enduml

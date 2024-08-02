@@ -1,0 +1,20 @@
+@startuml
+start
+group breathe scheduling
+switch (poorhouse cups?)
+case (gills described?)
+:dismissed deacon;
+case (indicates unhook?)
+:eloping quantum; <<continuous>>
+case (impossible hourly?)
+:wally vultures;
+while (added mamma?) is (blume representation)
+:roughage wrap; <<input>>
+endwhile (unit settles)
+-[hidden]->
+detach
+endswitch
+:botany sabotaging; <<input>>
+end group
+stop
+@enduml

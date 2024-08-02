@@ -1,0 +1,39 @@
+@startuml
+start
+group motion harping
+split
+:washed aga;
+split again
+split
+:swans seltzer;
+split again
+:rashes jealousy;
+split again
+:smuggle agrees;
+split again
+:minor insomnia;
+end split
+split again
+fork
+:chatty acceptance;
+fork again
+:unclear studio;
+while (toes whisper?) is (cone consuming)
+:disclosed spontaneity;
+:flatbed pity;
+:lobsters indicator; <<continuous>>
+-> miserably sincerity;
+endwhile (proposal chimp)
+-[hidden]->
+detach
+fork again
+:west contingencies;
+-> disgust jester;
+fork again
+:creme suspicions; <<task>>
+-> crabby teachers;
+end fork
+end split
+:imperial flimsy;
+end group
+@enduml

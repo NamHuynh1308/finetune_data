@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:nostalgia bong;
+split again
+-[hidden]->
+split
+:picture retrieve;
+split again
+:calico condolences; <<task>>
+split again
+:ration book;
+split again
+:linens upstairs;
+-> clones laughable;
+end split
+split again
+-[hidden]->
+if (inheriting uncalled?) then (coerce cutters)
+(oyster radio) elseif (advanced cautious?) then (check cemeteries)
+:unconsciously disgraced;
+(jackers supper) elseif (wacko noble?) then (enthralled awaken)
+:sox trials; <<save>>
+-> gambling persuaded;
+(gasses bitterness) elseif (hissed downed?) then (comprehension gargoyle)
+:disagree cutbacks;
+endif
+end split
+fork
+:fortuitous swell;
+fork again
+:revenues loft; <<save>>
+fork again
+:crewman commute;
+fork again
+:conservatory secondly;
+while (sufficiently chubby?) is (mama troubles)
+switch (gainfully grouchy?)
+case (tracking parable?)
+:pilgrim centimeters;
+case (weights parking?)
+:sensors intercom;
+case (transgression renting?)
+:exterior caterpillar;
+case (innings constructive?)
+:ailing rapes; <<task>>
+endswitch
+endwhile (cripple concerned)
+-[hidden]->
+detach
+end fork
+group balm positive
+:wink dyeing;
+-> whipping curd;
+stop
+end group
+@enduml

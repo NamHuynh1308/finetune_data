@@ -1,0 +1,27 @@
+@startuml
+box "commitments bachelors"
+participant "drainage paranoia" as 0
+box "towed anthem"
+participant "ballads weirdest" as 1
+end box
+end box
+autonumber 8 2
+alt rock positive
+1 -> 0: finagle spaghetti
+break covered virtual
+1 -->x 1++ : distant beatings
+alt hue aggravation
+ [-> 0: runny pug
+1 ->] : morgue conjugal
+autonumber stop
+0 --//o 0++ : boots lumpy
+autonumber resume
+0 ->> 1: clinics encourage
+return indirectly put
+autonumber stop
+else cardboard cat
+end
+end
+end
+return governing rubs
+@enduml

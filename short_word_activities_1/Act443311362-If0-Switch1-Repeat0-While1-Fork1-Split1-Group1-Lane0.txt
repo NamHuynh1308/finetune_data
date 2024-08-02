@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:creases grows;
+split again
+-[hidden]->
+:pedicures scolding; <<load>>
+-> counteroffer frustrates;
+split again
+-[hidden]->
+:vibe mystifying; <<save>>
+-> machete palomino;
+split again
+-[hidden]->
+:lungs mom; <<save>>
+end split
+group hostage instead
+fork
+:mix eyes;
+fork again
+while (spoiler lettering?) is (moons growing)
+backward:hawking lin;
+endwhile (forwarded tosses)
+:stumped done;
+fork again
+:silicone stall; <<output>>
+-> jungles cribbage;
+fork again
+switch (constraints groundhog?)
+case (tomfoolery one?)
+:slugged pancreatic;
+case (hollandaise bribe?)
+:hating stamina; <<load>>
+-> mopey plucky;
+case (spasms poles?)
+:shoo mills; <<load>>
+-> universally diversion;
+case (boundaries lux?)
+:obligatory appetite; <<input>>
+endswitch
+end merge
+stop
+end group
+@enduml

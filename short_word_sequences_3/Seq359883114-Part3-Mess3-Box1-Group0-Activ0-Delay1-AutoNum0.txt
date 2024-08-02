@@ -1,0 +1,11 @@
+@startuml
+participant "bushel chokes" as 0
+participant "flask entertained" as 1
+box "haircut operating"
+participant "obsessions sorrel" as 2
+end box
+0 ->o 0: burdens merit
+1 ->> 0: drop yore
+...candidates splendid...
+1 -> 2: archeology agonized
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+box "tulip prayer"
+participant "naphthalene carousel" as 0
+participant "swell weasels" as 1
+participant "cosign rally" as 2
+end box
+== shipwreck birthplace ==
+0 -> 1: apprised feisty
+par swallowed lonesome
+ [<- 1: emphasized core
+opt bullet shine
+1 -> 2: fart exhume
+end
+end
+@enduml

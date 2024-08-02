@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:bribery lips;
+split again
+-[hidden]->
+:jock heirlooms; <<save>>
+split again
+-[hidden]->
+:officer sin; <<continuous>>
+-> organization rebellion;
+split again
+-[hidden]->
+:bondsman creatures; <<input>>
+-> dissolve avatar;
+end split
+:adept borders; <<input>>
+:checker expectancy; <<load>>
+-> unplugged troublesome;
+stop
+@enduml

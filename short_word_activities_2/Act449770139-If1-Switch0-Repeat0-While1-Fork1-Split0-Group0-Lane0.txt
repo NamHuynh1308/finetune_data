@@ -1,0 +1,26 @@
+@startuml
+start
+fork
+:thready midnight;
+fork again
+if (medication yolk?) then (dalton critter)
+:eloquently several;
+:thermostat unethical;
+:home expressive;
+while (teal eventually?) is (puce lunatic)
+backward:textbook bargained;
+:chickadee rumblings;
+endwhile (stalking commitments)
+-[hidden]->
+detach
+else (quote genuinely)
+:emanates sued; <<input>>
+:blocked fellow;
+-> vacationing seasoned;
+:newsstands mid; <<task>>
+endif
+fork again
+:tanked weds; <<task>>
+end merge
+stop
+@enduml

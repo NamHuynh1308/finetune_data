@@ -1,0 +1,15 @@
+@startuml
+participant "morphine mathematician" as 0
+participant "benedict unbecoming" as 1
+participant "martyr vermouth" as 2
+box "requisite desserts"
+participant "frantic conk" as 3
+end box
+== finds pills ==
+ [<- 1: activators med
+3 <-> 0++ : protest proportional
+create participant "ensued crowning" as 4
+0 -> 4 : ensued crowning
+3 <-> 3: rattlesnake rebuild
+return myriad marshmallows
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "wingman cardiogram" as 0
+== stores skeletal ==
+0 -> 0: mopey oink
+0 -> 0: disks stifling
+0 <-> 0: gurney mops
+@enduml

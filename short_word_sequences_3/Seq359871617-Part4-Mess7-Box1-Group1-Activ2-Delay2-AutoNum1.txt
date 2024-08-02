@@ -1,0 +1,25 @@
+@startuml
+participant "caress pedigree" as 0
+box "dogs flatterer"
+participant "blankets pumped" as 1
+participant "jobless taken" as 2
+participant "homage hay" as 3
+end box
+== hunter setting ==
+autonumber 1 6
+2 --> 1++ : bay skiff
+2 ->] : ancient solarium
+...nametag heating...
+2 -\\ 0++ : clean rigs
+...retrieved botulism...
+0 ->x 1: personality palmer
+autonumber stop
+2 -// 0: skewered folding
+ [-> 3: housewarming ahoy
+autonumber resume
+break watered shop
+0 -> 0!! : offence leopard
+end
+return originally draw
+return neighbour sri
+@enduml

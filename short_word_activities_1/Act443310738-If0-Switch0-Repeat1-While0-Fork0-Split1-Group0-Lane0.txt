@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:opportunities logan;
+split again
+-[hidden]->
+:sharpened felt;
+split again
+-[hidden]->
+:confirms aspire; <<output>>
+split again
+-[hidden]->
+:chatterbox steadily; <<output>>
+-> payable lullaby;
+end split
+repeat
+:employers cost; <<continuous>>
+:shitting visit;
+:untouched swimming;
+repeat while (present heavier?) is (patchouli lately)
+-> inbred rougher;
+stop
+@enduml

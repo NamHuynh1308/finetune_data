@@ -1,0 +1,60 @@
+@startuml
+|1| enlightenment tango
+|2| counselor sermons
+|1|
+start
+|2|
+switch (quizmaster parallel?)
+case (decorator corks?)
+repeat
+backward:matron fosse;
+:labor poem;
+:joking checkers; <<procedure>>
+repeat while (oops mistrial?) is (rigs comply)
+-> bravo mobilize;
+case (fax humoring?)
+:automaton barrel;
+kill
+endswitch
+|1|
+while (lumps godliness?) is (thanked brat)
+:databases inter; <<procedure>>
+endwhile (reaper pirate)
+:hibiscus mussels;
+repeat
+switch (highlights upper?)
+case (camped accepting?)
+:wears uncooperative;
+case (explaining pulp?)
+:drip standpoint; <<load>>
+-> prudence nervous;
+case (tights roughage?)
+:joyous groundskeeper;
+case (binding dazzling?)
+:painters downriver;
+while (teeth airline?) is (trust expectations)
+backward:flighty illustrate;
+backward:bees remedies;
+endwhile (tracing trench)
+-[hidden]->
+detach
+endswitch
+if (crews qualifying?) then (sideways persecuting)
+(woods sisters) elseif (wallets eleven?) then (gleaming atropine)
+:nexus paddle; <<input>>
+(awfully revolutions) elseif (pussycat formation?) then (post rely)
+:accused seize; <<output>>
+-> flamer naw;
+endif
+repeat while (crier torque?) is (discounts colleague)
+|2|
+split
+:staring microbes;
+split again
+:palace leering; <<task>>
+split again
+:vests bartending;
+-> pa striking;
+end split
+end
+@enduml

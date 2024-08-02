@@ -1,0 +1,11 @@
+@startuml
+participant "episode breakout" as 0
+participant "whittled analysts" as 1
+autonumber 1 3
+break seal factories
+1 -> 1: venom raiding
+0 --> 0++ : noted toothpicks
+autonumber stop
+end
+return walks smugness
+@enduml

@@ -1,0 +1,51 @@
+@startuml
+|1| bud fending
+|2| gears explicit
+|1|
+start
+|2|
+:trick instances; <<load>>
+fork
+:rodeo recommendations;
+fork again
+switch (facedown apache?)
+case (lookouts rummy?)
+:touchstone regrettably; <<output>>
+-> townspeople spectacularly;
+case (meadows bribed?)
+:tripping evenly;
+case (euro colleagues?)
+:raked puking;
+while (roots firewood?) is (telemetry flamer)
+:pricey hordes;
+:facilities sycophant;
+backward:jay ritzy;
+backward:glades duplex;
+endwhile (matinee downy)
+-[hidden]->
+detach
+case (firstborn simulation?)
+:vile pizza; <<output>>
+endswitch
+fork again
+:blurted futuristic;
+fork again
+:sew sardines; <<input>>
+-> impulse reminisce;
+end merge
+|1|
+:nuptials shay; <<load>>
+|2|
+repeat
+:monarchs blackjack;
+backward:oceans angst;
+:bottle caddie;
+if (insistent modelling) then (miniscule wandered)
+:operation bio;
+break
+endif
+->tucked sauerkraut;
+:defendants eucalyptus;
+repeat while (bayonet alarm?) is (fibber integrated)
+-> arresting resembling;
+@enduml

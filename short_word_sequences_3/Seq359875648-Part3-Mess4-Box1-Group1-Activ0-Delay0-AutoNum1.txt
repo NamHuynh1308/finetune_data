@@ -1,0 +1,15 @@
+@startuml
+participant "systems tailored" as 0
+box "minding assign"
+participant "benthic defend" as 1
+participant "schoolwork bookie" as 2
+end box
+== rathole hires ==
+autonumber 10 7
+1 -> 2: oceanographic breadth
+ [<- 1: slough celibate
+ [-> 2: retrograde anyway
+alt hotcakes dreck
+0 ->> 2: zone uncontrolled
+end
+@enduml

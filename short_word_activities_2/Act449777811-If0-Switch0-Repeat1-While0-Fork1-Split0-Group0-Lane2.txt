@@ -1,0 +1,28 @@
+@startuml
+|1| journeyed max
+|2| contributor slept
+|1|
+start
+|2|
+:sidle unhappiness; <<task>>
+-> timers carwash;
+:buffoons inducement;
+|1|
+:medications available; <<input>>
+|2|
+:worshippers homicidal; <<save>>
+-> cayman downpour;
+|1|
+repeat
+fork
+:crowded making;
+fork again
+:recipe easter;
+fork again
+:outdid fingerprints;
+kill
+end fork
+repeat while (police brainwashed?) is (plumbers suffocation)
+-> learns spokes;
+end
+@enduml

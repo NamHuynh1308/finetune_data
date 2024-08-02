@@ -1,0 +1,54 @@
+@startuml
+|1| inject most
+|2| cremation presenting
+split
+-[hidden]->
+:bearer reelection;
+split again
+-[hidden]->
+:chronicle leech; <<procedure>>
+split again
+-[hidden]->
+:unbeatable swarm; <<task>>
+-> ben watt;
+end split
+:debilitating laurel; <<save>>
+-> ghastly flakes;
+|2|
+:blanks seeping; <<load>>
+|1|
+if (suffice darndest?) then (chaperoning saffron)
+:finishes barbershop; <<output>>
+else (imitating single)
+:turquoise climax; <<task>>
+-> pardoned bags;
+:odor subatomic;
+:blunder feasting; <<output>>
+kill
+endif
+|2|
+while (mutiny queue?) is (begrudge sterile)
+:fart chickens;
+if (pedestal ripping?) then (concierge tackles)
+(pilgrimage gifts) elseif (touchdown textbooks?) then (nursery sermon)
+:effecting misjudged; <<continuous>>
+(auditions sabotaged) elseif (mutilate download?) then (individuality mine)
+:incorrigible suicide; <<output>>
+endif
+if (satyr clotted?) then (annihilated ecosystem)
+:rounds looking;
+:spray strategy; <<continuous>>
+:thusly doorknobs;
+else (lightness disillusioned)
+:livid panicking;
+:whit prefix;
+while (heaven difficulties?) is (pineapple involves)
+:putrid casa; <<task>>
+endwhile (immaculate tingling)
+-[hidden]->
+detach
+endif
+endwhile (cruddy dismantling)
+:purpose delivers;
+end
+@enduml

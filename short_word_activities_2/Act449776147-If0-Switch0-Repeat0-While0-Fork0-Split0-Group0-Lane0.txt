@@ -1,0 +1,4 @@
+@startuml
+:huckleberry shipments;
+:salary ben; <<continuous>>
+@enduml

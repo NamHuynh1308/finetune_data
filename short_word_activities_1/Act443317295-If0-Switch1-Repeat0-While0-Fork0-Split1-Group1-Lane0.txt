@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:cooper physiologically;
+split again
+-[hidden]->
+switch (respond application?)
+case (sponsoring plays?)
+:devoured jaw;
+case (redundant positions?)
+:ajar meetings;
+case (yuan laird?)
+:customs watery;
+endswitch
+split again
+-[hidden]->
+:sovereignty elected;
+-> jolly seventeenth;
+end split
+group grasp operational
+:sark shady; <<save>>
+:prosper immerse; <<input>>
+-> relish exclamation;
+end group
+@enduml

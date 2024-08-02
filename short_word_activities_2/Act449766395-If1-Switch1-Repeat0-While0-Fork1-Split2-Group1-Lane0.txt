@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:planning envious;
+split again
+-[hidden]->
+:chaplain ich; <<output>>
+split again
+-[hidden]->
+if (civilian damsels?) then (wrestle fundraisers)
+(jawed bleeding) elseif (bassett bollocks?) then (overstayed elude)
+:lifeless bazooka;
+(altitude renounce) elseif (edge spawn?) then (posing hightail)
+:bronco universities;
+(content filler) elseif (vinyl sells?) then (shipped ceremony)
+:ho saucer;
+endif
+end split
+group conjecture smoother
+switch (cocky colon?)
+case (terrace athlete?)
+split
+:cultivating ulcer;
+split again
+:assistant lowe;
+split again
+:districts sexless; <<task>>
+split again
+:cruises collector;
+-> coalition carol;
+end split
+case (homey warriors?)
+:ordering trait; <<output>>
+case (emotion took?)
+fork
+:building unload;
+fork again
+:assimilated chipping;
+fork again
+:beg spindly;
+-> sisters functions;
+end fork
+endswitch
+:transsexual eulogy;
+-> venue dozing;
+stop
+end group
+@enduml

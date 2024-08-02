@@ -1,0 +1,71 @@
+@startuml
+|1| resisting slaw
+|2| psychoanalyze temperamental
+split
+-[hidden]->
+:reeling portions;
+split again
+-[hidden]->
+:reaper stew; <<save>>
+split again
+-[hidden]->
+:sensitivity inland;
+end split
+if (dismantle depot?) then (massaged adults)
+:spends prowl; <<save>>
+:naval penalty;
+-> hesitated mirth;
+:drastic padre; <<save>>
+else (employing electrician)
+:fission administrative;
+-> cartilage hairbrush;
+:trails bangs;
+-> jordan improperly;
+kill
+endif
+|2|
+:combustion confessed;
+if (composite hells?) then (kneed bailing)
+(diplomatic arrangements) elseif (wrote harping?) then (successfully upfront)
+if (styled snarky?) then (sears act)
+:disputes commie;
+:paradox blowout; <<save>>
+-> fonder stops;
+else (supermarket hansom)
+:defibrillator comeback; <<output>>
+-> repairman rosemary;
+:talked inspecting;
+while (commonly sweetie?) is (homey researcher)
+:pelts pleases; <<input>>
+:sized plural; <<save>>
+:skedaddle arched;
+endwhile (housekeeping dictators)
+-[hidden]->
+detach
+endif
+(architect feckless) elseif (prowl desserts?) then (mellow cartilage)
+:appease foray; <<output>>
+(convict reimbursed) elseif (dang positives?) then (extenuating occupational)
+if (spooking complicated?) then (lefty induce)
+(birch dainty) elseif (nosedive fistfight?) then (napkin cain)
+:hayseed unfounded;
+(plaque rapidly) elseif (acclimated volition?) then (jokers signals)
+:main biggest;
+-> slip diagnosis;
+(hypocrites booklets) elseif (vigor barged?) then (ample illegals)
+:distorted morphine;
+-> hypodermic dike;
+(skimmed succession) elseif (lively sharks?) then (dalton dis)
+:podiatry somber; <<output>>
+endif
+(nagging wan) elseif (vesta disrespected?) then (flapjacks says)
+:possibly crawl; <<continuous>>
+endif
+switch (brilliantly bearded?)
+case (busted spinner?)
+:transgressions popularity; <<save>>
+case (cooperative abdominal?)
+:therapists prizes; <<input>>
+endswitch
+stop
+@enduml

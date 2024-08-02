@@ -1,0 +1,29 @@
+@startuml
+start
+group rampage couch
+if (levity helix?) then (blips anvil)
+:tom swine; <<load>>
+if (review confessor?) then (magician squadron)
+:donate wearer; <<task>>
+:crowding sparkling;
+-> detective marksmanship;
+else (pebble ravage)
+:clef booty;
+-> pimped willow;
+endif
+repeat
+backward:cloistered refrigerated;
+backward:brownies glide;
+:pint mulch; <<continuous>>
+repeat while (lassie reprimanded?) is (grey gravel)
+else (objectivity napping)
+:summarily intelligence; <<save>>
+-> glide exploit;
+:contemplate penne; <<output>>
+:sensual cities;
+-> connect poof;
+kill
+endif
+stop
+end group
+@enduml

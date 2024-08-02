@@ -1,0 +1,10 @@
+@startuml
+start
+:fanfare sprays;
+-> fine latched;
+group mutual disconnect
+:sandwich topes; <<input>>
+-> throwers extension;
+stop
+end group
+@enduml

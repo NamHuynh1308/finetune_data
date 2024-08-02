@@ -1,0 +1,67 @@
+@startuml
+|1| kooks untied
+|2| spoke suction
+split
+-[hidden]->
+:hairdo looser;
+split again
+-[hidden]->
+split
+:implicitly partisan;
+split again
+:shake algae;
+split again
+:culturally iron; <<output>>
+-> imaginations firs;
+split again
+:woozy gown;
+end split
+split again
+-[hidden]->
+if (abode diplomas?) then (invalidate speechless)
+:trimester nosy;
+else (hunker abnormality)
+:director goof; <<input>>
+endif
+split again
+-[hidden]->
+:lilac solace;
+-> heartbroken consume;
+end split
+|2|
+repeat
+:damage shreds;
+backward:fanning turds;
+repeat while (center tourists?) is (acquaintance studded)
+|1|
+:therein mercury; <<input>>
+-> worked unemployed;
+|2|
+:seashell nifty; <<procedure>>
+|1|
+split
+:art say;
+split again
+split
+:laptops assessing;
+split again
+:snuggling loony;
+-> samurai unlocking;
+split again
+:garnet titanic;
+split again
+:masturbation weekends; <<save>>
+end split
+split again
+split
+:versatile indifferent;
+split again
+:gushy lemony;
+split again
+:humiliated canine;
+end split
+split again
+:soapy prohibition; <<output>>
+-> blip pigskin;
+end split
+@enduml

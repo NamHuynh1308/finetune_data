@@ -1,0 +1,34 @@
+@startuml
+participant "dressed ledge" as 0
+participant "hemlock pina" as 1
+participant "bored monarchs" as 2
+box "uses regret"
+participant "incredibly informal" as 3
+participant "pulse crucified" as 4
+end box
+autonumber 4 10
+break quandary buzzards
+0 ->] : tiles double
+autonumber stop
+...bran rumpus...
+3 <-] : band veal
+autonumber resume
+else glitter studied
+loop sensors canisters
+3 -->x 2: tireless accurate
+2 -> 0!! : mixed killers
+else dominates mermaids
+4 -> 1++ : worrier goons
+create participant "totem cusp" as 5
+0 -> 5 : totem cusp
+autonumber stop
+3 <-] : skipping stared
+return clumsy statue
+alt puritan strapping
+2 <-] : kilometers ugh
+0 <-> 5: retort healthier
+autonumber resume
+end
+end
+end
+@enduml

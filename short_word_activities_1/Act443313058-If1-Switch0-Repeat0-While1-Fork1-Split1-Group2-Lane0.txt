@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:processing photocopy;
+split again
+-[hidden]->
+if (grunt caprice?) then (teammate organizing)
+:assemblies envisioned;
+else (campaigning diatribes)
+:commander convoy; <<load>>
+-> skip creed;
+:faint uphill;
+:want promotions; <<input>>
+-> delirious seeing;
+while (dependent intros?) is (creatively legendary)
+:inadequacy gunfire; <<save>>
+backward:accordance werewolves;
+endwhile (hike bail)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+:fanatic beneficial; <<input>>
+split again
+-[hidden]->
+:lopsided proclaimed; <<continuous>>
+end split
+:fluffy bride; <<load>>
+group brief potatoes
+:clanking presses; <<output>>
+group lowered pap
+fork
+:premiere sorbet;
+fork again
+:gallon mustard; <<continuous>>
+fork again
+:precinct travelers; <<procedure>>
+-> completing maudlin;
+end merge
+stop
+end group
+end group
+@enduml

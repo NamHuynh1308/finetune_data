@@ -1,0 +1,15 @@
+@startuml
+start
+:supervised urge; <<input>>
+group haven ears
+:fitness nanotechnology; <<output>>
+split
+:announcements indict;
+split again
+:bunking vacated;
+split again
+:poured chile; <<procedure>>
+end split
+end group
+stop
+@enduml

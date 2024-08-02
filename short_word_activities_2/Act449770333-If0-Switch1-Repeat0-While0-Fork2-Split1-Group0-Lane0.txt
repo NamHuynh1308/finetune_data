@@ -1,0 +1,39 @@
+@startuml
+start
+switch (excels poltergeist?)
+case (peers bankrupt?)
+fork
+:caboose fangs;
+fork again
+:pasta harms;
+fork again
+:passes obliterated;
+end merge
+case (batted solemn?)
+split
+:price hindrance;
+split again
+:unleash lecture; <<output>>
+-> rescue manslaughter;
+split again
+:sideburns priority; <<output>>
+split again
+:creaky janitors;
+end split
+case (backstroke bows?)
+:sugarcoat disappointments; <<load>>
+case (loyalty supplied?)
+:tuned malpractice;
+endswitch
+fork
+:clot froze;
+fork again
+:sandstorm inquisitor; <<input>>
+-> sulfur risky;
+fork again
+:keyboard charitable;
+fork again
+:partridge saddened;
+end fork
+end
+@enduml

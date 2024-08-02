@@ -1,0 +1,12 @@
+@startuml
+participant "possibly respiration" as 0
+participant "graciously subtle" as 1
+autonumber 9 5
+1 ->x 0: unwind dock
+break randomly revolved
+1 -> 0: blindness hurricanes
+autonumber stop
+1 -> 1!! : rover carney
+autonumber resume
+end
+@enduml

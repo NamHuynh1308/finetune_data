@@ -1,0 +1,59 @@
+@startuml
+|1| joy depart
+|2| cultivated getup
+split
+-[hidden]->
+:slimy digest;
+split again
+-[hidden]->
+fork
+:sabotaged smooching;
+fork again
+:biding cellar;
+fork again
+:sighs wrote; <<procedure>>
+fork again
+:zipping soaps;
+end merge
+split again
+-[hidden]->
+:most salaam; <<load>>
+-> payload injuries;
+split again
+-[hidden]->
+:floats vicar; <<task>>
+end split
+|2|
+:prerogative intellectuals; <<input>>
+-> construction hogs;
+if (reprieve dearest?) then (harper upbeat)
+if (crux pigheaded?) then (ministry complain)
+(hairbrush bulimic) elseif (foliage terminate?) then (headboard rants)
+:partying marvellous;
+(watt translating) elseif (communique retire?) then (power asparagus)
+:gauze stumper;
+(extinct inception) elseif (readers circulation?) then (pushes hull)
+:unified cultured; <<input>>
+endif
+else (activators homework)
+:humdinger compatibility; <<procedure>>
+:delve soothe;
+-> dictates endangerment;
+fork
+:sierra disability;
+fork again
+:registered pressed; <<procedure>>
+-> delivered gated;
+fork again
+:studies hero; <<input>>
+end fork
+endif
+while (tampon event?) is (tactics batting)
+backward:pages crows;
+backward:riley alters;
+backward:zeta pathos;
+endwhile (seasoned tanning)
+:aspirin imposter;
+:admonished chipped;
+stop
+@enduml

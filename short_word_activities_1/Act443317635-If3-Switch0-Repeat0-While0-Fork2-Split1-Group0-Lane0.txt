@@ -1,0 +1,46 @@
+@startuml
+split
+:footman locket;
+split again
+:militia quitting;
+split again
+:mapped tyrant; <<task>>
+split again
+:sterling interpreted; <<load>>
+-> dodger truth;
+end split
+:holden comatose; <<task>>
+if (whiny arguably?) then (pins pump)
+if (torso scurry?) then (ser billion)
+:mirror schmooze;
+:edible hyper;
+-> listen tripping;
+else (precautions averse)
+:soar imports;
+:scrutiny shea; <<load>>
+endif
+fork
+:journey manages;
+fork again
+:stomper oceanographic; <<load>>
+fork again
+:wholly saintly; <<input>>
+end fork
+else (carolers microscope)
+if (kicks delete?) then (ground support)
+(brace ranger) elseif (suds trolling?) then (tie layers)
+:browbeating blather; <<output>>
+(daydreaming freedom) elseif (cure marginally?) then (cache finest)
+:gardens trying;
+endif
+fork
+:strain pygmy;
+fork again
+:graphs gasp;
+fork again
+:parachutes birthdays;
+end merge
+:browsing choir;
+kill
+endif
+@enduml

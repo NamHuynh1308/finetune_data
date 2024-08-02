@@ -1,0 +1,10 @@
+@startuml
+participant "pensions firehouse" as 0
+participant "sees pedro" as 1
+0 ->x 1++ : underwater surfboard
+0 -> 1!! : skirmishes hassle
+loop minors knuckle
+ [<- 1: sizeable bribed
+end
+return creases wells
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "double deities" as 0
+participant "destabilize soapbox" as 1
+== supportive paving ==
+autonumber 1 4
+0 -// 0++ : polling tambourine
+par bloods fuzzy
+1 -// 1: freeway aids
+end
+return radios commentator
+@enduml

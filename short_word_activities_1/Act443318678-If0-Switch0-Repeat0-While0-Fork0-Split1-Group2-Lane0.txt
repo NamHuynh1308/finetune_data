@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:rotting unresponsive;
+split again
+-[hidden]->
+:unsuitable practicing; <<task>>
+split again
+-[hidden]->
+:shells amiss; <<input>>
+-> alchemy coffees;
+end split
+group beetle cakewalk
+:greased melding;
+-> watched archenemy;
+group beautifully lurk
+:fixating capper;
+-> lawnmower attentive;
+stop
+end group
+end group
+@enduml

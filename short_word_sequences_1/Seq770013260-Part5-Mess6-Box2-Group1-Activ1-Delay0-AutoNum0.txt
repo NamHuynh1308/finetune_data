@@ -1,0 +1,21 @@
+@startuml
+participant "docks produce" as 0
+participant "hanging pinochle" as 1
+box "oddly curacao"
+participant "litigation transfusion" as 2
+box "raids arrange"
+participant "cuticles smother" as 3
+end box
+end box
+opt gruel fellows
+2 -> 0: dinged trousers
+3 -> 1: transporting respectful
+0 -> 0++ : punchy tyrant
+else fit alternator
+create participant "shadows tight" as 4
+2 -> 4 : shadows tight
+1 ->] : massive lining
+4 -\\ 4: dances obliterated
+return inevitability rescue
+end
+@enduml

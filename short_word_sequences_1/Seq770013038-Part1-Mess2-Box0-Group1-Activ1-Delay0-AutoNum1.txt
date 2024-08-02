@@ -1,0 +1,9 @@
+@startuml
+participant "airtight spate" as 0
+autonumber 10 2
+0 ->x 0++ : retrofit resetting
+loop technicians audacity
+0 -->x 0: holiest repellent
+end
+return umbilical snakes
+@enduml

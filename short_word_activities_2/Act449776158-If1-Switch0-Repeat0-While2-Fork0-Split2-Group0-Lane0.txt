@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:schlep scuffle;
+split again
+-[hidden]->
+:anxiously corridor; <<load>>
+split again
+-[hidden]->
+if (poser baring?) then (oiled lunchtime)
+(sprouting organized) elseif (hair quaker?) then (celebrity humored)
+:theology famed; <<task>>
+-> noticeably milo;
+(rounding substituting) elseif (octane panther?) then (reserve injury)
+:stagger wipers; <<task>>
+(loaning mentions) elseif (categorized mopping?) then (quoting mailman)
+:saved syndicate; <<continuous>>
+-> magnetic dispatched;
+endif
+end split
+while (whoops spontaneous?) is (posters zones)
+:wised dots;
+endwhile (futures override)
+:lag arcade;
+:thespian duplex; <<procedure>>
+while (tattooed sous?) is (sixth jammed)
+split
+:deserts creepy;
+split again
+:sentinel roots;
+split again
+:yelled enhanced;
+-> aroused martinis;
+split again
+:postman their;
+-> dorms meaning;
+end split
+endwhile (displaying knees)
+:troubled prosper;
+@enduml

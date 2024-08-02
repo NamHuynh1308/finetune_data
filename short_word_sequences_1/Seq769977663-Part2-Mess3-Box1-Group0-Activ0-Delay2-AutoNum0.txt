@@ -1,0 +1,11 @@
+@startuml
+box "backups authenticated"
+participant "allergies powers" as 0
+participant "princesses proposal" as 1
+end box
+1 -// 0: barbers footing
+...lyrical laying...
+ [<- 0: detectors greed
+...argue jogging...
+1 --> 1: stricken honorary
+@enduml

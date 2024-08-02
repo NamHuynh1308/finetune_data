@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:demands clothes;
+split again
+-[hidden]->
+:foisting depicted;
+split again
+-[hidden]->
+switch (reliable mundane?)
+case (repercussions describing?)
+:layaway basket;
+case (scared orchestrated?)
+:tis conflicting;
+-> recollection galactic;
+case (rated noticeably?)
+:streetlights stalk; <<output>>
+-> shrug electrodes;
+case (plane substantial?)
+:phobia landscape;
+endswitch
+split again
+-[hidden]->
+:beforehand theoretically;
+end split
+:snuggles seems; <<continuous>>
+stop
+@enduml

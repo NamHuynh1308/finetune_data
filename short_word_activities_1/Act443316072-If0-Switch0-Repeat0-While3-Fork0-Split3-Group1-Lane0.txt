@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:databases respectfully;
+split again
+-[hidden]->
+:conveyor premonition; <<output>>
+split again
+-[hidden]->
+:workplace fraud; <<input>>
+-> muff turns;
+end split
+while (grease desks?) is (aplastic errand)
+split
+:squirm fearless;
+split again
+:heroine rhythm;
+split again
+:sounded loser; <<task>>
+split again
+:subtlety chocolates;
+-> preeclampsia mandatory;
+end split
+backward:byproduct longevity;
+endwhile (eerily hives)
+:conception medicating;
+group scag cubbies
+split
+:outlined grownup;
+split again
+while (null recorders?) is (docking photography)
+backward:love systems;
+:cabbage pong;
+endwhile (therapist grooms)
+:smiley amputate;
+split again
+while (seduction herds?) is (voiced sulfur)
+:merely heartbreaker;
+-> holds salvaged;
+:team manhole;
+endwhile (catalyst bony)
+:stranger reflects;
+end split
+stop
+end group
+@enduml

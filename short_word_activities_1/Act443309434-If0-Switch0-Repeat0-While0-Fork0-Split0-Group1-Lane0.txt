@@ -1,0 +1,9 @@
+@startuml
+:whittle stacked; <<load>>
+-> bathrooms draw;
+:loner disagreeing;
+group happiest telemarketing
+:hubby impending; <<output>>
+stop
+end group
+@enduml

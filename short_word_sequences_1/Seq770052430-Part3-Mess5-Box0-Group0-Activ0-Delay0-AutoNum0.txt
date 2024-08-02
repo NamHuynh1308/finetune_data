@@ -1,0 +1,10 @@
+@startuml
+participant "dispensers unholy" as 0
+participant "fault loss" as 1
+0 -> 1: alphabetized blooded
+ [<- 0: hedges dozer
+create participant "deliberate shuffling" as 2
+1 -> 2 : deliberate shuffling
+0 -> 1: lyrical door
+1 <-> 2: guarantee outset
+@enduml

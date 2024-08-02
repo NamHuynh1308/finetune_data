@@ -1,0 +1,17 @@
+@startuml
+participant "quaker doing" as 0
+participant "hows luxuries" as 1
+box "host indulge"
+participant "confronts trifled" as 2
+end box
+== room dinged ==
+0 -\\ 1++ : advertisement monsters
+...glitches lad...
+1 <-> 0: ravish overlooking
+return meadow awareness
+ [-> 0: nauseated forgave
+1 -> 2: refreshed accounts
+break packets deterioration
+0 ->] : pronouns morsel
+end
+@enduml

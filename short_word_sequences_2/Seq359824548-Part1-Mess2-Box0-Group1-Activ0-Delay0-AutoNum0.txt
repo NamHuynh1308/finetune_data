@@ -1,0 +1,8 @@
+@startuml
+participant "shepherds uproar" as 0
+== neutralized hallucinogen ==
+loop something rainier
+ [<- 0: calf probes
+0 -> 0: pumpkin bruised
+end
+@enduml

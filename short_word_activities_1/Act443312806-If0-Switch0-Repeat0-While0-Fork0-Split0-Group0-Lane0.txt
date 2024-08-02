@@ -1,0 +1,5 @@
+@startuml
+start
+:dragon marksmanship; <<task>>
+stop
+@enduml

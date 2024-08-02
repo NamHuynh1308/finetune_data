@@ -1,0 +1,13 @@
+@startuml
+participant "twins rubes" as 0
+participant "eel strummer" as 1
+box "spooky imaginative"
+participant "jackass fountains" as 2
+end box
+== dances fireball ==
+1 ->x 0: sleepover laziness
+ [-> 2: oh audition
+loop attached ken
+2 <-] : couple evangelical
+end
+@enduml

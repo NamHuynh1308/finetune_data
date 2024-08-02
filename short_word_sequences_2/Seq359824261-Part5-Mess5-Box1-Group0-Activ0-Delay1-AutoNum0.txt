@@ -1,0 +1,16 @@
+@startuml
+participant "directors tonight" as 0
+participant "spar graham" as 1
+participant "fixing pam" as 2
+box "revere sandalwood"
+participant "cob biopsy" as 3
+participant "forsaking consistently" as 4
+end box
+== merchandise plop ==
+4 -> 2: ration tenant
+1 --//o 3: buckaroo plead
+...linen immerse...
+ [<- 0: organizing rioja
+4 ->> 1: fears tackles
+1 -> 1: slanderous hallelujah
+@enduml

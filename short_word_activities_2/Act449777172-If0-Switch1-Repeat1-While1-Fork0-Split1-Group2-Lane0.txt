@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:continuance fears;
+split again
+-[hidden]->
+switch (buffy postman?)
+case (sled scorch?)
+:segue tempo; <<continuous>>
+case (felicity bucks?)
+:desserts several;
+case (hater manipulates?)
+:spice confide;
+endswitch
+split again
+-[hidden]->
+:lungs strapped; <<save>>
+end split
+while (developing kris?) is (threaten egging)
+backward:jerseys teal;
+:appeared cleverly; <<procedure>>
+backward:ongoing prerogative;
+:stupidest sap; <<task>>
+endwhile (defied waiters)
+:serpent fraught;
+group sift colonists
+:theirs mesquite;
+group footman midnight
+repeat
+:turns worthy; <<load>>
+:crypto proceeding; <<output>>
+repeat while (courtrooms mime?) is (apprehensive traced)
+-> revolves ester;
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:backfired blitz;
+split again
+-[hidden]->
+if (condemned cooped?) then (refundable slings)
+:cancelled edits; <<output>>
+else (observations tiff)
+:pocketed ne;
+:yuk happenings; <<output>>
+:banks gambler;
+endif
+split again
+-[hidden]->
+:buzzes observation; <<output>>
+split again
+-[hidden]->
+:prolonged charities;
+end split
+group outset sailboats
+:veritas snuck; <<procedure>>
+-> cigarettes coming;
+:miraculously sharks;
+-> dill amazes;
+end group
+stop
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "points pharmaceutical" as 0
+participant "porridge dills" as 1
+box "fess mediator"
+participant "mulligan execs" as 2
+end box
+ [<- 1: tightly whee
+...switches skater...
+0 ->] : derrick jazz
+1 ->o 0++ : supreme lenses
+return wildfire blossom
+@enduml

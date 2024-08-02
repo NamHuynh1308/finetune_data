@@ -1,0 +1,13 @@
+@startuml
+box "errand theologian"
+participant "accursed eyelashes" as 0
+participant "promises prehistoric" as 1
+end box
+participant "least intellect" as 2
+2 -// 1: always wireless
+1 -> 1: oatmeal collect
+create participant "hosted bombarded" as 3
+0 -> 3 : hosted bombarded
+...perjure rioting...
+2 -->x 1: tarzan evaluated
+@enduml

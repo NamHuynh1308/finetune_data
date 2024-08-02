@@ -1,0 +1,12 @@
+@startuml
+participant "mats table" as 0
+participant "potted raved" as 1
+autonumber 10 2
+ [<- 1: nomads confusing
+par surfboard heard
+0 ->] : devised fliers
+autonumber stop
+...precedent ample...
+ [<- 1: minnow references
+end
+@enduml

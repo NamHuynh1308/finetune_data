@@ -1,0 +1,21 @@
+@startuml
+participant "disappearing fatigue" as 0
+participant "motor hydra" as 1
+participant "jar ashtrays" as 2
+box "freshness hidden"
+participant "sump mills" as 3
+participant "slush unbreakable" as 4
+end box
+== congenial atrium ==
+0 --> 2: windowsill racquet
+0 -> 2: gunman nursery
+1 --> 1: smithereens yak
+0 ->x 1: ideally distinct
+4 -->x 1: minnow torah
+...extremes pint...
+1 -\\ 4++ : salvaged sullen
+4 <-] : mysteries basic
+...realized custodial...
+3 --> 0: awakened consumes
+return sailor awhile
+@enduml

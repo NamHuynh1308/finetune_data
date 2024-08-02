@@ -1,0 +1,6 @@
+@startuml
+start
+:spectators capable;
+:godly teamwork; <<procedure>>
+-> mm kiddie;
+@enduml

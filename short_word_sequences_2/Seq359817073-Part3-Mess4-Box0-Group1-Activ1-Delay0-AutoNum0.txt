@@ -1,0 +1,14 @@
+@startuml
+participant "daddies gopher" as 0
+participant "gavel edict" as 1
+== honorable orphan ==
+create participant "bookman hounding" as 2
+1 -> 2 : bookman hounding
+ [-> 1: warehouse stinks
+critical sniper lighter
+1 -> 0++ : riveted noodles
+0 --//o 0: distributing guests
+else legion vocabulary
+end
+return enter scene
+@enduml

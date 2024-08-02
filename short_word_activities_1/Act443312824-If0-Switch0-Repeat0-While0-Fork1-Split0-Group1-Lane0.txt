@@ -1,0 +1,13 @@
+@startuml
+group invasive generates
+:babysitter eviscerated; <<input>>
+:pointing gelatin; <<task>>
+end group
+fork
+:la tibia;
+fork again
+:revoked delta; <<input>>
+fork again
+:cleaners cellars; <<continuous>>
+end fork
+@enduml

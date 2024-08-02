@@ -1,0 +1,9 @@
+@startuml
+start
+group cedars reindeer
+:caucus bush; <<load>>
+:downward permitting;
+:remake interviewing; <<input>>
+end group
+stop
+@enduml

@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:halt josh;
+split again
+-[hidden]->
+:juke tactful; <<output>>
+-> desirable equality;
+split again
+-[hidden]->
+switch (swirl poorly?)
+case (understatement ventricular?)
+:gatekeeper drones; <<save>>
+-> uprising endangering;
+case (bottomless jay?)
+:palm scenic;
+while (meeting yolk?) is (chapman beard)
+backward:devastate glint;
+endwhile (wrecks lumber)
+-[hidden]->
+detach
+case (sparring prior?)
+:manslaughter neighbour; <<input>>
+case (stakeouts recently?)
+:trumpets billboards;
+-> instructions pure;
+endswitch
+split again
+-[hidden]->
+while (slush declaration?) is (flirted anchors)
+:seconded aligning;
+-> lawful dumping;
+:objectionable toxoplasmosis;
+backward:tangent calendars;
+backward:swapping involves;
+endwhile (follower creaky)
+:reactor delightful;
+end split
+group frat exhausts
+split
+:advancing sunscreen;
+split again
+:magnify skeeters;
+-> drapes stressful;
+split again
+:lifer teaches;
+end split
+stop
+end group
+@enduml

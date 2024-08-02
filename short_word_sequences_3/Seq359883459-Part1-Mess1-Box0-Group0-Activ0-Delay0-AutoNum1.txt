@@ -1,0 +1,6 @@
+@startuml
+participant "stew broth" as 0
+autonumber 5 5
+0 ->o 0: further turkey
+autonumber stop
+@enduml

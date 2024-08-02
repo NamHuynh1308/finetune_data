@@ -1,0 +1,12 @@
+@startuml
+participant "playthings exploited" as 0
+participant "lilacs journalistic" as 1
+box "hall date"
+participant "deed flowers" as 2
+end box
+0 -> 1: financial haystack
+2 -> 2: mimicking microchips
+...employment humanity...
+0 -> 2: coastal dud
+0 -> 1: greed candid
+@enduml

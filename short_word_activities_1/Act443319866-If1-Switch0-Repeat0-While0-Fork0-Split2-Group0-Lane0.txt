@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:resist jams;
+split again
+-[hidden]->
+if (blows muddle?) then (dato leftover)
+(submit hazardous) elseif (skids groomer?) then (erred orbital)
+:repay plastered;
+-> discontent tulle;
+(dunk symbolically) elseif (ghastly nachos?) then (waitressing mite)
+:believed prudent;
+-> snort fatalities;
+(snow undeniably) elseif (disservice sailing?) then (woolly ballerina)
+:request fifteen; <<continuous>>
+-> handguns blowed;
+(pensions stipulates) elseif (clay recent?) then (sub latest)
+:terrorists melted; <<continuous>>
+-> dimly glassware;
+endif
+split again
+-[hidden]->
+:fishermen reconciliation;
+split again
+-[hidden]->
+split
+:vive councilors;
+split again
+:panama satin;
+-> centerfold hookers;
+split again
+:sugars decapitate; <<input>>
+split again
+:thyroid chickening; <<input>>
+end split
+end split
+:rehabilitate blah; <<task>>
+@enduml

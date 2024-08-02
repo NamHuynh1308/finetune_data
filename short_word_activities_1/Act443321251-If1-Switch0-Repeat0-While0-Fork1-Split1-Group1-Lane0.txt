@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:judgement vital;
+split again
+-[hidden]->
+if (sodas quaker?) then (hybrids baptized)
+:stairwell acknowledged;
+-> shelve hunted;
+:aboriginal polished; <<output>>
+kill
+else (diagnosis immune)
+:ban undermines; <<input>>
+:sobered fours;
+:mason crafted; <<save>>
+endif
+split again
+-[hidden]->
+:crayons behooves; <<procedure>>
+split again
+-[hidden]->
+fork
+:junkie statistics;
+fork again
+:footstool stemmed;
+-> gush os;
+fork again
+:manatee fountain;
+end merge
+end split
+group motherfucking derive
+:dismount memorial; <<task>>
+stop
+end group
+@enduml

@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:clerks not;
+split again
+-[hidden]->
+:she worse; <<procedure>>
+split again
+-[hidden]->
+repeat
+backward:rewriting hives;
+repeat while (epidemic substation?) is (clandestine refuge)
+split again
+-[hidden]->
+split
+:modem lore;
+split again
+:celery horsey;
+split again
+:termination beatnik; <<continuous>>
+-> flipper jag;
+end split
+end split
+:chaperoning condo; <<task>>
+:triggering piled; <<load>>
+-> evolutionary trespasser;
+while (network bedbugs?) is (fiend leopards)
+backward:guest manage;
+backward:caucus inform;
+endwhile (activated motivation)
+:capitalize huffy;
+stop
+@enduml

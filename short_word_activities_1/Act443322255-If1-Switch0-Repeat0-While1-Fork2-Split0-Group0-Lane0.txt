@@ -1,0 +1,31 @@
+@startuml
+fork
+:dormant organise;
+fork again
+fork
+:roach silly;
+fork again
+:register swaying;
+fork again
+:centennial christening; <<load>>
+fork again
+:fruitcake seeks;
+end merge
+fork again
+:urgent rather;
+while (lunar subways?) is (ventricle rotary)
+if (detention birthright?) then (seaman spender)
+:represent feminist;
+:taken verbatim;
+:fencing defiant;
+else (coherent obligated)
+:costa chips; <<output>>
+:observant exposing; <<save>>
+:rib huge;
+endif
+endwhile (terminate coz)
+-[hidden]->
+detach
+end fork
+end
+@enduml

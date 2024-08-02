@@ -1,0 +1,12 @@
+@startuml
+box "captains midwestern"
+participant "charming boonies" as 0
+participant "compelling nose" as 1
+end box
+alt halls carmen
+0 ->x 0: dunked preying
+0 <-> 1: distinguish districts
+...dinged negative...
+ [-> 0: printer gunning
+end
+@enduml

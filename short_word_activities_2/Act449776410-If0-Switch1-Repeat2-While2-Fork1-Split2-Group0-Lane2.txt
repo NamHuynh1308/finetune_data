@@ -1,0 +1,58 @@
+@startuml
+|1| carl corroborate
+|2| pumped remove
+split
+-[hidden]->
+:outside poetic;
+split again
+-[hidden]->
+while (lied outdoor?) is (dialect foxholes)
+backward:soups nappy;
+endwhile (despise airstrip)
+:shaming sugars;
+split again
+-[hidden]->
+:chugging knobby; <<save>>
+split again
+-[hidden]->
+:living tiff; <<output>>
+end split
+fork
+:spoonful traced;
+fork again
+:classes retaliated; <<output>>
+fork again
+switch (savage listener?)
+case (answer sweets?)
+:trombone ranger; <<input>>
+case (charlies dings?)
+:treating soggy;
+case (foxes mumbles?)
+:sordid repetitive; <<load>>
+case (mortar pee?)
+:tremor ruffians; <<load>>
+endswitch
+end fork
+|2|
+repeat
+while (blurting dart?) is (paraphernalia anthropologists)
+:obsessions communications;
+:visit worthwhile; <<input>>
+-> pardons authoritative;
+backward:lecture stack;
+endwhile (recycling needles)
+:arrears moist;
+repeat while (parading defied?) is (vending feta)
+-> vanilla lovelier;
+split
+:wrappers badminton;
+split again
+:pounder puffing; <<load>>
+split again
+:mend boy; <<save>>
+end split
+repeat
+backward:rin foyer;
+repeat while (reproductive booths?) is (wreckage rigged)
+stop
+@enduml

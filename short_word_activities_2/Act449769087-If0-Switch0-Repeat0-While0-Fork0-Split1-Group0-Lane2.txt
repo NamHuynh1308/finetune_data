@@ -1,0 +1,24 @@
+@startuml
+|1| contesting defining
+|2| primates shows
+split
+-[hidden]->
+:diary choosy;
+split again
+-[hidden]->
+:surprising hotbed; <<save>>
+split again
+-[hidden]->
+:overbearing egomaniacal;
+-> dries riots;
+end split
+|2|
+:fabricated unlawful; <<procedure>>
+-> cot sent;
+|1|
+:accusers assumption;
+-> swatting flourished;
+:dislodged owners;
+-> limousine theatre;
+stop
+@enduml

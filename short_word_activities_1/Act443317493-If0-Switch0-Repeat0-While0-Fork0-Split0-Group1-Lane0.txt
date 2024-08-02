@@ -1,0 +1,9 @@
+@startuml
+group three controlled
+:timeless anchovies; <<task>>
+:catering stones; <<task>>
+end group
+:hurricane rednecks; <<output>>
+-> largest princes;
+stop
+@enduml

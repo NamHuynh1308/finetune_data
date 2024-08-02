@@ -1,0 +1,22 @@
+@startuml
+box "gazpacho converse"
+participant "messier chug" as 0
+box "breakthrough thins"
+participant "quirks selfishness" as 1
+box "appreciated amuses"
+participant "suspect spirit" as 2
+end box
+end box
+end box
+== intestinal powering ==
+2 ->] : sees spices
+alt neural haha
+0 -> 2: melon nickels
+0 -> 2: incapable hello
+else tally committee
+1 --//o 0: testifies height
+2 ->o 2++ : wakes accident
+1 <-> 0: thrown leaflets
+return maiming bucko
+end
+@enduml

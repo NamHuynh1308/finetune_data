@@ -1,0 +1,21 @@
+@startuml
+box "tonsil bonbon"
+participant "nineties taxicab" as 0
+box "tsk bolts"
+participant "gutting upon" as 1
+participant "cyst chased" as 2
+end box
+end box
+autonumber 9 1
+0 -\\ 1: walking qualified
+1 <-> 0: backroom appreciated
+1 -> 1: billy religion
+alt nostril redefine
+...august ale...
+1 --> 2: confirmed displacement
+autonumber stop
+ [<- 2: toner betrayed
+autonumber resume
+else pleasant urinating
+end
+@enduml

@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:hopper straights;
+split again
+-[hidden]->
+:disperse protesters; <<load>>
+split again
+-[hidden]->
+:folks florists; <<task>>
+end split
+group mirrors imperfection
+if (brownies tae?) then (forest mixed)
+:rats convenes; <<input>>
+else (slap capote)
+:explicitly psychosomatic; <<continuous>>
+-> frazzled sickly;
+:liked certifiable; <<continuous>>
+repeat
+backward:combat rumblings;
+repeat while (hooks offensive?) is (stamina seed)
+endif
+group spoons trustee
+split
+:skill fiance;
+split again
+switch (abduction terror?)
+case (joining dubious?)
+:lettering pie;
+case (stagger peerless?)
+:sprouting tripped;
+endswitch
+split again
+:nada supported; <<load>>
+split again
+split
+:pasta underwear;
+split again
+:strategy presidents;
+split again
+:daylights blush; <<load>>
+split again
+:takeover temporarily;
+end split
+end split
+stop
+end group
+end group
+@enduml

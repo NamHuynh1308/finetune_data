@@ -1,0 +1,12 @@
+@startuml
+start
+:manipulating latitude; <<input>>
+-> harry intend;
+split
+:success heaps;
+split again
+:few paved;
+split again
+:bordeaux emulating; <<load>>
+end split
+@enduml

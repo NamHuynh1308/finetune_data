@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:salt explained;
+split again
+-[hidden]->
+fork
+:restraints superpower;
+fork again
+:cent tendon; <<task>>
+fork again
+:indictments applying; <<save>>
+end merge
+split again
+-[hidden]->
+while (seasons unending?) is (bedridden hangover)
+:jacket spirited;
+backward:lumpy infatuation;
+:aces purgatory;
+backward:packages garage;
+endwhile (better shoulder)
+:harshly severance;
+end split
+:gargantuan division;
+group oar doe
+if (global rational?) then (barricaded misunderstand)
+(hospitalized headline) elseif (trucks worthwhile?) then (replaying croft)
+:phoenix exploratory;
+-> balcony fonder;
+(kissing capping) elseif (cakewalk suspending?) then (sexiest vertebrae)
+:hesitates transferring; <<load>>
+endif
+:ethic ankles;
+-> perceptions brushed;
+stop
+end group
+@enduml

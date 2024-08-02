@@ -1,0 +1,21 @@
+@startuml
+participant "branches leaks" as 0
+box "sneaking impersonal"
+participant "henry traced" as 1
+box "ghastly precedents"
+participant "faculties mitten" as 2
+end box
+end box
+== mural refined ==
+0 -> 2: theatrical overthink
+alt cider iliad
+1 -> 0: gutting drafty
+...informing pentagram...
+ [<- 0: fletcher pathways
+else butch patents
+0 -> 2: pirated inquiries
+ [<- 0: fielder cube
+2 <-] : midwives franchises
+else simplify celery
+end
+@enduml

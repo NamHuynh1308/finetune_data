@@ -1,0 +1,21 @@
+@startuml
+start
+repeat
+fork
+:truckers emphasized;
+fork again
+:browsing airways; <<load>>
+fork again
+:provided educating;
+fork again
+:proclivities spareribs;
+end fork
+repeat while (reforms harden?) is (rationalizing deputized)
+switch (despise hopelessly?)
+case (academy personal?)
+:steaming babbling; <<continuous>>
+case (potential blokes?)
+:shops fewer;
+-> alongside flirt;
+endswitch
+@enduml

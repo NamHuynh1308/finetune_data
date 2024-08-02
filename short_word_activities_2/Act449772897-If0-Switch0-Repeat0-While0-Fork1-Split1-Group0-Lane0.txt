@@ -1,0 +1,21 @@
+@startuml
+start
+split
+:fizzled valley;
+split again
+:unreal feedback; <<continuous>>
+split again
+:locking schematics; <<load>>
+split again
+fork
+:wells advantages;
+fork again
+:embroiled site;
+fork again
+:wally transported;
+fork again
+:heckles absorbed;
+end merge
+end split
+end
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+participant "letters legged" as 0
+box "propulsion fixtures"
+participant "unity internment" as 1
+participant "rattlesnakes lists" as 2
+end box
+autonumber 2 2
+alt dos antibody
+1 ->] : limousines frenzy
+autonumber stop
+2 -> 1!! : delightfully swimsuit
+critical pothole competitor
+...architecture oasis...
+2 ->> 1: rhymed funniest
+autonumber resume
+loop expressive performed
+2 -\\ 1: promptly desecration
+create participant "guard firing" as 3
+2 -> 3 : guard firing
+end
+create participant "decent compromising" as 4
+1 -> 4 : decent compromising
+break planners friend
+ [-> 1: depicted nanosecond
+autonumber stop
+end
+end
+end
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+box "grips arc"
+participant "conflicted broccoli" as 0
+box "centre lynch"
+participant "dropped stepping" as 1
+box "synagogue reveling"
+participant "dispatcher carburetor" as 2
+participant "scramble gnomes" as 3
+end box
+end box
+end box
+1 -> 2: over scarecrow
+...brilliant shag...
+2 -> 1++ : doorknob passed
+opt unload inlaid
+create participant "gnats savage" as 4
+1 -> 4 : gnats savage
+break name defy
+...septic starting...
+3 -> 0: dunk unbecoming
+return haste boxcar
+1 <-> 1: dummy crucify
+end
+end
+@enduml

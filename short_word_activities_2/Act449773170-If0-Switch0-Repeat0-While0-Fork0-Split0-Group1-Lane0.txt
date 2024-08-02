@@ -1,0 +1,8 @@
+@startuml
+start
+group broadcast fluffy
+:dashed bobbin; <<procedure>>
+-> pie rehash;
+stop
+end group
+@enduml

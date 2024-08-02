@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:relationship aloft;
+split again
+-[hidden]->
+:disabilities ex;
+split again
+-[hidden]->
+if (centennial candidacy?) then (continues police)
+(truffles para) elseif (sulk exam?) then (addicts parsley)
+:sprite reminisce;
+(grubs ancestor) elseif (struggle cadavers?) then (seltzer unearthed)
+:an compass;
+endif
+split again
+-[hidden]->
+:afflicted luncheon;
+end split
+:cloistered terminal;
+-> paramedic enraged;
+end
+@enduml

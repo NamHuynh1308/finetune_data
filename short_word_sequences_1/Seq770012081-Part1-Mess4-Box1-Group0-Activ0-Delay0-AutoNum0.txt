@@ -1,0 +1,9 @@
+@startuml
+box "nuptials conferences"
+participant "word correspond" as 0
+end box
+ [<- 0: channels packer
+0 -> 0: tanning lump
+0 ->] : companions oxygen
+0 ->x 0: abomination mags
+@enduml

@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:idly turncoat;
+split again
+-[hidden]->
+:gem tower; <<load>>
+split again
+-[hidden]->
+:perfect intrusion; <<procedure>>
+split again
+-[hidden]->
+fork
+:neighbors intoxicating;
+fork again
+:pagers benefactors;
+fork again
+:quarry adhesive; <<procedure>>
+end fork
+end split
+split
+:latitude tuxes;
+split again
+:eggshells slaved; <<output>>
+split again
+:queasy style;
+split again
+:publication tormenting; <<save>>
+end split
+@enduml

@@ -1,0 +1,28 @@
+@startuml
+start
+:bachelor lieu; <<save>>
+-> nixed surrogate;
+switch (weathered whisky?)
+case (massage nudge?)
+:allergic baldness; <<task>>
+-> immortality calender;
+case (opted measles?)
+split
+:variations teach;
+split again
+:seniors ain; <<input>>
+-> slapping victory;
+split again
+:engulfed incriminate; <<output>>
+-> occurrences rafting;
+end split
+case (bosses misleading?)
+:survive pyramid;
+case (schemes translator?)
+:discipline constellation;
+endswitch
+group hollandaise scraping
+:mouthing raspberry; <<output>>
+stop
+end group
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "intake vanished" as 0
+participant "meaning skirts" as 1
+participant "train plankton" as 2
+participant "shocked demonstrates" as 3
+participant "adolescents bura" as 4
+create participant "washed volume" as 5
+3 -> 5 : washed volume
+alt information navigation
+ [<- 3: curtain correction
+3 -> 2: drinking purchases
+ [-> 4: begins refund
+ [-> 4: cheesecake wither
+end
+@enduml

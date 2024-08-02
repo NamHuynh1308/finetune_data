@@ -1,0 +1,6 @@
+@startuml
+group channel bloodhound
+:cologne jags; <<load>>
+stop
+end group
+@enduml

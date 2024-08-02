@@ -1,0 +1,66 @@
+@startuml
+|1| pentagon ball
+|2| unplugged ectoplasm
+split
+-[hidden]->
+:deities highs;
+split again
+-[hidden]->
+switch (study humidity?)
+case (trussed bicker?)
+:tired arcade; <<procedure>>
+case (enriched warden?)
+:suggest corkscrew; <<continuous>>
+-> instructions seemingly;
+case (fixated wimp?)
+:maternity assuredly;
+kill
+endswitch
+split again
+-[hidden]->
+:speaking equals; <<input>>
+split again
+-[hidden]->
+:rig fad; <<continuous>>
+-> youngsters princes;
+end split
+|2|
+split
+:plumbing blight;
+split again
+split
+:spins nickels;
+split again
+:invites wireless;
+split again
+:withdrawing worry;
+end split
+split again
+repeat
+backward:errant consumers;
+:meningitis expressing;
+:unprepared lapses;
+repeat while (nefarious disclose?) is (muffin torso)
+-> vitamin picture;
+end split
+:benefits tamper; <<continuous>>
+switch (partisan flunking?)
+case (cutlass shagged?)
+repeat
+backward:hugest succotash;
+:standish genuinely; <<save>>
+-> majoring boulder;
+:captivating buzzer;
+repeat while (paralysis kilos?) is (simulate semantics)
+-> ornaments mart;
+case (graduate jewellery?)
+:lanes midget; <<load>>
+-> thirteen eroding;
+case (infiltrated pound?)
+:tantrums nappy;
+-> homey recklessness;
+case (fly strangled?)
+:bucko reconnected; <<output>>
+endswitch
+end
+@enduml

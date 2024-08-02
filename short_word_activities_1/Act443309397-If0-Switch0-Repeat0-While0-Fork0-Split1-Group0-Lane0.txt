@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:imperfection medal;
+split again
+-[hidden]->
+:obsolete capitol; <<continuous>>
+split again
+-[hidden]->
+:unconsciously undetected;
+-> comers felonious;
+end split
+:civilization embraces;
+-> begin tomahawk;
+@enduml

@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:globe personified;
+split again
+-[hidden]->
+:undergraduate tickles; <<continuous>>
+-> frost croquet;
+split again
+-[hidden]->
+:honoring appreciation; <<save>>
+-> shutting whiff;
+split again
+-[hidden]->
+:responsibilities mister; <<continuous>>
+-> ex awaiting;
+end split
+group orthodox commissary
+fork
+:travelers swirling;
+fork again
+:crummy diminished; <<load>>
+fork again
+:creme veneer; <<continuous>>
+end merge
+group hacks jagger
+:savor conjure; <<load>>
+:everglades newspapers; <<procedure>>
+-> transcript errors;
+stop
+end group
+end group
+@enduml

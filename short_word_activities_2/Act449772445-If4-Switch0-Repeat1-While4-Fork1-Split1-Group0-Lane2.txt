@@ -1,0 +1,87 @@
+@startuml
+|1| caller otherwise
+|2| chase blisters
+split
+-[hidden]->
+:overseeing encounter;
+split again
+-[hidden]->
+:polished mythological;
+-> tammy asinine;
+split again
+-[hidden]->
+:pressing secluded;
+kill
+end split
+repeat
+if (partnership excesses?) then (offender panic)
+:ambulances redevelopment;
+-> simultaneously conclusive;
+while (sing faked?) is (elaborate mamma)
+:hayseed noxious; <<load>>
+-> spate playing;
+:actions adjacent;
+endwhile (nostalgic notary)
+-[hidden]->
+detach
+else (bulge repeal)
+:river patron; <<input>>
+endif
+repeat while (assuredly harriers?) is (storage disapproving)
+if (porter skipping?) then (burdened ogre)
+:lowe fallow;
+:cheap heavily;
+-> familial peacemaker;
+else (rain employing)
+:hydra thirds; <<load>>
+:everlasting crux;
+-> fritz charlatan;
+while (incinerated heiress?) is (raptor lighter)
+while (poorly threads?) is (tod sheen)
+:militants despondent;
+backward:convertible walling;
+:oysters booths;
+endwhile (episode agreements)
+:cerebellum damsels;
+endwhile (squashing beech)
+-[hidden]->
+detach
+endif
+|2|
+if (tubes export?) then (coveralls irrelevant)
+(professionalism spear) elseif (tyrant facility?) then (disrupted episodes)
+if (inter overstepping?) then (hunky wrongs)
+(entrances extradited) elseif (sadly dorado?) then (leaky garnish)
+:thumping perfectionist;
+(psychiatry spas) elseif (combusted tripe?) then (unspoiled flailing)
+:heighten conformity; <<task>>
+(mortar roadblock) elseif (typing blanks?) then (gripes payoff)
+:injure cardinal;
+(debit otherworldly) elseif (algorithms shooter?) then (robot croupier)
+:elders sorrel; <<save>>
+-> tyranny neutered;
+endif
+(nicotine depressor) elseif (midway worshipped?) then (weigh avenge)
+:samaritan spades; <<save>>
+(posted tangible) elseif (mated accursed?) then (racy east)
+while (pathetically review?) is (nimrod pep)
+:monitors stipulate;
+:bludgeoned dependent;
+:vertically suits;
+endwhile (empowered homely)
+:seconds emphasize;
+(upholstery images) elseif (roundabout bureaucrats?) then (crossbow gunman)
+fork
+:morally receiver;
+fork again
+:indiscreet wrestler; <<load>>
+-> poetic steamroll;
+fork again
+:patrolmen proposition;
+fork again
+:physician penetrated;
+-> costume psyche;
+end merge
+endif
+stop
+@enduml

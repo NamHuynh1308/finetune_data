@@ -1,0 +1,6 @@
+@startuml
+participant "exile starlets" as 0
+loop snitches ironies
+0 ->] : fixer counting
+end
+@enduml

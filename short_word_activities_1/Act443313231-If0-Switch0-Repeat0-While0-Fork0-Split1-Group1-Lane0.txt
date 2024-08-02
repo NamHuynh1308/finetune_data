@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:remarried ump;
+split again
+-[hidden]->
+:venison froufrou; <<output>>
+-> renegade protect;
+split again
+-[hidden]->
+:spite waive; <<save>>
+end split
+group delete anatomically
+:fuels merging;
+-> induced snapped;
+stop
+end group
+@enduml

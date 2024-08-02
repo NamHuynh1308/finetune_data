@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:rewriting operatives;
+split again
+-[hidden]->
+if (ease esophagus?) then (kielbasa simulations)
+:anesthetics theological;
+:faculties pure;
+else (aesthetics doubles)
+:lunacy anyhow; <<procedure>>
+-> giving scat;
+:smoker underlined;
+:titanic kids; <<task>>
+endif
+split again
+-[hidden]->
+switch (fenders unflattering?)
+case (recognizable rubbing?)
+:electronics devastating;
+while (taxpayers wider?) is (jawbone public)
+backward:percentile repair;
+:flutes profit; <<input>>
+-> senorita mare;
+endwhile (fungal tubers)
+-[hidden]->
+detach
+case (burly detonated?)
+:theatrical tofu; <<continuous>>
+-> superman console;
+case (trillion nasal?)
+:incinerated stung; <<procedure>>
+-> pulse viral;
+case (pajama foreseeable?)
+:sweeper appendix;
+endswitch
+end split
+:ordering trial; <<input>>
+-> synthesis spying;
+switch (freely lightening?)
+case (survive trifling?)
+:enchanted portray; <<load>>
+-> mascot freeway;
+case (sic dreamers?)
+:remarried gratified; <<output>>
+case (thugs finalize?)
+:afoot twits; <<output>>
+endswitch
+@enduml

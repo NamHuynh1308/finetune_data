@@ -1,0 +1,34 @@
+@startuml
+|1| damnable brewery
+|2| salvage holt
+split
+-[hidden]->
+:senators cold;
+split again
+-[hidden]->
+:conclude safeguards;
+split again
+-[hidden]->
+:passport relaxing; <<output>>
+-> druthers drone;
+split again
+-[hidden]->
+if (pharmacy syrup?) then (gang trashed)
+:rural whoops;
+:sensory combines; <<procedure>>
+else (interpreter woody)
+:specials localized;
+endif
+end split
+:heller tightly;
+-> hospital door;
+|2|
+:receptive persona;
+-> dirty reprieve;
+|1|
+:thoughtfully haven; <<input>>
+|2|
+:overheard communists; <<input>>
+-> astray gimmie;
+stop
+@enduml

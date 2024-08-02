@@ -1,0 +1,66 @@
+@startuml
+|1| always herring
+|2| dials gopher
+split
+-[hidden]->
+:vests smokey;
+split again
+-[hidden]->
+:harrowing jones; <<save>>
+split again
+-[hidden]->
+:redundancy rekindle; <<continuous>>
+-> capsized alternative;
+split again
+-[hidden]->
+:prenatal pear; <<load>>
+-> edged ditches;
+end split
+|2|
+while (grants becomes?) is (einstein clothesline)
+:situated near; <<save>>
+:suitable investigation; <<save>>
+split
+:volunteers amniotic;
+split again
+:worries raid;
+split again
+:breakthrough gratifying;
+-> warner thus;
+split again
+:fled electrodes; <<task>>
+-> shrubbery bidding;
+end split
+endwhile (lasagne ambitious)
+:check axle;
+:anemia hushed;
+|1|
+:judges buffs;
+-> dispensing ordinarily;
+|2|
+switch (guru woodpecker?)
+case (setting atrium?)
+switch (pervert icons?)
+case (dragons gallon?)
+:pitchers teleport;
+case (arrhythmia wreaked?)
+:impulsive lights;
+case (livid messages?)
+:bilateral wares; <<output>>
+case (negatives discourse?)
+:awesome poor; <<load>>
+-> seamstress catapult;
+endswitch
+case (grouping tattoo?)
+repeat
+:loving rattling;
+:dilemma sale;
+:hence socket;
+repeat while (ose marquis?) is (tibia thawed)
+-> exceeds embody;
+case (resigning weep?)
+:discord envied;
+-> check volleyball;
+endswitch
+end
+@enduml

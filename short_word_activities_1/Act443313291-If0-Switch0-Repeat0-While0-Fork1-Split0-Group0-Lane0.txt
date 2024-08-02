@@ -1,0 +1,12 @@
+@startuml
+fork
+:pressure probably;
+fork again
+:flatbed starship; <<continuous>>
+fork again
+:spate between; <<input>>
+fork again
+:believing firefight; <<input>>
+end merge
+end
+@enduml

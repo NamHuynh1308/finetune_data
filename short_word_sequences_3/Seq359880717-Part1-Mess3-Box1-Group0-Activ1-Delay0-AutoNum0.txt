@@ -1,0 +1,10 @@
+@startuml
+box "tabloid sofas"
+participant "blotter interesting" as 0
+end box
+== java hooligans ==
+0 <-> 0++ : standish rappers
+0 -> 0: yellow redeeming
+0 <-] : hybrids monthly
+return louse mug
+@enduml

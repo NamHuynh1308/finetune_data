@@ -1,0 +1,16 @@
+@startuml
+participant "sentiment colleges" as 0
+participant "tingly nos" as 1
+participant "mousse glass" as 2
+participant "imagining denounce" as 3
+autonumber 6 3
+1 -\\ 3++ : cartoons undercurrent
+...dawn hype...
+2 --//o 0: memorabilia recommends
+return vase mission
+0 -> 3: rattle best
+0 -\\ 0: slider updated
+create participant "fray chopping" as 4
+2 -> 4 : fray chopping
+1 <-> 2: sponsors missed
+@enduml

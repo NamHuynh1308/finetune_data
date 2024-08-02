@@ -1,0 +1,11 @@
+@startuml
+box "ode yin"
+participant "shaky fallible" as 0
+end box
+== probation house ==
+autonumber 0 5
+0 -->x 0++ : twas overruled
+0 ->] : nonchalant khaki
+autonumber stop
+return sodomy missed
+@enduml

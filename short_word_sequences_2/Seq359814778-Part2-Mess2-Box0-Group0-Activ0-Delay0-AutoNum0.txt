@@ -1,0 +1,7 @@
+@startuml
+participant "reload telephone" as 0
+participant "sure reel" as 1
+== appliance hollow ==
+1 -> 1: overstress peanuts
+0 -> 1!! : desert ledge
+@enduml

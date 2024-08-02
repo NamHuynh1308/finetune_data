@@ -1,0 +1,75 @@
+@startuml
+split
+-[hidden]->
+:lynched faraway;
+split again
+-[hidden]->
+:boutonniere navigational;
+split again
+-[hidden]->
+if (spikes sizzling?) then (anti burglaries)
+:gizzard bimbo;
+else (criminology scare)
+:ell hairball;
+:retire asking; <<procedure>>
+endif
+split again
+-[hidden]->
+:arrested downer; <<input>>
+end split
+group doohickey townsfolk
+repeat
+repeat
+:goodies prescribes; <<continuous>>
+backward:hawks additions;
+repeat while (hoping cackling?) is (airman miss)
+repeat while (dwelling base?) is (depress settled)
+-> histories obsessive;
+group misspelled masseuse
+:inventory scrap; <<input>>
+switch (mortals commiserate?)
+case (talkative slowly?)
+split
+:ogling sold;
+split again
+:sovereignty gallery;
+split again
+:snide recombinant;
+split again
+:bathrobes greenhouse;
+end split
+case (agitated compression?)
+split
+:instead puns;
+split again
+:sobbing poppa; <<save>>
+split again
+:snatches puppy; <<load>>
+-> sunk swatting;
+split again
+:adapt spencers; <<continuous>>
+end split
+case (dewars stint?)
+if (tanked gripes?) then (spanked wisecracks)
+(dishonest camel) elseif (shirtless farce?) then (mediocrity limber)
+:invigorated poses;
+(exodus shoplifting) elseif (cathedral faucets?) then (bonbon dough)
+:relieve sixth;
+(natty deposed) elseif (validity forethought?) then (informing struck)
+:cursing manslaughter;
+endif
+case (catastrophe skateboard?)
+while (rev registration?) is (forever cocktails)
+:contaminate cornucopia;
+backward:psychopaths hasty;
+:mumbles moot; <<save>>
+-> hag exposed;
+:grovel cavalier; <<load>>
+-> bribing travel;
+endwhile (rouse misled)
+:crime friendless;
+endswitch
+stop
+end group
+end group
+@enduml

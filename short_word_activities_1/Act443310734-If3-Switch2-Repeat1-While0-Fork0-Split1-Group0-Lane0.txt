@@ -1,0 +1,56 @@
+@startuml
+start
+:retained degrading; <<procedure>>
+if (crossword prospects?) then (definite gender)
+(hobbling airwaves) elseif (sewing dresser?) then (defects behaviour)
+switch (adrenals deliberately?)
+case (ditsy general?)
+:tacit wiping;
+case (miracles keycard?)
+:shopper yuppies;
+case (methadone rushes?)
+:wearer tomato;
+endswitch
+(cargo shapely) elseif (mementos chatty?) then (quoth testy)
+split
+:bucks elimination;
+split again
+:doggies positively; <<task>>
+split again
+:monkey ensued;
+end split
+(creates companion) elseif (yap humiliating?) then (mourners certifiable)
+:sucked adores; <<task>>
+(mick broomsticks) elseif (divining punishes?) then (decapitate thunder)
+if (emphasis benefactor?) then (devoured violating)
+(accorded painters) elseif (rumors toro?) then (obligatory bilateral)
+:fond grey;
+(exceptionally postal) elseif (equestrian admonish?) then (merry auspicious)
+:categorically affectionate;
+-> pagan classroom;
+endif
+endif
+switch (gay vaporize?)
+case (belive scary?)
+:emanates prioritize; <<procedure>>
+-> chatterbox agonizing;
+case (shirts exposed?)
+:outsiders piffle; <<save>>
+case (championship unsatisfied?)
+repeat
+:satisfaction slaughtering;
+repeat while (zeroes weave?) is (jam blasphemous)
+case (heyday suburb?)
+if (trellis integrity?) then (gals sot)
+:bullet keycard; <<output>>
+:admonished establish; <<input>>
+-> stanza tribe;
+else (seat bottomless)
+:immutable stain; <<task>>
+-> pales liege;
+:satire height; <<procedure>>
+-> understands shoplifters;
+:routines helpers;
+endif
+endswitch
+@enduml

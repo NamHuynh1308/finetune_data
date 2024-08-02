@@ -1,0 +1,32 @@
+@startuml
+participant "ingested dad" as 0
+box "heckled gladiator"
+participant "hilarious directory" as 1
+box "headboard antiquing"
+participant "joey established" as 2
+box "clogs inhaled"
+participant "itching presidency" as 3
+participant "sheeny premises" as 4
+end box
+end box
+end box
+autonumber 2 9
+3 ->> 3: software jurisdiction
+autonumber stop
+3 --//o 4: perils hatter
+3 ->] : mixing bishop
+create participant "carpool dedicated" as 5
+0 -> 5 : carpool dedicated
+autonumber resume
+...compartments paying...
+4 <-] : infuriate constitutional
+autonumber stop
+alt geriatrics nip
+...mat heartache...
+0 -> 0: crux replicating
+...bringing recon...
+5 -> 4: upon allegations
+autonumber resume
+else boogie aerobics
+end
+@enduml

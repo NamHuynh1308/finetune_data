@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:lineup blames;
+split again
+-[hidden]->
+:willful pawn; <<task>>
+split again
+-[hidden]->
+while (newspaper dislodged?) is (singing assessing)
+:cat liven; <<output>>
+endwhile (lingers slipper)
+:settling lectures;
+end split
+:fanatics shrimp; <<task>>
+end
+@enduml

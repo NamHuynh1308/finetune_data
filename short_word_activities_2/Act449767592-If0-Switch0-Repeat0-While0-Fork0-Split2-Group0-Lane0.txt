@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:entrapment contributes;
+split again
+-[hidden]->
+:sandwiches tung; <<task>>
+split again
+-[hidden]->
+:licensed hotter;
+split again
+-[hidden]->
+split
+:sprints out;
+split again
+:douche coney; <<input>>
+split again
+:cellist conformity; <<task>>
+split again
+:everyone skivvies;
+end split
+end split
+:calamitous car;
+-> blend colonel;
+:shin troubled;
+@enduml

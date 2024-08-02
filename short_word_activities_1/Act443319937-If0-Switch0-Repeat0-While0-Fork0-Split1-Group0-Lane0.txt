@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:produce die;
+split again
+-[hidden]->
+:landing lanky; <<continuous>>
+-> deposits genesis;
+split again
+-[hidden]->
+:frazzled schemes; <<continuous>>
+split again
+-[hidden]->
+:bedrooms superheroes; <<output>>
+end split
+:maggots dealings; <<task>>
+stop
+@enduml

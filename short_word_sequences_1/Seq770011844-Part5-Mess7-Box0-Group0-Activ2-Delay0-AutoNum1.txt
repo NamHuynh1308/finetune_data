@@ -1,0 +1,17 @@
+@startuml
+participant "documents semantics" as 0
+participant "sophisticated sheepskin" as 1
+participant "apples teddy" as 2
+participant "wrestle loveable" as 3
+autonumber 2 7
+create participant "heaved spooked" as 4
+1 -> 4 : heaved spooked
+ [<- 2: propose filthy
+1 -> 0: curl pistol
+3 -\\ 4++ : elusive prefers
+3 ->o 0++ : slimming flagging
+1 -\\ 0: impatience fascism
+0 -\\ 0: rumors travelled
+return minority tens
+return upload organism
+@enduml

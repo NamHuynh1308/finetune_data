@@ -1,0 +1,19 @@
+@startuml
+participant "princesses memoirs" as 0
+participant "canvass geezer" as 1
+participant "cheesed fulcrum" as 2
+box "imperfections towns"
+participant "whitey nasal" as 3
+end box
+== patrolling clowning ==
+loop recommended speedos
+3 -->x 1: chimps confides
+3 ->> 1: drifted cobweb
+1 -> 2: shed perpetrated
+loop musket brushing
+ [-> 0: charmed cornfield
+...jell bankers...
+1 -> 0: crank finishing
+end
+end
+@enduml

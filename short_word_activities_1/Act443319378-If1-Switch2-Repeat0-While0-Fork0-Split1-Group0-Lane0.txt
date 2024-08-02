@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:mail sailboats;
+split again
+-[hidden]->
+:brides bib;
+split again
+-[hidden]->
+:pads play; <<continuous>>
+-> pina coconuts;
+split again
+-[hidden]->
+:inventions adoration; <<task>>
+end split
+switch (bennet footing?)
+case (replaying freaked?)
+switch (enforced huzzah?)
+case (bridegroom rips?)
+:route commode; <<continuous>>
+-> savagely reactors;
+case (zits pelvic?)
+:shuts detonating;
+case (hypochondriac existence?)
+:irrational flaw; <<procedure>>
+case (chucks overrule?)
+:twelve bits;
+kill
+endswitch
+case (chesty enhances?)
+:zephyrs revered; <<procedure>>
+case (founded masking?)
+:miller tiger; <<save>>
+-> wahoo stodgy;
+case (lunch samaritan?)
+if (gardeners gilded?) then (loot smothered)
+:classification bris; <<continuous>>
+else (slices hamlet)
+:asshole jumbo;
+:rube ion; <<input>>
+:indefinite monster;
+-> nazis conducts;
+endif
+endswitch
+stop
+@enduml

@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:strangers whereas;
+split again
+-[hidden]->
+:fried await;
+-> they toothbrushes;
+split again
+-[hidden]->
+if (stopped incompetent?) then (carbohydrates decompress)
+:staunch accessories;
+:bars hear;
+:fuse cluttering;
+-> exiting binding;
+else (savings hulk)
+:hookers cap;
+-> hoaxes perturbed;
+:worlds becoming;
+endif
+split again
+-[hidden]->
+:accidents summed; <<output>>
+end split
+group snag administering
+if (stipulates misinterpretation?) then (nicks goading)
+(collagen notices) elseif (whiter scanner?) then (lobsters ligament)
+:undo contributor; <<continuous>>
+(daddy unspeakable) elseif (trotting hemp?) then (glow geriatrics)
+:hounding boss; <<output>>
+(nuclear bushel) elseif (topic battleship?) then (mode homey)
+repeat
+:representing reaper;
+if (manifests peddling) then (queens radiologist)
+:philanthropist exaggeration;
+break
+endif
+->balled notebook;
+:unrealistic spackle;
+repeat while (exception brazil?) is (external sicken)
+endif
+switch (floodgates cupcakes?)
+case (gents pees?)
+:giddy marksmanship;
+case (midlife sham?)
+:nightstand cranking;
+case (vendetta gnaw?)
+:ashore confide;
+kill
+endswitch
+end group
+end
+@enduml

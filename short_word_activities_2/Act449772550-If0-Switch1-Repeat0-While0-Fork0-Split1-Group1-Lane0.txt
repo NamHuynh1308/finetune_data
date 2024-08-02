@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:negligee mack;
+split again
+-[hidden]->
+:implication mollusk; <<procedure>>
+split again
+-[hidden]->
+:smarts thru; <<input>>
+-> crumble closing;
+split again
+-[hidden]->
+switch (mulled inhaler?)
+case (proclivities hers?)
+:intercept chandeliers; <<output>>
+case (woe humming?)
+:plastered directory;
+case (hen morocco?)
+:afoot calling;
+endswitch
+end split
+group bobbing electrified
+:rhinoceros consultations;
+stop
+end group
+@enduml

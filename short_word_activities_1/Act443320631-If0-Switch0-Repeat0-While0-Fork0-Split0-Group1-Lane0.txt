@@ -1,0 +1,8 @@
+@startuml
+start
+:jailed sundress; <<task>>
+group tablecloth robins
+:sprayed divers; <<continuous>>
+stop
+end group
+@enduml

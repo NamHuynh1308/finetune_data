@@ -1,0 +1,16 @@
+@startuml
+participant "absentee plucky" as 0
+participant "stoop wells" as 1
+== silva beers ==
+autonumber 3 4
+0 <-] : listing undiscovered
+autonumber stop
+opt wrinkled superior
+1 --//o 1: turnout reactions
+autonumber resume
+1 -// 0: fin discussing
+autonumber stop
+0 ->] : dobbins divine
+end
+ [<- 0: sullen legged
+@enduml

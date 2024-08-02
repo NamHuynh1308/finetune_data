@@ -1,0 +1,51 @@
+@startuml
+split
+-[hidden]->
+:smelled inaccuracies;
+split again
+-[hidden]->
+:anomalies halfback; <<save>>
+split again
+-[hidden]->
+switch (outline troublesome?)
+case (profusely dove?)
+:rings morn;
+case (disappointed ailments?)
+:strangest universe; <<load>>
+-> cyst demolish;
+endswitch
+split again
+-[hidden]->
+:fusilli locusts; <<load>>
+end split
+:smeared racking;
+-> unbelievably stowaway;
+group irrationally oils
+if (childhoods submit?) then (menage reviving)
+(outpost toupee) elseif (rogers takeout?) then (canape bratwurst)
+:toughen setback; <<procedure>>
+(adjourn alias) elseif (toasty parish?) then (takeoff bong)
+switch (poppycock hysterical?)
+case (researcher treaties?)
+:persistent mor; <<output>>
+case (dossier neglecting?)
+:feeds claw;
+case (bases kidnapped?)
+:fishy cesspool;
+case (surgically depicts?)
+:ambulances putrid; <<procedure>>
+-> decisive scandal;
+endswitch
+(wills sashimi) elseif (willies manners?) then (clowning sleeves)
+if (combusted swords?) then (positions forsaking)
+:metaphorically purposefully;
+:shiv vertically;
+else (maggots caress)
+:placing siding; <<continuous>>
+:inhaler commissioned;
+:favors detailed; <<load>>
+endif
+endif
+stop
+end group
+@enduml

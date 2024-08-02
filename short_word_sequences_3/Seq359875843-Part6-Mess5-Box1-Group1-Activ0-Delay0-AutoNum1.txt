@@ -1,0 +1,18 @@
+@startuml
+participant "icing haze" as 0
+box "existent greasy"
+participant "attorney pucker" as 1
+participant "turbulent goldenrod" as 2
+participant "auditions heirloom" as 3
+participant "pusher playoffs" as 4
+end box
+autonumber 1 5
+2 ->] : inflamed fertilizer
+0 -> 3: positions chaplain
+2 <-> 1: cinema ogres
+break honks swells
+2 <-] : bind papa
+create participant "scientists shoved" as 5
+3 -> 5 : scientists shoved
+end
+@enduml

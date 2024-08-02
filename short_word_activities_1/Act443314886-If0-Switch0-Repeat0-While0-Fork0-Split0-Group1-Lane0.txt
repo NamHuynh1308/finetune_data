@@ -1,0 +1,7 @@
+@startuml
+group pineapples authoritative
+:negotiation petite; <<task>>
+-> football concocting;
+stop
+end group
+@enduml

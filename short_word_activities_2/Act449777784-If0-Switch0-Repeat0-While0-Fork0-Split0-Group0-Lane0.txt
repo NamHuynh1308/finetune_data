@@ -1,0 +1,6 @@
+@startuml
+:hats wealth;
+:finch licks; <<continuous>>
+-> painter applesauce;
+end
+@enduml

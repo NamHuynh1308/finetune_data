@@ -1,0 +1,19 @@
+@startuml
+participant "bowl doorknobs" as 0
+box "bunions swizzle"
+participant "euphemism minority" as 1
+participant "cluttering twisted" as 2
+end box
+participant "prudes bamboozled" as 3
+par arrangement oftentimes
+3 ->x 2: pun cousins
+ [<- 1: patriots tricky
+0 ->x 0: discomfort saved
+3 ->] : fence rundown
+else candles homestead
+create participant "doodles tensions" as 4
+1 -> 4 : doodles tensions
+1 -> 1++ : sashimi racist
+end
+return displeasure swaying
+@enduml

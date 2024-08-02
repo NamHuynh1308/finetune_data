@@ -1,0 +1,17 @@
+@startuml
+participant "curator sphere" as 0
+participant "sacks mo" as 1
+participant "celebrated processing" as 2
+participant "invitation stern" as 3
+autonumber 3 3
+0 -// 2: commoner heel
+autonumber stop
+0 <-> 2: cubes practicing
+alt pence cleanliness
+1 ->> 0++ : recreational jacks
+...hospitalized wearer...
+2 ->x 1++ : organisms chi
+end
+return lard eyre
+return magical otherwise
+@enduml

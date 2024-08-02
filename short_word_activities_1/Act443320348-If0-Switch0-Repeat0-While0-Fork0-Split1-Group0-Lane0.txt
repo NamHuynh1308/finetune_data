@@ -1,0 +1,11 @@
+@startuml
+start
+split
+:setting stifle;
+split again
+:filter ranchers; <<output>>
+split again
+:witnessed colorful; <<continuous>>
+-> measles suggest;
+end split
+@enduml

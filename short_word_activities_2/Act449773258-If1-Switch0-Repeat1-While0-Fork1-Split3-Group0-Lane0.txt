@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:mercenary simulated;
+split again
+-[hidden]->
+:trapper undetected;
+split again
+-[hidden]->
+:potentially fleeting; <<continuous>>
+-> hushed shrugging;
+split again
+-[hidden]->
+:dismissal bedlam;
+end split
+:attendant preview; <<continuous>>
+fork
+:dater shovels;
+fork again
+repeat
+:prosthetic kicker;
+backward:fowler ligament;
+repeat while (dairy metaphysics?) is (albacore past)
+-> diapers salty;
+fork again
+split
+:liven monologue;
+split again
+:option pricey;
+split again
+:swingers integrate;
+split again
+:notable affectionate;
+end split
+fork again
+if (rent dictatorship?) then (knocking evaluating)
+:stomachs impeding;
+:construction criterion;
+:lacking intellect;
+-> hosting avatar;
+else (earthquake listening)
+:stalked auctioneer;
+:karma stang;
+:nuptial hacksaw; <<input>>
+endif
+end merge
+split
+:reacts slicker;
+split again
+:lifesaver nix;
+split again
+:schnoz illustrates; <<procedure>>
+split again
+:choppers chiseling; <<output>>
+end split
+stop
+@enduml

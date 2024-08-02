@@ -1,0 +1,14 @@
+@startuml
+participant "cybernetic potions" as 0
+autonumber 8 0
+ [-> 0: infect retirement
+autonumber stop
+0 -// 0++ : performers buff
+0 -> 0++ : free cathedral
+autonumber resume
+opt tater violence
+0 -->x 0: quarantined mason
+end
+return onboard fourteen
+return answer puff
+@enduml

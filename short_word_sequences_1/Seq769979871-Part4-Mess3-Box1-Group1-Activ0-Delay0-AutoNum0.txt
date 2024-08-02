@@ -1,0 +1,14 @@
+@startuml
+participant "intermission accelerant" as 0
+box "departing coughs"
+participant "drone pose" as 1
+participant "leaving admirer" as 2
+end box
+== manor sewed ==
+create participant "pavilion spooky" as 3
+1 -> 3 : pavilion spooky
+1 <-] : tendon transport
+alt traitor gleam
+1 --> 1: alternator comprehension
+end
+@enduml

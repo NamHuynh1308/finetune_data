@@ -1,0 +1,20 @@
+@startuml
+participant "meet sickness" as 0
+box "smoker appeared"
+participant "horseshit supplier" as 1
+participant "prunes walking" as 2
+end box
+alt raring updated
+1 --//o 2: inspiring mesmerizing
+1 <-> 2: ticket ewe
+else balance powered
+loop sensibilities lasagne
+0 -> 2++ : diet fossil
+2 -> 2: cheered dangerous
+...plural celebrated...
+2 <-] : uranium problem
+return landlord talons
+else cushions applejack
+end
+end
+@enduml

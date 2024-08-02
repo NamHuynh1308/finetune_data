@@ -1,0 +1,12 @@
+@startuml
+participant "laser hero" as 0
+participant "appendicitis plans" as 1
+participant "transgression flint" as 2
+participant "swimming lime" as 3
+par mode willed
+0 ->x 1: gourd remote
+2 -> 2: own wallow
+3 ->] : insolence outcasts
+end
+2 ->> 3: deem impertinent
+@enduml

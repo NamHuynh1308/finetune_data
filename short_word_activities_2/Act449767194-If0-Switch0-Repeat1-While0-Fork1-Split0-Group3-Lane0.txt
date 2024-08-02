@@ -1,0 +1,22 @@
+@startuml
+group exaggerated squirrel
+repeat
+fork
+:grammar oversleep;
+fork again
+:inconvenient screwups; <<task>>
+fork again
+:famous therapeutic; <<load>>
+end merge
+backward:therein keepers;
+repeat while (compliment convenient?) is (wig sleepyhead)
+group dispense indictment
+:holding blackberry; <<input>>
+group fig bracken
+:premeditated larvae; <<task>>
+-> rallied tool;
+stop
+end group
+end group
+end group
+@enduml

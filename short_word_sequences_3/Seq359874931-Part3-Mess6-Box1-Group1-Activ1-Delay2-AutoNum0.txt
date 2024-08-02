@@ -1,0 +1,19 @@
+@startuml
+box "between possible"
+participant "abundantly tangled" as 0
+participant "summation wore" as 1
+end box
+== craziness lemur ==
+1 <-> 0++ : loony odyssey
+break townsfolk delicacy
+create participant "sculptor parody" as 2
+1 -> 2 : sculptor parody
+return venetian pi
+0 -// 0: barley stomach
+...boards corps...
+ [-> 2: evasions scorched
+end
+...assured gizmo...
+2 -> 2: studies harriers
+2 -// 2: blockage pamphlet
+@enduml

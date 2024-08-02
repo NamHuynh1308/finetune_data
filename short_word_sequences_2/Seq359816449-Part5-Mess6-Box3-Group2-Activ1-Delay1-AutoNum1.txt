@@ -1,0 +1,29 @@
+@startuml
+box "veneer report"
+participant "crypt bolts" as 0
+participant "swig antique" as 1
+end box
+box "cramping vantage"
+participant "advising patents" as 2
+participant "spiritual bard" as 3
+box "affair antibiotics"
+participant "bakes copilot" as 4
+end box
+end box
+== kayaking contenders ==
+autonumber 0 1
+par backpacks designation
+3 ->> 4: drying characteristics
+2 -\\ 0++ : dignify scissor
+autonumber stop
+loop nickname unbelievably
+0 --> 4: unions technologies
+...ambient backseat...
+1 ->] : convulsing whip
+return permitting indecent
+else biohazard rises
+0 -> 0: watching grocer
+3 --//o 2: intoxicated stalked
+end
+end
+@enduml

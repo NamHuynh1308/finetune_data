@@ -1,0 +1,23 @@
+@startuml
+participant "commonwealth folds" as 0
+participant "lovingly stuffs" as 1
+box "dispatched prudent"
+participant "spouting stools" as 2
+end box
+critical claws eggs
+0 -> 0: dangled posies
+0 -> 1: sonics looney
+else reassigned mussels
+alt brutal missy
+...dreaded lumber...
+0 -> 1: schizo heather
+...muffler merrily...
+0 -> 1: turndown intently
+else magnet hesitating
+ [<- 2: shrine then
+ [-> 1: fleas condo
+2 -> 2++ : shaved poorhouse
+end
+end
+return deals bassoon
+@enduml

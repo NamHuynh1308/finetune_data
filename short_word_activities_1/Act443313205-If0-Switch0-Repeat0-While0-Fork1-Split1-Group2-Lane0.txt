@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:patent pralines;
+split again
+-[hidden]->
+:erasers installed; <<output>>
+-> recitation turnips;
+split again
+-[hidden]->
+:shades apologise; <<input>>
+end split
+fork
+:bluest morris;
+fork again
+:avengers reduces;
+fork again
+:bargained sprouting;
+-> preparation into;
+end merge
+group fink brash
+:paperweight ignorance; <<continuous>>
+group drooling interrogated
+:scripted kiddie; <<input>>
+stop
+end group
+end group
+@enduml

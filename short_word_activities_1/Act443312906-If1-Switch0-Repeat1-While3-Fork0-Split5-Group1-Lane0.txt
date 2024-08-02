@@ -1,0 +1,80 @@
+@startuml
+split
+-[hidden]->
+:bossed oasis;
+split again
+-[hidden]->
+repeat
+:civilized thrift;
+backward:melding welch;
+repeat while (toons rank?) is (anguish ogle)
+split again
+-[hidden]->
+:top trolls;
+while (diets laptops?) is (exhausting baste)
+backward:sandpaper raises;
+:protestant vive; <<task>>
+:publishers mommies;
+while (mingle boxer?) is (executives tapes)
+:spiteful comments; <<output>>
+:whammo stinky; <<continuous>>
+:tuxedos seaboard;
+endwhile (groceries linear)
+:obsessive thee;
+endwhile (lifetimes parsley)
+-[hidden]->
+detach
+split again
+-[hidden]->
+if (mortgages exploratory?) then (deceptions salvaging)
+:waffles britches;
+:deceit freshest; <<input>>
+:honeymoons immediately; <<input>>
+else (impersonator prince)
+:terry biopsy; <<input>>
+:advancements fondest;
+:bamboo grows;
+endif
+end split
+split
+:pavement vivacious;
+split again
+:tavern finale; <<output>>
+split again
+while (glassy writing?) is (tougher offender)
+:madder abortion; <<continuous>>
+:examine affiliates;
+endwhile (poetic protested)
+:superego extermination;
+split again
+:panache recession;
+end split
+group sophomore pillows
+split
+:sighing paramour;
+split again
+:compares steaming;
+split again
+:ballsy privileged;
+-> tactile spud;
+split again
+split
+:alexander stoop;
+split again
+:muskie baklava; <<continuous>>
+split again
+:fashionably regretting; <<task>>
+split again
+:dictated corollary; <<task>>
+end split
+end split
+split
+:played decrypted;
+split again
+:quadrant magnetism; <<save>>
+split again
+:handheld establishment; <<save>>
+end split
+stop
+end group
+@enduml

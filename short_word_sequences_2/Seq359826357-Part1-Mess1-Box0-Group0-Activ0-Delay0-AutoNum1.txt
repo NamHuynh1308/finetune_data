@@ -1,0 +1,6 @@
+@startuml
+participant "romper scorned" as 0
+== bookkeeper terrace ==
+autonumber 10 1
+0 -> 0!! : sway reserving
+@enduml

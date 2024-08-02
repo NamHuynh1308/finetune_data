@@ -1,0 +1,12 @@
+@startuml
+group common accomplishment
+split
+:dye excessive;
+split again
+:overlap cheapest; <<continuous>>
+split again
+:convoy aims; <<procedure>>
+end split
+stop
+end group
+@enduml

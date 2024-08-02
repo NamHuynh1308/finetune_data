@@ -1,0 +1,5 @@
+@startuml
+participant "sporting radiance" as 0
+ [<- 0: beagle earlobe
+0 -> 0: al barrow
+@enduml

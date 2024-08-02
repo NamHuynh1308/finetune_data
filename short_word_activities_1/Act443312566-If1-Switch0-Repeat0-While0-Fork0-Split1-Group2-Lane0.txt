@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:undesirable hunted;
+split again
+-[hidden]->
+:clubhouse account; <<input>>
+split again
+-[hidden]->
+:percentage floodgates; <<task>>
+split again
+-[hidden]->
+:alienation repellent; <<save>>
+end split
+group hilltop pinkie
+if (majors transmissions?) then (minutes orbing)
+(compelled courted) elseif (phenomenon simpletons?) then (equitable ravenous)
+:initiating commits; <<procedure>>
+(killers detect) elseif (hoarse ting?) then (doofus bold)
+:waiters lowe;
+(baklava vogue) elseif (heroics nativity?) then (table ruthlessly)
+:mobility nitrous; <<load>>
+-> fathering endorsing;
+(sweetness storms) elseif (sweats script?) then (sevens icons)
+:fragrance hardens; <<procedure>>
+endif
+:fire sweepstakes; <<load>>
+end group
+group suburbs awakening
+:ventilator recuperating; <<save>>
+stop
+end group
+@enduml

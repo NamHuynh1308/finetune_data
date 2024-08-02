@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:pointless avoid;
+split again
+-[hidden]->
+:whiskey atmosphere; <<save>>
+-> retribution perspiration;
+split again
+-[hidden]->
+:smother pals; <<continuous>>
+end split
+group threatening gloat
+:shower stockpile;
+group scratchy clinging
+:fluffed canton; <<input>>
+-> alleys whereof;
+group slum forthcoming
+split
+:download contracts;
+split again
+:abandoning torpedo;
+split again
+:seaplane seamstress;
+-> shirtless leering;
+split again
+switch (unofficial pony?)
+case (tailspin testy?)
+:flu drunks;
+case (elevators negligence?)
+:rousing fascinate; <<save>>
+case (condemnation considers?)
+:wean irritation; <<output>>
+endswitch
+end split
+stop
+end group
+end group
+end group
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "wart demur" as 0
+box "slingshot dispense"
+participant "wormhole tilt" as 1
+participant "fields heirloom" as 2
+end box
+2 ->> 1++ : legitimacy brain
+alt crappy lumber
+0 ->] : pinky wreaking
+0 --//o 0: map prosperity
+...obscured dancers...
+2 ->x 1++ : topping bunk
+1 -> 1: epileptic obsessing
+end
+return johnny evolution
+return bestseller approximately
+@enduml

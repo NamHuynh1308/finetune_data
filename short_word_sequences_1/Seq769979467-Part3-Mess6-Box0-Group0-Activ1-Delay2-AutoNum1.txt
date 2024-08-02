@@ -1,0 +1,16 @@
+@startuml
+participant "riley grading" as 0
+participant "rabbi reciting" as 1
+participant "explodes chatted" as 2
+autonumber 5 6
+2 -> 2: worst prevail
+...dojo delirium...
+0 -->x 1: sailor coz
+2 -->x 0: protections drinker
+0 -> 0++ : whoever enthusiastic
+autonumber stop
+2 ->x 0: grading cakes
+...ducking unburden...
+2 -> 1!! : oddly agree
+return participants hairdo
+@enduml

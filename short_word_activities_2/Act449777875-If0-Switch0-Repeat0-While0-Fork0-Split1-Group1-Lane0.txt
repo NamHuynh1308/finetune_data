@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:undershirt intravenous;
+split again
+-[hidden]->
+:coroner frisky;
+split again
+-[hidden]->
+:hostess asteroids; <<output>>
+end split
+:harping upstate; <<output>>
+:greatly opted; <<input>>
+group moody offends
+:oval discotheque; <<load>>
+stop
+end group
+@enduml

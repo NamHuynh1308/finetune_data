@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:handing pillow;
+split again
+-[hidden]->
+split
+:flawless foibles;
+split again
+:archeological podium; <<task>>
+-> spry dues;
+split again
+:thus illustration; <<save>>
+split again
+:attained vespers;
+end split
+split again
+-[hidden]->
+:cap haze; <<continuous>>
+-> happenings parabolic;
+end split
+:investigator statesmen;
+-> crock tournaments;
+:shriveled shelter; <<load>>
+stop
+@enduml

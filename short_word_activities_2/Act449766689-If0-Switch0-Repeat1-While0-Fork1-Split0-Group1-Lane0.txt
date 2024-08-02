@@ -1,0 +1,16 @@
+@startuml
+:thrash handcuffed; <<save>>
+group variable sixes
+repeat
+fork
+:toys lemonade;
+fork again
+:gainfully geek;
+-> knob oyster;
+fork again
+:deadlier unplug;
+end fork
+repeat while (victorious mamie?) is (tongue braid)
+stop
+end group
+@enduml

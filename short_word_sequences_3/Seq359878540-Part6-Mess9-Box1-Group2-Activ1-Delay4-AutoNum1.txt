@@ -1,0 +1,33 @@
+@startuml
+participant "confessions pig" as 0
+box "trafficking inflated"
+participant "slumber reindeer" as 1
+participant "compete wrinkled" as 2
+participant "leader preaching" as 3
+participant "intently possessed" as 4
+end box
+autonumber 2 4
+0 -\\ 4: venison nah
+autonumber stop
+3 -> 3!! : pedestrian sicken
+...witty limitless...
+1 -// 3: compound swift
+autonumber resume
+...flier interviewed...
+1 -> 1: plums particulars
+autonumber stop
+alt bottom newborns
+create participant "reds earthy" as 5
+3 -> 5 : reds earthy
+autonumber resume
+5 <-> 1++ : ceiling spin
+3 ->> 4: champagne brand
+...queller wildcats...
+5 --//o 3: cosy developed
+return analyzed dampener
+critical disintegrated mushroom
+...fingernail huzzah...
+5 -> 1: undergarment shirts
+end
+end
+@enduml

@@ -1,0 +1,92 @@
+@startuml
+|1| confetti scream
+|2| torches barely
+split
+-[hidden]->
+:heyday luring;
+split again
+-[hidden]->
+:tattoo stamp;
+split again
+-[hidden]->
+:jersey jellies; <<task>>
+-> eldest hypotenuse;
+split again
+-[hidden]->
+switch (muscled fly?)
+case (trapping exhibited?)
+:garments burner;
+case (compensated confession?)
+:mellowing shifts;
+endswitch
+end split
+|2|
+if (slime snaps?) then (players aloha)
+:comeuppance panned;
+-> rallying parting;
+if (sweats sloppy?) then (aligning undecided)
+(poaching garnish) elseif (stapler sentiments?) then (toxicology disregard)
+:ibuprofen tassels; <<output>>
+(encryption remembering) elseif (inflated buzz?) then (preserve astray)
+:nurse palp;
+-> gloves sniffles;
+endif
+else (expedited parton)
+switch (toxicity modest?)
+case (stairwell moisturize?)
+:artifacts mirth;
+case (installed weenie?)
+:stunts frenzy; <<load>>
+case (sworn psychopathic?)
+:hygienist everyman;
+-> thrive you;
+endswitch
+endif
+fork
+:supernova connects;
+fork again
+:glittering rogues; <<output>>
+-> upgrades confidant;
+fork again
+fork
+:kaiser uncles;
+fork again
+:cubicle beggars;
+fork again
+:spiny consoled;
+fork again
+:smaller goo;
+end merge
+end merge
+if (dialed suburbia?) then (tomfoolery freaky)
+(tippers egomaniacal) elseif (crafting abducted?) then (glazer dressings)
+:acclimated glimpse; <<continuous>>
+(willfully inroads) elseif (ipecac meaning?) then (momma indulge)
+:bestseller cheese; <<procedure>>
+(sudden preppie) elseif (preeclampsia commit?) then (shortcut dogs)
+:foul shots; <<save>>
+endif
+|1|
+if (shielded jawed?) then (hairless melting)
+(hammock trouble) elseif (poached halitosis?) then (abomination chateau)
+fork
+:doctrine hippies;
+fork again
+:thug sardine;
+while (trapping commode?) is (originals outfits)
+:whipper baptize; <<task>>
+endwhile (visage dapper)
+-[hidden]->
+detach
+fork again
+:hilarity poppy; <<task>>
+fork again
+:private stalking; <<procedure>>
+end merge
+(intercepting studious) elseif (merit slinking?) then (nominated slope)
+:buttoned scabs; <<continuous>>
+endif
+|2|
+:coyote schemes;
+-> glass switchblade;
+@enduml

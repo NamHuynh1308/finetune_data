@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:misspelled innocuous;
+split again
+-[hidden]->
+fork
+:re sapiens;
+fork again
+:grouch hauls; <<continuous>>
+fork again
+:temptations classical; <<output>>
+-> alight high;
+end fork
+split again
+-[hidden]->
+if (myself larch?) then (vibrant fungus)
+(supervised berserk) elseif (giddyup mahatma?) then (safe perchance)
+:aaytiu;
+while (dumping infantry?) is (tiptoe pontoon)
+:dailies forfeited; <<input>>
+endwhile (darks trouper)
+-[hidden]->
+detach
+(via auntie) elseif (journey tools?) then (drying amah)
+:mops arrive;
+endif
+end split
+:falsify beryllium; <<load>>
+-> hinges proposition;
+:spider sapphires; <<procedure>>
+-> nipper olive;
+if (suite maintains?) then (toilets refrigerated)
+if (disc sabbatical?) then (unmentionables adorable)
+:galvanized trapeze; <<save>>
+:blower consulting; <<input>>
+-> lacey tramp;
+:shoot insolent;
+else (fixings accommodations)
+:dozer cozier;
+:planing genuinely;
+endif
+:embrace nam;
+:gutter unforeseen; <<load>>
+else (pucker dentures)
+:pat bounce; <<input>>
+endif
+stop
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "radish chaplain" as 0
+box "spackle sunburn"
+participant "buckaroo humorless" as 1
+end box
+autonumber 10 8
+loop undertaking teed
+1 -> 0: hysterics chapped
+0 ->o 0: herpes overview
+else embossed raisin
+par pocketed palpitations
+...demon glades...
+1 -->x 0: borrowing collier
+end
+end
+@enduml

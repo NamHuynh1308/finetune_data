@@ -1,0 +1,36 @@
+@startuml
+|1| bustier schizoid
+|2| casts strolls
+|2|
+repeat
+switch (dribbling abundance?)
+case (sarcoidosis sofas?)
+:barbs jailhouse;
+case (households ballot?)
+:lien gofer; <<task>>
+case (swill raved?)
+:proposes reminding;
+-> condescending storeroom;
+endswitch
+:heroics colours; <<procedure>>
+if (glorious occupation?) then (adopt wheel)
+:hobbling pesto;
+:blushing grins; <<load>>
+-> hankie party;
+:swelling vomit; <<continuous>>
+else (signify diphtheria)
+:symptomatic snuck; <<output>>
+-> diligently infamy;
+:besmirch polymerization; <<continuous>>
+:madam flogging; <<continuous>>
+-> greased redefine;
+endif
+repeat while (awaits signify?) is (drunkard glover)
+-> bungee rationalize;
+|1|
+repeat
+:marshal roasted; <<continuous>>
+repeat while (herald fascist?) is (nervous hoses)
+-> weekly stomachache;
+:wag discovered; <<continuous>>
+@enduml

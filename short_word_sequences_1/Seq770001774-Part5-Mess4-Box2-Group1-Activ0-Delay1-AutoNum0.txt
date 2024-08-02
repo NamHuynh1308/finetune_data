@@ -1,0 +1,19 @@
+@startuml
+participant "appointed cannoli" as 0
+participant "holiday ump" as 1
+box "contemporary unscheduled"
+participant "weaknesses deeper" as 2
+box "sexy hounded"
+participant "shtick manipulation" as 3
+end box
+end box
+loop mended ant
+0 --//o 3: comes platter
+3 -> 0: execution description
+else mort yuck
+...service neurosis...
+1 -// 0: knitting embarking
+end
+create participant "hymn fatality" as 4
+0 -> 4 : hymn fatality
+@enduml

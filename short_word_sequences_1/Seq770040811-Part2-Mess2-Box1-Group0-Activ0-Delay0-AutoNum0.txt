@@ -1,0 +1,9 @@
+@startuml
+box "platitudes farm"
+participant "putting shrug" as 0
+participant "reward pasts" as 1
+end box
+== mowing grassy ==
+1 -> 1!! : hullo docks
+1 ->] : temps hypnotic
+@enduml

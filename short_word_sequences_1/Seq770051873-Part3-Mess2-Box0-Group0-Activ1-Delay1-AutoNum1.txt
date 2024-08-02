@@ -1,0 +1,11 @@
+@startuml
+participant "ticklish silverware" as 0
+participant "stocks hot" as 1
+autonumber 5 3
+create participant "law ladies" as 2
+1 -> 2 : law ladies
+...skeptic gambler...
+2 ->o 2++ : chain eighteenth
+autonumber stop
+return nite sumptuous
+@enduml

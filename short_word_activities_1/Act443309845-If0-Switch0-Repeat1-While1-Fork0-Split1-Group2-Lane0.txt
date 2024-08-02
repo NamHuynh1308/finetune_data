@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:dorado wrapper;
+split again
+-[hidden]->
+:jamming gossips;
+split again
+-[hidden]->
+:shifty flapjacks;
+split again
+-[hidden]->
+repeat
+backward:camel estate;
+repeat while (stability festivals?) is (underpaid defenseless)
+-> liner ineffective;
+end split
+group heckles compilation
+:baseman intellectuals; <<procedure>>
+group feeders devastated
+:served comparison; <<input>>
+while (assigning remarkably?) is (toe worn)
+:verbal suspicion; <<input>>
+:teapot stages; <<save>>
+endwhile (till cut)
+:vendors claustrophobia;
+end group
+stop
+end group
+@enduml

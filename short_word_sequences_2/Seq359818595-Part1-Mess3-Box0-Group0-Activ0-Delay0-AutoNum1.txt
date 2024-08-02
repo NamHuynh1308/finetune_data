@@ -1,0 +1,7 @@
+@startuml
+participant "newborns popped" as 0
+autonumber 6 5
+0 -\\ 0: ensuring binder
+0 -\\ 0: pathetically parked
+0 -> 0: untrue vote
+@enduml

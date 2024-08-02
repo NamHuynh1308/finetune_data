@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:cord handoff;
+split again
+-[hidden]->
+switch (erratically incorrectly?)
+case (manning stupid?)
+:vicar precious; <<task>>
+-> mosque digs;
+case (fielder extradition?)
+:rajah fruit; <<input>>
+-> zebras reimburse;
+case (separately partied?)
+:hosting gloria; <<task>>
+-> brush prosper;
+case (northeast reinstate?)
+:berry inquiries;
+endswitch
+split again
+-[hidden]->
+:dragons deliveries;
+kill
+end split
+while (pleasantries disposing?) is (notorious spilled)
+:vivacious self; <<load>>
+-> longest outraged;
+while (articles exemption?) is (familiars myth)
+:mainframe receive; <<procedure>>
+-> crumbled maze;
+endwhile (monitored comparison)
+:sirloin blackmailing;
+endwhile (phrases sulfur)
+:module fling;
+group silken kittens
+:beleaguered exasperated;
+stop
+end group
+@enduml

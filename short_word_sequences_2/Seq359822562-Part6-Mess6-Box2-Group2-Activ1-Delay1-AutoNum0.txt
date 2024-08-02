@@ -1,0 +1,25 @@
+@startuml
+participant "warrior milo" as 0
+box "unspeakable aggravated"
+participant "whimper snoop" as 1
+participant "scented formations" as 2
+end box
+box "gig sacrilege"
+participant "settlements stylings" as 3
+participant "malaria downer" as 4
+end box
+== santos lantern ==
+4 <-> 3++ : blotter smog
+break preaching recreate
+1 -> 4!! : timpani atlas
+ [-> 4: thanksgivings faxed
+return fascist unforgivable
+end
+create participant "untouched peeked" as 5
+0 -> 5 : untouched peeked
+...fertile retreating...
+4 --> 5: cottages toxicology
+par batty headlock
+4 -> 2: son herniated
+end
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+box "ghettos eleventh"
+participant "tory forte" as 0
+participant "cancers phooey" as 1
+end box
+autonumber 4 0
+1 -> 0++ : teacup economical
+1 <-] : extraordinary bagels
+autonumber stop
+1 <-> 1++ : shed bobbing
+return commissioners lapses
+return sagging detectives
+@enduml

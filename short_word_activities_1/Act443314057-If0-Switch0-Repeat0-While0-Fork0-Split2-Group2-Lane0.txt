@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:stewardesses sims;
+split again
+-[hidden]->
+split
+:chess cardboard;
+split again
+:rainy twisting;
+split again
+:triangular maidens;
+split again
+:cleansed emblem; <<output>>
+end split
+split again
+-[hidden]->
+:beret cult; <<procedure>>
+-> murals garth;
+end split
+group halfway rallying
+:detector coexist; <<procedure>>
+group gaps vermeil
+:chassis register;
+-> shipment hydrochloride;
+stop
+end group
+end group
+@enduml

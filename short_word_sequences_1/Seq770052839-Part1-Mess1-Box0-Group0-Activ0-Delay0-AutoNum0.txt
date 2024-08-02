@@ -1,0 +1,5 @@
+@startuml
+participant "unofficial colorado" as 0
+== rehearsing gossips ==
+0 -> 0: bogus look
+@enduml

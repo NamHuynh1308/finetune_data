@@ -1,0 +1,20 @@
+@startuml
+participant "loony it" as 0
+participant "casbah salesman" as 1
+box "salvaging tofu"
+participant "prophecy deviants" as 2
+participant "trifecta seized" as 3
+end box
+autonumber 8 9
+3 ->o 3: drooling speller
+1 -> 2: empire ideals
+0 --//o 3++ : dubious levitate
+0 <-] : piggies mercy
+0 <-> 0: forever waiters
+return prehistoric punctuation
+3 -> 2: ointment scintillating
+1 -> 1: annoys intentions
+par rudely dermatologist
+ [<- 0: technical bludgeoned
+end
+@enduml

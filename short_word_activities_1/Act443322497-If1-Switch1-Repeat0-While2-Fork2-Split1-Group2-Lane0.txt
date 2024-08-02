@@ -1,0 +1,64 @@
+@startuml
+split
+-[hidden]->
+:index specially;
+split again
+-[hidden]->
+if (retreats application?) then (saffron interlude)
+:territories eng; <<task>>
+while (viva scooped?) is (delicious observations)
+:diagram vanishing; <<output>>
+-> passageway drawers;
+:amiss dell;
+backward:regrettable arrangement;
+endwhile (commodity benefactors)
+-[hidden]->
+detach
+else (matey champions)
+:blaring pleasantries;
+while (veronica earthy?) is (adultery intervention)
+:dilemma restrictions; <<output>>
+endwhile (brent forfeit)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+:signifies imposter; <<load>>
+-> steamy hackman;
+end split
+group rectory stomach
+:blob plow;
+group berries informer
+fork
+:sense harassing;
+fork again
+:dang veg;
+fork again
+:approximately hospital; <<output>>
+-> smoldering restraints;
+end merge
+fork
+:exorbitant days;
+fork again
+:boxer honorably; <<output>>
+-> puck perpetrator;
+fork again
+:mounds batman; <<load>>
+-> tow biologically;
+fork again
+switch (confession booby?)
+case (freshly alabaster?)
+:remainder critter;
+case (oomph cheerleader?)
+:cinnamon carcinogens;
+case (impervious kiosk?)
+:civilized jealous; <<task>>
+case (memorable shaming?)
+:boss worth; <<task>>
+endswitch
+end fork
+end group
+stop
+end group
+@enduml

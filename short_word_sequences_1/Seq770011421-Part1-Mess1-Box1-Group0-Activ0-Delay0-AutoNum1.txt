@@ -1,0 +1,7 @@
+@startuml
+box "educated fluid"
+participant "area invoked" as 0
+end box
+autonumber 5 8
+0 --//o 0: overwhelm skiing
+@enduml

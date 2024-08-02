@@ -1,0 +1,6 @@
+@startuml
+group handrail hauled
+:assortment finer; <<input>>
+stop
+end group
+@enduml

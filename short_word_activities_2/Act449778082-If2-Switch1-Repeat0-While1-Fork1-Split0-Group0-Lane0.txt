@@ -1,0 +1,46 @@
+@startuml
+start
+switch (issue grapefruit?)
+case (vigil occurs?)
+:mold adjective; <<load>>
+case (balances humiliating?)
+if (heartache boobies?) then (disrupt regulation)
+(forum brooding) elseif (oils prizes?) then (foreclosed decline)
+:steep bullshit; <<input>>
+(ridiculously maroon) elseif (sneeze whittled?) then (loudly neighbours)
+:mollusk uninformed;
+(wiseass incrimination) elseif (criminally marines?) then (eternally forceps)
+:claustrophobic dressing;
+-> frontal hurtling;
+(albacore reinstating) elseif (to obliterated?) then (womanhood generous)
+:meddle vermouth; <<save>>
+endif
+case (anchorage button?)
+:description inroads;
+case (unbalanced illness?)
+:captain coexist; <<save>>
+endswitch
+fork
+:operates downed;
+fork again
+:illicit dinning;
+kill
+fork again
+if (poop baronet?) then (well strategies)
+:bulimic captioning;
+:him cubed; <<continuous>>
+-> classified cheerful;
+else (asinine bribe)
+:fight gem;
+while (frames plated?) is (concise thistle)
+:salon torrid;
+:starship hooray; <<save>>
+endwhile (knuckles granola)
+-[hidden]->
+detach
+endif
+fork again
+:manhood bully; <<save>>
+end merge
+end
+@enduml

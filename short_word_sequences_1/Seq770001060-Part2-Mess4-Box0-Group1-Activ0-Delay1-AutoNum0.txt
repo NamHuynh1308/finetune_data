@@ -1,0 +1,12 @@
+@startuml
+participant "fruits provocation" as 0
+participant "tarragon terrible" as 1
+1 -> 0!! : seller bandages
+par publisher pending
+ [<- 0: scrounge acquaintance
+0 -->x 0: diagnosed finals
+else surfed penniless
+...perks prehistoric...
+ [<- 0: accomplishing cups
+end
+@enduml

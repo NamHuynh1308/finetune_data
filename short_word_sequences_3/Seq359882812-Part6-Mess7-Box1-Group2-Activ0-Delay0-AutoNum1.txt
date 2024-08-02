@@ -1,0 +1,22 @@
+@startuml
+participant "slung zig" as 0
+participant "blink reality" as 1
+box "sensory preachy"
+participant "expression progression" as 2
+participant "phrase particular" as 3
+end box
+autonumber 0 9
+2 ->x 2: giddy buck
+1 --//o 3: hijinks recommendation
+create participant "scout zlotys" as 4
+2 -> 4 : scout zlotys
+opt strip multimedia
+ [-> 1: soiled uninformed
+1 -->x 3: maxi continued
+3 --> 3: environment wahoo
+critical alias jewellery
+create participant "eggnog tests" as 5
+0 -> 5 : eggnog tests
+end
+end
+@enduml

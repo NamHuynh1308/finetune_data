@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:protected exhume;
+split again
+-[hidden]->
+if (thrive reeks?) then (quarters blubbering)
+(descends landscaping) elseif (doth conference?) then (chinks duet)
+:nightcap lapsed; <<output>>
+(ski dashed) elseif (garland suit?) then (lactose flank)
+:fences mergers;
+endif
+split again
+-[hidden]->
+if (reads episode?) then (scant wisest)
+(invisible converted) elseif (tricks forklift?) then (toxic cleavage)
+:fib tended; <<task>>
+-> ambrosia naught;
+(obnoxious preface) elseif (samurai continues?) then (disinfect scoot)
+:quake refreshing; <<input>>
+endif
+end split
+group gifted swirling
+:aviation displaying; <<load>>
+group rectangle drown
+:obeyed enterprising; <<save>>
+-> revolutionary rousted;
+stop
+end group
+end group
+@enduml

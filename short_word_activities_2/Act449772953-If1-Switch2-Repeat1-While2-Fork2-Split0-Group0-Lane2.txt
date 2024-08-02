@@ -1,0 +1,62 @@
+@startuml
+|1| unresolved calorie
+|2| comet algae
+|1|
+start
+|2|
+switch (whittled worn?)
+case (views beeped?)
+:backpacks hailed; <<load>>
+case (attic whiff?)
+:calculation contesting; <<save>>
+-> thataway foresee;
+endswitch
+:starving limps;
+-> involve pleasure;
+:broth belief; <<procedure>>
+|1|
+switch (detached saleswoman?)
+case (twinkle blooms?)
+if (proven erection?) then (mumps proofing)
+:betrayer drunks; <<save>>
+while (scanned treadmill?) is (quiver hex)
+backward:telethon chino;
+:receptionist upshot;
+endwhile (crooked mistake)
+-[hidden]->
+detach
+else (shat elegance)
+:sapiens manipulations;
+:ghettos produces;
+:assertiveness ozone; <<load>>
+endif
+case (monarchs homer?)
+fork
+:narrow toaster;
+fork again
+:obits everlasting;
+fork again
+:flexibility boogey;
+while (anxiety heroics?) is (heavyweight teaspoons)
+:occur communication;
+endwhile (chug prairie)
+-[hidden]->
+detach
+end fork
+case (shoots disappointments?)
+:motorized hydrogen;
+endswitch
+|2|
+repeat
+fork
+:ensure kitties;
+fork again
+:jade ingenue;
+fork again
+:cloven spencers; <<save>>
+end merge
+backward:earth cares;
+repeat while (roadway smartest?) is (rug teachers)
+-> gays dampener;
+stop
+@enduml

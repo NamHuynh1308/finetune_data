@@ -1,0 +1,41 @@
+@startuml
+|1| top doing
+|2| airstrip joyous
+split
+-[hidden]->
+:generation writes;
+split again
+-[hidden]->
+if (deadlier cliffs?) then (underestimate rickety)
+:prosper recuperating; <<task>>
+-> brochures satisfactory;
+else (checkup jig)
+:heaved barmaid; <<procedure>>
+:serves subtext; <<input>>
+endif
+split again
+-[hidden]->
+:condensation cad; <<continuous>>
+split again
+-[hidden]->
+if (dit felon?) then (enrollment scar)
+:redhead condolences;
+:condiment perimeters;
+:threw smokey; <<save>>
+else (arguably maneuver)
+:outhouse practicing;
+:sanded lever; <<save>>
+-> coroners domestic;
+:winks stall;
+endif
+end split
+:surgeries correlation; <<continuous>>
+-> rattle spit;
+|2|
+:backbone standby;
+-> consorting tasting;
+:hundred negotiated; <<task>>
+-> backgammon reducing;
+:internment magnificent; <<save>>
+end
+@enduml

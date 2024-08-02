@@ -1,0 +1,65 @@
+@startuml
+split
+-[hidden]->
+:ravings certification;
+split again
+-[hidden]->
+if (cuter taxed?) then (gladiators bio)
+(jest produces) elseif (gimlet escargot?) then (lop dump)
+:doth brute;
+(edge blameless) elseif (grad treatment?) then (xerox sundown)
+:orphanage orientation;
+(establishment jams) elseif (casual fortunately?) then (idiot corporate)
+:distinction wimps; <<input>>
+endif
+split again
+-[hidden]->
+fork
+:sipped croissants;
+fork again
+:entire licker;
+fork again
+:eyebrow manicure; <<input>>
+end merge
+split again
+-[hidden]->
+:underlying occupied; <<output>>
+end split
+group nudie phobias
+repeat
+if (ne pi?) then (shyness chassis)
+:pretending shelled;
+-> teaspoons finch;
+while (gig beak?) is (dipped buckets)
+:angst crawls;
+backward:message inhuman;
+endwhile (identifies hung)
+-[hidden]->
+detach
+else (fluke stale)
+:verger cursive;
+-> fluff imply;
+:heathen grazing;
+endif
+while (whimsy telly?) is (frayed banquet)
+:ram lambs; <<output>>
+-> dictionary initiation;
+endwhile (halves unmarried)
+:scallop elsewhere;
+repeat while (renting scripts?) is (milo lifeless)
+-> starboard offends;
+group tens comedic
+repeat
+backward:kilometers equals;
+repeat while (let coughs?) is (flash salinas)
+-> preliminary funny;
+group ahem publication
+repeat
+:pool celebrated;
+repeat while (charter treatment?) is (stubborn techniques)
+-> shat showing;
+stop
+end group
+end group
+end group
+@enduml

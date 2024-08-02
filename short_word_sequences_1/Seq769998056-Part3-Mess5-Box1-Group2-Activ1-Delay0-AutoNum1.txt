@@ -1,0 +1,18 @@
+@startuml
+participant "grandparent outlines" as 0
+box "mimic wingman"
+participant "resorted cover" as 1
+participant "thyme confirming" as 2
+end box
+autonumber 5 3
+2 -> 0: raising trickle
+alt slacker delivers
+2 -> 1!! : rubbers fifty
+2 -> 2++ : toaster prices
+end
+0 -> 1!! : earthlings ran
+break nordic boulder
+1 -> 2: relax chaperone
+return orphan devote
+end
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:unruly waistband;
+split again
+-[hidden]->
+fork
+:flung congratulations;
+fork again
+:smiley galore;
+fork again
+:jaywalking dieting; <<input>>
+end merge
+split again
+-[hidden]->
+:sailboat interpreted;
+end split
+:knot ohm; <<input>>
+-> arranged calf;
+:buckling tiresome;
+end
+@enduml

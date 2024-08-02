@@ -1,0 +1,6 @@
+@startuml
+start
+:expiration pencil; <<load>>
+-> selfishness overjoyed;
+end
+@enduml

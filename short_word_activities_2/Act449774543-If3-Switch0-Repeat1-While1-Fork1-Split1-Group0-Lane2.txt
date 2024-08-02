@@ -1,0 +1,57 @@
+@startuml
+|1| emphatic nonviolent
+|2| museums home
+split
+-[hidden]->
+:detain sevens;
+split again
+-[hidden]->
+fork
+:clipper bellies;
+fork again
+:wonderfully lone;
+fork again
+:allies kicks;
+end fork
+split again
+-[hidden]->
+:dozing compromise; <<input>>
+end split
+|2|
+if (paralyze be?) then (waived stale)
+if (decisions chi?) then (sleepers coopers)
+(ninja packs) elseif (directly shipment?) then (portrayal gob)
+:gasbag sanctity; <<task>>
+-> dishonor nite;
+(brilliant sabers) elseif (downer trolls?) then (disapproves shovels)
+:prototype privacy;
+endif
+else (treason cushion)
+if (cardiologist censure?) then (nicer handball)
+(pottery strapped) elseif (doom freeways?) then (tidying lecture)
+:substances whee; <<task>>
+(trace halitosis) elseif (highlighters caller?) then (buttercup goon)
+:cost scampered;
+(beliefs saxophone) elseif (correctly hallway?) then (situated capital)
+:puce debated;
+(limerick iffy) elseif (feminist foundations?) then (loneliness sleep)
+:flame unlimited;
+endif
+endif
+|1|
+:bat static; <<input>>
+-> scrappy scenes;
+|2|
+repeat
+backward:ambulance stem;
+repeat while (picks mouthpiece?) is (listed disciplines)
+:presses stopwatch; <<procedure>>
+-> shadow glances;
+|1|
+while (putting caroling?) is (eth chateau)
+backward:ashram fouled;
+:disorientation angina;
+endwhile (odyssey anthology)
+:socialism resolved;
+end
+@enduml

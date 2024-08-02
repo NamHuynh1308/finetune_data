@@ -1,0 +1,50 @@
+@startuml
+|1| billiard fluffy
+|2| wahoo hated
+split
+-[hidden]->
+:speaks glittering;
+split again
+-[hidden]->
+if (overblown bout?) then (purged imagines)
+:lifer tone;
+:cutie motivates;
+:span background;
+else (valentine pavement)
+:black eels; <<procedure>>
+:add eyeballs;
+endif
+split again
+-[hidden]->
+:froze collier; <<procedure>>
+-> trading hisses;
+split again
+-[hidden]->
+:noted renovation; <<input>>
+end split
+fork
+:massacre doth;
+fork again
+:rutting lousy; <<output>>
+fork again
+fork
+:manages reschedule;
+fork again
+:worrisome investigate;
+fork again
+:slope collateral;
+kill
+end fork
+fork again
+:lurks midland;
+end merge
+fork
+:jets emeralds;
+fork again
+:squawk punctured;
+fork again
+:cannibal oiled; <<load>>
+end merge
+|2|
+:professional obsess;
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+box "courtside solved"
+participant "suspect scrabble" as 0
+participant "cased queer" as 1
+end box
+== slamming widow ==
+0 <-] : purblind depended
+create participant "rom alleluia" as 2
+1 -> 2 : rom alleluia
+@enduml

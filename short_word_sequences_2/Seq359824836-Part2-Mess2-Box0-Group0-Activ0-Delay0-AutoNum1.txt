@@ -1,0 +1,8 @@
+@startuml
+participant "sen demure" as 0
+participant "kangaroo benevolent" as 1
+autonumber 7 3
+0 -> 1: reason catering
+0 --//o 0: synchronized equitable
+autonumber stop
+@enduml

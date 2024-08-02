@@ -1,0 +1,8 @@
+@startuml
+box "muss messing"
+participant "joiner emotions" as 0
+end box
+loop celery mocked
+ [-> 0: flare matrimony
+end
+@enduml

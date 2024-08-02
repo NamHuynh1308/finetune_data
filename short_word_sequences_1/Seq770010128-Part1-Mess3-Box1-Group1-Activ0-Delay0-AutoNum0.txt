@@ -1,0 +1,13 @@
+@startuml
+box "obsessively smuggler"
+participant "swirling satellites" as 0
+end box
+== killings supermarket ==
+par hectic homers
+0 ->o 0: specifically bathe
+0 -> 0!! : pacer suck
+else prophylactic complacent
+0 -> 0: importer annul
+else rewarded acquaintance
+end
+@enduml

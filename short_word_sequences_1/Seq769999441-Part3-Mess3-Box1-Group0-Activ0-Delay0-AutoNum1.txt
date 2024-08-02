@@ -1,0 +1,12 @@
+@startuml
+participant "courier aiming" as 0
+participant "stabilizing deputy" as 1
+box "sporty calls"
+participant "tung curfew" as 2
+end box
+== convictions hostages ==
+autonumber 10 10
+0 -> 1: spaniel blubber
+0 ->] : pyjamas preserve
+1 --> 0: crowd fold
+@enduml

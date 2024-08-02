@@ -1,0 +1,15 @@
+@startuml
+participant "martinis detached" as 0
+box "chopsticks education"
+participant "bravo manifestations" as 1
+box "somebody talcum"
+participant "lording sanctity" as 2
+end box
+end box
+autonumber 6 3
+0 <-] : annoyingly rhinestone
+2 -> 1: inundated eves
+autonumber stop
+1 -> 2: dictates sympathize
+autonumber resume
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "measures quixote" as 0
+participant "raiding crayons" as 1
+autonumber 5 4
+0 -> 0!! : bask coolly
+autonumber stop
+0 <-] : rust artistic
+0 -> 1++ : detain entanglements
+autonumber resume
+1 -> 1: carcinogens kimono
+return modifications slid
+autonumber stop
+loop deserting meaningful
+ [-> 1: opposable blasters
+end
+@enduml

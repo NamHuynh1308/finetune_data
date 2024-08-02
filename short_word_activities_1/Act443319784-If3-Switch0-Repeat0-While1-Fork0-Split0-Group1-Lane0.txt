@@ -1,0 +1,35 @@
+@startuml
+start
+group animation convince
+if (lieutenant vampire?) then (worrywart writ)
+:geographically living; <<load>>
+-> lance biopsy;
+:knockoff proposals; <<save>>
+-> emphasis afternoon;
+while (harboring fuse?) is (tombs slimy)
+if (pam date?) then (penthouse auctioneer)
+:functions volcanoes;
+else (reinvented emotional)
+:occurrences youthful; <<save>>
+:accidents carrots;
+endif
+endwhile (yearned bowers)
+-[hidden]->
+detach
+else (ere since)
+:gaze benign; <<output>>
+-> uncontrollable earmarked;
+if (barges profess?) then (limit shabbily)
+(appetites locust) elseif (woops crisis?) then (camp spoonful)
+:fads graduates;
+(unattended morgues) elseif (uncovered cutlass?) then (struck provocations)
+:daydream rioja;
+(tune bus) elseif (superstar rectum?) then (indefensible excluding)
+:thankless recorder;
+(hives stint) elseif (juiced must?) then (bulbous productions)
+:paradox condition;
+endif
+endif
+stop
+end group
+@enduml

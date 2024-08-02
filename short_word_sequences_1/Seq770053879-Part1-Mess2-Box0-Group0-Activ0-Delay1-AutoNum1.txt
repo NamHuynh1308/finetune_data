@@ -1,0 +1,7 @@
+@startuml
+participant "tags joseph" as 0
+autonumber 3 2
+ [<- 0: folly romeo
+...vigor donkey...
+0 ->x 0: often probe
+@enduml

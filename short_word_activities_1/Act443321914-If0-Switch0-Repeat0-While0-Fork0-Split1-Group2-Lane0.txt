@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:hyperventilating validity;
+split again
+-[hidden]->
+:reception allergies; <<procedure>>
+split again
+-[hidden]->
+:settings marzipan;
+end split
+group country stables
+:prowl reacts;
+group groom porch
+:signore lads;
+stop
+end group
+end group
+@enduml

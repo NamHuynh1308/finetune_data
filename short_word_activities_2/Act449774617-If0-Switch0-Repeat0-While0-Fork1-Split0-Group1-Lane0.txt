@@ -1,0 +1,14 @@
+@startuml
+group gadget fun
+fork
+:hereby portfolio;
+fork again
+:chipper slaying;
+fork again
+:formidable leased; <<input>>
+end merge
+:exporter exceeded; <<output>>
+-> moderately toxins;
+end group
+stop
+@enduml

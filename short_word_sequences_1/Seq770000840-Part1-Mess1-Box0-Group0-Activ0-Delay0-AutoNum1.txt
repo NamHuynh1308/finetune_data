@@ -1,0 +1,5 @@
+@startuml
+participant "arrests astronaut" as 0
+autonumber 9 10
+0 --> 0: nails skyscraper
+@enduml

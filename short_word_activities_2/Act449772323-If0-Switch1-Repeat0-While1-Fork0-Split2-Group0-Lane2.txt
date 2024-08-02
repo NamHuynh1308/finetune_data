@@ -1,0 +1,47 @@
+@startuml
+|1| creed graphs
+|2| disdain beard
+split
+-[hidden]->
+:shutdown pamper;
+split again
+-[hidden]->
+:teeming messenger; <<task>>
+-> moniker squatting;
+split again
+-[hidden]->
+:aces creases; <<continuous>>
+split again
+-[hidden]->
+:occasions salsa;
+end split
+|2|
+:mayors imitation; <<task>>
+-> beer lubricant;
+:malaria nitwit; <<procedure>>
+switch (pup blonde?)
+case (interference calamitous?)
+split
+:sledgehammer christy;
+split again
+:omelettes rebuild; <<output>>
+-> mustang entrepreneur;
+split again
+:glues exodus;
+split again
+:arbor renal;
+end split
+case (whammy access?)
+while (harbors competitiveness?) is (been helps)
+:snatchers sax;
+backward:billion destiny;
+backward:detection toll;
+:piggy lacquer;
+endwhile (untreated denouncing)
+:patten vulnerable;
+case (collapsed restriction?)
+:ingested truthfully; <<output>>
+-> squire maestro;
+endswitch
+:roof snatched; <<load>>
+@enduml

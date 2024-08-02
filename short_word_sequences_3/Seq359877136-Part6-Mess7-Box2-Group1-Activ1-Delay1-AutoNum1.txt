@@ -1,0 +1,30 @@
+@startuml
+participant "architects el" as 0
+participant "disarmed dit" as 1
+box "jaundice trails"
+participant "goof furtive" as 2
+box "shepherd renegotiate"
+participant "hesitation soles" as 3
+end box
+end box
+autonumber 8 10
+1 <-] : licked deductions
+par strangeness orange
+0 -> 2: sleepwalk roulette
+create participant "puffs frosty" as 4
+0 -> 4 : puffs frosty
+autonumber stop
+else griffins camera
+1 ->x 1++ : attending titanium
+else specializes gagging
+...recklessly distort...
+4 -->x 1: clerks homing
+return sheets mails
+autonumber resume
+else genus lesson
+create participant "mustang cohesion" as 5
+2 -> 5 : mustang cohesion
+ [<- 2: dishonorable shenanigans
+autonumber stop
+end
+@enduml

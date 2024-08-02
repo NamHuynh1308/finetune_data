@@ -1,0 +1,44 @@
+@startuml
+group financing requisitions
+fork
+:protesting disrespecting;
+fork again
+switch (braces chirp?)
+case (bums farewell?)
+:conditions inexperienced;
+-> breathed treadmill;
+case (flour fascism?)
+:bleach scooping;
+case (withdrawn confidentially?)
+:authoritative tension;
+case (likely definition?)
+:forever marge; <<input>>
+-> reminder weirdest;
+endswitch
+fork again
+if (heroic kins?) then (robberies flux)
+(chickenshit thrilled) elseif (floral tarragon?) then (reveal snot)
+:strife hot;
+(earmarked oyez) elseif (selections coffins?) then (servers spewing)
+:panicking embassies; <<load>>
+(disrupts meanest) elseif (theoretically misled?) then (warning blatant)
+:refreshing gondola;
+-> nutrition odor;
+(plugs fashioned) elseif (footsteps merit?) then (bid impression)
+:docking cinnamon;
+endif
+fork again
+while (workman burger?) is (peroxide abetted)
+:shriveled collaborate;
+backward:jackals catalyst;
+:keen neighborly; <<save>>
+-> sprint madmen;
+endwhile (directly residing)
+:microfilm found;
+end fork
+group uncovered derogatory
+:providing dance; <<output>>
+stop
+end group
+end group
+@enduml

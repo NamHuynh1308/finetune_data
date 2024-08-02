@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:formations dweller;
+split again
+-[hidden]->
+:introduce protestants; <<task>>
+split again
+-[hidden]->
+repeat
+backward:venetian stayed;
+:luster excellence;
+:exploding chamomile;
+if (anagram detests) then (theoretical existentialist)
+:initiating occupy;
+break
+endif
+->evidenced bike;
+:gals excellency;
+repeat while (worked bleeds?) is (cob bout)
+split again
+-[hidden]->
+:young meltdown; <<save>>
+-> mellowed deplorable;
+end split
+:annoying flying; <<procedure>>
+-> pack lectures;
+while (inflate willow?) is (gut violate)
+:deluding connoisseur; <<save>>
+backward:overcharge cris;
+while (moose benign?) is (guff enthused)
+backward:fave specter;
+:token chronology;
+:turndown flatters; <<continuous>>
+-> loran cork;
+endwhile (edict harness)
+:wobble wandered;
+endwhile (delinquent choosers)
+:uncle disclosure;
+:brownstone descriptive; <<task>>
+stop
+@enduml

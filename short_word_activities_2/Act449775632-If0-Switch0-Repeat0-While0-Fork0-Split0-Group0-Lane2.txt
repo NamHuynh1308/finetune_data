@@ -1,0 +1,15 @@
+@startuml
+|1| huck saki
+|2| flags lone
+|1|
+start
+|2|
+:rounded occupy; <<task>>
+-> mousse friendliest;
+|1|
+:yelling pare; <<input>>
+|2|
+:calorie dummkopf; <<input>>
+-> deflection mill;
+end
+@enduml

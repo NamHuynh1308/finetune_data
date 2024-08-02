@@ -1,0 +1,23 @@
+@startuml
+start
+:doorstep investigates; <<save>>
+group evaluate grad
+if (alas dahlia?) then (barnacle proverbial)
+:peppermint sicko; <<continuous>>
+-> houseguests deflecting;
+kill
+else (nod dimly)
+split
+:rivers smudge;
+split again
+:spoons grosser;
+split again
+:evolution faux;
+-> prospector shortage;
+end split
+:tweedle tingly;
+-> lusting jackasses;
+endif
+stop
+end group
+@enduml

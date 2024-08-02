@@ -1,0 +1,15 @@
+@startuml
+participant "neurologist dissed" as 0
+participant "fowl skeeters" as 1
+participant "fantasy buildings" as 2
+box "casket upright"
+participant "stupidity skipper" as 3
+end box
+== matters founder ==
+1 ->> 3: firs tread
+2 <-> 0: measures automatically
+2 --> 1: about impartial
+par negotiation clung
+1 -\\ 1: tiara defined
+end
+@enduml

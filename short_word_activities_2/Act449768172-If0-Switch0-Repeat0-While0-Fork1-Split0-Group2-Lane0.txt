@@ -1,0 +1,21 @@
+@startuml
+start
+group stoic cabinet
+:purchases destination; <<input>>
+-> greaseball armaments;
+fork
+:toes limbo;
+fork again
+:westerns sera; <<procedure>>
+-> worships novel;
+fork again
+:sequel swooped;
+-> optimum darling;
+end merge
+end group
+group glover staff
+:swarming shillings; <<save>>
+-> fries heighten;
+stop
+end group
+@enduml

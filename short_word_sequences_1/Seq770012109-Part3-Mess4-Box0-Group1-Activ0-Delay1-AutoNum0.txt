@@ -1,0 +1,13 @@
+@startuml
+participant "gracefully brats" as 0
+participant "catty psychotics" as 1
+participant "pitching contributing" as 2
+== mugs tens ==
+0 -->x 1: ushering votes
+...ill oversensitive...
+2 ->o 0: adjective fizzled
+alt bearer mimicking
+ [-> 0: deadlines greyhound
+1 ->] : countrymen jeepers
+end
+@enduml

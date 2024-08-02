@@ -1,0 +1,13 @@
+@startuml
+participant "operate walked" as 0
+participant "scuffle breakable" as 1
+participant "riley sawing" as 2
+== imagines grandchildren ==
+opt pioneer downhill
+2 -->x 0++ : bossed helper
+2 ->> 0++ : shillings singe
+2 -> 1: captains then
+return trespassed road
+end
+return tenths plans
+@enduml

@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:scriptures thickens;
+split again
+-[hidden]->
+:survivors bailiffs; <<load>>
+-> disregarded compatible;
+split again
+-[hidden]->
+:testicular highlighted; <<input>>
+split again
+-[hidden]->
+:louse cash;
+kill
+end split
+fork
+:swap forensics;
+fork again
+:compadre flat;
+fork again
+:vows emeralds; <<output>>
+fork again
+:whimper obeying; <<output>>
+-> belated geneva;
+end fork
+end
+@enduml

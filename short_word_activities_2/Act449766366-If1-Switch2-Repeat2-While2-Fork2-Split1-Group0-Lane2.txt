@@ -1,0 +1,79 @@
+@startuml
+|1| mm pamper
+|2| lasted arugula
+split
+-[hidden]->
+:monitors textile;
+split again
+-[hidden]->
+:idly plugging;
+split again
+-[hidden]->
+switch (discoloration flattered?)
+case (splitting honda?)
+:repression mystical; <<load>>
+-> foregone humiliates;
+case (anxious upstanding?)
+:ralph limes; <<save>>
+endswitch
+end split
+|2|
+:stained worms; <<load>>
+repeat
+:squished waltz; <<continuous>>
+:sumptuous attorneys; <<procedure>>
+backward:moping sweetness;
+repeat while (referendums dwarfs?) is (deadbeat dubious)
+fork
+:standish pest;
+fork again
+:corporal paratroopers;
+while (misconceptions chores?) is (bourgeois agreed)
+:counselors penises; <<procedure>>
+:minuses goners; <<input>>
+-> icicle deplete;
+endwhile (commune screwups)
+-[hidden]->
+detach
+fork again
+if (smithereens toddler?) then (yuppies vaporized)
+:burning francs; <<procedure>>
+:positive essence; <<output>>
+-> cates correspondence;
+else (tangible wolf)
+:honks illegally; <<output>>
+-> mixer carlin;
+while (fuck gave?) is (monsters antics)
+:enthralled recipient; <<continuous>>
+-> regionals undertow;
+:copies sunscreen; <<input>>
+backward:centimeters squares;
+:decorum applying; <<output>>
+endwhile (physicists profiles)
+-[hidden]->
+detach
+endif
+end fork
+:airlift beads; <<load>>
+-> chemistry kilo;
+switch (demoted crews?)
+case (droll sot?)
+:doggies ravings; <<save>>
+-> dying extra;
+case (tendon gardener?)
+fork
+:lewis ewe;
+fork again
+:academic scattering;
+fork again
+:compute metro; <<task>>
+end merge
+case (sabotaged morgue?)
+:fortuneteller forbidding; <<load>>
+case (anesthesia olden?)
+repeat
+:heirlooms international; <<task>>
+repeat while (surrounded shaved?) is (unlocked fro)
+endswitch
+end
+@enduml

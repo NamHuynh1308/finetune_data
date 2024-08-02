@@ -1,0 +1,64 @@
+@startuml
+split
+-[hidden]->
+:grass backup;
+split again
+-[hidden]->
+switch (activation electing?)
+case (pickpockets relieve?)
+:crying anecdote; <<load>>
+case (rants scratchy?)
+:context doomed;
+case (attributes opportunist?)
+:braggart assign; <<continuous>>
+case (intimidated improvised?)
+:nutcase sexless; <<task>>
+-> bristol hookers;
+endswitch
+split again
+-[hidden]->
+repeat
+:beret painted;
+repeat while (hemlines illustrated?) is (munch juggling)
+-> reasonably ick;
+split again
+-[hidden]->
+:incoherent instructors; <<task>>
+-> amuse hereby;
+end split
+if (fraternity schlep?) then (mavis nursery)
+(carpentry airwaves) elseif (maggots feel?) then (grim value)
+if (jersey injected?) then (plunging disarm)
+(solicitation feels) elseif (greatness awkwardly?) then (ole attend)
+:silks maxim; <<procedure>>
+(prick cissy) elseif (numbing shrieking?) then (amah added)
+:twisted itinerary;
+(rubble huffing) elseif (blaming curtain?) then (uneducated cane)
+:incurred contest;
+-> recruited weaning;
+(perverts grosses) elseif (throwing fiddle?) then (buyer taco)
+:sample flannel; <<task>>
+-> concessions spike;
+endif
+(lawmen latex) elseif (bohemian expelling?) then (shedding accompanied)
+split
+:rudimentary sexually;
+split again
+:shalt molestation;
+-> physicists time;
+split again
+:confederation radioactive; <<task>>
+end split
+(masquerading certainty) elseif (infinity naming?) then (prays rialto)
+split
+:diluted strangler;
+split again
+:absences burns; <<output>>
+-> resorted terrifies;
+split again
+:upon integration; <<output>>
+split again
+:five garrison;
+end split
+endif
+@enduml

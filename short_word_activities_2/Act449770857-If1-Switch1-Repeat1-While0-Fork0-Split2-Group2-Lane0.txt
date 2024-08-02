@@ -1,0 +1,46 @@
+@startuml
+group brr chaos
+repeat
+split
+:calendars strikes;
+split again
+:nunnery amnesia; <<load>>
+-> cheep loosing;
+split again
+:someday recipes; <<input>>
+end split
+if (fiftieth slob?) then (counterpart volunteering)
+:effect golfers; <<continuous>>
+-> pacing theme;
+else (muss pheasants)
+:monogamous approached;
+:nosed depart; <<task>>
+-> rubbers noisy;
+:salty swans; <<task>>
+-> nosy purer;
+endif
+repeat while (choice dock?) is (corny accounted)
+-> watcher amends;
+group god musicians
+switch (dragonfly pixie?)
+case (decryption including?)
+split
+:advertising dink;
+split again
+:hurley fiasco;
+split again
+:pretend artichoke; <<output>>
+split again
+:ranch epic; <<procedure>>
+-> pants declaring;
+end split
+case (prestigious deserter?)
+:snuck blather;
+kill
+case (undergo midwestern?)
+:cadmium pissed; <<input>>
+endswitch
+stop
+end group
+end group
+@enduml

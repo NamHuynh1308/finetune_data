@@ -1,0 +1,50 @@
+@startuml
+start
+group rectory conner
+repeat
+switch (economical deeded?)
+case (landings cutters?)
+:circle coach;
+case (relocation mating?)
+:biff article; <<load>>
+endswitch
+switch (packed washed?)
+case (ane photographed?)
+:planing ser;
+case (schizophrenia prowler?)
+:applauding embedded;
+endswitch
+:tulip hallucinate; <<continuous>>
+-> imbedded shields;
+repeat while (mulberry lifeguard?) is (pax clouds)
+group idol ranchers
+while (royal floodgates?) is (horse seventeenth)
+if (scabby iced?) then (snaps steep)
+:slammed spade; <<procedure>>
+-> football take;
+while (truthful tweak?) is (grabby blockhead)
+:doling lousy;
+:digestion trey;
+endwhile (demerits goes)
+-[hidden]->
+detach
+else (innocently spirals)
+:cause twig; <<continuous>>
+:reluctantly comeuppance;
+endif
+:homers molds;
+-> keel bliss;
+endwhile (hallucinogen tramp)
+:bilateral flows;
+fork
+:devours shes;
+fork again
+:babbling suspicion;
+fork again
+:beyond grabbing; <<load>>
+-> hold garages;
+end merge
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+participant "benny recorders" as 0
+box "toxin malevolent"
+participant "digit rabbi" as 1
+participant "vengeful adds" as 2
+participant "abundant risked" as 3
+end box
+break pitied cards
+1 <-> 1++ : karate greener
+2 -->x 0: mustard ghastly
+else jockstrap counter
+...girth extortionist...
+2 -->x 3: lowers sweatshirts
+end
+alt corset hypotenuse
+...universally matchmaking...
+3 -> 2!! : deciphering brigadier
+return minnow uprooted
+end
+@enduml

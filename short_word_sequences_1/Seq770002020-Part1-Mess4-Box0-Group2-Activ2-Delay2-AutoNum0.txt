@@ -1,0 +1,16 @@
+@startuml
+participant "trans intubate" as 0
+== unhand commando ==
+ [-> 0: scenario fuzz
+opt befitting potholes
+...genie hobbling...
+0 <-] : gel mutants
+...millennia idealistic...
+0 -> 0++ : fell volcanoes
+end
+break extracted mellowed
+0 <-> 0++ : muzzle wartime
+end
+return miller slimy
+return stone lax
+@enduml

@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:dissection honks;
+split again
+-[hidden]->
+:whodunit don; <<task>>
+split again
+-[hidden]->
+:reattach oils; <<task>>
+split again
+-[hidden]->
+switch (features pinned?)
+case (wrought grubbing?)
+:visor hawking;
+case (indignities trident?)
+:sole polygraph; <<continuous>>
+case (giving bungalow?)
+:goats seizure; <<load>>
+case (ego concluding?)
+:shitty moped; <<task>>
+-> substance chow;
+endswitch
+end split
+while (snacks harvest?) is (implement necessarily)
+backward:journalism sunning;
+if (ligament endeavor?) then (florists deformity)
+:crawly chill; <<input>>
+-> soldiers dingle;
+while (eggplant messages?) is (returned wrangle)
+:reboot insecurities; <<continuous>>
+-> parable notably;
+endwhile (floodgates vacuuming)
+-[hidden]->
+detach
+else (patrons pickled)
+:conspired ingredients;
+endif
+endwhile (accessing implicitly)
+:intimate insect;
+:puzzling deemed; <<continuous>>
+-> peripheral proved;
+end
+@enduml

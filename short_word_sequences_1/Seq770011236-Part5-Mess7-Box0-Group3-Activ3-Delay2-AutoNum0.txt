@@ -1,0 +1,25 @@
+@startuml
+participant "recharge perfume" as 0
+participant "banshee conferences" as 1
+participant "reminded honey" as 2
+participant "bugger or" as 3
+ [<- 3: prescription shipshape
+1 -> 0++ : mongoloid sizzle
+loop perimeters abbot
+create participant "photographing goofy" as 4
+0 -> 4 : photographing goofy
+alt meteors always
+...commission pestering...
+1 -> 2++ : skyscraper propulsion
+3 -\\ 4++ : inevitably opposite
+end
+...bungalow stiletto...
+ [-> 4: premises staffed
+return acquisitions shawn
+par misled potentially
+3 -\\ 0: flirt psychosis
+return chairs crisp
+end
+end
+return kettle summers
+@enduml

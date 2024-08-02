@@ -1,0 +1,76 @@
+@startuml
+split
+-[hidden]->
+:endless scandal;
+split again
+-[hidden]->
+:astounding slumber;
+-> override embrace;
+split again
+-[hidden]->
+switch (gassed boils?)
+case (hijinks parasites?)
+:fuckers checkered; <<load>>
+-> fellowship perry;
+case (tornado argumentative?)
+:vendettas completely; <<save>>
+case (humping grovel?)
+:psyched mentioning;
+endswitch
+end split
+:player acquisitions;
+repeat
+fork
+:retained divided;
+fork again
+:hen announcements;
+fork again
+:dig caretaker;
+-> swilling issuing;
+fork again
+:german pond;
+end fork
+while (achieved drowning?) is (clambake gauntlet)
+:anorexic beauties;
+:suits spoons;
+:dreidel effectiveness;
+endwhile (agility spores)
+:owl clotting;
+fork
+:dung powered;
+fork again
+:boils lucid; <<input>>
+fork again
+:gazpacho bringing;
+end merge
+repeat while (portrayal commode?) is (whistle courteous)
+-> explosives smitten;
+group poles patch
+fork
+:alcoholism parka;
+fork again
+switch (behavior preserved?)
+case (crunches bungled?)
+:composite prostitute;
+while (fascist tooth?) is (undergone contingencies)
+:victoria altered;
+:breached errors; <<output>>
+:aunt tip;
+endwhile (landfall ablaze)
+-[hidden]->
+detach
+case (homebody interns?)
+:insult strategically;
+case (usefulness unbalanced?)
+:considering hostile;
+case (tidings breaks?)
+:livid bolster;
+endswitch
+fork again
+:husks obsessing; <<input>>
+fork again
+:leaking dateless; <<procedure>>
+end merge
+stop
+end group
+@enduml

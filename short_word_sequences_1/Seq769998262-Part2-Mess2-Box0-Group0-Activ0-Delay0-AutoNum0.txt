@@ -1,0 +1,7 @@
+@startuml
+participant "fears chaperon" as 0
+participant "chief disasters" as 1
+== liked permanently ==
+ [-> 1: incarnation chatter
+ [-> 0: splint stopping
+@enduml

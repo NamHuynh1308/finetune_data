@@ -1,0 +1,7 @@
+@startuml
+:siege tanning; <<load>>
+group fundraiser dizzy
+:housewarming deflated; <<output>>
+stop
+end group
+@enduml

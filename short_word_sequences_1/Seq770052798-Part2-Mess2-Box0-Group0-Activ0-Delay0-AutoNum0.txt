@@ -1,0 +1,7 @@
+@startuml
+participant "comfortably rhythms" as 0
+participant "respectfully crib" as 1
+== roommates obsolete ==
+1 -> 1: gratification inspecting
+ [<- 0: heist masquerading
+@enduml

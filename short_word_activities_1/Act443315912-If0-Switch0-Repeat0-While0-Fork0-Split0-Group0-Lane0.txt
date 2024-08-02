@@ -1,0 +1,6 @@
+@startuml
+start
+:laying converging; <<input>>
+-> impossible contents;
+stop
+@enduml

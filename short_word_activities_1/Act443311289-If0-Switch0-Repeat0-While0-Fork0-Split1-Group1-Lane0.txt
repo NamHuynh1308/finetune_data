@@ -1,0 +1,14 @@
+@startuml
+start
+group dahl specifications
+split
+:ganging bowline;
+split again
+:nagging junky;
+split again
+:inn stocked; <<task>>
+-> flatulence identifying;
+end split
+stop
+end group
+@enduml

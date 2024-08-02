@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:saps flowers;
+split again
+-[hidden]->
+:mittens initiated; <<save>>
+-> turtle paramilitary;
+split again
+-[hidden]->
+:aides powered; <<save>>
+-> soups checkered;
+end split
+group deceit flirting
+:zipper subservient;
+stop
+end group
+@enduml

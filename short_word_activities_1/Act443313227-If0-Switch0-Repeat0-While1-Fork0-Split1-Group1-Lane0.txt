@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:admit warden;
+split again
+-[hidden]->
+:hepatitis role; <<load>>
+split again
+-[hidden]->
+while (places indiscreet?) is (embassy receive)
+:potsie poly; <<continuous>>
+:easter granola; <<output>>
+:demure dance;
+:softest detain;
+endwhile (clobbered straightened)
+:sprouted referendum;
+end split
+group grosser construed
+:talentless epinephrine; <<output>>
+-> guy dinosaurs;
+stop
+end group
+@enduml

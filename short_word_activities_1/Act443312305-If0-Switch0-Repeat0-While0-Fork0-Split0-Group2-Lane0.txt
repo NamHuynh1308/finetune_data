@@ -1,0 +1,11 @@
+@startuml
+start
+group mickey hogs
+:jam spreadsheets; <<load>>
+group ebb wiping
+:internationally hazard; <<continuous>>
+-> foods moving;
+stop
+end group
+end group
+@enduml

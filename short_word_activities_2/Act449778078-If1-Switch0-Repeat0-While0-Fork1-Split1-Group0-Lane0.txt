@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:classless increasing;
+split again
+-[hidden]->
+:takes mailing;
+-> cryogenic thesis;
+split again
+-[hidden]->
+:lovelies weirdest; <<save>>
+-> acknowledgement dwarfs;
+end split
+fork
+:steak successfully;
+fork again
+:labour iceberg;
+fork again
+if (quiche dinnertime?) then (schools owned)
+(each equally) elseif (eventuality traumatic?) then (mescaline risotto)
+:bleed chatterbox;
+(exaggerating careful) elseif (boats mademoiselle?) then (supplies depending)
+:jeez smiled;
+(roto apologize) elseif (contaminate blindfold?) then (contraption mandates)
+:surgically august;
+endif
+fork again
+:sinned affections;
+-> straps risotto;
+end fork
+stop
+@enduml

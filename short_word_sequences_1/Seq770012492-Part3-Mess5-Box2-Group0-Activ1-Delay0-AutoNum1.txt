@@ -1,0 +1,17 @@
+@startuml
+box "reap untreated"
+participant "ropes cabinet" as 0
+box "clam abstain"
+participant "fortunate nope" as 1
+participant "dread liberties" as 2
+end box
+end box
+autonumber 3 2
+0 -// 0: antiquing ballon
+1 <-> 1: blockhead rot
+1 -> 1++ : excursion orbit
+ [<- 1: ectopic rustle
+autonumber stop
+2 -> 0: capitalize guns
+return whores catchers
+@enduml

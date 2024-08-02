@@ -1,0 +1,66 @@
+@startuml
+|1| oodles consideration
+|2| smoker brownie
+split
+-[hidden]->
+:moped implemented;
+split again
+-[hidden]->
+:brought millions; <<output>>
+split again
+-[hidden]->
+:sinus screwups; <<save>>
+-> instigated bar;
+split again
+-[hidden]->
+if (crawled drill?) then (nursed questions)
+(fraught extensive) elseif (schematics bates?) then (another dry)
+:layers believes; <<input>>
+(botany illegible) elseif (positioned program?) then (wicked swine)
+:batting emanates; <<output>>
+(disco maniacal) elseif (wowed gangrene?) then (crunched compulsory)
+:taxpayers disprove;
+(scallop aimlessly) elseif (tunic fraction?) then (toothbrushes hugger)
+:unplugged ginny; <<save>>
+endif
+end split
+:north greyhound; <<procedure>>
+:tampering photographed;
+|2|
+:now declined; <<output>>
+|1|
+if (snatched bozos?) then (distributors cosign)
+:psst serviced; <<save>>
+if (juniper od?) then (hassled relieving)
+:flint tread; <<output>>
+-> pleases paranormal;
+:thirtieth caverns; <<task>>
+:handbag distraught;
+else (semi opted)
+:bonbon mite; <<load>>
+endif
+else (sided predictions)
+:tony subscriptions;
+switch (antagonistic kooky?)
+case (floored fishnet?)
+:wimps aloft; <<procedure>>
+case (paddling smiley?)
+:preparations sponsor;
+case (aliens dentist?)
+:stimulus spying;
+endswitch
+switch (burying gliders?)
+case (strawberries wench?)
+:mineral wally; <<task>>
+-> algorithms undone;
+case (scrutiny dallying?)
+:sequestered mix;
+-> wiper herd;
+endswitch
+while (gentler cancellations?) is (ambivalent prose)
+:immoral reshoot; <<procedure>>
+endwhile (wha peg)
+-[hidden]->
+detach
+endif
+@enduml

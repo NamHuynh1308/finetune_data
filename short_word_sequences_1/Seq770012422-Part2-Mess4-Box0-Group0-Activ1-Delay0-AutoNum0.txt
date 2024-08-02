@@ -1,0 +1,9 @@
+@startuml
+participant "negotiator unacceptable" as 0
+create participant "humiliating blume" as 1
+0 -> 1 : humiliating blume
+1 -> 1++ : color supplied
+ [<- 0: carmen administrative
+0 --//o 1: improving string
+return error taller
+@enduml

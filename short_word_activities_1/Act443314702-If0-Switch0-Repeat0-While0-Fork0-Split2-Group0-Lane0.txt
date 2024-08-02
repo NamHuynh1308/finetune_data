@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:promoting caring;
+split again
+-[hidden]->
+split
+:conceited magnitude;
+split again
+:showbiz endearing; <<save>>
+split again
+:baffled stormed;
+-> bogeyman safer;
+split again
+:buffalo twentieth;
+end split
+split again
+-[hidden]->
+:troy nap;
+-> translation believable;
+split again
+-[hidden]->
+:personalized races; <<procedure>>
+-> crick tingling;
+end split
+:quadrant impostor; <<output>>
+stop
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "vamp obviously" as 0
+participant "grizzly jackals" as 1
+1 <-> 1: panic hospitable
+1 -> 1: ideas coven
+@enduml

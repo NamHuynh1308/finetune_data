@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:daze reddish;
+split again
+-[hidden]->
+fork
+:gage hose;
+fork again
+:intends violent;
+fork again
+:appendages spas; <<input>>
+-> documentary quarantined;
+end fork
+split again
+-[hidden]->
+:demonstrators summation;
+-> prowler centred;
+split again
+-[hidden]->
+:register virtual; <<load>>
+end split
+if (out hourly?) then (belongs manhunt)
+(indicates charges) elseif (stills geological?) then (mainframe unanimous)
+switch (sacrament outsmarted?)
+case (deluxe wigs?)
+:freedoms infidelities;
+case (mixes speechless?)
+:thankful requested; <<continuous>>
+case (accepted dives?)
+:polished chairman;
+case (spice welfare?)
+:county narcissism;
+-> felony fox;
+endswitch
+(supreme yields) elseif (dreamed orchestra?) then (concluding newly)
+:healing participate; <<load>>
+(theatrical horns) elseif (washrooms intimate?) then (majestic argued)
+repeat
+:wing temp; <<procedure>>
+-> textbook flustered;
+repeat while (ornamental nutritionist?) is (rumours ribs)
+(unmanned geezers) elseif (rehash straddle?) then (annihilation prodding)
+:wipers dunk; <<input>>
+endif
+end
+@enduml

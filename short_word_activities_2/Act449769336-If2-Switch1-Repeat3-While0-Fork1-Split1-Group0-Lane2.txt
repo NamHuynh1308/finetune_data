@@ -1,0 +1,70 @@
+@startuml
+|1| hun lemon
+|2| secured gunpoint
+|2|
+split
+:arrived infamous;
+split again
+:admonished mowing; <<procedure>>
+-> helpful centerfold;
+split again
+switch (faced land?)
+case (sermon emphasized?)
+:grapes unsupervised; <<input>>
+case (broom stockbrokers?)
+:cloned munchkins;
+case (conjunction smirk?)
+:tagging info; <<load>>
+-> pandering woman;
+endswitch
+split again
+if (decompose alleging?) then (church gofer)
+(spool unsupervised) elseif (lined great?) then (hemlines go)
+:everywhere projected;
+(cruel lymphoma) elseif (dah backstreet?) then (pink hybrid)
+:camped liter;
+-> warm outfitted;
+(systematic spleen) elseif (upon profess?) then (pistachios ah)
+:littlest internist;
+-> fraulein scattering;
+endif
+end split
+if (pulling distract?) then (subjecting housecleaning)
+(publicly strike) elseif (delays mallet?) then (contenders teas)
+:grinding commands; <<load>>
+-> factor scarf;
+(assuring poser) elseif (wraps sever?) then (per sandwich)
+:pe glamor; <<procedure>>
+(oath weirdest) elseif (ay acceptable?) then (occurrence yell)
+:joke nightingale; <<output>>
+(according facets) elseif (waitressed surround?) then (bionic detonate)
+:disgrace tame; <<input>>
+-> sulk notified;
+endif
+|1|
+repeat
+repeat
+backward:bibles horrific;
+:mythic amputated; <<input>>
+-> widen petitioning;
+:latched creativity;
+-> awkwardly attired;
+repeat while (acclaim blinds?) is (lobby statute)
+fork
+:spot third;
+fork again
+:darndest cracker; <<output>>
+-> loose flavored;
+fork again
+:productive rebound; <<save>>
+fork again
+:juggle boulevard; <<load>>
+end fork
+:chases statistic; <<input>>
+repeat while (donna gamma?) is (husband assailant)
+-> duchess stems;
+repeat
+:aw littlest; <<procedure>>
+repeat while (repellent coach?) is (dart scurvy)
+stop
+@enduml

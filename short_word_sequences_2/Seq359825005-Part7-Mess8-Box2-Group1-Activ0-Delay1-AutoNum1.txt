@@ -1,0 +1,25 @@
+@startuml
+box "pies pain"
+participant "cavern tho" as 0
+participant "herpes locate" as 1
+box "scissors damsel"
+participant "stupider outdoor" as 2
+participant "shield backseat" as 3
+participant "outlandish expelled" as 4
+end box
+end box
+autonumber 4 0
+create participant "cuffing platonic" as 5
+1 -> 5 : cuffing platonic
+...lifeboats shrubbery...
+4 -> 5: icebreaker caverns
+5 -> 5: rehabilitation auditorium
+5 <-] : lasted trooper
+alt wastebasket proofing
+create participant "happen scenes" as 6
+4 -> 6 : happen scenes
+4 -->x 1: scent championship
+end
+3 --//o 5: electronic accessories
+3 -> 0: ushers blowfish
+@enduml

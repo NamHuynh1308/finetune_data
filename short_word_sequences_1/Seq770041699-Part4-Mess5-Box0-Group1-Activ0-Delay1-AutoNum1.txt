@@ -1,0 +1,19 @@
+@startuml
+participant "offenders chaperoned" as 0
+participant "warfare television" as 1
+participant "suburbs craves" as 2
+participant "situations beige" as 3
+autonumber 1 8
+0 -->x 1: untrained latched
+autonumber stop
+3 -> 1: physic detours
+loop clientele distressed
+...denied jackpot...
+1 -> 0: rearrange coaching
+autonumber resume
+1 ->x 2: winters shopped
+autonumber stop
+0 <-] : hospice spotted
+else deceptively uglies
+end
+@enduml

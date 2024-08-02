@@ -1,0 +1,55 @@
+@startuml
+|1| hawking amaretto
+|2| shorty residence
+split
+-[hidden]->
+:kills boozing;
+split again
+-[hidden]->
+:orienteering bob; <<continuous>>
+-> smoked clap;
+split again
+-[hidden]->
+switch (bridal outgrown?)
+case (reverence niceties?)
+:anew recapture; <<output>>
+-> suspicion alchemy;
+case (withdrawn guess?)
+:atrocious rancho;
+while (sensibilities cobras?) is (helicopter treating)
+:inevitability raiser;
+backward:redundant jockeys;
+:eyed exists;
+-> congregation fear;
+:eminence endeavor;
+endwhile (candles pawn)
+-[hidden]->
+detach
+endswitch
+end split
+switch (dowdy passing?)
+case (creepers peering?)
+:images deeded; <<save>>
+-> mowers serve;
+case (trajectory hellbent?)
+if (advising eclectic?) then (solitaire unhooked)
+(detached tempted) elseif (whirl assuring?) then (unavoidable era)
+:noticed goo;
+(carriage toasty) elseif (allegiance plantation?) then (shuffled vegetative)
+:delivers marshal;
+(dusted moss) elseif (hounds bates?) then (specifications hopping)
+:advertising musketeer;
+(wildfire prep) elseif (pied bakers?) then (airway fumbling)
+:pac restore;
+endif
+case (creeping insulting?)
+:whomever assignments; <<continuous>>
+case (decorative unsolved?)
+:rubbing southwest; <<task>>
+endswitch
+|2|
+:recon borrowing; <<save>>
+|1|
+:triplicate skier;
+stop
+@enduml

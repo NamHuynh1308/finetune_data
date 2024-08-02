@@ -1,0 +1,16 @@
+@startuml
+start
+group plantations cocktail
+fork
+:ceiling biking;
+fork again
+:wink signify; <<save>>
+fork again
+:gullible fabric; <<input>>
+fork again
+:rancid exceptions; <<procedure>>
+-> logo licked;
+end fork
+stop
+end group
+@enduml

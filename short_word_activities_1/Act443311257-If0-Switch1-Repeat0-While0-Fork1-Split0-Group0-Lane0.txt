@@ -1,0 +1,15 @@
+@startuml
+fork
+:quality blowhard;
+fork again
+:acquaintance chandeliers; <<output>>
+fork again
+switch (deal trashing?)
+case (worshippers theological?)
+:bridegroom period;
+case (printer anyhow?)
+:mag psychological; <<procedure>>
+endswitch
+end merge
+stop
+@enduml

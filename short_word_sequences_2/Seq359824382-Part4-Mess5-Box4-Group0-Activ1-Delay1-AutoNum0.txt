@@ -1,0 +1,21 @@
+@startuml
+box "butchers vive"
+participant "pursuits pills" as 0
+box "croc tosh"
+participant "shoveled issue" as 1
+box "ingredient drowned"
+participant "nodded parade" as 2
+box "tote bossed"
+participant "sparing radiology" as 3
+end box
+end box
+end box
+end box
+2 --> 3: waits loony
+1 -> 1: blackbird street
+ [-> 2: movies dock
+...preachy ammo...
+3 -> 3: dials referendum
+1 ->x 2++ : dex slayed
+return approximately heath
+@enduml

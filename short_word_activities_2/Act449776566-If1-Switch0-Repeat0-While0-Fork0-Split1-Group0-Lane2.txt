@@ -1,0 +1,33 @@
+@startuml
+|1| midnight bonfire
+|2| inspected knowing
+split
+-[hidden]->
+:transports ed;
+split again
+-[hidden]->
+:candidate nightgown; <<output>>
+-> novocaine mailed;
+split again
+-[hidden]->
+:slap expresses; <<save>>
+split again
+-[hidden]->
+:cavalcade unflattering;
+end split
+|2|
+if (rocket halt?) then (stretch overcoming)
+:struggle tularemia; <<load>>
+kill
+else (jotted stealth)
+:apples hopping; <<save>>
+-> finish withdrawing;
+:private friends;
+endif
+|1|
+:whose twins;
+-> adult senseless;
+|2|
+:unappealing cutie; <<procedure>>
+end
+@enduml

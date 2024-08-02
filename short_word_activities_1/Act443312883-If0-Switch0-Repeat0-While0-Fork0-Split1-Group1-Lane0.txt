@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:taunting carlin;
+split again
+-[hidden]->
+:regal caroling; <<load>>
+split again
+-[hidden]->
+:liners requiring; <<task>>
+end split
+:itchy dissident; <<continuous>>
+-> aspects apes;
+:deputized recitals;
+-> handkerchief tailored;
+group bears athletic
+:vibrating drops; <<task>>
+-> precisely recreating;
+stop
+end group
+@enduml

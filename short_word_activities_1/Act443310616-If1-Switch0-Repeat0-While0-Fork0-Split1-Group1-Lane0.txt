@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:comfort meanwhile;
+split again
+-[hidden]->
+:boxers vee; <<load>>
+split again
+-[hidden]->
+:fizz memorable;
+kill
+end split
+group smuggle legit
+if (dullard creations?) then (consumers supernova)
+(ensemble attending) elseif (patrolmen invalidate?) then (icehouse blackjack)
+:defiantly assembled; <<input>>
+(twitchy freezes) elseif (phrases proposed?) then (requests detention)
+:kjqbxr;
+kill
+endif
+:husks hotline;
+stop
+end group
+@enduml

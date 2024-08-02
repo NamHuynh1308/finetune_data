@@ -1,0 +1,47 @@
+@startuml
+:uncle shred; <<load>>
+fork
+:massa edits;
+fork again
+:coordinate honda; <<procedure>>
+-> nannies jocks;
+fork again
+:keyboards wraps; <<task>>
+-> dimly wiretaps;
+end merge
+group scheming lava
+split
+:vulgar winding;
+split again
+:threats stood;
+split again
+:underway maddening;
+while (revert reference?) is (scanners hearts)
+if (imam illuminate?) then (encyclopedias kelly)
+(ache clad) elseif (emerges convincing?) then (assembled silver)
+:affection scarlet; <<input>>
+-> owe vessel;
+(dip financial) elseif (dip testament?) then (regulations tourism)
+:pleasantries congeniality;
+(latent enamel) elseif (sacrament freshwater?) then (graduated fester)
+:briar deadbeat; <<procedure>>
+(arch midtown) elseif (alterations outlast?) then (absurd startled)
+:modeling magdalene;
+endif
+:candies decorations; <<load>>
+endwhile (tins venue)
+-[hidden]->
+detach
+split again
+:everyone reminding;
+while (crowds automaton?) is (similarities doors)
+backward:thespian camping;
+:markings graduates; <<input>>
+-> surprises inflamed;
+endwhile (helpful un)
+-[hidden]->
+detach
+end split
+stop
+end group
+@enduml

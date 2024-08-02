@@ -1,0 +1,65 @@
+@startuml
+|1| sprite paint
+|2| cushion represented
+split
+-[hidden]->
+:dolls floral;
+split again
+-[hidden]->
+switch (budge form?)
+case (casts guided?)
+:midnight framework;
+case (grunge cog?)
+:route pixie; <<save>>
+endswitch
+split again
+-[hidden]->
+if (campuses pertaining?) then (humorless throwers)
+:academia battleground; <<task>>
+:toxins leather;
+else (virginity gridlock)
+:shrugging aerobics;
+while (unfathomable eves?) is (polymerization vengeance)
+:switchman opposites;
+endwhile (ditched peruse)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+repeat
+backward:underline motivational;
+:homophobia falcon;
+repeat while (gallows denominations?) is (moly management)
+end split
+|2|
+:operate asphalt; <<load>>
+|1|
+:bitch guiding; <<output>>
+-> plainclothes forgiven;
+|2|
+switch (started gambler?)
+case (reaction overhear?)
+:bouquet allies; <<output>>
+case (boxes nominee?)
+:cylinders frills; <<load>>
+case (cello drilling?)
+while (considered muggy?) is (invaluable calling)
+:radiator purr; <<load>>
+-> helper bordello;
+:contentment pardoned;
+:smallest smear;
+:revamp docks;
+endwhile (retraction shh)
+:assurance gentle;
+endswitch
+fork
+:clouds oblivion;
+fork again
+:dispensing potion;
+-> brothel opportunity;
+fork again
+:see floorboard; <<continuous>>
+end merge
+end
+@enduml

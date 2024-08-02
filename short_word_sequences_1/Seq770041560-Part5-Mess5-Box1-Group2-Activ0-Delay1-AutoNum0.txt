@@ -1,0 +1,20 @@
+@startuml
+box "cubby reinvent"
+participant "reprisals outer" as 0
+participant "rogers fetched" as 1
+participant "gloating will" as 2
+participant "cyprus cavalier" as 3
+end box
+2 ->> 3: stranger foolish
+break tackles credits
+create participant "ditto flattened" as 4
+3 -> 4 : ditto flattened
+4 <-] : carmine aiming
+else weekends warnings
+...descent catcher...
+4 ->] : abolish understand
+end
+par mindset watts
+4 -> 4!! : tramp salmonella
+end
+@enduml

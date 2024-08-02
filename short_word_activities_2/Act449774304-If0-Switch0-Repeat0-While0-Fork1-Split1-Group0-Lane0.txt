@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:mated intellectual;
+split again
+-[hidden]->
+:misleading embossed; <<save>>
+split again
+-[hidden]->
+:blonds lurking; <<output>>
+end split
+fork
+:tries tubby;
+fork again
+:laying heed; <<procedure>>
+fork again
+:referred siding;
+fork again
+:topic instance; <<load>>
+end fork
+stop
+@enduml

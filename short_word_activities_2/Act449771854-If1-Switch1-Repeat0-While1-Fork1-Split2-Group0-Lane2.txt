@@ -1,0 +1,59 @@
+@startuml
+|1| besieged syrup
+|2| realizing dosage
+split
+-[hidden]->
+:contacted divulged;
+split again
+-[hidden]->
+:lyrics indifferent; <<task>>
+-> sanctity pity;
+split again
+-[hidden]->
+fork
+:citywide unforeseen;
+fork again
+:booties wilt; <<output>>
+-> polled barking;
+fork again
+:antibody arteries; <<save>>
+end fork
+end split
+|2|
+:comprehending lowering;
+switch (tarred crucible?)
+case (carwash disguises?)
+if (interest antagonism?) then (coverup hotdogs)
+(represent classified) elseif (petitioning entrepreneurial?) then (lager homegrown)
+:jzbzsk;
+while (spiny pizza?) is (linens enthusiastic)
+backward:tacos bren;
+endwhile (warfarin rummy)
+-[hidden]->
+detach
+(graham stoic) elseif (essentially heady?) then (deviled invent)
+:zits clod; <<input>>
+-> lukewarm effort;
+(tank regionals) elseif (unparalleled cautious?) then (smart afloat)
+:airhead dawning;
+(namesake spooning) elseif (impressions mysterious?) then (scald elemental)
+:nearby shah;
+endif
+case (conflicting burgers?)
+:recriminations hazel; <<procedure>>
+case (abbots cupcakes?)
+:escargot paprika; <<load>>
+case (polite supplied?)
+split
+:emptiness deadlines;
+split again
+:veering reciprocal;
+split again
+:cradle carl;
+split again
+:legitimacy crowns;
+end split
+endswitch
+:vandalism includes;
+:flail scheduling; <<output>>
+@enduml

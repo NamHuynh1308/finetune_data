@@ -1,0 +1,22 @@
+@startuml
+participant "johnny useless" as 0
+participant "souls ducky" as 1
+participant "feasting nordic" as 2
+participant "counselor nation" as 3
+participant "sec aides" as 4
+autonumber 10 8
+4 ->> 0++ : amount bipartisan
+autonumber stop
+...sera el...
+4 -->x 4: before amputate
+autonumber resume
+3 -\\ 2: paired nukes
+autonumber stop
+1 ->x 3: sparks item
+critical vendor forfeits
+4 -> 2: ceremonial worship
+1 -> 2: select hygiene
+else schedules valuable
+end
+return unpredictable allowed
+@enduml

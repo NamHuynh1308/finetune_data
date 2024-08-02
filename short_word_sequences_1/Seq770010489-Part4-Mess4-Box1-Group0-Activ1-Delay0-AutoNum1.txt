@@ -1,0 +1,16 @@
+@startuml
+participant "measured specimens" as 0
+participant "mitzvah parabolic" as 1
+box "vitamin patchouli"
+participant "grandma deer" as 2
+end box
+autonumber 8 7
+0 -> 0++ : rests vat
+create participant "strangled knapsack" as 3
+1 -> 3 : strangled knapsack
+autonumber stop
+0 ->o 3: feckless shortsighted
+1 <-] : carolling visualize
+autonumber resume
+return excel unmentionables
+@enduml

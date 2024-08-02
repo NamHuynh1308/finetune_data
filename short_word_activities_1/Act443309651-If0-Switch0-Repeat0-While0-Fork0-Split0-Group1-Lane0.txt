@@ -1,0 +1,7 @@
+@startuml
+start
+group breaks sobriety
+:scented bidding; <<continuous>>
+stop
+end group
+@enduml

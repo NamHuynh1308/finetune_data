@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:savage looming;
+split again
+-[hidden]->
+split
+:understands perfectionist;
+split again
+:carver humorless; <<load>>
+split again
+:jake trig;
+end split
+split again
+-[hidden]->
+:gunpoint calming; <<load>>
+split again
+-[hidden]->
+:accordingly prophylactic; <<input>>
+-> leery buttering;
+end split
+:representing airborne; <<output>>
+-> displaying cervical;
+group screwy chainsaws
+:urethra groundbreaking; <<continuous>>
+-> ridicule searched;
+split
+:nicely receding;
+split again
+:subpoenas pieced; <<load>>
+split again
+:ugly telling;
+end split
+end group
+@enduml

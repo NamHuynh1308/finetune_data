@@ -1,0 +1,20 @@
+@startuml
+|1| menace newsstands
+|2| thump backpack
+split
+-[hidden]->
+:medicaid idle;
+split again
+-[hidden]->
+:turks agreeable; <<input>>
+split again
+-[hidden]->
+:departing squad; <<continuous>>
+end split
+:insanity albacore;
+:pisses calmer; <<output>>
+:husbands shaved; <<save>>
+-> damnable dwells;
+:outfitted flickering; <<load>>
+-> mutual playa;
+@enduml

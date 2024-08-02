@@ -1,0 +1,20 @@
+@startuml
+participant "extreme hillside" as 0
+participant "specify proactive" as 1
+box "salaam puff"
+participant "mahatma toffee" as 2
+participant "snails lunches" as 3
+end box
+== immaterial trombone ==
+3 <-] : socks licensed
+2 <-> 1: earful tipping
+3 ->> 1: repercussions advises
+alt bias lunge
+2 -> 2: self freelancing
+create participant "beery impossibility" as 4
+0 -> 4 : beery impossibility
+else dialed gills
+2 -> 3: brochure quake
+else shoot banana
+end
+@enduml

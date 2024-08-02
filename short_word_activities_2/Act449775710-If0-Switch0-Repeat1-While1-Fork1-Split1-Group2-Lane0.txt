@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:seal wisecracks;
+split again
+-[hidden]->
+fork
+:castor acres;
+fork again
+:farewells gents;
+fork again
+:hocks hardly; <<load>>
+fork again
+:gyms donor;
+end fork
+split again
+-[hidden]->
+:tuning bomb; <<continuous>>
+split again
+-[hidden]->
+:baboon kettle; <<save>>
+end split
+repeat
+backward:preach patrol;
+repeat while (glossy maestro?) is (amigos lessen)
+-> nuke rooster;
+group tense liquidation
+while (eves carr?) is (confidentially scratchy)
+backward:hamper alcoholic;
+backward:uprising scurry;
+:sees hoarse;
+backward:subatomic clapping;
+endwhile (wildlife interning)
+:friendships suspected;
+group send dorm
+:forfeited peach;
+stop
+end group
+end group
+@enduml

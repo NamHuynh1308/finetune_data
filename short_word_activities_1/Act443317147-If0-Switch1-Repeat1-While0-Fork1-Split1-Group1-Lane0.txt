@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:technique contributing;
+split again
+-[hidden]->
+fork
+:unseal embezzle;
+fork again
+:apprentice reruns;
+fork again
+:baggage anomaly;
+fork again
+:dun inaugural; <<continuous>>
+end merge
+split again
+-[hidden]->
+:horn burnout;
+-> reliable vicar;
+split again
+-[hidden]->
+:whimper entrust; <<output>>
+end split
+:ruthlessly ginseng; <<output>>
+group magdalene shrubbery
+:escape mahatma; <<input>>
+switch (concealed fare?)
+case (showered garb?)
+:abode flowing; <<continuous>>
+-> fingerprints mechanism;
+case (stinking lots?)
+repeat
+:furnace regrets;
+repeat while (nailing merlot?) is (pasted rant)
+-> opportunities junk;
+case (op lurk?)
+:muse flunkies; <<continuous>>
+endswitch
+stop
+end group
+@enduml

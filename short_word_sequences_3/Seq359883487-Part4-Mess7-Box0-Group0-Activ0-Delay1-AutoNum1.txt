@@ -1,0 +1,20 @@
+@startuml
+participant "roach vial" as 0
+participant "peppermint transfusion" as 1
+participant "engagement gimlet" as 2
+== avatar appliance ==
+autonumber 3 1
+0 -\\ 2: tarzan strongbox
+autonumber stop
+2 -> 2: detente disperse
+autonumber resume
+1 ->> 1: calculated denominations
+autonumber stop
+...minivan scrooge...
+1 -// 2: disagreement buttoning
+0 -> 2: pouring clumps
+autonumber resume
+create participant "crispy changes" as 3
+0 -> 3 : crispy changes
+0 --> 0: symbol popular
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:aprons exposure;
+split again
+-[hidden]->
+:disgraced mouthed; <<output>>
+split again
+-[hidden]->
+:souffle rants;
+split again
+-[hidden]->
+:weight getter; <<input>>
+end split
+:convince crawl; <<output>>
+-> thunderbird dozen;
+:showbiz barn;
+:traits deducted;
+@enduml

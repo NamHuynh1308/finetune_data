@@ -1,0 +1,8 @@
+@startuml
+start
+:traveling before;
+:abbot citizenship; <<continuous>>
+-> deserted pooped;
+:alphabetized violations; <<output>>
+end
+@enduml

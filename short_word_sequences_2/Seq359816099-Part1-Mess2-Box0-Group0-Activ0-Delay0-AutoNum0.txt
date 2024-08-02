@@ -1,0 +1,5 @@
+@startuml
+participant "kat laundered" as 0
+0 ->] : masculine vanity
+0 --> 0: prickly reluctantly
+@enduml

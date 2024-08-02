@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:ushering lam;
+split again
+-[hidden]->
+:overanxious pokes;
+-> canasta procedures;
+split again
+-[hidden]->
+:sparkle conservative;
+end split
+group intimidated harder
+:fender taxi; <<output>>
+:fiancee hydrogen; <<procedure>>
+-> masters requiem;
+stop
+end group
+@enduml

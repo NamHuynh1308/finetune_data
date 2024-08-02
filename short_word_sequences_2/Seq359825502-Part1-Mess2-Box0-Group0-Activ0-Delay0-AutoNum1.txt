@@ -1,0 +1,7 @@
+@startuml
+participant "housewife mag" as 0
+autonumber 10 1
+0 -// 0: incrimination civility
+0 -> 0!! : pleasantries thunderbolt
+autonumber stop
+@enduml

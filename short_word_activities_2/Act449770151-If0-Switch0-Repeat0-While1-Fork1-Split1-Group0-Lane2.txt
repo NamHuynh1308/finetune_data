@@ -1,0 +1,32 @@
+@startuml
+|1| fleeting monsieur
+|2| inquiries overactive
+|1|
+start
+fork
+:unconsciously axel;
+fork again
+:for bronze; <<task>>
+fork again
+:ricochet charred; <<input>>
+end merge
+|2|
+split
+:fox background;
+split again
+:amount resin; <<procedure>>
+split again
+:foretold gecko;
+-> grandma journalism;
+split again
+while (seg carelessness?) is (benthic defending)
+:bursting simple;
+:civilisation junkie; <<task>>
+-> omnipotent poncho;
+endwhile (hypnosis serving)
+:delightful assassins;
+end split
+:uncivilized tart; <<input>>
+-> lacerations side;
+stop
+@enduml

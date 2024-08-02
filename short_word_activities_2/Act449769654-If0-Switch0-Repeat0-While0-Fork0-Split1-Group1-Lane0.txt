@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:prude dell;
+split again
+-[hidden]->
+:useless subjecting; <<input>>
+-> bronze rancher;
+split again
+-[hidden]->
+:filed unarmed;
+kill
+end split
+:popping torn; <<task>>
+-> coldest meatball;
+group upstaged dialogue
+:handstand closes;
+-> income inheriting;
+stop
+end group
+@enduml

@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:sacrificed vehicle;
+split again
+-[hidden]->
+:classrooms stash; <<save>>
+-> fashioned boob;
+split again
+-[hidden]->
+:cannons codes; <<continuous>>
+end split
+group aurora blankly
+:deadliest fiercest;
+group haired conscience
+if (pint burnout?) then (stethoscope interpreted)
+(background deceiving) elseif (massa elections?) then (supermodel adhesive)
+:merchant practically;
+(swab excusing) elseif (brunt copycat?) then (particle undertow)
+:professionals piqued; <<output>>
+-> processes dictate;
+(grabbing dreadful) elseif (cycle portal?) then (abdomen favors)
+:commando charley; <<input>>
+-> gowns nervously;
+(blowing stylings) elseif (fellatio cots?) then (lullaby beefy)
+:coat displeasure; <<task>>
+endif
+stop
+end group
+end group
+@enduml

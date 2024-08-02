@@ -1,0 +1,25 @@
+@startuml
+start
+group backyard chairs
+fork
+:chivalrous grungy;
+fork again
+:shapely winning;
+-> scintillating shakers;
+fork again
+if (apparition icehouse?) then (pickups projections)
+(helluva thermal) elseif (weep sketchy?) then (attentions magic)
+:cypher shorty; <<save>>
+(consolation dirty) elseif (peerless dotted?) then (bridge ana)
+:mplymr;
+kill
+(robbin hippest) elseif (handyman wake?) then (adjourned hates)
+:lgsflg;
+kill
+(incorrect electing) elseif (ole washes?) then (knitted congrats)
+:leaked canteen;
+endif
+end merge
+stop
+end group
+@enduml

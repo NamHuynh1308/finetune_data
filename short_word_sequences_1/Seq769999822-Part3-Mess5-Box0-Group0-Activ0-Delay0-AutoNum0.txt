@@ -1,0 +1,10 @@
+@startuml
+participant "pearls coo" as 0
+participant "specialize emergencies" as 1
+participant "midterms rewritten" as 2
+0 -> 1: international barbs
+0 ->x 0: confidentiality cents
+2 -> 2: crimes appetizer
+2 -> 0: christie aimless
+2 <-] : extinguisher painters
+@enduml

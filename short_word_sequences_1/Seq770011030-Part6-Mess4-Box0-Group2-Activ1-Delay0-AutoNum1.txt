@@ -1,0 +1,18 @@
+@startuml
+participant "countryside dependant" as 0
+participant "sheet loneliest" as 1
+participant "declare rape" as 2
+participant "zinfandel exercises" as 3
+autonumber 9 9
+loop within fabric
+1 <-> 3: grinder hummus
+3 -> 1++ : hogging poncho
+end
+create participant "pivotal cusp" as 4
+1 -> 4 : pivotal cusp
+opt discourage asked
+create participant "possesses scriptures" as 5
+3 -> 5 : possesses scriptures
+end
+return war crypto
+@enduml

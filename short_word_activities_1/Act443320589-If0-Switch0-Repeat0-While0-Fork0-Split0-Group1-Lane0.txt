@@ -1,0 +1,8 @@
+@startuml
+start
+:emit perpetrator; <<load>>
+group scoliosis longs
+:gives manticore;
+stop
+end group
+@enduml

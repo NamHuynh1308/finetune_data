@@ -1,0 +1,9 @@
+@startuml
+participant "bubble spin" as 0
+participant "alleged chromic" as 1
+== defensive mavis ==
+1 ->] : upset trainee
+0 --//o 1: polio queller
+ [-> 1: anachronism bird
+0 -// 1: input teens
+@enduml

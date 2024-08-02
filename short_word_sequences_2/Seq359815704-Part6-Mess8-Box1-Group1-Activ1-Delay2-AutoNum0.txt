@@ -1,0 +1,24 @@
+@startuml
+participant "release suitcase" as 0
+participant "etched stain" as 1
+box "compelling benedict"
+participant "preventing embroiled" as 2
+participant "stables apes" as 3
+end box
+participant "for matriarch" as 4
+ [<- 3: monarchs citations
+opt writ wire
+...colonials choosy...
+4 -// 4: tropical leary
+create participant "progression lama" as 5
+0 -> 5 : progression lama
+else urine scientific
+5 -\\ 4: distracting sadist
+...green happiest...
+3 -> 1: pulse nancy
+ [-> 2: worrywart accomplishments
+end
+5 -> 1!! : offender slippers
+5 -// 3++ : stocking marines
+return habit prowler
+@enduml

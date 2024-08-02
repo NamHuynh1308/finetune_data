@@ -1,0 +1,17 @@
+@startuml
+box "parody settling"
+participant "inception bonkers" as 0
+participant "former doom" as 1
+box "handrail operating"
+participant "illusion gem" as 2
+participant "runner cordon" as 3
+end box
+end box
+autonumber 2 2
+2 -> 3: parenthood hold
+...laird implanted...
+ [-> 0: pong fretting
+0 -> 1: sarge screwing
+3 --//o 0: hood unethical
+0 -// 1: sad ungrateful
+@enduml

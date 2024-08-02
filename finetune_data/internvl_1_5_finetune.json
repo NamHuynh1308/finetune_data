@@ -1,0 +1,44 @@
+{
+    "simple_states": {
+      "root": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/simple_states",
+      "annotation": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/simple_states.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 1000
+    },
+    "simple_activities": {
+        "root": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/simple_activities",
+        "annotation": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/simple_activities.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 1000
+      },
+      "simple_sequences": {
+        "root": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/simple_sequences",
+        "annotation": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/simple_sequences.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 1000
+      },
+      "complex_states": {
+        "root": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/complex_states",
+        "annotation": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/complex_states.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 1000
+      },
+      "complex_activities": {
+        "root": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/complex_activities",
+        "annotation": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/complex_activities.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 1000
+      },
+      "complex_sequences": {
+        "root": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/complex_sequences",
+        "annotation": "/ourdisk/hpc/disc/nam/auto_archive_notyet/tape_2copies/InternVL/internvl_chat/shell/data/finetune_data/complex_sequences.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 1000
+      } 
+}

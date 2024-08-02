@@ -1,0 +1,5 @@
+@startuml
+participant "neighborhoods lumpectomy" as 0
+autonumber 5 2
+ [-> 0: hoosegow plea
+@enduml

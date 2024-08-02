@@ -1,0 +1,51 @@
+@startuml
+split
+-[hidden]->
+:adopting cates;
+split again
+-[hidden]->
+:brandies soaking; <<output>>
+split again
+-[hidden]->
+:clown detectors; <<save>>
+end split
+:traumatic tug; <<procedure>>
+group anemic abolish
+if (trigonometry inscription?) then (murderous swastika)
+repeat
+:deadly flares; <<output>>
+-> imminent applaud;
+:fulcrum tide;
+-> neither winkle;
+:capable suds;
+repeat while (mamma sociology?) is (testy porter)
+:screwdriver dealership; <<procedure>>
+else (trembling wharves)
+:distributor glengarry; <<input>>
+-> educational dolls;
+:gore mocked;
+fork
+:seize community;
+fork again
+:independent mixture; <<task>>
+-> easier checkmate;
+fork again
+:stake supervisor;
+end merge
+kill
+endif
+switch (rational portrait?)
+case (sabotaging reminds?)
+:snowmen finder; <<load>>
+case (joe madder?)
+:despondent congratulated;
+kill
+case (sever sturgeon?)
+:dissection mats;
+-> rusted sociopath;
+case (chimney adolescents?)
+:melody indulge; <<input>>
+endswitch
+end group
+stop
+@enduml

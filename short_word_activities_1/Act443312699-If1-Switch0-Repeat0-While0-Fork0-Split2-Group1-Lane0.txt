@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:perfume sled;
+split again
+-[hidden]->
+:originals pianos;
+-> costume moons;
+split again
+-[hidden]->
+:bowel blazers; <<procedure>>
+split again
+-[hidden]->
+:crow grossed; <<input>>
+end split
+group tiger venereal
+if (penalized ballerina?) then (brute bone)
+split
+:scots checks;
+split again
+:another issues; <<task>>
+split again
+:disrupt hypo; <<save>>
+split again
+:donkey pithy;
+end split
+kill
+else (quid inspected)
+:wonder burial; <<load>>
+:rent leniency;
+kill
+endif
+:investigative nomad; <<save>>
+-> disruptive panels;
+end group
+end
+@enduml

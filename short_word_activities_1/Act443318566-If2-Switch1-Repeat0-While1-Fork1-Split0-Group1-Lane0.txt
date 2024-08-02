@@ -1,0 +1,43 @@
+@startuml
+start
+group waxes screened
+:raked underhanded; <<continuous>>
+if (sinuses misery?) then (creaky silly)
+(benefactor vamoose) elseif (flourished accounted?) then (dizzying voyage)
+switch (flag exploiting?)
+case (manufacture wimp?)
+:preys actualization; <<task>>
+-> crimp plucking;
+case (books they?)
+:projections manifesting; <<procedure>>
+endswitch
+(moths corpses) elseif (heckles anchorage?) then (echoes trendy)
+:shot nozzle; <<task>>
+-> hides vitamin;
+(dollars inch) elseif (ended falling?) then (blessing buildings)
+while (purity rallying?) is (stationed workload)
+:sneeze ensconced;
+:bronco extinction;
+:goons short;
+endwhile (flippers crux)
+:soliciting dispatcher;
+endif
+fork
+:disregard humidity;
+fork again
+:whitey satisfied; <<task>>
+fork again
+if (controversy frolic?) then (experienced plugging)
+:properly midlife;
+:titan anaphylactic; <<input>>
+-> amigo jerry;
+:sob lifts; <<task>>
+else (attaboy measurements)
+:malicious burgers; <<task>>
+:slender pranks; <<save>>
+-> noticed article;
+kill
+endif
+end fork
+end group
+@enduml

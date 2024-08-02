@@ -1,0 +1,9 @@
+@startuml
+participant "furniture mattress" as 0
+participant "tucking daiquiri" as 1
+== galvanized intends ==
+1 ->x 0: honourable squawking
+0 -> 0!! : turncoat contrary
+...members incarcerated...
+1 -> 0!! : veterans particularly
+@enduml

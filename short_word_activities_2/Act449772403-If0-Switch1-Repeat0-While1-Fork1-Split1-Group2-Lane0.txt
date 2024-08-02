@@ -1,0 +1,38 @@
+@startuml
+start
+group first commented
+switch (witness unimaginative?)
+case (staffed rollers?)
+split
+:path intently;
+split again
+:skeptic instep;
+split again
+:waits repeated;
+split again
+:deceive appendix; <<procedure>>
+end split
+case (framed tier?)
+fork
+:coincidental laying;
+fork again
+:camcorder remove; <<save>>
+-> rotisserie appearances;
+fork again
+:heath conflicts;
+end fork
+case (emptied yard?)
+while (befall rustle?) is (cottages hookup)
+:giddyup stone;
+-> miracles mercenary;
+:wrestler encrypted;
+:winded sympathize;
+endwhile (diabetics snapping)
+:plaything borrowed;
+endswitch
+group crafty pivotal
+:yogurt incomparable; <<load>>
+stop
+end group
+end group
+@enduml

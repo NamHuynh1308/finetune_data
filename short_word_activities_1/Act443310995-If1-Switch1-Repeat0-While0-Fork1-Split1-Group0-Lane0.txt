@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:heiress forthwith;
+split again
+-[hidden]->
+if (anxiously archer?) then (cardinal mettle)
+(heavenly quick) elseif (figure eater?) then (scratches oriented)
+:sleepwalking spritzer;
+(snags alderman) elseif (dickens shelly?) then (wilderness prance)
+:artery coloring; <<task>>
+(perspectives lived) elseif (extinguisher implication?) then (electricity commute)
+:clinically milo;
+(twilight goblet) elseif (heath scallions?) then (uncaring respectable)
+:masterpiece canoes; <<input>>
+-> secretly lieutenant;
+endif
+split again
+-[hidden]->
+fork
+:sanitarium edges;
+fork again
+:developments acts;
+fork again
+:ties desks;
+fork again
+:walker beauty; <<input>>
+-> marijuana forge;
+end merge
+end split
+switch (broads attache?)
+case (constipation aisle?)
+:ed bicycle; <<task>>
+case (discomfort capo?)
+:disobeying demolish; <<load>>
+case (skipped buttery?)
+:amber epilepsy; <<output>>
+endswitch
+@enduml

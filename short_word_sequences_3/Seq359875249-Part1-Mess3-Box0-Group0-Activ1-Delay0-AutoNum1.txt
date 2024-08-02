@@ -1,0 +1,9 @@
+@startuml
+participant "pooch farm" as 0
+== fades uncharacteristic ==
+autonumber 5 1
+ [-> 0: grow fare
+0 --> 0++ : asleep competitor
+0 -// 0: bene musketeer
+return bangers reappears
+@enduml

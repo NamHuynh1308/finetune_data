@@ -1,0 +1,11 @@
+@startuml
+participant "territorial sinus" as 0
+participant "integration advanced" as 1
+== yahoo inviting ==
+1 --> 1: processed stooge
+0 -> 0: corporations directions
+0 --//o 0++ : headlock rambunctious
+0 -// 0: irony blackout
+1 -> 0: defective couch
+return hyperactive stares
+@enduml

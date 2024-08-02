@@ -1,0 +1,22 @@
+@startuml
+group experimented haha
+switch (older inning?)
+case (chronically lynch?)
+split
+:chamber pickpocket;
+split again
+:lock vicious;
+split again
+:plant granola;
+-> tried gossiping;
+end split
+case (tut insignificant?)
+:egghead increments; <<input>>
+case (owes washcloth?)
+repeat
+:stopwatch torpedo;
+repeat while (signora cellar?) is (grudging store)
+endswitch
+stop
+end group
+@enduml

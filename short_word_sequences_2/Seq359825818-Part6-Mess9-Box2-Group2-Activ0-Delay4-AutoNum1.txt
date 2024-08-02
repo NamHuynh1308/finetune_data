@@ -1,0 +1,35 @@
+@startuml
+box "style orb"
+participant "inherently literature" as 0
+participant "useful unity" as 1
+participant "silliness enchanting" as 2
+participant "stethoscope unfunny" as 3
+box "commonly stooped"
+participant "expelled patch" as 4
+end box
+end box
+autonumber 1 9
+create participant "peaches equinox" as 5
+0 -> 5 : peaches equinox
+...tractors commendable...
+4 -->x 1: midgets accelerated
+...gents protectors...
+1 -> 5!! : cockney showy
+critical carriers appointed
+3 -// 2: quarterbacks uncanny
+autonumber stop
+opt sawdust brook
+...waits lowlifes...
+3 -> 0: bartending knowledge
+ [-> 4: deceived riddle
+else bakers unworthy
+2 ->> 1: contribute portrait
+else nary conjugal
+...breathtaking onstage...
+0 ->x 4: burgers practice
+autonumber resume
+3 <-] : dread disrupting
+else premeditated floating
+end
+end
+@enduml

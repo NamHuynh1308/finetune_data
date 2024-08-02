@@ -1,0 +1,15 @@
+@startuml
+participant "forms redundant" as 0
+participant "slurping dormitory" as 1
+participant "recognise lowdown" as 2
+autonumber 4 4
+2 <-] : adept freshen
+...fruit chevalier...
+0 -// 1: score rex
+autonumber stop
+1 -// 2: memento tumor
+break heating affectionate
+0 <-] : geniuses predicting
+autonumber resume
+end
+@enduml

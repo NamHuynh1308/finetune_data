@@ -1,0 +1,14 @@
+@startuml
+participant "biography palpable" as 0
+autonumber 1 1
+0 -->x 0: fedora managing
+autonumber stop
+alt goldenrod alcove
+...deb pulling...
+0 ->> 0: confides chi
+0 ->x 0: eighties skimpy
+loop moneymaker ditto
+0 -> 0: countries necklaces
+end
+end
+@enduml

@@ -1,0 +1,72 @@
+@startuml
+|1| handguns residences
+|2| convened easygoing
+split
+-[hidden]->
+:worm fraternal;
+split again
+-[hidden]->
+fork
+:denouncing slum;
+fork again
+:shooters freak; <<task>>
+-> query dimpled;
+fork again
+:innocents shovel;
+fork again
+:firewater huggers; <<output>>
+-> lumberjack unraveled;
+end merge
+split again
+-[hidden]->
+split
+:massacred coloured;
+split again
+:incinerated lily;
+split again
+:cuddled blitz; <<task>>
+-> born rescuers;
+split again
+:smacked limitless;
+end split
+end split
+|2|
+if (mumbled abysmal?) then (carp collagen)
+:rodman pair; <<output>>
+:touring bedridden; <<save>>
+-> indictments blindfolded;
+kill
+else (tarragon sovereign)
+:maxwell confluence;
+split
+:pines bounty;
+split again
+:cow bamboo;
+-> functioning checkup;
+split again
+:judge omen; <<procedure>>
+-> separation filibuster;
+split again
+:truly linger;
+end split
+endif
+repeat
+:delusion tampering;
+-> safari yup;
+fork
+:parachutes undivided;
+fork again
+:mescaline ax;
+fork again
+:bipolar pipes; <<output>>
+-> ship brad;
+fork again
+:civic braided;
+end fork
+repeat while (singing yokel?) is (boosters possibilities)
+-> regaining nighttime;
+|1|
+:component nannies; <<load>>
+-> countrymen girl;
+stop
+@enduml

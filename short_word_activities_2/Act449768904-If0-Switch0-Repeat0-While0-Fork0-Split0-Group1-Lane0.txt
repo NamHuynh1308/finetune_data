@@ -1,0 +1,9 @@
+@startuml
+start
+group concierge both
+:influential pipes; <<input>>
+:navigator pamphlets; <<continuous>>
+-> jack vesta;
+end group
+end
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "marge stocking" as 0
+opt steamy launching
+0 ->o 0: rolled deadlier
+loop headache sidekicks
+...sensuous familial...
+0 -> 0: letterhead valid
+end
+end
+@enduml

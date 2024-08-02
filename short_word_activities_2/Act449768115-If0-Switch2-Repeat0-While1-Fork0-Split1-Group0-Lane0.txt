@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:specialty artichoke;
+split again
+-[hidden]->
+switch (crouching creatures?)
+case (oppressive bikini?)
+:keynote dictated;
+case (romance plucked?)
+:trembling quieter;
+case (causing tab?)
+:rocked crocodile;
+endswitch
+split again
+-[hidden]->
+:mortified literature;
+kill
+split again
+-[hidden]->
+:ownership frayed; <<task>>
+-> feelings uncharacteristically;
+end split
+switch (siphoning belongs?)
+case (camp kashmir?)
+:persecute tweaking; <<task>>
+case (pegged container?)
+:conversion paste;
+-> burnt exempt;
+case (hackman conditions?)
+while (hummed priest?) is (shopkeeper credo)
+:noticing restroom; <<continuous>>
+:checking sterile;
+backward:assets algorithms;
+endwhile (unequivocally symbols)
+:crock searching;
+case (distinguishing increased?)
+:rightly alpha; <<save>>
+-> partially pin;
+endswitch
+stop
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "mapping panel" as 0
+autonumber 4 9
+loop cowed momma
+0 -\\ 0: lite honors
+end
+@enduml

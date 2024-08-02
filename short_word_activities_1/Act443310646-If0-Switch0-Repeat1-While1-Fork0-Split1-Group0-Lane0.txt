@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:tireless exercising;
+split again
+-[hidden]->
+:summoned straps; <<input>>
+split again
+-[hidden]->
+:unwittingly ponies; <<task>>
+-> satyr grange;
+end split
+repeat
+:eagle sweatshirt;
+if (clotting premonitions) then (fortuneteller inmates)
+:consideration loyalty;
+break
+endif
+->badges recant;
+:technically basket;
+repeat while (sal revenue?) is (heartthrob supporting)
+-> dost libation;
+:aces gravest; <<procedure>>
+while (animosity lefts?) is (reconvene mongoose)
+:likeness slater; <<load>>
+:flirted unthinkable; <<load>>
+endwhile (craft obligation)
+:touch synergy;
+stop
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+box "wrinkle chinks"
+participant "risky interpreted" as 0
+participant "unlikable longing" as 1
+participant "zed recalling" as 2
+participant "tomorrow overreacted" as 3
+end box
+participant "exasperated sink" as 4
+== parrots slanderous ==
+loop paradigm cataracts
+ [-> 2: swim collar
+0 ->> 0++ : gearing enterprises
+par bracelets sneer
+2 ->> 4: pester repossess
+create participant "whatnot coney" as 5
+1 -> 5 : whatnot coney
+return providing institution
+ [-> 1: reflex tea
+else brewer implication
+...snoring calico...
+5 -> 1: refrain toasting
+par complimentary rigorous
+4 -> 0: bach conjuring
+2 -> 0!! : drifted ozone
+5 ->x 1: define victor
+end
+end
+end
+@enduml

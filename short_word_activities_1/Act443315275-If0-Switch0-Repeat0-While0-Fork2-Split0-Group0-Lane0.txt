@@ -1,0 +1,22 @@
+@startuml
+start
+:beating clipboard; <<continuous>>
+-> adjustment quart;
+:periscope examining; <<procedure>>
+-> burlap formed;
+fork
+:looks want;
+fork again
+fork
+:clockwork seep;
+fork again
+:broker shutting; <<save>>
+-> effect doubting;
+fork again
+:lifeguard thinly; <<load>>
+end merge
+fork again
+:dictator weirder; <<procedure>>
+end merge
+end
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+:butters ignores; <<task>>
+-> accumulated bouquets;
+stop
+@enduml

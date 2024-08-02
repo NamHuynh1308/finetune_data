@@ -1,0 +1,52 @@
+@startuml
+fork
+:rewritten giraffes;
+fork again
+:activate pastels;
+fork again
+split
+:waddle paint;
+split again
+:gang jefe; <<input>>
+split again
+:initiating moneybags;
+end split
+fork again
+switch (imprisonment sleeps?)
+case (unthinkable strengthen?)
+:gill transistor;
+case (moisturizer congressman?)
+:imperial radiologist;
+while (live descends?) is (damned divert)
+:decorated bugged; <<load>>
+backward:cautious smother;
+backward:incapable breeze;
+endwhile (maneuvered complicating)
+-[hidden]->
+detach
+endswitch
+end merge
+:waterbed shuttles;
+split
+:dinosaurs sunbathing;
+split again
+if (thirds near?) then (counseling diaries)
+:performed dandy;
+-> speller follows;
+else (colonized pup)
+:indie hamburger; <<task>>
+-> programmed projected;
+:kiwi inaugural;
+:underestimated shortstop;
+-> marvel curly;
+kill
+endif
+split again
+:uncaring injuries; <<load>>
+-> sentence crevasse;
+split again
+:camera nighttime;
+-> dorm framers;
+end split
+stop
+@enduml

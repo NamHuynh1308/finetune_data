@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:lowlifes approaching;
+split again
+-[hidden]->
+:oboe badgering; <<input>>
+split again
+-[hidden]->
+repeat
+:committee sleight; <<procedure>>
+repeat while (stifler retrieve?) is (instilled ban)
+-> ginseng fib;
+split again
+-[hidden]->
+:backstabbing corpse; <<task>>
+end split
+:thinly torpedoes; <<input>>
+-> inland boulder;
+:petrified dampened;
+stop
+@enduml

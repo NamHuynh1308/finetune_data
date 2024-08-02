@@ -1,0 +1,6 @@
+@startuml
+participant "preceded overcrowded" as 0
+participant "verdict deflecting" as 1
+1 ->o 0: raven struggle
+1 -// 0: pumped stroke
+@enduml

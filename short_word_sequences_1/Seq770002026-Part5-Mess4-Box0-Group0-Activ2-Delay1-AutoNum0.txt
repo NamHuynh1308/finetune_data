@@ -1,0 +1,15 @@
+@startuml
+participant "leak uninspired" as 0
+participant "chains appreciate" as 1
+participant "sets gracing" as 2
+participant "fastball worded" as 3
+== toon distinguish ==
+3 ->o 2++ : locals curtain
+1 -// 1++ : hath cabin
+create participant "expected oyez" as 4
+2 -> 4 : expected oyez
+return tulle quaint
+...journalistic obscurity...
+ [-> 1: duress converting
+return musing index
+@enduml

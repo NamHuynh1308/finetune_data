@@ -1,0 +1,10 @@
+@startuml
+participant "tawdry winks" as 0
+box "debts guidance"
+participant "fat haunted" as 1
+end box
+0 -> 1!! : interpretation explicit
+alt surly gutting
+ [-> 1: supervise settled
+end
+@enduml

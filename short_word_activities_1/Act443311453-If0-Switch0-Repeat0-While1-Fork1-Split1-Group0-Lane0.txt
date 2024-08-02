@@ -1,0 +1,27 @@
+@startuml
+start
+:speed hotshot; <<continuous>>
+split
+:alerts advanced;
+split again
+:memorial substantially;
+split again
+:eaters pretense;
+while (revive meddling?) is (drunks pampering)
+:custodian bigmouth; <<input>>
+fork
+:reconstruct fanning;
+fork again
+:silky postal; <<output>>
+fork again
+:stealth cuffed;
+fork again
+:pressed stinger;
+end fork
+endwhile (targets inconveniencing)
+-[hidden]->
+detach
+end split
+:weapon masks; <<procedure>>
+-> recorder empties;
+@enduml

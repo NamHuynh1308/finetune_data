@@ -1,0 +1,18 @@
+@startuml
+participant "stalking vermeil" as 0
+participant "sloshed furthest" as 1
+box "anticipating supermarket"
+participant "metro lucifer" as 2
+box "hitting snort"
+participant "construction ranch" as 3
+participant "gobble tortillas" as 4
+end box
+end box
+2 <-] : byline stairwell
+0 -> 2: remedied illustrious
+0 -> 0: binoculars caregiver
+0 --> 1: restful clearer
+2 ->o 1: malaria ignored
+4 --//o 0: equitable shoe
+1 -// 2: camps sworn
+@enduml

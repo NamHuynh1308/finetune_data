@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:medley manufacturer;
+split again
+-[hidden]->
+:boarded beefcake; <<output>>
+split again
+-[hidden]->
+:lurks conducive; <<input>>
+end split
+:beaches snub; <<input>>
+switch (bargain tablet?)
+case (toots escargot?)
+:rational nappy; <<continuous>>
+case (endangering consecrated?)
+:jimmies materialized; <<save>>
+-> instruct rhythms;
+case (neutral appoint?)
+while (tagged freshening?) is (buried sang)
+backward:courage proms;
+endwhile (meteor hercules)
+:actor finals;
+endswitch
+stop
+@enduml

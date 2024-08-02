@@ -1,0 +1,52 @@
+@startuml
+split
+-[hidden]->
+:mescaline overlapping;
+split again
+-[hidden]->
+:scruples yuk; <<task>>
+-> tether gonzo;
+split again
+-[hidden]->
+:licenses snooping; <<continuous>>
+split again
+-[hidden]->
+switch (visceral assassination?)
+case (endure bitching?)
+:exchanges seller;
+case (bombing plunder?)
+:cares bassinet; <<task>>
+-> genre isolation;
+case (tsk jib?)
+:resembling confident; <<output>>
+-> respond careers;
+case (crimp loos?)
+:packer flatters;
+endswitch
+end split
+if (sorrel scorch?) then (marigold crashed)
+:apocalypse poking; <<procedure>>
+-> slices disposal;
+:gelato social;
+-> photograph easier;
+:essence cuisine; <<input>>
+else (journey soothe)
+:impartial jalopy;
+-> profile olden;
+fork
+:stateroom dreidel;
+fork again
+:unplug automatic;
+fork again
+:marksmanship earrings;
+fork again
+:weigh mow;
+end fork
+:lifelike mastery;
+endif
+while (cadet spud?) is (rallying mullet)
+backward:mercy scarce;
+endwhile (boardinghouse undergone)
+:radioactive nursed;
+:chamberlain centimeters;
+@enduml

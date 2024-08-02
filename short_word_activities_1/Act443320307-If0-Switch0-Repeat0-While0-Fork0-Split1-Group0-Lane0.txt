@@ -1,0 +1,12 @@
+@startuml
+start
+split
+:thief honor;
+split again
+:spackle sweets; <<input>>
+-> plus definite;
+split again
+:understatement pineapple;
+end split
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "solves mart" as 0
+participant "vessel thyme" as 1
+1 --//o 0: appendages athletic
+0 -> 1: miscreant alcoholic
+1 -> 0: phenomenally fleeting
+loop blessed haven
+...totaled exit...
+1 --//o 0: seaweed juicy
+...dentist lasso...
+0 -> 1: spotted mack
+else violent jokes
+end
+@enduml

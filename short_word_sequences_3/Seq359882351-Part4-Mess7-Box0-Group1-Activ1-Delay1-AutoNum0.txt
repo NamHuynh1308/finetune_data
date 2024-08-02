@@ -1,0 +1,17 @@
+@startuml
+participant "shore extramarital" as 0
+participant "simony divorcee" as 1
+participant "calzones amulets" as 2
+participant "disturbing sisters" as 3
+0 <-> 1: ironing blinks
+0 -> 0: captive destroyed
+0 -> 0: hospitalized showed
+ [-> 1: oh clasp
+2 ->x 1++ : overrated ivories
+...brigadier toots...
+3 -> 2: tourist reef
+return achieve minimal
+par mutt parlor
+3 -> 0: pull saved
+end
+@enduml

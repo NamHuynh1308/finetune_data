@@ -1,0 +1,54 @@
+@startuml
+|1| magistrate motivation
+|2| regardless cleaned
+split
+-[hidden]->
+:flattering cooler;
+split again
+-[hidden]->
+:swoops courtyard;
+kill
+split again
+-[hidden]->
+:cosmology developments; <<save>>
+split again
+-[hidden]->
+:takes nun; <<task>>
+end split
+|2|
+:smoke shimmer;
+-> palsy prospect;
+split
+:perpetuating heading;
+split again
+:skedaddle naps; <<save>>
+split again
+if (electricians martial?) then (morgue construed)
+(lawyered tolerant) elseif (nectar otherworldly?) then (eventual somerset)
+:launcher ducks; <<task>>
+(grieve fruitless) elseif (mower lifeless?) then (armored workstation)
+:rkbyez;
+kill
+(actual shaky) elseif (ravens lone?) then (gasbag murderer)
+:rubbers polarity; <<load>>
+(axel supporter) elseif (according sarge?) then (cubed heft)
+:bland lifelike;
+endif
+end split
+:dweeb workman;
+|1|
+split
+:hast telescope;
+split again
+:candlelight stripe; <<input>>
+-> swelled aback;
+split again
+repeat
+backward:commonwealth sad;
+:lubricant downpour;
+backward:foothold faced;
+repeat while (respectful root?) is (molest benefactor)
+-> disguise antiquity;
+end split
+stop
+@enduml

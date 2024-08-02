@@ -1,0 +1,8 @@
+@startuml
+participant "vixen gunman" as 0
+participant "hourly empties" as 1
+autonumber 1 8
+0 <-> 0: kills contraband
+1 -> 0++ : goulash leaping
+return driving dampener
+@enduml

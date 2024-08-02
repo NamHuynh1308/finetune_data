@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:between magnolia;
+split again
+-[hidden]->
+if (distributed maids?) then (shrugged charity)
+(teapot conversation) elseif (gallant sykes?) then (nurses marathon)
+:meeting remove;
+-> skirts dripping;
+(ghoul starry) elseif (acquired breeding?) then (bilge commerce)
+:aw armour; <<input>>
+endif
+split again
+-[hidden]->
+fork
+:sugary parishioners;
+fork again
+:beauties rundown;
+fork again
+:tones embracing;
+end merge
+end split
+fork
+:dating slap;
+fork again
+:comparatively flame; <<load>>
+fork again
+fork
+:blossom caregiver;
+fork again
+:foreskin epsilon; <<load>>
+-> professionalism gaudy;
+fork again
+:tattered stationary; <<save>>
+-> parker compilation;
+fork again
+:empathic confederate; <<procedure>>
+-> gastric carefree;
+end fork
+end fork
+:proliferation hydraulics;
+-> hypocrisy conducted;
+group yes consummated
+:influenza brews; <<continuous>>
+stop
+end group
+@enduml

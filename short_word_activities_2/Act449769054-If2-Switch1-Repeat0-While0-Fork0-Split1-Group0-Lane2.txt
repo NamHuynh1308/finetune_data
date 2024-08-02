@@ -1,0 +1,42 @@
+@startuml
+|1| hang appetizer
+|2| nordic booker
+split
+-[hidden]->
+:whacked thoroughly;
+split again
+-[hidden]->
+if (tetherball opposed?) then (synergy supposedly)
+(bearing incensed) elseif (uninteresting godsend?) then (ordinarily cars)
+:experienced ulcers;
+(feared chic) elseif (hits barreling?) then (takes dive)
+:beginnings prolonged; <<save>>
+-> amaze imperialist;
+(fills double) elseif (revamp announce?) then (insider tabby)
+:faded spoons;
+endif
+split again
+-[hidden]->
+:spar doses; <<input>>
+end split
+|2|
+:waited exterminate; <<procedure>>
+:garnish unsafe;
+|1|
+:peaked fallback;
+if (discrepancy reconnected?) then (directory dumpling)
+(peeping until) elseif (spaces monument?) then (elastic catapult)
+:playing suede; <<load>>
+-> shall symbiote;
+(villages blowed) elseif (percentile manning?) then (discrimination hoboes)
+switch (megaphone gringo?)
+case (hosed upsets?)
+:couch ramrod;
+case (executives inspiration?)
+:delayed fused;
+case (recession pouring?)
+:humiliates bass; <<save>>
+endswitch
+endif
+stop
+@enduml

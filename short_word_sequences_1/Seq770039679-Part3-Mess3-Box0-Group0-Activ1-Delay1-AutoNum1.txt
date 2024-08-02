@@ -1,0 +1,13 @@
+@startuml
+participant "points fried" as 0
+participant "laptops creeps" as 1
+participant "excursion throwing" as 2
+== fungal evicted ==
+autonumber 0 2
+0 --//o 1++ : trees alfalfa
+...spraying fairy...
+ [-> 0: materials state
+2 <-> 1: elements exemption
+autonumber stop
+return sowing policy
+@enduml

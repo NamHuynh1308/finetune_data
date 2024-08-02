@@ -1,0 +1,13 @@
+@startuml
+participant "intellectually buckets" as 0
+participant "thanking skeptical" as 1
+autonumber 6 4
+1 -> 0: exploding observable
+0 -> 1: suss uncontrollable
+...survivors outgoing...
+1 -> 1: announcing schmuck
+create participant "applying buffoon" as 2
+0 -> 2 : applying buffoon
+2 -> 0++ : joys leaking
+return can coyotes
+@enduml

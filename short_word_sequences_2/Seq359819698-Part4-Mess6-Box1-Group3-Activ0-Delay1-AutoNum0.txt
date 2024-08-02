@@ -1,0 +1,23 @@
+@startuml
+participant "billboard impersonal" as 0
+participant "tutoring intend" as 1
+participant "fluid undead" as 2
+box "hiring beaten"
+participant "alternative band" as 3
+end box
+== subtitled rusty ==
+par pasts administrative
+3 -> 1!! : behind scrubbed
+2 -->x 0: polyester mermaids
+3 ->o 3: crane dye
+else haute waters
+opt shave bricked
+...engaging gumshoe...
+ [-> 1: room quicker
+0 ->o 1: haunting gifts
+end
+loop perspective notable
+3 <-] : circulatory meanie
+end
+end
+@enduml

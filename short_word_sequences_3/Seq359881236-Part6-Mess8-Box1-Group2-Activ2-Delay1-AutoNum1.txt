@@ -1,0 +1,29 @@
+@startuml
+participant "overcompensating observer" as 0
+participant "blacks moist" as 1
+participant "khan environmentalist" as 2
+box "bugging eminence"
+participant "lactic bris" as 3
+end box
+autonumber 5 7
+1 -> 3: codes caskets
+autonumber stop
+0 -->x 0++ : hasty milo
+create participant "observant summarily" as 4
+0 -> 4 : observant summarily
+autonumber resume
+opt jus homework
+0 -> 3: emerald preamble
+loop sitter miniscule
+create participant "yes cheerleading" as 5
+0 -> 5 : yes cheerleading
+ [<- 3: heaving blaming
+end
+...taping madly...
+5 -> 4: most fatherhood
+autonumber stop
+2 ->> 4++ : tuxedos mankind
+end
+return novocaine sal
+return teddy caps
+@enduml

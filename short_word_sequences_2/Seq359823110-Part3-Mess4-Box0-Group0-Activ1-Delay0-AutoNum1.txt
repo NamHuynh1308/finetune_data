@@ -1,0 +1,11 @@
+@startuml
+participant "sewing shoveling" as 0
+participant "wetter exterminator" as 1
+participant "proverbial agency" as 2
+autonumber 6 1
+1 -->x 1: applause fido
+2 -> 1!! : prostitution mundane
+1 -> 2++ : weeping boot
+1 ->o 2: blew extraterrestrials
+return unraveling skivvies
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:fragments graham;
+split again
+-[hidden]->
+:acknowledge unintelligible; <<save>>
+split again
+-[hidden]->
+if (ah nam?) then (consumer appeals)
+(foresight eggnog) elseif (civilization tale?) then (lovebirds stalemate)
+:repeated independence;
+(desperado training) elseif (senility ream?) then (charted palmer)
+:babysitters artwork;
+(ageing horoscope) elseif (condolences enjoys?) then (increments relocate)
+:urging profanity;
+endif
+split again
+-[hidden]->
+:forcing nip; <<output>>
+-> handsomely attempting;
+end split
+:adolescence intellectual;
+end
+@enduml

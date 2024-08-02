@@ -1,0 +1,13 @@
+@startuml
+box "brought take"
+participant "johns takedown" as 0
+end box
+== willow nametag ==
+autonumber 8 0
+ [-> 0: screwball snowballed
+autonumber stop
+0 -// 0: presidents lab
+autonumber resume
+0 -> 0: engrossed gushy
+autonumber stop
+@enduml

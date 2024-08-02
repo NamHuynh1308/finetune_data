@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:harpoons commandos;
+split again
+-[hidden]->
+:debut peg; <<task>>
+-> disagreements sinister;
+split again
+-[hidden]->
+if (goody truthful?) then (hadj volunteered)
+:stockbrokers mind; <<continuous>>
+:roads burst;
+kill
+else (indeed expect)
+:umpire gleaming; <<output>>
+:motorized convertibles; <<load>>
+-> chanteuse fortieth;
+:theorem senile; <<output>>
+endif
+split again
+-[hidden]->
+:offset reduce; <<output>>
+end split
+if (smashed tenants?) then (drinking signify)
+(identified satisfactory) elseif (tortious toothed?) then (reproductive insight)
+if (rhinoceros extending?) then (please shaker)
+:hangout ruthless;
+else (keeled personality)
+:sycophant professionalism; <<procedure>>
+while (ticker alchemist?) is (enrich whew)
+backward:wounded raiders;
+:prep terrible;
+endwhile (report babble)
+-[hidden]->
+detach
+endif
+(kimono apprentice) elseif (tarantulas whipper?) then (highness dowser)
+if (realizes hanger?) then (contributes baker)
+:creaky glaring;
+:colours scavenger; <<load>>
+-> toed geriatric;
+else (emergencies audible)
+:pajamas swindled;
+:download exploited; <<task>>
+endif
+(crated cooties) elseif (grandparents knuckles?) then (internationally cheep)
+:clef fixings;
+endif
+:plantations retribution; <<save>>
+-> muzzle nauseated;
+end
+@enduml

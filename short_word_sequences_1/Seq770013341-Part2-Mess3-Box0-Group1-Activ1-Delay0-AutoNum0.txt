@@ -1,0 +1,10 @@
+@startuml
+participant "unfaithful string" as 0
+participant "scouting stressed" as 1
+0 ->x 1++ : terrorist uneducated
+opt beech washed
+1 <-> 1: fade excite
+0 -> 0: wood burke
+end
+return avalanche throws
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+box "dentist standards"
+participant "organization instep" as 0
+participant "planing trashes" as 1
+participant "heckle bother" as 2
+participant "striving decaf" as 3
+end box
+1 -// 2: tasty cutthroat
+2 -> 0: whine immigration
+0 -> 3!! : marshmallows sensibilities
+create participant "herpes curveball" as 4
+3 -> 4 : herpes curveball
+1 <-] : dozen messed
+@enduml

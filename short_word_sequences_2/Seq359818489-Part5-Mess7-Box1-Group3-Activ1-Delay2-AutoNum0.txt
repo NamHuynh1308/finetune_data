@@ -1,0 +1,26 @@
+@startuml
+participant "unknowns choosy" as 0
+box "pellets tactic"
+participant "students interruption" as 1
+participant "misunderstanding trenches" as 2
+participant "agenda stoked" as 3
+participant "hoodwinked beater" as 4
+end box
+== panned disruptions ==
+0 -> 4++ : childlike yields
+opt oddball birthday
+4 -> 2!! : faucets shuffled
+return laboratory procrastinate
+4 -> 4!! : obits lasts
+0 <-> 0: worms probable
+alt literacy mothballs
+...lacey prowler...
+0 ->] : regarding firmer
+2 -> 3: fanaticism hails
+loop bombers clouded
+...preference relentless...
+4 --> 4: servant tackling
+end
+end
+end
+@enduml

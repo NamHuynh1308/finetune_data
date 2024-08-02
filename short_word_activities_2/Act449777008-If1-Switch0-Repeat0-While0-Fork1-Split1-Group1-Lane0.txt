@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:ever consumed;
+split again
+-[hidden]->
+:salted junk; <<continuous>>
+split again
+-[hidden]->
+:hearse speck;
+-> perspiration pro;
+end split
+group identical lum
+fork
+:exacerbate interact;
+fork again
+:murders ink; <<output>>
+-> living tabloid;
+fork again
+if (electronic deliver?) then (minimal kooks)
+(deceit lag) elseif (focused liquored?) then (reader marshal)
+:keeled denominations;
+(reversal matchmaking) elseif (hawking keeled?) then (tapeworm noises)
+:beautiful added; <<input>>
+endif
+end merge
+:result rewarded;
+stop
+end group
+@enduml

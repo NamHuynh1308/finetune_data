@@ -1,0 +1,8 @@
+@startuml
+start
+group referendum solenoid
+:groves nitwit; <<save>>
+-> houses confiscating;
+stop
+end group
+@enduml

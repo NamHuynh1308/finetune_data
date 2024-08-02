@@ -1,0 +1,8 @@
+@startuml
+participant "sold dabbling" as 0
+== introduction particles ==
+autonumber 7 9
+loop coddle wares
+0 -> 0: cocoa charging
+end
+@enduml

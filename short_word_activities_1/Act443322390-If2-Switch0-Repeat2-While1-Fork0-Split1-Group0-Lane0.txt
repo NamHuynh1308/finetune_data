@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:dealings crystals;
+split again
+-[hidden]->
+:unsolved wiretap; <<output>>
+split again
+-[hidden]->
+:craziest narcissism; <<task>>
+split again
+-[hidden]->
+:gauge fascinating; <<save>>
+-> project mishandled;
+end split
+if (comforts regularly?) then (latrine psychologists)
+(gunman fern) elseif (shaving specs?) then (rangers jolly)
+repeat
+backward:furtive freshening;
+:dosages firefight; <<output>>
+repeat while (theses thrusts?) is (embassy bowled)
+(byes shaves) elseif (holds hits?) then (screwdriver except)
+while (successfully blend?) is (legends intelligently)
+backward:headway bronzing;
+:dateline hedges;
+-> naught proposition;
+:atlas gecko;
+endwhile (maximum respond)
+:mikes loyalties;
+endif
+if (gobble wops?) then (admirer particulars)
+:shrouds insulation; <<input>>
+-> shrub spoonful;
+else (sentinels breathtaking)
+:something hobbits;
+-> sponsored edit;
+repeat
+backward:sunken executions;
+:spans recording; <<save>>
+repeat while (clinics real?) is (unclench godforsaken)
+:stalling roving; <<input>>
+-> learn information;
+endif
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+box "veg encore"
+participant "blackboard credenza" as 0
+participant "carlin talented" as 1
+participant "stubborn equity" as 2
+end box
+== containers resides ==
+autonumber 9 9
+1 -> 2: chef tail
+autonumber stop
+2 --> 0: virtuoso paradise
+autonumber resume
+2 ->o 0: compounds savage
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+participant "lug cemeteries" as 0
+participant "lot interning" as 1
+box "entertain fights"
+participant "shipshape fronting" as 2
+participant "retaliate mercenary" as 3
+end box
+participant "cos rocking" as 4
+== nicer blather ==
+autonumber 5 0
+2 ->] : wrap odd
+ [-> 4: operations motivation
+autonumber stop
+opt recruits charismatic
+3 -->x 2: wart skins
+autonumber resume
+0 -->x 2: sighting gonzo
+alt masculine standards
+ [<- 1: streaming dud
+...nasty impartial...
+4 ->> 2: serving themed
+autonumber stop
+else carr bookman
+...fossilized header...
+0 -> 0++ : gaiety minors
+end
+end
+return euthanasia ibuprofen
+@enduml

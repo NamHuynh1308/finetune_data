@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:threesome blasters;
+split again
+-[hidden]->
+:bonus preached;
+split again
+-[hidden]->
+:joints taxes; <<output>>
+split again
+-[hidden]->
+:harmony cuts; <<continuous>>
+end split
+:sill slams; <<continuous>>
+@enduml

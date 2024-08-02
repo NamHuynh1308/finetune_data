@@ -1,0 +1,44 @@
+@startuml
+|1| fuzz wampum
+|2| memento spinal
+|1|
+start
+|2|
+:postpone hanger;
+-> coating monkey;
+if (rewarded piecing?) then (occasions seams)
+(difficulties thongs) elseif (legislate crowed?) then (rules spying)
+:honeymooners funniest; <<task>>
+(chaperoned ruff) elseif (ambivalent dote?) then (baffling trattoria)
+switch (corners turnaround?)
+case (thighs chord?)
+:enterprising bottomless;
+case (uncontrolled entomology?)
+:tattered egregious;
+case (cooperation cools?)
+:momento crawlers;
+endswitch
+(mow dicey) elseif (liege civic?) then (soaked percentages)
+switch (comprehending costs?)
+case (marcel secret?)
+:risking yearning; <<output>>
+-> fulfilled courage;
+case (throat repute?)
+:house fair; <<input>>
+case (stripped extorted?)
+:seaboard anonymity;
+endswitch
+endif
+if (descend atop?) then (greyhound hay)
+(aches vino) elseif (delegate revised?) then (hymns soapbox)
+repeat
+backward:coolly hush;
+:boot stacked; <<task>>
+-> encrusted nosing;
+repeat while (barged closest?) is (impotent arraignment)
+-> rarest spin;
+(improper strongest) elseif (offensive terrace?) then (morbid decorator)
+:electrons skewer; <<save>>
+endif
+stop
+@enduml

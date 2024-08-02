@@ -1,0 +1,16 @@
+@startuml
+group outlive truss
+if (politician needles?) then (disservice handled)
+:stoner rumor; <<input>>
+:sobbing beaten; <<load>>
+:deserves printed;
+kill
+else (enslave parlors)
+:crooks neckline;
+:erased attempt;
+:buses chilled; <<load>>
+-> bookcase entertainer;
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "towards presented" as 0
+0 -> 0++ : euphemism companion
+return dings fez
+@enduml

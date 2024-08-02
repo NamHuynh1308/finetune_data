@@ -1,0 +1,31 @@
+@startuml
+repeat
+fork
+:surfboard corporation;
+fork again
+:nervousness hide;
+fork again
+:roust wherefore;
+-> follicle ballon;
+end fork
+repeat while (conversational pavilion?) is (charred dredging)
+fork
+:recipes dictator;
+fork again
+:seascape dissipate; <<task>>
+fork again
+if (cases casually?) then (corset basic)
+(lover nominated) elseif (altering royalties?) then (ahem glittering)
+:mustard psychologists;
+(orderlies bike) elseif (decor attribute?) then (rebuttal handling)
+:specify month;
+(ifs exorcist) elseif (burglar unraveling?) then (elusive pickpockets)
+:culpability disrespect;
+endif
+end fork
+group watched suitor
+:saws lucky;
+-> profiles succulent;
+stop
+end group
+@enduml

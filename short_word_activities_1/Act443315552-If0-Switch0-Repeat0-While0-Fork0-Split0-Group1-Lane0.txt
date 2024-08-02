@@ -1,0 +1,7 @@
+@startuml
+group text nice
+:lurk witness; <<load>>
+-> threatened foliage;
+stop
+end group
+@enduml

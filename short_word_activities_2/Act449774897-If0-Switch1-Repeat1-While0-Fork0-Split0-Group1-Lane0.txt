@@ -1,0 +1,17 @@
+@startuml
+group wheelchairs stakeout
+switch (recovers harmless?)
+case (blend unflattering?)
+:japan pops; <<input>>
+case (reserves reap?)
+:gradually underway; <<save>>
+-> therapist kangaroo;
+case (immature cone?)
+repeat
+backward:emphatically torched;
+repeat while (sailing bash?) is (overreaction creaky)
+-> greasing impropriety;
+endswitch
+stop
+end group
+@enduml

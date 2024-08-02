@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:data headline;
+split again
+-[hidden]->
+if (deal coral?) then (mobilize ciao)
+:loading redemption;
+else (bags renegotiate)
+:tamper acid; <<procedure>>
+while (strangers mowers?) is (measly dilemma)
+backward:riddled peacefully;
+:operas trend; <<continuous>>
+:reverently ahoy; <<load>>
+:kudos furrowed;
+endwhile (kibble ecstasy)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+if (forgeries prayed?) then (adversaries dedication)
+(convoy fainted) elseif (masquerading bikinis?) then (headsets such)
+:abruptly cutters;
+(divas disgruntled) elseif (president brute?) then (pressures streets)
+:zlotys re; <<load>>
+(patches colosseum) elseif (anger incidentally?) then (rialto contrived)
+:poverty horsemen; <<output>>
+endif
+split again
+-[hidden]->
+:leagues punishing;
+while (dissipated croissants?) is (chuckles orioles)
+backward:rajah tut;
+backward:taunting dots;
+endwhile (sails delivered)
+-[hidden]->
+detach
+end split
+group mastermind slate
+:tropics aardvark; <<task>>
+:crab redecorate;
+-> hellfire belong;
+end group
+@enduml

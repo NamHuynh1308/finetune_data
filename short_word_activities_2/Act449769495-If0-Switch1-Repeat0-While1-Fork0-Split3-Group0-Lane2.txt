@@ -1,0 +1,60 @@
+@startuml
+|1| sunroom deal
+|2| relying lagoon
+split
+-[hidden]->
+:bells maroon;
+split again
+-[hidden]->
+:sacrament gunpowder; <<continuous>>
+-> weekend cotton;
+split again
+-[hidden]->
+switch (spite broth?)
+case (sonogram mellow?)
+:constructed shifted;
+case (frustrated bordering?)
+:honour memories; <<task>>
+-> hotshot moreover;
+case (crowed citywide?)
+:man disobedience; <<load>>
+case (merrier prohibit?)
+:hooded tularemia;
+while (foibles unseen?) is (fuchsia spends)
+backward:enthralled humidifier;
+endwhile (purple deadbeat)
+-[hidden]->
+detach
+endswitch
+split again
+-[hidden]->
+:utensils grape; <<input>>
+end split
+|2|
+:dotted winner;
+-> primo piece;
+|1|
+:barricades hesitating; <<continuous>>
+|2|
+:playhouse goblet;
+-> outrageously lear;
+split
+:claymore magnificence;
+split again
+:civility argon; <<input>>
+split again
+:filth tetanus; <<save>>
+split again
+split
+:standish massages;
+split again
+:albatross righteous;
+-> profusely variance;
+split again
+:bawling outhouse;
+split again
+:real grind;
+end split
+end split
+end
+@enduml

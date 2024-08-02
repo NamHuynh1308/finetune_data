@@ -1,0 +1,9 @@
+@startuml
+participant "legislature fluffing" as 0
+create participant "accuses swedes" as 1
+0 -> 1 : accuses swedes
+1 -// 1: significantly spew
+1 --> 0++ : mill nativity
+1 <-> 0: arguing mar
+return exonerate napkins
+@enduml

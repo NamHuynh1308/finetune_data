@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:operating benched;
+split again
+-[hidden]->
+split
+:entries witless;
+split again
+:cheeks assigned; <<output>>
+-> recognizance discussed;
+split again
+:sleet romping;
+end split
+split again
+-[hidden]->
+:deeded domestic; <<continuous>>
+end split
+if (breakable deadline?) then (climb hiked)
+(continental conceited) elseif (garcon cyst?) then (telegraph hoodwinked)
+if (half platforms?) then (trollop mowed)
+(disappointed adrenals) elseif (communism cohesion?) then (sprightly gumshoe)
+:basements pastrami;
+-> lurking caps;
+(overseeing doozy) elseif (almond span?) then (rubbers supply)
+:harnessed recommendations;
+(knocks roulette) elseif (crouch adjourned?) then (skaters cheetah)
+:footing purchases; <<procedure>>
+(yom colon) elseif (mimic transplant?) then (nonsense crumpets)
+:dimension glow; <<procedure>>
+endif
+(ballerina overpriced) elseif (direction families?) then (harmless bowers)
+:river stupid;
+-> position extended;
+endif
+:mor devices; <<procedure>>
+-> hounded bikers;
+end
+@enduml

@@ -1,0 +1,28 @@
+@startuml
+participant "jet defective" as 0
+box "rents annually"
+participant "necromancer git" as 1
+participant "chases chatty" as 2
+participant "caregiver purchase" as 3
+participant "hah borrowed" as 4
+end box
+autonumber 6 4
+0 -\\ 4: tall frightened
+...wigged roost...
+4 <-] : telex spool
+0 -> 0: label amigos
+1 <-> 3: shapely chores
+break outcasts kielbasa
+...chorus volleyball...
+0 ->o 0: continue dudes
+loop sober fairly
+2 --> 4: tracked seriousness
+1 -> 0++ : manipulating lungs
+break crystals speculative
+0 -> 2: edema artists
+return physiology jet
+autonumber stop
+end
+end
+end
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+box "franklin deeds"
+participant "hovering felling" as 0
+participant "lineup hooters" as 1
+end box
+1 <-> 0: oath resolute
+...granddaughters quid...
+0 -// 1++ : supposedly offspring
+0 -> 1: premonition athlete
+return slices cordon
+0 --//o 1++ : persist enforcer
+return diddling reggae
+@enduml

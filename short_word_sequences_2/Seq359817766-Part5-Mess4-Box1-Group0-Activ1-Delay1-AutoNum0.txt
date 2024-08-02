@@ -1,0 +1,15 @@
+@startuml
+participant "favors munchkin" as 0
+participant "hoop destroying" as 1
+participant "inhumane sweater" as 2
+box "upward makeover"
+participant "remark taint" as 3
+end box
+create participant "harbour moocher" as 4
+2 -> 4 : harbour moocher
+0 -->x 1++ : sugarcoat oblique
+ [-> 2: chocolatey pointy
+return orb inter
+...cell heats...
+0 -> 1: innermost upbringing
+@enduml

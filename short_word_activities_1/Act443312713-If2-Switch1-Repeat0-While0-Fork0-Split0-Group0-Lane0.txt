@@ -1,0 +1,25 @@
+@startuml
+start
+if (stories purpose?) then (desired known)
+(batting writ) elseif (hickory headhunter?) then (fever yelling)
+switch (getting cheesed?)
+case (lecture commentaries?)
+:strikingly magnum; <<save>>
+case (creativity saran?)
+:colonnade files;
+endswitch
+(gentle poetic) elseif (rumpled overslept?) then (strategies commented)
+:attorneys ashore; <<save>>
+-> chugging mistress;
+(dawdling rumors) elseif (wuthering belts?) then (sleeping ranging)
+:negotiated kidding;
+(had unauthorized) elseif (planting sugar?) then (molten sir)
+if (servant called?) then (plop finalist)
+:courted entirety; <<task>>
+:nymph prone;
+else (grandchildren clang)
+:consults alleys;
+endif
+endif
+stop
+@enduml

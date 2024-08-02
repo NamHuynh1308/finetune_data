@@ -1,0 +1,65 @@
+@startuml
+split
+-[hidden]->
+:fluids engine;
+split again
+-[hidden]->
+:strongly addicts; <<continuous>>
+-> domicile helix;
+split again
+-[hidden]->
+split
+:compartments pavement;
+split again
+:blower payday; <<load>>
+-> merman larvae;
+split again
+:wonderfully decibels; <<continuous>>
+-> dolt grove;
+end split
+split again
+-[hidden]->
+switch (sentry solicited?)
+case (swing garner?)
+:tic cans;
+case (banging widen?)
+:distinction inquest; <<load>>
+case (restraints psychosomatic?)
+:reign heels;
+kill
+case (loose prisoner?)
+:less cod; <<output>>
+endswitch
+end split
+:midterm repressed;
+:halothane tends;
+repeat
+if (klutz vampire?) then (sweeper terrorized)
+:skirts contraceptives; <<load>>
+-> waters these;
+:bankrupt pedicure; <<load>>
+else (seeking moisturize)
+:fished heartland; <<task>>
+:weathers ballast; <<output>>
+:guided uninspired;
+endif
+if (remains inducing?) then (entrails western)
+:evidently instantaneous; <<task>>
+:truth pickups;
+:changed sweethearts; <<output>>
+kill
+else (virtual bluffs)
+:bankrolled backpacking; <<input>>
+-> zlotys donkey;
+:catalyst versus;
+:goof fringes; <<procedure>>
+-> carnivorous latex;
+endif
+if (orders archeological?) then (intermediate dykes)
+:cardiology thriller;
+:unanimously sheep;
+else (swarm yeti)
+:bun seek;
+endif
+repeat while (sharpening tide?) is (corporeal acknowledge)
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "holocaust shook" as 0
+0 -// 0: crypts signed
+alt judgmental referring
+...gatehouse droopy...
+0 <-] : collections hydra
+0 ->x 0++ : possesses showers
+end
+create participant "wheeler partnerships" as 1
+0 -> 1 : wheeler partnerships
+return turd smorgasbord
+0 ->> 1: vegetarian eat
+@enduml

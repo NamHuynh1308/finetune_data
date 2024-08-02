@@ -1,0 +1,10 @@
+@startuml
+participant "spackle foaming" as 0
+participant "bow demanding" as 1
+par carrot ingenious
+1 ->x 0: occasions assassination
+0 ->] : slinking trench
+create participant "milking incapable" as 2
+0 -> 2 : milking incapable
+end
+@enduml

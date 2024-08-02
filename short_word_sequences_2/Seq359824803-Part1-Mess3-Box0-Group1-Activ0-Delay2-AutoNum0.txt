@@ -1,0 +1,11 @@
+@startuml
+participant "scouted sling" as 0
+== darndest respectable ==
+0 <-] : grabbing guys
+...pedestal promotes...
+0 <-] : kill flippers
+loop ailment vigilant
+...callers anecdotes...
+ [<- 0: sipping cuneiform
+end
+@enduml

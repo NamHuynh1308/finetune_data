@@ -1,0 +1,13 @@
+@startuml
+participant "carries drafts" as 0
+participant "flavour occur" as 1
+== mummy beret ==
+autonumber 3 10
+1 ->> 1: bayonet wills
+0 --//o 1++ : chow unexpected
+break banged belts
+...peckish cursing...
+0 ->o 1: thunderstorm derailing
+return busted gaining
+end
+@enduml

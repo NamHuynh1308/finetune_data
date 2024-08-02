@@ -1,0 +1,6 @@
+@startuml
+start
+:duffle distracting; <<save>>
+-> charged annex;
+end
+@enduml

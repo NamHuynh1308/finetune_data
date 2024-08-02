@@ -1,0 +1,9 @@
+@startuml
+participant "machinations withering" as 0
+autonumber 2 8
+0 -> 0++ : punches limelight
+create participant "freeloading distinctions" as 1
+0 -> 1 : freeloading distinctions
+autonumber stop
+return mousy cardiogram
+@enduml

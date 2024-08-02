@@ -1,0 +1,22 @@
+@startuml
+participant "sheepskin transcripts" as 0
+participant "weirdest drooling" as 1
+participant "exclusive acquainted" as 2
+box "domicile rang"
+participant "disputes career" as 3
+end box
+autonumber 0 5
+0 -->x 3++ : favorably rebound
+ [<- 3: colleen embittered
+opt cabinet clump
+...coursing pittance...
+1 -> 2: gladly doornail
+return praying recordings
+...agreements errant...
+ [-> 0: neurological basement
+2 --> 1++ : howl divorcee
+autonumber stop
+else whimpering arrogant
+end
+return lumberjack hooves
+@enduml

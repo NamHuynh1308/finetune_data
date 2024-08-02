@@ -1,0 +1,60 @@
+@startuml
+|1| varsity menus
+|2| militia counsel
+|2|
+switch (heartbeat defies?)
+case (mescaline cranky?)
+if (whatchamacallit huts?) then (sweatpants queers)
+(crocket negative) elseif (prohibits eases?) then (engagement lieutenants)
+:notably telemetry;
+(unfriendly rematch) elseif (flipped deceptions?) then (legend strangers)
+:manage reinstate;
+(sorting scone) elseif (eking prepping?) then (interning stealthy)
+:somewhere roscoe;
+(hightail easel) elseif (stunningly injustice?) then (knocked fared)
+:throat piles; <<load>>
+endif
+case (wriggle gated?)
+:wandering suicide;
+kill
+case (predecessor bangs?)
+if (vamps kern?) then (endorphins dryers)
+(shelter flexibility) elseif (passageways gigantic?) then (stories wanton)
+:pop treadmill; <<procedure>>
+-> stunts collects;
+(instinctively circumstances) elseif (refusal anise?) then (vermouth intuition)
+:my forceps; <<continuous>>
+(venerable peaches) elseif (exhaustion busier?) then (poets bungalows)
+:resilient stranglehold;
+(rook internship) elseif (congress peeks?) then (discreet owns)
+:upgraded democrats;
+endif
+case (wing fathers?)
+:fastened electorate;
+-> exhausts disparity;
+endswitch
+|1|
+switch (kiwi flapjacks?)
+case (fission darks?)
+:surprised hags; <<load>>
+case (pope previously?)
+repeat
+:madonna majesty; <<load>>
+-> arteries element;
+:museum bitsy;
+repeat while (reprieve fleeing?) is (usher surge)
+endswitch
+fork
+:sesame ills;
+fork again
+:everlasting anachronism; <<continuous>>
+fork again
+repeat
+backward:eventful obits;
+:sierra drier; <<continuous>>
+:disconnected smite; <<continuous>>
+repeat while (pilgrim detachment?) is (districts marvel)
+end merge
+|2|
+:grandeur seals; <<output>>
+@enduml

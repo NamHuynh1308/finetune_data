@@ -1,0 +1,9 @@
+@startuml
+start
+group sliver computerized
+:horrific subscription; <<load>>
+-> leaks opening;
+:demerits barf; <<load>>
+stop
+end group
+@enduml

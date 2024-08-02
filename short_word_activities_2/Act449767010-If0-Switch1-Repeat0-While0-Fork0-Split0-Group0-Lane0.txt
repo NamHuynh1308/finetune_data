@@ -1,0 +1,14 @@
+@startuml
+start
+switch (hillside elevation?)
+case (automaton endive?)
+:collect scripted;
+case (crooked mannequin?)
+:sikes dolled; <<save>>
+-> louis philosophical;
+case (frustrates ecosystem?)
+:tenner requirement;
+endswitch
+:interstate admiration;
+stop
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "operative savages" as 0
+participant "cape preferred" as 1
+box "limber leaves"
+participant "quarantined hairy" as 2
+participant "purged baptism" as 3
+end box
+ [<- 3: seamless weds
+opt worlds rebellion
+...applies exposure...
+1 ->x 1: kaput fan
+create participant "special responsible" as 4
+0 -> 4 : special responsible
+0 -\\ 1: considerate pedicures
+else backed drips
+3 -> 4!! : zebras predators
+1 <-] : doubles pollution
+end
+@enduml

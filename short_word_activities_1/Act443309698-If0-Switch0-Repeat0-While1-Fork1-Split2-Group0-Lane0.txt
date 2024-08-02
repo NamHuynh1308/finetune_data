@@ -1,0 +1,38 @@
+@startuml
+start
+:returned resources; <<save>>
+fork
+:dancer turkey;
+fork again
+:blank poetic; <<procedure>>
+fork again
+:cotton formed;
+while (goddamned recitals?) is (skylight bit)
+split
+:cowboys pitted;
+split again
+:intrigued embracing; <<load>>
+-> fists aquatic;
+split again
+:consensus gala;
+end split
+split
+:judgement admittance;
+split again
+:addition preventing;
+split again
+:departmental describe;
+-> vending anemic;
+split again
+:buckaroo chronic; <<procedure>>
+end split
+endwhile (overdrive suede)
+-[hidden]->
+detach
+fork again
+:annex leg; <<load>>
+end merge
+:largest virtual;
+-> sly shipyard;
+stop
+@enduml

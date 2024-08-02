@@ -1,0 +1,11 @@
+@startuml
+box "convict abandoned"
+participant "archenemy keel" as 0
+participant "incorrigible electrician" as 1
+participant "hammer daughters" as 2
+end box
+2 -// 0: chaos millionaires
+0 -\\ 0: charms grease
+0 -> 1: loyalty ebb
+0 -\\ 1: trickster thermometer
+@enduml

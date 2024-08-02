@@ -1,0 +1,10 @@
+@startuml
+participant "satellites sucking" as 0
+loop stroller bleach
+0 -\\ 0: crucified control
+ [<- 0: deprecating tumbler
+end
+0 -> 0: pardner strangely
+0 --//o 0++ : nite morse
+return ace lactic
+@enduml

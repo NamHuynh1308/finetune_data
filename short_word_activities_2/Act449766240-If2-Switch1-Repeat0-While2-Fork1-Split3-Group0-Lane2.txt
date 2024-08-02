@@ -1,0 +1,78 @@
+@startuml
+|1| grace testy
+|2| goobers none
+split
+-[hidden]->
+:olive debrief;
+split again
+-[hidden]->
+:stowaway shackled; <<task>>
+-> squinting wally;
+split again
+-[hidden]->
+:madrigal hardest; <<output>>
+-> pepperoni popularity;
+end split
+|2|
+:adaptable knitted;
+-> cutting cutest;
+fork
+:licorice regal;
+fork again
+:informational gusher;
+fork again
+while (dual credibility?) is (buttery smearing)
+backward:cemetery assets;
+backward:aliases worshiped;
+:seeds secret;
+:stoic capital;
+endwhile (deliveries advancement)
+:change immobilize;
+end fork
+if (auras slaughtered?) then (scared unfaithful)
+(cocaine finance) elseif (groom aerial?) then (visceral saffron)
+switch (credence exorcise?)
+case (removing card?)
+:intervening monk;
+case (narcotics despising?)
+:allee jarring;
+endswitch
+(comprehension hunting) elseif (nag dildo?) then (accidentally books)
+split
+:income ailments;
+split again
+:frog bacon;
+while (ponytail hunches?) is (prophet restrict)
+:sneezed universally;
+:rumpled supervision;
+:tarred smock;
+endwhile (skinny spreadsheets)
+-[hidden]->
+detach
+split again
+:density esteemed;
+end split
+(rue pulsating) elseif (screwups pretend?) then (sexually unexplored)
+:swelled loss; <<procedure>>
+(waxing cards) elseif (munching workmen?) then (convertible queen)
+:isotopes minimum;
+endif
+split
+:monster cutoffs;
+split again
+if (blockage boating?) then (students tubes)
+(philosophies gladstone) elseif (make advisable?) then (suppress flirted)
+:coiled anxious;
+(aides parts) elseif (hooligan cockroaches?) then (inquisition towers)
+:fibbing shoplifting;
+(winnings finger) elseif (descriptive indicative?) then (pinochle heard)
+:callous psychiatric;
+endif
+split again
+:derriere neon; <<procedure>>
+split again
+:fogged tularemia; <<procedure>>
+-> tenuous lifer;
+end split
+stop
+@enduml

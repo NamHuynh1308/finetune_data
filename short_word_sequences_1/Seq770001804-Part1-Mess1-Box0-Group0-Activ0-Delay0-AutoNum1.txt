@@ -1,0 +1,5 @@
+@startuml
+participant "intact ho" as 0
+autonumber 2 6
+0 <-] : trapeze manslaughter
+@enduml

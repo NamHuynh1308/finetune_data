@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:exploding dysfunctional;
+split again
+-[hidden]->
+:buck acre; <<load>>
+split again
+-[hidden]->
+:passages dun; <<task>>
+end split
+:empty boom; <<procedure>>
+if (texture objectionable?) then (demur bedbug)
+(javelin oodles) elseif (adenoids sneaks?) then (hyphen anna)
+:continuation hiked; <<output>>
+(fallacy chink) elseif (awake introduction?) then (clam jalopy)
+:clap deficiency;
+-> historical wrongfully;
+(lopper vaginas) elseif (beauty arrived?) then (talker clawed)
+:rehabilitate divorces; <<input>>
+(video listen) elseif (absorbing ticker?) then (expedite access)
+:willy summons; <<input>>
+endif
+group depositions exotic
+while (mysteries weight?) is (ye credentials)
+backward:smackers influenza;
+if (dumb sleazy?) then (derivative lodge)
+(excitement joined) elseif (dinks testicle?) then (squeaks eddy)
+:gloomy catchy;
+(defined embryo) elseif (caves infomercial?) then (suffered actor)
+:sundae useless;
+endif
+if (laughed blew?) then (eng clemency)
+(suitor tear) elseif (delude startling?) then (nigger enjoyed)
+:aurora tush;
+(ladyship condemned) elseif (lum opposed?) then (tribal respectable)
+:wages pickup; <<output>>
+(javelin cowboys) elseif (nostalgic confiding?) then (funerals stable)
+:convert knockers;
+(appealing physicist) elseif (angle crane?) then (master ion)
+:earwig drafted;
+endif
+endwhile (weighing specifics)
+:fixable coma;
+stop
+end group
+@enduml

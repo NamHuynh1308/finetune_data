@@ -1,0 +1,13 @@
+@startuml
+participant "lederhosen editorials" as 0
+participant "chopping decanter" as 1
+== staffed discs ==
+alt barks challenger
+1 -\\ 1: towed marshal
+ [-> 1: download rethinking
+else universes brings
+0 -// 1: finest unaware
+else mash backyard
+0 -\\ 1: concurrently incompatible
+end
+@enduml

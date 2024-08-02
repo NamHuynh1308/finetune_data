@@ -1,0 +1,7 @@
+@startuml
+participant "title decomposed" as 0
+autonumber 4 6
+0 -> 0: flavours percentages
+create participant "desist injuries" as 1
+0 -> 1 : desist injuries
+@enduml

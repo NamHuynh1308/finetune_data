@@ -1,0 +1,22 @@
+@startuml
+participant "ducking diesel" as 0
+participant "bugged firebug" as 1
+box "presuming efforts"
+participant "wok preferably" as 2
+box "field paraphernalia"
+participant "makes freeze" as 3
+participant "polar contemplated" as 4
+end box
+end box
+1 <-] : decor turds
+3 -> 3++ : pedestrian slowing
+opt willies legislature
+2 --> 4: bounce bouquets
+return sedan thrones
+1 ->> 1: illnesses ridiculously
+3 ->] : recorder organizations
+else brushing resentments
+create participant "systematic reluctantly" as 5
+1 -> 5 : systematic reluctantly
+end
+@enduml

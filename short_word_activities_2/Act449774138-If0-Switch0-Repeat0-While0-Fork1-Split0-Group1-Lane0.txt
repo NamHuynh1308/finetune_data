@@ -1,0 +1,16 @@
+@startuml
+group cozy uprising
+:epizootics bagman;
+-> quarrel suffer;
+fork
+:spikey gags;
+fork again
+:deflower unemployed; <<continuous>>
+fork again
+:joining comedies; <<load>>
+-> same blown;
+end fork
+end group
+:oldie brilliant;
+-> coronary firms;
+@enduml

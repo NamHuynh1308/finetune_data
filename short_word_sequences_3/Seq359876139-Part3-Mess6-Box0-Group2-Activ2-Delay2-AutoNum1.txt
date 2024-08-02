@@ -1,0 +1,21 @@
+@startuml
+participant "conceal definitions" as 0
+participant "decorating pence" as 1
+autonumber 0 9
+create participant "positive fuhrer" as 2
+1 -> 2 : positive fuhrer
+alt heir holdings
+1 ->x 1++ : remark hazardous
+critical feelings checkers
+...proms boats...
+2 ->x 0: seven condition
+1 --//o 1++ : roughly copperhead
+else contradiction menacing
+0 ->] : unthinkable keycard
+...retrieval patients...
+2 ->] : salamander cube
+end
+end
+return scarves garibaldi
+return collectively benes
+@enduml

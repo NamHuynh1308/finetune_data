@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:walls envoy;
+split again
+-[hidden]->
+:backdrop amigo; <<input>>
+-> misdemeanors diseased;
+split again
+-[hidden]->
+split
+:alternate absolutely;
+split again
+:food pleasant;
+split again
+:steal puffing;
+split again
+:stow fullest; <<output>>
+-> radishes handbags;
+end split
+split again
+-[hidden]->
+while (mentality souvenirs?) is (promised necessarily)
+:mutiny cartons; <<input>>
+-> knockoff huge;
+backward:guerillas stealthy;
+:transcendent miss;
+backward:prying hypotensive;
+endwhile (actresses unpredictable)
+:baskets tonic;
+end split
+group conferred postpone
+:coals snowbank; <<save>>
+:strawberries negotiator; <<output>>
+end group
+:college labeled; <<task>>
+end
+@enduml

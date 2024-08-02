@@ -1,0 +1,6 @@
+@startuml
+group giveaway brood
+:quirk forests; <<procedure>>
+stop
+end group
+@enduml

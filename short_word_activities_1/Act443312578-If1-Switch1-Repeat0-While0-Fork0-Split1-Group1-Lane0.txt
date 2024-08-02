@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:actuarial monologue;
+split again
+-[hidden]->
+switch (tainted dago?)
+case (connecting struck?)
+:postcard risotto;
+case (chile maneuvered?)
+:revolutionaries fugu;
+endswitch
+split again
+-[hidden]->
+if (pulsating bronzing?) then (welder brute)
+:gelato whiff; <<save>>
+-> junk stun;
+:hostilities overstress;
+else (tracked teacher)
+:plethora soapbox;
+endif
+end split
+:cakes carriage;
+group seventeen dealer
+:yahoo shoveling;
+stop
+end group
+@enduml

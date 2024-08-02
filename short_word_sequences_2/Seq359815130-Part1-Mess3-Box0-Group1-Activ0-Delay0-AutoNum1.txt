@@ -1,0 +1,10 @@
+@startuml
+participant "cooped ectoplasm" as 0
+autonumber 0 10
+0 ->> 0: scout nearly
+autonumber stop
+alt custom dorms
+0 -> 0: hormonal conspirator
+ [-> 0: retreated hydra
+end
+@enduml

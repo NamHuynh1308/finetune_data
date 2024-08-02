@@ -1,0 +1,17 @@
+@startuml
+participant "payday flicks" as 0
+participant "tasteful poppers" as 1
+box "abundant corpse"
+participant "infuriating agility" as 2
+participant "unpunished flattery" as 3
+end box
+break mantra echo
+1 -> 2: furious sits
+...timer gearing...
+0 -> 3: shorty mirage
+end
+0 -> 3: wetlands sedative
+0 <-> 3++ : quaint pictures
+1 ->o 3: gimme madrigal
+return digit heckle
+@enduml

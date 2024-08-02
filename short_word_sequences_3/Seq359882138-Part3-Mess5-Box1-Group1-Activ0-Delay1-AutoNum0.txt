@@ -1,0 +1,16 @@
+@startuml
+participant "smudge announced" as 0
+participant "prance gossiping" as 1
+box "jacked ticking"
+participant "facilities puzzle" as 2
+end box
+2 -> 1!! : mustang interlude
+alt casino animated
+...overwhelmingly door...
+ [<- 0: propellers crotch
+0 -> 0: aimlessly rashes
+else prescription overpass
+2 -> 0: plummeted defining
+0 -> 2: deadline slim
+end
+@enduml

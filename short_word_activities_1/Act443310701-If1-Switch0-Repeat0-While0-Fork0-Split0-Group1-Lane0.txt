@@ -1,0 +1,12 @@
+@startuml
+start
+group twitch collarbone
+if (psycho rotation?) then (manicures eruption)
+:mainline honk;
+:fiver sesterces; <<procedure>>
+else (oasis wildfire)
+:controlling staffer; <<save>>
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+start
+:concerns apologize; <<task>>
+:terminology world;
+-> captains cyanide;
+repeat
+backward:inflict dalliance;
+:teaches simulator; <<load>>
+repeat while (giblets buckaroo?) is (crafts industries)
+@enduml

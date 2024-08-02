@@ -1,0 +1,65 @@
+@startuml
+split
+-[hidden]->
+:legitimacy dol;
+split again
+-[hidden]->
+:icky norm; <<input>>
+split again
+-[hidden]->
+:cockamamie facilities; <<procedure>>
+split again
+-[hidden]->
+:entrepreneurial doll;
+-> blessed humidor;
+end split
+while (jerky egotistical?) is (weathers amply)
+split
+:snob chatty;
+split again
+:levitation adenoids; <<task>>
+split again
+:loco frantically;
+kill
+split again
+:cinnabar icy;
+-> refusing time;
+end split
+backward:enforcing loathe;
+if (orbing saline?) then (fugu bats)
+:championship predict;
+:sold boosts;
+while (broccoli dusky?) is (betraying resentments)
+:solidify abide;
+:grain heave;
+:minimize colorado;
+:gatekeeper aim;
+endwhile (sunless symbols)
+-[hidden]->
+detach
+else (punishes betraying)
+:pediatrics barbarians; <<continuous>>
+:spirals insists; <<output>>
+endif
+endwhile (warming bulimic)
+:rolls deleted;
+group stapler servings
+fork
+:bond pragmatist;
+fork again
+:messengers welcome;
+fork again
+:rationalize sins;
+fork again
+fork
+:cosmically merits;
+fork again
+:mustang fertilization; <<save>>
+fork again
+:mildew loathes; <<load>>
+-> mason randomly;
+end merge
+end fork
+stop
+end group
+@enduml

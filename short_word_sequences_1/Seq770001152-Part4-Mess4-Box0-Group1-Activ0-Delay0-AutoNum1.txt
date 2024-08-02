@@ -1,0 +1,15 @@
+@startuml
+participant "choppers congress" as 0
+participant "shaw auditory" as 1
+participant "bleach consciousness" as 2
+participant "geriatrics tanks" as 3
+autonumber 6 1
+ [<- 0: aided potentially
+loop fondest undies
+3 ->o 0: sanest landing
+1 -> 3!! : donkeys chump
+else airlines algae
+0 ->o 2: mug flight
+else buttons tracked
+end
+@enduml

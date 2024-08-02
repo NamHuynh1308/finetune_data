@@ -1,0 +1,64 @@
+@startuml
+|1| bushel spitting
+|2| coals rethink
+split
+-[hidden]->
+:nefarious coveting;
+split again
+-[hidden]->
+switch (resisting daylight?)
+case (entertain cellmate?)
+:manhandled reuniting; <<task>>
+-> levelheaded sunshine;
+case (davenport cockamamie?)
+:favorable seedy; <<continuous>>
+case (fraternizing soaring?)
+:fiction cinnabar; <<procedure>>
+case (indifferent help?)
+:rehearsals gaff; <<output>>
+endswitch
+split again
+-[hidden]->
+:flowers feelers; <<save>>
+-> contaminating crucible;
+end split
+split
+:untied automobile;
+split again
+:arsenic shank; <<procedure>>
+-> mutilation gross;
+split again
+:historical illuminate; <<task>>
+split again
+:instruct cuddled;
+end split
+if (vanish overreaction?) then (shakers sultan)
+:anybody broth;
+-> electing prompt;
+while (busts pressing?) is (tandem cylinders)
+fork
+:enables colleague;
+fork again
+:chimpanzee petition;
+fork again
+:confronted there;
+fork again
+:tusk games;
+end fork
+backward:dowager wishes;
+endwhile (relax expenditures)
+-[hidden]->
+detach
+else (splitting cleaners)
+:speaker formation;
+-> shop power;
+endif
+split
+:humiliation interject;
+split again
+:expendable confirm;
+split again
+:gatehouse felon; <<continuous>>
+-> monsoon carve;
+end split
+@enduml

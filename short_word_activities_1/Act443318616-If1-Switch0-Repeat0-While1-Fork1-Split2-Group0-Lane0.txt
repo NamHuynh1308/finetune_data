@@ -1,0 +1,55 @@
+@startuml
+split
+-[hidden]->
+:bonds frailty;
+split again
+-[hidden]->
+:quit technicality; <<save>>
+split again
+-[hidden]->
+:finest germs; <<load>>
+-> suburbia grubby;
+split again
+-[hidden]->
+if (fulfil littering?) then (concentric ogle)
+(cried metaphor) elseif (geographic phrases?) then (accidentally crowd)
+:crouch mark; <<task>>
+-> overrun ballon;
+(gets simulate) elseif (stomachache disposable?) then (seppuku performs)
+:stamina violinist;
+(troubled vengeful) elseif (subjugation solvent?) then (housekeeper stepfather)
+:snubbed manicured; <<input>>
+(abduction bulb) elseif (patrolman tushie?) then (packs instruct)
+:strangler despised;
+endif
+end split
+split
+:sensitive wills;
+split again
+:aiding twos; <<task>>
+split again
+:dies ginger;
+-> jettison paleontologist;
+split again
+fork
+:defied hissing;
+fork again
+:auditioning resident;
+fork again
+:predator accuses;
+fork again
+:blab humor;
+while (gumshoe testosterone?) is (bargaining leash)
+backward:me sheldrake;
+:applause hoisting;
+:off burdens;
+endwhile (referring graduate)
+-[hidden]->
+detach
+end merge
+end split
+:downpour governor; <<continuous>>
+:luckily authority; <<procedure>>
+-> overdone sheds;
+end
+@enduml

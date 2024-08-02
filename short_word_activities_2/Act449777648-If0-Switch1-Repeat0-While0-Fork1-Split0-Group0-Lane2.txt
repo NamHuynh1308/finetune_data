@@ -1,0 +1,30 @@
+@startuml
+|1| orthopedic officially
+|2| kicks tire
+|1|
+start
+|2|
+switch (fuzz messy?)
+case (temptations technological?)
+:zebra moan;
+case (crammed caught?)
+:shoulders sneezing; <<continuous>>
+case (technically drives?)
+:watch trailing; <<task>>
+-> means theaters;
+endswitch
+|1|
+:permission subjecting; <<save>>
+:acknowledgement pickpocket; <<input>>
+-> beard iceman;
+|2|
+:bob uncut; <<procedure>>
+-> aids teeny;
+fork
+:wide bluest;
+fork again
+:swelling splat; <<save>>
+fork again
+:dills soles; <<output>>
+end merge
+@enduml

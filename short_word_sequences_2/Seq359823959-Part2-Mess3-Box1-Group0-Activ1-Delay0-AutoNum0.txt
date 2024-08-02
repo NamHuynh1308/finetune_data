@@ -1,0 +1,11 @@
+@startuml
+participant "amongst giraffe" as 0
+box "shirts subtitle"
+participant "untimely damnedest" as 1
+end box
+== gel ti ==
+1 -->x 1: squeak disdain
+1 -// 1++ : billions scoff
+ [-> 0: elevation rusted
+return biohazard polygraph
+@enduml

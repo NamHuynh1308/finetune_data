@@ -1,0 +1,11 @@
+@startuml
+participant "parenthood woof" as 0
+== madame glitches ==
+autonumber 9 2
+0 -->x 0: ambulances compulsive
+0 -->x 0++ : diagnostician dinners
+create participant "clammed basil" as 1
+0 -> 1 : clammed basil
+1 --> 0: offends grown
+return warm kidding
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+|1| way bleak
+|2| moneys stylings
+|2|
+switch (velocity airborne?)
+case (us impressionable?)
+:spewing adjust; <<task>>
+-> centers dag;
+case (images prototypes?)
+:interns feminists;
+-> dosages selected;
+endswitch
+|1|
+:controlled mix;
+:crudely tenets; <<load>>
+:rod sculptor; <<procedure>>
+|2|
+:shins answers; <<save>>
+end
+@enduml

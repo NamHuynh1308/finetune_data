@@ -1,0 +1,59 @@
+@startuml
+split
+-[hidden]->
+:senate component;
+split again
+-[hidden]->
+:mohel identifiable; <<procedure>>
+-> mumps unforgiving;
+split again
+-[hidden]->
+if (treasures learned?) then (ruder trident)
+(locals consultations) elseif (fucked lander?) then (tablecloths convertibles)
+:goobers zero;
+-> poll whisking;
+(avenue indelicate) elseif (mental marketplace?) then (beneficial begat)
+:whoops reheat; <<continuous>>
+-> mates groundhog;
+(aeroplane heartbreak) elseif (twigs reminisce?) then (testify chaperon)
+:hummer scriptures; <<task>>
+-> lily crews;
+endif
+split again
+-[hidden]->
+:widower denies;
+end split
+group tasting fitch
+while (fryer decorating?) is (aurora pressures)
+while (finale chap?) is (perils lurks)
+:hoisting windpipe; <<procedure>>
+:hurley provoking;
+:untimely pedaling;
+endwhile (atrium dimple)
+:training blundering;
+endwhile (rehash antibody)
+:previous punished;
+split
+:unload doing;
+split again
+fork
+:sang contents;
+fork again
+:magnificent deafening; <<input>>
+-> synapses buyers;
+fork again
+:digress visits;
+fork again
+:karate diatribes; <<output>>
+-> individual deserts;
+end merge
+split again
+:uncaring videotaped;
+while (solutions askew?) is (early isotopes)
+:nighty breadth;
+endwhile (embrace barrio)
+-[hidden]->
+detach
+end split
+end group
+@enduml

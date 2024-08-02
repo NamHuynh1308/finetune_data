@@ -1,0 +1,11 @@
+@startuml
+box "screens forceful"
+participant "architect davy" as 0
+participant "living have" as 1
+end box
+1 -\\ 0: impolite humour
+alt infecting slender
+0 ->x 1: summertime mates
+0 -> 0: surf extracting
+end
+@enduml

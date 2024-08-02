@@ -1,0 +1,15 @@
+@startuml
+participant "inhabit soviets" as 0
+participant "package resist" as 1
+box "shawn likelihood"
+participant "irritated understatement" as 2
+end box
+1 ->> 0++ : renowned gassed
+create participant "meta remembrance" as 3
+1 -> 3 : meta remembrance
+break dolphin extremism
+...tore fragment...
+0 ->x 3: nylon ballistic
+return diazepam rippling
+end
+@enduml

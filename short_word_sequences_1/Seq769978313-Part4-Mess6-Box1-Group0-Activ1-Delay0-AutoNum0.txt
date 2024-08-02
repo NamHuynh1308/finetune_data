@@ -1,0 +1,16 @@
+@startuml
+participant "dato dibs" as 0
+participant "pester allegiances" as 1
+box "charades raving"
+participant "sticks hottest" as 2
+end box
+== whys dismantle ==
+0 -> 0++ : imperfection compadre
+ [<- 2: mines bonds
+1 ->o 0: bill ax
+return oodles viewpoint
+ [<- 1: remembrance blades
+create participant "indestructible dire" as 3
+2 -> 3 : indestructible dire
+0 ->> 0: menopause releasing
+@enduml

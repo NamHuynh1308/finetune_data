@@ -1,0 +1,19 @@
+@startuml
+box "goodwill enhancements"
+participant "charity reports" as 0
+box "loons erode"
+participant "paratroopers floorboards" as 1
+participant "wealthy autographed" as 2
+participant "incidence remarks" as 3
+end box
+end box
+autonumber 3 5
+3 -->x 2++ : aimless allegedly
+1 ->] : this charmer
+ [<- 0: matzah navy
+...invading seesaw...
+1 -->x 0++ : sniffed burritos
+autonumber stop
+return senses warmth
+return distracting involvement
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:concise disciples;
+split again
+-[hidden]->
+:toured empathic; <<save>>
+split again
+-[hidden]->
+:truckers nourishing;
+end split
+group liquid mildly
+:pocketful egg; <<continuous>>
+group necklaces blume
+:sparing poppy; <<input>>
+-> knowledgeable modeled;
+group pancake sweetbreads
+:fission sounds;
+stop
+end group
+end group
+end group
+@enduml

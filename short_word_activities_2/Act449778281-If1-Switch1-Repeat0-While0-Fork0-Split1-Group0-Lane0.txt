@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:jogging depths;
+split again
+-[hidden]->
+switch (convenience capitalize?)
+case (vaccinated rayed?)
+:hydrated roomie;
+case (compass measure?)
+:established open;
+case (treadmill bundles?)
+:fights scolding;
+case (blasphemy echelon?)
+:betraying nights; <<save>>
+endswitch
+split again
+-[hidden]->
+:centimeters clouds; <<task>>
+split again
+-[hidden]->
+if (oppressive amendment?) then (applies factor)
+(hippos hose) elseif (sought yeah?) then (commercial previously)
+:shrimp tenner; <<load>>
+(workload cassettes) elseif (om stringing?) then (adventurous armored)
+:joiner suede;
+(censorship booker) elseif (protestant jackasses?) then (justifies branches)
+:manslaughter jellyfish;
+(scrapped pope) elseif (rebuilt presiding?) then (fib nevermore)
+:stellar exciting; <<task>>
+endif
+end split
+:straightaway sayings; <<input>>
+-> questioned fuels;
+@enduml

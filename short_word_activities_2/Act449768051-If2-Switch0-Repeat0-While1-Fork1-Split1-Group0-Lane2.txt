@@ -1,0 +1,55 @@
+@startuml
+|1| state channeled
+|2| tussle humored
+split
+-[hidden]->
+:detrimental sickly;
+split again
+-[hidden]->
+:urethra anchors;
+split again
+-[hidden]->
+:department tankers; <<save>>
+end split
+|2|
+:fasting scintillating; <<load>>
+:lawyer prompt;
+|1|
+:scale messengers; <<input>>
+-> fore neutralized;
+|2|
+if (bored regulation?) then (rearranging explorers)
+(stray survives) elseif (mud either?) then (eyeliner iceberg)
+fork
+:windmills oddest;
+fork again
+:unattended premiere;
+fork again
+:consolidated honourable; <<task>>
+-> denning dilated;
+fork again
+:sitcom stationery; <<output>>
+-> stately hemlines;
+end merge
+(contract bachelorette) elseif (dine fraction?) then (scrapbook criminalistics)
+if (lotte thicker?) then (bedspread chooses)
+:strapping lifeline;
+-> hearty mom;
+while (sculptures attempted?) is (deserting boosters)
+:exaggerated cinder;
+:donate waiters;
+backward:stomp cashmere;
+:childhood leaning;
+endwhile (crop violin)
+-[hidden]->
+detach
+else (connecting bond)
+:pompous combing;
+:coitus dribbles; <<output>>
+kill
+endif
+(gage trespassed) elseif (faintest horsing?) then (hormone pregnancy)
+:pages blackout; <<task>>
+endif
+end
+@enduml

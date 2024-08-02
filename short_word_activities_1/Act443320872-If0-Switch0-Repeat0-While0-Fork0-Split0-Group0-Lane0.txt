@@ -1,0 +1,5 @@
+@startuml
+start
+:nut fuchsia; <<input>>
+-> misses seemed;
+@enduml

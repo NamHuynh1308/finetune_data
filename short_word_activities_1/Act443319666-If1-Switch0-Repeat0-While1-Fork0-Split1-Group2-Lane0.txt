@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:decorators clinic;
+split again
+-[hidden]->
+:full mugger;
+-> preyed thermostat;
+split again
+-[hidden]->
+:prognosis faithful; <<load>>
+end split
+group flan expanded
+:replacement rebellious; <<task>>
+group noticed steadfast
+:leader trust;
+-> heather affiliates;
+if (enabled borrowed?) then (misty theologian)
+(caterpillars adenoids) elseif (ti surrender?) then (sneaking drastically)
+:write mentions; <<procedure>>
+(balance veering) elseif (slapped blunders?) then (tenderness mum)
+while (further petrol?) is (oak blows)
+backward:consorting abrupt;
+:weed runny; <<save>>
+-> happen fallback;
+:extermination rehearsal;
+:quarry gallery;
+endwhile (epoxy cared)
+:winks eases;
+(accordingly quarrel) elseif (criterion embarrass?) then (juvenile cemetery)
+:brazil deadline;
+endif
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+group hunker teams
+:realizes rocks; <<input>>
+:digesting calculated; <<load>>
+-> psychoanalyze repay;
+stop
+end group
+@enduml

@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:keeled role;
+split again
+-[hidden]->
+:witty huddle; <<load>>
+split again
+-[hidden]->
+split
+:defied variety;
+split again
+:miscellaneous jughead;
+-> exists songwriter;
+split again
+:sobs hysterics;
+end split
+split again
+-[hidden]->
+while (stilettos lows?) is (alive mistook)
+:maximize strife;
+backward:discussion ordered;
+:screwing irrationally; <<load>>
+:men rapes; <<save>>
+endwhile (categories particularly)
+:floats drifter;
+end split
+group sanest loving
+:delinquency terra; <<continuous>>
+:loosen disabilities; <<output>>
+end group
+stop
+@enduml

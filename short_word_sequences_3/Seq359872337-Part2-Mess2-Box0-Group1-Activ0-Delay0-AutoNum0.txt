@@ -1,0 +1,9 @@
+@startuml
+participant "unconsciously lingers" as 0
+participant "throughway staring" as 1
+== growing muley ==
+0 -\\ 0: sicced thinning
+loop tickets interests
+0 ->> 0: lying pulse
+end
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+start
+group number innards
+:seg decent;
+-> blamed jingles;
+stop
+end group
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+box "merits tennis"
+participant "sociology maggot" as 0
+box "sarge electricians"
+participant "colin turds" as 1
+participant "hunters keel" as 2
+participant "contusion equation" as 3
+end box
+end box
+opt squadron belts
+0 -> 0: stalk tubby
+0 ->o 0: auld idiocy
+2 <-] : informant distillery
+...indeterminate giggly...
+3 -> 2!! : slacks nipped
+else fitter reach
+2 -// 0: genesis latrine
+else viva passionate
+end
+@enduml

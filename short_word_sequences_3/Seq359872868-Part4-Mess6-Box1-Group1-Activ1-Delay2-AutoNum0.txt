@@ -1,0 +1,20 @@
+@startuml
+participant "airfield demo" as 0
+participant "stormy obsessed" as 1
+box "spends pours"
+participant "goods pancakes" as 2
+participant "shown tattle" as 3
+end box
+== nifty shortness ==
+1 -> 0++ : grill fillings
+1 -->x 3: tenors gains
+...bookstore photographers...
+0 -> 2: cabaret evolutionary
+1 -> 2: hostility relative
+...ruthless erase...
+1 ->o 1: retained coeds
+critical maker wasteful
+2 -// 1: paltry updates
+end
+return tokens trains
+@enduml

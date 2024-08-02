@@ -1,0 +1,5 @@
+@startuml
+:sensing uncaring; <<save>>
+-> feasible becomes;
+stop
+@enduml

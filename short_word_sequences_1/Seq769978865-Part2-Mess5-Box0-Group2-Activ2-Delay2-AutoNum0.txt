@@ -1,0 +1,19 @@
+@startuml
+participant "repeated engine" as 0
+participant "flaky peninsula" as 1
+== teas boss ==
+alt improvements telepathically
+0 -> 1: tuxes wimps
+1 -> 0++ : interrogation marriages
+else manually choke
+...ups tacos...
+1 --> 1++ : concrete complains
+end
+0 ->] : disposing depths
+alt wipes copter
+...spinal norland...
+1 ->x 0: cryogenic reassigned
+end
+return mood significantly
+return impropriety periscope
+@enduml

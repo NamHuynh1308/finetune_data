@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:predictions crimp;
+split again
+-[hidden]->
+:endings genes; <<load>>
+-> holder chins;
+split again
+-[hidden]->
+:related suppose;
+-> gravest scruples;
+end split
+group trap stubbed
+:cocked kin; <<input>>
+-> transporting accusation;
+group nineties nightcap
+:endure inexperienced;
+group stormy tails
+if (speedboat deposition?) then (crumbs firelight)
+(stockbrokers relativity) elseif (deluxe crawls?) then (flea swizzle)
+:sanctum devastation; <<procedure>>
+(tinkle anvil) elseif (heaps diarrhea?) then (executives blossom)
+repeat
+backward:treatable fished;
+repeat while (vandalized responses?) is (mattered functions)
+-> unconsciously personals;
+endif
+stop
+end group
+end group
+end group
+@enduml

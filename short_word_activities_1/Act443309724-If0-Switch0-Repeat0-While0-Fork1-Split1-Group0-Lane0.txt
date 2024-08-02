@@ -1,0 +1,19 @@
+@startuml
+start
+:unsigned boombox;
+:significance entitles; <<output>>
+-> hunh odd;
+fork
+:paddling hazel;
+fork again
+:syllable slide; <<save>>
+fork again
+split
+:vying glop;
+split again
+:visceral obsessively;
+split again
+:tawdry forth; <<input>>
+end split
+end merge
+@enduml

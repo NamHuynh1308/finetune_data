@@ -1,0 +1,17 @@
+@startuml
+box "scenes lighten"
+participant "contain banned" as 0
+box "settled strip"
+participant "movie omelet" as 1
+end box
+end box
+1 -> 1: brewery pantyhose
+0 -// 0: massa swamps
+loop beamed drywall
+1 --//o 0++ : disappeared whimsy
+...meridian scepter...
+1 ->x 1++ : ambiance dated
+end
+return newspapers empirical
+return bayou unspoiled
+@enduml

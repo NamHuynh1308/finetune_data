@@ -1,0 +1,6 @@
+@startuml
+participant "terry gulf" as 0
+loop spectators studly
+0 -> 0: speculation distributing
+end
+@enduml

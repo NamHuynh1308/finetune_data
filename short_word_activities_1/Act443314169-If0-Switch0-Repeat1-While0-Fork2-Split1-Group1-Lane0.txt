@@ -1,0 +1,33 @@
+@startuml
+group deliberation licence
+repeat
+fork
+:disqualified nelson;
+fork again
+:impeccable destination; <<input>>
+fork again
+:plastered schnauzer;
+-> ken importer;
+end merge
+split
+:mating glad;
+split again
+:bobbin surpassed;
+split again
+:vocals synthesize;
+split again
+:buds miniature;
+end split
+fork
+:curfew freeman;
+fork again
+:clang renovations;
+fork again
+:tags disorders;
+end merge
+repeat while (spokesperson classes?) is (shortest tempers)
+:beaten downriver; <<output>>
+end group
+:preferences mesmerizing;
+-> profits panels;
+@enduml

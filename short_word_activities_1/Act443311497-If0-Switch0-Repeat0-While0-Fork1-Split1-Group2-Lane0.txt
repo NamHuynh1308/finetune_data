@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:kings amongst;
+split again
+-[hidden]->
+fork
+:boot underpaid;
+fork again
+:conning sleaze;
+fork again
+:zipping thirteen; <<load>>
+fork again
+:plugging glad; <<load>>
+end fork
+split again
+-[hidden]->
+:resentful yokel; <<load>>
+-> wage hon;
+end split
+group genius symbol
+:unfortunate violations; <<procedure>>
+group met chambers
+:roasted nephew;
+stop
+end group
+end group
+@enduml

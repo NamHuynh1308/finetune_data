@@ -1,0 +1,32 @@
+@startuml
+|1| wound tip
+|2| compensation quartet
+split
+-[hidden]->
+:gas layers;
+split again
+-[hidden]->
+:speeding del; <<procedure>>
+split again
+-[hidden]->
+switch (breathes motherhood?)
+case (squeezing exhilaration?)
+:relaxants watering; <<continuous>>
+-> pharmaceutical deep;
+case (bombing normally?)
+:tape buzz;
+case (troubadour echelon?)
+:decline scientific;
+-> admittance crease;
+case (deets nines?)
+:yards frequent;
+endswitch
+end split
+|2|
+:pollution vibrations; <<task>>
+:restrictions murmur;
+|1|
+:pees spatula; <<procedure>>
+:undone innovative;
+end
+@enduml

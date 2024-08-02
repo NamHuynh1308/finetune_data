@@ -1,0 +1,6 @@
+@startuml
+participant "sneak doorknob" as 0
+autonumber 0 6
+0 -> 0!! : electroshock sayonara
+ [-> 0: awareness learner
+@enduml

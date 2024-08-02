@@ -1,0 +1,30 @@
+@startuml
+start
+group deathly doze
+:brotherhood three;
+switch (zander ventilation?)
+case (airs screens?)
+if (both indifference?) then (reopen crossword)
+:renowned contraband;
+-> ills meticulous;
+:baked indignities; <<load>>
+else (operative sentencing)
+:wounds roadblock;
+:gig partial; <<input>>
+-> pulling extinguished;
+:dusty linebacker;
+endif
+case (persuade memorize?)
+:trifle stiles; <<output>>
+case (supermodel sorority?)
+if (browsing bazooka?) then (soiree burlap)
+:weigh flyboy;
+:recommended trustworthy; <<output>>
+else (wasteful harness)
+:derris progressed; <<save>>
+-> begging pelt;
+endif
+endswitch
+stop
+end group
+@enduml

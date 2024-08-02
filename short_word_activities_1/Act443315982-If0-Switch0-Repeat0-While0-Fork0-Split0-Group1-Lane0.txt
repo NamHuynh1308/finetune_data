@@ -1,0 +1,6 @@
+@startuml
+group gar existential
+:deported wonky; <<procedure>>
+stop
+end group
+@enduml

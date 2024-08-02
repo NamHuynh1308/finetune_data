@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:redress injuries;
+split again
+-[hidden]->
+if (array pot?) then (lilacs dailies)
+(eruption mayflower) elseif (buckshot alastor?) then (disciplinary similarity)
+:solo lapdog; <<continuous>>
+(subjective intimated) elseif (canter sockets?) then (honorary wrought)
+:odor jib;
+(pond glint) elseif (healthier speedily?) then (offenders ethnic)
+:drooled buds; <<procedure>>
+(question envelopes) elseif (biding commissioners?) then (grad regulation)
+:fingerprints resigning; <<task>>
+-> strides fags;
+endif
+split again
+-[hidden]->
+:grapefruit slowest; <<procedure>>
+-> blacked liege;
+end split
+fork
+:cinematic yen;
+fork again
+:print outdoors; <<load>>
+fork again
+if (gainfully small?) then (excessively goblet)
+:cassette vengeful;
+else (om hetero)
+:joseph wily;
+endif
+end merge
+stop
+@enduml

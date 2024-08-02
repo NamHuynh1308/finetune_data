@@ -1,0 +1,10 @@
+@startuml
+box "vocational meanness"
+participant "explosives warming" as 0
+box "contaminating stumbling"
+participant "tongues ghettos" as 1
+end box
+end box
+0 -\\ 1: bathing here
+0 -> 1: outwitted subterfuge
+@enduml

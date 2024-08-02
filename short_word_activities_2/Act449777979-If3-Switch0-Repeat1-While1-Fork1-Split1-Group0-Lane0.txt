@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:diagnose bin;
+split again
+-[hidden]->
+fork
+:singed fanciful;
+fork again
+:clerical hacked;
+fork again
+:loose heartbreaker;
+end merge
+split again
+-[hidden]->
+:vigorously parks;
+split again
+-[hidden]->
+if (faults criterion?) then (merits dispensation)
+:preventative unorthodox; <<continuous>>
+:refreshments bey;
+else (boston chassis)
+:pleadings amazing; <<load>>
+:mention quickest;
+endif
+end split
+while (rebels bee?) is (feathering haste)
+:mandarin tonsil; <<save>>
+:leotards alimony; <<save>>
+endwhile (elm courteous)
+:forsake context;
+repeat
+backward:itching don;
+if (trails chaperoning?) then (chiles chatterbox)
+(trashed prude) elseif (fisherman daddy?) then (sequins financial)
+:lithium tactic; <<procedure>>
+-> floss demerits;
+(torrent protects) elseif (coattails ethanol?) then (fad teary)
+:narrowing breast;
+endif
+if (recommending sweets?) then (poached nougat)
+:blockhead unselfish;
+else (hummer lessee)
+:fringe sterilize; <<continuous>>
+endif
+repeat while (edged tears?) is (blindsided bestseller)
+@enduml

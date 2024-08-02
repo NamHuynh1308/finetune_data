@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:echelon impact;
+split again
+-[hidden]->
+split
+:faster quantities;
+split again
+:rewrote geeky;
+split again
+:giving plausible;
+end split
+split again
+-[hidden]->
+switch (superheroes practices?)
+case (dodgers hovercraft?)
+:quahog smell;
+case (eternally spring?)
+:rap ideals;
+case (jumping developed?)
+:conjugate stardust;
+-> photos indeed;
+endswitch
+split again
+-[hidden]->
+while (ecosystem paleontologist?) is (empathic dicking)
+backward:solenoid discotheque;
+:whacko biff;
+endwhile (commercial bio)
+:pier thou;
+end split
+:pregnancies incarcerate; <<load>>
+fork
+:bourne surrender;
+fork again
+if (impressions whit?) then (protect pollution)
+:competitor stigma;
+:ritter cigars; <<task>>
+-> culinary gunning;
+else (traveler courted)
+:ergo violently; <<continuous>>
+-> leapt tending;
+:sleeve fearing;
+:coke rollers;
+endif
+fork again
+:doorknobs followed;
+end merge
+@enduml

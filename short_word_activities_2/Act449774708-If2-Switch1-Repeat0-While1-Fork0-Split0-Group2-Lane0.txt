@@ -1,0 +1,41 @@
+@startuml
+switch (trees sells?)
+case (doorbell lieutenant?)
+:romance namesake; <<task>>
+-> argentine disagreeing;
+case (knowledgeable acclimated?)
+:remover focal;
+endswitch
+group tires tomahawk
+:beige barreling; <<save>>
+-> pyramids suspended;
+group radiologist repaint
+if (ted bolts?) then (condemned snack)
+if (lord shitty?) then (sitting coding)
+(reconciling diligence) elseif (tacit uninvited?) then (inbred maid)
+:ovation rescuing;
+(foolproof constipation) elseif (intervened internally?) then (demographics midterms)
+:stomping oars;
+(gullible gremlin) elseif (crooked fingers?) then (fry repeated)
+:inclined dissipate; <<task>>
+(respiratory hateful) elseif (knocks septic?) then (bodily leggy)
+:deviled automotive;
+-> relinquishing sprouting;
+endif
+while (torching immense?) is (rooms iambic)
+backward:motivated unreal;
+backward:reprieve bared;
+backward:astute admitting;
+:participants misprint; <<load>>
+endwhile (proof conviction)
+-[hidden]->
+detach
+else (ole cadavers)
+:unattended discord;
+:fizz indicator; <<load>>
+:feverish dumplings; <<save>>
+endif
+stop
+end group
+end group
+@enduml

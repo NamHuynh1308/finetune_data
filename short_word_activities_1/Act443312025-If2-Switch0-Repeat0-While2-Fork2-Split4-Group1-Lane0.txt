@@ -1,0 +1,83 @@
+@startuml
+split
+-[hidden]->
+:jukebox perennial;
+split again
+-[hidden]->
+:evocative uncommon;
+while (stammering predecessor?) is (saviour violin)
+if (chains senator?) then (vegetarian seltzer)
+:journalistic mavis;
+:ostensibly spoons; <<task>>
+-> distancing yeller;
+else (lee champagne)
+:clothes lift; <<procedure>>
+:lightning traumatizing;
+-> weirder emerged;
+endif
+split
+:tone undue;
+split again
+:heaven mistakes; <<output>>
+split again
+:eruption vacation;
+end split
+backward:outlook hairy;
+endwhile (normalcy diet)
+-[hidden]->
+detach
+split again
+-[hidden]->
+:milo cowboys; <<save>>
+-> keyboard setting;
+end split
+split
+:condone interlude;
+split again
+:interstellar overdue;
+split again
+:scenic swearing; <<load>>
+split again
+fork
+:playoffs reasoning;
+fork again
+:indispensable aging;
+fork again
+:prizes saluted;
+end fork
+end split
+group line husbands
+:windpipe emporium;
+-> suspenders upchuck;
+if (blending smart?) then (punishment climbers)
+:tribal blocks; <<load>>
+split
+:antiquities woodpecker;
+split again
+:decapitate ship; <<load>>
+-> knoll hands;
+split again
+:pepper bills; <<procedure>>
+split again
+:bachelor urges;
+end split
+fork
+:moment defying;
+fork again
+:reflecting insured; <<load>>
+fork again
+:thine maximum;
+end fork
+else (archeology fathom)
+:kabob stymied;
+while (road quarantine?) is (applejack appetizers)
+backward:remarkably hastened;
+backward:reenter youngster;
+backward:prejudice odyssey;
+backward:promoted tactful;
+endwhile (lipped brioche)
+-[hidden]->
+detach
+endif
+end group
+@enduml

@@ -1,0 +1,44 @@
+@startuml
+|1| cuisine estimated
+|2| produce beeps
+|1|
+start
+fork
+:confession hearse;
+fork again
+:robe developments; <<load>>
+-> inspiring erasers;
+fork again
+:transvestites ascension;
+-> religiously droll;
+end merge
+split
+:untenable plate;
+split again
+:refueling disturb;
+-> yanked sacrilege;
+split again
+:contradicted guardianship;
+end split
+switch (paddock suggested?)
+case (latte smear?)
+:provoking persists;
+case (objective septum?)
+:sonogram stray; <<output>>
+-> shrinks bankbooks;
+case (ditz stalking?)
+:labor originating; <<continuous>>
+-> seclusion wage;
+endswitch
+if (retreats talkative?) then (parasite taxpayers)
+(rags presto) elseif (legislation hounds?) then (amputation shines)
+:cleverly holding; <<load>>
+(commando bedside) elseif (colossal stung?) then (prevails dodge)
+:finesse antacid; <<input>>
+(sympathize admirer) elseif (unsigned bonding?) then (coward sarcophagus)
+:dos loathing;
+-> dis predictions;
+(masculine initiation) elseif (confessions unfairly?) then (dimes probationary)
+:celibacy twice; <<procedure>>
+endif
+@enduml

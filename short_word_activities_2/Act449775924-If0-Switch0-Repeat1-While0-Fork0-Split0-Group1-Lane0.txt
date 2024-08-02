@@ -1,0 +1,9 @@
+@startuml
+repeat
+backward:artists reducing;
+repeat while (growing saucers?) is (everyone booths)
+group freeze diploma
+:hiccup estimation; <<output>>
+stop
+end group
+@enduml

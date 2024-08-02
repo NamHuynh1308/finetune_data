@@ -1,0 +1,7 @@
+@startuml
+participant "pests exits" as 0
+autonumber 1 7
+alt letting stubbed
+0 <-> 0: unfolding treatment
+end
+@enduml

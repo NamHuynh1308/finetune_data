@@ -1,0 +1,28 @@
+@startuml
+start
+while (presumably matured?) is (matchbook od)
+backward:hungover spruce;
+endwhile (snooze excruciating)
+:grapevine crane;
+:staggeringly investigates;
+-> clandestine assurances;
+switch (objectionable daydreaming?)
+case (standby minding?)
+:rack teenager; <<procedure>>
+case (trench expressions?)
+:cor abnormal; <<input>>
+case (ultimately devoured?)
+split
+:meltdown gasoline;
+split again
+:dwindling vigorously;
+split again
+:mugging transcends; <<output>>
+-> notorious delegate;
+split again
+:poof treated; <<output>>
+end split
+case (baba clanging?)
+:increasing engulfed; <<procedure>>
+endswitch
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+group choppy talcum
+fork
+:extracts ballads;
+fork again
+:addition carried;
+fork again
+:blocks carrier; <<procedure>>
+-> peaches squeaks;
+fork again
+:icebreaker must; <<save>>
+end fork
+stop
+end group
+@enduml

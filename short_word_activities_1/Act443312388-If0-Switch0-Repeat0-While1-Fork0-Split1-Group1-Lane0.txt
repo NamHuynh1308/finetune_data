@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:merits overpaid;
+split again
+-[hidden]->
+:tableau astral;
+-> paradigm festive;
+split again
+-[hidden]->
+:enforce hundredth; <<load>>
+split again
+-[hidden]->
+:rush architects; <<output>>
+-> modus elude;
+end split
+while (tenth jack?) is (reelected babysitter)
+backward:delinquent poking;
+backward:facilities cadet;
+endwhile (shrugged drafty)
+:adapted plant;
+group spices discounts
+:airlifted doses;
+stop
+end group
+@enduml

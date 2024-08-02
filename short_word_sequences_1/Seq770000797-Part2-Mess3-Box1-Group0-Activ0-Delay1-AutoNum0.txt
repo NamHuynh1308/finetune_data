@@ -1,0 +1,10 @@
+@startuml
+box "changing ose"
+participant "recycles far" as 0
+participant "thaw labeled" as 1
+end box
+ [-> 1: pentagon guardianship
+0 -> 1: enjoys overtures
+...sesterces speaks...
+ [-> 1: century menorah
+@enduml

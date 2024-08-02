@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:unsubstantiated conferences;
+split again
+-[hidden]->
+repeat
+:lint collected;
+repeat while (defy sauerkraut?) is (sugarcoat liking)
+split again
+-[hidden]->
+:cowboys seep; <<continuous>>
+-> absence nourishment;
+end split
+repeat
+:cued accumulation;
+repeat while (volcanic heather?) is (apocalyptic recombinant)
+stop
+@enduml

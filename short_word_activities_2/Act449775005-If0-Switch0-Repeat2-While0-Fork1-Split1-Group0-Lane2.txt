@@ -1,0 +1,36 @@
+@startuml
+|1| rehash corona
+|2| habits lifeguard
+split
+-[hidden]->
+:cancellations distorted;
+split again
+-[hidden]->
+:dangerous briefings;
+split again
+-[hidden]->
+:payoff darkroom; <<input>>
+-> flirt approval;
+split again
+-[hidden]->
+fork
+:juiced aright;
+fork again
+:summit throwing; <<task>>
+-> wits renewal;
+fork again
+:invite regiment;
+end merge
+end split
+|2|
+repeat
+:whiz roast; <<procedure>>
+repeat while (apprentice neurologist?) is (dismantling ideals)
+-> blends mano;
+repeat
+backward:blabbing radishes;
+repeat while (remains excite?) is (deemed masseur)
+:subterfuge least; <<save>>
+-> marches paternal;
+end
+@enduml

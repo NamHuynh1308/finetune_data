@@ -1,0 +1,79 @@
+@startuml
+|1| toothache grinder
+|2| croquet arrives
+split
+-[hidden]->
+:treaties acids;
+split again
+-[hidden]->
+repeat
+backward:directions spirited;
+:cartoonist fault;
+:pose medic; <<output>>
+-> tropics zeroes;
+repeat while (blinks elected?) is (cockney exorcise)
+-> cloths critics;
+split again
+-[hidden]->
+fork
+:inquiry him;
+fork again
+:forever flashes;
+fork again
+:mermaids virtue; <<output>>
+fork again
+:bouncy ravishing; <<load>>
+-> antiquated circumvent;
+end merge
+split again
+-[hidden]->
+:funk musicals;
+kill
+end split
+|2|
+:waiter white; <<continuous>>
+-> relaxants realise;
+switch (monopoly cubs?)
+case (raring tempting?)
+while (darkness prescriptions?) is (poachers soot)
+:radiation sweetie;
+endwhile (screws fido)
+:dip cucumber;
+case (firearms roomie?)
+:honeymoons gimlet;
+while (jammies forgot?) is (zippy oversensitive)
+backward:hellhole discoveries;
+if (ringing bonds?) then (vortex divorce)
+(distractions endearing) elseif (granted treat?) then (cauliflower criminal)
+:psych hmm; <<task>>
+(consisted sidekick) elseif (confidentially chessboard?) then (snowballs outsider)
+:inn extermination; <<input>>
+endif
+endwhile (garlic queer)
+-[hidden]->
+detach
+case (conservative clearly?)
+switch (likes deserved?)
+case (lavished flat?)
+:displaying firewood;
+case (safari bayonet?)
+:manipulated lantern; <<input>>
+-> responsibility tankers;
+endswitch
+endswitch
+:dorm stipulate; <<procedure>>
+-> established fragile;
+:balloon copperhead; <<procedure>>
+repeat
+switch (capitals yearnings?)
+case (enduring screwed?)
+:limping establishing;
+case (committees amulet?)
+:jazz tingling;
+case (contempt actions?)
+:sales dining; <<load>>
+endswitch
+:sinks ejection; <<continuous>>
+repeat while (roped profound?) is (stinger meant)
+stop
+@enduml

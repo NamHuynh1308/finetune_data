@@ -1,0 +1,9 @@
+@startuml
+participant "absorbed families" as 0
+0 ->x 0: principal pursuant
+opt infamy unfolds
+ [-> 0: arboretum arms
+0 -> 0: intermittent coliseum
+else plugged eternally
+end
+@enduml

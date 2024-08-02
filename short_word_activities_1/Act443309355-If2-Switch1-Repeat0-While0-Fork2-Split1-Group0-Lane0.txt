@@ -1,0 +1,60 @@
+@startuml
+start
+fork
+:slouch effecting;
+fork again
+split
+:vintage courtyard;
+split again
+:sniping remover; <<save>>
+split again
+:clan bluebells; <<save>>
+-> punchy speak;
+split again
+:pity pot;
+-> jitters land;
+end split
+fork again
+fork
+:forgetting negligence;
+fork again
+:honoring ringers;
+fork again
+:detected homely;
+fork again
+:strumpet chapter; <<task>>
+-> meathead uniformity;
+end merge
+fork again
+:tarts mailer;
+-> zippy hamsters;
+end fork
+if (juice demographic?) then (eternally century)
+(brow biologically) elseif (clucking encouragement?) then (uppity animals)
+:disfigured telescope; <<output>>
+-> rickety frantically;
+(runs derision) elseif (freshman berlin?) then (dangers umbilical)
+switch (sleepovers peanuts?)
+case (investing whacked?)
+:region glamor; <<continuous>>
+case (culinary cloven?)
+:dared trifle;
+case (dictated redress?)
+:spoke delivery;
+case (unspoiled shag?)
+:stewardesses sensuous;
+endswitch
+(glances kudos) elseif (advanced drivers?) then (nationally barlow)
+if (sheepskin treasure?) then (od admirers)
+(psychopath rolls) elseif (suffers toed?) then (battling stewardess)
+:soonest pales; <<procedure>>
+(when pheasants) elseif (flashlight pistachio?) then (articulate trunk)
+:deeply phew;
+endif
+(yell wigged) elseif (constitutes clamping?) then (regarded confetti)
+:four generate; <<save>>
+-> rather auditing;
+endif
+:coliseum resenting; <<output>>
+end
+@enduml

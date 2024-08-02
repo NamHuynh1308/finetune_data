@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:brag vaccinated;
+split again
+-[hidden]->
+:mingle chirping;
+-> crawling degrade;
+split again
+-[hidden]->
+:groaning hare; <<load>>
+split again
+-[hidden]->
+:faster sea;
+-> groceries shorthand;
+end split
+group gratifying restaurateur
+if (railroads penniless?) then (turkey menacing)
+(extraordinary commando) elseif (badder satchel?) then (reinforcement pads)
+repeat
+:roadies capote; <<task>>
+-> endure clocking;
+backward:terrestrial chocolatey;
+repeat while (rigging frequently?) is (splinters stampede)
+(migration fast) elseif (staffer issuing?) then (pacemaker exhumed)
+:pours spans;
+-> git peckish;
+endif
+stop
+end group
+@enduml

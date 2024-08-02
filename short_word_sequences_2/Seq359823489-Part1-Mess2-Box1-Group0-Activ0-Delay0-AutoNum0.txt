@@ -1,0 +1,8 @@
+@startuml
+box "upward hens"
+participant "most embassies" as 0
+end box
+== contemplating bombed ==
+0 <-] : swing psychically
+0 -> 0: voted cutlery
+@enduml

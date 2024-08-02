@@ -1,0 +1,27 @@
+@startuml
+participant "drafts leaflets" as 0
+participant "royal martinis" as 1
+box "spun dose"
+participant "diaries countess" as 2
+participant "current bicycle" as 3
+end box
+participant "subsidy marble" as 4
+4 -> 1: assembling diners
+...snuggle undoing...
+2 -> 1: workings deadbeats
+1 ->o 2++ : beaded tangle
+par nefarious gen
+4 -> 3++ : brags predictable
+opt chipper cranky
+2 ->> 1++ : prevention occupied
+ [-> 1: pleasuring mysticism
+return investors lost
+1 ->x 1: swede infinitely
+else recommendation library
+...bees specialize...
+ [-> 2: misunderstandings evaluate
+end
+end
+return trashes scampi
+return abort museum
+@enduml

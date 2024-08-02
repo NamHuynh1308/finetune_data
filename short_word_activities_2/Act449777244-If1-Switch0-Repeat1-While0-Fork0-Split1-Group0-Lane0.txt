@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:wife kindergartners;
+split again
+-[hidden]->
+:behold orders; <<input>>
+-> ambulances applying;
+split again
+-[hidden]->
+if (episode trump?) then (initiating fantasizing)
+:oh deliberately;
+-> green eucalyptus;
+else (flattered ill)
+:superiors torches; <<load>>
+endif
+end split
+repeat
+:tucked engaged; <<output>>
+repeat while (strokes college?) is (cottage doctor)
+end
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+box "teacup span"
+participant "generally puritanical" as 0
+box "invitation parlour"
+participant "trendy sirs" as 1
+participant "these sure" as 2
+end box
+end box
+0 ->> 2: revelation journeys
+ [<- 2: snagged christen
+opt hobble lin
+1 --//o 1: chloride compromise
+loop pleasing laundered
+0 -->x 0++ : diamonds reclining
+...stifler asteroids...
+1 -> 1: abnormality outlast
+end
+end
+return paraphernalia nurses
+@enduml

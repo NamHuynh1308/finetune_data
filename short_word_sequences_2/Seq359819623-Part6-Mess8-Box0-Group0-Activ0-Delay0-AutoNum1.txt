@@ -1,0 +1,21 @@
+@startuml
+participant "shingle jams" as 0
+participant "unfortunately severance" as 1
+participant "vantage robbery" as 2
+participant "heroics mister" as 3
+participant "mountaineer brains" as 4
+autonumber 2 4
+0 --//o 3: phases hun
+autonumber stop
+ [<- 1: cabins selectman
+1 -> 2: interject men
+create participant "transparent maria" as 5
+0 -> 5 : transparent maria
+autonumber resume
+ [-> 3: rappers gospel
+0 ->o 1: uneducated whiner
+2 --> 4: itches prejudicial
+autonumber stop
+4 -> 2: strobe diffusion
+autonumber resume
+@enduml

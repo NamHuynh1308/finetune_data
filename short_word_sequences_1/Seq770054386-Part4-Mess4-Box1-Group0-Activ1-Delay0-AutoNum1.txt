@@ -1,0 +1,16 @@
+@startuml
+box "docks tae"
+participant "dieting appendage" as 0
+participant "commonwealth uniforms" as 1
+participant "waltzing transmitters" as 2
+participant "deflower spiked" as 3
+end box
+autonumber 2 6
+2 -\\ 1++ : condemnation suing
+1 -> 2: criminalistics designed
+return costumes viva
+0 ->> 2: infra snuggling
+autonumber stop
+2 <-] : receipts contemporary
+autonumber resume
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:pyre cumin;
+split again
+-[hidden]->
+:confidential celebrated; <<continuous>>
+split again
+-[hidden]->
+:chalk zander;
+end split
+:frank seclusion; <<load>>
+-> mike threaten;
+@enduml

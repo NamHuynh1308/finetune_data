@@ -1,0 +1,7 @@
+@startuml
+start
+:mirror doodles; <<input>>
+:copperhead ins; <<input>>
+-> cadmium begs;
+end
+@enduml

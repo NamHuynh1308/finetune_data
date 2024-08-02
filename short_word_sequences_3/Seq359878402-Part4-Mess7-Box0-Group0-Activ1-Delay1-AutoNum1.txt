@@ -1,0 +1,18 @@
+@startuml
+participant "families yawn" as 0
+participant "revenue whiny" as 1
+participant "redskins midwestern" as 2
+participant "spells spilled" as 3
+== talked subject ==
+autonumber 2 5
+0 -> 1: scenic neurological
+0 -\\ 3: vowel sensation
+ [<- 3: frightened ash
+2 -> 3!! : grandstand goddaughter
+0 -> 2: glee maniacal
+0 -> 3: breakout mandrake
+autonumber stop
+...realizes duct...
+0 ->> 3++ : dears wheat
+return mama spectre
+@enduml

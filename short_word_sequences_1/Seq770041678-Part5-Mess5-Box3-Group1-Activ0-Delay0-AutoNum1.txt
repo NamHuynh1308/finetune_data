@@ -1,0 +1,22 @@
+@startuml
+participant "anew blockade" as 0
+box "revival lowly"
+participant "custody below" as 1
+box "deal calender"
+participant "tiramisu slung" as 2
+box "fraternity gelato"
+participant "commands heh" as 3
+end box
+end box
+end box
+autonumber 8 9
+1 ->o 3: gauging adequate
+2 <-] : immaturity chicano
+create participant "ultimately gate" as 4
+2 -> 4 : ultimately gate
+autonumber stop
+3 -> 1: logger flopped
+break realised exasperating
+3 <-] : pooch bolts
+end
+@enduml

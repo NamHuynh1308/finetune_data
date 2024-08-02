@@ -1,0 +1,15 @@
+@startuml
+participant "movement podium" as 0
+box "admonition sequins"
+participant "smithers modification" as 1
+end box
+== fairies sham ==
+0 -> 1: save chirp
+1 ->] : bandages birthdays
+loop brokenhearted myself
+...inducing shale...
+1 ->o 1: brawl sisterhood
+ [-> 0: dally mushroom
+else shank critters
+end
+@enduml

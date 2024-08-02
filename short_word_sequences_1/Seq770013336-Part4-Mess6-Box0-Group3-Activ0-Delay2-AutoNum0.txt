@@ -1,0 +1,21 @@
+@startuml
+participant "rampage makes" as 0
+participant "dolce insight" as 1
+participant "indefinitely platoon" as 2
+participant "hoopla neighbor" as 3
+critical rebel referee
+3 -// 1: dimensions albino
+opt hawking pixies
+3 ->> 2: upper gambling
+1 --> 0: plead minded
+else franklin forte
+par dearie tucker
+...puke mesmerized...
+0 -// 2: almighty jitters
+ [<- 2: opportunist sanitary
+...nativity fad...
+0 -// 3: mating rewriting
+end
+end
+end
+@enduml

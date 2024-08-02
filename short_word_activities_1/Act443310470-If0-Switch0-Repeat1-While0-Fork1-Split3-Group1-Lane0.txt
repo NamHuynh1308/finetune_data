@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:norm gizmos;
+split again
+-[hidden]->
+repeat
+backward:week philosopher;
+:blackboard vests;
+if (flack studios) then (clams invaluable)
+:dwelling needlessly;
+break
+endif
+->wringer substance;
+:shriek unpacking;
+:railing auditory;
+repeat while (caverns yap?) is (stretched cobwebs)
+-> plums absence;
+split again
+-[hidden]->
+:medicating blinking;
+end split
+split
+:finger phobias;
+split again
+fork
+:myths redecorating;
+fork again
+:stooge embarrassment; <<output>>
+fork again
+:mousse mother;
+end merge
+split again
+split
+:cameraman treads;
+split again
+:democrats rug; <<save>>
+split again
+:ordinarily strict;
+split again
+:loom albacore;
+end split
+split again
+:jamming forties; <<output>>
+end split
+group badgered leeway
+:setback spread;
+stop
+end group
+@enduml

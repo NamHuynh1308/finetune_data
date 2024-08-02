@@ -1,0 +1,9 @@
+@startuml
+participant "ensconced complaining" as 0
+0 --> 0: repository gunning
+0 -> 0: entering decline
+loop reproach quack
+create participant "schizoid distributing" as 1
+0 -> 1 : schizoid distributing
+end
+@enduml

@@ -1,0 +1,49 @@
+@startuml
+start
+group levels awaits
+if (strip sprinkle?) then (jellyfish shall)
+(mopping parallel) elseif (harshly why?) then (seating purse)
+:glue fields;
+(disadvantage awful) elseif (grins ballon?) then (limb turning)
+if (gal waddle?) then (bossing botanical)
+(substantially robots) elseif (signor ration?) then (shenanigans baroque)
+:bullheaded ditz;
+(patio telethon) elseif (lepers astound?) then (maxim rattlesnakes)
+:mirrors nosedive;
+(huckster bios) elseif (jaws bungalows?) then (irresponsible prudes)
+:liquor splash; <<task>>
+-> paddle meringue;
+(eloquence turds) elseif (cartel gluing?) then (forte creating)
+:oh chosen;
+endif
+(fillets kiddo) elseif (coveted writers?) then (stung anything)
+if (suave wheeler?) then (bummer reluctant)
+(stickup appreciated) elseif (calendar pesticides?) then (denominations plummeting)
+:spite skill; <<load>>
+(dialect pictured) elseif (eggshell proprietary?) then (perished striped)
+:theatres passionately;
+endif
+(taunted cannon) elseif (consistently eminently?) then (tablecloths graced)
+repeat
+:hijacking usher;
+repeat while (peel ineffective?) is (mallet curves)
+-> cathedral quirks;
+endif
+group targets optimism
+:geek setup; <<output>>
+-> droll refills;
+group lavender delude
+fork
+:egocentric sleeves;
+fork again
+:percent critic; <<task>>
+fork again
+:reap arboretum; <<output>>
+fork again
+:stapled skinny; <<input>>
+end fork
+stop
+end group
+end group
+end group
+@enduml

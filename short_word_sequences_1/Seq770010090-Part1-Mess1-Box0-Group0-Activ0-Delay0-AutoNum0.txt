@@ -1,0 +1,5 @@
+@startuml
+participant "nods intercom" as 0
+== creases straps ==
+0 ->o 0: suffers aims
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "halo dissolves" as 0
+== alternative sorcery ==
+autonumber 10 4
+0 -> 0: stressful sprung
+0 -// 0: enable felling
+autonumber stop
+@enduml

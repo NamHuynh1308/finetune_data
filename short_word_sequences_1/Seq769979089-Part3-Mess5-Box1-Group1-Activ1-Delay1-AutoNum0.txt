@@ -1,0 +1,16 @@
+@startuml
+participant "accolades renders" as 0
+box "charmingly hallucinogen"
+participant "lopper prized" as 1
+participant "wad terrestrial" as 2
+end box
+2 --> 1: wander hunky
+0 <-] : perch hymns
+1 -> 0++ : boggle eucalyptus
+1 -> 0: dreamless moil
+return blissfully speedo
+alt mysterious irregular
+...blinked noodles...
+0 ->] : superstar jaguars
+end
+@enduml

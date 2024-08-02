@@ -1,0 +1,17 @@
+@startuml
+start
+group goblin caring
+split
+:handout giblets;
+split again
+:appearance saint; <<save>>
+split again
+:dialogue limber; <<procedure>>
+split again
+:goo plagues; <<save>>
+end split
+:gladiators nominate; <<task>>
+-> sinus pearly;
+end group
+end
+@enduml

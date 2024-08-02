@@ -1,0 +1,73 @@
+@startuml
+split
+-[hidden]->
+:saber strange;
+split again
+-[hidden]->
+:revamp belly; <<load>>
+split again
+-[hidden]->
+repeat
+:grainy spackle; <<load>>
+repeat while (pick arf?) is (puzzling feasible)
+-> meters cucumber;
+end split
+:sprung belated;
+switch (heroes sabe?)
+case (bouts finer?)
+switch (copping confusing?)
+case (vary capsize?)
+:teleport coyote;
+case (melodrama mounds?)
+:civic bird;
+-> savvy terminated;
+case (dome firehouse?)
+:wires boomer;
+case (greasing apocalyptic?)
+:tweet marinate;
+-> electorate ordinates;
+endswitch
+case (gamble attic?)
+:highlighters coco;
+-> partly likeness;
+case (exquisitely drake?)
+fork
+:ensconced decree;
+fork again
+:tombstone recover; <<task>>
+fork again
+:intake prematurely; <<save>>
+fork again
+:alamo trifecta;
+end merge
+case (mat belittle?)
+fork
+:parishioners pious;
+fork again
+:benjamins grad; <<procedure>>
+fork again
+:booby heal;
+fork again
+:inhaler included;
+end fork
+endswitch
+split
+:drapes kilometer;
+split again
+:pensions whose; <<save>>
+split again
+:heaps administering;
+split again
+if (transvestites hay?) then (hypothetically spoons)
+(rowan caff) elseif (psyched ghoul?) then (torso moping)
+:gross clitoris;
+(basking incriminate) elseif (creamy machines?) then (morales stomachs)
+:viola ohm;
+(smiles fishing) elseif (quaint ged?) then (spelt infantile)
+:lubricants tile;
+(mighty juvenile) elseif (restrict luna?) then (thorpe dyke)
+:squiggly elusive; <<continuous>>
+endif
+end split
+end
+@enduml

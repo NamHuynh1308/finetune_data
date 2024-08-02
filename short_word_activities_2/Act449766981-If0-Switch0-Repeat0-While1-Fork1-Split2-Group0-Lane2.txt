@@ -1,0 +1,45 @@
+@startuml
+|1| spastic fireworks
+|2| rack beepers
+|1|
+start
+:li rebel; <<task>>
+-> gallivanting bane;
+|2|
+:streetwalker agitated;
+-> prophesied unadvisedly;
+|1|
+:ghost corrected;
+split
+:finances wallet;
+split again
+split
+:impressive glued;
+split again
+:amendment semblance; <<procedure>>
+split again
+:states messier; <<load>>
+-> savoring cramming;
+end split
+split again
+fork
+:settles sen;
+fork again
+:enterprising trash;
+fork again
+:complacent remarry;
+fork again
+:hoarse tokens;
+while (francs cuddle?) is (hollow translating)
+:lethal department;
+backward:electro crude;
+backward:kickback thermometer;
+endwhile (acupuncture hanky)
+-[hidden]->
+detach
+end merge
+split again
+:wiretaps braver;
+-> wasteful treasures;
+end split
+@enduml

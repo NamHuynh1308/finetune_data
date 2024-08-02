@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:barfed tipsy;
+split again
+-[hidden]->
+:cranial startup; <<continuous>>
+split again
+-[hidden]->
+split
+:stabilized mansion;
+split again
+:griffin sneaky; <<procedure>>
+-> ignoramus miracles;
+split again
+:illumination lashing; <<input>>
+split again
+:donation formal;
+end split
+split again
+-[hidden]->
+if (pottery ability?) then (resents diligence)
+:generosity subversive; <<input>>
+-> cube involving;
+else (ask try)
+:diligent remove;
+:lunching endlessly;
+kill
+endif
+end split
+switch (rosebuds primate?)
+case (emanates wrinkles?)
+split
+:normal overstep;
+split again
+:smirk crikey; <<task>>
+-> itchy prima;
+split again
+:leap completed;
+end split
+case (envision economical?)
+:hound governess; <<procedure>>
+-> daytime barman;
+case (perfume digested?)
+:indignant unwieldy; <<save>>
+-> entourage shelter;
+endswitch
+stop
+@enduml

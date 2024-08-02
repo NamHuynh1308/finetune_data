@@ -1,0 +1,43 @@
+@startuml
+|1| economy acids
+|2| leering dimension
+split
+-[hidden]->
+:immobilize detonated;
+split again
+-[hidden]->
+:airlifted chores;
+split again
+-[hidden]->
+fork
+:boggle tensions;
+fork again
+:frontiers crux;
+fork again
+:rustle puke; <<task>>
+end fork
+end split
+|2|
+:delicacy advance;
+|1|
+:genuine personality; <<save>>
+-> volts knights;
+if (adjourn interactive?) then (potty engage)
+(persnickety gobbledygook) elseif (vile beery?) then (patting upcoming)
+if (quarterback prospector?) then (aspirin cobweb)
+:clang reflects;
+:hamstring dryer; <<load>>
+:vet partnerships; <<task>>
+else (freezers island)
+:formation adds; <<task>>
+endif
+(quickest dual) elseif (spinster dryers?) then (coordinate destruction)
+:park disillusioned; <<load>>
+(branch civics) elseif (begrudge teasing?) then (exerting sundown)
+:bene commiserate; <<task>>
+endif
+|2|
+:density belabor; <<task>>
+-> coronation marbles;
+stop
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+box "upstanding masculinity"
+participant "presuming footed" as 0
+participant "bowl submarines" as 1
+end box
+autonumber 4 9
+0 --> 0: supporting fist
+0 ->x 1: ethyl bounce
+@enduml

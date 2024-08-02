@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:parlors testified;
+split again
+-[hidden]->
+:annulment douche; <<procedure>>
+split again
+-[hidden]->
+:delayed fitness;
+split again
+-[hidden]->
+:oncoming lighted;
+-> vacation weasels;
+end split
+:intimidated reinstating;
+-> wised terrorizing;
+group shotgun prosecutor
+:sought raring;
+stop
+end group
+@enduml

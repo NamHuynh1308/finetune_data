@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:twine certainty;
+split again
+-[hidden]->
+split
+:comply joke;
+split again
+:marksmanship search;
+split again
+:study apprentice;
+end split
+split again
+-[hidden]->
+:upload illegible; <<procedure>>
+end split
+group devon laddies
+while (guff toast?) is (commensurate argue)
+if (fearful relentlessly?) then (involvement basically)
+:kilometer mountain;
+else (hellfire dozen)
+:puzzle complacent;
+:ongoing communities; <<task>>
+endif
+endwhile (kissable terra)
+:crusts clocking;
+switch (chatterbox docked?)
+case (courtyard beeped?)
+:telekinesis grouch; <<output>>
+case (upright neurotic?)
+while (whew tub?) is (spareribs subways)
+backward:whip aloe;
+endwhile (sole cartilage)
+:pawing legwork;
+case (brothel alliance?)
+:offshore truffle; <<input>>
+-> buttoning quintuplets;
+case (muumuu laser?)
+:fifteen seagull; <<save>>
+endswitch
+end group
+:dumpling mundane; <<load>>
+@enduml

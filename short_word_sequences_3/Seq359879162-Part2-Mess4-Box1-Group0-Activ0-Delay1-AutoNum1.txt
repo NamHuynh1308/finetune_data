@@ -1,0 +1,15 @@
+@startuml
+participant "curriculum glassy" as 0
+box "welcomed patron"
+participant "cooked bears" as 1
+end box
+autonumber 7 10
+1 -> 0: slight libation
+0 ->] : associations provider
+autonumber stop
+ [-> 0: fallible torrent
+autonumber resume
+...horseback tablespoon...
+1 -->x 1: stimulated clip
+autonumber stop
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "muggy masons" as 0
+autonumber 3 6
+0 -// 0++ : desecrated beeswax
+par storeroom lance
+ [-> 0: chug thrusts
+return scouted exciting
+end
+@enduml

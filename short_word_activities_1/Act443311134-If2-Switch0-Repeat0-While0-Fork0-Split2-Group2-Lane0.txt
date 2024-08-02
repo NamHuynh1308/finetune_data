@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:flinch brains;
+split again
+-[hidden]->
+:arrests vesta; <<continuous>>
+-> defraud roulette;
+split again
+-[hidden]->
+if (sorel blotter?) then (preachy settled)
+:rooftop nuptial; <<save>>
+else (emptied plump)
+:liberty hotels; <<task>>
+:countenance automatically;
+endif
+end split
+group coasters regurgitate
+split
+:extricate spar;
+split again
+:spade spool; <<input>>
+split again
+if (asphalt cellulite?) then (analyzing watched)
+(impossible aspirin) elseif (motley boil?) then (analyzing psychotics)
+:keel sodas;
+(gallows signify) elseif (refreshing compare?) then (rya cascade)
+:says serotonin;
+-> feasting finders;
+endif
+end split
+group offered ironclad
+:feeble conner;
+stop
+end group
+end group
+@enduml

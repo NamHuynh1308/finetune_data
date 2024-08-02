@@ -1,0 +1,20 @@
+@startuml
+participant "undecided buckets" as 0
+participant "coffeehouse turned" as 1
+participant "location disappointed" as 2
+participant "rack pap" as 3
+autonumber 4 5
+3 -> 0: wilderness contra
+3 -> 1!! : string joined
+create participant "executions depriving" as 4
+1 -> 4 : executions depriving
+alt committees payoffs
+0 -->x 4: booze barracuda
+3 -> 2++ : budget daybreak
+3 --> 4: flicked description
+alt pedals hamburgers
+2 -> 3: sonics idols
+end
+end
+return molasses aria
+@enduml

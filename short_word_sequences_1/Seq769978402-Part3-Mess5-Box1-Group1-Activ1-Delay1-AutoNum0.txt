@@ -1,0 +1,17 @@
+@startuml
+box "curmudgeon narrative"
+participant "handprint loathes" as 0
+participant "mimes illness" as 1
+participant "behavior belts" as 2
+end box
+== beaver opening ==
+0 ->> 1: flour snoring
+0 -> 0: suffocating cosmopolitan
+opt granddaughters emptying
+...will terror...
+1 -->x 2: charged exit
+0 -> 0: brr fitter
+0 -> 0++ : trust complexities
+end
+return unzip broken
+@enduml

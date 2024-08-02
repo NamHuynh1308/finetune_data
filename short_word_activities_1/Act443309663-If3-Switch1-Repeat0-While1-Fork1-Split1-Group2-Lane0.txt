@@ -1,0 +1,68 @@
+@startuml
+split
+-[hidden]->
+:news lukewarm;
+split again
+-[hidden]->
+:fellow chino;
+-> astronaut form;
+split again
+-[hidden]->
+while (lighthouse superpower?) is (feedback radial)
+backward:dangers misinterpreted;
+endwhile (junk specter)
+:diagnosed awake;
+split again
+-[hidden]->
+:watery bedrock; <<task>>
+end split
+group sickening skis
+:pardon checkered; <<procedure>>
+if (ear kimono?) then (motley clique)
+(lollipops dissent) elseif (authorities continental?) then (benny relics)
+:biscuits elicit; <<task>>
+(offing wont) elseif (behind comb?) then (braved clip)
+:jocks world; <<procedure>>
+-> journeyed attracting;
+(obsolete pothole) elseif (exiting nub?) then (reforms dictates)
+if (gal pantaloons?) then (mergers horses)
+(cigarettes surfer) elseif (mailed conner?) then (trifling tact)
+:bites fend; <<load>>
+(signore promoting) elseif (pastrami meaty?) then (understatement discourteous)
+:oldest premonitions;
+-> bunch quest;
+endif
+(savagely slaughtering) elseif (shabbily idle?) then (monoxide uncover)
+switch (casserole kindly?)
+case (landing televised?)
+:training chaotic;
+case (excited nods?)
+:authentic dimensions;
+-> inroads crumbling;
+endswitch
+endif
+group numerous chanteuse
+fork
+:contrary furnished;
+fork again
+:unwind loom; <<input>>
+-> stormed mourned;
+fork again
+if (bargained averse?) then (behold vestibule)
+:casings pardons;
+:vaporized crafted;
+kill
+else (lopped es)
+:warhead sumo; <<continuous>>
+-> collapsed superheroes;
+:preamble cheer; <<procedure>>
+-> incomplete welding;
+endif
+fork again
+:motivational prod;
+-> theory dorms;
+end fork
+stop
+end group
+end group
+@enduml

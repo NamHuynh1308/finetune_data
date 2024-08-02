@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:shockingly tombs;
+split again
+-[hidden]->
+:periodic faxes;
+-> cuticles minded;
+split again
+-[hidden]->
+:condescending sitting; <<input>>
+split again
+-[hidden]->
+:pitchfork plantation; <<procedure>>
+end split
+:marksmanship catcher; <<continuous>>
+end
+@enduml

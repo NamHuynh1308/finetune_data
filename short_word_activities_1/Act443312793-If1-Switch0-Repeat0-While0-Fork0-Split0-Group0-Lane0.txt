@@ -1,0 +1,11 @@
+@startuml
+start
+if (graffiti sesterces?) then (tins sac)
+:carrying precise; <<load>>
+else (anthrax hesitated)
+:conk mesquite; <<task>>
+:adversely ghost;
+endif
+:bossy backfires;
+stop
+@enduml

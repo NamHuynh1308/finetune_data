@@ -1,0 +1,14 @@
+@startuml
+participant "slapped limit" as 0
+participant "reads whew" as 1
+== occasional passions ==
+autonumber 0 2
+ [-> 0: gunnery devours
+1 -> 1: deep fluke
+1 -->x 0: celebrated sentences
+...magnify stark...
+1 <-] : rope enable
+loop waterbed staked
+ [<- 0: ratty constraints
+end
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "blurb fine" as 0
+participant "share cramps" as 1
+participant "rattled chainsaws" as 2
+== apparent tote ==
+autonumber 1 9
+opt dispensers gracefully
+0 ->] : fries ordnance
+2 ->> 1: projectile redwood
+end
+1 -->x 1: mixup amicable
+create participant "awry specimen" as 3
+0 -> 3 : awry specimen
+opt undoubtedly dreamt
+2 ->x 3: facing disappearing
+ [-> 3: sociable compensation
+else pledge bloodsucker
+end
+@enduml

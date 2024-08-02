@@ -1,0 +1,25 @@
+@startuml
+participant "robins badge" as 0
+box "specialist bowled"
+participant "blond rangers" as 1
+end box
+== explore hangouts ==
+autonumber 1 1
+opt quiver controlling
+ [<- 1: fill quicker
+autonumber stop
+0 ->o 1: dozens stashed
+else vanishing shift
+1 ->x 1: desolate reinforced
+autonumber resume
+else cemetery preys
+...involving fashionably...
+0 -> 1: begun reassurance
+break mapped debacle
+0 ->> 1: comes down
+1 ->] : surging insincere
+autonumber stop
+else privilege indeterminate
+end
+end
+@enduml

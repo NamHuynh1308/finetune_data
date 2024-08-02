@@ -1,0 +1,66 @@
+@startuml
+split
+-[hidden]->
+:embroidered poster;
+split again
+-[hidden]->
+fork
+:biased stern;
+fork again
+:conducts portion;
+-> heats sporting;
+fork again
+:downsizing plumbing;
+fork again
+:goofing gazelle;
+end fork
+split again
+-[hidden]->
+while (typical yuppies?) is (spud medevac)
+:meant autumn;
+endwhile (fastball degeneration)
+:crashers jalopy;
+split again
+-[hidden]->
+:solar placing; <<load>>
+end split
+if (raider corporations?) then (bridesmaid monopoly)
+(missile prey) elseif (anon ectopic?) then (petty spasm)
+:bimbo overreact;
+-> lux ballgame;
+(spying snout) elseif (technicality accusation?) then (boxcar bach)
+:degrading fisted; <<load>>
+(arrogant living) elseif (rectify potency?) then (splinters confidentiality)
+switch (hesitation caters?)
+case (aforethought rebuilt?)
+:threaten skinny;
+case (grieve upkeep?)
+:graveyard mausoleum; <<load>>
+endswitch
+(eighteenth sublet) elseif (deluge histories?) then (enforcer similarities)
+:uncover cold; <<load>>
+-> prosciutto basements;
+endif
+switch (masseuse insight?)
+case (gangs lackeys?)
+if (letters quaking?) then (outdoor hiatus)
+:pox ballot;
+:candlelight glazer; <<load>>
+-> emotionally pinches;
+:overtime geographical;
+kill
+else (adult unimpressed)
+:descending stupidity;
+endif
+case (monk skateboard?)
+split
+:trotting colds;
+split again
+:strutting demon;
+split again
+:neatly schmoozing;
+-> perspectives zodiac;
+end split
+endswitch
+end
+@enduml

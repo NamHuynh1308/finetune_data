@@ -1,0 +1,34 @@
+@startuml
+participant "loosely cohesive" as 0
+participant "warn boat" as 1
+participant "mints canisters" as 2
+box "recrimination innkeeper"
+participant "barfing reptilian" as 3
+end box
+autonumber 10 4
+3 -->x 3: convict embezzler
+2 -> 0++ : gents test
+autonumber stop
+0 -> 1: printer harem
+return shanghai compel
+autonumber resume
+3 <-] : redecorating ransom
+autonumber stop
+opt bonding unzip
+2 -// 0: plan visitors
+autonumber resume
+loop registrar shifty
+...you chest...
+0 --//o 1++ : obsessively educator
+autonumber stop
+...whereabouts anointed...
+1 ->> 3: roosters horrors
+autonumber resume
+alt straws conditioned
+ [-> 1: relentless dam
+autonumber stop
+end
+end
+end
+return gaff flaunt
+@enduml

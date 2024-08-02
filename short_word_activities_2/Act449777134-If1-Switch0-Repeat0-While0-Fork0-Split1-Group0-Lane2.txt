@@ -1,0 +1,27 @@
+@startuml
+|1| scalpel thank
+|2| intervention nameless
+split
+-[hidden]->
+:sign brownout;
+split again
+-[hidden]->
+if (liberties repay?) then (blushing illicit)
+:variations onboard;
+kill
+else (electing sliced)
+:boogie rented;
+:things dermatologist;
+endif
+split again
+-[hidden]->
+:justifies ballpark;
+end split
+:its client; <<task>>
+|2|
+:leniency demanding;
+-> hangovers groom;
+|1|
+:varies faults; <<output>>
+-> reps lady;
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+box "deeply reassigning"
+participant "presses pretzel" as 0
+participant "homemaker barrister" as 1
+end box
+== brainwashed ottoman ==
+opt chauffeur splinter
+create participant "pardoned span" as 2
+1 -> 2 : pardoned span
+par fleshy located
+0 -> 0: poetry staked
+end
+end
+@enduml

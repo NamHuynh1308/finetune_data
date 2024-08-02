@@ -1,0 +1,18 @@
+@startuml
+box "envy meringue"
+participant "exerting sirree" as 0
+participant "earned birdseed" as 1
+end box
+participant "harboring finagle" as 2
+box "casts town"
+participant "chums lonesome" as 3
+end box
+2 --//o 1: nome splinters
+opt nimrod undesirable
+3 <-> 3++ : troll harriers
+0 <-] : preeclampsia hub
+end
+2 -> 3++ : inconsistencies rashes
+return campfire rumpus
+return tongue fountain
+@enduml

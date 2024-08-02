@@ -1,0 +1,7 @@
+@startuml
+group imminent detonators
+:providing citizen;
+:coon curtain; <<procedure>>
+stop
+end group
+@enduml

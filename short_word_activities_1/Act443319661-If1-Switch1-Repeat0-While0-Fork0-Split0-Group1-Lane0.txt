@@ -1,0 +1,20 @@
+@startuml
+group hm crook
+switch (selected copied?)
+case (subsidy blacked?)
+:fooling holing; <<task>>
+-> ringside ventriloquist;
+case (swivel attention?)
+if (syndicate smoked?) then (spoilsport deadbeats)
+(argued committee) elseif (shone characterizing?) then (dilute decontamination)
+:eldest chucks; <<procedure>>
+-> beastie puzzle;
+(backpacks tense) elseif (tanned skyscraper?) then (decor afternoons)
+:memorabilia charismatic;
+(skate average) elseif (derogatory foundations?) then (earful petitioning)
+:eliminated gall;
+endif
+endswitch
+stop
+end group
+@enduml

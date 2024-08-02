@@ -1,0 +1,84 @@
+@startuml
+split
+-[hidden]->
+:charismatic beneath;
+split again
+-[hidden]->
+fork
+:begun poly;
+fork again
+:phoned censured; <<task>>
+-> meathead survives;
+fork again
+:everglades unrelated;
+fork again
+:elsewhere modem; <<output>>
+-> smoother suit;
+end fork
+split again
+-[hidden]->
+fork
+:sighs dampener;
+fork again
+:scrap navigator;
+fork again
+:fears unable;
+end merge
+end split
+if (bathroom tendency?) then (culpable do)
+(mermaids corpse) elseif (juicy lookouts?) then (grasshopper graduation)
+:unmistakable exchanges; <<continuous>>
+(accomplish effective) elseif (fatality ducked?) then (bookish tor)
+fork
+:terminology indoor;
+fork again
+:volt exercise;
+fork again
+:flatterer communities;
+fork again
+:switchblade twice;
+kill
+end merge
+(vigil myrtle) elseif (minimize grants?) then (yakking orchestrating)
+:installments shortest; <<continuous>>
+-> pixies statues;
+(day specialise) elseif (psychosis chosen?) then (dragged nightstick)
+:bedbug to;
+-> florists melding;
+endif
+if (graphite charlie?) then (mutilated transponder)
+(keynote surfaced) elseif (expert condensation?) then (traipsing bums)
+if (marines wireless?) then (excuses dweeb)
+(defacing tacit) elseif (assisted coating?) then (gendarme turbine)
+:stool lake; <<load>>
+-> obey environmentalist;
+(premiere reactors) elseif (fouled tattoo?) then (fine widows)
+:aw tankers; <<continuous>>
+(acquitted miner) elseif (snap alderman?) then (pug hacker)
+:pushers occupations;
+endif
+(systematically numbered) elseif (decline leafy?) then (psychotherapy shackled)
+:clipboard doubt; <<input>>
+-> ambiguous animation;
+(admonished carried) elseif (freshly build?) then (swank communique)
+if (involved buds?) then (festivals pedestal)
+:discovering scholarship; <<continuous>>
+else (commissioners hoot)
+:leopard owl; <<save>>
+:footwear jar;
+:potion hopelessly;
+endif
+endif
+switch (selectman promising?)
+case (diabetes flunky?)
+:barrow towns; <<input>>
+case (restoring strut?)
+:dolled yearbooks; <<output>>
+-> commanders suspenders;
+case (piston tinsel?)
+:arugula armor;
+case (underestimated bold?)
+:sleazeball enforcing; <<task>>
+endswitch
+stop
+@enduml

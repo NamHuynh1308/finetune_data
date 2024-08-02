@@ -1,0 +1,10 @@
+@startuml
+start
+if (probe winnings?) then (hector eye)
+:drudge excellency; <<save>>
+else (worrisome tablecloth)
+:vulture complacent;
+:widen sacrificial; <<input>>
+:clotted pinata;
+endif
+@enduml

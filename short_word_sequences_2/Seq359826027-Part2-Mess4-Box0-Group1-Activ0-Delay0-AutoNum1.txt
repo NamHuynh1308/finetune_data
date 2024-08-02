@@ -1,0 +1,12 @@
+@startuml
+participant "probationary export" as 0
+== arrowhead graduate ==
+autonumber 5 5
+create participant "rebate emblem" as 1
+0 -> 1 : rebate emblem
+loop surfaced chessboard
+0 -> 1: plush downs
+ [<- 1: designation molars
+end
+1 ->> 0: dehydration racquet
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+start
+group mud sty
+:bursting spell;
+group glimpsed el
+switch (symbolize meddlesome?)
+case (disposition looking?)
+:witch outlive; <<load>>
+case (rubes layout?)
+:tapping restless;
+endswitch
+:baited mated;
+-> darkened accomplished;
+end group
+stop
+end group
+@enduml

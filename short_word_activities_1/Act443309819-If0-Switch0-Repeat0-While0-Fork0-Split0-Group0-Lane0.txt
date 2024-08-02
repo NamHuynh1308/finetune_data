@@ -1,0 +1,6 @@
+@startuml
+:experimenting financed; <<task>>
+:successes alumni; <<procedure>>
+-> crews bestow;
+stop
+@enduml

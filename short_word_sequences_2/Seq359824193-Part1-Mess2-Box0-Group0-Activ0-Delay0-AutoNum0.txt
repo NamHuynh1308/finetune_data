@@ -1,0 +1,5 @@
+@startuml
+participant "tanks bunnies" as 0
+0 -> 0!! : lessen fillings
+0 --//o 0: swears vulnerability
+@enduml

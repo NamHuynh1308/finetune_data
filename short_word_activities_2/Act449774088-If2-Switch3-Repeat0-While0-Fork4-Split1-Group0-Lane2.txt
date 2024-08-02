@@ -1,0 +1,96 @@
+@startuml
+|1| usher assumptions
+|2| intertwined jazz
+split
+-[hidden]->
+:gaff geriatric;
+split again
+-[hidden]->
+switch (stepping escaped?)
+case (rappers lingo?)
+:talent diversions; <<save>>
+-> outvoted meant;
+case (exigent protector?)
+:waterproof junkyard; <<output>>
+case (davenport os?)
+:sharpshooters thinners;
+case (respirations agree?)
+:gold labour;
+endswitch
+split again
+-[hidden]->
+fork
+:gathering shelling;
+fork again
+:demonstration correctly;
+fork again
+:inverted biz;
+fork again
+:poorer signaling;
+end merge
+end split
+|2|
+:manicures effeminate;
+-> feces wand;
+|1|
+:maddening lore; <<procedure>>
+|2|
+switch (autopsy hosting?)
+case (mated freak?)
+if (abductions mosey?) then (mumbled notation)
+(moving clip) elseif (pools clitoris?) then (cocktails discoveries)
+:olives eventual; <<task>>
+(servant identify) elseif (organise nuke?) then (symmetrical entails)
+:tomcat scan; <<task>>
+-> cubic where;
+endif
+case (highway distressing?)
+:counting defend; <<continuous>>
+case (entails chewing?)
+:insipid otherworldly; <<task>>
+case (fess bloodsucker?)
+switch (satire longitude?)
+case (laser pianos?)
+:tent whiteness; <<load>>
+case (unrealistic cocoa?)
+:conductor gill; <<task>>
+-> vocation weight;
+endswitch
+endswitch
+|1|
+:precocious braces; <<input>>
+-> encyclopedia sustain;
+if (implants frauds?) then (devices users)
+fork
+:preschool memos;
+fork again
+:advertisement pitching;
+fork again
+:frog scaled;
+fork again
+:headlining thee;
+end merge
+:multiples salted; <<continuous>>
+fork
+:syphilis dwellers;
+fork again
+:cleanliness titty; <<continuous>>
+fork again
+:unicorn republic; <<continuous>>
+-> mesmerized squiggle;
+fork again
+:adds couture;
+end fork
+else (rialto completed)
+fork
+:butted morons;
+fork again
+:heads transporting;
+-> fourteenth lapsed;
+fork again
+:burgess duce; <<continuous>>
+-> imitating dragonfly;
+end fork
+endif
+end
+@enduml

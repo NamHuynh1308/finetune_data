@@ -1,0 +1,18 @@
+@startuml
+participant "watchman calendars" as 0
+participant "glutton fountains" as 1
+box "gas disallowed"
+participant "punctuation irons" as 2
+end box
+== foreign dwarfs ==
+autonumber 6 0
+0 --//o 2: riddance perks
+autonumber stop
+2 -\\ 2: more lots
+autonumber resume
+loop cooked loyalty
+...plop rusty...
+1 -> 2: hic hong
+autonumber stop
+end
+@enduml

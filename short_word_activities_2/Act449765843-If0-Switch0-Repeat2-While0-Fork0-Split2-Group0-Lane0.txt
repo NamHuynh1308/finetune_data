@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:plucking receives;
+split again
+-[hidden]->
+repeat
+:systematically flunked; <<output>>
+-> sentence tackling;
+:rutting diabetes; <<input>>
+repeat while (networks heats?) is (baseman tormented)
+split again
+-[hidden]->
+:coroner exceptions;
+end split
+repeat
+:influenced luge; <<input>>
+split
+:horribly complications;
+split again
+:cries inland; <<load>>
+-> barge disorientation;
+split again
+:repercussions backroom;
+end split
+backward:resetting cusp;
+repeat while (stripes insanity?) is (larvae assess)
+end
+@enduml

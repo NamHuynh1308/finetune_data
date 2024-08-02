@@ -1,0 +1,22 @@
+@startuml
+box "artistic dot"
+participant "together swatch" as 0
+participant "glittering ultimatum" as 1
+participant "offensive ozone" as 2
+end box
+autonumber 2 6
+0 -// 1: nurses scouting
+opt author solitaire
+ [<- 2: conveyor shrink
+autonumber stop
+loop urgency pioneer
+1 <-> 1++ : envied lodged
+autonumber resume
+2 -->x 0: socialized considerably
+autonumber stop
+0 <-> 1: vixen dorm
+autonumber resume
+end
+end
+return divorced treatment
+@enduml

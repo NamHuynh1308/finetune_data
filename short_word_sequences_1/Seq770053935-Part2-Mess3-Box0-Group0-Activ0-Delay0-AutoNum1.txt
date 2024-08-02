@@ -1,0 +1,9 @@
+@startuml
+participant "gault pelvic" as 0
+participant "humpback insignia" as 1
+autonumber 10 9
+0 <-> 0: physicals trig
+ [<- 1: accepts peckish
+autonumber stop
+1 --> 0: radio entrenched
+@enduml

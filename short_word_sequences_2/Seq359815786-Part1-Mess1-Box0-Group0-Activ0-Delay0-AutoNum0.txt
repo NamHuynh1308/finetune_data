@@ -1,0 +1,4 @@
+@startuml
+participant "peddle catch" as 0
+ [<- 0: starting margaritas
+@enduml

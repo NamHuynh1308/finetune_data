@@ -1,0 +1,15 @@
+@startuml
+participant "marches biased" as 0
+participant "yanks disguise" as 1
+box "gulch applications"
+participant "unparalleled adjourn" as 2
+participant "scarce malfunctions" as 3
+end box
+create participant "commencing crated" as 4
+0 -> 4 : commencing crated
+ [-> 4: picky diets
+1 -\\ 2: containers bullpen
+4 ->> 3: exclusion solitary
+...inappropriately natives...
+3 -\\ 0: wind republicans
+@enduml

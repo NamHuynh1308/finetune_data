@@ -1,0 +1,9 @@
+@startuml
+participant "spokesman landslide" as 0
+autonumber 10 2
+alt coach hollers
+0 ->> 0: pies at
+autonumber stop
+0 ->] : shockingly discounts
+end
+@enduml

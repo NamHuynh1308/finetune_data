@@ -1,0 +1,25 @@
+@startuml
+start
+group anaesthetic leaning
+:pads evasions; <<continuous>>
+:bearded cobra;
+-> discord cannonball;
+end group
+group suspicious conn
+fork
+:operations overestimated;
+fork again
+switch (vast disheartening?)
+case (twenty payable?)
+:highball glucose; <<continuous>>
+case (respectively nametag?)
+:triangle gazelle;
+case (troop antibody?)
+:counted strangeness; <<load>>
+endswitch
+fork again
+:disrespecting fallen;
+end fork
+stop
+end group
+@enduml

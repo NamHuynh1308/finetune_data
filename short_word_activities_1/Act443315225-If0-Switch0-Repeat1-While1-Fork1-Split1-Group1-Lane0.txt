@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:giants dollars;
+split again
+-[hidden]->
+:hunched stomach; <<task>>
+-> sidekicks popped;
+split again
+-[hidden]->
+repeat
+:antibiotics heartbeat;
+:misconceptions forgives; <<procedure>>
+repeat while (instinct ampicillin?) is (embezzle greet)
+end split
+fork
+:disrupts cooking;
+fork again
+:skit controls; <<procedure>>
+-> supper loony;
+fork again
+while (cad perpetual?) is (rewriting thoroughly)
+:cup rouge; <<procedure>>
+endwhile (windpipe seltzer)
+:trading humour;
+fork again
+:adjusting borders;
+end fork
+group graphite blotter
+:videotapes pajama; <<load>>
+stop
+end group
+@enduml

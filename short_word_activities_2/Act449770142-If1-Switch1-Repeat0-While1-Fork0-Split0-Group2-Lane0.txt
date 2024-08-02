@@ -1,0 +1,29 @@
+@startuml
+start
+switch (afflicted applauding?)
+case (warms cheekbones?)
+:indecision chevy; <<save>>
+case (defined viewers?)
+if (tasting fries?) then (righto tux)
+(sear tit) elseif (rewind patched?) then (dedication uneventful)
+:intervening teetering;
+(regent dominick) elseif (mumbled dodge?) then (jobs especially)
+:bended si; <<input>>
+-> wounded wracking;
+(deprived martial) elseif (bogs polish?) then (assurance explained)
+:shift cancellations;
+-> pubic mentions;
+endif
+endswitch
+group cleansed supposition
+while (spite sneakers?) is (shorted open)
+:elm repairman; <<output>>
+-> reflex reflect;
+endwhile (gone ballerina)
+:crimp plateaued;
+group comfortable construct
+:curves mop; <<task>>
+stop
+end group
+end group
+@enduml

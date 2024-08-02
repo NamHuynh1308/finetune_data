@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:worded pianos;
+split again
+-[hidden]->
+:hexes adolescents;
+split again
+-[hidden]->
+split
+:heightened outlaw;
+split again
+:underage divorce; <<save>>
+split again
+:scotia legs; <<procedure>>
+-> flicker diseases;
+end split
+split again
+-[hidden]->
+:owl storeroom; <<load>>
+end split
+:ford fewer; <<task>>
+end
+@enduml

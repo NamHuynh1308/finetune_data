@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:heady ranking;
+split again
+-[hidden]->
+repeat
+:coating revoked;
+repeat while (ties unconcerned?) is (ponies impediment)
+split again
+-[hidden]->
+switch (shields listeners?)
+case (vibrant fall?)
+:daydreaming platitudes;
+case (embedded reform?)
+:compulsion taxpayers; <<load>>
+-> iron extinguish;
+case (donut molest?)
+:jumpy jumps; <<input>>
+endswitch
+end split
+:right poltergeist; <<procedure>>
+:subtle miraculous; <<input>>
+if (torch distracted?) then (shortly torching)
+(terrifying downside) elseif (kidnapping alumni?) then (sutures reconnected)
+:pipes apache;
+-> sheep utterly;
+(hails flattered) elseif (pipes hungry?) then (obliterated frustration)
+fork
+:bets hopping;
+fork again
+:colors vasectomy;
+fork again
+:civics symmetrical; <<save>>
+end merge
+(compartment sugary) elseif (credentials spot?) then (stanza luv)
+:epsilon pickles; <<task>>
+endif
+@enduml

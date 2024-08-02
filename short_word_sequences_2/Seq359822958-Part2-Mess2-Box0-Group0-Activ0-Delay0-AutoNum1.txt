@@ -1,0 +1,7 @@
+@startuml
+participant "brushes mincemeat" as 0
+participant "varnish ours" as 1
+autonumber 7 5
+0 -->x 0: unsatisfied boning
+ [-> 1: drones divulged
+@enduml

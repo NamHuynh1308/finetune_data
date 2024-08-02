@@ -1,0 +1,22 @@
+@startuml
+start
+fork
+:complimentary stink;
+fork again
+fork
+:grosser standoff;
+fork again
+:donors rapture; <<continuous>>
+fork again
+:info investigate;
+fork again
+:pulling match;
+end merge
+fork again
+:kat rudimentary; <<procedure>>
+-> linger selfishly;
+end merge
+:swordfish advocate; <<load>>
+-> mo ministry;
+end
+@enduml

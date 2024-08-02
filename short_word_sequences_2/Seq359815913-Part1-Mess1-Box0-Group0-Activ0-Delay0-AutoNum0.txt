@@ -1,0 +1,5 @@
+@startuml
+participant "unsatisfied menage" as 0
+== enhanced ruse ==
+0 ->o 0: zoned nations
+@enduml

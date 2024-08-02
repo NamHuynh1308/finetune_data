@@ -1,0 +1,27 @@
+@startuml
+participant "bayonet margin" as 0
+box "urged breathing"
+participant "sleepyhead marzipan" as 1
+participant "scouted supplied" as 2
+end box
+== broody driveways ==
+autonumber 10 10
+0 -> 1++ : flaring defected
+opt behave pheromones
+1 ->o 0++ : bats truth
+0 <-] : sexy piranhas
+return undertaking accomplishments
+break dorm pointers
+...potting ballerina...
+2 -> 2!! : rubies brightly
+return alternating moxie
+autonumber stop
+0 -->x 2: acquaint aura
+autonumber resume
+else commando prance
+...welts strangling...
+2 -// 2: scattered advising
+autonumber stop
+end
+end
+@enduml

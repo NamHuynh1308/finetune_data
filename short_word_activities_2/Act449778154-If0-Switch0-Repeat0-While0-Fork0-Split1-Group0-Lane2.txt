@@ -1,0 +1,18 @@
+@startuml
+|1| un smeared
+|2| concluded controlled
+|2|
+split
+:filibuster vino;
+split again
+:sitcom newsstand;
+split again
+:policy cupboard; <<procedure>>
+-> scanners birch;
+end split
+:fistful underwater;
+|1|
+:awakened whims; <<output>>
+:reforms sacrament; <<input>>
+end
+@enduml

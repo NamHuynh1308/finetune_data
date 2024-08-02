@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:departure dui;
+split again
+-[hidden]->
+if (divvy magnificence?) then (hallways geologists)
+:stationed giants; <<input>>
+-> accompany trickle;
+:baton courage;
+-> clergyman diversion;
+else (assumes tweedle)
+:intentionally hasty;
+:frightful suck;
+kill
+endif
+split again
+-[hidden]->
+:savour bells;
+end split
+group deadlock mortgage
+:insulting reluctant; <<load>>
+-> authorization banish;
+group teammate bouncing
+:smug subtitled; <<input>>
+-> kahuna quality;
+if (he judges?) then (demoted oval)
+(swamp accusers) elseif (guerilla merl?) then (squeegee thunder)
+:determined comparable; <<input>>
+-> thief rub;
+(quince lumps) elseif (onto convert?) then (incidentally mountaintop)
+:herb knack; <<procedure>>
+endif
+end group
+stop
+end group
+@enduml

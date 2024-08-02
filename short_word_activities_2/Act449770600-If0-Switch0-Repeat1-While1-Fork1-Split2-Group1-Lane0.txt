@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:barrel mercer;
+split again
+-[hidden]->
+:rationalize stocks; <<save>>
+split again
+-[hidden]->
+:graphic tread;
+-> tommy logged;
+split again
+-[hidden]->
+:summon increased; <<task>>
+end split
+fork
+:fabric hi;
+fork again
+split
+:runt geriatric;
+split again
+:spurred feller;
+split again
+:staging slinking;
+end split
+fork again
+:tallest assassination;
+fork again
+:earring apartment;
+-> craftsmanship roles;
+end merge
+group overseas dowager
+repeat
+while (breast golden?) is (bragged salary)
+:endured identities; <<load>>
+-> groom modest;
+:strive mathematically; <<procedure>>
+-> trickery coppers;
+endwhile (eyesight plump)
+:plains consumer;
+repeat while (neighboring disagreeing?) is (shape surging)
+-> gold knocker;
+stop
+end group
+@enduml

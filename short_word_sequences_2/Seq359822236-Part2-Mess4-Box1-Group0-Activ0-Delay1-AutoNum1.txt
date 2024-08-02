@@ -1,0 +1,13 @@
+@startuml
+box "bays funeral"
+participant "walks short" as 0
+participant "younger hypochondriac" as 1
+end box
+== document vermeil ==
+autonumber 4 5
+0 ->> 0: rambling criminology
+0 ->o 1: straightening cerebrum
+0 -// 1: stampede drafting
+...spleen shortsighted...
+0 -\\ 1: interrogations airmen
+@enduml

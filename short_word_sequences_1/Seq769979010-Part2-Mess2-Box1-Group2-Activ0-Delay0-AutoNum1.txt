@@ -1,0 +1,14 @@
+@startuml
+box "sail starving"
+participant "misread abilities" as 0
+participant "visor tapas" as 1
+end box
+autonumber 8 1
+critical insatiable nothings
+1 ->> 0: aura inflate
+critical tellers daiquiri
+1 ->x 0: sleigh leeway
+autonumber stop
+end
+end
+@enduml

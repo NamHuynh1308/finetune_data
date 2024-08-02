@@ -1,0 +1,34 @@
+@startuml
+start
+split
+:casualties mothballs;
+split again
+fork
+:biochemistry clockwise;
+fork again
+:bushes album;
+fork again
+:undergone salvaged;
+end merge
+split again
+:partnership emergency;
+-> bloke tedious;
+split again
+if (stalked entrance?) then (imbecile hereby)
+:hikers groovy; <<load>>
+:wad database; <<output>>
+-> uneducated rainy;
+else (holdings expenses)
+:highest pour;
+-> tiptoe comic;
+:brooding plaintiff;
+while (deploy forest?) is (deprecating watched)
+:gears rec;
+-> qualifies hacker;
+endwhile (baptism facets)
+-[hidden]->
+detach
+endif
+end split
+end
+@enduml

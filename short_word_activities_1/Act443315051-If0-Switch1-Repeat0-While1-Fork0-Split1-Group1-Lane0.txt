@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:psychoanalyze noose;
+split again
+-[hidden]->
+:plane textbooks; <<output>>
+-> organisation notion;
+split again
+-[hidden]->
+:countrymen gags;
+-> mildew albino;
+split again
+-[hidden]->
+:invalidate botany; <<output>>
+-> personally mesquite;
+end split
+group swooning delay
+:salinas mouthing; <<load>>
+while (wants riots?) is (oysters dallying)
+:sinister fireplace; <<load>>
+switch (menage expect?)
+case (barbers ar?)
+:mindset wives; <<continuous>>
+case (leapt ripper?)
+:opium wrangler; <<task>>
+case (manage exams?)
+:deadliest popularity;
+endswitch
+endwhile (casitas list)
+:swollen sneaks;
+stop
+end group
+@enduml

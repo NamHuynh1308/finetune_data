@@ -1,0 +1,8 @@
+@startuml
+box "mortified reconciling"
+participant "virtue valor" as 0
+end box
+alt knuckle loosely
+0 -> 0: pyrotechnics dapper
+end
+@enduml

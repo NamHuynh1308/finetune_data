@@ -1,0 +1,14 @@
+@startuml
+fork
+:bollocks shoe;
+fork again
+:doth khan; <<continuous>>
+fork again
+:incarceration piper;
+kill
+fork again
+:nee pizzas; <<input>>
+-> abandonment homes;
+end fork
+end
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:display hormonal;
+split again
+-[hidden]->
+:rains humid;
+-> fondle procured;
+split again
+-[hidden]->
+fork
+:taxicab camp;
+fork again
+:pool uncuff; <<save>>
+fork again
+:verbal newborns;
+end merge
+split again
+-[hidden]->
+:tougher snob; <<procedure>>
+end split
+:feeders compromised; <<continuous>>
+end
+@enduml

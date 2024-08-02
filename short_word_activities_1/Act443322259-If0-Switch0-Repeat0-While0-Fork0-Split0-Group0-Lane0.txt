@@ -1,0 +1,6 @@
+@startuml
+start
+:verge freer; <<save>>
+-> issuing frequency;
+stop
+@enduml

@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:squirts bulletins;
+split again
+-[hidden]->
+:mu alone; <<continuous>>
+split again
+-[hidden]->
+switch (persistence shutting?)
+case (lar jamming?)
+:watched silver;
+case (spate governor?)
+:paddle giddyup;
+case (slow batch?)
+:malfunctioning freezes; <<procedure>>
+case (motto jumps?)
+:calender pimping; <<continuous>>
+endswitch
+end split
+split
+:unprepared sump;
+split again
+:lore worrying;
+split again
+if (deets unforeseen?) then (backgammon cathartic)
+(ah godliness) elseif (nasal ballroom?) then (spend dispensation)
+:butch skate;
+(crush flush) elseif (ovulating spaghetti?) then (winged roasted)
+:cubes socket;
+endif
+end split
+group weirdoes surgically
+fork
+:inclined dripping;
+fork again
+:inseparable interrupted; <<procedure>>
+fork again
+switch (colonization dart?)
+case (seat handsomest?)
+:exciting tippers;
+while (psychological junkyard?) is (implication spank)
+:mechanism impression;
+endwhile (shackle regulation)
+-[hidden]->
+detach
+case (sweeping tropics?)
+:rider operate;
+case (dinosaurs mattresses?)
+:feeders poaching;
+case (compelling lodgings?)
+:ovulating preoccupied; <<output>>
+endswitch
+end fork
+stop
+end group
+@enduml

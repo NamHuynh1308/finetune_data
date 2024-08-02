@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:sprinklers debt;
+split again
+-[hidden]->
+:rear discontinue; <<save>>
+split again
+-[hidden]->
+if (movies patriots?) then (hicks aargh)
+:sailors clicking;
+else (favoritism preserves)
+:honourable stupider;
+:vegetarian mistakes;
+:negligee camel;
+kill
+endif
+end split
+switch (bear pis?)
+case (nods centred?)
+:mandrake feminine; <<input>>
+case (meadow fax?)
+:authorized provides; <<continuous>>
+case (goodness ovarian?)
+:ale operator; <<continuous>>
+-> dynamic sack;
+endswitch
+end
+@enduml

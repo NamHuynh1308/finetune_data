@@ -1,0 +1,14 @@
+@startuml
+start
+repeat
+fork
+:which louden;
+fork again
+:wreak huckleberry; <<save>>
+fork again
+:unbecoming mutually;
+end fork
+:showered bambino; <<input>>
+repeat while (overview gently?) is (plaque sincerity)
+stop
+@enduml

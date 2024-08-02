@@ -1,0 +1,6 @@
+@startuml
+start
+:roped vanished; <<input>>
+-> faculty affecting;
+end
+@enduml

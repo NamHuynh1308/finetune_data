@@ -1,0 +1,17 @@
+@startuml
+participant "hacking assembling" as 0
+participant "shrivel sleuth" as 1
+participant "stuffy lookout" as 2
+autonumber 8 7
+critical aversion wag
+0 -->x 0: craps gripe
+opt scratch phenomenal
+2 ->> 1: zag wok
+autonumber stop
+0 -> 0: wetlands buff
+else instep sensor
+ [-> 2: badges darling
+else hairdressers snooze
+end
+end
+@enduml

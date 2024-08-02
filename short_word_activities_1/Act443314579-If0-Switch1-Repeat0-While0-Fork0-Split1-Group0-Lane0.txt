@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:fellahs jugular;
+split again
+-[hidden]->
+:conscientious malt; <<output>>
+split again
+-[hidden]->
+switch (mad dining?)
+case (rutting exploded?)
+:trick sickens;
+-> confederation distillery;
+case (paintbrush necrosis?)
+:renewing robes;
+endswitch
+end split
+:platforms spatula; <<output>>
+@enduml

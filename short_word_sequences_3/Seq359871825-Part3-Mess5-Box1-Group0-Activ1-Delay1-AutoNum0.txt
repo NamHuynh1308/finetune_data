@@ -1,0 +1,15 @@
+@startuml
+participant "beasts smiles" as 0
+participant "flashes corner" as 1
+box "worker torches"
+participant "felicity crashers" as 2
+end box
+== molecular refresh ==
+1 -\\ 0: secrecy sperm
+1 ->o 1: nagging finest
+...scrubbed backstage...
+2 ->] : vouching peering
+1 <-] : inventory decibel
+2 -> 1++ : emissions sanctity
+return nimrod violinist
+@enduml

@@ -1,0 +1,34 @@
+@startuml
+start
+split
+:foraging pruning;
+split again
+:cornflakes angina;
+split again
+split
+:away alone;
+split again
+:sonics uranium;
+split again
+:lightly entrust; <<procedure>>
+-> grants haystack;
+end split
+split again
+if (paralegal flapjacks?) then (territories mavis)
+:kindling jail; <<task>>
+-> shaker easier;
+:wimps slang;
+else (appalled drinker)
+:terribly ostensibly; <<continuous>>
+endif
+end split
+group vibe berate
+:outsiders cob; <<load>>
+-> soar constitutionally;
+group sweating titans
+:pointy inadequate;
+-> fries chaperon;
+stop
+end group
+end group
+@enduml

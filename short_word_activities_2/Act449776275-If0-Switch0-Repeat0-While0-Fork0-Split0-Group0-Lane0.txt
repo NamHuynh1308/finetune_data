@@ -1,0 +1,7 @@
+@startuml
+start
+:rounds flinch; <<output>>
+-> villains asteroids;
+:pow eyeing; <<continuous>>
+stop
+@enduml

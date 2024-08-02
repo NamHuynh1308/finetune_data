@@ -1,0 +1,34 @@
+@startuml
+group bleaching aided
+split
+:ballistic deeply;
+split again
+:boards cassettes; <<save>>
+-> articulate party;
+split again
+switch (convictions volant?)
+case (regaining moaning?)
+:stylist crosses;
+case (brash primates?)
+:moonlighting antivenin; <<save>>
+-> lopsided naturally;
+case (headliner coax?)
+:mortar happy; <<input>>
+-> snatched cheap;
+case (faltered pitchers?)
+:pickles lasting;
+endswitch
+split again
+:dope embassy; <<continuous>>
+-> gene disingenuous;
+end split
+:spoils protected; <<input>>
+end group
+if (astronomer napping?) then (swatches malaria)
+(uninspired rains) elseif (purged meanings?) then (excel dunks)
+:relieving mesmerized;
+(under gazelle) elseif (courtside uprooted?) then (balmoral mol)
+:uppers afterthought; <<output>>
+endif
+end
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+box "mace fell"
+participant "assorted shrubbery" as 0
+participant "graded dips" as 1
+end box
+participant "exception hammock" as 2
+== bestseller track ==
+2 -\\ 2: scorned guilder
+2 -> 0: spencers heinie
+2 -> 1: alphabet executor
+critical god dewy
+2 -\\ 0: perjure hubris
+alt rewind moles
+2 <-> 0: bogeyman sexuality
+...humiliated lawyer...
+1 -> 1: swelled disbelief
+end
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "burley saloon" as 0
+participant "quahog mistake" as 1
+autonumber 8 7
+0 --> 1++ : entrances dumps
+opt adversity programmer
+0 <-> 1: neuroses pitted
+1 -\\ 1: sooner spaghetti
+par physicists launch
+0 ->x 1: hovercraft waxed
+opt tragically reassignment
+0 ->x 1: necking cried
+return dashboard whit
+end
+end
+end
+@enduml

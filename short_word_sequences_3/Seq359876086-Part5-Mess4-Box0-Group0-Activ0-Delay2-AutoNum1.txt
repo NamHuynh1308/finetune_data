@@ -1,0 +1,16 @@
+@startuml
+participant "ratty commies" as 0
+participant "hints university" as 1
+participant "madrigal rebuttal" as 2
+participant "morbid discs" as 3
+autonumber 3 7
+create participant "stages derailing" as 4
+0 -> 4 : stages derailing
+autonumber stop
+4 -> 2!! : blueberries margins
+...painkillers vernacular...
+4 -> 1: spies tracked
+...dealings tightrope...
+1 <-] : pardner dispensation
+autonumber resume
+@enduml

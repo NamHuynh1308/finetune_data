@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:preferences wasp;
+split again
+-[hidden]->
+switch (occasional eloping?)
+case (fizz respectively?)
+:basement magically; <<load>>
+case (benjamins idiot?)
+:decent skins;
+case (equator presenting?)
+:publication leeway; <<load>>
+endswitch
+split again
+-[hidden]->
+switch (firestorm closes?)
+case (companies suffers?)
+:hitting superstition;
+case (rom bashful?)
+:toad continents;
+case (strangling infatuated?)
+:optional attacked;
+endswitch
+end split
+group hooks espressos
+:severed mop; <<input>>
+stop
+end group
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:splinters rebellious;
+split again
+-[hidden]->
+:scores white; <<save>>
+split again
+-[hidden]->
+:doves blissfully; <<input>>
+split again
+-[hidden]->
+:carrot trek;
+end split
+repeat
+backward:rots participate;
+:path veins; <<continuous>>
+:carolers helm;
+-> swaddling fading;
+repeat while (pixilated incriminate?) is (acupuncture medicine)
+-> lure pounder;
+end
+@enduml

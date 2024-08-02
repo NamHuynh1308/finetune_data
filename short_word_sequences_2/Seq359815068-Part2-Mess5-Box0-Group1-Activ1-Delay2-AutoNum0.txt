@@ -1,0 +1,15 @@
+@startuml
+participant "poverty mercer" as 0
+participant "twist mavis" as 1
+== enters flagship ==
+1 <-> 0: alcohol chocolates
+0 ->> 1++ : marksmanship factoid
+...cocked crabby...
+1 <-] : dares gory
+1 -->x 1: kilt amputated
+return reassign rev
+par grows weighed
+...daylight carbs...
+0 -> 1: burton gringo
+end
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+fork
+:comers escapee;
+fork again
+if (firestorm wheelchair?) then (professed tux)
+:successes coldly; <<load>>
+else (pinball carvers)
+:decomposing abundance;
+:offense kisser; <<load>>
+endif
+fork again
+:doubting blacksmith; <<input>>
+end merge
+stop
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:senor talked;
+split again
+-[hidden]->
+split
+:festival hardball;
+split again
+:hit backgammon;
+split again
+:reprisals factor; <<task>>
+split again
+:judging fliers; <<task>>
+end split
+split again
+-[hidden]->
+:cakewalk nuance;
+-> listed loved;
+split again
+-[hidden]->
+:kissy postponement;
+end split
+group wrapper forthright
+:squaw speedy; <<task>>
+-> payload unmentionables;
+stop
+end group
+@enduml

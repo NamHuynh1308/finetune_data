@@ -1,0 +1,19 @@
+@startuml
+participant "bottles filled" as 0
+participant "rialto uncle" as 1
+participant "view tranquility" as 2
+== seeking mars ==
+1 --> 0: maniac frantic
+...traumatizing fabulous...
+ [<- 1: lied cusp
+2 -// 2++ : crashed pepperoni
+1 -> 2: lipped squeezed
+...loofah waterbed...
+2 -> 1: pasted supervisor
+return kingdom tormented
+0 -> 2++ : scrunch artifact
+opt components breach
+2 -// 2: segment chosen
+return deprived gainfully
+end
+@enduml

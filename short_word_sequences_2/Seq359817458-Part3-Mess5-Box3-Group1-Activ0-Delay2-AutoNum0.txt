@@ -1,0 +1,21 @@
+@startuml
+box "fizz destinations"
+participant "ache fiasco" as 0
+box "discoloration awol"
+participant "general chosen" as 1
+box "project possibilities"
+participant "pier quacks" as 2
+end box
+end box
+end box
+== believe fell ==
+1 ->> 0: topping ne
+...discussion stopping...
+1 -> 0: corky zipped
+...dread talky...
+0 --> 2: buckets anthropology
+0 -\\ 2: eminently simulations
+break bombing forever
+0 --> 0: patriotic tore
+end
+@enduml

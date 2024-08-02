@@ -1,0 +1,11 @@
+@startuml
+participant "curing budding" as 0
+== bottles gooney ==
+autonumber 5 8
+0 ->x 0: paternal darn
+create participant "firewater boils" as 1
+0 -> 1 : firewater boils
+alt guys trooper
+1 ->] : effectiveness deltas
+end
+@enduml

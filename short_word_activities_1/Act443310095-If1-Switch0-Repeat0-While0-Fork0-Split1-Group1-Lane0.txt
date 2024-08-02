@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:denounce opener;
+split again
+-[hidden]->
+:coop repertoire; <<save>>
+split again
+-[hidden]->
+:digest whodunit; <<output>>
+-> unqualified absurd;
+end split
+group yield billions
+if (appointed avenged?) then (flares earmarks)
+(hubris shoes) elseif (linen anesthetics?) then (measure ticked)
+:shine connections; <<task>>
+-> grog television;
+(bighorn chicken) elseif (foamy handshake?) then (quilting blunder)
+:grilling tracing; <<procedure>>
+(eth lifelike) elseif (nominee benefited?) then (customer unintelligible)
+:bracken baptized;
+endif
+stop
+end group
+@enduml

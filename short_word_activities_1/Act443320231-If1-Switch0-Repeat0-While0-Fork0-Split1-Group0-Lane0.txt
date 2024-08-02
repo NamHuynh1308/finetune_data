@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:unannounced bumming;
+split again
+-[hidden]->
+:doily speakerphone; <<output>>
+split again
+-[hidden]->
+if (rangers cobbler?) then (letting wives)
+:subjugation engulfed; <<task>>
+-> pedestal servicing;
+else (race teaspoon)
+:grim calling;
+:brin candies; <<procedure>>
+endif
+split again
+-[hidden]->
+:foray huge; <<save>>
+-> bigmouth chocolates;
+end split
+:characterizing honeymooners; <<continuous>>
+-> unseemly regarding;
+end
+@enduml

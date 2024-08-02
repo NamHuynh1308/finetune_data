@@ -1,0 +1,13 @@
+@startuml
+|1| noir blameless
+|2| nanny drowsy
+|1|
+start
+:shipping fittest; <<save>>
+|2|
+:retard passion; <<input>>
+-> consumed aprons;
+|1|
+:false sketch; <<save>>
+stop
+@enduml

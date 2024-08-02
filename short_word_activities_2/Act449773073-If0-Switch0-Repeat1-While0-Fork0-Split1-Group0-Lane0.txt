@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:kickbacks veil;
+split again
+-[hidden]->
+:wimps voice; <<load>>
+-> mindset suspenders;
+split again
+-[hidden]->
+repeat
+:lakeshore restrictions; <<procedure>>
+-> decay theatrical;
+:subjective fascist;
+repeat while (parlors convict?) is (abide digs)
+-> inducement puzzle;
+split again
+-[hidden]->
+:nerdy joins; <<input>>
+end split
+:delete tolerance; <<task>>
+-> shillings drifting;
+:bought deputy; <<input>>
+-> gnats informer;
+stop
+@enduml

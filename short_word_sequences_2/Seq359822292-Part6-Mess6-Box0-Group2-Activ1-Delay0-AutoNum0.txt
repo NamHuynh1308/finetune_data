@@ -1,0 +1,22 @@
+@startuml
+participant "intention heartsick" as 0
+participant "sororities blackout" as 1
+participant "unloved conceited" as 2
+participant "blatant amigo" as 3
+participant "laundered boosts" as 4
+== bedpan functional ==
+loop fillets exterminated
+4 -> 0: daredevil mimes
+3 --//o 3: offshore malice
+else pivot subdued
+create participant "treatment tyranny" as 5
+0 -> 5 : treatment tyranny
+else textiles searches
+1 -> 3++ : delicates outlander
+4 -> 5: noise congrats
+return museum colosseum
+critical guru unwise
+4 -> 4: steadily imaginary
+end
+end
+@enduml

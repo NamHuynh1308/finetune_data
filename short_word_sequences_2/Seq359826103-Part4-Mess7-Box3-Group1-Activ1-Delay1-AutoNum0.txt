@@ -1,0 +1,24 @@
+@startuml
+box "contradictory painkiller"
+participant "trifle damnable" as 0
+box "youth inner"
+participant "unadvisedly conduct" as 1
+participant "snatcher levels" as 2
+box "nonissue jumper"
+participant "fiends babysitter" as 3
+end box
+end box
+end box
+1 -> 3!! : productivity auditions
+opt riverbank spiel
+...flashlight reshoot...
+2 ->x 0: tether goodly
+2 -> 1!! : votes chickadee
+2 ->> 3: weekend alias
+else ewe coleslaw
+ [-> 3: stinging comparing
+2 -->x 2: attitudes stables
+1 ->o 3++ : ratio controversy
+end
+return transient moody
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+:civics region; <<task>>
+-> inbred taxpayer;
+end
+@enduml

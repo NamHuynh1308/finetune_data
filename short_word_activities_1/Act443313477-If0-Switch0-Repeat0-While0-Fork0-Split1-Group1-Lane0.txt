@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:wooden quaking;
+split again
+-[hidden]->
+:howling petition;
+kill
+split again
+-[hidden]->
+:recourse cob; <<output>>
+end split
+group pious pathetic
+:sicken distributors;
+stop
+end group
+@enduml

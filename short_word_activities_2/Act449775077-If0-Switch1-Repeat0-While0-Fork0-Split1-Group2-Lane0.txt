@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:princely golfers;
+split again
+-[hidden]->
+:guests spunky; <<task>>
+-> solutions sultry;
+split again
+-[hidden]->
+switch (indicate spouting?)
+case (adults imported?)
+:interpreted alimony;
+case (interesting ampicillin?)
+:rubber leaders;
+-> flagged mounted;
+case (goatee footprints?)
+:cooped handbags; <<load>>
+endswitch
+end split
+group hooker operate
+:wreck vitamin; <<input>>
+-> gulag upkeep;
+group footstool impediment
+:concentrated fudged; <<save>>
+-> eligible winkle;
+:darned robbers; <<task>>
+stop
+end group
+end group
+@enduml

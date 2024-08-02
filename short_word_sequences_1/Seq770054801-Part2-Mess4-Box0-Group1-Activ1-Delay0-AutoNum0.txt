@@ -1,0 +1,12 @@
+@startuml
+participant "vixens nobility" as 0
+participant "breezing latino" as 1
+1 -\\ 0: donuts blip
+alt wont coupling
+1 -> 0++ : gulag remembrance
+0 -> 1: restrict orchestrating
+else merrier hates
+0 -> 0: stellar resulting
+return impenetrable telepathically
+end
+@enduml

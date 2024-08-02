@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:disarray release;
+split again
+-[hidden]->
+:unmentionable destroyed; <<continuous>>
+split again
+-[hidden]->
+:vault crescent; <<input>>
+-> inquiries slingshot;
+split again
+-[hidden]->
+:worries chugging; <<save>>
+end split
+split
+:arrange depending;
+split again
+fork
+:dynamic revolved;
+fork again
+:scoliosis evident; <<continuous>>
+fork again
+:grief windjammer; <<input>>
+end fork
+split again
+:agreed caesar; <<continuous>>
+end split
+end
+@enduml

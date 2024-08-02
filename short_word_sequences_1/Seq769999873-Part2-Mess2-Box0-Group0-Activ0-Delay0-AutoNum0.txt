@@ -1,0 +1,6 @@
+@startuml
+participant "trumpet memory" as 0
+participant "vindicated sixty" as 1
+1 <-> 1: outcome triplicate
+0 -\\ 1: chickened penalize
+@enduml

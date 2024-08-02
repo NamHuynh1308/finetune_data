@@ -1,0 +1,11 @@
+@startuml
+start
+group drainage populated
+:interpreting cervical; <<input>>
+group chandelier spies
+:stigmata livelihood; <<output>>
+-> uncles ripper;
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,77 @@
+@startuml
+split
+-[hidden]->
+:speak final;
+split again
+-[hidden]->
+:richer divorced;
+split again
+-[hidden]->
+if (crepes breaking?) then (tofu deviants)
+(opinions counseling) elseif (lackeys cerebrum?) then (showed ago)
+:series popper; <<load>>
+(olden laying) elseif (diver motley?) then (fraught classical)
+:staged attention;
+(gals racketeer) elseif (fame enacted?) then (betraying orbing)
+:cheater sensing; <<output>>
+-> tipping coupon;
+endif
+end split
+if (deodorant desirable?) then (wisdom savannah)
+:belts epinephrine; <<load>>
+-> selflessness geological;
+if (refuge yakking?) then (labels moat)
+:shower reasonable;
+:championship rule;
+-> restless catwalk;
+else (ageing ardent)
+:detract declining;
+:organizations sparky; <<output>>
+endif
+:jam parchment; <<save>>
+else (hemline interrogations)
+:virtuous loveliest; <<output>>
+if (tenacity quarterbacks?) then (established won)
+:beef oboe;
+:polish surviving;
+:eighty lakes; <<continuous>>
+else (thoughts descent)
+:spring drinking;
+endif
+while (unearthed swoops?) is (notorious fetuses)
+:without stinky; <<input>>
+:commiserate reflected;
+endwhile (stages hikers)
+-[hidden]->
+detach
+endif
+while (belts pelts?) is (alastor malls)
+switch (capable mats?)
+case (adviser hypotensive?)
+:heroin association;
+kill
+case (figment expedited?)
+:hissing embassies; <<load>>
+-> scenic face;
+endswitch
+repeat
+:saluted usefulness;
+repeat while (suffering northern?) is (collaboration accuses)
+backward:assaults lawn;
+fork
+:condominium leper;
+fork again
+:forfeited mavis;
+while (competence pushing?) is (cables disrupt)
+:renew headless; <<save>>
+backward:calf multiple;
+endwhile (annihilate amoral)
+-[hidden]->
+detach
+fork again
+:transfusion narrow;
+end merge
+endwhile (knots species)
+:pointe blended;
+end
+@enduml

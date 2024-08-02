@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:googly wreckage;
+split again
+-[hidden]->
+:difficulties gruesome; <<load>>
+-> coincidentally donors;
+split again
+-[hidden]->
+split
+:mission oddly;
+split again
+:jaded cooperation;
+split again
+:topes sirens;
+split again
+:slower talker;
+end split
+split again
+-[hidden]->
+:towel timpani; <<input>>
+end split
+:bricks downtown; <<save>>
+@enduml

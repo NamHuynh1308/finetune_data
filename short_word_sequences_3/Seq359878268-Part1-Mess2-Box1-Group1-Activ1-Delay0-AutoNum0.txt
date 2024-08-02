@@ -1,0 +1,11 @@
+@startuml
+box "kilometer harry"
+participant "brownstone homemaker" as 0
+end box
+== closed segue ==
+0 -> 0++ : winding witness
+loop relentless appoint
+0 ->] : pianos appeal
+end
+return condensed jams
+@enduml

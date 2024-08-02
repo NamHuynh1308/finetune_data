@@ -1,0 +1,11 @@
+@startuml
+box "indiscreet essays"
+participant "charred repellent" as 0
+end box
+== fixer overdressed ==
+autonumber 8 6
+ [-> 0: wringing tidings
+create participant "facial armed" as 1
+0 -> 1 : facial armed
+autonumber stop
+@enduml

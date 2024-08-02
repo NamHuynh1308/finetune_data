@@ -1,0 +1,12 @@
+@startuml
+participant "flecks repentance" as 0
+participant "signora sits" as 1
+box "diagnosed surprised"
+participant "mope peace" as 2
+end box
+1 <-] : impaled alerts
+1 ->> 2: mist mutiny
+...combust advising...
+1 ->o 1: celeste displays
+2 -> 2: blonde eaves
+@enduml

@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:bureau nasal;
+split again
+-[hidden]->
+:reactors automatic; <<procedure>>
+split again
+-[hidden]->
+:retro sequins; <<load>>
+end split
+group occupy loot
+:first digress; <<save>>
+group announces minimize
+if (belittle figurative?) then (backbone companies)
+(injected weds) elseif (mallet mopped?) then (simulation quirks)
+:scenario aforementioned; <<input>>
+(quizzes tipping) elseif (invoice inflamed?) then (hug luckiest)
+:yank voila; <<continuous>>
+(seventeen ariel) elseif (grim somerset?) then (violin lions)
+split
+:anon orgy;
+split again
+:velvet sinful;
+split again
+:destroys thugs;
+split again
+:charming lyrical; <<task>>
+end split
+(makings dissipated) elseif (morale unmentionable?) then (juggling magicians)
+split
+:outgrow grossing;
+split again
+:regrettable admission; <<save>>
+-> pane scarcely;
+split again
+:comrades pursued; <<input>>
+split again
+:dauphin jingling;
+end split
+endif
+stop
+end group
+end group
+@enduml

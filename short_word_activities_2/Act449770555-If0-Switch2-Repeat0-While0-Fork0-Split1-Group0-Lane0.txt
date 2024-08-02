@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:scorcher medley;
+split again
+-[hidden]->
+:detests collecting; <<input>>
+-> deb bura;
+split again
+-[hidden]->
+:custodian cellar;
+split again
+-[hidden]->
+:peed dab; <<load>>
+-> prosecutors napkins;
+end split
+switch (symbolism great?)
+case (cart kick?)
+switch (reminding unmentionables?)
+case (cleanliness palpitations?)
+:credence amaretto; <<output>>
+case (blueberries campfire?)
+:closest puke;
+case (withered trombone?)
+:jelly indulgent;
+case (baited migrate?)
+:stretches referendum;
+endswitch
+case (schoolteacher sooner?)
+:disco judicial; <<output>>
+case (kilt gabbing?)
+:donate nome; <<load>>
+endswitch
+stop
+@enduml

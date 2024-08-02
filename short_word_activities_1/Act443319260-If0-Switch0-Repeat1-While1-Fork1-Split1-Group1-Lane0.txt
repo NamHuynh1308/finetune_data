@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:defective quirk;
+split again
+-[hidden]->
+:kris credentials; <<procedure>>
+-> drawers excusing;
+split again
+-[hidden]->
+repeat
+:lectured compliments;
+repeat while (crumbling lost?) is (unraveled dulcet)
+-> integrity topes;
+split again
+-[hidden]->
+:surfaced pretzels;
+while (data pizza?) is (morse glow)
+backward:rattlesnake main;
+endwhile (cleanse miniscule)
+-[hidden]->
+detach
+end split
+fork
+:lez presidency;
+fork again
+:blackjack boil; <<continuous>>
+fork again
+:mothering stage;
+kill
+fork again
+:palette sunlight; <<continuous>>
+-> clicks rewarding;
+end fork
+group diligence idiots
+:logic raping; <<input>>
+:standup grabs; <<load>>
+-> fairer capsules;
+end group
+stop
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+start
+repeat
+backward:prelim colonization;
+repeat while (charley albatross?) is (unlisted sculptures)
+@enduml

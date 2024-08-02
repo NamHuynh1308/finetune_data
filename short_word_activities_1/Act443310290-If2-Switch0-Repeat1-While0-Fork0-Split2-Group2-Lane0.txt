@@ -1,0 +1,54 @@
+@startuml
+split
+-[hidden]->
+:internship accusations;
+split again
+-[hidden]->
+:worried sweetness;
+-> charges buffs;
+split again
+-[hidden]->
+:vivacious lasso;
+-> shown spacey;
+end split
+group herb transfer
+if (office handyman?) then (teal adversaries)
+(cynics traveling) elseif (scalpel carolers?) then (teammates hun)
+split
+:promote fetch;
+split again
+:pasted whatnot;
+split again
+:pointers birth;
+end split
+(garnet bulldozers) elseif (geographical stapled?) then (window succumb)
+if (threatening playtime?) then (feed sharpshooters)
+(pretense matt) elseif (responded exhale?) then (getaway oaks)
+:erosion spleen; <<continuous>>
+-> volunteered lighten;
+(notepad roto) elseif (describe bowery?) then (battleground markets)
+:aiareq;
+kill
+(infliction commonplace) elseif (rounded fosse?) then (juror goddess)
+:rabble conclude; <<load>>
+(reclining hooter) elseif (heckle ether?) then (irrigation directors)
+:gourmet bustier; <<input>>
+endif
+(switching feudal) elseif (derail rocky?) then (exertion doorstep)
+:conspiring cropped;
+(nightclub inflexible) elseif (retreated blabbing?) then (expand purposefully)
+:abetted columns; <<load>>
+-> focal saul;
+endif
+group decoupage sung
+:pauses finger; <<input>>
+-> bossing primping;
+repeat
+backward:romeo hypotenuse;
+backward:choker immensely;
+backward:irrelevant topping;
+repeat while (platitudes veteran?) is (philharmonic coarse)
+end group
+stop
+end group
+@enduml

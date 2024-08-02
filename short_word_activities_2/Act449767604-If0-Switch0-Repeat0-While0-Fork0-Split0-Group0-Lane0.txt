@@ -1,0 +1,5 @@
+@startuml
+:rancid moped; <<task>>
+-> moping daddy;
+stop
+@enduml

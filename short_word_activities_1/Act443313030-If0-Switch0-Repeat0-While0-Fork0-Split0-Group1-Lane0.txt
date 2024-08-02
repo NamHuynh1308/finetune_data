@@ -1,0 +1,7 @@
+@startuml
+start
+group heaviest johnny
+:should aeroplane; <<load>>
+stop
+end group
+@enduml

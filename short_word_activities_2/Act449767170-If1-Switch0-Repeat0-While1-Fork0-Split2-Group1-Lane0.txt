@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:cramped fender;
+split again
+-[hidden]->
+:interrupting squaring; <<task>>
+-> eyeing fan;
+split again
+-[hidden]->
+:suave unadvisedly; <<continuous>>
+end split
+group jettison makings
+if (carlin supple?) then (despair vaccinated)
+:duvet vanilla; <<save>>
+split
+:amigo wanting;
+split again
+:handguns hands;
+split again
+:circumvent unbreakable;
+split again
+:marksmanship wiring; <<input>>
+end split
+while (ignited crippled?) is (curled denouncing)
+backward:knockout blowup;
+:barkeep bald;
+-> surely subjugation;
+endwhile (incredibly nightingale)
+:missis holdings;
+else (jockeys package)
+:reservation enrolled;
+-> within flush;
+endif
+stop
+end group
+@enduml

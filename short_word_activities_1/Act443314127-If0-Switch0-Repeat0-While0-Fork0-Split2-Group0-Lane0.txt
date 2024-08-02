@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:reggae aggression;
+split again
+-[hidden]->
+split
+:collapses monks;
+split again
+:cloverleaf revert;
+split again
+:retreated entomologist; <<task>>
+split again
+:sonogram longs;
+end split
+split again
+-[hidden]->
+:waltz prophylactic;
+kill
+end split
+:cooling chassis; <<output>>
+:poppies sordid; <<output>>
+-> semester unopened;
+:sendoff salaries; <<procedure>>
+-> hiss voltage;
+@enduml

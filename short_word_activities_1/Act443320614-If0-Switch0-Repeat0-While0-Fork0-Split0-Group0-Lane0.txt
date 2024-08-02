@@ -1,0 +1,6 @@
+@startuml
+:shivers espionage; <<task>>
+:retrieve parole; <<load>>
+-> commit clunker;
+end
+@enduml

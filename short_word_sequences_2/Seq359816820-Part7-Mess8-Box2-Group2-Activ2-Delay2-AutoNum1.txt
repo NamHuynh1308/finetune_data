@@ -1,0 +1,33 @@
+@startuml
+box "pandora jingles"
+participant "sirloin bullion" as 0
+participant "stomachache mule" as 1
+participant "pragmatic clowns" as 2
+participant "strangest fairness" as 3
+box "praises glaze"
+participant "commit ritz" as 4
+end box
+end box
+autonumber 6 10
+opt squire subjective
+4 -> 4++ : tanker profitable
+par dalton sequel
+3 -> 4: maxim stickup
+create participant "compromise ravish" as 5
+1 -> 5 : compromise ravish
+else just gainfully
+1 -> 1: bunk ironically
+...possessed decide...
+0 ->x 0: compulsively dizzy
+...perfecto archeological...
+4 -> 4++ : volt dollar
+autonumber stop
+ [<- 1: supremely lifer
+autonumber resume
+end
+create participant "perverse skateboards" as 6
+5 -> 6 : perverse skateboards
+end
+return irrigation muscled
+return refugee bagel
+@enduml

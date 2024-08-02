@@ -1,0 +1,15 @@
+@startuml
+box "repairs dab"
+participant "rant diagnose" as 0
+end box
+opt racing lowly
+0 -> 0: corresponded thumping
+break intervene shoo
+0 --//o 0: revolution denial
+0 -\\ 0: squadron cuppa
+else investments fax
+ [-> 0: flexibility skirmishes
+0 -> 0!! : tax burrito
+end
+end
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+participant "dinners lakeside" as 0
+participant "boombox attending" as 1
+participant "minuses resumes" as 2
+autonumber 3 8
+1 -> 0!! : pip ordered
+autonumber stop
+loop brigade picnics
+0 -> 2++ : selective pees
+autonumber resume
+2 ->> 0: chapters equipped
+return resting wheels
+autonumber stop
+1 -> 1!! : mutilate uncontrollable
+else jelly showered
+critical click frightens
+2 --//o 1: fickle backups
+...till abomination...
+1 -> 0++ : weir confronted
+else sentences snapping
+1 <-] : spinner cracked
+autonumber resume
+end
+end
+return floors trace
+@enduml

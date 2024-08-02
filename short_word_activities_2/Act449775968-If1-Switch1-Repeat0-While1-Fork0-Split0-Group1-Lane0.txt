@@ -1,0 +1,27 @@
+@startuml
+start
+group nationals premium
+if (estimate misspelled?) then (quid schnoz)
+switch (tome laxative?)
+case (crash medusa?)
+:ventilated happiness;
+case (dancers felicity?)
+:speedometer settings;
+-> mishandled forwarded;
+endswitch
+while (disinfectant snorkeling?) is (protesting panicked)
+backward:strummer tango;
+:bracken audited; <<input>>
+:infirmary typo; <<input>>
+endwhile (observatory bassoon)
+-[hidden]->
+detach
+else (refers bio)
+:refugee pa; <<procedure>>
+:prophylactic dilly;
+-> plugging swooped;
+:garner wuss;
+endif
+stop
+end group
+@enduml

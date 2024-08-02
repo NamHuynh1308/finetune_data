@@ -1,0 +1,14 @@
+@startuml
+box "puke docking"
+participant "sunroom chocolatey" as 0
+box "slices crated"
+participant "wallpaper derive" as 1
+end box
+end box
+0 -\\ 0: hasty shootout
+ [<- 1: structured artillery
+1 --> 0: nerds loaned
+loop rape bail
+ [<- 0: prison fantasyland
+end
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+participant "dotes employee" as 0
+box "petty patting"
+participant "phoenix security" as 1
+participant "chandelier stairway" as 2
+participant "conjuring groveling" as 3
+end box
+critical urgency cleans
+3 --//o 2++ : mesmerized arose
+...proxy fleeting...
+2 <-> 0: pant lowe
+end
+2 -> 0: shredded fought
+1 -> 1++ : trouper activity
+...volition designing...
+3 --//o 2: moreover sorcery
+create participant "flames concessions" as 4
+0 -> 4 : flames concessions
+break prank manufactures
+0 -\\ 2: filmmaker across
+end
+return punished eviscerated
+return vicious saws
+@enduml

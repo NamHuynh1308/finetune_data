@@ -1,0 +1,6 @@
+@startuml
+participant "trails lumps" as 0
+par fraternizing ignorance
+0 ->o 0: symbol firing
+end
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+group brain reassigning
+fork
+:nova hesitation;
+fork again
+:sadist drowning; <<task>>
+fork again
+:loos mixer; <<input>>
+-> whisker explain;
+fork again
+:jot feasible; <<load>>
+-> devon newsletter;
+end merge
+stop
+end group
+@enduml

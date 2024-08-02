@@ -1,0 +1,19 @@
+@startuml
+participant "resisting hand" as 0
+participant "cruelly silken" as 1
+box "bulletproof weakling"
+participant "emancipation catering" as 2
+box "punters expectations"
+participant "cymbal ghoulish" as 3
+end box
+end box
+3 -> 1: dawn unbuttoned
+0 --> 1++ : administrative slinking
+critical resurrection overdressed
+0 -->x 3: foresaw gain
+0 <-> 3: marveling geyser
+else parasitic generations
+0 -> 0: piston chocolates
+return mimic shown
+end
+@enduml

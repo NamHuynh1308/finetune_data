@@ -1,0 +1,5 @@
+@startuml
+participant "paltry lady" as 0
+create participant "distinct weary" as 1
+0 -> 1 : distinct weary
+@enduml

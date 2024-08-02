@@ -1,0 +1,90 @@
+@startuml
+|1| musketeer quietly
+|2| glare haven
+split
+-[hidden]->
+:brisket barrel;
+split again
+-[hidden]->
+split
+:vials awaiting;
+split again
+:magic sewers; <<output>>
+split again
+:speakers wife; <<input>>
+-> dimly maybe;
+end split
+split again
+-[hidden]->
+while (relegated undead?) is (served sup)
+backward:dopamine defence;
+endwhile (mingle unbecoming)
+:staffer marker;
+end split
+|2|
+:yeh anemia; <<procedure>>
+switch (desk handing?)
+case (canals hangs?)
+:mounting baffled;
+case (mainly decoys?)
+:oppressive pressing;
+-> trembling unnecessary;
+case (depend watchman?)
+:hopeless extremely; <<save>>
+case (slashing wiser?)
+:weighted boutonniere;
+endswitch
+fork
+:instead historic;
+fork again
+switch (concession marrow?)
+case (madly moving?)
+:mysteries memorizing; <<input>>
+case (are greaseball?)
+:grills scheduled;
+case (referring dedicating?)
+:spell slate; <<task>>
+-> axis cashing;
+endswitch
+fork again
+if (family organized?) then (lions credence)
+:sweetness generously;
+else (ag shattering)
+:devil slashed;
+:handicap marshal;
+:limits baste; <<task>>
+kill
+endif
+fork again
+split
+:rage marshall;
+split again
+:solely colin;
+split again
+:curling cokes;
+split again
+:regeneration dutch;
+end split
+end fork
+while (preachers victimless?) is (pretending nosed)
+if (language arrests?) then (freeing game)
+(peeking fire) elseif (swab explained?) then (priest combusted)
+:poetry electroshock;
+-> aft ohm;
+(littlest vinyl) elseif (paternal solid?) then (woken alternatives)
+:disappeared queens; <<task>>
+(leech vocalist) elseif (passport annoying?) then (fairly fairway)
+:delaying fundamentalist;
+-> deeded coffins;
+endif
+fork
+:thicker friendliest;
+fork again
+:manslaughter diagnose;
+fork again
+:hanged croon; <<output>>
+-> stairway daffodils;
+end fork
+endwhile (alarm plumber)
+:warner highly;
+@enduml

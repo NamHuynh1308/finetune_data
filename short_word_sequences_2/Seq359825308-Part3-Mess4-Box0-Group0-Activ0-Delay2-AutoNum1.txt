@@ -1,0 +1,14 @@
+@startuml
+participant "betting efficiency" as 0
+participant "roadblocks fortnight" as 1
+participant "quarantine flask" as 2
+autonumber 1 2
+2 -> 1: stagnant townspeople
+2 -> 2: chimp crypt
+autonumber stop
+...irresponsible exit...
+0 ->] : seaman prof
+autonumber resume
+...cayman spaceship...
+1 ->o 0: ose rube
+@enduml

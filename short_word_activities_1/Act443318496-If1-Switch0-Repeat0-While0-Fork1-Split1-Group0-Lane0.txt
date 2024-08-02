@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:chimera goners;
+split again
+-[hidden]->
+:scanned scrooge; <<continuous>>
+split again
+-[hidden]->
+:smite liberal;
+-> gault already;
+split again
+-[hidden]->
+:gems siren; <<continuous>>
+end split
+:pence collapsed;
+-> lifer hallways;
+fork
+:reserving bitterness;
+fork again
+:deposit consortium;
+fork again
+if (cease ages?) then (fighter cones)
+:jungles harpy; <<output>>
+else (investigation inhibitors)
+:visitation creatures;
+:lacerated hisself;
+:unrelated bellman; <<continuous>>
+endif
+end fork
+:torch insolence; <<continuous>>
+stop
+@enduml

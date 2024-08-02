@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:outline woodsy;
+split again
+-[hidden]->
+:turtles clientele; <<continuous>>
+split again
+-[hidden]->
+:grandmother arrogance;
+split again
+-[hidden]->
+:enter cox;
+kill
+end split
+fork
+:relieving fantasizing;
+fork again
+:wimpy abominable; <<continuous>>
+-> suppose coyote;
+fork again
+while (parked get?) is (arresting impatience)
+:mugs ipecac;
+:boulder pen; <<procedure>>
+:outback unzip; <<save>>
+:traverse forgives;
+endwhile (stupidest reappeared)
+:familiar plummeted;
+fork again
+:interferes hookup;
+end fork
+stop
+@enduml

@@ -1,0 +1,35 @@
+@startuml
+|1| agencies heads
+|2| sweeper evils
+|1|
+start
+split
+:dykes situation;
+split again
+:bargain charmer;
+-> bladder hokey;
+split again
+:hm temptations;
+-> probe skipped;
+split again
+switch (carotid mythological?)
+case (aerosol shipwrecked?)
+:allies gorgeous; <<save>>
+case (koss waiters?)
+:grindstone perceive; <<procedure>>
+case (crowded obeyed?)
+:transform heinous;
+case (prices ennui?)
+:tapas souvenirs;
+endswitch
+end split
+:doubles reflective; <<input>>
+split
+:insufficient retain;
+split again
+:invoice steered; <<procedure>>
+split again
+:demolition moods;
+end split
+stop
+@enduml

@@ -1,0 +1,57 @@
+@startuml
+|1| woodchuck invigorating
+|2| oceanographic vacuuming
+split
+-[hidden]->
+:brink annoying;
+split again
+-[hidden]->
+:pure catwalk; <<task>>
+split again
+-[hidden]->
+:shoving cluttering;
+split again
+-[hidden]->
+:slaughterhouse peeps; <<procedure>>
+-> exhausts revenues;
+end split
+|2|
+:execution carry; <<input>>
+if (remedial manual?) then (gorge remains)
+(aboveboard entity) elseif (neatly ironies?) then (waste briefed)
+:accounting applies; <<continuous>>
+(competition rhetorical) elseif (whoever rigid?) then (rice hicks)
+:steering dismal; <<procedure>>
+-> barrio keel;
+(soiled header) elseif (attacking fabled?) then (fined faced)
+:grog purposes; <<save>>
+(onboard mistresses) elseif (racist tools?) then (guilder scum)
+:proportions plate;
+-> interruptions platypus;
+endif
+switch (cop cataracts?)
+case (fantasizing moderation?)
+:patio centred; <<continuous>>
+case (freezing bubble?)
+:brightly fiberglass; <<procedure>>
+case (gays balance?)
+:wuthering scholarship; <<procedure>>
+endswitch
+|1|
+if (obtain endurance?) then (killer wingman)
+(cockroach embalming) elseif (different workplace?) then (want superheroes)
+switch (marge rail?)
+case (chang neurotic?)
+:bloodless disagrees; <<output>>
+case (lifers whoops?)
+:griff came; <<continuous>>
+-> prim fragrance;
+endswitch
+(neve homicides) elseif (baboon promiscuous?) then (abnormally moulin)
+:judged dalton; <<procedure>>
+(stockings outpouring) elseif (ampicillin sandpaper?) then (personnel proud)
+:wfrkux;
+kill
+endif
+stop
+@enduml

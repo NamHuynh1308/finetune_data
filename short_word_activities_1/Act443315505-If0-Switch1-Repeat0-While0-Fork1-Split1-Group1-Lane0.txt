@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:headset explicit;
+split again
+-[hidden]->
+:pods toots; <<save>>
+-> mutton implication;
+split again
+-[hidden]->
+:attackers outdone;
+end split
+switch (timbre bolder?)
+case (beggar metaphorically?)
+:wool tramp; <<save>>
+-> renovate satyr;
+case (blackness excellency?)
+:roasted bumble; <<load>>
+-> outs ultra;
+case (anarchy snapper?)
+fork
+:mavis caught;
+fork again
+:canoe genetic;
+fork again
+:parliamentary make;
+end merge
+endswitch
+group trench exacerbate
+:evolved tangling; <<procedure>>
+-> tardy op;
+:unfold diaphragm; <<procedure>>
+-> sown steroid;
+end group
+end
+@enduml

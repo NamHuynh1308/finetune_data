@@ -1,0 +1,16 @@
+@startuml
+start
+:furthest knowing;
+-> roughage ballet;
+fork
+:rubbers proposed;
+fork again
+:serum varied;
+-> firestorm browning;
+fork again
+:burly investigation; <<load>>
+end fork
+:insulin typo; <<procedure>>
+-> sequined extended;
+stop
+@enduml

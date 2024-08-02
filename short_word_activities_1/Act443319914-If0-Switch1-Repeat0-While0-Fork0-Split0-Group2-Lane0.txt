@@ -1,0 +1,18 @@
+@startuml
+start
+group certainties concussions
+:beanbag sixth; <<output>>
+group hums manifest
+:cutting compulsion; <<input>>
+switch (possesses guarded?)
+case (denouncing attorneys?)
+:hiked exorcist; <<input>>
+case (cars spence?)
+:pot mohair; <<input>>
+case (constituents edgy?)
+:turndown being;
+endswitch
+end group
+stop
+end group
+@enduml

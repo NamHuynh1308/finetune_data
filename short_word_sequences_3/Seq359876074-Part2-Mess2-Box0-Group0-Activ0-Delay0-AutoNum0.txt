@@ -1,0 +1,6 @@
+@startuml
+participant "delightful lech" as 0
+participant "newlyweds dinnertime" as 1
+0 -> 1!! : buck transcends
+0 ->> 1: earthquakes playtime
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+participant "torn acclimate" as 0
+participant "dossier stool" as 1
+box "firm port"
+participant "amphetamines jumped" as 2
+participant "tightrope refuge" as 3
+end box
+loop rambunctious snazzy
+0 --> 1: leaver moustache
+loop inability extent
+...dark haps...
+2 ->] : wore puck
+0 <-] : windward electoral
+else ravish secretive
+break whistle premiums
+create participant "blackmail downsize" as 4
+0 -> 4 : blackmail downsize
+end
+end
+end
+@enduml

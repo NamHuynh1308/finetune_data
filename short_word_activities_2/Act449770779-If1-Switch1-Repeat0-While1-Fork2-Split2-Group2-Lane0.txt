@@ -1,0 +1,65 @@
+@startuml
+split
+-[hidden]->
+:hem hunker;
+split again
+-[hidden]->
+:keen dex; <<load>>
+-> distinctly hotshot;
+split again
+-[hidden]->
+:requesting detergent; <<load>>
+-> tacked grooming;
+end split
+if (heave bonnie?) then (today pouring)
+:nature latrine; <<continuous>>
+split
+:depriving quilting;
+split again
+:headphones recognizes; <<procedure>>
+split again
+:grand disappeared; <<input>>
+-> grid catheter;
+end split
+fork
+:endangerment chills;
+fork again
+:pester authorities;
+fork again
+:hypocritical releases;
+-> unavailable luna;
+end merge
+else (prairie heavy)
+:cramping cattle; <<load>>
+fork
+:purpose unsettling;
+fork again
+:pampers reciting;
+fork again
+:organic humiliate; <<input>>
+fork again
+:marshal bouncer;
+end fork
+:helm math; <<task>>
+while (bleachers setback?) is (debts ideology)
+switch (farewells superheroes?)
+case (automatically missionaries?)
+:ballistic prison; <<procedure>>
+case (athletes oversized?)
+:landlords lecture; <<output>>
+case (reconnected watched?)
+:tortured weensy;
+endswitch
+backward:teamwork interviewing;
+endwhile (conceivably uncompromising)
+-[hidden]->
+detach
+endif
+group blues darken
+:carpeting crudely; <<input>>
+group lymph hydrate
+:imbecilic browsing; <<output>>
+stop
+end group
+end group
+@enduml

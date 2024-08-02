@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:bullies scorpion;
+split again
+-[hidden]->
+if (rectory presets?) then (garnish tangle)
+:harbors infection;
+:phony brazen;
+:tighten unsatisfied;
+else (clipping columnist)
+:hairnet roast; <<procedure>>
+:shalt weiner; <<output>>
+-> ruby dabbling;
+endif
+split again
+-[hidden]->
+:lopper representations; <<procedure>>
+split again
+-[hidden]->
+:automatically prolong; <<save>>
+end split
+:fiefdom resilient; <<save>>
+-> pooped conveyor;
+:revenge beginner;
+end
+@enduml

@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:basis incentives;
+split again
+-[hidden]->
+:immunity anon;
+split again
+-[hidden]->
+switch (ambitious redecorate?)
+case (antivenin theories?)
+:enemies dabble; <<continuous>>
+-> fragment timbers;
+case (fondue rat?)
+:defender bridges; <<save>>
+-> despondent cocktails;
+case (snoop stigmata?)
+:gaslight metabolic;
+-> got dispose;
+endswitch
+end split
+:immune premier; <<save>>
+-> symbiote contaminate;
+fork
+:breezing testify;
+fork again
+:shady perimeter; <<input>>
+-> fulfil hawking;
+fork again
+switch (rosebud alameda?)
+case (taxing distributor?)
+:thirsty conjures;
+-> bobbin quintet;
+case (arrows slapped?)
+:opinionated fingerprint; <<procedure>>
+-> symptom timer;
+case (stored blarney?)
+:risk garibaldi; <<input>>
+-> huzzah significantly;
+case (issuing bid?)
+:predecessor wallow; <<task>>
+-> professionals riddance;
+endswitch
+fork again
+:chicken minister; <<load>>
+end merge
+end
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+box "state taunt"
+participant "ingrates edgewise" as 0
+end box
+== shh lasagne ==
+alt verdict bleached
+0 -->x 0++ : hollandaise footing
+...hiccups nameless...
+0 <-> 0++ : landfill notice
+end
+return knowing establishing
+return punctured declining
+@enduml

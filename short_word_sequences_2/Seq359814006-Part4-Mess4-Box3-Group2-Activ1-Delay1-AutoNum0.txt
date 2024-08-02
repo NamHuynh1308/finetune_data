@@ -1,0 +1,23 @@
+@startuml
+box "terrible complications"
+participant "internship sundaes" as 0
+box "demonology heavyset"
+participant "swaddling deepest" as 1
+participant "potency fez" as 2
+end box
+box "buckeyes disturbing"
+participant "hob somehow" as 3
+end box
+end box
+ [<- 2: thrice puddle
+alt typewriter smelt
+...troubling bronze...
+ [<- 1: fixing geishas
+2 --> 1++ : chico maudlin
+else screwup supermarket
+alt prayers graphite
+2 <-] : pleasuring stripes
+return communique sordid
+end
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "hyperventilating cargo" as 0
+participant "crying latter" as 1
+box "favors illness"
+participant "sweats functions" as 2
+end box
+autonumber 2 1
+ [-> 2: calzone amber
+autonumber stop
+0 <-] : organizer fulfil
+2 -// 1: disrupt soften
+@enduml

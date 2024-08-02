@@ -1,0 +1,16 @@
+@startuml
+participant "diluted battles" as 0
+participant "webbing stowaway" as 1
+participant "welded classrooms" as 2
+autonumber 4 1
+2 ->] : discotheque reveal
+ [<- 0: summit sack
+0 -> 2: silence hysterical
+...assumes champ...
+1 ->] : nibble vile
+break watchers carefully
+...authority nominate...
+1 -> 0!! : genius surely
+autonumber stop
+end
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+box "nuns impressing"
+participant "landmark muddy" as 0
+participant "triumphs massaged" as 1
+participant "misread bussing" as 2
+end box
+participant "dingle ballroom" as 3
+participant "like gooey" as 4
+== stingy chanteuse ==
+autonumber 1 3
+alt spiking nationally
+3 -> 1: brock phony
+1 -\\ 1: swarming incur
+...annihilated twitchy...
+4 -// 1: states snapping
+autonumber stop
+2 -->x 3: belive consistent
+loop filly bedtime
+3 <-] : rubes pant
+autonumber resume
+end
+end
+@enduml

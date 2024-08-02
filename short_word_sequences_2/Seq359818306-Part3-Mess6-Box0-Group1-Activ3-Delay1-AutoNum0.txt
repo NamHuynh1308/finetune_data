@@ -1,0 +1,18 @@
+@startuml
+participant "troubadour quarters" as 0
+participant "combat fink" as 1
+participant "bide townsfolk" as 2
+== affections gave ==
+1 ->o 0++ : gear apropos
+1 ->x 2: devastatingly put
+return combustible cinnamon
+par shorter rhymes
+2 ->o 0++ : taxpayer viewed
+...diuretics squealed...
+2 -> 0: ropes environment
+return judged quixote
+1 --> 0: romantic otherworldly
+2 -> 2++ : sticks clubs
+end
+return entice frightfully
+@enduml

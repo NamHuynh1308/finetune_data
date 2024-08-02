@@ -1,0 +1,6 @@
+@startuml
+participant "molars sister" as 0
+== thrown flags ==
+ [<- 0: warlock wisely
+0 -> 0: helo mistreated
+@enduml

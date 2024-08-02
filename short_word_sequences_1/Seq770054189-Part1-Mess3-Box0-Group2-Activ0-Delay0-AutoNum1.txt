@@ -1,0 +1,11 @@
+@startuml
+participant "vivacious timid" as 0
+autonumber 2 2
+ [<- 0: starters yore
+par nap serial
+0 <-] : rebel cerulean
+par einstein stories
+0 -\\ 0: duffle beavers
+end
+end
+@enduml

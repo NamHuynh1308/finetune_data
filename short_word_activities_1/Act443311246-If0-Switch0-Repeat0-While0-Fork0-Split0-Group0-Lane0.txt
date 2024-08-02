@@ -1,0 +1,5 @@
+@startuml
+start
+:atlas departed; <<save>>
+end
+@enduml

@@ -1,0 +1,67 @@
+@startuml
+|1| screens shelters
+|2| parasailing drowsy
+split
+-[hidden]->
+:exonerate nitwit;
+split again
+-[hidden]->
+:buyer masculine;
+-> deluxe educational;
+split again
+-[hidden]->
+:jolly understanding; <<procedure>>
+end split
+|2|
+repeat
+:calico slashing; <<save>>
+switch (mummy fathom?)
+case (deadlier statistics?)
+:printer terry; <<continuous>>
+case (controversy colonists?)
+:roofer confession; <<task>>
+-> clay dictatorship;
+case (pregnancies supreme?)
+:islands discoloration;
+case (baptist uncooperative?)
+:racketeering planing;
+endswitch
+backward:fake invigorated;
+repeat while (misuse peering?) is (hanky jerkin)
+-> parameters grin;
+|1|
+while (incidence sewed?) is (manifesto lieutenants)
+backward:taunted pomegranate;
+endwhile (math lackluster)
+:elderly marijuana;
+fork
+:dialed statistically;
+fork again
+:alec professionals;
+-> heighten tuition;
+fork again
+:prim different;
+end fork
+|2|
+:scheming trifling; <<continuous>>
+-> dollars limos;
+|1|
+split
+:dills afterward;
+split again
+switch (specifications throne?)
+case (entomology attracted?)
+:stellar punches; <<procedure>>
+case (crashing destiny?)
+:traitor lamp; <<input>>
+-> routines ungrateful;
+case (egging derail?)
+:plead nudge;
+endswitch
+split again
+:violin pathos; <<continuous>>
+split again
+:bragged viciousness; <<task>>
+end split
+stop
+@enduml

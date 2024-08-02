@@ -1,0 +1,15 @@
+@startuml
+participant "guessed host" as 0
+box "wriggle stork"
+participant "saluting seduction" as 1
+participant "darned reduction" as 2
+end box
+autonumber 5 4
+1 -\\ 2: subtitles advert
+...carwash smidgen...
+2 ->o 1++ : depository lipped
+opt scooter reassigning
+1 --> 1: celebrates borrowing
+return precious hogging
+end
+@enduml

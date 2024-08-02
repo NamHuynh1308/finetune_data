@@ -1,0 +1,27 @@
+@startuml
+fork
+:committed summed;
+fork again
+:cruiser curriculum;
+fork again
+:militants veronica; <<output>>
+fork again
+:collide ale; <<input>>
+-> thataway petticoat;
+end merge
+while (nurtured tor?) is (throughway motivational)
+if (controls precautions?) then (wops pyromaniac)
+:subjects keepers;
+:reassignment geneva; <<output>>
+while (column phrase?) is (diver hopelessly)
+backward:destiny skeeters;
+endwhile (drips pitchers)
+-[hidden]->
+detach
+else (jenny appealed)
+:inconsiderate surname; <<procedure>>
+endif
+endwhile (weeds historic)
+:doohickey photos;
+end
+@enduml

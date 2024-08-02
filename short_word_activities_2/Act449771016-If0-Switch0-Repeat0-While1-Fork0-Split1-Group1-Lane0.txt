@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:petition elbow;
+split again
+-[hidden]->
+:lend theatres; <<procedure>>
+-> services reed;
+split again
+-[hidden]->
+:spaniel sleeping; <<load>>
+-> helmets scrapes;
+split again
+-[hidden]->
+while (beeped coloring?) is (sassy frequent)
+:forks readings; <<continuous>>
+:reasonable concussions;
+:amputate sculptures; <<continuous>>
+-> discerning luxuries;
+endwhile (misplace gateway)
+:janitor blam;
+end split
+group wetting laughing
+:sneaker ess; <<input>>
+-> whereof priests;
+:vernacular bites; <<output>>
+stop
+end group
+@enduml

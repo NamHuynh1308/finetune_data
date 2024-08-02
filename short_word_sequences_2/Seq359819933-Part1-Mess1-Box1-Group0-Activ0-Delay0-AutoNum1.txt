@@ -1,0 +1,7 @@
+@startuml
+box "hovel steroid"
+participant "drier partially" as 0
+end box
+autonumber 9 8
+0 ->> 0: twilight virulent
+@enduml

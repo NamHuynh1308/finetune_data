@@ -1,0 +1,26 @@
+@startuml
+participant "microphones ballots" as 0
+box "meanness hugger"
+participant "allergies maternity" as 1
+participant "tease cuff" as 2
+end box
+box "timeline counterpart"
+participant "concessions forgave" as 3
+end box
+autonumber 10 4
+loop antics chlamydia
+0 ->> 1: mechanisms unmarried
+3 ->o 3: emeralds parka
+opt fibbing terrorist
+1 ->] : fornication assurances
+0 -> 2: rubbers briar
+...cornucopia streams...
+1 --> 3: multimedia lull
+else diminutive uninsured
+par reply reparations
+0 ->o 2: spoiling eats
+autonumber stop
+end
+end
+end
+@enduml

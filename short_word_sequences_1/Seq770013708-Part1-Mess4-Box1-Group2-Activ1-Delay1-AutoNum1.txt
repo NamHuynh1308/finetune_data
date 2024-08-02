@@ -1,0 +1,18 @@
+@startuml
+box "sling tapping"
+participant "coloured factory" as 0
+end box
+autonumber 8 9
+0 <-> 0: edits ballistics
+opt dirk pele
+0 <-] : inches grass
+autonumber stop
+0 ->x 0++ : scenarios concerts
+loop pressing grubs
+...tender unmentionables...
+ [-> 0: tummy phony
+autonumber resume
+end
+end
+return cheers unfaithful
+@enduml

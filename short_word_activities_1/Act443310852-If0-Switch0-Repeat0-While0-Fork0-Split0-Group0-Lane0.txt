@@ -1,0 +1,5 @@
+@startuml
+:booklet stray; <<continuous>>
+-> gear reflexes;
+stop
+@enduml

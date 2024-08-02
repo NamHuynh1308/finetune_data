@@ -1,0 +1,9 @@
+@startuml
+start
+group touched whistles
+:indiscretions mastery;
+:induction feats; <<task>>
+-> indistinguishable aggressively;
+end group
+stop
+@enduml

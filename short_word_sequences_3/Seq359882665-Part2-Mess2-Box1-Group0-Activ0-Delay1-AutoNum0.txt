@@ -1,0 +1,9 @@
+@startuml
+participant "gift tundra" as 0
+box "integration cassette"
+participant "gypsy imaginable" as 1
+end box
+ [<- 0: wriggle aiding
+...moisture western...
+1 ->> 0: dislodge diagnostician
+@enduml

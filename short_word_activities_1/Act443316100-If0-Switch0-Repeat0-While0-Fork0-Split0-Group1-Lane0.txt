@@ -1,0 +1,7 @@
+@startuml
+start
+group layers groundwork
+:tackling truly; <<continuous>>
+stop
+end group
+@enduml

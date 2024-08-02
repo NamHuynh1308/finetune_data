@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:hags hoof;
+split again
+-[hidden]->
+split
+:triumphed sprays;
+split again
+:falls shortage;
+split again
+:led manipulations;
+split again
+:marks frankfurter;
+end split
+split again
+-[hidden]->
+:excursion county;
+-> reclining except;
+split again
+-[hidden]->
+:quirks persnickety; <<save>>
+-> friendly association;
+end split
+:sparklers unbeatable; <<task>>
+group ransack labels
+:sakes seclusion; <<continuous>>
+-> dojo wised;
+group speaking hiking
+:crunchy sacks;
+stop
+end group
+end group
+@enduml

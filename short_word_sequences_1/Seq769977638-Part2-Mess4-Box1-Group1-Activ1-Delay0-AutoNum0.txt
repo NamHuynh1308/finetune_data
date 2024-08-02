@@ -1,0 +1,14 @@
+@startuml
+participant "portraits miggs" as 0
+box "swarming coolant"
+participant "transgenic cleanliness" as 1
+end box
+ [-> 0: convenience gonzo
+critical portent barf
+ [<- 1: poetry stick
+0 <-] : unwarranted sneakers
+else invaders longing
+0 -> 0++ : faithful massive
+end
+return summons face
+@enduml

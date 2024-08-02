@@ -1,0 +1,18 @@
+@startuml
+participant "craziness wants" as 0
+participant "dorky belief" as 1
+participant "counsellor purse" as 2
+participant "cheeses exceedingly" as 3
+participant "slugged brag" as 4
+== cap thieves ==
+0 -> 4: boar sanitarium
+1 -\\ 4: dictionary throttle
+break astray pardon
+1 -> 2: veil bidder
+3 -> 3: smartest jones
+else harp boston
+break chardonnay shingles
+2 ->x 3: chi sail
+end
+end
+@enduml

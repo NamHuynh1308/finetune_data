@@ -1,0 +1,22 @@
+@startuml
+box "moldy eraser"
+participant "wheelchairs strange" as 0
+participant "subpoenaed restorative" as 1
+participant "asset hong" as 2
+participant "futility snarl" as 3
+end box
+autonumber 10 3
+0 ->> 3: methadone halo
+opt cleaners stationary
+2 ->] : advisable committee
+autonumber stop
+ [-> 2: scepter unfolding
+end
+0 -->x 1: vacated nun
+0 -\\ 3: underestimating haunts
+autonumber resume
+critical sans bo
+...ace voluntary...
+0 -> 3!! : challenging vicar
+end
+@enduml

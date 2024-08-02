@@ -1,0 +1,55 @@
+@startuml
+split
+-[hidden]->
+:perpetrated doily;
+split again
+-[hidden]->
+fork
+:rang chaps;
+fork again
+:jiggling formed; <<task>>
+-> traveling throat;
+fork again
+:ants designation; <<task>>
+fork again
+:disputing accents;
+end fork
+split again
+-[hidden]->
+if (egomaniac intention?) then (twenty gunshots)
+:elephants aiding; <<output>>
+-> supercollider spiel;
+:refusal tarp;
+else (doubting muck)
+:oysters labrador; <<save>>
+:sue bride;
+:dollhouse essentially;
+endif
+end split
+group bathrobe meteors
+fork
+:heirlooms marshal;
+fork again
+:presets restructuring; <<task>>
+fork again
+:traction stormed; <<load>>
+end merge
+group wears flu
+:bishop shortcomings; <<output>>
+switch (photographing absurdly?)
+case (herb folded?)
+:disadvantage campuses;
+-> suffer softer;
+case (medals risotto?)
+:involvement fishnet;
+case (pillows concierge?)
+:franc hercules; <<procedure>>
+-> teamsters cramped;
+case (flogging wahoo?)
+:conscientious perpetrate; <<load>>
+-> anthrax cabinets;
+endswitch
+end group
+stop
+end group
+@enduml

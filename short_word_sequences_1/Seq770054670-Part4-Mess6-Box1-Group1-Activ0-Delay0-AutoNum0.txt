@@ -1,0 +1,17 @@
+@startuml
+participant "emptying avoid" as 0
+box "shortly milking"
+participant "analysis defect" as 1
+participant "laces weakened" as 2
+end box
+participant "personable toothpick" as 3
+0 -> 0!! : brides donut
+loop galleries downsize
+2 -> 1: screwing tapeworm
+2 -> 2: renegotiate ridiculed
+else cortex bel
+ [-> 0: themes slumber
+ [-> 3: pellet outspoken
+end
+1 -\\ 1: slaughterhouse diesel
+@enduml

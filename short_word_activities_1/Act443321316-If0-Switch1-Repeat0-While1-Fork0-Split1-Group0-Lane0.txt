@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:banal immobile;
+split again
+-[hidden]->
+switch (laboratory windmills?)
+case (muddle fucker?)
+:lodge squatter;
+-> fumes preservatives;
+case (ally dear?)
+:perishable morning;
+endswitch
+split again
+-[hidden]->
+:ancestors honeymoons; <<load>>
+end split
+while (axel cyclotron?) is (seamstress predict)
+:skittles zed;
+endwhile (whistling withstand)
+:ping biggest;
+end
+@enduml

@@ -1,0 +1,40 @@
+@startuml
+|1| insensitive eggplant
+|2| roaring percolating
+|1|
+start
+:beta boyfriends;
+split
+:contest lighten;
+split again
+:passes sure; <<continuous>>
+-> exciting reclining;
+split again
+switch (snapper pester?)
+case (undisputed rant?)
+:housebroken spiral;
+case (awhile houseguests?)
+:divers coloured;
+endswitch
+end split
+if (puppy temporary?) then (dolly untouchable)
+:mourned weatherman; <<continuous>>
+-> fervent plucky;
+while (drum relate?) is (ell attain)
+backward:heartthrob judging;
+:wooded presses; <<continuous>>
+endwhile (wraps blackness)
+-[hidden]->
+detach
+else (tape maniacs)
+:sax expecting;
+kill
+endif
+while (muscles brutal?) is (primitive bookmark)
+backward:radical dark;
+:mourning veronica; <<save>>
+backward:bura dandelions;
+endwhile (benched ashore)
+:radioactive caught;
+end
+@enduml

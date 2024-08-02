@@ -1,0 +1,7 @@
+@startuml
+:reset weekends; <<load>>
+group authenticated daisies
+:plutonium sighting; <<save>>
+stop
+end group
+@enduml

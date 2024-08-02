@@ -1,0 +1,14 @@
+@startuml
+participant "tongue fifths" as 0
+participant "sanitary ops" as 1
+participant "tycoon rehashing" as 2
+2 <-> 0++ : pistols hydra
+1 -\\ 0++ : remarks jalopy
+alt chopper slowed
+...forfeits manor...
+1 -\\ 0++ : isolation cleanup
+end
+return prefix hugs
+return fanny cad
+return scooped before
+@enduml

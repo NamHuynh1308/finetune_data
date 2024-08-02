@@ -1,0 +1,12 @@
+@startuml
+|1| percentages tools
+|2| powder inn
+|1|
+start
+|2|
+:omelet laces; <<load>>
+:inheritance dives;
+|1|
+:accessory closer; <<continuous>>
+stop
+@enduml

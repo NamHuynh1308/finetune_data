@@ -1,0 +1,28 @@
+@startuml
+box "pigtails patch"
+participant "lithium databases" as 0
+box "whiz trussed"
+participant "lockers sprouting" as 1
+participant "terribly roses" as 2
+box "gall torched"
+participant "idling mushy" as 3
+end box
+end box
+end box
+== stewards decorating ==
+create participant "separation bannister" as 4
+2 -> 4 : separation bannister
+...wormed superintendent...
+2 ->x 3: shrugged roadie
+3 ->o 3++ : remote dang
+2 <-> 0++ : forbidden disrespecting
+break genus bonehead
+4 ->x 4: trivial stymied
+return statuary descending
+ [<- 0: occasionally spotless
+alt fail paranormal
+3 ->> 4: yarn hallo
+end
+end
+return lasagne certifiable
+@enduml

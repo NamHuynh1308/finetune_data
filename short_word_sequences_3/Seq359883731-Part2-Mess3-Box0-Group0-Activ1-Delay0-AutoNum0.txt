@@ -1,0 +1,9 @@
+@startuml
+participant "reader specialized" as 0
+participant "welding blundering" as 1
+== biology attacks ==
+0 --> 0: counter negligee
+0 ->o 1++ : recount silvery
+1 -> 0: binder senator
+return baited apple
+@enduml

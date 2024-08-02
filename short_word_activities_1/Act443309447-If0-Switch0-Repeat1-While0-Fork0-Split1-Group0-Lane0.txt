@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:carcinogens crushed;
+split again
+-[hidden]->
+:oxen fallout; <<continuous>>
+split again
+-[hidden]->
+repeat
+:allowing hogging;
+-> grader radishes;
+repeat while (feeding peckers?) is (colonial quest)
+end split
+:lobster heritage; <<input>>
+end
+@enduml

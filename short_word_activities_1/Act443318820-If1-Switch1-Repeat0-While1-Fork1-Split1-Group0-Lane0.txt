@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:dug crunch;
+split again
+-[hidden]->
+:playboys cardboard;
+split again
+-[hidden]->
+:metal mirrors;
+while (broth swings?) is (wander world)
+backward:wherein teas;
+switch (mines exempt?)
+case (sophistication groundwork?)
+:mummies spindly;
+case (headliner subterfuge?)
+:asbestos angels; <<output>>
+case (primitive garibaldi?)
+:denial extension; <<load>>
+case (lecture pave?)
+:swat madeleine; <<continuous>>
+endswitch
+:shucks sorcery;
+endwhile (grades onboard)
+-[hidden]->
+detach
+end split
+if (breathes harbour?) then (struck catheter)
+:tricky tail; <<output>>
+else (depressing mainly)
+fork
+:scoring scurry;
+fork again
+:hums drowning; <<save>>
+-> benches juniper;
+fork again
+:pays misspoke;
+end merge
+:tho godlike; <<load>>
+endif
+stop
+@enduml

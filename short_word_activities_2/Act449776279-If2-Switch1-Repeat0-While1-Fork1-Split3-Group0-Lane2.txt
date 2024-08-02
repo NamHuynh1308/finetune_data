@@ -1,0 +1,72 @@
+@startuml
+|1| jolly cheetah
+|2| applauding tormenting
+split
+-[hidden]->
+:disparaging privy;
+split again
+-[hidden]->
+:against derail; <<task>>
+split again
+-[hidden]->
+:shorted ventricle; <<input>>
+end split
+:dreamy gents;
+-> afterward celebrities;
+fork
+:requisition lobby;
+fork again
+while (mistake spouse?) is (caretaker beanbag)
+:threat overnight;
+:divine entrusted;
+:saith unicorn; <<task>>
+endwhile (antagonism advert)
+:sissies reamed;
+fork again
+if (holes chance?) then (stereo workmen)
+(rags psi) elseif (hoopla whimper?) then (resenting volcanic)
+:slimy bakes; <<procedure>>
+(thawing notch) elseif (abode tenants?) then (altar silent)
+:investigate verger;
+endif
+end fork
+|2|
+switch (noise bear?)
+case (showoff hub?)
+:roach predicting; <<save>>
+case (congestion distasteful?)
+split
+:sunsets riveted;
+split again
+:lupus routinely; <<continuous>>
+split again
+:complication unprincipled; <<procedure>>
+split again
+:indicated luckily; <<task>>
+-> youngest intermission;
+end split
+case (racked parkway?)
+:mesh already; <<save>>
+case (scorpion her?)
+if (derivative rebelling?) then (widowed ailing)
+:duration completes;
+:breezy tundra; <<task>>
+:overall certainly; <<task>>
+-> jackasses interesting;
+kill
+else (fending nosed)
+:staging spiraling;
+endif
+endswitch
+|1|
+split
+:discount martinis;
+split again
+:excuses accept; <<save>>
+-> imported insulted;
+split again
+:event seeks;
+-> pave shh;
+end split
+end
+@enduml

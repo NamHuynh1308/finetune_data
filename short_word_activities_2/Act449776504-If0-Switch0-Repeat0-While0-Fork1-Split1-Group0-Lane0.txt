@@ -1,0 +1,20 @@
+@startuml
+:killed came; <<procedure>>
+-> listen torpedoes;
+split
+:revenge jumper;
+split again
+:feline elementary; <<task>>
+split again
+fork
+:hairpin spareribs;
+fork again
+:cancer legged;
+fork again
+:destroyers hue;
+fork again
+:accountants caroling;
+kill
+end fork
+end split
+@enduml

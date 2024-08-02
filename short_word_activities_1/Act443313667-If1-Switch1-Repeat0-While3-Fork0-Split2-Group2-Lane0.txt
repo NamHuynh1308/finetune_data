@@ -1,0 +1,65 @@
+@startuml
+split
+-[hidden]->
+:thermal catalog;
+split again
+-[hidden]->
+:acquisitions graham;
+split again
+-[hidden]->
+switch (labelled tucking?)
+case (champs sail?)
+:qualifying champs; <<continuous>>
+-> focusing bending;
+case (brainstorm succeeds?)
+:offspring evaluations;
+-> accused mush;
+case (horde civilization?)
+:comebacks punks; <<load>>
+-> pooh clocks;
+endswitch
+split again
+-[hidden]->
+while (benjamins smuggle?) is (trove perimeter)
+backward:rapists pieces;
+endwhile (blindfold desecrated)
+:obvious boundary;
+end split
+group burger sunflower
+if (telex badges?) then (granting hotshot)
+(orally lukewarm) elseif (located proud?) then (blower reacquaint)
+:qscdgm;
+kill
+(caretaker virgins) elseif (bends axle?) then (creator tanned)
+while (wheelchair courtyard?) is (dough diverted)
+:argue antidepressant; <<save>>
+backward:confirmation smacks;
+:hamper tellers; <<continuous>>
+endwhile (librarian supply)
+:doze lulu;
+(engines wedges) elseif (stalk posting?) then (cargo feudal)
+:xjslol;
+while (coordinator gardenias?) is (presents cheetah)
+split
+:publishers taxis;
+split again
+:executive nah; <<load>>
+split again
+:canvas bazaar;
+kill
+split again
+:luggage actuality; <<save>>
+end split
+:speedo lifestyle; <<task>>
+-> countryside concede;
+endwhile (shocks scooped)
+-[hidden]->
+detach
+endif
+group stipulation originality
+:blackmail slum; <<task>>
+-> covet stupendous;
+stop
+end group
+end group
+@enduml

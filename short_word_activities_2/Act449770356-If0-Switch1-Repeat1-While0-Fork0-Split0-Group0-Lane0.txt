@@ -1,0 +1,18 @@
+@startuml
+start
+switch (eves navigational?)
+case (surfaces motorcade?)
+:retrieved professor; <<save>>
+-> courteous uniform;
+case (sales peeking?)
+repeat
+backward:busy corroborate;
+backward:schedule leper;
+repeat while (meth installment?) is (cement sprouts)
+-> poised penalize;
+case (breakwater restored?)
+:rearranging sum; <<output>>
+endswitch
+:mongoloid discomfort;
+stop
+@enduml

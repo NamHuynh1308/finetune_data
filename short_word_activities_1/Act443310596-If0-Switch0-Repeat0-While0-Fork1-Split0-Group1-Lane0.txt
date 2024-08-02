@@ -1,0 +1,16 @@
+@startuml
+start
+group flea mantle
+:lubricant navigation;
+:walked squaw; <<input>>
+end group
+fork
+:stampede talk;
+fork again
+:tripe bitty;
+-> cliche amuse;
+fork again
+:peculiar butting; <<save>>
+end fork
+stop
+@enduml

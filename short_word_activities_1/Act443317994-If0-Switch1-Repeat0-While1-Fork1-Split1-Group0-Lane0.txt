@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:pricey boorish;
+split again
+-[hidden]->
+:liking mayo; <<continuous>>
+-> midlife finding;
+split again
+-[hidden]->
+fork
+:extremities housing;
+fork again
+:thriller canoe; <<output>>
+fork again
+:precedents crowds;
+end merge
+split again
+-[hidden]->
+switch (mined sob?)
+case (swiped tussle?)
+:throne piano; <<continuous>>
+case (indicates gloat?)
+:disinherited topped; <<input>>
+case (occasionally acres?)
+:rip fails;
+while (nighttime savannah?) is (pistons pubic)
+:tailors preachy; <<load>>
+-> traitor flake;
+backward:legislate devious;
+:devices obscenity;
+:triplicate affirmative;
+endwhile (painkillers backdrop)
+-[hidden]->
+detach
+endswitch
+end split
+:contribute fop; <<task>>
+-> whisper corresponds;
+:concerned eagles; <<save>>
+end
+@enduml

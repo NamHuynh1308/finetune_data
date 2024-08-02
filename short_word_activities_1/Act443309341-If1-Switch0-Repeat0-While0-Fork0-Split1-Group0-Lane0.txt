@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:links misses;
+split again
+-[hidden]->
+if (mountaineer changed?) then (witchcraft tendon)
+(suggesting hadj) elseif (suing bridges?) then (audiotape thruway)
+:defenseless blinks; <<continuous>>
+(backs unhand) elseif (veto hideout?) then (garrison croissants)
+:intermission menorah;
+endif
+split again
+-[hidden]->
+:crushed shoelaces; <<procedure>>
+-> flopped smiley;
+split again
+-[hidden]->
+:virus sade; <<continuous>>
+-> category buckle;
+end split
+:backfires deluge; <<task>>
+end
+@enduml

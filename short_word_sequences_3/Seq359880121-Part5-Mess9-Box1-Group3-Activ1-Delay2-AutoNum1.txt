@@ -1,0 +1,33 @@
+@startuml
+participant "dugout philosophy" as 0
+box "fridge scooping"
+participant "defects designer" as 1
+participant "fruit dispatched" as 2
+participant "thinner swab" as 3
+participant "outright umm" as 4
+end box
+autonumber 5 8
+loop winch dishes
+2 --//o 4: nigh pursued
+autonumber stop
+0 -// 4++ : solarium pinball
+...overdosed shove...
+2 <-> 3: flour jersey
+return mowers coriander
+autonumber resume
+2 -// 0: goblet ha
+autonumber stop
+par bollocks gold
+2 -->x 3: rears heresy
+1 ->> 0: considerate working
+else thumb demean
+...indictment nodes...
+3 -> 2: beaded lay
+end
+2 -> 1!! : chocolates maroon
+autonumber resume
+opt veil reappear
+0 -\\ 4: those corroborate
+end
+end
+@enduml

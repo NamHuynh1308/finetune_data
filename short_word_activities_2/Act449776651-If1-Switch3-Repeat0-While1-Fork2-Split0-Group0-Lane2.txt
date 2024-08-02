@@ -1,0 +1,58 @@
+@startuml
+|1| gilbert louse
+|2| helpful sent
+|1|
+start
+fork
+:waters tales;
+fork again
+switch (concrete sendoff?)
+case (fastball icky?)
+:pot dig; <<task>>
+case (caramel disputes?)
+:dibs disbelief; <<output>>
+-> pleasant crowing;
+endswitch
+fork again
+:monstrous church; <<input>>
+end merge
+switch (loch shorthanded?)
+case (milligram implies?)
+fork
+:dealers pizza;
+fork again
+:shanghai uncut;
+fork again
+:feelings seduces;
+end merge
+case (jewels rap?)
+switch (funded ficus?)
+case (staying intensive?)
+:quotes yank; <<output>>
+case (videos slug?)
+:execution equity;
+endswitch
+case (pendant grunge?)
+if (lance snit?) then (eloped embittered)
+(deeded invisibility) elseif (gets cachet?) then (gibbons attendance)
+:crewman wherefore;
+(zero schmo) elseif (instrument riled?) then (precaution desperately)
+:nhynbx;
+while (cheat rickey?) is (undisclosed blazes)
+backward:winnings reasoned;
+backward:leaning mag;
+backward:extremes insistent;
+:greek concentric; <<input>>
+endwhile (nary pitied)
+-[hidden]->
+detach
+(stayed coco) elseif (pretending correspondence?) then (bridesmaids static)
+:burial galaxy;
+(jackpot vinyl) elseif (adolescence rabid?) then (claiming graced)
+:emphatically mishap; <<task>>
+endif
+endswitch
+:skewed crawled; <<save>>
+-> feat hairdresser;
+stop
+@enduml

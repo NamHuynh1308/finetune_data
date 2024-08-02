@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:gen snipers;
+split again
+-[hidden]->
+if (grandeur cordoned?) then (lode inn)
+(features teller) elseif (scuttled meddling?) then (dispensation refinement)
+:barlow cutie;
+(logged hyped) elseif (setback earwig?) then (information sightings)
+:omxruy;
+kill
+(boxed hooter) elseif (technique naked?) then (oaks dismay)
+:handicap leopard;
+endif
+split again
+-[hidden]->
+:deflate challenge; <<task>>
+-> surfer reread;
+split again
+-[hidden]->
+:recrimination hippie;
+end split
+fork
+:shockingly barbecue;
+fork again
+split
+:schedules judge;
+split again
+:interference pickpocket; <<input>>
+split again
+:introductory impulses; <<input>>
+end split
+fork again
+:yanks endangered; <<continuous>>
+fork again
+:weber appearance; <<continuous>>
+-> dismissal plaything;
+end merge
+switch (slum hope?)
+case (cog emerges?)
+:sinks wronged; <<input>>
+-> rests serve;
+case (snatching niche?)
+split
+:cited mindless;
+split again
+:nubile carpentry;
+split again
+:withheld fog; <<load>>
+-> construct freaks;
+split again
+:unending doves;
+end split
+endswitch
+end
+@enduml

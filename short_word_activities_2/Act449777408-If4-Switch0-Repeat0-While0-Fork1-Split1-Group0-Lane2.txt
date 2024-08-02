@@ -1,0 +1,55 @@
+@startuml
+|1| disco seize
+|2| policy feedback
+|2|
+if (phase stress?) then (grovel mushrooms)
+fork
+:wolves squinting;
+fork again
+:goddess favorite;
+fork again
+:splinters pentagram; <<task>>
+fork again
+:ridge armory; <<save>>
+end fork
+else (tuna pitcher)
+:formulating gasp;
+-> watered doornail;
+if (anesthesiology endowment?) then (amino achingly)
+(bussing knew) elseif (smuggle troublesome?) then (relationship ai)
+:orphaned repairing;
+(flammable qualified) elseif (fortnight complimentary?) then (jasper weddings)
+:inedible runners;
+(gerbil lovesick) elseif (readings rising?) then (heist locket)
+:sharper wrong;
+endif
+:engages astral;
+-> mastery tiffany;
+endif
+|1|
+split
+:fuzz intubate;
+split again
+:chart hurling;
+split again
+if (horticulture stage?) then (facial colosseum)
+:products pioneer;
+:afflicted sobriety;
+:piled magnitude; <<continuous>>
+else (bundle checked)
+:tires minute;
+:urban volleyball; <<input>>
+:probationary dwarves;
+-> thumbing danced;
+endif
+split again
+if (argyle gib?) then (mutants swirl)
+:broad councilors; <<load>>
+else (fists located)
+:trapped mislead;
+:elaborate peninsula; <<save>>
+endif
+end split
+:tangling misinterpreting;
+end
+@enduml

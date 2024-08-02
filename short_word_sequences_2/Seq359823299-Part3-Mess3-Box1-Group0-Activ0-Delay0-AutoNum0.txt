@@ -1,0 +1,11 @@
+@startuml
+participant "nutcracker fillings" as 0
+box "bolster changed"
+participant "locksmith scriptures" as 1
+participant "perfectly defused" as 2
+end box
+== arrogant rehabilitation ==
+0 --> 0: spades won
+1 -\\ 1: phenomenon fail
+0 -> 1: resigned fosse
+@enduml

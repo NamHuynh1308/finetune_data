@@ -1,0 +1,7 @@
+@startuml
+group buffs luggage
+:masterminded mechanics; <<procedure>>
+-> roles accounts;
+stop
+end group
+@enduml

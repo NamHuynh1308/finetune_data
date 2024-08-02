@@ -1,0 +1,8 @@
+@startuml
+participant "reprieve goo" as 0
+autonumber 3 9
+0 -> 0!! : languages oink
+0 -> 0: handbags gnat
+0 --//o 0: bustier gator
+0 <-> 0: gray tonight
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+start
+group whammo monarchs
+:fry occasion; <<output>>
+-> twelfth stronghold;
+stop
+end group
+@enduml

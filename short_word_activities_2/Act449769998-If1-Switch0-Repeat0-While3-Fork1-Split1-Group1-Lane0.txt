@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:imitating discovers;
+split again
+-[hidden]->
+:shagged ewe; <<output>>
+split again
+-[hidden]->
+fork
+:grasshopper taxis;
+fork again
+:licking hibernating;
+fork again
+:lacerations ooze;
+fork again
+:gifts biotech; <<load>>
+end merge
+end split
+while (synapses scoliosis?) is (sacks rates)
+backward:frustrated city;
+endwhile (audacity rekindle)
+:merger acupuncturist;
+while (unattractive corpse?) is (sally elapsed)
+backward:gunning thickening;
+:extensions restricted;
+-> steadfast compliment;
+endwhile (factoring furthering)
+:consults disciplines;
+group guarantee ahoy
+while (easy hills?) is (puff rescinded)
+backward:maker kneeling;
+if (toasty democrats?) then (rotten fools)
+(internationally accordance) elseif (serenade status?) then (menu ultimatum)
+:jug monitoring; <<output>>
+-> recapture granger;
+(passionate afternoons) elseif (buckets shackled?) then (lasers compatible)
+:avoid grabby; <<continuous>>
+(events however) elseif (headlining books?) then (disloyal cheeks)
+:police condone; <<output>>
+endif
+:ambrosia lozenges; <<output>>
+-> finalizing moths;
+:glitch torrent;
+-> larger fry;
+endwhile (hassled timeline)
+:auditing bayonet;
+stop
+end group
+@enduml

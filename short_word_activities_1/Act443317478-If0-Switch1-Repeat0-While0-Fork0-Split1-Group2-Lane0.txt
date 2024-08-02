@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:eaten infraction;
+split again
+-[hidden]->
+:patriotic forthright;
+-> scraped fen;
+split again
+-[hidden]->
+:dotty weds; <<task>>
+split again
+-[hidden]->
+switch (sangria endlessly?)
+case (rainier guardian?)
+:whisked chlorine;
+case (chooses scarier?)
+:being repeating;
+endswitch
+end split
+group grades themselves
+:en economically; <<save>>
+group strategically privy
+:simplest rebelling;
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,77 @@
+@startuml
+split
+-[hidden]->
+:general ammo;
+split again
+-[hidden]->
+:centuries gentler; <<load>>
+-> busload bagpipes;
+split again
+-[hidden]->
+:orbed condiment; <<procedure>>
+split again
+-[hidden]->
+:gender negotiable;
+-> carvers playthings;
+end split
+repeat
+:danger gets;
+if (discriminated forth) then (chirping morons)
+:carolling bulimic;
+break
+endif
+->dissuade forage;
+:intended diligence;
+backward:subjected proliferation;
+backward:preference heroics;
+repeat while (clocking cherish?) is (vouched romping)
+while (nip hooligans?) is (pompoms laws)
+repeat
+:catastrophe seaplane;
+:sterner maids; <<output>>
+-> severity compulsive;
+backward:car bro;
+repeat while (afoot dresses?) is (exhibition punky)
+backward:derail buys;
+backward:cypress juror;
+split
+:target paved;
+split again
+:pedal tolls; <<load>>
+-> legs wavered;
+split again
+:shoehorn gladly; <<procedure>>
+-> lovingly headaches;
+end split
+endwhile (indicted foxhole)
+:execs cavity;
+group national drinkers
+if (sculptures goldenrod?) then (swans dictatorship)
+fork
+:weddings contesting;
+fork again
+:salami jailbreak; <<save>>
+-> enormously regent;
+fork again
+:cleared fabricate; <<save>>
+fork again
+:logger scuzzy;
+end merge
+else (original foretold)
+:dim shortcomings; <<save>>
+-> oxymoron steer;
+:tens effects; <<task>>
+-> trickier enterprises;
+while (line unplanned?) is (loo reproach)
+:lint designing;
+-> trippy secondly;
+:noon politely; <<input>>
+:example astronauts; <<load>>
+-> crimes realist;
+endwhile (transatlantic scammed)
+-[hidden]->
+detach
+endif
+stop
+end group
+@enduml

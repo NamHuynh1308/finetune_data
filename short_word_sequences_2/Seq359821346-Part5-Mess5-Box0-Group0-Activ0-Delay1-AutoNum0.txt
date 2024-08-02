@@ -1,0 +1,13 @@
+@startuml
+participant "barfed obliged" as 0
+participant "pedal lamp" as 1
+participant "matches peasant" as 2
+participant "powering serve" as 3
+participant "cog tabloid" as 4
+1 ->o 0: connoisseur delegate
+0 <-> 2: barroom snatchers
+1 ->> 2: crises impressing
+0 -> 2!! : gridlock gasket
+...examine uptake...
+0 <-] : matching terrorists
+@enduml

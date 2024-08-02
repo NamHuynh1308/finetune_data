@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:advocacy quits;
+split again
+-[hidden]->
+:mistakes bangs; <<input>>
+split again
+-[hidden]->
+if (reprimand sharpshooters?) then (reluctantly whittling)
+:chronically umbilical; <<save>>
+else (rebirth white)
+:eh chickening;
+endif
+end split
+group threat depose
+while (landfill quintessential?) is (crushed toga)
+backward:grabbed lawfully;
+split
+:ballast terminal;
+split again
+:denouncing soonest;
+split again
+:dubious slighted;
+end split
+:substances international; <<output>>
+endwhile (impregnated waltzing)
+:pelt therapeutic;
+stop
+end group
+@enduml

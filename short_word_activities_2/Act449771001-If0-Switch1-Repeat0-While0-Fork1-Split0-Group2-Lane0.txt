@@ -1,0 +1,27 @@
+@startuml
+start
+group provolone riddled
+switch (airplane courting?)
+case (knuckles persecute?)
+fork
+:racer synthesize;
+fork again
+:puberty helps; <<procedure>>
+fork again
+:praised cups;
+fork again
+:disgruntled doctors;
+end fork
+case (deposition adoration?)
+:contraband dossier; <<save>>
+case (castor twice?)
+:trout frustration; <<procedure>>
+-> disposal crunches;
+endswitch
+group nutshell cruising
+:landlords posture; <<load>>
+-> be mantra;
+stop
+end group
+end group
+@enduml

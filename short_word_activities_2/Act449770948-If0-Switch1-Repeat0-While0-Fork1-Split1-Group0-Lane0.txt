@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:remembering humor;
+split again
+-[hidden]->
+:knelt ranks;
+split again
+-[hidden]->
+:firehouse foresee; <<procedure>>
+-> construction dibs;
+split again
+-[hidden]->
+switch (homicidal agitated?)
+case (blasters trusts?)
+:basic seppuku; <<save>>
+-> halfway lovelies;
+case (gasses anthology?)
+:conservatory shelter;
+case (eliminate marathon?)
+:interpretive findings;
+case (pa headlock?)
+:electronic recommends;
+endswitch
+end split
+fork
+:devastation feta;
+fork again
+:throttle identifying; <<procedure>>
+fork again
+:snowing foliage; <<save>>
+-> utensils ban;
+end merge
+:temp rain; <<procedure>>
+end
+@enduml

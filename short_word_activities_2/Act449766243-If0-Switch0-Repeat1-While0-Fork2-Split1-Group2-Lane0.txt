@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:fragments choir;
+split again
+-[hidden]->
+fork
+:vandalism incarceration;
+fork again
+:environment stun;
+fork again
+:pneumonia president;
+end fork
+split again
+-[hidden]->
+:vindictive communing; <<save>>
+-> cockroach bogs;
+split again
+-[hidden]->
+:donated questionnaire; <<load>>
+-> rehabilitate winking;
+end split
+group paroled curve
+:references overview; <<save>>
+-> dimension clocked;
+fork
+:evolutionary destroys;
+fork again
+:ugly intermittent;
+-> gutting satisfies;
+fork again
+:fountains muss; <<continuous>>
+fork again
+:slumped instances; <<continuous>>
+end merge
+end group
+group jingles diathesis
+repeat
+:soot compassionate; <<save>>
+backward:bulletin fared;
+:hereditary wheeler; <<load>>
+-> cargo bend;
+repeat while (vindication projects?) is (sent commode)
+stop
+end group
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "final negotiation" as 0
+participant "spruce sudden" as 1
+box "insult interfered"
+participant "inquest dirk" as 2
+end box
+== strumpet loops ==
+autonumber 0 5
+1 ->] : floating commissary
+autonumber stop
+1 <-] : scribble goblins
+autonumber resume
+break creeds detached
+1 -\\ 2: cools syllabus
+alt rogues hailed
+0 -// 0: library disruptions
+end
+end
+@enduml

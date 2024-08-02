@@ -1,0 +1,20 @@
+@startuml
+participant "calculated routing" as 0
+box "furnace sponges"
+participant "aptitude coolant" as 1
+participant "hear advises" as 2
+end box
+== poetry fowler ==
+autonumber 10 4
+alt managers throw
+1 ->] : truthfully responsive
+0 -> 1: mumbled framed
+autonumber stop
+else recognizes boast
+2 -->x 2++ : immigration welfare
+end
+...veterinarian hows...
+1 <-> 0: buffer fists
+return investing cherub
+autonumber resume
+@enduml

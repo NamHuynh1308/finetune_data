@@ -1,0 +1,20 @@
+@startuml
+participant "burying leafy" as 0
+participant "mowing silent" as 1
+participant "yang stocky" as 2
+participant "grows strategizing" as 3
+autonumber 8 4
+create participant "improving increments" as 4
+2 -> 4 : improving increments
+0 ->o 3++ : fingerprints restless
+ [<- 1: plunder sweetbreads
+critical reserved sixth
+...obi limelight...
+1 -> 2!! : anytime bunches
+return hummus pitch
+3 ->o 3++ : anyhow clement
+...sabotaging signature...
+3 -> 1: deceive polarity
+end
+return calzone canals
+@enduml

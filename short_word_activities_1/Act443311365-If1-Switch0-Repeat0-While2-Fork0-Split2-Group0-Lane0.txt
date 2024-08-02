@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:zip hairstyles;
+split again
+-[hidden]->
+:impediment cramp; <<input>>
+split again
+-[hidden]->
+:bullet knives; <<continuous>>
+-> squiggly step;
+end split
+:tweed crime; <<load>>
+-> pear kindest;
+split
+:referee hombre;
+split again
+if (eloped sweeter?) then (fertility added)
+:shockingly slate; <<output>>
+-> melding lecture;
+:unconsciously disillusioned;
+while (wining darkest?) is (furthest quixote)
+backward:pelts joust;
+:assisting authenticate;
+backward:nana prostitutes;
+endwhile (piecing viewpoint)
+-[hidden]->
+detach
+else (lowdown empty)
+:blacks inhabitants;
+:fries countryside; <<continuous>>
+-> contain serviced;
+endif
+split again
+while (ultimate delta?) is (rechecked underestimated)
+backward:eraser reconciliation;
+endwhile (weeping conservatory)
+:groundhog convincing;
+end split
+stop
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+box "insuring peeved"
+participant "inmate detention" as 0
+participant "turner upcoming" as 1
+end box
+1 ->o 0: eccentricities slowly
+1 ->> 1: minimalist pose
+1 -> 1: carve murderers
+critical injury foster
+0 -> 1: addict benefit
+0 -> 0!! : blinds dreading
+end
+@enduml

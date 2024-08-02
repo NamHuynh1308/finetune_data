@@ -1,0 +1,41 @@
+@startuml
+|1| learnt rationalize
+|2| motorbike tanker
+split
+-[hidden]->
+:digested drank;
+split again
+-[hidden]->
+:amphetamines genuine;
+split again
+-[hidden]->
+split
+:unfortunate kitties;
+split again
+:suitcases fellas; <<output>>
+split again
+:executive alteration;
+end split
+split again
+-[hidden]->
+:bistro sinus; <<input>>
+end split
+switch (sunk tickle?)
+case (ketchup skinner?)
+:mono banal; <<task>>
+case (wolf dialed?)
+repeat
+:deets trashy;
+backward:staggered temperament;
+repeat while (juniper blows?) is (carburetor hyenas)
+-> delusions adoration;
+case (unexpected maneuvers?)
+:peep knowledge;
+endswitch
+|2|
+:pleaser mystifying; <<continuous>>
+-> binder transgressions;
+:exhibits thongs;
+|1|
+:fink seduce;
+@enduml

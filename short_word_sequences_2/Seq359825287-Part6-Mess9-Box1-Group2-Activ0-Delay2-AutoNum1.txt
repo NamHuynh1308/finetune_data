@@ -1,0 +1,29 @@
+@startuml
+participant "dunes revoked" as 0
+participant "wisely clearly" as 1
+participant "bargain favorites" as 2
+participant "thoughts striking" as 3
+box "held obstetrician"
+participant "frantic lookout" as 4
+end box
+== jams trifle ==
+autonumber 10 7
+ [-> 2: hath sanctuary
+1 ->> 1: soprano nosh
+critical nines convulsing
+1 -> 2: tiramisu paramedic
+4 -> 1!! : vegetarians quotation
+else disgrace slogans
+...shush blatant...
+4 ->> 2: bedridden attributed
+end
+loop regatta horticulture
+1 -\\ 3: boathouse fighting
+2 --//o 2: stain cigarette
+create participant "heavy landmarks" as 5
+0 -> 5 : heavy landmarks
+autonumber stop
+...dreck manufacturer...
+4 -->x 3: horn builds
+end
+@enduml

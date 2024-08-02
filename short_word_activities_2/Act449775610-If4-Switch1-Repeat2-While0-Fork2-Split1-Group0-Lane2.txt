@@ -1,0 +1,81 @@
+@startuml
+|1| chromosomes preacher
+|2| expenditures marginal
+fork
+:vaccinated treadmill;
+fork again
+if (organizing doubles?) then (chevy petal)
+(first yes) elseif (papayas viruses?) then (grim sierra)
+:concede consulate; <<procedure>>
+(detectors misreading) elseif (papers sweeper?) then (snowflake rapids)
+:blowup drowned; <<procedure>>
+(fast shower) elseif (purse tossing?) then (crying thrown)
+:flyboy shiv; <<task>>
+endif
+fork again
+:canton contortionist; <<procedure>>
+fork again
+if (victories derives?) then (individually lease)
+(responses licked) elseif (unite controlling?) then (throughout urging)
+:anna fared;
+(beggar freelance) elseif (farthing sympathy?) then (harass slicker)
+:unhappy viola; <<procedure>>
+(unfinished brag) elseif (sandbox abrupt?) then (automaton collaborate)
+:moonlighting validity; <<input>>
+endif
+end fork
+:ozone exigent;
+-> incidence elephants;
+|2|
+:crowning worship; <<input>>
+split
+:cares declined;
+split again
+repeat
+:imagery decomposing; <<output>>
+:bands blitz; <<procedure>>
+repeat while (diphtheria aloft?) is (checkmate lose)
+-> harrowing champagne;
+split again
+if (lidocaine undergo?) then (fled undercut)
+:pursuits hallucination; <<procedure>>
+-> wastebasket favours;
+:bank john;
+:apple vendor; <<load>>
+else (sink tactic)
+:barefoot intervene; <<output>>
+:heeled unselfish;
+kill
+endif
+split again
+if (featuring polling?) then (informs shards)
+:interchangeable beggars;
+:dainty atropine; <<load>>
+:unfair illegal; <<task>>
+-> reborn highly;
+else (spotlights reeks)
+:attributes trains;
+kill
+endif
+end split
+|1|
+switch (strongly buckeyes?)
+case (looks geeky?)
+repeat
+backward:yards fixes;
+backward:cereal customs;
+repeat while (nominal groundskeeper?) is (scenes bubbies)
+-> wondering participation;
+case (fanning proposing?)
+fork
+:firewater path;
+fork again
+:barricade obscenity;
+kill
+fork again
+:bribing tangle; <<continuous>>
+fork again
+:cypress weirdoes; <<task>>
+end merge
+endswitch
+@enduml

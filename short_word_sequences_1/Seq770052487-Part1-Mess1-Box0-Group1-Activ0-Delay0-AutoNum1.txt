@@ -1,0 +1,8 @@
+@startuml
+participant "bipolar tradeoff" as 0
+== reveals triangle ==
+autonumber 3 0
+opt anecdote shriveled
+ [<- 0: honestly tykes
+end
+@enduml

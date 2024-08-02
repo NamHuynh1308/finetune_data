@@ -1,0 +1,23 @@
+@startuml
+participant "meanness ferry" as 0
+participant "positions murphy" as 1
+participant "manhattan properties" as 2
+box "majestic bombers"
+participant "extinguish roach" as 3
+end box
+3 -->x 3: blazing urgency
+0 ->> 1: oodles cohesion
+critical opium affirm
+ [-> 2: additions digs
+...deterrent pregnancies...
+1 --//o 1++ : stumped stripper
+0 --//o 3++ : misses longest
+create participant "synonymous omelet" as 4
+2 -> 4 : synonymous omelet
+return tripped unexpectedly
+end
+...fixture shrinkage...
+1 -> 0: panned pyramids
+return laptop abundantly
+3 -->x 4: swore constable
+@enduml

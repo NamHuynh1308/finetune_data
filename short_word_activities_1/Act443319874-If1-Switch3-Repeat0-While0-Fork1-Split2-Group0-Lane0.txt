@@ -1,0 +1,59 @@
+@startuml
+split
+-[hidden]->
+:wonderland dominick;
+split again
+-[hidden]->
+switch (rhinoceros blotter?)
+case (cathartic pathogen?)
+:prerogative tackle; <<continuous>>
+case (stepped routes?)
+:vitamins trampling;
+endswitch
+split again
+-[hidden]->
+:virtue foreclosure; <<output>>
+end split
+fork
+:overwhelmingly beeswax;
+fork again
+switch (bedrooms fishnet?)
+case (slaps bulbs?)
+:forty setback;
+case (guts motorcycles?)
+:observable enriching; <<procedure>>
+-> determined crossword;
+case (icebox virginity?)
+:coveting spirits; <<input>>
+case (ceased modus?)
+:punctuation considerate;
+endswitch
+fork again
+:outrageously rotted; <<procedure>>
+end merge
+switch (acclimate reds?)
+case (leak brides?)
+:eaten replicate;
+-> cactus piddles;
+case (advisable ached?)
+if (remaining verbal?) then (deflection radioed)
+(intimacy caseload) elseif (ideals hostility?) then (arrears purgatory)
+:hay bobbing; <<procedure>>
+(smelt preceded) elseif (snuggled woes?) then (flattery experimenting)
+:amateurs timber;
+(rapid helps) elseif (robes hearsay?) then (circulatory eddy)
+:maintaining sprinkle;
+(additions interaction) elseif (trampling handcuffs?) then (jackass sailboat)
+:mutants deluded; <<task>>
+-> talked greatness;
+endif
+case (shuts blight?)
+split
+:valid tusk;
+split again
+:flaunt fantasyland;
+split again
+:presenting butting; <<output>>
+end split
+endswitch
+@enduml

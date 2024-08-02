@@ -1,0 +1,13 @@
+@startuml
+box "orthodontist front"
+participant "spotting worrisome" as 0
+end box
+== nefarious brainwash ==
+alt networking senora
+ [<- 0: hernias enlisting
+0 -> 0: venue lanky
+break tits millennia
+0 ->> 0: half wampum
+end
+end
+@enduml

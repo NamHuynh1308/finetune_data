@@ -1,0 +1,8 @@
+@startuml
+participant "motley commodity" as 0
+== fogged brioche ==
+opt morello wildcat
+0 ->] : hit shoveled
+0 ->o 0: manifest dismissal
+end
+@enduml

@@ -1,0 +1,67 @@
+@startuml
+|1| calculator looting
+|2| twos clinging
+split
+-[hidden]->
+:blocking checking;
+split again
+-[hidden]->
+:spasm dive; <<output>>
+-> shared so;
+split again
+-[hidden]->
+split
+:spies stocked;
+split again
+:hags showbiz;
+split again
+:lapsed idiocy; <<procedure>>
+-> sleepless poke;
+end split
+end split
+:twigs lanky; <<output>>
+-> although awards;
+|2|
+while (components immodest?) is (discussion alpine)
+repeat
+:can sea; <<input>>
+-> advent measure;
+backward:lei triggered;
+:noses poorhouse;
+repeat while (presided nonchalant?) is (begrudge pyre)
+-> discotheque upright;
+:seashell establishment; <<input>>
+-> metallic baker;
+backward:pageant banquet;
+endwhile (time epsilon)
+:tattle cloud;
+|1|
+:zesty unspoken; <<procedure>>
+if (wormed objections?) then (matron valet)
+(twins fraternity) elseif (unarmed stodgy?) then (bellhops screens)
+:nance plaything; <<output>>
+(riot commandment) elseif (scrubbed focal?) then (resides wading)
+:ridiculed excursions; <<input>>
+(theorem dandy) elseif (buggered agitators?) then (cyborg deceptive)
+:quints links;
+-> paddock skinner;
+endif
+switch (stocking dirt?)
+case (ploy eyeball?)
+:improvements invest; <<procedure>>
+-> rinse ginseng;
+case (briefing surreal?)
+if (smackers changes?) then (typed perch)
+(bordeaux horse) elseif (meanest camels?) then (close cowering)
+:flowing potent;
+(alpine petition) elseif (hugs refugees?) then (foe grandkids)
+:chase admiral; <<continuous>>
+(haircuts caved) elseif (operational malignant?) then (exceeding see)
+:horrified influence; <<task>>
+(management mountainside) elseif (psychotherapy silken?) then (pounds paths)
+:onboard boarding; <<load>>
+endif
+case (experiments multiples?)
+:closely masters;
+endswitch
+@enduml

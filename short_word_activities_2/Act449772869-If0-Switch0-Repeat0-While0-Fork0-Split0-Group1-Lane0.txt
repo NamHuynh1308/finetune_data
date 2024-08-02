@@ -1,0 +1,9 @@
+@startuml
+group controlled pled
+:wartime doohickey; <<save>>
+-> shortcomings handbook;
+:capturing comprehending; <<procedure>>
+-> eking mousse;
+end group
+stop
+@enduml

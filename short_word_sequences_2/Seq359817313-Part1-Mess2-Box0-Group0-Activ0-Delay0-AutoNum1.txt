@@ -1,0 +1,7 @@
+@startuml
+participant "vegan regroup" as 0
+autonumber 2 8
+0 -> 0!! : creamed de
+0 -> 0!! : agendas inspired
+autonumber stop
+@enduml

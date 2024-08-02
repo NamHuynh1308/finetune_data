@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:epsilon eliminated;
+split again
+-[hidden]->
+:tubers surge;
+split again
+-[hidden]->
+:dressing sizzle; <<continuous>>
+-> viceroy rephrase;
+split again
+-[hidden]->
+if (characterized swami?) then (undressing zero)
+:jeopardized intending; <<continuous>>
+-> mommies capping;
+:stored communicator; <<load>>
+-> titles healthy;
+:exhumation henchman; <<procedure>>
+-> clubhouse associates;
+else (wrapper hesitate)
+:imaginary determining; <<save>>
+:grader summarize;
+kill
+endif
+end split
+group acquisition drawers
+:pitting stupider; <<load>>
+-> respectively mag;
+:stereo clipper;
+end group
+end
+@enduml

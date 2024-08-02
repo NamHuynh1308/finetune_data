@@ -1,0 +1,17 @@
+@startuml
+start
+fork
+:bios snowmobiles;
+fork again
+:absorbed ninja;
+kill
+fork again
+:protecting canceled; <<input>>
+-> artist interview;
+fork again
+:hotdog troupe;
+-> antenna pissed;
+end merge
+:paisley nightstand;
+stop
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+participant "facedown mutton" as 0
+box "specs convinced"
+participant "swatting bohemian" as 1
+participant "yelled disagree" as 2
+end box
+participant "boathouse wildfire" as 3
+participant "drowsy former" as 4
+== sumptuous kids ==
+0 --> 1: endeavour hazards
+loop framework eject
+3 -> 4: legislature expedited
+4 -> 3: decisions coolant
+alt teddy clearly
+4 ->] : sideboard ere
+0 ->> 3: evolve hurst
+end
+4 <-> 4: limber coed
+create participant "cutesy rains" as 5
+3 -> 5 : cutesy rains
+2 ->] : bookshelves sofas
+end
+4 ->] : negotiable prick
+@enduml

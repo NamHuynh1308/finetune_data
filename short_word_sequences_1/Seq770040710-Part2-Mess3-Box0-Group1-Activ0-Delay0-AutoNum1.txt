@@ -1,0 +1,11 @@
+@startuml
+participant "disposable morale" as 0
+autonumber 3 7
+critical sloshed warsaw
+0 -\\ 0: prodded rumble
+ [-> 0: cranny rooming
+create participant "mood kudos" as 1
+0 -> 1 : mood kudos
+else grow salted
+end
+@enduml

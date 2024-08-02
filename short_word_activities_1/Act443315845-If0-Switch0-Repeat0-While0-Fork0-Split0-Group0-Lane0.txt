@@ -1,0 +1,5 @@
+@startuml
+start
+:astray pane; <<output>>
+-> connect sunburn;
+@enduml

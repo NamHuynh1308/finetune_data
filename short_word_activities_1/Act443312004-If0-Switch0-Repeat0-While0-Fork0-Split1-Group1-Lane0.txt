@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:stemmed insults;
+split again
+-[hidden]->
+:fairgrounds penises; <<input>>
+-> perennial buster;
+split again
+-[hidden]->
+:medications sponsors; <<task>>
+end split
+group interesting lode
+:celebrates screens; <<task>>
+stop
+end group
+@enduml

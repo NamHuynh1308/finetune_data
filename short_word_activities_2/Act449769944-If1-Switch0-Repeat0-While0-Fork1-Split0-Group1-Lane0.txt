@@ -1,0 +1,25 @@
+@startuml
+group yikes rolf
+fork
+:simp electoral;
+fork again
+if (rookie blockbusters?) then (groupie slink)
+(expectation rebirth) elseif (minivan bumper?) then (haircuts inexplicable)
+:coal hopping; <<input>>
+(stowaways dutiful) elseif (raising forwarding?) then (grassy calamity)
+:double infectious; <<output>>
+(console victorious) elseif (heiress buff?) then (feared transported)
+:squishing skipping; <<save>>
+-> siren luckier;
+endif
+fork again
+:fainting runway; <<save>>
+-> trim neurological;
+fork again
+:back widower; <<input>>
+-> deb ash;
+end merge
+:soup unidentified; <<continuous>>
+end group
+stop
+@enduml

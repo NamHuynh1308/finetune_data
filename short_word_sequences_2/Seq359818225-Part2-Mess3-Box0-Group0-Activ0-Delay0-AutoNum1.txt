@@ -1,0 +1,10 @@
+@startuml
+participant "ten prophet" as 0
+== ultimate beige ==
+autonumber 7 4
+0 ->o 0: blankly bratwurst
+0 <-] : scammed conceived
+autonumber stop
+create participant "earnest formerly" as 1
+0 -> 1 : earnest formerly
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "egos craft" as 0
+participant "melody third" as 1
+autonumber 8 0
+1 -->x 1: diagnostician exhausts
+1 <-] : witnessing smoky
+@enduml

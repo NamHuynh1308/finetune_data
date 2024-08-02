@@ -1,0 +1,10 @@
+@startuml
+box "lures deathbed"
+participant "puke riots" as 0
+end box
+autonumber 2 4
+critical memo overpriced
+0 -->x 0: bee boosters
+autonumber stop
+end
+@enduml

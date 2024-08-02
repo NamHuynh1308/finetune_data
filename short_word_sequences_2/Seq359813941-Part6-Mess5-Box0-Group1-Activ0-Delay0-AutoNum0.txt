@@ -1,0 +1,16 @@
+@startuml
+participant "tilt lynx" as 0
+participant "invoke booking" as 1
+participant "undergarment southeast" as 2
+participant "retrieved credit" as 3
+participant "oxen rapes" as 4
+4 ->] : phenomenally moneys
+create participant "befitting cabernet" as 5
+3 -> 5 : befitting cabernet
+0 ->x 1: shopkeeper booths
+opt publicly taxed
+1 -> 5!! : manage outvoted
+5 ->] : controls matzoh
+else drifting home
+end
+@enduml

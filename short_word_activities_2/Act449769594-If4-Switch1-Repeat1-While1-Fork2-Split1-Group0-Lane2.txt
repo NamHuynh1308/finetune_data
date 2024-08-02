@@ -1,0 +1,96 @@
+@startuml
+|1| lubrication piecing
+|2| unexpected awhile
+split
+-[hidden]->
+:treasury toner;
+split again
+-[hidden]->
+:examining pamper; <<procedure>>
+split again
+-[hidden]->
+if (clown col?) then (provisional pine)
+(sexy pavement) elseif (arbitrary perished?) then (intact rankings)
+:fathom psychological; <<task>>
+-> happy delays;
+(raisins brake) elseif (elves eyebrow?) then (shoplifters tater)
+:mules radiance; <<load>>
+-> compiling compromised;
+(bills anaphylactic) elseif (flux slouch?) then (medic honed)
+:rings peachy; <<procedure>>
+-> gauntlet toughen;
+(hyphen planner) elseif (bashful dust?) then (sap biohazard)
+:horsey depend;
+endif
+split again
+-[hidden]->
+repeat
+:relish moreover;
+-> puddles improperly;
+:performing orgy; <<continuous>>
+:commissioner ballistic; <<procedure>>
+repeat while (canines patrons?) is (almond accused)
+-> underpass affiliated;
+end split
+|2|
+if (typed entree?) then (survived molto)
+:seventies acceleration; <<procedure>>
+:counts stapler; <<output>>
+else (pairs reorganize)
+:insecurities woods; <<load>>
+while (molding stakeout?) is (card mixup)
+:missiles teamwork;
+:make statute;
+endwhile (wiggles dribbles)
+:deluxe cumulative;
+endif
+|1|
+switch (mousey civilisation?)
+case (peat banned?)
+:unavailable streams;
+case (jeopardize heist?)
+:oceanographic shelter; <<save>>
+-> femmes insert;
+endswitch
+:unnerved exploration;
+fork
+:constellation trip;
+fork again
+:illustrate verdict; <<save>>
+fork again
+if (crutches inducement?) then (perimeters pooped)
+(chainsaw yuletide) elseif (spiritual inquisitor?) then (liberties bluster)
+:discussed madman;
+(scoping coolant) elseif (veered mixer?) then (doorknobs gelatin)
+:windowsill essay; <<input>>
+(socks caves) elseif (curly transcript?) then (shooter goo)
+:warehouse pollard; <<output>>
+-> wrists deputy;
+(aboard confronting) elseif (huddled procure?) then (queens veto)
+:accoutrements presumed; <<output>>
+-> snorkel tach;
+endif
+fork again
+:headpiece halibut; <<load>>
+end fork
+fork
+:sidelines furnace;
+fork again
+if (nameless brigade?) then (fearsome evening)
+(steamed audacity) elseif (delicacy dissect?) then (feisty shabbily)
+:adventurer grandeur; <<procedure>>
+-> swung sunscreen;
+(leftover expressed) elseif (deluxe cohesive?) then (leary hurtful)
+:cosmology naked;
+(ogres someday) elseif (militia provisional?) then (stereotypes delete)
+:hatch ugh; <<input>>
+(distortions flaunt) elseif (squinting attempting?) then (abigail toddy)
+:dimensional softness; <<task>>
+endif
+fork again
+:indirectly sol;
+fork again
+:bankruptcy whiff; <<procedure>>
+end merge
+end
+@enduml

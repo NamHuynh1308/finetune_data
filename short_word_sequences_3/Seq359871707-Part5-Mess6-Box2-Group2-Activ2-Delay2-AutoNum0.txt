@@ -1,0 +1,28 @@
+@startuml
+participant "wrangler manifold" as 0
+box "aerial imitating"
+participant "strolls fiddler" as 1
+box "queasy deluge"
+participant "shootout riveting" as 2
+participant "parks affairs" as 3
+end box
+end box
+== deeply wringing ==
+0 -->x 3++ : rotten sexiest
+par fanfare trips
+...fizzled foxes...
+ [-> 1: closure deciphering
+return significance team
+critical sook tricked
+...volition boss...
+0 --> 1++ : cloistered darling
+create participant "mayoral stifle" as 4
+0 -> 4 : mayoral stifle
+return latte completed
+2 -// 2: pelting lakers
+else chunky entered
+3 ->] : displacement ear
+else brooch ensued
+end
+end
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "sayings downriver" as 0
+participant "bidder son" as 1
+participant "preservation untimely" as 2
+participant "breed ruined" as 3
+== schizophrenic ess ==
+1 ->o 2: darken wail
+1 ->> 1: auditioning spritzer
+2 -> 1!! : unequivocally heist
+ [<- 0: fiery senorita
+3 -\\ 2++ : dealings concerts
+critical jellyfish both
+3 -// 1: lingo scrapped
+end
+return molten turns
+@enduml

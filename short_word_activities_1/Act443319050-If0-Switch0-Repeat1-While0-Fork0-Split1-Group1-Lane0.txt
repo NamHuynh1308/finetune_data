@@ -1,0 +1,15 @@
+@startuml
+group dehydration racking
+repeat
+split
+:rude oblique;
+split again
+:overachiever groping;
+split again
+:auto redundant; <<output>>
+end split
+backward:uses ornaments;
+repeat while (angora lodged?) is (til samurai)
+stop
+end group
+@enduml

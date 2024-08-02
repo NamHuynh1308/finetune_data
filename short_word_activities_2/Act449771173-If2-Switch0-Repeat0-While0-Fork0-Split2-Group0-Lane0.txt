@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:choices absolute;
+split again
+-[hidden]->
+if (check snazzy?) then (capitalists maternal)
+:duel cupcake;
+:disclosed garbage; <<save>>
+-> veils photographs;
+kill
+else (eczema starling)
+:hooked rushed;
+:loose railroading; <<save>>
+:muckraker selves; <<procedure>>
+endif
+split again
+-[hidden]->
+:lean wanderer; <<input>>
+split again
+-[hidden]->
+:list berry; <<procedure>>
+end split
+if (mignon fluids?) then (assault bigotry)
+:churches campos; <<save>>
+:adoptive nuttier; <<input>>
+kill
+else (nunnery beautifully)
+:cupcake protracted; <<save>>
+split
+:significant philosophers;
+split again
+:attempt fascism;
+split again
+:verger endorsement; <<procedure>>
+end split
+:easy begat; <<procedure>>
+kill
+endif
+stop
+@enduml

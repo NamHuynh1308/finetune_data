@@ -1,0 +1,12 @@
+@startuml
+participant "wastebasket hedges" as 0
+participant "hothouse casa" as 1
+participant "contain startle" as 2
+participant "attach garner" as 3
+autonumber 4 8
+1 ->> 2: clinic calmly
+1 <-> 3: framed clunker
+2 --//o 3: feisty fraud
+3 -> 2: take moist
+1 ->o 2: sheer juncture
+@enduml

@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:barrage sonnet;
+split again
+-[hidden]->
+:napping dared;
+split again
+-[hidden]->
+:brouhaha fame; <<output>>
+end split
+:publish signed; <<continuous>>
+if (apropos protests?) then (outlived pollack)
+switch (rumpus creator?)
+case (adviser misunderstandings?)
+:overpaid casa;
+case (frantic potion?)
+:undergarment stumbling;
+endswitch
+:described recount;
+-> prison ribbons;
+:unfair replay; <<save>>
+-> comeuppance teriyaki;
+else (symbolism stupidest)
+split
+:fearless bod;
+split again
+:inhabitants state;
+split again
+:limps useless;
+split again
+:sneaker ensconced;
+end split
+endif
+end
+@enduml

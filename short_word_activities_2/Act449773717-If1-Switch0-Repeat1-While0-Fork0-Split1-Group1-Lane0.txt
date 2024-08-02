@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:consulted circus;
+split again
+-[hidden]->
+:aerial nineteenth;
+split again
+-[hidden]->
+:medevac euthanasia; <<load>>
+split again
+-[hidden]->
+:bumpkins utilize; <<task>>
+end split
+:telescope quotes; <<output>>
+-> dyed snakebite;
+group simulator companies
+repeat
+if (in chang?) then (shambles reacted)
+(orchestrating docs) elseif (whacko chords?) then (breeze erasing)
+:interference outburst; <<load>>
+(jiffy heathen) elseif (entering torching?) then (dependable optimist)
+:sunburn lower; <<save>>
+-> noble brother;
+(stunted chandelier) elseif (today maudlin?) then (bruises roadie)
+:mundane creamy; <<output>>
+endif
+repeat while (cursing spears?) is (introduced crash)
+-> sometimes animosity;
+:tail enables; <<task>>
+end group
+end
+@enduml

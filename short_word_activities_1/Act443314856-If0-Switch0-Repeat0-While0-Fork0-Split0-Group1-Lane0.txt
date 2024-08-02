@@ -1,0 +1,6 @@
+@startuml
+group marshal pooling
+:doll boo; <<output>>
+stop
+end group
+@enduml

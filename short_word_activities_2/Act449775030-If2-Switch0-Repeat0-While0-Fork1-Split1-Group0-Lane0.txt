@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:satisfied handful;
+split again
+-[hidden]->
+:whispering greek; <<continuous>>
+-> rhymed unbecoming;
+split again
+-[hidden]->
+:sage poodles; <<save>>
+split again
+-[hidden]->
+:stings potted; <<task>>
+-> gut chance;
+end split
+fork
+:catering barfed;
+fork again
+:identifying overdone; <<output>>
+fork again
+:belonged yodel; <<procedure>>
+fork again
+if (jailbird gat?) then (curb nerve)
+(malnourished invisible) elseif (hijacking models?) then (clumsiness sizing)
+:tourism showbiz;
+(saturation effectiveness) elseif (unimpressed hydraulic?) then (hammering creamy)
+:crushing sarcoidosis;
+(girly payable) elseif (fulfilling fizz?) then (shattering preventative)
+:opted horrified;
+endif
+end fork
+:mac fledgling; <<save>>
+-> rockets dynamics;
+if (cornucopia lured?) then (illustrates deadbeat)
+(heh drunks) elseif (flavours blindly?) then (perky outfitted)
+:returned competent; <<procedure>>
+(handcuffs harmonious) elseif (exaggerating nonnegotiable?) then (personality party)
+:pentagon clubbed; <<output>>
+endif
+@enduml

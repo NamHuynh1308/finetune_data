@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:biscuit remotely;
+split again
+-[hidden]->
+:except weighted;
+split again
+-[hidden]->
+if (commandos concentrated?) then (representing carotid)
+(disfiguring coincidences) elseif (nub feign?) then (sample billiard)
+:memento clammy; <<save>>
+(toupee prairie) elseif (boxers attended?) then (assertiveness singles)
+:van cents;
+-> hooks thrall;
+endif
+end split
+group docked rejecting
+:socket regularity; <<procedure>>
+stop
+end group
+@enduml

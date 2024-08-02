@@ -1,0 +1,56 @@
+@startuml
+|1| forgiving eagles
+|2| sublime karaoke
+split
+-[hidden]->
+:manhattan almonds;
+split again
+-[hidden]->
+:wrestle fourteen;
+kill
+split again
+-[hidden]->
+:jeopardized oversee;
+split again
+-[hidden]->
+:punchy dominion; <<save>>
+-> apple mesquite;
+end split
+|2|
+repeat
+if (perpetual verified?) then (ruling dingo)
+:pimply depressing;
+kill
+else (wasps belligerent)
+:spoonful evaluating;
+-> fielding rockets;
+:lear fatherhood; <<task>>
+while (radioactive withheld?) is (immune router)
+backward:psychiatrists knows;
+backward:admires renege;
+:specials titties; <<input>>
+:illustrates bloc; <<task>>
+-> booted swiping;
+endwhile (macho downward)
+-[hidden]->
+detach
+endif
+if (laxative brotherhood?) then (beers limitations)
+:weds signed;
+:production prompter; <<input>>
+kill
+else (underlings drips)
+:run infants; <<output>>
+endif
+repeat while (curb doom?) is (downside advantage)
+-> cyborg pyramids;
+:blithering imposter; <<task>>
+-> absolved harry;
+:swanky depressed; <<output>>
+|1|
+:freezers inhabit;
+-> braggart appliance;
+|2|
+:weight sarcophagus; <<task>>
+end
+@enduml

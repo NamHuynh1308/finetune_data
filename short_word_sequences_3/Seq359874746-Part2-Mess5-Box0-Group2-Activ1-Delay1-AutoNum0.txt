@@ -1,0 +1,17 @@
+@startuml
+participant "rioting justice" as 0
+participant "seconds rolls" as 1
+== despise banner ==
+1 -> 0++ : rentals faded
+loop publisher casualties
+...caboose traverse...
+1 ->o 0: deliberate pretzels
+return bureaucrat mangled
+ [-> 1: penned shapes
+alt cocoa drone
+1 --> 1: invitation dogs
+ [-> 1: browbeating clubbed
+else welcomed lapdog
+end
+end
+@enduml

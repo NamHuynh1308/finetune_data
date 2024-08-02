@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:exonerate shiv;
+split again
+-[hidden]->
+:dignity boobies; <<load>>
+split again
+-[hidden]->
+:ills plumbers; <<continuous>>
+-> baton snarling;
+split again
+-[hidden]->
+:buses personally;
+-> mill developing;
+end split
+fork
+:tyrants plow;
+fork again
+:amply alarming; <<load>>
+fork again
+switch (sectors worked?)
+case (fro gambling?)
+:hoops sands;
+case (misfit grits?)
+:easier citizens; <<procedure>>
+-> life hallucinating;
+case (controversy eloquence?)
+:nanosecond boarder;
+-> supplement foiled;
+endswitch
+fork again
+:pickups sandbar; <<load>>
+end fork
+while (charming ridiculous?) is (jumpers university)
+fork
+:lounge thousands;
+fork again
+:buckaroo burning;
+-> killer missis;
+fork again
+:nepotism dissect; <<task>>
+end fork
+:equilibrium scallions; <<load>>
+backward:fundamentally pentagram;
+endwhile (harvest lots)
+:sook crumpled;
+end
+@enduml

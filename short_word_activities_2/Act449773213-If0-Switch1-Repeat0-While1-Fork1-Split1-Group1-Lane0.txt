@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:learn homeopathic;
+split again
+-[hidden]->
+:undertow regarded; <<save>>
+-> comatose buckled;
+split again
+-[hidden]->
+switch (bo flowing?)
+case (chisel scalp?)
+:scrapes ejection; <<continuous>>
+case (bronchial diploma?)
+:bailiff traditional; <<continuous>>
+-> entrusted kissing;
+case (organize always?)
+:stray directory;
+kill
+case (shipwrecked juvenile?)
+:relationship stiffer;
+endswitch
+end split
+while (exterminator commoner?) is (unfortunately bosomy)
+:handling councilors;
+backward:doubt gobbledygook;
+:war stasis;
+-> harms lagging;
+:collections chapter; <<procedure>>
+endwhile (crippled wayside)
+:yummy peeking;
+:quickly workstation; <<continuous>>
+group creeps electronically
+fork
+:strike music;
+fork again
+:woolly improves; <<procedure>>
+fork again
+:impressions footer; <<continuous>>
+fork again
+:memorized mousey;
+-> touchstone drafty;
+end fork
+stop
+end group
+@enduml

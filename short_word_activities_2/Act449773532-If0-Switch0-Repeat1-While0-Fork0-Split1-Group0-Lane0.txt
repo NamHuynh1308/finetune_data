@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:swoops trackers;
+split again
+-[hidden]->
+:intent misspent;
+split again
+-[hidden]->
+:idiotic users;
+kill
+split again
+-[hidden]->
+:tuxes drawn; <<load>>
+-> impediments merits;
+end split
+repeat
+:hams performers;
+-> teddy delirium;
+:exalted tequila; <<input>>
+:mothering diapers; <<procedure>>
+-> plank squandered;
+repeat while (vail pulmonary?) is (coop sources)
+:spaniel stone; <<continuous>>
+stop
+@enduml

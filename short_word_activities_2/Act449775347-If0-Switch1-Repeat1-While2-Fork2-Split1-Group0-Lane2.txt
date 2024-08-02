@@ -1,0 +1,60 @@
+@startuml
+|1| mopped turbo
+|2| relic communicator
+|1|
+start
+|2|
+split
+:situated deciphering;
+split again
+fork
+:tackled chest;
+fork again
+:traces discourse;
+fork again
+:tool apparent; <<save>>
+end merge
+split again
+fork
+:miserable reggae;
+fork again
+:entrapment violence;
+fork again
+:eats delicates;
+while (calculate glutton?) is (eagle lattes)
+backward:aid overboard;
+:wink ambiance;
+:pouring pitch;
+:bob infidelity;
+endwhile (apartment lumpy)
+-[hidden]->
+detach
+fork again
+:sob tablecloths;
+end fork
+split again
+:confessor forever; <<procedure>>
+end split
+:restore visual; <<continuous>>
+repeat
+:microphone dots; <<input>>
+backward:groupies most;
+switch (wining giver?)
+case (revolution heartbeat?)
+:plastic disguised;
+case (washrooms brig?)
+:communications statements; <<input>>
+-> jaguars upped;
+case (sampling homer?)
+:pedophile preside;
+endswitch
+repeat while (patten digested?) is (tune aggression)
+-> obligated mu;
+|1|
+while (outraged levy?) is (credentials messengers)
+:deathbed transport; <<procedure>>
+-> fault skate;
+backward:podium sinner;
+endwhile (merrily trim)
+:gamble phooey;
+@enduml

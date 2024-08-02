@@ -1,0 +1,8 @@
+@startuml
+box "technology seduction"
+participant "muss incorrect" as 0
+participant "twos bouts" as 1
+end box
+0 ->] : interns coppers
+ [-> 1: deathbed undershirt
+@enduml

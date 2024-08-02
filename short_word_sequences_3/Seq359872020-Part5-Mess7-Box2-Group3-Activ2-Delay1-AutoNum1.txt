@@ -1,0 +1,31 @@
+@startuml
+box "servants fan"
+participant "mediocrity dalton" as 0
+participant "darks youths" as 1
+participant "termination stein" as 2
+participant "tested malevolent" as 3
+end box
+box "overheard stateroom"
+participant "pulse murders" as 4
+end box
+autonumber 2 3
+0 -> 4: trespasser rebellious
+autonumber stop
+alt performs rubbers
+3 -> 3++ : admittance loos
+4 <-] : cake seasoned
+0 ->] : tin insomnia
+else lodge alchemist
+break occupancy spiny
+...qualifying embossed...
+4 -> 0++ : dimmer juror
+par servants loo
+3 -> 4!! : bohemian yokels
+return airport romances
+autonumber resume
+4 --> 2: narrows jeweler
+end
+end
+end
+return heartbreaker oar
+@enduml

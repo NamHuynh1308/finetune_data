@@ -1,0 +1,10 @@
+@startuml
+participant "magically blueberry" as 0
+participant "leaks outwit" as 1
+== gale invented ==
+autonumber 6 5
+0 ->> 0: reroute actin
+loop gorgeous revolutions
+1 -> 0: roll gastric
+end
+@enduml

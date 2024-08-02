@@ -1,0 +1,18 @@
+@startuml
+participant "cathedral collectors" as 0
+autonumber 0 6
+0 -> 0: pry warring
+0 ->o 0++ : bond fabulously
+critical blindfolded blooms
+0 ->o 0: hazards miserable
+...messengers argentine...
+0 --//o 0: paycheck scanning
+else mobilize toughen
+loop picky pressed
+create participant "pushy auctioning" as 1
+0 -> 1 : pushy auctioning
+autonumber stop
+end
+end
+return supportive shark
+@enduml

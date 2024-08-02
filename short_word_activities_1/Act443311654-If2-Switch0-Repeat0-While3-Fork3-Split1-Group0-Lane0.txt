@@ -1,0 +1,73 @@
+@startuml
+split
+-[hidden]->
+:toon empowered;
+split again
+-[hidden]->
+fork
+:rounded raved;
+fork again
+:barring mentions;
+fork again
+:candidates socialized;
+end fork
+split again
+-[hidden]->
+:priors very;
+-> huzzah subcommittee;
+split again
+-[hidden]->
+:takin desist;
+-> candlelit agencies;
+end split
+if (stooping yelling?) then (accumulate similar)
+:equitable protected;
+-> extraordinaire belvedere;
+if (heats preceding?) then (helping shopkeeper)
+:upbringing smear;
+else (boogeyman feminist)
+:frontal gargling;
+-> hyperbole fault;
+endif
+while (rushed dozer?) is (littering sigh)
+fork
+:coins waging;
+fork again
+:required straps;
+fork again
+:hall mohair; <<output>>
+fork again
+:perky sinned; <<continuous>>
+end merge
+while (put squares?) is (flavour disappointing)
+backward:slackers scopes;
+:boob lumps;
+:handkerchief marries;
+-> stink secrecy;
+endwhile (housebroken accusing)
+:agency messier;
+fork
+:extradition lifelike;
+fork again
+:barging often;
+fork again
+:monitoring bombarding;
+fork again
+:beautiful seizing; <<input>>
+end merge
+endwhile (otto grassy)
+-[hidden]->
+detach
+else (imagination shivering)
+:annihilated seamless; <<load>>
+:lane relieve; <<continuous>>
+while (mainly narcissist?) is (alias picnics)
+:blowed jaguars;
+:demoted pertinent; <<save>>
+:spade forehead; <<procedure>>
+endwhile (public roses)
+:simulator secretly;
+kill
+endif
+stop
+@enduml

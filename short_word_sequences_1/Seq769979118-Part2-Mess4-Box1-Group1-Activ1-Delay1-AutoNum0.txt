@@ -1,0 +1,14 @@
+@startuml
+box "explicit conceived"
+participant "drugs theatre" as 0
+participant "leprechaun purged" as 1
+end box
+0 ->o 1: relax chopping
+0 ->x 1: hots grins
+1 -// 1++ : testimony discontent
+alt drink oblivious
+...faxes hemp...
+0 ->] : mornings sugarcoat
+end
+return dissolves dissected
+@enduml

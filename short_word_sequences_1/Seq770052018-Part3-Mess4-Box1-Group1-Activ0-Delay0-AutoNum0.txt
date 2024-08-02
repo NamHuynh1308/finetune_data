@@ -1,0 +1,13 @@
+@startuml
+participant "radically orphans" as 0
+participant "buries crudely" as 1
+box "spears sprinkle"
+participant "convincing count" as 2
+end box
+1 ->] : smeared commit
+0 -\\ 2: koss commercialism
+0 --> 1: cease carvers
+par hellfire extinguish
+2 -> 1: cinematic desk
+end
+@enduml

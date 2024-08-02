@@ -1,0 +1,10 @@
+@startuml
+participant "pursuit capitalists" as 0
+box "pressed skewer"
+participant "docks balls" as 1
+end box
+== parallels gesture ==
+autonumber 5 1
+1 -> 1: nodes hydraulic
+1 --> 0: execution crumbles
+@enduml

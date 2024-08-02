@@ -1,0 +1,22 @@
+@startuml
+split
+:indeterminate completes;
+split again
+:lord operated; <<load>>
+-> holding flourished;
+split again
+if (snazzy matriarch?) then (fondle flawlessly)
+:overwhelm lasers; <<task>>
+else (terrify detect)
+:albatross holier; <<task>>
+while (slobbering gem?) is (depriving gentler)
+:absurdity crunches;
+endwhile (trivial outrageously)
+-[hidden]->
+detach
+endif
+split again
+:supporting lane; <<save>>
+end split
+stop
+@enduml

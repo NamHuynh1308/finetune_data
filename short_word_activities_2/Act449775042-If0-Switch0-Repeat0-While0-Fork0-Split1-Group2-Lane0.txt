@@ -1,0 +1,17 @@
+@startuml
+start
+group veto how
+:bluff kicks; <<input>>
+:worlds styled; <<save>>
+end group
+group dykes intoxicated
+split
+:sleight appendectomy;
+split again
+:judgmental release; <<task>>
+split again
+:smiles bracelets; <<output>>
+end split
+stop
+end group
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+box "defuse institutions"
+participant "baroness strand" as 0
+end box
+== ten oceans ==
+0 ->] : nicest gypped
+0 ->] : twelfth mangled
+@enduml

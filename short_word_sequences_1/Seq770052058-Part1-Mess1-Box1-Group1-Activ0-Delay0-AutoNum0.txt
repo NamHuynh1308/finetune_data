@@ -1,0 +1,8 @@
+@startuml
+box "leaving neighborhood"
+participant "year igneous" as 0
+end box
+break card slay
+ [<- 0: flown imprint
+end
+@enduml

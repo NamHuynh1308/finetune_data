@@ -1,0 +1,7 @@
+@startuml
+start
+group sickness produce
+:jiggling divulged; <<input>>
+stop
+end group
+@enduml

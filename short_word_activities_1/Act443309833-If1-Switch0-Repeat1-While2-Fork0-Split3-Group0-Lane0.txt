@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:equivalent recuse;
+split again
+-[hidden]->
+:couriers prose;
+-> disinherited yak;
+split again
+-[hidden]->
+:dealings scots; <<procedure>>
+split again
+-[hidden]->
+:tractor rajah; <<output>>
+end split
+:miscalculated prophet; <<procedure>>
+repeat
+if (standstill devise?) then (princes nachos)
+:stipulation shotguns;
+else (cloth designers)
+:chalkboard battling; <<input>>
+:sleepwalk vaporize;
+:distinguished vice;
+-> running sledgehammer;
+endif
+backward:synergy eel;
+repeat while (rattle compliment?) is (douche scoot)
+-> violet megaphone;
+split
+:boulevard sacks;
+split again
+split
+:suction cheerleaders;
+split again
+:girlfriends hat; <<task>>
+split again
+:trespass nomad;
+split again
+:respectively backing;
+while (beg distant?) is (circling instructing)
+:sherry citations;
+endwhile (tackling indefinitely)
+-[hidden]->
+detach
+end split
+split again
+:blokes roadway;
+while (occasions hooters?) is (shortsighted costa)
+:melons handrail; <<save>>
+-> hothead steam;
+:surrendering coney; <<load>>
+-> reeves leaf;
+endwhile (deputy correcting)
+-[hidden]->
+detach
+end split
+@enduml

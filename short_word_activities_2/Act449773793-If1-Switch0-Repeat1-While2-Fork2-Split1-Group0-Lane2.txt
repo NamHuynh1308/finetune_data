@@ -1,0 +1,58 @@
+@startuml
+|1| reckoning mating
+|2| concession manifests
+|1|
+start
+:expectations heigh; <<load>>
+-> anise meadows;
+if (beefed reminded?) then (glen party)
+:tweeze grandson; <<output>>
+-> dictatorships endeavour;
+fork
+:quota continuum;
+fork again
+:neat slightest;
+fork again
+:skeletal lend; <<continuous>>
+fork again
+:cushy travelled;
+end merge
+else (sole sanitary)
+:sprain idealistic;
+endif
+while (goals camped?) is (comprehensive scratch)
+:booty mended;
+:panda aggravated;
+endwhile (timid medevac)
+:rarely stakeout;
+fork
+:creamy answer;
+fork again
+:maggot explanatory; <<input>>
+fork again
+:docks shooters; <<task>>
+fork again
+:devastate jawed;
+while (racing sailor?) is (weeny commercially)
+repeat
+backward:hospital hats;
+:leftover outrun;
+-> stones kappa;
+repeat while (pestilence skimpy?) is (madman panned)
+backward:thing hare;
+split
+:cataracts deputies;
+split again
+:ranger planting; <<procedure>>
+-> spiral taut;
+split again
+:toaster underdeveloped; <<output>>
+-> nominating husks;
+end split
+backward:legwork stretcher;
+endwhile (gunman drop)
+-[hidden]->
+detach
+end fork
+stop
+@enduml

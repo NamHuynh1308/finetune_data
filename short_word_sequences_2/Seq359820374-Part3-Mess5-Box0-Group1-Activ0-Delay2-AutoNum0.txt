@@ -1,0 +1,14 @@
+@startuml
+participant "skimmed backroom" as 0
+participant "monitors lunches" as 1
+opt plucking backstage
+1 -> 0: mentally automobile
+...prosecuting pride...
+ [-> 0: waterbed tarzan
+end
+create participant "programming columnists" as 2
+1 -> 2 : programming columnists
+0 -> 2: lime piffle
+...sacrificed sabotaged...
+ [-> 0: films spar
+@enduml

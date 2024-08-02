@@ -1,0 +1,11 @@
+@startuml
+participant "begun munch" as 0
+autonumber 7 2
+break film discrete
+0 ->> 0: muster pad
+opt fights visible
+0 <-] : gluing lieu
+0 <-] : hearing resemble
+end
+end
+@enduml

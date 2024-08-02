@@ -1,0 +1,18 @@
+@startuml
+participant "swat al" as 0
+box "sapiens unorthodox"
+participant "commotion snakebite" as 1
+end box
+autonumber 1 1
+1 -> 1: grazing employers
+1 -> 0: hammered commandos
+autonumber stop
+break cuffs filly
+1 -> 0++ : hugest jesuits
+loop minors smothered
+1 ->> 1: baller wondering
+autonumber resume
+end
+end
+return tempest argyle
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "overcast redress" as 0
+participant "infects totem" as 1
+participant "simplify keel" as 2
+participant "typhoid torpedoes" as 3
+alt fifties intuitive
+1 <-] : paternal provocations
+1 <-> 3: rippling arrive
+else amicable oops
+0 ->] : hearts famous
+end
+...piper intense...
+1 -> 3: granting swelled
+@enduml

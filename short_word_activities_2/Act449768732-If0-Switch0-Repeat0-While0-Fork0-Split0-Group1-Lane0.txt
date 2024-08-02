@@ -1,0 +1,6 @@
+@startuml
+group pounding stag
+:diamond rigged; <<output>>
+stop
+end group
+@enduml

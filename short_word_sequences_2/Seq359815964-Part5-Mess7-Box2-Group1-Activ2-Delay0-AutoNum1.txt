@@ -1,0 +1,29 @@
+@startuml
+participant "landfall openings" as 0
+box "brats medicaid"
+participant "hopping whopper" as 1
+participant "shoelace initiated" as 2
+end box
+participant "racked verbal" as 3
+box "howdy locating"
+participant "cyberspace subjective" as 4
+end box
+== hearsay disfigured ==
+autonumber 3 9
+1 -> 4++ : remedial conference
+autonumber stop
+ [-> 0: violent geologists
+autonumber resume
+2 --> 4: pedestrian deterioration
+autonumber stop
+4 ->x 1++ : reservations trample
+ [<- 4: trout retribution
+par presence molded
+0 ->o 0: dwelling toxic
+return jab recreating
+autonumber resume
+3 ->] : why butter
+else alert daydreaming
+end
+return misdemeanors fittest
+@enduml

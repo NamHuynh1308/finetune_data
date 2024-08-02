@@ -1,0 +1,36 @@
+@startuml
+group jurisdiction fulfilled
+if (headache jewels?) then (seated investing)
+:fascinating bumpy;
+-> diminutive sang;
+kill
+else (poisonous notepad)
+:jinx juggling;
+-> inaccessible triumphs;
+endif
+group behaved slant
+fork
+:mumbled draw;
+fork again
+:raft vanilla;
+fork again
+:turtles outset;
+-> unbecoming seemed;
+fork again
+switch (sobriety fragment?)
+case (log provisional?)
+:proposition cats;
+-> joy browse;
+case (existential bedpans?)
+:altogether packs;
+case (largely spilling?)
+:tabs complexion; <<output>>
+case (quilt geosynchronous?)
+:notice surfaced;
+-> constructive sound;
+endswitch
+end merge
+stop
+end group
+end group
+@enduml

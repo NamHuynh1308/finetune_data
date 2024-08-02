@@ -1,0 +1,23 @@
+@startuml
+box "whistle allow"
+participant "spectrum troublemakers" as 0
+box "tuna banister"
+participant "sealing sawed" as 1
+participant "passenger dyke" as 2
+box "glance deductions"
+participant "dredge duck" as 3
+end box
+end box
+end box
+autonumber 0 5
+1 --> 3: grudges unprovoked
+autonumber stop
+3 ->x 0++ : conference tents
+autonumber resume
+critical relegated clinic
+3 --//o 1++ : briefcases snowballed
+3 ->> 2: nil cheater
+end
+return rains artistry
+return fleeting drove
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+box "stairwell botanical"
+participant "pecking beeswax" as 0
+participant "protests fierce" as 1
+end box
+== westbound pouch ==
+autonumber 9 1
+break highlands spacecraft
+1 -> 0: persons airwaves
+autonumber stop
+1 -> 1: chore graffiti
+autonumber resume
+end
+0 -> 0: nope nausea
+autonumber stop
+1 -> 0: fragrance refused
+0 ->> 0: violin snotty
+@enduml

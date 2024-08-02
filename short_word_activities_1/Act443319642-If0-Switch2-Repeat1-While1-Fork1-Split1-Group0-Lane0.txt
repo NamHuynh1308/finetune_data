@@ -1,0 +1,51 @@
+@startuml
+split
+-[hidden]->
+:later shaking;
+split again
+-[hidden]->
+:ta cinema; <<procedure>>
+split again
+-[hidden]->
+repeat
+:inept some;
+:masterpieces holographic; <<continuous>>
+repeat while (databases middleweight?) is (claimed fair)
+-> slam conservation;
+split again
+-[hidden]->
+switch (scratch noting?)
+case (charging rejuvenated?)
+:incidentally carats;
+case (replied goblins?)
+:chartreuse abruptly; <<save>>
+-> equitable acne;
+case (pledged earlobes?)
+:curmudgeon homecoming;
+endswitch
+end split
+:feeds cloud; <<load>>
+-> ever implied;
+fork
+:reality sailed;
+fork again
+:smoke raiding; <<task>>
+fork again
+:mellowed mammals;
+while (respectful roasts?) is (sesterces shoplifters)
+switch (upchuck announcer?)
+case (grovel conception?)
+:unhealthy browbeating; <<output>>
+-> rack cocktail;
+case (communicate vitally?)
+:beefy pizzas;
+endswitch
+backward:silverware westerns;
+backward:deviants captioning;
+:donuts massacres; <<task>>
+-> summit viewpoint;
+endwhile (webbing potent)
+-[hidden]->
+detach
+end merge
+@enduml

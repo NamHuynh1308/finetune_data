@@ -1,0 +1,6 @@
+@startuml
+group governess bikers
+:printing bodega; <<output>>
+stop
+end group
+@enduml

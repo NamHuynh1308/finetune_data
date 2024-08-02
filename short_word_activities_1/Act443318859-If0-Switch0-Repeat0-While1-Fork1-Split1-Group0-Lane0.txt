@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:canaries gifted;
+split again
+-[hidden]->
+fork
+:implant harp;
+fork again
+:tiptoe merry;
+fork again
+:tripe grammar; <<input>>
+-> roost connoisseur;
+end fork
+split again
+-[hidden]->
+while (strand do?) is (manhandled ensuring)
+backward:mayday trussed;
+:blissful yanks; <<output>>
+backward:manhandled exploring;
+endwhile (bozo shone)
+:barbecue audience;
+split again
+-[hidden]->
+:iced sour; <<input>>
+end split
+:naked salesman; <<task>>
+:jammer fungal; <<task>>
+:crutch starship; <<continuous>>
+-> satisfactory insolence;
+@enduml

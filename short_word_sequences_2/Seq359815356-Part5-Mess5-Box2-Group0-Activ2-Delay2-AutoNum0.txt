@@ -1,0 +1,20 @@
+@startuml
+participant "chainsaws copperhead" as 0
+participant "mojo returning" as 1
+box "bushel scud"
+participant "grade meager" as 2
+participant "diseases slaps" as 3
+box "crikey brains"
+participant "dang succotash" as 4
+end box
+end box
+4 <-] : omnipotent gorilla
+3 -// 3: mopey plugging
+4 -> 2++ : herpes ninny
+...hoot disinherit...
+0 <-] : mints oriented
+...towards guinea...
+4 -> 4++ : satire enchanting
+return dey karate
+return sleet exposes
+@enduml

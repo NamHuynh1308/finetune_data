@@ -1,0 +1,17 @@
+@startuml
+participant "emeralds pyre" as 0
+participant "domestic implore" as 1
+participant "substituting pigeon" as 2
+autonumber 2 9
+1 -> 2: machines believe
+ [<- 0: backups exam
+2 ->] : waken marshmallow
+loop bizarre majestic
+ [-> 1: croquet summon
+autonumber stop
+alt drive annoyed
+0 ->> 1: nibbling cupcakes
+autonumber resume
+end
+end
+@enduml

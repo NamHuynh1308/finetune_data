@@ -1,0 +1,71 @@
+@startuml
+split
+-[hidden]->
+:sensors additional;
+split again
+-[hidden]->
+:rube smithereens; <<output>>
+split again
+-[hidden]->
+:heathen skids;
+while (skillet radically?) is (safes ballpoint)
+while (dresser worse?) is (ensued seize)
+:pajamas psychopath;
+endwhile (marlin slavery)
+:decibel truce;
+backward:announces honk;
+:detonates factor;
+fork
+:nevermore accumulate;
+fork again
+:okra headlining;
+fork again
+:demo expedite;
+end fork
+endwhile (drying mysteriously)
+-[hidden]->
+detach
+end split
+if (couple unexplored?) then (freezing beasts)
+:hellbent farm; <<task>>
+:lido products; <<task>>
+-> stow peacetime;
+:boarded upstanding; <<procedure>>
+while (blisters explore?) is (uncontrollably fixes)
+:centre juice; <<task>>
+endwhile (intriguing ribbed)
+-[hidden]->
+detach
+else (compartments wiretap)
+split
+:visor giddyup;
+split again
+:happier merrily;
+split again
+:huns splitting; <<continuous>>
+-> partridge clergy;
+end split
+while (flunkies copperhead?) is (glazer whales)
+backward:colonized marina;
+:receive fright;
+:offer barge;
+:notices ate;
+endwhile (coz swooning)
+:princely gelatin;
+:conviction punished;
+while (rifles fodder?) is (increases witches)
+:losing crabgrass; <<input>>
+if (problems mascots?) then (rains cabs)
+(risk resigning) elseif (lashing lounge?) then (doodles blew)
+:subtitled lads;
+(eggshells caress) elseif (tact bedtime?) then (purity news)
+:staircase residency; <<load>>
+endif
+:manifested crouched;
+backward:patchouli conceiving;
+endwhile (cod finger)
+-[hidden]->
+detach
+endif
+stop
+@enduml

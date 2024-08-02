@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:campaign shriveled;
+split again
+-[hidden]->
+if (watery superwoman?) then (kendo staggering)
+(barkeep alamo) elseif (fuzzy sending?) then (exercise wed)
+:precocious cowboy;
+(gimmie misunderstanding) elseif (clapper lookout?) then (detaining stayed)
+:thumbprint risky; <<output>>
+-> he avoids;
+endif
+split again
+-[hidden]->
+:ruthlessly crunch; <<continuous>>
+end split
+:fumes gibson; <<load>>
+group rivers biochemist
+:slut titanic; <<input>>
+-> avoids spiraling;
+:nanosecond poisons; <<save>>
+-> exhibited snowflake;
+end group
+end
+@enduml

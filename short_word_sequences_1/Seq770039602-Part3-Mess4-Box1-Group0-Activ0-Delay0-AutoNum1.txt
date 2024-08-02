@@ -1,0 +1,14 @@
+@startuml
+box "floored barkeep"
+participant "pappy thoughtful" as 0
+participant "emperors lacking" as 1
+participant "cows botched" as 2
+end box
+autonumber 6 5
+ [-> 2: viceroy expressive
+1 <-] : irritable sweetheart
+0 ->o 0: burned sung
+autonumber stop
+1 ->x 0: wanton screened
+autonumber resume
+@enduml

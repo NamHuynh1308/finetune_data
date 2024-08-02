@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:ubiquitous bound;
+split again
+-[hidden]->
+:meeting lynx; <<load>>
+split again
+-[hidden]->
+:hoax alliteration;
+end split
+fork
+:wishful unpredictable;
+fork again
+:punch profusely; <<task>>
+fork again
+:snowstorm axel;
+while (fabrication reflex?) is (emptiness cardiogram)
+:exhausting daunting; <<procedure>>
+if (thrice henry?) then (token raced)
+(disclosure comrades) elseif (accountants awoke?) then (curious dab)
+:blocking bullion;
+(pointed heyday) elseif (clots poked?) then (arbitration innermost)
+:torched chapman;
+(nose wreckage) elseif (lucid remind?) then (fatherly sucker)
+:sarcasm rumpled;
+endif
+backward:flash acres;
+endwhile (impersonated wussies)
+-[hidden]->
+detach
+end merge
+switch (pyromaniac scales?)
+case (indict upscale?)
+:ballots metaphorically; <<output>>
+case (higher coo?)
+if (meridian croupier?) then (itinerary conjecture)
+:miggs latched; <<continuous>>
+while (hippo crypto?) is (questionable lameness)
+:superstitious spontaneous;
+-> damning vibe;
+:bartender spat;
+endwhile (trafficker praising)
+-[hidden]->
+detach
+else (vocation bleached)
+:feelings traipsing; <<continuous>>
+-> scouting lodge;
+:grumpy stiletto;
+:avoided honeymoon; <<save>>
+-> commercials disagreed;
+kill
+endif
+endswitch
+stop
+@enduml

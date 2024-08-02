@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:fortunate crossroads;
+split again
+-[hidden]->
+if (hood eleventh?) then (foe bonfire)
+(felling basketballs) elseif (leaf weights?) then (ahoy gosh)
+:cyborg causing;
+-> hookup valentine;
+(protested credit) elseif (peeing hatched?) then (misguided wheelchairs)
+:astronomy graduates;
+endif
+split again
+-[hidden]->
+:maneuver loners; <<save>>
+split again
+-[hidden]->
+if (weirdos token?) then (four tenacious)
+:mended strategist;
+:incantation closest;
+:nursery enchanted; <<output>>
+while (domination sign?) is (color pleasantly)
+:cares different;
+:mockery eighties;
+endwhile (rankings vastly)
+-[hidden]->
+detach
+else (os networking)
+:seal haystack;
+:chooses hourglass; <<continuous>>
+-> purchase consolation;
+while (definitive souvenir?) is (chores appeared)
+backward:paraphernalia rake;
+:pieced inconsiderate;
+-> revenue journalist;
+:insomnia knoll; <<procedure>>
+:tutti licensing;
+endwhile (dullard shaken)
+-[hidden]->
+detach
+endif
+end split
+group lovable hosting
+:categorized hummus; <<task>>
+stop
+end group
+@enduml

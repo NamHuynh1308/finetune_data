@@ -1,0 +1,5 @@
+@startuml
+start
+:cozying prototypes; <<load>>
+-> performs bail;
+@enduml

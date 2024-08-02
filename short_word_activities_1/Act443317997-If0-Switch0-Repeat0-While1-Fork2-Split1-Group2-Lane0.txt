@@ -1,0 +1,41 @@
+@startuml
+split
+-[hidden]->
+:posts aardvark;
+split again
+-[hidden]->
+fork
+:straps conned;
+fork again
+:porterhouse mutants; <<task>>
+-> poisons sneeze;
+fork again
+:guided presiding;
+end merge
+split again
+-[hidden]->
+while (readings officiate?) is (frequencies raise)
+:compression hover;
+endwhile (bonbon motif)
+:girlfriends punches;
+end split
+group imitating graphs
+fork
+:sanest lars;
+fork again
+:baptize holt;
+-> gat attends;
+fork again
+:waking refinery;
+-> imported stunk;
+fork again
+:touches hounding; <<procedure>>
+-> trellis treating;
+end fork
+group figures shriek
+:orphaned alternative;
+-> shamed exhume;
+stop
+end group
+end group
+@enduml

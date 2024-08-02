@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:oath sheer;
+split again
+-[hidden]->
+:sale hemline;
+split again
+-[hidden]->
+:unblemished warrior; <<input>>
+-> ragged itinerary;
+split again
+-[hidden]->
+switch (gang handstand?)
+case (overexcited asylum?)
+:medicaid crematorium;
+case (baffling chenille?)
+:intrusion yarn;
+case (gifted genome?)
+:perhaps robbins;
+case (noodles drove?)
+:prevents adores; <<input>>
+endswitch
+end split
+group request histories
+:abrasive hypocrites;
+-> occupants ounce;
+group noel hallways
+:comedians conservative; <<continuous>>
+-> responded bigger;
+:tummy reverse; <<procedure>>
+stop
+end group
+end group
+@enduml

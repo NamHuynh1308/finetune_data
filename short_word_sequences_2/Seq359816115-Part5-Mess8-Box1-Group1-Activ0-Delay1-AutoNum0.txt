@@ -1,0 +1,21 @@
+@startuml
+box "zephyr freely"
+participant "lapses sterilized" as 0
+participant "quicksand conscience" as 1
+end box
+participant "straighten toenails" as 2
+participant "legged contamination" as 3
+== hex answered ==
+1 <-> 3: scoping geometry
+ [<- 1: miscommunication cabbage
+2 ->x 3: intermittent mallet
+...emotions capitalists...
+1 --> 0: sliver unfair
+1 <-] : bene parasailing
+opt flexible tarot
+1 -> 0: peep bey
+1 ->] : inflexible kicks
+create participant "retreat partnership" as 4
+1 -> 4 : retreat partnership
+end
+@enduml

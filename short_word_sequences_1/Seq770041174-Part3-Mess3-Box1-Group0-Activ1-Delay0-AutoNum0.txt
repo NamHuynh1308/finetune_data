@@ -1,0 +1,11 @@
+@startuml
+participant "our premonitions" as 0
+box "sweep virulent"
+participant "planner legions" as 1
+participant "pimping delete" as 2
+end box
+2 <-] : go advertises
+1 -> 2: headquarters exploration
+2 -> 0++ : confine stomped
+return slumming decade
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+box "antennae liars"
+participant "poultry mortal" as 0
+box "whereof repentance"
+participant "crossbow parallel" as 1
+end box
+end box
+== contusions shoplifter ==
+1 -> 0++ : handing parish
+0 -> 1!! : guards chaperoning
+return droll node
+@enduml

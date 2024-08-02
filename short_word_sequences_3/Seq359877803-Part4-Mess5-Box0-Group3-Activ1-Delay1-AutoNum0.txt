@@ -1,0 +1,20 @@
+@startuml
+participant "businessman manicured" as 0
+participant "grocery aspirations" as 1
+participant "wrists chew" as 2
+participant "consumption bilingual" as 3
+2 ->> 3++ : fertility blatantly
+break impulsively exploratory
+0 <-] : wolves scanned
+1 --//o 1: disturbances override
+else cutting bipolar
+loop candlelight toasting
+...curt treaters...
+0 -> 1: nay vocalist
+loop native witty
+2 -> 3: pizzas sued
+end
+end
+end
+return robin newlywed
+@enduml

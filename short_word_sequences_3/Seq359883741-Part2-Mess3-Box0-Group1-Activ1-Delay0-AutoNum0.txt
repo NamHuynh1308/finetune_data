@@ -1,0 +1,11 @@
+@startuml
+participant "bearded boldly" as 0
+participant "wildcats heated" as 1
+== validate checkers ==
+1 <-] : lonelier triggering
+0 -> 1++ : cot fleabag
+alt dumps urologist
+0 ->x 1: diversion displeasure
+end
+return surpass derris
+@enduml

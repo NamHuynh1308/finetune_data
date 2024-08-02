@@ -1,0 +1,59 @@
+@startuml
+split
+-[hidden]->
+:evacuating unlovable;
+split again
+-[hidden]->
+:worded dialing;
+split again
+-[hidden]->
+:reschedule preside; <<output>>
+end split
+if (massager bell?) then (polling imagining)
+fork
+:posterior flake;
+fork again
+:executives lamp;
+fork again
+:cooling privileges;
+-> poisoned broad;
+end merge
+split
+:thinks fugitives;
+split again
+:onto conspicuous;
+split again
+:psychotherapy ethics;
+split again
+:villa fabric; <<load>>
+end split
+switch (randomly gale?)
+case (creamy demands?)
+:talker ranger;
+-> el sensibility;
+case (cleanup monarchs?)
+:gar rations;
+while (technological hysteric?) is (bottomless slaughtering)
+:class purity;
+:sitcom backpacking;
+:rushing close;
+:scattering reflects;
+-> volcanic rockers;
+endwhile (commonwealth headgear)
+-[hidden]->
+detach
+case (vegetable locking?)
+:exposure flogged;
+endswitch
+else (sacrifice connoisseur)
+:absurd unbearable; <<load>>
+-> deities violin;
+fork
+:dandelion oboe;
+fork again
+:expressly als;
+fork again
+:psychoanalyze er;
+end fork
+endif
+@enduml

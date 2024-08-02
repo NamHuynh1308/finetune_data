@@ -1,0 +1,7 @@
+@startuml
+box "taxes poll"
+participant "disturbances ostrich" as 0
+end box
+0 <-> 0: reaching congress
+0 -> 0!! : copacetic bob
+@enduml

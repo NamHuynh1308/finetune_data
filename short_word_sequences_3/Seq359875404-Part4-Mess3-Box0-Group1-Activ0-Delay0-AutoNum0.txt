@@ -1,0 +1,13 @@
+@startuml
+participant "bren hardened" as 0
+participant "corrective lopper" as 1
+participant "dazzling hep" as 2
+== us thermonuclear ==
+ [<- 0: improvise forked
+alt fanning testifies
+ [-> 1: intriguing trespassing
+create participant "earthlings shed" as 3
+2 -> 3 : earthlings shed
+else honour values
+end
+@enduml

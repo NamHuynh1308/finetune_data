@@ -1,0 +1,24 @@
+@startuml
+group transistor customers
+:pragmatist immigrants; <<task>>
+-> squirt getup;
+:tippers patrol;
+end group
+split
+:willpower bargaining;
+split again
+fork
+:floors wormed;
+fork again
+:male silks; <<output>>
+-> acclaim exercises;
+fork again
+:jumps photographer;
+end merge
+split again
+:assessment theorem; <<procedure>>
+split again
+:simulations neon; <<input>>
+-> stump paperboy;
+end split
+@enduml

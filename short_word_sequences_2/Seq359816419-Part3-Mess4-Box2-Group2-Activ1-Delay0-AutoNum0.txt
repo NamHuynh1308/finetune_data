@@ -1,0 +1,18 @@
+@startuml
+box "assemblies requisite"
+participant "achingly nouveau" as 0
+box "certainties beers"
+participant "namely brisket" as 1
+participant "widowed reply" as 2
+end box
+end box
+ [-> 2: applejack moping
+alt scribbling arm
+0 -> 1: bongos consumes
+1 -\\ 0++ : fuel soberly
+critical summed craziest
+ [<- 2: dealt targets
+return hazard dubious
+end
+end
+@enduml

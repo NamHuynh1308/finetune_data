@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:wherever died;
+split again
+-[hidden]->
+:scolding appearing;
+split again
+-[hidden]->
+fork
+:reassuring oldie;
+fork again
+:bails maneuvering;
+fork again
+:surrounding nationals; <<output>>
+-> added theology;
+end merge
+split again
+-[hidden]->
+:blackmailed lingo; <<continuous>>
+-> chaperon melted;
+end split
+split
+:gobble disintegrated;
+split again
+:officially taught;
+-> squatting homely;
+split again
+:peep bear; <<save>>
+-> unlovable atop;
+split again
+:enforced weekend; <<input>>
+-> sweaters illustrated;
+end split
+@enduml

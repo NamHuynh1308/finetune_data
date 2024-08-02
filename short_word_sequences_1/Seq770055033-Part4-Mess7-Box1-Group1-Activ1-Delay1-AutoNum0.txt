@@ -1,0 +1,22 @@
+@startuml
+participant "peddler raptor" as 0
+box "legalizing analyst"
+participant "anaphylactic boycott" as 1
+participant "emotional homemaker" as 2
+participant "nursed jughead" as 3
+end box
+== chloroformed retaining ==
+opt summed bartending
+3 --//o 1: fudged abandonment
+0 -> 1!! : faculty roadhouse
+0 ->x 3: sidelines dolt
+2 -// 2: interpreting confinement
+else leafs jamboree
+1 -\\ 0: strenuously scoundrel
+else issuing wee
+...hobbits kitty...
+1 -> 0++ : slasher clouds
+end
+3 --> 1: nana together
+return christie prerogative
+@enduml

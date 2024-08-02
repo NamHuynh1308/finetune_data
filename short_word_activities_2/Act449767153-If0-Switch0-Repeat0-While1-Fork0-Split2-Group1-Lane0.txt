@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:unappreciated mailman;
+split again
+-[hidden]->
+:gold publicity; <<task>>
+-> distillery graves;
+split again
+-[hidden]->
+while (gor stowed?) is (hacking arc)
+:crooks nest;
+:libation permitted;
+backward:yodel crumble;
+endwhile (melding outcome)
+:page scintillating;
+split again
+-[hidden]->
+split
+:certainty radiation;
+split again
+:ascension fester;
+kill
+split again
+:humorless dependant; <<load>>
+-> peels hazel;
+end split
+end split
+:retrieving chosen; <<procedure>>
+group visions meticulous
+:panting polishing; <<output>>
+:rarity aerodynamics;
+end group
+stop
+@enduml

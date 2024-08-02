@@ -1,0 +1,9 @@
+@startuml
+participant "martins inspect" as 0
+participant "cosmetics bawling" as 1
+== vindictive veracity ==
+autonumber 1 4
+ [<- 0: leagues chartered
+...sowing sniper...
+1 -> 1: impenetrable prove
+@enduml

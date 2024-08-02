@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:uninvolved revamp;
+split again
+-[hidden]->
+:gator shave; <<input>>
+split again
+-[hidden]->
+:sodium compared; <<output>>
+-> patterns scheduling;
+end split
+if (confining far?) then (bleak uncool)
+(coup nonchalant) elseif (forbidden whet?) then (mountaineer satyr)
+:furtive laces; <<load>>
+-> endorsements pinata;
+(alternative home) elseif (reopen calendars?) then (chainsaw helps)
+:somewheres revolutionary; <<output>>
+-> fellow thugs;
+endif
+:balcony tawdry; <<load>>
+stop
+@enduml

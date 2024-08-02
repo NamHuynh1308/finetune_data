@@ -1,0 +1,17 @@
+@startuml
+participant "studs moneymaker" as 0
+participant "spicy rounded" as 1
+participant "demons potholes" as 2
+participant "liars sitcoms" as 3
+participant "wisely ducking" as 4
+== motto fallible ==
+0 -\\ 1: ethic straights
+critical tempted felony
+...prying snowy...
+4 -// 4: founding possum
+1 <-] : stairwell planets
+else pram charity
+3 ->> 3: tell chardonnay
+3 ->] : diminutive monitors
+end
+@enduml

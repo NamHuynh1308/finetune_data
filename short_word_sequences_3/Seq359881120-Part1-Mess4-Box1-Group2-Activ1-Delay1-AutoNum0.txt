@@ -1,0 +1,15 @@
+@startuml
+box "raffle bailiffs"
+participant "filtered bo" as 0
+end box
+par influx knot
+0 <-] : bees discrepancies
+critical covenant curacao
+0 -> 0: sulfur gained
+...confronting females...
+0 ->x 0: captured shipments
+0 ->> 0++ : hemoglobin conversationalist
+end
+end
+return norland insisting
+@enduml

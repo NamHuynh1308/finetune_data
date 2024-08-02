@@ -1,0 +1,20 @@
+@startuml
+box "informing pac"
+participant "drastic rounding" as 0
+participant "fallible pluck" as 1
+end box
+box "abandons passenger"
+participant "lido browning" as 2
+end box
+autonumber 5 1
+opt ironclad scooped
+1 -> 0: allee cropped
+autonumber stop
+ [-> 2: nightingale upgrading
+0 -> 2: teed disagreeing
+1 ->x 2++ : persnickety underestimating
+autonumber resume
+2 ->x 0: wo bongos
+end
+return stodgy profiles
+@enduml

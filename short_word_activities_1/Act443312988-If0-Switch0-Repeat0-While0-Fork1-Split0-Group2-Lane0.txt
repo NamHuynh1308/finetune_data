@@ -1,0 +1,21 @@
+@startuml
+start
+group pebble reflects
+:coronation complicating;
+-> crusty mounds;
+fork
+:grove map;
+fork again
+:potting interrogating; <<load>>
+-> quirk buttoning;
+fork again
+:greens smarter; <<input>>
+-> landscapes aerobic;
+end fork
+group airplanes defensive
+:unforgiving rigid; <<task>>
+-> words headlights;
+stop
+end group
+end group
+@enduml

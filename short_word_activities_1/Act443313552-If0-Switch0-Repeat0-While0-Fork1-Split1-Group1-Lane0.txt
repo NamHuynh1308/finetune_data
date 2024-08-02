@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:youths motor;
+split again
+-[hidden]->
+fork
+:magical division;
+fork again
+:watchful association;
+fork again
+:pledge counterproductive;
+-> pitcher decreased;
+end merge
+split again
+-[hidden]->
+:whom frat; <<continuous>>
+-> agree clue;
+split again
+-[hidden]->
+:tag infarction; <<save>>
+end split
+group ceased ablaze
+:casket recon; <<load>>
+stop
+end group
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+start
+group frost weasels
+:inconsolable occasions; <<output>>
+-> nouveau sealing;
+stop
+end group
+@enduml

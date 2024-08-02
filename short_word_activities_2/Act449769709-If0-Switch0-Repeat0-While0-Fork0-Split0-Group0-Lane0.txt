@@ -1,0 +1,8 @@
+@startuml
+start
+:refinery airlift;
+-> sunroom okayed;
+:textbook enslaved; <<input>>
+-> bodyguards proportions;
+end
+@enduml

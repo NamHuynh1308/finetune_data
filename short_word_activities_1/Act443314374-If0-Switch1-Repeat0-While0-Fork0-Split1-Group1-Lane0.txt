@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:basics inexperience;
+split again
+-[hidden]->
+:bargain guzzling; <<procedure>>
+-> investigate unwrapping;
+split again
+-[hidden]->
+:twitching unfairness; <<procedure>>
+split again
+-[hidden]->
+:spoils cooperation; <<save>>
+end split
+switch (additional comic?)
+case (certifiably idea?)
+:confrontations talkative; <<input>>
+-> definitive penny;
+case (prenatal deciding?)
+:pinafore stairs;
+endswitch
+:publicity torrid; <<task>>
+-> moved aforethought;
+group cowards volcanic
+:curriculum sarcasm;
+stop
+end group
+@enduml

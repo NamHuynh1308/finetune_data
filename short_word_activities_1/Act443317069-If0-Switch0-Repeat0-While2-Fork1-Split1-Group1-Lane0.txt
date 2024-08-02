@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:semi architects;
+split again
+-[hidden]->
+:skinny queasy; <<continuous>>
+split again
+-[hidden]->
+fork
+:learn threesome;
+fork again
+:substantive bedbug;
+-> emission envelopes;
+fork again
+:concessions preemptive; <<input>>
+fork again
+:manners conditioned; <<continuous>>
+-> surplus disagreeing;
+end fork
+split again
+-[hidden]->
+:accidently minimum;
+while (checkpoints risk?) is (accord article)
+:downtown cherry;
+backward:maxwell paramedic;
+:hardest commiserate;
+:standardized obscene; <<input>>
+endwhile (context rivals)
+-[hidden]->
+detach
+end split
+group poolside nourishment
+while (chitchat pharmaceuticals?) is (pawn jams)
+:mailboxes happening;
+-> easter consumers;
+:bomb vendor; <<task>>
+-> brews scaring;
+:blinding woodpecker; <<output>>
+endwhile (nobody grades)
+:scruples pinochle;
+stop
+end group
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+start
+switch (bulletin misread?)
+case (relaxes valid?)
+:thready contraceptives;
+case (blackness depicting?)
+if (slashed untouched?) then (utopia shithead)
+:robbin hairless; <<continuous>>
+:hygienic surrounds; <<save>>
+while (bungled fruition?) is (queller cole)
+:coach foam;
+:upon portraits;
+endwhile (studies cor)
+-[hidden]->
+detach
+else (cam ferret)
+:unflattering evacuation; <<continuous>>
+endif
+case (sally explosions?)
+:sterilized debated;
+endswitch
+:groundskeeper doggies; <<output>>
+end
+@enduml

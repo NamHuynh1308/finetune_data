@@ -1,0 +1,7 @@
+@startuml
+group thermos fern
+:mixture traumatizing; <<output>>
+-> change relationship;
+stop
+end group
+@enduml

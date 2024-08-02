@@ -1,0 +1,9 @@
+@startuml
+participant "rigs forte" as 0
+participant "schizo bliss" as 1
+participant "affecting lad" as 2
+== floored dreaming ==
+1 -> 0: shroud pixies
+1 -> 0: dodged educator
+1 -\\ 2: studying confinement
+@enduml

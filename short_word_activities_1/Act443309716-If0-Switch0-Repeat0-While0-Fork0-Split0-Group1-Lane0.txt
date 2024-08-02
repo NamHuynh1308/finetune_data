@@ -1,0 +1,8 @@
+@startuml
+start
+group smock insisting
+:liner giver;
+-> common own;
+stop
+end group
+@enduml

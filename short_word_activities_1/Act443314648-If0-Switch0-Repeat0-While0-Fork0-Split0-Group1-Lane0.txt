@@ -1,0 +1,8 @@
+@startuml
+start
+group git siblings
+:pampering freely; <<task>>
+:accorded mailing;
+stop
+end group
+@enduml

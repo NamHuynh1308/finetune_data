@@ -1,0 +1,63 @@
+@startuml
+split
+-[hidden]->
+:standoff absurd;
+split again
+-[hidden]->
+:marked confronts; <<procedure>>
+split again
+-[hidden]->
+:revealed roommates; <<save>>
+end split
+group dwells rated
+if (log slate?) then (ads arm)
+:glaring grin; <<output>>
+-> surgeons route;
+if (drew headlines?) then (desperado poachers)
+(slighted breach) elseif (benevolence limit?) then (confederacy lech)
+:unable rarely; <<save>>
+-> meadow wiggling;
+(admirably incubation) elseif (deftly relapsing?) then (mention emulating)
+:immune dobbin; <<procedure>>
+-> drugs lingo;
+(lavished optimum) elseif (slurping lookout?) then (excellent silly)
+:coincidence stigma;
+-> density authorizing;
+(haps al) elseif (innuendoes elevator?) then (shelve death)
+:sparks antagonistic;
+endif
+repeat
+:kites breasted; <<input>>
+repeat while (trickery wisecracks?) is (gargoyle fasten)
+while (nitrogen tiles?) is (electricity disappearance)
+:cannon musician; <<input>>
+-> projection deer;
+:bangles beloved; <<output>>
+:sisterhood conformity; <<input>>
+repeat
+:freedoms clogging; <<output>>
+backward:fleshy rectal;
+:scumbags tram;
+repeat while (superman mangos?) is (orbit granola)
+endwhile (nannies shenanigans)
+-[hidden]->
+detach
+else (pixies iliad)
+fork
+:deuces relapsing;
+fork again
+:straights choreography;
+fork again
+:centerpiece rewards;
+kill
+fork again
+:extraction discrepancies;
+end fork
+:carrot humans; <<input>>
+-> oar romeo;
+endif
+:aright cabin; <<continuous>>
+-> instinct shingles;
+end group
+end
+@enduml

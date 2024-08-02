@@ -1,0 +1,77 @@
+@startuml
+split
+:druggist truth;
+split again
+split
+:muggers pamphlet;
+split again
+:pus raiders;
+-> outright onto;
+split again
+:groaning stockings;
+split again
+:patch presenting;
+end split
+split again
+:booths reconnected; <<input>>
+end split
+switch (stunningly romanticize?)
+case (medals leapt?)
+:mincemeat arraignment;
+while (phooey term?) is (noh okra)
+split
+:inevitably bowels;
+split again
+:pastrami projects; <<task>>
+-> igloo knights;
+split again
+:knots lien;
+end split
+endwhile (waterfall badges)
+-[hidden]->
+detach
+case (capitalism influenza?)
+if (ballistics skirmishes?) then (decoys headliner)
+:unhook nerd;
+:unwilling thus; <<output>>
+while (flashbacks census?) is (salmonella lout)
+:trickier banged; <<load>>
+-> plaintiffs clipper;
+backward:robots conserve;
+:shingle whales;
+endwhile (snakebite bedbugs)
+-[hidden]->
+detach
+else (candles studied)
+:cuticles bolts; <<procedure>>
+:moment lane;
+:almonds cooked;
+endif
+case (shank diminished?)
+while (treads commercial?) is (entrust accident)
+:melding dwindling;
+backward:hardest render;
+endwhile (jackpot resulted)
+:steam weighs;
+case (whey yum?)
+if (prophets metaphor?) then (preparing hedging)
+:permitting making; <<save>>
+-> befall yay;
+:closest inflame;
+:bloody remarried; <<input>>
+while (beds destined?) is (untie openers)
+backward:wee firehouse;
+:owners terribly;
+:puree vixen; <<input>>
+-> cotton individuality;
+endwhile (dainty aliens)
+-[hidden]->
+detach
+else (operated hilarious)
+:pudding hymn;
+:congrats cook; <<continuous>>
+-> unexplored financed;
+:icehouse extending; <<load>>
+endif
+endswitch
+@enduml

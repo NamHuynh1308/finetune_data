@@ -1,0 +1,10 @@
+@startuml
+participant "anywhere astronomy" as 0
+== divisions pitchers ==
+ [-> 0: mis initially
+alt baron unfaithful
+0 ->> 0++ : corrected galaxy
+0 -> 0: mediator unseen
+return glamour carousel
+end
+@enduml

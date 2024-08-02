@@ -1,0 +1,7 @@
+@startuml
+start
+group spectator kibble
+:offbeat jingles; <<load>>
+stop
+end group
+@enduml

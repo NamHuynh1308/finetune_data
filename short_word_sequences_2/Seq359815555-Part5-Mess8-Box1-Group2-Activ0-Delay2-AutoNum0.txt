@@ -1,0 +1,24 @@
+@startuml
+participant "invaluable ala" as 0
+participant "tickets hooray" as 1
+participant "vacation shrubbery" as 2
+participant "touchy mixer" as 3
+box "vetted perjure"
+participant "formulating lye" as 4
+end box
+ [<- 4: moneys spurt
+1 ->o 3: barbers exclusive
+alt proceeding fags
+...strain purposely...
+2 -\\ 1: onion fret
+3 ->> 4: adoration gor
+else mummy chevy
+...parameters nasal...
+1 -> 2!! : touchstone club
+1 -->x 3: heaps glares
+critical circuited mutt
+ [<- 4: asks yearns
+4 -> 0: clairvoyant cartons
+end
+end
+@enduml

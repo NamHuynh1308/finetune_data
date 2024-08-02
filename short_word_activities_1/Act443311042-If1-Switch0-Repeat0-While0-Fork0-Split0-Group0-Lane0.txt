@@ -1,0 +1,14 @@
+@startuml
+start
+if (alien campers?) then (stones boiled)
+:lands oversee; <<save>>
+-> sanctuary hydrated;
+else (kaon tears)
+:waved demon; <<output>>
+-> wins dearie;
+:stadium ambiance;
+endif
+:dimwit loosen; <<output>>
+-> loathe gradually;
+stop
+@enduml

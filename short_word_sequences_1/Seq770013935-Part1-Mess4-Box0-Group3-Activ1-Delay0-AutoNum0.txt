@@ -1,0 +1,14 @@
+@startuml
+participant "blouse fries" as 0
+alt port spores
+0 ->x 0: confederation hazing
+opt belive crumbles
+0 ->x 0++ : hamburgers exhilaration
+par skimpy knew
+ [<- 0: upload sox
+0 <-> 0: succubus sweetbreads
+end
+end
+end
+return meddle tier
+@enduml

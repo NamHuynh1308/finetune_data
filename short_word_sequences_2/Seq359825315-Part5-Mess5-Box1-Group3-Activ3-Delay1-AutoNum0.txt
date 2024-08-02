@@ -1,0 +1,24 @@
+@startuml
+participant "reassure schmo" as 0
+participant "spouting posing" as 1
+participant "absence contesting" as 2
+box "bombings elsewhere"
+participant "byproduct panels" as 3
+participant "panache sings" as 4
+end box
+0 <-> 0: carrots pastures
+par reminding visas
+4 -// 3++ : malfunctioning arrhythmia
+par manage scouted
+4 -->x 3++ : commandments bribe
+loop labor detecting
+1 -> 3: reviewing processes
+...richer carbon...
+0 ->o 1++ : nymphomaniac rants
+end
+end
+end
+return redevelopment trumps
+return morning newborn
+return premiere investments
+@enduml

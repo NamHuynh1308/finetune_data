@@ -1,0 +1,5 @@
+@startuml
+start
+:dip gradually; <<output>>
+end
+@enduml

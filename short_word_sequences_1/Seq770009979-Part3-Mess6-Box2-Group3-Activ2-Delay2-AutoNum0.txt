@@ -1,0 +1,26 @@
+@startuml
+box "stump rescinded"
+participant "boner sayings" as 0
+box "blueberries prettier"
+participant "caesar minds" as 1
+participant "thinking symbolizes" as 2
+end box
+end box
+0 -->x 2++ : hankering chops
+alt boarding grandparents
+1 ->> 0: physical broads
+return narcotic waddle
+...cash sofa...
+0 -> 2: vitamin baseball
+opt complication squirrels
+...screening genus...
+1 -// 2: blowup pain
+break revert chili
+2 --//o 0: commitments leagues
+0 -\\ 2++ : preliminary experiments
+else navigating knob
+end
+end
+end
+return suite contractions
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "untrained underground" as 0
+participant "listener lawyered" as 1
+== machete album ==
+0 ->o 0: layman deftly
+...artwork hide...
+0 -> 0: sandman cosmically
+1 <-] : staircase whiter
+loop misfortune lands
+0 --> 0: cuddled mascara
+end
+@enduml

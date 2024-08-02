@@ -1,0 +1,15 @@
+@startuml
+participant "orbital class" as 0
+participant "populated items" as 1
+participant "antivenin scarfing" as 2
+== adventures attitudes ==
+autonumber 10 5
+0 -> 0++ : intercepted bongos
+autonumber stop
+create participant "peppermint crave" as 3
+2 -> 3 : peppermint crave
+return observed point
+autonumber resume
+...crudely conniving...
+2 -->x 2: greased chanteuse
+@enduml

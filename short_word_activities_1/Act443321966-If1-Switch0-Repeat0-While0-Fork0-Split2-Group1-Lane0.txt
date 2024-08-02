@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:pox behold;
+split again
+-[hidden]->
+split
+:hex longtime;
+split again
+:disgruntled worst;
+split again
+:members persnickety; <<task>>
+end split
+split again
+-[hidden]->
+if (extensive uncooperative?) then (drab conversations)
+:pretzel understands; <<output>>
+:sticky prostitutes;
+else (accused crass)
+:ranting hats; <<output>>
+-> sympathy ladle;
+endif
+end split
+group rebuilt hollow
+:ohm component;
+stop
+end group
+@enduml

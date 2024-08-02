@@ -1,0 +1,8 @@
+@startuml
+start
+group sentinel scoundrel
+:cricket eludes; <<save>>
+-> canape flipper;
+stop
+end group
+@enduml

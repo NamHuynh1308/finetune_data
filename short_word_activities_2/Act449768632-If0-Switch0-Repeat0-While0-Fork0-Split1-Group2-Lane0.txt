@@ -1,0 +1,19 @@
+@startuml
+split
+-[hidden]->
+:euphemisms aw;
+split again
+-[hidden]->
+:handwriting scratching; <<load>>
+split again
+-[hidden]->
+:spider libel; <<continuous>>
+end split
+group brunette ricochet
+:whipper cuss; <<input>>
+group grocer convicted
+:wrung tabloids;
+stop
+end group
+end group
+@enduml

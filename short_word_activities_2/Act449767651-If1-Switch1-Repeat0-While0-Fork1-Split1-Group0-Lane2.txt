@@ -1,0 +1,47 @@
+@startuml
+|1| boxes anecdotes
+|2| shaky persistence
+|1|
+start
+:muchachos allowable; <<output>>
+-> savin convinces;
+:fringes collecting; <<procedure>>
+-> failures hugs;
+fork
+:defused dinning;
+fork again
+split
+:decorative flop;
+split again
+:youth uprooted; <<procedure>>
+split again
+:grosser watered; <<input>>
+end split
+fork again
+if (withered blaze?) then (uppity hanging)
+(wit deeds) elseif (fibers tenner?) then (switches paprika)
+:wreckage waffles; <<input>>
+-> napoleon cranium;
+(mustard grime) elseif (worshippers floral?) then (nixed vulnerability)
+:nerds semple; <<output>>
+-> shrinks student;
+endif
+fork again
+switch (tory bestowed?)
+case (baths buries?)
+:decomposed collided; <<procedure>>
+case (size blockage?)
+:nigger chatty; <<procedure>>
+case (sickness dizzy?)
+:marble upstart;
+case (profoundly hag?)
+:runners shrugs;
+endswitch
+end fork
+|2|
+:aiding stud;
+|1|
+:remarry recruit; <<procedure>>
+-> financed mediocrity;
+end
+@enduml

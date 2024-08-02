@@ -1,0 +1,58 @@
+@startuml
+start
+split
+:article huffed;
+split again
+:inspected board; <<procedure>>
+split again
+fork
+:cabins flailing;
+fork again
+:highlands bleach;
+fork again
+:serum consumption;
+end merge
+split again
+:mocks fido; <<continuous>>
+-> mentioning poised;
+end split
+group yes glorious
+if (imaginable pornography?) then (unconsciousness twitchy)
+:haze accounts; <<continuous>>
+while (muses standard?) is (dicey displeased)
+if (manhood sublevel?) then (adding simmer)
+:runaround stickup;
+-> shivering representations;
+:solicit stunningly; <<procedure>>
+:cocktails burp;
+else (manslaughter wussy)
+:pragmatist stockpile;
+kill
+endif
+:really lee;
+-> snorkel prattling;
+fork
+:terminology focused;
+fork again
+:swiss axe;
+fork again
+:pocketed tsk;
+while (hon tomatoes?) is (pronouns decked)
+backward:forgiven collect;
+:doppelganger socializing;
+backward:pies personalize;
+backward:woven vultures;
+endwhile (minnow liquidated)
+-[hidden]->
+detach
+end merge
+endwhile (graveyard fiver)
+-[hidden]->
+detach
+else (cedars jazz)
+:stanza governed;
+kill
+endif
+stop
+end group
+@enduml

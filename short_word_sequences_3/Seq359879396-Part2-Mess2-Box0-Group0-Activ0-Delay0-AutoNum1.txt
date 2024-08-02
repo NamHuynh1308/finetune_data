@@ -1,0 +1,9 @@
+@startuml
+participant "drifter benevolent" as 0
+participant "juries ceramic" as 1
+== butter albums ==
+autonumber 10 3
+1 -// 0: win spikes
+1 -// 0: taped hombre
+autonumber stop
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+group idealistic wallaby
+:supervise roughage; <<task>>
+stop
+end group
+@enduml

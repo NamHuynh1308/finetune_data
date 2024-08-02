@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:cannibals static;
+split again
+-[hidden]->
+:dictionary kinds; <<input>>
+split again
+-[hidden]->
+:salinas facilitated; <<save>>
+-> gladiators reassurance;
+split again
+-[hidden]->
+:patio hypo; <<load>>
+end split
+group allure viewpoint
+while (busboys hook?) is (plucky blows)
+repeat
+:informs associations;
+:reassigning newly;
+repeat while (superiors senor?) is (families coveted)
+backward:islanders handcuffs;
+:unprofessional windjammer; <<save>>
+endwhile (litigious electricians)
+:trouser grinning;
+group posse craftsmanship
+split
+:endowment obtuse;
+split again
+:fear busts; <<task>>
+split again
+fork
+:digitally approximation;
+fork again
+:facilitated restart;
+-> alligators secrecy;
+fork again
+:lullaby excursion; <<task>>
+end fork
+end split
+stop
+end group
+end group
+@enduml

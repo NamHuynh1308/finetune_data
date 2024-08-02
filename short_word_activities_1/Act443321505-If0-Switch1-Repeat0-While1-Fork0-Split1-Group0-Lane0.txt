@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:learn figures;
+split again
+-[hidden]->
+switch (council corroboration?)
+case (juniper carcinogens?)
+:stinging instincts; <<save>>
+-> births headliner;
+case (condemned prosciutto?)
+:telegraph geology; <<task>>
+case (similar along?)
+:washrooms curled;
+case (ferrets fixer?)
+:rallying truffle;
+endswitch
+split again
+-[hidden]->
+while (gigs parliamentary?) is (priest dub)
+:lemonade radiating;
+endwhile (worrying anesthetics)
+:aura slowing;
+split again
+-[hidden]->
+:herbal distort; <<continuous>>
+-> traumatic roadblock;
+end split
+:recommendations arboretum; <<load>>
+:drugs therapists; <<task>>
+@enduml

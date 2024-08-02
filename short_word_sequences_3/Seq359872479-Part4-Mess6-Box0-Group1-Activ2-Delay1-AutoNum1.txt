@@ -1,0 +1,21 @@
+@startuml
+participant "yahoo extreme" as 0
+participant "scrap innocently" as 1
+participant "veracity cognac" as 2
+participant "trifecta grandfather" as 3
+autonumber 2 4
+0 -> 3: breathing handle
+autonumber stop
+...apprised confit...
+0 ->o 1: hooked porky
+autonumber resume
+3 -> 0: disco ka
+alt squid berries
+3 ->> 3++ : demoted priests
+0 --//o 1: synch lit
+1 ->o 3++ : kay programmer
+else nocturnal teetering
+end
+return honky unsafe
+return hicks sundae
+@enduml

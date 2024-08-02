@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:exploding missy;
+split again
+-[hidden]->
+fork
+:formulate initiate;
+fork again
+:thesaurus expression;
+fork again
+:empathy decor;
+fork again
+:yeah overruled;
+end fork
+split again
+-[hidden]->
+:discredit naval;
+-> cycle thief;
+end split
+:postpartum tablet; <<procedure>>
+split
+:mu services;
+split again
+split
+:curly storming;
+split again
+:reporter spoken;
+-> releases attends;
+split again
+:monk regulars;
+split again
+:never utilities;
+kill
+end split
+split again
+:chaff levee; <<procedure>>
+split again
+if (donated struggling?) then (suffocate grateful)
+:fruitcake breathe;
+-> idyllic previously;
+:instrument flecks; <<procedure>>
+:sauerkraut cowed;
+-> manifested forgeries;
+else (bug historian)
+:episodes brutality;
+:esoteric extinguish; <<output>>
+endif
+end split
+if (majored humid?) then (mum caritas)
+:kind romanticize; <<save>>
+else (bowing conference)
+:dimming artillery; <<procedure>>
+-> feathers aggravating;
+:bedlam curb;
+endif
+@enduml

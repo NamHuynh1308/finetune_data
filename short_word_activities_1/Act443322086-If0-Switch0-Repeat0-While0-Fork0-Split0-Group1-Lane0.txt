@@ -1,0 +1,7 @@
+@startuml
+start
+group decorate arachnid
+:begin deflecting; <<procedure>>
+stop
+end group
+@enduml

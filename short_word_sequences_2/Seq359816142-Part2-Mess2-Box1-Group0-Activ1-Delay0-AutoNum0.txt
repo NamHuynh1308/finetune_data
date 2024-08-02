@@ -1,0 +1,10 @@
+@startuml
+participant "sues dibs" as 0
+box "hums allure"
+participant "orioles cures" as 1
+end box
+== steamer drinkers ==
+1 -// 0++ : values whoops
+1 -->x 1: energized babes
+return corpses distractions
+@enduml

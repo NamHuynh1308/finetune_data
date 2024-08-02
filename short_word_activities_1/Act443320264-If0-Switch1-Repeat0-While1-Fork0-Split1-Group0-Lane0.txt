@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:crunches grasp;
+split again
+-[hidden]->
+:caskets bustier;
+split again
+-[hidden]->
+:husks ashore;
+kill
+end split
+switch (lech restricted?)
+case (dishes enema?)
+:conflicted equivalent; <<input>>
+case (stalker estimating?)
+:pleading communications; <<procedure>>
+case (appointing humidity?)
+while (vestigial chatter?) is (wheel associate)
+:choke heat; <<load>>
+:operational joins; <<output>>
+endwhile (ambience synthesis)
+:overcompensating bunting;
+endswitch
+end
+@enduml

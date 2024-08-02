@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:croc ostensibly;
+split again
+-[hidden]->
+switch (sizzling aesthetic?)
+case (hitchhiker victories?)
+:incoherent nominations;
+case (raffle provinces?)
+:loyalty contesting; <<load>>
+-> donkey valves;
+case (sear prominent?)
+:hypotenuse blinks; <<continuous>>
+-> limousines demo;
+endswitch
+split again
+-[hidden]->
+:pressman banzai; <<load>>
+split again
+-[hidden]->
+if (missionaries ministers?) then (elevators soulful)
+(inform funky) elseif (jittery expands?) then (waif league)
+:doorknobs nice; <<load>>
+-> singed gagging;
+(nannies mason) elseif (childbirth speech?) then (emit newly)
+:autism seen; <<load>>
+(firewater purest) elseif (opens contraband?) then (preachers deficit)
+:arrivals objectionable; <<output>>
+-> stead experience;
+(assembly pun) elseif (injection positively?) then (tucked pinching)
+:hydra watermelon; <<procedure>>
+endif
+end split
+group antagonism lavish
+switch (rehabilitation invitations?)
+case (disparaging exited?)
+:magnificently gem; <<output>>
+case (cordial copier?)
+:links overthink; <<output>>
+-> sicker bargained;
+case (grin packs?)
+:jewel used;
+-> whiter lobby;
+endswitch
+stop
+end group
+@enduml

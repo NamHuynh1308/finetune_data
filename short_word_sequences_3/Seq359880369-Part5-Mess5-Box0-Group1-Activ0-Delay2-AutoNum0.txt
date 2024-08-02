@@ -1,0 +1,17 @@
+@startuml
+participant "calories seedy" as 0
+participant "fibbing scrooge" as 1
+participant "make humility" as 2
+participant "coloured yoga" as 3
+participant "nostalgic partnerships" as 4
+3 ->o 3: winding chaplain
+loop zonked fidelity
+ [<- 1: urgency bonus
+...sevens botulism...
+1 --//o 3: hummer compromises
+ [-> 0: moisturizer tractor
+...defused plums...
+2 -> 2: wavelength transgenic
+else wrestle predatory
+end
+@enduml

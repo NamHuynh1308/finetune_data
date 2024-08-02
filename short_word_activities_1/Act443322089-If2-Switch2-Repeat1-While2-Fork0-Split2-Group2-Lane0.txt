@@ -1,0 +1,76 @@
+@startuml
+split
+-[hidden]->
+:footing corroborate;
+split again
+-[hidden]->
+split
+:amount torches;
+split again
+:soprano sox;
+split again
+:examine insolence;
+split again
+:campers spared;
+end split
+split again
+-[hidden]->
+:pinks posting; <<load>>
+-> underlings whodunit;
+end split
+:forward bruised; <<output>>
+group exhausts possessive
+if (gimmie pod?) then (representatives flecks)
+(races sway) elseif (importantly sizzle?) then (snaps oyster)
+while (coppers bosomy?) is (indulgence adored)
+:flooding specimen;
+:meow podiatry;
+-> withheld sikes;
+endwhile (sheets preachers)
+:chipping ham;
+(volume differs) elseif (crepes silly?) then (dormant access)
+:libel protestants;
+endif
+group pleasant sponsored
+if (decorated impounded?) then (toothache camcorder)
+:replaying prowess; <<procedure>>
+switch (argyle player?)
+case (colorful carney?)
+:strikingly feasible; <<input>>
+case (awkwardly napkins?)
+:accelerating roots; <<input>>
+case (premises moola?)
+:tiles testicle;
+case (panda compartment?)
+:dugout fixing; <<task>>
+endswitch
+while (hong injections?) is (sensors moral)
+switch (gems retraction?)
+case (grainy bristol?)
+:starting loveliest;
+-> inflict beck;
+case (myself varies?)
+:rephrase trot; <<load>>
+case (skipped willies?)
+:indistinguishable japan;
+endswitch
+endwhile (episode recent)
+-[hidden]->
+detach
+else (salon backer)
+:distance chalet; <<continuous>>
+repeat
+:fort overtures;
+if (lidocaine bellybutton) then (world sail)
+:eyebrow amaretto;
+break
+endif
+->misinterpreting soap;
+:specializes confusion;
+repeat while (chug catfight?) is (indifferent term)
+-> residing shelf;
+endif
+stop
+end group
+end group
+@enduml

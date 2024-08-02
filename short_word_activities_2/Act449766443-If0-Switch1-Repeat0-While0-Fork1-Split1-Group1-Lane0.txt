@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:duress monsieur;
+split again
+-[hidden]->
+:quirks overlooking; <<procedure>>
+split again
+-[hidden]->
+fork
+:camped superhero;
+fork again
+:navigation filet;
+fork again
+:traumatized milked;
+end fork
+end split
+group congenial moves
+switch (hairdresser plan?)
+case (mariachi fetal?)
+:marks groups; <<procedure>>
+case (browning dinks?)
+:warring disrupted;
+case (intellectual thrift?)
+:obstacle eczema; <<output>>
+endswitch
+:prissy rural; <<load>>
+end group
+stop
+@enduml

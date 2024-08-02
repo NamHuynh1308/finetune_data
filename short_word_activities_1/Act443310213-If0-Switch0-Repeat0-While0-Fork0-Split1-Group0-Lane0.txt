@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:cord om;
+split again
+-[hidden]->
+:stones punctuation; <<save>>
+split again
+-[hidden]->
+:pragmatist insecurities;
+end split
+:achingly serenity;
+stop
+@enduml

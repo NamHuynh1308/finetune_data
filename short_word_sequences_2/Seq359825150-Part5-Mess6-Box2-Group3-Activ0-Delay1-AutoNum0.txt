@@ -1,0 +1,25 @@
+@startuml
+box "permitting rescued"
+participant "bach challenger" as 0
+participant "dapper landscape" as 1
+participant "gills lonelier" as 2
+end box
+box "gizzard watt"
+participant "massager targeting" as 3
+participant "arrows ramifications" as 4
+end box
+critical prancing grounds
+4 -\\ 0: charms falls
+3 ->] : sponsorship storms
+opt hometown copying
+...fond verify...
+0 -> 1: nelson accord
+ [<- 1: oftentimes sabers
+3 ->x 3: thanks beers
+else splashing profile
+break decorators uncontrollably
+3 -\\ 2: lounging bodyguard
+end
+end
+end
+@enduml

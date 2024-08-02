@@ -1,0 +1,18 @@
+@startuml
+participant "violate burning" as 0
+box "infatuation clogging"
+participant "hardens emissions" as 1
+participant "limousine remain" as 2
+end box
+0 -> 1: folks shampoo
+create participant "cowed tendon" as 3
+1 -> 3 : cowed tendon
+alt arguably uptake
+...campaigns dime...
+0 ->] : bleeds plants
+loop uncommon slurping
+create participant "spirits stair" as 4
+0 -> 4 : spirits stair
+end
+end
+@enduml

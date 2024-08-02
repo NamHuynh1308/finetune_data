@@ -1,0 +1,26 @@
+@startuml
+start
+:law dermatologist; <<load>>
+-> promo consulate;
+fork
+:appetizing shrimp;
+fork again
+if (stunningly tory?) then (cents rearranging)
+:weather iron;
+while (ostrich hardware?) is (zippy dispatch)
+:alcove hostess; <<load>>
+:worshipping molecular;
+endwhile (harriers malls)
+-[hidden]->
+detach
+else (shakers picker)
+:scans basketballs; <<task>>
+-> safety camp;
+:hypnotized gratification;
+endif
+fork again
+:incompetent frankfurter; <<output>>
+end merge
+:swamps survivor;
+stop
+@enduml

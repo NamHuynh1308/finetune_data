@@ -1,0 +1,9 @@
+@startuml
+participant "cobb rambling" as 0
+box "nosing byes"
+participant "spindly subdued" as 1
+end box
+autonumber 9 1
+0 -> 1: receives explanation
+0 --//o 0: romeo repellent
+@enduml

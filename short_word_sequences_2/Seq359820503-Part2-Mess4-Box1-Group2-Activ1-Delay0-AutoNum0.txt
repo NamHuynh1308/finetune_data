@@ -1,0 +1,16 @@
+@startuml
+box "stamper giving"
+participant "composure juke" as 0
+participant "unite systematic" as 1
+end box
+alt understands whispered
+0 ->x 0: implication entitled
+loop calamitous horticulture
+0 -> 1++ : seem tile
+1 -> 1: umm singleton
+return melt lately
+0 <-] : exploration guess
+else sample seized
+end
+end
+@enduml

@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:pledging trotting;
+split again
+-[hidden]->
+switch (undermining mumbling?)
+case (underpass memorized?)
+:mistaken testosterone; <<input>>
+case (reconciling degrading?)
+:rigid harridan;
+endswitch
+split again
+-[hidden]->
+:recreation confirmed; <<load>>
+split again
+-[hidden]->
+if (boatload laces?) then (embalming hang)
+:bawdy hype;
+-> quantities orbs;
+else (winch leaps)
+:valve expectancy;
+:rhymes fodder; <<load>>
+-> evenly adoration;
+:si discounts; <<continuous>>
+-> slayed passed;
+endif
+end split
+group chemist resolute
+switch (brooch stage?)
+case (slang recommendation?)
+:archer lone; <<output>>
+case (hamstring movement?)
+split
+:aim affiliation;
+split again
+:reinstatement marrow;
+-> kite wallpaper;
+split again
+:exorbitant bosses;
+split again
+:confrontations shamrock; <<task>>
+end split
+endswitch
+stop
+end group
+@enduml

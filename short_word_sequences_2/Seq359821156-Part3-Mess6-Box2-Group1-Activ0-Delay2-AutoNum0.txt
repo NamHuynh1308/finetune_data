@@ -1,0 +1,20 @@
+@startuml
+box "housebroken wacko"
+participant "gill harms" as 0
+participant "clunker timely" as 1
+box "pinpointed projects"
+participant "raincoat gluing" as 2
+end box
+end box
+== gecko orange ==
+1 <-> 2: vortex decided
+0 -> 1: chanteuse present
+opt sirens boulder
+0 -> 2: chiseling holster
+...peep grape...
+2 ->> 2: sheets briefcases
+2 -> 2!! : undertake sniffles
+...fate ambient...
+ [-> 0: reactors pornographic
+end
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+box "britt handgun"
+participant "backstabbing sleet" as 0
+end box
+autonumber 5 5
+ [<- 0: infernal distinctive
+0 --> 0++ : happenings karate
+opt dusting scheduled
+0 -> 0: blimp busty
+...disclosure sample...
+0 -\\ 0++ : horrors cripes
+end
+return exposes swing
+return stable formulate
+@enduml

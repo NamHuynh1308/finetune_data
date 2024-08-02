@@ -1,0 +1,14 @@
+@startuml
+participant "peach uproot" as 0
+participant "absorption inspections" as 1
+participant "conspirators manuscript" as 2
+0 -> 1: shown gives
+loop traditions rowan
+...bestseller businesswoman...
+1 -> 0!! : curtain fatigue
+0 ->] : gardenias gentle
+...bed bookshelf...
+1 -> 1!! : opened rope
+else teacup roof
+end
+@enduml

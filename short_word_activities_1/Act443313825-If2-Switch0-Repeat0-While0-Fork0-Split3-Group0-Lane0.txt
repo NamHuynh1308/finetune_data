@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:liquidation fractions;
+split again
+-[hidden]->
+:dingo notify;
+-> furiously disappoint;
+split again
+-[hidden]->
+:meltdown zebra; <<output>>
+end split
+if (supplier overjoyed?) then (occupants ruining)
+split
+:gossip softball;
+split again
+:hackman disposable; <<input>>
+split again
+:hairpin conserve;
+end split
+:schmuck bodega; <<load>>
+else (cognizant lubrication)
+if (experimental tours?) then (prevented goading)
+:insane treat; <<load>>
+-> hertz expectancy;
+else (preached keel)
+:luminous cuffs;
+:tingle shelter; <<input>>
+endif
+split
+:chiles foreseeable;
+split again
+:swat picked; <<input>>
+split again
+:displace multimillion; <<output>>
+split again
+:exceptionally laminated;
+-> prefer reciprocal;
+end split
+kill
+endif
+@enduml

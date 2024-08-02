@@ -1,0 +1,28 @@
+@startuml
+box "tempting ethic"
+participant "bagman aw" as 0
+participant "pocketed concessions" as 1
+end box
+participant "rays deformity" as 2
+box "mitten stacks"
+participant "legs shelves" as 3
+participant "ambitious damned" as 4
+end box
+== lemmings regarded ==
+autonumber 6 1
+0 -> 4: tyre steam
+1 <-> 2: seafood leaves
+3 -\\ 2++ : innocuous blemish
+ [<- 0: caddie dolphins
+create participant "lameness funniest" as 5
+2 -> 5 : lameness funniest
+autonumber stop
+4 ->o 0: lanyard agility
+return greasy pussies
+ [<- 3: leftovers kraft
+0 ->o 5: mead mouthed
+autonumber resume
+...rehearsal hoaxes...
+4 -> 4++ : licorice tail
+return toppings transport
+@enduml

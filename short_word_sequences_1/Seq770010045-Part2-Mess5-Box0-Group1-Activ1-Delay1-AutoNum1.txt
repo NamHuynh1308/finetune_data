@@ -1,0 +1,18 @@
+@startuml
+participant "chores clobbered" as 0
+participant "talked overflow" as 1
+autonumber 1 0
+par sweetbreads persistence
+0 -> 0++ : antivenin judas
+autonumber stop
+0 ->] : missiles dissatisfied
+autonumber resume
+0 ->] : disclosed brigade
+...tribulations plague...
+ [<- 0: popcorn peers
+else implants reported
+0 --//o 1: equator wishes
+else dirk slighted
+end
+return blotter fatal
+@enduml

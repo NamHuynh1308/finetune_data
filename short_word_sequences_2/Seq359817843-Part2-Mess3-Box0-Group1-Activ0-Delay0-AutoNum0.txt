@@ -1,0 +1,10 @@
+@startuml
+participant "boggles amenities" as 0
+== heartfelt mumble ==
+0 ->> 0: scotch resides
+critical pelting drawers
+create participant "sightless discotheque" as 1
+0 -> 1 : sightless discotheque
+0 <-] : posttraumatic tune
+end
+@enduml

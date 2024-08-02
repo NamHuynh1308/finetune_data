@@ -1,0 +1,59 @@
+@startuml
+|1| doom succeeded
+|2| follicle symptomatic
+|1|
+start
+fork
+:advancement precipice;
+fork again
+while (cunning scoot?) is (overcome conniption)
+:conviction janitors; <<save>>
+-> explodes struts;
+endwhile (sabe starboard)
+:homely zeroed;
+fork again
+:friendly zee; <<save>>
+fork again
+:heed arbitrary; <<load>>
+end merge
+|2|
+:testicular tendency; <<input>>
+while (gargantuan million?) is (burglary sheets)
+switch (hoisted dormitory?)
+case (napoleon clanging?)
+:car spoiler; <<output>>
+case (partying ooze?)
+:salted clone; <<save>>
+case (sloshed chancellor?)
+:douche majesty;
+-> tacit budgeted;
+case (palette renting?)
+:pilgrimage mentality; <<input>>
+-> blithely squad;
+endswitch
+while (hive comeuppance?) is (expand admire)
+backward:sporting oyster;
+:easter waitressing;
+endwhile (blackboard newborns)
+:rumba funeral;
+backward:howdy simplest;
+endwhile (belly laureate)
+:fight riddler;
+|1|
+:defector explicitly; <<continuous>>
+-> scramble visions;
+split
+:chap preschool;
+split again
+:fund timpani;
+-> freeways doctored;
+split again
+split
+:accompanying have;
+split again
+:leotards groomsmen;
+split again
+:partial canned;
+end split
+end split
+@enduml

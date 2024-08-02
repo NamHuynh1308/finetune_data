@@ -1,0 +1,36 @@
+@startuml
+|1| defeated wasps
+|2| derive sparklers
+split
+-[hidden]->
+:towards leftovers;
+split again
+-[hidden]->
+:overwhelms journey; <<load>>
+split again
+-[hidden]->
+split
+:langley rosin;
+split again
+:playful melon;
+split again
+:entire chew;
+split again
+:nance expires; <<output>>
+end split
+split again
+-[hidden]->
+repeat
+:buttercup absurdly;
+-> stalemate colonization;
+repeat while (shuttle aptly?) is (performer subscription)
+-> boon resulted;
+end split
+:cornflakes pecking; <<task>>
+-> biographical portrayed;
+|2|
+:twins nominees;
+|1|
+:listens eventual; <<continuous>>
+end
+@enduml

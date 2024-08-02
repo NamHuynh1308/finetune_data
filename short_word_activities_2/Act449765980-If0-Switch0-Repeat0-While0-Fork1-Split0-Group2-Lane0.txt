@@ -1,0 +1,19 @@
+@startuml
+start
+group fellas testy
+:service damsel;
+group noodles gams
+fork
+:understatement compliment;
+fork again
+:chestnuts mighty;
+-> coloured loch;
+fork again
+:cutters walks;
+end fork
+:user goose; <<output>>
+-> sublimating workers;
+stop
+end group
+end group
+@enduml

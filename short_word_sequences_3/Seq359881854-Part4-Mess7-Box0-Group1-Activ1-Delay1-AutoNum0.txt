@@ -1,0 +1,19 @@
+@startuml
+participant "condemned dangerous" as 0
+participant "ills crook" as 1
+participant "einstein regional" as 2
+participant "affecting riff" as 3
+== wry bi ==
+alt bosom saucers
+0 -> 3: tastes epizootics
+...cordial postpone...
+3 <-] : personal cartel
+else thrusters woolly
+3 ->] : unlikable bouncer
+3 ->o 0: mousy spandex
+0 ->o 3++ : taut erratic
+2 ->o 3: sicker incoming
+2 ->] : camcorder fuels
+end
+return vigilance outback
+@enduml

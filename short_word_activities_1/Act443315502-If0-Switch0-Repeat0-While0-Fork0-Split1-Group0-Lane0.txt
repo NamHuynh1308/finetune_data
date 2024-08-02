@@ -1,0 +1,14 @@
+@startuml
+start
+:until disappointment; <<load>>
+-> timing physic;
+split
+:geneva moped;
+split again
+:church shoplifter; <<load>>
+-> campfire dolphins;
+split again
+:baseball skiff; <<load>>
+end split
+stop
+@enduml

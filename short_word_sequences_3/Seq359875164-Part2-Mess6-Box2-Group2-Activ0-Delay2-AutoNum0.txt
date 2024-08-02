@@ -1,0 +1,21 @@
+@startuml
+box "shamrock geologists"
+participant "advanced yo" as 0
+box "erosion mama"
+participant "keeps agenda" as 1
+end box
+end box
+1 --//o 1: simulator shoddy
+0 ->o 1: efficiency uplifting
+par whiter worrywart
+...objected reprogram...
+0 -> 0!! : robes palp
+0 -// 1: no geometric
+else daredevil stimulation
+break blameless corpses
+...affidavit hearty...
+1 -> 0!! : visits activated
+0 -> 0: stomach restrooms
+end
+end
+@enduml

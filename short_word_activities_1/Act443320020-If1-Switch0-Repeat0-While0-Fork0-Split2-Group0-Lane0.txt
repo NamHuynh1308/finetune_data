@@ -1,0 +1,33 @@
+@startuml
+split
+-[hidden]->
+:pandora laird;
+split again
+-[hidden]->
+split
+:madly stumbled;
+split again
+:bruise exodus;
+split again
+:bracelet polygraph; <<output>>
+end split
+split again
+-[hidden]->
+:bookshelf cheekbones; <<task>>
+end split
+:multiplex appear; <<input>>
+if (please doer?) then (tournaments latte)
+(hostile cleanser) elseif (referee disclosure?) then (aforethought acrobat)
+:cartels betrayals; <<task>>
+-> notorious bravo;
+(conjugate laughable) elseif (grandson participating?) then (superiors combust)
+:tuck stylings; <<task>>
+-> requisitions shuffled;
+(cursory laughs) elseif (dominates swarm?) then (fear boats)
+:showers rounded;
+(stretched bumpkins) elseif (carrot stickers?) then (bates mainline)
+:feather muss; <<input>>
+-> shipment option;
+endif
+stop
+@enduml

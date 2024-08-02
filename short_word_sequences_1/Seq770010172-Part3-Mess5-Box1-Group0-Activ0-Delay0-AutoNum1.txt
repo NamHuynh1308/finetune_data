@@ -1,0 +1,14 @@
+@startuml
+participant "organise impervious" as 0
+box "muffins types"
+participant "laminated dentists" as 1
+end box
+autonumber 6 3
+0 ->x 1: sapphires copperhead
+create participant "simpler earthly" as 2
+0 -> 2 : simpler earthly
+autonumber stop
+2 -> 2: experts enraged
+2 <-> 2: tether still
+2 --//o 1: bookends opportune
+@enduml

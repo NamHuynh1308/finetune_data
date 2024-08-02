@@ -1,0 +1,15 @@
+@startuml
+box "lady awaiting"
+participant "breathe cyanide" as 0
+participant "frustrated descent" as 1
+end box
+autonumber 5 9
+0 --//o 0: heights pricked
+1 ->x 1: cabin vermouth
+1 <-] : blithely hayseed
+...dieter pacifist...
+ [<- 1: nocturnal that
+par blazer metamorphosis
+1 --> 0: captured decibel
+end
+@enduml

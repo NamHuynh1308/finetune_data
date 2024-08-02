@@ -1,0 +1,6 @@
+@startuml
+group skinned necklace
+:factoring android; <<input>>
+stop
+end group
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+box "warring exchanges"
+participant "malevolent gray" as 0
+participant "intercepting siree" as 1
+box "map scrape"
+participant "depicted blast" as 2
+end box
+end box
+par apprised pinned
+1 -> 1++ : nasty briefs
+alt architects clothing
+0 ->o 1: pretend whittling
+1 -> 0: forensics santos
+end
+end
+return spoils taunting
+@enduml

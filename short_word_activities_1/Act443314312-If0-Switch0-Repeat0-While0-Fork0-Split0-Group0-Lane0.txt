@@ -1,0 +1,5 @@
+@startuml
+:corsage child; <<input>>
+-> alpine heirlooms;
+stop
+@enduml

@@ -1,0 +1,67 @@
+@startuml
+split
+-[hidden]->
+:skipped internship;
+split again
+-[hidden]->
+switch (stimulating mealy?)
+case (kindergarten busiest?)
+:cock work; <<input>>
+-> deeply freezer;
+case (levels slackers?)
+:guests steaming;
+-> rolled wasp;
+endswitch
+split again
+-[hidden]->
+:gleaming avenue;
+-> unhappy some;
+split again
+-[hidden]->
+:dabbled ponies;
+-> warren spectacular;
+end split
+fork
+:aggressive memorabilia;
+fork again
+:highland pleasant;
+fork again
+:circumstantial biochemist; <<output>>
+-> doom tore;
+fork again
+:wretch touche;
+while (shown filibuster?) is (dalliance entirely)
+backward:gaff baron;
+if (threatened trial?) then (bombs burnt)
+(conspire ore) elseif (fanciful horsing?) then (delectable pasts)
+:vyfzyl;
+kill
+(reptile invention) elseif (truant angel?) then (scheme grim)
+:architects forgets; <<save>>
+endif
+endwhile (exes manage)
+-[hidden]->
+detach
+end fork
+group eddy themes
+if (comma endings?) then (grope flunky)
+(chimera looped) elseif (itchy ailing?) then (wised everyone)
+:scales hiss;
+-> tracing thready;
+(manufacture bows) elseif (volunteered godforsaken?) then (signaled indentured)
+repeat
+:regulated cleave;
+backward:gallivanting meringue;
+repeat while (bumpkins misled?) is (blessing idle)
+-> wringer thirds;
+(strummer guest) elseif (tougher marquee?) then (trout organizing)
+:bigamy mastery; <<load>>
+-> bags ample;
+(tie snowman) elseif (annoying book?) then (unstuck wartime)
+:sizable sings; <<output>>
+-> accomplice approaching;
+endif
+:shipped motor;
+end group
+stop
+@enduml

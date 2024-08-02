@@ -1,0 +1,20 @@
+@startuml
+box "nixed yoga"
+participant "lei unexpressed" as 0
+participant "stealth frailty" as 1
+end box
+autonumber 3 7
+alt logger barman
+0 <-> 1++ : persistence retrieve
+alt pathogen stifling
+1 -> 0!! : regimes paraphernalia
+autonumber stop
+1 ->o 0: feller lime
+autonumber resume
+1 ->> 0: socked whiny
+end
+0 -> 1!! : cushion send
+else butted crunchy
+end
+return cheats felons
+@enduml

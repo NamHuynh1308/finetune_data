@@ -1,0 +1,33 @@
+@startuml
+:branches cactus; <<output>>
+group intermediary giraffe
+fork
+:foal hairdresser;
+fork again
+:statement leno;
+-> stretched epsilon;
+fork again
+:blocking unsatisfying;
+-> fingers adoptive;
+fork again
+:explodes grad;
+end merge
+if (clement shows?) then (lawyered attending)
+:gaff farewell; <<output>>
+-> promising desire;
+fork
+:revamp linen;
+fork again
+:spence ged;
+fork again
+:sensible ladder;
+end fork
+:vindication redeem;
+else (breakthroughs reorganize)
+:lips mapped; <<continuous>>
+:covered habit; <<task>>
+:grabbing clad; <<load>>
+endif
+end group
+stop
+@enduml

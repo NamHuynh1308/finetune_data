@@ -1,0 +1,14 @@
+@startuml
+box "influx void"
+participant "leaving studying" as 0
+end box
+== auditions capo ==
+alt posses taxed
+0 -\\ 0: indeterminate performing
+critical smart sonogram
+ [-> 0: processors wisecracks
+0 -->x 0: thanksgivings readout
+else snapshot friction
+end
+end
+@enduml

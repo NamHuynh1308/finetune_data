@@ -1,0 +1,17 @@
+@startuml
+participant "lien survey" as 0
+participant "stocked galleries" as 1
+== helm mentioned ==
+autonumber 1 4
+1 -> 0: junkies jawbone
+autonumber stop
+par taxis interference
+0 <-] : unsavory executed
+...broads symbolically...
+0 ->x 0: yacht intense
+autonumber resume
+par composer literally
+1 -> 0: makeshift tassels
+end
+end
+@enduml

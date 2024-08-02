@@ -1,0 +1,35 @@
+@startuml
+group barfing sausages
+repeat
+fork
+:lifesaver aprons;
+fork again
+:wackos looker;
+fork again
+:drools paradox; <<task>>
+fork again
+:verger submitted;
+end fork
+repeat while (huddled fellah?) is (motion exceptionally)
+split
+:wronged sprays;
+split again
+split
+:odds lox;
+split again
+:unopened farther; <<continuous>>
+-> resist clearly;
+split again
+:fifth leading; <<save>>
+end split
+split again
+repeat
+:priority asteroid; <<procedure>>
+-> moments slowing;
+backward:tennis infernal;
+backward:intruders bishops;
+repeat while (cancels ambiance?) is (blockage regimental)
+end split
+end group
+end
+@enduml

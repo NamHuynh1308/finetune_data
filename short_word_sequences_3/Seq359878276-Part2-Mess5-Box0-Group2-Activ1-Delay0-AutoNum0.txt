@@ -1,0 +1,15 @@
+@startuml
+participant "guarantees ovulating" as 0
+participant "duplicate bouncy" as 1
+opt voting rooting
+1 -> 0++ : graduates commie
+0 -->x 1: updates cahoots
+else payback inscription
+0 <-] : iffy edict
+end
+loop medicine checked
+0 ->] : unlimited planner
+1 -\\ 1: miraculously banana
+return mild releasing
+end
+@enduml

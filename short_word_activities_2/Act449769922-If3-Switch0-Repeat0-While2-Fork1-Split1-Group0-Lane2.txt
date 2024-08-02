@@ -1,0 +1,56 @@
+@startuml
+|1| remembrance amber
+|2| dinnertime classroom
+|1|
+start
+if (eyre concentrated?) then (orderly sweatshops)
+(conn creak) elseif (chenille accepts?) then (lumps reserves)
+split
+:piggies catches;
+split again
+:fiddler divide;
+-> alteration inspected;
+split again
+:finalized hangers; <<input>>
+-> occurrences squeezed;
+split again
+:asked spores;
+end split
+(cur kinds) elseif (fever observation?) then (browning corral)
+:dato approximate;
+(outwit grunge) elseif (golfers sledge?) then (mutant organise)
+:clover accelerated;
+endif
+while (resident organizer?) is (durned sec)
+backward:conclusively skyscrapers;
+endwhile (stark terminal)
+:prom acquaintances;
+fork
+:asinine estimates;
+fork again
+if (redeeming vocal?) then (discipline periscope)
+(canoe detente) elseif (displaced respectable?) then (always immortal)
+:unseemly sanders;
+(convicted argon) elseif (imaginative mayor?) then (qualify weddings)
+:righteous werewolf; <<output>>
+(blackmailer guinea) elseif (heckled snuggle?) then (souffle burglary)
+:tail appointed;
+endif
+fork again
+if (eventually abstract?) then (ornate backup)
+(click implant) elseif (irresponsibility bustling?) then (hostility barley)
+:grass peeing;
+(ergo lanyard) elseif (combo ideals?) then (curve biased)
+:tdqgot;
+while (wager conspired?) is (til witnesses)
+:quacks romantic; <<save>>
+:hanged elemental;
+endwhile (heroic geometry)
+-[hidden]->
+detach
+endif
+fork again
+:circulation creed; <<output>>
+end fork
+:geographical lutz; <<save>>
+@enduml

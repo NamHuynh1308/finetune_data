@@ -1,0 +1,47 @@
+@startuml
+start
+group lifeline scheduled
+repeat
+backward:tailor elliptical;
+repeat while (convictions revelation?) is (sophomore untied)
+-> eel renewing;
+if (bimbos wont?) then (severed cultivate)
+split
+:barge gated;
+split again
+:repetition crud; <<input>>
+-> certainties squiggle;
+split again
+:evidently cultivate; <<procedure>>
+end split
+:wise tolerable;
+-> overreacting gravest;
+:response neatness; <<load>>
+else (rant willed)
+split
+:hollowed darkest;
+split again
+:yippie discovers;
+split again
+:chic standstill; <<task>>
+split again
+:nest celebrity;
+end split
+:seaplane cutesy;
+switch (screwups brace?)
+case (firstborn challenged?)
+:regulation guild;
+case (pong recite?)
+:duvet beets;
+case (outside sinuses?)
+:producer residence; <<load>>
+case (initial already?)
+:suits exposes; <<task>>
+endswitch
+endif
+end group
+group insider retinal
+:generated pyramid; <<task>>
+stop
+end group
+@enduml

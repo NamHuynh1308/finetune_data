@@ -1,0 +1,57 @@
+@startuml
+|1| peddling pirates
+|2| shackle ecstatic
+|1|
+start
+switch (cornfield sorrel?)
+case (remission ampule?)
+if (adopt yipe?) then (giddyup psychosis)
+:lama stealthy;
+else (jeopardy warmth)
+:eyeballs installation; <<load>>
+-> erect rob;
+:illusions telephone; <<procedure>>
+-> surroundings dealership;
+:audio auxiliary;
+endif
+case (executioner cosmically?)
+:haughty obese;
+case (drivers constitution?)
+:nacho squeaks;
+while (less accomplished?) is (handcuffed theses)
+:bitching palp; <<output>>
+-> gearshift skipping;
+fork
+:hugest mashed;
+fork again
+:candlesticks inbound; <<procedure>>
+-> established grime;
+fork again
+:rusty citywide;
+-> advantageous begets;
+fork again
+:fitter adviser;
+end merge
+endwhile (ninja expressions)
+-[hidden]->
+detach
+endswitch
+|2|
+if (serves liberal?) then (repetition bey)
+(agonizing flan) elseif (oversight warnings?) then (pate corrupting)
+:chalk flatter; <<output>>
+-> curly mercenaries;
+(nicely scales) elseif (rehabilitate neurological?) then (leaver intelligent)
+:bat supervision; <<load>>
+-> harpoons prices;
+(mayor cutoff) elseif (dullard ghettos?) then (attended originality)
+:hamlet oxymoron; <<save>>
+-> official overcast;
+endif
+|1|
+:resetting classified; <<output>>
+:rekindle ensure; <<procedure>>
+:obligation tasks; <<continuous>>
+-> nervousness links;
+end
+@enduml

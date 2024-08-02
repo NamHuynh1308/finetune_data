@@ -1,0 +1,22 @@
+@startuml
+participant "soiled fuses" as 0
+participant "wall tasty" as 1
+participant "mobility merit" as 2
+box "creeping lab"
+participant "radios violation" as 3
+end box
+autonumber 9 4
+0 ->x 3: quarry masquerade
+0 -->x 3: cavalier louder
+par previously lowly
+1 ->x 3: lucid empty
+...dollars mother...
+0 -> 2++ : collapsed leaflets
+0 -> 1++ : levels premises
+autonumber stop
+0 -> 3: exchange squad
+else dreadful brute
+end
+return wrap seen
+return fascinated knocks
+@enduml

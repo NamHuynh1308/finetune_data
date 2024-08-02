@@ -1,0 +1,39 @@
+@startuml
+group joke cocktail
+fork
+:bouquet suppress;
+fork again
+:gnats frenzy; <<continuous>>
+-> paw candlesticks;
+fork again
+fork
+:bale joins;
+fork again
+:wowed excels; <<output>>
+-> astronaut refund;
+fork again
+:bodyguard yields;
+fork again
+:missions county; <<procedure>>
+-> injured balk;
+end merge
+end merge
+group proportions squeak
+:goner jet; <<output>>
+group markings pity
+split
+:departure acne;
+split again
+:way spicy; <<continuous>>
+-> outward adjacent;
+split again
+:hankie compression;
+kill
+split again
+:cleaned formaldehyde; <<save>>
+end split
+stop
+end group
+end group
+end group
+@enduml

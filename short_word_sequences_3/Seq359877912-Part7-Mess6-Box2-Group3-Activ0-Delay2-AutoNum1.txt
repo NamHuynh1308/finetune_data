@@ -1,0 +1,32 @@
+@startuml
+participant "changing lighters" as 0
+box "household warlock"
+participant "statements slinging" as 1
+box "lawsuits tacos"
+participant "spaced flooded" as 2
+participant "adoration explosive" as 3
+end box
+participant "gestapo frees" as 4
+end box
+== fascinate forgo ==
+autonumber 6 1
+critical tasks properly
+create participant "spinning comparing" as 5
+2 -> 5 : spinning comparing
+create participant "ninja differential" as 6
+5 -> 6 : ninja differential
+else chutes stardom
+3 -> 4: milkman strangle
+autonumber stop
+loop bridegroom testified
+3 ->o 2: matzoh mite
+autonumber resume
+...brit coveted...
+3 -> 4!! : snowman staggered
+par relaxants ribs
+...sexiest fumigating...
+4 --> 5: withstand tory
+end
+end
+end
+@enduml

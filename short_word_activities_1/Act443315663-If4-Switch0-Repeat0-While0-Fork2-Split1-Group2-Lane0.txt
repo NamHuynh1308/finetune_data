@@ -1,0 +1,78 @@
+@startuml
+split
+-[hidden]->
+:bale wholly;
+split again
+-[hidden]->
+fork
+:locker explicit;
+fork again
+:tempered creamy;
+-> missiles gayness;
+fork again
+:winging lowlife; <<procedure>>
+-> ageing mixes;
+fork again
+:blankets smuggle;
+end merge
+split again
+-[hidden]->
+if (law unending?) then (lectures collaboration)
+(unfortunately uprising) elseif (checkbook trifled?) then (harness rainbow)
+:sluts negatives;
+(intent stool) elseif (when express?) then (royally flashing)
+:advertises centennial; <<input>>
+(shrinkage modelling) elseif (cooking empowered?) then (election entwined)
+:flattery foolproof; <<continuous>>
+-> axis verdict;
+endif
+split again
+-[hidden]->
+if (adored silence?) then (thawed padre)
+(armaments kiddo) elseif (gossip paws?) then (breakdowns activists)
+:vcugam;
+kill
+(bravo rehearsal) elseif (paperweight clamped?) then (nipping add)
+:scratching spasms; <<input>>
+(tougher grooming) elseif (implicate tailing?) then (scoff nitwit)
+:roadster pills;
+-> talents fearful;
+(saluted alleluia) elseif (wept personality?) then (uncharacteristically terrorists)
+:flog mist; <<continuous>>
+-> preferably minstrel;
+endif
+end split
+fork
+:clearly concede;
+fork again
+:infiltrated slayer;
+kill
+fork again
+:animosity providing;
+kill
+fork again
+:soared bubbly; <<output>>
+end merge
+group locksmith orchestra
+if (timid rainy?) then (clincher retaliating)
+(aroma potential) elseif (textbook granddad?) then (essential fillings)
+if (buy uns?) then (nods supportive)
+(ruining skeletal) elseif (shove stylings?) then (jockey tidbits)
+:affair ailment; <<save>>
+(cosmetic easier) elseif (undergone happy?) then (nerve muses)
+:nxnepb;
+kill
+(garden embroidered) elseif (authenticated hitting?) then (discussion retaliatory)
+:tackling vowed; <<output>>
+endif
+(debonair cocky) elseif (worked foe?) then (towers targets)
+:barricades friction; <<input>>
+(steel flexing) elseif (overreacting buy?) then (wasps emerald)
+:chipmunk giants; <<task>>
+endif
+group publications rougher
+:automated mutiny; <<input>>
+stop
+end group
+end group
+@enduml

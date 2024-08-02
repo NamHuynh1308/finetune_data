@@ -1,0 +1,8 @@
+@startuml
+participant "misses humps" as 0
+participant "entitles burnout" as 1
+== beryllium setting ==
+1 -> 1: blankets dosed
+ [-> 0: taker blank
+ [<- 0: thefts lit
+@enduml

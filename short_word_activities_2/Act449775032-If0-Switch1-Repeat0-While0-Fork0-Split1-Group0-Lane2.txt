@@ -1,0 +1,35 @@
+@startuml
+|1| shirtless nitrous
+|2| tin waterfall
+split
+-[hidden]->
+:sunroom copy;
+split again
+-[hidden]->
+:crumbles granger; <<output>>
+split again
+-[hidden]->
+:shill ingenious; <<task>>
+-> coincide sanctum;
+split again
+-[hidden]->
+switch (neighborhoods panties?)
+case (boonies rung?)
+:reasoning radiator;
+-> steamy tribunal;
+case (concepts ambitious?)
+:muffler limitless;
+-> actin conquering;
+case (quaking waist?)
+:ashram thrills; <<output>>
+endswitch
+end split
+:compliment unavailable; <<task>>
+|2|
+:dealing hallucinate; <<task>>
+-> approach gratuitous;
+:skillful flaws; <<save>>
+:gateway paralysis; <<procedure>>
+:pouch exhumed; <<load>>
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+group onstage ser
+:appreciate lovelies; <<task>>
+-> artful snapshots;
+group safeguards burgundy
+:ransack specifically; <<input>>
+-> milligrams allowable;
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,35 @@
+@startuml
+start
+if (firearms consistently?) then (outward folder)
+(clung thrall) elseif (nelly bunker?) then (tap kilo)
+:splurge stash; <<save>>
+-> bikers sack;
+(appliances bribery) elseif (yelling slots?) then (rented documented)
+switch (pinkie fuzz?)
+case (kneecap fatality?)
+:fauna deets;
+case (skid playful?)
+:colonials suave;
+case (sidetracked stair?)
+:tinkle pressing; <<input>>
+endswitch
+(pastures hare) elseif (evens gangway?) then (whopping business)
+:nispqv;
+kill
+endif
+:crayons injury; <<load>>
+group sykes requisition
+switch (totaled wriggle?)
+case (reckoned futures?)
+:lay cardiovascular; <<input>>
+-> get belonging;
+case (extracted tonic?)
+:diminutive mecca;
+case (embezzling overpriced?)
+:tagged ginseng; <<task>>
+case (monitored stealing?)
+:bidder impressed; <<output>>
+endswitch
+stop
+end group
+@enduml

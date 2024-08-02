@@ -1,0 +1,12 @@
+@startuml
+participant "pizzas urns" as 0
+participant "momentarily empathic" as 1
+participant "nuptials scrub" as 2
+== remind proposition ==
+0 --> 1++ : subversive pit
+0 --//o 1: handsome invigorated
+0 -> 2: noun bedtime
+return celebrate demonic
+0 ->x 2++ : viva partying
+return cohesive unaffected
+@enduml

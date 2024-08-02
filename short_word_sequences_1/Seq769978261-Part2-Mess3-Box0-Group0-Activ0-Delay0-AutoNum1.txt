@@ -1,0 +1,8 @@
+@startuml
+participant "rated antsy" as 0
+participant "conked remainder" as 1
+autonumber 10 1
+0 ->o 1: earring loot
+0 -> 0: shelter pairs
+0 -> 0: bluer babysitters
+@enduml

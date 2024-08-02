@@ -1,0 +1,20 @@
+@startuml
+|1| vineyards toasting
+|2| boosted exhilarating
+|1|
+start
+|2|
+:benched jade; <<output>>
+split
+:proofing happiest;
+split again
+:concocted manicures; <<output>>
+-> juggernaut nosy;
+split again
+:nonnegotiable timbre; <<load>>
+-> chimera juvenile;
+end split
+|1|
+:enlisting popping; <<save>>
+end
+@enduml

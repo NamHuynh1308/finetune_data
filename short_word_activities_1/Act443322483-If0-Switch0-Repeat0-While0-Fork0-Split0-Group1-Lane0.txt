@@ -1,0 +1,9 @@
+@startuml
+start
+:spooked overtired;
+group bandit rose
+:hugest grinder; <<task>>
+-> unorthodox thoracic;
+stop
+end group
+@enduml

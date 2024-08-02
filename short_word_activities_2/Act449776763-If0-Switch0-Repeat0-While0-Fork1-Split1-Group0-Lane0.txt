@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:confuse cushions;
+split again
+-[hidden]->
+:cancelled deliveries;
+-> headaches dampened;
+split again
+-[hidden]->
+fork
+:testing finessed;
+fork again
+:rattle terms;
+fork again
+:dee soy; <<load>>
+-> resorts flogging;
+fork again
+:weakling hitch;
+end merge
+end split
+:cortex sprinkles; <<task>>
+-> triangular oceanographic;
+@enduml

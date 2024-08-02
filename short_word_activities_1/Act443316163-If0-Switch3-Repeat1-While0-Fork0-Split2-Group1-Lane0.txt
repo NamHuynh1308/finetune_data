@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:jobless pamphlet;
+split again
+-[hidden]->
+:fountain traveled; <<continuous>>
+-> sun argument;
+split again
+-[hidden]->
+switch (sordid dallying?)
+case (cleared league?)
+:mistletoe pomegranate; <<load>>
+case (showing lumber?)
+:locked fabrication;
+endswitch
+split again
+-[hidden]->
+split
+:implant unjustly;
+split again
+:laughable chills;
+split again
+:nudity impala; <<continuous>>
+end split
+end split
+group evocative planing
+switch (escapade admits?)
+case (ante mumbles?)
+switch (mote barbecue?)
+case (leased honored?)
+:jobless turbine; <<input>>
+case (firstly adoptive?)
+:legions said;
+endswitch
+case (miscommunication prognosis?)
+repeat
+:robbin prepared;
+:captivating excite;
+-> movers apologize;
+:charms chirpy;
+repeat while (regulated lightened?) is (saddle fabricate)
+endswitch
+stop
+end group
+@enduml

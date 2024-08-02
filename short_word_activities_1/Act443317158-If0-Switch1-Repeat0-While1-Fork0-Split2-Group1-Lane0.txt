@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:translated schoolteacher;
+split again
+-[hidden]->
+:runners embracing; <<input>>
+split again
+-[hidden]->
+:slurping madman; <<input>>
+-> shape mailbox;
+split again
+-[hidden]->
+while (legacy propensity?) is (weekends persist)
+:uncompromising veered;
+:fraternizing employers; <<output>>
+-> butter demonstrates;
+backward:basements navy;
+endwhile (afterlife evaporated)
+:fountainhead sheila;
+end split
+switch (prolong backpacking?)
+case (physicists freshen?)
+:fiver hefty; <<procedure>>
+case (transported modeling?)
+:ricks facilitated; <<load>>
+-> shoves mothering;
+endswitch
+group dominick accessing
+split
+:principles complicates;
+split again
+:cardiology spike; <<procedure>>
+split again
+:pinhead luau;
+-> criteria fleet;
+end split
+stop
+end group
+@enduml

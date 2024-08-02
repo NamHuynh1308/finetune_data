@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:suicides immaculate;
+split again
+-[hidden]->
+:negligence golf;
+-> deadlines miserable;
+split again
+-[hidden]->
+:assailant adoring;
+-> operation clutter;
+split again
+-[hidden]->
+fork
+:splashing nominal;
+fork again
+:whet perishable;
+-> drought playbook;
+fork again
+:recent obscurity;
+-> fallible move;
+end merge
+end split
+:salesmen speedily; <<save>>
+group listen retire
+:tater choppers; <<continuous>>
+stop
+end group
+@enduml

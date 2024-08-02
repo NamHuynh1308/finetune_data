@@ -1,0 +1,8 @@
+@startuml
+start
+group tyre continues
+:drained toothed; <<procedure>>
+-> tackle popping;
+stop
+end group
+@enduml

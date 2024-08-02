@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:stomach runt;
+split again
+-[hidden]->
+if (prone slate?) then (negotiator decompose)
+(barrow retest) elseif (nostalgic confirmation?) then (intermission any)
+:imports reprimand;
+(wipers falafel) elseif (barlow lubricants?) then (formality toddy)
+:freckle boatman; <<save>>
+-> orchestrate asphalt;
+endif
+split again
+-[hidden]->
+:contents strangled; <<task>>
+-> pewter zeppelin;
+split again
+-[hidden]->
+:goodies unopened; <<task>>
+end split
+group unbroken colorful
+:speedometer bassinet; <<task>>
+group endangerment exterminate
+:strategically glamour; <<task>>
+:slinking misgivings;
+end group
+stop
+end group
+@enduml

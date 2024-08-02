@@ -1,0 +1,20 @@
+@startuml
+participant "gulch tents" as 0
+box "residents combustion"
+participant "sunless untamed" as 1
+box "eh devouring"
+participant "momentarily delayed" as 2
+end box
+end box
+autonumber 4 1
+break doze thumping
+create participant "blisters fearful" as 3
+1 -> 3 : blisters fearful
+0 -> 2++ : metals null
+autonumber stop
+end
+3 --> 1: struggled hooks
+...misnomer thankfully...
+1 -->x 1: jogging ignoramus
+return croaker hitter
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+participant "entities weeny" as 0
+participant "outage snacks" as 1
+box "revising humus"
+participant "blurry haul" as 2
+participant "elitist adjutant" as 3
+end box
+participant "whiteness demure" as 4
+par venues earring
+ [<- 1: hams generous
+...subscription calls...
+2 ->] : scooter jam
+else bod clergyman
+...lighting charter...
+1 -> 0: snowed zeroes
+else barbs fresher
+loop bladders lolly
+...racetrack nightclub...
+0 --> 1++ : medusa swastika
+2 ->x 2: congressman goofball
+return herald framed
+else risen exporting
+end
+end
+@enduml

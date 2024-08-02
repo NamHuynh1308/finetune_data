@@ -1,0 +1,40 @@
+@startuml
+split
+-[hidden]->
+:lately nipper;
+split again
+-[hidden]->
+split
+:sear cornucopia;
+split again
+:ain splat;
+split again
+:finders sleepover;
+end split
+split again
+-[hidden]->
+:terminate tassels;
+kill
+end split
+group foothold waking
+if (vitamins afterglow?) then (woke ranting)
+(clauses grander) elseif (doing bereft?) then (scapegoat defend)
+repeat
+backward:misunderstanding festive;
+repeat while (disorders pah?) is (assembled shreds)
+(negatives antihistamines) elseif (propped stupidest?) then (partner subconscious)
+:vague clergyman; <<save>>
+(experiencing yin) elseif (shopped oy?) then (unite trait)
+if (doghouse display?) then (demerits nihilist)
+:pushers fertility;
+:benefactors handball;
+-> scheduled distraction;
+else (pathology robes)
+:committee fulfilled; <<continuous>>
+:drums horns; <<continuous>>
+:sevens prowess; <<task>>
+endif
+endif
+stop
+end group
+@enduml

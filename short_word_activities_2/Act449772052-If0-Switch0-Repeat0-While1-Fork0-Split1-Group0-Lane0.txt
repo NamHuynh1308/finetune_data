@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:mangled vegetables;
+split again
+-[hidden]->
+:smartass propulsion; <<output>>
+split again
+-[hidden]->
+:cobwebs vessels;
+split again
+-[hidden]->
+while (fruity strapless?) is (storage tumbler)
+backward:deed adverse;
+backward:civilized performs;
+:stern banged; <<task>>
+:somewhat blimey; <<procedure>>
+endwhile (spooning indicate)
+:ideology suppressed;
+end split
+:praying kegs; <<task>>
+@enduml

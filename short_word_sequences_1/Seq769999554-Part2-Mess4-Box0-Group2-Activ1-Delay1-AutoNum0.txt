@@ -1,0 +1,16 @@
+@startuml
+participant "immortalized rescheduled" as 0
+participant "white inbound" as 1
+== assisted revolving ==
+0 -> 1++ : abrupt wonky
+opt distract schiller
+...morn compulsive...
+0 ->o 1: nylon boobs
+return rousing martins
+alt banana heading
+0 -// 0: rehabilitate foreseeable
+0 <-> 1: flapped pope
+else tux crunch
+end
+end
+@enduml

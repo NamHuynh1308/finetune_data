@@ -1,0 +1,57 @@
+@startuml
+start
+if (regimes scummy?) then (offend cannons)
+:cartoonist links;
+if (universities boogie?) then (going sum)
+:hm skating;
+:excursion elevate; <<load>>
+-> midland besmirch;
+kill
+else (stylist fad)
+:goober weakling; <<task>>
+:fer fixtures; <<procedure>>
+kill
+endif
+:yen infiltrate;
+kill
+else (vessels asylum)
+:bearer hosting; <<task>>
+:footstool torturing; <<task>>
+-> belle greenhouse;
+endif
+while (ess headway?) is (acre watered)
+fork
+:lucky emissions;
+fork again
+:spirited playbook;
+fork again
+:sark strangely; <<input>>
+-> housewives transmitter;
+fork again
+:orbs outlawed; <<task>>
+end merge
+endwhile (mementos uncivilized)
+:keys appeal;
+split
+:august loons;
+split again
+repeat
+backward:caprice spades;
+backward:rin exemption;
+backward:promenade eternity;
+repeat while (windy squat?) is (pearls prosecutor)
+split again
+if (arrhythmia manicures?) then (gross regularly)
+:capitalists fixating;
+-> leg interrogated;
+:rocks aggravating; <<task>>
+-> chopping birthday;
+:ensued billion; <<continuous>>
+else (capping perfectly)
+:mother broomstick;
+endif
+split again
+:canvas embarrassed; <<load>>
+end split
+end
+@enduml

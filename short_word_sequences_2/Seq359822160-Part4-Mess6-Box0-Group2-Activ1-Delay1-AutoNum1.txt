@@ -1,0 +1,20 @@
+@startuml
+participant "clumsily administered" as 0
+participant "saber pluck" as 1
+participant "puppeteer expectations" as 2
+autonumber 0 0
+create participant "subdued digger" as 3
+0 -> 3 : subdued digger
+ [<- 3: honourable mended
+2 ->x 2++ : example desirable
+loop transitional introduced
+2 <-] : angioplasty models
+return croft unconsciously
+loop advise don
+...fading assembling...
+0 -> 0!! : photo mail
+1 -// 1: plumber vacancies
+autonumber stop
+end
+end
+@enduml

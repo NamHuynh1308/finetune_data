@@ -1,0 +1,13 @@
+@startuml
+split
+:errand duel;
+split again
+:fundraiser scrubbing;
+split again
+:software caribou;
+kill
+split again
+:responding covered; <<save>>
+end split
+stop
+@enduml

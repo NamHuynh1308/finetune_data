@@ -1,0 +1,7 @@
+@startuml
+start
+group flows shaped
+:vis discovered; <<input>>
+stop
+end group
+@enduml

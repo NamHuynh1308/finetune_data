@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:craftsmen jailbreak;
+split again
+-[hidden]->
+:compactor peters; <<task>>
+-> excellent try;
+split again
+-[hidden]->
+split
+:calamitous apologetic;
+split again
+:schmo winnings; <<input>>
+split again
+:freshest nurturing;
+split again
+:conducting ordinate;
+end split
+split again
+-[hidden]->
+:descending pining;
+-> stated fixture;
+end split
+group workers daft
+:dollar advertised; <<input>>
+-> oasis droop;
+stop
+end group
+@enduml

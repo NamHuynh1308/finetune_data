@@ -1,0 +1,25 @@
+@startuml
+start
+group evasive sitting
+:trappings stowed; <<procedure>>
+group raise frustrated
+split
+:brr ogling;
+split again
+:hauls paragon; <<continuous>>
+split again
+:guided germ; <<load>>
+end split
+switch (exterminating airlifted?)
+case (diminutive confided?)
+repeat
+:garrison dote;
+-> waterfront tweet;
+repeat while (uglies tiller?) is (etcetera jaywalking)
+case (estimation freshly?)
+:tricky ennui;
+endswitch
+end group
+stop
+end group
+@enduml

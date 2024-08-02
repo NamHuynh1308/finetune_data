@@ -1,0 +1,6 @@
+@startuml
+group federal swim
+:entitle curly; <<continuous>>
+stop
+end group
+@enduml

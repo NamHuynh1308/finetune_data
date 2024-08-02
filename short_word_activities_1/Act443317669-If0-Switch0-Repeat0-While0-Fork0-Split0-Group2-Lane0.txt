@@ -1,0 +1,11 @@
+@startuml
+start
+group opposite autograph
+:fittest deliberations; <<save>>
+group files journals
+:freelancer consigliere;
+-> salesman aside;
+stop
+end group
+end group
+@enduml

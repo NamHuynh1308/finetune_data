@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:swords reshoots;
+split again
+-[hidden]->
+repeat
+:parasitic fruitless;
+:revolves stanza; <<output>>
+repeat while (entomologist relinquish?) is (flourished presses)
+split again
+-[hidden]->
+:texture foam;
+split again
+-[hidden]->
+switch (hellhole hound?)
+case (kneecap dropout?)
+:perceptions riders;
+case (predatory judged?)
+:good doubles; <<input>>
+-> magnificence imperfection;
+case (jig goodly?)
+:jiffy hyped; <<save>>
+-> motions cutters;
+endswitch
+end split
+:beagle queller;
+group abiding hemp
+split
+:annoyance romancing;
+split again
+:rotation creator; <<save>>
+split again
+:resolute urologist;
+-> sesame savages;
+split again
+fork
+:pressured river;
+fork again
+:poet sim;
+fork again
+:wisdom magician;
+end merge
+end split
+stop
+end group
+@enduml

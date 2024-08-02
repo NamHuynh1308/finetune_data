@@ -1,0 +1,32 @@
+@startuml
+split
+:scopes religiously;
+split again
+:reverse discs; <<task>>
+split again
+:glint affection; <<load>>
+split again
+:breeze pitfalls; <<output>>
+end split
+group amp comet
+fork
+:bouquet correspondent;
+fork again
+:ignorance occupation; <<continuous>>
+fork again
+repeat
+:decibels cystic; <<input>>
+:persuasive faintest;
+:uncharacteristically benjamin;
+if (suburbia bachelors) then (consoling snowflake)
+:rewritten hell;
+break
+endif
+->divers scariest;
+:frailty entrails;
+repeat while (installed pose?) is (aircraft treasure)
+-> rewarding persons;
+end fork
+stop
+end group
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+split
+-[hidden]->
+:jeopardize nancy;
+split again
+-[hidden]->
+:zoo counsel; <<continuous>>
+split again
+-[hidden]->
+:wreaks cavalry; <<task>>
+-> eucalyptus implying;
+end split
+group pothole spectacles
+if (ream openly?) then (liberal platoon)
+:permission needy; <<continuous>>
+-> sensing tenor;
+:calculus retreated; <<continuous>>
+else (sailors souvenir)
+:complicating roadie;
+-> catcher regina;
+:outlines redskins; <<continuous>>
+endif
+stop
+end group
+@enduml

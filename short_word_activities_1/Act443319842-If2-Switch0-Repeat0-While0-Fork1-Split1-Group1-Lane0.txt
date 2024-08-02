@@ -1,0 +1,43 @@
+@startuml
+split
+-[hidden]->
+:neglect sleepwalking;
+split again
+-[hidden]->
+fork
+:deadlier sterling;
+fork again
+:rated groom; <<task>>
+fork again
+:referred colonels;
+fork again
+:fogged inhuman; <<procedure>>
+-> honeysuckle perm;
+end merge
+split again
+-[hidden]->
+:paperboy construction; <<output>>
+-> telly shipped;
+end split
+if (grows universities?) then (dashed became)
+(maturity purposefully) elseif (amaze homes?) then (nana glint)
+:classical grandson; <<task>>
+(revere disappearances) elseif (salted curtsy?) then (trousers ouch)
+:draining lever;
+(antacid lapsed) elseif (hit impaired?) then (reducing executions)
+:kitten terrain;
+endif
+group ethical pyramid
+if (redid endearing?) then (actor peddling)
+(adherence swapped) elseif (pluck insistent?) then (installed nauseous)
+:shambles poet; <<procedure>>
+(bottles quota) elseif (hotbed singles?) then (signaled backdoor)
+:cutting checkmate; <<load>>
+(install renounce) elseif (deltas brewery?) then (diving craftsmanship)
+:rid alastor; <<procedure>>
+(thumbprint good) elseif (fiddling housewives?) then (situation midnight)
+:getaway viewers; <<task>>
+endif
+stop
+end group
+@enduml

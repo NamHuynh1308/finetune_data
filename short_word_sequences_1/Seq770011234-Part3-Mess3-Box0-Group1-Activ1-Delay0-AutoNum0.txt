@@ -1,0 +1,11 @@
+@startuml
+participant "busted unavoidable" as 0
+participant "enchantment shoves" as 1
+participant "apparel lamp" as 2
+loop godfather mannequins
+1 -> 0++ : vaguely supposed
+0 -// 1: cork exercising
+ [<- 2: nephew dismantle
+return musician simpler
+end
+@enduml

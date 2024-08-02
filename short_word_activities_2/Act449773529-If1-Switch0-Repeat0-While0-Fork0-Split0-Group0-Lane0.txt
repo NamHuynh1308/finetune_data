@@ -1,0 +1,13 @@
+@startuml
+if (wha supplements?) then (bottle superheroes)
+:medusa gayest; <<continuous>>
+-> destroyed tier;
+else (flogged takeover)
+:crocket troublemaker; <<load>>
+:displays survived; <<task>>
+-> cleaner defense;
+:misspoke confederates; <<procedure>>
+-> seductive icky;
+endif
+stop
+@enduml

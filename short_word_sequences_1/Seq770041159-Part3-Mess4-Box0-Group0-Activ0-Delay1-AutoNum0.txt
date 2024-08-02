@@ -1,0 +1,10 @@
+@startuml
+participant "wonder simulate" as 0
+participant "amaze slashed" as 1
+create participant "spent dunes" as 2
+0 -> 2 : spent dunes
+0 -> 1: cozy escapes
+...pedestrian flirt...
+0 -->x 1: grouch liability
+ [-> 1: tach hogwash
+@enduml

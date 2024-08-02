@@ -1,0 +1,24 @@
+@startuml
+box "pious sidecar"
+participant "cage eaves" as 0
+participant "matrimony intros" as 1
+end box
+box "towns systems"
+participant "shirt spawn" as 2
+end box
+autonumber 0 7
+2 -// 0: comparative preppy
+par tempered hankering
+0 -> 1: heartache rabies
+...wops conference...
+1 -> 0++ : lawsuit upped
+...elephant antler...
+0 <-] : methods downhill
+0 -> 2: shirts wingman
+return blush aerospace
+else bourne arteries
+opt ordeal shear
+1 -> 2!! : multiplex unacceptable
+end
+end
+@enduml

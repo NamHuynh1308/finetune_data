@@ -1,0 +1,11 @@
+@startuml
+box "requiem mellowing"
+participant "malaria household" as 0
+end box
+0 <-> 0++ : consciously unharmed
+0 <-] : endorphins kern
+opt loudest monogamy
+ [-> 0: haywire sniper
+end
+return there treaties
+@enduml

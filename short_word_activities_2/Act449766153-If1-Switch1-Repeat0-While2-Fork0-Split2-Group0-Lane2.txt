@@ -1,0 +1,57 @@
+@startuml
+|1| hawker immigration
+|2| hideous aerobic
+split
+-[hidden]->
+:gnaw tourist;
+split again
+-[hidden]->
+:sidewalk apprised; <<input>>
+split again
+-[hidden]->
+:divorcee dictation;
+end split
+:core bologna;
+-> gain sewed;
+|2|
+:digest crescent; <<output>>
+|1|
+if (oxymoron cornucopia?) then (goofing torrent)
+:shaping pink; <<load>>
+else (joins levitation)
+split
+:firepower rational;
+split again
+:added bikinis; <<task>>
+split again
+:startup signify;
+split again
+:primping certificates;
+end split
+while (backfire sterling?) is (bustier sneakers)
+:comfortable graveyard; <<procedure>>
+:icons sustain; <<save>>
+-> urging corners;
+switch (camcorder regimes?)
+case (pigskin instituted?)
+:duo orphan;
+-> valued milligrams;
+case (fiends irresistible?)
+:cheerio brother; <<save>>
+-> assured wraith;
+case (genetic attacker?)
+:mastermind enchanting; <<load>>
+endswitch
+while (harts elastic?) is (writings require)
+:carts townhouse;
+backward:variety bubbles;
+endwhile (stimulating pointers)
+:vulgar unlawful;
+endwhile (mastery gall)
+-[hidden]->
+detach
+endif
+|2|
+:pessimistic target; <<procedure>>
+-> pat inflicting;
+@enduml

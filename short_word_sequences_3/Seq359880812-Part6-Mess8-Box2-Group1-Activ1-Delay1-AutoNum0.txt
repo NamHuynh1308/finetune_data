@@ -1,0 +1,26 @@
+@startuml
+participant "leader astronauts" as 0
+box "manufacturer professed"
+participant "charted prepare" as 1
+box "sized hasty"
+participant "skyrocket hedge" as 2
+participant "bottling caveman" as 3
+participant "engineering gestation" as 4
+end box
+end box
+== understands sopranos ==
+4 -// 4: evenly accompanying
+ [<- 0: factories faggot
+create participant "pistons ironed" as 5
+4 -> 5 : pistons ironed
+par psychos pollack
+0 -> 3: regurgitate whichever
+ [-> 2: supplements freedman
+else chardonnay kayaking
+4 ->o 4: virulent courageous
+...gulag curse...
+5 -->x 2++ : freeloader accord
+1 <-> 2: tiger sadistic
+return goes rarest
+end
+@enduml

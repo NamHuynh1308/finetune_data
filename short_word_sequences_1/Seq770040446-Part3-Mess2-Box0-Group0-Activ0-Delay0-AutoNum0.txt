@@ -1,0 +1,8 @@
+@startuml
+participant "dutch miner" as 0
+participant "pause malt" as 1
+== unveiling radiology ==
+create participant "pie loco" as 2
+0 -> 2 : pie loco
+ [<- 2: sushi wiser
+@enduml

@@ -1,0 +1,32 @@
+@startuml
+|1| actor stimulation
+|2| clearances canine
+|1|
+start
+:planetary retrieval; <<load>>
+|2|
+:chain avatar; <<continuous>>
+-> dead flawlessly;
+|1|
+:doses gaudy; <<load>>
+-> lancer whomever;
+if (cordial twister?) then (dogs teachers)
+(intoxicated disposing) elseif (incapacitated felons?) then (selfishness stubbed)
+:huddle beasts; <<procedure>>
+(trey holdup) elseif (ticklish jinx?) then (third unmitigated)
+:penalized adores; <<procedure>>
+-> tampering nuclear;
+(moisturizer soon) elseif (amphetamines diary?) then (businessmen pour)
+split
+:imprisoned perish;
+split again
+:weirdos speaking;
+split again
+:dazzled snuggles;
+split again
+:bronzed counselling; <<task>>
+end split
+endif
+:bearers probability;
+stop
+@enduml

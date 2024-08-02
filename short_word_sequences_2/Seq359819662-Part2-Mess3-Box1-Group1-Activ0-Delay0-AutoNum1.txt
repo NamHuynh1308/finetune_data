@@ -1,0 +1,14 @@
+@startuml
+box "thousand misunderstood"
+participant "temptations assessing" as 0
+participant "soldier insulation" as 1
+end box
+autonumber 6 3
+0 ->x 1: chiseling insight
+alt quad risotto
+ [-> 0: cartoonist paw
+0 ->] : rowdy regularly
+autonumber stop
+else indignation knifed
+end
+@enduml

@@ -1,0 +1,39 @@
+@startuml
+start
+group vodka query
+split
+:preceded maniac;
+split again
+:payday unaware; <<load>>
+-> vendettas movie;
+split again
+:speedboat sensors;
+end split
+switch (reeve justification?)
+case (populated worthy?)
+:scar month;
+case (contamination rulers?)
+:thru roundabout;
+case (allegedly lusting?)
+repeat
+:grab kent;
+:cesspool monument;
+-> insulted metals;
+repeat while (persuasive harry?) is (communists oboe)
+case (confession packets?)
+fork
+:investment surprise;
+fork again
+:mechanism hoboes;
+-> relationships elated;
+fork again
+:blurt shaggy;
+fork again
+:campfire processors; <<save>>
+end fork
+endswitch
+end group
+:unconditional score; <<load>>
+-> valor overalls;
+stop
+@enduml

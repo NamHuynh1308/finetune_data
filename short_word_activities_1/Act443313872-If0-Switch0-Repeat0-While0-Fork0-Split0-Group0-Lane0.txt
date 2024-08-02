@@ -1,0 +1,8 @@
+@startuml
+start
+:scone grooming; <<continuous>>
+-> deciding acoustics;
+:democrat tailored; <<load>>
+:ballot unwitting;
+end
+@enduml

@@ -1,0 +1,38 @@
+@startuml
+group remedy suds
+fork
+:pharmacy racial;
+fork again
+switch (danger emphatic?)
+case (stove recrimination?)
+:notable seated; <<continuous>>
+case (easing crunchy?)
+:minimum mote;
+endswitch
+fork again
+switch (cook signs?)
+case (egotistical gee?)
+:herding cube; <<task>>
+case (mirth stack?)
+:colossal lists;
+endswitch
+end fork
+split
+:asleep setup;
+split again
+:bundles skull; <<output>>
+split again
+:vegetarians inspiring; <<save>>
+-> lattes zeroed;
+end split
+end group
+switch (grape rehash?)
+case (exploded fibers?)
+:chime massacre;
+-> bombarding viceroy;
+case (denominators incantation?)
+:peninsula edict;
+-> secretly hoosegow;
+endswitch
+end
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+start
+:mapping prominent;
+-> contest panhandle;
+stop
+@enduml

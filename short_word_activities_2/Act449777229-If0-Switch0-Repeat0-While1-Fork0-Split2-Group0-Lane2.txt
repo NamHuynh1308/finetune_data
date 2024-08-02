@@ -1,0 +1,42 @@
+@startuml
+|1| cognac concentric
+|2| carbon picnic
+split
+-[hidden]->
+:react rook;
+split again
+-[hidden]->
+:traction painfully; <<load>>
+-> canceling beating;
+split again
+-[hidden]->
+:lye voice; <<input>>
+-> banks monster;
+end split
+:sympathetic talking; <<procedure>>
+|2|
+:trading waited;
+|1|
+:eavesdropped hyperactive; <<output>>
+-> razors tidying;
+|2|
+:brewer manicured; <<save>>
+-> safeguards modification;
+|1|
+while (tacos regardless?) is (tolerate shins)
+split
+:sailboats cubicle;
+split again
+:snarky pave; <<continuous>>
+-> spoken bumble;
+split again
+:deterioration counselling; <<task>>
+end split
+backward:dag contusions;
+backward:smokers lucid;
+:advancement moustache; <<output>>
+-> ease coldness;
+endwhile (thrower comparable)
+:monarchs trolls;
+end
+@enduml

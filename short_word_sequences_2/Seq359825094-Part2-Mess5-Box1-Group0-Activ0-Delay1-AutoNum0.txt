@@ -1,0 +1,12 @@
+@startuml
+box "trickier spokesman"
+participant "scalding chiffon" as 0
+participant "humdinger spa" as 1
+end box
+1 --//o 0: capo flaming
+1 ->> 0: amount hotbed
+1 -> 0!! : stitches commodities
+...hazelnut catsup...
+ [<- 1: alternative detergent
+ [<- 1: departmental hothouse
+@enduml

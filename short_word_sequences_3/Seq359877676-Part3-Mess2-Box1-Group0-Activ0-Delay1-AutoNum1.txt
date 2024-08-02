@@ -1,0 +1,13 @@
+@startuml
+participant "sunlight meanwhile" as 0
+box "oneself packed"
+participant "flowing shopkeeper" as 1
+end box
+== driven trawler ==
+autonumber 1 2
+create participant "revoked decompress" as 2
+0 -> 2 : revoked decompress
+autonumber stop
+...analyze truss...
+2 -// 2: pipes concoction
+@enduml

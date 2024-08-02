@@ -1,0 +1,42 @@
+@startuml
+split
+-[hidden]->
+:dripped glide;
+split again
+-[hidden]->
+:joyous bongos;
+split again
+-[hidden]->
+:devilishly cobbler; <<save>>
+end split
+group sailboat rated
+switch (bene inference?)
+case (rumor look?)
+:unknown stopping; <<load>>
+-> considerably mascot;
+case (alabaster neighbours?)
+:professors revolving;
+kill
+case (motley turbulence?)
+:sopranos canceled; <<output>>
+-> goa grope;
+case (fop twig?)
+repeat
+:handcuffs famine;
+:perverts skate;
+backward:thermostat hypnotize;
+repeat while (formaldehyde chili?) is (wayward blather)
+-> colonnade consensus;
+endswitch
+while (boiled bragging?) is (fuzz spokes)
+backward:unpopular suburbia;
+:dispatch calendars; <<load>>
+endwhile (performers glory)
+:hairs mislead;
+group culturally dale
+:theory drier; <<save>>
+-> properties resurrection;
+stop
+end group
+end group
+@enduml

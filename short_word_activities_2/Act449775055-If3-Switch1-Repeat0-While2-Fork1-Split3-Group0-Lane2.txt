@@ -1,0 +1,89 @@
+@startuml
+|1| recurring class
+|2| bench nipping
+split
+-[hidden]->
+:businesswoman journalists;
+split again
+-[hidden]->
+switch (sandwich mercer?)
+case (admitted tightrope?)
+:caballero stretching;
+case (enormously infomercial?)
+:bearings exorbitant;
+case (unnatural ralph?)
+:skulk sublet;
+endswitch
+split again
+-[hidden]->
+:tabs legally; <<output>>
+-> overview stasis;
+split again
+-[hidden]->
+:scavenger collie;
+end split
+|2|
+:lies wedges;
+|1|
+split
+:widow lech;
+split again
+:enjoyed physicals; <<save>>
+split again
+while (touchdown leafy?) is (undergarment propose)
+:administered breakthroughs; <<save>>
+backward:resort sauna;
+:genre boom;
+backward:foreigners iguanas;
+endwhile (cope ark)
+:kindling proudly;
+end split
+|2|
+if (badminton startup?) then (admirer cipher)
+:manhunt exhumed; <<load>>
+-> vill pelvic;
+fork
+:frightened testing;
+fork again
+:amulets defaced;
+fork again
+:who relaxants;
+end fork
+else (techniques oven)
+:pecking semen;
+endif
+|1|
+if (pendant wackos?) then (sacks comforted)
+(synapses stationery) elseif (dismissed awakened?) then (ached dodgeball)
+split
+:exactly preferably;
+split again
+:pride dour;
+split again
+:futility rutting; <<load>>
+split again
+:sensibilities devil;
+end split
+(volts exchanged) elseif (big zeroes?) then (gnawing marge)
+:summers ratted; <<input>>
+-> racy controller;
+(dock vulnerability) elseif (contractions bargain?) then (predict wheeler)
+:ujyrnp;
+while (symbiotic excellency?) is (lier twits)
+backward:recommends camp;
+backward:genetics tuxedos;
+if (nosy idea?) then (waxed flatterer)
+:chapel juggle;
+else (casing loading)
+:disappeared react; <<input>>
+:separated backfired; <<procedure>>
+:roadster drugstore;
+-> specimens font;
+endif
+endwhile (investing pounder)
+-[hidden]->
+detach
+(commodities butterscotch) elseif (chitchat asleep?) then (none sickos)
+:zipper bored;
+endif
+@enduml

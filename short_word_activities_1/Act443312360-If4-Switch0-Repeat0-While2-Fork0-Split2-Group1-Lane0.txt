@@ -1,0 +1,65 @@
+@startuml
+start
+if (yippee greetings?) then (cook platter)
+while (safes lived?) is (ignite financed)
+:wiring hastened;
+backward:daring pronounced;
+backward:persuaded absorbent;
+endwhile (introduce messages)
+:journals pediatrics;
+if (brink kelson?) then (gambit crisps)
+:owners throughway;
+-> ramus manuscript;
+:eviscerated hardest;
+:psychotherapist intercepting; <<procedure>>
+else (ambience drifting)
+:morale readers;
+endif
+else (negotiating rivalry)
+:terminology wake; <<load>>
+:wag comrade;
+-> colonies crypto;
+endif
+split
+:seamless nightclub;
+split again
+:obeyed troll; <<input>>
+split again
+split
+:damage human;
+split again
+:aesthetics continually; <<task>>
+-> amendments conversational;
+split again
+:adequate mantra;
+split again
+:holland halitosis; <<load>>
+-> caroling lapsed;
+end split
+end split
+group slimming brute
+if (loops maggot?) then (mis hairdressers)
+:nominee glop; <<task>>
+kill
+else (escapee repairing)
+:outset hardy; <<load>>
+-> secondly pensioners;
+while (grass libation?) is (prosciutto ovarian)
+backward:generic artificial;
+backward:fraught sea;
+:barker heavier; <<load>>
+-> landers pickings;
+if (grapefruit concurrently?) then (voiced method)
+(publisher peacetime) elseif (peer chapter?) then (outgrown translators)
+:realms relaxants;
+(montage taffy) elseif (reminded gentlemen?) then (taxicab medicine)
+:extradition ectopic; <<input>>
+-> colleen sub;
+endif
+endwhile (harps stalk)
+-[hidden]->
+detach
+endif
+stop
+end group
+@enduml

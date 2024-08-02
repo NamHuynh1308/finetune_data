@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:lemur debt;
+split again
+-[hidden]->
+split
+:gin excursions;
+split again
+:applause lawman; <<save>>
+-> eviscerated handguns;
+split again
+:heave maker;
+end split
+split again
+-[hidden]->
+:slowing tofu; <<save>>
+end split
+group quark nee
+if (floats beforehand?) then (scry jobs)
+(tender rolf) elseif (jealousy friendly?) then (needy cod)
+:massively wreaking; <<save>>
+-> prevented unguarded;
+(continued silky) elseif (unicorn ached?) then (flavour rascals)
+:calzones misfits; <<save>>
+-> blemish played;
+(condoned inactive) elseif (inquisitor neckline?) then (expecting poppet)
+:adrenaline actively; <<input>>
+(picture seriously) elseif (climax waving?) then (rite geishas)
+:irony instruct;
+-> producing thine;
+endif
+stop
+end group
+@enduml

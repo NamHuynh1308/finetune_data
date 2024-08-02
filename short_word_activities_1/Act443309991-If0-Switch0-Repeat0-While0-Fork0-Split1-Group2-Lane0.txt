@@ -1,0 +1,21 @@
+@startuml
+split
+-[hidden]->
+:dipstick statue;
+split again
+-[hidden]->
+:reprisal cousins; <<output>>
+split again
+-[hidden]->
+:variables understandable; <<output>>
+-> parks suites;
+end split
+group expectancy lobsters
+:fragments associations; <<task>>
+group sued tended
+:prayed unseal;
+-> flip swordfish;
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "resented parchment" as 0
+participant "clever imam" as 1
+autonumber 0 3
+0 -// 1: dubious facial
+...cavalcade caramel...
+0 <-> 0++ : impart overflowing
+return labeled cottages
+@enduml

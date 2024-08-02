@@ -1,0 +1,74 @@
+@startuml
+split
+-[hidden]->
+:good call;
+split again
+-[hidden]->
+if (donate euros?) then (universal easel)
+:waxes deserves;
+:hearing enlightened;
+else (editor biscuit)
+:destination prone; <<task>>
+-> eggplant spontaneously;
+while (fizzle burglary?) is (masturbated forth)
+:ecumenical unwind;
+endwhile (immaculate assorted)
+-[hidden]->
+detach
+endif
+split again
+-[hidden]->
+:colonies courteous;
+split again
+-[hidden]->
+:tippy lozenges; <<save>>
+end split
+if (delights eliminate?) then (indiscretions atheists)
+(scores flanking) elseif (confirm bundle?) then (autopsies banners)
+switch (groaning nail?)
+case (hobble above?)
+:petitioning subservient; <<input>>
+case (setup afternoon?)
+:forearm lines;
+case (takeoff milo?)
+:bullied functioning;
+-> skies fling;
+case (monumental fifties?)
+:glorified ruled;
+endswitch
+(piggy matrix) elseif (hysteria normalcy?) then (conversationalist sixth)
+split
+:grip postcard;
+split again
+:ships extending;
+split again
+:thereafter replacing;
+end split
+endif
+group reasonably fired
+while (midtown jesuit?) is (relapsing pathologically)
+backward:townhouse enjoyable;
+endwhile (slowing reacquainted)
+:sharpens upcoming;
+if (jokes snatching?) then (turbulent coed)
+:writers breast;
+else (dew throne)
+split
+:laden warning;
+split again
+:roaring saying;
+while (vouching northwest?) is (doctor operator)
+:drawings memorized;
+endwhile (solitude doughnuts)
+-[hidden]->
+detach
+split again
+:hunched they;
+split again
+:coma polarity; <<output>>
+-> vine timbers;
+end split
+endif
+stop
+end group
+@enduml

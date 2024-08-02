@@ -1,0 +1,16 @@
+@startuml
+participant "upcoming large" as 0
+participant "bonkers mm" as 1
+participant "exploration malls" as 2
+participant "reread irritation" as 3
+participant "possibly scientific" as 4
+== jake voodoo ==
+4 ->x 3: chicks outlook
+0 -> 4: cornering visas
+...slacks parlour...
+4 -> 0: finishes swallowing
+1 -> 1: assassins specialties
+par thy seekers
+3 --//o 4: rem hurdles
+end
+@enduml

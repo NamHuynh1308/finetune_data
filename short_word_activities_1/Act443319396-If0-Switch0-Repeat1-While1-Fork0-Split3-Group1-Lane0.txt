@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:answering hail;
+split again
+-[hidden]->
+while (probate tidy?) is (absorbing mailboxes)
+backward:nodding chumps;
+backward:waterproof coordinator;
+endwhile (thieves noticed)
+:morbid puffs;
+split again
+-[hidden]->
+split
+:manuscript rekindle;
+split again
+:grossed confessions;
+split again
+:chump kin; <<output>>
+split again
+:ratting obstinate;
+end split
+end split
+group absurdity wasps
+split
+:microscope skewered;
+split again
+:impala bearings; <<output>>
+split again
+repeat
+backward:indescribable gobbles;
+:desperately racket;
+backward:midget together;
+repeat while (endings remained?) is (opal sham)
+-> shakes symptoms;
+end split
+stop
+end group
+@enduml

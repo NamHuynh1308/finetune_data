@@ -1,0 +1,14 @@
+@startuml
+participant "hardy plantation" as 0
+box "smelling glib"
+participant "thawing sedate" as 1
+end box
+autonumber 1 6
+1 -// 1++ : gore censor
+alt smithereens performer
+ [-> 0: doves ventriloquism
+return transfers flair
+1 <-] : puree foolish
+autonumber stop
+end
+@enduml

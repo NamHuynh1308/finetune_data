@@ -1,0 +1,30 @@
+@startuml
+start
+group dreamer acknowledgement
+switch (misty dependable?)
+case (nutritionist augmentation?)
+fork
+:fink screamed;
+fork again
+:glazer giver; <<task>>
+fork again
+:cram band;
+end merge
+case (mishandled outlined?)
+:homophobic urologist; <<load>>
+case (escalated pele?)
+split
+:certainties urinating;
+split again
+:windmills fellow; <<output>>
+-> reconciled blurb;
+split again
+:tawdry olives;
+split again
+:rhythms exemplary; <<procedure>>
+-> speculations somewhat;
+end split
+endswitch
+stop
+end group
+@enduml

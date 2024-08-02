@@ -1,0 +1,9 @@
+@startuml
+participant "rendezvous affections" as 0
+participant "gestating deadlines" as 1
+== problematic shortness ==
+autonumber 7 9
+0 -\\ 0: counsel upsets
+1 ->> 0: argue townie
+autonumber stop
+@enduml

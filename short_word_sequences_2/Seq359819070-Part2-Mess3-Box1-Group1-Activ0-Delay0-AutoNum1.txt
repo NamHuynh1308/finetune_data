@@ -1,0 +1,13 @@
+@startuml
+participant "whispered anchors" as 0
+box "epilepsy dolled"
+participant "heater orbed" as 1
+end box
+== overqualified discrepancy ==
+autonumber 2 9
+1 <-] : hornets happiest
+0 -> 0: snazzy girly
+loop halves throughway
+1 -> 0!! : loos exceeded
+end
+@enduml

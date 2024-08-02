@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:coupon carats;
+split again
+-[hidden]->
+:viable pokey;
+split again
+-[hidden]->
+:calculators experimentation; <<task>>
+-> mixing decides;
+end split
+group lecture acclimate
+:master hic; <<input>>
+if (wife discovering?) then (paraphernalia notoriously)
+fork
+:hackman qualifications;
+fork again
+:symbolism destroyers;
+-> musketeers unwise;
+fork again
+:sled heavyweight;
+fork again
+:identification violets; <<output>>
+end fork
+:oaths silver; <<input>>
+:overpaid munchkins; <<load>>
+else (presently minions)
+:imagine diseased; <<continuous>>
+endif
+end group
+:hotshot flunky; <<load>>
+end
+@enduml

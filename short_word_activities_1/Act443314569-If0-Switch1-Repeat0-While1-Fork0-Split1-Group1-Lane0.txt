@@ -1,0 +1,30 @@
+@startuml
+split
+-[hidden]->
+:abnormal bobcat;
+split again
+-[hidden]->
+:boob tasty; <<procedure>>
+-> temperamental orphanage;
+split again
+-[hidden]->
+switch (goodbye oldest?)
+case (ask maternal?)
+:execute outcast; <<load>>
+case (panicking regime?)
+:speed divisional; <<input>>
+endswitch
+split again
+-[hidden]->
+:pheromones collars;
+end split
+group texts brainstorming
+while (withdraw sidetracked?) is (goodwill criminalistics)
+:appetizers sanatorium; <<task>>
+:scarce dandruff; <<continuous>>
+endwhile (inconceivable concourse)
+:void elements;
+:cauliflower healers; <<task>>
+stop
+end group
+@enduml

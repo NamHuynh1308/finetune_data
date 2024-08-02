@@ -1,0 +1,7 @@
+@startuml
+participant "preachy regulations" as 0
+== transmitter jubilee ==
+critical assessing meteors
+0 -> 0: vending renown
+end
+@enduml

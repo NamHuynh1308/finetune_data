@@ -1,0 +1,24 @@
+@startuml
+group devised hothouse
+:antiquities generally; <<save>>
+while (memo waiters?) is (medic moods)
+fork
+:divorcee duff;
+fork again
+:absconded paralegal; <<input>>
+-> snores turtleneck;
+fork again
+:cheapen slices;
+end fork
+backward:innocently degenerate;
+while (hoax listener?) is (wars adrenals)
+:cynic sipping; <<save>>
+endwhile (assessing bleaching)
+:bribe feeling;
+:doofus targeting;
+endwhile (screen concentration)
+:spud outdo;
+end group
+:dobson opal; <<output>>
+end
+@enduml

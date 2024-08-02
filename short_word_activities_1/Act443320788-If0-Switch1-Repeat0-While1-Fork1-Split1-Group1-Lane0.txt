@@ -1,0 +1,37 @@
+@startuml
+start
+group utilize scumbags
+split
+:terry husband;
+split again
+switch (redecorating deplore?)
+case (wanderer smuggle?)
+:hessian exposes;
+case (panther dashboard?)
+:photographers yuk;
+-> thine prone;
+case (timely drooling?)
+:wrecking advance;
+case (collaborator sacrilege?)
+:de pedro;
+endswitch
+split again
+:toolbox shingles;
+end split
+fork
+:setting serotonin;
+fork again
+:supporter unconstitutional; <<save>>
+fork again
+while (paranoia intern?) is (corned lap)
+:flask wiggling;
+:taxidermist swelling;
+:sushi disappeared; <<task>>
+endwhile (cribbage clues)
+:psychiatrist reader;
+fork again
+:accessories welder; <<procedure>>
+-> ginseng halitosis;
+end merge
+end group
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "translation follows" as 0
+participant "outdated floorboards" as 1
+participant "caffeine den" as 2
+== bat socks ==
+autonumber 3 10
+1 <-> 2++ : sighted distance
+0 ->x 1++ : rattle syphilis
+opt dozer assignment
+2 ->> 0: additives curtains
+end
+return receding siege
+return newsletter paleontologist
+@enduml

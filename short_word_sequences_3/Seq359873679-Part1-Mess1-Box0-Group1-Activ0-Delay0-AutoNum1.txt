@@ -1,0 +1,7 @@
+@startuml
+participant "seeing weeks" as 0
+autonumber 3 6
+critical lido epizootics
+0 ->> 0: undetected officer
+end
+@enduml

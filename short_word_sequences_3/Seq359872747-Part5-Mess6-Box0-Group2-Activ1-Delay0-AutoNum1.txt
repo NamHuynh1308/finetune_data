@@ -1,0 +1,19 @@
+@startuml
+participant "capturing legislative" as 0
+participant "hormonal epinephrine" as 1
+participant "zeal drake" as 2
+participant "blume exercises" as 3
+autonumber 10 4
+1 ->] : headway feathering
+create participant "ritter captains" as 4
+2 -> 4 : ritter captains
+4 <-] : cartel conniption
+par extraordinary beards
+3 -> 3: santos advisable
+3 --//o 1++ : holiest cash
+break showering poachers
+ [<- 2: mentality downy
+return reporting bomber
+end
+end
+@enduml

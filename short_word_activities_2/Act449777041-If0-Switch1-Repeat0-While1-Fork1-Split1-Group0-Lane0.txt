@@ -1,0 +1,31 @@
+@startuml
+fork
+:checked skewer;
+fork again
+switch (priesthood runoff?)
+case (lizards airmen?)
+:kids topple; <<input>>
+case (salamander mauled?)
+:hunted honky; <<continuous>>
+case (erupt doily?)
+:richer feather;
+while (audiotape hardest?) is (tolerated automaton)
+backward:planes singe;
+:filthy professionals;
+endwhile (ordeal dirk)
+-[hidden]->
+detach
+endswitch
+fork again
+split
+:conformity swamp;
+split again
+:imaginable nil; <<procedure>>
+split again
+:overkill botched;
+split again
+:declining defended;
+end split
+end merge
+stop
+@enduml

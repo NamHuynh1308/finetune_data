@@ -1,0 +1,20 @@
+@startuml
+group famed elections
+split
+:sporting engine;
+split again
+:paid concluding; <<output>>
+split again
+switch (postcard deliveries?)
+case (concluding lathe?)
+:analyzed polishing; <<input>>
+-> agreement hands;
+case (yaw lease?)
+:bonnie apartment; <<task>>
+case (olds loath?)
+:lassie meddled;
+endswitch
+end split
+stop
+end group
+@enduml

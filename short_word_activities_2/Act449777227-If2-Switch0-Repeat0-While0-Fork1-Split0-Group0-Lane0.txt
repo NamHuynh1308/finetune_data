@@ -1,0 +1,29 @@
+@startuml
+start
+if (glover fry?) then (platitudes indefensible)
+if (slicker shiva?) then (caverns evil)
+(banks anniversary) elseif (claymores sexiest?) then (ventilate keep)
+:smitten configuration;
+-> silence faults;
+(haw shop) elseif (samaritan bathe?) then (jukebox pupils)
+:sufficient phosphorous;
+(tipsy lightly) elseif (unfolds convene?) then (router convenes)
+:dung tremendously; <<continuous>>
+(dynasty refrigerators) elseif (munching ten?) then (asbestos prunes)
+:ludicrous consistently; <<continuous>>
+endif
+fork
+:teenager chest;
+fork again
+:hams grammar; <<task>>
+fork again
+:loss founded;
+fork again
+:ink alongside; <<continuous>>
+end merge
+else (necromancer predator)
+:indescribable authorized;
+:congeniality truant;
+endif
+end
+@enduml

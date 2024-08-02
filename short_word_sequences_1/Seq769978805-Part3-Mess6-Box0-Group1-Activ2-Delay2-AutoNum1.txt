@@ -1,0 +1,19 @@
+@startuml
+participant "slip bulldog" as 0
+participant "dings sprayed" as 1
+participant "fatso brick" as 2
+autonumber 1 10
+2 <-> 1: harassment recruits
+2 -> 2++ : ordered traction
+2 -> 2!! : rematch caves
+autonumber stop
+2 -// 0: sublevel stricken
+...kiosk malfunction...
+2 ->o 1: observant relativity
+alt yo fundamentalist
+...insuring sycophant...
+1 -> 2++ : glands rowan
+end
+return deceitful diseases
+return definition propaganda
+@enduml

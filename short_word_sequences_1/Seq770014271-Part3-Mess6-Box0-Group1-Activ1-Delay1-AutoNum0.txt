@@ -1,0 +1,16 @@
+@startuml
+participant "mythical basement" as 0
+participant "liquid bathrobes" as 1
+participant "watchers powering" as 2
+2 -> 1: adore chenille
+alt maggots timothy
+0 ->x 2: specifications fellah
+0 <-> 1: vertigo shingles
+2 --> 1: purest inspections
+2 <-> 0++ : ought alleviate
+...oldest scotia...
+2 -> 0: lutz helping
+else loco devil
+end
+return heckling operations
+@enduml

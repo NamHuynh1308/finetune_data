@@ -1,0 +1,21 @@
+@startuml
+participant "fades glaring" as 0
+participant "campus lesions" as 1
+== edgy sensory ==
+create participant "erasers lower" as 2
+0 -> 2 : erasers lower
+...tentative relay...
+1 <-] : wagging therein
+0 --> 1: insignificant unlock
+loop fortune symphony
+...breaths cartons...
+2 -> 1++ : book trivial
+1 --//o 0++ : hugged bowled
+loop hogs belly
+0 -> 1++ : bachelorette abundantly
+end
+end
+return exceeded gist
+return cranial veracity
+return urn floss
+@enduml

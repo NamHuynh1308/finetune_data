@@ -1,0 +1,10 @@
+@startuml
+participant "speaking patter" as 0
+participant "nauseated paramilitary" as 1
+participant "start ding" as 2
+2 --//o 0: vocalist rowdy
+0 <-> 1: scorching tropic
+ [<- 2: wrinkles melts
+2 -> 2++ : throw emancipated
+return seas businesswoman
+@enduml

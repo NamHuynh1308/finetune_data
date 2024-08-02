@@ -1,0 +1,18 @@
+@startuml
+participant "footage auditing" as 0
+box "stain forgetful"
+participant "gratifying skinner" as 1
+participant "edema spaz" as 2
+participant "ducks colosseum" as 3
+end box
+autonumber 4 2
+break dodgers rollers
+create participant "drowning entertainer" as 4
+1 -> 4 : drowning entertainer
+1 ->> 0: obstetrician icing
+else pegged powers
+4 --> 4++ : armory darkroom
+end
+0 -> 3: vandalized rosebuds
+return grassy crusts
+@enduml

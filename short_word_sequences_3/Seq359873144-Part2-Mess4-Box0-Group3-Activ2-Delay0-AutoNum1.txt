@@ -1,0 +1,18 @@
+@startuml
+participant "twister homegrown" as 0
+participant "minute ahem" as 1
+autonumber 8 9
+opt fields goopy
+0 --//o 0++ : hunker forbidding
+loop recruit jeopardizing
+0 -> 0++ : thirsty bystander
+autonumber stop
+0 -> 0: crumbs mollusk
+loop piazza chess
+1 -// 1: sabbath coherent
+return pledged shift
+end
+end
+end
+return grisly viewer
+@enduml

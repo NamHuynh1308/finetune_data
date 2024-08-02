@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:woodchuck sardine;
+split again
+-[hidden]->
+:conceivable win; <<output>>
+split again
+-[hidden]->
+:fairer pushing; <<continuous>>
+end split
+:targeting illness; <<save>>
+end
+@enduml

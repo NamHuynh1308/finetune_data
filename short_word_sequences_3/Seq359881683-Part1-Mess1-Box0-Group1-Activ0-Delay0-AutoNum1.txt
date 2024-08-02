@@ -1,0 +1,8 @@
+@startuml
+participant "depth upgrading" as 0
+== spear hire ==
+autonumber 6 10
+alt kidnapping adds
+0 --//o 0: noo analysis
+end
+@enduml

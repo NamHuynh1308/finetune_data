@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:sketching mastectomy;
+split again
+-[hidden]->
+:neighborhood licorice;
+-> informs stockholders;
+split again
+-[hidden]->
+:heel narwhal; <<save>>
+split again
+-[hidden]->
+:mementos stitching; <<procedure>>
+-> component accent;
+end split
+:defense hotline; <<continuous>>
+-> lining offers;
+stop
+@enduml

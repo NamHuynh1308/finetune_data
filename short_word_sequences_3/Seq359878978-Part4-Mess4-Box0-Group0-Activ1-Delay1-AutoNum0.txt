@@ -1,0 +1,13 @@
+@startuml
+participant "vacations boardinghouse" as 0
+participant "morphine chain" as 1
+participant "cake firebug" as 2
+participant "distribute recycling" as 3
+== gold performed ==
+3 ->> 3++ : trans viewer
+0 -// 1: thousand cruising
+return playbook continuance
+3 -\\ 1: boundaries consciously
+...shanghai derive...
+ [-> 3: negate oxen
+@enduml

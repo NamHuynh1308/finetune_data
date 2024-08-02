@@ -1,0 +1,44 @@
+@startuml
+split
+-[hidden]->
+:locks carolers;
+split again
+-[hidden]->
+:beefy armies; <<load>>
+split again
+-[hidden]->
+:scents slater;
+-> brighten rectangle;
+end split
+:lingering deserves; <<output>>
+fork
+:gamut supposed;
+fork again
+fork
+:awaits additives;
+fork again
+:shorter shackles;
+fork again
+:cannery stampede;
+fork again
+:royally harbour; <<procedure>>
+-> starting cars;
+end fork
+fork again
+:failures follow;
+-> upstaged duds;
+fork again
+repeat
+:enormous insults;
+:fitted considered; <<input>>
+:hag superpower;
+if (deliberate sayings) then (journalistic cholinesterase)
+:concur filthy;
+break
+endif
+->columns battered;
+:lent volunteer;
+repeat while (reforms songwriter?) is (exalted swank)
+end fork
+end
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:emperors coarse;
+split again
+-[hidden]->
+:demolitions supposed;
+-> kitchen neighbours;
+split again
+-[hidden]->
+:carvers personnel; <<input>>
+-> oxford moon;
+split again
+-[hidden]->
+:hooker veterans;
+-> podiatry stresses;
+end split
+group dizziness bail
+:clang teamed; <<procedure>>
+-> oceans prowl;
+group steer withhold
+:carbs pledged; <<load>>
+-> hotheaded browbeat;
+:cameraman teacup; <<procedure>>
+-> yourselves faggot;
+end group
+stop
+end group
+@enduml

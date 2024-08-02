@@ -1,0 +1,17 @@
+@startuml
+start
+fork
+:road honest;
+fork again
+if (sponsors twin?) then (polyester chimpanzee)
+(probes deaf) elseif (analyzing colon?) then (ached repulsive)
+:bath overboard;
+(remodelling table) elseif (holy morse?) then (lang defected)
+:miniature composed; <<save>>
+(infections javelin) elseif (whisker plant?) then (massacre kitten)
+:lips resign;
+endif
+fork again
+:lacerations expiration; <<output>>
+end merge
+@enduml

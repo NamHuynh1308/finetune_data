@@ -1,0 +1,11 @@
+@startuml
+participant "spider inquiries" as 0
+== lecture posture ==
+autonumber 0 6
+0 -\\ 0: minerals grossly
+0 <-] : helmets barbed
+0 --//o 0: rosy masked
+...vaguely gridlock...
+0 ->> 0: feud drained
+0 ->> 0: haycock ancestor
+@enduml

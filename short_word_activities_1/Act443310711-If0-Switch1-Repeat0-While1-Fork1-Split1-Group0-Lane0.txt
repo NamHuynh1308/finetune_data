@@ -1,0 +1,35 @@
+@startuml
+split
+-[hidden]->
+:anesthetics choir;
+split again
+-[hidden]->
+:enclosed pitchers; <<save>>
+-> go rousted;
+split again
+-[hidden]->
+switch (lock nebula?)
+case (farm eyeing?)
+:scratches wheel; <<procedure>>
+case (gospel firm?)
+:preserver airing;
+endswitch
+end split
+fork
+:fabled businessmen;
+fork again
+while (attempting legendary?) is (summons plum)
+backward:warfare speculative;
+backward:airports displays;
+:muzzle solvent;
+:shower mush; <<continuous>>
+-> swallowed timers;
+endwhile (clings ego)
+:whys ballpark;
+fork again
+:enact traveller; <<continuous>>
+fork again
+:tumbling religiously; <<load>>
+end merge
+stop
+@enduml

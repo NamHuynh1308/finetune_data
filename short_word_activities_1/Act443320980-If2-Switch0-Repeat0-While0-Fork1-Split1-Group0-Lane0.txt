@@ -1,0 +1,33 @@
+@startuml
+start
+if (catchers huddled?) then (ensconced dogged)
+if (gaining treacherous?) then (rodman question)
+:cleansed straits; <<load>>
+:stalked spoiled;
+:geographical groped;
+-> swing ritualistic;
+else (sexuality downfall)
+:bistro mousy;
+endif
+split
+:geniuses ballgame;
+split again
+:probes skeletons;
+split again
+:movements alternate;
+end split
+:blond procure;
+else (outburst collision)
+:civics wildlife; <<procedure>>
+-> infuriates edict;
+:joined sticking; <<input>>
+fork
+:biting nibbling;
+fork again
+:tactics ape; <<input>>
+fork again
+:passports spotter;
+end fork
+endif
+stop
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+start
+group charts coop
+:wised dolled; <<procedure>>
+stop
+end group
+@enduml

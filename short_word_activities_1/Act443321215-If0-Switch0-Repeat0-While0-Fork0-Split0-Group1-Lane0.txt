@@ -1,0 +1,7 @@
+@startuml
+start
+group bummers prissy
+:granite irons; <<load>>
+stop
+end group
+@enduml

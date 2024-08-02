@@ -1,0 +1,59 @@
+@startuml
+|1| ankle conquest
+|2| fugue socked
+split
+-[hidden]->
+:lives weighed;
+split again
+-[hidden]->
+:burlap concept;
+split again
+-[hidden]->
+:frequently china; <<task>>
+end split
+while (ravine parlors?) is (sire hunky)
+backward:place intimacy;
+fork
+:cushion cloves;
+fork again
+:mould accomplishments;
+-> installments overdrive;
+fork again
+:marmalade windfall; <<continuous>>
+fork again
+:poltergeist scuff;
+end merge
+if (affiliated wealth?) then (confederacy cripes)
+:discussion caged;
+else (fuel famished)
+:robbins feisty; <<procedure>>
+-> concise excommunicated;
+endif
+while (fellers cursing?) is (disregard crappy)
+backward:authorities newton;
+:drinkers beleaguered;
+:cockney organs;
+backward:shrink dictators;
+endwhile (felt wonky)
+:craziest wheezing;
+endwhile (notice cinnabar)
+:frost hideous;
+|2|
+:intentions spender; <<procedure>>
+if (parlour sol?) then (skeletal collect)
+(chairman homosexuals) elseif (transgression blume?) then (satellite peels)
+:catfight hearty; <<output>>
+(claw astonishment) elseif (conducting fraternal?) then (silk indebted)
+:autopsies heyday; <<output>>
+(export colleagues) elseif (de disabling?) then (coaxing hide)
+while (handstand tragedy?) is (complain levity)
+:him drawers;
+:dictation turnout;
+:overboard phi;
+backward:hackman loosening;
+endwhile (catsup godsend)
+:echo haute;
+(creature revenue) elseif (stingray trends?) then (hombre rewrite)
+:lefty specifically; <<input>>
+endif
+@enduml

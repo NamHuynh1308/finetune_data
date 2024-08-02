@@ -1,0 +1,14 @@
+@startuml
+split
+-[hidden]->
+:painfully heartbreaker;
+split again
+-[hidden]->
+:workings uninvited; <<save>>
+-> hotels mascot;
+split again
+-[hidden]->
+:outlive liking; <<save>>
+end split
+:diabetic commies;
+@enduml

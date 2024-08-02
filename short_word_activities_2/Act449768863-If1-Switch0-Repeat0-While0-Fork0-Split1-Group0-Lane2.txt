@@ -1,0 +1,24 @@
+@startuml
+|1| peon bayberry
+|2| humidifier tragedy
+split
+:psychopaths propping;
+split again
+:delivers crumpets; <<continuous>>
+split again
+:exhaustion disabilities;
+split again
+:feast jar;
+-> reversed handler;
+end split
+|2|
+:interrogation hoax; <<procedure>>
+|1|
+if (cousins preserve?) then (elude lifestyle)
+(inherit superheroes) elseif (hurts knowingly?) then (hulk barbaric)
+:figurehead announcing; <<procedure>>
+(feat firstly) elseif (worships stupidity?) then (contamination grass)
+:shift dawn;
+endif
+stop
+@enduml

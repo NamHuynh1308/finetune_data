@@ -1,0 +1,15 @@
+@startuml
+participant "alarmist probationary" as 0
+participant "ashtray combat" as 1
+participant "benefactor courage" as 2
+== knock emporium ==
+autonumber 1 9
+ [<- 2: pollen detailing
+autonumber stop
+0 -> 0++ : bye threads
+autonumber resume
+...balanced frame...
+1 -> 2: nautilus interest
+autonumber stop
+return fugu hallelujah
+@enduml

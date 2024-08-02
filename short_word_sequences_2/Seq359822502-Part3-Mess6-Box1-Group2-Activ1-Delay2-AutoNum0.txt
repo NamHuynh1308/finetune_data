@@ -1,0 +1,22 @@
+@startuml
+participant "moulin phi" as 0
+box "thrones elevates"
+participant "chord exhaustive" as 1
+participant "banal nukes" as 2
+end box
+== princess chops ==
+alt learned accuser
+ [<- 1: entries autonomy
+1 ->] : treachery demur
+ [-> 0: shaking earful
+else accommodate reporting
+...kept indoors...
+1 -->x 1++ : error fixable
+break reprisals heating
+ [<- 1: miscarry priorities
+...windpipe novocaine...
+1 -> 2: latex planning
+return groups refuge
+end
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+box "ignored except"
+participant "dangled formulas" as 0
+box "grabs furs"
+participant "curfews entrenched" as 1
+end box
+end box
+loop maniacs survivors
+0 -> 0: accomplishment cower
+1 -> 1: restrictions thankful
+end
+@enduml

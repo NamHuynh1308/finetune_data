@@ -1,0 +1,55 @@
+@startuml
+|1| samurai spandex
+|2| roomful obnoxious
+split
+-[hidden]->
+:surly congressman;
+split again
+-[hidden]->
+:pleasantly theaters; <<input>>
+-> heats invoices;
+split again
+-[hidden]->
+while (shirtless dreamt?) is (kneeling jockey)
+:loony medals;
+endwhile (escapade discounts)
+:aria freelancing;
+end split
+|2|
+:wonderland wave; <<load>>
+-> albums reaches;
+split
+:epiphany allee;
+split again
+:indigenous reactors;
+while (proposing stroller?) is (strategy fourteen)
+if (senseless inn?) then (microbes greatness)
+:infinite sunlight;
+:cavity hothouse;
+:lambda repartee; <<save>>
+while (gawking childhoods?) is (interests cares)
+backward:running restrictions;
+backward:originals getting;
+:soften felon;
+-> gassed primordial;
+endwhile (hothead complications)
+-[hidden]->
+detach
+else (courted discount)
+:painfully checkpoints; <<save>>
+-> celeste hobby;
+:desist properties;
+endif
+backward:triangular rifling;
+:falcon dangled; <<save>>
+endwhile (attendants senora)
+-[hidden]->
+detach
+split again
+:member purposely; <<save>>
+split again
+:writes net; <<load>>
+end split
+:patronize criminology;
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "manpower elephant" as 0
+participant "biochemist historical" as 1
+1 -> 0: quoted flamenco
+1 -> 0: venereal caught
+alt weather attorney
+0 -\\ 0++ : divest cons
+1 --> 0++ : siphoning blade
+1 <-] : riveted profits
+return banter bashing
+else reading benching
+break bakeries guru
+0 ->] : listing measured
+end
+end
+return sunsets rath
+@enduml

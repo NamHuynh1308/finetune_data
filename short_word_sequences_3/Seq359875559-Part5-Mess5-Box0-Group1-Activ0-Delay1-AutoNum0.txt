@@ -1,0 +1,16 @@
+@startuml
+participant "hideout bloodhound" as 0
+participant "composers refreshments" as 1
+participant "unorthodox handstand" as 2
+participant "distractions satisfaction" as 3
+== praises plankton ==
+ [<- 3: cockroaches pulp
+0 --> 3: contributions kickboxing
+3 -> 3: ornamental treaters
+...demonstrates skeletons...
+1 <-] : bold discourteous
+critical adoration gap
+create participant "airlift battering" as 4
+0 -> 4 : airlift battering
+end
+@enduml

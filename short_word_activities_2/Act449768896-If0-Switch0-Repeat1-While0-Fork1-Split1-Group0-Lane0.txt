@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:destruction inspire;
+split again
+-[hidden]->
+:root perfecto;
+split again
+-[hidden]->
+:sos sayonara;
+split again
+-[hidden]->
+fork
+:microphone horseshit;
+fork again
+:intends honest; <<continuous>>
+fork again
+:brooks sidewinder; <<save>>
+end merge
+end split
+repeat
+:creases tragically;
+if (rumpus temptation) then (whatever icebergs)
+:clinics restraints;
+break
+endif
+->policeman subtitles;
+:errors burying;
+:ports lily;
+repeat while (robber resistance?) is (followed lawn)
+-> prudence ethanol;
+@enduml

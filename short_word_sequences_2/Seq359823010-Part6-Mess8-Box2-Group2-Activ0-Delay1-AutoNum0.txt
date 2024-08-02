@@ -1,0 +1,28 @@
+@startuml
+participant "lowery aura" as 0
+box "next dancing"
+participant "journeyed firewater" as 1
+participant "paleontologist nipping" as 2
+end box
+participant "dwelling prevailed" as 3
+box "lawman narcissistic"
+participant "dinosaur admirer" as 4
+end box
+alt signatures mister
+1 ->] : vet taller
+critical geographic eggshells
+2 -> 3!! : concert grief
+0 -->x 1: nomadic sip
+end
+...unnatural teasing...
+2 -> 0: defenses unicycle
+2 ->o 4: conditioning boombox
+else spies athletes
+0 -->x 3: god pinhead
+else adopting components
+3 <-> 4: derris hi
+create participant "entails objectives" as 5
+2 -> 5 : entails objectives
+else spastic recession
+end
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "lore pram" as 0
+participant "wrapped outdated" as 1
+autonumber 6 8
+1 ->] : irrational veterinarian
+loop curve bilateral
+1 -->x 1: neonatal temp
+autonumber stop
+end
+@enduml

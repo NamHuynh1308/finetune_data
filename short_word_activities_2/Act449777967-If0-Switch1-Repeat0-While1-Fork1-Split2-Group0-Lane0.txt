@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:turndown waist;
+split again
+-[hidden]->
+switch (designate beleaguered?)
+case (batted introductions?)
+:postage filing; <<load>>
+case (slurp dukes?)
+:peoples astonished;
+case (ibuprofen initiation?)
+:alarmist beeper;
+endswitch
+split again
+-[hidden]->
+fork
+:sculptor calculated;
+fork again
+:furrowed perished;
+while (rejoice ruckus?) is (admiral trot)
+:overreact antiques; <<continuous>>
+-> ethyl hook;
+backward:statistics rebuild;
+:ravenous unappreciated; <<save>>
+-> pinched fa;
+:avoidance swaying; <<task>>
+endwhile (letters everglades)
+-[hidden]->
+detach
+fork again
+:glaring councillor;
+end fork
+split again
+-[hidden]->
+:messenger unlikable; <<output>>
+end split
+:herein governing; <<task>>
+split
+:taunt commendation;
+split again
+:lockup vomiting; <<input>>
+split again
+:burly grubbing;
+-> wires blight;
+end split
+:landscaping blur; <<task>>
+stop
+@enduml

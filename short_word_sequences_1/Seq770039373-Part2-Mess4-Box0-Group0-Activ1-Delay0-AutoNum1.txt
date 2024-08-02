@@ -1,0 +1,12 @@
+@startuml
+participant "woken appliances" as 0
+participant "colonial carnivore" as 1
+autonumber 7 3
+0 ->> 1++ : bedpans nickname
+autonumber stop
+1 ->> 0: provoked clash
+0 -\\ 1: vultures stemmed
+return swam pilar
+autonumber resume
+ [-> 0: laundering mainly
+@enduml

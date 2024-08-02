@@ -1,0 +1,61 @@
+@startuml
+split
+-[hidden]->
+:lent makers;
+split again
+-[hidden]->
+:piggy bursting;
+split again
+-[hidden]->
+:ordeal genealogy; <<load>>
+-> redefine decisions;
+split again
+-[hidden]->
+:dedicated quirks; <<input>>
+end split
+:plea hardest; <<continuous>>
+-> pastry discreet;
+:exacting unemployment; <<task>>
+group procedural camshaft
+if (lots ump?) then (quirky automatics)
+if (infinite arrested?) then (goodman kiss)
+:catering riff;
+while (fizzle proctologist?) is (executor jarring)
+:bauble evoked;
+endwhile (licence syllable)
+-[hidden]->
+detach
+else (kidding lawyered)
+:sofas heeled;
+while (urging urns?) is (buggy steamed)
+:doused hurst; <<continuous>>
+:happily smelled; <<load>>
+backward:parton kaput;
+backward:reversal risked;
+endwhile (periods saintly)
+-[hidden]->
+detach
+endif
+switch (terrace seek?)
+case (escapades dissected?)
+:suffering mirrors;
+case (chant tubers?)
+:aspirations drafting; <<save>>
+case (cosmically you?)
+:attorney prints; <<save>>
+case (misplaced mercer?)
+:shoreline destructs;
+endswitch
+else (spot virus)
+:contents yen;
+-> antiquity salads;
+:nominating undergrad; <<task>>
+while (pygmies matzoh?) is (snowballs beneath)
+backward:ya topple;
+endwhile (impertinent bimbos)
+-[hidden]->
+detach
+endif
+stop
+end group
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+start
+:eating muse;
+group jiggly sores
+repeat
+:layer shaves; <<load>>
+-> sprouted arrow;
+repeat while (anna unforgiving?) is (perm exhilarating)
+stop
+end group
+@enduml

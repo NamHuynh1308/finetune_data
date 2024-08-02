@@ -1,0 +1,13 @@
+@startuml
+box "coastal believable"
+participant "hypnotized matinee" as 0
+end box
+autonumber 1 0
+loop gestapo glued
+0 <-> 0: gun suffocate
+create participant "suing pub" as 1
+0 -> 1 : suing pub
+else dour carvings
+1 <-] : dictatorship galling
+end
+@enduml

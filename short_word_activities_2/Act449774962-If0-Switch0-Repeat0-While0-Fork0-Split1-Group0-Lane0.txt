@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:hospice springs;
+split again
+-[hidden]->
+:potent bill;
+-> terraforming robs;
+split again
+-[hidden]->
+:maul influential; <<procedure>>
+-> attorney buffalo;
+split again
+-[hidden]->
+:boombox tack; <<input>>
+end split
+:bilge comer; <<load>>
+@enduml

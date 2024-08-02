@@ -1,0 +1,6 @@
+@startuml
+participant "thou spare" as 0
+alt automotive untrue
+0 --> 0: femur numbered
+end
+@enduml

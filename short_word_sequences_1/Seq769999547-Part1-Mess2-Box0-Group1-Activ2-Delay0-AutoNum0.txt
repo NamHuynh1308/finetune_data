@@ -1,0 +1,9 @@
+@startuml
+participant "crumble depended" as 0
+0 -> 0++ : slack toothpaste
+loop coaster insanity
+0 --> 0++ : eighth honda
+end
+return cashier proliferation
+return substantiate appointments
+@enduml

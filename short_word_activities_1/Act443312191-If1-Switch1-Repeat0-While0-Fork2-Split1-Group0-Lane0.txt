@@ -1,0 +1,46 @@
+@startuml
+split
+-[hidden]->
+:reeled madwoman;
+split again
+-[hidden]->
+:shat literally;
+-> dance hillbillies;
+split again
+-[hidden]->
+fork
+:shadow streetwalker;
+fork again
+:oats mafia; <<output>>
+fork again
+:consultation decoy; <<load>>
+fork again
+:guff alternating;
+end fork
+end split
+switch (fraught cadet?)
+case (forehead personally?)
+if (iff hath?) then (oxygen lopsided)
+:clumsiness plugged; <<output>>
+:cremation recorded;
+else (inflamed skillet)
+:desks virtually;
+:illegal lacrosse;
+endif
+case (pageant larvae?)
+:terra lawfully; <<save>>
+case (chandelier track?)
+fork
+:shoplifting detonator;
+fork again
+:illustrate disrupts; <<load>>
+fork again
+:tidings nutritionist; <<procedure>>
+end fork
+case (jerries clubhouse?)
+:panned necessary; <<input>>
+-> rye locusts;
+endswitch
+:zeppelin playgrounds; <<output>>
+end
+@enduml

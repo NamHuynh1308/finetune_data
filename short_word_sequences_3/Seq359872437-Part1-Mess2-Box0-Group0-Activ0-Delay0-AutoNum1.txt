@@ -1,0 +1,7 @@
+@startuml
+participant "resemblance carted" as 0
+== crud arbitrator ==
+autonumber 7 3
+0 <-] : blues munching
+0 -> 0!! : feeding smooch
+@enduml

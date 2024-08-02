@@ -1,0 +1,10 @@
+@startuml
+participant "pled fodder" as 0
+participant "risen creek" as 1
+== investigated victim ==
+autonumber 1 10
+par introducing hurts
+ [<- 1: amazed camcorder
+1 <-] : trashed voters
+end
+@enduml

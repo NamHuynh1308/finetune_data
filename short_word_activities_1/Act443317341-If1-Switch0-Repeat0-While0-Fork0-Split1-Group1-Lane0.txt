@@ -1,0 +1,27 @@
+@startuml
+split
+-[hidden]->
+:pressman lawfully;
+split again
+-[hidden]->
+:priorities puree; <<input>>
+-> six dialing;
+split again
+-[hidden]->
+if (nomadic lint?) then (entertain debriefed)
+(caddy tarzan) elseif (mail frazzled?) then (dynasty correspond)
+:surgeon enlisting; <<task>>
+(saucers facial) elseif (barium tic?) then (scrambled wit)
+:unspeakable consult; <<load>>
+-> enters meddle;
+endif
+split again
+-[hidden]->
+:pinata simpleton;
+-> ipecac yo;
+end split
+group colin calamity
+:added drinker; <<input>>
+stop
+end group
+@enduml

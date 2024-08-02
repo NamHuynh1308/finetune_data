@@ -1,0 +1,43 @@
+@startuml
+|1| decadent hep
+|2| investigations towers
+split
+-[hidden]->
+:absolutely thanksgivings;
+split again
+-[hidden]->
+:historic blue; <<load>>
+-> investigators wallets;
+split again
+-[hidden]->
+:meaning reclaim;
+split again
+-[hidden]->
+:perfecting skivvies;
+-> fugitive intelligently;
+end split
+|2|
+:opportunity hazelnut; <<output>>
+|1|
+:production tackle; <<continuous>>
+-> freeing curses;
+fork
+:ground localized;
+fork again
+split
+:criminal worldly;
+split again
+:skates swallowing; <<load>>
+split again
+:cardiology feather; <<save>>
+end split
+fork again
+:progressive scalper; <<continuous>>
+fork again
+:merl repairing; <<procedure>>
+end merge
+:himself bundle;
+|2|
+:stabilized casino; <<save>>
+stop
+@enduml

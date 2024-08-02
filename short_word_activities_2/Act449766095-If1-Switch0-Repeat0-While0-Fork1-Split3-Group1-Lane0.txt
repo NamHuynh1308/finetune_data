@@ -1,0 +1,49 @@
+@startuml
+split
+-[hidden]->
+:autumn small;
+split again
+-[hidden]->
+:penalize debilitating; <<load>>
+split again
+-[hidden]->
+:leary pink; <<input>>
+split again
+-[hidden]->
+:martinis lashes;
+end split
+split
+:sycophant sturgeon;
+split again
+:drill landslide; <<task>>
+split again
+split
+:bouquets lockup;
+split again
+:harem removing;
+split again
+:ratty seal;
+end split
+end split
+group renewed reinstating
+fork
+:prospect flotation;
+fork again
+:depicted shuck;
+fork again
+:superb alpine; <<procedure>>
+fork again
+if (shovels hokey?) then (crepe granddaughters)
+:denning newton;
+-> traps patches;
+:resident pets;
+:quitters pepperoni; <<save>>
+else (fluffing hazard)
+:prosecuting primping;
+:convenes careful;
+:tubby adoration;
+endif
+end fork
+stop
+end group
+@enduml

@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:pollard compass;
+split again
+-[hidden]->
+:vanish corresponding; <<continuous>>
+split again
+-[hidden]->
+if (thusly woodwork?) then (ballsy busiest)
+:thermos spokesperson; <<save>>
+-> transferred redskins;
+:forgave gagging;
+else (experimenting deepest)
+:hefty finesse; <<input>>
+-> pockets represents;
+:mademoiselle pestilence;
+:pampered unfortunately; <<continuous>>
+-> lakeshore doth;
+endif
+split again
+-[hidden]->
+repeat
+:starts licking;
+repeat while (knot interviewed?) is (regulars oppression)
+end split
+group bastille anxiety
+:reacts commercial; <<output>>
+-> dateless retirement;
+stop
+end group
+@enduml

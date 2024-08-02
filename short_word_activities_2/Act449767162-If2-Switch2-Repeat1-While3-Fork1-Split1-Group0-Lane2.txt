@@ -1,0 +1,76 @@
+@startuml
+|1| chooses exchange
+|2| sale diabetes
+|2|
+if (bunnies smudged?) then (slanderous dispenser)
+(scams plating) elseif (clinches distressing?) then (snowballing prelude)
+fork
+:skeptic nightmarish;
+fork again
+:mesmerizing intimacy;
+fork again
+:appendectomy chaser;
+-> civilization notice;
+end merge
+(vanquish dozen) elseif (intuition suggestive?) then (will replied)
+while (grunge reorganizing?) is (hoodlums reasons)
+:civilian roost;
+endwhile (witty flunked)
+:speeding fooling;
+(issuing reality) elseif (compressions payload?) then (cylinders exits)
+split
+:soggy landscape;
+split again
+:hurray gallant;
+split again
+:tastes trey;
+end split
+endif
+:stripped masterpieces; <<continuous>>
+if (defenseless sol?) then (rutting coats)
+switch (cones flavors?)
+case (galoshes wha?)
+:forty splat; <<continuous>>
+case (moron nicknamed?)
+:dearie graphite;
+-> entrepreneurial pirated;
+case (cuppa meat?)
+:drugging convicted;
+case (outlined needle?)
+:draw howl; <<procedure>>
+endswitch
+else (balm kicked)
+:offence program; <<load>>
+-> nerves hummed;
+:stenographer issue;
+repeat
+:themselves wiper; <<procedure>>
+:handle septum; <<output>>
+repeat while (wily networks?) is (powered grandeur)
+while (fugu flowers?) is (fighters puffing)
+:standardized deeply; <<continuous>>
+:artichoke tourist; <<task>>
+-> sustained chin;
+endwhile (lovelies loins)
+-[hidden]->
+detach
+endif
+switch (pesos medina?)
+case (hospital investors?)
+:mayonnaise prohibit; <<load>>
+-> purview torrid;
+case (aliases pigskin?)
+:stamped eludes;
+case (lonelier interplanetary?)
+:pilgrimage unconventional; <<save>>
+-> fairgrounds kern;
+case (loathe sensed?)
+while (blotto grouse?) is (tuxedo uncharacteristically)
+:accent sine; <<task>>
+-> absurdity thankful;
+:granger workings; <<output>>
+-> brief ampule;
+endwhile (flipped lithium)
+:gunshots insist;
+endswitch
+@enduml

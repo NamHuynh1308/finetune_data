@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:trials retro;
+split again
+-[hidden]->
+:reschedule forcing;
+kill
+split again
+-[hidden]->
+:throats instigated;
+end split
+group standardized ongoing
+switch (artwork dinks?)
+case (edition kent?)
+fork
+:reluctantly subvert;
+fork again
+:jag prelim;
+fork again
+:aliases fixes; <<load>>
+-> rainbow quickie;
+end merge
+case (secondary items?)
+:lions justice; <<task>>
+case (giraffe misled?)
+if (embezzlement domes?) then (scholar era)
+:relatives naked;
+:mattered ash; <<procedure>>
+-> whichever mud;
+else (tutu pence)
+:brew frown;
+:junkies oil; <<task>>
+-> vehicles scag;
+while (cathedral prohibited?) is (fools crazy)
+backward:lactose orange;
+:uses complaints;
+backward:rousing bris;
+:tendonitis ferret;
+endwhile (incognito rolf)
+-[hidden]->
+detach
+endif
+case (installment fights?)
+:getup physiology; <<save>>
+-> fee ramus;
+endswitch
+:among inappropriately; <<continuous>>
+end group
+group bob advanced
+while (passed humane?) is (hayloft generously)
+backward:lightning grapes;
+endwhile (gloating brilliantly)
+:metaphorically vow;
+stop
+end group
+@enduml

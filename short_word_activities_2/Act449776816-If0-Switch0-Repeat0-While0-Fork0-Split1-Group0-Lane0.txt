@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:stretches cowards;
+split again
+-[hidden]->
+:bathrobes fern;
+-> cartographers cities;
+split again
+-[hidden]->
+:pittance illegals; <<output>>
+end split
+:stooped keeled; <<task>>
+stop
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+box "dam deer"
+participant "lords blessed" as 0
+participant "shivers wingman" as 1
+end box
+participant "gridlock rooster" as 2
+participant "coup callers" as 3
+participant "werewolves gushing" as 4
+== steps unconcerned ==
+4 <-] : expenditures holier
+opt gobbledegook chug
+3 --//o 1: exaggerate poking
+4 -> 3: doubled interacting
+4 <-] : bates swilling
+end
+0 ->] : discusses ethanol
+@enduml

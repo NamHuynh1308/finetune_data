@@ -1,0 +1,5 @@
+@startuml
+participant "perk quoted" as 0
+ [-> 0: protectors blimp
+0 -> 0: grouchy genital
+@enduml

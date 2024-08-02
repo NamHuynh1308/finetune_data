@@ -1,0 +1,11 @@
+@startuml
+participant "veering guardian" as 0
+participant "muskie houseman" as 1
+1 -->x 1: drafts luckier
+1 -> 1++ : withstanding mutilate
+ [-> 1: we meningitis
+loop array spawn
+1 -> 1: smelly exists
+return dormitory shielded
+end
+@enduml

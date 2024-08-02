@@ -1,0 +1,9 @@
+@startuml
+participant "warnings troupe" as 0
+box "grills boston"
+participant "deluxe tangle" as 1
+end box
+0 -\\ 0++ : sic whistle
+1 -->x 0: poof drove
+return stalemate ravens
+@enduml

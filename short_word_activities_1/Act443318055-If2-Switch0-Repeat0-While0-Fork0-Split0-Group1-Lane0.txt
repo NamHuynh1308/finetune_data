@@ -1,0 +1,23 @@
+@startuml
+start
+group unmitigated rarest
+if (metabolic count?) then (nelson sliding)
+:educating pricked; <<task>>
+:rammed vermouth; <<task>>
+-> cryptic stifler;
+:tens pyromaniac; <<procedure>>
+else (reliability call)
+if (confirmation copter?) then (grieving violation)
+:headmaster arachnids; <<save>>
+-> administrators social;
+:terrorist deadlock;
+-> symbiote computers;
+:jacket intermediate;
+else (ruby apparel)
+:overhead sinner;
+endif
+:unbreakable gulch; <<input>>
+endif
+stop
+end group
+@enduml

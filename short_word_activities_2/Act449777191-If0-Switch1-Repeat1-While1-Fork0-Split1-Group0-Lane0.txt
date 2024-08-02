@@ -1,0 +1,37 @@
+@startuml
+split
+-[hidden]->
+:smiled peep;
+split again
+-[hidden]->
+while (indefinitely scares?) is (manning dowdy)
+backward:famished sanatorium;
+backward:rowan buckled;
+:pumps cumulative;
+endwhile (associations accomplishing)
+:misconceptions vie;
+split again
+-[hidden]->
+switch (brunch loaded?)
+case (ensue propane?)
+:accusation disciplinary; <<input>>
+case (blossoms sour?)
+:graphs capture;
+case (crackers disturbed?)
+:anxious patrolman; <<output>>
+case (leopards boycott?)
+:excites chuck; <<output>>
+-> axle distinctive;
+endswitch
+split again
+-[hidden]->
+:angiogram dabbling; <<input>>
+-> remark oozing;
+end split
+:nineties swimming;
+repeat
+:townspeople assimilate; <<input>>
+repeat while (towards devours?) is (caught condemn)
+:unwarranted talkative; <<output>>
+-> documentary fossil;
+@enduml

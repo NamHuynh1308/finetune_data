@@ -1,0 +1,53 @@
+@startuml
+if (filly susceptible?) then (band yuppie)
+fork
+:simulations translators;
+fork again
+:unforeseen soaring;
+-> utter vino;
+fork again
+:pull hairdo;
+while (see attacked?) is (sunbathing primo)
+:dork consultations;
+backward:inspires taunting;
+backward:finest booker;
+:breathtaking tables; <<task>>
+-> clunkers traitor;
+endwhile (growl olives)
+-[hidden]->
+detach
+fork again
+:nineteen cries; <<output>>
+end merge
+switch (dullest lay?)
+case (burden clocking?)
+:honestly edit;
+case (grindstone realities?)
+:unnatural ifs;
+endswitch
+while (recovery federal?) is (mobilize herpes)
+backward:lid pewter;
+:stalker broiled; <<input>>
+split
+:transfusion expenditures;
+split again
+:unseal twister;
+split again
+:lei trainees;
+-> sprain feared;
+end split
+while (nightlife raiders?) is (insights baking)
+:rhinestone hopefully;
+:respirator inedible; <<output>>
+:fishermen filet;
+:nitrous cleanse;
+endwhile (unexpected brained)
+:missionary topnotch;
+endwhile (transcripts charged)
+-[hidden]->
+detach
+else (courteous reporting)
+:number offend; <<output>>
+endif
+stop
+@enduml

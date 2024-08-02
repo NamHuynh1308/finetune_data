@@ -1,0 +1,34 @@
+@startuml
+split
+-[hidden]->
+:movers alert;
+split again
+-[hidden]->
+:kiddies exasperating; <<load>>
+split again
+-[hidden]->
+:comment smelt; <<task>>
+-> alerts sangria;
+split again
+-[hidden]->
+if (wash nearly?) then (variations greatness)
+(wasted renovate) elseif (dickens pecs?) then (taken exploit)
+:together lucifer; <<procedure>>
+-> lattes cutoff;
+(flounder coolant) elseif (cohesive defenseless?) then (rashly component)
+:theres jaw; <<input>>
+(scarves decoder) elseif (literate duct?) then (cob nuns)
+:zebra barnyard;
+(jin applications) elseif (mates specimens?) then (investigated transference)
+:brick slam;
+endif
+end split
+group plastered transcript
+:schoolwork shepherd; <<input>>
+group phew tell
+:oversee refresh; <<task>>
+-> periphery checkups;
+stop
+end group
+end group
+@enduml

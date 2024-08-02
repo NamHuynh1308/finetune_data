@@ -1,0 +1,17 @@
+@startuml
+box "pyramid craves"
+participant "broccoli unions" as 0
+participant "hatches imbecile" as 1
+end box
+== cautiously hogs ==
+1 -\\ 0: gnomes majoring
+ [<- 1: squatter eternal
+1 -> 1: sopranos rooster
+alt pis versus
+0 <-> 0: lederhosen pool
+par omens shading
+...law haggis...
+1 -> 0: exhumed contesting
+end
+end
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:intersection decks;
+split again
+-[hidden]->
+:woodsy extension; <<continuous>>
+-> hell vinyl;
+split again
+-[hidden]->
+:tailed diatribes; <<task>>
+end split
+:slurp stowaway; <<save>>
+end
+@enduml

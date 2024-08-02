@@ -1,0 +1,7 @@
+@startuml
+box "soapbox breathable"
+participant "adjacent comprised" as 0
+end box
+0 --> 0: rubbed buck
+0 ->> 0: lovelorn hill
+@enduml

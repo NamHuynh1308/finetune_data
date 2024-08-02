@@ -1,0 +1,39 @@
+@startuml
+|1| harping identified
+|2| baggies sonar
+|1|
+start
+if (overcoming unbearable?) then (retaliate leeway)
+:planner cages; <<task>>
+switch (scheduling fruitless?)
+case (outburst favour?)
+:schools archer; <<input>>
+-> relative duo;
+case (tactics chafing?)
+:vibrator trafficker;
+case (opened consort?)
+:latrine overcompensating; <<procedure>>
+endswitch
+:eligible annoys; <<save>>
+else (raisins tortured)
+:shifting upscale;
+endif
+fork
+:appendectomy hoboes;
+fork again
+:faced hard; <<procedure>>
+-> loosely smelly;
+fork again
+:learnt vibe; <<task>>
+end merge
+|2|
+split
+:parrot overreact;
+split again
+:saviour paleontology; <<output>>
+split again
+:sundown radio;
+kill
+end split
+end
+@enduml

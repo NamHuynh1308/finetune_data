@@ -1,0 +1,9 @@
+@startuml
+participant "defending perpetuating" as 0
+participant "curran ethic" as 1
+participant "podium list" as 2
+1 ->x 1: mathematics disco
+2 <-] : due subpoenas
+0 -> 0: cheekbones bash
+1 -->x 2: brace bandages
+@enduml

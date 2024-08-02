@@ -1,0 +1,24 @@
+@startuml
+participant "smothered primate" as 0
+participant "admonished attractive" as 1
+participant "tying scholarship" as 2
+participant "sickos corona" as 3
+participant "chances resentful" as 4
+1 --> 2++ : pickpockets abbots
+2 -> 1++ : saws arrests
+alt empirical derrick
+...hobbling dwindling...
+ [<- 2: treats grassy
+4 <-> 1: bleak bouts
+return fold slumber
+end
+create participant "surprises hotshot" as 5
+1 -> 5 : surprises hotshot
+loop issues gnawing
+create participant "incentive searches" as 6
+4 -> 6 : incentive searches
+create participant "cooper choking" as 7
+3 -> 7 : cooper choking
+end
+return falsely sharpened
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+participant "satin oven" as 0
+box "lacrosse mentioning"
+participant "coopers skirmishes" as 1
+participant "admission timid" as 2
+end box
+opt stranded caps
+ [<- 1: class mouthy
+0 <-> 0: bookmark runaway
+else hairbrush planets
+...administering outdid...
+1 ->] : speeches imposition
+else restaurants cake
+0 -// 2: ornate cams
+1 -> 1: tells cranks
+0 --> 1++ : poolside benched
+else hobo afar
+alt chile gnawing
+0 --//o 2: copiously humps
+end
+end
+return activators aft
+@enduml

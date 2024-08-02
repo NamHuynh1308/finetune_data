@@ -1,0 +1,6 @@
+@startuml
+participant "tow robots" as 0
+participant "rampage gnome" as 1
+1 -// 1: lighthouse interfacing
+1 ->> 1: almonds striking
+@enduml

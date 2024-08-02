@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:boardwalk steam;
+split again
+-[hidden]->
+fork
+:broadcast birthright;
+fork again
+:suckered ammonia;
+fork again
+:founder farina;
+-> sentenced parsons;
+fork again
+:engages auditory;
+-> backfired flashes;
+end fork
+split again
+-[hidden]->
+:monologue whim; <<load>>
+end split
+group tin minion
+:cylinder freshest; <<continuous>>
+stop
+end group
+@enduml

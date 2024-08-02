@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:chicken aerial;
+split again
+-[hidden]->
+:shampoo glamor; <<task>>
+-> rifle punctual;
+split again
+-[hidden]->
+:boots bankrupt; <<task>>
+-> fatal underway;
+split again
+-[hidden]->
+switch (meaningless allegation?)
+case (faster confrontations?)
+:tavern oregano;
+kill
+case (nordic summarily?)
+:enrich illuminate; <<task>>
+endswitch
+end split
+group yours benes
+:drafty attentive;
+-> fritters movers;
+while (vacated impatience?) is (pulses toll)
+while (shortcomings violates?) is (bored glaciers)
+backward:relaxation sensible;
+endwhile (oomph terror)
+:squares continuum;
+endwhile (expectancy hisses)
+:spells punching;
+:usher clauses; <<output>>
+stop
+end group
+@enduml

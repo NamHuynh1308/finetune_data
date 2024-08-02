@@ -1,0 +1,55 @@
+@startuml
+split
+-[hidden]->
+:aunties commits;
+split again
+-[hidden]->
+:sheen meantime; <<procedure>>
+split again
+-[hidden]->
+:broth positive; <<input>>
+end split
+split
+:sentinel rebuild;
+split again
+:bicuspids hoaxes; <<output>>
+-> reunion uninhibited;
+split again
+:diuretics scalper; <<input>>
+-> territorial scant;
+split again
+if (audience inflation?) then (victories yuppie)
+:tote feathers;
+else (premiums aspirations)
+:tilt baring; <<load>>
+:leagues parlour;
+endif
+end split
+switch (circulation ibuprofen?)
+case (paragraphs grandmothers?)
+:humbling fritz;
+case (spits audited?)
+fork
+:boon conferences;
+fork again
+:bale looker; <<input>>
+fork again
+:apiece doggy; <<load>>
+-> behaved commitments;
+fork again
+:chuck network;
+end merge
+endswitch
+fork
+:attain obstructed;
+fork again
+:instituted shaped; <<continuous>>
+-> expressing automobile;
+fork again
+:breathable pavement; <<procedure>>
+-> taxes abducting;
+fork again
+:marketplace allegiance;
+end merge
+stop
+@enduml

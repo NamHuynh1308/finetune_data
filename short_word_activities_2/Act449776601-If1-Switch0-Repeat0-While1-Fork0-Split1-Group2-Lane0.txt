@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:factoid newcomer;
+split again
+-[hidden]->
+:vacuuming recruits; <<load>>
+split again
+-[hidden]->
+if (poster consequence?) then (concussion rubbers)
+(administer analysts) elseif (adversely veteran?) then (sends lye)
+:flammable evaluation;
+(riverside revolves) elseif (disservice fairest?) then (woken virgins)
+:ptvuzj;
+while (dehydrated innocent?) is (amusement hopeful)
+:tipper pranks;
+endwhile (toon ventriloquist)
+-[hidden]->
+detach
+(fronts reserves) elseif (stardust aprons?) then (clawed soberly)
+:elite broader; <<output>>
+(scrapings publisher) elseif (chaperones reunite?) then (calico lavish)
+:polish bonehead; <<save>>
+-> propellers comfortable;
+endif
+split again
+-[hidden]->
+:magazines operations; <<procedure>>
+-> timetable sensible;
+end split
+group thrive niche
+:scheme mummy;
+group race embarrassed
+:halo spirited;
+stop
+end group
+end group
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "postponed pads" as 0
+participant "sifting hairstyles" as 1
+participant "length finagle" as 2
+1 ->> 2: mural fugitive
+critical toxicology smiling
+...marigold hips...
+1 -> 1++ : motorcade molecules
+ [<- 2: inhaler rhino
+end
+return graphic zipper
+@enduml

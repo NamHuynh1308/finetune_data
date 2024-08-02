@@ -1,0 +1,10 @@
+@startuml
+participant "insides dew" as 0
+participant "sled stood" as 1
+participant "matron wage" as 2
+loop discrete places
+1 -> 1: wheat therapists
+ [-> 2: leary bobbing
+2 ->o 1: illegal institutional
+end
+@enduml

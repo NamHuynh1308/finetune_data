@@ -1,0 +1,8 @@
+@startuml
+participant "reptilian cleverness" as 0
+0 -> 0++ : survivor grudges
+alt detailing traction
+0 -->x 0: biohazard unbuttoned
+return psalm odds
+end
+@enduml

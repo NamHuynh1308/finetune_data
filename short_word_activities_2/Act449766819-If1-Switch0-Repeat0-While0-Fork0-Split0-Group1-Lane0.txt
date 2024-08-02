@@ -1,0 +1,11 @@
+@startuml
+group ejaculate boot
+if (expanded directorate?) then (headsets departmental)
+:recon meaty; <<procedure>>
+else (crowns writ)
+:crashed pier; <<procedure>>
+endif
+:ones kinder; <<save>>
+stop
+end group
+@enduml

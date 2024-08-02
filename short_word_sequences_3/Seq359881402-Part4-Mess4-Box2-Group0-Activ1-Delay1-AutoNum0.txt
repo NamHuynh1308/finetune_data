@@ -1,0 +1,16 @@
+@startuml
+participant "tremble approving" as 0
+participant "safari foyer" as 1
+box "meathead hugger"
+participant "shameless engineers" as 2
+box "lancer jingle"
+participant "nodded olive" as 3
+end box
+end box
+1 --> 0: definitely broomsticks
+3 -> 2++ : popping hassling
+2 -> 1: photographic severed
+...kale dopey...
+2 <-] : cleavage caramel
+return burgers guardrail
+@enduml

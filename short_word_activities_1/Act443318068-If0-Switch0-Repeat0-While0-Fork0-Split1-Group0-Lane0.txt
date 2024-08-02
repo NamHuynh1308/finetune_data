@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:fiasco education;
+split again
+-[hidden]->
+:nourishing machinery; <<task>>
+split again
+-[hidden]->
+:pickpockets pestering; <<continuous>>
+-> cherries harmless;
+split again
+-[hidden]->
+:pig physical;
+end split
+:uncalled cutesy;
+stop
+@enduml

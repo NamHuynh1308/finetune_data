@@ -1,0 +1,10 @@
+@startuml
+participant "detergent shaped" as 0
+participant "fair purgatory" as 1
+autonumber 6 10
+critical elegance frogs
+ [<- 1: carcass shadow
+1 -> 1: shiver paintings
+else chatted optimist
+end
+@enduml

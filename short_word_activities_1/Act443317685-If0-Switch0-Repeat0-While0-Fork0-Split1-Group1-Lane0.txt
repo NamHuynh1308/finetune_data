@@ -1,0 +1,22 @@
+@startuml
+split
+-[hidden]->
+:trance haystack;
+split again
+-[hidden]->
+:rats profile;
+split again
+-[hidden]->
+:graffiti falling; <<input>>
+-> immortality merman;
+split again
+-[hidden]->
+:lump holder; <<task>>
+-> degenerate survive;
+end split
+group skull not
+:see depth; <<output>>
+-> confound petrified;
+stop
+end group
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+participant "nosey vacations" as 0
+participant "react sputnik" as 1
+box "ostensibly resident"
+participant "immaculate pineapple" as 2
+participant "did epoxy" as 3
+end box
+== clouded tropics ==
+autonumber 9 0
+par attends avoidance
+0 <-> 1: safari trinket
+0 <-] : myself zillions
+2 ->> 2++ : gestation wherefore
+autonumber stop
+2 -->x 2++ : moms stink
+3 -> 1: sailing catalog
+return oblivious forbids
+end
+return humus paratrooper
+@enduml

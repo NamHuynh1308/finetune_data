@@ -1,0 +1,30 @@
+@startuml
+start
+group racket weir
+fork
+:optional bestow;
+fork again
+:peckers scotches; <<continuous>>
+-> cocoon virtue;
+fork again
+:piggy chickenshit;
+while (tackling absences?) is (poking drooled)
+if (standing en?) then (drink leash)
+(gutless steamer) elseif (shoveling clocks?) then (preserved enjoyment)
+:tarmac crib;
+(inflamed screwball) elseif (compression pockets?) then (delaying hash)
+:contours concerns;
+(honouring chicano) elseif (child interfered?) then (simpler scheming)
+:emancipation caroling; <<input>>
+-> untouchable twerp;
+endif
+endwhile (proportion claws)
+-[hidden]->
+detach
+end fork
+:regurgitate chickadee;
+end group
+:scrawny meadow; <<load>>
+-> testing islanders;
+stop
+@enduml

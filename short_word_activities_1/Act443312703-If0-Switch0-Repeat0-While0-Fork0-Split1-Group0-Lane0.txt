@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:lilies drying;
+split again
+-[hidden]->
+:scallops dreck;
+split again
+-[hidden]->
+:teeth rewrite;
+kill
+end split
+:hyperbole unappealing;
+-> deadlines unstable;
+@enduml

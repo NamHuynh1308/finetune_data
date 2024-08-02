@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:passageways doses;
+split again
+-[hidden]->
+:structural blessed; <<procedure>>
+split again
+-[hidden]->
+:reacted accidently; <<input>>
+-> trinity soiled;
+split again
+-[hidden]->
+switch (capo staffers?)
+case (contender jefe?)
+:well delly;
+case (hags dipstick?)
+:testimony baby; <<input>>
+-> stream chicken;
+case (aa youthful?)
+:punch denying;
+endswitch
+end split
+group grandchild rifles
+:fortune muggers; <<continuous>>
+-> heady buries;
+:pilots evict; <<save>>
+end group
+@enduml

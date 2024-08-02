@@ -1,0 +1,7 @@
+@startuml
+start
+group damsels distracted
+:frosting useful; <<procedure>>
+stop
+end group
+@enduml

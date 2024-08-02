@@ -1,0 +1,12 @@
+@startuml
+participant "deceiving alternate" as 0
+box "quirky coral"
+participant "overbite garment" as 1
+end box
+== deviants nougat ==
+autonumber 0 3
+loop peckish tanked
+ [<- 1: sandbox failure
+0 <-] : scooped psychiatry
+end
+@enduml

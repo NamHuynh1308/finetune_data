@@ -1,0 +1,6 @@
+@startuml
+group treasures ravishing
+:host helmet; <<input>>
+stop
+end group
+@enduml

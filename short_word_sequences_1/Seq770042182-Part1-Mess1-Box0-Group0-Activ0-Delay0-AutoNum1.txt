@@ -1,0 +1,5 @@
+@startuml
+participant "marries tribulations" as 0
+autonumber 4 3
+0 ->x 0: mentioned fruity
+@enduml

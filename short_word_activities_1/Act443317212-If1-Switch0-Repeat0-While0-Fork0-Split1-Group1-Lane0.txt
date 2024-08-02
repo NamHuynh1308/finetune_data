@@ -1,0 +1,24 @@
+@startuml
+split
+-[hidden]->
+:wheeze impatient;
+split again
+-[hidden]->
+if (household quarantine?) then (importer ordered)
+(equally reproductive) elseif (scroll decide?) then (fro formed)
+:extensions loathing; <<load>>
+(numbers tourists) elseif (balcony later?) then (episode merry)
+:expressly pantry; <<save>>
+-> gammy turtleneck;
+endif
+split again
+-[hidden]->
+:widows exclamation; <<output>>
+end split
+:whistles lottery; <<output>>
+:softly supporting;
+group mensa hinted
+:tensions profile; <<continuous>>
+stop
+end group
+@enduml

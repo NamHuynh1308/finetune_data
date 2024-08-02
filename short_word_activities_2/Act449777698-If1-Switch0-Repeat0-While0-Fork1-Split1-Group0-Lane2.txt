@@ -1,0 +1,42 @@
+@startuml
+|1| portal zesty
+|2| exposing homeless
+split
+-[hidden]->
+:premonition specialties;
+split again
+-[hidden]->
+if (charms prestige?) then (ingredient rusty)
+(globe maverick) elseif (darts commanders?) then (oozing tray)
+:sabin fringe; <<output>>
+-> largest mining;
+(blindness small) elseif (touches movements?) then (jets confrontations)
+:ganging punky; <<continuous>>
+(corkscrew rugged) elseif (unwashed flew?) then (creations flake)
+:munchkin discrete; <<input>>
+-> dragons captivated;
+(resort properly) elseif (forgetful syndrome?) then (publicity grift)
+:emancipated sold;
+endif
+split again
+-[hidden]->
+:ensue thing; <<procedure>>
+-> mime tear;
+split again
+-[hidden]->
+:pubic funds;
+end split
+:blunt these;
+fork
+:reread nub;
+fork again
+:points smears; <<continuous>>
+fork again
+:bucko disturb; <<continuous>>
+fork again
+:border blame; <<input>>
+end merge
+|2|
+:incomprehensible dojo; <<continuous>>
+stop
+@enduml

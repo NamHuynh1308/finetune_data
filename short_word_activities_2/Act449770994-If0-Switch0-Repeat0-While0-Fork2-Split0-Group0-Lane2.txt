@@ -1,0 +1,23 @@
+@startuml
+|1| coded hitchhiker
+|2| pride sprouts
+fork
+:ravish saturated;
+fork again
+fork
+:increases traveled;
+fork again
+:aching torture; <<continuous>>
+fork again
+:tingle hangover;
+fork again
+:similarity fascinate; <<task>>
+end merge
+fork again
+:acoustic staffed; <<output>>
+end merge
+|2|
+:gallons sponsorship; <<load>>
+|1|
+:deputies bye; <<load>>
+@enduml

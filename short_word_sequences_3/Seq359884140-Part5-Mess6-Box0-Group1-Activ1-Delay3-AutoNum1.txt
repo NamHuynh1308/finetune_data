@@ -1,0 +1,21 @@
+@startuml
+participant "unmanned warning" as 0
+participant "deadbeats gunk" as 1
+participant "caregiver reddish" as 2
+participant "chords lantern" as 3
+autonumber 8 3
+create participant "presence bookish" as 4
+1 -> 4 : presence bookish
+...spotters cuticles...
+1 -// 1: stallion whine
+1 <-] : discharged started
+...debts hoped...
+2 --> 3++ : footnote wring
+break shadows typo
+4 ->x 4: threatens bam
+...handbag resembles...
+4 -> 3!! : quotes undying
+autonumber stop
+end
+return guarded graveyards
+@enduml

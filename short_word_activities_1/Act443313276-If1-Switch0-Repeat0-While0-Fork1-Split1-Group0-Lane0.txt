@@ -1,0 +1,31 @@
+@startuml
+split
+-[hidden]->
+:matinee leotards;
+split again
+-[hidden]->
+fork
+:buttering employee;
+fork again
+:unlikely primaries;
+fork again
+:lament icing; <<load>>
+-> country coronary;
+end fork
+split again
+-[hidden]->
+if (doling compare?) then (exceptions dell)
+:excessively wimp;
+kill
+else (forms scrunch)
+:calculation esteemed;
+:hurl souvlaki;
+endif
+split again
+-[hidden]->
+:height posttraumatic; <<output>>
+end split
+:strenuous hatch; <<load>>
+-> sung exceptional;
+end
+@enduml

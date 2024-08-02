@@ -1,0 +1,36 @@
+@startuml
+split
+-[hidden]->
+:semester sprinkle;
+split again
+-[hidden]->
+repeat
+:people stumbles;
+backward:manslaughter parent;
+repeat while (bound smite?) is (ethanol rhetorical)
+split again
+-[hidden]->
+:foxholes assaults; <<continuous>>
+-> diversions leaks;
+split again
+-[hidden]->
+:buffet merit; <<continuous>>
+end split
+group passive poised
+if (dumdum certification?) then (recuse airs)
+if (coveralls effects?) then (bounce suggestions)
+:obligatory labeled;
+-> loran misinterpreting;
+else (ebony menace)
+:ties specified; <<output>>
+:francs natured; <<procedure>>
+:crucified offer; <<task>>
+-> pays pitting;
+kill
+endif
+else (serving boyfriends)
+:directory shaven; <<task>>
+endif
+stop
+end group
+@enduml

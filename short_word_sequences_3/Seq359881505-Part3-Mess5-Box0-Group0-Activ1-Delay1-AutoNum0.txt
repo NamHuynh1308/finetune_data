@@ -1,0 +1,13 @@
+@startuml
+participant "rated inventory" as 0
+participant "obstruction rosebush" as 1
+participant "kept sentinels" as 2
+== successfully sheriff ==
+2 -// 1++ : motors shunned
+1 -> 2: detective tanking
+ [<- 2: dominion please
+...daze perennial...
+0 -> 0: tidings snakebite
+ [<- 1: acoustics breakthrough
+return region balm
+@enduml

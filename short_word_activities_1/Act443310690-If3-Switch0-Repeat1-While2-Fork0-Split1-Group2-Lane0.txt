@@ -1,0 +1,54 @@
+@startuml
+split
+-[hidden]->
+:winds pithy;
+split again
+-[hidden]->
+:tasteful cinnamon; <<load>>
+split again
+-[hidden]->
+:commerce stocks;
+end split
+group jokes pulls
+if (administrator gauntlet?) then (bracelet wives)
+if (scented hyenas?) then (standpoint shadow)
+:exerting cord; <<input>>
+-> reserved colossal;
+:frontiers freeman;
+else (reference monte)
+:realizing schizo; <<save>>
+:hunting wonderland;
+endif
+:clanging outsiders;
+:cirrhosis demolition; <<procedure>>
+else (resembles curate)
+repeat
+:viewed also; <<load>>
+-> formula production;
+:sealed girlfriend;
+repeat while (root ducking?) is (pods flaky)
+if (dependent snuggle?) then (slink lava)
+:alarmist femmes;
+:radishes laminated;
+while (wayside conflict?) is (people kidney)
+backward:revolving psi;
+backward:fishy gargoyle;
+:embarking forgiveness;
+endwhile (googly revolting)
+-[hidden]->
+detach
+else (nibble bluffing)
+:bats inventive; <<save>>
+endif
+while (wracking humbled?) is (manufacture slug)
+:ignoramus impeach; <<output>>
+endwhile (triangular formulas)
+-[hidden]->
+detach
+endif
+group accorded package
+:replace murderous; <<input>>
+stop
+end group
+end group
+@enduml

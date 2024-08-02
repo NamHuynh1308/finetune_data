@@ -1,0 +1,28 @@
+@startuml
+start
+:jumble accountants;
+-> gravy gotten;
+fork
+:doofus zeal;
+fork again
+:catwalk reinforcements; <<load>>
+-> spectacles infuriate;
+fork again
+split
+:bangs slaughtering;
+split again
+:benthic whey;
+split again
+:clumps territories; <<load>>
+split again
+:wrong syllabus; <<input>>
+end split
+fork again
+:manager meeting; <<task>>
+-> symptomatic landlady;
+end merge
+group retrofit rin
+:pipe coincide;
+stop
+end group
+@enduml

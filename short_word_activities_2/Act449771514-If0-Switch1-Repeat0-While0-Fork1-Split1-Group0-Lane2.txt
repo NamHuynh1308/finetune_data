@@ -1,0 +1,36 @@
+@startuml
+|1| sprite maternal
+|2| messages reconciling
+|1|
+start
+|2|
+split
+:replied unseat;
+split again
+switch (researchers airplane?)
+case (interject hunks?)
+:rallied tones; <<task>>
+case (tacit hopeful?)
+:cyclops listened;
+case (puss fiends?)
+:mesh weed;
+case (crusader emptying?)
+:unprofessional legalities;
+endswitch
+split again
+:loopholes spewing;
+split again
+:townsfolk hideously; <<procedure>>
+end split
+fork
+:squealed transformed;
+fork again
+:tendons doorman;
+fork again
+:bowers lake; <<continuous>>
+end fork
+|1|
+:remove duchess;
+|2|
+:bourbon pewter; <<continuous>>
+@enduml

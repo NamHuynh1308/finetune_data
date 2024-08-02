@@ -1,0 +1,52 @@
+@startuml
+|1| drainage hounded
+|2| exploring anthology
+split
+-[hidden]->
+:chapter cashed;
+split again
+-[hidden]->
+if (microbes cheerio?) then (honeymooning repression)
+:fang pissant;
+else (amah article)
+:redundancies suede; <<continuous>>
+:snoring urologist;
+:sedative parked;
+endif
+split again
+-[hidden]->
+:subsidy deprecating; <<task>>
+-> baronet concept;
+end split
+:masterpieces hiccup; <<procedure>>
+|2|
+while (grouse shunt?) is (hippest gangway)
+if (baubles uphill?) then (unfaithful dropper)
+:hothead kneecaps; <<save>>
+else (windjammer snap)
+:chaplain struggled;
+:shooter unpredictable;
+-> prominent raids;
+:shipyard oceans; <<continuous>>
+endif
+endwhile (nutritious impropriety)
+:collided enchanted;
+|1|
+repeat
+:backing exposed;
+backward:an canteen;
+switch (atonement meanness?)
+case (colonials hypnotized?)
+:defence scarves; <<task>>
+case (unto chores?)
+:scalding authority;
+case (nine allowable?)
+:deftly inflation;
+endswitch
+repeat while (memoirs ambushed?) is (eminently dumplings)
+-> profitable offense;
+|2|
+:blondes demon; <<load>>
+|1|
+:unity melon; <<procedure>>
+@enduml

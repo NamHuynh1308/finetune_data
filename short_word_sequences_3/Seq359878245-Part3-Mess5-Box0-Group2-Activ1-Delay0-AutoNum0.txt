@@ -1,0 +1,17 @@
+@startuml
+participant "gratitude inspected" as 0
+participant "assorted ulcers" as 1
+== seaman exploration ==
+alt acre spirituality
+0 --> 1: poof crush
+create participant "dashing poem" as 2
+0 -> 2 : dashing poem
+par securely supremely
+ [-> 1: buffoon louvre
+2 -> 2!! : shorty suitcase
+else fucks centennial
+2 -> 1++ : desire portray
+end
+end
+return busload grabs
+@enduml

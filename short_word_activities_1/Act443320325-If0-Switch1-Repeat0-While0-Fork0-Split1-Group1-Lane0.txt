@@ -1,0 +1,28 @@
+@startuml
+split
+-[hidden]->
+:blueprints overworked;
+split again
+-[hidden]->
+:gimmie drummed;
+split again
+-[hidden]->
+:workload mocking; <<load>>
+split again
+-[hidden]->
+switch (cut flanks?)
+case (muffin collie?)
+:divorcing marksmanship; <<continuous>>
+-> geared lands;
+case (indicted appealing?)
+:nodes unquote; <<task>>
+case (mamma underhanded?)
+:runes toothbrushes;
+endswitch
+end split
+:documentaries molly; <<procedure>>
+group locksmith unfolding
+:pearls steering;
+stop
+end group
+@enduml

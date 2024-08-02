@@ -1,0 +1,5 @@
+@startuml
+participant "commercially imposed" as 0
+== smug ken ==
+0 -> 0: sausages heaven
+@enduml

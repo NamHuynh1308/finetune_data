@@ -1,0 +1,16 @@
+@startuml
+start
+split
+:charlies lido;
+split again
+:hollers pillage;
+-> bowels client;
+split again
+:silly ooze; <<task>>
+-> recanted wrists;
+split again
+:creamy predictable; <<save>>
+end split
+:huckleberry airmen; <<save>>
+end
+@enduml

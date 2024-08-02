@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:cipher doctor;
+split again
+-[hidden]->
+:delightful other; <<task>>
+split again
+-[hidden]->
+:humiliate roof; <<save>>
+end split
+group spine nights
+:households fat; <<output>>
+-> declared jags;
+stop
+end group
+@enduml

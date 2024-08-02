@@ -1,0 +1,9 @@
+@startuml
+participant "software deciphering" as 0
+== ventilate museum ==
+create participant "hum rebel" as 1
+0 -> 1 : hum rebel
+...textbooks yourself...
+1 -->x 0: plateaued stubs
+1 -\\ 0: shanks matters
+@enduml

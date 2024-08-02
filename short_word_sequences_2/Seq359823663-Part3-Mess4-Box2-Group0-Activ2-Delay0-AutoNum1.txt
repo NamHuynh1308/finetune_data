@@ -1,0 +1,17 @@
+@startuml
+box "merrily sightings"
+participant "mae benevolent" as 0
+box "goonie holders"
+participant "grungy cerulean" as 1
+participant "best manner" as 2
+end box
+end box
+autonumber 1 2
+2 -\\ 0++ : redhead portrayed
+autonumber stop
+1 ->o 1: spoil officiate
+0 -> 1++ : realization major
+0 ->x 1: wharf achieve
+return princes unimpressed
+return instructors stipulation
+@enduml

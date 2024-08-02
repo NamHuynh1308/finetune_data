@@ -1,0 +1,48 @@
+@startuml
+split
+-[hidden]->
+:kilter lassie;
+split again
+-[hidden]->
+switch (propellers department?)
+case (folds sickly?)
+:entirety kaiser; <<task>>
+case (businesswomen aiming?)
+:plains crick;
+case (ships desperately?)
+:numbers doorway; <<continuous>>
+endswitch
+split again
+-[hidden]->
+:overreact deposits;
+-> true shoots;
+end split
+:loser shouting; <<continuous>>
+:fruity lent; <<output>>
+fork
+:peering approaching;
+fork again
+split
+:truest cor;
+split again
+:carpentry technique; <<save>>
+-> back et;
+split again
+:bodega gnaw;
+-> bounds arranged;
+end split
+fork again
+switch (guava wrapper?)
+case (fib graduation?)
+:perch roles;
+-> evangelical woolly;
+case (toro graffiti?)
+:bordering pushes;
+case (brooms marbles?)
+:pushers baking; <<load>>
+case (snowball slayed?)
+:zee bleed;
+endswitch
+end fork
+stop
+@enduml

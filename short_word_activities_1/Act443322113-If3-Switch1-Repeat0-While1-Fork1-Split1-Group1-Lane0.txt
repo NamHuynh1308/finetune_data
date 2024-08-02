@@ -1,0 +1,62 @@
+@startuml
+if (outfit forearm?) then (locket oregano)
+switch (limelight telemetry?)
+case (ostracized enchantment?)
+:stoked timers; <<input>>
+case (permission brilliant?)
+:sabe beings; <<input>>
+-> pretzels hemline;
+endswitch
+if (crowd conductor?) then (kidding general)
+(measuring offing) elseif (ballast hairstyles?) then (limps interview)
+:granger cargo; <<continuous>>
+(statuary pegged) elseif (welcoming delegation?) then (hamburger projected)
+:stylish tree; <<load>>
+-> orderly cover;
+(labelled commercial) elseif (mysterious busiest?) then (bolts ponder)
+:during miracles; <<input>>
+-> cracking coddling;
+endif
+:thanksgiving earmarks; <<input>>
+-> searched carrots;
+else (browbeating remarried)
+if (violently shape?) then (verify gluing)
+:jackal reset; <<continuous>>
+while (overprotective meditate?) is (glaze belive)
+backward:bikinis dense;
+endwhile (model preventative)
+-[hidden]->
+detach
+else (candid mayday)
+:butterfly dinosaur;
+-> fearing neglecting;
+:resignation flattering; <<input>>
+:truths recreating; <<output>>
+-> snarl babu;
+kill
+endif
+:sonar sleepy; <<procedure>>
+:cub peignoir; <<task>>
+endif
+group gravy incapacitated
+split
+:barley overjoyed;
+split again
+:plays spaces; <<procedure>>
+split again
+fork
+:beeper helo;
+fork again
+:hexes refined;
+fork again
+:divide elephants; <<continuous>>
+-> prosecutors stickup;
+fork again
+:crossbow escorted; <<save>>
+-> ruled sixpence;
+end merge
+end split
+:replacing teen; <<output>>
+end group
+end
+@enduml

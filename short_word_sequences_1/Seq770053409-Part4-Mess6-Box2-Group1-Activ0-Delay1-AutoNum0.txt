@@ -1,0 +1,19 @@
+@startuml
+box "diseased spectral"
+participant "stunts naughty" as 0
+box "prance armored"
+participant "sanity seconded" as 1
+participant "loony tawdry" as 2
+end box
+end box
+0 -\\ 1: rambunctious paws
+2 ->> 2: wiser recognition
+break diphtheria salvation
+...coalition lier...
+2 ->] : pitches possesses
+create participant "alias duffel" as 3
+1 -> 3 : alias duffel
+1 -> 0: diarrhea boozing
+1 --//o 0: herpes teaming
+end
+@enduml

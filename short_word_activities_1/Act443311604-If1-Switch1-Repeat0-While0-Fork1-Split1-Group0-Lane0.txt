@@ -1,0 +1,47 @@
+@startuml
+split
+-[hidden]->
+:tailors stitching;
+split again
+-[hidden]->
+:winger anticipate; <<input>>
+split again
+-[hidden]->
+:penitentiary inexperience; <<output>>
+split again
+-[hidden]->
+fork
+:businessman enhanced;
+fork again
+:sinuses conn;
+fork again
+:liar docking; <<continuous>>
+fork again
+:hostile coherent;
+-> snap sickened;
+end fork
+end split
+:affections iris; <<save>>
+if (prematurely carted?) then (gases puny)
+(weed standup) elseif (produces spry?) then (doggies restrooms)
+:asthma kids;
+(aforethought okay) elseif (chubby rouge?) then (tearful moxie)
+switch (masturbating ailments?)
+case (vulgar frequently?)
+:rough serial;
+case (mapped vouch?)
+:tweeze hood;
+-> prevented meteors;
+case (siesta ponder?)
+:drinkers emit;
+case (nationally parish?)
+:believer musicians; <<continuous>>
+endswitch
+(surge cent) elseif (exhibition lunatic?) then (stride boogie)
+:writ flutes;
+-> blur whispered;
+(oars unfaithful) elseif (pistachio intimidating?) then (sub detectors)
+:ecstasy proctologist; <<output>>
+-> pornography atrophied;
+endif
+@enduml

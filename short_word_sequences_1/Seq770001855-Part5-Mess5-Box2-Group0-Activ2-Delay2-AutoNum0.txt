@@ -1,0 +1,21 @@
+@startuml
+participant "idyllic basic" as 0
+box "chose helpful"
+participant "pic battering" as 1
+box "prosecution basement"
+participant "savour campaign" as 2
+participant "releasing lift" as 3
+end box
+end box
+== ironing cylinder ==
+0 <-> 1: tragedy tutors
+1 -// 1: spine pi
+create participant "word proudest" as 4
+3 -> 4 : word proudest
+...humanoid sailed...
+0 --> 3++ : restraints washed
+...needs thought...
+4 -> 2++ : gendarme pinot
+return unseen familiar
+return specter scrooge
+@enduml

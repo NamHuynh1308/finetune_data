@@ -1,0 +1,44 @@
+@startuml
+|1| vaccine persuade
+|2| tripping macaws
+split
+-[hidden]->
+:unwieldy jaded;
+split again
+-[hidden]->
+:rockets crooks; <<input>>
+-> chemistry crunchy;
+split again
+-[hidden]->
+:distinctions obi; <<output>>
+-> waitressing genuinely;
+split again
+-[hidden]->
+:serve unsaid; <<continuous>>
+end split
+|2|
+split
+:flicks ties;
+split again
+:gestation smell; <<task>>
+split again
+:grapefruit uncle;
+kill
+end split
+|1|
+split
+:hydraulics than;
+split again
+:heartbeats including; <<save>>
+split again
+while (error duke?) is (hairnet peroxide)
+:edge replicate;
+backward:miscarry swastika;
+endwhile (gangway seminal)
+:tamper cancellations;
+split again
+:reaches stolen; <<save>>
+end split
+:pain provision; <<procedure>>
+end
+@enduml

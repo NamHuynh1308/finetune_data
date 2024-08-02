@@ -1,0 +1,8 @@
+@startuml
+participant "horseback chemistry" as 0
+== binder smitten ==
+autonumber 0 1
+0 ->> 0: context revisit
+ [<- 0: disconnect stalled
+0 ->> 0: shaver spooks
+@enduml

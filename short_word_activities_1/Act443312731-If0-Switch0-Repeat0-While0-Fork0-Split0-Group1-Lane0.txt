@@ -1,0 +1,7 @@
+@startuml
+start
+group architecture mouthwash
+:cubbies galore; <<task>>
+stop
+end group
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+participant "incinerate soulless" as 0
+participant "asteroids doze" as 1
+participant "rap development" as 2
+participant "relaxes fanning" as 3
+participant "provocations cockpit" as 4
+autonumber 1 9
+ [-> 2: retribution pounder
+3 -> 1!! : initiative needles
+autonumber stop
+...inspirational painting...
+0 --//o 4: caramba terminal
+autonumber resume
+4 -->x 0: zeros confide
+0 -> 3: thespian advertised
+autonumber stop
+critical gizmos await
+...benefited assortment...
+2 -> 0: recovery predictable
+autonumber resume
+0 ->x 4: sequel footsteps
+3 -> 1: greet maple
+end
+@enduml

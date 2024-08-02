@@ -1,0 +1,16 @@
+@startuml
+participant "augmentation cheeseburgers" as 0
+participant "snort shuffling" as 1
+participant "visions giraffes" as 2
+participant "dozens civil" as 3
+== request calender ==
+2 --> 3++ : whirl ailing
+2 --//o 3: harassed cigar
+critical tornado prunes
+...munitions redemption...
+0 ->o 3: model riddled
+1 -> 3: shores vanishing
+else beggars semiautomatic
+end
+return edits possessed
+@enduml

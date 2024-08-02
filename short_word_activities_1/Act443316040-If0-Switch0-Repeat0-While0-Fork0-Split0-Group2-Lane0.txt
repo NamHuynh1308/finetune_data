@@ -1,0 +1,10 @@
+@startuml
+group sic move
+:boar knitting; <<input>>
+-> hairdressers tent;
+group motions quivering
+:jin dysentery; <<save>>
+stop
+end group
+end group
+@enduml

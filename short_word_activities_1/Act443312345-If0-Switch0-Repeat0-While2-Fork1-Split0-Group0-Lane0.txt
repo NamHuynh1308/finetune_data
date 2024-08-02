@@ -1,0 +1,21 @@
+@startuml
+fork
+:moneys find;
+fork again
+:hairstyles tucking; <<load>>
+fork again
+:siding angioplasty;
+while (surname herald?) is (moldy neighborhood)
+while (leaps blundering?) is (yoghurt electrician)
+backward:amounted potting;
+endwhile (courtesy venison)
+:freebie elbow;
+endwhile (transference exterminator)
+-[hidden]->
+detach
+fork again
+:mechanisms exporting; <<input>>
+end merge
+:inconsistent proudly; <<output>>
+stop
+@enduml

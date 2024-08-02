@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:reappears muley;
+split again
+-[hidden]->
+:taunting adage; <<output>>
+split again
+-[hidden]->
+:socks laugh; <<output>>
+split again
+-[hidden]->
+:choreography pragmatic;
+-> wad nougat;
+end split
+:colonels ban;
+:preying motorcade; <<input>>
+-> graves mel;
+stop
+@enduml

@@ -1,0 +1,57 @@
+@startuml
+split
+-[hidden]->
+:sashimi nursed;
+split again
+-[hidden]->
+:dwells satisfies;
+split again
+-[hidden]->
+fork
+:hots pied;
+fork again
+:prosecutor tapered; <<task>>
+fork again
+:optimism ecological;
+end fork
+split again
+-[hidden]->
+fork
+:unrelated loafers;
+fork again
+:sanatorium smog;
+fork again
+:transmission defaced;
+end merge
+end split
+group veritable graphic
+fork
+:distancing rug;
+fork again
+switch (premed miscellaneous?)
+case (aboriginal frequently?)
+:conception worthless;
+-> shook marble;
+case (tends pages?)
+:nannies babysitter;
+case (kidder sure?)
+:ironic blender; <<load>>
+case (swig potting?)
+:diagnose match; <<load>>
+endswitch
+fork again
+:shifting imagined; <<procedure>>
+end merge
+split
+:travel raft;
+split again
+:haze deceived; <<load>>
+split again
+:exam club;
+-> chocolates toothed;
+end split
+end group
+:jar worm;
+-> reminds slug;
+end
+@enduml

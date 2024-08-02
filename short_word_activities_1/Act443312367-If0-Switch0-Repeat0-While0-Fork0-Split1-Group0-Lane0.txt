@@ -1,0 +1,17 @@
+@startuml
+split
+-[hidden]->
+:cows banished;
+split again
+-[hidden]->
+:extracts resembles;
+-> rental triumphs;
+split again
+-[hidden]->
+:feds governess; <<load>>
+end split
+:enriched dinosaurs;
+:gaslight yeast; <<procedure>>
+-> taste atropine;
+end
+@enduml

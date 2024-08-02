@@ -1,0 +1,14 @@
+@startuml
+participant "statistical spencer" as 0
+autonumber 7 10
+create participant "heck dabble" as 1
+0 -> 1 : heck dabble
+0 -> 1: everywhere dawdling
+0 ->] : remembrance micro
+critical loyalties ricochet
+ [<- 0: distrust homicidal
+create participant "fantasy stringing" as 2
+0 -> 2 : fantasy stringing
+else auditorium emporium
+end
+@enduml

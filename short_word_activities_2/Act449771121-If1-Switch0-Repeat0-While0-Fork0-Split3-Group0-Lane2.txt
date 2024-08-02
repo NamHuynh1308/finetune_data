@@ -1,0 +1,45 @@
+@startuml
+|1| questioned travelers
+|2| implemented unthinkable
+split
+-[hidden]->
+:cuffs patten;
+split again
+-[hidden]->
+:befitting unresponsive; <<input>>
+split again
+-[hidden]->
+split
+:upstairs addition;
+split again
+:exploring fashioned;
+split again
+:wits bedlam;
+split again
+:skirt cures; <<save>>
+-> extremism mina;
+end split
+end split
+|2|
+split
+:creased camshaft;
+split again
+:smokers eclipse;
+split again
+:demanded listener;
+split again
+if (dynamics condiment?) then (chisel opposition)
+:coveted assignments;
+:emeralds obstetrician;
+else (trombone toxicology)
+:roughnecks skirmish;
+endif
+end split
+|1|
+:shaven fatty; <<procedure>>
+-> omitted reasoned;
+|2|
+:networking speedway; <<task>>
+:settles paprika; <<load>>
+end
+@enduml

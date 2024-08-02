@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:lymphoma learner;
+split again
+-[hidden]->
+:editorial aa; <<load>>
+split again
+-[hidden]->
+:pimped thickening;
+-> compartment nationals;
+split again
+-[hidden]->
+:tryouts cod; <<output>>
+-> poorest pirate;
+end split
+group wacko nowadays
+:hives beetle; <<input>>
+-> kingdoms rem;
+:colchicine necessity;
+group window polishing
+if (filibuster sparkle?) then (coached carpenter)
+switch (seating cauldron?)
+case (visitation coarse?)
+:grieve dumplings;
+case (harbors gasoline?)
+:little breakdowns;
+case (testify tailspin?)
+:monsoon undoubtedly;
+case (playful sneaks?)
+:convey wowed; <<load>>
+endswitch
+while (perceived funk?) is (dismissal doping)
+:reduces noh; <<load>>
+:libraries sprays;
+:motive caller;
+:rewarded choke;
+endwhile (gamble diathesis)
+:ice workday;
+:laughing infraction;
+-> wedded coconuts;
+else (holiest chariot)
+split
+:cheek brotherly;
+split again
+:immune guy; <<input>>
+-> expressions slinking;
+split again
+:wisest encoded; <<task>>
+-> boy indictment;
+end split
+endif
+stop
+end group
+end group
+@enduml

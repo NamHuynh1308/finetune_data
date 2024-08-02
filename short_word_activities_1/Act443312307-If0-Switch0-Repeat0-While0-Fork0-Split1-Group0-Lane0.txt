@@ -1,0 +1,16 @@
+@startuml
+split
+-[hidden]->
+:quilt daft;
+split again
+-[hidden]->
+:irritation hydrolase;
+-> signor skewered;
+split again
+-[hidden]->
+:boa poisonous;
+-> amniotic grilled;
+end split
+:varnish free;
+end
+@enduml

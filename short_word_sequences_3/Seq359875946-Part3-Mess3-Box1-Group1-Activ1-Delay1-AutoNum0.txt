@@ -1,0 +1,15 @@
+@startuml
+participant "edible severity" as 0
+participant "discolored skier" as 1
+box "vague evoked"
+participant "counties cliche" as 2
+end box
+== bill mourning ==
+1 <-> 2: gracious poachers
+2 -\\ 1: manifested hoagie
+alt someday dang
+...lynx discourteous...
+0 -> 0++ : film chimp
+end
+return unpunished disappearances
+@enduml

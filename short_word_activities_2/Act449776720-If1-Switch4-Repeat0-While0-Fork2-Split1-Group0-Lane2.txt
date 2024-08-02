@@ -1,0 +1,83 @@
+@startuml
+|1| dropping trimmers
+|2| wayside home
+split
+-[hidden]->
+:button commits;
+split again
+-[hidden]->
+:whey bagged; <<load>>
+-> amigo socialized;
+split again
+-[hidden]->
+fork
+:fanning helped;
+fork again
+:advantage criminals;
+kill
+fork again
+:bugging relaxed;
+end merge
+split again
+-[hidden]->
+:cuffing smashing; <<output>>
+-> gaiety stinking;
+end split
+switch (disappoints nearest?)
+case (making bins?)
+:valise flippers; <<procedure>>
+case (wisecracks poppy?)
+:anti houses; <<task>>
+case (youse washcloth?)
+:dental blocked; <<procedure>>
+-> transmitter nightmares;
+case (nowadays inheritance?)
+:irrational daffodils;
+-> upheaval ka;
+endswitch
+|2|
+switch (doubled demented?)
+case (slammed chewed?)
+:fugitives drake; <<output>>
+case (renegotiate accord?)
+switch (educated alastor?)
+case (adjustment mended?)
+:automatic heyday;
+case (jewels discs?)
+:demonstrations abandonment; <<output>>
+case (sorts merl?)
+:bedroom transpired;
+endswitch
+case (sterling mumble?)
+:operating endings; <<task>>
+-> invite lush;
+endswitch
+fork
+:buds inquiry;
+fork again
+switch (graveyards fashionably?)
+case (hysterically baskets?)
+:definition technicalities;
+case (hussy neglectful?)
+:fellers scrounge; <<save>>
+-> vacuum mastery;
+case (bigotry sociopathic?)
+:integral blends;
+case (dressy standish?)
+:yield hon; <<continuous>>
+-> foal tortoise;
+endswitch
+fork again
+:cerebrum cookies; <<save>>
+fork again
+if (hug escargot?) then (zits consequence)
+(fib don) elseif (consulting preceded?) then (nonstop jiffy)
+:haute headpiece; <<load>>
+(trader purer) elseif (copiously preconceived?) then (overwhelmed twerp)
+:suffering glare; <<continuous>>
+(brunt middies) elseif (pages responses?) then (tasted budge)
+:alerting mullet;
+endif
+end merge
+stop
+@enduml

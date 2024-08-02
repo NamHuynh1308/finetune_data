@@ -1,0 +1,9 @@
+@startuml
+participant "boutique diffusion" as 0
+autonumber 6 6
+ [<- 0: salesperson congestion
+0 ->x 0++ : surrogate dinosaurs
+0 ->> 0: schooled finalize
+autonumber stop
+return padding brick
+@enduml

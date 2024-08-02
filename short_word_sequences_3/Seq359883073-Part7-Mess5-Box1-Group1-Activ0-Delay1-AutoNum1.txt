@@ -1,0 +1,24 @@
+@startuml
+box "several cant"
+participant "position gizzard" as 0
+participant "slumlord placid" as 1
+participant "girlie danced" as 2
+end box
+participant "opposed clobbered" as 3
+participant "themselves preyed" as 4
+== crapper pathogen ==
+autonumber 5 4
+create participant "afterlife nightgown" as 5
+0 -> 5 : afterlife nightgown
+autonumber stop
+4 ->x 0: hit jargon
+par shark locksmith
+create participant "rise bankbooks" as 6
+5 -> 6 : rise bankbooks
+2 ->x 0: ecological spelt
+else gunmen broadcasting
+...britt werewolves...
+4 -> 5: banks butchers
+else humping progeny
+end
+@enduml

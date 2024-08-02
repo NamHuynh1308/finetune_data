@@ -1,0 +1,29 @@
+@startuml
+participant "layaway liberal" as 0
+participant "roomful stationery" as 1
+box "pathos evoked"
+participant "changing upholstery" as 2
+box "unfathomable jocks"
+participant "gassy amused" as 3
+participant "rumor convict" as 4
+end box
+end box
+par heart matrimony
+2 --//o 3++ : opus blazers
+...guilty adrenals...
+4 -// 4++ : sunspots villagers
+else brightly productions
+...pickpocket blender...
+4 --//o 4: stoolie fucker
+else sleet grows
+...nee worded...
+4 --//o 1++ : note incidental
+...accuse adolescent...
+0 -> 4++ : stitching suspects
+1 --> 3: hygienic superman
+end
+return dropping sums
+return diets management
+return catastrophic dissection
+return hotline clock
+@enduml

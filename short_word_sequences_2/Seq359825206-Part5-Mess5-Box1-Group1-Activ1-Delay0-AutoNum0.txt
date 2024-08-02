@@ -1,0 +1,17 @@
+@startuml
+participant "nutty bulletins" as 0
+participant "musicians pretzels" as 1
+participant "sponge dummies" as 2
+participant "grits septum" as 3
+box "welfare armory"
+participant "metropolitan clumsiness" as 4
+end box
+break cuisine castor
+0 --//o 4: befall washed
+2 <-> 4: passion ich
+0 -> 0!! : mandarin drove
+0 ->x 2: seaweed hah
+1 ->> 4++ : gimmicks fission
+end
+return knee click
+@enduml

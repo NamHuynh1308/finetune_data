@@ -1,0 +1,15 @@
+@startuml
+participant "gothic wieners" as 0
+participant "jury tightens" as 1
+create participant "desperation sausage" as 2
+1 -> 2 : desperation sausage
+2 -> 0: shed cultural
+create participant "kidnapping ludicrous" as 3
+0 -> 3 : kidnapping ludicrous
+...spotlight wielding...
+2 -> 0: intensely analyzing
+...sears pragmatic...
+2 -->x 0: comparison oracles
+3 -> 1++ : implanted editors
+return proceedings sneezed
+@enduml

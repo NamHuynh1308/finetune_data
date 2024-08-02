@@ -1,0 +1,45 @@
+@startuml
+split
+-[hidden]->
+:wives bros;
+split again
+-[hidden]->
+:heartfelt heir; <<procedure>>
+-> fascinate magnet;
+split again
+-[hidden]->
+switch (hobo waffle?)
+case (meningitis grosses?)
+:overall picket;
+case (optimist poofy?)
+:seesaw fulfil;
+endswitch
+split again
+-[hidden]->
+:agencies restless;
+-> kris server;
+end split
+if (toothpick aboveboard?) then (rectory backfired)
+:undergraduate gristle; <<save>>
+:ether godmother; <<task>>
+else (accused malt)
+:compressed construed; <<procedure>>
+-> hastily hyperspace;
+:cholera impulse; <<procedure>>
+split
+:dates seaman;
+split again
+:apologized conformity;
+split again
+:gratified prove; <<save>>
+split again
+:clicking explosion; <<output>>
+end split
+kill
+endif
+group gravely hundreds
+:masseur zipper;
+-> spotlight religion;
+stop
+end group
+@enduml

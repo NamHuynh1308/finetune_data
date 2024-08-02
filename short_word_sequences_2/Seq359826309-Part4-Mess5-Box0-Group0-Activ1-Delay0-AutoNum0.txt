@@ -1,0 +1,12 @@
+@startuml
+participant "parade sublet" as 0
+participant "sigma loaf" as 1
+participant "commit whistle" as 2
+participant "weeny shoplifter" as 3
+0 -> 0!! : navigation waterworks
+3 -> 0: hydra fiftieth
+1 -> 0: caterpillar intercept
+ [<- 2: transaction arbitrary
+2 --> 3++ : bunt basketballs
+return intercept eighteenth
+@enduml

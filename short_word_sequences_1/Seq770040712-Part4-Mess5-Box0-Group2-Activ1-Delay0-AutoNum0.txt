@@ -1,0 +1,17 @@
+@startuml
+participant "place wallowing" as 0
+participant "hangnail roughriders" as 1
+participant "ride gyms" as 2
+== mopping herein ==
+2 -\\ 1++ : blowfish deserve
+ [-> 2: helicopter drips
+opt everyman dandelions
+create participant "mule sociopath" as 3
+1 -> 3 : mule sociopath
+par wormed suggest
+2 -> 2!! : frankfurter lifesaver
+return pushover soups
+1 ->] : antivenin airlines
+end
+end
+@enduml

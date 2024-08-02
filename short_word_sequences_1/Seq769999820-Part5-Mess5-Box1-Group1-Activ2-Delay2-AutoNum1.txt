@@ -1,0 +1,21 @@
+@startuml
+participant "yardstick aught" as 0
+box "hoopla mill"
+participant "barfing glazer" as 1
+participant "margin freshly" as 2
+participant "imagining demonstrations" as 3
+end box
+autonumber 9 4
+0 -> 3!! : downstream fetched
+0 -> 2++ : clarify homily
+...time clavicle...
+1 ->> 2++ : disperse contortionist
+alt system rollers
+...paradigm jerking...
+3 --//o 2: swollen cruelty
+return funk summer
+create participant "overcame stir" as 4
+1 -> 4 : overcame stir
+end
+return competitions guild
+@enduml

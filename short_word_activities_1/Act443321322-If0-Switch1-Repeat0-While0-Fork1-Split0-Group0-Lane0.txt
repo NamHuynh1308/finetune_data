@@ -1,0 +1,23 @@
+@startuml
+switch (creating hypothermia?)
+case (inspecting paparazzi?)
+:overweight teens;
+case (geometry fiver?)
+:literal doses; <<save>>
+case (rank officiate?)
+fork
+:briskly romance;
+fork again
+:sardines colon;
+fork again
+:snowmobile hamlet;
+fork again
+:diversion shortsighted; <<output>>
+end fork
+endswitch
+:inducing cafe; <<output>>
+-> heavyweight skating;
+:standby scammed; <<load>>
+-> longs hawking;
+stop
+@enduml

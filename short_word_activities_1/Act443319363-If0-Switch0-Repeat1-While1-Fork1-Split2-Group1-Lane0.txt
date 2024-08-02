@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:filming cupid;
+split again
+-[hidden]->
+:exams zebra;
+-> lasagna justified;
+split again
+-[hidden]->
+:wanted objection;
+end split
+split
+:beard spotlight;
+split again
+:kosher refund;
+split again
+fork
+:soberly rare;
+fork again
+:suspicion motivates;
+fork again
+:timbers regularly;
+end merge
+end split
+:baptist chefs; <<output>>
+group summons riveted
+while (stowaway adjourned?) is (sided capitol)
+:embodied iron; <<input>>
+-> knelt nowhere;
+repeat
+:inhaling shoreline;
+repeat while (knockout alameda?) is (cates congrats)
+endwhile (favorable icicles)
+:wreaking execute;
+stop
+end group
+@enduml

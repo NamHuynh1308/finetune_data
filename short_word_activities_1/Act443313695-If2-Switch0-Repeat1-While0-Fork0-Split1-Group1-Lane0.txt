@@ -1,0 +1,38 @@
+@startuml
+split
+-[hidden]->
+:destination dishes;
+split again
+-[hidden]->
+:centennial conducting;
+kill
+split again
+-[hidden]->
+:unannounced mohair; <<input>>
+split again
+-[hidden]->
+:among aggressively;
+end split
+:galoshes sight; <<output>>
+-> soiree knocks;
+repeat
+backward:skittles reckless;
+repeat while (conflicts sailboats?) is (stardom roadster)
+-> entanglements objects;
+group med leering
+if (bravo puff?) then (lottery musket)
+:hint alarms;
+else (dwarves explaining)
+:accelerate guest; <<task>>
+-> obeyed tests;
+:legalities silks; <<continuous>>
+if (pervert mattresses?) then (maximize structured)
+(unable hub) elseif (thyme see?) then (wholesaler hangover)
+:throne tender;
+(bunk zlotys) elseif (drowned sighting?) then (torpedoed magnum)
+:mite glasses;
+endif
+endif
+stop
+end group
+@enduml

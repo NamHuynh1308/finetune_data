@@ -1,0 +1,15 @@
+@startuml
+participant "fans bamboozled" as 0
+participant "tapered hurtling" as 1
+== fibber pampering ==
+critical pens partnered
+0 -> 1: miscommunication circulate
+alt parlour crepe
+create participant "missy anyways" as 2
+0 -> 2 : missy anyways
+...faggy mattress...
+1 -> 2: focus stricken
+else divisional mousse
+end
+end
+@enduml

@@ -1,0 +1,32 @@
+@startuml
+split
+-[hidden]->
+:paleontologist wreckage;
+split again
+-[hidden]->
+split
+:balconies eyeballs;
+split again
+:geosynchronous cardiology;
+split again
+:comma devastated;
+-> immutable dandruff;
+split again
+:vouched weight;
+end split
+split again
+-[hidden]->
+:lancer argyle; <<output>>
+-> intend supercollider;
+end split
+fork
+:plucky exit;
+fork again
+:electricians springtime;
+fork again
+:jingling dwelling;
+end merge
+:carburetor with; <<procedure>>
+-> complaints woe;
+stop
+@enduml

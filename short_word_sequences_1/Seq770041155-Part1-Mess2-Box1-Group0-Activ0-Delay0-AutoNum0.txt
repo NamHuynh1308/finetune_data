@@ -1,0 +1,7 @@
+@startuml
+box "gripe cooler"
+participant "drone black" as 0
+end box
+0 -> 0: rinsing hopes
+0 -> 0: ba retaliatory
+@enduml

@@ -1,0 +1,76 @@
+@startuml
+split
+-[hidden]->
+:pimping roadhouse;
+split again
+-[hidden]->
+:hickey macho;
+-> broiler summit;
+split again
+-[hidden]->
+:otter employer; <<procedure>>
+end split
+switch (confessor street?)
+case (bwana outrageously?)
+split
+:habit goading;
+split again
+:depended unjustly;
+while (swept unborn?) is (few skewered)
+backward:grunge omnipotent;
+endwhile (entanglements heirloom)
+-[hidden]->
+detach
+split again
+:gladstone downsizing;
+-> necks drunks;
+end split
+case (attempt communing?)
+:sigh brave;
+while (barre quantum?) is (crumbles comment)
+:preamble persistence;
+:keynote swings; <<output>>
+switch (pax bolted?)
+case (rep year?)
+:screws bubbles; <<input>>
+-> dairy bleeder;
+case (browsing dribble?)
+:fulcrum showroom;
+case (hesitating marketing?)
+:wan crasher; <<input>>
+-> mouth elephants;
+case (yield picked?)
+:ditto retreating; <<continuous>>
+endswitch
+endwhile (kelly ninny)
+-[hidden]->
+detach
+case (shag seating?)
+fork
+:purblind hops;
+fork again
+:bulldoze comply;
+fork again
+:squash timpani;
+-> bumpy antiques;
+fork again
+:adultery siphoning; <<save>>
+-> trademark discovering;
+end merge
+endswitch
+group clouds orbit
+:fajita considerably;
+-> hurray midwestern;
+switch (sorority canaries?)
+case (pact encouraged?)
+:whacked nonexistent;
+kill
+case (calculus intimated?)
+:questionnaire sidekicks; <<continuous>>
+-> drivel airstrip;
+case (origins carrots?)
+:pheasant doctored; <<output>>
+endswitch
+end group
+stop
+@enduml

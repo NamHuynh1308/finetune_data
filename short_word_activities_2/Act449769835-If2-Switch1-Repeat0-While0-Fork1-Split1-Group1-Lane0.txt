@@ -1,0 +1,56 @@
+@startuml
+split
+-[hidden]->
+:guild graphics;
+split again
+-[hidden]->
+:arches flanks; <<continuous>>
+-> lantern outfield;
+split again
+-[hidden]->
+if (viking descent?) then (seminar circulation)
+(heavyweight sense) elseif (positively grieves?) then (waitressing blowtorch)
+:psi homers;
+(vigorously perverts) elseif (sirens dragging?) then (headliner obits)
+:pumped halves; <<input>>
+-> palsy liege;
+(barkeep scramble) elseif (wrongfully honk?) then (sweating vigorously)
+:derogatory cracks;
+(sleepwalk hubcaps) elseif (dullness important?) then (coast trip)
+:creamy luge; <<load>>
+endif
+split again
+-[hidden]->
+:unseemly telephone;
+end split
+if (cricket manifesting?) then (henhouse blankly)
+:ethically monarchy; <<task>>
+-> bailed troop;
+:kiddies carat; <<output>>
+:discreet appease; <<output>>
+else (icicles weber)
+switch (nome moola?)
+case (chuckles venerable?)
+:unrealistic opted;
+case (speedway supreme?)
+:net discovers; <<continuous>>
+case (bickering stealing?)
+:fathom strained; <<save>>
+-> receiver admirably;
+endswitch
+:stood imitating; <<load>>
+-> boyhood cooperation;
+fork
+:concern continents;
+fork again
+:permanently hen; <<load>>
+fork again
+:horizon multinational; <<output>>
+-> hellhole currently;
+end fork
+endif
+group temple technologically
+:workload factual;
+stop
+end group
+@enduml

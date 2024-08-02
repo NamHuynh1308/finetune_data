@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:hefty rewrites;
+split again
+-[hidden]->
+if (paintings quilting?) then (undermined fleece)
+:pistachios squeaky;
+kill
+else (squalor previously)
+:tumor deaf;
+:hypnotized specialists;
+endif
+split again
+-[hidden]->
+:rebounds crimp;
+-> wormed times;
+split again
+-[hidden]->
+:obstetrician resort; <<input>>
+-> span gram;
+end split
+:ballot eccentricities; <<continuous>>
+-> health clef;
+stop
+@enduml

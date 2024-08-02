@@ -1,0 +1,5 @@
+@startuml
+participant "nagged deli" as 0
+== punctuality earmarked ==
+0 <-] : aims jokes
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+participant "nonstop spots" as 0
+box "parakeet sample"
+participant "friendship aboveboard" as 1
+participant "squeezed ramifications" as 2
+end box
+== getaway supports ==
+autonumber 9 1
+ [<- 0: nurse mantel
+...stereotypes inhabitants...
+0 -\\ 0: os pawing
+0 --//o 0: trophies imperfection
+create participant "avenue horned" as 3
+2 -> 3 : avenue horned
+autonumber stop
+par device gaff
+2 --//o 2++ : ledgers shrine
+alt feeding only
+...goatee mistakes...
+3 ->x 1: fairest tis
+return severely handyman
+autonumber resume
+0 -> 1: coverage neurotic
+end
+end
+@enduml

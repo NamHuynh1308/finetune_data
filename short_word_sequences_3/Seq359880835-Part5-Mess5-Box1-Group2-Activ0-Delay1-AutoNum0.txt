@@ -1,0 +1,20 @@
+@startuml
+participant "helpless theatre" as 0
+participant "quantum yapping" as 1
+participant "overbite snug" as 2
+participant "divided sonogram" as 3
+box "hollers prosthetic"
+participant "baggage zeroed" as 4
+end box
+== severance going ==
+1 -> 2: potato previously
+par properties tweed
+ [-> 1: readout giraffes
+4 -->x 3: creating before
+2 ->] : flags infested
+end
+par poodles denning
+...groups disagrees...
+1 --> 1: hoboes caddie
+end
+@enduml

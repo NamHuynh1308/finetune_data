@@ -1,0 +1,8 @@
+@startuml
+participant "stood classics" as 0
+== blips patient ==
+0 -->x 0: day miscellaneous
+loop imply posies
+0 -// 0: distinctly utter
+end
+@enduml

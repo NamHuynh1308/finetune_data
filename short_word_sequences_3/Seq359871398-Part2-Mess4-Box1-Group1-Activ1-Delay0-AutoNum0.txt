@@ -1,0 +1,15 @@
+@startuml
+participant "content sensitivity" as 0
+box "stadium graduation"
+participant "burgundy jittery" as 1
+end box
+== apply rotates ==
+0 -> 0: flown airlift
+alt museums statistically
+1 ->x 1++ : mower heavenly
+0 ->o 1: bins allowable
+return store satisfied
+1 --> 0: outlaw ambulances
+else cluck burke
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "consider deliver" as 0
+participant "crack collective" as 1
+autonumber 3 5
+0 -->x 1: scream altitude
+1 <-> 1++ : vampires apostle
+1 -\\ 0: louse investigated
+return financially spikey
+autonumber stop
+0 --//o 1: hindsight closer
+autonumber resume
+create participant "al mocks" as 2
+0 -> 2 : al mocks
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+start
+group mince cookbook
+fork
+:potted smooth;
+fork again
+split
+:indifference behavior;
+split again
+:condensation nosy;
+split again
+:flames flexibility; <<procedure>>
+end split
+fork again
+:qualifies detained; <<output>>
+-> unwrap cruises;
+end fork
+:carbuncle radiant; <<input>>
+end group
+:chandeliers passageway; <<procedure>>
+-> mort sturdy;
+end
+@enduml

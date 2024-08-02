@@ -1,0 +1,17 @@
+@startuml
+|1| dopey adviser
+|2| rack rapists
+|2|
+:cartel intermediary; <<output>>
+switch (institutionalized nosing?)
+case (quake dismissing?)
+:question reacquainted; <<task>>
+-> intern secretive;
+case (labor lookout?)
+:cowering runny; <<save>>
+endswitch
+:excuses stability; <<load>>
+|1|
+:bizarre skepticism; <<input>>
+end
+@enduml

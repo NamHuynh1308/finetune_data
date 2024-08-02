@@ -1,0 +1,12 @@
+@startuml
+box "belle degradation"
+participant "brownies giddyup" as 0
+participant "senate segments" as 1
+end box
+== handrail flopped ==
+autonumber 2 4
+1 --//o 1: condemn smog
+1 -// 1++ : weaken intimidating
+autonumber stop
+return predict canton
+@enduml

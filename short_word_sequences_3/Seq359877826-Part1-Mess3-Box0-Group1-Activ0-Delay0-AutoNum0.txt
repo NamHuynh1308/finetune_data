@@ -1,0 +1,9 @@
+@startuml
+participant "shrugs prospective" as 0
+alt trig transportation
+0 <-> 0: secretary disciplined
+0 -// 0: fortified boardinghouse
+0 -->x 0: snag saintly
+else bees emphasis
+end
+@enduml

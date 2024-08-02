@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:flaw perceive;
+split again
+-[hidden]->
+:indulge character; <<load>>
+split again
+-[hidden]->
+:builder keycard; <<load>>
+-> fastest blisters;
+end split
+group paranormal teacup
+split
+:fixing clingy;
+split again
+:monologue lemonade; <<task>>
+split again
+:pulls right; <<output>>
+split again
+:medal masses;
+-> fracture server;
+end split
+stop
+end group
+@enduml

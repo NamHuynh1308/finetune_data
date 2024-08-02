@@ -1,0 +1,11 @@
+@startuml
+box "wynn ducks"
+participant "jingles unicorn" as 0
+end box
+== flamenco straights ==
+autonumber 10 2
+par blather dimensions
+0 ->x 0: vitally onstage
+autonumber stop
+end
+@enduml

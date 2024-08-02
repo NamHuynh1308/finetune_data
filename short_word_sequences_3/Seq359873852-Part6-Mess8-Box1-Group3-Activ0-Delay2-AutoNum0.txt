@@ -1,0 +1,29 @@
+@startuml
+participant "yuk appeared" as 0
+participant "jealous sedated" as 1
+participant "bathtub disguises" as 2
+box "checkup fix"
+participant "poured unseal" as 3
+participant "witnessing rowboat" as 4
+end box
+break glossy cello
+0 -\\ 2: borders detergent
+1 -> 0: defects biscuit
+...demerits dashboard...
+1 <-] : aerospace sandstorm
+else moped possibility
+0 -// 4: chemist morph
+alt final understanding
+...courting sucker...
+3 --//o 2: pulmonary tolerant
+1 -> 4: graduating shrubs
+else manhunt excesses
+opt condominium kilter
+create participant "ledgers iceman" as 5
+3 -> 5 : ledgers iceman
+2 -> 2: indeed rumour
+else upgraded lovely
+end
+end
+end
+@enduml

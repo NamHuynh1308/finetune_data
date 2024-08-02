@@ -1,0 +1,5 @@
+@startuml
+:deposition knowledgeable; <<procedure>>
+-> pretzel bombarded;
+stop
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+box "rescuers otto"
+participant "uncharacteristically ghastly" as 0
+participant "photogenic nanny" as 1
+end box
+== fails squid ==
+autonumber 4 6
+1 --> 0: nonetheless scandal
+autonumber stop
+1 ->] : coasters unflattering
+0 -> 1: zander meters
+0 -// 0: steed hanks
+autonumber resume
+@enduml

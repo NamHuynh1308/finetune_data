@@ -1,0 +1,42 @@
+@startuml
+|1| ignorant wages
+|2| veil bonnet
+split
+-[hidden]->
+:people jackass;
+split again
+-[hidden]->
+:inseparable mirrors; <<load>>
+-> selections themes;
+split again
+-[hidden]->
+:transporting tensions; <<load>>
+split again
+-[hidden]->
+:mayor cashier; <<load>>
+-> mettle slice;
+end split
+switch (securely blackboard?)
+case (kerosene extraterrestrials?)
+:gush sooner; <<input>>
+case (egghead comprised?)
+:nominated anytime;
+case (entomologist silliest?)
+:extinguisher opium; <<output>>
+-> dame smelled;
+endswitch
+:falafel souffle; <<continuous>>
+fork
+:ranking disinherit;
+fork again
+:tomahawk burrows;
+kill
+fork again
+:nannies learning;
+end fork
+|2|
+:oxen primer;
+-> measuring snaps;
+|1|
+:caused tranquil; <<procedure>>
+@enduml

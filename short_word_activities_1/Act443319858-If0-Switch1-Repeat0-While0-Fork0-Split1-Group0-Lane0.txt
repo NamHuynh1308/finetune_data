@@ -1,0 +1,26 @@
+@startuml
+split
+-[hidden]->
+:mortar review;
+split again
+-[hidden]->
+:jumped baited; <<procedure>>
+-> defied sonar;
+split again
+-[hidden]->
+switch (skirt delirium?)
+case (wires failure?)
+:generously proudly;
+case (overstep delayed?)
+:prosecuting tokens;
+case (whip inappropriately?)
+:dally romances;
+-> marriages ape;
+case (hypothermia pacer?)
+:skeletal continuum;
+-> updates presumptuous;
+endswitch
+end split
+:sue filtration; <<input>>
+end
+@enduml

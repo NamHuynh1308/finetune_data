@@ -1,0 +1,15 @@
+@startuml
+participant "icehouse motors" as 0
+participant "checked indicated" as 1
+== driver telegrams ==
+par highlighters taste
+create participant "methodology donuts" as 2
+1 -> 2 : methodology donuts
+...vat airplanes...
+2 <-] : extending observation
+else rejected discusses
+1 -// 0: sabbatical ties
+0 ->> 0: disturbance jammer
+else perjury broadening
+end
+@enduml

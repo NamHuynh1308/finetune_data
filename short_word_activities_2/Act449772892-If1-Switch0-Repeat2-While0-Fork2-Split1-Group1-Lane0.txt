@@ -1,0 +1,53 @@
+@startuml
+split
+-[hidden]->
+:chino teal;
+split again
+-[hidden]->
+:disgusting hiring; <<task>>
+split again
+-[hidden]->
+repeat
+:crappy ambitious; <<continuous>>
+-> parties pygmy;
+backward:forbid nonstop;
+:collapses ocean;
+repeat while (untenable curran?) is (integrated commander)
+-> podiatry corsage;
+split again
+-[hidden]->
+:distillery baubles; <<output>>
+end split
+if (sh dumper?) then (plea clue)
+(propaganda celebrates) elseif (carriage greatest?) then (bighorn legislate)
+:test autobiographical; <<load>>
+-> regenerated its;
+(moon devised) elseif (cates disinfectant?) then (machete fizz)
+:warring unauthorized; <<output>>
+-> ploy shuttles;
+(ghastly spirals) elseif (wharf rerouted?) then (gunned interrupt)
+:waits buds;
+endif
+group explored wahoo
+fork
+:arches healthy;
+fork again
+fork
+:among event;
+fork again
+:caucus crib;
+fork again
+:emergency humming; <<task>>
+fork again
+:robbed canals; <<save>>
+end merge
+fork again
+repeat
+backward:filters wrinkle;
+backward:blows slicer;
+:poorhouse nil;
+repeat while (declare sciences?) is (steal adherence)
+end fork
+stop
+end group
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+split
+-[hidden]->
+:fucked publicist;
+split again
+-[hidden]->
+if (intensive trusted?) then (zed nuggets)
+(withdrew guava) elseif (restrain notebook?) then (roughing manages)
+:reprisal replacements; <<continuous>>
+(prodigal logic) elseif (fossilized plant?) then (junkies inaccuracies)
+:grouch whiskey;
+(pachyderm checker) elseif (atrium brass?) then (issues suspects)
+:deuces saddest;
+endif
+split again
+-[hidden]->
+:savor comforting; <<task>>
+end split
+group breezy although
+:anchovies livestock;
+stop
+end group
+@enduml

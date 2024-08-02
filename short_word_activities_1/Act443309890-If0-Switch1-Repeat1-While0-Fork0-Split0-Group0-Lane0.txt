@@ -1,0 +1,15 @@
+@startuml
+start
+switch (fireplaces journalists?)
+case (others psychotic?)
+repeat
+:strategy phobias; <<output>>
+-> lovelorn teeming;
+repeat while (owed depiction?) is (pampering blotter)
+case (efficiency vagabond?)
+:mosquito fighters; <<task>>
+case (characters acclimate?)
+:flags vocal; <<output>>
+endswitch
+stop
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "drapes orbiting" as 0
+box "copycat rolf"
+participant "overdosed slit" as 1
+end box
+== scavenging humbly ==
+ [-> 1: griping barrel
+loop knobs decibels
+1 -> 1++ : triumphs unofficial
+end
+return drivers oxymoron
+@enduml

@@ -1,0 +1,39 @@
+@startuml
+split
+-[hidden]->
+:courier determined;
+split again
+-[hidden]->
+:latte oversensitive; <<output>>
+-> starving republicans;
+split again
+-[hidden]->
+:be unpacked; <<input>>
+end split
+fork
+:nighttime blowup;
+fork again
+:maul deposing; <<output>>
+-> schnitzel injustice;
+fork again
+:fibber ratings;
+kill
+end fork
+repeat
+if (adrenaline scar?) then (hangouts bend)
+:graduated throughway; <<save>>
+-> muffled unfolding;
+:consumed turner;
+:ultimatums piddling;
+while (comers punch?) is (offense unavoidable)
+:fleece suspense;
+endwhile (armpits breaker)
+-[hidden]->
+detach
+else (mortified budget)
+:intruding terminus;
+-> falling sharpener;
+endif
+repeat while (sharks asbestos?) is (exercise good)
+end
+@enduml

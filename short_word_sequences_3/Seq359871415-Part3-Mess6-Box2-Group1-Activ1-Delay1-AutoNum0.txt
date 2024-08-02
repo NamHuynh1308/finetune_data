@@ -1,0 +1,21 @@
+@startuml
+box "melons mantle"
+participant "booked kiddo" as 0
+box "laces injured"
+participant "limitless disorganized" as 1
+end box
+end box
+== pods torn ==
+1 -->x 0++ : performances severe
+ [<- 0: voluntarily employers
+1 -> 1: chow disorientation
+break open blades
+0 ->o 0: parenthood acupuncturist
+create participant "snarl obliged" as 2
+1 -> 2 : snarl obliged
+else subtext unrest
+...hushed parade...
+1 -> 1: intentions afternoons
+end
+return selectman carpeting
+@enduml

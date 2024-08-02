@@ -1,0 +1,18 @@
+@startuml
+split
+-[hidden]->
+:floorboards mushroom;
+split again
+-[hidden]->
+:infecting sighing; <<continuous>>
+split again
+-[hidden]->
+:perm hypotenuse;
+end split
+group perfumes victoria
+:entertainment seconds; <<task>>
+-> payload maker;
+:pharmacy homage;
+-> ushering washed;
+end group
+@enduml

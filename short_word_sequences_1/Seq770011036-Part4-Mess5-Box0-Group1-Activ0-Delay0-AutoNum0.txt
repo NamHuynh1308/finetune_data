@@ -1,0 +1,13 @@
+@startuml
+participant "paints rots" as 0
+participant "challenger thick" as 1
+participant "wreckage torah" as 2
+participant "operative completes" as 3
+2 -> 0: blanket crispy
+0 -> 2!! : biz task
+0 ->] : meridian aprons
+2 -> 0: desperado suffered
+loop jacking browsing
+0 -> 2!! : syndicated overestimate
+end
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+box "impart bracelet"
+participant "mood snazzy" as 0
+participant "chests vanishes" as 1
+box "comebacks ivy"
+participant "procrastination bravely" as 2
+participant "subatomic yippie" as 3
+end box
+participant "neurosurgeon unhappily" as 4
+end box
+== implying spears ==
+autonumber 1 4
+4 -->x 2: clippers hillbillies
+autonumber stop
+...flashlight deconstruction...
+3 -> 4: contrite breakwater
+autonumber resume
+ [<- 2: wimps party
+3 ->> 1++ : kilometer from
+1 ->] : continuing fortunate
+return ingest miscommunication
+0 -// 4++ : tearing retake
+autonumber stop
+ [<- 4: mayo bind
+autonumber resume
+return unparalleled pig
+@enduml

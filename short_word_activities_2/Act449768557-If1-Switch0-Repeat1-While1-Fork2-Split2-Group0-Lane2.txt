@@ -1,0 +1,66 @@
+@startuml
+|1| disarmed relate
+|2| salmonella hairdressers
+split
+-[hidden]->
+:tuxedos refute;
+split again
+-[hidden]->
+fork
+:sty anything;
+fork again
+:interrupted tackling; <<output>>
+fork again
+:diets mercy; <<output>>
+fork again
+:negligence weathered;
+end fork
+split again
+-[hidden]->
+:cord expertise; <<load>>
+split again
+-[hidden]->
+:patrol yahoo; <<save>>
+-> wooden sneak;
+end split
+if (outrun barrels?) then (silent lords)
+(launching weirdest) elseif (dally nuttier?) then (merchandise savin)
+split
+:quite discredit;
+split again
+:pimply revolutions;
+split again
+:parishioner billionaire; <<task>>
+-> egregious seduced;
+end split
+(diary governed) elseif (clue astonishment?) then (sewed unsatisfactory)
+:jrvjge;
+kill
+(franks mist) elseif (renders garnet?) then (mace alamo)
+repeat
+:briar artillery;
+repeat while (repay despair?) is (grabbing untreated)
+(skated reclaiming) elseif (resentment foe?) then (floozy extorting)
+:floorboard heck; <<input>>
+-> dueling young;
+endif
+:shaft elders; <<task>>
+while (localized stoner?) is (antibiotic answered)
+:shovel artwork;
+-> imbedded venomous;
+fork
+:marquis siege;
+fork again
+:bayonet betraying; <<task>>
+fork again
+:hickey whirling; <<save>>
+-> sleepwalking promoted;
+fork again
+:boundaries inscrutable; <<output>>
+end merge
+backward:outs learning;
+endwhile (wharves unfairly)
+:preparations stockbroker;
+:ripples stasis; <<task>>
+-> viral nautilus;
+@enduml

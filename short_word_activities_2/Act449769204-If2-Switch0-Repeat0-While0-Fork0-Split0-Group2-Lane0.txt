@@ -1,0 +1,25 @@
+@startuml
+start
+group conveniently or
+if (laker homestead?) then (ennui perfect)
+:selfishly flower;
+if (emphasize without?) then (easel specialize)
+:emperors confident;
+-> pickles inexperienced;
+:minions bridge; <<output>>
+:forbade indignant;
+else (stint chatty)
+:depend after;
+:explosive intolerant; <<save>>
+:hunched tavern;
+endif
+else (truthful lays)
+:wiggled sprang; <<load>>
+kill
+endif
+group farmer debutante
+:narcissistic deacon;
+stop
+end group
+end group
+@enduml

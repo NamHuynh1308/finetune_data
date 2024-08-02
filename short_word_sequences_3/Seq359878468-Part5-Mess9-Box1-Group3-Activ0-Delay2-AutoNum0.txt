@@ -1,0 +1,27 @@
+@startuml
+participant "helm perception" as 0
+participant "jittery leotard" as 1
+participant "credo stations" as 2
+box "ave bellman"
+participant "fad desecrated" as 3
+participant "indignities foibles" as 4
+end box
+== temperament merrier ==
+0 <-> 4: shushing urgently
+...rehearsals adultery...
+1 --//o 2: anyways braved
+4 --> 3: programming canoe
+4 -\\ 2: exams polish
+2 -> 4!! : fascination quantities
+break announcements provided
+3 ->x 4: classroom applying
+3 -> 3: cramped prioritize
+alt madam perks
+4 -// 3: bruise crappy
+par project ended
+...jet bibliography...
+ [<- 1: interpret disappointed
+end
+end
+end
+@enduml

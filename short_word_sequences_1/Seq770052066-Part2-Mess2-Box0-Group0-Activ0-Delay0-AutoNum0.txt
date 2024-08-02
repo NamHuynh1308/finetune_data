@@ -1,0 +1,6 @@
+@startuml
+participant "sick futility" as 0
+0 -> 0: rash frigid
+create participant "aback hissing" as 1
+0 -> 1 : aback hissing
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+box "involves incision"
+participant "wonders fingers" as 0
+participant "beep caterwauling" as 1
+participant "bitchy murderous" as 2
+end box
+== turf lad ==
+1 ->x 2: hazards pressures
+1 <-> 2++ : academy griff
+par ain sympathies
+...dol alliteration...
+0 -\\ 0++ : gull banking
+end
+return crabby fittings
+return raced fashion
+@enduml

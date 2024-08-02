@@ -1,0 +1,19 @@
+@startuml
+participant "bullpen enrolling" as 0
+participant "freezers banks" as 1
+box "embarking noises"
+participant "relevance stops" as 2
+participant "immature taxes" as 3
+end box
+autonumber 9 8
+3 -->x 3: struggling senile
+...awesome firecrackers...
+2 --> 1: chatty behaving
+alt bloodstream prided
+create participant "death blimp" as 4
+2 -> 4 : death blimp
+0 <-> 2: patient impertinent
+else stamps sticker
+1 <-] : ones artichokes
+end
+@enduml

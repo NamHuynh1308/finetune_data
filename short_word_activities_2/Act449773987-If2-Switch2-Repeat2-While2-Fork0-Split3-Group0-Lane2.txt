@@ -1,0 +1,89 @@
+@startuml
+|1| hear roadster
+|2| litter faucets
+split
+-[hidden]->
+:mushrooms cyclone;
+split again
+-[hidden]->
+:occupational vests; <<input>>
+-> bench chickadee;
+split again
+-[hidden]->
+:browse turk; <<task>>
+-> stamps flirting;
+split again
+-[hidden]->
+:futuristic pioneer; <<save>>
+end split
+|2|
+:crowns reactor;
+-> collie impatient;
+|1|
+:shadow commune; <<continuous>>
+switch (artistry foolproof?)
+case (keep amen?)
+repeat
+:penne initiated;
+repeat while (scurvy pic?) is (biz pinheads)
+case (shepherd highlight?)
+if (retreats phenomenon?) then (subservient traumas)
+(elected third) elseif (taunt unresolved?) then (dinks baa)
+:caesar barricaded; <<output>>
+(pantheon accordingly) elseif (topic entertain?) then (pretended honor)
+:praising sprinkles;
+-> grooms psychically;
+(altered degradation) elseif (platonic storm?) then (grosses ilk)
+:later predicting; <<load>>
+endif
+case (stockpile honeymooners?)
+switch (precludes crimson?)
+case (warning durned?)
+:comfy holding; <<input>>
+-> illicit noose;
+case (tuxedo hayseed?)
+:antihistamines spunk;
+case (manic conveyor?)
+:librarian evening; <<continuous>>
+endswitch
+endswitch
+|2|
+while (dawn explain?) is (neatly teetering)
+:molds solemn; <<output>>
+backward:norther hooking;
+endwhile (classmates launch)
+:twit blown;
+if (laughing mood?) then (whisky yielding)
+split
+:dah limitless;
+split again
+:satire deadliest;
+split again
+:policing veer; <<task>>
+split again
+:sickens compromises;
+end split
+split
+:grift nellie;
+split again
+:chickenpox flared;
+split again
+:warfare tattle;
+split again
+:latex efficiently;
+while (att comb?) is (cusp irony)
+backward:maharajah rebels;
+:circulated spectacles;
+endwhile (monogrammed jerky)
+-[hidden]->
+detach
+end split
+kill
+else (haywire moil)
+repeat
+:bozo bedrooms;
+repeat while (commandments monsieur?) is (anarchists daughters)
+-> enhance intimidate;
+kill
+endif
+@enduml

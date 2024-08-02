@@ -1,0 +1,50 @@
+@startuml
+split
+-[hidden]->
+:cooper juice;
+split again
+-[hidden]->
+:footsteps wonder; <<procedure>>
+split again
+-[hidden]->
+if (lithium galvanized?) then (att fainting)
+(peed fumes) elseif (requisite precise?) then (dual nineteenth)
+:veteran bashed; <<save>>
+(replaying veggies) elseif (insult vie?) then (silks responded)
+:encryption disinfect; <<input>>
+endif
+end split
+group chestnuts gauging
+:desperately selective; <<task>>
+-> loosing goulash;
+if (building titties?) then (delighted vanilla)
+:covet unexpressed; <<save>>
+:peels grinning; <<procedure>>
+-> trend trapeze;
+else (snit dater)
+if (demolitions pebble?) then (spencers communique)
+(striking beacon) elseif (killing constructed?) then (injustice procedures)
+:annoys mucus; <<input>>
+(pole discolored) elseif (concurrently twice?) then (swimmingly nod)
+:generate advantages;
+(dementia bounty) elseif (fastball trot?) then (coconut cabernet)
+:law decay; <<procedure>>
+-> oracle revenge;
+(sunflowers sanded) elseif (engage sudden?) then (repertoire cuteness)
+:masterminded jumping;
+-> procure nowhere;
+endif
+:conclusion mu; <<procedure>>
+-> twin indicates;
+split
+:eraser licensed;
+split again
+:calzone teary;
+split again
+:wreaking depicts; <<task>>
+split again
+:retaliated stripping; <<procedure>>
+end split
+endif
+end group
+@enduml

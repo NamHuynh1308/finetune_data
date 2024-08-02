@@ -1,0 +1,8 @@
+@startuml
+start
+:couch frills; <<task>>
+group awakened jailbird
+:shops beneath;
+stop
+end group
+@enduml

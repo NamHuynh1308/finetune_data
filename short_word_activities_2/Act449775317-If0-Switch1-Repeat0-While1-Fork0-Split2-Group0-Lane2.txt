@@ -1,0 +1,43 @@
+@startuml
+|1| diseased notebook
+|2| oil gripe
+split
+-[hidden]->
+:mailboxes earned;
+split again
+-[hidden]->
+:lopper crucifixion; <<procedure>>
+-> giddyup rehearsed;
+split again
+-[hidden]->
+:cremation divorcing; <<procedure>>
+-> orbit pawn;
+end split
+|2|
+:bandit gibberish; <<procedure>>
+-> missing fellers;
+|1|
+:hoes words; <<continuous>>
+split
+:preachy confronts;
+split again
+:reinstate ran; <<procedure>>
+split again
+switch (tile crouching?)
+case (botulism anticipating?)
+:quickly resignation;
+case (uptake surfaces?)
+:veterans apocalypse;
+case (planet chameleon?)
+:muley posted;
+case (sawyer proposals?)
+:sculptor nuts;
+endswitch
+split again
+while (nutrition glaze?) is (parent realizes)
+:dag protest;
+endwhile (coastal divisions)
+:criticized crack;
+end split
+stop
+@enduml

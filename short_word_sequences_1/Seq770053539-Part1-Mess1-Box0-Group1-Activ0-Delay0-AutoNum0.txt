@@ -1,0 +1,6 @@
+@startuml
+participant "dummkopf disagreement" as 0
+alt corky perfume
+0 ->> 0: unexplored toothpick
+end
+@enduml

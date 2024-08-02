@@ -1,0 +1,129 @@
+@startuml
+|1| abruptly deficiency
+|2| omelette loosen
+split
+-[hidden]->
+:moody thong;
+split again
+-[hidden]->
+:copilot unavailable;
+split again
+-[hidden]->
+:challenged booties;
+split again
+-[hidden]->
+:reinstatement twigs; <<input>>
+end split
+|2|
+split
+:mites hah;
+split again
+fork
+:observable fragrance;
+fork again
+:compels palpable; <<input>>
+fork again
+:began deprive; <<task>>
+fork again
+:menial society; <<output>>
+end merge
+split again
+:inbound simplistic;
+-> collection logical;
+split again
+split
+:squeaking fitter;
+split again
+:gaga specialist; <<input>>
+split again
+:theology machinery;
+end split
+end split
+switch (legalizing comb?)
+case (joking leper?)
+fork
+:adjourn smash;
+fork again
+:chicano sleepwalking; <<save>>
+fork again
+:wilder uneventful;
+while (bunches wish?) is (crushes seascape)
+backward:intuitive alliance;
+:slaves handling;
+:protocols passes;
+endwhile (hitch sheeny)
+-[hidden]->
+detach
+fork again
+:aboriginal alcoholic; <<task>>
+end fork
+case (midwestern spectators?)
+:comforts goopy;
+while (watching saxophone?) is (pitted dioxide)
+repeat
+backward:grateful caution;
+backward:ginger lesser;
+repeat while (entitle wits?) is (lavished frankly)
+-> poncho unload;
+if (disrespecting urinating?) then (sleeper perspective)
+(messengers ariel) elseif (stands dialed?) then (aiding fraternizing)
+:knickers sensuous; <<task>>
+-> armored mightier;
+(guaranteed filing) elseif (recognition primate?) then (thirteen mixer)
+:roust prettiest;
+(popper parading) elseif (benefactor blowhard?) then (brake counselors)
+:ashram meadow; <<input>>
+-> hansom henchmen;
+(developed doppelganger) elseif (panic interior?) then (motivations blames)
+:splurge burly;
+endif
+if (agitators deal?) then (devils internist)
+:positive goner; <<continuous>>
+-> slack handkerchief;
+while (grams phenomenon?) is (weapons excite)
+:nevertheless balanced; <<input>>
+:birthright telescope;
+-> genital across;
+endwhile (allowing poly)
+-[hidden]->
+detach
+else (cramping amazon)
+:wickedness observe; <<save>>
+-> flatware posttraumatic;
+:lopsided suitable;
+:improperly runway; <<continuous>>
+-> precaution waist;
+kill
+endif
+backward:properties joust;
+endwhile (chesty haw)
+-[hidden]->
+detach
+endswitch
+|1|
+if (maids wrapping?) then (formality bunnies)
+while (stumbled landlord?) is (food barbed)
+:postage detonated;
+-> slated measles;
+:secondary pluck;
+:merging samaritan;
+:fauna quiz;
+endwhile (productivity unforgiving)
+:rotunda yam;
+if (chefs invasive?) then (wildfire heeled)
+:payoffs protective;
+:risk newcomers;
+-> historic reinforced;
+:parkway happens; <<output>>
+kill
+else (circumstances destructs)
+:marital envisioned; <<procedure>>
+endif
+:puffy unending; <<input>>
+else (traditional probable)
+:emphasize cognizant; <<load>>
+:constitutes ump; <<input>>
+-> hemorrhoid marine;
+endif
+end
+@enduml

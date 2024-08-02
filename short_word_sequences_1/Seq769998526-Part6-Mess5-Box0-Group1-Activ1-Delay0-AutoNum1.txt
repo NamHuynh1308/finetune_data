@@ -1,0 +1,18 @@
+@startuml
+participant "humidor echo" as 0
+participant "vacation edema" as 1
+participant "interact completed" as 2
+participant "block twenties" as 3
+autonumber 7 1
+3 -->x 1: anchovies electric
+create participant "geek switchblade" as 4
+0 -> 4 : geek switchblade
+create participant "reassigning open" as 5
+3 -> 5 : reassigning open
+critical clapped percolating
+3 ->] : candy bid
+0 --> 3++ : fantasy barnyard
+autonumber stop
+end
+return lesson freaked
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "mommies forethought" as 0
+box "billionaire sickos"
+participant "rambling tree" as 1
+participant "flavored pounding" as 2
+end box
+alt haunt throw
+0 -// 2: united approached
+1 <-] : umbilical inbred
+par through ingles
+...shaken got...
+0 ->x 0: sharing doctors
+end
+end
+@enduml

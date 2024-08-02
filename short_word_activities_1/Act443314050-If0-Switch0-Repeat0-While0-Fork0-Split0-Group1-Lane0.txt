@@ -1,0 +1,10 @@
+@startuml
+start
+:fountainhead morrow; <<continuous>>
+:hitched sends; <<load>>
+group capturing ugly
+:aiding assures; <<task>>
+-> squashed committed;
+stop
+end group
+@enduml

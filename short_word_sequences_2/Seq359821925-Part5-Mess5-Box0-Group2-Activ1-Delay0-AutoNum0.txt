@@ -1,0 +1,18 @@
+@startuml
+participant "booted uplink" as 0
+participant "infliction barf" as 1
+participant "bug struggled" as 2
+participant "height taller" as 3
+participant "aha chemistry" as 4
+== standard graves ==
+ [<- 4: reward salads
+3 ->] : stokes paraphernalia
+opt moldings peddling
+4 <-] : homemade thanksgivings
+3 --//o 3++ : devastate tattered
+loop ethnicity assess
+ [<- 3: tweaking built
+end
+end
+return builds simpleton
+@enduml

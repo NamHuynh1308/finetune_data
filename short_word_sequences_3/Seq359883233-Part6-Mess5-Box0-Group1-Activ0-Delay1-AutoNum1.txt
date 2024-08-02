@@ -1,0 +1,19 @@
+@startuml
+participant "pumped daze" as 0
+participant "parasites path" as 1
+participant "brews accountants" as 2
+participant "quaking finch" as 3
+participant "clueless ostrich" as 4
+== offend registered ==
+autonumber 0 1
+par authorized serum
+2 --//o 2: tiresome pickups
+3 <-> 0: regal starvation
+...adjust misunderstood...
+ [<- 0: shingles traveling
+create participant "expressed extort" as 5
+4 -> 5 : expressed extort
+else temporary linens
+0 <-> 1: lear aerobics
+end
+@enduml

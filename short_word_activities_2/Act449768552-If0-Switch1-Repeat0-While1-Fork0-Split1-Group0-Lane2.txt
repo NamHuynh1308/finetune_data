@@ -1,0 +1,31 @@
+@startuml
+|1| rajah weighed
+|2| breaking microchips
+split
+-[hidden]->
+:measuring reconsidered;
+split again
+-[hidden]->
+switch (fretting all?)
+case (suddenly wet?)
+:achievement dreary;
+while (morgan mustard?) is (thinks wrench)
+:proceeds pheromones;
+endwhile (grubby patrolled)
+-[hidden]->
+detach
+case (newfound infinite?)
+:informer housing; <<continuous>>
+-> apparently cornering;
+endswitch
+split again
+-[hidden]->
+:heather clumsy; <<load>>
+end split
+:loads treaties; <<save>>
+|2|
+:relic freeing;
+|1|
+:stable stroll;
+end
+@enduml

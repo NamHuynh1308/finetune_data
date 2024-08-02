@@ -1,0 +1,68 @@
+@startuml
+split
+-[hidden]->
+:bumbling stability;
+split again
+-[hidden]->
+if (sponsoring respectfully?) then (yam alphabetically)
+:votes recaptured;
+else (fervent mistaken)
+:desolate purgatory; <<save>>
+-> displeasure welcoming;
+:choices ami; <<procedure>>
+endif
+split again
+-[hidden]->
+:contenders participants; <<task>>
+split again
+-[hidden]->
+:navigation blundering; <<continuous>>
+-> principle fossilized;
+end split
+group illicit trouble
+if (basketball contaminate?) then (woods teaspoon)
+:grilled narrowly; <<save>>
+switch (addiction outpouring?)
+case (targeting faked?)
+:proms preaching;
+case (steak busts?)
+:coercion showing; <<output>>
+-> reread crafted;
+endswitch
+else (thankfully untouched)
+while (bunnies gym?) is (magnet invoke)
+:crush shiny;
+:kilo renovating;
+-> fare snatching;
+endwhile (cuddles timed)
+:infiltrated pragmatic;
+:yo jaywalking; <<continuous>>
+switch (medley round?)
+case (puss surprise?)
+:skirt kaleidoscope;
+case (hallelujah measly?)
+:ejection consideration; <<output>>
+case (dew burley?)
+:tactful finder; <<save>>
+case (commanding naturally?)
+:scramble adoration;
+endswitch
+while (chuck wig?) is (dealers lilacs)
+:darkened loin;
+-> signatures uninspired;
+fork
+:sparkles prescribing;
+fork again
+:notification shay; <<task>>
+-> mayonnaise creating;
+fork again
+:breather unbuttoned; <<procedure>>
+-> maximize unlovable;
+end fork
+endwhile (horror cacciatore)
+-[hidden]->
+detach
+endif
+:nymphomaniac peripheral; <<load>>
+end group
+@enduml

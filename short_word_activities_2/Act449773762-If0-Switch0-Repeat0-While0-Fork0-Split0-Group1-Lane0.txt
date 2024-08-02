@@ -1,0 +1,7 @@
+@startuml
+start
+group canter renovations
+:lacy youngest; <<procedure>>
+stop
+end group
+@enduml

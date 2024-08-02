@@ -1,0 +1,16 @@
+@startuml
+participant "flack secondly" as 0
+participant "hairdressers remodelling" as 1
+participant "poorest consistent" as 2
+participant "inflammation voila" as 3
+participant "pollard nacho" as 4
+autonumber 3 6
+ [-> 2: danger evolutionary
+2 -> 1: exclusive sociable
+...severely refreshments...
+4 -> 0: feat glanced
+1 -> 2++ : indescribable root
+autonumber stop
+2 ->> 1: junkies milestone
+return trackers pointed
+@enduml

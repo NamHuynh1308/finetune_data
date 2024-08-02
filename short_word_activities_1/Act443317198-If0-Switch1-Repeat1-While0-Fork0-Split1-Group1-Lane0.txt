@@ -1,0 +1,29 @@
+@startuml
+split
+-[hidden]->
+:fundamentalist latter;
+split again
+-[hidden]->
+switch (salesmen encourage?)
+case (pours pastor?)
+:feel hearted;
+case (fueled characters?)
+:wynn gemma;
+case (avoiding important?)
+:endorsements whet;
+endswitch
+split again
+-[hidden]->
+repeat
+:paradigm reprisal;
+:skates gale;
+repeat while (platelets fester?) is (fasten axle)
+split again
+-[hidden]->
+:salina resort; <<load>>
+end split
+group crowing contraceptives
+:drawing someone; <<load>>
+stop
+end group
+@enduml

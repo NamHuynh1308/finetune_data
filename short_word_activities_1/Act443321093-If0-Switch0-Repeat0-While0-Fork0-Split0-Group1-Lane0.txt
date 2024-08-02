@@ -1,0 +1,6 @@
+@startuml
+group sedative easy
+:superman quotation; <<load>>
+stop
+end group
+@enduml

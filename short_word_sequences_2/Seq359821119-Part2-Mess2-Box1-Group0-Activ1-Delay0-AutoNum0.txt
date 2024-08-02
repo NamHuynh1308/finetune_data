@@ -1,0 +1,10 @@
+@startuml
+box "forfeits puck"
+participant "learning bully" as 0
+participant "nose scavenging" as 1
+end box
+== ease inspirational ==
+0 -> 0: punitive procrastinate
+0 <-> 1++ : misnomer solved
+return stated slack
+@enduml
