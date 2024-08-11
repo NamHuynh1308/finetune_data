@@ -1,0 +1,11 @@
+@startuml
+box "climb imbeciles"
+participant "hide pele" as 0
+box "treated static"
+participant "verify dome" as 1
+end box
+end box
+autonumber 3 5
+0 -\\ 1: koi advantage
+ [<- 0: serious massages
+@enduml

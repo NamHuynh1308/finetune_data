@@ -1,0 +1,16 @@
+@startuml
+participant "colonial planing" as 0
+box "fists yakking"
+participant "dolly addendum" as 1
+end box
+== filth unofficial ==
+1 <-> 1: refugees temporarily
+create participant "prefers track" as 2
+0 -> 2 : prefers track
+...doth paramedics...
+1 -> 0!! : comfortable cushion
+2 -\\ 2++ : cooper fen
+...noodle garland...
+ [-> 2: mace dreidel
+return beats attendant
+@enduml

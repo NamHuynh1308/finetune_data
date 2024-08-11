@@ -1,0 +1,10 @@
+@startuml
+participant "jumps seizing" as 0
+== bland indication ==
+create participant "queens cascade" as 1
+0 -> 1 : queens cascade
+0 ->o 0: eloquence computers
+0 -\\ 0: gimbal debacle
+0 ->] : brags ledge
+0 -->x 1: pressure copy
+@enduml

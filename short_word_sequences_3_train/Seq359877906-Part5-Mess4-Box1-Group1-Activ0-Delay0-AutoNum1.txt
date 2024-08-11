@@ -1,0 +1,16 @@
+@startuml
+box "syringe miggs"
+participant "whore musketeers" as 0
+participant "landscape wussy" as 1
+participant "arrive dykes" as 2
+end box
+participant "ratty emporium" as 3
+autonumber 1 0
+1 -> 2: deduct confinement
+create participant "griffin fine" as 4
+2 -> 4 : griffin fine
+0 -> 3: protest racer
+critical corrupt amateur
+3 ->] : coastal nailed
+end
+@enduml

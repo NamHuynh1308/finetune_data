@@ -1,0 +1,10 @@
+@startuml
+participant "chevy utensils" as 0
+create participant "sleeps daphne" as 1
+0 -> 1 : sleeps daphne
+1 ->x 1: consecutive mu
+0 ->> 1++ : sincerely wire
+...forged impudence...
+1 --> 1: cartridge fray
+return seized traditions
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "performer hiker" as 0
+participant "amigos collected" as 1
+participant "ideals captivating" as 2
+autonumber 8 8
+critical cabs repairs
+2 -> 0!! : upgrading alerting
+0 -> 0: appropriately might
+autonumber stop
+1 -> 0++ : dormitory back
+autonumber resume
+end
+return refuse sedation
+@enduml

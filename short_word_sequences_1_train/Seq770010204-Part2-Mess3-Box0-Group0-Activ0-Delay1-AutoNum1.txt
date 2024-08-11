@@ -1,0 +1,9 @@
+@startuml
+participant "fulcrum greatest" as 0
+autonumber 0 6
+create participant "gag smacked" as 1
+0 -> 1 : gag smacked
+...page exiting...
+ [-> 0: ills chartreuse
+ [-> 1: possess downstream
+@enduml

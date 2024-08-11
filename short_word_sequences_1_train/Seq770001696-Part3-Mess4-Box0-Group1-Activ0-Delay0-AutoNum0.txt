@@ -1,0 +1,12 @@
+@startuml
+participant "phasing fusilli" as 0
+participant "officials anniversary" as 1
+participant "steps privy" as 2
+== trips vessel ==
+1 -> 1: xerox bidder
+0 --//o 2: latino irrational
+par lawsuit evidenced
+0 -> 2: rescues merchandising
+0 ->> 2: spectacles yammer
+end
+@enduml

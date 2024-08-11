@@ -1,0 +1,25 @@
+@startuml
+participant "implement pardons" as 0
+participant "pinball turks" as 1
+box "crematorium rotisserie"
+participant "cheddar plaguing" as 2
+participant "degenerate minute" as 3
+participant "claustrophobic formulas" as 4
+end box
+1 --//o 0: hemline truss
+critical technicalities galaxy
+...eng cram...
+0 -> 3: mall work
+alt napkins lager
+...tracking convey...
+ [<- 1: silken sterner
+2 <-> 0: concentration helicopter
+1 -\\ 2: crude myself
+else chickenpox supermarkets
+4 <-> 4: expanding measly
+end
+...concord identifying...
+0 <-> 3: traumatizing manufactures
+else unplug embellished
+end
+@enduml

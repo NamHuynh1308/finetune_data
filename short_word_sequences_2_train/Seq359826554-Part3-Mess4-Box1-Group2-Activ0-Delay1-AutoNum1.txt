@@ -1,0 +1,17 @@
+@startuml
+participant "nurturing organism" as 0
+participant "hamper mustache" as 1
+box "sakes yuppies"
+participant "doll assisting" as 2
+end box
+autonumber 8 0
+loop advises slapping
+2 ->] : stuffing axel
+1 ->> 2: kidder know
+end
+...sake tomcat...
+0 ->] : remodeled chipping
+loop oriented lavished
+1 ->] : helms orator
+end
+@enduml

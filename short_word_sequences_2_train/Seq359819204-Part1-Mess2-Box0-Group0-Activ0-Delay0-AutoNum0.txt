@@ -1,0 +1,6 @@
+@startuml
+participant "rendezvous reigning" as 0
+== rock littered ==
+0 -->x 0: cassette norland
+0 --//o 0: constructed dweller
+@enduml

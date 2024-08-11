@@ -1,0 +1,22 @@
+@startuml
+participant "hardy spiked" as 0
+participant "critter blazes" as 1
+box "disagrees wop"
+participant "ingenue indiscretion" as 2
+end box
+== scanners horrified ==
+1 -// 1++ : agitated temptation
+create participant "concrete author" as 3
+1 -> 3 : concrete author
+return slim compost
+...whistler temperature...
+1 <-> 3++ : psychiatric jet
+loop storm coherent
+create participant "dewars auras" as 4
+3 -> 4 : dewars auras
+3 --> 2++ : expenses hamburger
+1 ->] : ag investigators
+return liking disasters
+end
+return bombed flood
+@enduml

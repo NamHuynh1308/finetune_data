@@ -1,0 +1,23 @@
+@startuml
+participant "slant bygones" as 0
+box "garb our"
+participant "barn painting" as 1
+participant "posing untrustworthy" as 2
+participant "bridesmaids empathy" as 3
+end box
+3 -> 1: snowflake welfare
+opt dandelions quixote
+3 ->] : ostrich sleeps
+3 -\\ 1: fixer steering
+end
+3 -> 0: lite testicles
+loop paid chad
+3 --> 1: tory fabulously
+opt signifies commonwealth
+1 <-] : hots bilge
+create participant "avatars graphite" as 4
+3 -> 4 : avatars graphite
+else bowel silenced
+end
+end
+@enduml

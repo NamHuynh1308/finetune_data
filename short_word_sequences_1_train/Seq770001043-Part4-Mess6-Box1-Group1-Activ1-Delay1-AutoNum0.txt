@@ -1,0 +1,19 @@
+@startuml
+participant "placid console" as 0
+box "hydrolase banks"
+participant "irony complain" as 1
+participant "deluxe automatically" as 2
+end box
+== medicaid soaps ==
+create participant "dried tornado" as 3
+2 -> 3 : dried tornado
+...joints calzone...
+0 -> 2: ringing cultivated
+par sadder mental
+3 ->] : postponing jelly
+3 -\\ 0++ : mattered stave
+3 -> 2!! : skittish mite
+return applauded laundry
+3 -> 1: madmen elected
+end
+@enduml

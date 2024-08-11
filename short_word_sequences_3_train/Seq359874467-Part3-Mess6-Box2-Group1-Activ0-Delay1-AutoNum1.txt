@@ -1,0 +1,21 @@
+@startuml
+box "braille allegedly"
+participant "byline troop" as 0
+participant "unworthy coveting" as 1
+end box
+box "locale fancied"
+participant "experimented conversationalist" as 2
+end box
+autonumber 2 8
+1 -> 2: slayer theology
+0 -> 2: contents mortality
+0 -> 1!! : starter yak
+autonumber stop
+0 --> 1: heroic engineering
+1 <-] : unwelcome holidays
+autonumber resume
+break peters impossible
+...signify existentialist...
+ [-> 2: buyout bamboozled
+end
+@enduml

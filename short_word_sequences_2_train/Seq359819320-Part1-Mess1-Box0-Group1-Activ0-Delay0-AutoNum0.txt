@@ -1,0 +1,6 @@
+@startuml
+participant "rancho degenerate" as 0
+break conceal eldest
+ [-> 0: oranges cooks
+end
+@enduml

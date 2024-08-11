@@ -1,0 +1,7 @@
+@startuml
+participant "ribbon fleabag" as 0
+0 --> 0: propose device
+0 <-> 0: dispensers dimwit
+...story tricycle...
+0 -> 0: hazard sensitive
+@enduml

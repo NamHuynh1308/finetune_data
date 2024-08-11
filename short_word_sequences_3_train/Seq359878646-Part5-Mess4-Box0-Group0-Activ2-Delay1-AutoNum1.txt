@@ -1,0 +1,17 @@
+@startuml
+participant "bethesda hockey" as 0
+participant "soon best" as 1
+participant "possessing euros" as 2
+participant "redress snickers" as 3
+== buttery shiver ==
+autonumber 1 0
+create participant "laptop cyborg" as 4
+0 -> 4 : laptop cyborg
+2 <-> 2++ : mistook bree
+autonumber stop
+1 -> 3: folder exquisite
+return appearing embezzled
+...marking tightening...
+1 <-> 0++ : douche continuous
+return stressful sobered
+@enduml

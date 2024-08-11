@@ -1,0 +1,18 @@
+@startuml
+box "deputy denominational"
+participant "rentals huffing" as 0
+participant "grin griffins" as 1
+end box
+autonumber 0 10
+opt chopsticks understand
+0 -> 0: refused pedicure
+0 -\\ 0: optional absences
+...dizziness withholding...
+0 <-> 1: abbey democrat
+autonumber stop
+1 ->o 0: commands portions
+...rainstorm need...
+0 -> 1: shut carton
+autonumber resume
+end
+@enduml

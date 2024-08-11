@@ -1,0 +1,8 @@
+@startuml
+box "hale flee"
+participant "vomit strewn" as 0
+end box
+== gobble release ==
+create participant "overhead omelette" as 1
+0 -> 1 : overhead omelette
+@enduml

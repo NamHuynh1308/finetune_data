@@ -1,0 +1,21 @@
+@startuml
+participant "timely productivity" as 0
+participant "cottage textbook" as 1
+participant "data debonair" as 2
+autonumber 0 3
+1 -\\ 0: dangerous geriatric
+0 -> 0!! : planetary career
+2 -> 0: searched dicky
+create participant "urns detectors" as 3
+0 -> 3 : urns detectors
+par filthy bits
+3 ->x 3++ : annals entirety
+1 -\\ 3: thrive exporter
+autonumber stop
+else crowing fearful
+...recordings serum...
+ [-> 3: underestimated jelly
+return automated mixer
+autonumber resume
+end
+@enduml

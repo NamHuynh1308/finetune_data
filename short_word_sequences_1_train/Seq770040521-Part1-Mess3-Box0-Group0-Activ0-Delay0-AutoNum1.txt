@@ -1,0 +1,10 @@
+@startuml
+participant "opposing span" as 0
+autonumber 8 5
+0 ->] : softness chaplain
+autonumber stop
+0 --> 0: caste pavilion
+autonumber resume
+0 ->x 0: yapping freezes
+autonumber stop
+@enduml

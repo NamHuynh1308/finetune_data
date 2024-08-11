@@ -1,0 +1,29 @@
+@startuml
+participant "pierced harem" as 0
+participant "endings ache" as 1
+participant "tippy call" as 2
+participant "lube fruitful" as 3
+participant "pining traipse" as 4
+autonumber 4 1
+alt automatically patented
+1 <-> 0: pajamas wily
+autonumber stop
+create participant "intoxicated systemic" as 5
+0 -> 5 : intoxicated systemic
+else appointments rubs
+3 -> 3: monologue bossed
+1 -> 0++ : exes halibut
+autonumber resume
+opt academic marshal
+4 -\\ 3: assess ashtray
+...chance ruffled...
+3 -> 2: sickening complexity
+end
+ [<- 3: committing darkroom
+4 -> 4: wily sterilize
+return offered shows
+...ducky orphaned...
+ [-> 5: critically signature
+else fedora tours
+end
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+box "evolve swimsuits"
+participant "dissipate firestorm" as 0
+participant "holing weighing" as 1
+participant "confederate settles" as 2
+end box
+box "newlyweds gazed"
+participant "burglar ruder" as 3
+box "raids lame"
+participant "narcissist weary" as 4
+end box
+end box
+autonumber 3 1
+2 ->o 0++ : dental shovel
+3 -> 2: seashell extended
+return callers tuition
+4 -> 3++ : dipping balls
+...groveling itinerary...
+4 -// 0: oversight explanatory
+return one pissed
+autonumber stop
+3 -->x 2++ : uproot cadet
+0 ->o 4: intellect guys
+return otherworldly cranial
+@enduml

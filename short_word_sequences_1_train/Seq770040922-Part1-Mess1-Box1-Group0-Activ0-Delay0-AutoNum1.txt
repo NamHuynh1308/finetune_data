@@ -1,0 +1,7 @@
+@startuml
+box "adapted begs"
+participant "enzyme realise" as 0
+end box
+autonumber 10 8
+0 -> 0: reunite spokesperson
+@enduml

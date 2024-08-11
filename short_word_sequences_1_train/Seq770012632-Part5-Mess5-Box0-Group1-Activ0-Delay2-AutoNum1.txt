@@ -1,0 +1,19 @@
+@startuml
+participant "pitfalls failed" as 0
+participant "sporting coward" as 1
+participant "cables caff" as 2
+participant "haw rhythm" as 3
+autonumber 8 2
+1 -> 0: spur horrendous
+create participant "vase burning" as 4
+3 -> 4 : vase burning
+autonumber stop
+opt main endearing
+...physiologically chopped...
+0 --//o 1: adjective unsanitary
+2 -// 1: disappointment solely
+...travellers leather...
+4 -> 1!! : cooties gateway
+autonumber resume
+end
+@enduml

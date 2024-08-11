@@ -1,0 +1,18 @@
+@startuml
+participant "assisted maria" as 0
+participant "sitcoms cabbage" as 1
+participant "meanie evident" as 2
+autonumber 2 3
+0 -> 1: inconvenient toxoplasmosis
+par alongside bare
+1 -> 0: vocal keel
+0 -> 1: nominee skipped
+else organize crippled
+0 -\\ 0: adjective substantial
+else preceded alerted
+...sunspots headaches...
+2 <-> 0++ : specified stash
+0 --//o 0: bellybutton promise
+return physician glucose
+end
+@enduml

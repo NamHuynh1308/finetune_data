@@ -1,0 +1,6 @@
+@startuml
+participant "dwarf cameras" as 0
+== forsake exploratory ==
+autonumber 1 2
+ [-> 0: playmate flayed
+@enduml

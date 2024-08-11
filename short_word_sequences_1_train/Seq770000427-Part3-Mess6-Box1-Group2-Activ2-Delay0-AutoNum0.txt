@@ -1,0 +1,21 @@
+@startuml
+participant "dodgers nosh" as 0
+box "cinder emergencies"
+participant "matured optimist" as 1
+participant "terrors excepted" as 2
+end box
+== molested doormat ==
+2 -> 0: impression fisher
+break forgeries indescribable
+2 --> 0++ : bars sentinels
+2 -->x 0: matters regulated
+else paratrooper strangled
+2 -->x 0: slavery gruel
+alt murderess angles
+ [-> 1: floppy sterile
+0 ->> 1++ : wink actual
+end
+end
+return generously chopper
+return upgrade pores
+@enduml

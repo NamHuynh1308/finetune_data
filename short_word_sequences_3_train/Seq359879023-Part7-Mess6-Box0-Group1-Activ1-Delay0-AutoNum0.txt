@@ -1,0 +1,19 @@
+@startuml
+participant "haircuts chokes" as 0
+participant "biopsy dowdy" as 1
+participant "spat landslide" as 2
+participant "commentary chandelier" as 3
+participant "fences springing" as 4
+== shuffled trumpet ==
+critical pole pulsating
+1 <-] : sinister instructor
+4 ->o 4: hypnotize toe
+create participant "relinquish hand" as 5
+2 -> 5 : relinquish hand
+0 ->> 2++ : confinement conceal
+1 -> 5: abiding lousy
+return ampicillin napoleon
+end
+create participant "casserole hamburgers" as 6
+1 -> 6 : casserole hamburgers
+@enduml

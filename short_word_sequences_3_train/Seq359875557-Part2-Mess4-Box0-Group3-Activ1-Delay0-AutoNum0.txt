@@ -1,0 +1,15 @@
+@startuml
+participant "communicate pressure" as 0
+loop stashed spruce
+0 ->x 0++ : brit celebrates
+par disinherited publisher
+0 -\\ 0: magnum unwieldy
+return revenue rabbits
+0 <-] : jamming sympathetic
+critical smoky boilers
+create participant "raven peeks" as 1
+0 -> 1 : raven peeks
+end
+end
+end
+@enduml

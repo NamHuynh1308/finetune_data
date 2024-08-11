@@ -1,0 +1,12 @@
+@startuml
+participant "pitch worries" as 0
+participant "obstacles tidbits" as 1
+participant "swatches slough" as 2
+== hallowed populations ==
+autonumber 1 8
+1 ->o 0++ : lash nicks
+autonumber stop
+1 <-] : uproot oblique
+0 ->> 1: cooped seriousness
+return arraignment pathologist
+@enduml

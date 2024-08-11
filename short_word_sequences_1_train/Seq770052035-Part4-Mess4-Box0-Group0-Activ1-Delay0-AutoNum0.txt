@@ -1,0 +1,12 @@
+@startuml
+participant "hiring comedy" as 0
+participant "toxicology zany" as 1
+participant "sunflower colonials" as 2
+participant "advancements bullet" as 3
+== shift depraved ==
+0 <-> 2: custodial jogger
+1 ->o 1: promptly toenail
+2 ->> 2++ : meticulous plumbers
+2 ->o 0: crash withdrawn
+return burying inevitably
+@enduml

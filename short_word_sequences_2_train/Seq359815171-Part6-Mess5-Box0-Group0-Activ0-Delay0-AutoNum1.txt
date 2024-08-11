@@ -1,0 +1,14 @@
+@startuml
+participant "reelection emery" as 0
+participant "mason extorting" as 1
+participant "restaurant inspirational" as 2
+participant "appease inheriting" as 3
+participant "waterbed detonates" as 4
+autonumber 0 10
+create participant "unannounced assumptions" as 5
+0 -> 5 : unannounced assumptions
+1 -> 4: bottomed barred
+5 -> 0: trends teaching
+0 <-> 1: microscopic paving
+1 --> 1: hangman million
+@enduml

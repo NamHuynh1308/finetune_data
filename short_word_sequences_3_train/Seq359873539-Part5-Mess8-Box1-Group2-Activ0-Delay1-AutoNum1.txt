@@ -1,0 +1,29 @@
+@startuml
+participant "relegated solemn" as 0
+participant "subjects leaks" as 1
+participant "synthesis spectacular" as 2
+box "interviewing bunk"
+participant "titles censorship" as 3
+end box
+autonumber 6 1
+opt judicial saga
+1 -\\ 1: harps cauliflower
+autonumber stop
+2 ->] : station repeat
+autonumber resume
+...foggiest fluttering...
+ [<- 3: sweeping longtime
+autonumber stop
+else invested misdemeanors
+0 --> 3: sitter unfolds
+autonumber resume
+0 -> 1: sober teacher
+3 <-] : thermonuclear spacing
+autonumber stop
+create participant "burner uninspired" as 4
+3 -> 4 : burner uninspired
+end
+opt emperors homemade
+1 -// 0: designation hath
+end
+@enduml

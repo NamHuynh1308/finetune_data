@@ -1,0 +1,17 @@
+@startuml
+participant "exclamation chubby" as 0
+participant "dickie dynamite" as 1
+participant "disco hawker" as 2
+participant "dissent hypnotize" as 3
+autonumber 7 10
+1 ->] : compatible dozer
+1 <-> 2: loan dated
+0 -> 2: unprincipled anvil
+...whittling allowable...
+2 --> 1: throbbing turk
+2 --> 3: medic cohesion
+autonumber stop
+3 ->] : golden chaperoned
+autonumber resume
+2 ->o 3: psychotherapist structure
+@enduml

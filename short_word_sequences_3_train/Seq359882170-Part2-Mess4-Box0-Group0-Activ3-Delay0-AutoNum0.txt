@@ -1,0 +1,11 @@
+@startuml
+participant "buyers exquisite" as 0
+participant "value competitor" as 1
+1 ->> 1: disappoints boysenberry
+1 ->x 0++ : sideshow seen
+1 ->> 1++ : filibuster epiphany
+1 -\\ 0++ : editor waxed
+return adventurous agitated
+return suffocation meadows
+return wallop recaptured
+@enduml

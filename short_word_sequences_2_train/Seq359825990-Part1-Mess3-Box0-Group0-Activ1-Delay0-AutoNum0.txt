@@ -1,0 +1,8 @@
+@startuml
+participant "neurotic grave" as 0
+== unintentionally visibility ==
+0 -->x 0++ : caution newsstand
+0 --> 0: surgeons sending
+0 --> 0: misdeeds sweethearts
+return senses dioxide
+@enduml

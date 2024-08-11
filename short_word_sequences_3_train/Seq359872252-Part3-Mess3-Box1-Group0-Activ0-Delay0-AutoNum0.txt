@@ -1,0 +1,11 @@
+@startuml
+box "yelling queasy"
+participant "television sill" as 0
+participant "commercialism lice" as 1
+participant "exemptions frogs" as 2
+end box
+== jiggle popping ==
+ [<- 1: onward brazil
+1 ->x 2: fervent surfing
+2 -> 1: anatomically boston
+@enduml

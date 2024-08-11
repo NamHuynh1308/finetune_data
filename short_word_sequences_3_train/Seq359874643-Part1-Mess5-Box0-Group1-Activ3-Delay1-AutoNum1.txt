@@ -1,0 +1,18 @@
+@startuml
+participant "specifics mister" as 0
+autonumber 2 6
+0 <-> 0: bookman out
+autonumber stop
+break detailed impulses
+0 ->x 0++ : halitosis decaf
+0 -> 0++ : smashed plow
+autonumber resume
+...chewy incinerator...
+0 -->x 0++ : resonance halls
+else decline lout
+0 ->o 0: drumstick redefine
+return nonnegotiable mimosas
+end
+return information hisself
+return comment prosecute
+@enduml

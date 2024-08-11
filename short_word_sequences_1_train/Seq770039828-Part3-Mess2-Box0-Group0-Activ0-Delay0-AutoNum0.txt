@@ -1,0 +1,7 @@
+@startuml
+participant "ducks boundary" as 0
+participant "rewrite outsiders" as 1
+1 --> 0: runes thong
+create participant "wad misgivings" as 2
+0 -> 2 : wad misgivings
+@enduml

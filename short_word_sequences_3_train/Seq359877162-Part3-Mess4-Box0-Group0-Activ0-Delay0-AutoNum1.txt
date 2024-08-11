@@ -1,0 +1,12 @@
+@startuml
+participant "lima spa" as 0
+participant "faded batty" as 1
+participant "nomadic degradation" as 2
+autonumber 5 7
+2 -> 0: spartan carmen
+autonumber stop
+1 ->x 2: rattlesnake literal
+2 ->] : lurk exploit
+autonumber resume
+1 ->> 0: tic snowflake
+@enduml

@@ -1,0 +1,28 @@
+@startuml
+participant "inevitability scalpel" as 0
+participant "palomino pare" as 1
+participant "manipulates indulgence" as 2
+box "sobered selfish"
+participant "nifty attaboy" as 3
+participant "louie humidor" as 4
+end box
+== patently no ==
+alt transports asylum
+1 -> 2: flashing philosophical
+create participant "crisp latched" as 5
+2 -> 5 : crisp latched
+opt whereabouts link
+...groove etched...
+3 -// 5: scotch retrograde
+...prompter boar...
+3 ->x 3++ : scientists protocols
+4 -> 3: satanic helix
+else thirtieth roulette
+break trifecta malfunctions
+create participant "yes communicated" as 6
+4 -> 6 : yes communicated
+end
+end
+end
+return insisting snuck
+@enduml

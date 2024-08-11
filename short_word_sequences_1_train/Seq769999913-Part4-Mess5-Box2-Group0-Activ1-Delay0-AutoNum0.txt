@@ -1,0 +1,16 @@
+@startuml
+box "ivory mote"
+participant "precludes nonexistent" as 0
+participant "diddly thrill" as 1
+participant "gridlock offence" as 2
+box "awol staked"
+participant "earlier vests" as 3
+end box
+end box
+1 -\\ 1++ : organs spring
+1 <-] : bicker responsibly
+ [<- 3: variable loss
+ [<- 2: contradiction disregarded
+3 <-] : forgetting nanny
+return pure politician
+@enduml

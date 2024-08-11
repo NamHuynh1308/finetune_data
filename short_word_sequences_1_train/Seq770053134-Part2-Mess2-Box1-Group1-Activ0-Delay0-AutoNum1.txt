@@ -1,0 +1,12 @@
+@startuml
+participant "telepathic lunches" as 0
+box "torch vessels"
+participant "crapped sex" as 1
+end box
+autonumber 10 5
+0 ->> 1: justified digesting
+autonumber stop
+par behind octane
+1 -> 1: sacrifice warming
+end
+@enduml

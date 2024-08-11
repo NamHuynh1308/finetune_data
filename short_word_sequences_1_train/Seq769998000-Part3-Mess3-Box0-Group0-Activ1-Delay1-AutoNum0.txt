@@ -1,0 +1,11 @@
+@startuml
+participant "editing darling" as 0
+participant "explanation menage" as 1
+participant "farewells bearer" as 2
+== reserving decided ==
+2 -> 2++ : genre tykes
+1 ->x 0: strangulation fronts
+return games undisputed
+...named settles...
+1 <-> 2: remembrance beta
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "overnight probes" as 0
+participant "mopping rumour" as 1
+box "erased washcloth"
+participant "teens sleepovers" as 2
+end box
+== collaborate bed ==
+2 <-] : art ratty
+...diverted doppelganger...
+1 -// 0++ : brit brave
+...ruth hillcrest...
+2 -> 2: defenseless bang
+return bagged plenty
+...twisty vampire...
+1 -> 1: unbeknownst portrays
+@enduml

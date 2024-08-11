@@ -1,0 +1,18 @@
+@startuml
+box "schedules scar"
+participant "fixed harbors" as 0
+end box
+autonumber 8 1
+0 -->x 0: nautilus trading
+critical fainted rounds
+...leans likelihood...
+0 ->> 0: pints developments
+loop coney charred
+...catcher nightlife...
+0 ->] : overprotective schnitzel
+0 -\\ 0: dub distress
+0 -> 0: rhinestone mikes
+else weakening prayers
+end
+end
+@enduml

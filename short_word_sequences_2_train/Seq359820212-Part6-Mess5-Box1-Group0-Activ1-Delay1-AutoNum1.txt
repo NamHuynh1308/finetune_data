@@ -1,0 +1,19 @@
+@startuml
+participant "wreaks nighttime" as 0
+participant "insatiable nutmeg" as 1
+participant "programmer herniated" as 2
+participant "recanting charm" as 3
+box "personalize nosh"
+participant "die realise" as 4
+end box
+autonumber 3 1
+4 ->o 2++ : impatience ceremony
+create participant "distinction restorative" as 5
+4 -> 5 : distinction restorative
+autonumber stop
+...hypodermic swoops...
+5 -->x 1: tournaments contributions
+2 -\\ 1: sums canvas
+3 -> 1: rail fueling
+return belligerent marquis
+@enduml

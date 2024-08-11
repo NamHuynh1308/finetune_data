@@ -1,0 +1,19 @@
+@startuml
+participant "bike relying" as 0
+participant "on real" as 1
+box "goes lured"
+participant "cabinets startling" as 2
+end box
+== glitter chomp ==
+0 -> 1++ : syne disoriented
+1 <-] : interrogating warn
+opt repairs inscription
+1 ->> 0: matrix harms
+loop wolfram delaying
+0 --//o 2++ : knotted horn
+0 -> 2: sup padlock
+return subjecting bookshelf
+end
+end
+return brightest greenhouse
+@enduml

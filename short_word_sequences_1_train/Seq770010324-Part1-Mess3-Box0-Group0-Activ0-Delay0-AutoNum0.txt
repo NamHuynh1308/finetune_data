@@ -1,0 +1,6 @@
+@startuml
+participant "rehearsed wedges" as 0
+0 ->> 0: skull shin
+0 -> 0: chap dim
+ [-> 0: glazed slaw
+@enduml

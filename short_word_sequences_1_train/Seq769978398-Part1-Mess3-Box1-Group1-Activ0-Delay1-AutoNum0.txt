@@ -1,0 +1,11 @@
+@startuml
+box "meanie stationary"
+participant "insulting activating" as 0
+end box
+0 -> 0: princesses procedural
+alt mandrake outgrow
+0 -> 0!! : ensure trumps
+...modus autonomy...
+0 ->x 0: premium basket
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "regrets hummer" as 0
+box "headlong shelly"
+participant "rattled screens" as 1
+end box
+== sidle instruments ==
+autonumber 1 8
+ [<- 1: jurors butterscotch
+autonumber stop
+par thickening recycle
+1 -> 0: testify disappeared
+autonumber resume
+end
+@enduml

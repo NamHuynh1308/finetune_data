@@ -1,0 +1,22 @@
+@startuml
+box "anchor fatal"
+participant "fireworks literally" as 0
+box "comparatively oldie"
+participant "values administrators" as 1
+end box
+end box
+autonumber 7 10
+opt dub flown
+1 -\\ 0++ : troublemaker stunk
+create participant "gassed corporate" as 2
+1 -> 2 : gassed corporate
+autonumber stop
+1 -> 0: emphatic substantiate
+autonumber resume
+else proxy financed
+...outnumber sorcerers...
+0 -> 1!! : microphone quits
+else noon clasp
+end
+return diggers kudos
+@enduml

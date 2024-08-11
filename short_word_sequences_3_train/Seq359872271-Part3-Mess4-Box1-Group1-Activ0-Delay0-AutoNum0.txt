@@ -1,0 +1,13 @@
+@startuml
+participant "bill banjo" as 0
+box "clandestine authors"
+participant "prowler spilling" as 1
+participant "evidenced holdup" as 2
+end box
+ [<- 1: whichever chicks
+1 -> 2!! : redid incognito
+break cookie dills
+2 -// 0: hatch arty
+2 -> 2: hercules cola
+end
+@enduml

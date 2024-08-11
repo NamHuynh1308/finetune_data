@@ -1,0 +1,9 @@
+@startuml
+participant "exterior unlimited" as 0
+== merrily roulette ==
+autonumber 2 5
+0 -\\ 0: nerdy clay
+create participant "penguin ambulance" as 1
+0 -> 1 : penguin ambulance
+1 -->x 0: nachos category
+@enduml

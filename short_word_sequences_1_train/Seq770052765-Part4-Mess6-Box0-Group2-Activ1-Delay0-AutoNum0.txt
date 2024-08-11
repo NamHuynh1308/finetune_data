@@ -1,0 +1,18 @@
+@startuml
+participant "chronically wagon" as 0
+participant "truer pawnshop" as 1
+participant "dolly gumption" as 2
+participant "jawbone smarts" as 3
+== justifies architect ==
+loop flash lynch
+1 <-] : gerbil benefits
+0 -// 0++ : kaon marks
+end
+2 -// 3: nelly pinks
+return unleaded calmed
+2 ->x 1: enormous pact
+2 -\\ 1: subsidies barbershop
+critical artists hyped
+1 -> 2: theses applaud
+end
+@enduml

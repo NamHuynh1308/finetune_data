@@ -1,0 +1,13 @@
+@startuml
+participant "wise obstetrician" as 0
+box "injunction presets"
+participant "what gushy" as 1
+end box
+== validated contestant ==
+autonumber 9 10
+1 -> 0!! : giggling ribbons
+ [-> 0: organization goggles
+alt revisit blisters
+1 -> 1: knobs plotting
+end
+@enduml

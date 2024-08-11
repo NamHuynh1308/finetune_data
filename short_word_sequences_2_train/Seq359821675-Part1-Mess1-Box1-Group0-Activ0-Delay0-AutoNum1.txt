@@ -1,0 +1,7 @@
+@startuml
+box "commission tomb"
+participant "ringing repeat" as 0
+end box
+autonumber 7 1
+0 ->x 0: blooms hibernation
+@enduml

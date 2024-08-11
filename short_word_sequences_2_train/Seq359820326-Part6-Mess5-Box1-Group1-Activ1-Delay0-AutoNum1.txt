@@ -1,0 +1,21 @@
+@startuml
+participant "seminar terrorists" as 0
+participant "paleontology einstein" as 1
+box "grunge thoughtful"
+participant "cheater export" as 2
+participant "raked badder" as 3
+participant "parenthood accounted" as 4
+end box
+autonumber 8 9
+par broomsticks contacting
+0 --> 0++ : bug matriarch
+1 ->> 4: tomahawk procedures
+return icicles placing
+autonumber stop
+create participant "parachuting massaging" as 5
+2 -> 5 : parachuting massaging
+end
+ [<- 2: rumour ravage
+5 -\\ 4: standstill gigantic
+autonumber resume
+@enduml

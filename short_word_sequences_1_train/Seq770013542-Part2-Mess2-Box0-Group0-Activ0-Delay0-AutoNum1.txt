@@ -1,0 +1,7 @@
+@startuml
+participant "rim spinner" as 0
+participant "frontiers valves" as 1
+autonumber 7 4
+0 -> 1!! : tiller wetter
+ [-> 1: reliving eyebrows
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+participant "impale quid" as 0
+ [<- 0: trophies infiltrated
+@enduml

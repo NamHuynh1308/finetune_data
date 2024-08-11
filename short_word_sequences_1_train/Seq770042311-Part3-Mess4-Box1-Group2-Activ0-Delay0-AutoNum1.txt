@@ -1,0 +1,18 @@
+@startuml
+participant "elves spears" as 0
+box "slimming motley"
+participant "fill arraigned" as 1
+participant "accommodation inkling" as 2
+end box
+== choking comeuppance ==
+autonumber 8 8
+alt addition hairdressers
+1 ->o 2: disbelief whispering
+par introduces hold
+1 <-] : upwards shaker
+0 <-] : infighting gangrene
+end
+2 ->> 1: warrior devils
+else lutz snivelling
+end
+@enduml

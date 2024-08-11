@@ -1,0 +1,9 @@
+@startuml
+participant "hefty risked" as 0
+box "robes butler"
+participant "backseat specialized" as 1
+end box
+== invalidate expectancy ==
+0 <-> 0: archer itching
+0 ->] : worries downer
+@enduml

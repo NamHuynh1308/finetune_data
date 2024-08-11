@@ -1,0 +1,5 @@
+@startuml
+participant "thru admonished" as 0
+== coaster interviewer ==
+0 <-] : poachers primping
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "passing totally" as 0
+participant "benign estranged" as 1
+participant "freakish row" as 2
+0 -->x 0: senate holiday
+...albino wield...
+0 ->x 2: sharpened boxes
+opt snowballed occult
+2 ->> 0++ : helmet nachos
+end
+return apples fisted
+@enduml

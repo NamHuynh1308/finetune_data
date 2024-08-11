@@ -1,0 +1,7 @@
+@startuml
+participant "healing firebug" as 0
+participant "requisitions friends" as 1
+== shares undone ==
+ [<- 0: utilities aphrodisiac
+0 ->o 1: stewards pew
+@enduml

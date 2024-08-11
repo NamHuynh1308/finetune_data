@@ -1,0 +1,7 @@
+@startuml
+box "gofer worming"
+participant "wanton pithy" as 0
+end box
+0 <-] : hereafter enact
+0 <-> 0: skier trouser
+@enduml

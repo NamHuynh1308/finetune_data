@@ -1,0 +1,17 @@
+@startuml
+participant "outlast automobiles" as 0
+participant "mite restrooms" as 1
+participant "sneak hike" as 2
+== excited waistband ==
+1 -// 1++ : procrastinate shootout
+alt shelf uterus
+0 <-] : rods socks
+...envision sublime...
+0 ->] : muster lynched
+return jumped maintain
+1 -> 2: emery tether
+0 -> 0: eluded invoice
+...impertinent fireproof...
+0 -\\ 2: exclusion scoundrel
+end
+@enduml

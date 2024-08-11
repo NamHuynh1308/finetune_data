@@ -1,0 +1,11 @@
+@startuml
+participant "boggle poultry" as 0
+box "limit inquiry"
+participant "whiplash philosophers" as 1
+end box
+autonumber 3 9
+alt laceration pocket
+0 -> 0: barometer mature
+1 -> 0!! : pep lentils
+end
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+participant "mopping commencing" as 0
+participant "carrots lacquer" as 1
+participant "scottie flare" as 2
+participant "hayloft actuarial" as 3
+create participant "takes wraith" as 4
+0 -> 4 : takes wraith
+2 -> 4: fox jellies
+alt local lifers
+...sherlock notification...
+0 -> 1!! : monthly blessings
+0 --//o 4: headhunter attorneys
+break principal undetected
+...chestnuts chameleon...
+4 --//o 0: barbecue cayman
+break snubbed fillings
+...liaison preys...
+3 -> 2: elm bottling
+par showers headstone
+0 --//o 3: drosophila tolls
+end
+end
+end
+end
+@enduml

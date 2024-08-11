@@ -1,0 +1,17 @@
+@startuml
+participant "dedicated hello" as 0
+== pointy lettuce ==
+0 --//o 0: typically substituting
+0 ->o 0++ : baklava oboe
+break support oxford
+...knife honourable...
+0 ->x 0++ : cactus fundraiser
+create participant "immune headphones" as 1
+0 -> 1 : immune headphones
+end
+alt cheesecake skipper
+1 -> 1!! : pointless misconstrued
+end
+return glover walled
+return belive unruly
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "leave darlings" as 0
+box "symphony hub"
+participant "nastiest hates" as 1
+participant "marvelous doggie" as 2
+end box
+autonumber 10 5
+par irregularities grieving
+2 -->x 2: contest loft
+ [<- 0: governing pestilence
+0 -> 2!! : chrome drums
+autonumber stop
+end
+@enduml

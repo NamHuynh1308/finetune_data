@@ -1,0 +1,15 @@
+@startuml
+participant "separate toll" as 0
+participant "boldly schoolgirl" as 1
+box "mound gees"
+participant "regulation genre" as 2
+end box
+2 -// 1: sympathies unsealed
+0 ->o 1: obviously civilized
+ [-> 2: printed touch
+alt ticked smidgen
+2 -\\ 1: endorse cooperate
+0 -> 0!! : toyed starboard
+0 -> 2: overstepping pinot
+end
+@enduml

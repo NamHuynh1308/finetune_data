@@ -1,0 +1,11 @@
+@startuml
+participant "definitively revealed" as 0
+== distress damage ==
+autonumber 2 7
+0 <-] : overhead lymphoma
+0 <-] : terminate choppy
+0 ->> 0: apprehension panics
+0 ->x 0: waits inter
+ [<- 0: sorcerers gunning
+autonumber stop
+@enduml

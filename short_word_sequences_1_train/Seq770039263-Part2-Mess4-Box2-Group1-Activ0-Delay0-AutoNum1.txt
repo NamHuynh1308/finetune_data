@@ -1,0 +1,17 @@
+@startuml
+box "twilight gloriously"
+participant "shoots saddled" as 0
+box "anti coffeehouse"
+participant "afoot steered" as 1
+end box
+end box
+== rotisserie cellist ==
+autonumber 2 5
+0 ->o 0: warring recess
+1 -> 1: pistachio aeroplane
+critical bowels assisted
+0 ->] : bussing casual
+0 -> 1: continued decorum
+autonumber stop
+end
+@enduml

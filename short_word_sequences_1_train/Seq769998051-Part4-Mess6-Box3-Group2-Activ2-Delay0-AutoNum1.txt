@@ -1,0 +1,30 @@
+@startuml
+participant "vampire comprised" as 0
+box "sank trunk"
+participant "scramble newscast" as 1
+box "cookbook condemn"
+participant "jaunt darts" as 2
+box "upstanding heave"
+participant "tribunal etiquette" as 3
+end box
+end box
+end box
+autonumber 4 3
+3 ->> 1: fulfil decorator
+2 <-] : teas assemblies
+autonumber stop
+1 --//o 3++ : counts misconceptions
+autonumber resume
+0 ->o 1++ : stretch relay
+autonumber stop
+alt rarest diffuse
+1 ->o 3: strychnine buddies
+autonumber resume
+opt borrowing relate
+1 -> 0: butts identify
+autonumber stop
+end
+end
+return shakers milking
+return apologizes boardinghouse
+@enduml

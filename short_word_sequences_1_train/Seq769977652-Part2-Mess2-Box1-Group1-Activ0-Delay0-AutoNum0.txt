@@ -1,0 +1,11 @@
+@startuml
+box "rubbish deafening"
+participant "lonelier revolutions" as 0
+participant "morgue veered" as 1
+end box
+== neurosurgeon unattractive ==
+alt tango symbiotic
+1 -> 1: bonding electrodes
+1 -> 1: treatments abandons
+end
+@enduml

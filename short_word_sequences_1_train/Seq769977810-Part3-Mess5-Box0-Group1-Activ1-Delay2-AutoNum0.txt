@@ -1,0 +1,17 @@
+@startuml
+participant "resources suppress" as 0
+participant "decaf buys" as 1
+participant "slashing tas" as 2
+== bozo crisis ==
+1 ->> 0: charger occupied
+0 -> 0++ : incidents earrings
+alt spokesman strapped
+...leaf peddler...
+2 -> 0: flask slouch
+return burlap jacked
+1 -> 2: gas dispensing
+else unfreeze horn
+...evaporated epiphany...
+2 -// 0: hypnosis later
+end
+@enduml

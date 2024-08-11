@@ -1,0 +1,13 @@
+@startuml
+participant "innards chamberlain" as 0
+autonumber 2 8
+ [-> 0: slashing privileges
+autonumber stop
+0 -// 0++ : finalists betrayer
+autonumber resume
+par workload presumed
+0 -\\ 0++ : clunk claim
+end
+return denounce deets
+return nightmares swirl
+@enduml

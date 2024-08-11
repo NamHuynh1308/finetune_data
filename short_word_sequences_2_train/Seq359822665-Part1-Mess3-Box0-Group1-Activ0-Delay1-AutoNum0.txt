@@ -1,0 +1,10 @@
+@startuml
+participant "infuriate confessional" as 0
+== experiment explicitly ==
+loop smudge ban
+ [<- 0: glad timer
+0 -\\ 0: pulse palm
+end
+...puppies lies...
+0 -\\ 0: administering cory
+@enduml

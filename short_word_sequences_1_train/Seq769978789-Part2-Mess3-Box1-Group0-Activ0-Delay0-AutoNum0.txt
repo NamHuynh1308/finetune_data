@@ -1,0 +1,9 @@
+@startuml
+participant "sparkle hamburgers" as 0
+box "hosts scoundrel"
+participant "urging firewood" as 1
+end box
+0 -> 1: comforter typhoid
+1 ->] : calves anyway
+1 -> 1: hobble capitals
+@enduml

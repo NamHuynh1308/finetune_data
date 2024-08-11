@@ -1,0 +1,18 @@
+@startuml
+participant "boning displace" as 0
+participant "rehearse jobs" as 1
+participant "unresponsive voicing" as 2
+participant "entering soprano" as 3
+== commission starter ==
+autonumber 9 0
+0 <-> 2: bloom saddled
+par shedding bolts
+1 --//o 0: painters hotels
+opt transactions delivers
+ [-> 0: buggy misunderstandings
+0 ->x 3: josh prepare
+...advises gets...
+0 -\\ 0: superb pool
+end
+end
+@enduml

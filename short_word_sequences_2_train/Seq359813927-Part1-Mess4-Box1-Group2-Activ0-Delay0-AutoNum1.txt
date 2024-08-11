@@ -1,0 +1,16 @@
+@startuml
+box "spooning orderly"
+participant "employers spades" as 0
+end box
+== wildcats tagged ==
+autonumber 2 0
+0 ->o 0: seconded snakes
+ [<- 0: scratches reptilian
+opt noo rump
+ [-> 0: dizzy villages
+autonumber stop
+opt mad timers
+0 -> 0: hoped corroboration
+end
+end
+@enduml

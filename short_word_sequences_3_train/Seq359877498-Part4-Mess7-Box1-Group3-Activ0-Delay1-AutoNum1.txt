@@ -1,0 +1,27 @@
+@startuml
+participant "broken downhill" as 0
+participant "moxie strategist" as 1
+box "obstacle scorned"
+participant "silvery resisting" as 2
+participant "result mended" as 3
+end box
+== tailors exalted ==
+autonumber 7 6
+loop revive cartilage
+1 -// 1: coattails commercials
+2 -> 0: taking notification
+end
+0 -->x 3: riddler poorly
+autonumber stop
+loop famous heartbreaker
+...hurray patrolled...
+2 ->] : referred boardwalk
+autonumber resume
+0 -->x 1: clipboard poker
+opt typewriter dismissing
+2 ->o 3: bulletin demand
+autonumber stop
+1 -> 0: decoupage fantastically
+end
+end
+@enduml

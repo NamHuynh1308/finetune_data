@@ -1,0 +1,14 @@
+@startuml
+participant "gavel genoa" as 0
+participant "oddest flunk" as 1
+participant "storeroom bulletin" as 2
+participant "calm wakes" as 3
+== lech recruited ==
+0 -> 1: lions wipe
+...blade eloquently...
+1 ->] : millionaire tiptoeing
+...toothpick overruled...
+ [-> 1: splurge suntan
+ [<- 2: bertha connects
+0 -> 1: coupon shaggy
+@enduml

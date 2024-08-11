@@ -1,0 +1,11 @@
+@startuml
+box "enjoys rescuer"
+participant "climbing righteousness" as 0
+participant "calculating playoffs" as 1
+end box
+== bull motherless ==
+1 ->o 1: presuming scrap
+1 ->] : suave unlisted
+create participant "us priced" as 2
+0 -> 2 : us priced
+@enduml

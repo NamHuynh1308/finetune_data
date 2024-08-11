@@ -1,0 +1,13 @@
+@startuml
+box "glittering vault"
+participant "fortuitous entertainer" as 0
+participant "protesting festivities" as 1
+end box
+autonumber 0 8
+0 <-> 1: tory relentless
+0 ->o 1: negligence competent
+opt showroom jugs
+...crazier someone...
+0 -> 0!! : hatches whispered
+end
+@enduml

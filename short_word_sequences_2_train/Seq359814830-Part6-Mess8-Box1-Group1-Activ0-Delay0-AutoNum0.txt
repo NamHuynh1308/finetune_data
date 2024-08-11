@@ -1,0 +1,20 @@
+@startuml
+participant "retro hanger" as 0
+participant "skedaddle nourishment" as 1
+participant "crapping higher" as 2
+participant "vindication moil" as 3
+box "cluttering laces"
+participant "magicians excruciating" as 4
+end box
+2 --> 1: inherited rage
+0 <-> 1: rustle podiatrist
+4 -\\ 1: listening reconsider
+1 ->> 1: trump properties
+2 <-> 2: created twisty
+4 <-] : waist legacy
+loop violinist mumbling
+2 ->o 3: extraterrestrials excruciating
+create participant "thermostat stricken" as 5
+3 -> 5 : thermostat stricken
+end
+@enduml

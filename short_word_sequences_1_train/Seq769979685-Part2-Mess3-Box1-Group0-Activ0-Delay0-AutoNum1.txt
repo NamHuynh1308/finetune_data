@@ -1,0 +1,10 @@
+@startuml
+participant "concerts ignored" as 0
+box "officers bursting"
+participant "bawling superiors" as 1
+end box
+autonumber 5 8
+1 -// 0: behavioral seams
+ [-> 1: kin achieve
+0 -> 1!! : posts teasing
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+participant "legwork minimize" as 0
+participant "riverside appendage" as 1
+box "thick vows"
+participant "vespers wisecracks" as 2
+box "pi reeves"
+participant "martini nefarious" as 3
+box "spelled resides"
+participant "mileage fort" as 4
+end box
+end box
+end box
+0 ->> 2++ : obese inmate
+4 ->] : pores tradition
+return sneezed auspicious
+alt bib grail
+create participant "fuses sensory" as 5
+0 -> 5 : fuses sensory
+break advancement checkpoints
+4 -> 4++ : hero formulate
+...laughed righteousness...
+2 --//o 2: dinks condoning
+end
+end
+return numerous retrofit
+@enduml

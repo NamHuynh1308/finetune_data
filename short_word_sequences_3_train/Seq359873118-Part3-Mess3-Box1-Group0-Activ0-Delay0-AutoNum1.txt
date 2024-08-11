@@ -1,0 +1,12 @@
+@startuml
+participant "trading saw" as 0
+box "projectile adding"
+participant "dares sedated" as 1
+participant "decadent believer" as 2
+end box
+== beam area ==
+autonumber 1 10
+1 ->o 1: gore saddle
+ [-> 0: list meanie
+ [<- 0: pasta chose
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "overwhelming idly" as 0
+0 ->x 0: blimp positioning
+create participant "soulful patch" as 1
+0 -> 1 : soulful patch
+@enduml

@@ -1,0 +1,34 @@
+@startuml
+participant "condos gushing" as 0
+participant "bisque snatched" as 1
+participant "hunky agendas" as 2
+box "griff gratuity"
+participant "perpetrator negligence" as 3
+participant "camera ink" as 4
+end box
+autonumber 0 0
+opt jarring hypochondriac
+2 -// 4: prospect dyer
+ [-> 3: entomologist welfare
+create participant "connected moonlight" as 5
+4 -> 5 : connected moonlight
+end
+...pink mathematician...
+3 ->] : accelerate nursery
+autonumber stop
+loop unspeakably desert
+1 -->x 3: plow dictatorships
+autonumber resume
+loop conjuring deprecating
+...neonatal nerves...
+0 -> 4: turk siree
+critical sculpture octopus
+3 -> 5!! : sundown reinstatement
+alt lacy fired
+3 -> 2!! : repayment extensions
+autonumber stop
+end
+end
+end
+end
+@enduml

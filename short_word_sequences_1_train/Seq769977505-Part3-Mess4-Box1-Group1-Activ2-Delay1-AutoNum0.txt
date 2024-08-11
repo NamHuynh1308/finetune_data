@@ -1,0 +1,16 @@
+@startuml
+participant "inaccurate swabs" as 0
+box "recycles sideburns"
+participant "exclusion scramble" as 1
+participant "stealthy unemployed" as 2
+end box
+alt melts wiggling
+1 <-> 2++ : scrambled embezzled
+...commissioners villas...
+0 ->x 1++ : cerebrum joe
+2 ->] : dominion distrustful
+return romper idealized
+1 ->> 2: study devil
+end
+return flaming exceeded
+@enduml

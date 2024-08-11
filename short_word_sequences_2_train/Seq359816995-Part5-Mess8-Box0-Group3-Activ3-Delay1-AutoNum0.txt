@@ -1,0 +1,27 @@
+@startuml
+participant "checkups breakdowns" as 0
+participant "distancing books" as 1
+participant "alan deviation" as 2
+participant "acquaintance shea" as 3
+participant "casbah juices" as 4
+1 -> 1++ : hadj ballplayers
+alt live rains
+2 ->] : ditty conceivable
+critical crowns impersonated
+4 -> 2++ : legion muzzle
+3 -// 3: dreaming milked
+else wedges districts
+4 -// 2++ : thrive prided
+4 ->o 4: ethics sickening
+return access fractures
+else tho regenerated
+0 -\\ 1: tarts loudly
+opt administered godmother
+...ruth stunningly...
+0 ->> 4: embark aim
+return router failure
+end
+end
+end
+return sweeps tempest
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+participant "leaflets basement" as 0
+box "defeat skeletons"
+participant "topped silliest" as 1
+participant "delving dart" as 2
+participant "hilarity indeed" as 3
+end box
+participant "thinner dose" as 4
+== article granddaughter ==
+1 --//o 3: handwriting negligence
+create participant "pinochle vitals" as 5
+1 -> 5 : pinochle vitals
+break advisable retail
+3 <-] : paradise duffle
+3 <-] : willingly sirree
+end
+1 --//o 0: philanthropist hotbed
+0 -->x 2: assembled ramifications
+0 <-> 2: honky frosting
+...derrick icebox...
+4 -\\ 4: shuffled services
+@enduml

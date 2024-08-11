@@ -1,0 +1,19 @@
+@startuml
+box "rib slingshot"
+participant "champion geologists" as 0
+participant "suspicions struggle" as 1
+end box
+1 --> 1: wrecks nobodies
+opt mildly contribute
+...pointless recalling...
+1 ->o 0++ : savored query
+critical stills offers
+0 ->o 1++ : square consume
+create participant "stimulus accomplish" as 2
+0 -> 2 : stimulus accomplish
+1 -// 2: whacko underlined
+return shallow pressman
+end
+end
+return likewise freeloader
+@enduml

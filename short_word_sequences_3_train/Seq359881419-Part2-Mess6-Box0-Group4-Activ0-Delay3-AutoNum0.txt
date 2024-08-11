@@ -1,0 +1,21 @@
+@startuml
+participant "acquainted lieutenants" as 0
+participant "patented mops" as 1
+0 -// 0: genuinely old
+...detour opted...
+0 -> 0: unhand converting
+alt slam puns
+...consume perfecting...
+0 ->o 1: daunting inventory
+par put challenge
+...profitable fruit...
+0 --> 0: enterprise leg
+alt jerseys bo
+0 --> 1: snowballing including
+alt rotation raw
+0 ->o 1: quarreled sanctum
+end
+end
+end
+end
+@enduml

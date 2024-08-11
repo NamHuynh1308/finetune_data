@@ -1,0 +1,29 @@
+@startuml
+participant "punky cobwebs" as 0
+box "choppers narcotics"
+participant "urinary sketch" as 1
+box "farthing withdrawal"
+participant "borderline sans" as 2
+participant "humping foxy" as 3
+end box
+end box
+autonumber 3 7
+create participant "spitfire solenoid" as 4
+0 -> 4 : spitfire solenoid
+...cranes faxes...
+1 -->x 2: gelatin overtime
+par stem sha
+...fooled neurotic...
+4 -> 1: fer roadster
+...contains implement...
+3 -> 0: eliminated land
+autonumber stop
+2 <-> 4: chumps collided
+autonumber resume
+end
+3 -\\ 4: athlete you
+autonumber stop
+par jesse lives
+1 -// 2: overslept exchanged
+end
+@enduml

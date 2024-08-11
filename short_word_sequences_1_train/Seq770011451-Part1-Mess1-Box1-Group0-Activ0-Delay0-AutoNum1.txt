@@ -1,0 +1,7 @@
+@startuml
+box "dozing tidings"
+participant "villains estranged" as 0
+end box
+autonumber 8 0
+0 ->o 0: sundaes biopsy
+@enduml

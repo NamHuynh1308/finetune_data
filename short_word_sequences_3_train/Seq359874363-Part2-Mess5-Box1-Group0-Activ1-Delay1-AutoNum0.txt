@@ -1,0 +1,14 @@
+@startuml
+box "pulsating errors"
+participant "peas motivation" as 0
+participant "dealership marbles" as 1
+end box
+== factions serial ==
+0 -> 0: thanks canoes
+1 -\\ 0: clinically sort
+1 ->o 1++ : cheering nominees
+...insulted ticks...
+0 -// 0: ibuprofen senate
+return ritzy sable
+ [<- 0: difficulties appointed
+@enduml

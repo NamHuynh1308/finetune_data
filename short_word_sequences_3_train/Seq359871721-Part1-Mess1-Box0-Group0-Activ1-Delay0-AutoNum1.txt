@@ -1,0 +1,6 @@
+@startuml
+participant "complicated platforms" as 0
+autonumber 2 10
+0 -> 0++ : smackers prevents
+return splat guards
+@enduml

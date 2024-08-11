@@ -1,0 +1,23 @@
+@startuml
+participant "taxed turnpike" as 0
+participant "federal spokesperson" as 1
+box "forks along"
+participant "nagging factions" as 2
+end box
+== rigging static ==
+autonumber 5 7
+2 -->x 0: abuser anarchist
+2 <-> 0: assembler escort
+2 -// 0: ambient grandpa
+2 <-> 2: enjoyed speakers
+par circulate clothe
+create participant "oceans infinite" as 3
+2 -> 3 : oceans infinite
+create participant "flex imagining" as 4
+3 -> 4 : flex imagining
+autonumber stop
+loop democrat penitentiary
+ [<- 3: drawing colored
+end
+end
+@enduml

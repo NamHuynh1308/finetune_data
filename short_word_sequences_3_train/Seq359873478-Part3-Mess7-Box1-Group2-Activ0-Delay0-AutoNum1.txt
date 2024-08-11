@@ -1,0 +1,22 @@
+@startuml
+participant "pushers rattling" as 0
+participant "perils shave" as 1
+box "barkeep seventies"
+participant "coax honk" as 2
+end box
+== transportation resourceful ==
+autonumber 6 0
+1 -> 1: artillery interject
+1 -\\ 2: inland huts
+0 ->x 0: each eunuch
+0 -\\ 1: canter opportune
+loop drags malfeasance
+2 ->] : damn mantel
+autonumber stop
+critical sleight horsey
+0 -> 0: anguished doubly
+autonumber resume
+0 -->x 2: emperors anguished
+end
+end
+@enduml

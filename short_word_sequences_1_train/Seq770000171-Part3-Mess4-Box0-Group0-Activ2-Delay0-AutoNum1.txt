@@ -1,0 +1,12 @@
+@startuml
+participant "petroleum advisor" as 0
+participant "gatherings mixup" as 1
+participant "madder putting" as 2
+autonumber 8 0
+1 -> 0: fingernail big
+0 -> 1++ : exploratory decorate
+1 --//o 1: likelihood hurry
+0 ->> 0++ : primate spans
+return imp fusilli
+return lands pickle
+@enduml

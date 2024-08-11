@@ -1,0 +1,14 @@
+@startuml
+box "stripping twister"
+participant "exhaust incorrigible" as 0
+end box
+autonumber 3 6
+par squirt pas
+ [-> 0: wingman tell
+ [<- 0: physics turtles
+alt demerits ordinates
+...vaccine remnants...
+0 ->] : elevator story
+end
+end
+@enduml

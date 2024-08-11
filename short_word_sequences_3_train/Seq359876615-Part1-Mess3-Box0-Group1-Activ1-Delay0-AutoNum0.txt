@@ -1,0 +1,9 @@
+@startuml
+participant "foxy swabs" as 0
+0 <-> 0++ : vespers ahold
+par saleswoman diced
+0 ->x 0: waxes assumed
+0 -> 0!! : loft commodities
+end
+return stateroom lobby
+@enduml

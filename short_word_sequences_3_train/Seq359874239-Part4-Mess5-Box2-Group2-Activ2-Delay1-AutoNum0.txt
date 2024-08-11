@@ -1,0 +1,22 @@
+@startuml
+participant "assumed impropriety" as 0
+box "lobe woodchuck"
+participant "cabinet zombie" as 1
+participant "virile shredded" as 2
+end box
+box "picnic acquisitions"
+participant "sympathy pear" as 3
+end box
+2 ->o 3++ : casino offbeat
+0 <-> 3++ : middle clearly
+opt unbelievable kibosh
+3 -\\ 1: damper metaphor
+return sand mag
+2 -> 0!! : resembles goofing
+return advised cock
+end
+alt ransack tagged
+...pines turned...
+3 -> 0: ludicrous lopsided
+end
+@enduml

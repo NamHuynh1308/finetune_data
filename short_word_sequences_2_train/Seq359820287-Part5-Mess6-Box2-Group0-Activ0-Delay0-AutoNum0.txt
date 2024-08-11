@@ -1,0 +1,17 @@
+@startuml
+participant "southwest hugged" as 0
+participant "beloved vital" as 1
+box "regular vetoed"
+participant "checkmate festering" as 2
+box "assignments satire"
+participant "suck factories" as 3
+end box
+end box
+1 ->> 3: alliteration agitators
+ [-> 2: gulch defraud
+ [<- 3: charcoal examiner
+create participant "systemic mailman" as 4
+2 -> 4 : systemic mailman
+4 <-> 4: crimson volcano
+1 -> 0: gemma towel
+@enduml

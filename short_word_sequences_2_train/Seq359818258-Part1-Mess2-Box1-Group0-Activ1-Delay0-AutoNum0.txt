@@ -1,0 +1,9 @@
+@startuml
+box "distortion recap"
+participant "clarify wailing" as 0
+end box
+== oxygen credo ==
+ [-> 0: syllabus should
+0 -> 0++ : supporter saber
+return sensible exemptions
+@enduml

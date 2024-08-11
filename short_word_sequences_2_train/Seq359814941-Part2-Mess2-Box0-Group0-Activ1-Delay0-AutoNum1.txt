@@ -1,0 +1,8 @@
+@startuml
+participant "decontamination psychiatry" as 0
+autonumber 2 1
+create participant "chocolatey wop" as 1
+0 -> 1 : chocolatey wop
+0 -\\ 1++ : thicker manor
+return booked exile
+@enduml

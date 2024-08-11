@@ -1,0 +1,6 @@
+@startuml
+participant "rituals swallowed" as 0
+== stats rialto ==
+ [-> 0: rehabilitate grinds
+0 -> 0!! : inscription holocaust
+@enduml

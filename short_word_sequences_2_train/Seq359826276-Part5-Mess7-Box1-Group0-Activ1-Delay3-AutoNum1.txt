@@ -1,0 +1,26 @@
+@startuml
+participant "software grits" as 0
+participant "tragic risen" as 1
+participant "schoolboy yells" as 2
+box "pappy happiness"
+participant "beret happiest" as 3
+end box
+== forgetful bash ==
+autonumber 6 7
+ [<- 2: counties unspoken
+...gecko overnight...
+1 -> 3: lanky berry
+autonumber stop
+3 --//o 0++ : nametag strategically
+autonumber resume
+...mixes vindictive...
+1 -> 1: claymores camshaft
+1 -> 2!! : complications comparable
+autonumber stop
+create participant "right tach" as 4
+2 -> 4 : right tach
+autonumber resume
+...vile cynic...
+2 -> 0!! : traditionally fabled
+return vamps beer
+@enduml

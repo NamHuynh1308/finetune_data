@@ -1,0 +1,19 @@
+@startuml
+participant "spanked yogi" as 0
+box "irrigation chair"
+participant "remedial commanding" as 1
+participant "franchises charlotte" as 2
+participant "maintenance bazaar" as 3
+end box
+1 -\\ 0: goa smith
+loop incompetence coat
+1 <-> 2: rates watermelon
+...psalm injections...
+1 -// 2: windfall stocky
+1 ->> 2: per editing
+else statehood sandstorm
+opt cultures handbook
+1 ->] : alight suffer
+end
+end
+@enduml

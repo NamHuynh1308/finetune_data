@@ -1,0 +1,26 @@
+@startuml
+participant "menagerie palette" as 0
+box "harrowing clanking"
+participant "pajamas firewood" as 1
+box "cavalier bladder"
+participant "bays wrecker" as 2
+participant "boo chalkboard" as 3
+participant "threatening injury" as 4
+end box
+end box
+== replies crabby ==
+autonumber 10 4
+3 --> 1++ : precedent gives
+opt grownup untrustworthy
+...weeping fashions...
+0 -> 0: carries plant
+autonumber stop
+3 ->x 4: contemporary news
+end
+4 -> 1: ark symptomatic
+4 ->> 4: unreal peel
+return sentences server
+3 -> 2++ : accordance freakish
+autonumber resume
+return manning highlight
+@enduml

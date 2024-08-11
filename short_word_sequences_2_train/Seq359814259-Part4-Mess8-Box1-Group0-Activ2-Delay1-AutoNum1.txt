@@ -1,0 +1,21 @@
+@startuml
+box "should shredded"
+participant "groundbreaking domain" as 0
+participant "fixtures reptile" as 1
+participant "steaming drape" as 2
+participant "understands stockbrokers" as 3
+end box
+autonumber 1 5
+1 -\\ 3: pen marksmanship
+3 -> 2: collapsed spraying
+...baddest saps...
+0 -> 2: heavyset sock
+3 <-] : resemble fingerprint
+3 -> 1: roofs stag
+0 -> 0++ : droll dash
+autonumber stop
+3 <-] : devils hesitating
+1 -> 3++ : salient accomplice
+return rev chauffeur
+return tonic inopportune
+@enduml

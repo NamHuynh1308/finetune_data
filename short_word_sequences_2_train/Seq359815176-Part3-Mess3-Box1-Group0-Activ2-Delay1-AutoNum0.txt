@@ -1,0 +1,13 @@
+@startuml
+box "blazers hurting"
+participant "gangs healed" as 0
+participant "containers banged" as 1
+participant "outrageously bugger" as 2
+end box
+0 ->o 0: ampule cork
+1 --> 2++ : microscope variations
+...gives padding...
+0 ->> 2++ : allotted tanking
+return chilled taste
+return backups retreats
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "climate bent" as 0
+participant "damned degraded" as 1
+participant "mixed eros" as 2
+participant "pods minefield" as 3
+== curate inhuman ==
+2 ->] : dewy jailbreak
+0 -> 1: choir depot
+2 -> 2: sanity loathing
+ [<- 2: balconies oversee
+0 -> 1: temptation roomy
+loop mettle thanks
+ [-> 2: compel obscurity
+end
+@enduml

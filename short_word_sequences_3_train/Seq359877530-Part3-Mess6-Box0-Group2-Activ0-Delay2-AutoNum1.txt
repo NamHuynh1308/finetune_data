@@ -1,0 +1,20 @@
+@startuml
+participant "bowl hogging" as 0
+participant "flora short" as 1
+participant "schiller reason" as 2
+== nice surrounding ==
+autonumber 0 6
+alt outset step
+2 ->x 0: sirloin agility
+...skylight rethought...
+2 -> 0: goose gliding
+...restaurants loathe...
+1 ->o 1: throws stepped
+2 -// 1: duration coyotes
+autonumber stop
+1 ->o 2: colorado lumpectomy
+opt cannons faced
+1 -> 0: tentative scam
+end
+end
+@enduml

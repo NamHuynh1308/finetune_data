@@ -1,0 +1,16 @@
+@startuml
+participant "fido darkroom" as 0
+participant "groin ratted" as 1
+participant "tackling expectations" as 2
+participant "electronics saloon" as 3
+participant "accomplish carve" as 4
+alt tall oiled
+4 -> 1: jellies clogging
+4 ->o 1: laboratories propellers
+3 ->o 0: landscape tongue
+4 -> 1++ : yapping snagging
+0 ->x 3: calculations momento
+3 ->o 1: distinctly biography
+return parliamentary recipe
+end
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "dependant radiologist" as 0
+participant "googly whereas" as 1
+participant "casbah siphoning" as 2
+participant "cypher separately" as 3
+1 --> 1: nosy ban
+break hormones psychosomatic
+0 <-> 0: excited pose
+0 ->> 1: converge bloodhound
+create participant "robbins tends" as 4
+0 -> 4 : robbins tends
+end
+@enduml

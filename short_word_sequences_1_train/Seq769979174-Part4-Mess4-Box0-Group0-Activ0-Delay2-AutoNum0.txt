@@ -1,0 +1,12 @@
+@startuml
+participant "factoid binder" as 0
+participant "hawking screwball" as 1
+participant "exports cannot" as 2
+participant "winter shrubs" as 3
+1 ->] : deterioration portrait
+2 --> 1: soulful estranged
+...pathways respond...
+1 --//o 1: gush kingpin
+...manatees blessed...
+3 -->x 2: conniving punished
+@enduml

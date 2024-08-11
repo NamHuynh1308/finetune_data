@@ -1,0 +1,23 @@
+@startuml
+participant "rosebush pleads" as 0
+participant "resigned timeline" as 1
+participant "abundantly blithering" as 2
+== custodian potted ==
+autonumber 0 4
+opt homesick confederation
+1 -// 0: upfront organised
+...lobby chummy...
+ [<- 1: hellfire dragged
+autonumber stop
+loop pounce ribs
+0 ->> 2: enterprising crusts
+0 -> 1: bitty kelp
+2 ->x 0: forgive budget
+else troubling escalator
+ [<- 0: housekeeper debriefed
+par beech volcanoes
+1 ->x 1: indicative downward
+end
+end
+end
+@enduml

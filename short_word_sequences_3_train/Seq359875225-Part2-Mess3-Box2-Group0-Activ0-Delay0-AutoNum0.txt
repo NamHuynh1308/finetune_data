@@ -1,0 +1,12 @@
+@startuml
+box "heigh increasingly"
+participant "windmills overgrown" as 0
+box "doctors blames"
+participant "gears buckle" as 1
+end box
+end box
+== stairs splits ==
+1 ->x 0: takeoff maw
+0 -->x 0: skill leotard
+0 -> 1: braver loses
+@enduml

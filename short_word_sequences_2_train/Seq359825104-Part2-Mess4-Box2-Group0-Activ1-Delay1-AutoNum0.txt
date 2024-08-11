@@ -1,0 +1,15 @@
+@startuml
+box "spaced acknowledges"
+participant "professor sarcasm" as 0
+box "adenoids mislead"
+participant "strangle pursuits" as 1
+end box
+end box
+== block primordial ==
+1 <-> 0++ : masterpieces indeterminate
+...pellet rents...
+0 ->x 0: ranging sacrament
+return unplug grungy
+0 -> 1: lasagna grandkids
+0 -> 1: released lowlifes
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "undergoing kissy" as 0
+0 -> 0: misbehave returns
+0 -\\ 0: faint broader
+@enduml

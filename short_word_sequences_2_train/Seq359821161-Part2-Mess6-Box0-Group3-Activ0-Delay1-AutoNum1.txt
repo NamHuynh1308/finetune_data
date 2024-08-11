@@ -1,0 +1,20 @@
+@startuml
+participant "gyms breakable" as 0
+participant "lemonade hubby" as 1
+autonumber 10 7
+0 <-] : deaf picky
+autonumber stop
+1 -> 1: giants dictators
+opt commerce scarier
+ [<- 1: meatballs chug
+opt obnoxious sofas
+1 -> 0!! : hobbits mechanism
+autonumber resume
+...simple sweet...
+1 -->x 0: gator combusted
+critical single misled
+1 <-] : vigilance propane
+end
+end
+end
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+box "hazy pope"
+participant "swam comedic" as 0
+box "nominal tabloids"
+participant "skins gimmie" as 1
+participant "impacts strapping" as 2
+end box
+participant "rounding psychology" as 3
+end box
+== metaphorical mayhem ==
+3 ->] : finale montage
+0 ->> 1++ : critics fido
+1 ->o 3: sharper proposes
+2 <-> 1: deliberation sear
+return adenoids clung
+@enduml

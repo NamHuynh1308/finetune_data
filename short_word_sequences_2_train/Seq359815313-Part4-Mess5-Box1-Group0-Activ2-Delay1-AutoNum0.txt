@@ -1,0 +1,16 @@
+@startuml
+participant "cobbler reporters" as 0
+participant "novocaine boosted" as 1
+participant "pounder sunless" as 2
+box "decibel regimental"
+participant "endurance heap" as 3
+end box
+3 <-] : skyscrapers maintenance
+...pound preserves...
+2 ->x 0++ : begun births
+2 ->o 0: economically patchouli
+0 ->> 1++ : dream expenditures
+2 -\\ 0: spandex drift
+return coupon housekeeping
+return stayed altruistic
+@enduml

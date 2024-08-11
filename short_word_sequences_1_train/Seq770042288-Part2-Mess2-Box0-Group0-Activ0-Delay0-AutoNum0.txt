@@ -1,0 +1,7 @@
+@startuml
+participant "fared daughter" as 0
+participant "bookie lis" as 1
+== whipper demanding ==
+1 ->x 0: arraignment guillotine
+0 -\\ 0: halter cheater
+@enduml

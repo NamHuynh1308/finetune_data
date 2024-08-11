@@ -1,0 +1,5 @@
+@startuml
+participant "sliver jalopy" as 0
+autonumber 3 0
+0 -> 0: spiked unfathomable
+@enduml

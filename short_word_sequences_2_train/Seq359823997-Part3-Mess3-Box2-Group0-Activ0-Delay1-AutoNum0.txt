@@ -1,0 +1,13 @@
+@startuml
+box "copy toms"
+participant "uphill twins" as 0
+participant "stormed population" as 1
+end box
+box "willies den"
+participant "clogs rebels" as 2
+end box
+2 -> 1!! : humored plucky
+...barman rick...
+2 ->> 0: chatted decibels
+0 <-> 0: unite grace
+@enduml

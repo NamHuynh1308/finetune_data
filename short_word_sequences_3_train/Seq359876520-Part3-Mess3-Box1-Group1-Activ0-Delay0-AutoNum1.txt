@@ -1,0 +1,15 @@
+@startuml
+participant "lullaby headlines" as 0
+participant "constitutes cramps" as 1
+box "disinfect thirst"
+participant "bayberry ordered" as 2
+end box
+== professed givers ==
+autonumber 4 7
+0 <-> 0: berry swimmingly
+autonumber stop
+1 --//o 0: sensibility filth
+loop disputing crammed
+0 ->o 1: ads plugs
+end
+@enduml

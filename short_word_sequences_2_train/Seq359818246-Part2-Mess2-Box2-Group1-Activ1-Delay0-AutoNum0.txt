@@ -1,0 +1,15 @@
+@startuml
+box "ashes researchers"
+participant "certify incinerated" as 0
+box "dispute ventures"
+participant "zander debrief" as 1
+end box
+end box
+== exporting scatter ==
+alt shillings grub
+0 ->o 0: disconnect airline
+0 -> 0++ : harbors pickup
+else mask superpower
+end
+return chasm costumes
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "parlor cupcakes" as 0
+participant "madeleine superego" as 1
+1 -// 0: agin battle
+critical nod opted
+1 ->x 1: endangering grifters
+...hallway troubles...
+1 ->] : palette paratroopers
+else doggies curiously
+...tips guns...
+1 -> 0: contender mote
+end
+@enduml

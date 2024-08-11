@@ -1,0 +1,7 @@
+@startuml
+participant "memo dining" as 0
+autonumber 8 5
+critical backup prod
+ [-> 0: mace expected
+end
+@enduml

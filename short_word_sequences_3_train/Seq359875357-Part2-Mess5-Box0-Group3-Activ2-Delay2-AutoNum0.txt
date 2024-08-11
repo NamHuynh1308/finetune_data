@@ -1,0 +1,19 @@
+@startuml
+participant "slutty letters" as 0
+alt adversaries flunkies
+create participant "sacrilege pretext" as 1
+0 -> 1 : sacrilege pretext
+...bashed piled...
+1 --> 0: stooge lapdog
+alt oppose ploy
+1 -> 0!! : chair servicing
+break noggin buy
+1 -->x 0++ : positioned council
+...sucking vests...
+1 <-> 0++ : thesis lackluster
+end
+end
+end
+return oddball unloved
+return fresh rice
+@enduml

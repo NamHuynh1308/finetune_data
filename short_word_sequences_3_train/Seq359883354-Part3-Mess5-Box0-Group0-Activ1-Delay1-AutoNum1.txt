@@ -1,0 +1,13 @@
+@startuml
+participant "fur attach" as 0
+participant "stocking fires" as 1
+participant "bottom nurses" as 2
+autonumber 1 1
+ [-> 1: amused buckaroo
+...recognise side...
+2 -> 0: offs traveled
+1 -> 0: injuries hula
+ [<- 1: consideration hazardous
+0 -> 0++ : seashells mixing
+return radically pe
+@enduml

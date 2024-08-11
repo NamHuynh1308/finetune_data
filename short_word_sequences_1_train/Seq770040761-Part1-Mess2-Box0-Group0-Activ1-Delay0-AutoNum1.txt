@@ -1,0 +1,7 @@
+@startuml
+participant "camcorder maliciously" as 0
+autonumber 0 8
+0 ->x 0++ : stunted ornery
+0 <-> 0: ghastly politician
+return revise escargot
+@enduml

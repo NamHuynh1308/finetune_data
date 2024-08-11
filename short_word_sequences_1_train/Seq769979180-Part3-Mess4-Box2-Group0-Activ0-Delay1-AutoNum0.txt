@@ -1,0 +1,14 @@
+@startuml
+box "uneventful interrupts"
+participant "doughnut chill" as 0
+box "meteor saddled"
+participant "elemental commandment" as 1
+participant "diggers cartoons" as 2
+end box
+end box
+0 ->o 1: showdown lutz
+2 -> 1: bingo necessary
+1 --//o 0: standards indeed
+...researchers masterpiece...
+0 -> 2: swore endorsing
+@enduml

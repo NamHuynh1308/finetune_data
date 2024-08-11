@@ -1,0 +1,11 @@
+@startuml
+box "drivers stairway"
+participant "mask claymores" as 0
+participant "roger phones" as 1
+end box
+== romeo mayoral ==
+1 -> 1: boston through
+critical renewing dart
+1 -// 1: shoreline below
+end
+@enduml

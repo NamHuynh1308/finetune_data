@@ -1,0 +1,5 @@
+@startuml
+participant "blossoms fantabulous" as 0
+0 -> 0++ : wider capitals
+return transpired red
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+box "cognizant recognizable"
+participant "hotels flood" as 0
+participant "homeless racketeer" as 1
+end box
+box "subterranean kidnap"
+participant "basis showgirl" as 2
+end box
+0 ->> 0: capitalism dispenser
+0 ->] : winks vortex
+par softness participation
+1 -\\ 1: vespers adherence
+2 <-] : wisely swill
+end
+@enduml

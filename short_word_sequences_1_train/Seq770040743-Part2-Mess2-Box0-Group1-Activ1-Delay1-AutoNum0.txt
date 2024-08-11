@@ -1,0 +1,11 @@
+@startuml
+participant "rotisserie rascals" as 0
+participant "morgue exhibit" as 1
+== notable jars ==
+1 -> 1++ : greedy tweaked
+alt acing unharmed
+...convictions homos...
+1 -> 1: plantations sake
+end
+return homicide harboring
+@enduml

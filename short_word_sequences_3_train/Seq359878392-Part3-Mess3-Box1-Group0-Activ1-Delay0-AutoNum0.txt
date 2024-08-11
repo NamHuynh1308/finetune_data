@@ -1,0 +1,12 @@
+@startuml
+box "perfecting vast"
+participant "type curses" as 0
+participant "grove inference" as 1
+end box
+== magnify crunch ==
+create participant "peel cut" as 2
+0 -> 2 : peel cut
+1 ->] : sesame chatted
+1 ->x 0++ : deception impassioned
+return inhumane mobs
+@enduml

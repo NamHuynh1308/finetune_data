@@ -1,0 +1,8 @@
+@startuml
+participant "moron recipe" as 0
+autonumber 6 3
+0 -> 0: utility flashy
+loop curling littlest
+0 -> 0!! : promotes adaptable
+end
+@enduml

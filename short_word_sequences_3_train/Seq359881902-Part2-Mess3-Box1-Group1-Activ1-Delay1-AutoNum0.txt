@@ -1,0 +1,14 @@
+@startuml
+box "navigation lean"
+participant "boar bolts" as 0
+participant "popping multiplication" as 1
+end box
+0 <-> 1++ : mart vested
+break backpack failure
+...loudly eighteenth...
+1 ->x 0: hokey barbers
+1 -> 0: manger barbarians
+else independence bombshell
+end
+return eat discharged
+@enduml

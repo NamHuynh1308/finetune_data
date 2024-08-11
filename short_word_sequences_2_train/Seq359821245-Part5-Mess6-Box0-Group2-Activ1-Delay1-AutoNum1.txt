@@ -1,0 +1,22 @@
+@startuml
+participant "essays prompter" as 0
+participant "groped dinosaurs" as 1
+participant "services eliminated" as 2
+participant "sevens rhymes" as 3
+participant "wrists gonzo" as 4
+autonumber 2 6
+1 --//o 0: scoring cushion
+critical skeletons stationed
+4 <-] : working carted
+1 <-] : pony senorita
+...great renovate...
+4 <-> 2: disasters aids
+else workable yeh
+opt bully competitiveness
+0 ->o 2: scrooge cafeteria
+4 --//o 3++ : buddy protested
+autonumber stop
+end
+end
+return sage implemented
+@enduml

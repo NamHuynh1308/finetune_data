@@ -1,0 +1,15 @@
+@startuml
+participant "tomfoolery cereal" as 0
+participant "loitering basically" as 1
+box "deported competence"
+participant "efficiency impregnated" as 2
+participant "rearranging hybrid" as 3
+end box
+ [-> 1: elastic puree
+2 -// 3: goalie silliness
+opt departing florin
+0 -\\ 0: racked alumni
+1 <-> 1++ : personable avenue
+end
+return shellfish ilk
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "strychnine madly" as 0
+box "billboards uncertain"
+participant "endeavor furtive" as 1
+end box
+autonumber 2 5
+0 ->x 1: crotch medically
+1 ->] : tense reservation
+autonumber stop
+@enduml

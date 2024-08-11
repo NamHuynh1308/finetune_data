@@ -1,0 +1,16 @@
+@startuml
+box "hat spaniel"
+participant "miles insignia" as 0
+participant "jumped hand" as 1
+participant "vowels cram" as 2
+end box
+== anatomy yon ==
+critical forgiving extravagant
+1 ->> 1: chatterbox digestive
+...regiment banging...
+2 <-> 0: bankbooks sustain
+else drummed thug
+0 --//o 1++ : blackbird blowfish
+end
+return cruelly swimming
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "minded hardened" as 0
+participant "reaper belongings" as 1
+participant "quarterbacks nudge" as 2
+participant "stamped disturbed" as 3
+== recognize recognizes ==
+0 ->x 0: whining automated
+...flu stalking...
+2 -> 3: scruples opera
+...scratches librarian...
+2 -> 3++ : stint dimly
+par scoping traditionally
+create participant "forfeits redecorating" as 4
+2 -> 4 : forfeits redecorating
+4 <-> 3: shoplifters microbes
+return patrolling wording
+4 -> 4: sleaze dined
+end
+@enduml

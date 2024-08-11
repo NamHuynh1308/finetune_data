@@ -1,0 +1,27 @@
+@startuml
+participant "crunch tiff" as 0
+participant "focused tempers" as 1
+box "chestnuts pants"
+participant "massa companionship" as 2
+participant "gallant overhaul" as 3
+end box
+autonumber 0 10
+0 <-> 3: breasted calamity
+2 ->] : heavily holders
+...diamonds quartet...
+ [<- 2: crashed price
+par tasted loaned
+0 -// 2++ : apiece attractive
+create participant "optional surrounded" as 4
+1 -> 4 : optional surrounded
+autonumber stop
+else overboard outdoors
+2 -> 2++ : entrepreneurial hassling
+end
+critical spots backups
+2 ->x 0: spies overdose
+autonumber resume
+end
+return carbon aunties
+return supportive recreating
+@enduml

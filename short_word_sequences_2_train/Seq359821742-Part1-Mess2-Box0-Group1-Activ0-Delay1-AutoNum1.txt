@@ -1,0 +1,9 @@
+@startuml
+participant "puddles bill" as 0
+autonumber 10 6
+ [<- 0: companies transference
+opt tons cornering
+...pralines illnesses...
+ [-> 0: flow drip
+end
+@enduml

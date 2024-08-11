@@ -1,0 +1,25 @@
+@startuml
+participant "sims gringo" as 0
+box "oddball bumpy"
+participant "derision halls" as 1
+participant "particular pygmies" as 2
+participant "entirety grooms" as 3
+participant "listens superiors" as 4
+end box
+== whiz blasters ==
+create participant "we ostrich" as 5
+3 -> 5 : we ostrich
+...managing gold...
+0 ->] : annoyed outdoorsy
+opt euro surrendered
+...sexy scariest...
+4 -> 2: pharmacist shyness
+alt tykes peed
+2 -> 3: schematics erases
+loop biblical percentile
+5 ->x 2: sudden clapped
+2 -\\ 4: devious ranger
+end
+end
+end
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "dilute vehicle" as 0
+0 -> 0++ : ornery fave
+opt vine trapping
+0 -// 0: literally dangerously
+return ambitions headless
+end
+@enduml

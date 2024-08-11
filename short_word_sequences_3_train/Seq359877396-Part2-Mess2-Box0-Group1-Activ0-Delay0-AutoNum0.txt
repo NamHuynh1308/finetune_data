@@ -1,0 +1,9 @@
+@startuml
+participant "hitter reddish" as 0
+participant "anyplace extend" as 1
+break mythic drill
+1 -> 1: shielded honours
+0 -> 1: humiliating obsolete
+else hats itself
+end
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "headpiece curves" as 0
+autonumber 2 7
+0 -// 0: buffy watcher
+0 <-> 0++ : sweatshop captivated
+0 -\\ 0: uncomplicated scholar
+return prim organizer
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+participant "maze pads" as 0
+participant "possessing invasive" as 1
+box "mechanical venom"
+participant "fletcher punctuality" as 2
+participant "straightened laying" as 3
+end box
+3 ->> 1++ : pacific curriculum
+opt nixed liquidate
+0 -// 2: mathematician spokes
+create participant "sensitivity leading" as 4
+2 -> 4 : sensitivity leading
+else chases receiving
+...justification vulnerability...
+0 --> 2++ : hurdles toro
+else journalist connect
+4 ->> 0++ : entertaining undoubtedly
+else single lust
+loop showered predictions
+...ketchup carries...
+3 ->x 1: hiring rotting
+end
+end
+return competitive extradite
+return instructed regimental
+return abducted undead
+@enduml

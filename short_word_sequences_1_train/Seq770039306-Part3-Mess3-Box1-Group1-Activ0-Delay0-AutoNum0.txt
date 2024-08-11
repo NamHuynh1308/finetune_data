@@ -1,0 +1,12 @@
+@startuml
+participant "pelt farthing" as 0
+participant "rid strange" as 1
+box "siren outbound"
+participant "debris scuttled" as 2
+end box
+ [<- 1: carmine interrupted
+2 <-] : charms ornery
+loop regretting standpoint
+0 --> 0: poisons ranges
+end
+@enduml

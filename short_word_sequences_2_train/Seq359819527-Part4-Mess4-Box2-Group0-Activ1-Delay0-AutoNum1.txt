@@ -1,0 +1,17 @@
+@startuml
+box "labrador cosmetic"
+participant "freshen actions" as 0
+participant "bright miserably" as 1
+participant "helped vroom" as 2
+end box
+box "auger dynamics"
+participant "subbasement creator" as 3
+end box
+== pushing troupe ==
+autonumber 10 2
+1 --//o 1: choppers enthusiastic
+2 ->o 1++ : mythical reassure
+3 -> 2: listing pager
+1 ->o 2: imperative wormed
+return berate rigor
+@enduml

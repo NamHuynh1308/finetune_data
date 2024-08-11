@@ -1,0 +1,8 @@
+@startuml
+box "starred swank"
+participant "visited tenets" as 0
+end box
+0 ->] : vial restraints
+0 <-> 0++ : narrowly jaguars
+return tubers onions
+@enduml

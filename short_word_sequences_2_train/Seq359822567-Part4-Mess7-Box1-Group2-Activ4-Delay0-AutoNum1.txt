@@ -1,0 +1,26 @@
+@startuml
+participant "matched conning" as 0
+box "resort badgered"
+participant "weekends conveniently" as 1
+participant "brewed trotting" as 2
+end box
+autonumber 5 1
+2 ->o 0++ : republic grieve
+autonumber stop
+0 -->x 2++ : abdomen awe
+autonumber resume
+create participant "harmony foundation" as 3
+1 -> 3 : harmony foundation
+2 -> 3++ : trout evacuated
+1 -> 0++ : smithereens believable
+break videotapes shoot
+1 ->x 3: clogs rom
+opt thrills phantom
+1 -> 2!! : approximate edge
+return starboard sip
+end
+end
+return giddy sections
+return paired sockets
+return agony snipe
+@enduml

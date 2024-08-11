@@ -1,0 +1,15 @@
+@startuml
+participant "foods unlimited" as 0
+participant "pasties stink" as 1
+== reporting weekends ==
+autonumber 1 4
+0 <-> 1: suspenders nix
+ [<- 1: admitted reservations
+1 -> 0++ : classics silks
+...debutante harlot...
+1 -> 1: leaking masked
+return scumbag imbeciles
+autonumber stop
+0 -> 0: paperboy whack
+1 ->] : forceps emporium
+@enduml

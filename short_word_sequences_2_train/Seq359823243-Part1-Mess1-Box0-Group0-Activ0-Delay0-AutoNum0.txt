@@ -1,0 +1,4 @@
+@startuml
+participant "bleep eighties" as 0
+0 <-> 0: manifestations proverbial
+@enduml

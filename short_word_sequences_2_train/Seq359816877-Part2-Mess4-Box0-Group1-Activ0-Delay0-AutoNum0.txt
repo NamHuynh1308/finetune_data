@@ -1,0 +1,10 @@
+@startuml
+participant "dummies cusp" as 0
+participant "caged outright" as 1
+0 -> 0: garages governed
+1 ->> 0: castle misdemeanors
+ [-> 0: visitors behaved
+par stashed pointer
+ [-> 0: epiphany snorkel
+end
+@enduml

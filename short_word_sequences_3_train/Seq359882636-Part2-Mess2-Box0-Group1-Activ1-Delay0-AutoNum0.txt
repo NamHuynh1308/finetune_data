@@ -1,0 +1,11 @@
+@startuml
+participant "saddened custodian" as 0
+participant "fleeing healers" as 1
+== scot ritter ==
+critical koala nickname
+0 -// 1: dreading checkpoints
+0 -\\ 1++ : aware retaliating
+else occurred movies
+end
+return duly puce
+@enduml

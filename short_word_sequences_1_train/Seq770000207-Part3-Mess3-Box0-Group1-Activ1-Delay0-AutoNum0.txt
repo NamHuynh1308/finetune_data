@@ -1,0 +1,12 @@
+@startuml
+participant "gripe analysts" as 0
+participant "screwball microphones" as 1
+participant "zonked outbreak" as 2
+0 -\\ 2: pfft sacrifice
+opt cupboard wither
+0 -// 0++ : sycamore smack
+2 -> 2: hormone construct
+else happened highway
+end
+return handcuffed gate
+@enduml

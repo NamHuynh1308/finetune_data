@@ -1,0 +1,12 @@
+@startuml
+box "against findings"
+participant "entry conclave" as 0
+end box
+0 <-] : buyer island
+create participant "mink directors" as 1
+0 -> 1 : mink directors
+0 <-> 0++ : concentrating admiring
+...cocked lo...
+0 -\\ 1: doornail texas
+return bugle mute
+@enduml

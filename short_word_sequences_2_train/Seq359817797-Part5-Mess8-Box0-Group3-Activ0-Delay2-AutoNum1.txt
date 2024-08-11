@@ -1,0 +1,30 @@
+@startuml
+participant "yellow licks" as 0
+participant "kingdoms direct" as 1
+participant "convened banjo" as 2
+participant "shifts impudent" as 3
+participant "stooge demented" as 4
+== incendiary creatures ==
+autonumber 7 4
+1 ->o 3: earpiece remembered
+autonumber stop
+...overwhelming gossip...
+2 <-> 3: blinked villain
+autonumber resume
+4 -> 3!! : hypocrite heartless
+alt studly purge
+1 ->o 0: overtired firewood
+opt viscount peek
+0 ->x 0: washer ad
+2 -> 1!! : evolution mermaids
+opt schnoz precedence
+...mas degraded...
+2 -> 4: conspiracies caged
+autonumber stop
+1 -->x 0: astonishing echo
+autonumber resume
+else buckling energized
+end
+end
+end
+@enduml

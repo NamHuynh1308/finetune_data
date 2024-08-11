@@ -1,0 +1,11 @@
+@startuml
+participant "offered matrimony" as 0
+== outer urologist ==
+0 -->x 0: suggest therapy
+alt roadblock bottoms
+0 ->x 0: addressing smiley
+...prostate conclusions...
+0 -> 0++ : immutable vacuum
+end
+return gnomes chuck
+@enduml

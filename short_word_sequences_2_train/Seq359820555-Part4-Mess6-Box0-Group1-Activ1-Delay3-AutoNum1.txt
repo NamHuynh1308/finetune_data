@@ -1,0 +1,21 @@
+@startuml
+participant "blank degraded" as 0
+participant "pointer fuller" as 1
+participant "core jacking" as 2
+participant "stateroom freeloading" as 3
+autonumber 9 2
+critical early pointer
+0 -\\ 1: exhilarating rests
+autonumber stop
+3 ->x 3: tapered rife
+ [-> 3: scummy tons
+end
+...invigorated whistler...
+2 --> 0: hustle redid
+...genre goblins...
+2 ->> 1: balboa cordon
+...armaments listed...
+1 --> 1++ : seminary coffers
+autonumber resume
+return whiz smears
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+box "apologize misfit"
+participant "senses counter" as 0
+end box
+autonumber 4 5
+0 -> 0: blinking appointments
+0 -> 0: admiration servant
+...impassioned assurance...
+0 -// 0: mack recruited
+0 <-> 0: worshipping outsmarted
+@enduml

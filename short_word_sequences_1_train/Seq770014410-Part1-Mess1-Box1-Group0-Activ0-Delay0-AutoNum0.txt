@@ -1,0 +1,7 @@
+@startuml
+box "stomachache bays"
+participant "millennium pedals" as 0
+end box
+== expert trays ==
+0 -> 0: restrict inadequate
+@enduml

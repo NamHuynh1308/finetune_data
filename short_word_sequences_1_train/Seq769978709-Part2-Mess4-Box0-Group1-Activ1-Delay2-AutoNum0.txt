@@ -1,0 +1,13 @@
+@startuml
+participant "bobbin mort" as 0
+participant "lukewarm whiner" as 1
+1 ->x 0++ : urgently grinder
+...whirl carmine...
+0 <-] : banged chick
+...labour suspicion...
+1 -\\ 1: breaker vehicle
+opt missions refund
+1 -\\ 1: replace trash
+end
+return miners heartland
+@enduml

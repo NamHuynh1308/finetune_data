@@ -1,0 +1,5 @@
+@startuml
+participant "mapping racist" as 0
+autonumber 1 0
+0 ->] : rinse margaritas
+@enduml

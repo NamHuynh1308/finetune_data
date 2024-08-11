@@ -1,0 +1,24 @@
+@startuml
+participant "woven certifiably" as 0
+box "peanut ledger"
+participant "telekinesis vocalist" as 1
+participant "poacher pulse" as 2
+end box
+== chords preference ==
+autonumber 7 2
+create participant "arteries kris" as 3
+0 -> 3 : arteries kris
+2 --> 3: glued backslide
+autonumber stop
+create participant "fish wives" as 4
+1 -> 4 : fish wives
+break sugar forsaken
+2 ->> 4++ : mick sons
+autonumber resume
+...stripes freebie...
+1 ->> 1: corrected snagging
+else zits fatten
+1 ->x 0: covering pickups
+return overanxious lashes
+end
+@enduml

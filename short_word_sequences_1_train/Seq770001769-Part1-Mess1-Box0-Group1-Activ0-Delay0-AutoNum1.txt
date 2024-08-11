@@ -1,0 +1,8 @@
+@startuml
+participant "make prompt" as 0
+== therapists grieves ==
+autonumber 10 5
+loop conk haggling
+0 -> 0: large runny
+end
+@enduml

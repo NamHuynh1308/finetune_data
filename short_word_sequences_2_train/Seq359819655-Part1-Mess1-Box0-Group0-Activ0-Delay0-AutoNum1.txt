@@ -1,0 +1,5 @@
+@startuml
+participant "grocery comrade" as 0
+autonumber 3 5
+0 -> 0: listener intruded
+@enduml

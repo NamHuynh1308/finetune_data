@@ -1,0 +1,14 @@
+@startuml
+participant "membership fives" as 0
+== buzzes directive ==
+autonumber 1 8
+0 --> 0++ : deadliest practicing
+...suede florists...
+0 -> 0: browning severed
+par solo bloody
+0 -> 0: peerless failures
+0 ->x 0: rashes checkbook
+else midtown blinders
+end
+return impersonate grandparents
+@enduml

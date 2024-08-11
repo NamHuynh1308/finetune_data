@@ -1,0 +1,21 @@
+@startuml
+box "crackpot robe"
+participant "moral smooching" as 0
+participant "equipped handouts" as 1
+participant "goggle strategies" as 2
+end box
+participant "residence eviscerated" as 3
+autonumber 0 5
+0 -\\ 1++ : twit hazy
+1 --//o 1++ : cling cosmopolitan
+2 -->x 3++ : beefy homely
+0 -->x 3: tankers allows
+autonumber stop
+critical abstinence loosely
+create participant "jeweler adverse" as 4
+0 -> 4 : jeweler adverse
+end
+return allegiances exemption
+return medicare swimsuits
+return abode rousted
+@enduml

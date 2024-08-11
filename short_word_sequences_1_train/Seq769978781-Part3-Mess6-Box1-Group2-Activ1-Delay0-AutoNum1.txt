@@ -1,0 +1,20 @@
+@startuml
+box "makeover cerebrum"
+participant "proposing periodic" as 0
+participant "graphite spiral" as 1
+participant "prematurely tempted" as 2
+end box
+autonumber 8 6
+1 <-] : extort wait
+1 -> 0++ : pillage baldness
+0 -> 0: shoal care
+1 ->] : crumbs gnomes
+loop vein gripe
+0 -> 1: norther fined
+return lava marble
+autonumber stop
+opt ruff spotlight
+2 -\\ 1: murders envisioned
+end
+end
+@enduml

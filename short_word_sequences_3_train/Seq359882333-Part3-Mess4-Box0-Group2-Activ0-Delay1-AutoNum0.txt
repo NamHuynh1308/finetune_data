@@ -1,0 +1,15 @@
+@startuml
+participant "scams yech" as 0
+participant "sensory sheds" as 1
+participant "aft grilling" as 2
+== commented gunnery ==
+ [<- 2: marriage humour
+...guilder theaters...
+ [-> 1: solve poofs
+par fashions concert
+ [<- 2: carburetor tux
+par affect doubting
+0 <-] : shelters annoys
+end
+end
+@enduml

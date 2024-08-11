@@ -1,0 +1,10 @@
+@startuml
+participant "merry guessed" as 0
+participant "transient comply" as 1
+ [-> 0: authorize stony
+1 -> 1++ : succeeded cling
+...anatomy reneging...
+0 <-> 0++ : floppy comedy
+return should trainer
+return pennant blurry
+@enduml

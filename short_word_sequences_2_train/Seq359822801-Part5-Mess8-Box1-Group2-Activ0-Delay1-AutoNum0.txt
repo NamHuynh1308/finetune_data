@@ -1,0 +1,23 @@
+@startuml
+participant "workstation pressured" as 0
+box "pollack solitude"
+participant "cruises napalm" as 1
+participant "theatrical subdural" as 2
+end box
+participant "attributed silenced" as 3
+participant "masseuse negate" as 4
+== firstly buds ==
+3 -\\ 1: sizes denying
+1 ->o 0: embedded stately
+par orienteering unreal
+0 ->x 3: devastation aberration
+ [<- 3: nada trappings
+2 -> 0!! : mom buckaroo
+...ser elephants...
+ [<- 4: thrives shingle
+ [<- 4: celebration redundancy
+par untrained fervor
+3 -\\ 0: coals arched
+end
+end
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+box "battleground guardians"
+participant "readings christy" as 0
+end box
+== extending molester ==
+autonumber 9 0
+0 --//o 0: slung negotiator
+autonumber stop
+0 -> 0: briefings reactionary
+@enduml

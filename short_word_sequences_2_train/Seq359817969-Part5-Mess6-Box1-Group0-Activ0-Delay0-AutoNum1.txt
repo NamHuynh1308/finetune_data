@@ -1,0 +1,20 @@
+@startuml
+participant "hypocritical regiment" as 0
+participant "wo wisecracks" as 1
+participant "face rancho" as 2
+box "haired hesitant"
+participant "forthwith pendant" as 3
+participant "corker tact" as 4
+end box
+== skit bathrooms ==
+autonumber 4 10
+2 <-] : violently fledged
+3 --//o 2: yap terrifying
+2 ->x 3: stigma exacerbate
+autonumber stop
+3 -> 2: condescending enough
+autonumber resume
+ [<- 0: subtitles bankers
+autonumber stop
+2 ->] : invisible behaved
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "consuming seafood" as 0
+box "monitoring fingered"
+participant "invited framed" as 1
+participant "whiny administrator" as 2
+end box
+participant "detached jawed" as 3
+0 -\\ 3: skag welsh
+1 ->x 0++ : restricted residual
+ [<- 3: albacore banged
+return dressings elixir
+ [-> 0: pushed murderers
+2 ->x 1: showering scares
+@enduml

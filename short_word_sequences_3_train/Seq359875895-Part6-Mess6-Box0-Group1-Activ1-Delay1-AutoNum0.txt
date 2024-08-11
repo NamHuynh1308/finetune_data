@@ -1,0 +1,18 @@
+@startuml
+participant "recheck caterers" as 0
+participant "pierced curacao" as 1
+participant "improvise cuddles" as 2
+participant "conked worth" as 3
+participant "negotiation ems" as 4
+create participant "slice killjoy" as 5
+2 -> 5 : slice killjoy
+3 -> 2++ : legalities suspend
+2 -// 4: shat refrigerator
+return mini efficiently
+3 <-> 3: murders accountability
+5 -> 4!! : dicky residences
+alt despite assailant
+...anomalies medics...
+3 -> 0!! : noir stilettos
+end
+@enduml

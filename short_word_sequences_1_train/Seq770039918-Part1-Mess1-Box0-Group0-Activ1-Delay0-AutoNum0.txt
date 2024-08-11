@@ -1,0 +1,5 @@
+@startuml
+participant "percentage gets" as 0
+0 <-> 0++ : interchangeable brushed
+return canoe strawberry
+@enduml

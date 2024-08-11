@@ -1,0 +1,8 @@
+@startuml
+participant "framing blossomed" as 0
+autonumber 0 6
+0 ->o 0: premeditated retailers
+autonumber stop
+ [<- 0: psst boarder
+autonumber resume
+@enduml

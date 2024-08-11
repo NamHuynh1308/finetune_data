@@ -1,0 +1,19 @@
+@startuml
+participant "welding synchronize" as 0
+participant "greater gratification" as 1
+participant "heartache logged" as 2
+participant "poker journal" as 3
+ [<- 1: airplanes oxygen
+...keel cons...
+0 <-] : ashram pavement
+create participant "womanhood techniques" as 4
+2 -> 4 : womanhood techniques
+1 -\\ 0++ : commemorating sequined
+4 -> 4: helplessness becks
+alt disperse baseman
+4 ->] : quilting goodbye
+create participant "servitude shortcut" as 5
+4 -> 5 : servitude shortcut
+end
+return hup cleanser
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "negligee offensive" as 0
+== duo mumbled ==
+create participant "blaring aloft" as 1
+0 -> 1 : blaring aloft
+...voluntary cheating...
+0 <-> 1++ : stool toxins
+1 ->> 1: massacre concealer
+opt cesspool selectman
+0 -> 1: retarded honouring
+return ammonia marble
+end
+@enduml

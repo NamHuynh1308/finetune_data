@@ -1,0 +1,7 @@
+@startuml
+box "reversible premier"
+participant "bloodshed fireproof" as 0
+end box
+autonumber 8 9
+0 ->x 0: toxicity credibility
+@enduml

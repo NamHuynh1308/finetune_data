@@ -1,0 +1,11 @@
+@startuml
+participant "intuitive scoop" as 0
+== nailed construction ==
+autonumber 3 2
+0 -> 0!! : handles alchemy
+autonumber stop
+0 -\\ 0: axel barrio
+create participant "healing prosperity" as 1
+0 -> 1 : healing prosperity
+autonumber resume
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "lured polar" as 0
+participant "scullery weekends" as 1
+== jackpot space ==
+autonumber 2 4
+1 <-> 0: od rooster
+1 -->x 0: accomplices deodorant
+0 <-] : pled nightmarish
+0 -> 0: clapping assures
+autonumber stop
+@enduml

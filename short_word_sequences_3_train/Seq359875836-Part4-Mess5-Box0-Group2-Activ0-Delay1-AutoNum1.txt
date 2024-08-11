@@ -1,0 +1,19 @@
+@startuml
+participant "wins activators" as 0
+participant "forgo squiggly" as 1
+participant "vehicular ragtime" as 2
+participant "incriminate deposition" as 3
+autonumber 7 8
+par closer standoff
+1 -->x 3: tons phoned
+ [<- 1: radiology loose
+alt marines fletcher
+2 -// 3: shareholder advocating
+autonumber stop
+1 ->x 3: quinine flavored
+autonumber resume
+...granddaughters riding...
+0 --//o 1: households hunches
+end
+end
+@enduml

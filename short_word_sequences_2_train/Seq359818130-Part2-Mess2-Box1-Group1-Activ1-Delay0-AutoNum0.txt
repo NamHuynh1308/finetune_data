@@ -1,0 +1,12 @@
+@startuml
+box "classified encounters"
+participant "hinted groveling" as 0
+participant "meantime confederation" as 1
+end box
+== rubes nowadays ==
+loop vanquished unstuck
+0 -> 1++ : extortionist crumbs
+1 -> 1: edge depressors
+end
+return eighties zipping
+@enduml

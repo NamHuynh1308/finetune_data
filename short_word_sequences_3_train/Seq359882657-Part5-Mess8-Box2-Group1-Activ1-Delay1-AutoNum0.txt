@@ -1,0 +1,24 @@
+@startuml
+participant "ranks facet" as 0
+box "fathers rainy"
+participant "stick oriented" as 1
+box "devote lawyered"
+participant "churn roving" as 2
+participant "arid complaints" as 3
+participant "expenditure capacity" as 4
+end box
+end box
+== extramarital emporium ==
+1 -> 4: impatient extraterrestrial
+4 ->> 1: dingo ambush
+2 ->x 4: kidnappers shivers
+par maw navy
+...requested egos...
+0 ->x 2: bogus creaky
+1 -> 2++ : salesmen scholarship
+3 -> 4: prudence syphilis
+return actuality pulsating
+ [<- 4: secrecy surfers
+1 ->x 1: avenge implicates
+end
+@enduml

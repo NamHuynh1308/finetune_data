@@ -1,0 +1,5 @@
+@startuml
+participant "empowerment serving" as 0
+autonumber 3 1
+0 ->> 0: curtsy analyse
+@enduml

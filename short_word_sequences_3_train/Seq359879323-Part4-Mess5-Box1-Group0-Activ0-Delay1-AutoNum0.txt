@@ -1,0 +1,14 @@
+@startuml
+participant "curry fracture" as 0
+participant "tenor moments" as 1
+box "caterwauling opposed"
+participant "clues pauses" as 2
+participant "bench dummy" as 3
+end box
+3 --//o 1: arresting poignant
+1 --//o 2: bonbon pertaining
+2 ->x 3: participants tellers
+1 -->x 1: cylinders molesting
+...shack tempers...
+ [<- 1: cruelly slopes
+@enduml

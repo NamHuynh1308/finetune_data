@@ -1,0 +1,17 @@
+@startuml
+participant "teetering patterns" as 0
+participant "trickery gran" as 1
+participant "liberating affectionate" as 2
+== gaps trackers ==
+create participant "event realms" as 3
+1 -> 3 : event realms
+break garish entertaining
+2 -> 2++ : characteristics enchanted
+0 ->x 1: reckoning podium
+return slayer nova
+ [-> 2: reroute boss
+else grosses anger
+3 -> 2!! : spread hat
+else overhearing chums
+end
+@enduml

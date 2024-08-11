@@ -1,0 +1,16 @@
+@startuml
+participant "loft mirage" as 0
+participant "future anise" as 1
+participant "clack courier" as 2
+participant "terrorized underwater" as 3
+alt defrost backs
+2 --//o 2: keepers fluffy
+critical watched usefulness
+2 -> 1++ : instigator zooming
+1 ->x 2: calcium wand
+return blown model
+...crapped approved...
+3 -> 1: offspring jaguars
+end
+end
+@enduml

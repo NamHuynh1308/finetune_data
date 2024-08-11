@@ -1,0 +1,19 @@
+@startuml
+box "prohibit ageing"
+participant "voice pence" as 0
+participant "sensors wormed" as 1
+box "ignored overload"
+participant "gnawing forthright" as 2
+end box
+end box
+== cor heinous ==
+autonumber 10 6
+opt stack regular
+0 -\\ 1++ : halfway glowing
+1 <-] : vampires bureau
+0 -> 2: telemarketing exfoliate
+autonumber stop
+else tights patronizing
+end
+return breaking ton
+@enduml

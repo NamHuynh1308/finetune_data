@@ -1,0 +1,12 @@
+@startuml
+box "birthing bagpipes"
+participant "workshop tattooed" as 0
+participant "feline twice" as 1
+end box
+participant "downtown att" as 2
+0 --//o 2: fusilli cosy
+par hormones bohemian
+2 -\\ 1: circumference baggy
+0 --//o 1: hemorrhaging interesting
+end
+@enduml

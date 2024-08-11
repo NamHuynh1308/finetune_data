@@ -1,0 +1,17 @@
+@startuml
+participant "hoedown dork" as 0
+participant "alienated assignments" as 1
+box "bo excel"
+participant "sighing solid" as 2
+end box
+autonumber 3 4
+loop altercation consciousness
+2 <-> 2: sirloin aligning
+autonumber stop
+create participant "menace planner" as 3
+2 -> 3 : menace planner
+else funky targeting
+3 -\\ 0: murder pungent
+autonumber resume
+end
+@enduml

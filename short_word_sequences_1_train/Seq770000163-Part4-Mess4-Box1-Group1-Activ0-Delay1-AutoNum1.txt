@@ -1,0 +1,17 @@
+@startuml
+participant "ebony itchy" as 0
+box "fleet rabbit"
+participant "evolve monitoring" as 1
+participant "clutched correction" as 2
+participant "slaying fruits" as 3
+end box
+autonumber 9 6
+ [<- 0: sharks rah
+2 <-] : upping wits
+loop shelters briefing
+...detours porcelain...
+1 <-] : unscrupulous blatantly
+2 <-] : into distinctions
+else enticed pocketful
+end
+@enduml

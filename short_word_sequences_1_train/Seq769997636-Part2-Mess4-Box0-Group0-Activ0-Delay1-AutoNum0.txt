@@ -1,0 +1,9 @@
+@startuml
+participant "reptiles prestigious" as 0
+0 <-] : escort primarily
+0 <-] : volleyball sharp
+create participant "topes sark" as 1
+0 -> 1 : topes sark
+...communique downs...
+1 --> 1: companions underline
+@enduml

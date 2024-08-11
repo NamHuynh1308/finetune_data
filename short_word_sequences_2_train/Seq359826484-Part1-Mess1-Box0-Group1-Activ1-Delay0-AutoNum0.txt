@@ -1,0 +1,7 @@
+@startuml
+participant "staffed nome" as 0
+break scope qualifying
+0 --//o 0++ : sol redskins
+end
+return tucker balding
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "bags honed" as 0
+participant "walks sailed" as 1
+ [-> 0: harps barometer
+0 -// 0: shoehorn acrobat
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+box "formations yak"
+participant "stinking infrared" as 0
+participant "grog wally" as 1
+end box
+participant "ogre astronomical" as 2
+participant "raggedy warhead" as 3
+== vibes miracle ==
+create participant "requires crack" as 4
+3 -> 4 : requires crack
+2 ->> 0++ : tacit skittish
+0 --//o 1: weeds redneck
+return downfall freshman
+3 ->> 3: intubate dependency
+1 -// 1: sixpence punishing
+@enduml

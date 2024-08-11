@@ -1,0 +1,17 @@
+@startuml
+participant "cavalry pint" as 0
+box "hansom admires"
+participant "ashore anguished" as 1
+end box
+autonumber 7 1
+1 -> 0!! : erect elevators
+0 -> 0: hilltop vow
+autonumber stop
+1 ->o 1: business threw
+0 ->> 1: mythology nightmare
+autonumber resume
+par sure inaccurate
+1 ->> 1: impacted cited
+autonumber stop
+end
+@enduml

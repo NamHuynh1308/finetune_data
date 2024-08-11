@@ -1,0 +1,17 @@
+@startuml
+box "chapters brit"
+participant "caff safes" as 0
+participant "alabaster shun" as 1
+end box
+participant "wipers interpretation" as 2
+0 -> 2: mustache amounted
+1 ->x 2++ : geriatric bustle
+2 --//o 1++ : jugular tripled
+1 ->o 2++ : audio pasties
+1 ->> 2: bot offices
+create participant "theatre scorpion" as 3
+0 -> 3 : theatre scorpion
+return imbedded fifties
+return bashed bonds
+return slim yelling
+@enduml

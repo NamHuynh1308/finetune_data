@@ -1,0 +1,15 @@
+@startuml
+participant "whoever cobbler" as 0
+participant "squeegee candlestick" as 1
+== windbag felonies ==
+1 -\\ 0: collectors assets
+...wont practical...
+1 ->> 0: barrio hangout
+1 <-> 0++ : spandex showbiz
+0 <-] : probability proposing
+alt art fang
+1 ->o 0: cranial wings
+0 ->> 0: transported scroll
+end
+return retiring zapped
+@enduml

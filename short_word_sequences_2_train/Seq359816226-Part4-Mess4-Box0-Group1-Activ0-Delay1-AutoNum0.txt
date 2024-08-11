@@ -1,0 +1,13 @@
+@startuml
+participant "tas blankly" as 0
+participant "hip enterprise" as 1
+participant "freelancer perfumed" as 2
+participant "near handoff" as 3
+opt label belonging
+3 ->] : wish moan
+3 -> 1!! : herd brad
+...my admitted...
+2 <-] : mills bonding
+2 ->> 0: language civility
+end
+@enduml

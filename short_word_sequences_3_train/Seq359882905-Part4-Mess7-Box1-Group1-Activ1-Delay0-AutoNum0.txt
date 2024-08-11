@@ -1,0 +1,19 @@
+@startuml
+box "squiggly song"
+participant "correspondents downpour" as 0
+participant "whip filmed" as 1
+participant "gatekeeper disabling" as 2
+end box
+participant "cent rounding" as 3
+== unsupervised cuckoo ==
+2 ->> 1++ : purer concise
+2 ->> 1: belts wining
+return perpetrated foreseeable
+1 ->o 2: pane symptomatic
+0 -> 3!! : prose godlike
+3 -> 1: octopus crepes
+alt cells secretly
+1 -> 2: former droves
+1 <-> 1: deserves importantly
+end
+@enduml

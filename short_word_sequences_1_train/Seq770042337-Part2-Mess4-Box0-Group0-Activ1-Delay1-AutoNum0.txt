@@ -1,0 +1,11 @@
+@startuml
+participant "revolting mafia" as 0
+== strongbox bystander ==
+0 -> 0!! : antiquated claimed
+0 -> 0++ : personalities philosophers
+create participant "healer humanitarian" as 1
+0 -> 1 : healer humanitarian
+...condo outset...
+0 -->x 0: shoal gauze
+return inefficient accepting
+@enduml

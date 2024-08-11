@@ -1,0 +1,9 @@
+@startuml
+participant "acclimated placed" as 0
+== literally condensed ==
+autonumber 5 5
+0 ->o 0: blinked stink
+0 <-] : pride thawed
+create participant "racist sexy" as 1
+0 -> 1 : racist sexy
+@enduml

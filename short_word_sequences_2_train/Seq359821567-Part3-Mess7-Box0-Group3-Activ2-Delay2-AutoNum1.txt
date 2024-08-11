@@ -1,0 +1,26 @@
+@startuml
+participant "splitting object" as 0
+participant "lassie vacations" as 1
+participant "filmmaker airhead" as 2
+== deluxe serves ==
+autonumber 4 8
+2 <-] : ironclad teaching
+par suffocating waitress
+2 --> 2: unadvisedly residents
+0 -->x 0: blurb blackness
+else feasible effective
+0 ->o 2++ : subways retrieval
+loop turbulent constructive
+...obscenities frostbite...
+2 -\\ 0: marlin commanders
+...whey shoveling...
+2 --//o 2++ : jawbone deprived
+autonumber stop
+alt toxic apprehensive
+1 --//o 1: commenting fixture
+end
+end
+end
+return impact felicity
+return lifeless vendettas
+@enduml

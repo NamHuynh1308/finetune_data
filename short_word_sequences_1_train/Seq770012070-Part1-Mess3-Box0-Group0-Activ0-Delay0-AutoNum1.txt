@@ -1,0 +1,7 @@
+@startuml
+participant "changed spritzer" as 0
+autonumber 7 6
+0 ->] : technique help
+0 -> 0: pax fugu
+0 <-> 0: extenuating referencing
+@enduml

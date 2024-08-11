@@ -1,0 +1,16 @@
+@startuml
+participant "rages meatloaf" as 0
+participant "cherries incapable" as 1
+1 <-> 0: daffy motive
+1 -> 1++ : fielder yesterday
+opt cooks jawed
+0 ->x 0++ : autograph mezzanine
+1 ->x 0++ : bright prednisone
+end
+alt fireballs rains
+0 -->x 0: parted captive
+end
+return perchance paint
+return computer defend
+return calmer features
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "tonsil late" as 0
+participant "rude thrice" as 1
+autonumber 5 7
+0 -> 1: pony buddies
+alt packed deeper
+1 --> 1++ : elective coin
+0 --> 1: thermometer slopes
+1 -> 1: keep sneeze
+autonumber stop
+else pines beauties
+loop sitcom brokenhearted
+1 <-] : ejaculate guided
+end
+end
+return inaccuracies wham
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "farewells keys" as 0
+== tamper eliminated ==
+autonumber 3 9
+0 ->] : unquenchable brief
+0 --> 0: jest tear
+0 ->> 0: luna holographic
+@enduml

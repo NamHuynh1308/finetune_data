@@ -1,0 +1,16 @@
+@startuml
+participant "cannibals trains" as 0
+participant "up cubes" as 1
+participant "chamomile piqued" as 2
+participant "mezzanine cheaper" as 3
+autonumber 8 5
+loop baker ben
+0 -> 0: reaper continuous
+3 -> 1!! : lowering apology
+1 -> 2: irrigation individually
+break prancing rehash
+ [<- 1: durable dermatologist
+0 <-] : suburbs intimidate
+end
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "lizards acquaint" as 0
+participant "infested annoyances" as 1
+autonumber 6 3
+0 ->o 0: memento cartouche
+0 <-> 0: spacey missions
+...copied mortals...
+0 ->] : magical despise
+alt devils slice
+0 -\\ 0++ : blending cozy
+autonumber stop
+end
+return aerobics landers
+@enduml

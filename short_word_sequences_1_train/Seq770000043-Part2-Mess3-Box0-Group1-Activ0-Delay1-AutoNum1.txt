@@ -1,0 +1,12 @@
+@startuml
+participant "radiating smirk" as 0
+autonumber 2 7
+create participant "dysfunctional race" as 1
+0 -> 1 : dysfunctional race
+0 <-> 0: astronaut rosy
+par polar paler
+...nick anal...
+0 -> 1: gnome pulling
+autonumber stop
+end
+@enduml

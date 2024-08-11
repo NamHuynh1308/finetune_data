@@ -1,0 +1,15 @@
+@startuml
+participant "hanger cued" as 0
+participant "sentinel electrical" as 1
+participant "searched unquote" as 2
+box "scalding closure"
+participant "scenic trouser" as 3
+end box
+== edits intolerant ==
+2 -> 0: spouting western
+opt notary kirk
+0 -> 2: contains rethink
+2 -> 3: negotiations impassioned
+1 -\\ 1: machete ante
+end
+@enduml

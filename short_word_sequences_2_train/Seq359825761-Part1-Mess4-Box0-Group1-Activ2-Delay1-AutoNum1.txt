@@ -1,0 +1,15 @@
+@startuml
+participant "different disconnect" as 0
+autonumber 4 6
+par caviar dangling
+0 <-> 0: vestibule rob
+0 -\\ 0++ : nothing sensors
+0 ->o 0++ : planners makings
+autonumber stop
+...thrilling twisting...
+0 -->x 0: championship harper
+return soda exactly
+autonumber resume
+end
+return budgets vamps
+@enduml

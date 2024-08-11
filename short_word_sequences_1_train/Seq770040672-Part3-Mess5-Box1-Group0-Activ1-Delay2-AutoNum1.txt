@@ -1,0 +1,17 @@
+@startuml
+participant "sentences opium" as 0
+box "suitcases outdated"
+participant "languages detained" as 1
+participant "planets pass" as 2
+end box
+== ghettos gothic ==
+autonumber 8 1
+0 -// 2: missile baba
+0 -> 1: mowed observed
+...celebration chowder...
+0 -> 2: rekindle unholy
+...loan monitored...
+1 -> 0++ : improperly sizable
+ [<- 1: thumbprint actor
+return queen fortunes
+@enduml

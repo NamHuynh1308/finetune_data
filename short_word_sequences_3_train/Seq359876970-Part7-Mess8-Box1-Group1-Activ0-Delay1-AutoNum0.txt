@@ -1,0 +1,24 @@
+@startuml
+participant "spelling rewarding" as 0
+participant "drops partially" as 1
+participant "plugged perverse" as 2
+box "targets hill"
+participant "dolt tremor" as 3
+participant "gargoyle commercials" as 4
+end box
+== interactive jeeps ==
+2 -// 1: specifics degenerative
+4 ->] : visitor rites
+...universal vile...
+3 -\\ 0: inherits starving
+alt stripe ironclad
+4 ->o 2: ranchers reportedly
+create participant "following absolution" as 5
+1 -> 5 : following absolution
+0 -// 2: scurrying lifers
+else pier roofer
+create participant "stroller frayed" as 6
+3 -> 6 : stroller frayed
+6 -\\ 3: lefts margins
+end
+@enduml

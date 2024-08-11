@@ -1,0 +1,7 @@
+@startuml
+participant "police joy" as 0
+autonumber 1 6
+0 <-> 0: sequel songwriter
+0 -->x 0: whiteness laundered
+autonumber stop
+@enduml

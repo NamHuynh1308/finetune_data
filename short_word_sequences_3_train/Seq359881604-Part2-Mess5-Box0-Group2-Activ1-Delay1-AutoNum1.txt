@@ -1,0 +1,20 @@
+@startuml
+participant "teen chickens" as 0
+== confiscated indicates ==
+autonumber 3 0
+loop abilities lighter
+0 --//o 0: bitten respectful
+...grudge bravery...
+0 -> 0++ : fringe jockstrap
+autonumber stop
+break disturbing dinnertime
+create participant "fling domination" as 1
+0 -> 1 : fling domination
+return conditions averse
+autonumber resume
+0 <-> 0: accurately bomber
+0 <-] : pans newest
+else tactics variations
+end
+end
+@enduml

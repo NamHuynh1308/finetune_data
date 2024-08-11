@@ -1,0 +1,8 @@
+@startuml
+participant "suckers banshee" as 0
+participant "holdup licorice" as 1
+== pilar alter ==
+create participant "nutty growing" as 2
+0 -> 2 : nutty growing
+2 ->o 1: rusty retaliating
+@enduml

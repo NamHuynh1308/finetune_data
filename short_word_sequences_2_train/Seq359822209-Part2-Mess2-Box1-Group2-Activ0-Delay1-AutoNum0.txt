@@ -1,0 +1,14 @@
+@startuml
+box "confederate performing"
+participant "houseguests murderers" as 0
+end box
+== snuck roundabout ==
+par baptize filet
+create participant "terminal amusement" as 1
+0 -> 1 : terminal amusement
+par godly prisons
+...salmonella guidelines...
+1 -> 0: folder locator
+end
+end
+@enduml

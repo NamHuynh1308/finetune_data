@@ -1,0 +1,12 @@
+@startuml
+participant "sordid renovation" as 0
+== doodle what ==
+autonumber 3 6
+create participant "accidents gossips" as 1
+0 -> 1 : accidents gossips
+create participant "whittling comebacks" as 2
+0 -> 2 : whittling comebacks
+2 --//o 2: reasonably humus
+1 ->> 0++ : feared alphabet
+return upside resistant
+@enduml

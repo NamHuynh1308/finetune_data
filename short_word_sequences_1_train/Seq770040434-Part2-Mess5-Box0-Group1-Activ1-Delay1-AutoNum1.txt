@@ -1,0 +1,17 @@
+@startuml
+participant "posts soothsayer" as 0
+participant "shoplifters prissy" as 1
+== article investigate ==
+autonumber 6 5
+ [-> 1: admiration pooped
+...prenatal samples...
+ [<- 1: believing stimuli
+autonumber stop
+0 -\\ 1: rodents asparagus
+autonumber resume
+1 <-] : dread frostbite
+loop abreast shotgun
+0 --//o 1++ : nosed concerts
+end
+return realms stories
+@enduml

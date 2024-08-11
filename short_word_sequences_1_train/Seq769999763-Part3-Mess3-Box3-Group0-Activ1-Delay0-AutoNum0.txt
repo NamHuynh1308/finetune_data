@@ -1,0 +1,16 @@
+@startuml
+box "cats lunatic"
+participant "aisles worthless" as 0
+box "pronouns braille"
+participant "happily mosquitoes" as 1
+box "duet preconceived"
+participant "bossy retail" as 2
+end box
+end box
+end box
+== hup poke ==
+2 -> 1: coyotes retaliated
+ [<- 2: awol burning
+1 ->x 0++ : egos bozo
+return tests inhabitants
+@enduml

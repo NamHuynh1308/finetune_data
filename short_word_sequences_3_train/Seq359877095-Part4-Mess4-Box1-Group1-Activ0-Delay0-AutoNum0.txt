@@ -1,0 +1,14 @@
+@startuml
+box "placate papa"
+participant "funnies veracity" as 0
+participant "impala growing" as 1
+end box
+participant "toyed dunking" as 2
+participant "entertaining monument" as 3
+alt hugger rest
+2 ->> 1: balk worm
+1 -> 3!! : perm enjoys
+2 -> 3!! : patchouli conservative
+end
+0 --//o 1: biological winging
+@enduml

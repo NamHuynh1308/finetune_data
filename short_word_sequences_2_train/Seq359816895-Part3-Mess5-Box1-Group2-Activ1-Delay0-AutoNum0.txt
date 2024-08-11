@@ -1,0 +1,18 @@
+@startuml
+participant "bolster sinners" as 0
+box "miraculous mowing"
+participant "hypnotize toasting" as 1
+end box
+== hemline normalcy ==
+0 -\\ 1: numbers chromosomes
+break wailing foreigners
+0 -> 0++ : needing ridiculous
+0 -// 0: solicit harpy
+opt masters shattering
+create participant "hitters incompetent" as 2
+0 -> 2 : hitters incompetent
+return claiming pitch
+0 -> 2: sideline wreck
+end
+end
+@enduml

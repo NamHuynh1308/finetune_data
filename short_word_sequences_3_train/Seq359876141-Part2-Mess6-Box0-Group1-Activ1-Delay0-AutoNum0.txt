@@ -1,0 +1,15 @@
+@startuml
+participant "uninvolved aha" as 0
+participant "tablecloth antacid" as 1
+== existed suds ==
+0 -> 1!! : hairball apache
+alt helipad derriere
+1 -> 1: compressed arthritis
+0 -> 0: antibody flattering
+1 -> 1: trampling awards
+0 --//o 0++ : libido category
+1 ->> 1: doodle rub
+return hugest seasonal
+else pincushion consul
+end
+@enduml

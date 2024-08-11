@@ -1,0 +1,25 @@
+@startuml
+box "dag booth"
+participant "occasions worker" as 0
+participant "deterrent gooey" as 1
+end box
+participant "glow refugee" as 2
+participant "nothings pitied" as 3
+participant "mouthful gravel" as 4
+autonumber 6 4
+0 -\\ 3: homecoming cliff
+4 -> 4: homemade tutoring
+autonumber stop
+3 ->] : averages distance
+autonumber resume
+4 ->x 2: audible stub
+4 -> 4++ : blatantly buttering
+...disobedience sine...
+1 -->x 2: bannister minions
+par um cubicle
+0 -> 1++ : erupt termination
+2 <-> 1: patty psychiatrist
+end
+return bree endangering
+return chopped luxury
+@enduml

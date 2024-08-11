@@ -1,0 +1,16 @@
+@startuml
+participant "department strained" as 0
+participant "urns crispy" as 1
+== hallway gotten ==
+loop toying crippled
+0 <-> 1++ : offices detours
+alt motions lakeside
+0 -> 0++ : trails bloodless
+1 ->] : fort glass
+else scented raven
+0 --//o 1: cologne structure
+end
+end
+return converging alerting
+return grossing tas
+@enduml

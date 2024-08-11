@@ -1,0 +1,20 @@
+@startuml
+participant "sold shabbily" as 0
+participant "berlin bells" as 1
+box "cruised sagging"
+participant "arbor riddance" as 2
+box "measures fortified"
+participant "hot serenade" as 3
+participant "purge dumper" as 4
+end box
+end box
+autonumber 6 9
+0 -> 0: hickory hummer
+...fogged quarters...
+4 ->x 0: halitosis territory
+1 -->x 1: crud ironclad
+...salient damnable...
+2 ->> 1++ : bumps annoying
+0 -->x 1: behind kidnap
+return compel pursuing
+@enduml

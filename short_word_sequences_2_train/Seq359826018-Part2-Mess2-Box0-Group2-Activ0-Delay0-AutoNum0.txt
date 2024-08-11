@@ -1,0 +1,10 @@
+@startuml
+participant "shakes oasis" as 0
+participant "obligated recheck" as 1
+loop surfing contender
+1 -> 0: regulars attempts
+loop scavenging sluggish
+1 ->> 1: adultery twisted
+end
+end
+@enduml

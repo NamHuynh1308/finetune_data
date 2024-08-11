@@ -1,0 +1,17 @@
+@startuml
+participant "plop lance" as 0
+participant "metaphors wigged" as 1
+critical simpletons hamburgers
+0 -> 1: assignment faulty
+break prancing cables
+1 -\\ 0++ : giggly detail
+loop supposition convert
+1 ->> 0: stride cowboy
+1 ->x 0: sipping reverence
+1 -// 0: transfusions sauna
+1 <-] : pigtails reactions
+end
+end
+end
+return urban exes
+@enduml

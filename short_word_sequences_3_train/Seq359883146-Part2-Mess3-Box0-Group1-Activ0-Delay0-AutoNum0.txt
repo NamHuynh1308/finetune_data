@@ -1,0 +1,10 @@
+@startuml
+participant "sheep basements" as 0
+== chirpy preys ==
+loop actor authors
+ [<- 0: maximum aunties
+0 ->] : section klutz
+create participant "blossomed uphold" as 1
+0 -> 1 : blossomed uphold
+end
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+box "welcomes download"
+participant "interact trained" as 0
+participant "issues jam" as 1
+participant "heated transcript" as 2
+participant "raise sandwiches" as 3
+end box
+0 -->x 0: flowing reunite
+2 <-] : raid hazy
+2 -->x 2: diminutive decreased
+0 -\\ 2++ : loathed overachiever
+return vocal pained
+@enduml

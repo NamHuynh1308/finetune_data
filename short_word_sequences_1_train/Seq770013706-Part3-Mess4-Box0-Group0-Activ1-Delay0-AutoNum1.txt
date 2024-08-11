@@ -1,0 +1,12 @@
+@startuml
+participant "indicator downgraded" as 0
+participant "deathly lilies" as 1
+autonumber 7 4
+ [-> 1: stupor presentable
+create participant "grilled outside" as 2
+1 -> 2 : grilled outside
+ [-> 2: problem sawdust
+1 -> 0++ : coin hubcaps
+autonumber stop
+return tinkle overcompensating
+@enduml

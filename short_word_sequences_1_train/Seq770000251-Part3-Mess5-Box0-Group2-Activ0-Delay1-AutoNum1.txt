@@ -1,0 +1,18 @@
+@startuml
+participant "pac up" as 0
+participant "lumbar hunters" as 1
+participant "correct implant" as 2
+autonumber 10 9
+0 --//o 2: rifle commission
+autonumber stop
+break experiences soviet
+...woof uncertain...
+2 -> 1: ose giving
+autonumber resume
+alt baboons reborn
+ [-> 1: beanie consort
+ [<- 0: comics subway
+1 --> 0: divers carried
+end
+end
+@enduml

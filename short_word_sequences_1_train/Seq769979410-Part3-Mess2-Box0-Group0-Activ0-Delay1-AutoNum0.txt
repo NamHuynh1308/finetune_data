@@ -1,0 +1,8 @@
+@startuml
+participant "rose department" as 0
+participant "central metamorphosis" as 1
+create participant "lug selected" as 2
+1 -> 2 : lug selected
+...spying operatives...
+2 ->] : broad cookies
+@enduml

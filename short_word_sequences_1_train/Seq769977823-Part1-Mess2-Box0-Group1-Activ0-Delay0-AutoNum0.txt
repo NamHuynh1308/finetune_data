@@ -1,0 +1,7 @@
+@startuml
+participant "adjusted seep" as 0
+loop incapacitated radios
+0 ->x 0: symbiote faxed
+0 ->x 0: communing peckish
+end
+@enduml

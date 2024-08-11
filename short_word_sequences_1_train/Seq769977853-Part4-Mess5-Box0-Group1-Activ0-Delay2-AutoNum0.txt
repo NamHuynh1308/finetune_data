@@ -1,0 +1,16 @@
+@startuml
+participant "magnificently creep" as 0
+participant "guesses incantation" as 1
+participant "bangs southern" as 2
+== rhyme unraveled ==
+0 -> 1: customary dogged
+...exciting strongest...
+0 <-] : refuses intentional
+0 ->] : sidetracked alameda
+create participant "contractions preoccupied" as 3
+0 -> 3 : contractions preoccupied
+alt concentrate support
+...natives highway...
+2 <-> 2: unpleasantness veritas
+end
+@enduml

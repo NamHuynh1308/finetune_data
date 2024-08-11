@@ -1,0 +1,8 @@
+@startuml
+box "relativity megaphone"
+participant "lids deficit" as 0
+participant "nope quarantine" as 1
+end box
+1 <-> 0: lazy pages
+0 ->o 0: failed rejoice
+@enduml

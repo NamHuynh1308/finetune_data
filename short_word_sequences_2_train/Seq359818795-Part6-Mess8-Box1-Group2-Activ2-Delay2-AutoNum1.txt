@@ -1,0 +1,31 @@
+@startuml
+box "philosopher lin"
+participant "issues adventure" as 0
+participant "intensely lube" as 1
+participant "nightly mulberry" as 2
+participant "trainee saloon" as 3
+participant "inedible protector" as 4
+end box
+autonumber 5 10
+0 -\\ 3++ : socialized paychecks
+...corrupting citywide...
+3 -> 2!! : misspoke insolence
+alt law sinker
+3 -> 4!! : dismantling resemble
+0 -> 1!! : turnpike mailed
+autonumber stop
+create participant "denying colleen" as 5
+4 -> 5 : denying colleen
+autonumber resume
+3 ->x 0: nonsense puzzling
+return misinterpret bombarded
+end
+opt christening fleet
+...revamp haycock...
+0 -> 0++ : remote celebration
+autonumber stop
+1 -> 2: equation figment
+else distributing siren
+end
+return coney jabbering
+@enduml

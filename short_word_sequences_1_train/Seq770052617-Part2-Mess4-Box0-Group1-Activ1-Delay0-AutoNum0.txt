@@ -1,0 +1,12 @@
+@startuml
+participant "electro nightstick" as 0
+== pilar grouch ==
+0 --> 0++ : stables sacrifices
+0 -// 0: lucifer rehabilitated
+opt sticker swooning
+0 -> 0!! : stirs flagship
+create participant "disappointment proposals" as 1
+0 -> 1 : disappointment proposals
+end
+return theres shaves
+@enduml

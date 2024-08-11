@@ -1,0 +1,18 @@
+@startuml
+participant "unplug underline" as 0
+participant "intrigued salad" as 1
+box "tusk questionnaire"
+participant "thump seekers" as 2
+end box
+== cools poetic ==
+autonumber 3 5
+2 -> 0: welling mailman
+1 ->x 1: biology salad
+alt liquor tropic
+...asparagus auspicious...
+1 --> 0: denominational crawlers
+break quaking swamps
+1 --//o 2: kendo viceroy
+end
+end
+@enduml

@@ -1,0 +1,31 @@
+@startuml
+participant "inscription dissolves" as 0
+participant "bond entitled" as 1
+box "bisque skater"
+participant "talk dignify" as 2
+box "margaritas dismissive"
+participant "dedication alleged" as 3
+end box
+end box
+autonumber 6 1
+2 -->x 0: evicted symbolic
+autonumber stop
+par bearable millimeter
+1 -> 1: brotherhood retribution
+3 -->x 3: petrified quadrant
+autonumber resume
+loop asbestos currents
+3 --> 3: appropriate bratwurst
+opt profanity streetwalker
+create participant "planes greetings" as 4
+1 -> 4 : planes greetings
+...plug selfless...
+3 ->x 0: stink amphetamines
+opt distinctions chico
+4 -> 0!! : absorbed column
+autonumber stop
+end
+end
+end
+end
+@enduml

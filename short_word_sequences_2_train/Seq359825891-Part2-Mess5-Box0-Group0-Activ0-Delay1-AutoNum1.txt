@@ -1,0 +1,12 @@
+@startuml
+participant "bondsman citizen" as 0
+autonumber 8 7
+create participant "hazel munitions" as 1
+0 -> 1 : hazel munitions
+0 ->] : meow blaze
+...metaphor hotdog...
+0 -->x 1: infarction alternating
+1 -> 1: tranquilizer posing
+autonumber stop
+1 -> 1!! : charitable telekinesis
+@enduml

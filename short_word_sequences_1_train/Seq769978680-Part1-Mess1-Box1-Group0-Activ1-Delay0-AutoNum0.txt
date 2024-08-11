@@ -1,0 +1,8 @@
+@startuml
+box "hairdresser breakable"
+participant "freezers tomb" as 0
+end box
+== assertive missions ==
+0 -> 0++ : mohair buzz
+return kickback rejection
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+box "budgeted mending"
+participant "meditate planet" as 0
+end box
+0 -// 0: mule unsatisfying
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "grow expedient" as 0
+participant "schedules counselling" as 1
+box "in wasting"
+participant "mangoes mourned" as 2
+end box
+== burbs wander ==
+critical chaplain doomed
+0 -// 2: spy first
+1 <-> 0++ : parlor citrus
+end
+par egotistical veggies
+0 ->o 2: prescribe scrapbook
+end
+return slice agrees
+@enduml

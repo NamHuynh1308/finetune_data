@@ -1,0 +1,10 @@
+@startuml
+participant "brow impression" as 0
+participant "sonnet referencing" as 1
+0 -> 0: someway glint
+0 -> 1!! : unauthorized millet
+...mocking clanking...
+0 -> 1: findings mohel
+...goddamned atonement...
+1 --> 0: piercing takeout
+@enduml

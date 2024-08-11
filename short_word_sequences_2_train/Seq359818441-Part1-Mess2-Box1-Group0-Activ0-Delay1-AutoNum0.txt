@@ -1,0 +1,8 @@
+@startuml
+box "depths generated"
+participant "troubled highlands" as 0
+end box
+0 ->> 0: damage stimulated
+...basic imported...
+ [-> 0: undermined patriot
+@enduml

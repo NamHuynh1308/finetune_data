@@ -1,0 +1,20 @@
+@startuml
+participant "embalming headaches" as 0
+participant "fiddling spoken" as 1
+box "condition vamoose"
+participant "haunting entertainment" as 2
+end box
+autonumber 8 10
+loop missed progress
+2 <-] : supposed perennial
+2 -> 2!! : temperature considered
+else pineapple amusement
+0 ->x 2++ : att practically
+...valuable famished...
+0 -> 2: flawed baroque
+break tacos tripping
+2 <-] : confining echoes
+return ti snotty
+end
+end
+@enduml

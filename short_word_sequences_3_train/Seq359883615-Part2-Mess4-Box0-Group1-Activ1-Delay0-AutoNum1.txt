@@ -1,0 +1,13 @@
+@startuml
+participant "oppress druthers" as 0
+participant "crossroads compost" as 1
+autonumber 3 1
+1 -> 0!! : hey thumb
+alt kappa trailer
+0 -> 1++ : eyebrows embedded
+1 <-] : garages insulated
+1 -// 1: remedy membranes
+return subtext antics
+else courteous smoothly
+end
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "ourselves havoc" as 0
+participant "watched fallible" as 1
+participant "saltines wrenched" as 2
+ [<- 1: explained midland
+ [<- 0: heavier softer
+2 ->> 2: am hisses
+...pachyderm kiosk...
+2 -> 1: dish parachute
+@enduml

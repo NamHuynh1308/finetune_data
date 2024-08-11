@@ -1,0 +1,18 @@
+@startuml
+box "vanish earthquakes"
+participant "reopen outgoing" as 0
+participant "reporter killjoy" as 1
+box "brand landmark"
+participant "fundraisers sorrows" as 2
+participant "faraway miscreant" as 3
+end box
+end box
+2 -> 1: conscience listens
+3 -->x 0: bangers advice
+alt gratuitous review
+0 -> 1: snowflake idolized
+3 -> 3: drowning launcher
+1 -> 2!! : fedora blindfolded
+end
+3 --> 2: herds ate
+@enduml

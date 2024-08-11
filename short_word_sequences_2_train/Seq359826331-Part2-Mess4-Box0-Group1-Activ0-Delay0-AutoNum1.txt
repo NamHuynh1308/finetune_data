@@ -1,0 +1,12 @@
+@startuml
+participant "tween forcing" as 0
+participant "upwards labeled" as 1
+autonumber 0 1
+break homo uncool
+ [-> 1: school participation
+1 ->o 1: article sunk
+autonumber stop
+end
+0 <-> 1: improved arena
+0 -->x 0: northeastern blank
+@enduml

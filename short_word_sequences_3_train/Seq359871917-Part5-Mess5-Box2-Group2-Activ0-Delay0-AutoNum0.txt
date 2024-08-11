@@ -1,0 +1,20 @@
+@startuml
+box "guard newborn"
+participant "yeast fussing" as 0
+participant "convention apathy" as 1
+end box
+participant "sizzling scrunch" as 2
+participant "decay struggled" as 3
+box "weird anxiously"
+participant "bungalow braggart" as 4
+end box
+3 -> 0: morbid taker
+1 -> 0: trample evil
+2 -> 2: checkpoints fervor
+alt weiner jockeys
+4 ->x 4: perfecto penniless
+opt shortsighted unwelcome
+0 -> 0: marina fucks
+end
+end
+@enduml

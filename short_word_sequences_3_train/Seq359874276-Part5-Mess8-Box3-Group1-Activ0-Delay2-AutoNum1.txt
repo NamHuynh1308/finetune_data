@@ -1,0 +1,33 @@
+@startuml
+box "cautious blasters"
+participant "indictments classrooms" as 0
+box "mates hurray"
+participant "bagpipes slight" as 1
+participant "anticipating civilians" as 2
+end box
+participant "digesting compensated" as 3
+end box
+box "badness probate"
+participant "grandkid concentrated" as 4
+end box
+== inexperience valise ==
+autonumber 7 10
+1 --> 1: ethyl reorganize
+0 -> 4: mosey divisions
+autonumber stop
+0 ->] : hobbits wee
+autonumber resume
+1 --> 2: digestion quilting
+par morals behaviour
+4 -\\ 3: sung product
+4 ->> 4: applesauce drivel
+autonumber stop
+else theaters exporting
+...divided fertility...
+0 -> 3: serial remote
+autonumber resume
+...womanizing mysteries...
+3 -->x 4: hunks bring
+else toothbrush danger
+end
+@enduml

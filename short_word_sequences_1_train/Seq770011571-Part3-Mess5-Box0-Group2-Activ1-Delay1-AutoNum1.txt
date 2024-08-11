@@ -1,0 +1,19 @@
+@startuml
+participant "branching skirmishes" as 0
+participant "floating culpable" as 1
+== workable descendants ==
+autonumber 10 7
+0 ->> 1: cooped crawls
+break laundry intends
+create participant "lobbying opposed" as 2
+0 -> 2 : lobbying opposed
+...lactose handyman...
+2 ->> 0: nighttime agile
+else slant holders
+opt audacity trials
+2 -> 0: suicidal carving
+2 --//o 2++ : marines measure
+end
+end
+return trapper blackmailing
+@enduml

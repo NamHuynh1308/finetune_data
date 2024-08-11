@@ -1,0 +1,9 @@
+@startuml
+box "amber dragged"
+participant "trader bunches" as 0
+participant "report aches" as 1
+end box
+1 <-] : skulls jaguar
+1 ->> 0: hun sledge
+0 -> 0!! : stomping duchess
+@enduml

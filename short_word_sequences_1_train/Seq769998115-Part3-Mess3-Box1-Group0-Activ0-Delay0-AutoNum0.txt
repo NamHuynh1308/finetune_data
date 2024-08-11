@@ -1,0 +1,10 @@
+@startuml
+participant "own tales" as 0
+box "minimize sleazebag"
+participant "patching trait" as 1
+participant "bard creaming" as 2
+end box
+2 -\\ 0: bordello wagons
+1 <-> 2: typically prophet
+0 ->o 1: softy leave
+@enduml

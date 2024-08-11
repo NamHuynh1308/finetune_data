@@ -1,0 +1,17 @@
+@startuml
+participant "dated squeezed" as 0
+participant "panics pending" as 1
+participant "disparity slave" as 2
+== bumps mercer ==
+2 -> 1: witchcraft inspiring
+1 -> 2!! : mettle puppet
+...teachers cued...
+1 --//o 1++ : idle spins
+1 -> 2: patched imbedded
+alt banged exterminated
+2 -> 0: somewhere trolling
+return cowboy enthusiast
+0 -> 0++ : boyfriends otter
+end
+return clone overdid
+@enduml

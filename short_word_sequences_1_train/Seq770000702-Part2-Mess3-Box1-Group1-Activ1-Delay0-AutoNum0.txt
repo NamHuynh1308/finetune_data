@@ -1,0 +1,13 @@
+@startuml
+box "spleen slackers"
+participant "claims resurrection" as 0
+participant "intimidate orgasmic" as 1
+end box
+== tire rev ==
+1 -\\ 0++ : means entity
+1 -> 1: dreary same
+alt awaits commandant
+0 -->x 1: telegram waitressed
+return flicks baggies
+end
+@enduml

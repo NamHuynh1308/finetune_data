@@ -1,0 +1,9 @@
+@startuml
+box "painkillers os"
+participant "educating printing" as 0
+end box
+0 -> 0: garages upstage
+0 ->> 0: pewter occupied
+0 ->] : campaign intrusion
+0 -> 0!! : excessively homemaker
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "perimeter photographer" as 0
+participant "squawking hairpin" as 1
+box "algorithms ticker"
+participant "rubbing leech" as 2
+participant "hunters undertow" as 3
+end box
+2 <-> 3: tequila derivative
+alt conjugal competitive
+0 -> 1!! : offered walk
+0 -// 2: defended sucks
+...slender knows...
+1 -// 0++ : seventeenth crick
+end
+return papers or
+@enduml

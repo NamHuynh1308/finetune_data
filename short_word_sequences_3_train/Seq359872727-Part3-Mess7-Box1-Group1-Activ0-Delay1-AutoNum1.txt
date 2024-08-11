@@ -1,0 +1,21 @@
+@startuml
+participant "transferred jiminy" as 0
+participant "muggings crisis" as 1
+box "aardvark lipped"
+participant "weensy mugged" as 2
+end box
+autonumber 10 8
+2 <-> 1: negotiable crashes
+1 ->> 0: nourish investigates
+...detecting crewman...
+ [-> 0: enigma recruiter
+1 ->] : falafel gaga
+autonumber stop
+1 -> 1: snuggling casualty
+break ho submitting
+0 -->x 1: hallucinate attachment
+autonumber resume
+0 <-] : trick mousey
+else dispensing cobwebs
+end
+@enduml

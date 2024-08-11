@@ -1,0 +1,27 @@
+@startuml
+participant "direction deterrent" as 0
+box "symbiotic penguins"
+participant "reunite electroshock" as 1
+participant "certainty dateline" as 2
+end box
+participant "bunches glimmer" as 3
+participant "incubation fantastically" as 4
+1 <-] : significant urns
+alt potholes colonized
+3 --> 1: dilly commodity
+...learn variant...
+1 -> 1: counsellor visiting
+2 -> 3: cats jubilee
+else involve visor
+1 -->x 0: cured kidnap
+4 -> 0: programming unarmed
+end
+...roast cruiser...
+4 -// 2: hesitates operas
+opt surf tequila
+4 --//o 3: junkie pemmican
+...everyone local...
+3 --> 0: taller spunk
+else rewriting tests
+end
+@enduml

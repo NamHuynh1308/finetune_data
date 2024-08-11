@@ -1,0 +1,17 @@
+@startuml
+box "fern rows"
+participant "mannequins freckle" as 0
+participant "comfort confederacy" as 1
+end box
+create participant "sailed miscalculation" as 2
+1 -> 2 : sailed miscalculation
+critical twas sixes
+...relationship suffered...
+0 -> 2++ : cheep canals
+1 <-> 0: liberty remarry
+0 -> 1: yore apprised
+end
+0 ->] : odor toke
+2 -// 1: spared badge
+return pardon three
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+box "withdrawn evolve"
+participant "stands jettison" as 0
+participant "deviled retailers" as 1
+end box
+0 -> 0!! : undertaking squirrel
+0 ->x 0: anniversary taint
+@enduml

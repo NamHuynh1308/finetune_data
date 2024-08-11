@@ -1,0 +1,10 @@
+@startuml
+participant "neighbor invoice" as 0
+participant "denying outrun" as 1
+critical rarity redevelopment
+0 -> 1!! : pray signing
+1 -> 0: etched delirious
+end
+...guided aids...
+1 ->] : criminally vaccine
+@enduml

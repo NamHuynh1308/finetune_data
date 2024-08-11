@@ -1,0 +1,11 @@
+@startuml
+participant "uncut goodbyes" as 0
+participant "theirs winds" as 1
+== stymied tsk ==
+autonumber 1 9
+ [<- 1: pet semple
+0 -\\ 1: bombs gal
+autonumber stop
+1 <-] : turret sexist
+autonumber resume
+@enduml

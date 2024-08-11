@@ -1,0 +1,4 @@
+@startuml
+participant "salary whereabouts" as 0
+0 ->> 0: obscenities veritas
+@enduml

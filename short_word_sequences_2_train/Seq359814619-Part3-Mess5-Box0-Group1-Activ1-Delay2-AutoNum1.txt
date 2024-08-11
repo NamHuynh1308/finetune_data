@@ -1,0 +1,16 @@
+@startuml
+participant "ferrets yearned" as 0
+participant "acclimate orderly" as 1
+participant "sitcoms repairs" as 2
+autonumber 2 3
+critical lefty caller
+ [-> 1: crawled gawking
+...shoveled stunk...
+1 <-> 1: zoning parent
+2 <-] : ranch firebird
+...hostilities obscenity...
+2 ->> 2++ : crapping saxophone
+end
+0 <-] : hijacking cuppa
+return capper pond
+@enduml

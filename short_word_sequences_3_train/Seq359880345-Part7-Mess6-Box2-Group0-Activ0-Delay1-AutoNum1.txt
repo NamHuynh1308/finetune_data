@@ -1,0 +1,24 @@
+@startuml
+participant "damned module" as 0
+participant "absurd ticklish" as 1
+box "teleport spraying"
+participant "humdinger shy" as 2
+box "moo confuse"
+participant "trailers cocoa" as 3
+participant "prioritize emotions" as 4
+end box
+end box
+== swirl received ==
+autonumber 9 10
+3 -> 2: right inaccurate
+...conceited longtime...
+2 <-] : enormity splendid
+0 -// 2: reunited woe
+create participant "recharge condolences" as 5
+0 -> 5 : recharge condolences
+autonumber stop
+create participant "asparagus welsh" as 6
+0 -> 6 : asparagus welsh
+autonumber resume
+3 ->> 0: impotence warmer
+@enduml

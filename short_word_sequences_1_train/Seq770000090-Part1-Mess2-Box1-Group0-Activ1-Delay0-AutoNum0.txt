@@ -1,0 +1,9 @@
+@startuml
+box "goblin analyst"
+participant "wrecked soy" as 0
+end box
+== mornings minks ==
+0 --> 0: ventilate verified
+0 ->> 0++ : prof concocted
+return wrench mole
+@enduml

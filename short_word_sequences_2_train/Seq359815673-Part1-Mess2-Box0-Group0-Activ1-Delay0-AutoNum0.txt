@@ -1,0 +1,6 @@
+@startuml
+participant "bending disappears" as 0
+0 -// 0++ : watching content
+0 ->] : simpletons leaves
+return poem awaiting
+@enduml

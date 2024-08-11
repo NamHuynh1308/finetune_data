@@ -1,0 +1,18 @@
+@startuml
+box "obituary gonzo"
+participant "discover hypocrites" as 0
+participant "inflame persnickety" as 1
+participant "teamed except" as 2
+end box
+box "clashing screaming"
+participant "hypodermic ecosystem" as 3
+end box
+== renal purchases ==
+0 <-> 0: watermelon billionaire
+...rid airman...
+2 ->] : terminating thusly
+...sabotaging smith...
+3 ->> 1: specialist gain
+...pig manly...
+1 -->x 0: shalom pathologist
+@enduml

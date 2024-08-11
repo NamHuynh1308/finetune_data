@@ -1,0 +1,14 @@
+@startuml
+box "unforgiving referral"
+participant "reviewer dollhouse" as 0
+participant "millisecond rested" as 1
+end box
+1 -> 1++ : hold plots
+ [-> 0: phobic kissing
+...dilettante marzipan...
+0 -\\ 1: daphne nibbling
+return intention seemingly
+break forks profiles
+1 -> 1: squirts unavailable
+end
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "accuracy spurt" as 0
+box "wandered pitches"
+participant "foothold fixed" as 1
+end box
+1 -> 0++ : pee handsome
+ [-> 0: answering breeze
+return nannies pooling
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "necessary cornering" as 0
+participant "dresser warheads" as 1
+1 ->] : dubbed milky
+0 <-> 0: squash efficient
+@enduml

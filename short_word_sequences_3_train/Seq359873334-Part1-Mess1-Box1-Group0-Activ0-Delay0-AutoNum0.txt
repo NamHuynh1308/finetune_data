@@ -1,0 +1,7 @@
+@startuml
+box "tumor seamless"
+participant "remote gets" as 0
+end box
+== coriander previous ==
+0 ->> 0: mistrial spark
+@enduml

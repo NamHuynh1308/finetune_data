@@ -1,0 +1,16 @@
+@startuml
+participant "journalistic poses" as 0
+participant "nearby frost" as 1
+participant "fletcher pardner" as 2
+participant "psalm half" as 3
+autonumber 1 1
+loop weirdness venom
+3 --> 3: grubbing demerits
+...eternally manages...
+2 -> 1: bugle wound
+end
+3 -->x 3: robe curry
+autonumber stop
+2 -> 1: stealth manipulate
+autonumber resume
+@enduml

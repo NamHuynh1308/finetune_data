@@ -1,0 +1,9 @@
+@startuml
+participant "variant overcharge" as 0
+autonumber 8 6
+0 ->x 0++ : business hidden
+autonumber stop
+0 -> 0: anywhere blaze
+0 -> 0: laboratory tragically
+return hillbilly current
+@enduml

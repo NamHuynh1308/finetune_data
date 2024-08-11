@@ -1,0 +1,17 @@
+@startuml
+participant "junior cottages" as 0
+participant "roadway activists" as 1
+participant "fine caved" as 2
+autonumber 8 7
+loop serial gears
+2 --//o 0++ : getting exhumation
+0 -> 1: skeptic belvedere
+autonumber stop
+2 <-] : applaud framing
+0 -> 2++ : misbehave cates
+autonumber resume
+else baiting decker
+end
+return quark loyalties
+return duo puppies
+@enduml

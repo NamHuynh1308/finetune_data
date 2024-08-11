@@ -1,0 +1,15 @@
+@startuml
+participant "armor gastric" as 0
+box "scanning demons"
+participant "raven refuses" as 1
+participant "recanted frailty" as 2
+end box
+participant "respirations achieving" as 3
+autonumber 0 5
+2 -> 1!! : expects relinquishing
+1 <-] : vaporized dissection
+ [-> 2: blessed clutch
+3 -> 1++ : surprising razors
+2 -->x 1: toenails underage
+return sappy foamy
+@enduml

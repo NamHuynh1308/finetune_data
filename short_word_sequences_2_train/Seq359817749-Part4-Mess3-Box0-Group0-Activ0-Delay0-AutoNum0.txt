@@ -1,0 +1,9 @@
+@startuml
+participant "nurtured trickster" as 0
+participant "abomination bridesmaid" as 1
+participant "merrily manifesting" as 2
+2 --> 2: impossibility juicy
+create participant "negotiator races" as 3
+1 -> 3 : negotiator races
+2 --//o 3: transaction offered
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+box "detente comparatively"
+participant "generous glare" as 0
+participant "warnings shattered" as 1
+end box
+== whom everlasting ==
+autonumber 2 1
+0 -> 0++ : sickness balconies
+create participant "over analyzed" as 2
+1 -> 2 : over analyzed
+return lier divert
+@enduml

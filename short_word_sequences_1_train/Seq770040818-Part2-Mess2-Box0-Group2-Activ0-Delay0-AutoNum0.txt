@@ -1,0 +1,10 @@
+@startuml
+participant "lop saps" as 0
+participant "follicle rings" as 1
+opt planet pixels
+ [-> 0: distraught vengeance
+opt preppy palsy
+0 <-] : pane pinecone
+end
+end
+@enduml

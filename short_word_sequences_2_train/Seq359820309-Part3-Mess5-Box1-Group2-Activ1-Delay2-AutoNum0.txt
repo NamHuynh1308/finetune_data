@@ -1,0 +1,19 @@
+@startuml
+box "shindig vegetarians"
+participant "changing coddle" as 0
+participant "chameleon actualization" as 1
+participant "unplugged fatal" as 2
+end box
+ [-> 0: formerly plane
+alt messed primping
+0 -> 2: ruffle mythology
+...maximum humankind...
+1 ->] : peacetime badness
+...phooey shoo...
+2 -->x 1++ : acclaim inconveniencing
+loop preparations realty
+1 --> 2: hangnail advert
+return quotation prevail
+end
+end
+@enduml

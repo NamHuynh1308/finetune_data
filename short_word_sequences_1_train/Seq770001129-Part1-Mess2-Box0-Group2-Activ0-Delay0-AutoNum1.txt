@@ -1,0 +1,11 @@
+@startuml
+participant "lights buzzing" as 0
+== hike excusing ==
+autonumber 0 9
+loop summit reign
+0 ->> 0: act filters
+par realise hotdogs
+0 -\\ 0: unlikable wallop
+end
+end
+@enduml

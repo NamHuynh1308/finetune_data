@@ -1,0 +1,8 @@
+@startuml
+box "toothpicks consumes"
+participant "enchanted manslaughter" as 0
+end box
+loop lyrical recreation
+0 --> 0: baptists badminton
+end
+@enduml

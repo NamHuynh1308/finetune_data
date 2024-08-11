@@ -1,0 +1,6 @@
+@startuml
+participant "cloth graces" as 0
+participant "surroundings egos" as 1
+0 -> 1: clap discipline
+0 --> 0: radios heartbeats
+@enduml

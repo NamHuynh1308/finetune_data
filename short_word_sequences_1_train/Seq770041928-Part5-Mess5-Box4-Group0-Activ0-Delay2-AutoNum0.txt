@@ -1,0 +1,23 @@
+@startuml
+box "bullies kind"
+participant "ammo dismissive" as 0
+box "feminist executing"
+participant "planes entail" as 1
+box "adequate orchestrate"
+participant "landing outdoors" as 2
+box "haunts retrograde"
+participant "saddest violations" as 3
+end box
+end box
+end box
+end box
+== comprehending proofs ==
+3 -// 1: components bordering
+...wiser insightful...
+3 ->x 1: rebuilt schoolteacher
+2 -> 1: subdued shovels
+create participant "summons banshee" as 4
+1 -> 4 : summons banshee
+...plates dawdling...
+2 -> 3: dauphin playful
+@enduml

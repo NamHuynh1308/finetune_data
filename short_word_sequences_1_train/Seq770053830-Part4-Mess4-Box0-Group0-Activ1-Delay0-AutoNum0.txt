@@ -1,0 +1,11 @@
+@startuml
+participant "pointer pointing" as 0
+participant "explicitly petitioner" as 1
+participant "gross belts" as 2
+2 ->x 1++ : experiments speculations
+0 -\\ 0: buckle exotic
+0 -// 2: dabbled argument
+return carbs sphere
+create participant "duration withstand" as 3
+2 -> 3 : duration withstand
+@enduml

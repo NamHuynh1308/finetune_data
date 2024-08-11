@@ -1,0 +1,28 @@
+@startuml
+participant "screwup therefore" as 0
+participant "lady although" as 1
+box "theatres unburden"
+participant "wrote mighty" as 2
+end box
+autonumber 9 1
+2 -> 0++ : bossing altruistic
+critical fey satisfy
+2 -> 1!! : notification morsel
+0 -\\ 1++ : anonymous bashed
+autonumber stop
+else pints serves
+critical boarding immune
+create participant "chasing electrocute" as 3
+1 -> 3 : chasing electrocute
+return pampering withdrawals
+autonumber resume
+...ballpark ensued...
+1 --//o 0++ : middleweight embankment
+autonumber stop
+3 -> 1: scanners gratification
+return breakups hordes
+else tattooed yen
+end
+end
+return obtain me
+@enduml

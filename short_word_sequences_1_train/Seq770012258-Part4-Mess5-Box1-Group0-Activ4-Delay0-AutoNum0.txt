@@ -1,0 +1,17 @@
+@startuml
+participant "calms brigade" as 0
+participant "beloved jeopardy" as 1
+box "breathed parishioners"
+participant "groundhog lakes" as 2
+participant "postponement use" as 3
+end box
+1 --> 0++ : bungalow inviting
+2 -> 2++ : spell louvre
+0 ->> 0++ : leopards goodness
+ [<- 2: brisket peon
+2 -> 2++ : museum feel
+return validate challenges
+return douche expressed
+return skinned prevail
+return wagon dismantle
+@enduml

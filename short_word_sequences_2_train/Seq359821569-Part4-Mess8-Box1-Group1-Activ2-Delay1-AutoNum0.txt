@@ -1,0 +1,23 @@
+@startuml
+box "helipad pickups"
+participant "policemen dears" as 0
+participant "plots taunted" as 1
+participant "pi brioche" as 2
+participant "defying uncontrolled" as 3
+end box
+2 -> 2++ : hornets firebird
+1 <-> 0: larvae fleeting
+...constipation disowned...
+3 -// 2++ : hornets condensation
+1 ->x 1: mangos lives
+loop indulged pluck
+2 ->o 2: irresistible pitch
+return planners interviewing
+0 --//o 0: solid patrolling
+else princes motherfucking
+ [-> 1: beak parliament
+return farewell pooh
+else sledgehammer retreating
+ [-> 2: midtown middle
+end
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+box "allies cleared"
+participant "regulars ahold" as 0
+participant "clinical vee" as 1
+box "nymph koi"
+participant "croon helpers" as 2
+box "cram heartbreaking"
+participant "agenda instruction" as 3
+end box
+end box
+end box
+3 -\\ 2: trophy fogged
+2 -> 1!! : strips jib
+3 -> 2: farts wares
+1 <-> 3: fixtures injustice
+...enthralled unstuck...
+3 -> 2: dogwood coasters
+create participant "foibles bravo" as 4
+2 -> 4 : foibles bravo
+@enduml

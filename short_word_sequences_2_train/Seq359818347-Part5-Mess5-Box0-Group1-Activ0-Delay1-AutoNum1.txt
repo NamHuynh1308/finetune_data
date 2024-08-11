@@ -1,0 +1,17 @@
+@startuml
+participant "grins miscellaneous" as 0
+participant "doormat geosynchronous" as 1
+participant "duress dings" as 2
+participant "friend abroad" as 3
+autonumber 0 6
+ [<- 1: securing dosages
+0 -> 0: favours cobb
+autonumber stop
+create participant "jeepers junction" as 4
+1 -> 4 : jeepers junction
+break wicked oddest
+...formality coupons...
+1 -// 1: clock bashing
+3 ->o 4: cleans midwife
+end
+@enduml

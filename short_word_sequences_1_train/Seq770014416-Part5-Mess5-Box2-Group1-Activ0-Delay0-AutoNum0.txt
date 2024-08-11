@@ -1,0 +1,21 @@
+@startuml
+box "rambunctious fittings"
+participant "joiner inexperience" as 0
+participant "queens snapped" as 1
+box "envied woes"
+participant "converted aspirins" as 2
+participant "leave prim" as 3
+end box
+end box
+== persecuting silken ==
+3 -// 3: unnerved disciplines
+loop unwelcome excesses
+1 -// 0: overprotective anna
+create participant "bookshelf missiles" as 4
+1 -> 4 : bookshelf missiles
+else cheat wit
+0 -> 4: came suss
+2 ->o 1: mahatma fruition
+else forensic relax
+end
+@enduml

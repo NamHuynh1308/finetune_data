@@ -1,0 +1,15 @@
+@startuml
+participant "pardons woodshed" as 0
+participant "truffles quixote" as 1
+participant "provides rashly" as 2
+participant "oddly themes" as 3
+== ecumenical mumbling ==
+autonumber 4 2
+3 -> 1++ : hobble knockers
+1 ->o 3: sacrifice knockers
+return slice bloodsucking
+2 -\\ 1++ : condemned want
+create participant "maneuvers conversion" as 4
+0 -> 4 : maneuvers conversion
+return pinky concealment
+@enduml

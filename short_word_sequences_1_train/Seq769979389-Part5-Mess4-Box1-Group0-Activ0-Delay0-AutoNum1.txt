@@ -1,0 +1,15 @@
+@startuml
+participant "journalist occupied" as 0
+box "vascular crayons"
+participant "band pulmonary" as 1
+participant "geese despair" as 2
+participant "castor allergy" as 3
+end box
+autonumber 5 5
+create participant "hammered peg" as 4
+3 -> 4 : hammered peg
+4 -\\ 4: loosened healed
+1 -> 4!! : scuff bluff
+autonumber stop
+2 -> 4!! : insert ballads
+@enduml

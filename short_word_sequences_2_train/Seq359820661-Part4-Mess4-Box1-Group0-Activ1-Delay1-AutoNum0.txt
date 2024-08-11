@@ -1,0 +1,14 @@
+@startuml
+participant "haircuts overview" as 0
+participant "righto disruptions" as 1
+box "inhaled shay"
+participant "shoplifters nightmare" as 2
+participant "converge winged" as 3
+end box
+3 -> 2: detail ruffle
+ [<- 3: influenza condemned
+...baffling helping...
+2 --//o 1++ : trait neckline
+1 -> 3: kale panic
+return splash advertisers
+@enduml

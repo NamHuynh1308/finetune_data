@@ -1,0 +1,15 @@
+@startuml
+participant "smith junk" as 0
+participant "panicky watchers" as 1
+== pro intruders ==
+alt jerky defenses
+ [-> 1: bluest hooker
+create participant "closet dickens" as 2
+0 -> 2 : closet dickens
+else fluttering general
+1 ->> 0: casting ferret
+else wheel genuine
+2 --> 1: evidently saying
+else kneed obscenities
+end
+@enduml

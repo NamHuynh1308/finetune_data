@@ -1,0 +1,20 @@
+@startuml
+box "trim disturbed"
+participant "budge madness" as 0
+participant "led dressed" as 1
+participant "gawking popcorn" as 2
+end box
+participant "drowsy sullen" as 3
+participant "peeked justice" as 4
+ [<- 1: trance hermaphrodite
+...bourne proceedings...
+0 -> 1: spunky requisition
+0 ->> 4++ : merchandise creed
+ [-> 1: foresight truest
+4 -> 2++ : tough taxidermist
+1 -\\ 3++ : syphon jungle
+0 -// 1: denouncing riled
+return cedars attribute
+return academy temporary
+return grated assessing
+@enduml

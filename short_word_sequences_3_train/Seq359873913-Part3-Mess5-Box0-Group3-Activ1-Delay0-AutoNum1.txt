@@ -1,0 +1,18 @@
+@startuml
+participant "underpants thunderbird" as 0
+participant "lord hoisting" as 1
+autonumber 3 9
+1 -->x 0: contemplate mob
+create participant "detained froze" as 2
+0 -> 2 : detained froze
+alt monstrous anguished
+2 ->o 2++ : nurtured rouse
+alt exports understudy
+ [-> 1: mountains senile
+critical inventive dementia
+1 <-> 0: recap interpreter
+end
+end
+end
+return overcome sharks
+@enduml

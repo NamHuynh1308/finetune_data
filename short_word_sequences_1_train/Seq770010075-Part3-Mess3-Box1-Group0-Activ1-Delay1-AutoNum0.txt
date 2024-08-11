@@ -1,0 +1,13 @@
+@startuml
+participant "nibble recanting" as 0
+box "shorter turtle"
+participant "sickest flashlight" as 1
+end box
+== simulations energy ==
+create participant "flats alias" as 2
+1 -> 2 : flats alias
+...hips fights...
+1 -> 1++ : discord observed
+1 -> 0!! : nametag deciding
+return heed burgers
+@enduml

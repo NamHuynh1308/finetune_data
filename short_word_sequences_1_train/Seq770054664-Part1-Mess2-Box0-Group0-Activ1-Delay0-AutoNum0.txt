@@ -1,0 +1,7 @@
+@startuml
+participant "bare stereo" as 0
+== self peacemaker ==
+0 -->x 0++ : exhibited type
+0 -->x 0: fist fumigating
+return cowardly hydrogen
+@enduml

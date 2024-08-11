@@ -1,0 +1,13 @@
+@startuml
+participant "pep retreating" as 0
+autonumber 5 4
+loop engage apprehended
+create participant "rotting homage" as 1
+0 -> 1 : rotting homage
+autonumber stop
+0 -->x 1: ya vault
+...herself contours...
+ [<- 0: peasant clandestine
+else drum lied
+end
+@enduml

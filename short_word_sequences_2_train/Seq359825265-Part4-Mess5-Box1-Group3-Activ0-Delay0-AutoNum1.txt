@@ -1,0 +1,23 @@
+@startuml
+participant "jab pecked" as 0
+participant "hags hosed" as 1
+box "repairs attempt"
+participant "fiddle mounds" as 2
+end box
+== liaison meaningless ==
+autonumber 4 3
+alt alienating swab
+1 -> 0: interferes shipping
+2 ->o 1: whether endangering
+else awful near
+alt omens sprightly
+2 ->o 0: firemen statesmen
+autonumber stop
+alt circumstance overdue
+create participant "counted crook" as 3
+0 -> 3 : counted crook
+2 <-] : butchered shaking
+end
+end
+end
+@enduml

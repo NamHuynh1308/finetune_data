@@ -1,0 +1,25 @@
+@startuml
+participant "withdrawal pencil" as 0
+participant "snitch fanciful" as 1
+participant "diligently glimmer" as 2
+box "premonitions tiki"
+participant "tempest jump" as 3
+end box
+2 <-> 3: jenny miscalculation
+critical building pirates
+3 <-> 0++ : witnesses sponges
+0 -> 0++ : bikers waterbed
+...butter insufficient...
+2 -> 1: illusions signature
+else life poodle
+...faculties sole...
+1 --//o 1: fellows balmoral
+2 -\\ 1++ : straining island
+end
+2 -> 1++ : early sonnets
+3 -> 1: piecing soulless
+return hostages undeserving
+return conceive shrinks
+return pulmonary obsession
+return bondsman shoving
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+participant "observed clot" as 0
+0 -> 0: cheater pursuit
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+box "embroiled petrol"
+participant "canoes windpipe" as 0
+end box
+autonumber 2 3
+create participant "olden gunner" as 1
+0 -> 1 : olden gunner
+@enduml

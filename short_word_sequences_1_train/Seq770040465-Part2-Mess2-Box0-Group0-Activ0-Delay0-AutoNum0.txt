@@ -1,0 +1,6 @@
+@startuml
+participant "showdown waterloo" as 0
+participant "standoff swordfish" as 1
+0 -\\ 0: balancing billiard
+0 -> 0: fireman marquee
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+box "overweight dishonor"
+participant "philosophical mussels" as 0
+participant "flopping polka" as 1
+end box
+opt agin eyesight
+0 -> 0: effect tapped
+1 -// 1: oncoming therapy
+else traipsing lilac
+end
+@enduml

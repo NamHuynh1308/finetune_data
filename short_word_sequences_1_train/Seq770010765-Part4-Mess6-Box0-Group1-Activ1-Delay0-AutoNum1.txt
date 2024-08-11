@@ -1,0 +1,18 @@
+@startuml
+participant "tsunami nodded" as 0
+participant "booking nihilist" as 1
+participant "conveniently trembling" as 2
+autonumber 2 4
+create participant "probable sweaty" as 3
+2 -> 3 : probable sweaty
+0 ->] : sadder rockers
+autonumber stop
+2 --//o 0: caritas files
+3 -->x 0: portal lashes
+0 ->] : lakes servant
+par result renders
+1 -->x 1++ : flaky croak
+autonumber resume
+end
+return pokes monkey
+@enduml

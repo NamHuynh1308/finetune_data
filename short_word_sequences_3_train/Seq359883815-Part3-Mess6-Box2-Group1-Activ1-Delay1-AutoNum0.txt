@@ -1,0 +1,20 @@
+@startuml
+box "bookkeeper radishes"
+participant "anagram chili" as 0
+participant "ballistics creating" as 1
+end box
+box "prudence invigorated"
+participant "geographic heathens" as 2
+end box
+== opposite masquerading ==
+1 --//o 2++ : condoms grapevine
+...alumni minorities...
+0 <-] : berate down
+0 --> 1: teaspoon dosed
+2 ->> 1: overlooking oversleep
+alt barter organism
+0 ->o 2: cannery philosophies
+return chemical stag
+0 ->o 0: consuming daytime
+end
+@enduml

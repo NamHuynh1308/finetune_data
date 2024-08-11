@@ -1,0 +1,21 @@
+@startuml
+box "persuaded serpent"
+participant "devastatingly breeze" as 0
+participant "dill profile" as 1
+end box
+participant "ranch berserker" as 2
+participant "dears safari" as 3
+participant "humored gainful" as 4
+2 ->> 3++ : overprotective chair
+create participant "hurray fighters" as 5
+3 -> 5 : hurray fighters
+ [<- 3: accorded sits
+0 ->] : overdressed sedate
+return cone rushes
+par ruffians imbedded
+5 -> 2++ : honks scavenger
+2 ->] : arch wringing
+return howe compensate
+else arrangement premeditated
+end
+@enduml

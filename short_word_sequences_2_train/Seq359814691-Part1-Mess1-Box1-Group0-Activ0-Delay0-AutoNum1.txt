@@ -1,0 +1,8 @@
+@startuml
+box "thorpe turned"
+participant "procedures application" as 0
+end box
+autonumber 10 4
+0 -> 0: communication cooling
+autonumber stop
+@enduml

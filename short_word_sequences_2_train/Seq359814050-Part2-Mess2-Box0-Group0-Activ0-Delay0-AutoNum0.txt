@@ -1,0 +1,6 @@
+@startuml
+participant "judgments wigs" as 0
+participant "cloak funnies" as 1
+0 -> 0!! : employ fairest
+ [-> 0: left affirming
+@enduml

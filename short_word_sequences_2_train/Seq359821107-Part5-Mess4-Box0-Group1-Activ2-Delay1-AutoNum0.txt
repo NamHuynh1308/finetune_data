@@ -1,0 +1,17 @@
+@startuml
+participant "stripe everyday" as 0
+participant "sensibility records" as 1
+participant "rig disturbing" as 2
+participant "enamel shelter" as 3
+== tackle cypher ==
+create participant "speck vie" as 4
+0 -> 4 : speck vie
+opt hilltop tweedle
+1 -->x 0++ : milt gangster
+0 -->x 3++ : barracks academy
+end
+...compromise decorum...
+1 ->o 4: pimply viper
+return draws roto
+return maintain foundations
+@enduml

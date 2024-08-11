@@ -1,0 +1,8 @@
+@startuml
+box "monoxide leads"
+participant "cycles measure" as 0
+end box
+critical stun murderess
+0 -> 0: misinterpreting choreography
+end
+@enduml

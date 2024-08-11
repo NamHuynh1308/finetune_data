@@ -1,0 +1,14 @@
+@startuml
+box "horoscopes interpretive"
+participant "dings heroics" as 0
+participant "castrated marines" as 1
+participant "electrocute beaded" as 2
+end box
+autonumber 3 10
+2 -> 1: shock burton
+create participant "banzai masses" as 3
+2 -> 3 : banzai masses
+3 -// 1: himself bang
+0 ->] : fellas pistol
+autonumber stop
+@enduml

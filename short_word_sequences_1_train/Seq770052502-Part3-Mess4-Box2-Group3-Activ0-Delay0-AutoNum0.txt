@@ -1,0 +1,19 @@
+@startuml
+box "overhaul passion"
+participant "pained grabby" as 0
+participant "sweatshops oxymoron" as 1
+end box
+box "aliens sparring"
+participant "thermos options" as 2
+end box
+2 -> 2: pumpkin interning
+loop friendly ecumenical
+0 ->> 0: channels merely
+alt weaker machines
+2 <-> 2: generating comprised
+alt salvaged spoiling
+0 -> 1: kat slighted
+end
+end
+end
+@enduml

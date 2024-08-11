@@ -1,0 +1,10 @@
+@startuml
+box "parachutes timbers"
+participant "sequences yup" as 0
+end box
+== pledging scanners ==
+autonumber 6 9
+ [<- 0: fireflies bit
+autonumber stop
+0 -// 0: maneuvered milking
+@enduml

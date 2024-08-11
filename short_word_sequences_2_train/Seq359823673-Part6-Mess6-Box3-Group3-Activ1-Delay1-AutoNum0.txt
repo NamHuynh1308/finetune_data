@@ -1,0 +1,29 @@
+@startuml
+box "gangland crasher"
+participant "sh penetrated" as 0
+box "seminar survival"
+participant "scaled chickenpox" as 1
+participant "ironing mortifying" as 2
+end box
+participant "cliffs boy" as 3
+box "mentally unreliable"
+participant "duct invasion" as 4
+end box
+end box
+== baseman leaning ==
+0 -> 3: unimaginative inflate
+break thumbprint cleansed
+1 -> 4: donut inspirational
+2 <-> 4: conned scarce
+alt conjugal yes
+create participant "roots truths" as 5
+3 -> 5 : roots truths
+0 -// 4: burdens nervousness
+end
+critical clocking colder
+...project ice...
+2 -> 5++ : wining man
+end
+end
+return sarge purview
+@enduml

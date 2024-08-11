@@ -1,0 +1,18 @@
+@startuml
+participant "flunky blame" as 0
+box "skyscraper letterhead"
+participant "blade cats" as 1
+box "upheaval deviled"
+participant "color bookie" as 2
+end box
+end box
+== archives brakes ==
+1 -\\ 2: gill pull
+critical sudden lidocaine
+create participant "somewhere donation" as 3
+0 -> 3 : somewhere donation
+1 -> 0: parasailing janitors
+2 -> 1: gloriously lard
+end
+3 ->x 3: carriages ar
+@enduml

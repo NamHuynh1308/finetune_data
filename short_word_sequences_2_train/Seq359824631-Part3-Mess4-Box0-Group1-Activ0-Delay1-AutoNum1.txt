@@ -1,0 +1,17 @@
+@startuml
+participant "miscreant launder" as 0
+participant "behaviour yeast" as 1
+participant "sorcerers ideally" as 2
+autonumber 3 7
+opt mouthed cacciatore
+1 -> 0: bang slumming
+autonumber stop
+2 -> 1: desperate ascot
+else beaming assumed
+1 ->o 1: manager meteors
+autonumber resume
+...mountain lemony...
+1 ->] : souse icicle
+else bucket matriarch
+end
+@enduml

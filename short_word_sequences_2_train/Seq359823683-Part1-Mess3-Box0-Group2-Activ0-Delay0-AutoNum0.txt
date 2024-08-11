@@ -1,0 +1,10 @@
+@startuml
+participant "errand generals" as 0
+0 -> 0!! : jefe hauling
+opt carwash relapsing
+0 -> 0: dim eyebrows
+par stranger unhappiness
+0 --> 0: confused simplicity
+end
+end
+@enduml

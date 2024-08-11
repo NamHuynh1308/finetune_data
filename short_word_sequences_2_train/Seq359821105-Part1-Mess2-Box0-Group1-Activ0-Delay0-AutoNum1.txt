@@ -1,0 +1,9 @@
+@startuml
+participant "garrison pansy" as 0
+== lesser mikes ==
+autonumber 10 9
+opt striking dissident
+0 -->x 0: fortune intertwined
+0 --> 0: sidebar important
+end
+@enduml

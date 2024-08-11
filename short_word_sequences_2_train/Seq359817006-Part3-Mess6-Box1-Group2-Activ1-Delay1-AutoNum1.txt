@@ -1,0 +1,25 @@
+@startuml
+participant "overlapping suckers" as 0
+box "oldest newest"
+participant "plainclothes disappears" as 1
+end box
+== ungrateful bigger ==
+autonumber 6 2
+1 -> 1: plaster nevertheless
+opt diplomatic traipse
+create participant "week socks" as 2
+0 -> 2 : week socks
+0 ->o 0: blasters pampers
+else wagons woodland
+0 -> 2++ : synaptic pitied
+else students nourish
+opt tamales splinters
+...emergencies competition...
+ [-> 2: apocalyptic novelty
+autonumber stop
+2 --> 0: fifth choked
+autonumber resume
+end
+end
+return penne glimpse
+@enduml

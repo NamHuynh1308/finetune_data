@@ -1,0 +1,16 @@
+@startuml
+participant "reassigned dirk" as 0
+participant "seventy retreating" as 1
+participant "polishing crumbles" as 2
+participant "eunuch reminisce" as 3
+== sphinx planes ==
+3 --//o 2: sloppy jeep
+loop digs shipwreck
+...sneaky escargot...
+3 -> 3: beats flinging
+ [-> 2: clown suggesting
+end
+0 -->x 2: turquoise ree
+...excitement na...
+0 -> 3: infects gates
+@enduml

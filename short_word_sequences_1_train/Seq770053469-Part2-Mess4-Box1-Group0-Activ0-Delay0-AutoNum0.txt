@@ -1,0 +1,11 @@
+@startuml
+participant "geologist opinions" as 0
+box "atrocious reprimand"
+participant "caveman altar" as 1
+end box
+== lop consciously ==
+0 --> 1: demerits curt
+0 ->o 1: boosts bronco
+1 -->x 0: reunions passionately
+0 -> 0: wrists whereof
+@enduml

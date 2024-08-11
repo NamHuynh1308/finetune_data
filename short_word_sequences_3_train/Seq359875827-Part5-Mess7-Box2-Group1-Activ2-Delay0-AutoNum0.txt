@@ -1,0 +1,23 @@
+@startuml
+participant "lust flags" as 0
+box "ducts oriented"
+participant "canceled facts" as 1
+participant "sumptuous omen" as 2
+participant "ostensibly hilarious" as 3
+end box
+box "undercut beginner"
+participant "fences adamant" as 4
+end box
+3 --//o 0++ : homeless tricks
+2 -> 4: rivals divert
+1 ->> 3: democracy designed
+0 ->> 4++ : naivete droop
+loop incredibly ashtrays
+3 <-] : clad applicants
+return betting impassioned
+2 ->> 3: comrade waterworks
+return farce focusing
+ [<- 0: mediocrity diesel
+else tushy trait
+end
+@enduml

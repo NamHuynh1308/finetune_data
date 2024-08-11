@@ -1,0 +1,11 @@
+@startuml
+participant "presidential predicted" as 0
+== samples outlived ==
+0 -> 0: googly sizzle
+0 -> 0++ : piggy kicky
+critical doctored subconsciously
+...pas prenatal...
+0 <-> 0: surrounding flossing
+end
+return afloat corridor
+@enduml

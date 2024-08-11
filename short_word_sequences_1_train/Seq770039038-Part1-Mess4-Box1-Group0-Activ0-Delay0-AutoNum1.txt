@@ -1,0 +1,11 @@
+@startuml
+box "hauling unconventional"
+participant "beefs easel" as 0
+end box
+== shun crowns ==
+autonumber 0 0
+0 -> 0: corporal roving
+0 -> 0: cheesed chorus
+0 -->x 0: fittest auditor
+0 -> 0: rebellious shakers
+@enduml

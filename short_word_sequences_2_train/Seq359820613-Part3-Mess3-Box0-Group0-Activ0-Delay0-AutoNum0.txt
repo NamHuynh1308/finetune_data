@@ -1,0 +1,8 @@
+@startuml
+participant "caveman helicopter" as 0
+participant "drained inflexible" as 1
+0 <-> 1: pappy zephyrs
+1 ->] : cyclops perform
+create participant "containment heaping" as 2
+1 -> 2 : containment heaping
+@enduml

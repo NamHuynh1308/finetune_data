@@ -1,0 +1,17 @@
+@startuml
+box "garage distinguishing"
+participant "penal sweaty" as 0
+box "mesquite lands"
+participant "intentions cashing" as 1
+participant "woof benthic" as 2
+participant "sidekicks purged" as 3
+end box
+end box
+autonumber 0 2
+3 ->> 3: ratted vicariously
+...stupider flurry...
+ [<- 3: sleeps colors
+2 --> 0: cataclysmic mirrors
+...whipped artichokes...
+3 -\\ 0: lords ciao
+@enduml

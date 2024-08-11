@@ -1,0 +1,9 @@
+@startuml
+participant "falcon everyman" as 0
+== classes poet ==
+autonumber 10 5
+par psychotic baffled
+create participant "reserving recitation" as 1
+0 -> 1 : reserving recitation
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+box "brow socket"
+participant "nickels decoder" as 0
+participant "totaled hopped" as 1
+end box
+== stressing pilots ==
+autonumber 8 6
+0 -> 0: ballads savage
+alt complexities kilometers
+ [<- 0: coddling roughnecks
+...lone afternoon...
+0 -> 0: subbasement alternates
+else pro contained
+1 -> 0: bo voltage
+autonumber stop
+end
+@enduml

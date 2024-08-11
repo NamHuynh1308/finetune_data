@@ -1,0 +1,14 @@
+@startuml
+box "fins earmarked"
+participant "flushed wrought" as 0
+participant "aft fast" as 1
+participant "dinky oversight" as 2
+end box
+== declaration nicer ==
+autonumber 1 5
+2 -> 0: beyond matinee
+autonumber stop
+2 ->x 0: rapists microscopic
+0 <-] : reluctant antivenin
+autonumber resume
+@enduml

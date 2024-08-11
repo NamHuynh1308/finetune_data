@@ -1,0 +1,20 @@
+@startuml
+box "chirping beards"
+participant "criteria cherub" as 0
+box "mohair therein"
+participant "nanny cosmetics" as 1
+participant "likes obstruction" as 2
+end box
+end box
+1 -> 0: trimmers ape
+0 ->o 2: tad meal
+break determined encore
+0 ->] : passenger vests
+2 <-] : monetary caroling
+else hush overpriced
+opt repeat pooped
+0 ->o 0++ : glades shell
+end
+end
+return irrevocably stipulated
+@enduml

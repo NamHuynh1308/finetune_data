@@ -1,0 +1,15 @@
+@startuml
+box "aliens full"
+participant "detours proofed" as 0
+participant "donut guava" as 1
+end box
+autonumber 9 6
+0 <-] : coroner wallop
+critical horsepower geologist
+0 -> 1: avengers redone
+0 <-> 0++ : cutbacks field
+1 <-> 1: battered productions
+return inches lob
+end
+1 --//o 0: anyways pier
+@enduml

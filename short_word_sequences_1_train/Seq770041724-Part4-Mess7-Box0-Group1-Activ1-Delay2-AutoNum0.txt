@@ -1,0 +1,18 @@
+@startuml
+participant "boardwalk patron" as 0
+participant "displace survivor" as 1
+participant "scooping smooch" as 2
+participant "spatial feed" as 3
+ [-> 3: theirs yielding
+...tribute dumping...
+1 -> 2: misbehave insipid
+3 -->x 2++ : necklace compounds
+...ere fink...
+ [<- 3: psychic twain
+return skeletal maxi
+1 <-] : appeared blender
+3 ->] : toe schedules
+alt startle shriveled
+ [-> 2: familial torpedoed
+end
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+participant "audit wharf" as 0
+0 <-> 0: republicans storage
+@enduml

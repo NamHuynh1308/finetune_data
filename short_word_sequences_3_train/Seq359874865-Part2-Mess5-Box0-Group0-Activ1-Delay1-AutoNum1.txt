@@ -1,0 +1,16 @@
+@startuml
+participant "fist avatars" as 0
+participant "bikers referenced" as 1
+== thinner poetry ==
+autonumber 3 0
+ [-> 1: henry nights
+1 -\\ 1: sniff slings
+autonumber stop
+0 ->> 0++ : evacuated mute
+...clammy sidewinder...
+0 --//o 1: possesses epoxy
+autonumber resume
+0 -> 0: freeze sheeny
+autonumber stop
+return ballistics ka
+@enduml

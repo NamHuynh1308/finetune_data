@@ -1,0 +1,9 @@
+@startuml
+box "os militant"
+participant "orbed indication" as 0
+participant "happily tycoon" as 1
+end box
+== insignificant anesthetics ==
+1 ->> 0: romeo grub
+0 -> 0: bambino hearse
+@enduml

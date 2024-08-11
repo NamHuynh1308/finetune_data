@@ -1,0 +1,16 @@
+@startuml
+box "exhausts science"
+participant "temperature meltdown" as 0
+participant "heartache googly" as 1
+box "oppressive reveling"
+participant "salesman flurry" as 2
+end box
+end box
+1 ->] : invoked doom
+...rehearse comes...
+0 ->o 2++ : soaked west
+break parachuting cranking
+0 -> 1: freeloading chants
+return kilometer foresee
+end
+@enduml

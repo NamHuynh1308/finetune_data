@@ -1,0 +1,15 @@
+@startuml
+participant "horses mor" as 0
+== excesses simulation ==
+autonumber 10 9
+0 -> 0: zombie patrolman
+par qualities supermarket
+create participant "counted creeping" as 1
+0 -> 1 : counted creeping
+1 -> 1: audible tammy
+autonumber stop
+break centerfold marigold
+0 -// 0: gaff necessary
+end
+end
+@enduml

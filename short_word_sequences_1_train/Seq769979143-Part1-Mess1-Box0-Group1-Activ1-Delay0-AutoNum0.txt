@@ -1,0 +1,7 @@
+@startuml
+participant "hazardous homework" as 0
+opt steals distance
+0 -> 0++ : provided won
+end
+return depot admirers
+@enduml

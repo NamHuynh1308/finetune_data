@@ -1,0 +1,10 @@
+@startuml
+participant "sailboats ave" as 0
+participant "evenings sapphires" as 1
+== battleship imagining ==
+0 ->] : propensity onion
+0 <-> 1: flashback lama
+1 <-> 0: brunt transaction
+...satisfy exhibition...
+ [-> 1: stray hobby
+@enduml

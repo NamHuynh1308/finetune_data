@@ -1,0 +1,15 @@
+@startuml
+participant "precedent mil" as 0
+participant "simulator sulfur" as 1
+participant "commercial switches" as 2
+== holing stowed ==
+0 -> 0: overalls gavel
+...valet resilient...
+2 -> 0: pinching porter
+critical misspent checks
+2 <-] : ground rights
+0 ->o 1++ : empowered disillusioned
+else disfigured chardonnay
+end
+return blather partridge
+@enduml

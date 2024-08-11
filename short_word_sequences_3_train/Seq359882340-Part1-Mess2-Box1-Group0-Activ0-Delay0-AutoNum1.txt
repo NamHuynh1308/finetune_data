@@ -1,0 +1,9 @@
+@startuml
+box "outbound painkiller"
+participant "demean fortunately" as 0
+end box
+autonumber 4 7
+0 -// 0: materialistic reprimanded
+0 -// 0: uncool conspirators
+autonumber stop
+@enduml

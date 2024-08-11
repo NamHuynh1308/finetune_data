@@ -1,0 +1,10 @@
+@startuml
+participant "aviation yak" as 0
+== disability closing ==
+autonumber 6 0
+0 --> 0: halfback practiced
+autonumber stop
+0 -> 0: surrendered expressly
+autonumber resume
+0 ->] : inflicting equipped
+@enduml

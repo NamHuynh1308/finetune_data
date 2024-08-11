@@ -1,0 +1,7 @@
+@startuml
+participant "cages bubbly" as 0
+== category pastels ==
+critical catchers emergencies
+0 --//o 0: antiquity hostess
+end
+@enduml

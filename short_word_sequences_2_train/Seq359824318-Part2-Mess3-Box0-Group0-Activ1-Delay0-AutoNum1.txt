@@ -1,0 +1,9 @@
+@startuml
+participant "crossfire brumby" as 0
+autonumber 4 3
+create participant "deluded emphasized" as 1
+0 -> 1 : deluded emphasized
+1 -> 1: spared demure
+1 -> 0++ : pancakes precautionary
+return cuddles bill
+@enduml

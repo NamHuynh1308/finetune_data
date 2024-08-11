@@ -1,0 +1,9 @@
+@startuml
+participant "discovery blackmailer" as 0
+== castle mints ==
+0 --//o 0: pressing amino
+loop lifetimes shrapnel
+...begin thou...
+0 --//o 0: pecked because
+end
+@enduml

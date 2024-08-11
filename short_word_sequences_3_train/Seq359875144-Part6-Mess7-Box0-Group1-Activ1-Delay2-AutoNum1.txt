@@ -1,0 +1,26 @@
+@startuml
+participant "tracer brutal" as 0
+participant "nominate investigators" as 1
+participant "compadre trickster" as 2
+participant "thirsty vending" as 3
+participant "bris basements" as 4
+autonumber 9 9
+0 <-> 0: currency excuses
+autonumber stop
+...second mapping...
+4 -->x 1: notable studs
+loop autopsies proverbial
+...lozenges success...
+ [-> 3: snakebite touching
+autonumber resume
+3 -> 4: hiss taxi
+2 --> 3: belabor commercials
+1 -> 3++ : narcolepsy cutest
+else spencer matchbook
+create participant "gatekeeper prolonged" as 5
+1 -> 5 : gatekeeper prolonged
+autonumber stop
+else insulted tagged
+end
+return hotter copyright
+@enduml

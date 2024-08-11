@@ -1,0 +1,11 @@
+@startuml
+box "indefinite logs"
+participant "pantaloons mutiny" as 0
+participant "infection prone" as 1
+end box
+autonumber 6 2
+0 <-] : shack beck
+...linked affections...
+0 -->x 1++ : blonde yaw
+return sliced demise
+@enduml

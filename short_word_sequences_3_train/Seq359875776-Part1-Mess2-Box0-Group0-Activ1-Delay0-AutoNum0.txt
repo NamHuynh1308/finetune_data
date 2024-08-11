@@ -1,0 +1,6 @@
+@startuml
+participant "syndicate unemployment" as 0
+0 <-> 0: taken yells
+0 ->> 0++ : geopolitical rewrites
+return billiard compensated
+@enduml

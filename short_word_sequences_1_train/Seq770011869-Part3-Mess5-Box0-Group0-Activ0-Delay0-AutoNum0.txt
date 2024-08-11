@@ -1,0 +1,11 @@
+@startuml
+participant "delivered auld" as 0
+participant "partly kisser" as 1
+== chewy doors ==
+1 -> 1: decaying flock
+ [-> 0: leaf outcasts
+1 ->> 1: disorders submitting
+0 -->x 1: huffed thumb
+create participant "thinks elliptical" as 2
+0 -> 2 : thinks elliptical
+@enduml

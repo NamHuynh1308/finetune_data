@@ -1,0 +1,14 @@
+@startuml
+participant "pencils harps" as 0
+box "library ganging"
+participant "firemen homophobia" as 1
+end box
+== beak tactical ==
+autonumber 2 5
+create participant "knockers teenagers" as 2
+0 -> 2 : knockers teenagers
+...vouching lech...
+1 ->> 1++ : touchstone easiest
+0 <-] : am sentencing
+return mascot hardworking
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+participant "peasant sat" as 0
+box "penniless dancer"
+participant "collide finder" as 1
+participant "wiggly surprise" as 2
+end box
+== baptism riot ==
+0 <-> 0++ : watched indecision
+0 <-> 2++ : oho checkmate
+1 ->> 0++ : charter north
+1 -\\ 2++ : floored outdid
+critical philharmonic battery
+...libraries inspecting...
+0 <-] : hitch inheritance
+...flecks dangerously...
+2 -> 2: tomb referendums
+end
+return tortured doughnuts
+return deformity conductor
+return confident spasms
+return provinces wheeler
+@enduml

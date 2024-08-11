@@ -1,0 +1,13 @@
+@startuml
+participant "ideas deaths" as 0
+participant "account ha" as 1
+== fearless regiment ==
+autonumber 1 8
+0 ->x 0++ : losses bulbs
+1 -\\ 0: boiled dental
+autonumber stop
+1 ->] : riddled undisclosed
+return lighthouse closeted
+0 ->x 1: twice strep
+1 <-> 1: spaghetti terry
+@enduml

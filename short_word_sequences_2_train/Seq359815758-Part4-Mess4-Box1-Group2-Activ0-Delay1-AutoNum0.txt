@@ -1,0 +1,19 @@
+@startuml
+participant "heartbeats pilgrims" as 0
+box "ticks improvising"
+participant "ludicrous zombie" as 1
+participant "abruptly pear" as 2
+end box
+participant "horticulture group" as 3
+== screen funding ==
+2 -->x 0: courts discussion
+loop pheasants intend
+3 -> 3: improvise shock
+0 ->x 2: infection chase
+else exploited stomachs
+alt bobbing blond
+...wolves rarely...
+1 -> 3: rhinestones lasso
+end
+end
+@enduml

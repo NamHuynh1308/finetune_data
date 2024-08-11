@@ -1,0 +1,11 @@
+@startuml
+box "thing signify"
+participant "solitary cashmere" as 0
+participant "mourners properties" as 1
+end box
+opt superhero stages
+1 ->> 0: denominations things
+1 ->> 0: pear exerting
+else campers peaks
+end
+@enduml

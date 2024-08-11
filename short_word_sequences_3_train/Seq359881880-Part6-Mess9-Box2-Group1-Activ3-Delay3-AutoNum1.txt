@@ -1,0 +1,32 @@
+@startuml
+participant "alternatives premeditated" as 0
+box "twine peacemaker"
+participant "instructed superpower" as 1
+participant "map bitches" as 2
+end box
+box "thunder exhale"
+participant "giggly sideshow" as 3
+participant "peaked sponges" as 4
+end box
+autonumber 8 0
+1 -> 2++ : verge projector
+2 --//o 4++ : floorboard downing
+...regular organizing...
+1 -> 3: dynamo indicating
+3 -> 0!! : stabilized deviled
+return moments windshield
+alt forget theorem
+...suburb misgivings...
+0 -> 1: reshoots ell
+...alternator confessions...
+3 <-> 0: grocer eminence
+else scram filth
+4 ->x 3: temperature weirdos
+create participant "sapiens soiled" as 5
+1 -> 5 : sapiens soiled
+else logs softness
+4 ->x 3++ : stickers mild
+end
+return curiosity roadblock
+return continuity rappers
+@enduml

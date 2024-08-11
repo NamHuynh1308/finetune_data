@@ -1,0 +1,18 @@
+@startuml
+box "runny ignorance"
+participant "spans guillotine" as 0
+participant "leading ambitions" as 1
+participant "ceiling decked" as 2
+end box
+autonumber 0 2
+ [-> 0: molly dangle
+1 -> 0: faculty impeached
+2 -> 2: competition clinic
+2 -> 0: coffin accuse
+break paisley bracelet
+0 -> 1++ : albacore artichokes
+ [<- 2: badgered pinkie
+else turd weepy
+end
+return pancake cranial
+@enduml

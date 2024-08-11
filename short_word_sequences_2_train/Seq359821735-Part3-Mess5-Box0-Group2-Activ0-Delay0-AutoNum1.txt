@@ -1,0 +1,17 @@
+@startuml
+participant "facetious local" as 0
+participant "trimmings cellulite" as 1
+autonumber 1 4
+alt blockade trident
+1 ->> 0: immortality hydrogen
+0 ->> 1: tailing airport
+create participant "shreds firstborn" as 2
+0 -> 2 : shreds firstborn
+autonumber stop
+opt spring discoveries
+0 ->x 2: careless diverting
+autonumber resume
+0 --> 0: pecked dispenser
+end
+end
+@enduml

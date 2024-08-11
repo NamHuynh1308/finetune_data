@@ -1,0 +1,22 @@
+@startuml
+box "wedge modern"
+participant "rogers topple" as 0
+participant "bandits scientific" as 1
+participant "placid windward" as 2
+end box
+== revolutionary relaxants ==
+autonumber 9 1
+1 -> 0: eroding ultimately
+0 -> 2: dabble slate
+par boundary rods
+2 -> 2++ : pawn departments
+create participant "theoretical missing" as 3
+0 -> 3 : theoretical missing
+autonumber stop
+par morello territorial
+3 ->> 0: nightingale joe
+return lopped pimples
+autonumber resume
+end
+end
+@enduml

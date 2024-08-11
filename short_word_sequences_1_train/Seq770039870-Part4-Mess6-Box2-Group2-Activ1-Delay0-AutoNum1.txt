@@ -1,0 +1,24 @@
+@startuml
+box "bedtime ogres"
+participant "which salty" as 0
+box "stewards furtive"
+participant "vary bay" as 1
+participant "taxi suckered" as 2
+end box
+end box
+== gleaming syphon ==
+autonumber 6 9
+opt scooter sell
+2 -// 2++ : rogues debriefed
+create participant "dancer far" as 3
+0 -> 3 : dancer far
+return planned compensate
+loop critically unanswered
+1 ->> 0: tremors due
+0 ->> 2: brats tarmac
+1 --//o 2: talky lending
+0 ->> 3: competitive funnies
+autonumber stop
+end
+end
+@enduml

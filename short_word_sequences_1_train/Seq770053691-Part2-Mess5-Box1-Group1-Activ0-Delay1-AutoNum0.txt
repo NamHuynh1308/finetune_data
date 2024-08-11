@@ -1,0 +1,15 @@
+@startuml
+participant "clearer temptress" as 0
+box "mountaineer prided"
+participant "stomping earrings" as 1
+end box
+== hangers nun ==
+ [-> 1: nymph utter
+alt glue switching
+ [<- 0: dainty hitching
+...blindfolded unreliable...
+0 ->x 1: hippies formulate
+end
+1 ->x 0: masons sublet
+1 <-] : spaceship borrowing
+@enduml

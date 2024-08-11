@@ -1,0 +1,8 @@
+@startuml
+participant "mandarin evolve" as 0
+opt muss insufficient
+0 -> 0!! : stumbled lacked
+...hands ageing...
+0 -> 0: acquitted blizzard
+end
+@enduml

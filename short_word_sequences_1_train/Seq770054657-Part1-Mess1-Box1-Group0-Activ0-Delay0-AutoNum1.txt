@@ -1,0 +1,7 @@
+@startuml
+box "complaint erased"
+participant "longest distinguished" as 0
+end box
+autonumber 7 2
+0 ->> 0: oversleep rabbi
+@enduml

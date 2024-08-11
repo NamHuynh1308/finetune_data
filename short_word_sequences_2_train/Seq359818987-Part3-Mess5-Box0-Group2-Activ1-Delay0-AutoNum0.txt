@@ -1,0 +1,15 @@
+@startuml
+participant "wilderness apparel" as 0
+participant "remembering mush" as 1
+loop computer legs
+1 -> 1: mosquitoes cortex
+ [<- 0: blubber soldiers
+create participant "opinions strenuously" as 2
+1 -> 2 : opinions strenuously
+break mash increase
+1 -> 2++ : meadows unlikable
+0 ->x 0: palp moves
+end
+end
+return microfilm checkers
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+box "blindness hailing"
+participant "distraught stateside" as 0
+end box
+autonumber 2 5
+0 --//o 0: considerate knack
+@enduml

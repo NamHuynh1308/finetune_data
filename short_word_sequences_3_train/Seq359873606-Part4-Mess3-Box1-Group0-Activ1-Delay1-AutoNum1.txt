@@ -1,0 +1,14 @@
+@startuml
+box "lynx chemically"
+participant "weasels craziest" as 0
+participant "relaxation perfecting" as 1
+participant "denning firstly" as 2
+end box
+autonumber 4 0
+create participant "apache lewis" as 3
+1 -> 3 : apache lewis
+...cones meanwhile...
+0 ->x 1++ : sop schmuck
+1 -> 2: upped batted
+return championship unhealthy
+@enduml

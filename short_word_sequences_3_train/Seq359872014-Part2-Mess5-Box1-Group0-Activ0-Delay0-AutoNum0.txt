@@ -1,0 +1,11 @@
+@startuml
+box "quality admirer"
+participant "divorcee magically" as 0
+end box
+ [<- 0: airports manifold
+0 -> 0: blurted preparations
+create participant "significantly town" as 1
+0 -> 1 : significantly town
+1 --//o 1: toasts lesbian
+1 ->x 0: nosed awkwardness
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "magnetic summarily" as 0
+box "marvel layer"
+participant "yoghurt yummy" as 1
+participant "fillings uniformity" as 2
+participant "alumni becks" as 3
+end box
+autonumber 2 4
+1 <-> 0++ : downs ruling
+2 -->x 0++ : nil glorious
+autonumber stop
+3 ->x 2++ : cabaret visiting
+par considering benefit
+ [<- 3: disheveled honeymoon
+end
+return premiums cutlery
+return reform bludgeoned
+return cooler tung
+@enduml

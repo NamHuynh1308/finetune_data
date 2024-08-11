@@ -1,0 +1,10 @@
+@startuml
+participant "recognizance transgenic" as 0
+participant "foothold switcheroo" as 1
+1 -->x 1: reserved together
+1 --//o 1++ : polish marcel
+1 ->] : alto tempted
+return omelettes mincemeat
+create participant "elements solarium" as 2
+1 -> 2 : elements solarium
+@enduml

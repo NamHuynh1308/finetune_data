@@ -1,0 +1,11 @@
+@startuml
+participant "sleepover inspecting" as 0
+participant "bogeyman simony" as 1
+participant "ourselves hesitated" as 2
+autonumber 0 1
+2 -> 0: firsthand incantation
+2 ->] : bundle digestion
+opt priorities swimming
+0 ->] : incense heckled
+end
+@enduml

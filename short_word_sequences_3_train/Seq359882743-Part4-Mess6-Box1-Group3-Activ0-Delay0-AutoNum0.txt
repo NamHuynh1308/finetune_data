@@ -1,0 +1,21 @@
+@startuml
+participant "activities module" as 0
+box "mixup consolidate"
+participant "servicing hallucinating" as 1
+participant "undercurrent executives" as 2
+participant "vibrating disagreement" as 3
+end box
+== submitted fist ==
+2 ->> 1: backseat hurrah
+0 -> 1!! : shedding slaughtered
+loop wedding robins
+2 <-] : pitted conscious
+loop transformed roger
+3 -// 2: categorized exterminating
+opt dutch cowboys
+3 ->] : possible perversion
+2 ->> 0: land anticipating
+end
+end
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "tire bogus" as 0
+participant "breakdown needlessly" as 1
+== convene despite ==
+ [<- 0: savin burgundy
+opt locate waiters
+1 ->o 1: caregiver assumptions
+...begins technician...
+1 ->o 0++ : violet stumbling
+else scenic fixating
+0 ->> 1: struggling weenie
+end
+return suitable biggest
+@enduml

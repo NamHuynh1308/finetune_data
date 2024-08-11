@@ -1,0 +1,10 @@
+@startuml
+participant "hey visor" as 0
+participant "general ungodly" as 1
+== servers chew ==
+1 -> 1++ : guarding permanent
+1 ->] : vacancies chagrined
+0 ->o 1++ : ensure beater
+return casbah teaming
+return overtures interpreter
+@enduml

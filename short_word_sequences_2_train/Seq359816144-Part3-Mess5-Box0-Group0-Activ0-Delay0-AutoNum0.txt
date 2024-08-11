@@ -1,0 +1,10 @@
+@startuml
+participant "staffers solo" as 0
+0 ->] : zillion testify
+0 -> 0: unnecessary sites
+0 -> 0!! : slated shimmering
+create participant "identify hassle" as 1
+0 -> 1 : identify hassle
+create participant "assassins dreamer" as 2
+1 -> 2 : assassins dreamer
+@enduml

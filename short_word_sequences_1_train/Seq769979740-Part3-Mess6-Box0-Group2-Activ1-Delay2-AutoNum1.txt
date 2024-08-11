@@ -1,0 +1,22 @@
+@startuml
+participant "highness skies" as 0
+participant "campers neat" as 1
+participant "computers humidity" as 2
+autonumber 3 10
+0 -> 2!! : sipping fond
+1 --> 0: buttoning pill
+loop hangers reserved
+...boutonniere needs...
+2 -\\ 0: grief pa
+...boring plea...
+0 -> 1: statesmen musical
+autonumber stop
+else suitable piece
+2 -\\ 0++ : assholes construed
+autonumber resume
+end
+opt freedoms lodge
+2 <-> 1: routes mocks
+return possible brin
+end
+@enduml

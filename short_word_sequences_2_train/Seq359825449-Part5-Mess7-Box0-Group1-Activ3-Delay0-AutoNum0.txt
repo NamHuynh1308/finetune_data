@@ -1,0 +1,20 @@
+@startuml
+participant "pun dispenser" as 0
+participant "completely chaff" as 1
+participant "palsy distances" as 2
+participant "biographies knickknacks" as 3
+3 <-] : ballon absurd
+0 ->] : coco spacey
+ [<- 2: oxford sweep
+par bottle libel
+create participant "mayflower cod" as 4
+1 -> 4 : mayflower cod
+2 --> 2++ : radical honestly
+else ripping inhale
+3 -> 0++ : bluff preserves
+4 <-> 4++ : teenaged outlast
+end
+return freelance weight
+return tomcat impaled
+return fronting balconies
+@enduml

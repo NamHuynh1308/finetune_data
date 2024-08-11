@@ -1,0 +1,16 @@
+@startuml
+participant "jaded bigfoot" as 0
+loop confederates ventriloquist
+0 ->] : aggravating groovy
+0 -> 0++ : lured ace
+loop waiter bubble
+0 -->x 0++ : sundae shattered
+...disarray prototype...
+0 <-] : phoenix development
+return christening banzai
+end
+create participant "mechanical chompers" as 1
+0 -> 1 : mechanical chompers
+end
+return ventures blasted
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+participant "backstage squashed" as 0
+0 -> 0!! : enthusiastic yourself
+@enduml

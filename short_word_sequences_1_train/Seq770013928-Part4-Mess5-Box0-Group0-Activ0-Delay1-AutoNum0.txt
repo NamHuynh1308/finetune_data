@@ -1,0 +1,13 @@
+@startuml
+participant "led kern" as 0
+participant "frequencies refuse" as 1
+participant "reached hamper" as 2
+participant "even barred" as 3
+== lettuce sensing ==
+ [-> 1: recognise resigned
+2 -> 3: moral marries
+3 <-> 0: odds auction
+3 <-> 3: pig ya
+...chicken wounded...
+1 -> 0: fret gruel
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+box "acquaintances multiple"
+participant "flamenco duo" as 0
+participant "hosting helm" as 1
+end box
+== morbid darkness ==
+autonumber 0 4
+1 ->o 1: mayhem entrepreneurial
+opt imposter motivated
+...gossiping school...
+1 ->> 0: reinstate rapid
+loop handguns scavenging
+1 -\\ 1: interrupting tortoise
+autonumber stop
+end
+end
+@enduml

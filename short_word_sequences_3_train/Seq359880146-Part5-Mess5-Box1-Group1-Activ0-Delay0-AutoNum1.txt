@@ -1,0 +1,18 @@
+@startuml
+participant "booking hundred" as 0
+participant "introductions strongly" as 1
+participant "flattery cultural" as 2
+participant "look testy" as 3
+box "duality detonate"
+participant "qualifying illustrate" as 4
+end box
+autonumber 3 7
+0 -> 4: ticketed sunshine
+par gladiator flexing
+3 -\\ 3: planned insects
+3 -> 1!! : errant overhearing
+else stake sings
+3 ->o 2: rigs washroom
+end
+2 --//o 4: responses tote
+@enduml

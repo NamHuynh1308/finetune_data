@@ -1,0 +1,14 @@
+@startuml
+participant "overdosed frequently" as 0
+box "census soulful"
+participant "booths gasoline" as 1
+participant "bop tweaking" as 2
+end box
+participant "haunt reapers" as 3
+0 <-] : shores lighted
+ [<- 3: pitching railing
+...favorably marches...
+2 -> 0: sexier octopus
+...estate smelt...
+2 <-> 1: incendiary chalkboard
+@enduml

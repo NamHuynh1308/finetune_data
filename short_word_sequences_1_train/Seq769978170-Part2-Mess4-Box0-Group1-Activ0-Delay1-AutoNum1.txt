@@ -1,0 +1,13 @@
+@startuml
+participant "hopper uphold" as 0
+participant "fallout follows" as 1
+autonumber 5 5
+0 --//o 1: sparkly spied
+autonumber stop
+0 -\\ 1: imaginary urge
+loop idly submitting
+0 ->] : vindictive targets
+...editorial consumed...
+0 -> 1: deluge northwestern
+end
+@enduml

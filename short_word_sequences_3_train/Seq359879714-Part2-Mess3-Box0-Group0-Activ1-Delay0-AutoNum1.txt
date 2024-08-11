@@ -1,0 +1,11 @@
+@startuml
+participant "emphasize venture" as 0
+autonumber 2 4
+0 -> 0: munching crucified
+autonumber stop
+create participant "nastiest insists" as 1
+0 -> 1 : nastiest insists
+1 -// 0++ : makers vacuumed
+autonumber resume
+return advantage thereafter
+@enduml

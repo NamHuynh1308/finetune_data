@@ -1,0 +1,17 @@
+@startuml
+participant "scouts barging" as 0
+participant "objectionable decoys" as 1
+participant "pleading china" as 2
+autonumber 1 3
+2 --//o 0: them roulette
+0 -\\ 1: replace bracelets
+1 --//o 2: politely typhoid
+autonumber stop
+2 ->o 1: invaluable fewer
+autonumber resume
+1 -// 1: accomplished edit
+autonumber stop
+1 -\\ 0: integrity babysitter
+1 --> 1++ : wireless humoring
+return decibels introduction
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+box "wavelengths topless"
+participant "timers circled" as 0
+end box
+autonumber 2 1
+0 ->] : supplied man
+alt relative frames
+...pacemaker antivenin...
+0 -> 0++ : discredit cleanses
+0 ->] : tailors relay
+autonumber stop
+end
+return granger patty
+@enduml

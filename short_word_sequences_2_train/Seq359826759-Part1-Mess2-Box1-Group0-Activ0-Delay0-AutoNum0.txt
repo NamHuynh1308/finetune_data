@@ -1,0 +1,8 @@
+@startuml
+box "usually conference"
+participant "walla my" as 0
+end box
+== fag vet ==
+0 -> 0: occasional chant
+0 <-] : center untouchable
+@enduml

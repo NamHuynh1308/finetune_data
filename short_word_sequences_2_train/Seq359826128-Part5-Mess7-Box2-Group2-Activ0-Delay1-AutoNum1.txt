@@ -1,0 +1,27 @@
+@startuml
+participant "going heist" as 0
+box "springtime replaced"
+participant "dim knuckle" as 1
+participant "cost derives" as 2
+box "cellist obstacles"
+participant "gnawing amounted" as 3
+end box
+end box
+== sticker difference ==
+autonumber 4 8
+0 -> 3: closely fending
+2 -> 0: bloated til
+loop adrenaline gooney
+0 ->] : cholesterol jocks
+autonumber stop
+create participant "repaint motif" as 4
+0 -> 4 : repaint motif
+...briefcase sightless...
+1 -> 3: grazed limb
+0 ->] : classmates samaritan
+critical tiff comas
+ [-> 2: bet realities
+autonumber resume
+end
+end
+@enduml

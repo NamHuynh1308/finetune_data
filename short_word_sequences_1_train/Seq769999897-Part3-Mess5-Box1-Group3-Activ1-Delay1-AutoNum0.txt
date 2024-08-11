@@ -1,0 +1,21 @@
+@startuml
+box "knuckles unanswered"
+participant "labor texts" as 0
+participant "calmed ferret" as 1
+end box
+== drafting blasting ==
+1 ->] : burly brokerage
+alt motivations yam
+...blink chance...
+ [-> 1: busboys ostracized
+loop comeback tapping
+create participant "retrieved seared" as 2
+0 -> 2 : retrieved seared
+par spineless venture
+1 ->> 1++ : intruder dealer
+1 ->x 1: headphones goddam
+end
+end
+end
+return mistrial bury
+@enduml

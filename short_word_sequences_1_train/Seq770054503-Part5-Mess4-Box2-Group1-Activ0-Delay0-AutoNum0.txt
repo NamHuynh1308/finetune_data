@@ -1,0 +1,18 @@
+@startuml
+participant "untrue psychopaths" as 0
+participant "goose brood" as 1
+box "excused bow"
+participant "flunked tighter" as 2
+box "grog scanning"
+participant "ogle paddy" as 3
+end box
+end box
+== cake removal ==
+0 <-> 2: transports robots
+alt beige confessor
+create participant "cordless warranted" as 4
+1 -> 4 : cordless warranted
+0 -> 1: shit throne
+4 -->x 0: pointers steely
+end
+@enduml

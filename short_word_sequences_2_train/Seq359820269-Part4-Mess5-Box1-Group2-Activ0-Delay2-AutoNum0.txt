@@ -1,0 +1,21 @@
+@startuml
+participant "graphite sunrise" as 0
+participant "ironing pheasants" as 1
+box "pictures terrace"
+participant "cue stub" as 2
+participant "respiration libation" as 3
+end box
+== institutionalized wrinkled ==
+0 ->o 1: solenoid toppings
+loop interested hunks
+3 <-] : hepatitis safest
+2 <-] : handle yodel
+...ninety enriching...
+0 ->> 2: assertive dripping
+else economically neighboring
+loop immense floorboard
+...frantic rattles...
+2 -> 3: truffle shoveled
+end
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "hacking echoes" as 0
+participant "cancellations arugula" as 1
+== blissfully dangerous ==
+1 -\\ 0: frantic finality
+opt recognizable memorize
+create participant "switch rehearse" as 2
+0 -> 2 : switch rehearse
+1 -// 2: fedora newcomer
+...bonnet whistles...
+1 ->] : insurmountable winking
+2 -> 0++ : classmates cute
+else preached gardeners
+2 --//o 2: mondo panhandle
+return uptight refreshments
+end
+@enduml

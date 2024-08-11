@@ -1,0 +1,13 @@
+@startuml
+box "disinfect circulation"
+participant "freeze repaid" as 0
+participant "briefcase unscheduled" as 1
+participant "frisk finch" as 2
+end box
+autonumber 5 10
+2 <-] : wigs impressing
+...hup earring...
+2 -> 2: resolving unmentionables
+1 -> 2: selling skater
+autonumber stop
+@enduml

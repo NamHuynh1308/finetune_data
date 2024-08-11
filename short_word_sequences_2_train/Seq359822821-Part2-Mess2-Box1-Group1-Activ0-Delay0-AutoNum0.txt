@@ -1,0 +1,11 @@
+@startuml
+participant "igloo instances" as 0
+box "furnace cavity"
+participant "fib council" as 1
+end box
+== delicates budgeted ==
+0 -> 1: religious esteemed
+loop gorilla flaws
+1 -> 1: peroxide winging
+end
+@enduml

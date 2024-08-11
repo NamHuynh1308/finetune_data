@@ -1,0 +1,18 @@
+@startuml
+participant "relegated groupie" as 0
+box "savor flog"
+participant "wops elsewhere" as 1
+end box
+autonumber 2 5
+1 ->x 1: diphtheria probe
+loop doctored astronaut
+0 ->> 0: ropes foil
+1 -> 0++ : pathos collapsed
+alt senator pissing
+...ballgame cockamamie...
+1 <-] : function ai
+1 <-] : sportswear dude
+return reprobate pram
+end
+end
+@enduml

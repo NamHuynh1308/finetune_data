@@ -1,0 +1,24 @@
+@startuml
+participant "puberty post" as 0
+participant "earthlings belle" as 1
+participant "whites windjammer" as 2
+box "crewman saint"
+participant "circulated killjoy" as 3
+end box
+== obsessively townspeople ==
+autonumber 4 5
+create participant "mumble complimentary" as 4
+2 -> 4 : mumble complimentary
+autonumber stop
+3 -> 3: defaced centennial
+loop involves traitor
+3 -> 4!! : northwest brr
+2 --//o 1: collapse hallucination
+break wooed starlets
+1 ->] : moms prosecuted
+ [<- 1: experience smog
+create participant "effect entice" as 5
+0 -> 5 : effect entice
+end
+end
+@enduml

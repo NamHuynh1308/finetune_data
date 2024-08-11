@@ -1,0 +1,18 @@
+@startuml
+box "hosing aga"
+participant "seconds step" as 0
+participant "dogged freaks" as 1
+end box
+box "treatment informed"
+participant "stage persona" as 2
+end box
+== confirmed rebuild ==
+1 <-] : salty chose
+...misery hamburgers...
+0 ->] : dailies headlock
+1 -->x 2: receive reimbursed
+2 -\\ 1: loose probable
+alt hilarity forgave
+1 -> 2: poi caller
+end
+@enduml

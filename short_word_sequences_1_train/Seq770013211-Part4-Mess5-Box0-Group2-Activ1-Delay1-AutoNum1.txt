@@ -1,0 +1,19 @@
+@startuml
+participant "napkin envoy" as 0
+participant "expectancy gastric" as 1
+participant "maybes whims" as 2
+participant "uprooted tumbler" as 3
+== wallow shifted ==
+autonumber 10 9
+1 -> 1++ : dinky headache
+ [-> 1: patio veronica
+opt cruel posing
+...cordless ventricular...
+1 -> 2: shucks doses
+return notions sneer
+loop shunt socialism
+ [-> 1: nastiest raptor
+1 ->> 3: arrogance rosy
+end
+end
+@enduml

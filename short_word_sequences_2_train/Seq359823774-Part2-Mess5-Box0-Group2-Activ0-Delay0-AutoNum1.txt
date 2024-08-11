@@ -1,0 +1,16 @@
+@startuml
+participant "jackass traced" as 0
+autonumber 0 4
+critical decontamination rails
+0 -// 0: equinox foe
+0 -\\ 0: appetizing sugar
+autonumber stop
+par dumped emphasized
+0 -->x 0: lily dill
+create participant "fold landfill" as 1
+0 -> 1 : fold landfill
+0 -> 0: matches perimeter
+autonumber resume
+end
+end
+@enduml

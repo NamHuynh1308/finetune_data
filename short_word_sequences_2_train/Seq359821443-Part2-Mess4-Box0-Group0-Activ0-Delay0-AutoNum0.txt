@@ -1,0 +1,9 @@
+@startuml
+participant "shining dagger" as 0
+participant "compass lyrical" as 1
+== gazed split ==
+0 <-] : intervening deity
+1 <-] : incoming gothic
+1 -// 0: scalding irritating
+0 <-> 1: binder initiative
+@enduml

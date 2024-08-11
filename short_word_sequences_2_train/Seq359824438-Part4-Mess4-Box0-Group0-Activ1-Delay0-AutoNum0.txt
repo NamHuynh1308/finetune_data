@@ -1,0 +1,12 @@
+@startuml
+participant "realized view" as 0
+participant "calmly policemen" as 1
+participant "ancients punks" as 2
+== boyhood exhaust ==
+2 ->] : truffle district
+1 -> 2++ : rounding afterlife
+create participant "preventative equator" as 3
+2 -> 3 : preventative equator
+0 <-] : aargh sidewinder
+return crimp rods
+@enduml

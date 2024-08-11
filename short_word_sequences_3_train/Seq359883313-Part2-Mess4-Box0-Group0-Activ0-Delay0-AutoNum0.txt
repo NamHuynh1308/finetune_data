@@ -1,0 +1,9 @@
+@startuml
+participant "blackout inquest" as 0
+== revival displacement ==
+create participant "although fingers" as 1
+0 -> 1 : although fingers
+1 -> 1: receipts girly
+ [-> 0: coroner marcel
+0 ->> 1: saluting corporeal
+@enduml

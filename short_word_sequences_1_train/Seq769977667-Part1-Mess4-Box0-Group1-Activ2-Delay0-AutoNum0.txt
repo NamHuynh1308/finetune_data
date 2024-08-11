@@ -1,0 +1,12 @@
+@startuml
+participant "infallible mothballs" as 0
+loop direct worship
+0 ->o 0++ : subsequently procrastinating
+0 -->x 0: nordic oats
+0 ->x 0: clingy bloods
+return greener gin
+else personalize bonbon
+0 <-> 0++ : laugh reject
+end
+return delicacy godly
+@enduml

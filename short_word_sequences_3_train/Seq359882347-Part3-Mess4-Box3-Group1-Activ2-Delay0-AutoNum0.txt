@@ -1,0 +1,19 @@
+@startuml
+box "infernal sins"
+participant "punitive instigated" as 0
+box "complicating fangs"
+participant "finagle perceived" as 1
+box "squishing mum"
+participant "timber sneaked" as 2
+end box
+end box
+end box
+1 <-] : staunch sugars
+ [<- 1: culpable cheep
+loop wonder frequency
+0 --//o 0++ : dissection candle
+0 -> 0++ : veronica desecrate
+end
+return cued clumsy
+return port ongoing
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "curmudgeon operatives" as 0
+participant "auctioneer psychosomatic" as 1
+autonumber 2 4
+1 -> 0: severe ancestor
+1 --> 0: rematch rituals
+1 -> 1: fortunately perched
+0 <-] : piercing agin
+ [<- 1: peeled homage
+...pontoon slender...
+1 <-] : disturbed upshot
+@enduml

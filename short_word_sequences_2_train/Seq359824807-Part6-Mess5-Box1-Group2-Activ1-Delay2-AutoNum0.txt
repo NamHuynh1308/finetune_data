@@ -1,0 +1,23 @@
+@startuml
+participant "accuses cooperating" as 0
+participant "stewardess cupcake" as 1
+participant "race perched" as 2
+participant "turmoil pledges" as 3
+box "whoop switches"
+participant "lighted stashed" as 4
+end box
+opt steaming litter
+create participant "benches sea" as 5
+4 -> 5 : benches sea
+1 --//o 4: stalked recycling
+alt boozer monde
+2 -> 1: safety pressed
+...neutralized notorious...
+ [<- 3: scare bowman
+else decoder swoop
+...scrambled oaths...
+2 -> 4++ : sesame drunken
+end
+end
+return horrid hypocrisy
+@enduml

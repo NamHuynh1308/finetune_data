@@ -1,0 +1,10 @@
+@startuml
+participant "grassy inspector" as 0
+participant "renting slimmer" as 1
+participant "billboard perfecting" as 2
+== couples rematch ==
+1 -\\ 1: loners alibi
+0 -> 1!! : sinned collaboration
+2 --//o 2++ : na alone
+return collecting immortal
+@enduml

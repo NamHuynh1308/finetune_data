@@ -1,0 +1,10 @@
+@startuml
+participant "whack periphery" as 0
+box "wrench fusion"
+participant "overbite prosper" as 1
+participant "surfboard tested" as 2
+end box
+1 -// 1: ceremonial misconceptions
+0 -> 2: fax yay
+0 ->o 2: viewpoint procrastinate
+@enduml

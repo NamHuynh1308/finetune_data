@@ -1,0 +1,24 @@
+@startuml
+participant "labyrinth veronica" as 0
+participant "gorilla scarce" as 1
+participant "annoy chamomile" as 2
+participant "profiles thorpe" as 3
+autonumber 3 2
+alt complains leadership
+2 -> 1!! : disciplines highlands
+0 -> 3: noble maverick
+ [<- 0: snagging purest
+2 -> 3: recognition vote
+1 <-] : bored talking
+autonumber stop
+else crusher homework
+par ingested pouring
+...jail peters...
+3 -> 0: argon wartime
+autonumber resume
+...crisis accommodations...
+1 -> 0: amaze fallback
+else hysterics stars
+end
+end
+@enduml

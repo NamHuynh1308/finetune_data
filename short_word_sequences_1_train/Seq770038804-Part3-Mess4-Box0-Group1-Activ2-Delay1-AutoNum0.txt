@@ -1,0 +1,14 @@
+@startuml
+participant "idling crumb" as 0
+participant "caesar eights" as 1
+create participant "neutered willies" as 2
+0 -> 2 : neutered willies
+...prophesied recheck...
+1 -// 1: nighthawk applications
+1 --> 1++ : toward mirage
+alt norland unexpected
+1 -\\ 2++ : breakdowns insisting
+end
+return subtext indictment
+return engine radiating
+@enduml

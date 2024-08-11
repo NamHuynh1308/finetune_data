@@ -1,0 +1,7 @@
+@startuml
+participant "agin farewell" as 0
+autonumber 4 10
+0 -// 0: dahlia wishing
+0 --//o 0: reassurance vessels
+0 <-] : jiggly eventually
+@enduml

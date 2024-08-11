@@ -1,0 +1,12 @@
+@startuml
+participant "stirred hardball" as 0
+participant "bashed headmaster" as 1
+== empress graphs ==
+autonumber 7 2
+opt dismissed petitioning
+ [<- 1: bit supply
+create participant "passes adaptable" as 2
+0 -> 2 : passes adaptable
+else textiles doctrine
+end
+@enduml

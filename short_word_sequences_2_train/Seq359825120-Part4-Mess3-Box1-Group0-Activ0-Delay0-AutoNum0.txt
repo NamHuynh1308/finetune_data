@@ -1,0 +1,12 @@
+@startuml
+participant "dazzling em" as 0
+participant "carriers predictions" as 1
+box "galilee heartsick"
+participant "moist juncture" as 2
+end box
+== bicker mi ==
+create participant "communal salinas" as 3
+1 -> 3 : communal salinas
+1 --//o 3: swallowed mo
+2 -> 0!! : gutting exquisite
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "dismantling move" as 0
+autonumber 4 10
+0 <-> 0: fuses salamander
+0 --> 0: comprehending lollipops
+autonumber stop
+0 -> 0: edgewise awake
+autonumber resume
+0 <-> 0: oftentimes earnest
+autonumber stop
+@enduml

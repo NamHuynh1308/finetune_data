@@ -1,0 +1,16 @@
+@startuml
+box "moil subways"
+participant "temple outdoor" as 0
+participant "eastbound instructor" as 1
+end box
+participant "spread ideas" as 2
+autonumber 7 9
+create participant "exhilarating straitjacket" as 3
+1 -> 3 : exhilarating straitjacket
+1 <-> 1: feminists lovebirds
+alt oy sissies
+...stronghold wired...
+3 -> 0: strategizing rodent
+autonumber stop
+end
+@enduml

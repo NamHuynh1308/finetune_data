@@ -1,0 +1,11 @@
+@startuml
+participant "nickname charitable" as 0
+box "freeways lewis"
+participant "lighting carousel" as 1
+end box
+== given dandelion ==
+opt contentment posed
+0 -> 0: unsaid orator
+1 ->> 0: championships unrest
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+box "moves mapped"
+participant "function diary" as 0
+participant "wires priests" as 1
+end box
+1 <-> 1: occurs chests
+0 ->o 0++ : kingdoms solve
+1 ->o 0++ : owing woe
+1 --//o 1: focal spider
+return severe creamy
+...subordinate auxiliary...
+0 <-] : regretting ragging
+return hippo larvae
+@enduml

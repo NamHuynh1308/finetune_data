@@ -1,0 +1,20 @@
+@startuml
+participant "oblivious reconnaissance" as 0
+participant "bates staging" as 1
+box "parked twins"
+participant "fryer flavour" as 2
+end box
+autonumber 0 1
+0 -\\ 0: seeds pinch
+autonumber stop
+2 -> 1: slash maniac
+autonumber resume
+0 -> 1++ : lewis weakest
+0 -> 2: jumpers sludge
+2 <-> 0++ : deuces really
+...jesuit limitation...
+2 -\\ 1++ : match shedding
+return rancher extort
+return evaluate sleazebag
+return hothead chord
+@enduml

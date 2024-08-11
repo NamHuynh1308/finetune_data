@@ -1,0 +1,14 @@
+@startuml
+participant "technical sandbar" as 0
+autonumber 3 9
+loop disarray roomful
+0 ->> 0++ : dictating naval
+alt hairball sadly
+0 ->x 0: rely pygmies
+...distracted offers...
+0 -> 0: hast sabers
+autonumber stop
+end
+end
+return terminating meatballs
+@enduml

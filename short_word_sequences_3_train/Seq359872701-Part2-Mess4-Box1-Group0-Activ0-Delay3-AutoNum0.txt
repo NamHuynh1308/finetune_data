@@ -1,0 +1,13 @@
+@startuml
+box "stallion efficiency"
+participant "referendum mousey" as 0
+participant "bowline consults" as 1
+end box
+1 -> 1: languages farmer
+...sidewalks consultation...
+1 ->] : tug wheelchair
+...gracious canton...
+1 --> 1: wrecker monetary
+...furrowed antelope...
+0 -> 1: amiable mel
+@enduml

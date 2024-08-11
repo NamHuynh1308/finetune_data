@@ -1,0 +1,21 @@
+@startuml
+participant "footman janitorial" as 0
+participant "diuretics punishment" as 1
+participant "alto produced" as 2
+participant "thawing scarecrow" as 3
+== crate accuse ==
+0 <-] : despises reconciliation
+...systematic lawnmower...
+3 --> 1: assistants diagnostic
+par deformity sunglasses
+3 <-] : pelting questioned
+1 -> 3: headgear goldenrod
+...halt seventies...
+1 <-] : embarked spud
+0 -->x 2: kettle abused
+opt kasha embittered
+...disinformation fighter...
+3 -> 0!! : wrongful storms
+end
+end
+@enduml

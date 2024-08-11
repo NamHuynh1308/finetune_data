@@ -1,0 +1,10 @@
+@startuml
+box "blurred developer"
+participant "stomping vets" as 0
+participant "disrupts bloody" as 1
+end box
+autonumber 8 0
+0 -> 0: reaper heck
+create participant "stone crow" as 2
+0 -> 2 : stone crow
+@enduml

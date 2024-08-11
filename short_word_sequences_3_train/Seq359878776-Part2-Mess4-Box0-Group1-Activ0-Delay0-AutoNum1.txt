@@ -1,0 +1,11 @@
+@startuml
+participant "fraught services" as 0
+participant "roommate involved" as 1
+autonumber 9 6
+opt troop mapping
+0 -> 0!! : oats declaration
+0 -> 0: dweller flashlight
+1 -> 0: hiccups baroness
+1 <-] : credo efficiently
+end
+@enduml

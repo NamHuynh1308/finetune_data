@@ -1,0 +1,8 @@
+@startuml
+participant "migration ideally" as 0
+participant "cesspool nobleman" as 1
+opt solicitor scraps
+1 ->x 1: chile fundamental
+1 --//o 1: phoney compass
+end
+@enduml

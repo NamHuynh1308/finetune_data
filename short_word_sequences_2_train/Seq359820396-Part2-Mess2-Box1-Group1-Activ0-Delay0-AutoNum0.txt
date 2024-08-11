@@ -1,0 +1,10 @@
+@startuml
+box "cheaper newsman"
+participant "popcorn postponing" as 0
+participant "ironies porridge" as 1
+end box
+0 -> 0: maya breeds
+loop reflection memorial
+0 -> 0: spat gained
+end
+@enduml

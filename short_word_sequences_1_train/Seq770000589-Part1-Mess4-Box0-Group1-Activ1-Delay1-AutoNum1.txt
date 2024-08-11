@@ -1,0 +1,14 @@
+@startuml
+participant "ohm nightstick" as 0
+autonumber 8 4
+0 <-] : mon provenance
+autonumber stop
+0 ->] : quickie hocus
+autonumber resume
+...pram orders...
+0 -> 0: reliving perjured
+critical suspension funnies
+0 ->x 0++ : kettle disbarred
+end
+return merging else
+@enduml

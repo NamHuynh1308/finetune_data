@@ -1,0 +1,18 @@
+@startuml
+participant "pulling paris" as 0
+participant "starts superstition" as 1
+participant "keycard safes" as 2
+participant "poverty takes" as 3
+0 --> 1: donated teeth
+2 -> 3++ : crooked spotlight
+create participant "greyhound zinfandel" as 4
+3 -> 4 : greyhound zinfandel
+...intake shroud...
+2 -> 4++ : individuality screams
+1 ->o 4: scone nazi
+return helper cakes
+ [-> 4: ritual dismissal
+...community commissioner...
+2 -\\ 4: dory cosmic
+return rescheduled deb
+@enduml

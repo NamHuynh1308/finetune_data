@@ -1,0 +1,14 @@
+@startuml
+participant "ghetto scariest" as 0
+participant "soaps sidle" as 1
+participant "ferment extinguisher" as 2
+participant "blinders racquetball" as 3
+autonumber 9 6
+ [<- 2: disagreed spiraling
+2 -\\ 3: harnessed earmarked
+0 -> 2!! : viruses immortality
+autonumber stop
+3 -> 0!! : feature uniform
+autonumber resume
+2 --//o 1: paler behold
+@enduml

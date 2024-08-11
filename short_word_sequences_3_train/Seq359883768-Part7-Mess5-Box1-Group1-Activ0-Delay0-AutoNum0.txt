@@ -1,0 +1,19 @@
+@startuml
+participant "pinecone shuck" as 0
+participant "gutless critter" as 1
+participant "promise sniffles" as 2
+box "brotherly angrily"
+participant "heave grate" as 3
+participant "mites previous" as 4
+end box
+1 -> 0: accepted reshoots
+0 ->o 3: undressed knucklehead
+loop chickenshit avalanche
+create participant "surgically deigned" as 5
+2 -> 5 : surgically deigned
+create participant "sweatshops ravens" as 6
+0 -> 6 : sweatshops ravens
+else skewer bombarded
+0 --> 5: sport expenditure
+end
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "background flagging" as 0
+box "underwater conclave"
+participant "hideaway horizon" as 1
+box "continuation disciplined"
+participant "feat plots" as 2
+box "nicotine rentals"
+participant "assigned thunderbolt" as 3
+end box
+end box
+end box
+3 -// 1: legacy misguided
+0 -> 2!! : tormenting toughness
+...parrots personally...
+2 -> 3: thins assumes
+2 -> 1++ : peripheral playwright
+3 -> 0!! : taunted collective
+return coffee varied
+@enduml

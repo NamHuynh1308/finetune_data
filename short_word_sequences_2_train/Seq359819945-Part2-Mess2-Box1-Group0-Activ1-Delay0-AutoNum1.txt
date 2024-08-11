@@ -1,0 +1,10 @@
+@startuml
+participant "carpeting cranes" as 0
+box "baseball stripe"
+participant "peeping deficiency" as 1
+end box
+autonumber 5 5
+1 --//o 0++ : pepperoni humans
+0 -->x 0: paralyzed rebels
+return majority superpower
+@enduml

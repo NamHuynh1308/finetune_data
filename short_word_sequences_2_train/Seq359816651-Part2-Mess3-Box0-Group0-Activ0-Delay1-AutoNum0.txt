@@ -1,0 +1,9 @@
+@startuml
+participant "pantry scrutinized" as 0
+participant "clocked cutesy" as 1
+== sprinkled retribution ==
+ [-> 0: grime fountain
+...skunk diagram...
+1 -->x 1: goiter penne
+0 -> 1: anybody grape
+@enduml

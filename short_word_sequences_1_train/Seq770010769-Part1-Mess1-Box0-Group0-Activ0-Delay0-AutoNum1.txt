@@ -1,0 +1,5 @@
+@startuml
+participant "mean revelation" as 0
+autonumber 6 9
+0 -> 0: abuser pixels
+@enduml

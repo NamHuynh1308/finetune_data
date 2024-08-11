@@ -1,0 +1,4 @@
+@startuml
+participant "caterpillars absolutely" as 0
+0 -> 0: ordinate waiting
+@enduml

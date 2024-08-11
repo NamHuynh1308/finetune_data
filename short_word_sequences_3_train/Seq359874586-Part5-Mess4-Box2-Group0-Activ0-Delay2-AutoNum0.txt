@@ -1,0 +1,17 @@
+@startuml
+box "entrenched crumbs"
+participant "mead logically" as 0
+box "narcissist arsenic"
+participant "unhook vain" as 1
+participant "pooh flogging" as 2
+participant "admiration badge" as 3
+end box
+end box
+2 -\\ 1: alderman ala
+...kilter abigail...
+3 <-] : craziness nicknames
+...chutes interfacing...
+0 -> 2: immense rigor
+create participant "salt workshop" as 4
+2 -> 4 : salt workshop
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+box "sniper succumbed"
+participant "giggling unit" as 0
+participant "bandages hurley" as 1
+end box
+autonumber 9 7
+0 <-> 0: motivation schnitzel
+1 -->x 1++ : sweltering generate
+autonumber stop
+1 ->] : aware fraternization
+autonumber resume
+0 --//o 1: bodies buttery
+return ravage martin
+autonumber stop
+@enduml

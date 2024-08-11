@@ -1,0 +1,25 @@
+@startuml
+participant "willow combine" as 0
+participant "impressionists drinking" as 1
+participant "changing delights" as 2
+box "custom piggy"
+participant "stage mob" as 3
+end box
+== carpool hugger ==
+autonumber 8 2
+1 -> 0!! : launching soared
+ [-> 0: exist breathable
+autonumber stop
+3 ->] : labyrinth crushes
+autonumber resume
+2 ->x 3: unpunished reach
+autonumber stop
+loop prescribing hefty
+1 --//o 1++ : vengeful inferior
+autonumber resume
+...vacuuming begun...
+1 ->] : recommendations injure
+else broomsticks prosthetic
+end
+return mops procreate
+@enduml

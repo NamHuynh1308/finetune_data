@@ -1,0 +1,10 @@
+@startuml
+participant "cranky regularly" as 0
+participant "withdrawing farina" as 1
+== john mother ==
+create participant "networks backpacks" as 2
+0 -> 2 : networks backpacks
+break cognizant reps
+1 <-] : freelancer centennial
+end
+@enduml

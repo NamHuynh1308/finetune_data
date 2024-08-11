@@ -1,0 +1,5 @@
+@startuml
+participant "streetwalker plan" as 0
+== regime rooted ==
+0 -> 0: wrench disguises
+@enduml

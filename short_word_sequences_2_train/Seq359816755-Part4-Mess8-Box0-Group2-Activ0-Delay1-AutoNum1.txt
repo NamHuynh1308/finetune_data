@@ -1,0 +1,24 @@
+@startuml
+participant "supplier hazy" as 0
+participant "indefinitely urine" as 1
+participant "frog comedies" as 2
+participant "yapping stream" as 3
+autonumber 3 6
+1 -> 2!! : yakking at
+0 ->x 3: grant natured
+loop bureaucrats scorpions
+0 -> 1: coffees pretrial
+autonumber stop
+...consequences inter...
+2 -> 1: bellman overanxious
+3 -> 1: sulk tricycle
+autonumber resume
+else helplessly pansy
+par appointment pyre
+1 ->> 1: racer nude
+autonumber stop
+ [-> 2: reinstate reserved
+2 -> 0: wallet signor
+end
+end
+@enduml

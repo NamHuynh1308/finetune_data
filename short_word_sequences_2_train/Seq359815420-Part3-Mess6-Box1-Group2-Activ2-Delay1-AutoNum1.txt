@@ -1,0 +1,24 @@
+@startuml
+participant "errant weirdos" as 0
+box "colleagues conner"
+participant "insults absurd" as 1
+participant "medicating conjure" as 2
+end box
+autonumber 6 7
+0 -> 2++ : handsomely christening
+autonumber stop
+loop mastermind hypotensive
+1 ->> 1++ : chowder poppies
+0 --//o 2: shits exponential
+autonumber resume
+end
+loop multiply frustration
+1 ->o 2: grief impossibility
+...indictments runt...
+ [<- 2: ravine leash
+return digitally smoochy
+end
+0 -> 1: tango adjust
+return dipped daylights
+autonumber stop
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "neon booker" as 0
+box "wave traces"
+participant "sparkling barking" as 1
+participant "minimum rendered" as 2
+box "suave persuaded"
+participant "compressor wheeler" as 3
+end box
+end box
+2 -// 1: remembered merit
+opt unsupervised tyrant
+3 --> 1: alameda mastermind
+1 -> 2++ : type cling
+else treason genius
+0 <-] : hummer spans
+end
+return ambient colic
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "waxes tango" as 0
+participant "instructor religion" as 1
+box "griffin roasting"
+participant "backup tattooed" as 2
+participant "gently chunk" as 3
+end box
+box "lethal spotty"
+participant "convulsing calzone" as 4
+end box
+2 ->] : grandson aided
+2 --> 4: squirm shrugging
+3 -->x 2++ : reconsider dingy
+4 -> 2: frailty carbs
+create participant "femur smarter" as 5
+1 -> 5 : femur smarter
+return ottoman routing
+@enduml

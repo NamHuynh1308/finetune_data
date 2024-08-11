@@ -1,0 +1,17 @@
+@startuml
+box "intervention scrawny"
+participant "bangs quake" as 0
+end box
+autonumber 1 9
+create participant "realise whatnot" as 1
+0 -> 1 : realise whatnot
+autonumber stop
+...pairs ginger...
+0 ->x 0: eyesore conditions
+autonumber resume
+critical vera eyebrow
+1 -> 0++ : doves frees
+1 --//o 0: tach slutty
+return announces decoys
+end
+@enduml

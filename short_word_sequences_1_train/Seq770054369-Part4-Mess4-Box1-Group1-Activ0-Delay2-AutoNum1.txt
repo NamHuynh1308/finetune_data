@@ -1,0 +1,20 @@
+@startuml
+participant "activities beans" as 0
+participant "yammering dedication" as 1
+participant "growth incase" as 2
+box "irrevocably dimpled"
+participant "standish ravings" as 3
+end box
+== cannot steamroller ==
+autonumber 4 7
+break parallels shareholder
+1 --//o 2: stationed dislodged
+...sodding forget...
+0 ->> 3: gasp general
+autonumber stop
+...jasper fumes...
+1 ->x 2: cheering retaliating
+2 --//o 1: absentee ramble
+autonumber resume
+end
+@enduml

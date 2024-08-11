@@ -1,0 +1,14 @@
+@startuml
+box "peers measly"
+participant "basement neglect" as 0
+participant "concerning unprofessional" as 1
+end box
+== steady illicit ==
+ [-> 1: exorbitant dates
+0 ->> 0: flapjacks burp
+ [-> 1: paramilitary music
+0 -> 1!! : diary schnitzel
+alt boring orientation
+0 -> 1!! : inspector belly
+end
+@enduml

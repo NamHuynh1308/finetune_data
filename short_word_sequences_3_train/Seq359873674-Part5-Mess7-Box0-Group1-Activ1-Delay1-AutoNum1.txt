@@ -1,0 +1,23 @@
+@startuml
+participant "educated schnoz" as 0
+participant "concentrating suspended" as 1
+participant "smiling henry" as 2
+participant "installed temperature" as 3
+participant "plots cutter" as 4
+== mowed apex ==
+autonumber 1 2
+ [-> 1: recovered performances
+2 ->o 0++ : medicare communication
+autonumber stop
+2 -> 0: baubles lama
+autonumber resume
+critical tandem fluff
+...hydrolase shaft...
+4 -->x 2: crystal brainwashing
+return carnival percentile
+3 ->x 1: leary reconnected
+ [<- 0: kitchen desecrate
+2 ->o 4: sushi foraging
+autonumber stop
+end
+@enduml

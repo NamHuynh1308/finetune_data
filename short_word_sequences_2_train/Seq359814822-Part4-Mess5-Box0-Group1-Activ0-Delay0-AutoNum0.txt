@@ -1,0 +1,13 @@
+@startuml
+participant "organize quieter" as 0
+participant "thyme advised" as 1
+participant "hypochondriac striptease" as 2
+2 ->> 1: sup pregnant
+0 -->x 1: abundantly thrills
+1 -> 2!! : snifter spanked
+create participant "dreadful lose" as 3
+0 -> 3 : dreadful lose
+loop droopy gagged
+2 <-> 1: found hiring
+end
+@enduml

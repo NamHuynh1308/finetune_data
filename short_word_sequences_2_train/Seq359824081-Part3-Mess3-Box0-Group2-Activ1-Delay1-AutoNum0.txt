@@ -1,0 +1,14 @@
+@startuml
+participant "bend entered" as 0
+participant "testy religion" as 1
+participant "scrub determination" as 2
+alt impediments regards
+1 <-> 2: doorknob harbor
+2 ->> 2++ : figurehead bulbs
+opt possess freshman
+...auctioning purged...
+2 <-] : spelt thoughtless
+end
+end
+return preparations subjecting
+@enduml

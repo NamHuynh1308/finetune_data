@@ -1,0 +1,14 @@
+@startuml
+box "epic preach"
+participant "buzz judas" as 0
+participant "motorized easing" as 1
+end box
+1 -> 0++ : duffle shaved
+...misspent cast...
+0 ->> 0: sight nods
+return gainful dingle
+create participant "toddler banging" as 2
+0 -> 2 : toddler banging
+1 ->> 2++ : industry waited
+return scrappy shattering
+@enduml

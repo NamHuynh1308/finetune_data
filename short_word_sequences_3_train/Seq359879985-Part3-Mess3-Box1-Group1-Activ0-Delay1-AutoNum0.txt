@@ -1,0 +1,13 @@
+@startuml
+participant "wrench neutron" as 0
+box "skulls booking"
+participant "manhunt whereas" as 1
+participant "defendants sympathetic" as 2
+end box
+1 ->x 1: prancer incapacitated
+...auctioning lasagna...
+1 <-> 2: improved uproot
+opt regrets mature
+0 ->] : racetrack zeroed
+end
+@enduml

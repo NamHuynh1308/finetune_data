@@ -1,0 +1,13 @@
+@startuml
+participant "sororities appointments" as 0
+participant "siren tough" as 1
+box "desserts expenditure"
+participant "yeah witch" as 2
+end box
+autonumber 4 7
+1 <-] : competing professional
+...execution civvies...
+2 -> 0: everlasting reprogram
+autonumber stop
+2 --//o 1: omelet palette
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+box "herd according"
+participant "symphony cancellations" as 0
+participant "speakerphone outgrow" as 1
+end box
+box "weirdos pulled"
+participant "closes pearls" as 2
+end box
+autonumber 10 4
+2 --//o 0: shutdown incarnation
+...required monumental...
+0 -> 1!! : abstract procrastination
+0 ->> 2: comparing salaam
+autonumber stop
+2 -> 1: abortions poppycock
+autonumber resume
+alt incoming ancients
+1 ->o 1: tuition automated
+autonumber stop
+par shamed eyeing
+1 -> 1++ : painted hooch
+end
+end
+return sumo manipulates
+@enduml

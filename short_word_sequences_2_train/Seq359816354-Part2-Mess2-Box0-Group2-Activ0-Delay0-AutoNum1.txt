@@ -1,0 +1,12 @@
+@startuml
+participant "funky trattoria" as 0
+participant "fireplaces exclusive" as 1
+autonumber 4 1
+break harsh shackle
+0 -> 0!! : shrew vessels
+opt equinox hosed
+1 -> 1: laziness acupuncture
+autonumber stop
+end
+end
+@enduml

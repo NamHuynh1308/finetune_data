@@ -1,0 +1,33 @@
+@startuml
+participant "tenor marble" as 0
+participant "mere mums" as 1
+participant "prosecuting before" as 2
+participant "nameless dallying" as 3
+participant "sufficiently bent" as 4
+autonumber 10 10
+4 --> 3++ : buckets educator
+autonumber stop
+par liposuction labyrinth
+0 ->x 3: skirmish donor
+return question wheel
+par sonar everyone
+...due rewarded...
+4 --> 0: regroup jags
+autonumber resume
+4 <-] : bong adept
+loop borrow showoff
+3 ->x 3: scenario unsettling
+ [-> 2: continuance munching
+opt urchin worldly
+create participant "dive impeding" as 5
+3 -> 5 : dive impeding
+3 ->o 1: angst furs
+autonumber stop
+else cherish comparing
+0 <-] : glory bobbin
+autonumber resume
+end
+end
+end
+end
+@enduml

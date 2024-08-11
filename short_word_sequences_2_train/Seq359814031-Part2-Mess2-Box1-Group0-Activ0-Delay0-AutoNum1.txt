@@ -1,0 +1,10 @@
+@startuml
+box "cone oils"
+participant "orally emphatic" as 0
+participant "whipping main" as 1
+end box
+== edition derives ==
+autonumber 4 6
+1 ->o 0: flue charlie
+1 -->x 0: remover faucets
+@enduml

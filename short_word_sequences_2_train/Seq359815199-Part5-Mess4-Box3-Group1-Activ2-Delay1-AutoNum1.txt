@@ -1,0 +1,24 @@
+@startuml
+box "smoothie renown"
+participant "slinky overwhelming" as 0
+box "lodged gypped"
+participant "flaked slower" as 1
+box "loner churches"
+participant "hopes knelt" as 2
+participant "misfits telegraph" as 3
+end box
+end box
+end box
+autonumber 6 3
+1 -> 2++ : memorized chilly
+create participant "egomaniac shirt" as 4
+0 -> 4 : egomaniac shirt
+...aprons independence...
+2 -// 1++ : petit overexcited
+autonumber stop
+opt incompetence candy
+4 -> 1!! : hobbies cares
+end
+return witchy gamble
+return revolve smokey
+@enduml

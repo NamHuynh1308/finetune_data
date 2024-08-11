@@ -1,0 +1,11 @@
+@startuml
+participant "parton encouraged" as 0
+box "defects queller"
+participant "jewels naps" as 1
+end box
+== racked rumblings ==
+autonumber 2 8
+0 --> 1: accepting spelling
+...roomie cloistered...
+0 ->x 0: feeling unsuitable
+@enduml

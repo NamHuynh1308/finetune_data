@@ -1,0 +1,10 @@
+@startuml
+box "caved petals"
+participant "grubbing sentences" as 0
+end box
+== staggered genuinely ==
+create participant "adopted endanger" as 1
+0 -> 1 : adopted endanger
+create participant "eros ills" as 2
+0 -> 2 : eros ills
+@enduml

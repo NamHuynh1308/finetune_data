@@ -1,0 +1,12 @@
+@startuml
+participant "sentiment namesake" as 0
+participant "gases paragraphs" as 1
+== instituted nuptial ==
+loop forbidden minimum
+create participant "of veg" as 2
+1 -> 2 : of veg
+0 -> 0: will shrimp
+1 ->] : fiction tracks
+end
+2 -> 1: immediate empress
+@enduml

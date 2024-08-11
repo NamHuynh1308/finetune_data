@@ -1,0 +1,7 @@
+@startuml
+box "manning tuition"
+participant "perfecto faithfulness" as 0
+end box
+autonumber 6 3
+0 ->> 0: cordoned grieves
+@enduml

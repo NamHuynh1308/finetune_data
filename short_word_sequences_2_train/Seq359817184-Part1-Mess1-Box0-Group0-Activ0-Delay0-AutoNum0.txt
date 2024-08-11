@@ -1,0 +1,5 @@
+@startuml
+participant "dodgeball regulation" as 0
+== transfusions unnerved ==
+ [-> 0: lambs screwup
+@enduml

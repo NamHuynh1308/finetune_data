@@ -1,0 +1,9 @@
+@startuml
+box "whirlwind pleasures"
+participant "bun elite" as 0
+end box
+alt blathering spaghetti
+0 <-] : superior vogue
+0 ->o 0: trailing rev
+end
+@enduml

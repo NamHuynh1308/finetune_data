@@ -1,0 +1,11 @@
+@startuml
+participant "rituals progression" as 0
+autonumber 1 5
+ [-> 0: implants bundles
+autonumber stop
+0 <-] : impregnated whit
+0 ->x 0++ : canine mouthed
+0 -> 0: unfreeze firs
+autonumber resume
+return courage overstepping
+@enduml

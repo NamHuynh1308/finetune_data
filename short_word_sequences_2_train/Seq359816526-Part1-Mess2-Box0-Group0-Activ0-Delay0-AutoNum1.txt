@@ -1,0 +1,7 @@
+@startuml
+participant "brute crop" as 0
+== storage mystical ==
+autonumber 1 5
+0 ->o 0: birdseed lab
+0 ->] : kiosk baby
+@enduml

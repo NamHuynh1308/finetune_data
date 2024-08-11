@@ -1,0 +1,26 @@
+@startuml
+box "colonial sidle"
+participant "patently liberty" as 0
+participant "poof pink" as 1
+end box
+participant "sweating ti" as 2
+participant "invisible gained" as 3
+box "loner nowadays"
+participant "reruns mittens" as 4
+end box
+autonumber 5 1
+3 -> 0: opposite confederacy
+2 --> 1: backstage conniption
+loop spawn chauffeur
+3 -> 0++ : sinister parallels
+autonumber stop
+...melting symphony...
+2 ->o 2: anagram instances
+return practising emancipation
+autonumber resume
+else drags wasp
+3 --//o 3: campus proximity
+1 -> 3: headhunter notification
+else moot methodical
+end
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "manslaughter politician" as 0
+participant "stressed preaching" as 1
+1 ->o 1: navigation rats
+ [<- 0: depiction indeed
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+participant "entry sought" as 0
+participant "screech swanky" as 1
+participant "clearance gasped" as 2
+== erratically unencumbered ==
+autonumber 6 10
+opt deft drugged
+1 -> 2++ : grading muse
+2 -> 1: overcast crafted
+return endeavor crouching
+alt balk both
+2 ->] : users awe
+1 -> 0: mercenary tasks
+break marmalade panicking
+2 -> 2++ : directory desecration
+1 ->o 2: barbecues bronzed
+return ninth illustration
+else medley palette
+...rubber nuptial...
+2 -->x 1++ : deaf cuss
+end
+end
+end
+return huzzah deny
+@enduml

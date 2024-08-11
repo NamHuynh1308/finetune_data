@@ -1,0 +1,16 @@
+@startuml
+participant "exhibits hurts" as 0
+participant "tizzy creations" as 1
+0 -> 1++ : adversity uglies
+1 ->] : taking avid
+return navy ruins
+1 --//o 0++ : headlock fetal
+1 ->] : documentaries broomsticks
+alt tamper undetected
+0 <-> 1: pushers performs
+create participant "prioritizing mannequin" as 2
+0 -> 2 : prioritizing mannequin
+else gulch lens
+end
+return sump plugged
+@enduml

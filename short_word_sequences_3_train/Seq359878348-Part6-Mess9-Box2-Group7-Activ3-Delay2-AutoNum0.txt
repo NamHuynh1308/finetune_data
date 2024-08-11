@@ -1,0 +1,42 @@
+@startuml
+participant "goblins ditto" as 0
+box "jog individual"
+participant "detonator assign" as 1
+participant "liberation eraser" as 2
+end box
+box "willingness adage"
+participant "thanksgivings blames" as 3
+participant "sidecar innkeeper" as 4
+end box
+== logic headband ==
+opt boarder heh
+2 -> 0: civilizations locations
+3 ->] : lightning discotheque
+create participant "derision shotguns" as 5
+0 -> 5 : derision shotguns
+else devon oriented
+loop theirs table
+1 -> 3++ : scariest manger
+break pins sleeper
+3 <-] : autistic dispensed
+opt trays stillness
+...curran jabs...
+2 -> 1: shtick allergic
+return framing wasps
+par parliamentary guessing
+4 -> 1++ : argyle damnedest
+opt yuppies graders
+...infinity knees...
+ [-> 0: shocked tuck
+return saliva fulfil
+break iceman guitars
+1 -> 1++ : screens lurks
+end
+end
+end
+end
+end
+end
+end
+return machine conference
+@enduml

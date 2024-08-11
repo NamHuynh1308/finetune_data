@@ -1,0 +1,13 @@
+@startuml
+participant "took lead" as 0
+box "extinguished iliad"
+participant "luster infraction" as 1
+participant "godmother doorknob" as 2
+end box
+autonumber 8 4
+2 ->o 2++ : allegiance clinical
+create participant "villages offends" as 3
+2 -> 3 : villages offends
+0 -->x 1: influences overwhelmingly
+return rotating rioting
+@enduml

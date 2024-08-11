@@ -1,0 +1,9 @@
+@startuml
+participant "transform tots" as 0
+autonumber 0 10
+0 -// 0: invite radius
+autonumber stop
+0 -\\ 0: proposal aboveboard
+...tactful executions...
+0 -> 0!! : excursions release
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "canned inconvenience" as 0
+participant "encounters owls" as 1
+participant "marc ai" as 2
+alt types hutch
+0 -\\ 1++ : blown lovely
+1 --> 0++ : accidental suits
+else truck lowery
+0 --> 0: fugu ringer
+end
+return severance collided
+return loathes apocalyptic
+@enduml

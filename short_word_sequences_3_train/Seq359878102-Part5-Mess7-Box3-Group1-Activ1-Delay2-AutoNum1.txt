@@ -1,0 +1,29 @@
+@startuml
+participant "assailant observe" as 0
+box "famished jets"
+participant "respirations scheduling" as 1
+box "vaporized eerily"
+participant "interview mulberry" as 2
+box "typically laryngitis"
+participant "blume swayed" as 3
+end box
+end box
+end box
+autonumber 5 1
+2 <-> 1: ornate shaping
+autonumber stop
+2 --//o 2: pricks insincere
+create participant "travesty contentment" as 4
+1 -> 4 : travesty contentment
+...mowed cocaine...
+1 -> 0: planned kinder
+opt flunkies chuck
+...athlete disclose...
+1 <-> 0: auxiliary describes
+3 -> 2: videotapes lilac
+else cage wills
+0 -> 1++ : friend gang
+autonumber resume
+end
+return detach jellybean
+@enduml

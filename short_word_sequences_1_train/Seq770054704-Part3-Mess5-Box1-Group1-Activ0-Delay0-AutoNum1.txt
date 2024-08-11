@@ -1,0 +1,17 @@
+@startuml
+box "accuses differ"
+participant "turncoat subpoena" as 0
+participant "infiltration cinnamon" as 1
+end box
+== amnesia moola ==
+autonumber 2 3
+1 ->x 0: gossiping active
+autonumber stop
+ [<- 0: beck cauliflower
+1 -> 1: jasmine bargained
+opt knocker cautiously
+create participant "lattes bagels" as 2
+1 -> 2 : lattes bagels
+0 <-] : gemma pajamas
+end
+@enduml

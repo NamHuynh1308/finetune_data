@@ -1,0 +1,11 @@
+@startuml
+box "errors dimple"
+participant "limping outbreak" as 0
+end box
+create participant "hangers hostel" as 1
+0 -> 1 : hangers hostel
+1 ->x 0++ : dusk easygoing
+0 -> 1: overdose schedule
+return velvet britches
+0 -> 0: academics tarantulas
+@enduml

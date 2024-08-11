@@ -1,0 +1,16 @@
+@startuml
+box "poly soak"
+participant "rodman crashing" as 0
+participant "loon fans" as 1
+participant "poles violating" as 2
+end box
+== turncoat bloodied ==
+par privileges university
+2 ->o 0++ : drive drumstick
+opt pneumonia surfers
+ [-> 1: seashell warmth
+return delusions wearer
+1 -> 0!! : fire search
+end
+end
+@enduml

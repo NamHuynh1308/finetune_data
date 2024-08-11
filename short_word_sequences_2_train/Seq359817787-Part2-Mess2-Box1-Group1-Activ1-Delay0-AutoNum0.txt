@@ -1,0 +1,11 @@
+@startuml
+participant "plateau conjures" as 0
+box "restless bun"
+participant "wingman awareness" as 1
+end box
+opt criminals famously
+1 --> 1++ : contact sown
+1 -> 0!! : exiled speedboat
+return mirth seems
+end
+@enduml

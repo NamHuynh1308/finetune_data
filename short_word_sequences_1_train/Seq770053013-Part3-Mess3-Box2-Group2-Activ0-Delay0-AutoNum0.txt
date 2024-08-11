@@ -1,0 +1,18 @@
+@startuml
+box "lucky ramble"
+participant "hopper busload" as 0
+participant "usefulness spiders" as 1
+end box
+box "flick potter"
+participant "nifty nuptials" as 2
+end box
+== kicks security ==
+loop pap festivals
+1 <-] : switchman instances
+opt righty abroad
+0 -\\ 2: reinforced helped
+0 --> 0: commander tortures
+else athlete souls
+end
+end
+@enduml

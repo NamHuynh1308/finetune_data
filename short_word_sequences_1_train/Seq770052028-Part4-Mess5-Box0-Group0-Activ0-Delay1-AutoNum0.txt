@@ -1,0 +1,13 @@
+@startuml
+participant "poisonous lineup" as 0
+participant "compelling administrators" as 1
+participant "cordless dramatic" as 2
+== dessert rightly ==
+1 ->x 1: wonderful insolence
+create participant "rare mesh" as 3
+2 -> 3 : rare mesh
+3 --//o 0: accessories onion
+...technique diner...
+3 -> 0: gliding quarreled
+0 -> 2: students shaft
+@enduml

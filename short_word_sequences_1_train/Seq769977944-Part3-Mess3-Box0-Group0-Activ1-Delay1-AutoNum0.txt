@@ -1,0 +1,10 @@
+@startuml
+participant "gen cola" as 0
+participant "foregone tarot" as 1
+ [-> 1: junk ditch
+create participant "detaining suffocating" as 2
+1 -> 2 : detaining suffocating
+...huffing jockeys...
+1 <-> 0++ : hoses sauerkraut
+return unshakable intimidating
+@enduml

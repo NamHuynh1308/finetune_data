@@ -1,0 +1,18 @@
+@startuml
+participant "pantry riddler" as 0
+participant "infestation drastically" as 1
+box "quieter chigger"
+participant "kremlin preparation" as 2
+end box
+== fife potentially ==
+1 -->x 0++ : propose bumble
+create participant "mitt curly" as 3
+2 -> 3 : mitt curly
+return brothers elective
+3 -> 1: booths midwestern
+...barricade lingering...
+1 --> 1: prudence nan
+...paella dementia...
+2 -// 3++ : jesse circulate
+return feat populated
+@enduml

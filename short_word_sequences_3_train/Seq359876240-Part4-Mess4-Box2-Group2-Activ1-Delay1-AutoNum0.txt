@@ -1,0 +1,21 @@
+@startuml
+participant "shrimp occasions" as 0
+box "opened neediness"
+participant "canals unraveled" as 1
+box "loos puppies"
+participant "tries framing" as 2
+participant "bewitched pitchfork" as 3
+end box
+end box
+opt machinations shame
+1 -> 0: fairway demolition
+2 ->x 3++ : potion pacemaker
+alt ton needless
+1 <-] : elf poltergeists
+return bowline remembrance
+...routine roast...
+2 --> 2: brow masters
+else fray proportions
+end
+end
+@enduml

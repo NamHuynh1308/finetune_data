@@ -1,0 +1,17 @@
+@startuml
+participant "bail surviving" as 0
+create participant "multinational businesswomen" as 1
+0 -> 1 : multinational businesswomen
+...auditor unrest...
+1 ->o 0++ : fueling whatchamacallit
+break clitoris smothered
+1 <-> 0: wallop mess
+alt cellulite bitten
+0 ->x 0: fizz biz
+par bigmouth piddles
+1 -> 0: cricket valor
+return numerous flute
+end
+end
+end
+@enduml

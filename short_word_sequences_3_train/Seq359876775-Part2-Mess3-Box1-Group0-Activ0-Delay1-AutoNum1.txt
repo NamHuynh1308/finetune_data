@@ -1,0 +1,13 @@
+@startuml
+box "punctuation unorthodox"
+participant "trawler fallacy" as 0
+participant "petals mulberry" as 1
+end box
+autonumber 5 2
+0 -> 1!! : backside humorless
+autonumber stop
+1 -> 0: verbally digest
+...bree modeling...
+0 <-> 0: deputized tendon
+autonumber resume
+@enduml

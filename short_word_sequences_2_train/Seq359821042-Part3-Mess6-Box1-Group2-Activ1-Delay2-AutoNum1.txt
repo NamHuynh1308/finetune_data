@@ -1,0 +1,26 @@
+@startuml
+participant "puffy unemployment" as 0
+box "reconciling liberal"
+participant "premier dutiful" as 1
+end box
+== union invested ==
+autonumber 0 4
+1 ->x 1: rodents ancient
+autonumber stop
+opt everyone commendation
+create participant "handy rooming" as 2
+1 -> 2 : handy rooming
+autonumber resume
+loop procreate little
+0 -> 0++ : infertile photographing
+autonumber stop
+1 -> 1: confirms wavelengths
+autonumber resume
+...inclined dribbles...
+1 -> 0: signatures secretary
+...omelettes rehab...
+2 <-> 2: motors pasta
+return croc exam
+end
+end
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+participant "swings dusting" as 0
+box "coughs prepping"
+participant "coiffure listing" as 1
+box "obligated poached"
+participant "rigid fob" as 2
+participant "indoor swam" as 3
+end box
+participant "imperfect luge" as 4
+end box
+== analysis paid ==
+ [-> 4: aura rooming
+3 -> 2: angora renovate
+4 -\\ 2: webbing say
+...consumed quote...
+2 -> 0: protects study
+break size western
+3 -> 3++ : model mocking
+end
+return lichen weeks
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+participant "twirl impartial" as 0
+0 ->o 0: old sot
+@enduml

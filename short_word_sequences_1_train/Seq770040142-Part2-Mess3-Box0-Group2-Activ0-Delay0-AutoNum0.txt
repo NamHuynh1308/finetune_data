@@ -1,0 +1,11 @@
+@startuml
+participant "thrift bingo" as 0
+par quart bathe
+0 -> 0: joy innocently
+create participant "syllable ole" as 1
+0 -> 1 : syllable ole
+loop handsomest gallows
+0 --> 0: poppycock border
+end
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "drift great" as 0
+autonumber 1 0
+create participant "maniacs alike" as 1
+0 -> 1 : maniacs alike
+loop morality allure
+1 ->] : slutty mirth
+...goobers question...
+0 -> 1++ : haul dally
+end
+return superstars estimates
+@enduml

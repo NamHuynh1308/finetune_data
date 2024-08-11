@@ -1,0 +1,12 @@
+@startuml
+participant "overboard convert" as 0
+box "armour affecting"
+participant "teleport intelligence" as 1
+end box
+== sad daily ==
+0 -> 1: midterms washer
+0 -> 0: forbids incendiary
+opt whose witty
+0 <-] : outraged scolding
+end
+@enduml

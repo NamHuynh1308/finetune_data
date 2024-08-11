@@ -1,0 +1,25 @@
+@startuml
+participant "ducts tampons" as 0
+participant "laying shank" as 1
+box "guardians protections"
+participant "gun stewardess" as 2
+participant "ringside fascination" as 3
+participant "cyborg pair" as 4
+end box
+ [<- 4: mops pilgrim
+critical flared circulation
+1 -> 1: checkpoints ate
+4 -> 0: anthrax them
+ [-> 0: jollies handstand
+par mealy outline
+...slew priority...
+2 -\\ 2++ : rhinestone totaled
+opt bet ownership
+1 --//o 1: puce symptomatic
+ [<- 4: creatures sovereignty
+else oversight sleeves
+end
+end
+end
+return thou fireman
+@enduml

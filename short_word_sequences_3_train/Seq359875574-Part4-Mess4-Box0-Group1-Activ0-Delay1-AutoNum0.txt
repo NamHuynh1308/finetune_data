@@ -1,0 +1,14 @@
+@startuml
+participant "maul unburden" as 0
+participant "sense stasis" as 1
+participant "sliced ketch" as 2
+participant "cain competitor" as 3
+== painless fess ==
+par bates pfft
+1 <-> 0: purr necking
+...helicopter commandant...
+ [<- 2: its eventually
+ [-> 3: hill solidify
+end
+3 -->x 3: aspen mean
+@enduml

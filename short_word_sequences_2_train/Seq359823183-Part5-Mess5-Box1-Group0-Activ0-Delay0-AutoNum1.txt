@@ -1,0 +1,15 @@
+@startuml
+participant "pigeons engraving" as 0
+participant "consoling formidable" as 1
+participant "faintest canton" as 2
+participant "slugs abstain" as 3
+box "benched aliens"
+participant "veered devices" as 4
+end box
+autonumber 10 3
+2 -> 0: centimeter liberating
+4 ->] : implies bringing
+4 <-> 0: oh society
+2 ->x 1: heathen extracts
+ [<- 2: bod splinters
+@enduml

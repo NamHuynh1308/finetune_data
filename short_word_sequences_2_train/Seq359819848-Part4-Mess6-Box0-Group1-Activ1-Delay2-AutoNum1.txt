@@ -1,0 +1,23 @@
+@startuml
+participant "crudely mean" as 0
+participant "derelict ecstatic" as 1
+participant "machinations suave" as 2
+participant "drove freelancing" as 3
+== refuge runner ==
+autonumber 0 6
+break alleviate confronting
+ [<- 1: migration grieves
+1 -> 3: carrier dropper
+else marches mermaids
+2 -// 0: commoner cosmetic
+autonumber stop
+...responsibilities demerits...
+3 -> 2: latched canoes
+autonumber resume
+1 -> 0++ : label accidentally
+...sane fanciful...
+2 -> 0: sublime detonator
+autonumber stop
+end
+return manifests robot
+@enduml

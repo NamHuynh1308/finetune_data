@@ -1,0 +1,8 @@
+@startuml
+participant "smudge vials" as 0
+== poppies imprisoned ==
+break found charmed
+0 -> 0: uninvolved accident
+0 -> 0: timeless brooding
+end
+@enduml

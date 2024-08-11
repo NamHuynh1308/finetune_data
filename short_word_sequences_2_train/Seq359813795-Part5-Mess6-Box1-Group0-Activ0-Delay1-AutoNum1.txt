@@ -1,0 +1,21 @@
+@startuml
+participant "rose gator" as 0
+participant "bluff polka" as 1
+box "amendment radiance"
+participant "clique marks" as 2
+participant "admirer skated" as 3
+participant "official reminisce" as 4
+end box
+autonumber 3 9
+ [<- 1: tougher nitrogen
+autonumber stop
+2 ->x 0: regularly chins
+autonumber resume
+2 --//o 3: cylinder percentages
+1 -> 2: foisting train
+autonumber stop
+...referendums viva...
+ [-> 0: sporting willy
+autonumber resume
+0 -> 0!! : holster climbing
+@enduml

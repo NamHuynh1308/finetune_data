@@ -1,0 +1,16 @@
+@startuml
+participant "teen vile" as 0
+box "chaperone midst"
+participant "sweating polecat" as 1
+participant "annoys clarity" as 2
+participant "character cork" as 3
+end box
+== reinstate gambler ==
+create participant "mints pining" as 4
+0 -> 4 : mints pining
+3 ->x 4: broomstick hellhound
+4 --> 1: laird correspond
+3 <-> 4: leafy suggest
+...lambert discussion...
+3 ->x 1: shaven swayed
+@enduml

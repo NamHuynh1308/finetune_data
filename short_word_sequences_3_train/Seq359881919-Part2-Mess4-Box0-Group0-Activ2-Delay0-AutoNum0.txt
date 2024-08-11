@@ -1,0 +1,11 @@
+@startuml
+participant "jeweler appearing" as 0
+participant "dips observant" as 1
+== earned patriarch ==
+0 -> 1: variables dominion
+0 -> 1: towards opportunist
+1 --//o 1++ : paparazzi electrolytes
+1 ->> 0++ : supervisor napalm
+return bozos direction
+return unpopular donation
+@enduml

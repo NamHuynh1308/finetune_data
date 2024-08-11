@@ -1,0 +1,5 @@
+@startuml
+participant "knocks smoothly" as 0
+== gavel knife ==
+0 ->x 0: terrible sparkle
+@enduml

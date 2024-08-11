@@ -1,0 +1,16 @@
+@startuml
+participant "guests caps" as 0
+box "armour litany"
+participant "someone histories" as 1
+end box
+== indignities downpour ==
+0 <-] : relatives shaking
+...extracurriculars softball...
+0 <-> 0: ash tribunal
+alt lawsuit registered
+1 -> 1++ : manipulator erasers
+...nutritious steed...
+1 -> 1: bison termites
+end
+return focus blotter
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "stimulus obviously" as 0
+participant "bystanders info" as 1
+== suppress redundant ==
+ [<- 0: admonition dramatically
+1 <-] : virginal barricaded
+@enduml

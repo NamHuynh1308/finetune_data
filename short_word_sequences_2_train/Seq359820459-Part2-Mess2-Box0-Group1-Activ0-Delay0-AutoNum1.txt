@@ -1,0 +1,11 @@
+@startuml
+participant "geriatrics cesspool" as 0
+autonumber 0 4
+critical slogans manifesto
+create participant "deltas savior" as 1
+0 -> 1 : deltas savior
+autonumber stop
+0 ->x 1: gothic fireball
+autonumber resume
+end
+@enduml

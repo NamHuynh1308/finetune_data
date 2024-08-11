@@ -1,0 +1,19 @@
+@startuml
+participant "gainfully iffy" as 0
+box "varnish sportswear"
+participant "pyrotechnics granger" as 1
+participant "firehouse suntan" as 2
+end box
+participant "smith fame" as 3
+participant "spoiled bros" as 4
+autonumber 1 6
+1 -// 1: sequestered blast
+ [<- 3: substituting reservation
+alt stimuli riverside
+3 ->] : issue credibility
+2 -> 3: terra bowels
+autonumber stop
+else sweetbreads herds
+1 -> 1: sportsmanship hinting
+end
+@enduml

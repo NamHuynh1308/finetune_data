@@ -1,0 +1,13 @@
+@startuml
+box "petticoat spitting"
+participant "producing hippo" as 0
+participant "carnie fashion" as 1
+end box
+autonumber 0 0
+1 --//o 1: radial persnickety
+autonumber stop
+loop safari internist
+create participant "blasting peeled" as 2
+0 -> 2 : blasting peeled
+end
+@enduml

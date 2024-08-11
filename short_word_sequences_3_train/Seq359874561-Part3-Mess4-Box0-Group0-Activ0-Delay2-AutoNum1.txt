@@ -1,0 +1,14 @@
+@startuml
+participant "nelson oriental" as 0
+participant "presses perspective" as 1
+participant "wright spelled" as 2
+autonumber 5 8
+0 ->o 0: melt postman
+autonumber stop
+1 -> 2: virulent petticoat
+...how purging...
+2 -// 0: disinfectant weave
+autonumber resume
+...intentions delivers...
+1 -> 0: bronzing frown
+@enduml

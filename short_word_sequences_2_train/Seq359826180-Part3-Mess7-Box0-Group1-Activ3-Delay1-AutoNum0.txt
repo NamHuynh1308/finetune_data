@@ -1,0 +1,20 @@
+@startuml
+participant "noble word" as 0
+participant "oaths thespian" as 1
+participant "resumes pinky" as 2
+1 -// 1: possibilities patching
+par sprays profoundly
+...carefree sustain...
+2 -> 2++ : equestrian til
+1 ->o 2: luminous focussed
+1 -\\ 2++ : repulsive flourished
+else confronted dishes
+2 -> 0++ : spunk amusement
+else anxiously purchased
+2 -> 1: motels owners
+2 -// 0: transcripts conditions
+return pouring orioles
+end
+return proofs partners
+return hearted mortified
+@enduml

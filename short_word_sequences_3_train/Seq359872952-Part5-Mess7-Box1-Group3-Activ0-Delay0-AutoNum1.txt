@@ -1,0 +1,26 @@
+@startuml
+box "buffer arena"
+participant "chandler gibbons" as 0
+participant "mention haunted" as 1
+end box
+participant "kappa harvest" as 2
+participant "little primordial" as 3
+participant "resetting hubcaps" as 4
+autonumber 2 8
+1 -\\ 4: trapeze infecting
+loop backfires loathing
+0 -> 2: bellyaching maudlin
+2 --> 4: viscous drunks
+autonumber stop
+else disgusted vertigo
+0 -// 2: tarred close
+opt crucible cruises
+3 ->> 0: proportional servings
+4 ->] : tequila offending
+loop feathers contraction
+4 -\\ 4: catheter envelope
+autonumber resume
+end
+end
+end
+@enduml

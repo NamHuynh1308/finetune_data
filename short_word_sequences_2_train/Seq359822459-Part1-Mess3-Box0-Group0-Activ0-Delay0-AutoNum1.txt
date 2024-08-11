@@ -1,0 +1,8 @@
+@startuml
+participant "normal prosecutors" as 0
+== foamy ragged ==
+autonumber 0 1
+0 -> 0!! : aggravating retrieve
+0 -> 0!! : greedy starts
+0 -> 0: frames plucky
+@enduml

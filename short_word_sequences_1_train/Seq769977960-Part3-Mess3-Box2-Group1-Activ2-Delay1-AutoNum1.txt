@@ -1,0 +1,20 @@
+@startuml
+participant "strips component" as 0
+box "morn appearing"
+participant "blueberry illnesses" as 1
+box "schoolteacher forgettable"
+participant "razors knelt" as 2
+end box
+end box
+autonumber 2 8
+alt unfounded hocking
+0 -->x 2++ : thriving application
+autonumber stop
+2 <-] : impaired stuntman
+autonumber resume
+end
+...galvanized cleanse...
+2 -> 0++ : salina dabble
+return proportion risen
+return shun completes
+@enduml

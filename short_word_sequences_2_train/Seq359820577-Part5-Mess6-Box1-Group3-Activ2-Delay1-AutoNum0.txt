@@ -1,0 +1,24 @@
+@startuml
+participant "compensation rotates" as 0
+participant "inhaling salted" as 1
+participant "ledgers monitors" as 2
+participant "nitrous dolce" as 3
+box "balls deadlier"
+participant "mitzvah undercurrent" as 4
+end box
+1 -// 3: etiquette ultrasound
+loop flee reclaiming
+0 --> 1: sucking bumbling
+...tubby vindicated...
+1 -> 0++ : logically cicely
+end
+par hike menus
+0 --> 1: dopey rip
+3 -> 4: sappy futon
+return cursory mesmerizing
+par ineffective studly
+2 ->x 3++ : leaned ethnic
+end
+end
+return impose order
+@enduml

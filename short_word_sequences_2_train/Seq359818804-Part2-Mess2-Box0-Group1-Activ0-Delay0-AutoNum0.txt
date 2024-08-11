@@ -1,0 +1,9 @@
+@startuml
+participant "dismissal engrossed" as 0
+== cyclops cobwebs ==
+create participant "wham genes" as 1
+0 -> 1 : wham genes
+break fulfilling sadder
+1 -\\ 1: intolerable ponies
+end
+@enduml

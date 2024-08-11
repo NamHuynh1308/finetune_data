@@ -1,0 +1,11 @@
+@startuml
+box "prunes squad"
+participant "baking pep" as 0
+participant "soft cousins" as 1
+end box
+== visually surrounds ==
+1 -> 1++ : buggered afterwards
+1 -->x 0: hates learn
+1 <-] : ostracized tots
+return treatment incision
+@enduml

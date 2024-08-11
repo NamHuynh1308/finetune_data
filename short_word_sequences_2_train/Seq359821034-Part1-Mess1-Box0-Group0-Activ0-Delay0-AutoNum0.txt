@@ -1,0 +1,5 @@
+@startuml
+participant "railroad greased" as 0
+== docked shredder ==
+0 -\\ 0: elected daydreaming
+@enduml

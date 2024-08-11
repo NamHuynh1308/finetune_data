@@ -1,0 +1,7 @@
+@startuml
+participant "knobby house" as 0
+participant "truthful brother" as 1
+0 ->> 0: enormity hunting
+1 -> 1!! : troops needing
+1 <-] : dukes bunions
+@enduml

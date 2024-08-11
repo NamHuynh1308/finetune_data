@@ -1,0 +1,6 @@
+@startuml
+participant "calculated instigator" as 0
+== bounds splinter ==
+autonumber 5 4
+0 ->] : eth wised
+@enduml

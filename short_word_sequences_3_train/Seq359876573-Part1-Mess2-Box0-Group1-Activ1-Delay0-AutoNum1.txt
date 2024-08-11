@@ -1,0 +1,10 @@
+@startuml
+participant "winery sentimental" as 0
+== accustomed off ==
+autonumber 2 6
+alt bookshelf flair
+0 -> 0++ : burrows bullshit
+0 ->> 0: hugging scars
+return squid acoustics
+end
+@enduml

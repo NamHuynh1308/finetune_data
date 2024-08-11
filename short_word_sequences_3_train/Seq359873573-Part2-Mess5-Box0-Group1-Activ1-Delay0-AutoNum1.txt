@@ -1,0 +1,17 @@
+@startuml
+participant "ready scrolls" as 0
+participant "dash curveball" as 1
+== curling bleeder ==
+autonumber 8 6
+0 ->o 0: fullest hamburger
+autonumber stop
+ [-> 0: sop ritter
+0 -> 0: gauze quartet
+0 -> 0!! : troupe intravenous
+autonumber resume
+opt tempers halt
+1 ->o 1++ : prophet engrossed
+autonumber stop
+end
+return skit dough
+@enduml

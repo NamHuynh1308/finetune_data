@@ -1,0 +1,20 @@
+@startuml
+participant "mort regularity" as 0
+participant "impatient dispensation" as 1
+participant "weave wag" as 2
+== middle pipeline ==
+ [-> 2: orphan imagine
+2 -> 2: croupier guy
+opt condo exile
+2 ->o 1++ : chihuahua trashed
+opt honors thrones
+1 ->] : start classic
+return uncooperative tiffany
+1 <-> 2++ : highlights dike
+1 -> 1++ : drone crowing
+else bone impeding
+end
+end
+return patten hysteria
+return retest triggered
+@enduml

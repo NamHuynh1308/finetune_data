@@ -1,0 +1,20 @@
+@startuml
+participant "bred howl" as 0
+box "astonished cognac"
+participant "flash smartass" as 1
+participant "antihistamine kicky" as 2
+participant "incendiary paroled" as 3
+end box
+== classmates adores ==
+autonumber 2 9
+create participant "empress culpability" as 4
+0 -> 4 : empress culpability
+...cartouche pluses...
+1 --//o 2: trot cheap
+critical clink retaliate
+create participant "cynics dodgers" as 5
+0 -> 5 : cynics dodgers
+2 --//o 4: offshore moisturize
+autonumber stop
+end
+@enduml

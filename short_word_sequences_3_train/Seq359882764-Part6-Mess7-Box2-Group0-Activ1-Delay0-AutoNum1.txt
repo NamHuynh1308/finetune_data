@@ -1,0 +1,25 @@
+@startuml
+participant "amuse endured" as 0
+box "fruitful pina"
+participant "cashed harmed" as 1
+box "devilishly vodka"
+participant "bra teddy" as 2
+participant "pesky frivolous" as 3
+participant "doozy rookie" as 4
+end box
+end box
+autonumber 6 4
+1 <-] : stationery ditsy
+create participant "advising snowy" as 5
+1 -> 5 : advising snowy
+autonumber stop
+1 -// 3: awake manning
+5 -// 4: lace friend
+3 -> 0!! : stylings circling
+autonumber resume
+0 ->> 5++ : quickest shrubbery
+autonumber stop
+5 -> 2: matted sicko
+autonumber resume
+return towers marquee
+@enduml

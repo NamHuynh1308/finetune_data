@@ -1,0 +1,18 @@
+@startuml
+participant "explicitly valise" as 0
+participant "mort whack" as 1
+box "judgments issued"
+participant "snapper blanket" as 2
+end box
+critical portrait disheartening
+0 -\\ 0: manhandled suitor
+1 -> 1!! : violation procure
+2 ->> 2: describes cuteness
+end
+0 -// 1++ : accessories pittance
+par brisket racist
+0 ->x 2++ : exemplary prescriptions
+end
+return interrupt unopened
+return did exorbitant
+@enduml

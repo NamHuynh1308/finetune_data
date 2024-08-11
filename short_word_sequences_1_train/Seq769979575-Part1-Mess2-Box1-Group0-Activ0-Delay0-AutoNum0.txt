@@ -1,0 +1,8 @@
+@startuml
+box "outpatient operated"
+participant "retest metallic" as 0
+end box
+== arbor itchy ==
+0 -> 0: produced kinder
+0 -->x 0: benches dweeb
+@enduml

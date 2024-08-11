@@ -1,0 +1,26 @@
+@startuml
+box "stasis lar"
+participant "gigolo sprain" as 0
+participant "less imposing" as 1
+end box
+box "clammy allegiance"
+participant "borderline rarely" as 2
+box "humility brainiest"
+participant "enables female" as 3
+end box
+end box
+loop rolling sponge
+2 ->o 1: dominance quarry
+1 -> 2++ : housing there
+0 -> 2++ : scenes amoral
+...bouts dread...
+0 ->> 1: scavenging birdcage
+else breaks related
+2 -->x 3: energy taught
+return plotted clearances
+2 -> 1: raisin misheard
+return disobeyed raced
+3 ->x 1++ : stealer piles
+end
+return lasting pimples
+@enduml

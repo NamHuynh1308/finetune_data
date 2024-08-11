@@ -1,0 +1,20 @@
+@startuml
+participant "compulsion outlet" as 0
+box "collectively grazing"
+participant "rinsing sera" as 1
+box "assuredly built"
+participant "partying decibels" as 2
+end box
+end box
+0 -> 1: antibiotic delivery
+0 --//o 2++ : militant rancher
+2 -> 2: unclear sails
+return bother classmates
+1 <-> 0++ : gears deacon
+opt etched puberty
+1 --//o 2: focuses recount
+return commensurate turkey
+create participant "antagonism reels" as 3
+0 -> 3 : antagonism reels
+end
+@enduml

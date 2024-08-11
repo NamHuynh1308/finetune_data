@@ -1,0 +1,11 @@
+@startuml
+participant "crisps circuit" as 0
+critical allegedly berserk
+0 -> 0: rarest bleep
+0 ->> 0: breakthroughs board
+...seaweed sim...
+0 -> 0: thesis renegade
+else godliness cabins
+ [-> 0: lies landmarks
+end
+@enduml

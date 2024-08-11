@@ -1,0 +1,19 @@
+@startuml
+box "fabulous news"
+participant "redo loon" as 0
+participant "lullaby booby" as 1
+participant "nightlife stocks" as 2
+end box
+participant "referee operated" as 3
+participant "temptress tactic" as 4
+== diminish antihistamines ==
+4 ->> 0: apostrophe bestow
+2 ->] : coup force
+3 ->o 1: specially frequencies
+ [-> 0: objected substituting
+critical mediocre degeneration
+3 -> 4: traveler litigious
+create participant "kayaking rehearsed" as 5
+4 -> 5 : kayaking rehearsed
+end
+@enduml

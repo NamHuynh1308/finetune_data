@@ -1,0 +1,18 @@
+@startuml
+participant "calamitous commands" as 0
+participant "shyness sparklers" as 1
+participant "humbly irresponsible" as 2
+participant "adjustable treacherous" as 3
+participant "seriously veterinarian" as 4
+== insulation decorated ==
+4 -> 0: customary innermost
+1 -> 2: admittance nervousness
+critical snowstorm manipulator
+1 -->x 1: hey groundhog
+4 <-] : pellet daylight
+ [-> 1: snorkel clench
+else craving stowaway
+1 --//o 1: renounce obligatory
+else doctors condition
+end
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+participant "simply undone" as 0
+participant "oddball virgins" as 1
+participant "flatters uptake" as 2
+participant "drifter misfit" as 3
+participant "parlour notice" as 4
+2 -> 3!! : subject belligerent
+opt luxuries mistresses
+4 --> 0: terrorist psychosomatic
+2 ->x 0: headlining chores
+else mocha majoring
+2 --//o 1++ : signaling width
+par ballistics beauty
+0 -->x 3: forbids setbacks
+...lightness informing...
+3 -->x 3++ : forbid biochemistry
+ [<- 0: groomsmen halfback
+2 --> 0: regulation scoundrel
+return meditating amendment
+end
+end
+return drumsticks penicillin
+@enduml

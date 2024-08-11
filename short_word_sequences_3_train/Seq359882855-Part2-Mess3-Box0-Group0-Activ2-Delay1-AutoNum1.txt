@@ -1,0 +1,12 @@
+@startuml
+participant "pub phrases" as 0
+participant "combine historian" as 1
+autonumber 1 4
+1 --//o 0++ : flora routes
+1 ->x 1: detach gestating
+return pores settlement
+autonumber stop
+...frantic hamlet...
+0 -> 1++ : chefs daisy
+return dusty entrusted
+@enduml

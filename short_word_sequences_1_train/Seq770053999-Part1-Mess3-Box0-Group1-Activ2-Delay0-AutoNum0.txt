@@ -1,0 +1,10 @@
+@startuml
+participant "ends here" as 0
+alt anthropologist jokers
+0 ->x 0++ : buff composer
+0 <-> 0: shipping dozing
+0 ->x 0++ : statutes question
+end
+return sliced clothe
+return commensurate fajita
+@enduml

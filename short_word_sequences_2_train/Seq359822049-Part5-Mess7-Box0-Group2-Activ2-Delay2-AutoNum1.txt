@@ -1,0 +1,25 @@
+@startuml
+participant "auditing stared" as 0
+participant "grandkid lime" as 1
+participant "replacing helmets" as 2
+participant "lubrication penalty" as 3
+participant "phosphorous larvae" as 4
+== circular derail ==
+autonumber 6 8
+1 -> 3: formality bacon
+...kelp potency...
+0 --//o 2++ : relaxed untimely
+...regularity vintage...
+3 -\\ 2++ : drumsticks middleweight
+opt facility deejay
+0 -> 4!! : magnitude recapture
+break motorcade thirties
+1 -> 1: psych sh
+autonumber stop
+1 --> 2: anger fires
+return ingles psyche
+3 -\\ 3: trouser medics
+end
+end
+return quacks saturated
+@enduml

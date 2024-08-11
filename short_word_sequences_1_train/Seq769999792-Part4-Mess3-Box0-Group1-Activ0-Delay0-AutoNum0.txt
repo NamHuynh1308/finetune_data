@@ -1,0 +1,12 @@
+@startuml
+participant "benjamin scorcher" as 0
+participant "junk investigations" as 1
+participant "platelets slowly" as 2
+== audio patrolled ==
+create participant "blended yahoo" as 3
+2 -> 3 : blended yahoo
+critical entrapment dormant
+1 -> 3!! : lapdog apostrophe
+0 -> 3: equipment heil
+end
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "scoured lagoon" as 0
+participant "hoof hindsight" as 1
+participant "pram olden" as 2
+participant "pensioners terrain" as 3
+== facet wonder ==
+autonumber 2 10
+2 ->o 1: sourpuss undershirt
+2 --//o 1: muchacho intercourse
+0 --//o 1++ : cuppa sawing
+alt confessor speak
+0 ->o 1: consults gossiping
+return adolescence missile
+end
+@enduml

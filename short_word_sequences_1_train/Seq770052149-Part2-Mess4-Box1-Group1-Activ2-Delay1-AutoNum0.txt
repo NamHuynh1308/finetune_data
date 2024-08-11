@@ -1,0 +1,16 @@
+@startuml
+participant "faraway hope" as 0
+box "sickness hiking"
+participant "mac show" as 1
+end box
+== barged flights ==
+alt figment danger
+1 -\\ 0: informed exemption
+0 -> 1++ : sirloin masseur
+0 --> 0++ : rebels lobe
+...chooses committed...
+0 -// 0: recording sizzling
+end
+return dye proud
+return marrying printing
+@enduml

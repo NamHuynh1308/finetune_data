@@ -1,0 +1,6 @@
+@startuml
+participant "ponies remarks" as 0
+autonumber 0 5
+ [-> 0: timpani table
+autonumber stop
+@enduml

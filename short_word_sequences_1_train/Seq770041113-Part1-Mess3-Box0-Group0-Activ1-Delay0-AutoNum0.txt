@@ -1,0 +1,7 @@
+@startuml
+participant "styled scourge" as 0
+0 --//o 0: celebrities snorkeling
+0 -> 0: anecdotes zipping
+0 -// 0++ : aloha ideas
+return pursuit novocaine
+@enduml

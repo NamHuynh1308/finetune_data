@@ -1,0 +1,10 @@
+@startuml
+participant "tasting belated" as 0
+autonumber 0 0
+0 ->o 0++ : lewis haute
+autonumber stop
+alt jezebel joins
+0 ->o 0: requirement addressing
+return neurological malignant
+end
+@enduml

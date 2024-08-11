@@ -1,0 +1,20 @@
+@startuml
+box "surfed brit"
+participant "intern precocious" as 0
+box "schnauzer puppies"
+participant "flavored duet" as 1
+box "worm predators"
+participant "unfounded abundance" as 2
+end box
+end box
+end box
+alt screens appointing
+0 ->] : immensely overestimate
+2 <-> 2++ : nose multiples
+else uneducated nostrils
+2 -> 0: clinches mor
+return practices legalities
+else firemen averse
+1 -->x 1: spitfire messenger
+end
+@enduml

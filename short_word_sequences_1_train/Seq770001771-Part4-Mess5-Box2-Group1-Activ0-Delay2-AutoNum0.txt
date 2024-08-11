@@ -1,0 +1,21 @@
+@startuml
+box "tyres tanking"
+participant "footnote monarchy" as 0
+box "intention hug"
+participant "innards sale" as 1
+participant "thriller flea" as 2
+end box
+end box
+== quilt winters ==
+create participant "dasher refreshments" as 3
+0 -> 3 : dasher refreshments
+2 ->] : smiley spin
+break waive entrepreneur
+...routes servers...
+ [-> 3: mommies jewels
+1 ->> 2: bras prophets
+else spilled join
+...lacy bland...
+2 -> 3: longtime regional
+end
+@enduml

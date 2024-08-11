@@ -1,0 +1,23 @@
+@startuml
+participant "blight forgave" as 0
+participant "completion reconcile" as 1
+== behaviour mouthpiece ==
+autonumber 2 6
+1 -// 0: prescriptions welcome
+loop guiding revered
+0 ->> 1: germs practicing
+autonumber stop
+...cussing binge...
+0 -> 1: adoptive seashell
+autonumber resume
+else raced boost
+...extending fallen...
+1 ->> 0++ : seaweed toon
+autonumber stop
+else nicknamed panda
+...ventilated protesters...
+1 -> 1: currency wiseass
+return feature congratulate
+else entrepreneur random
+end
+@enduml

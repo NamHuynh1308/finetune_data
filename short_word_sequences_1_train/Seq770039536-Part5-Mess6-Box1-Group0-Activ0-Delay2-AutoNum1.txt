@@ -1,0 +1,21 @@
+@startuml
+box "deathbed outlets"
+participant "imagines savages" as 0
+participant "snout splatter" as 1
+end box
+participant "fret oddly" as 2
+participant "verbally rowing" as 3
+autonumber 5 1
+create participant "something interchangeable" as 4
+1 -> 4 : something interchangeable
+autonumber stop
+4 -> 3: drool streetcar
+...measly disposition...
+ [-> 2: battery silverware
+...slapped shoes...
+ [<- 2: connect caramel
+autonumber resume
+4 ->x 4: prefix troublemaker
+4 -> 1!! : colosseum kickbacks
+autonumber stop
+@enduml

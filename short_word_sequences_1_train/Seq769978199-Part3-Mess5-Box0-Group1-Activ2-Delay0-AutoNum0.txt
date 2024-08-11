@@ -1,0 +1,15 @@
+@startuml
+participant "violinist foibles" as 0
+participant "along graduates" as 1
+participant "verbal demoted" as 2
+2 <-> 1: muller cleaners
+2 -// 1: wonderland unshakable
+alt morale relapse
+1 ->] : aria deco
+1 -> 2++ : hike poser
+0 -// 2++ : disrupt seizure
+else mothballs welcomed
+end
+return dress deadlock
+return attendance vegetative
+@enduml

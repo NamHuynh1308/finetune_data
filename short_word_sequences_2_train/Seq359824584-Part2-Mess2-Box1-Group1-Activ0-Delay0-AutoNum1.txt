@@ -1,0 +1,11 @@
+@startuml
+box "ignoramus cleansing"
+participant "premium tail" as 0
+participant "reminds cheated" as 1
+end box
+autonumber 8 6
+0 --//o 1: hood ignored
+par shopping dirty
+0 ->] : always circumstances
+end
+@enduml

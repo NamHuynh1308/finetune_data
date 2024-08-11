@@ -1,0 +1,10 @@
+@startuml
+participant "chat toxicity" as 0
+autonumber 2 0
+critical stand wrongs
+0 ->x 0: baring snorting
+loop baba sequins
+0 -> 0: teaching freshening
+end
+end
+@enduml

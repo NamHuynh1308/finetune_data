@@ -1,0 +1,18 @@
+@startuml
+participant "bygones preoccupied" as 0
+participant "sixteen festering" as 1
+participant "belabor hence" as 2
+participant "campaign houseguest" as 3
+participant "singleton memorized" as 4
+== belonging jars ==
+4 --> 2: scotch bios
+3 <-> 2: candidates defective
+2 -> 4!! : pies foreclosed
+...chilled hired...
+3 -> 3: setbacks baubles
+0 -->x 1++ : epsilon samaritan
+loop imbedded conclusions
+ [<- 3: turks tone
+end
+return fan canteen
+@enduml

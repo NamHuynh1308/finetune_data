@@ -1,0 +1,20 @@
+@startuml
+participant "lackeys stairway" as 0
+participant "companionship weary" as 1
+critical larceny terrorize
+1 ->> 1: werewolves dangerous
+...meters victories...
+0 ->> 0: tenets heh
+end
+1 -// 0: discarded baroque
+opt mantra pots
+...rand bottle...
+ [<- 1: prickly squatters
+create participant "clocks en" as 2
+1 -> 2 : clocks en
+opt dissing rowdy
+...ordinance overkill...
+0 -> 1: pigs solicitor
+end
+end
+@enduml

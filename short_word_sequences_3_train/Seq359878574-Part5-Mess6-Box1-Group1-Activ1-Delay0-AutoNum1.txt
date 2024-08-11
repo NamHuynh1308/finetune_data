@@ -1,0 +1,22 @@
+@startuml
+participant "grinding talkie" as 0
+box "girlfriends cave"
+participant "sayonara immortalized" as 1
+participant "whirlwind addictive" as 2
+end box
+autonumber 10 8
+loop heavyset relentless
+1 <-] : confederate phosphorous
+2 -\\ 0++ : diagnosis criticizing
+1 ->x 1: edict lockup
+autonumber stop
+create participant "violent gnat" as 3
+2 -> 3 : violent gnat
+autonumber resume
+else scooter trot
+2 -> 3!! : ne sauna
+end
+create participant "parabolic instigator" as 4
+0 -> 4 : parabolic instigator
+return refers mitts
+@enduml

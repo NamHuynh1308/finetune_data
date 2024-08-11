@@ -1,0 +1,21 @@
+@startuml
+participant "opted then" as 0
+participant "understands cellular" as 1
+participant "attended conferences" as 2
+participant "unfolds increments" as 3
+== authenticated materialized ==
+autonumber 0 1
+0 --//o 1: dreams commodities
+3 -// 2++ : olden nay
+autonumber stop
+...eighties rounding...
+3 -// 2++ : preschool weathered
+1 -\\ 2: consults political
+autonumber resume
+...instigated unanimously...
+3 -\\ 2: flattered ticking
+autonumber stop
+1 -> 2!! : involvement closeness
+return bark auditioning
+return villagers bloc
+@enduml

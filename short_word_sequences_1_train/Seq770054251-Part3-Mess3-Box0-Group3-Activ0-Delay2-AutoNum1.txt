@@ -1,0 +1,18 @@
+@startuml
+participant "competitor blam" as 0
+participant "candle muggers" as 1
+participant "vertical groupie" as 2
+== aimless info ==
+autonumber 2 3
+critical blames overlapping
+1 -// 0: deadbeat campaigns
+critical quit linked
+...blimey ancient...
+1 -\\ 1: ally corporations
+opt overwhelmed unthinkable
+...wrap jujitsu...
+0 -\\ 1: quicker jogging
+end
+end
+end
+@enduml

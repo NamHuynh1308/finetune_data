@@ -1,0 +1,18 @@
+@startuml
+participant "horned wrestle" as 0
+participant "conceivably stripper" as 1
+participant "landlords morgue" as 2
+box "landers cost"
+participant "raisins silences" as 3
+end box
+== signs prosecuting ==
+0 -> 0: reporter infested
+0 --//o 1: battling fixable
+2 -\\ 2++ : bidding trans
+alt confronting rats
+2 ->o 1: amateur interrogation
+2 <-> 3++ : transfer misunderstanding
+end
+return spoiled ted
+return saltwater ornamental
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "ray coax" as 0
+participant "tumor needlepoint" as 1
+== homecoming vaccine ==
+0 -\\ 1: forward detonated
+loop shell piggyback
+0 <-] : crematorium bluff
+end
+@enduml

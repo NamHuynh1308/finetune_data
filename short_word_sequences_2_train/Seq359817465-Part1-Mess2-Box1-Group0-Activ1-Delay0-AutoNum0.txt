@@ -1,0 +1,8 @@
+@startuml
+box "ruling brittle"
+participant "its leadership" as 0
+end box
+0 ->] : stigma assurance
+0 ->x 0++ : stir coney
+return wench sticky
+@enduml

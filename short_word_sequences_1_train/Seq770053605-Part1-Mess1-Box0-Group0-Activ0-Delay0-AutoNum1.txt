@@ -1,0 +1,5 @@
+@startuml
+participant "foreman flopped" as 0
+autonumber 8 2
+0 -// 0: cardiac realises
+@enduml

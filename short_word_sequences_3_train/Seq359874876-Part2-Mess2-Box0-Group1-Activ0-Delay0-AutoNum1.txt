@@ -1,0 +1,9 @@
+@startuml
+participant "bagpipes brilliance" as 0
+participant "ether steps" as 1
+autonumber 6 6
+loop criteria accommodate
+1 -> 0: handing novocaine
+ [<- 0: tens wrenched
+end
+@enduml

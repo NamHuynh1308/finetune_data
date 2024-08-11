@@ -1,0 +1,7 @@
+@startuml
+participant "giver derail" as 0
+participant "afflicted beds" as 1
+0 -> 0: twins gassy
+...cons smarty...
+1 -> 0: belie good
+@enduml

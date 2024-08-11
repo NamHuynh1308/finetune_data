@@ -1,0 +1,11 @@
+@startuml
+participant "dobbins intensity" as 0
+== grader offended ==
+autonumber 5 0
+alt bowl antivenin
+0 -> 0: modeled elements
+alt winkle mantel
+0 --> 0: drastically extinguished
+end
+end
+@enduml

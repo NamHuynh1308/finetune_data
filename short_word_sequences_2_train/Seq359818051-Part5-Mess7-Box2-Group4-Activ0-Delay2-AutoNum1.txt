@@ -1,0 +1,31 @@
+@startuml
+box "convention pungent"
+participant "betrayer encinas" as 0
+box "muchachos pragmatist"
+participant "kerosene heirlooms" as 1
+participant "target eaten" as 2
+end box
+end box
+autonumber 1 3
+opt comforting folklore
+create participant "native stinger" as 3
+0 -> 3 : native stinger
+par adults inroads
+1 <-] : syringe charged
+autonumber stop
+opt volunteer commonwealth
+2 -> 1: sure hyped
+...brays procrastination...
+3 -> 0: want oversight
+create participant "suntan inadvertently" as 4
+3 -> 4 : suntan inadvertently
+autonumber resume
+...sinks glues...
+1 -> 1: put lurking
+critical awkwardness edict
+2 -// 3: conniption impeach
+end
+end
+end
+end
+@enduml

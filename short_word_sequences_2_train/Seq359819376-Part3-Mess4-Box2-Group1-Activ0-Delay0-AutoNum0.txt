@@ -1,0 +1,15 @@
+@startuml
+box "crave weenies"
+participant "bowler vaccination" as 0
+box "contender bura"
+participant "unimaginative wipe" as 1
+participant "momma dryer" as 2
+end box
+end box
+ [<- 0: rumours mounds
+1 ->o 1: cloth delectable
+critical crumbled gaiety
+0 -> 0: protocols slayer
+1 ->] : mishap misheard
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "chickenpox publications" as 0
+box "pubescent viola"
+participant "witchy blowing" as 1
+participant "unfulfilled boggles" as 2
+end box
+2 <-> 2++ : film helo
+2 -> 0!! : slicer intern
+return shredded authorize
+0 ->] : zoned bowed
+0 --> 2: lure stupider
+@enduml

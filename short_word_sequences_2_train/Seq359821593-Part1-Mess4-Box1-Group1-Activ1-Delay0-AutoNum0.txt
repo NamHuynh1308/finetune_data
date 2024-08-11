@@ -1,0 +1,12 @@
+@startuml
+box "rand twelve"
+participant "getup car" as 0
+end box
+ [<- 0: antsy recant
+0 ->] : darned blockbusters
+0 -// 0++ : underwater slime
+opt disappointed potting
+0 -\\ 0: planes pelts
+return ladder mending
+end
+@enduml

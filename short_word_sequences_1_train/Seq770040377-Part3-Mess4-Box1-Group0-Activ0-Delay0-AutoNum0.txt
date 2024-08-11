@@ -1,0 +1,12 @@
+@startuml
+box "attitudes salinas"
+participant "flushed testifies" as 0
+participant "cuddles communities" as 1
+end box
+== brassieres newborn ==
+0 <-] : wiggled siphoning
+create participant "advancement overboard" as 2
+0 -> 2 : advancement overboard
+2 -> 0: gardener outfitted
+2 -> 1: defence fairness
+@enduml

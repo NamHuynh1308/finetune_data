@@ -1,0 +1,8 @@
+@startuml
+participant "heated frills" as 0
+participant "chinks twitchy" as 1
+0 ->] : proud seal
+1 --//o 0: perchance duckling
+0 -\\ 1++ : boxers patronizing
+return curdle marquee
+@enduml

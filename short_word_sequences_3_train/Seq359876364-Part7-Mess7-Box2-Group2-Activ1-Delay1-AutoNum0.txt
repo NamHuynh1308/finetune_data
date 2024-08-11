@@ -1,0 +1,27 @@
+@startuml
+box "bows entertain"
+participant "milkman random" as 0
+participant "incur punks" as 1
+box "couture curveball"
+participant "railroads costumes" as 2
+participant "constantly details" as 3
+end box
+participant "miniscule aneurysm" as 4
+end box
+== convulsing concept ==
+create participant "cooperate insanely" as 5
+1 -> 5 : cooperate insanely
+3 -> 5: rotten khaki
+par beard victim
+4 ->] : poker tax
+4 --//o 0: hitching eyeliner
+...carwash comfortable...
+5 ->o 3++ : indescribable nomads
+opt tussle bedbug
+create participant "sneaking perceived" as 6
+4 -> 6 : sneaking perceived
+return runway confirmed
+6 -> 4: unopened flaring
+end
+end
+@enduml

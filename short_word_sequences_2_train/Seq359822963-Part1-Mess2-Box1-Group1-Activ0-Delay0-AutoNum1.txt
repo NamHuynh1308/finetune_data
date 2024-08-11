@@ -1,0 +1,11 @@
+@startuml
+box "titanium supervise"
+participant "struggled mark" as 0
+end box
+autonumber 8 2
+loop carpool hoop
+0 -->x 0: proves honorable
+0 <-> 0: wade sedan
+else engaging utility
+end
+@enduml

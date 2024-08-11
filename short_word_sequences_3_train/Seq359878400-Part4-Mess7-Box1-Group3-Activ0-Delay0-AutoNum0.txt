@@ -1,0 +1,22 @@
+@startuml
+participant "gum landlords" as 0
+participant "overlook booze" as 1
+participant "bible barbed" as 2
+box "plait synonymous"
+participant "padded captioning" as 3
+end box
+alt rescheduled disturbance
+ [-> 3: bel newcomers
+2 <-] : pressed stalk
+0 -> 1: technological fittings
+else vera romping
+ [<- 0: mindset outweigh
+opt sarcophagus cheer
+1 -> 1: revolver psychologically
+0 <-> 1: quartet pharmaceuticals
+break conclusive filet
+3 -->x 2: condone kins
+end
+end
+end
+@enduml

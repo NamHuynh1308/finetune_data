@@ -1,0 +1,8 @@
+@startuml
+participant "trans half" as 0
+autonumber 5 7
+0 <-> 0: aplastic walla
+opt deviation skimpy
+0 -> 0: seemed understandable
+end
+@enduml

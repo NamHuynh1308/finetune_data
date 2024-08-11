@@ -1,0 +1,20 @@
+@startuml
+participant "parachutes takeoff" as 0
+participant "metals nylon" as 1
+participant "wraith wealth" as 2
+participant "hypothetical nutritionist" as 3
+participant "nautical pence" as 4
+== sores copping ==
+autonumber 6 0
+2 -// 3: clogged installment
+2 <-> 4: cheered squalor
+3 ->o 2: slight smirk
+autonumber stop
+par debit mythology
+ [<- 1: col docked
+autonumber resume
+critical scourge tacky
+3 -->x 4: autographs lording
+end
+end
+@enduml

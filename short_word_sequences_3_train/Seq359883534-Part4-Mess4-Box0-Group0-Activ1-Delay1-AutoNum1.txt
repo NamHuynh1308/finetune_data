@@ -1,0 +1,13 @@
+@startuml
+participant "plug totals" as 0
+participant "carvers filmmaking" as 1
+participant "espionage stashed" as 2
+autonumber 4 7
+create participant "orbiting jujitsu" as 3
+2 -> 3 : orbiting jujitsu
+0 -\\ 2: scratch buddy
+2 --//o 2: discourteous savages
+...aprons fascinating...
+0 -> 2++ : travelers lackluster
+return slaughterhouse explored
+@enduml

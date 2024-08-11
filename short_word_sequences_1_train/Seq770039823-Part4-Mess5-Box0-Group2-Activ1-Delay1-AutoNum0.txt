@@ -1,0 +1,19 @@
+@startuml
+participant "throw forked" as 0
+participant "horses internment" as 1
+participant "tennis lance" as 2
+participant "swooping manic" as 3
+== payment cascade ==
+critical chevy slimming
+1 -> 3: studs odious
+critical chips scurry
+...blunders earning...
+3 -> 1: coupe splinter
+1 -> 0++ : antiquing calculator
+else pampered cook
+ [<- 2: headmaster vicar
+end
+2 -> 3!! : engineered similarities
+return commercial embody
+end
+@enduml

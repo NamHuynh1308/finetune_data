@@ -1,0 +1,16 @@
+@startuml
+participant "miscalculated einstein" as 0
+participant "dismiss sitting" as 1
+participant "pharmacist undercut" as 2
+participant "converted self" as 3
+3 -\\ 0: binder injector
+2 -> 2: crasher coughs
+ [-> 3: scrounging devon
+par entrances calf
+2 -> 0: momento redundant
+loop similarity auras
+...creases innovation...
+3 ->o 3: poorhouse cornucopia
+end
+end
+@enduml

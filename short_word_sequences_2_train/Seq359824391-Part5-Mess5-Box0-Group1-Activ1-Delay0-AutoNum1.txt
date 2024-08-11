@@ -1,0 +1,19 @@
+@startuml
+participant "crasher inspecting" as 0
+participant "mountains thrusters" as 1
+participant "scrub vigor" as 2
+== bowls replicating ==
+autonumber 0 1
+2 -// 0++ : destroys finishes
+critical jean sunny
+create participant "wondering debated" as 3
+0 -> 3 : wondering debated
+return tingling sanitary
+autonumber stop
+0 -->x 2: battles middies
+2 -> 0!! : thank urns
+else salient ordinarily
+create participant "lotto pencils" as 4
+2 -> 4 : lotto pencils
+end
+@enduml

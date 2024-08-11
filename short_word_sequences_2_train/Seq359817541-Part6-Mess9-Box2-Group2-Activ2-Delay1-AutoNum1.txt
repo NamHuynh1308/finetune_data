@@ -1,0 +1,36 @@
+@startuml
+box "lint outage"
+participant "joey drunkard" as 0
+participant "susceptible skinny" as 1
+end box
+participant "hellbent element" as 2
+box "sold granddaughters"
+participant "fluffing bound" as 3
+participant "alec eggplant" as 4
+end box
+== shotguns consults ==
+autonumber 3 10
+3 ->] : ornate chance
+autonumber stop
+loop hand ledgers
+2 -> 2: wonder grosses
+...provocation forester...
+1 ->> 3: vino dotty
+autonumber resume
+0 -> 0++ : salmonella tights
+par lamppost calculators
+1 -->x 4++ : oversleep beans
+autonumber stop
+create participant "attitudes spender" as 5
+4 -> 5 : attitudes spender
+else defeat rat
+ [<- 1: nostril scooped
+end
+3 -> 0: snuggle curriculum
+autonumber resume
+else ged unsatisfied
+4 <-> 1: thin deduct
+return koi supposed
+end
+return collaborating tenants
+@enduml

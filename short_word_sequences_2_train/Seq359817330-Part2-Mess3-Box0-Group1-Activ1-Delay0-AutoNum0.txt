@@ -1,0 +1,10 @@
+@startuml
+participant "ideal rashes" as 0
+participant "shipyard duct" as 1
+0 -// 1++ : scope auctioneer
+break standpoint greeting
+1 --//o 0: prematurely decide
+return originating allowable
+0 ->> 1: channel responsibility
+end
+@enduml

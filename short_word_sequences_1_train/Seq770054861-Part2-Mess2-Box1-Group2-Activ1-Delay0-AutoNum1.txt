@@ -1,0 +1,15 @@
+@startuml
+box "central patently"
+participant "since caveman" as 0
+participant "zeppelin plant" as 1
+end box
+autonumber 5 7
+critical perishable memos
+1 -\\ 1++ : transfer beck
+par torpedoes gavel
+1 -> 0: obits utilize
+return oedipal cranial
+autonumber stop
+end
+end
+@enduml

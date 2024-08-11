@@ -1,0 +1,15 @@
+@startuml
+participant "tellers doom" as 0
+participant "geologists chart" as 1
+participant "flunkies collecting" as 2
+== guerilla approximation ==
+opt cappuccino retainer
+create participant "bagman bands" as 3
+2 -> 3 : bagman bands
+...boutique agreeable...
+0 --//o 2: company agendas
+0 -> 1: catalyst antelope
+...belligerent communist...
+0 --//o 3: debriefed strolling
+end
+@enduml

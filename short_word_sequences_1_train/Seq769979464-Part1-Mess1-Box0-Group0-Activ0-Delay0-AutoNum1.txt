@@ -1,0 +1,5 @@
+@startuml
+participant "recourse plummeted" as 0
+autonumber 7 10
+0 --//o 0: matchbook principal
+@enduml

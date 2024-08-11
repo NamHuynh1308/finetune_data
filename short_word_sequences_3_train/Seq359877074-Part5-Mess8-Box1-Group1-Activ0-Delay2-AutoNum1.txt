@@ -1,0 +1,26 @@
+@startuml
+participant "feels lethal" as 0
+participant "fair alibi" as 1
+participant "verification goggles" as 2
+box "beefy hounds"
+participant "claymore whiter" as 3
+participant "cloistered move" as 4
+end box
+== messier emery ==
+autonumber 9 10
+0 -> 4: painkiller haughty
+autonumber stop
+alt swayed ceremonies
+...beat fired...
+0 <-> 2: restful helicopter
+4 -->x 3: withstand assist
+autonumber resume
+1 ->> 4: teller rekindled
+end
+...seltzer porcelain...
+0 ->] : barlow orphaned
+3 ->o 4: incorrectly tanking
+autonumber stop
+2 ->o 3: afraid herbal
+0 --//o 0: ancient representing
+@enduml

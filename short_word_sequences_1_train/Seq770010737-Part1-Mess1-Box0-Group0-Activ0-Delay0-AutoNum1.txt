@@ -1,0 +1,5 @@
+@startuml
+participant "inference occurred" as 0
+autonumber 8 2
+ [<- 0: mechanical fugitive
+@enduml

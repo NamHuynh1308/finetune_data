@@ -1,0 +1,21 @@
+@startuml
+participant "impressive conversationalist" as 0
+participant "splinter judge" as 1
+participant "electrodes adapting" as 2
+0 <-] : ancestor stumble
+alt taxes trench
+...desperation yank...
+1 -// 0++ : bribe idealistic
+alt cocky speedometer
+create participant "sincerely catering" as 3
+2 -> 3 : sincerely catering
+return piston china
+par bribe morality
+...shoo matching...
+3 -> 3: panicky earthy
+0 -> 3++ : vent victories
+end
+end
+end
+return headed sour
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "roll punt" as 0
+0 -> 0: checker safeguard
+...founded recipe...
+0 -// 0: observatory paragraph
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "dahl financial" as 0
+participant "coincide escapade" as 1
+participant "springing shots" as 2
+0 ->> 1: friendship apologise
+1 -> 1: viking poses
+0 ->] : cabdriver cuffing
+2 -->x 2: strokes dealt
+1 <-] : jockey chariots
+@enduml

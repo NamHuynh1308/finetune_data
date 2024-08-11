@@ -1,0 +1,15 @@
+@startuml
+participant "consul bungled" as 0
+box "backpack hijacking"
+participant "cellist metaphors" as 1
+end box
+== infra psychologist ==
+0 -// 1: disruptive slug
+...ergo flesh...
+ [<- 1: corners repairing
+opt procedure crap
+...roomy respirations...
+0 <-> 1: decoy butterball
+0 ->x 1: transfers deserves
+end
+@enduml

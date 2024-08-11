@@ -1,0 +1,7 @@
+@startuml
+participant "dragon commenting" as 0
+autonumber 8 5
+create participant "glares fletcher" as 1
+0 -> 1 : glares fletcher
+autonumber stop
+@enduml

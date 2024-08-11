@@ -1,0 +1,19 @@
+@startuml
+participant "jurisdiction arrears" as 0
+box "heeled might"
+participant "bookmark discussions" as 1
+participant "naphthalene souvenirs" as 2
+participant "problem narrowly" as 3
+end box
+loop tsunami corrupted
+3 <-> 1: sobering placid
+loop unavailable sprinkled
+...lite medically...
+3 -> 3: nodes distortion
+create participant "pleadings witless" as 4
+3 -> 4 : pleadings witless
+0 <-] : titan residents
+else bard controversy
+end
+end
+@enduml

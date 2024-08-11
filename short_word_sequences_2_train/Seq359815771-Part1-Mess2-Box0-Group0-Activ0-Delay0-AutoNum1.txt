@@ -1,0 +1,6 @@
+@startuml
+participant "cease diligently" as 0
+autonumber 5 0
+0 ->o 0: slink global
+0 <-] : trespass canceled
+@enduml

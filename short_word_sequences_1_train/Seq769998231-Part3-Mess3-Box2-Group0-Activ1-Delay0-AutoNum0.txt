@@ -1,0 +1,14 @@
+@startuml
+box "waxy housekeeper"
+participant "flicking endorsements" as 0
+box "incompetent jaguar"
+participant "marshal being" as 1
+end box
+end box
+== adults eventual ==
+0 ->> 1++ : leverage likely
+create participant "lubricant martial" as 2
+0 -> 2 : lubricant martial
+0 -> 1: instep canape
+return impossibility selectman
+@enduml

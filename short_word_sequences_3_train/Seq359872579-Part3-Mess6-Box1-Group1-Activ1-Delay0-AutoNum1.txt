@@ -1,0 +1,22 @@
+@startuml
+participant "carnival addictive" as 0
+box "charade reference"
+participant "pistons sustenance" as 1
+participant "voodoo peeps" as 2
+end box
+autonumber 6 0
+par greaseball cannibals
+1 -> 0: daiquiri sticker
+2 --//o 2: expose intro
+autonumber stop
+else exasperating bailing
+1 --//o 0++ : conquering gowns
+autonumber resume
+else cute lex
+2 -> 1: brent thoughtful
+1 -> 2: tankers drawing
+return pulmonary payback
+ [<- 1: molest rapists
+autonumber stop
+end
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+box "lieutenant phobias"
+participant "unseasonably applejack" as 0
+participant "disastrous nary" as 1
+participant "verse stunt" as 2
+end box
+autonumber 0 1
+1 -\\ 0++ : helicopter impressionable
+opt superpower sublet
+0 -> 0!! : nod incomparable
+2 -> 0!! : exception prancer
+return quizmaster yodel
+end
+...vocals strumpet...
+0 -> 1++ : consensual forks
+1 -> 2!! : fuzzy definitions
+autonumber stop
+return sentence aft
+@enduml

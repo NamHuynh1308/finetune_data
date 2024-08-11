@@ -1,0 +1,11 @@
+@startuml
+participant "sweeping despicable" as 0
+participant "declare rinse" as 1
+1 -> 1: fragments squares
+create participant "carney casitas" as 2
+1 -> 2 : carney casitas
+alt rotten bozos
+1 -> 0: destroyed honeymooners
+0 ->] : humiliating sullen
+end
+@enduml

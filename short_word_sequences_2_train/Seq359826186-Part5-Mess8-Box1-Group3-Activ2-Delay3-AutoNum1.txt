@@ -1,0 +1,29 @@
+@startuml
+participant "whine once" as 0
+participant "gerbils accomplices" as 1
+participant "irresistible globes" as 2
+box "caskets ha"
+participant "creamed dasher" as 3
+end box
+autonumber 7 6
+0 -> 3: reality factoid
+ [<- 2: blossomed downward
+loop starring unconventional
+...warhead squadron...
+0 -> 2: air publicity
+break kayaking cooing
+...political skeptic...
+0 -> 1++ : baronet blames
+2 -> 2++ : knockout oiled
+end
+alt hours oath
+...canyon dimensions...
+2 -> 2!! : poisons rummaging
+0 --> 0: hatchback scoping
+return crucified duff
+create participant "dullard grooms" as 4
+3 -> 4 : dullard grooms
+end
+end
+return playbook rampage
+@enduml

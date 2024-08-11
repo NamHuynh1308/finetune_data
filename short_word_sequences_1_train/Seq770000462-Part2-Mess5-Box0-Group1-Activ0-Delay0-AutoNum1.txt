@@ -1,0 +1,14 @@
+@startuml
+participant "organize pancakes" as 0
+participant "subbing advancing" as 1
+autonumber 9 5
+1 ->] : erect keel
+autonumber stop
+1 -> 1!! : payment aftermath
+0 -> 0: pledges sprawled
+ [<- 1: commie rebounds
+autonumber resume
+loop indiscretion fleet
+0 -> 1: oriented crude
+end
+@enduml

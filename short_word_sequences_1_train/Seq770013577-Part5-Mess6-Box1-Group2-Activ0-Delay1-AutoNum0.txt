@@ -1,0 +1,20 @@
+@startuml
+participant "deducted throws" as 0
+participant "goopy hovercraft" as 1
+participant "encounter assault" as 2
+box "duffle fray"
+participant "plaque boston" as 3
+end box
+0 -\\ 0: petticoat tied
+opt disagreements locally
+0 -> 1!! : sumo clack
+1 ->> 0: peruse transporting
+2 -> 3!! : pyramids awkwardness
+create participant "abducting increasingly" as 4
+1 -> 4 : abducting increasingly
+alt hill postponing
+...gills rouge...
+4 --> 4: heartache crypto
+end
+end
+@enduml

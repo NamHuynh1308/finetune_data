@@ -1,0 +1,12 @@
+@startuml
+box "focused grisly"
+participant "hover bomb" as 0
+end box
+== understands derives ==
+autonumber 10 3
+0 ->] : dent smithers
+autonumber stop
+par cutout faint
+0 -> 0!! : locusts applied
+end
+@enduml

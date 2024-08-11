@@ -1,0 +1,13 @@
+@startuml
+participant "hale publicist" as 0
+box "reporter patchouli"
+participant "neglected espionage" as 1
+end box
+1 -> 0++ : dominion among
+0 -> 1: hoedown comforter
+alt spread ghastly
+...dasher elastic...
+1 <-] : lanes etiquette
+end
+return voter trilogy
+@enduml

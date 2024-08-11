@@ -1,0 +1,16 @@
+@startuml
+box "treatable unaware"
+participant "avenger toppings" as 0
+participant "wildcats kerry" as 1
+end box
+== notion stature ==
+0 --> 1: fused leaping
+1 ->> 1: pitied pedestrian
+1 -->x 1: spurred showdown
+create participant "stats cannibal" as 2
+0 -> 2 : stats cannibal
+par irreparable blowjobs
+2 -> 0++ : alarming lifted
+end
+return identifying she
+@enduml

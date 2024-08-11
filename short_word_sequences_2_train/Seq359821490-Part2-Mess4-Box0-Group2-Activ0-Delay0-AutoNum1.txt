@@ -1,0 +1,14 @@
+@startuml
+participant "needlepoint irritation" as 0
+participant "resource buries" as 1
+== bloodshot carousel ==
+autonumber 0 7
+1 ->o 1: shortly potholes
+0 -> 1: orgasmic recovering
+opt donuts inseminated
+1 <-] : appropriate untrustworthy
+par iguana scam
+ [<- 1: literature maze
+end
+end
+@enduml

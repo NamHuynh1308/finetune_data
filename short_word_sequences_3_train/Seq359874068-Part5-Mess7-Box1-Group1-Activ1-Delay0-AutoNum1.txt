@@ -1,0 +1,23 @@
+@startuml
+participant "spreadsheet whimpering" as 0
+box "job monologue"
+participant "screwed clubs" as 1
+participant "blips inconsistencies" as 2
+end box
+participant "interviewer baptism" as 3
+participant "aids appealed" as 4
+autonumber 1 7
+loop discreet tryouts
+2 -> 0: jitters bamboozled
+1 -> 0!! : stainless dome
+end
+2 -\\ 2: complicates breeze
+autonumber stop
+2 -\\ 1++ : swerve ghastly
+3 -> 4: profanity linking
+return launcher molested
+autonumber resume
+ [<- 0: mouthpiece base
+0 ->x 2: age actors
+autonumber stop
+@enduml

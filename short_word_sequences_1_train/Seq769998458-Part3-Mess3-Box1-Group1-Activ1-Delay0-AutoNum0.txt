@@ -1,0 +1,13 @@
+@startuml
+box "grounding mortal"
+participant "booby uncalled" as 0
+participant "arrested dreidel" as 1
+end box
+1 -// 0: chihuahua kindly
+0 <-> 0++ : tod mansion
+loop corny aforethought
+create participant "miffed sin" as 2
+0 -> 2 : miffed sin
+return accumulate eldest
+end
+@enduml

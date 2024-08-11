@@ -1,0 +1,12 @@
+@startuml
+participant "mensa blur" as 0
+participant "philosophy sentenced" as 1
+participant "bug lots" as 2
+== inspired summertime ==
+alt bunch bolder
+2 -> 0!! : firms insisted
+2 --//o 0: sabbatical homicide
+0 -> 2: personalities factions
+else shipping seminal
+end
+@enduml

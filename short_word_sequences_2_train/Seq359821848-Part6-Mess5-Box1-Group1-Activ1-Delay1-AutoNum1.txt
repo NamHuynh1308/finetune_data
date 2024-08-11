@@ -1,0 +1,22 @@
+@startuml
+box "disputes wield"
+participant "tiara wobble" as 0
+participant "rub bankers" as 1
+participant "sofas uncover" as 2
+participant "haberdashery leopards" as 3
+participant "negotiating won" as 4
+end box
+autonumber 4 1
+4 --//o 4++ : collier photography
+create participant "snipers regency" as 5
+1 -> 5 : snipers regency
+return bustle overtures
+break proposed elephant
+...jewelers trip...
+3 -> 5: molesting nosing
+2 ->> 3: indications magnify
+autonumber stop
+2 --> 3: axle antique
+autonumber resume
+end
+@enduml

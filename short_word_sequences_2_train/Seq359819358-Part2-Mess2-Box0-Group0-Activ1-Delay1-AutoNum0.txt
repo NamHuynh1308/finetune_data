@@ -1,0 +1,9 @@
+@startuml
+participant "firebug profile" as 0
+participant "desk rummy" as 1
+== following race ==
+1 -->x 1++ : journeys vee
+...detention compulsive...
+0 --> 1: granny scepter
+return grossly esoteric
+@enduml

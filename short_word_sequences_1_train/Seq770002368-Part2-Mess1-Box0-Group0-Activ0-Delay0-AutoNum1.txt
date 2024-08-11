@@ -1,0 +1,7 @@
+@startuml
+participant "talkie technological" as 0
+autonumber 6 9
+create participant "arcade fucking" as 1
+0 -> 1 : arcade fucking
+autonumber stop
+@enduml

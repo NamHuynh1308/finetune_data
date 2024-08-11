@@ -1,0 +1,15 @@
+@startuml
+box "beam peep"
+participant "flesh emission" as 0
+box "fiercest avoidance"
+participant "sponsorship consecrated" as 1
+participant "dizziness pleases" as 2
+end box
+end box
+autonumber 9 8
+0 --//o 1: subjugation vaporized
+2 --> 1: identifying kitchen
+...crushes shingles...
+2 -> 1: annulled skater
+1 ->] : musketeers folk
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "blankets edition" as 0
+== village trials ==
+autonumber 7 5
+ [<- 0: cocktail stately
+0 <-> 0: quarterback timetable
+0 -> 0: feathering ephemeral
+alt arrested resentment
+0 <-> 0: starving scoot
+ [-> 0: download cessation
+end
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "swore professed" as 0
+alt loosening organic
+0 ->x 0: messengers shingles
+end
+@enduml

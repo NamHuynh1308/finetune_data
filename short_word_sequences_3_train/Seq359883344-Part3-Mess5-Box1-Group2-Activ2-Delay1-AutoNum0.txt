@@ -1,0 +1,19 @@
+@startuml
+participant "reactive tomcat" as 0
+box "feats destroys"
+participant "hitching blowup" as 1
+participant "crate hacked" as 2
+end box
+break breaks arbitrary
+2 -> 0!! : scars grooming
+1 ->o 0: localized credenza
+opt truce neutron
+1 ->o 2++ : workday inquiries
+...tomfoolery prancer...
+2 ->x 1++ : egg consulting
+end
+0 <-> 0: rhinestones mime
+return figures talked
+end
+return dolphins intoxicated
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "reform screwups" as 0
+box "overflowing fascinate"
+participant "brain transcript" as 1
+participant "mince crabs" as 2
+end box
+== moneybags decency ==
+autonumber 8 3
+create participant "exceptions miffed" as 3
+2 -> 3 : exceptions miffed
+create participant "dressed effeminate" as 4
+2 -> 4 : dressed effeminate
+autonumber stop
+1 --> 0++ : cynical dusted
+4 --//o 3: advantage paddles
+return peep id
+4 <-> 3: flutes discoloration
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "fitch pocketbook" as 0
+box "raider educate"
+participant "telescope artist" as 1
+end box
+autonumber 0 9
+1 ->o 1: ick gobbledegook
+1 ->x 0++ : deigned optimistic
+return expressions brow
+@enduml

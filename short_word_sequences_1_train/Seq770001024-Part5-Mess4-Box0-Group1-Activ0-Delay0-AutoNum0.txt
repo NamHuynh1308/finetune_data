@@ -1,0 +1,15 @@
+@startuml
+participant "botanical archeology" as 0
+participant "cooked runaway" as 1
+participant "intelligently stalemate" as 2
+participant "cage trips" as 3
+== properly imagined ==
+par hop suckers
+2 -> 1: kirk panty
+1 -> 2: unveil pro
+3 <-] : closet snatched
+else width necessary
+create participant "nomad bearded" as 4
+0 -> 4 : nomad bearded
+end
+@enduml

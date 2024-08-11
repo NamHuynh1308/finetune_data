@@ -1,0 +1,9 @@
+@startuml
+participant "enslave rowing" as 0
+participant "shotgun tenacious" as 1
+participant "burrito cashews" as 2
+== abandoned choosy ==
+0 -\\ 2: donuts dominance
+ [-> 2: sister rifling
+2 -// 1: willy correctional
+@enduml

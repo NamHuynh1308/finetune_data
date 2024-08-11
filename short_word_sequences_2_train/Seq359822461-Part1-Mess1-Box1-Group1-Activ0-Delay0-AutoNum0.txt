@@ -1,0 +1,9 @@
+@startuml
+box "hairstyles puppeteer"
+participant "lakers diversions" as 0
+end box
+== bethesda durned ==
+alt unworthy fearing
+0 -> 0: viewpoint guitars
+end
+@enduml

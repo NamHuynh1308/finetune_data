@@ -1,0 +1,12 @@
+@startuml
+participant "shops fop" as 0
+== cat did ==
+autonumber 8 1
+create participant "guerilla unseen" as 1
+0 -> 1 : guerilla unseen
+create participant "donkeys correspondent" as 2
+1 -> 2 : donkeys correspondent
+...maul wooded...
+2 ->o 1: parachuting invites
+autonumber stop
+@enduml

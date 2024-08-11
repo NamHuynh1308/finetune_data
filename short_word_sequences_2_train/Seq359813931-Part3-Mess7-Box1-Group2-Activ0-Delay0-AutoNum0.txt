@@ -1,0 +1,18 @@
+@startuml
+participant "recruiting yaw" as 0
+participant "donut saver" as 1
+box "slumber caribou"
+participant "resources deacon" as 2
+end box
+1 -> 2: asphalt mechanic
+1 -> 1: saltwater beds
+2 ->x 2: waken essence
+critical dramatically tenacious
+0 ->> 1: riddle tory
+opt veils thief
+1 ->] : neighborhoods asleep
+1 --> 1: impound dialogue
+0 ->> 0: acting buckeyes
+end
+end
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+participant "helmet insane" as 0
+participant "muse apologetic" as 1
+participant "afternoons places" as 2
+box "bruises excel"
+participant "brown profit" as 3
+participant "concert merits" as 4
+end box
+autonumber 2 9
+0 -> 0: propensity industrious
+0 -// 2: encounters governess
+autonumber stop
+0 <-> 2: asshole expedited
+autonumber resume
+4 ->o 3: robbing carpentry
+autonumber stop
+...goon freshness...
+3 -> 0++ : fail bulldog
+autonumber resume
+return mellowing bungled
+@enduml

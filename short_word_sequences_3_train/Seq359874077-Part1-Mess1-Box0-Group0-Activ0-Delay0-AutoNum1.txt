@@ -1,0 +1,6 @@
+@startuml
+participant "financially copy" as 0
+== bah lion ==
+autonumber 10 4
+0 -\\ 0: enchantment housed
+@enduml

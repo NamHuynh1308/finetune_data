@@ -1,0 +1,11 @@
+@startuml
+box "awaken fertile"
+participant "weepy impenetrable" as 0
+participant "lager undisclosed" as 1
+end box
+autonumber 8 0
+0 <-> 0: disorganized lopped
+...uptight paychecks...
+0 -> 1: observer hollers
+autonumber stop
+@enduml

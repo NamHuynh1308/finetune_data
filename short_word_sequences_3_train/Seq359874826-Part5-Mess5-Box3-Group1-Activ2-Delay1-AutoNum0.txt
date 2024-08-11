@@ -1,0 +1,24 @@
+@startuml
+box "ester copycat"
+participant "fruitless aggression" as 0
+box "roasting chopped"
+participant "thrones persnickety" as 1
+participant "lobbyist continuous" as 2
+participant "supple expenditure" as 3
+box "taffy tingly"
+participant "neuroses books" as 4
+end box
+end box
+end box
+1 -> 2!! : molested lounging
+...put barbecue...
+1 --> 0: campuses ink
+2 -> 1++ : festive nods
+alt grease asleep
+0 -> 1++ : soonest chromic
+ [<- 2: oats indescribable
+return justification hero
+else dreamer cared
+end
+return magnificent kicky
+@enduml

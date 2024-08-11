@@ -1,0 +1,9 @@
+@startuml
+participant "imp group" as 0
+participant "groveling fleshy" as 1
+== doc ramifications ==
+autonumber 9 6
+1 ->] : prosciutto plateaued
+autonumber stop
+1 -->x 0: vacuuming incinerate
+@enduml

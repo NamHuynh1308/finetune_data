@@ -1,0 +1,15 @@
+@startuml
+participant "quell wiring" as 0
+participant "depressors movie" as 1
+autonumber 5 0
+0 -> 1: godforsaken begins
+1 -> 1++ : outrageously fiberglass
+autonumber stop
+ [<- 0: gayness mentality
+critical healing controller
+...airlines nippy...
+0 -> 0: finalists scant
+return picture autographed
+autonumber resume
+end
+@enduml

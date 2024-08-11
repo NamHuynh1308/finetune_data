@@ -1,0 +1,14 @@
+@startuml
+participant "inconsiderate flinging" as 0
+participant "pivot swatting" as 1
+box "jenny wrap"
+participant "quiz palaces" as 2
+end box
+0 -// 2: settings helps
+...enlisting notably...
+2 -// 2: helplessness inclined
+critical procrastinate yodel
+...attacked withholding...
+1 <-] : helps entree
+end
+@enduml

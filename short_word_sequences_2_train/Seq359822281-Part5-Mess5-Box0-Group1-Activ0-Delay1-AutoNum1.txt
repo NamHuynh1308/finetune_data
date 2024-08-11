@@ -1,0 +1,18 @@
+@startuml
+participant "outpatient twits" as 0
+participant "rethought robotic" as 1
+participant "blotter investigate" as 2
+participant "nightingale parted" as 3
+participant "gunpowder prophets" as 4
+autonumber 6 7
+2 ->> 0: assign undisputed
+ [-> 0: antagonize backpacks
+loop tightly rummy
+1 ->x 3: shaver bear
+...maneuver learnt...
+3 --> 2: consumed colonial
+autonumber stop
+2 -> 2!! : war slingshot
+autonumber resume
+end
+@enduml

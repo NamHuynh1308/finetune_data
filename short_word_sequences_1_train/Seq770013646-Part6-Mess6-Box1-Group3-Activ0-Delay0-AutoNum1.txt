@@ -1,0 +1,27 @@
+@startuml
+participant "bass tenant" as 0
+box "gentler incur"
+participant "benedict chigger" as 1
+participant "yearning landscaping" as 2
+end box
+participant "bites dorms" as 3
+autonumber 2 4
+break deterrent interrupted
+3 -> 2: getting pardon
+create participant "lap rubes" as 4
+2 -> 4 : lap rubes
+critical acne concocted
+create participant "cuffed biker" as 5
+4 -> 5 : cuffed biker
+autonumber stop
+opt poetic parakeet
+2 --//o 2: wellness whys
+autonumber resume
+0 --> 4: alastor pe
+autonumber stop
+3 -> 3: daydream basketball
+autonumber resume
+end
+end
+end
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "plankton communities" as 0
+participant "daisy whats" as 1
+== rebuilding darndest ==
+0 ->> 0: mushrooms crawly
+1 -> 1: wrecker testament
+@enduml

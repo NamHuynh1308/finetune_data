@@ -1,0 +1,27 @@
+@startuml
+participant "cancellations masked" as 0
+participant "compassion telepathic" as 1
+participant "supply tampered" as 2
+participant "setback freezing" as 3
+participant "emphasis snuggling" as 4
+== uncommon wack ==
+autonumber 1 9
+opt allowable commencing
+create participant "sufficient socket" as 5
+3 -> 5 : sufficient socket
+...slicker gunshot...
+1 <-] : dreary renaissance
+else fantasy subjects
+3 <-] : highland sharpest
+alt rats rooftops
+2 ->> 4++ : desperate fistful
+0 -\\ 0++ : stock statements
+else stipulated risen
+loop hamlet hypnotize
+1 -> 5: distraught colonized
+return swimsuits arm
+end
+end
+end
+return bendy fairly
+@enduml

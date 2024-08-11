@@ -1,0 +1,27 @@
+@startuml
+box "brand bluster"
+participant "fifteen clearing" as 0
+participant "accessories outrank" as 1
+participant "enterprising haberdashery" as 2
+participant "jingle upheaval" as 3
+participant "prescriptions slight" as 4
+end box
+== dribble loudest ==
+autonumber 1 5
+ [<- 2: somewheres luckily
+1 -> 1++ : debutantes christen
+critical misread small
+...adequately libraries...
+1 -> 3!! : eighth rattling
+loop olden selfishness
+ [<- 3: loathe fanatic
+return pulse rectory
+2 <-> 2: antivenin sperm
+end
+break steroid stuffing
+0 --> 4: organize assortment
+create participant "intros mornings" as 5
+1 -> 5 : intros mornings
+end
+end
+@enduml

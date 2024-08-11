@@ -1,0 +1,5 @@
+@startuml
+participant "thoughtless weddings" as 0
+0 -> 0++ : spectacles acquitted
+return knots departing
+@enduml

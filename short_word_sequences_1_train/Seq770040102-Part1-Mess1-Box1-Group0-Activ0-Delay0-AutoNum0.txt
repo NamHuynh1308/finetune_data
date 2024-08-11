@@ -1,0 +1,7 @@
+@startuml
+box "childhoods banjo"
+participant "temptress lifestyle" as 0
+end box
+== representations dispenser ==
+0 -> 0: ration crucifixion
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "containers loner" as 0
+participant "housewarming collided" as 1
+box "mongrel pralines"
+participant "negotiable bollocks" as 2
+end box
+== database scud ==
+0 -> 2: fun hide
+2 -> 0: amended tinkered
+break shows bullies
+...hitchhiking theological...
+2 -\\ 1++ : coverage pisses
+1 -// 2: ticker dullard
+end
+return styles package
+@enduml

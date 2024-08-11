@@ -1,0 +1,9 @@
+@startuml
+box "drummer offerings"
+participant "impulses burying" as 0
+end box
+critical divisional fret
+0 ->> 0: timing disciplines
+0 <-> 0: limes sorcery
+end
+@enduml

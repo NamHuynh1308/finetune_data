@@ -1,0 +1,11 @@
+@startuml
+participant "subbing someone" as 0
+== grace dyer ==
+autonumber 0 10
+alt dingy pairs
+0 ->] : saith dissolving
+autonumber stop
+0 ->x 0: stateside dodged
+autonumber resume
+end
+@enduml

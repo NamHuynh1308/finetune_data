@@ -1,0 +1,30 @@
+@startuml
+box "kettle sketchy"
+participant "jazzed soprano" as 0
+participant "skilled barnyard" as 1
+participant "criticism statehood" as 2
+end box
+participant "immodest interstate" as 3
+participant "nationally degraded" as 4
+== softest being ==
+autonumber 7 0
+loop baskets screened
+3 -->x 2: defensive kidnapped
+loop veto musketeer
+4 -> 4: strummer reverence
+autonumber stop
+3 -> 0: stubborn contrite
+critical lives vanish
+0 <-> 2: certificates fraternal
+autonumber resume
+0 -> 4!! : morris tidal
+0 <-] : seeds making
+autonumber stop
+alt spokesperson demonstration
+2 -> 3!! : chigger tendencies
+autonumber resume
+end
+end
+end
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "weed inspirational" as 0
+participant "baggage dotty" as 1
+participant "overworked decisive" as 2
+autonumber 7 0
+1 --//o 1++ : overcast scene
+1 --> 1++ : prudes apathy
+0 ->x 2++ : batteries naps
+return mumbled condominium
+return appointments accursed
+return conn kidder
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "dimmer bestow" as 0
+participant "squirm cider" as 1
+autonumber 10 6
+0 -> 1++ : assignments integrated
+1 ->x 1++ : consoling noticing
+1 -\\ 1: severe unfinished
+return urn headband
+return radiant bow
+@enduml

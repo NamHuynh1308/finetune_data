@@ -1,0 +1,9 @@
+@startuml
+box "shutting locust"
+participant "charges repaid" as 0
+end box
+autonumber 9 0
+0 -> 0: amended query
+autonumber stop
+0 -> 0: slingshot beer
+@enduml

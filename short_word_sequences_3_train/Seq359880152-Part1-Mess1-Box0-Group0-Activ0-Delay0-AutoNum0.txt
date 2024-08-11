@@ -1,0 +1,5 @@
+@startuml
+participant "sold shots" as 0
+== clouds unlucky ==
+0 -> 0: yup inspecting
+@enduml

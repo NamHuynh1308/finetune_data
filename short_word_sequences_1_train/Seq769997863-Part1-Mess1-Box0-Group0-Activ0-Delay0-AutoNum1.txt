@@ -1,0 +1,5 @@
+@startuml
+participant "spark acceptable" as 0
+autonumber 7 4
+ [-> 0: aggressively massacre
+@enduml

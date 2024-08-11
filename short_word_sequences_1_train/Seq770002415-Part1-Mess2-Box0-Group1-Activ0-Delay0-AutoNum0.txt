@@ -1,0 +1,7 @@
+@startuml
+participant "detonated formal" as 0
+critical alligators honestly
+ [<- 0: orange virus
+0 -> 0!! : coopers from
+end
+@enduml

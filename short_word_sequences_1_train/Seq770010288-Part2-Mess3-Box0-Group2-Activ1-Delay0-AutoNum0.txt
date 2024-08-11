@@ -1,0 +1,14 @@
+@startuml
+participant "exiting sewed" as 0
+participant "grounded finch" as 1
+== protein haystack ==
+alt alchemy seventies
+1 -> 1: gloss disciplining
+1 -// 1: ingratitude rice
+else surly repeat
+par serene guy
+1 <-> 1++ : encouragement allegiance
+end
+end
+return mercy ninja
+@enduml

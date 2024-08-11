@@ -1,0 +1,12 @@
+@startuml
+box "approximately prophets"
+participant "comp virile" as 0
+box "hallo colonel"
+participant "seeker hurl" as 1
+end box
+end box
+autonumber 6 8
+1 -\\ 1: empowered insistence
+0 -> 1: yum bringing
+autonumber stop
+@enduml

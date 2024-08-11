@@ -1,0 +1,12 @@
+@startuml
+participant "momentum amuses" as 0
+participant "carcinogens ancestor" as 1
+autonumber 9 2
+0 -> 0!! : primed soapy
+autonumber stop
+create participant "collapsing wake" as 2
+1 -> 2 : collapsing wake
+autonumber resume
+1 <-] : noting bora
+2 -> 1: adrenals instrument
+@enduml

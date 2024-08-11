@@ -1,0 +1,8 @@
+@startuml
+participant "beefed errant" as 0
+alt awry clinched
+0 -->x 0++ : backups arachnid
+0 -> 0!! : specimens interrupted
+end
+return chipped color
+@enduml

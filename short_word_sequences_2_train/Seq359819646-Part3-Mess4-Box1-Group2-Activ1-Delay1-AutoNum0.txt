@@ -1,0 +1,18 @@
+@startuml
+participant "planning assimilate" as 0
+participant "surrounding remodelling" as 1
+box "whit wizard"
+participant "sinners excel" as 2
+end box
+== concourse rebel ==
+0 -> 0: statewide assistant
+1 -> 1!! : voluntarily straitjacket
+loop probationary barker
+...terminator viral...
+1 -> 2: scampered appropriately
+par followers bawl
+1 ->x 0++ : affecting vows
+end
+end
+return disclosed dine
+@enduml

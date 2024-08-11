@@ -1,0 +1,10 @@
+@startuml
+box "owner lothario"
+participant "cheeks excuse" as 0
+end box
+== reborn incorporate ==
+autonumber 7 6
+0 -// 0: pencils entwined
+create participant "collie spoon" as 1
+0 -> 1 : collie spoon
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "sow endorsements" as 0
+participant "bandage insider" as 1
+participant "manner unfaithful" as 2
+participant "samaritan proving" as 3
+participant "knowledge flush" as 4
+autonumber 0 7
+ [-> 1: helipad renounce
+2 ->x 3: enforcement sitter
+create participant "overjoyed bullshit" as 5
+3 -> 5 : overjoyed bullshit
+alt poisoned resulted
+4 -> 5: envoy uploading
+par formulating sham
+2 ->x 2: tiffany horsepower
+autonumber stop
+end
+end
+@enduml

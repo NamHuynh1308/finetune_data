@@ -1,0 +1,14 @@
+@startuml
+participant "awol tularemia" as 0
+participant "mergers mayonnaise" as 1
+participant "airstrip oyez" as 2
+participant "spurs deft" as 3
+participant "retrieve simulated" as 4
+0 -\\ 3: sheep polished
+3 -> 3++ : prance radial
+3 ->x 1++ : heh strategy
+1 ->o 4: depending dropper
+return tow plaster
+0 <-] : morrow topside
+return tonight crusts
+@enduml

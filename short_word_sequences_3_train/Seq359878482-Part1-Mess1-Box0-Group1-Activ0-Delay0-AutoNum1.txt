@@ -1,0 +1,9 @@
+@startuml
+participant "hypnosis loan" as 0
+== bonus cones ==
+autonumber 3 7
+par span okeydokey
+0 -// 0: toppings gloating
+autonumber stop
+end
+@enduml

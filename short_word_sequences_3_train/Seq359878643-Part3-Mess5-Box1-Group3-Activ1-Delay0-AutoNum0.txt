@@ -1,0 +1,20 @@
+@startuml
+participant "synch gated" as 0
+box "yep adjourned"
+participant "caesar performance" as 1
+end box
+critical demise hangouts
+0 -> 0++ : flown threshold
+alt homestead essential
+create participant "talked cruelty" as 2
+0 -> 2 : talked cruelty
+ [<- 2: rednecks stoic
+return kneecaps shatter
+else tilt derailing
+1 -->x 2: shotgun pimples
+break realize shadowing
+1 ->] : tortures reclaim
+end
+end
+end
+@enduml

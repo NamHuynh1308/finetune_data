@@ -1,0 +1,6 @@
+@startuml
+participant "cannon elevators" as 0
+autonumber 8 5
+0 ->x 0++ : fellow vacuuming
+return malnourished cleaned
+@enduml

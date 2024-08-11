@@ -1,0 +1,8 @@
+@startuml
+participant "alexander league" as 0
+participant "toasty rechecked" as 1
+participant "pastels pleads" as 2
+2 -> 0: bared daydream
+2 -> 0: tortured marshmallows
+1 -> 1: effecting misuse
+@enduml

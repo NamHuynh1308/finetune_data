@@ -1,0 +1,13 @@
+@startuml
+participant "convulsing snowman" as 0
+participant "worn tables" as 1
+participant "countdown dusk" as 2
+== suit dispatcher ==
+autonumber 5 4
+create participant "sweetest apostrophe" as 3
+1 -> 3 : sweetest apostrophe
+0 -> 2: garibaldi absurdity
+autonumber stop
+...legalities album...
+1 -> 3!! : reacts frog
+@enduml

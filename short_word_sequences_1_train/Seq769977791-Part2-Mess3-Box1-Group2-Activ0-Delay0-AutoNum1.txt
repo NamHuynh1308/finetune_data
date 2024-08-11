@@ -1,0 +1,14 @@
+@startuml
+box "prudent meaner"
+participant "waterproof judging" as 0
+participant "great stereotypes" as 1
+end box
+autonumber 9 0
+opt salmon electrocuted
+1 -// 1: mow hinted
+1 -> 1: movement meditating
+alt salvage nationally
+1 <-> 0: kilter questionnaire
+end
+end
+@enduml

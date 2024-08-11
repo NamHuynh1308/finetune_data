@@ -1,0 +1,10 @@
+@startuml
+participant "according walla" as 0
+participant "crystal loathed" as 1
+== defect rightly ==
+autonumber 0 8
+0 -> 1!! : nun yapping
+loop engulfed antidote
+0 -// 0: lads jury
+end
+@enduml

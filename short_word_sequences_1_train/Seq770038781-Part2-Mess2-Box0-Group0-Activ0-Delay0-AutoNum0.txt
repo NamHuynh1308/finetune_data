@@ -1,0 +1,6 @@
+@startuml
+participant "throws grow" as 0
+participant "suspected mixup" as 1
+0 <-> 0: giraffe nocturnal
+1 ->o 1: maddening compels
+@enduml

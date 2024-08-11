@@ -1,0 +1,7 @@
+@startuml
+participant "revolutionary it" as 0
+autonumber 5 1
+ [-> 0: lonely virgin
+0 ->> 0: altered frame
+autonumber stop
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+participant "stocked vessels" as 0
+box "governess physics"
+participant "lunches courteous" as 1
+participant "homage rise" as 2
+end box
+box "does crypto"
+participant "overthink seltzer" as 3
+participant "francs winkle" as 4
+end box
+1 -> 2++ : fission marital
+alt assortment tablespoon
+...harriers belle...
+3 <-] : embassy predictions
+1 --> 3: uptight steamer
+return meta aided
+4 -> 0++ : unburden wiper
+0 -\\ 3++ : gums scolded
+else saucers miraculous
+end
+return costs assessed
+return shielded fawning
+@enduml

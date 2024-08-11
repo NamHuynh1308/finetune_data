@@ -1,0 +1,19 @@
+@startuml
+participant "chateau toll" as 0
+participant "guzzling supply" as 1
+participant "visor pinkie" as 2
+participant "endive custom" as 3
+participant "bottled stereotypes" as 4
+== mon intimately ==
+alt variety madrigal
+3 -> 2++ : closing ease
+break officially convertible
+2 -> 0: cranky usually
+3 ->] : enjoyment custodian
+end
+3 --//o 2: happiest creature
+ [-> 4: clinched stacks
+return beware dumb
+else hollow quivering
+end
+@enduml

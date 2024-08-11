@@ -1,0 +1,21 @@
+@startuml
+participant "term once" as 0
+participant "ministers lander" as 1
+box "wharf fuels"
+participant "headquarters insomnia" as 2
+participant "specified tucker" as 3
+participant "terrestrial debating" as 4
+end box
+alt bobbin dew
+0 --> 1: method tacks
+...anxious stipulate...
+0 --> 4: alumni extraterrestrials
+...dutiful festivities...
+3 -> 3: patio meeting
+3 --//o 1: surfer mascara
+3 ->> 3++ : tadpole section
+create participant "dangers sundaes" as 5
+4 -> 5 : dangers sundaes
+return mood shadows
+end
+@enduml

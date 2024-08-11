@@ -1,0 +1,34 @@
+@startuml
+participant "misunderstandings shards" as 0
+participant "certainty marries" as 1
+box "hectic vamoose"
+participant "cough proverbial" as 2
+box "discarded carbs"
+participant "satisfied totally" as 3
+participant "prancer flanking" as 4
+end box
+end box
+autonumber 2 1
+3 -// 0: opened tag
+autonumber stop
+4 <-] : parameters land
+ [<- 2: transmitter innkeeper
+...dryers sponsoring...
+4 -> 1++ : physician embarrass
+...pest propellers...
+1 <-> 1: proposes arson
+break slanted annihilation
+ [<- 0: sleazebag harms
+critical hackman endeavour
+...landfill bites...
+0 -> 2++ : roman addiction
+autonumber resume
+critical different font
+create participant "packages reclining" as 5
+3 -> 5 : packages reclining
+return referred pimped
+end
+end
+end
+return proposes ashtrays
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "headset present" as 0
+== sores banzai ==
+autonumber 2 5
+0 --//o 0++ : bubbly shave
+0 -> 0!! : dominick passions
+return interacting artists
+autonumber stop
+0 ->x 0: vegetables exploratory
+autonumber resume
+opt homeroom charlie
+0 ->> 0: waging pods
+0 --> 0++ : unpacked guerilla
+else parole exchanged
+end
+return kindness marshmallow
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "shirtless endorsements" as 0
+box "complimentary ageless"
+participant "bashful humidity" as 1
+end box
+opt barricaded hanged
+ [<- 1: brumby shards
+0 ->] : resumes tackled
+else thoracic chilling
+1 ->> 0: stinks diva
+...podiatrist improvements...
+1 ->] : garibaldi rehash
+else reappears evangelical
+end
+@enduml

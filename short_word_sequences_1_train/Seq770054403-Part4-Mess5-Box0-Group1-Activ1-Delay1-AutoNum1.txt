@@ -1,0 +1,18 @@
+@startuml
+participant "mother wiggy" as 0
+participant "sup docks" as 1
+participant "biking examination" as 2
+participant "sulking realty" as 3
+== exacerbate resented ==
+autonumber 5 4
+alt queue stallion
+3 -> 1: horseradish sensitivity
+...class population...
+3 -> 0++ : recipe numbered
+else scarf cirrhosis
+ [-> 3: racquet volunteering
+2 -> 2!! : dicking punished
+3 <-] : aurora chopping
+end
+return vision politely
+@enduml

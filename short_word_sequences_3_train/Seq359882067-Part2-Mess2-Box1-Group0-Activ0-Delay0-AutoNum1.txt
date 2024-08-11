@@ -1,0 +1,9 @@
+@startuml
+box "nicknames octopus"
+participant "rented peril" as 0
+participant "curiosity shakers" as 1
+end box
+autonumber 3 5
+0 ->x 0: shoe material
+0 -> 1: holden sentenced
+@enduml

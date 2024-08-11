@@ -1,0 +1,11 @@
+@startuml
+participant "insensitivity uncut" as 0
+participant "boot staircase" as 1
+par crawl off
+create participant "tea criminally" as 2
+0 -> 2 : tea criminally
+2 -> 1: at ketch
+...allegations peeved...
+2 ->] : wealthy specially
+end
+@enduml

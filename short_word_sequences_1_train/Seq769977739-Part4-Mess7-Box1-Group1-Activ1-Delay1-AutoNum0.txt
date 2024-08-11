@@ -1,0 +1,20 @@
+@startuml
+participant "firearms yom" as 0
+participant "sturgeon gist" as 1
+participant "constipation angling" as 2
+box "confederate plate"
+participant "putrid troubling" as 3
+end box
+== slough shat ==
+1 <-> 0: augmentation hardship
+1 -> 1: charger spiraling
+0 <-> 1: skiff machinations
+1 -> 2: purchase horizons
+ [<- 1: jugs hitched
+1 -> 1: unspeakably speeds
+opt tents unfairness
+...shockingly ted...
+1 -// 2++ : bodyguard manners
+end
+return trails servants
+@enduml

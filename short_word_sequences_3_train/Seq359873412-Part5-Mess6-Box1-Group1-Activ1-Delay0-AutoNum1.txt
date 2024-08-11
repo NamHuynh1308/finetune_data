@@ -1,0 +1,21 @@
+@startuml
+participant "briefed spoils" as 0
+participant "shoemaker bashing" as 1
+box "dozen manpower"
+participant "terminating simplify" as 2
+participant "tapered helicopters" as 3
+participant "marina tarmac" as 4
+end box
+autonumber 6 5
+par combat personal
+1 -\\ 1: summer whittling
+ [<- 3: retrieving snooty
+3 <-] : ticks jerseys
+else guard overcooked
+4 ->> 1: picket vaccine
+ [<- 3: itself viva
+autonumber stop
+3 -> 3++ : gladly louder
+end
+return smelled normal
+@enduml

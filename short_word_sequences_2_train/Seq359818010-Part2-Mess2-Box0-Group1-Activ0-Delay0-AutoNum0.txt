@@ -1,0 +1,9 @@
+@startuml
+participant "catheter minimal" as 0
+participant "figure stove" as 1
+== distaste unsavory ==
+loop claimed splurge
+0 -> 0!! : grassy chanteuse
+0 -> 1!! : solemn hostess
+end
+@enduml

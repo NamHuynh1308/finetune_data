@@ -1,0 +1,23 @@
+@startuml
+participant "funky rare" as 0
+participant "meets sappy" as 1
+participant "ensue guerilla" as 2
+participant "smelt daisy" as 3
+participant "unlocked locket" as 4
+== rooftop obsessing ==
+autonumber 0 0
+break suffering sinking
+4 -> 0: wreaks inflammatory
+autonumber stop
+1 ->o 1++ : contributor buddies
+autonumber resume
+alt pagers perceptions
+2 -\\ 1: vaguely friendless
+0 <-] : front products
+else breakup boyfriends
+1 --> 4: janitors crashing
+autonumber stop
+end
+end
+return churches manatee
+@enduml

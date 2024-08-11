@@ -1,0 +1,9 @@
+@startuml
+participant "ales riddled" as 0
+ [<- 0: now jams
+0 ->o 0: gangland speaks
+...increasing knock...
+0 <-] : tolerate immersion
+...julep knowledgeable...
+0 ->> 0: every booties
+@enduml

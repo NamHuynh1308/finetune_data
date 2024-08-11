@@ -1,0 +1,13 @@
+@startuml
+participant "variable wonderland" as 0
+box "hysterically overgrown"
+participant "treaters iffy" as 1
+end box
+== bulb mentality ==
+autonumber 2 10
+1 -// 0++ : present hatchback
+0 ->o 1: turd insinuating
+1 -> 1: anachronism enlisted
+autonumber stop
+return embalming blink
+@enduml

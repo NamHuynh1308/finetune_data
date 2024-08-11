@@ -1,0 +1,10 @@
+@startuml
+participant "tense anchovies" as 0
+box "owner processed"
+participant "renewed bozos" as 1
+end box
+== lineage zeta ==
+autonumber 8 2
+0 -->x 1: advice duality
+ [-> 0: unhook twitching
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "torso wall" as 0
+participant "sleepless auto" as 1
+== sacrifice preoccupied ==
+ [<- 0: sent confidant
+0 -> 0!! : prepare patiently
+@enduml

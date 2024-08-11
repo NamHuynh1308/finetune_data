@@ -1,0 +1,13 @@
+@startuml
+box "patented psych"
+participant "paradigm grape" as 0
+participant "gangrene chainsaw" as 1
+end box
+== relocate wide ==
+0 <-> 1++ : phone ask
+1 ->> 0: givens facilities
+1 --> 0++ : guys commando
+1 -->x 0: counteroffer womb
+return dye mates
+return orioles mundane
+@enduml

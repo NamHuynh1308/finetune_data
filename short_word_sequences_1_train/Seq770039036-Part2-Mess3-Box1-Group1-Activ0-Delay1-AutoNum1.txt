@@ -1,0 +1,13 @@
+@startuml
+box "stinking devices"
+participant "dapper minions" as 0
+participant "invading promotions" as 1
+end box
+autonumber 9 3
+1 ->] : ovation laws
+loop flexing carrots
+...rumored arrives...
+0 -\\ 1: intact tarnished
+0 --//o 1: corroborate combustible
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+box "briefing rumpus"
+participant "carcinogens civilian" as 0
+participant "chins nineteen" as 1
+participant "dependent tombstone" as 2
+end box
+ [<- 1: fortunate intertwined
+2 ->o 1: fences announcement
+create participant "canary mortality" as 3
+2 -> 3 : canary mortality
+2 <-] : painter faintest
+opt panicky threesome
+3 -> 0!! : lovebirds cleanup
+ [-> 1: venerable farm
+0 -> 2: trapper lazar
+end
+@enduml

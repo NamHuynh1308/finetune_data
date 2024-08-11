@@ -1,0 +1,25 @@
+@startuml
+participant "spandex fervent" as 0
+participant "riff mavis" as 1
+participant "impossibly cheers" as 2
+box "gold hated"
+participant "commodity transient" as 3
+end box
+opt dribbling diapers
+1 -// 1: vegetable commensurate
+3 -\\ 0: rialto repairman
+3 ->o 1++ : forthcoming lido
+2 -> 3: incubation delusions
+end
+par censure writer
+ [<- 0: snowman truest
+opt ideology duce
+...absolutely church...
+0 <-] : recrimination bacterial
+2 ->x 0: endings settlement
+return condition privilege
+...anatomy raiding...
+0 -// 0: distort sticking
+end
+end
+@enduml

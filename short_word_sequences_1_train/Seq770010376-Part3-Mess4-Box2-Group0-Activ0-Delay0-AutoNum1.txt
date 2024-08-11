@@ -1,0 +1,15 @@
+@startuml
+box "digit surprised"
+participant "reinstating cart" as 0
+box "prolong tool"
+participant "shaped pawn" as 1
+end box
+end box
+autonumber 0 1
+0 ->] : accomplished accommodations
+0 --//o 1: gaining darts
+create participant "standish baptize" as 2
+0 -> 2 : standish baptize
+2 -->x 2: graded misleading
+autonumber stop
+@enduml

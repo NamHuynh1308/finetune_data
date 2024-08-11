@@ -1,0 +1,10 @@
+@startuml
+box "ill fountain"
+participant "tested guesthouse" as 0
+participant "ancient revolution" as 1
+end box
+1 <-] : aunts ambient
+0 -->x 1++ : recently flogged
+0 ->] : molds recalled
+return heist lobbyist
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "oozing solitaire" as 0
+participant "nickname sailors" as 1
+participant "gout sulking" as 2
+== selective basic ==
+critical inscrutable delusions
+1 -\\ 0: dragoons stirring
+ [<- 2: crabs injustice
+...deft rewritten...
+2 -> 0: immobile policing
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+box "tinsel chosen"
+participant "insect spoons" as 0
+participant "highness umbilical" as 1
+end box
+== tuxedo tracking ==
+autonumber 6 3
+0 --//o 1: copied contamination
+alt humoring intravenously
+0 -> 1!! : holed straitjacket
+0 --//o 1++ : lothario disappointment
+else workman weeks
+...spence clump...
+1 ->> 0: gift beaded
+return selfish rouse
+end
+@enduml

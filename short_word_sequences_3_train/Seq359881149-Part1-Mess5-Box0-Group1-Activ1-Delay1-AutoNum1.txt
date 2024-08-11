@@ -1,0 +1,17 @@
+@startuml
+participant "downgraded regretted" as 0
+autonumber 0 6
+0 -> 0!! : stayed telepathy
+autonumber stop
+0 --//o 0++ : afterward effects
+autonumber resume
+loop privilege phobic
+0 ->x 0: fading revelation
+return socks okeydokey
+...milk exposes...
+0 ->o 0: lube teachers
+else moat monoxide
+0 -> 0: flank lawn
+autonumber stop
+end
+@enduml

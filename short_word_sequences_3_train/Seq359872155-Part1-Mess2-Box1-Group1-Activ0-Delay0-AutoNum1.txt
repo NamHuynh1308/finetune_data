@@ -1,0 +1,11 @@
+@startuml
+box "entertained weekend"
+participant "broadcast rash" as 0
+end box
+autonumber 0 4
+break intermediary edits
+ [-> 0: participating outlived
+0 ->] : one players
+autonumber stop
+end
+@enduml

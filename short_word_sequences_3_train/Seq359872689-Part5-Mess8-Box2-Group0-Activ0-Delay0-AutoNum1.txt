@@ -1,0 +1,23 @@
+@startuml
+box "timber purview"
+participant "swastika merger" as 0
+participant "registrar plays" as 1
+end box
+participant "response does" as 2
+box "wean prey"
+participant "conversational snatched" as 3
+end box
+== lab blacks ==
+autonumber 10 6
+3 --> 2: writer herding
+0 -> 0: prodding combing
+3 -> 3: overlooked doubly
+ [-> 1: magnolia prodigal
+2 ->] : admissions toxicity
+ [-> 3: burdens virile
+autonumber stop
+ [-> 0: unsigned variations
+create participant "sprain luminous" as 4
+3 -> 4 : sprain luminous
+autonumber resume
+@enduml

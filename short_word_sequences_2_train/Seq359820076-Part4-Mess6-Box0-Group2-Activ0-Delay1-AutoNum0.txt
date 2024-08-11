@@ -1,0 +1,18 @@
+@startuml
+participant "ditsy iliad" as 0
+participant "ambition tripled" as 1
+participant "haggling negligence" as 2
+participant "preserved assemble" as 3
+break curt scoreboard
+0 --> 3: tombs fathom
+...faithful misguided...
+ [<- 2: kale pruning
+else confuse makes
+loop backups stimuli
+2 -->x 3: trussed platform
+1 --> 2: casing asbestos
+0 -> 3: therapist enterprises
+1 --//o 0: clung advancing
+end
+end
+@enduml

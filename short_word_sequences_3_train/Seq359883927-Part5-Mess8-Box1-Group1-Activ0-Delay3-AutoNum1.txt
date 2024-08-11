@@ -1,0 +1,23 @@
+@startuml
+participant "observing splurge" as 0
+participant "moans announcer" as 1
+participant "gate semiautomatic" as 2
+box "celled airplanes"
+participant "goober courthouse" as 3
+participant "drove swims" as 4
+end box
+autonumber 7 5
+1 ->x 0: acoustic grinder
+3 -// 4: decides threaten
+opt skipped lathe
+...aesthetics holographic...
+4 <-] : publicly arbitrator
+4 -> 3: unfolds outspoken
+...fancied severe...
+1 -\\ 2: overheating cola
+3 -> 1: legged northwestern
+0 -> 0!! : dills foolish
+end
+...reaction tossing...
+2 -> 0: sliced millet
+@enduml

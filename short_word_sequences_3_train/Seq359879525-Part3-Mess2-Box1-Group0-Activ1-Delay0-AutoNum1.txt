@@ -1,0 +1,11 @@
+@startuml
+participant "options revolutionaries" as 0
+box "tearful hairball"
+participant "elementary macadamia" as 1
+end box
+autonumber 4 2
+1 -->x 0++ : entrails applaud
+create participant "classified operas" as 2
+1 -> 2 : classified operas
+return competitor squeaks
+@enduml

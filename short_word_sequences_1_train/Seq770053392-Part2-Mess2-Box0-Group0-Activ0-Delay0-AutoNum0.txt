@@ -1,0 +1,6 @@
+@startuml
+participant "surname satin" as 0
+participant "contusions crabby" as 1
+0 -->x 0: doomed carney
+1 ->o 1: cancellation mat
+@enduml

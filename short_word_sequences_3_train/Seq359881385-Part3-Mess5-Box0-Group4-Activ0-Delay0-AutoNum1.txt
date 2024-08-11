@@ -1,0 +1,21 @@
+@startuml
+participant "madden chunks" as 0
+participant "mailman disarray" as 1
+participant "grandfather extending" as 2
+== quints apparent ==
+autonumber 9 1
+alt canvas races
+0 ->> 1: supernova carve
+break accuse bystander
+0 ->o 0: when charlie
+2 --> 1: mature jot
+else evaluate mountaineer
+alt influenza invitation
+1 -> 2: robbers glengarry
+par mumble beneficial
+2 <-] : switching nutcracker
+end
+end
+end
+end
+@enduml

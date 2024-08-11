@@ -1,0 +1,12 @@
+@startuml
+box "dosed left"
+participant "uncuff got" as 0
+participant "peaks rejuvenating" as 1
+box "indications sourpuss"
+participant "coaster lasting" as 2
+end box
+end box
+0 <-> 2: gathering dunks
+ [<- 0: invested mansions
+2 -> 2: bedspread obsessive
+@enduml

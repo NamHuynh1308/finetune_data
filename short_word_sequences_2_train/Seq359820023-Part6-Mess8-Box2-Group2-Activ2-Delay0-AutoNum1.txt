@@ -1,0 +1,32 @@
+@startuml
+box "fido phony"
+participant "bangs smirking" as 0
+box "flights grove"
+participant "ventriloquism history" as 1
+participant "pyrotechnics perry" as 2
+participant "consume traditional" as 3
+end box
+participant "few vanished" as 4
+end box
+autonumber 10 2
+ [<- 0: potsie cardiac
+ [-> 3: marmalade bailiff
+autonumber stop
+4 <-] : excite attorneys
+autonumber resume
+par unbelievable cite
+1 -> 3++ : shining busting
+1 ->x 1: search barker
+return megaphone sayer
+else barbecue cake
+opt perfectionist fend
+0 -> 3++ : distributed plenty
+0 -> 4: icebergs path
+autonumber stop
+create participant "visceral duty" as 5
+2 -> 5 : visceral duty
+autonumber resume
+end
+end
+return witness pic
+@enduml

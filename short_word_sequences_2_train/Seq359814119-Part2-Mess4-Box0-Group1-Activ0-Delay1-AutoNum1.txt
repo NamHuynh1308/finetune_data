@@ -1,0 +1,15 @@
+@startuml
+participant "vile teenage" as 0
+participant "anger activity" as 1
+== reinforcements keeps ==
+autonumber 0 5
+0 <-> 1: battling puts
+...song crashing...
+0 -> 0: propose tail
+0 <-] : neurological punctuality
+autonumber stop
+opt accusations turnout
+0 -> 0!! : flatulence pluses
+autonumber resume
+end
+@enduml

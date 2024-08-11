@@ -1,0 +1,11 @@
+@startuml
+participant "applejack inferior" as 0
+box "pinkie tropic"
+participant "kindergarten bugger" as 1
+end box
+== counter returned ==
+autonumber 3 3
+1 ->o 1: panicking cylinders
+0 ->] : ephemeral climbing
+autonumber stop
+@enduml

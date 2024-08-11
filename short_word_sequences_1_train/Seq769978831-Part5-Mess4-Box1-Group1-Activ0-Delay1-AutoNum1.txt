@@ -1,0 +1,17 @@
+@startuml
+participant "closest gamer" as 0
+box "depressed bedlam"
+participant "lapel suggesting" as 1
+participant "mitt shoe" as 2
+end box
+participant "vigor underlying" as 3
+autonumber 10 10
+opt referrals swatting
+2 <-] : baffling cosmology
+create participant "stoop wildcat" as 4
+3 -> 4 : stoop wildcat
+1 <-> 1: archer anaesthetic
+...feminine startle...
+3 -> 0: laxatives falsify
+end
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+box "flights ditty"
+participant "acquaint minute" as 0
+end box
+autonumber 4 8
+0 ->> 0: ankles swear
+0 <-> 0: binding generated
+...driver empathic...
+0 -> 0: stretch myriad
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "inspection burnout" as 0
+participant "coolness friction" as 1
+participant "fro homers" as 2
+box "lovelies pleasing"
+participant "permissible nil" as 3
+end box
+autonumber 2 0
+2 ->x 2: twig nag
+0 ->x 1: contribution bungalow
+2 --//o 0: compel saxophone
+2 -> 2: fetal abbot
+@enduml

@@ -1,0 +1,23 @@
+@startuml
+participant "spa sands" as 0
+participant "confidences exporter" as 1
+participant "panned condensed" as 2
+participant "cleanser receiving" as 3
+== hanks unions ==
+autonumber 5 5
+0 -// 0: investigators check
+autonumber stop
+3 -> 1: harm treaters
+autonumber resume
+critical meter atonement
+3 --//o 2++ : overstay attorney
+autonumber stop
+2 -> 2: distort talky
+else many argue
+alt obligation more
+...wastes cutlass...
+0 -> 2: weiner provocations
+return breathable rattles
+end
+end
+@enduml

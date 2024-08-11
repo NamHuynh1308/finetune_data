@@ -1,0 +1,13 @@
+@startuml
+participant "puller git" as 0
+participant "intentions called" as 1
+participant "tables fable" as 2
+autonumber 5 3
+2 -\\ 2: planners gleaming
+ [-> 1: oracles specially
+autonumber stop
+ [-> 1: factions infatuation
+2 -> 1++ : derris wager
+1 -> 2: velvet methodology
+return through gonorrhea
+@enduml

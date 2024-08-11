@@ -1,0 +1,8 @@
+@startuml
+box "declined larch"
+participant "washed mare" as 0
+end box
+autonumber 3 1
+0 -// 0: umbrella saintly
+0 -> 0: establish whatchamacallit
+@enduml

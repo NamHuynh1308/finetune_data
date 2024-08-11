@@ -1,0 +1,8 @@
+@startuml
+box "satire twists"
+participant "cruel appropriately" as 0
+end box
+autonumber 1 10
+0 -> 0: jean shagged
+autonumber stop
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "smelling vitals" as 0
+autonumber 1 7
+0 -// 0: dahl sighs
+autonumber stop
+0 -->x 0: cockpit remaining
+0 ->> 0++ : alderman spooky
+autonumber resume
+0 -> 0: minus achieved
+alt misinformed admirable
+0 --//o 0: dire story
+return salient wean
+autonumber stop
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "certificate superheroes" as 0
+participant "finesse bikers" as 1
+participant "revolver formulas" as 2
+participant "horrid excursions" as 3
+autonumber 8 1
+0 ->] : about retrofit
+autonumber stop
+3 ->o 1: helicopters waving
+1 -> 0: eh greenhouse
+autonumber resume
+1 ->> 2: sobriety amateur
+3 ->x 2: knives giggles
+critical coating bicentennial
+1 -> 2!! : chang abolish
+end
+@enduml

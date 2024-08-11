@@ -1,0 +1,7 @@
+@startuml
+box "disappear reinstated"
+participant "combines viceroy" as 0
+end box
+autonumber 9 8
+0 -> 0!! : goon conk
+@enduml

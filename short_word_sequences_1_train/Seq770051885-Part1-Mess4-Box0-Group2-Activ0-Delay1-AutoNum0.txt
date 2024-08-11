@@ -1,0 +1,12 @@
+@startuml
+participant "pivotal sunroom" as 0
+0 ->o 0: affinity teary
+0 ->x 0: theft carving
+alt metric fooled
+0 ->> 0: jettison newborns
+opt authorizing sentences
+...expression poly...
+0 -> 0: augmentation chartered
+end
+end
+@enduml

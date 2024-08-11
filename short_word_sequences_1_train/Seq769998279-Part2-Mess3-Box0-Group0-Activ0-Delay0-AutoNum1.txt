@@ -1,0 +1,11 @@
+@startuml
+participant "blackouts unit" as 0
+participant "handcuffed disorder" as 1
+== morrow groundbreaking ==
+autonumber 6 2
+ [<- 0: geeky import
+0 -> 0: rescuer engraving
+autonumber stop
+1 ->x 1: mocks sprouts
+autonumber resume
+@enduml

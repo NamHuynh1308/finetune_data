@@ -1,0 +1,15 @@
+@startuml
+participant "fondle sine" as 0
+participant "factoid objection" as 1
+participant "dollars race" as 2
+participant "limousine lover" as 3
+autonumber 6 2
+3 --//o 1: cultivated reporting
+0 -> 1!! : sook rationalizing
+opt scientists credentials
+0 --//o 0: censure consider
+0 -> 0!! : jumper zippy
+1 ->o 1: vaporize excused
+autonumber stop
+end
+@enduml

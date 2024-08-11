@@ -1,0 +1,12 @@
+@startuml
+participant "simplistic viscount" as 0
+participant "shuffling basin" as 1
+participant "seesaw reapers" as 2
+== dined teenaged ==
+0 ->o 0: alert inning
+0 -\\ 2: bushes truly
+1 ->o 1: nastiest chestnuts
+par modern boiler
+2 ->> 2: sculptures crush
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "snatches complaining" as 0
+box "publicist heckled"
+participant "hem barnacle" as 1
+end box
+== unsigned aids ==
+par flounder saga
+ [-> 1: steadily camps
+0 <-] : reconciliation carefree
+end
+@enduml

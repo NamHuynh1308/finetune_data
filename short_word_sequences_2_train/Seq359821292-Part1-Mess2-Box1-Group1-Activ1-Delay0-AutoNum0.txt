@@ -1,0 +1,10 @@
+@startuml
+box "confined citation"
+participant "appearing hellhole" as 0
+end box
+alt potassium planted
+0 ->x 0: townspeople grant
+0 -> 0++ : advertisement crappy
+end
+return torched oily
+@enduml

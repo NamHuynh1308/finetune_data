@@ -1,0 +1,24 @@
+@startuml
+box "limousine dears"
+participant "rhymed scholarship" as 0
+participant "temperamental hermaphrodite" as 1
+box "hitch womanizer"
+participant "blah business" as 2
+box "pleads blunt"
+participant "facing ion" as 3
+participant "coeds sabotaging" as 4
+end box
+end box
+end box
+== picturing wakes ==
+0 -\\ 4: vanity tellers
+...facet publications...
+2 <-] : mad rhetorical
+par savvy allowing
+2 ->] : glances stinking
+3 ->> 0: local detach
+else gunpowder wondering
+0 --> 3++ : rightfully boozer
+end
+return wrongful glum
+@enduml

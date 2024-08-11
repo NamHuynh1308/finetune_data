@@ -1,0 +1,22 @@
+@startuml
+participant "ore recitals" as 0
+participant "umbrella mirrors" as 1
+participant "activators impressionable" as 2
+participant "drawer comatose" as 3
+participant "cloths cobbler" as 4
+autonumber 5 6
+alt maternal dosed
+ [<- 0: suburb mental
+break but clockwise
+...skepticism agonized...
+ [-> 2: tacos symptomatic
+ [<- 0: boner equitable
+2 ->] : plateaued abominable
+create participant "boil corollary" as 5
+2 -> 5 : boil corollary
+autonumber stop
+2 ->x 2: landscape windfall
+else adult damning
+end
+end
+@enduml

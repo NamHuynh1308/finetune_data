@@ -1,0 +1,10 @@
+@startuml
+participant "demonology pool" as 0
+participant "however spark" as 1
+ [<- 0: prevented quad
+0 -\\ 0: deserving nose
+0 -->x 0: dolphin rematch
+1 ->] : buster ogling
+0 ->o 1: quark salad
+0 -\\ 1: converse rocked
+@enduml

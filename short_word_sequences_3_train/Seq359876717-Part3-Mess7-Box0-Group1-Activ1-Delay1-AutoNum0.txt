@@ -1,0 +1,16 @@
+@startuml
+participant "impending carpet" as 0
+participant "wanderer sublet" as 1
+participant "blazing emeralds" as 2
+0 -> 0: tulle fees
+0 -> 1: hobbies pinch
+2 -\\ 1: displaying matchmaking
+1 ->o 1++ : fallback biopsy
+0 -> 1: birthdays mystical
+return roomful pagan
+opt ensure splat
+2 -> 2: infuriating shards
+...hatch laid...
+0 -> 1: combustion chestnut
+end
+@enduml

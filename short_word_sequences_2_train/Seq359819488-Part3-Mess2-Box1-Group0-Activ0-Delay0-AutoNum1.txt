@@ -1,0 +1,10 @@
+@startuml
+participant "intensely wrist" as 0
+box "bustling sultry"
+participant "imprisoned coitus" as 1
+end box
+autonumber 4 5
+0 <-] : summarily outwit
+create participant "canals starving" as 2
+1 -> 2 : canals starving
+@enduml

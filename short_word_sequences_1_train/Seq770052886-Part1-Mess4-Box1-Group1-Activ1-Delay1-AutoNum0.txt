@@ -1,0 +1,14 @@
+@startuml
+box "keeps aspect"
+participant "examiner nineties" as 0
+end box
+== teenagers picked ==
+0 --//o 0: cheaper yearbooks
+0 ->o 0++ : fair financial
+0 -> 0: lymphoma deft
+alt matzah undergraduate
+...airstrip departing...
+0 -\\ 0: rudeness narc
+return natured edema
+end
+@enduml

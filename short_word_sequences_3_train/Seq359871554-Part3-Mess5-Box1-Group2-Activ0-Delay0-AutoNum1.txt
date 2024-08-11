@@ -1,0 +1,19 @@
+@startuml
+box "stowed spits"
+participant "synchronized lonely" as 0
+participant "turtles pumps" as 1
+participant "rattles sector" as 2
+end box
+autonumber 10 2
+1 ->x 1: tranquil goblin
+1 --> 2: idiots jig
+0 <-] : trattoria cowboy
+autonumber stop
+alt thoracotomy tarp
+2 -// 1: marzipan recession
+autonumber resume
+opt yawn taxpayer
+2 ->x 2: rumors aligning
+end
+end
+@enduml

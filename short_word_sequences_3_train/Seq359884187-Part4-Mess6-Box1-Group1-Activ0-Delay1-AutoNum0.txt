@@ -1,0 +1,18 @@
+@startuml
+participant "wimps curriculum" as 0
+participant "percolating attempt" as 1
+box "dulled hansom"
+participant "devil beverage" as 2
+participant "squaring bassoon" as 3
+end box
+== neatness stapled ==
+3 ->> 0: ribs scanned
+2 -->x 1: harshly slick
+opt stake genoa
+...palp executor...
+1 -->x 1: designation mediterranean
+1 -\\ 1: crafty cuckoo
+2 --//o 1: capitalists piece
+2 <-] : paltry tarnished
+end
+@enduml

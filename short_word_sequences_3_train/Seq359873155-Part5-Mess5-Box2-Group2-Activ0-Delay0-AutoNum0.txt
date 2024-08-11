@@ -1,0 +1,21 @@
+@startuml
+participant "bequest nutritionist" as 0
+box "beside windbag"
+participant "dykes dismantled" as 1
+participant "enjoyable thoracotomy" as 2
+end box
+participant "corroborate behooves" as 3
+box "likelihood frigid"
+participant "driftwood vying" as 4
+end box
+2 ->> 2: vein mammals
+0 <-] : smoldering toro
+loop mole harms
+1 -> 2: elicit veins
+alt fraulein discrepancies
+3 ->o 4: contingencies pleasures
+0 ->x 1: reconciliation appeals
+else subbing bodies
+end
+end
+@enduml

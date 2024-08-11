@@ -1,0 +1,17 @@
+@startuml
+participant "furthering thyme" as 0
+participant "git fruitful" as 1
+box "stylist cheats"
+participant "amigo stepmother" as 2
+participant "standing square" as 3
+end box
+3 ->> 1: inhuman vertigo
+...attempting staunch...
+1 <-] : unified worker
+break comics studying
+1 -\\ 0: adjective shortcomings
+par croupier rocky
+2 -\\ 3: salaries color
+end
+end
+@enduml

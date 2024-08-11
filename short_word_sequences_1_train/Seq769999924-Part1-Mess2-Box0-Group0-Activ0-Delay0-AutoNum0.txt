@@ -1,0 +1,5 @@
+@startuml
+participant "largely tempted" as 0
+0 ->x 0: drained swamps
+0 ->] : towed glares
+@enduml

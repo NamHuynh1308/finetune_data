@@ -1,0 +1,25 @@
+@startuml
+participant "introduced cherry" as 0
+box "outside bologna"
+participant "comical timer" as 1
+participant "mirth glimmer" as 2
+end box
+participant "roses rationally" as 3
+participant "utilities potency" as 4
+== reconsidered referendum ==
+autonumber 7 10
+0 -> 4!! : stink kahuna
+...serious mashed...
+3 -// 4++ : attendance listener
+autonumber stop
+2 ->> 1++ : hallucination fairly
+autonumber resume
+2 <-> 2: required accessory
+0 <-] : barrel mod
+loop certification gizmos
+1 -// 1: messenger lukewarm
+2 <-] : heartbreaking ergo
+end
+return landscapes hogwash
+return stressful scrapings
+@enduml

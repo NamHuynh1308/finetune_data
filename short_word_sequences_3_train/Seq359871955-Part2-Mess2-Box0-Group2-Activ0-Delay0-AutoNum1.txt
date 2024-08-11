@@ -1,0 +1,12 @@
+@startuml
+participant "scalp halls" as 0
+participant "hopes sweeping" as 1
+== healthiest carr ==
+autonumber 1 2
+par name armed
+0 <-] : lot anchovies
+alt asset subbing
+ [<- 1: stew vocals
+end
+end
+@enduml

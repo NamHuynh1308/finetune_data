@@ -1,0 +1,11 @@
+@startuml
+participant "tango reflexes" as 0
+participant "jiggling recognize" as 1
+box "noh rounded"
+participant "valor isotopes" as 2
+end box
+0 -> 2!! : airlifted quarterbacks
+2 ->] : ort admiring
+0 --//o 1++ : lasagna coursing
+return chairman darks
+@enduml

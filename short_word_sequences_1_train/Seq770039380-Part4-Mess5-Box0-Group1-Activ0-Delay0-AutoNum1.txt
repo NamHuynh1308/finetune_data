@@ -1,0 +1,16 @@
+@startuml
+participant "attached sunset" as 0
+participant "nance evaluation" as 1
+participant "bouts energy" as 2
+participant "shindig deficit" as 3
+autonumber 6 2
+break paramedics urge
+0 ->> 3: capsized uncles
+1 --> 2: spectators accused
+end
+0 -> 2: reported coattails
+autonumber stop
+ [-> 1: blisters trenches
+autonumber resume
+0 --//o 3: creating internment
+@enduml

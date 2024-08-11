@@ -1,0 +1,12 @@
+@startuml
+participant "remained narcissistic" as 0
+participant "guided brew" as 1
+== layout sulk ==
+autonumber 8 7
+ [-> 0: discus flattering
+loop watchful ratting
+...disbarred reminds...
+0 -> 0: preached dysentery
+0 --> 1: impaled hypothermia
+end
+@enduml

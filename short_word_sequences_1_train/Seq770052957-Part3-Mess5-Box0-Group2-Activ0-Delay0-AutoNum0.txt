@@ -1,0 +1,14 @@
+@startuml
+participant "bank delicates" as 0
+participant "incidents square" as 1
+participant "tooth warsaw" as 2
+loop reducing urn
+2 <-> 2: lunchroom mixing
+2 ->] : misses wonky
+end
+1 -> 2: disassembled parent
+1 -->x 1: drywall servitude
+par leapt extermination
+2 -> 2!! : stamps righty
+end
+@enduml

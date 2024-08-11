@@ -1,0 +1,6 @@
+@startuml
+participant "universities kidnapper" as 0
+par leave spiders
+0 -> 0: chateau barking
+end
+@enduml

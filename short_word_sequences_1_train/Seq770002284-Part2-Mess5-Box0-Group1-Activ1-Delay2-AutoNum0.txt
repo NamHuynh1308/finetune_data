@@ -1,0 +1,14 @@
+@startuml
+participant "downloaded price" as 0
+participant "competitions bongos" as 1
+1 --//o 0: townhouse skiff
+0 -\\ 1: ranges temperatures
+...janitors library...
+0 -// 0: speakeasy speaks
+...pyjamas botulism...
+0 -> 0!! : socket expert
+alt versed underway
+1 -> 0++ : zesty verbatim
+end
+return being eligible
+@enduml

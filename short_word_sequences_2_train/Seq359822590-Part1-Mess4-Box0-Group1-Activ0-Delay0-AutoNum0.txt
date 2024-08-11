@@ -1,0 +1,11 @@
+@startuml
+participant "question nineties" as 0
+== cunning buttercup ==
+0 ->o 0: powders recreate
+ [<- 0: rabbit presiding
+par rude idiosyncrasies
+0 ->] : crewman withheld
+0 <-] : accommodation prosecuting
+else bankers eccentric
+end
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "pork counts" as 0
+autonumber 4 0
+ [-> 0: fog summoning
+@enduml

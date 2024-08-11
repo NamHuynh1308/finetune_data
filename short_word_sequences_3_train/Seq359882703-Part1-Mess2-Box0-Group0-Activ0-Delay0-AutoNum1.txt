@@ -1,0 +1,7 @@
+@startuml
+participant "clerical salvation" as 0
+autonumber 9 3
+0 -// 0: tourist perch
+0 ->> 0: sensation android
+autonumber stop
+@enduml

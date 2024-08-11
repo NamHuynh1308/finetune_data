@@ -1,0 +1,8 @@
+@startuml
+participant "anarchy midst" as 0
+participant "jocks pyromaniac" as 1
+participant "detaining followed" as 2
+1 <-] : getup tough
+1 ->x 2: dissident upstart
+1 -// 0: foraging convenient
+@enduml

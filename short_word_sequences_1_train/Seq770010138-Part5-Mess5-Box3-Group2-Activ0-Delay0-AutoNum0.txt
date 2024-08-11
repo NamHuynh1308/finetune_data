@@ -1,0 +1,23 @@
+@startuml
+participant "doping expelling" as 0
+box "retinas expired"
+participant "pancreatic hardball" as 1
+box "pastry continuance"
+participant "poisonous enter" as 2
+box "lavender traditionally"
+participant "precipice shower" as 3
+end box
+end box
+end box
+2 ->> 0: shouts pike
+break fucker distract
+create participant "fairgrounds supplement" as 4
+3 -> 4 : fairgrounds supplement
+2 ->> 3: softest reinvented
+3 ->o 2: bolder bricks
+else aprons tailored
+alt unholy hickory
+0 --//o 1: scouting required
+end
+end
+@enduml

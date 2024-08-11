@@ -1,0 +1,8 @@
+@startuml
+participant "stretches whistle" as 0
+participant "tactful pinches" as 1
+autonumber 3 3
+0 ->] : brief votes
+1 <-] : feign quintet
+1 -> 1: snore professors
+@enduml

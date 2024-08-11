@@ -1,0 +1,17 @@
+@startuml
+box "feeders departments"
+participant "happens recant" as 0
+box "disloyal willy"
+participant "maintenance wits" as 1
+end box
+end box
+autonumber 2 2
+0 -// 1++ : snowflake natty
+1 -> 1: inflicting fission
+0 -> 0: outlive turret
+autonumber stop
+1 -> 0: goods courtside
+return gown repetitive
+autonumber resume
+1 -> 1!! : donated replacements
+@enduml

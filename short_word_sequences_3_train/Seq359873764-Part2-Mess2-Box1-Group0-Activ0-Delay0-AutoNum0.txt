@@ -1,0 +1,9 @@
+@startuml
+participant "tends spontaneous" as 0
+box "wishing familiar"
+participant "rush supermarkets" as 1
+end box
+== pregnancies semi ==
+1 <-] : crouching quoted
+0 ->] : annulment rails
+@enduml

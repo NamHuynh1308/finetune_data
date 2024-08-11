@@ -1,0 +1,21 @@
+@startuml
+box "hose councillor"
+participant "reminders allee" as 0
+participant "victimless crunched" as 1
+participant "sifting cookies" as 2
+end box
+autonumber 0 9
+1 <-] : benching strange
+0 -> 1++ : countryside makes
+2 -> 2++ : robust hated
+1 ->x 0: ordinance one
+autonumber stop
+loop tanner continues
+0 -// 2: malls crows
+return upheaval adventurer
+0 -> 1: sticker opponents
+autonumber resume
+else kilter concentric
+end
+return tension every
+@enduml

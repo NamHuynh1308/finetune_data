@@ -1,0 +1,8 @@
+@startuml
+participant "rhinestones mama" as 0
+participant "squish mint" as 1
+0 --> 1++ : complained bel
+create participant "concern mash" as 2
+0 -> 2 : concern mash
+return relations complacency
+@enduml

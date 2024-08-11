@@ -1,0 +1,17 @@
+@startuml
+participant "consolidate repairman" as 0
+autonumber 6 0
+create participant "whichever erupt" as 1
+0 -> 1 : whichever erupt
+...veterinary testy...
+0 -> 0!! : yuppies pixies
+...sideburns alcoholism...
+0 ->> 0: rainy runes
+autonumber stop
+0 ->] : spoilsport processing
+autonumber resume
+opt shay septum
+...struggles bloodshed...
+1 ->] : hugest faun
+end
+@enduml

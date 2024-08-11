@@ -1,0 +1,12 @@
+@startuml
+box "clash itinerary"
+participant "stamps inflating" as 0
+end box
+autonumber 2 1
+break sensor hermaphrodite
+0 <-] : prune stranded
+autonumber stop
+0 ->o 0: holds accountability
+autonumber resume
+end
+@enduml

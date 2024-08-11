@@ -1,0 +1,12 @@
+@startuml
+participant "anaphylactic replicate" as 0
+participant "investors auditorium" as 1
+participant "soil streams" as 2
+autonumber 4 8
+1 <-] : pigtails flicking
+break transcends wand
+0 -> 1: canape pecks
+...miscalculated proportion...
+0 -> 1: superiors calibre
+end
+@enduml

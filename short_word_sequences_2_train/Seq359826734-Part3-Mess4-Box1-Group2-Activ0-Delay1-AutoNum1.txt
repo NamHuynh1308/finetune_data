@@ -1,0 +1,19 @@
+@startuml
+box "porcupine carb"
+participant "wave bands" as 0
+participant "communications mittens" as 1
+participant "behaving record" as 2
+end box
+== speech inland ==
+autonumber 10 3
+loop warning denning
+2 -> 2: bungled barbs
+break ordinance improper
+2 -// 0: grizzly subvert
+autonumber stop
+...collective medium...
+ [<- 2: powerful sitting
+2 --//o 0: openness schnauzer
+end
+end
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+participant "lacy cavern" as 0
+participant "winters peeking" as 1
+box "tonsils concurrently"
+participant "cells spoon" as 2
+end box
+opt monthly bluer
+0 -> 2++ : adventure biking
+2 -> 0: painless infiltrated
+return inbred nerdy
+else disappointing latent
+1 ->x 2: charitable psychotic
+...analogy defender...
+1 <-] : enjoyment shadows
+...spacecraft boy...
+1 --//o 2: mite disappears
+else shortness awesome
+0 --> 0: roman debacle
+else disobeyed duck
+end
+@enduml

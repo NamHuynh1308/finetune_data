@@ -1,0 +1,6 @@
+@startuml
+participant "birthplace thirty" as 0
+loop horsepower mistook
+0 -> 0: bedrooms exploded
+end
+@enduml

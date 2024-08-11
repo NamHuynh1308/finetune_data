@@ -1,0 +1,18 @@
+@startuml
+box "wussy boatman"
+participant "chronic scamp" as 0
+box "beating recommended"
+participant "geezers boil" as 1
+box "spectre spotlight"
+participant "tunes whatever" as 2
+participant "shuttle jeweler" as 3
+end box
+end box
+end box
+== orbing letterman ==
+1 -> 1: soprano seeking
+3 <-] : coloring arrogant
+...snarky masters...
+2 <-> 1: absent lifeguard
+1 ->] : lightened shelter
+@enduml

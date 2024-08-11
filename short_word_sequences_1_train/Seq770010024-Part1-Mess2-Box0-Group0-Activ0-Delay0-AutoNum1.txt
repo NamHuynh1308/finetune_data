@@ -1,0 +1,7 @@
+@startuml
+participant "contentment beckons" as 0
+autonumber 9 1
+0 ->] : skipper importing
+autonumber stop
+ [-> 0: irony raiser
+@enduml

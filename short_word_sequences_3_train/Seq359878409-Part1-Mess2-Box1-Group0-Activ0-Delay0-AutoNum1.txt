@@ -1,0 +1,9 @@
+@startuml
+box "subdural touched"
+participant "motherfuckers titles" as 0
+end box
+autonumber 5 9
+0 --//o 0: flags condemned
+ [-> 0: wounds einstein
+autonumber stop
+@enduml

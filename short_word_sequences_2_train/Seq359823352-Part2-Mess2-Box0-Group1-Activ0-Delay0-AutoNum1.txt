@@ -1,0 +1,10 @@
+@startuml
+participant "intimidated marched" as 0
+participant "parody protesting" as 1
+== pamphlet applejack ==
+autonumber 8 5
+0 -> 0!! : associating competitor
+opt lighthearted chips
+1 ->> 0: chemical kitchen
+end
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+box "debut whirl"
+participant "dispenser aging" as 0
+participant "withers sugary" as 1
+participant "dusty lawn" as 2
+box "digestion specter"
+participant "erratically dumps" as 3
+end box
+end box
+== artistic plantation ==
+create participant "candle perpetuating" as 4
+0 -> 4 : candle perpetuating
+...murmur barbers...
+ [-> 3: extricate baseball
+...fasten payment...
+3 -> 4: desperate reaction
+alt triggered jaywalking
+ [<- 3: costs announcing
+end
+@enduml

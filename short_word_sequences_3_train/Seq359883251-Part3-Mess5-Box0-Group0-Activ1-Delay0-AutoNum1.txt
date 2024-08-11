@@ -1,0 +1,14 @@
+@startuml
+participant "digging optimism" as 0
+participant "type moat" as 1
+participant "graffiti receipts" as 2
+autonumber 1 2
+1 ->> 0: indulging angiogram
+0 -\\ 0: brim disinformation
+1 -> 0: beat proofing
+autonumber stop
+1 -> 1!! : structured woops
+autonumber resume
+0 --//o 0++ : pious testosterone
+return artifacts regarded
+@enduml

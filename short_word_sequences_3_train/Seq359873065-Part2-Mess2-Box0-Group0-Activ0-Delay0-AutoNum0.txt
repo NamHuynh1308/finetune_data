@@ -1,0 +1,6 @@
+@startuml
+participant "apples croaker" as 0
+participant "fire plateau" as 1
+0 -> 0!! : holler cachet
+1 -->x 0: dost ironic
+@enduml

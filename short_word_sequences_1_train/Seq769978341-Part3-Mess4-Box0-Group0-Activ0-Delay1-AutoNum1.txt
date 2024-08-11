@@ -1,0 +1,11 @@
+@startuml
+participant "vengeance many" as 0
+participant "bigfoot mastectomy" as 1
+autonumber 7 0
+create participant "apes fives" as 2
+0 -> 2 : apes fives
+2 -> 1: functional bluff
+1 ->] : squash rosebud
+...identified lazy...
+0 -> 2: sucking herding
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+participant "salina components" as 0
+participant "amends nailing" as 1
+participant "your bar" as 2
+== whatnot allegations ==
+autonumber 2 7
+1 <-] : waived midterms
+autonumber stop
+alt tolerance roundabout
+ [-> 0: bleep innuendoes
+autonumber resume
+2 -\\ 1: fatality noted
+...goodman salvage...
+ [-> 2: viking extorting
+autonumber stop
+end
+@enduml

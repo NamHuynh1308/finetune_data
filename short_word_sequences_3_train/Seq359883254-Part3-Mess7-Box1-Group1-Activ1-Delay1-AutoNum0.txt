@@ -1,0 +1,18 @@
+@startuml
+participant "integrity crated" as 0
+participant "passengers steaks" as 1
+box "ooh relation"
+participant "inmate shaven" as 2
+end box
+2 -> 2: warning negotiations
+1 -> 0: paleontologist frost
+2 <-> 0++ : wheeze nub
+...answered engaged...
+ [-> 0: salamander terrorize
+0 -// 2: barges smoother
+return jacket referring
+1 -->x 2: felonious flounder
+par cancers equals
+1 -->x 1: disturbing disapproves
+end
+@enduml

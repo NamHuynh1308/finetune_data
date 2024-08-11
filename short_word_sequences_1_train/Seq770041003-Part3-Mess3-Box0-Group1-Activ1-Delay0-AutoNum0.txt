@@ -1,0 +1,13 @@
+@startuml
+participant "innuendo rape" as 0
+== theoretically geriatrics ==
+break scenes sprain
+create participant "injuries watchful" as 1
+0 -> 1 : injuries watchful
+create participant "nest archer" as 2
+1 -> 2 : nest archer
+else further snarl
+2 --//o 1++ : dollars lube
+end
+return hernia curly
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "regret wake" as 0
+0 -> 0++ : easiest automatic
+ [-> 0: oracles mourn
+return always critically
+@enduml

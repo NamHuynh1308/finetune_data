@@ -1,0 +1,26 @@
+@startuml
+box "boxcar autographs"
+participant "cuddled textile" as 0
+participant "headway feats" as 1
+box "whack cashmere"
+participant "jaguar prohibited" as 2
+end box
+end box
+== figures murders ==
+autonumber 4 1
+ [<- 0: apostrophe unauthorized
+autonumber stop
+1 -> 2++ : excepted mid
+autonumber resume
+par picks trusts
+0 -> 0!! : weathered jumping
+return analyzing undue
+2 -> 0: childlike nutty
+par faint imperial
+...overnight maneuvered...
+2 -> 1!! : bulbous onion
+create participant "zeros scenic" as 3
+1 -> 3 : zeros scenic
+end
+end
+@enduml

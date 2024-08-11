@@ -1,0 +1,24 @@
+@startuml
+box "bike javelin"
+participant "notation comics" as 0
+participant "banana rosy" as 1
+participant "admirable duvet" as 2
+box "saps burgeoning"
+participant "mussels syphon" as 3
+participant "healing observed" as 4
+end box
+end box
+2 -\\ 2++ : burnt scale
+3 ->o 1++ : shingle flail
+alt catheter kayak
+3 -> 1!! : gabby doctor
+4 -> 4: fortnight hateful
+3 -> 1: sawed grail
+return zeta logged
+end
+4 <-] : fives ugly
+return slam smackers
+3 -\\ 2: chat boxcar
+0 -> 1: purchases finished
+1 ->> 4: dag persistence
+@enduml

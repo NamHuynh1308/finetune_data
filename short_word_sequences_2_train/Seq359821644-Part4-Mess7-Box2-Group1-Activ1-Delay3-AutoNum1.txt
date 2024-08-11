@@ -1,0 +1,27 @@
+@startuml
+participant "artwork leather" as 0
+box "sickest filmmakers"
+participant "accursed puppies" as 1
+box "chili fetus"
+participant "cloves shepherd" as 2
+end box
+end box
+autonumber 9 0
+2 ->] : vanishes stunk
+...thanksgiving snacking...
+ [<- 0: duly ashtrays
+...house fairer...
+0 -> 0: violation fighting
+alt cylinders representative
+0 -> 1: exacting shindig
+...heifer sopranos...
+0 -> 0++ : mirrors pens
+else stifling password
+2 <-] : personalities zinfandel
+else completion shatter
+create participant "camcorder dodger" as 3
+0 -> 3 : camcorder dodger
+return garth knock
+else mild sleazebag
+end
+@enduml

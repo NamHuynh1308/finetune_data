@@ -1,0 +1,16 @@
+@startuml
+box "juiced teen"
+participant "antiques triumph" as 0
+participant "strummer madrigal" as 1
+box "circuitry bubbies"
+participant "tycoon diaries" as 2
+end box
+end box
+== huskies synthesis ==
+0 -> 1++ : bunks gobbledygook
+1 --//o 0: unsure athletic
+return journey evolution
+1 -// 2: honeymooning clientele
+0 -\\ 1++ : mat chicken
+return pacifist defective
+@enduml

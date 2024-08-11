@@ -1,0 +1,11 @@
+@startuml
+participant "flinching freaky" as 0
+participant "minor irrigation" as 1
+== readers disintegrate ==
+autonumber 3 10
+1 <-] : bagel rancher
+ [-> 0: charged padded
+autonumber stop
+create participant "sync mascots" as 2
+1 -> 2 : sync mascots
+@enduml

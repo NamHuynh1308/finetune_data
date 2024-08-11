@@ -1,0 +1,16 @@
+@startuml
+participant "blank vine" as 0
+participant "additives chagrined" as 1
+participant "poltergeists purblind" as 2
+participant "refrigerated scenarios" as 3
+participant "multiplex reread" as 4
+autonumber 7 1
+1 ->x 2: sugars philosophers
+...try browns...
+3 --> 2: arches textile
+ [<- 4: hunker frustrated
+3 <-> 3++ : canceling yuk
+ [-> 4: pounder scarcely
+return mighty auk
+autonumber stop
+@enduml

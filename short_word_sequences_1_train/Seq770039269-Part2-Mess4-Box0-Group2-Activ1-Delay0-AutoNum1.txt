@@ -1,0 +1,16 @@
+@startuml
+participant "topics huh" as 0
+participant "satisfy budget" as 1
+autonumber 5 4
+0 -> 1++ : operation mommies
+autonumber stop
+loop eleven certifiable
+1 -// 1: smarty smidgen
+return creep slips
+autonumber resume
+0 -> 0: goodwill jones
+alt operation heartsick
+0 --//o 1: hardware shirtless
+end
+end
+@enduml

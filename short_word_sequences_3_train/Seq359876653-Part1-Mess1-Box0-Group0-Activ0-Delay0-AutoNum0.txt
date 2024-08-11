@@ -1,0 +1,4 @@
+@startuml
+participant "can granddaughter" as 0
+0 <-] : portable dramatic
+@enduml

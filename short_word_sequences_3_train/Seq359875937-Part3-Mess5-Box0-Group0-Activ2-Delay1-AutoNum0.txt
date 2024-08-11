@@ -1,0 +1,13 @@
+@startuml
+participant "snarl gratitude" as 0
+participant "bee ceremony" as 1
+create participant "snowman groomer" as 2
+0 -> 2 : snowman groomer
+1 --> 0++ : deflate reliving
+2 ->x 0: outline gripping
+return calf girls
+2 -> 1++ : flourished informing
+...hoagie alphabet...
+1 ->o 0: toms inflame
+return fussy egomaniacal
+@enduml

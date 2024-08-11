@@ -1,0 +1,32 @@
+@startuml
+participant "accounted emerged" as 0
+participant "fate airlifted" as 1
+box "rankings turk"
+participant "gentlemanly underage" as 2
+participant "opposing tie" as 3
+box "temperamental bubbles"
+participant "horrors bike" as 4
+end box
+end box
+0 -> 4: finishing limits
+0 <-] : cluttering buffet
+1 <-] : diet disagreed
+loop chateau eddy
+0 ->] : mushy mad
+1 -> 0: consultations newly
+else smokey milkman
+opt mundane filmmaking
+2 -\\ 0++ : guarding dumpling
+loop beleaguered fireflies
+ [<- 2: fifths forth
+break trips cured
+ [<- 2: sunny dasher
+...adjusting bayberry...
+3 -// 1++ : nautilus awaiting
+end
+end
+end
+end
+return seat my
+return stab faraway
+@enduml

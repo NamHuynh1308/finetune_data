@@ -1,0 +1,9 @@
+@startuml
+participant "beard cannibals" as 0
+box "licker dusky"
+participant "tote addiction" as 1
+end box
+== switches booked ==
+1 ->> 1: emblem love
+1 -> 0: appendicitis lace
+@enduml

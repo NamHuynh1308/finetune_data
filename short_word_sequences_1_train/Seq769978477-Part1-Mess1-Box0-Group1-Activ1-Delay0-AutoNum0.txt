@@ -1,0 +1,8 @@
+@startuml
+participant "lifeboats simulate" as 0
+== deconstruction tuba ==
+loop certificates sobriety
+0 -> 0++ : sewer comfy
+end
+return inconsiderate nonstop
+@enduml

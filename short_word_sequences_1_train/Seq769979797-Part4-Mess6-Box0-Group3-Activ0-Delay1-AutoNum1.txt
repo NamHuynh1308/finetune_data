@@ -1,0 +1,21 @@
+@startuml
+participant "hurt fielder" as 0
+participant "firepower airplane" as 1
+participant "bumps swift" as 2
+participant "conspire manor" as 3
+autonumber 0 4
+alt angrier chimney
+1 -> 1: wounds surrender
+3 -// 1: blown pothole
+...trashy deplete...
+1 <-] : contacts fainted
+3 ->> 0: sabotage rates
+else crunch remarks
+opt income advancement
+3 --> 0: parting terrify
+par lollipops predecessors
+3 ->] : ovation dome
+end
+end
+end
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "overnights grilled" as 0
+participant "heavy puffy" as 1
+par grouchy silks
+1 ->> 0++ : tuning maker
+ [<- 0: encrusted rawhide
+0 ->o 1: media stranglehold
+end
+return sincerely aqua
+@enduml

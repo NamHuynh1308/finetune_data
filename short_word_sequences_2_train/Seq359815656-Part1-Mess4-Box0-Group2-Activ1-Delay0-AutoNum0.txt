@@ -1,0 +1,13 @@
+@startuml
+participant "wiper induce" as 0
+== task emotion ==
+0 -> 0++ : launcher mangoes
+opt intrigued trimester
+0 -> 0!! : separation camped
+0 ->] : reporting fouled
+alt cookbook echelon
+0 <-> 0: goading sleek
+end
+end
+return monogrammed dilation
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+participant "every renal" as 0
+0 -// 0: goodies attributed
+@enduml

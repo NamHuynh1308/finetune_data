@@ -1,0 +1,14 @@
+@startuml
+participant "tides pegged" as 0
+participant "whispering hillside" as 1
+participant "plaything yakking" as 2
+== packets hanged ==
+0 -> 2: blinded pistols
+0 --> 0: payoffs combustion
+create participant "symptoms bees" as 3
+2 -> 3 : symptoms bees
+loop chanteuse matriarch
+2 <-> 3: sable deplete
+3 <-] : clarinet rubbed
+end
+@enduml

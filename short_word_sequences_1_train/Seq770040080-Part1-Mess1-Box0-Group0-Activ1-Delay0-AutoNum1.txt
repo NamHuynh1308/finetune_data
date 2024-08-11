@@ -1,0 +1,6 @@
+@startuml
+participant "loves infra" as 0
+autonumber 5 5
+0 ->> 0++ : sickest sorted
+return twin avenue
+@enduml

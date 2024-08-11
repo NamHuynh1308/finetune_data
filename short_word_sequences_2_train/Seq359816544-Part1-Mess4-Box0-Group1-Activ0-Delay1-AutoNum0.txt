@@ -1,0 +1,11 @@
+@startuml
+participant "scoured comforts" as 0
+== exploding nuisance ==
+ [-> 0: conspiracies enchantment
+0 -> 0: message spices
+opt scattering ample
+0 -->x 0: culpa dance
+...district disrupted...
+0 -> 0: discriminated ghoul
+end
+@enduml

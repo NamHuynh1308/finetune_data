@@ -1,0 +1,14 @@
+@startuml
+participant "coyote regarded" as 0
+participant "wolves objection" as 1
+== demise shaker ==
+opt error likeness
+0 <-> 1: supermodel minty
+0 <-> 1: whys boiling
+0 -> 0: wanton touch
+else temptations creeds
+0 -\\ 1: deposit sobering
+...cigarettes beanbag...
+0 -> 1: clemency thorpe
+end
+@enduml

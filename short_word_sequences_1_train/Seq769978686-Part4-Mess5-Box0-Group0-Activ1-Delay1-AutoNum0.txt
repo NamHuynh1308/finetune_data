@@ -1,0 +1,14 @@
+@startuml
+participant "aimed supervisor" as 0
+participant "dermatologist promotions" as 1
+participant "savvy roscoe" as 2
+participant "wind aides" as 3
+== shoulder tanks ==
+0 --> 3: hated philosophers
+1 ->> 3: incredible charlatan
+3 -> 2: judgement owning
+...himself kip...
+1 <-] : crashes grandstand
+1 -->x 2++ : groveling rude
+return shylock functions
+@enduml

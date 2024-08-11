@@ -1,0 +1,21 @@
+@startuml
+participant "mariner stately" as 0
+participant "electric handstand" as 1
+participant "swimsuit recognizable" as 2
+participant "blameless wetlands" as 3
+== stemmed theories ==
+alt weasels commies
+0 -> 0++ : diaper enabled
+opt allergy superstition
+1 -// 1: bath snarling
+return sewers overcompensating
+2 ->] : crumb evaporated
+opt marge tear
+...nitrous lecture...
+0 --//o 2++ : follows daydream
+ [<- 1: haircuts petit
+end
+end
+end
+return aside cheat
+@enduml

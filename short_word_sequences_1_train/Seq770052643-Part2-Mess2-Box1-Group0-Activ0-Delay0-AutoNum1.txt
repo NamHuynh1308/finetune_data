@@ -1,0 +1,11 @@
+@startuml
+box "spectacularly shaker"
+participant "arrhythmia luckier" as 0
+participant "catalyst invoice" as 1
+end box
+== concerns gene ==
+autonumber 7 2
+0 -> 1: died relapse
+1 ->> 0: soften crumbled
+autonumber stop
+@enduml

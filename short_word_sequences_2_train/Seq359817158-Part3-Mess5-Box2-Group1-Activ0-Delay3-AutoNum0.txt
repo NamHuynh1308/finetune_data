@@ -1,0 +1,19 @@
+@startuml
+participant "nature aback" as 0
+box "underline speed"
+participant "crowd blues" as 1
+box "realized selling"
+participant "federation majesty" as 2
+end box
+end box
+1 -> 1: dealing housewarming
+1 -> 1: galactic morbid
+...sulking thrower...
+2 -// 2: middies revive
+...cocoa overprotective...
+1 <-] : plummet supervised
+alt misleading but
+...kiddo barfed...
+1 <-> 1: saran duration
+end
+@enduml

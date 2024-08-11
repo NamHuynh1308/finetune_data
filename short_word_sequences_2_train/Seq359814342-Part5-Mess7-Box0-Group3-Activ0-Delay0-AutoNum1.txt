@@ -1,0 +1,23 @@
+@startuml
+participant "bourbon licensed" as 0
+participant "go beautiful" as 1
+participant "proms espresso" as 2
+participant "normalcy nope" as 3
+autonumber 4 5
+critical name undone
+3 -->x 2: instructors humiliating
+create participant "cordless socialize" as 4
+2 -> 4 : cordless socialize
+3 -> 1!! : enamel deaf
+end
+break pig career
+0 ->o 4: sofa visit
+ [-> 1: alienate pharaohs
+ [-> 0: domesticity stomped
+autonumber stop
+loop tools twirl
+0 -> 3: shopper coloured
+autonumber resume
+end
+end
+@enduml

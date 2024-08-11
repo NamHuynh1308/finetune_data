@@ -1,0 +1,4 @@
+@startuml
+participant "debutante violence" as 0
+0 <-> 0: wanderer perpetrated
+@enduml

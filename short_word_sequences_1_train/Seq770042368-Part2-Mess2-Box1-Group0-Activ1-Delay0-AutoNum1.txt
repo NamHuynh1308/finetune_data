@@ -1,0 +1,10 @@
+@startuml
+participant "vests titanium" as 0
+box "yawn admits"
+participant "jiffy brent" as 1
+end box
+autonumber 0 1
+1 -> 1++ : revolting nylons
+1 ->> 1: deducted spunk
+return leader keys
+@enduml

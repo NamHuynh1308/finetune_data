@@ -1,0 +1,33 @@
+@startuml
+participant "brings thataway" as 0
+participant "yams nepotism" as 1
+box "tiles moneymaker"
+participant "preamble pied" as 2
+participant "ruder bach" as 3
+end box
+participant "boogey fallout" as 4
+== destinations seas ==
+critical outdoor outcast
+4 -->x 1: runes indoors
+create participant "sassy stilettos" as 5
+3 -> 5 : sassy stilettos
+else thirty yipe
+2 --//o 3++ : bridesmaid sweepstakes
+create participant "reporter resumed" as 6
+0 -> 6 : reporter resumed
+alt jug nah
+ [<- 3: nonsense organizations
+return safer negotiations
+...greatness precautions...
+4 -->x 2: sequined umbrella
+...kindly laws...
+3 -> 6: invigorating popularity
+break bonkers repent
+5 -// 3: jaunt stalemate
+create participant "fullest original" as 7
+5 -> 7 : fullest original
+else fuse baroque
+end
+end
+end
+@enduml

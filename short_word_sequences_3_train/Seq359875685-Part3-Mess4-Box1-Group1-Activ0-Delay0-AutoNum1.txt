@@ -1,0 +1,15 @@
+@startuml
+participant "sally blown" as 0
+box "cremation rewrite"
+participant "breezing icons" as 1
+end box
+autonumber 3 1
+1 -> 0: reflecting shortage
+create participant "rehashing accompanying" as 2
+0 -> 2 : rehashing accompanying
+autonumber stop
+par henry rooting
+0 -> 0: thriving monsoon
+0 -> 0: referendum undetectable
+end
+@enduml

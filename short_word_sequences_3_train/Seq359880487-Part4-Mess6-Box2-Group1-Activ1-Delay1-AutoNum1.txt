@@ -1,0 +1,26 @@
+@startuml
+participant "cheers backpacks" as 0
+box "pals experiencing"
+participant "tonsils info" as 1
+box "mending drools"
+participant "intimately chocolatey" as 2
+participant "mops fracture" as 3
+end box
+end box
+== dahl potion ==
+autonumber 1 1
+opt exploitation takers
+1 -> 0: drummed raiser
+autonumber stop
+3 ->o 3: salaries geographic
+else analogy anti
+2 <-> 0: straining scoop
+2 -> 1: impart hauled
+else curl policemen
+0 -> 0++ : pied endangerment
+else stay comedies
+...mirth tickets...
+1 -\\ 3: covers sizable
+return depended cakewalk
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "airspace mu" as 0
+box "earring unscheduled"
+participant "shattered prematurely" as 1
+participant "trite rapes" as 2
+end box
+loop motorcycles iceberg
+2 -> 2: memorizing awhile
+2 -> 1: rejoice blithering
+2 --//o 0++ : lapsed scabby
+2 ->x 1: shrinking selection
+return shoo geezers
+end
+@enduml

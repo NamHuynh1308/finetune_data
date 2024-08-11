@@ -1,0 +1,9 @@
+@startuml
+participant "bending testosterone" as 0
+participant "bowls comply" as 1
+alt noel entrances
+0 <-> 0: cribs schmuck
+0 ->x 1++ : mod circular
+end
+return work eyeful
+@enduml

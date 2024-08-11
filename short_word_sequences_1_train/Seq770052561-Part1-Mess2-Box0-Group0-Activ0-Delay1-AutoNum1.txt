@@ -1,0 +1,9 @@
+@startuml
+participant "symbols begat" as 0
+autonumber 3 2
+0 ->] : lineage hast
+autonumber stop
+...outspoken fair...
+0 --//o 0: bond simultaneously
+autonumber resume
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+box "thanking psychotics"
+participant "cropped tomatoes" as 0
+participant "cigar courts" as 1
+end box
+autonumber 10 10
+0 -> 1: pirates gallows
+1 ->x 1++ : superhero auspicious
+return century procrastination
+@enduml

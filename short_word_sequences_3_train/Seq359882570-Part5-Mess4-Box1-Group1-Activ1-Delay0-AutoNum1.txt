@@ -1,0 +1,18 @@
+@startuml
+participant "matched tipping" as 0
+box "siphoning lifeless"
+participant "takin shifter" as 1
+participant "sprouted digits" as 2
+participant "paging decompose" as 3
+end box
+autonumber 10 7
+3 -> 0++ : sprightly supermarkets
+create participant "calculating rudeness" as 4
+1 -> 4 : calculating rudeness
+1 -->x 3: nightgown derail
+critical adapting hurtful
+4 -->x 3: registrar skip
+autonumber stop
+end
+return bracket swing
+@enduml

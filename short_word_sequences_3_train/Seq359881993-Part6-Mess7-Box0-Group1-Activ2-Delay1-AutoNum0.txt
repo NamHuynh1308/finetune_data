@@ -1,0 +1,24 @@
+@startuml
+participant "beryllium inconspicuous" as 0
+participant "hums academia" as 1
+participant "violinist handicapped" as 2
+participant "nirvana afterward" as 3
+participant "stag arrival" as 4
+== quartet rooted ==
+opt freezers uncaring
+ [-> 4: ex compensate
+1 -// 0++ : cane hangnail
+2 -->x 0++ : infrastructure intentionally
+0 -// 4: cakewalk percent
+return cloned rosebud
+else inconsiderate cabbage
+4 -->x 0: stingy inspire
+...news deadlier...
+1 --//o 3: delivering manufactured
+else singleton clanking
+create participant "songwriter dinero" as 5
+4 -> 5 : songwriter dinero
+else oxford sanitation
+end
+return suspicions imported
+@enduml

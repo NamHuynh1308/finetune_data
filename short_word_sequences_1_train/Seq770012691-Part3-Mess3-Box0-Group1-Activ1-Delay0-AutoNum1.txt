@@ -1,0 +1,12 @@
+@startuml
+participant "seem spiel" as 0
+participant "consulted lubricant" as 1
+autonumber 9 0
+0 --//o 1++ : ess calculating
+create participant "producing oaf" as 2
+0 -> 2 : producing oaf
+return wonders undertow
+break recipient realms
+2 -->x 0: mate elevator
+end
+@enduml

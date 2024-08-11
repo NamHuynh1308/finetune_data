@@ -1,0 +1,16 @@
+@startuml
+participant "programs mascots" as 0
+participant "reclining gulch" as 1
+autonumber 1 7
+1 ->> 1++ : mocks beefy
+1 --> 1++ : sunrise quid
+...imply libraries...
+1 -\\ 1++ : spreading drywall
+autonumber stop
+critical angels mohair
+1 ->] : decontamination tinfoil
+end
+return happier list
+return armored prodded
+return via moonlight
+@enduml

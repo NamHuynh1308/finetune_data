@@ -1,0 +1,6 @@
+@startuml
+box "opinionated parade"
+participant "gallivanting shanghaied" as 0
+end box
+0 ->] : confederate notions
+@enduml

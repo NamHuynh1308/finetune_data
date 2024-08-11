@@ -1,0 +1,8 @@
+@startuml
+participant "track reflecting" as 0
+participant "intermission reactors" as 1
+autonumber 9 5
+0 -> 0!! : champ timing
+...rescues hornets...
+0 ->> 0: photo drumsticks
+@enduml

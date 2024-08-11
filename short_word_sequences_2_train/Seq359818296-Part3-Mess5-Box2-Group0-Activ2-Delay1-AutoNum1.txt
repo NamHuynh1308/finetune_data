@@ -1,0 +1,21 @@
+@startuml
+participant "bluebells gourmet" as 0
+box "amaretto fronting"
+participant "oaths leadership" as 1
+box "cloud jog"
+participant "gob frugal" as 2
+end box
+end box
+== elections chipper ==
+autonumber 2 6
+1 ->> 1++ : punt benches
+autonumber stop
+...obits quits...
+0 -\\ 0: retreat poll
+return unlike oils
+autonumber resume
+2 ->o 1: hedges turmoil
+0 -> 2: reggae fellow
+2 -> 1++ : disappear ruth
+return carmine happiness
+@enduml

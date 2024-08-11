@@ -1,0 +1,9 @@
+@startuml
+box "compliant dealership"
+participant "lack icebergs" as 0
+participant "screws gardens" as 1
+end box
+autonumber 6 3
+ [-> 0: fainted copilot
+1 ->x 0: case postponed
+@enduml

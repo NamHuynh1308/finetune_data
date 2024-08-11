@@ -1,0 +1,8 @@
+@startuml
+participant "heartless emptied" as 0
+== granger account ==
+opt squad together
+0 ->> 0: wheat desist
+0 --> 0: crosses dicky
+end
+@enduml

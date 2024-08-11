@@ -1,0 +1,18 @@
+@startuml
+participant "haywire intention" as 0
+== misunderstood hurricanes ==
+loop membranes spindly
+create participant "shopkeeper radiant" as 1
+0 -> 1 : shopkeeper radiant
+...carriages myths...
+0 <-] : foxhole moves
+par unimpressed unseen
+1 -\\ 0: gazelle wynn
+...limp actively...
+ [<- 1: information usual
+end
+...undead hibernating...
+0 ->x 0: prior euphoric
+else poaching dressy
+end
+@enduml

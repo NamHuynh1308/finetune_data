@@ -1,0 +1,16 @@
+@startuml
+participant "harriers unconcerned" as 0
+participant "aisles crush" as 1
+participant "snatches grams" as 2
+participant "nutrition rots" as 3
+0 -> 0: witch sledding
+0 ->o 0: joes sincerity
+critical distract commemorating
+...coldness held...
+3 -->x 0: lentils transaction
+3 -> 2: lovelorn acrobat
+...hacking pavement...
+ [<- 3: orbit strung
+end
+3 -> 1: wrongfully vengeful
+@enduml

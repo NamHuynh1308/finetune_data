@@ -1,0 +1,21 @@
+@startuml
+box "port saddened"
+participant "swill stipulation" as 0
+participant "fabled pis" as 1
+participant "marble palaces" as 2
+end box
+1 -->x 2: limp weaning
+2 -->x 1: suss dobbin
+break foxes gainfully
+...performers fawning...
+1 <-> 0: cooper museum
+2 <-] : dull collaborating
+end
+break clamp barely
+create participant "disclosure crack" as 3
+0 -> 3 : disclosure crack
+...excitement plunder...
+3 -> 0++ : tomorrows flicks
+end
+return interference decanter
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "full basket" as 0
+participant "command ultrasound" as 1
+autonumber 7 9
+0 -\\ 1: diving iguanas
+autonumber stop
+ [-> 0: paternal guts
+autonumber resume
+critical sprinkler booties
+ [-> 1: exclusive squash
+end
+@enduml

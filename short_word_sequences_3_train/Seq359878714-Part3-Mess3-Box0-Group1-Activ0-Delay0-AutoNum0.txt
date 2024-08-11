@@ -1,0 +1,10 @@
+@startuml
+participant "childlike straightforward" as 0
+participant "cleanliness groomsmen" as 1
+participant "including eyelashes" as 2
+1 ->> 1: encrusted keyhole
+par pooh test
+1 -> 1!! : feta uncommon
+0 -> 0: colours extra
+end
+@enduml

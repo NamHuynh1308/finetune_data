@@ -1,0 +1,15 @@
+@startuml
+box "active wartime"
+participant "norm scotia" as 0
+participant "platelets bigot" as 1
+end box
+box "promenade deluxe"
+participant "most regroup" as 2
+end box
+== muchacho misdeeds ==
+2 ->] : electrolytes arboretum
+ [-> 2: fallback collar
+0 --//o 2++ : pa weirder
+ [<- 0: ones venting
+return rowdy appliances
+@enduml

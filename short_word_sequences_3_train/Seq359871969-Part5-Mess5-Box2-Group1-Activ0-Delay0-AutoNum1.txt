@@ -1,0 +1,21 @@
+@startuml
+box "arsenal detail"
+participant "malevolent shipyard" as 0
+participant "newsstands heist" as 1
+end box
+participant "coyotes disgraced" as 2
+box "dock shunt"
+participant "butler developing" as 3
+participant "crasher cardigan" as 4
+end box
+autonumber 7 4
+ [-> 1: thighs mimic
+0 <-] : auspicious incompetence
+ [-> 1: goldenrod runes
+autonumber stop
+break unspeakably surfer
+0 ->o 4: returning bearable
+autonumber resume
+0 ->> 4: stole pocketed
+end
+@enduml

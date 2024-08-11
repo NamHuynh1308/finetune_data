@@ -1,0 +1,10 @@
+@startuml
+box "injector slinky"
+participant "tibia southeast" as 0
+end box
+autonumber 9 3
+0 -// 0: yolk assuming
+autonumber stop
+0 -> 0: busload disobey
+autonumber resume
+@enduml

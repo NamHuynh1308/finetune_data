@@ -1,0 +1,22 @@
+@startuml
+participant "soiree automotive" as 0
+participant "kittens symbolize" as 1
+participant "nevertheless clover" as 2
+ [-> 1: sierra writes
+1 -> 2++ : injury incase
+alt sparky melt
+1 -> 2++ : colds challenged
+2 -> 0: untraceable majesty
+else slimming seasonal
+2 -> 0++ : scariest hostility
+...babes pharaoh...
+1 ->x 1: slaughter fat
+else romper biographical
+par appointments invasive
+0 -> 0: leaders deplore
+end
+end
+return supply sly
+return snout maze
+return lightheaded mission
+@enduml

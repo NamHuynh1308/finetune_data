@@ -1,0 +1,11 @@
+@startuml
+participant "howe assignment" as 0
+participant "lineup fourteen" as 1
+opt babysitters storybook
+0 -> 0: below unnecessary
+0 -// 1: visualize teal
+0 --> 1: languages unwise
+else overnight bicker
+1 --> 0: wishes murders
+end
+@enduml

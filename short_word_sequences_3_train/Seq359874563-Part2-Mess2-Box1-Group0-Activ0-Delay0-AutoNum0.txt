@@ -1,0 +1,8 @@
+@startuml
+box "provoking digits"
+participant "rifle cherub" as 0
+end box
+create participant "importer flirtatious" as 1
+0 -> 1 : importer flirtatious
+1 ->o 1: happily exercise
+@enduml

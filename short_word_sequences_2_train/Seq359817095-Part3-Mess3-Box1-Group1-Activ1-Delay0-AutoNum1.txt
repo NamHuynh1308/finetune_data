@@ -1,0 +1,14 @@
+@startuml
+participant "whiskey parishioners" as 0
+participant "corruption alarms" as 1
+box "tricks confetti"
+participant "flunking damnable" as 2
+end box
+autonumber 6 5
+1 <-> 2: untoward divers
+loop acting tux
+1 -// 2++ : forfeited overreact
+ [-> 1: flavors surly
+end
+return airports postmaster
+@enduml

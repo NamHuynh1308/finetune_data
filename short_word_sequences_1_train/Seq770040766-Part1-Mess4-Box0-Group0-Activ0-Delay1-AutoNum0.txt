@@ -1,0 +1,8 @@
+@startuml
+participant "roulette kidney" as 0
+0 --//o 0: felt upstairs
+0 ->x 0: whilst artwork
+...medevac orderlies...
+0 --> 0: regimes boiled
+0 ->> 0: harps clamped
+@enduml

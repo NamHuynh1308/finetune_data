@@ -1,0 +1,6 @@
+@startuml
+participant "ticking markers" as 0
+autonumber 1 6
+0 ->] : allies prophylactic
+autonumber stop
+@enduml

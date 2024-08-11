@@ -1,0 +1,7 @@
+@startuml
+participant "pelt talcum" as 0
+== decorations brat ==
+autonumber 5 7
+create participant "discrepancy combative" as 1
+0 -> 1 : discrepancy combative
+@enduml

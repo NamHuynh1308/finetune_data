@@ -1,0 +1,13 @@
+@startuml
+box "watching wick"
+participant "tomorrows doused" as 0
+end box
+autonumber 3 7
+break banal inflame
+0 <-> 0: descriptive fella
+autonumber stop
+ [-> 0: deal increasing
+create participant "guiding windows" as 1
+0 -> 1 : guiding windows
+end
+@enduml

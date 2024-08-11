@@ -1,0 +1,13 @@
+@startuml
+participant "icebergs decides" as 0
+box "auditory fellows"
+participant "technologies topside" as 1
+end box
+== spies chainsaws ==
+1 ->] : fresher signor
+break coding contusion
+0 -> 0: buildings earnest
+1 ->x 1++ : ledge sidekick
+end
+return pierced macaroni
+@enduml

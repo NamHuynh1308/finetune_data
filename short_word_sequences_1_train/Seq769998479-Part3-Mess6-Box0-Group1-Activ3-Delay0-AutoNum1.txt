@@ -1,0 +1,21 @@
+@startuml
+participant "eng feedback" as 0
+participant "sales veins" as 1
+participant "erase apartheid" as 2
+autonumber 7 10
+ [-> 0: vegetable periphery
+2 -\\ 0: embarked diving
+autonumber stop
+alt rotted confession
+2 -// 0++ : celery businessmen
+1 -->x 2++ : mist knocks
+autonumber resume
+0 ->x 1: proofed symbols
+return file clerk
+autonumber stop
+2 -> 2++ : essays nightcap
+autonumber resume
+end
+return hubbub suggestions
+return rednecks insects
+@enduml

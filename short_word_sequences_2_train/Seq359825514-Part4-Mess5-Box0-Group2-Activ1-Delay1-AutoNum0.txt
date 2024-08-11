@@ -1,0 +1,18 @@
+@startuml
+participant "diners britches" as 0
+participant "passive reserves" as 1
+participant "tries distance" as 2
+== added diagnoses ==
+0 --//o 1++ : frequencies buries
+critical tach tries
+1 ->o 0: polished lights
+return downstream reggae
+break depends cowgirl
+create participant "vigilance decisions" as 3
+0 -> 3 : vigilance decisions
+...flattened intention...
+2 ->o 2: discrete makers
+3 -> 0: began gluttony
+end
+end
+@enduml

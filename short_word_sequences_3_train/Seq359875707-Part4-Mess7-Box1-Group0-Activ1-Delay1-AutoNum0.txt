@@ -1,0 +1,17 @@
+@startuml
+participant "stripping huh" as 0
+box "offices lowers"
+participant "waiting contributions" as 1
+participant "jo royal" as 2
+end box
+create participant "indulgence slumlord" as 3
+2 -> 3 : indulgence slumlord
+...memento passkey...
+1 -> 1: backpacks progeny
+2 ->x 0: brews detonators
+2 ->o 2++ : invaders poofy
+0 <-] : delving trench
+3 <-] : seconded printer
+1 -->x 2: massaged consider
+return recruit trot
+@enduml

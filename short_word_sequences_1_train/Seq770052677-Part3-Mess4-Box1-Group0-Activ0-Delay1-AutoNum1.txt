@@ -1,0 +1,14 @@
+@startuml
+box "hallucinate thou"
+participant "answer darlings" as 0
+participant "cards evasions" as 1
+participant "aerobics indigestion" as 2
+end box
+autonumber 5 7
+0 -> 2: nose bailed
+1 --//o 1: jazzed stricken
+0 -> 0: bones sit
+...repressed ancient...
+ [-> 0: conquering nominated
+autonumber stop
+@enduml

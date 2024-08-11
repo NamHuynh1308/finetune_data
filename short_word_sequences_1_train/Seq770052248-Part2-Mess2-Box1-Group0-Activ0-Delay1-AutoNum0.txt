@@ -1,0 +1,9 @@
+@startuml
+box "assistant eating"
+participant "eyewitnesses baptists" as 0
+participant "inquiries discs" as 1
+end box
+1 -// 1: tiller forceps
+...minus winking...
+1 ->o 0: knelt riverside
+@enduml

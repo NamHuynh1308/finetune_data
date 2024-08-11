@@ -1,0 +1,15 @@
+@startuml
+participant "urchin oncology" as 0
+participant "prowl read" as 1
+== bulletproof drywall ==
+create participant "anorexia illegals" as 2
+0 -> 2 : anorexia illegals
+0 -> 1: edged schizo
+1 -> 1: crocket coupe
+loop clue beefs
+create participant "hoof arts" as 3
+0 -> 3 : hoof arts
+3 <-> 2: dwarf psychically
+end
+3 --//o 3: diagnosed tepid
+@enduml

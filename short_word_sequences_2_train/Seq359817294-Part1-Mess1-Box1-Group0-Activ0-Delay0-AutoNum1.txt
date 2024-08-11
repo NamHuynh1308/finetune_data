@@ -1,0 +1,8 @@
+@startuml
+box "inefficient woodpecker"
+participant "dingo upstart" as 0
+end box
+autonumber 6 5
+0 ->x 0: prone shared
+autonumber stop
+@enduml

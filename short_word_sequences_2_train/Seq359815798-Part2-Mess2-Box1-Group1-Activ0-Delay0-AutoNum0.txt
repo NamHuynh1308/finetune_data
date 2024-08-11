@@ -1,0 +1,11 @@
+@startuml
+box "accommodate reeve"
+participant "deafening pulls" as 0
+participant "bronco insipid" as 1
+end box
+== deadlier briefed ==
+1 -> 0: marines conspiracies
+opt developer membrane
+ [-> 1: poring peep
+end
+@enduml

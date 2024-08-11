@@ -1,0 +1,19 @@
+@startuml
+box "packed melt"
+participant "bite pots" as 0
+participant "feathering earn" as 1
+end box
+box "mead holland"
+participant "extremes platelets" as 2
+end box
+create participant "framers windward" as 3
+2 -> 3 : framers windward
+1 <-> 1: simplicity jagger
+par plaintiffs veronica
+2 --//o 2: halothane liquid
+break alters deeds
+3 -> 1: dummy grisly
+1 -> 1: revolutionaries sunflowers
+end
+end
+@enduml

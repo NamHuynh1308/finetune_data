@@ -1,0 +1,24 @@
+@startuml
+box "immersion flighty"
+participant "crammed localized" as 0
+box "meanwhile greaseball"
+participant "someplace fumble" as 1
+participant "whistle survival" as 2
+participant "badgering wonder" as 3
+end box
+end box
+== torching purging ==
+autonumber 2 1
+0 ->x 3: sore recovering
+2 --> 2: risking slayed
+...traveller acknowledge...
+3 <-> 3++ : credentials gruesome
+autonumber stop
+2 -->x 0: shamrock whee
+2 -> 2: contenders disco
+autonumber resume
+1 ->> 3: sole citywide
+return zebras down
+2 ->> 2: locating infarction
+autonumber stop
+@enduml

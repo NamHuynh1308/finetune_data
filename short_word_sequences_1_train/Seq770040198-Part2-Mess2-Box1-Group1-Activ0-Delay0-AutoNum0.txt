@@ -1,0 +1,11 @@
+@startuml
+box "experiences casting"
+participant "ignores hobbit" as 0
+participant "sue dissected" as 1
+end box
+== railing trials ==
+0 ->] : hover godson
+par lifted sexist
+0 -\\ 0: emptying repeating
+end
+@enduml

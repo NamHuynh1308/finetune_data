@@ -1,0 +1,10 @@
+@startuml
+participant "consolidated birthplace" as 0
+participant "collectively accusations" as 1
+== gather prose ==
+0 ->> 0: satyr contributions
+0 --> 1++ : crept timeless
+1 -> 1++ : embezzlement caged
+return touching elapsed
+return telescope scurvy
+@enduml

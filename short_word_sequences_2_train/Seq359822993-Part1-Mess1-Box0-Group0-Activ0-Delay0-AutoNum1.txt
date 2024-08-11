@@ -1,0 +1,6 @@
+@startuml
+participant "remembered melon" as 0
+== secured rooting ==
+autonumber 3 0
+ [<- 0: accelerating caskets
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+box "eighties rampage"
+participant "conn cater" as 0
+end box
+0 -> 0: kingdom cuffed
+@enduml

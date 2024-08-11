@@ -1,0 +1,17 @@
+@startuml
+box "guide ducking"
+participant "vault cozy" as 0
+participant "lunacy sprouts" as 1
+end box
+alt least adds
+0 ->o 1++ : prostate mediator
+ [-> 1: guava agonized
+return philosophers boosts
+loop quadrant interchangeable
+1 -> 0: knockout tombs
+1 --//o 1: safes bigger
+else shaggy divide
+ [-> 0: gearing replenish
+end
+end
+@enduml

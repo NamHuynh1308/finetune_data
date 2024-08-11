@@ -1,0 +1,12 @@
+@startuml
+participant "felicity polished" as 0
+participant "aunts tiresome" as 1
+loop inhumane boldly
+create participant "tremble seek" as 2
+1 -> 2 : tremble seek
+par dignity crate
+...superpowers bygones...
+1 -> 0: lodge fifth
+end
+end
+@enduml

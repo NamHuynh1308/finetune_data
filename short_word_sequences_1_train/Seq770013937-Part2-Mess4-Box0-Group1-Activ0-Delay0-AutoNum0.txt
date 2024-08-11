@@ -1,0 +1,12 @@
+@startuml
+participant "monthly moaning" as 0
+participant "feasting blindly" as 1
+== derelict hovel ==
+0 ->o 0: merry pickled
+loop imagined importantly
+1 ->] : soda falls
+1 <-> 1: alumni rouge
+else honeysuckle necromancer
+ [<- 1: yes stolen
+end
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "regroup overpass" as 0
+box "paramedic floor"
+participant "crackers relocation" as 1
+participant "commander orders" as 2
+end box
+== steal bicker ==
+2 ->x 1: pleasuring slop
+0 --//o 0: anything fanciful
+par swords undiscovered
+...pope occasionally...
+0 -> 2: motion rap
+ [<- 0: bagged moves
+end
+0 -> 0!! : hitchhiker males
+@enduml

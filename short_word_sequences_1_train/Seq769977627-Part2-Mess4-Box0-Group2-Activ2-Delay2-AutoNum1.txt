@@ -1,0 +1,18 @@
+@startuml
+participant "trailing hm" as 0
+participant "brokerage greased" as 1
+autonumber 0 10
+loop lack hinting
+0 -> 1++ : rooming siblings
+1 -> 1++ : rangers bought
+alt groggy penetration
+...disappearance gears...
+1 -\\ 0: insuring bullshit
+return dose cutest
+...minimalist saber...
+0 ->> 1: checkpoints loca
+return greasy incision
+else windy fatigues
+end
+end
+@enduml

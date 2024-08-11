@@ -1,0 +1,15 @@
+@startuml
+participant "tissue councillor" as 0
+participant "sensor haircut" as 1
+1 -->x 1: melts hug
+0 -\\ 0: afterwards putting
+critical gorgeous rawhide
+0 -> 0: sobering vacuum
+create participant "abrupt formaldehyde" as 2
+1 -> 2 : abrupt formaldehyde
+critical stressing dotted
+0 -> 2: loathes ran
+1 <-> 1: keel valentines
+end
+end
+@enduml

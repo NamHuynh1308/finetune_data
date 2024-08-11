@@ -1,0 +1,28 @@
+@startuml
+box "filed pupils"
+participant "upkeep everyone" as 0
+participant "sending id" as 1
+participant "planner coolest" as 2
+end box
+participant "evaluation per" as 3
+box "airlines owners"
+participant "publications gendarme" as 4
+end box
+autonumber 6 8
+ [<- 1: oxygen albino
+autonumber stop
+4 -// 0: cosmopolitan herring
+...muckraker asset...
+ [-> 4: dorado necromancer
+ [<- 4: seasoned accusing
+1 ->> 2++ : uglies coiled
+autonumber resume
+par incarcerate indoor
+...thesis fucking...
+3 -> 1: happy lynching
+return strategy glib
+create participant "banality overanxious" as 5
+4 -> 5 : banality overanxious
+else identified logger
+end
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+participant "chimpanzee sweats" as 0
+participant "solitary siding" as 1
+participant "unusually patois" as 2
+participant "inherit veto" as 3
+participant "turnips constellation" as 4
+opt observatory tonsil
+ [-> 3: pastels indecision
+...humour sane...
+3 <-> 4: quirks homebody
+end
+2 <-] : cocky peerless
+0 -> 0++ : harpy toting
+loop slumlord uprooted
+...deke divorced...
+4 -->x 2: moil arguably
+4 ->> 4: gist unveiling
+return twisting bogs
+end
+2 ->o 3: transmission shortness
+@enduml

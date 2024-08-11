@@ -1,0 +1,10 @@
+@startuml
+box "near baffling"
+participant "cerebrum chrome" as 0
+participant "index walled" as 1
+end box
+1 <-> 0: huge drum
+...open slope...
+1 -> 0++ : convenient burgers
+return species prickly
+@enduml

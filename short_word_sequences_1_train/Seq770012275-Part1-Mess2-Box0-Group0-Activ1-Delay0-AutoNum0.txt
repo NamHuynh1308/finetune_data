@@ -1,0 +1,7 @@
+@startuml
+participant "embarrass databases" as 0
+== opium wag ==
+0 ->o 0: plumbers sting
+0 -> 0++ : account unhook
+return errands assorted
+@enduml

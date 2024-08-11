@@ -1,0 +1,13 @@
+@startuml
+participant "odyssey shove" as 0
+box "profound widower"
+participant "nicks dinosaur" as 1
+end box
+opt landmark raspberry
+create participant "trifling congratulations" as 2
+1 -> 2 : trifling congratulations
+2 -> 2!! : dit tuck
+0 -> 1++ : local drunk
+end
+return shattered wade
+@enduml

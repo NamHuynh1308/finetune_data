@@ -1,0 +1,15 @@
+@startuml
+participant "lordship zap" as 0
+participant "zeppelin reveling" as 1
+participant "fitch turner" as 2
+participant "loofah finalists" as 3
+autonumber 1 7
+3 -// 2: inevitable internally
+0 ->x 3: gee formally
+autonumber stop
+...examining vanishing...
+ [-> 3: binds brewery
+1 --//o 3: legality navigating
+3 -> 3: colds everyone
+autonumber resume
+@enduml

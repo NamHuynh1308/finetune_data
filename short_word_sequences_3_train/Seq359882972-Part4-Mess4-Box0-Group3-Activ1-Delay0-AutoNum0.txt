@@ -1,0 +1,19 @@
+@startuml
+participant "stormy intercom" as 0
+participant "evidence scarecrow" as 1
+participant "hearty levelheaded" as 2
+participant "purged revoke" as 3
+== exile convene ==
+alt ants twentieth
+2 <-> 2: cedar incompatible
+loop beans misconceptions
+3 -->x 3++ : molested element
+0 ->] : reopening crevasse
+return risotto comprehensive
+else debriefed indefinitely
+par lent scarred
+0 <-> 0: omitted macaroons
+end
+end
+end
+@enduml

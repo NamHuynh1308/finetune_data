@@ -1,0 +1,15 @@
+@startuml
+participant "wife inkling" as 0
+participant "waves jaguars" as 1
+participant "whimsical laker" as 2
+box "violations picker"
+participant "addressed conceited" as 3
+end box
+ [<- 2: solitaire gratifying
+loop buzzed muses
+1 -> 3: meatloaf vendetta
+...sue testing...
+0 --> 2: implausible cob
+3 <-] : graphite domicile
+end
+@enduml

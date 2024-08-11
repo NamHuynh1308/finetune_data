@@ -1,0 +1,13 @@
+@startuml
+participant "candlesticks policies" as 0
+participant "infrared ooh" as 1
+participant "chaperoned samurai" as 2
+== idiotic quahog ==
+autonumber 7 10
+create participant "dissing insecurity" as 3
+2 -> 3 : dissing insecurity
+3 -> 1!! : ruled joiner
+3 -> 1: pod turnips
+ [-> 2: connected plaster
+autonumber stop
+@enduml

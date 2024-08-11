@@ -1,0 +1,17 @@
+@startuml
+box "putting youth"
+participant "drastic ups" as 0
+participant "difficulties concord" as 1
+end box
+box "hypocrite cuticle"
+participant "painting scrooge" as 2
+end box
+ [<- 0: communique bigamy
+1 -> 1++ : magnet molto
+opt status ganging
+2 ->> 0: transgressions bigot
+1 ->x 0: crosses scolded
+2 --> 1: guarantee region
+return argon oops
+end
+@enduml

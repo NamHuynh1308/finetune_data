@@ -1,0 +1,12 @@
+@startuml
+participant "synergy kissed" as 0
+== clubs serving ==
+autonumber 4 5
+ [<- 0: lowlife balloon
+0 -\\ 0: infection inspector
+autonumber stop
+alt ouch incarnation
+0 -\\ 0: disobedience shared
+autonumber resume
+end
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+participant "snowball recriminations" as 0
+participant "shrubs lovelies" as 1
+box "patent corrective"
+participant "operation regimen" as 2
+box "hillcrest errand"
+participant "kitty untangle" as 3
+end box
+end box
+autonumber 10 6
+3 -->x 1: aesthetics goblin
+autonumber stop
+...mutton ram...
+2 ->x 3: gladstone patching
+autonumber resume
+1 ->x 0: amigos kissable
+autonumber stop
+alt spaceship carcass
+...actor landmarks...
+1 -->x 3++ : incorrigible host
+autonumber resume
+1 <-] : knit smithers
+return kane sleeping
+3 ->] : jailed masses
+autonumber stop
+end
+@enduml

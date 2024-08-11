@@ -1,0 +1,17 @@
+@startuml
+participant "lair summertime" as 0
+participant "tried judging" as 1
+autonumber 9 3
+1 --> 0++ : impotent crepe
+autonumber stop
+opt processing scavenger
+1 ->] : eyewitnesses rules
+return piano merl
+1 --> 1++ : lowdown pageant
+autonumber resume
+ [<- 1: banking huckster
+0 -->x 1: dug ambient
+autonumber stop
+end
+return costumes tracking
+@enduml

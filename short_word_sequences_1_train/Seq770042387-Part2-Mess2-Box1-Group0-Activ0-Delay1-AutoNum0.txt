@@ -1,0 +1,10 @@
+@startuml
+box "gilded youth"
+participant "directors ordnance" as 0
+participant "bleachers poisonous" as 1
+end box
+== reproductive pox ==
+0 -> 0: flour backfiring
+...condos sorrows...
+0 -->x 1: backs swans
+@enduml

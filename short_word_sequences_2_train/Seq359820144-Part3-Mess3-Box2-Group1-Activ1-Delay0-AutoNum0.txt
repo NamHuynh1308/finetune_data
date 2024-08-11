@@ -1,0 +1,16 @@
+@startuml
+box "welts downtrodden"
+participant "drunken reactor" as 0
+box "tough framing"
+participant "camp therapist" as 1
+end box
+end box
+== agitated establishments ==
+loop leaders slowest
+0 --//o 1++ : desperation urologist
+0 -> 1: creep openly
+end
+create participant "predators daisies" as 2
+1 -> 2 : predators daisies
+return brutally recant
+@enduml

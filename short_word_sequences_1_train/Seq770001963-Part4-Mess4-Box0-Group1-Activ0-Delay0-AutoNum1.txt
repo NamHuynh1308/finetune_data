@@ -1,0 +1,15 @@
+@startuml
+participant "lucky roses" as 0
+participant "everybody fatso" as 1
+participant "sensibility goblin" as 2
+participant "delusions reconnected" as 3
+== occasions orbiting ==
+autonumber 0 1
+critical permit intercepting
+0 -> 1: aisles cobwebs
+autonumber stop
+0 <-] : grizzly impossibly
+2 <-] : competent anti
+end
+ [-> 1: speculate hog
+@enduml

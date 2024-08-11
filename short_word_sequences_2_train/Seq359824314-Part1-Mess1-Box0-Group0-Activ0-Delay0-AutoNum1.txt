@@ -1,0 +1,6 @@
+@startuml
+participant "exclamation closes" as 0
+== scary calzone ==
+autonumber 5 5
+0 -> 0: trains hands
+@enduml

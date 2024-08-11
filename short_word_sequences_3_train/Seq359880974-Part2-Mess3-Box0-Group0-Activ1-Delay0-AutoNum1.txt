@@ -1,0 +1,11 @@
+@startuml
+participant "covered whoopee" as 0
+autonumber 2 2
+create participant "pounding primaries" as 1
+0 -> 1 : pounding primaries
+autonumber stop
+ [<- 1: comfort worry
+autonumber resume
+0 -> 0++ : rescuers domes
+return wimpy peacemaker
+@enduml

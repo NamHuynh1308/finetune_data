@@ -1,0 +1,20 @@
+@startuml
+participant "serving scaled" as 0
+participant "discipline warmest" as 1
+box "waiver embellished"
+participant "classrooms music" as 2
+end box
+autonumber 1 10
+0 --> 2: performed unearthed
+autonumber stop
+1 -> 0: tomorrows morals
+2 ->] : virtual hosing
+autonumber resume
+1 <-] : bloated thorns
+autonumber stop
+2 ->o 1: rots loran
+autonumber resume
+2 -> 0: task monitor
+2 -> 0++ : roads geared
+return extradited arbor
+@enduml

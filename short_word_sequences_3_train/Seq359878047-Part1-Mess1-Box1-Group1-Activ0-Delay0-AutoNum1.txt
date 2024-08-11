@@ -1,0 +1,10 @@
+@startuml
+box "bailiff patronize"
+participant "aunts drone" as 0
+end box
+== lacerations featured ==
+autonumber 0 9
+loop sitting sighting
+0 --//o 0: pancakes treatments
+end
+@enduml

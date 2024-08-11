@@ -1,0 +1,17 @@
+@startuml
+participant "diminished sobriety" as 0
+participant "crusader straight" as 1
+participant "dominick savour" as 2
+create participant "wisely stools" as 3
+2 -> 3 : wisely stools
+...conclusion bird...
+1 <-> 0: boulevard cheapest
+opt swore hanks
+0 -> 0: airports defeated
+3 <-] : butler astonishing
+end
+0 -> 0: reprisal tetanus
+...coaches pagers...
+0 <-> 3++ : confidant peppermint
+return disrespectful retinas
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+box "creme findings"
+participant "outlined apologetic" as 0
+participant "accepts snip" as 1
+participant "commanding underwater" as 2
+end box
+critical navy independent
+1 -> 2!! : novel recollection
+opt penthouse fates
+create participant "hammock pageant" as 3
+2 -> 3 : hammock pageant
+critical pills ta
+2 --> 1: hoosegow overalls
+end
+end
+end
+@enduml

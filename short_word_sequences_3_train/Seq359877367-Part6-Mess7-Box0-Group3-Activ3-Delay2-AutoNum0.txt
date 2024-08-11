@@ -1,0 +1,26 @@
+@startuml
+participant "gunk snivelling" as 0
+participant "sidebar sidelines" as 1
+participant "winch coffins" as 2
+participant "escape selling" as 3
+participant "investors makeup" as 4
+1 ->x 2++ : geeky lira
+create participant "backhand munch" as 5
+3 -> 5 : backhand munch
+return interject engines
+0 ->o 2++ : parrot dissolving
+loop balance constructed
+ [<- 2: bitterness somewhat
+return mooch rainbow
+loop incinerator sculpture
+...scholar challenge...
+4 -> 1: offs dismissing
+par altar loneliest
+5 ->o 3++ : feet fines
+...weatherman pulses...
+ [-> 5: saddled vixen
+return unforgiving derive
+end
+end
+end
+@enduml

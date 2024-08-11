@@ -1,0 +1,12 @@
+@startuml
+participant "dimensions transformation" as 0
+participant "mastery mignon" as 1
+participant "nuke sloppy" as 2
+par node pavement
+0 <-> 2: dame periodic
+1 -> 2: labrador tuxedos
+...genetic primping...
+ [-> 1: remedy earthquakes
+else dowser edges
+end
+@enduml

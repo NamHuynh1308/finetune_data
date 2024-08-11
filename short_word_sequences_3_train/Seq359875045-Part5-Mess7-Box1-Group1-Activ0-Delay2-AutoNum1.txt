@@ -1,0 +1,24 @@
+@startuml
+participant "charms sixth" as 0
+participant "circulated wieners" as 1
+participant "cartographers backups" as 2
+box "nightlife preventive"
+participant "cloths sleight" as 3
+participant "ipecac flail" as 4
+end box
+autonumber 4 9
+0 ->] : annoyed confiscated
+...manhunt moment...
+4 -// 3: highness horsepower
+2 -\\ 1: lakers chatterbox
+autonumber stop
+3 <-> 4: seashells club
+1 <-] : laugh threatens
+loop curmudgeon accepted
+...rethought compounds...
+0 -\\ 4: slasher familial
+4 -> 1: stubs heist
+autonumber resume
+else train noon
+end
+@enduml

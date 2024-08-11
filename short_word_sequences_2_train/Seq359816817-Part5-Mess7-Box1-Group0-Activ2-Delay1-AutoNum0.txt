@@ -1,0 +1,20 @@
+@startuml
+participant "brawl optimist" as 0
+participant "opposing awry" as 1
+box "alerting glossy"
+participant "observers purging" as 2
+participant "wing handbag" as 3
+end box
+== infected wheezing ==
+create participant "recharge knots" as 4
+1 -> 4 : recharge knots
+...chino laborers...
+0 ->] : bandage comedian
+3 <-> 3: suspenders promises
+3 --> 1++ : pyramids debrief
+ [<- 1: bookish attachments
+return shivers gourmet
+2 -->x 1++ : sexy nagging
+4 ->o 0: inundated interpretation
+return smugness wounds
+@enduml

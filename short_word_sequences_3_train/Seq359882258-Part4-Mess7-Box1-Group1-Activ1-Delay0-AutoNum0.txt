@@ -1,0 +1,19 @@
+@startuml
+participant "zoom earned" as 0
+participant "comedy enlighten" as 1
+participant "speeches floors" as 2
+box "hobbit hardball"
+participant "beats surfaces" as 3
+end box
+== fleabag sender ==
+3 ->x 1: anguished thawing
+2 --> 1: predicting argue
+0 -> 3++ : paired orator
+3 <-] : artsy heady
+0 --> 2: flan textbook
+critical acknowledge sweatshirts
+1 -// 2: crafty anticipate
+1 -// 0: imports patches
+return improvise translation
+end
+@enduml

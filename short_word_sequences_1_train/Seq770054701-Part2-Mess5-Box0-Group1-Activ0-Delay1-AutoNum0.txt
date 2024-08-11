@@ -1,0 +1,13 @@
+@startuml
+participant "reservations freshen" as 0
+participant "cub hut" as 1
+== snowstorm hinges ==
+1 <-] : bleed toot
+0 ->x 1: dale winkle
+...chastity separated...
+1 ->o 0: revoking conclusively
+opt exempt brakes
+1 -->x 0: makes morrow
+0 -> 1: rehabilitate eminence
+end
+@enduml

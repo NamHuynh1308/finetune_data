@@ -1,0 +1,8 @@
+@startuml
+participant "cushion threatened" as 0
+participant "record painting" as 1
+autonumber 3 5
+0 <-> 1++ : eyebrows enthusiastic
+1 -> 1: irritating thready
+return rath convenient
+@enduml

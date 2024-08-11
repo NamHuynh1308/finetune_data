@@ -1,0 +1,13 @@
+@startuml
+participant "sawdust believing" as 0
+participant "favour venue" as 1
+participant "booklets relations" as 2
+autonumber 4 9
+2 -\\ 1: beautiful musketeers
+1 -> 1: ceased sashimi
+autonumber stop
+0 -// 2: queers occupied
+autonumber resume
+create participant "mesmerized limbo" as 3
+1 -> 3 : mesmerized limbo
+@enduml

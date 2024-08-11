@@ -1,0 +1,29 @@
+@startuml
+participant "roughnecks champs" as 0
+box "lit monumental"
+participant "precious pretend" as 1
+participant "tricks chaperoned" as 2
+participant "destitute firecrackers" as 3
+end box
+autonumber 4 3
+1 -> 0: panache heirs
+opt portable chainsaws
+...convictions lemony...
+ [-> 2: sorrel quest
+autonumber stop
+...frosting on...
+2 --//o 2: charmed original
+autonumber resume
+end
+2 -->x 2: protector crises
+break conclusively hitchhiking
+...hyper mace...
+ [-> 3: betray nosedive
+create participant "tagged bewitched" as 4
+2 -> 4 : tagged bewitched
+autonumber stop
+4 ->o 1++ : kitty handcuffed
+3 -> 3: nearly reaching
+end
+return unshakable forensics
+@enduml

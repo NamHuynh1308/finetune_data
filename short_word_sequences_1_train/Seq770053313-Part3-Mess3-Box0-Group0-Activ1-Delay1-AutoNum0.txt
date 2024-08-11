@@ -1,0 +1,10 @@
+@startuml
+participant "accompanying pirated" as 0
+participant "fission primaries" as 1
+create participant "scalper laced" as 2
+0 -> 2 : scalper laced
+...bib nutrition...
+0 <-> 2: periphery shrubs
+0 -// 0++ : ambient times
+return dismay mates
+@enduml

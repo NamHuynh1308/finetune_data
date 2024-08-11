@@ -1,0 +1,6 @@
+@startuml
+participant "mavis baseball" as 0
+autonumber 8 6
+create participant "apex mentioning" as 1
+0 -> 1 : apex mentioning
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+participant "shagged undergrad" as 0
+participant "anachronism yeti" as 1
+participant "pudding unfit" as 2
+participant "turns advisor" as 3
+== blabbermouth strange ==
+autonumber 9 10
+create participant "scarier cacophony" as 4
+3 -> 4 : scarier cacophony
+...exhibited quiver...
+0 -> 4: inconveniencing ventilate
+par impolite spinach
+3 <-> 4: corps announcements
+3 -> 2: undergone winger
+...treasured mobilize...
+2 -> 1: demonstration freckling
+2 <-> 0++ : harassed tomahawk
+else knobby indication
+end
+return gullible feminist
+@enduml

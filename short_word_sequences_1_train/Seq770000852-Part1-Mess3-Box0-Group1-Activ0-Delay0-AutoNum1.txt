@@ -1,0 +1,10 @@
+@startuml
+participant "dote mowers" as 0
+autonumber 10 3
+0 -\\ 0: shadowy dismantled
+autonumber stop
+alt sings developed
+0 <-> 0: fixtures barnyard
+0 -->x 0: fingered teleportation
+end
+@enduml

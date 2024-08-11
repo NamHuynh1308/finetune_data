@@ -1,0 +1,17 @@
+@startuml
+box "diaries occupy"
+participant "soaps detours" as 0
+participant "jane congestion" as 1
+participant "remarkably aware" as 2
+end box
+autonumber 10 1
+par hairs methadone
+1 -> 1++ : singer solenoid
+1 --> 0++ : lima yanks
+alt caffeine tizzy
+1 -> 0: hidden thrown
+end
+end
+return valid sip
+return egg patients
+@enduml

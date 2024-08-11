@@ -1,0 +1,15 @@
+@startuml
+participant "eels stickler" as 0
+participant "watchers madeleine" as 1
+box "reviewing trays"
+participant "firsthand filming" as 2
+participant "actual disasters" as 3
+end box
+== upgraded bennet ==
+1 -\\ 1++ : devised impropriety
+...wacky territories...
+2 -> 1: grift disaster
+3 <-] : whip goddam
+1 -> 2: blubbering touring
+return cokes interpretation
+@enduml

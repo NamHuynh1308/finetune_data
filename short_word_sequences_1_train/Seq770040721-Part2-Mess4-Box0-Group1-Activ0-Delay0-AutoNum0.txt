@@ -1,0 +1,11 @@
+@startuml
+participant "penetrate prattling" as 0
+create participant "attendant benefactor" as 1
+0 -> 1 : attendant benefactor
+0 <-] : eloquent phoney
+break tipper quiz
+0 ->] : prep hums
+1 -> 0: billie generated
+else sensational mosquitos
+end
+@enduml

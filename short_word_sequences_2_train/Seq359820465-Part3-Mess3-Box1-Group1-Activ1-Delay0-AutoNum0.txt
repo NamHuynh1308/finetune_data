@@ -1,0 +1,13 @@
+@startuml
+box "marked passage"
+participant "stories rapist" as 0
+participant "geeks action" as 1
+end box
+participant "capo dancing" as 2
+2 -> 1++ : baskets crumbling
+critical imbued frying
+1 -> 2!! : induced sympathetic
+2 -> 0: surely intercom
+return congregation doggies
+end
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+box "copycat purblind"
+participant "midterms stimulation" as 0
+participant "berserk discourse" as 1
+end box
+autonumber 10 10
+0 -> 1!! : aggravation nicotine
+autonumber stop
+ [<- 1: avenged jerseys
+loop imagine moody
+0 -> 0: pesos naivete
+autonumber resume
+ [<- 0: dramatic homes
+autonumber stop
+1 -// 0: global nephew
+end
+@enduml

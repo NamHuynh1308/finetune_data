@@ -1,0 +1,24 @@
+@startuml
+participant "swung within" as 0
+participant "uninsured egyptian" as 1
+participant "profitable casket" as 2
+participant "dweeb value" as 3
+participant "lead drape" as 4
+== windbag sentiment ==
+1 --> 0: obsessions saline
+...corn hoops...
+2 -// 3++ : extermination luck
+3 -->x 1++ : stumper promotion
+0 --> 2: conspired female
+return hurray prop
+0 ->x 2++ : listener behavior
+par unwieldy fortitude
+3 --> 4++ : ruckus iliad
+par reconsidered priest
+3 -> 4: bidding dunks
+return simply eddy
+end
+end
+return burner peeps
+return commiserate tularemia
+@enduml

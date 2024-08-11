@@ -1,0 +1,9 @@
+@startuml
+box "dwarfs interior"
+participant "yapping stereotype" as 0
+end box
+0 ->> 0: schemes torque
+par rialto mobile
+0 -->x 0: kneed joins
+end
+@enduml

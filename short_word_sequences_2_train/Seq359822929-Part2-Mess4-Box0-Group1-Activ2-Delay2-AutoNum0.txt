@@ -1,0 +1,14 @@
+@startuml
+participant "focusing donkey" as 0
+critical flap legwork
+create participant "merging deluded" as 1
+0 -> 1 : merging deluded
+...pickpocket intends...
+ [<- 0: punish composure
+...madrigal ledgers...
+1 --//o 1++ : tank disown
+end
+0 -> 1++ : gates wise
+return glamour geniuses
+return harp confound
+@enduml

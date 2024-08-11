@@ -1,0 +1,11 @@
+@startuml
+box "putty posted"
+participant "bustling lichen" as 0
+participant "coax chandler" as 1
+end box
+0 --//o 1: effeminate foisting
+0 -> 1: nowadays coherent
+1 ->x 1: conservative anchorage
+1 ->x 0++ : recalling collaborated
+return coup reflex
+@enduml

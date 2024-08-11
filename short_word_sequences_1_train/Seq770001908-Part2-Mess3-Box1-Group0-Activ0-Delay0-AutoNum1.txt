@@ -1,0 +1,13 @@
+@startuml
+participant "embarking hardwired" as 0
+box "pamper skulls"
+participant "boogeyman orchestrated" as 1
+end box
+== ferrets knots ==
+autonumber 1 10
+0 <-] : cinnabar redundant
+autonumber stop
+1 ->x 1: mother unlocks
+1 -> 1: respected benny
+autonumber resume
+@enduml

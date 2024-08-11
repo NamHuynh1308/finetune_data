@@ -1,0 +1,5 @@
+@startuml
+participant "involving walls" as 0
+autonumber 8 4
+0 <-> 0: sexuality specs
+@enduml

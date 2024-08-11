@@ -1,0 +1,11 @@
+@startuml
+participant "derris secondly" as 0
+participant "drivel math" as 1
+participant "organism bird" as 2
+== heavenly burro ==
+autonumber 1 2
+1 -> 2: tangling cholera
+0 -> 0: concealment daze
+1 ->o 0: moments masters
+autonumber stop
+@enduml

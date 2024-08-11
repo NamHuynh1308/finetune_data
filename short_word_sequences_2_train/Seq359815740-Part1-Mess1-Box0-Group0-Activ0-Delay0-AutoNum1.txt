@@ -1,0 +1,6 @@
+@startuml
+participant "blooms pontoon" as 0
+autonumber 5 1
+0 --> 0: wing comics
+autonumber stop
+@enduml

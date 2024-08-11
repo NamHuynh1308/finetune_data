@@ -1,0 +1,12 @@
+@startuml
+participant "matriarch nickname" as 0
+participant "testimonies emphasized" as 1
+participant "ovulating carvings" as 2
+== gloss luncheon ==
+loop external blackmailer
+0 -// 1++ : poolside dossier
+0 -> 1: people rule
+end
+0 -// 1: endurance helicopters
+return assembled factions
+@enduml

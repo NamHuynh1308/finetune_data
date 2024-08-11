@@ -1,0 +1,24 @@
+@startuml
+participant "exemplary stiletto" as 0
+box "fuller lighter"
+participant "darkness atrocities" as 1
+box "cadmium sword"
+participant "blinks chips" as 2
+end box
+end box
+== hickory dol ==
+autonumber 3 5
+0 --> 2++ : premonitions planners
+1 <-> 0: insights grungy
+...reviving honeymoons...
+1 ->] : baseless automatic
+...earlobe composition...
+2 -> 2: about bows
+return abortions bait
+...zee blarney...
+1 -> 1: whirl renegade
+opt complaint locks
+...counsel payback...
+ [-> 0: farce faggot
+end
+@enduml

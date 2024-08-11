@@ -1,0 +1,22 @@
+@startuml
+participant "scared sweatshirts" as 0
+participant "juniors delicious" as 1
+participant "sweatshirt folksy" as 2
+box "press demise"
+participant "nomadic convinced" as 3
+end box
+autonumber 2 3
+loop prolong initiative
+create participant "appointed flew" as 4
+2 -> 4 : appointed flew
+autonumber stop
+...idiotic bell...
+0 -> 3: menacing countless
+end
+critical distributors cavalry
+2 ->] : bonus strapped
+...nor pygmy...
+ [<- 2: vows civilian
+autonumber resume
+end
+@enduml

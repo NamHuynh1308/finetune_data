@@ -1,0 +1,32 @@
+@startuml
+participant "medics millet" as 0
+box "protested invite"
+participant "marvellous distort" as 1
+participant "crepe auctioneer" as 2
+participant "sizeable feed" as 3
+box "blazer mannequins"
+participant "realizing lessen" as 4
+end box
+end box
+== infectious phantoms ==
+1 <-] : real punches
+4 <-] : dentists shame
+...um dent...
+1 <-] : begins saluted
+loop matchmaking okayed
+4 <-] : routed badminton
+critical hairbrush silenced
+1 ->o 1++ : between toffee
+4 -> 0: describing needy
+1 ->o 1++ : empress gloating
+end
+create participant "glengarry liquidation" as 5
+1 -> 5 : glengarry liquidation
+else cheerleader eggplant
+create participant "cavities mentions" as 6
+0 -> 6 : cavities mentions
+else mock job
+end
+return deathly testified
+return faux devastating
+@enduml

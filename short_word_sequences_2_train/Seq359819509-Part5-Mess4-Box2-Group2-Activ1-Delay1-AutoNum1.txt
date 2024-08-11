@@ -1,0 +1,25 @@
+@startuml
+box "cedar schooled"
+participant "audiotape severity" as 0
+participant "magician electorate" as 1
+end box
+participant "hairdressers worries" as 2
+box "robbery earful"
+participant "foal copper" as 3
+end box
+== expects fer ==
+autonumber 3 3
+par commands advocating
+0 -> 2++ : prancing hoodwinked
+opt inbound uncertainty
+...physician quilt...
+1 ->] : inaccessible willful
+autonumber stop
+ [-> 1: cheep yielding
+return reacting fiery
+autonumber resume
+create participant "hence tactical" as 4
+2 -> 4 : hence tactical
+end
+end
+@enduml

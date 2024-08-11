@@ -1,0 +1,7 @@
+@startuml
+box "awkward mavis"
+participant "wha commentaries" as 0
+end box
+0 -> 0: loopholes pledged
+0 -\\ 0: ulterior judicial
+@enduml

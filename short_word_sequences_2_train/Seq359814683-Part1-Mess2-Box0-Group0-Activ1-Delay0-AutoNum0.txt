@@ -1,0 +1,6 @@
+@startuml
+participant "balancing fudge" as 0
+0 --//o 0++ : wised related
+0 ->x 0: morn bop
+return dowager vortex
+@enduml

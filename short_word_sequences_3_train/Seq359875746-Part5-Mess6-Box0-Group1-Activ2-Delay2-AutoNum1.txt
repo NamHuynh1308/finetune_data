@@ -1,0 +1,24 @@
+@startuml
+participant "strategies cowed" as 0
+participant "assassination accept" as 1
+participant "singling nachos" as 2
+participant "biased prerogative" as 3
+autonumber 7 0
+1 ->> 2++ : corners lads
+break setback opportunities
+2 ->o 3: qualify switcheroo
+return starvation hostage
+autonumber stop
+...weddings prototypes...
+0 ->> 1++ : fruitful harrowing
+...wack uplifting...
+0 --> 0: troubadour responsive
+else blossoms hire
+3 -> 2: thug profusely
+autonumber resume
+create participant "sublimating dullness" as 4
+3 -> 4 : sublimating dullness
+else coveralls craftsmanship
+end
+return wave perverts
+@enduml

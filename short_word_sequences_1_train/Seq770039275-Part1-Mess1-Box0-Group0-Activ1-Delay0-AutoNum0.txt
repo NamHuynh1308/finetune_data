@@ -1,0 +1,5 @@
+@startuml
+participant "landmark racing" as 0
+0 -> 0++ : withdraw pathological
+return pennies reverently
+@enduml

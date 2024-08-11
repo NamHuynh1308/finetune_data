@@ -1,0 +1,6 @@
+@startuml
+box "nursing minorities"
+participant "peaceful parabolic" as 0
+end box
+0 -->x 0: reunion hows
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "mouth hacked" as 0
+box "stewardess charts"
+participant "shields blundering" as 1
+end box
+== forwarding casing ==
+0 <-> 0: holiday apollo
+par denominations smartass
+1 -> 1: rev avenged
+end
+@enduml

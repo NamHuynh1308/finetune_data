@@ -1,0 +1,20 @@
+@startuml
+participant "wasted suave" as 0
+box "coins exhaustive"
+participant "epiphany accessible" as 1
+box "limbo underworld"
+participant "slider cherub" as 2
+participant "wussy warts" as 3
+end box
+end box
+3 ->> 0: behave add
+2 <-] : huckleberry transmitters
+3 -> 2: funded augmentation
+0 -\\ 3: handsomely ers
+alt artists coached
+3 ->> 0: definite commits
+create participant "tapping ranges" as 4
+2 -> 4 : tapping ranges
+4 ->] : existential studio
+end
+@enduml

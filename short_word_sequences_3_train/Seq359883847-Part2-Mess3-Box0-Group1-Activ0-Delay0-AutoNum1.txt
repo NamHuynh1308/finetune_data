@@ -1,0 +1,11 @@
+@startuml
+participant "slimy bomber" as 0
+participant "pleaser indirectly" as 1
+== wrangler reunions ==
+autonumber 10 7
+alt fallible holding
+1 <-] : pasts waterbed
+0 --> 0: portal declining
+1 -// 0: huffed fabulously
+end
+@enduml

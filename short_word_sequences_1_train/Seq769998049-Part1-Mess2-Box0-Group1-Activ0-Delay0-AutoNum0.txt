@@ -1,0 +1,7 @@
+@startuml
+participant "comer snagged" as 0
+0 -> 0: outlawed dory
+loop ideology vicar
+0 -// 0: adjustable sizeable
+end
+@enduml

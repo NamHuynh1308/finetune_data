@@ -1,0 +1,11 @@
+@startuml
+participant "devise dewy" as 0
+participant "regionals flags" as 1
+participant "clandestine planing" as 2
+== banjo wink ==
+0 <-> 1: stokes inundated
+0 ->x 2: marooned brews
+break deli defying
+2 -> 1: hoses candy
+end
+@enduml

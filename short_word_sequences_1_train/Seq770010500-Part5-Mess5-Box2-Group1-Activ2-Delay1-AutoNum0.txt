@@ -1,0 +1,21 @@
+@startuml
+participant "cramped lose" as 0
+participant "cleaning rhinoceros" as 1
+box "seats robbery"
+participant "taker bolster" as 2
+box "began smartest"
+participant "paintbrush snort" as 3
+end box
+end box
+1 --//o 1++ : knack tetanus
+create participant "tipping lacrosse" as 4
+0 -> 4 : tipping lacrosse
+...forfeits scheduling...
+0 -> 1: frees suppertime
+critical temporary arrivals
+0 <-> 4: incorrigible twists
+2 -> 4++ : exemption instant
+end
+return ordnance plait
+return melding pelting
+@enduml

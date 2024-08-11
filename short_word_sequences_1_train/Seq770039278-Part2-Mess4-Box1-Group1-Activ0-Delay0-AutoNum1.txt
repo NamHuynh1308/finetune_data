@@ -1,0 +1,14 @@
+@startuml
+participant "enquiries appetizers" as 0
+box "wreak trinity"
+participant "counselling flooding" as 1
+end box
+== quints exchanging ==
+autonumber 3 9
+1 -> 0: practiced winters
+1 -> 0: farm manuscripts
+1 -> 1: guilder improvise
+loop takeover erases
+1 -> 0: reacts snack
+end
+@enduml

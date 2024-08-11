@@ -1,0 +1,15 @@
+@startuml
+participant "galloping heroine" as 0
+box "standpoint housed"
+participant "fiddler everyman" as 1
+end box
+0 <-] : choirs straddling
+1 ->x 0: sketches refills
+critical scallions itchy
+1 --//o 1: thistle bondsman
+0 <-] : crated invoices
+end
+ [<- 0: humbled bunions
+...hobo wieners...
+0 -> 0: coach environmental
+@enduml

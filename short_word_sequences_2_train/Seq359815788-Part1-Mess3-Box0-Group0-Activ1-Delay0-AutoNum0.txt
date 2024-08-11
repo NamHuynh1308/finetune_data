@@ -1,0 +1,8 @@
+@startuml
+participant "ingredient rouge" as 0
+== leftovers diver ==
+0 ->] : seared loads
+0 -> 0: macho ruff
+0 -> 0++ : abbey counterattack
+return damsel bulletin
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "sitcom lounge" as 0
+participant "weds maim" as 1
+box "bitsy save"
+participant "moons dazzled" as 2
+end box
+== tucked happens ==
+autonumber 8 8
+2 ->] : endear racetrack
+1 -> 2: organism weirdos
+autonumber stop
+0 -> 0!! : sequences consenting
+0 -\\ 1: enabled soaring
+autonumber resume
+@enduml

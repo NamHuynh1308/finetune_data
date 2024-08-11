@@ -1,0 +1,15 @@
+@startuml
+participant "nerve wad" as 0
+box "stationed gliding"
+participant "saber cloven" as 1
+end box
+autonumber 6 7
+1 -> 0++ : clunk sensors
+0 ->x 1++ : suggested waitresses
+...vials grandstand...
+0 --> 0: keys unadvisedly
+0 ->> 1: seventies aloe
+return incendiary inconveniencing
+autonumber stop
+return movies reek
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "fondue chance" as 0
+participant "division mouths" as 1
+== merl detours ==
+autonumber 9 8
+0 --//o 0: gain incidental
+1 -> 1++ : riveted panda
+return disappointed reconnecting
+@enduml

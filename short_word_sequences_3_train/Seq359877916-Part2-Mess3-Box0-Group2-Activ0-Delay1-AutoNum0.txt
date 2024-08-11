@@ -1,0 +1,13 @@
+@startuml
+participant "amenities sis" as 0
+participant "sheer stocked" as 1
+== implement deodorant ==
+0 -->x 0: freighter optimistic
+par emptied whoosh
+1 -->x 1: request dishonor
+loop genesis apprentice
+...splat found...
+1 ->> 0: quinine once
+end
+end
+@enduml

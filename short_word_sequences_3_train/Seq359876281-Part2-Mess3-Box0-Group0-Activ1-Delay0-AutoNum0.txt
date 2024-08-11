@@ -1,0 +1,8 @@
+@startuml
+participant "freebie jumpers" as 0
+participant "recovery apollo" as 1
+0 -> 0++ : deprived burlap
+0 -> 1: meanie sodium
+0 <-] : finalizing marches
+return zit library
+@enduml

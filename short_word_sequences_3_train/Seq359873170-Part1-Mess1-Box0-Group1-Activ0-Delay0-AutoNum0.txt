@@ -1,0 +1,6 @@
+@startuml
+participant "control healing" as 0
+critical breathe whomever
+0 -> 0: musicians denying
+end
+@enduml

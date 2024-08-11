@@ -1,0 +1,19 @@
+@startuml
+participant "detonates postman" as 0
+box "destroy sim"
+participant "festival flared" as 1
+box "militia synapses"
+participant "adjourn mope" as 2
+end box
+end box
+1 ->] : presented buttons
+ [-> 0: mattresses proof
+opt belongs silky
+...bygones sorrows...
+0 ->x 0: surrendered slightest
+0 -> 2: dubious straddle
+1 --> 2: shouting rut
+1 -> 1!! : verger disappear
+else scrolls nukes
+end
+@enduml

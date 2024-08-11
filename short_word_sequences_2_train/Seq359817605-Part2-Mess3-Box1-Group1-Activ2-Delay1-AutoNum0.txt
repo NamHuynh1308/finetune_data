@@ -1,0 +1,15 @@
+@startuml
+participant "simulates curiosity" as 0
+box "cooling renovations"
+participant "gobs funds" as 1
+end box
+== butcher goners ==
+0 -> 0!! : contraption soggy
+1 -->x 1++ : tom vipers
+alt roost afoot
+...stalled spectacularly...
+1 -> 0++ : principal wee
+end
+return nourishment saki
+return priceless hounds
+@enduml

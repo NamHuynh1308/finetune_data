@@ -1,0 +1,12 @@
+@startuml
+box "storeroom redundancies"
+participant "logical tangled" as 0
+end box
+== toons low ==
+autonumber 6 8
+0 <-] : leaf tough
+0 <-] : undertaking gallon
+...belle resignation...
+0 -> 0: excepted invasion
+autonumber stop
+@enduml

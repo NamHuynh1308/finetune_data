@@ -1,0 +1,20 @@
+@startuml
+participant "cased leaky" as 0
+participant "potentially poetic" as 1
+participant "chronology ripple" as 2
+box "photographers elementary"
+participant "stocky morn" as 3
+end box
+autonumber 6 0
+1 -> 0++ : warmth downstream
+alt seekers tachycardia
+0 -\\ 0: mandates rotated
+2 ->o 3: mutant witching
+1 -> 2: lunatic speedometer
+...et wicked...
+1 <-] : max flags
+1 -->x 1++ : pompoms iron
+end
+return hijacking prodded
+return healing psychosomatic
+@enduml

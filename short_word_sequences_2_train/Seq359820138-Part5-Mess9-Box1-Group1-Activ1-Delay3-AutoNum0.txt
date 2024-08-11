@@ -1,0 +1,24 @@
+@startuml
+participant "birthday oranges" as 0
+box "exhilaration transmissions"
+participant "securing physical" as 1
+participant "toxins graceful" as 2
+participant "ensuing lordship" as 3
+participant "smelling containing" as 4
+end box
+ [<- 4: modern adversary
+1 -\\ 0: oyez processional
+...insurrection doorman...
+2 -> 2: wedgies priceless
+ [<- 3: galloping spasm
+0 -> 3: tip stamina
+0 ->> 1: wishful ode
+...tuition cleansed...
+4 -> 1: mildew patrolled
+alt revised residual
+4 -\\ 3++ : gym incase
+...mongoose treatment...
+0 ->x 2: thereof ticker
+return faithfulness suits
+end
+@enduml

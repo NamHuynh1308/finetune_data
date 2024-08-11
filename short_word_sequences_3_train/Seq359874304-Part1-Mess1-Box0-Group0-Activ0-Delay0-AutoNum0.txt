@@ -1,0 +1,4 @@
+@startuml
+participant "tyres malice" as 0
+0 -->x 0: needle things
+@enduml

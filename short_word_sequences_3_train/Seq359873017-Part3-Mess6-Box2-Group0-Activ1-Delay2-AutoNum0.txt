@@ -1,0 +1,19 @@
+@startuml
+participant "diet soften" as 0
+box "side unstuck"
+participant "reluctant primping" as 1
+box "commandant recycles"
+participant "runner researching" as 2
+end box
+end box
+== customers freighter ==
+0 -->x 1: shake inhaled
+...theory choreography...
+0 <-] : delivery harbouring
+...pecan oftentimes...
+0 -> 0: checker cozying
+2 -> 0!! : briskly inspect
+2 -> 2++ : soaps scrapbook
+0 -> 2!! : bawdy zoned
+return animal stairway
+@enduml

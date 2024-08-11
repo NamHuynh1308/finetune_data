@@ -1,0 +1,15 @@
+@startuml
+participant "sonics fortitude" as 0
+participant "stunts demure" as 1
+participant "unpacked indescribable" as 2
+1 -> 2++ : musician info
+0 ->> 1: confuse killjoy
+1 ->x 2++ : sweetbreads words
+critical crumb searched
+...landlords clock...
+1 -\\ 0++ : virus pestering
+end
+return refusing shoes
+return intestines eggnog
+return eggs condom
+@enduml

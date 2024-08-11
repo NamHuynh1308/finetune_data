@@ -1,0 +1,24 @@
+@startuml
+box "tasteful walnut"
+participant "toxic brassieres" as 0
+participant "researcher batty" as 1
+participant "abductions disorder" as 2
+box "cereal paella"
+participant "hospitality fluff" as 3
+end box
+end box
+0 --> 3: pink balancing
+1 <-> 1: suave frisk
+par escalator meadows
+0 -\\ 3++ : novelist hyperventilate
+2 --> 2: multimillion pulls
+0 -> 2: interrogations seize
+return baroque coven
+1 ->o 3++ : cosmology salmonella
+else expulsion birthdays
+opt chill dahlia
+3 --> 2: subservient destitute
+return suppression radiant
+end
+end
+@enduml

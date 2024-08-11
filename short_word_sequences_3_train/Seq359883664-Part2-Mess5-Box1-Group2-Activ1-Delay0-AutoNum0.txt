@@ -1,0 +1,17 @@
+@startuml
+box "mettle illusion"
+participant "gray romeo" as 0
+end box
+ [<- 0: oddball visit
+critical vase crap
+create participant "route terrifically" as 1
+0 -> 1 : route terrifically
+0 -->x 0++ : industry cocked
+end
+par muller habits
+0 -// 1: designing odorless
+return joseph para
+1 <-] : sandpaper reruns
+else points predators
+end
+@enduml

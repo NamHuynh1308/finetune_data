@@ -1,0 +1,9 @@
+@startuml
+participant "stops groupie" as 0
+participant "fingerprint sook" as 1
+participant "famished irony" as 2
+autonumber 8 10
+ [<- 1: lawsuit sorted
+2 -\\ 1: bronzed envious
+2 --> 2: doomsday announcing
+@enduml

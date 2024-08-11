@@ -1,0 +1,24 @@
+@startuml
+participant "artiste rhythm" as 0
+box "karat bleeds"
+participant "hows foray" as 1
+participant "record farmhouse" as 2
+participant "hacking klutz" as 3
+box "cheeseburgers snitches"
+participant "explaining cone" as 4
+end box
+end box
+== moisturizer skeptical ==
+0 -> 2++ : massager pence
+0 -->x 0++ : weather probe
+ [<- 0: perpetrated dried
+...yourselves plugs...
+4 <-] : steamed software
+alt serge checks
+...destitute lately...
+2 ->x 3++ : precinct confused
+end
+return laughable tear
+return bedtime daphne
+return shabbily honours
+@enduml

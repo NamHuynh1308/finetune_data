@@ -1,0 +1,32 @@
+@startuml
+participant "druthers apparatus" as 0
+participant "guild instill" as 1
+participant "surrounds confetti" as 2
+participant "blurb yuan" as 3
+participant "satisfactory pedals" as 4
+== corker anyways ==
+autonumber 2 1
+4 ->o 1++ : fender orchestra
+par doc infighting
+0 -->x 2: entrepreneurial presidents
+return fraught tire
+break purged whirl
+create participant "finale baking" as 5
+2 -> 5 : finale baking
+...extraterrestrial louie...
+2 -// 0++ : eyes accelerate
+end
+0 -\\ 5: obsessing salon
+...caboose malice...
+5 --//o 2++ : wool immersion
+loop servants amply
+2 -->x 0: wager wholeheartedly
+1 -> 4: soiree gas
+return bathing attraction
+autonumber stop
+else awaiting ticklish
+1 -> 5: glorified consent
+return poppy visible
+end
+end
+@enduml

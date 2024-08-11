@@ -1,0 +1,15 @@
+@startuml
+participant "those wag" as 0
+box "stardust decibels"
+participant "muddle gracing" as 1
+box "moods withstanding"
+participant "alarmed deserved" as 2
+end box
+end box
+== lidocaine courted ==
+1 -> 0: thoughtfully beings
+0 -// 0: departed pharmaceuticals
+1 ->] : exhaust penny
+...gain crimson...
+1 ->x 0: scruples topple
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "gaby smartass" as 0
+participant "hit pauses" as 1
+autonumber 8 0
+opt booger rule
+1 <-> 0++ : bump brats
+...pragmatic weirdos...
+0 -// 1: varies workload
+end
+return aloe demanded
+@enduml

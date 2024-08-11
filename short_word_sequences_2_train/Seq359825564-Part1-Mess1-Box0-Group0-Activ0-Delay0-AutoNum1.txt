@@ -1,0 +1,5 @@
+@startuml
+participant "pressing commands" as 0
+autonumber 2 5
+0 ->o 0: spooked pools
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+participant "electronic railroad" as 0
+participant "barbecued silvery" as 1
+participant "classical endangerment" as 2
+2 -> 1!! : notches picky
+1 -> 0: stave unclench
+create participant "sordid kit" as 3
+0 -> 3 : sordid kit
+1 --> 1++ : dotes delusions
+0 -> 3: assertiveness speculative
+return brooks felon
+1 -> 0: leery bus
+@enduml

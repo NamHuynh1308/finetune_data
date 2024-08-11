@@ -1,0 +1,19 @@
+@startuml
+participant "competing sparkling" as 0
+box "glee bravo"
+participant "jeweler answering" as 1
+end box
+== admitted distancing ==
+autonumber 2 2
+1 <-] : coiffure decadence
+1 --> 0++ : jiggly fen
+1 -> 0++ : selectman sir
+autonumber stop
+0 <-> 1++ : blips raw
+autonumber resume
+...wiped hardened...
+0 --> 1: cesspool cocky
+return intrigued dyer
+return unique apartment
+return sighted possibly
+@enduml

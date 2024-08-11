@@ -1,0 +1,19 @@
+@startuml
+participant "aggravating thoracotomy" as 0
+participant "ninja fence" as 1
+autonumber 10 4
+critical rubbers digs
+ [<- 0: festering reborn
+0 -> 1: filet tide
+...overjoyed juiced...
+ [-> 1: lapse implicated
+else confidences choke
+create participant "deprived shalt" as 2
+1 -> 2 : deprived shalt
+autonumber stop
+0 ->] : gnat honks
+else plow holographic
+...awhile gall...
+1 -->x 0: prayed snazzy
+end
+@enduml

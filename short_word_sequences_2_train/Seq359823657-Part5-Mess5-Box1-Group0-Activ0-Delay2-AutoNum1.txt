@@ -1,0 +1,20 @@
+@startuml
+participant "pleading sputnik" as 0
+box "casually hisself"
+participant "nag disputing" as 1
+participant "fixed significantly" as 2
+end box
+autonumber 0 7
+create participant "adults spans" as 3
+1 -> 3 : adults spans
+create participant "sundress summertime" as 4
+3 -> 4 : sundress summertime
+autonumber stop
+...recover seaman...
+0 <-> 3: flake bacterial
+autonumber resume
+...pitch instances...
+0 ->o 2: fixed fray
+3 -> 1: clippings revolting
+autonumber stop
+@enduml

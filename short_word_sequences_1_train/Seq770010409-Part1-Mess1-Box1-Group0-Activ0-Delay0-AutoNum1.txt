@@ -1,0 +1,9 @@
+@startuml
+box "sender precaution"
+participant "dependant powering" as 0
+end box
+== quicker pampering ==
+autonumber 2 5
+ [<- 0: tray constellation
+autonumber stop
+@enduml

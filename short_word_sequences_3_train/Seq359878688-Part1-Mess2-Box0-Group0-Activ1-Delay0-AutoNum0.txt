@@ -1,0 +1,6 @@
+@startuml
+participant "coins consuming" as 0
+0 <-> 0++ : cradle proceeds
+0 ->] : bay pied
+return coin crazy
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "attackers administrators" as 0
+participant "examined drool" as 1
+box "genie conversion"
+participant "romantically assurances" as 2
+end box
+ [<- 2: saturation incomplete
+loop encinas iguanas
+...oddball reaching...
+0 -->x 1: tempt sister
+0 ->o 1: infiltrated mentioned
+1 -> 0: apartheid distressed
+...commanding super...
+1 --> 2: visions demonic
+else guessed jailbird
+...grieve zing...
+2 -// 0: writing orbital
+end
+@enduml

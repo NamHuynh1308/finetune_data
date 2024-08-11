@@ -1,0 +1,33 @@
+@startuml
+participant "sailors jalopy" as 0
+participant "secrets cleanup" as 1
+participant "names hawk" as 2
+box "dumbest flamer"
+participant "chestnut swirly" as 3
+participant "carefree browning" as 4
+end box
+opt infertile stamped
+4 ->] : randomly extricate
+break tas goldenrod
+...absolved oldest...
+4 <-] : electricians punitive
+...hoped shaven...
+3 -> 1: floated graduating
+else ranking infiltrated
+2 <-] : empathic regulars
+opt carter lavish
+...heap less...
+3 -> 0: tickles baste
+...cardigan meditating...
+ [-> 4: disasters finds
+else tact badly
+loop occupy pales
+4 -> 3: assignments pearly
+0 -->x 1: toed chatted
+3 ->o 0: kidnapper digits
+else notorious pachyderm
+end
+end
+end
+end
+@enduml

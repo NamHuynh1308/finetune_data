@@ -1,0 +1,15 @@
+@startuml
+participant "jagger appointment" as 0
+participant "military pint" as 1
+participant "centerpieces rabies" as 2
+== cyclotron marching ==
+2 -> 0: owes pawnshop
+0 -->x 0: spice wiener
+1 -> 0!! : exotic penalty
+2 -> 0!! : peppermint dearest
+0 -> 0: skinny closeted
+...lazy invite...
+0 <-> 0++ : wielding candidates
+1 -> 1: exercises tapeworm
+return pressures slowest
+@enduml

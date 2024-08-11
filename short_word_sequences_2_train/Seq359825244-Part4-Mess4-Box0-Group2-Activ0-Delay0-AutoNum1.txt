@@ -1,0 +1,18 @@
+@startuml
+participant "compute whistle" as 0
+participant "strictly anomaly" as 1
+participant "nervously gargoyles" as 2
+participant "volts motivate" as 3
+autonumber 8 7
+ [<- 2: skepticism list
+autonumber stop
+alt not petition
+3 ->o 0: pronounced sat
+1 -> 2: jersey wavered
+autonumber resume
+par omega kindness
+ [<- 0: copper alluding
+autonumber stop
+end
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "continued shopping" as 0
+participant "fiery furs" as 1
+participant "bullied inflexible" as 2
+== balloon saltwater ==
+1 -> 2!! : rating apologizes
+2 -> 0++ : unmentionable polled
+0 <-> 0: friendliest sopranos
+...bicuspids sewage...
+2 ->> 1: squeeze prerogative
+return recanted multiply
+@enduml

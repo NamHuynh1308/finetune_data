@@ -1,0 +1,23 @@
+@startuml
+participant "ar posttraumatic" as 0
+participant "steer keyboard" as 1
+participant "softest crossbow" as 2
+participant "alfalfa dove" as 3
+participant "righto naturally" as 4
+== tucked entails ==
+autonumber 7 6
+create participant "sidle sowing" as 5
+3 -> 5 : sidle sowing
+0 -> 3: assign lilies
+autonumber stop
+2 --//o 3: talker admiring
+create participant "peruse navigator" as 6
+0 -> 6 : peruse navigator
+autonumber resume
+...courtside hunted...
+2 -> 0: homosexuality deficiency
+3 -> 3!! : recuperate treasure
+...worth deb...
+2 -\\ 2++ : upstairs phoned
+return allegiance clearance
+@enduml

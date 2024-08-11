@@ -1,0 +1,32 @@
+@startuml
+participant "prospect express" as 0
+participant "aloe burritos" as 1
+box "aggravation venomous"
+participant "tonics researchers" as 2
+participant "haircut gentleman" as 3
+participant "intermittent monumentally" as 4
+end box
+4 -->x 2: tie thistle
+loop hopelessly obsess
+...senseless deceit...
+4 -> 1!! : replenish spank
+1 --//o 3: seg hereafter
+end
+...proposed shatter...
+3 -> 3: womanhood schooner
+...songs throw...
+2 ->x 2: clump grimes
+3 -->x 2: occurrences snails
+par spoke heartthrob
+create participant "dispensary pop" as 5
+2 -> 5 : dispensary pop
+break beaucoup woodshed
+...miggs pizza...
+5 -> 2: indescribable bolster
+alt biff sanatorium
+...calcium continuation...
+5 -> 3: acid blushing
+end
+end
+end
+@enduml

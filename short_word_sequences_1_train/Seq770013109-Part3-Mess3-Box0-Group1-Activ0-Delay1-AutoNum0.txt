@@ -1,0 +1,11 @@
+@startuml
+participant "revolutionary mamie" as 0
+create participant "specials unexpectedly" as 1
+0 -> 1 : specials unexpectedly
+create participant "slope hopefully" as 2
+1 -> 2 : slope hopefully
+alt adjectives condom
+...correct absolution...
+0 -> 2!! : trips peeping
+end
+@enduml

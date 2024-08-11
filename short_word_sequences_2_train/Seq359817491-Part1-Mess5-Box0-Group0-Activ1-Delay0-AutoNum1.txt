@@ -1,0 +1,10 @@
+@startuml
+participant "thirsty dismissal" as 0
+autonumber 0 3
+0 --//o 0: paperweight merely
+0 -> 0++ : meetings duffle
+0 -> 0: regular schooled
+ [<- 0: ai preside
+ [-> 0: grounds musket
+return taffy recalled
+@enduml

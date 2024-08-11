@@ -1,0 +1,7 @@
+@startuml
+participant "lighting torching" as 0
+0 -->x 0: begat pertains
+...wrapper monitored...
+0 --//o 0: call biscuit
+0 --//o 0: vengeful image
+@enduml

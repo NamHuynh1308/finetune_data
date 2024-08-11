@@ -1,0 +1,13 @@
+@startuml
+participant "parkway whether" as 0
+participant "sans hairline" as 1
+autonumber 3 1
+0 <-> 1++ : ramp croutons
+...kirk ramp...
+0 ->> 0: hails tanker
+return expectations electrodes
+create participant "daze flashlight" as 2
+0 -> 2 : daze flashlight
+0 ->] : rambling antelope
+0 -\\ 1: publish midtown
+@enduml

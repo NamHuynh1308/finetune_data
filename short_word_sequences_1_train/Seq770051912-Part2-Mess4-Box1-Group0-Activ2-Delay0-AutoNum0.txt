@@ -1,0 +1,12 @@
+@startuml
+participant "strummer surprises" as 0
+box "summit cod"
+participant "acts sparring" as 1
+end box
+1 -\\ 0: exasperating mowing
+0 -> 1: dreary shame
+0 -\\ 1++ : dibs silva
+1 ->> 1++ : whim servitude
+return swimming crutch
+return ember fittings
+@enduml

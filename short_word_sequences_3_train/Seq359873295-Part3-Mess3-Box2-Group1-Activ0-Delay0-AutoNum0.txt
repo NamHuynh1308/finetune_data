@@ -1,0 +1,14 @@
+@startuml
+participant "mission alienation" as 0
+box "dusty donor"
+participant "tissue secretarial" as 1
+box "millionaires lambs"
+participant "feedback bunker" as 2
+end box
+end box
+2 <-] : stages jeopardized
+1 ->o 1: intruder beeswax
+alt introduce withhold
+0 -> 1!! : mashed lurk
+end
+@enduml

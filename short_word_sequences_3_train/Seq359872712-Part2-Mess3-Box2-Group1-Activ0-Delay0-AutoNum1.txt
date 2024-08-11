@@ -1,0 +1,17 @@
+@startuml
+box "kneeling sensing"
+participant "voice brews" as 0
+box "fanciful sewers"
+participant "hatchet expensive" as 1
+end box
+end box
+== envisioned campaign ==
+autonumber 2 7
+opt shedding butchers
+1 ->> 0: specimen marketplace
+autonumber stop
+ [-> 1: lighthearted advising
+1 ->x 1: insult poem
+else reinforced undisputed
+end
+@enduml

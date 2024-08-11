@@ -1,0 +1,4 @@
+@startuml
+participant "discounts slithering" as 0
+0 ->> 0: spy secretaries
+@enduml

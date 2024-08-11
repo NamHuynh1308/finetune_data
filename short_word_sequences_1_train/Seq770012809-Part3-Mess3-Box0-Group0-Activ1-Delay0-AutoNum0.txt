@@ -1,0 +1,9 @@
+@startuml
+participant "picnic nonviolent" as 0
+participant "happiest giddyup" as 1
+participant "rejoicing porter" as 2
+1 --> 2++ : bidding trimmings
+0 -> 2: rouse legacy
+1 -> 1!! : gives pipes
+return obscured excellence
+@enduml

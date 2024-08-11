@@ -1,0 +1,14 @@
+@startuml
+box "clockwork jaguars"
+participant "revert digestion" as 0
+box "hawks classless"
+participant "sobering espressos" as 1
+end box
+end box
+0 -> 0++ : fingernail ridding
+opt wingman brewing
+1 -> 1++ : jelly appears
+end
+return exceptionally conned
+return senile charred
+@enduml

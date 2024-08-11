@@ -1,0 +1,12 @@
+@startuml
+participant "maternal requirement" as 0
+autonumber 2 7
+create participant "nominated barstool" as 1
+0 -> 1 : nominated barstool
+alt samaritan ectopic
+1 -->x 1: homes crates
+loop salaries cheerleaders
+1 -> 0: annual hammered
+end
+end
+@enduml

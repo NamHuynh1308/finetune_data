@@ -1,0 +1,11 @@
+@startuml
+box "economical hexes"
+participant "slaw intern" as 0
+end box
+== doves llama ==
+autonumber 4 3
+0 -->x 0: sputnik cripes
+0 ->x 0: petty tones
+autonumber stop
+0 -> 0: congregation burnout
+@enduml

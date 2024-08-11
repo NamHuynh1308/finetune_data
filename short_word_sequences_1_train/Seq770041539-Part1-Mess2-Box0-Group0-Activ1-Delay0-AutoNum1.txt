@@ -1,0 +1,8 @@
+@startuml
+participant "warmed barbecued" as 0
+== ails reward ==
+autonumber 4 5
+0 -// 0: jill reread
+0 -> 0++ : quit entry
+return include ultimatum
+@enduml

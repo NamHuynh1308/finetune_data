@@ -1,0 +1,15 @@
+@startuml
+participant "interacting modern" as 0
+participant "coz straw" as 1
+box "stakeouts candidate"
+participant "madly yep" as 2
+end box
+== out sundae ==
+ [-> 2: deliberation superiors
+...rock miserable...
+0 <-] : confidant summoning
+0 -->x 2: labelled hades
+ [<- 2: trifle provolone
+...cocked reevaluate...
+2 -> 2: conquers regretting
+@enduml

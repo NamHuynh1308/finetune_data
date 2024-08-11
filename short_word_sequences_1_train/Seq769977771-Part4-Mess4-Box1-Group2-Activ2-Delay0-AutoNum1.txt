@@ -1,0 +1,22 @@
+@startuml
+participant "outfits sentenced" as 0
+participant "plugs overqualified" as 1
+box "journal destructive"
+participant "beetle diced" as 2
+participant "hyperventilate pokes" as 3
+end box
+autonumber 6 1
+loop blimey snatches
+0 -// 2++ : perk steak
+2 -\\ 1: groveling troupe
+autonumber stop
+else listener commodities
+alt imagination prototypes
+2 -> 1++ : devastatingly flirted
+3 --> 2: camera extenuating
+autonumber resume
+end
+end
+return out interlude
+return violating waive
+@enduml

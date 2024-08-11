@@ -1,0 +1,11 @@
+@startuml
+participant "broiler blushing" as 0
+box "deranged handheld"
+participant "torture popped" as 1
+end box
+0 --> 1++ : pickup drawers
+1 -\\ 1: mocha modus
+0 ->] : revenge cracked
+1 -// 0: mockery seventeenth
+return browbeat roll
+@enduml

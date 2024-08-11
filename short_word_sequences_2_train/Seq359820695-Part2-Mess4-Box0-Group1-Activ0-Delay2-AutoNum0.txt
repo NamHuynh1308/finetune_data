@@ -1,0 +1,12 @@
+@startuml
+participant "shreds robots" as 0
+participant "passer heir" as 1
+loop brushed without
+ [<- 0: rooms city
+1 ->] : seaboard occasion
+...cautiously playboys...
+0 ->> 1: streamlined marching
+...brotherhood listed...
+1 -\\ 1: gateway hoe
+end
+@enduml

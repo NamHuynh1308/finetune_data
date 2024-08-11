@@ -1,0 +1,32 @@
+@startuml
+box "tryouts additions"
+participant "dart anxiously" as 0
+participant "upkeep embarrassingly" as 1
+end box
+box "rodents humiliated"
+participant "performer synagogue" as 2
+box "impertinent dispute"
+participant "arbor sightings" as 3
+end box
+end box
+== acquisitions owed ==
+create participant "relax proximity" as 4
+1 -> 4 : relax proximity
+opt incommunicado hairless
+...shebang billion...
+3 -// 4: programming invigorating
+2 -> 0++ : pry brock
+3 --//o 2: anomaly justify
+end
+1 -\\ 2: hybrids branching
+0 --> 3++ : diaphragms confessing
+opt brokenhearted probationary
+0 -> 2++ : garcon transgressions
+2 -->x 4++ : entomology money
+else dilated slumber
+end
+return hunky dictated
+return wig yeller
+return dove graces
+return preside slough
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "neighbour mixers" as 0
+box "hedging floe"
+participant "incarcerate shores" as 1
+end box
+autonumber 9 2
+0 ->] : stodgy bruised
+opt skag toured
+0 ->] : touchdown cooper
+0 --> 1: cuter heartwarming
+opt blatantly inconceivable
+0 -> 1: deserts swirly
+loop incredible fear
+1 -> 1: athletic orchestrate
+autonumber stop
+end
+end
+end
+@enduml

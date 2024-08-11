@@ -1,0 +1,14 @@
+@startuml
+participant "watcher receiving" as 0
+participant "garages chemo" as 1
+participant "undeserving miscarriage" as 2
+participant "regional superpowers" as 3
+autonumber 2 1
+0 -->x 0++ : potsie transformation
+1 -// 1++ : toothpick liaison
+2 <-> 2: psychology impenetrable
+return sonar signs
+...makeovers pate...
+2 -> 2: wiggy mundane
+return unjustly teller
+@enduml

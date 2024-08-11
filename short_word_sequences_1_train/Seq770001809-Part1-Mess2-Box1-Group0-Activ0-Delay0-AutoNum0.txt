@@ -1,0 +1,7 @@
+@startuml
+box "rousted bat"
+participant "muskrat heiress" as 0
+end box
+0 ->] : rob crude
+0 -// 0: audacity judas
+@enduml

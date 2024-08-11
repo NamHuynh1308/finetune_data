@@ -1,0 +1,36 @@
+@startuml
+participant "es particle" as 0
+box "sabers conspiracy"
+participant "upload weapons" as 1
+box "bravado stooped"
+participant "requiem engine" as 2
+participant "crowd reassurance" as 3
+box "knocking nature"
+participant "reviving resented" as 4
+end box
+end box
+end box
+== captain formed ==
+autonumber 1 0
+par inedible southern
+0 -> 0: schooner puns
+break holy gimbal
+1 <-] : oho chickened
+autonumber stop
+2 -> 4: regularity chore
+else consul hollers
+4 -> 1: hurl dieting
+autonumber resume
+2 -->x 1: pajama handled
+3 ->o 2: accelerating opera
+autonumber stop
+opt nibble clink
+...attributes beakers...
+4 -> 0++ : rehearsals jumpers
+...quiz formality...
+4 -> 1!! : objective anyhow
+return horde teed
+end
+end
+end
+@enduml

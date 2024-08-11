@@ -1,0 +1,13 @@
+@startuml
+participant "moved alerting" as 0
+participant "mumbling pollock" as 1
+participant "haircuts punished" as 2
+== appointments paralyzing ==
+2 ->] : hetero med
+2 -> 2!! : flatulence lobsters
+...oppress grime...
+2 <-] : orphanage served
+par headphones adventurous
+1 ->x 2: decent nipping
+end
+@enduml

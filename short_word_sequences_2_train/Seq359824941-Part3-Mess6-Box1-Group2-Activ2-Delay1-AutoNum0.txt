@@ -1,0 +1,24 @@
+@startuml
+box "heil snort"
+participant "ailments muss" as 0
+participant "recent rivalry" as 1
+end box
+participant "trailing adolescence" as 2
+== breakup begged ==
+opt legends causing
+1 --> 0++ : flare experiments
+1 -> 1: sparkling faggy
+else blowfish preying
+1 ->> 0++ : firehouse procedure
+else salesman kabob
+critical spree swimmer
+...mildew operas...
+0 -->x 2: timed whip
+return statistics alimony
+1 -> 0: framed snowmobiles
+end
+ [-> 2: geosynchronous hospitalized
+else sobriety fox
+end
+return sprints packet
+@enduml

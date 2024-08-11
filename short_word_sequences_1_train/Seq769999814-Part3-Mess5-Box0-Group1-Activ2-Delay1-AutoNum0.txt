@@ -1,0 +1,17 @@
+@startuml
+participant "roger firestorm" as 0
+participant "wiggling shop" as 1
+== weathers chino ==
+1 -> 0: pending tutti
+par methodology peripheral
+...assuring winning...
+0 --> 1++ : deserts neighborhood
+create participant "spectra patty" as 2
+0 -> 2 : spectra patty
+return ageing adenoids
+2 --> 2: sixty roadies
+0 -// 1++ : concerned berserker
+else rapidly reuniting
+end
+return piffle dissing
+@enduml

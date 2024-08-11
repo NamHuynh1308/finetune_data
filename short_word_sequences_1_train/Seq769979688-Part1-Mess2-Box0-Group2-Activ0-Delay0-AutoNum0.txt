@@ -1,0 +1,10 @@
+@startuml
+participant "stream kraft" as 0
+== squeak baiting ==
+opt fleas cats
+0 -> 0: klutzy toot
+loop cliche infra
+0 -> 0!! : slogans destitute
+end
+end
+@enduml

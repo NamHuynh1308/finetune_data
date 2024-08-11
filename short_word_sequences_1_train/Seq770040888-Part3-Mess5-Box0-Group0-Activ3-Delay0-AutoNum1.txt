@@ -1,0 +1,15 @@
+@startuml
+participant "chatting blondes" as 0
+participant "fancied maddening" as 1
+participant "cleanliness greener" as 2
+autonumber 1 9
+2 -> 0++ : terry mascot
+2 ->x 0++ : lacrosse teenagers
+autonumber stop
+1 -> 0!! : seize trippy
+return dreamt chums
+0 ->> 0++ : infarction struts
+2 -// 2: computerized fielding
+return vineyards retailers
+return hundred affectionately
+@enduml

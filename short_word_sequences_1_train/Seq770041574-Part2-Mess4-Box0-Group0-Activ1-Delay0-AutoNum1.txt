@@ -1,0 +1,11 @@
+@startuml
+participant "lawsuit skivvies" as 0
+participant "various carolling" as 1
+autonumber 1 10
+1 ->> 0: werewolves promotes
+0 ->> 0++ : along notably
+1 -> 0: intros again
+0 ->x 0: dissed deflecting
+return answer erred
+autonumber stop
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "scuff echoes" as 0
+participant "wired beagle" as 1
+participant "wildlife flipper" as 2
+== challenges clocked ==
+2 ->> 1: centerpiece bozos
+1 <-] : laughed irritation
+...practically complacency...
+0 <-] : appease computers
+1 -> 0: hocking proprietary
+0 -> 2!! : adolescence rotate
+...posse squall...
+0 <-> 1: viva spleen
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "bladder registry" as 0
+participant "disturbance advantages" as 1
+1 <-] : growing girls
+ [<- 0: otter undue
+0 ->] : hate profits
+create participant "literate prosecution" as 2
+0 -> 2 : literate prosecution
+@enduml

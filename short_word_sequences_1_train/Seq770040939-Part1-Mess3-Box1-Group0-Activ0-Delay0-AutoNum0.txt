@@ -1,0 +1,8 @@
+@startuml
+box "interacting invaders"
+participant "furtive scalp" as 0
+end box
+ [<- 0: lows roaming
+0 ->] : nickname evolve
+0 -\\ 0: honest visible
+@enduml

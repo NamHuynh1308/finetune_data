@@ -1,0 +1,30 @@
+@startuml
+participant "bandages recognized" as 0
+participant "applies monetary" as 1
+participant "decadent backfired" as 2
+participant "corporal rehab" as 3
+== bangers stance ==
+autonumber 1 3
+alt dullard systematic
+ [-> 2: unprotected spectacularly
+break dry lest
+2 ->] : butch presume
+autonumber stop
+ [<- 1: potent convulsing
+loop yuck masquerade
+...skulk termination...
+3 -> 1++ : lofty ness
+autonumber resume
+alt buddy senseless
+...zag popped...
+3 --//o 2: comparative renting
+return renders pointe
+1 -// 2: raptors destructive
+autonumber stop
+end
+3 ->> 0: sicko addiction
+autonumber resume
+end
+end
+end
+@enduml

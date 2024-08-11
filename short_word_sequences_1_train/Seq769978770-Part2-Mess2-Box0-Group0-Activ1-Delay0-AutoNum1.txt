@@ -1,0 +1,8 @@
+@startuml
+participant "atropine herald" as 0
+participant "napkins transactions" as 1
+autonumber 1 5
+1 -> 1!! : coolant pickpockets
+0 ->> 1++ : glint delinquency
+return fairest sweater
+@enduml

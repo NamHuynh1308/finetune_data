@@ -1,0 +1,21 @@
+@startuml
+participant "zesty esoteric" as 0
+box "cornflakes warm"
+participant "latched nourishment" as 1
+box "spoil song"
+participant "nurtured orders" as 2
+box "dallying left"
+participant "turds sabe" as 3
+end box
+end box
+end box
+== squadron meditating ==
+create participant "withhold policeman" as 4
+0 -> 4 : withhold policeman
+1 <-] : brill predecessor
+...seasons eagle...
+2 ->> 0: sailor fathered
+loop treasury excepted
+1 -> 2: geishas crutches
+end
+@enduml

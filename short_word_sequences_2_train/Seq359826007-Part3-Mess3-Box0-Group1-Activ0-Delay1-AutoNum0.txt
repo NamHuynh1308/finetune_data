@@ -1,0 +1,11 @@
+@startuml
+participant "alcove lobotomy" as 0
+participant "apocalypse engaging" as 1
+participant "matrimonial slim" as 2
+loop blackouts sharp
+2 -// 1: yarn desperate
+1 -\\ 2: injection contradicting
+...benched surly...
+1 --//o 0: rejoice bedrooms
+end
+@enduml

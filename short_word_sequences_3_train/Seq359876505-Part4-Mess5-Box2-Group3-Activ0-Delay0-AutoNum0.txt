@@ -1,0 +1,22 @@
+@startuml
+participant "pulls diets" as 0
+box "strike superstitious"
+participant "regent sued" as 1
+box "coffers rear"
+participant "pissed shed" as 2
+participant "heil proceedings" as 3
+end box
+end box
+ [-> 0: hindrance prove
+opt helo bases
+ [<- 1: fact tests
+ [<- 3: workplace commiserate
+else whacked comb
+loop cubed inquest
+ [<- 2: concern childhoods
+opt halitosis coarse
+3 ->] : materials supports
+end
+end
+end
+@enduml

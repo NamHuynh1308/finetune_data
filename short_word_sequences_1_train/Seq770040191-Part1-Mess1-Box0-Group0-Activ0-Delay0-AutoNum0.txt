@@ -1,0 +1,5 @@
+@startuml
+participant "diabetics shoes" as 0
+== doze crumb ==
+0 <-> 0: subway currency
+@enduml

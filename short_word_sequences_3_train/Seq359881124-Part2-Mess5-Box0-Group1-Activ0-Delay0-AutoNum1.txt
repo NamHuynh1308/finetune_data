@@ -1,0 +1,17 @@
+@startuml
+participant "highs unspoiled" as 0
+== lawns anonymous ==
+autonumber 2 2
+0 <-] : previous assassination
+autonumber stop
+0 --> 0: sale pipeline
+autonumber resume
+0 -> 0: shredded preposterous
+par ashore bunting
+create participant "unmarried rightly" as 1
+0 -> 1 : unmarried rightly
+1 -> 1: ariel congeniality
+autonumber stop
+else jumble cappuccino
+end
+@enduml

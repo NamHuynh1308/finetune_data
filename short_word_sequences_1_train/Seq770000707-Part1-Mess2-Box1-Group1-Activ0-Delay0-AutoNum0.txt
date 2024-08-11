@@ -1,0 +1,10 @@
+@startuml
+box "forged stump"
+participant "ought flounder" as 0
+end box
+== tipping sixpence ==
+0 -->x 0: nightstick died
+opt palpitations fluttering
+0 --//o 0: sources upload
+end
+@enduml

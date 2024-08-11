@@ -1,0 +1,23 @@
+@startuml
+box "errand spike"
+participant "mouthpiece twig" as 0
+box "feminine chatty"
+participant "testing spaces" as 1
+participant "precedence florence" as 2
+end box
+participant "realms nurturing" as 3
+end box
+participant "wireless tricked" as 4
+create participant "hearse plead" as 5
+1 -> 5 : hearse plead
+2 ->o 1: gripe chatting
+alt loveless legal
+4 <-> 2: birthmark vulture
+loop amuses joes
+...occupations beamed...
+5 ->o 5: grieving asinine
+1 -// 5: guineas horde
+else artists mistakes
+end
+end
+@enduml

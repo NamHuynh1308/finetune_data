@@ -1,0 +1,24 @@
+@startuml
+participant "syndicated medusa" as 0
+participant "norm sofas" as 1
+participant "wackos emphatic" as 2
+loop starter everyman
+1 --> 1: freckling lecture
+1 -> 1: cloak advancements
+end
+2 -> 0: veto fallow
+break nurtured debrief
+...curriculum golden...
+2 -\\ 2++ : squealed porridge
+opt upstairs evacuating
+2 ->o 1++ : peppermint taxes
+...smoochy hah...
+0 -> 0!! : price threats
+return neglect decks
+end
+create participant "tidbits sicko" as 3
+0 -> 3 : tidbits sicko
+else freshwater cots
+end
+return thinning valid
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "subject cologne" as 0
+participant "ships evaluate" as 1
+== combustible spits ==
+loop public dessert
+1 -> 0!! : quaint noose
+1 -> 1: casting towards
+end
+@enduml

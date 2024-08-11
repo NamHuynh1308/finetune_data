@@ -1,0 +1,15 @@
+@startuml
+participant "endlessly scoreboard" as 0
+participant "quarters junior" as 1
+participant "equipped antihistamine" as 2
+participant "priors manicures" as 3
+participant "astrophysics explicit" as 4
+0 <-> 2: adopt tracker
+ [-> 4: mice scintillating
+2 -> 3++ : maggot forked
+2 <-> 4++ : subpoena pitched
+create participant "scared finest" as 5
+3 -> 5 : scared finest
+return confessional feelers
+return solicitation table
+@enduml

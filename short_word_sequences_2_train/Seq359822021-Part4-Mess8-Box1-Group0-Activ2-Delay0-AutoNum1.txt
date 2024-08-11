@@ -1,0 +1,21 @@
+@startuml
+participant "mini coddling" as 0
+participant "irrigation cackle" as 1
+box "banister pours"
+participant "governments matching" as 2
+participant "force disgust" as 3
+end box
+autonumber 9 1
+1 ->x 3: microbes goopy
+0 -// 2: scooped compound
+ [<- 1: freaking mesa
+1 --//o 1: conceding roadblock
+1 --> 2++ : sanctity maple
+autonumber stop
+0 ->o 3: guides loved
+return gypped civilisation
+3 -> 3: prayer landslide
+autonumber resume
+1 -->x 3++ : vehicle intellect
+return calculators witnessing
+@enduml

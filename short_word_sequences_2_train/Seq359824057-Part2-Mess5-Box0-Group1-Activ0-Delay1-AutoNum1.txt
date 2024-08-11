@@ -1,0 +1,15 @@
+@startuml
+participant "jack waiter" as 0
+== praying ceramic ==
+autonumber 7 3
+loop tins attracting
+0 -> 0: witching manually
+autonumber stop
+ [<- 0: stereo canvass
+...grassy sickened...
+0 ->> 0: unchanged baton
+create participant "frank hallucinating" as 1
+0 -> 1 : frank hallucinating
+0 -->x 1: tail hail
+end
+@enduml

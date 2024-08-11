@@ -1,0 +1,8 @@
+@startuml
+participant "special goblins" as 0
+== tragedy siblings ==
+autonumber 2 1
+0 -> 0: dates westbound
+autonumber stop
+0 ->] : communal illegals
+@enduml

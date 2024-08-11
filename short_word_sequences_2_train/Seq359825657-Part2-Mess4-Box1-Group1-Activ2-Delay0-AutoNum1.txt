@@ -1,0 +1,15 @@
+@startuml
+participant "badges shoelace" as 0
+box "reshoots located"
+participant "bonfire bah" as 1
+end box
+autonumber 10 0
+1 -> 1++ : pandering aerospace
+1 -> 1++ : barstool homophobic
+0 -> 1: fruits deposition
+alt tabloid mothering
+ [<- 0: journal harbor
+end
+return stabilizing dominate
+return knife chapel
+@enduml

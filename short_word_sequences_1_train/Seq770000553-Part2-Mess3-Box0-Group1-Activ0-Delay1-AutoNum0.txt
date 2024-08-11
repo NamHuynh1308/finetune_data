@@ -1,0 +1,11 @@
+@startuml
+participant "martini possum" as 0
+participant "squeaks anticipated" as 1
+== mutually cuff ==
+0 --//o 1: portion brooms
+...stupidly rib...
+1 -> 0: graves ferment
+opt namesake collie
+ [-> 1: flaws counselling
+end
+@enduml

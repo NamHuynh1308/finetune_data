@@ -1,0 +1,13 @@
+@startuml
+box "anchoring onboard"
+participant "fatten wally" as 0
+end box
+alt bias midwestern
+0 <-] : molds expressive
+0 -\\ 0++ : fall queens
+else diseased scrunch
+0 -\\ 0: thinner skinny
+0 ->x 0: jets superpowers
+end
+return passionately overcast
+@enduml

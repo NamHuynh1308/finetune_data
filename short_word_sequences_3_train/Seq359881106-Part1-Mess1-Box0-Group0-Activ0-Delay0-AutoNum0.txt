@@ -1,0 +1,5 @@
+@startuml
+participant "tailor lowdown" as 0
+== detonation donut ==
+0 --//o 0: formations reporting
+@enduml

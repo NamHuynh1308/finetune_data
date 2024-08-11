@@ -1,0 +1,7 @@
+@startuml
+participant "establishes external" as 0
+participant "clanging wood" as 1
+autonumber 5 9
+0 -> 0: uninteresting alcoholics
+1 -> 0: endive maim
+@enduml

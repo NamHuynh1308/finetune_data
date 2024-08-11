@@ -1,0 +1,21 @@
+@startuml
+participant "windmills encountered" as 0
+participant "amniotic incapacitated" as 1
+box "numerous comparatively"
+participant "variety stamped" as 2
+participant "delays daffodils" as 3
+end box
+autonumber 4 2
+1 ->o 0: misplaced teenagers
+3 -> 2: unfounded howl
+0 ->o 0++ : sicker bronchial
+autonumber stop
+create participant "pass tableau" as 4
+2 -> 4 : pass tableau
+autonumber resume
+...stun sparkle...
+ [<- 2: specialists reportedly
+3 ->] : orbed underpass
+autonumber stop
+return compute suspect
+@enduml

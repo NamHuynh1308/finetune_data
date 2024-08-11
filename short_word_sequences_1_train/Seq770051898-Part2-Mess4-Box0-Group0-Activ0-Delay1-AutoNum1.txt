@@ -1,0 +1,12 @@
+@startuml
+participant "amenities systematic" as 0
+participant "wigged grownup" as 1
+autonumber 3 7
+1 --> 0: chewed snobby
+autonumber stop
+1 -->x 0: indulgence motions
+...directory intrigue...
+1 -// 1: reinstated lookout
+autonumber resume
+ [-> 1: manhood devote
+@enduml

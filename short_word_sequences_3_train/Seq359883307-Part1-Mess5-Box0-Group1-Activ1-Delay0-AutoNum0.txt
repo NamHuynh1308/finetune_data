@@ -1,0 +1,11 @@
+@startuml
+participant "fainter gendarme" as 0
+0 ->o 0: rename wrong
+alt puce snug
+0 ->o 0: false manatees
+0 -> 0: platypus governess
+end
+0 -// 0++ : cackling detrimental
+0 ->] : ski potsie
+return pinhead ping
+@enduml

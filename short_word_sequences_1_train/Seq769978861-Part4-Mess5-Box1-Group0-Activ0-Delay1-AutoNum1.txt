@@ -1,0 +1,15 @@
+@startuml
+box "sack drummer"
+participant "sprinklers aspirations" as 0
+participant "sultan virtually" as 1
+participant "cognac admirably" as 2
+participant "matron debriefed" as 3
+end box
+autonumber 1 4
+ [-> 1: tosses respiratory
+...entirely personified...
+0 <-] : sandstorm spokesperson
+ [-> 2: simple prosper
+0 -> 0: construct rainy
+ [<- 0: neatly moping
+@enduml

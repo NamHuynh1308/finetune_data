@@ -1,0 +1,18 @@
+@startuml
+participant "hopping showoff" as 0
+participant "candor privy" as 1
+participant "fallout aplastic" as 2
+autonumber 9 0
+0 -> 2: exorcism embroiled
+0 ->> 2: pointless leather
+1 ->] : seed forceful
+...stingray amin...
+0 -> 2: interested canines
+autonumber stop
+break quaking pellet
+2 ->> 0: firebird poachers
+create participant "land incomprehensible" as 3
+1 -> 3 : land incomprehensible
+autonumber resume
+end
+@enduml

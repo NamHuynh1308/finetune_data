@@ -1,0 +1,8 @@
+@startuml
+participant "cleaning digested" as 0
+== poachers perk ==
+0 -// 0: condemned policies
+alt committee pole
+0 -> 0: compare circumvent
+end
+@enduml

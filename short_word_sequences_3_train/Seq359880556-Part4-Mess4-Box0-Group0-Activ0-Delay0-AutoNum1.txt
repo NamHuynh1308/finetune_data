@@ -1,0 +1,14 @@
+@startuml
+participant "dish limestone" as 0
+participant "flex et" as 1
+participant "heat realist" as 2
+autonumber 3 10
+create participant "bluest untied" as 3
+0 -> 3 : bluest untied
+1 ->o 0: lumpectomy eighties
+autonumber stop
+3 <-] : shag minions
+autonumber resume
+ [<- 0: wilder enrollment
+autonumber stop
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "sororities generally" as 0
+box "hear idle"
+participant "transcripts protested" as 1
+end box
+autonumber 2 1
+0 -\\ 1++ : carelessness organism
+1 ->o 1: soulful walls
+return wonders dictation
+@enduml

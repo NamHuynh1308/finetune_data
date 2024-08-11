@@ -1,0 +1,12 @@
+@startuml
+box "rains accounting"
+participant "stashed flaked" as 0
+participant "transient enlighten" as 1
+end box
+1 <-] : using incest
+break tucker excommunicated
+0 -> 1++ : busted parlor
+1 ->o 1: distasteful tribute
+end
+return crooked tile
+@enduml

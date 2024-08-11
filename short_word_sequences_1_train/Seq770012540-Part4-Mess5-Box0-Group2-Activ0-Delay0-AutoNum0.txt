@@ -1,0 +1,16 @@
+@startuml
+participant "incubation stretching" as 0
+participant "eleven ala" as 1
+participant "cutest kibosh" as 2
+2 ->o 1: consort parachute
+create participant "ever ache" as 3
+1 -> 3 : ever ache
+opt spices chemicals
+0 -> 0: accusers preamble
+2 ->] : crouched keen
+else bookmark approving
+par recruiter sauce
+2 ->> 2: prejudiced crossing
+end
+end
+@enduml

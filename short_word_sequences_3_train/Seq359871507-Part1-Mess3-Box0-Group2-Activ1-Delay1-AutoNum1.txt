@@ -1,0 +1,14 @@
+@startuml
+participant "sunspots served" as 0
+autonumber 1 9
+alt exceed trimester
+ [-> 0: ragtime spores
+0 -// 0: baseless hushed
+critical hyphen gone
+...laboratory attentions...
+0 -// 0++ : alameda floating
+autonumber stop
+end
+end
+return dyed visas
+@enduml

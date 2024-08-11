@@ -1,0 +1,17 @@
+@startuml
+box "lair sook"
+participant "feverish dictator" as 0
+participant "grouchy composure" as 1
+end box
+box "bro mandarin"
+participant "truss alike" as 2
+end box
+1 -> 2: eunuch alligator
+...crikey emulating...
+2 <-] : extraterrestrial indentured
+...mentor fend...
+2 -> 1: poisonous gifts
+1 -> 2: devotion girth
+2 ->> 0++ : teens apparently
+return possesses calculated
+@enduml

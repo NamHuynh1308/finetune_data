@@ -1,0 +1,27 @@
+@startuml
+participant "prizes forgot" as 0
+box "planetary bosom"
+participant "occurred grossed" as 1
+participant "slanted whim" as 2
+participant "eleventh absolution" as 3
+participant "anarchist restitution" as 4
+end box
+create participant "drugs fixings" as 5
+2 -> 5 : drugs fixings
+...hating physicals...
+4 -> 2++ : impressing sideline
+par parliamentary question
+3 -> 5: poppa knobby
+loop ironing ridiculously
+5 ->] : postmaster sweeps
+loop jokers wages
+0 ->> 0: regimental debated
+return loneliest implying
+5 -> 1: incriminating admonished
+else overkill ditty
+...dispatches assimilated...
+2 -> 1: regard adopted
+end
+end
+end
+@enduml

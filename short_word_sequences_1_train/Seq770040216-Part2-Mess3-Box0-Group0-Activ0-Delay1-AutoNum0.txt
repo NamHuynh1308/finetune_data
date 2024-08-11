@@ -1,0 +1,8 @@
+@startuml
+participant "peeked accuracy" as 0
+0 ->> 0: telekinetic petting
+create participant "discourage amusement" as 1
+0 -> 1 : discourage amusement
+...serenade concede...
+ [<- 0: kingdom inheritance
+@enduml

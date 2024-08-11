@@ -1,0 +1,28 @@
+@startuml
+participant "fewer hippies" as 0
+box "duties impotent"
+participant "quilts sliced" as 1
+participant "bonding untrue" as 2
+participant "trade remove" as 3
+end box
+box "standardized jammies"
+participant "carnivorous harbour" as 4
+end box
+alt diapers daisy
+1 -> 0: gimmicks moors
+opt seppuku rocking
+ [-> 4: polka hatches
+2 --> 0: bonfire meow
+end
+1 -> 2: led misogynistic
+par proverb complication
+1 -> 2++ : negotiable pediatrics
+3 -->x 1++ : mortgages symmetrical
+...harassed roofs...
+1 -> 0: justifies screened
+ [<- 2: carving grills
+end
+end
+return angelus disappearances
+return channel wiggy
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "supermarkets contents" as 0
+== sparring roust ==
+0 -> 0: chaser applications
+par hogs supplements
+...certainties disapproval...
+0 ->x 0: firebug salt
+ [<- 0: beggars retainer
+else caterers consecrated
+0 -> 0: flatters pharaohs
+end
+@enduml

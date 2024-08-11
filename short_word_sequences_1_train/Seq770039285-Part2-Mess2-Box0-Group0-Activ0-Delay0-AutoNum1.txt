@@ -1,0 +1,7 @@
+@startuml
+participant "trilogy sadistic" as 0
+autonumber 5 5
+0 -> 0: scholarship skating
+create participant "eel trial" as 1
+0 -> 1 : eel trial
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+participant "apollo slaw" as 0
+participant "stare thy" as 1
+box "junkie mounted"
+participant "coolest battering" as 2
+participant "condo nowhere" as 3
+end box
+box "meltdown captivating"
+participant "trek legs" as 4
+end box
+== frequently cypher ==
+autonumber 5 10
+alt engagements morally
+4 <-> 2: described abiding
+alt flag mayday
+2 -> 1: angora tomorrow
+3 -// 2: field colitis
+else unsuspecting usual
+0 --> 3: intelligence memorized
+autonumber stop
+par medically transmit
+1 -> 0!! : lays assertive
+...toting hyperspace...
+2 ->o 4: activated conservatory
+else cup flunked
+end
+end
+end
+@enduml

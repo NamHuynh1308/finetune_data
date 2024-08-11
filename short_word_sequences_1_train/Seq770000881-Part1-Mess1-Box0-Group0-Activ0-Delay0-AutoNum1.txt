@@ -1,0 +1,6 @@
+@startuml
+participant "biz pandora" as 0
+== freeing atom ==
+autonumber 7 2
+0 -\\ 0: venison judgmental
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "muscles book" as 0
+participant "darken scumbags" as 1
+== meteorite buzzing ==
+autonumber 7 8
+0 <-> 1++ : anecdote displayed
+autonumber stop
+0 <-> 0++ : definition attracted
+return bookcase gifted
+return assets selfish
+@enduml

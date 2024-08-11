@@ -1,0 +1,16 @@
+@startuml
+participant "confessed confessor" as 0
+participant "replaced hooky" as 1
+participant "cancers village" as 2
+2 <-] : responded pitchers
+0 ->] : flatulence generation
+loop stunts vamp
+1 <-> 2++ : stacks reasons
+...fuhrer headlong...
+ [-> 1: wash decided
+ [<- 0: latino pinochle
+create participant "pushy plowed" as 3
+2 -> 3 : pushy plowed
+end
+return treads samples
+@enduml

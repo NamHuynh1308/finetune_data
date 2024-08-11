@@ -1,0 +1,12 @@
+@startuml
+participant "privilege awakes" as 0
+== filmmakers heinie ==
+autonumber 7 6
+create participant "bachelor prosecuted" as 1
+0 -> 1 : bachelor prosecuted
+...titanium geological...
+0 --> 1: sump skipped
+autonumber stop
+create participant "liquored desperado" as 2
+1 -> 2 : liquored desperado
+@enduml

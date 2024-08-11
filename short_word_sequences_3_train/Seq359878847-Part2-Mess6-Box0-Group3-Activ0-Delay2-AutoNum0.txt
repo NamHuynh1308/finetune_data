@@ -1,0 +1,19 @@
+@startuml
+participant "munchkins personable" as 0
+participant "marches valuable" as 1
+0 -> 1: contents comedians
+par scheme marked
+0 -->x 0: anonymous assimilate
+critical wrinkles affirmative
+1 <-> 0: portrait waist
+opt callers profess
+...constituents swearing...
+1 -->x 0: sludge violate
+...tomato twelve...
+1 -> 0: desist ruined
+end
+1 -> 1: relating semi
+else month grooming
+end
+end
+@enduml

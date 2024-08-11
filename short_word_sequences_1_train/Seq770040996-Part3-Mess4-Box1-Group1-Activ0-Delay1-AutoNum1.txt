@@ -1,0 +1,17 @@
+@startuml
+participant "salesman choose" as 0
+box "uncompromising raincoat"
+participant "medina decoded" as 1
+participant "cranking midlife" as 2
+end box
+autonumber 10 9
+1 -> 1: earthquake enforcing
+autonumber stop
+ [<- 0: aspirations howdy
+1 -> 2: obligations wrapped
+autonumber resume
+loop vis pills
+...griddle innocently...
+0 --//o 0: nudge pack
+end
+@enduml

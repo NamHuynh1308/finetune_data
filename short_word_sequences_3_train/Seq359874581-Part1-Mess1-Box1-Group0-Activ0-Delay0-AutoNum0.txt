@@ -1,0 +1,7 @@
+@startuml
+box "evasive stands"
+participant "peeks sensibilities" as 0
+end box
+== arteries dowdy ==
+0 ->x 0: copper treasures
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+box "stingray munitions"
+participant "showstopper officiate" as 0
+participant "overflow sleepless" as 1
+end box
+box "chronicle insisted"
+participant "detain shrewd" as 2
+end box
+== allergy repulsive ==
+autonumber 0 0
+0 -> 2: kiss copier
+autonumber stop
+opt ability ravish
+2 -->x 0: prying eluded
+create participant "dimple briefed" as 3
+0 -> 3 : dimple briefed
+else swap sims
+0 -> 2: staffed stolen
+autonumber resume
+3 <-] : floated ivy
+1 -> 1++ : chaps community
+par judicial abandon
+3 -\\ 1: goad softly
+end
+end
+return godmother custard
+@enduml

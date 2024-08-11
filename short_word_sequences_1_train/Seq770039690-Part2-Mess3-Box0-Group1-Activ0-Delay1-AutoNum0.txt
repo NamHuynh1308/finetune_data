@@ -1,0 +1,11 @@
+@startuml
+participant "sleazy purging" as 0
+participant "trimester interviewing" as 1
+== reviewed necklaces ==
+ [<- 1: fortified contribute
+alt homo pokey
+1 -> 0: verbatim bustle
+...hippie sin...
+1 -> 1: intruded service
+end
+@enduml

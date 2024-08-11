@@ -1,0 +1,9 @@
+@startuml
+box "jingle visualizing"
+participant "die disqualified" as 0
+participant "ledgers dizzy" as 1
+end box
+1 -> 1!! : parking infantry
+...assignments transmitted...
+ [-> 1: gentlemanly racial
+@enduml

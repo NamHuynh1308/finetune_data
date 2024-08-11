@@ -1,0 +1,11 @@
+@startuml
+box "mondo drug"
+participant "distracted chairs" as 0
+participant "animated crises" as 1
+end box
+1 <-] : disallowed undisputed
+opt prided encountered
+ [<- 0: disconnected surge
+1 --//o 0: exiles vinegar
+end
+@enduml

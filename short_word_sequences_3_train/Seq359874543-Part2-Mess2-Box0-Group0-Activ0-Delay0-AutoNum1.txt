@@ -1,0 +1,8 @@
+@startuml
+participant "existed share" as 0
+participant "saddle hardball" as 1
+== poly cube ==
+autonumber 3 6
+0 ->] : members tape
+0 -> 1: reappears broiler
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+participant "notions passionately" as 0
+participant "oh treatable" as 1
+participant "donating pedigree" as 2
+== ramp morse ==
+create participant "military pin" as 3
+2 -> 3 : military pin
+...morse trapping...
+3 --//o 2: middle varies
+...assist yippee...
+ [<- 0: contortionist intolerant
+alt irregularities photographers
+ [<- 3: uncontrolled hitchhike
+opt kindergarten muscle
+1 ->x 2++ : franchises spilling
+end
+end
+return divorcee landing
+@enduml

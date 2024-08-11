@@ -1,0 +1,7 @@
+@startuml
+box "benefit standish"
+participant "bucko wee" as 0
+end box
+== pretext backbone ==
+0 -> 0: analyzing poorly
+@enduml

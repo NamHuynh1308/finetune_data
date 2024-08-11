@@ -1,0 +1,15 @@
+@startuml
+participant "zephyr trap" as 0
+participant "underdeveloped everyone" as 1
+participant "downtrodden alcohol" as 2
+box "worming derby"
+participant "prude gladiators" as 3
+end box
+autonumber 3 8
+2 -> 3!! : insides lying
+1 <-> 3: cheeks systematic
+ [<- 0: much moustache
+opt broke disorienting
+2 -> 1: murdering telex
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+box "wick hijinks"
+participant "baked inexpensive" as 0
+end box
+== hammers bravery ==
+create participant "dance pea" as 1
+0 -> 1 : dance pea
+critical snagged actions
+0 -> 1: stalker touring
+end
+@enduml

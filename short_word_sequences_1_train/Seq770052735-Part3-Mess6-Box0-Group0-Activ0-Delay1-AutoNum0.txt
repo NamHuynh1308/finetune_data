@@ -1,0 +1,12 @@
+@startuml
+participant "enchanting reinforcement" as 0
+participant "preface getup" as 1
+participant "ideology extraterrestrial" as 2
+2 ->x 1: shocks bankbooks
+1 <-> 2: dummkopf scheme
+...sanitarium park...
+2 -> 2: herb week
+1 ->> 2: lever judges
+1 -// 1: meadow fridge
+2 -> 2: werewolves harps
+@enduml

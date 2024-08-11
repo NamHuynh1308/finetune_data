@@ -1,0 +1,17 @@
+@startuml
+participant "expedition jag" as 0
+participant "fourteenth perched" as 1
+participant "facilities choppy" as 2
+participant "movies heartbreaker" as 3
+autonumber 4 0
+1 ->> 0++ : bandwagon standoff
+0 <-] : regenerated floored
+ [-> 3: calves oceanographic
+3 <-> 1: trusting corky
+return reputation recreated
+break viva grizzly
+0 <-] : forests reamed
+3 --//o 3++ : resource exchanges
+end
+return testimony well
+@enduml

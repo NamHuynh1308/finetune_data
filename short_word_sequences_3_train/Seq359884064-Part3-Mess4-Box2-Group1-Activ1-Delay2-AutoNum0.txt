@@ -1,0 +1,18 @@
+@startuml
+box "pattern freight"
+participant "preemptive principle" as 0
+participant "sausage nippy" as 1
+box "skylight vipers"
+participant "recognizes helper" as 2
+end box
+end box
+1 -->x 1: doze cop
+0 -> 0: premed platters
+...unchanged thesaurus...
+1 -// 2: convention mysterious
+opt heightened caskets
+...booth pentagon...
+1 -->x 2++ : gestapo obviously
+end
+return amateurs reload
+@enduml

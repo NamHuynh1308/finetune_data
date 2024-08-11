@@ -1,0 +1,8 @@
+@startuml
+participant "surround pubes" as 0
+participant "ensure inverted" as 1
+1 ->x 0++ : carnie moved
+...skirmish suds...
+0 -->x 1: psyched acceptable
+return hobbits lawman
+@enduml

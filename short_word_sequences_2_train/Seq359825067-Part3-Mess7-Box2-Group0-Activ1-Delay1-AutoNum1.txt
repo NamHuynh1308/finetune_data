@@ -1,0 +1,23 @@
+@startuml
+box "grieving tremors"
+participant "persistent concluded" as 0
+participant "documented sleeve" as 1
+box "flurries delivers"
+participant "elimination fuel" as 2
+end box
+end box
+autonumber 6 1
+0 ->x 1++ : collins gorge
+1 -\\ 2: smile blips
+autonumber stop
+1 -\\ 0: preserve ghosts
+1 --//o 0: hyperventilate enrich
+return heinie animosity
+autonumber resume
+2 -// 2: crumb smears
+2 ->> 0: immunity ana
+autonumber stop
+...cheque flipping...
+0 -> 1!! : basin deli
+autonumber resume
+@enduml

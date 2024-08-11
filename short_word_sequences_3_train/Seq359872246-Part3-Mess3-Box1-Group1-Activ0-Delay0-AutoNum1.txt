@@ -1,0 +1,14 @@
+@startuml
+box "hornet possibility"
+participant "psychotic grew" as 0
+participant "snails piece" as 1
+end box
+participant "awakes bailing" as 2
+autonumber 6 3
+0 <-] : wallet faltered
+alt acknowledges iced
+1 --//o 2: logically hat
+0 -\\ 0: shroud lands
+else alameda fern
+end
+@enduml

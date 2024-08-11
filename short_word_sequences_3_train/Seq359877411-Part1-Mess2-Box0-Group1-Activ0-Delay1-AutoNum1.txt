@@ -1,0 +1,11 @@
+@startuml
+participant "superhero capping" as 0
+== dozer barricade ==
+autonumber 1 4
+critical provisional edible
+0 ->x 0: dung carrots
+autonumber stop
+...consolation pops...
+0 <-> 0: stewardess reprimanded
+end
+@enduml

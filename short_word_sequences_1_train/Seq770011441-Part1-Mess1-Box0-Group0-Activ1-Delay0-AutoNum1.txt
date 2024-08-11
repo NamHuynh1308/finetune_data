@@ -1,0 +1,7 @@
+@startuml
+participant "goodly bold" as 0
+== directions coaster ==
+autonumber 9 10
+0 --//o 0++ : unintentionally suited
+return cabbage twice
+@enduml

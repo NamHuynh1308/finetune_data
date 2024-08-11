@@ -1,0 +1,16 @@
+@startuml
+participant "looped reminisce" as 0
+participant "satyr enrolled" as 1
+participant "transcripts compactor" as 2
+== wavelengths sought ==
+autonumber 0 6
+opt chardonnay pie
+1 <-] : sensational culpa
+autonumber stop
+2 <-] : apart sensual
+...rin educators...
+2 ->x 2++ : bach batted
+autonumber resume
+end
+return soaps tripled
+@enduml

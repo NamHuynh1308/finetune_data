@@ -1,0 +1,15 @@
+@startuml
+participant "fairway cruise" as 0
+participant "healed barf" as 1
+0 ->x 0: speck toons
+critical specialist madly
+1 <-] : revising beets
+0 --//o 0: marathon publishers
+par sentence truly
+0 -> 1: dreading downpour
+1 -\\ 1: fetish lovely
+ [-> 1: creatively connoisseur
+else estimate tortured
+end
+end
+@enduml

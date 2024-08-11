@@ -1,0 +1,13 @@
+@startuml
+box "chaplain woops"
+participant "courtrooms unborn" as 0
+end box
+opt powering nomadic
+create participant "hefty straits" as 1
+0 -> 1 : hefty straits
+0 --> 0: pinks tenants
+else coconuts spilled
+0 --//o 1: tat tops
+1 -> 1!! : belvedere adapted
+end
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+participant "internment aggravated" as 0
+0 -> 0: documentary mm
+@enduml

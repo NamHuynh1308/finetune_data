@@ -1,0 +1,13 @@
+@startuml
+participant "formal overwhelm" as 0
+participant "squeezes cakewalk" as 1
+== complexity fashion ==
+autonumber 3 5
+0 --//o 1: likes therapist
+1 --> 0++ : reverts delivers
+loop attendant take
+1 -> 0!! : approached bruise
+0 -> 1!! : chauvinistic rating
+end
+return vulnerability defeated
+@enduml

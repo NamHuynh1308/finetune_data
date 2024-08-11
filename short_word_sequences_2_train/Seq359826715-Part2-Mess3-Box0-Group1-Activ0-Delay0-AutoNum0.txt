@@ -1,0 +1,10 @@
+@startuml
+participant "silks handbag" as 0
+participant "rapists revolved" as 1
+== genoa delivering ==
+ [<- 0: deck she
+opt raccoons contraband
+1 -> 0: entrepreneur gumption
+0 --//o 1: recovers abigail
+end
+@enduml

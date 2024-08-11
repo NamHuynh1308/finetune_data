@@ -1,0 +1,27 @@
+@startuml
+box "blazes clarity"
+participant "uncooperative sedate" as 0
+box "scrap filth"
+participant "renown supply" as 1
+participant "doormat caviar" as 2
+end box
+box "coexist aggression"
+participant "embezzle putter" as 3
+participant "unbecoming meters" as 4
+end box
+end box
+opt cared ample
+ [-> 3: garters diminished
+ [<- 4: features vehicular
+2 <-> 4: contributors poop
+end
+0 <-> 4: rummaging syllabus
+2 -> 3: confidant endure
+create participant "encoded abort" as 5
+1 -> 5 : encoded abort
+break heaven metaphysics
+...changed parlour...
+2 -> 1!! : hires neurological
+5 -->x 1: haw tardiness
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+box "peddle halothane"
+participant "peek updated" as 0
+end box
+0 -> 0: electorate rigging
+alt raises futures
+ [<- 0: mysticism plowed
+0 -> 0!! : strumpet gobbledegook
+create participant "scrapings cloven" as 1
+0 -> 1 : scrapings cloven
+end
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "tailspin aquatic" as 0
+== runes plowing ==
+autonumber 1 0
+0 -> 0: violinist patronize
+ [<- 0: artsy pain
+create participant "conferred deposit" as 1
+0 -> 1 : conferred deposit
+0 ->o 0++ : ducky hells
+autonumber stop
+return defect hippie
+@enduml

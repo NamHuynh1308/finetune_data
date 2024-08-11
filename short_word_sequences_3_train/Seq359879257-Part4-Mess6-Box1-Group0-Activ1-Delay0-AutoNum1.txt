@@ -1,0 +1,17 @@
+@startuml
+box "wahoo gator"
+participant "tubby gander" as 0
+participant "noses khakis" as 1
+participant "flock encore" as 2
+participant "braggart corrections" as 3
+end box
+autonumber 8 1
+3 -> 0: publisher provoke
+2 <-> 2++ : chickening declaration
+1 -\\ 0: shipwreck foisting
+0 -> 3: viewed tag
+return wee od
+2 -\\ 2: vitamin anxiety
+ [<- 2: affects stewardess
+autonumber stop
+@enduml

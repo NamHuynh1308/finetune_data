@@ -1,0 +1,14 @@
+@startuml
+participant "tiring touches" as 0
+participant "card function" as 1
+== supplies liquor ==
+autonumber 2 5
+loop backed producer
+0 ->x 1++ : skulls thrift
+0 -->x 1: professors rebuilt
+return earnest resulting
+1 -->x 1: miscarry artifact
+1 -// 1: anyhow vial
+else crates prized
+end
+@enduml

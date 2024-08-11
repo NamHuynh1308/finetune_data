@@ -1,0 +1,15 @@
+@startuml
+box "dreck industrial"
+participant "harvest blindness" as 0
+box "cutter felon"
+participant "tender envelope" as 1
+participant "travels sensational" as 2
+end box
+end box
+ [-> 1: fatten christie
+2 ->o 1: twinge waived
+loop astronauts hyperventilate
+1 ->o 1: bologna grosses
+0 ->] : grift submit
+end
+@enduml

@@ -1,0 +1,4 @@
+@startuml
+participant "barbecues toilet" as 0
+ [-> 0: stirred pence
+@enduml

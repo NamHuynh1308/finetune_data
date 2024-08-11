@@ -1,0 +1,24 @@
+@startuml
+participant "espressos upped" as 0
+participant "footnotes immutable" as 1
+participant "embarrass aggravating" as 2
+participant "coveted tackling" as 3
+box "millionaires accomplices"
+participant "offence proverb" as 4
+end box
+ [<- 3: dobbin bargaining
+4 ->x 2: butterfly garb
+par statistically roofer
+1 ->> 2: composers bazaar
+break predicting many
+0 ->x 4: tenuous luge
+3 ->o 3++ : blab generous
+opt taxing soundstage
+ [<- 2: carts faithless
+3 -> 0: malaria tankers
+return cars sweepstakes
+4 ->x 4: manatees intuitive
+end
+end
+end
+@enduml

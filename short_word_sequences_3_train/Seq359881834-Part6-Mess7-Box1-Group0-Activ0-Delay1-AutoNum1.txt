@@ -1,0 +1,21 @@
+@startuml
+participant "universal squished" as 0
+box "mousse interest"
+participant "grazed cahoots" as 1
+participant "pigeons comprehend" as 2
+end box
+participant "riots beginnings" as 3
+participant "notebook seldom" as 4
+== crypt reactionary ==
+autonumber 3 10
+3 ->> 1: clover perished
+0 <-> 3: crosshairs punishes
+2 ->o 1: smartest halter
+2 --//o 2: sniffles wagging
+...revised wench...
+0 ->o 1: correspondents clotted
+create participant "latter three" as 5
+0 -> 5 : latter three
+5 -> 5: effectively jobs
+autonumber stop
+@enduml

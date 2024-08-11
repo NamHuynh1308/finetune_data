@@ -1,0 +1,20 @@
+@startuml
+participant "dealings spelled" as 0
+participant "bug haze" as 1
+box "temperamental officers"
+participant "evacuating meaner" as 2
+participant "pandora gnats" as 3
+end box
+autonumber 10 2
+0 ->o 1++ : hexes glengarry
+0 -->x 0++ : swallow throwing
+...ma reactors...
+2 -\\ 3++ : drawings suitcases
+autonumber stop
+create participant "fostered internationally" as 4
+2 -> 4 : fostered internationally
+autonumber resume
+return brightest inter
+return glaucoma perishable
+return substitute man
+@enduml

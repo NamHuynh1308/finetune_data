@@ -1,0 +1,11 @@
+@startuml
+box "shunned spook"
+participant "seven whims" as 0
+end box
+critical riviera belle
+create participant "blemish pic" as 1
+0 -> 1 : blemish pic
+0 ->> 1: blah peep
+else compilation imprint
+end
+@enduml

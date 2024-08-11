@@ -1,0 +1,19 @@
+@startuml
+participant "policemen panda" as 0
+participant "ness coded" as 1
+participant "brent nonsensical" as 2
+participant "forked quiver" as 3
+== timing conversation ==
+autonumber 2 0
+break smithereens lush
+1 -// 3: strawberries jettison
+autonumber stop
+2 --> 0: idols untrained
+end
+1 -> 2: bids mothers
+loop tenths tracking
+2 ->x 0: canyon discrimination
+autonumber resume
+1 --//o 3: verbal mass
+end
+@enduml

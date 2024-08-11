@@ -1,0 +1,20 @@
+@startuml
+box "filmmaking ascension"
+participant "defiance pithy" as 0
+participant "readout blowhard" as 1
+participant "honored shaming" as 2
+end box
+autonumber 10 5
+ [<- 0: grumbling freelancing
+critical praise twits
+...dynamo workmen...
+2 -> 2: from come
+break upstaged creation
+...correct newspaper...
+2 ->] : warp bluster
+autonumber stop
+0 <-> 1++ : videotape famously
+end
+end
+return palette bridesmaids
+@enduml

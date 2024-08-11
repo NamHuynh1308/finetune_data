@@ -1,0 +1,6 @@
+@startuml
+participant "ironed outlived" as 0
+0 ->x 0: stillness spoilsport
+ [<- 0: sol ready
+0 -> 0: supplies tallied
+@enduml

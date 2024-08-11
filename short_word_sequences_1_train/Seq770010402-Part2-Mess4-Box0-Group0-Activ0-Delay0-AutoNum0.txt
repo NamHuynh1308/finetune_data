@@ -1,0 +1,8 @@
+@startuml
+participant "assuredly bellboy" as 0
+participant "blob supervised" as 1
+0 <-] : cheered hankie
+ [-> 0: quiet protestant
+ [<- 1: interface ingest
+0 -> 1: order bulldozers
+@enduml

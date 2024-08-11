@@ -1,0 +1,15 @@
+@startuml
+participant "milling nutcracker" as 0
+participant "citrus truss" as 1
+box "chins payoff"
+participant "chatted conservative" as 2
+participant "medina burdened" as 3
+end box
+0 -> 3!! : finds goats
+2 -\\ 1: advanced pothead
+2 -// 2: learner unbroken
+critical letter christy
+1 -// 1: splashing cranial
+3 ->] : patriotic underline
+end
+@enduml

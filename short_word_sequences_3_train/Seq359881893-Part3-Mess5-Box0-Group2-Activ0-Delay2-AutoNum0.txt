@@ -1,0 +1,17 @@
+@startuml
+participant "culturally essays" as 0
+participant "freshen strain" as 1
+== openly contemporary ==
+ [-> 0: baptists pebble
+create participant "crud bookie" as 2
+1 -> 2 : crud bookie
+alt rectum cave
+...argentine engineer...
+2 --> 0: swayed wiggly
+opt skivvies twentieth
+...adverse babe...
+1 -> 1: debutante swarming
+2 -> 1: leper fathers
+end
+end
+@enduml

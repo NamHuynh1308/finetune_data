@@ -1,0 +1,17 @@
+@startuml
+box "conceivably louie"
+participant "teaching lingo" as 0
+box "sinuses indoor"
+participant "ticking pepper" as 1
+end box
+end box
+autonumber 5 0
+1 -\\ 1: degrading laundry
+autonumber stop
+...shows given...
+0 -> 1!! : bumble halfback
+0 -> 1++ : grave dignitaries
+autonumber resume
+1 -->x 0: weevil inadequacy
+return dozed spotter
+@enduml

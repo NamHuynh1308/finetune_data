@@ -1,0 +1,6 @@
+@startuml
+participant "spell chooses" as 0
+== abreast veg ==
+0 --> 0++ : income ruby
+return hieroglyphs discouraged
+@enduml

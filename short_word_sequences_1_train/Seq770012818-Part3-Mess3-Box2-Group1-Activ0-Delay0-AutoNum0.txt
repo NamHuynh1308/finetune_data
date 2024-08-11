@@ -1,0 +1,15 @@
+@startuml
+box "gender swatch"
+participant "symptomatic defensive" as 0
+participant "draft sleepwalk" as 1
+box "protracted wounded"
+participant "fortress museums" as 2
+end box
+end box
+1 <-> 1: sprayed yesterday
+break ups receipt
+1 <-> 0: depth openly
+ [<- 1: communication purge
+else noticing whisky
+end
+@enduml

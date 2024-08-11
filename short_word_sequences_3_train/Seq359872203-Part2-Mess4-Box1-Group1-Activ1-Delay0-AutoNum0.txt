@@ -1,0 +1,13 @@
+@startuml
+box "edible imperial"
+participant "dimensional hazard" as 0
+participant "production strapping" as 1
+end box
+1 -->x 1: loom fro
+par granddaughters grandfather
+0 -\\ 1: melon priest
+0 ->] : paintings demur
+0 -> 0++ : restrooms antidote
+end
+return rally long
+@enduml

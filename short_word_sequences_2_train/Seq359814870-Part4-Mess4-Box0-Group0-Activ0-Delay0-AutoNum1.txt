@@ -1,0 +1,12 @@
+@startuml
+participant "hers melon" as 0
+participant "graveyard semple" as 1
+participant "boxing intrigues" as 2
+participant "flat honk" as 3
+autonumber 6 7
+2 ->] : soprano racy
+1 <-> 1: concession ultra
+autonumber stop
+3 -> 1: polling necessary
+ [-> 3: neuroses lid
+@enduml

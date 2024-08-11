@@ -1,0 +1,18 @@
+@startuml
+participant "dentist continually" as 0
+participant "tier taxicab" as 1
+participant "ba triplets" as 2
+box "ants spice"
+participant "painful foresaw" as 3
+end box
+== continuously polyester ==
+autonumber 7 8
+loop lunacy confidences
+3 <-> 1: menagerie referring
+3 ->] : drove spliced
+end
+0 -> 3: triceps newspapers
+autonumber stop
+create participant "lacerations applies" as 4
+1 -> 4 : lacerations applies
+@enduml

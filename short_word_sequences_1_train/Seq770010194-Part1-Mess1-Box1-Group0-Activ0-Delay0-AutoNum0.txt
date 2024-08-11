@@ -1,0 +1,6 @@
+@startuml
+box "authentic persona"
+participant "pickups coaches" as 0
+end box
+0 -\\ 0: scanning deceptively
+@enduml

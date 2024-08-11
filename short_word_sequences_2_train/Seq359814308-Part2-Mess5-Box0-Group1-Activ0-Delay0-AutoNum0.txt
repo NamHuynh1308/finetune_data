@@ -1,0 +1,13 @@
+@startuml
+participant "abandoning intimacy" as 0
+participant "hoof programmer" as 1
+== gooey maroon ==
+break sauerkraut lifeline
+1 ->x 0: fizzle bigness
+0 -> 0: splashy resentments
+else nicked oxford
+1 -> 0: lice wrinkle
+1 --//o 0: mourned substance
+0 -// 0: gayest mend
+end
+@enduml

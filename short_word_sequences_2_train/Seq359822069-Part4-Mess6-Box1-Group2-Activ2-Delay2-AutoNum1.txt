@@ -1,0 +1,24 @@
+@startuml
+participant "strokes slid" as 0
+box "opportune oxen"
+participant "stormy derelict" as 1
+participant "apples aid" as 2
+end box
+autonumber 10 3
+2 -> 0: skeeters willful
+0 ->x 2: scabs nozzle
+create participant "halothane bulletproof" as 3
+1 -> 3 : halothane bulletproof
+...commonly kettle...
+1 -->x 2++ : hefty gushy
+opt elementary title
+1 -// 1++ : civilians perished
+loop fusion inhalation
+...sedan boners...
+3 ->] : derives stipulated
+autonumber stop
+end
+end
+return pastrami improper
+return spotters incantations
+@enduml

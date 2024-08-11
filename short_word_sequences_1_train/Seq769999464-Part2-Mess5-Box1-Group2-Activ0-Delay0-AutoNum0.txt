@@ -1,0 +1,15 @@
+@startuml
+box "helper treasures"
+participant "minivan toilet" as 0
+participant "destructive mariner" as 1
+end box
+1 ->o 0: sisters gorge
+ [-> 0: creases erode
+1 -->x 0: boarded botulism
+loop tardiness stride
+0 -> 0: forethought laden
+par townhouse ruby
+ [-> 1: parole abusing
+end
+end
+@enduml

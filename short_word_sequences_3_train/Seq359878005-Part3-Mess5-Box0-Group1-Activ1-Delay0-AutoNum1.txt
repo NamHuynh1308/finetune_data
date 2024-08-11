@@ -1,0 +1,19 @@
+@startuml
+participant "om traps" as 0
+participant "detailed heroin" as 1
+autonumber 5 8
+0 -// 0: dearly snowflake
+autonumber stop
+create participant "bring upset" as 2
+1 -> 2 : bring upset
+autonumber resume
+loop defence madre
+1 ->> 0++ : warts programme
+autonumber stop
+2 -> 1: psychiatrist baronet
+else debacle argument
+0 -->x 1: isolation slipping
+return kneed damning
+else intermission inspection
+end
+@enduml

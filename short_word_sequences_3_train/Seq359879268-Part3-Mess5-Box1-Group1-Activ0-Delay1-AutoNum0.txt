@@ -1,0 +1,16 @@
+@startuml
+participant "jammies inference" as 0
+participant "impossibly perfumes" as 1
+box "runaround positioned"
+participant "weirdo wowed" as 2
+end box
+== fir editor ==
+loop tapping delightful
+1 ->] : commonplace darn
+1 -->x 1: forklift leaping
+0 -> 1!! : enforcement sal
+...pew cupboard...
+0 <-> 0: northern instruct
+ [<- 2: chained willingly
+end
+@enduml

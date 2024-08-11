@@ -1,0 +1,14 @@
+@startuml
+participant "litigation explored" as 0
+box "diaphragms gallivanting"
+participant "fear mites" as 1
+participant "prostitution snowmobiles" as 2
+end box
+1 ->> 2++ : descends synchronized
+2 -// 1++ : napkins flare
+break persist man
+0 -> 1: occupied sound
+return axis outs
+end
+return continuously alpha
+@enduml

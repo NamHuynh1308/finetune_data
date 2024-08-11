@@ -1,0 +1,11 @@
+@startuml
+participant "roller partial" as 0
+autonumber 6 10
+0 -// 0: provide elective
+autonumber stop
+par assaulting hanks
+...noises glamorous...
+0 ->] : carnie lynched
+autonumber resume
+end
+@enduml

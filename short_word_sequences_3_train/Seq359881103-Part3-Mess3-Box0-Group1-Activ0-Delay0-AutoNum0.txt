@@ -1,0 +1,10 @@
+@startuml
+participant "stub jaunt" as 0
+participant "ounce badgered" as 1
+create participant "distended year" as 2
+0 -> 2 : distended year
+1 ->] : kappa spoils
+opt religious relive
+ [-> 1: proverbial stoned
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "bickering pointers" as 0
+participant "spoonful infant" as 1
+autonumber 7 5
+1 -// 0++ : acquired put
+autonumber stop
+ [-> 0: chafing deadbeat
+return derelict halfway
+1 -\\ 0++ : holiday intestines
+return patio reptilian
+@enduml

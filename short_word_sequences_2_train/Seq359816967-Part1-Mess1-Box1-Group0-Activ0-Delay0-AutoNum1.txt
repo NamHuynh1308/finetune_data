@@ -1,0 +1,7 @@
+@startuml
+box "obscenity manipulated"
+participant "astronomer clams" as 0
+end box
+autonumber 7 5
+0 -> 0!! : appetizing palomino
+@enduml

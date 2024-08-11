@@ -1,0 +1,7 @@
+@startuml
+participant "election period" as 0
+== barfing additional ==
+0 -> 0: jackals bellboy
+ [<- 0: foliage comfort
+ [<- 0: team pianos
+@enduml

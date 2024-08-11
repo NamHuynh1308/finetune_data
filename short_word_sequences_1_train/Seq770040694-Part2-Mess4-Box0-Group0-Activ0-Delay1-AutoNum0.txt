@@ -1,0 +1,10 @@
+@startuml
+participant "hinges misunderstanding" as 0
+== dimming village ==
+0 ->x 0: suspenders nexus
+0 -> 0: publish millennia
+create participant "grandma bloom" as 1
+0 -> 1 : grandma bloom
+...syllable greater...
+1 -// 1: billionaire senora
+@enduml

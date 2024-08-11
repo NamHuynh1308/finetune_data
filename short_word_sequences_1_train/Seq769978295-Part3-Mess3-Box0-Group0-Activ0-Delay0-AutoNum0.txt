@@ -1,0 +1,8 @@
+@startuml
+participant "shedding babble" as 0
+participant "evade posted" as 1
+participant "sadistic interns" as 2
+2 <-] : session breed
+0 -> 0: been hallucinating
+1 --> 1: article wellness
+@enduml

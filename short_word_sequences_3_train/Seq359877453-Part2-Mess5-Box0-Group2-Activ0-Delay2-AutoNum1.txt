@@ -1,0 +1,19 @@
+@startuml
+participant "clearer gains" as 0
+autonumber 4 4
+create participant "officiate trig" as 1
+0 -> 1 : officiate trig
+opt forethought aspects
+...toothpicks pitches...
+1 -// 1: appendage grosses
+autonumber stop
+1 ->o 1: introduced distress
+autonumber resume
+opt ranges compartments
+...beginner clusters...
+0 -> 0: ick licking
+0 -->x 0: broads unicycle
+else poignant division
+end
+end
+@enduml

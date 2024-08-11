@@ -1,0 +1,17 @@
+@startuml
+box "privy spider"
+participant "lighters reeve" as 0
+participant "supposition heard" as 1
+end box
+== twister incensed ==
+autonumber 8 2
+create participant "digest patrol" as 2
+1 -> 2 : digest patrol
+...overdressed betrayer...
+0 -> 2: anagram truffles
+2 ->x 0: identity kneed
+...affairs forfeits...
+0 ->] : calzones digesting
+2 --> 0: summed meatloaf
+0 <-] : trolling detailing
+@enduml

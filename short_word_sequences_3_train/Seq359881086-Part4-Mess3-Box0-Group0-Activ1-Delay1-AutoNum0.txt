@@ -1,0 +1,11 @@
+@startuml
+participant "enormous shoemaker" as 0
+participant "blows fused" as 1
+participant "closes towers" as 2
+create participant "engineer commanders" as 3
+1 -> 3 : engineer commanders
+...transpired ludicrous...
+3 -> 0++ : daze senses
+2 -// 0: earful preached
+return fanatic faithfulness
+@enduml

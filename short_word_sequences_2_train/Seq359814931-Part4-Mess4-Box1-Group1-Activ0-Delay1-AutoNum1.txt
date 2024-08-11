@@ -1,0 +1,17 @@
+@startuml
+participant "shafted tux" as 0
+box "bannister curveball"
+participant "killed meningitis" as 1
+participant "mayan nose" as 2
+end box
+participant "emergencies trench" as 3
+autonumber 5 9
+alt muck acing
+3 -->x 2: gluttony swilling
+1 -->x 2: genetically varies
+3 -> 1!! : bring fuss
+...maximum neighbour...
+2 <-] : postal giraffes
+else overdosed smugglers
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+box "prance furtive"
+participant "wright balding" as 0
+box "croon cranial"
+participant "ravine clitoris" as 1
+end box
+end box
+0 -> 1++ : shoehorn packing
+0 ->x 0: putting hysterectomy
+alt vacuum speedos
+1 -> 1!! : reels alastor
+end
+return dual public
+@enduml

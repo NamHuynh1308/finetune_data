@@ -1,0 +1,13 @@
+@startuml
+participant "clincher tacky" as 0
+autonumber 9 8
+create participant "packets howling" as 1
+0 -> 1 : packets howling
+create participant "remembering doughnut" as 2
+1 -> 2 : remembering doughnut
+2 ->> 0: exasperating embezzled
+autonumber stop
+break certificate mediterranean
+ [<- 0: overstating shaping
+end
+@enduml

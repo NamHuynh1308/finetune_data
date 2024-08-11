@@ -1,0 +1,24 @@
+@startuml
+participant "heft finally" as 0
+box "aspirations receipts"
+participant "overtaken ballast" as 1
+end box
+autonumber 6 4
+1 <-] : refuse racks
+autonumber stop
+loop baggy pupils
+...healthy glorious...
+ [-> 1: loft prematurely
+...objecting adjectives...
+1 ->] : discourage solar
+else horizons apprehensive
+par disappointments incessantly
+1 <-] : cradle destruction
+autonumber resume
+loop coupling headliner
+create participant "ecumenical bowl" as 2
+0 -> 2 : ecumenical bowl
+end
+end
+end
+@enduml

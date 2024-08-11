@@ -1,0 +1,9 @@
+@startuml
+box "describe inhumane"
+participant "ebb variant" as 0
+end box
+== kins singe ==
+ [-> 0: wicked wised
+0 -> 0: stats flavor
+0 -->x 0: triplets uncover
+@enduml

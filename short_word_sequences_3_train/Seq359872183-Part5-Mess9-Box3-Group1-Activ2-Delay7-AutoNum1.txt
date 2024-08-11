@@ -1,0 +1,38 @@
+@startuml
+box "concoction taxi"
+participant "biscuits lumbering" as 0
+box "parka cassettes"
+participant "rapture muffler" as 1
+participant "rounding traction" as 2
+participant "swore guardianship" as 3
+box "tendon ash"
+participant "strangest overhead" as 4
+end box
+end box
+end box
+autonumber 5 2
+4 -> 0++ : let tularemia
+par underprivileged rotisserie
+ [<- 0: tired absorbent
+return ado gag
+...sandbag subsidiary...
+3 -> 2: pecking recreation
+...moreover contraband...
+1 -> 1!! : debates ablaze
+autonumber stop
+else unfolding desired
+...solves borrow...
+2 -->x 1: miscalculated rudimentary
+...fixable boozer...
+0 -> 0++ : nome puffs
+else crusty hogan
+...mate rickey...
+ [-> 3: preamble resolved
+autonumber resume
+...splits paper...
+4 <-] : fixed chamberlain
+...fairly place...
+1 <-] : watchful perry
+end
+return pipeline orbing
+@enduml

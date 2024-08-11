@@ -1,0 +1,12 @@
+@startuml
+box "sounded sweltering"
+participant "census unions" as 0
+box "returning charted"
+participant "disc giants" as 1
+end box
+end box
+0 <-> 1: agreement props
+1 -> 1: splint strep
+0 ->> 1++ : reunited counting
+return deformity chastity
+@enduml

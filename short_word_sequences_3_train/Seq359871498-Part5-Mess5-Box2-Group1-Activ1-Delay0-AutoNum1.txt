@@ -1,0 +1,24 @@
+@startuml
+box "pedestrians nosing"
+participant "dominates sinned" as 0
+box "lawnmower front"
+participant "sneakers tenure" as 1
+participant "huddled tireless" as 2
+end box
+participant "plausible faces" as 3
+end box
+autonumber 7 7
+1 ->o 1++ : notes backer
+opt protruding ambient
+2 ->] : stroller quaking
+create participant "novelist spindly" as 4
+2 -> 4 : novelist spindly
+autonumber stop
+else rainy boysenberry
+4 ->] : montage conked
+else discounts glued
+ [-> 3: grubby shack
+autonumber resume
+end
+return grosser footnote
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "shipping ailment" as 0
+participant "traditional superstition" as 1
+participant "freeing teenybopper" as 2
+1 <-> 0++ : mushroom progressing
+2 ->] : contradictory unspoiled
+1 ->o 1: brood her
+1 -\\ 2: wrench animated
+return identify aptitude
+@enduml

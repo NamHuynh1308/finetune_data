@@ -1,0 +1,6 @@
+@startuml
+participant "wiggled books" as 0
+0 --//o 0: missis fallacy
+...coopers ached...
+ [-> 0: glues eviscerate
+@enduml

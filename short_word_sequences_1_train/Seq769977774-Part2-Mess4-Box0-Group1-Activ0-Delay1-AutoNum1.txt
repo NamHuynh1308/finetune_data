@@ -1,0 +1,14 @@
+@startuml
+participant "vipers contemplating" as 0
+== anesthetics childhoods ==
+autonumber 5 7
+0 ->] : foundation gracious
+create participant "magnitude bedbugs" as 1
+0 -> 1 : magnitude bedbugs
+autonumber stop
+1 -->x 0: wringer caper
+opt dispensary opens
+...lash insane...
+0 -> 0: grabs nosy
+end
+@enduml

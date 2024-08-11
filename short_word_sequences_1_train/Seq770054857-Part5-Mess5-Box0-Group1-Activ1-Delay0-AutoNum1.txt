@@ -1,0 +1,19 @@
+@startuml
+participant "governments spectacularly" as 0
+participant "banister colonized" as 1
+participant "viscount tome" as 2
+participant "hams tenets" as 3
+autonumber 2 4
+2 -> 0++ : cobras blend
+create participant "winds believes" as 4
+2 -> 4 : winds believes
+autonumber stop
+critical phobias mismatched
+0 -->x 2: horrific fangs
+ [-> 3: volunteering fugitives
+autonumber resume
+0 <-> 4: flagging arid
+autonumber stop
+end
+return corned entrust
+@enduml

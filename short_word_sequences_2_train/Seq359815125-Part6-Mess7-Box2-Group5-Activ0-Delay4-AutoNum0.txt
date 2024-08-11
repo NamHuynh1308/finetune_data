@@ -1,0 +1,33 @@
+@startuml
+box "holler ken"
+participant "indispensable mono" as 0
+participant "embalming napoleon" as 1
+box "easing nightlife"
+participant "dotes typewriter" as 2
+participant "warner sheen" as 3
+end box
+participant "subjugation sponsorship" as 4
+end box
+alt copping events
+0 -> 3: whistler supposition
+critical hairy maxwell
+...tolerance admonition...
+2 -// 1: crunch farther
+break transgression shoreline
+1 -// 3: sorority defined
+create participant "perfectionist eligible" as 5
+1 -> 5 : perfectionist eligible
+end
+break fiancee preyed
+...delayed headboard...
+0 ->o 0: pertinent red
+critical vicious embrace
+...sicced indulge...
+2 -> 0: guest glare
+...bedside pudding...
+ [-> 0: beard listens
+end
+end
+end
+end
+@enduml

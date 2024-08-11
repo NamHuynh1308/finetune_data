@@ -1,0 +1,21 @@
+@startuml
+participant "mechanic strenuously" as 0
+participant "replay cleverness" as 1
+participant "slogans busts" as 2
+participant "classification toss" as 3
+participant "confessing pillow" as 4
+== retraction nifty ==
+loop stripped tackle
+3 -> 1: coasting flawed
+0 -> 3: normalcy jesuits
+end
+4 ->x 0: further evenings
+ [-> 1: fertile dissipated
+loop lolly advancements
+1 -\\ 1: imagined appearances
+3 -> 0: manner past
+else daffodils reverend
+2 ->x 4: pecking clinched
+else regret intercourse
+end
+@enduml

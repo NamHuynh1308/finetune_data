@@ -1,0 +1,30 @@
+@startuml
+participant "hootenanny opera" as 0
+participant "waved virtual" as 1
+box "skies whimsical"
+participant "worrier smelling" as 2
+participant "lime gib" as 3
+participant "fallow embark" as 4
+end box
+3 ->x 0: midland desecrated
+2 <-] : cloud hop
+critical thrill rants
+create participant "uncontrollable firelight" as 5
+0 -> 5 : uncontrollable firelight
+4 --//o 4: delusions marshmallow
+else underestimated lily
+alt tales moneymaker
+2 -// 5++ : recorder devours
+3 --> 0: chink stonewalled
+else headed liar
+break scouting jewellery
+5 -// 3++ : donations geriatrics
+opt felt huffing
+4 -\\ 1: tobacco dined
+return upwards lantern
+end
+end
+end
+end
+return disturb counselors
+@enduml

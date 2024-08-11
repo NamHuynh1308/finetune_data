@@ -1,0 +1,11 @@
+@startuml
+participant "botanical flagship" as 0
+participant "igloo cookies" as 1
+== conjures injection ==
+autonumber 10 0
+0 -> 1!! : underneath joes
+1 -> 1++ : maturity topics
+1 -> 0++ : relaxants collaborating
+return digging regional
+return neurology digestive
+@enduml

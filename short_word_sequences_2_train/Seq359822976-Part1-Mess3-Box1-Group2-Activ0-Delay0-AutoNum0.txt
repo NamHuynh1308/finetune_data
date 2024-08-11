@@ -1,0 +1,13 @@
+@startuml
+box "strict coordinates"
+participant "prizes slumming" as 0
+end box
+== meaner levitation ==
+alt bong brandies
+0 ->> 0: flaws pitting
+0 ->] : percentage shylock
+loop waffle shoveled
+ [<- 0: interrogating sacrificed
+end
+end
+@enduml

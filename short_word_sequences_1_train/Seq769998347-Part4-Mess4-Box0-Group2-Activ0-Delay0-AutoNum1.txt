@@ -1,0 +1,18 @@
+@startuml
+participant "hunch translator" as 0
+participant "psychologist underworld" as 1
+participant "faun birdseed" as 2
+participant "inverted stubble" as 3
+== trimmers graffiti ==
+autonumber 1 5
+loop heals interactive
+3 -> 0: aerobics loca
+2 ->x 3: cinnamon levity
+autonumber stop
+critical receptive connected
+3 -->x 1: fuse straights
+0 --//o 1: spiked tested
+autonumber resume
+end
+end
+@enduml

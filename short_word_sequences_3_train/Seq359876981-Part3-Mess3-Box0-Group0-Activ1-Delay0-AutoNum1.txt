@@ -1,0 +1,11 @@
+@startuml
+participant "squash debutante" as 0
+participant "clubhouse embellished" as 1
+== tabs openness ==
+autonumber 5 4
+create participant "steamy advocate" as 2
+0 -> 2 : steamy advocate
+2 -> 2++ : revered membrane
+0 <-] : authorized racquetball
+return station tyrants
+@enduml

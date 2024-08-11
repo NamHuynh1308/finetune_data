@@ -1,0 +1,19 @@
+@startuml
+participant "visa scuffle" as 0
+participant "leadership hairbrush" as 1
+participant "monitoring swoop" as 2
+participant "resumes whisky" as 3
+participant "thyroid imprint" as 4
+== tit formulate ==
+break standpoint clang
+create participant "berry plaster" as 5
+3 -> 5 : berry plaster
+ [<- 2: cee hive
+end
+5 <-] : probability alligator
+opt mistletoe farewells
+1 -> 2: goon familial
+5 -> 0: chatting grease
+else snowed bless
+end
+@enduml

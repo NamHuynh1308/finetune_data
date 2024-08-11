@@ -1,0 +1,9 @@
+@startuml
+participant "want gooey" as 0
+0 -\\ 0: completely ingest
+ [<- 0: bereavement shiv
+opt calling scatter
+0 -> 0++ : terribly documents
+end
+return diazepam graffiti
+@enduml

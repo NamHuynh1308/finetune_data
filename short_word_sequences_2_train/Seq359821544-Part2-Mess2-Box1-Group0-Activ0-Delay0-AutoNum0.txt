@@ -1,0 +1,8 @@
+@startuml
+participant "ignited circus" as 0
+box "rhythm imagined"
+participant "smashes punctuation" as 1
+end box
+0 -// 1: cheerleader backwards
+1 -> 1: wuthering hunched
+@enduml

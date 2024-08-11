@@ -1,0 +1,33 @@
+@startuml
+box "cacciatore icicle"
+participant "frighten deliberation" as 0
+participant "eviscerated lace" as 1
+participant "sikes mart" as 2
+end box
+participant "shopper pretenses" as 3
+participant "nee rushes" as 4
+== washing refundable ==
+autonumber 9 1
+opt sandwiches consequences
+2 <-> 3++ : ascension poisonous
+3 --//o 3: retain rummaging
+autonumber stop
+opt extremists punt
+1 ->] : derogatory ting
+autonumber resume
+critical geographical crowning
+...willy troublesome...
+2 <-> 4: resented paroled
+4 -> 0!! : nursery knockoff
+return dismal beater
+autonumber stop
+4 -> 2: modesty oaths
+else romantic death
+create participant "reaction craze" as 5
+2 -> 5 : reaction craze
+autonumber resume
+1 -->x 4: wright spotlight
+end
+end
+end
+@enduml

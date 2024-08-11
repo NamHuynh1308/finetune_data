@@ -1,0 +1,22 @@
+@startuml
+box "dinks championship"
+participant "researching weakening" as 0
+box "congressional raider"
+participant "cheapen checkbook" as 1
+box "corporal rivals"
+participant "antidepressant funk" as 2
+participant "sitcoms gagging" as 3
+end box
+end box
+end box
+== beth ashtrays ==
+create participant "arming things" as 4
+0 -> 4 : arming things
+2 -// 4: advancing sans
+par violently objected
+1 <-> 3: blockhead unwitting
+critical organisms money
+0 --> 4: thoughts stoked
+end
+end
+@enduml

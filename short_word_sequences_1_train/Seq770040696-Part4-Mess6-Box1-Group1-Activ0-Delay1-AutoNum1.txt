@@ -1,0 +1,20 @@
+@startuml
+box "effects horned"
+participant "temptress bravo" as 0
+participant "visualize cactus" as 1
+end box
+participant "emerged wed" as 2
+autonumber 2 0
+1 --> 0: bawdy airplanes
+create participant "renew efficient" as 3
+0 -> 3 : renew efficient
+2 --//o 1: exceptions toast
+...pigskin bronze...
+0 -> 0: escalator conception
+1 ->] : worthwhile boardinghouse
+autonumber stop
+alt traditions losing
+2 <-] : dialing rosemary
+autonumber resume
+end
+@enduml

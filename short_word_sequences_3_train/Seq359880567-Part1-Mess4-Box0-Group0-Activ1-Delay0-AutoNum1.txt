@@ -1,0 +1,11 @@
+@startuml
+participant "rein plots" as 0
+autonumber 9 7
+0 -> 0: prodigal preview
+autonumber stop
+0 -> 0++ : gravy drain
+0 -> 0!! : expressions style
+autonumber resume
+0 -> 0!! : answer punk
+return prep simmer
+@enduml

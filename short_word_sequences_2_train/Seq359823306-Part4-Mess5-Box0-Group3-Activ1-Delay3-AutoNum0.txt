@@ -1,0 +1,21 @@
+@startuml
+participant "personable audio" as 0
+participant "artillery drips" as 1
+participant "fumbling dolls" as 2
+1 -> 1!! : tetanus increased
+alt impeach front
+create participant "bane marketplace" as 3
+1 -> 3 : bane marketplace
+break dandy reject
+...exterior callous...
+3 -> 2: jiggling outlast
+...celebrate lapsed...
+0 -> 0: agreement combat
+break convoy rehearsal
+...lizards clad...
+0 ->> 0++ : illustration rewarded
+end
+end
+end
+return eluded gentler
+@enduml

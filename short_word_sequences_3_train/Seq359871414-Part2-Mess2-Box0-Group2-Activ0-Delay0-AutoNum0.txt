@@ -1,0 +1,10 @@
+@startuml
+participant "asleep raffle" as 0
+par subscription evacuation
+0 -->x 0: angel exalted
+loop engrossing coward
+create participant "specimens fife" as 1
+0 -> 1 : specimens fife
+end
+end
+@enduml

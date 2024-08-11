@@ -1,0 +1,17 @@
+@startuml
+participant "natives lodged" as 0
+participant "throne breezing" as 1
+participant "differential throttle" as 2
+== tassels evolving ==
+autonumber 8 2
+1 <-> 2: sidewalk operational
+loop steno influential
+2 ->o 2: processing mysticism
+autonumber stop
+0 --> 2: wham freeway
+autonumber resume
+end
+1 -> 1++ : tucker padre
+autonumber stop
+return routing pertinent
+@enduml

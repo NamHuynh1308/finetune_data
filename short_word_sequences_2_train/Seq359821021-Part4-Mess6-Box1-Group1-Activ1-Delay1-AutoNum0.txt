@@ -1,0 +1,19 @@
+@startuml
+box "downtrodden graces"
+participant "flair regiment" as 0
+participant "battered uninterrupted" as 1
+end box
+participant "paying bartender" as 2
+participant "calamitous rickshaw" as 3
+== weary groggy ==
+2 -\\ 3++ : prune kisses
+1 -> 1: committees thermal
+return molecule on
+...clone cockles...
+0 -\\ 2: lockdown accountants
+opt sawing portal
+1 ->o 0: knockdown student
+ [<- 0: settled sheer
+1 -> 0: shivering waive
+end
+@enduml

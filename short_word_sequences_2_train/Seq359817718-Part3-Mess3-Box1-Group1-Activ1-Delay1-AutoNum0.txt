@@ -1,0 +1,15 @@
+@startuml
+participant "stilettos signed" as 0
+participant "announcing cartographers" as 1
+box "hockey cellars"
+participant "chowder docks" as 2
+end box
+== insider addressing ==
+2 ->o 0++ : retribution slip
+break precipice spunky
+0 --> 1: humour earphones
+return outsider runaround
+...algae reeves...
+1 ->] : prescribe metamorphosis
+end
+@enduml

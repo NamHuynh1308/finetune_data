@@ -1,0 +1,23 @@
+@startuml
+participant "collecting ligature" as 0
+box "unhooked lippy"
+participant "artistry shanghai" as 1
+participant "sacrifices profits" as 2
+end box
+box "giveaway tadpole"
+participant "apartment insight" as 3
+box "waters waterbed"
+participant "spying whipped" as 4
+end box
+end box
+autonumber 4 2
+1 ->] : orphans broadening
+2 -\\ 3++ : shaving bless
+autonumber stop
+3 -> 0: poofs sunstroke
+return disciples sufficient
+1 -> 4: issuing sabotage
+autonumber resume
+0 <-] : nutritionist avoiding
+1 --//o 0: rebuild candidacy
+@enduml

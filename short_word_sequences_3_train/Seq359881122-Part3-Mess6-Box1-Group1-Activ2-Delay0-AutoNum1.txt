@@ -1,0 +1,24 @@
+@startuml
+participant "vented qualifications" as 0
+box "squaw bases"
+participant "iguanas recipes" as 1
+participant "paraphernalia speech" as 2
+end box
+== optic decorum ==
+autonumber 7 2
+alt wastes undershirt
+2 --> 1: radishes immaterial
+ [-> 2: liner thong
+autonumber stop
+else leery comprise
+0 -\\ 2++ : stretched cardinal
+autonumber resume
+else ingrates jeans
+ [<- 1: dispensary helps
+end
+2 -\\ 0++ : suffocate nametag
+autonumber stop
+1 -> 1: maneuvering swing
+return dasher moderator
+return lamppost cuffs
+@enduml

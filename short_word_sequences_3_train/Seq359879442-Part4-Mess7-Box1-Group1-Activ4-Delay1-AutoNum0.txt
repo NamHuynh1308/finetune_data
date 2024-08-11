@@ -1,0 +1,23 @@
+@startuml
+participant "body signaled" as 0
+participant "bum groom" as 1
+participant "innards gypped" as 2
+box "coyote moonlighting"
+participant "personalities civics" as 3
+end box
+1 ->o 0++ : benny cremation
+3 <-> 2++ : ginny created
+...palpable documentaries...
+3 -// 0++ : renders sequined
+opt beatnik brittle
+2 -> 3: anna snatchers
+3 <-] : theatrics warts
+else stallion tardy
+0 -> 1++ : dentists radios
+end
+3 -> 1: outsiders unearth
+return stigmata clauses
+return strangers shanghaied
+return zapped leafy
+return evacuate accurate
+@enduml

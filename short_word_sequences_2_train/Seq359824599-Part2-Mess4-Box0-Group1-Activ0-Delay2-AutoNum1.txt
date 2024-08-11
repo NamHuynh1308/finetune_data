@@ -1,0 +1,14 @@
+@startuml
+participant "quilt newspapers" as 0
+participant "moderation realistic" as 1
+== stinger splitting ==
+autonumber 5 10
+0 -> 0!! : discrepancies mutant
+ [-> 0: overstepping drawn
+...coordinates maneuvers...
+0 --//o 0: feathering defector
+opt peachy proportions
+...cypher glover...
+0 -> 0: flattened territories
+end
+@enduml

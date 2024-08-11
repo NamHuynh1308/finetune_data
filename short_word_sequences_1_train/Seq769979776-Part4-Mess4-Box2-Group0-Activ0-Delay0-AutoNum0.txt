@@ -1,0 +1,15 @@
+@startuml
+participant "grim legislature" as 0
+participant "wheels dobbins" as 1
+box "astonishment scans"
+participant "among sexism" as 2
+box "perfect horsepower"
+participant "satisfy lumpy" as 3
+end box
+end box
+== rhymed ailing ==
+2 -> 0: urges caliber
+2 ->> 1: rhymes convenience
+ [<- 2: workaholic pledging
+3 -> 3: protect weathers
+@enduml

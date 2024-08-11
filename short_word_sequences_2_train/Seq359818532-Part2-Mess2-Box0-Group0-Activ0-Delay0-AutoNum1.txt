@@ -1,0 +1,7 @@
+@startuml
+participant "motivate coolest" as 0
+autonumber 2 0
+0 --//o 0: advised illegal
+create participant "mis heaping" as 1
+0 -> 1 : mis heaping
+@enduml

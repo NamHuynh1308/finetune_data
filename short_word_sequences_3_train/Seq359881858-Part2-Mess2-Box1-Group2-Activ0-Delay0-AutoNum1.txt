@@ -1,0 +1,14 @@
+@startuml
+box "gill finishing"
+participant "fiasco institute" as 0
+end box
+== suggestive justification ==
+autonumber 8 1
+alt festivals elimination
+ [-> 0: redial parasailing
+loop including ending
+create participant "cure cavalier" as 1
+0 -> 1 : cure cavalier
+end
+end
+@enduml

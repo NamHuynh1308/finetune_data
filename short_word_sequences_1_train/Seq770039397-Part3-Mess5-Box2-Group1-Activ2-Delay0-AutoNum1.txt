@@ -1,0 +1,24 @@
+@startuml
+box "reptilian monte"
+participant "devouring rialto" as 0
+box "merely course"
+participant "afraid audience" as 1
+end box
+end box
+== complicates trait ==
+autonumber 10 8
+0 -\\ 0++ : rebuttal smearing
+autonumber stop
+0 -> 1: kayak arises
+autonumber resume
+1 --//o 0++ : muchacho planet
+create participant "praises diatribes" as 2
+0 -> 2 : praises diatribes
+autonumber stop
+loop programs immortality
+0 -> 1!! : schematics biscuit
+autonumber resume
+end
+return extract implicating
+return cardiology lancer
+@enduml

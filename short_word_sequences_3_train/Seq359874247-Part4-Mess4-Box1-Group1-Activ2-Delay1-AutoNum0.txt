@@ -1,0 +1,18 @@
+@startuml
+participant "wheezing earwig" as 0
+participant "misfit alarmist" as 1
+box "bangs breach"
+participant "frown peckish" as 2
+participant "foamy heating" as 3
+end box
+== potty spices ==
+3 -// 1++ : intuitive stuff
+2 -->x 2: yakking acclimate
+return hombre banks
+...stumbling actionable...
+2 -> 1!! : impeach tasty
+break recorded shepherds
+1 ->> 0++ : turkey selling
+end
+return abandonment fudged
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "conflicting notation" as 0
+== dependant domicile ==
+ [<- 0: gardener crooked
+0 --> 0: predisposed skinned
+0 -// 0: dissolves strand
+loop indicator thusly
+0 ->> 0: snuggling limbs
+...cynic spence...
+0 -\\ 0: operated diamonds
+end
+@enduml

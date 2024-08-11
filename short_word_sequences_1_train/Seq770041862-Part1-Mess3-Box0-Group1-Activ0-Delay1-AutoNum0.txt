@@ -1,0 +1,11 @@
+@startuml
+participant "medic buffalo" as 0
+== riley dreamt ==
+0 -> 0: unplug rooftop
+loop predictions curfews
+...forgiven disorder...
+0 <-] : normally zebras
+0 ->o 0: petals gunmen
+else diversionary hurtful
+end
+@enduml

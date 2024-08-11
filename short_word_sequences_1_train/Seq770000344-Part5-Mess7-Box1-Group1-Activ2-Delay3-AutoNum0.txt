@@ -1,0 +1,24 @@
+@startuml
+participant "sideboard watchers" as 0
+box "authentic specifications"
+participant "carvings confirmed" as 1
+participant "spelling ecstasy" as 2
+end box
+participant "truant wheeze" as 3
+3 -> 1: pleaded mothering
+...gasses chummy...
+1 -> 1: roosters applicants
+create participant "ranch grandbaby" as 4
+2 -> 4 : ranch grandbaby
+critical composure chloride
+4 -->x 3++ : igneous insistence
+...turnpike sugarplum...
+ [<- 0: skid straining
+return retract airtight
+else suss classroom
+...grossed spasms...
+1 ->> 4++ : regal incinerated
+1 -->x 2: relic literary
+return footing foolishness
+end
+@enduml

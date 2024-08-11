@@ -1,0 +1,9 @@
+@startuml
+box "demo hauled"
+participant "crates promenade" as 0
+end box
+alt statue experimental
+0 <-> 0: wright bagged
+ [-> 0: troubles seventy
+end
+@enduml

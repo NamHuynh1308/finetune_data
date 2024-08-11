@@ -1,0 +1,30 @@
+@startuml
+participant "terrifies acute" as 0
+box "university goodies"
+participant "familiars disputing" as 1
+participant "winking pants" as 2
+participant "stocky jumpers" as 3
+end box
+participant "ship seed" as 4
+== upkeep newspapers ==
+ [<- 0: hub innings
+par sunstroke oozing
+ [<- 0: harpoons missus
+...levels absconded...
+2 ->x 0: rah subconsciously
+opt kills tins
+ [<- 4: normally unfairness
+alt iguana tilt
+ [-> 4: bugle feared
+...fears blindfold...
+1 -->x 2++ : prepped blisters
+ [-> 1: pocketed languishing
+return cleanest fruit
+create participant "exceeds dub" as 5
+0 -> 5 : exceeds dub
+...cradle carry...
+0 -> 2: rot unaffected
+end
+end
+end
+@enduml

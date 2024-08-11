@@ -1,0 +1,6 @@
+@startuml
+participant "rehearse tilt" as 0
+autonumber 2 1
+0 --> 0: timers collision
+0 ->x 0: muggy heavenly
+@enduml

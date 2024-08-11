@@ -1,0 +1,12 @@
+@startuml
+participant "probation talkie" as 0
+== transfer receiver ==
+autonumber 10 6
+0 ->o 0: unbuttoned remembers
+...surfaced stork...
+0 -> 0: quitting dab
+autonumber stop
+loop canteen what
+0 -->x 0: acing denounce
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "clearance venetian" as 0
+box "ginny smokey"
+participant "survive necromancer" as 1
+end box
+autonumber 10 4
+0 -> 0: decomposed tuxedos
+autonumber stop
+1 -> 0: spark goner
+autonumber resume
+@enduml

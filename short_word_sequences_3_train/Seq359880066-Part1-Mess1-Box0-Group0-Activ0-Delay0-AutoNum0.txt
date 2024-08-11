@@ -1,0 +1,5 @@
+@startuml
+participant "cuts royalty" as 0
+== singling hammer ==
+0 -> 0: insult calendars
+@enduml

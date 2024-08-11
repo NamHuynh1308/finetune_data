@@ -1,0 +1,15 @@
+@startuml
+participant "kiss orphans" as 0
+participant "spills rations" as 1
+participant "uncool recommendation" as 2
+participant "nutritious glengarry" as 3
+== fulcrum detonates ==
+autonumber 1 10
+2 -->x 2: bequest absolved
+1 -> 3: kisser froze
+3 --//o 0: emporium chemist
+2 ->o 1++ : grandfather ornery
+1 -\\ 0++ : interviewed simplify
+return fraction dimension
+return served puts
+@enduml

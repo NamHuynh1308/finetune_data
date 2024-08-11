@@ -1,0 +1,15 @@
+@startuml
+participant "burger dolphins" as 0
+box "through meddle"
+participant "administered festivities" as 1
+participant "precipice bloody" as 2
+end box
+autonumber 0 1
+0 -> 2++ : dining tucker
+break allergic tightness
+ [-> 0: tempted subletting
+create participant "scares deodorant" as 3
+0 -> 3 : scares deodorant
+return attention why
+end
+@enduml

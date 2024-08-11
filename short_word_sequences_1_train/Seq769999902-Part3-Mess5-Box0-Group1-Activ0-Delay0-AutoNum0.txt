@@ -1,0 +1,14 @@
+@startuml
+participant "reinvent allegiances" as 0
+participant "universities rod" as 1
+participant "ringside triggered" as 2
+0 -> 1: browns precious
+par rebel meatloaf
+2 -// 0: mousey broken
+0 -> 0: rehashing guinea
+else relaxants snit
+1 -> 1: leading comes
+else gets fission
+2 -> 1!! : authoritative hyperspace
+end
+@enduml

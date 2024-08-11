@@ -1,0 +1,16 @@
+@startuml
+participant "dizzy oceanographic" as 0
+box "mice spectre"
+participant "airman getting" as 1
+participant "superpower sal" as 2
+end box
+participant "vogue berry" as 3
+== straws removing ==
+1 ->x 2: rarest mediterranean
+2 <-> 0++ : deodorant hoboes
+3 -> 2: sweatshirt ricks
+3 ->> 3++ : swaddling revelations
+1 -> 3!! : thesis welch
+return venture appease
+return fashions lameness
+@enduml

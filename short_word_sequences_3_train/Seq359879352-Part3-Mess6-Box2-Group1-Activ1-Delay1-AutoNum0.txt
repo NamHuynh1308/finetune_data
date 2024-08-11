@@ -1,0 +1,19 @@
+@startuml
+box "miggs okra"
+participant "quince lyrical" as 0
+participant "degrees typo" as 1
+box "implying torches"
+participant "popular ahem" as 2
+end box
+end box
+1 <-> 2: smoky dandelion
+...glide formed...
+1 <-> 1++ : statement neutralize
+alt queer common
+2 ->o 0: freezers rehab
+2 -> 0: cutter optometrist
+return reducing travelers
+ [-> 1: merchandise tremors
+2 -->x 0: winters jug
+end
+@enduml

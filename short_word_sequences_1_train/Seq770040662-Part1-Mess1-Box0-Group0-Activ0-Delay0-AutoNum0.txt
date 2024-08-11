@@ -1,0 +1,4 @@
+@startuml
+participant "spoiled definitions" as 0
+0 ->] : indicative instinct
+@enduml

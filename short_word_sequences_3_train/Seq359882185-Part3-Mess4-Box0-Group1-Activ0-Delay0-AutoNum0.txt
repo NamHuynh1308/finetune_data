@@ -1,0 +1,11 @@
+@startuml
+participant "depicts pint" as 0
+participant "antisocial slackers" as 1
+participant "dipping retaliatory" as 2
+2 -> 2!! : additives flashes
+2 --> 2: syne cowed
+critical acquaintance dieter
+ [<- 0: go garish
+0 -\\ 2: consul option
+end
+@enduml

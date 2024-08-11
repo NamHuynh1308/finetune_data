@@ -1,0 +1,23 @@
+@startuml
+participant "splendor bribing" as 0
+box "particles volunteering"
+participant "shore hub" as 1
+participant "basics scry" as 2
+end box
+participant "depressor flustered" as 3
+autonumber 10 3
+0 ->> 2: them zest
+1 ->] : programming catty
+2 --> 0: sniffing craving
+alt shooting spaced
+create participant "pushover ops" as 4
+3 -> 4 : pushover ops
+3 --//o 0: flatware enthused
+autonumber stop
+else bringing muss
+...kat communists...
+2 -> 4: sous tightly
+autonumber resume
+else sniffling concert
+end
+@enduml

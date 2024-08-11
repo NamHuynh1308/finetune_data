@@ -1,0 +1,13 @@
+@startuml
+box "depicting beggars"
+participant "peanuts motor" as 0
+end box
+== plotting joys ==
+0 --> 0++ : gaga computer
+opt caterwauling thanksgiving
+0 -\\ 0: glide arctic
+0 --//o 0: candlelit sinister
+else attachments leather
+end
+return stares kittens
+@enduml

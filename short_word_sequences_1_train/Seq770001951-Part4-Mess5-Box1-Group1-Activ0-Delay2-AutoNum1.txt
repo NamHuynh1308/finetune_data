@@ -1,0 +1,21 @@
+@startuml
+box "morgues exorbitant"
+participant "toolbox tribute" as 0
+participant "corresponds boosted" as 1
+participant "reward lackeys" as 2
+end box
+autonumber 1 10
+1 ->] : universe learner
+autonumber stop
+...drilling famed...
+ [<- 1: clippings levity
+autonumber resume
+ [-> 1: essence supper
+...willfully smorgasbord...
+ [-> 2: cassettes ranting
+break detective afloat
+create participant "alcove trilogy" as 3
+1 -> 3 : alcove trilogy
+autonumber stop
+end
+@enduml

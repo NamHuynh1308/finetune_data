@@ -1,0 +1,26 @@
+@startuml
+box "origami cagey"
+participant "blondes outwit" as 0
+participant "rubbing pairs" as 1
+end box
+participant "covered hygienist" as 2
+participant "unbreakable vet" as 3
+autonumber 2 4
+0 ->o 1++ : kissable portfolio
+0 <-> 1++ : libraries copy
+2 ->] : soundproof hm
+alt landslide gangland
+3 -> 3++ : gore acres
+autonumber stop
+3 -> 3++ : skirmish pamphlet
+else salvaging nightclub
+0 -> 3++ : fountains couples
+autonumber resume
+2 <-] : overcompensating smile
+end
+return gasp dossier
+return growing grooms
+return paired sketchy
+return hurdles biased
+return promotion psychobabble
+@enduml

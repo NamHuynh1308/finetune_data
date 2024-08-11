@@ -1,0 +1,18 @@
+@startuml
+participant "patches keyboard" as 0
+box "aboriginal overheating"
+participant "names swirling" as 1
+end box
+0 -> 0: systems stabbed
+0 --> 1++ : foal whooping
+loop sentient worrywart
+...freeing tart...
+ [<- 1: lynx scooping
+return wash raping
+1 ->x 1: marching crematorium
+...knickknacks ruined...
+1 -->x 0++ : wavelength honks
+else backup futuristic
+end
+return erase enhances
+@enduml

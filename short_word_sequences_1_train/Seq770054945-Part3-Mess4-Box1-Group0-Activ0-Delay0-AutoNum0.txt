@@ -1,0 +1,11 @@
+@startuml
+box "mince bled"
+participant "dote sparring" as 0
+participant "undecided chatterbox" as 1
+participant "believer relegated" as 2
+end box
+1 -->x 2: schooner observation
+0 --> 1: authoritative defence
+2 -->x 2: deprivation psychosis
+0 -> 1: funds dazzling
+@enduml

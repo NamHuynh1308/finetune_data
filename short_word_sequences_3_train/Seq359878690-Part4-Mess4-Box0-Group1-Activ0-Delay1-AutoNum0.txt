@@ -1,0 +1,13 @@
+@startuml
+participant "punters seltzer" as 0
+participant "wench chamomile" as 1
+create participant "crop cider" as 2
+1 -> 2 : crop cider
+create participant "furnished flag" as 3
+2 -> 3 : furnished flag
+ [-> 0: lunacy weapons
+opt equally sidewalk
+...bras aging...
+2 -\\ 2: capping starts
+end
+@enduml

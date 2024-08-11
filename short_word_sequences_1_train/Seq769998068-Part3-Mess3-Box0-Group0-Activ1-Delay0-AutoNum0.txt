@@ -1,0 +1,10 @@
+@startuml
+participant "assuring ports" as 0
+participant "demonstration passive" as 1
+participant "suspect habitat" as 2
+== droppings spelled ==
+0 ->x 2: kraft speak
+1 --//o 2: hots stipulation
+2 -> 2++ : texture rare
+return faucets vows
+@enduml

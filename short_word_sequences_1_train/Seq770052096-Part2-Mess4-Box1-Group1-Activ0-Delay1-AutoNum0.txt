@@ -1,0 +1,14 @@
+@startuml
+participant "elevation rhymes" as 0
+box "barefoot demonology"
+participant "presume petrol" as 1
+end box
+== roomy rooming ==
+ [<- 0: doorway cozy
+0 ->> 1: jess wasteful
+critical risky splinters
+0 <-] : primping argyle
+...roommates sleet...
+0 --//o 0: canal beings
+end
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+participant "literature deuce" as 0
+participant "scaring convicted" as 1
+participant "sunk loca" as 2
+autonumber 0 5
+0 --> 1: softer davenport
+autonumber stop
+alt needle stockholder
+1 ->] : arty dent
+autonumber resume
+2 <-> 1++ : dumps harbouring
+autonumber stop
+loop zip lever
+...clippings granddaughters...
+2 ->x 1: caterwauling mow
+1 --> 0: worldwide provenance
+return ness amulet
+autonumber resume
+end
+end
+@enduml

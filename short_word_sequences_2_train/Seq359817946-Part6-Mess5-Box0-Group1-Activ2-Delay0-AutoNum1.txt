@@ -1,0 +1,21 @@
+@startuml
+participant "complacent fright" as 0
+participant "qualifies crazy" as 1
+participant "born bucko" as 2
+participant "student radishes" as 3
+participant "hijacking manic" as 4
+== soapbox agricultural ==
+autonumber 6 9
+create participant "incompatible heated" as 5
+3 -> 5 : incompatible heated
+3 -// 1: intent reeking
+loop crows rituals
+4 <-> 4++ : hissed sinful
+autonumber stop
+5 ->x 1: exhibition detonates
+autonumber resume
+0 -> 1++ : footnotes reject
+end
+return chickens elated
+return heighten continuous
+@enduml

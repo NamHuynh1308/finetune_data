@@ -1,0 +1,10 @@
+@startuml
+participant "rumblings healthy" as 0
+autonumber 9 3
+0 <-] : troopers gesture
+ [-> 0: sneaks butterscotch
+...temperamental stethoscope...
+0 ->> 0++ : dates evaluated
+ [-> 0: snack carbo
+return replacing rouge
+@enduml

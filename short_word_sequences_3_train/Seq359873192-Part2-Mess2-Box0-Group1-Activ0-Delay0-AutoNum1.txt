@@ -1,0 +1,9 @@
+@startuml
+participant "stared sugar" as 0
+autonumber 2 8
+0 <-] : backyard fad
+break tempered blasting
+create participant "shebang liter" as 1
+0 -> 1 : shebang liter
+end
+@enduml

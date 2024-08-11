@@ -1,0 +1,19 @@
+@startuml
+participant "included importer" as 0
+box "angelus fared"
+participant "unwise humanly" as 1
+participant "hum peeping" as 2
+end box
+autonumber 4 0
+alt adhere islanders
+1 -> 0++ : related imposing
+ [<- 0: beamed conjugal
+else shared creations
+ [<- 1: piping rougher
+2 -> 0!! : absorb cargo
+else extreme solarium
+2 --> 1: umbrella murky
+return tetanus uploading
+2 <-] : hush deficient
+end
+@enduml

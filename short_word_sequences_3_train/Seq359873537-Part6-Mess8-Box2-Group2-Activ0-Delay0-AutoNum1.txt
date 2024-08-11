@@ -1,0 +1,25 @@
+@startuml
+box "naw schemed"
+participant "tavern masculine" as 0
+participant "cavities anybody" as 1
+participant "evolve heavens" as 2
+box "fog tolerate"
+participant "pressing duel" as 3
+end box
+end box
+autonumber 5 6
+critical tropics coordinate
+0 <-] : infinity cashing
+1 -> 3: jingles overestimate
+0 -> 3: stump freshwater
+alt stomp leaves
+2 --> 3: steerage exaggeration
+create participant "craves particle" as 4
+3 -> 4 : craves particle
+2 -> 3: blessed painted
+3 <-] : tantric ag
+create participant "catholic plucked" as 5
+3 -> 5 : catholic plucked
+end
+end
+@enduml

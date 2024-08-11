@@ -1,0 +1,17 @@
+@startuml
+box "lattes elsewhere"
+participant "om specimens" as 0
+participant "mold faults" as 1
+participant "companion semple" as 2
+end box
+autonumber 5 0
+opt ideals there
+2 -> 1++ : exhibiting dashboard
+1 -> 0++ : pond fiends
+autonumber stop
+1 -> 2!! : core accomplishments
+else cancelled desert
+end
+return calling announcements
+return casino omelet
+@enduml

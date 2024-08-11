@@ -1,0 +1,28 @@
+@startuml
+participant "useful ride" as 0
+box "pepperoni tense"
+participant "alteration tractor" as 1
+participant "menu tomb" as 2
+end box
+autonumber 5 1
+1 -\\ 2: outstanding cos
+autonumber stop
+opt promise phoenix
+...thesaurus suspicion...
+0 -\\ 1: earning candy
+0 ->o 0: reeve lash
+else mist complaint
+0 ->o 0++ : calamitous simony
+end
+opt orderly gracing
+0 -> 1!! : prose affidavit
+opt drummed mag
+2 --//o 1: factions mess
+return sacrament fag
+autonumber resume
+create participant "gardenias forklift" as 3
+1 -> 3 : gardenias forklift
+else palpable captain
+end
+end
+@enduml

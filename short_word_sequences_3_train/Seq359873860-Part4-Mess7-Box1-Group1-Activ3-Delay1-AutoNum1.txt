@@ -1,0 +1,27 @@
+@startuml
+participant "browbeat documents" as 0
+box "waved trees"
+participant "colonel claws" as 1
+participant "games lipstick" as 2
+end box
+autonumber 9 3
+critical tweedle dashed
+1 ->o 2: lobsters teriyaki
+autonumber stop
+create participant "bach cleaning" as 3
+0 -> 3 : bach cleaning
+autonumber resume
+3 -> 0++ : pathologist precisely
+...struts building...
+3 <-] : randy terrified
+autonumber stop
+else tarzan gunshots
+3 -> 2++ : bending yachts
+2 --> 2: impunity resentful
+return reels skimpy
+0 -> 2++ : pained avoid
+else decker hoist
+end
+return onward gecko
+return generic coming
+@enduml

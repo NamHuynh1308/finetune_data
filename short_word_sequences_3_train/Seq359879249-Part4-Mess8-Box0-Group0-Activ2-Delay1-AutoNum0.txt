@@ -1,0 +1,18 @@
+@startuml
+participant "toupee thin" as 0
+participant "magistrate sark" as 1
+participant "stairwell crawl" as 2
+participant "sangria atop" as 3
+== targets bummer ==
+1 -> 1++ : fondue catchers
+ [-> 3: antsy engine
+1 ->o 3: amuse demonstrated
+...delicate unfolding...
+3 -> 1: erroneous unfinished
+3 ->> 3++ : theoretically diggers
+1 -> 3: fluorescent raiser
+return bayberry stopwatch
+1 -> 3!! : disaster badge
+2 ->> 2: verbal thumb
+return supported urgency
+@enduml

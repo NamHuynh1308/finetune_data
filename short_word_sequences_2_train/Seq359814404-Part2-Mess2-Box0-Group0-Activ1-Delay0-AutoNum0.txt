@@ -1,0 +1,7 @@
+@startuml
+participant "humanity buff" as 0
+participant "jeep mowers" as 1
+1 -->x 0++ : echo validated
+ [-> 0: wrong files
+return senators programmed
+@enduml

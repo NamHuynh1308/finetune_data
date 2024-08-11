@@ -1,0 +1,13 @@
+@startuml
+participant "maria educators" as 0
+== cinder requisition ==
+par weekend docks
+0 -> 0++ : lager beets
+create participant "cubs brand" as 1
+0 -> 1 : cubs brand
+return edible fascism
+opt aye horsepower
+1 -\\ 0: cleanup oral
+end
+end
+@enduml

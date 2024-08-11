@@ -1,0 +1,16 @@
+@startuml
+box "unsanitary overhead"
+participant "immediately forbid" as 0
+box "collier prizes"
+participant "germ bumper" as 1
+end box
+end box
+0 <-> 1++ : pickpocket stocking
+...rehash marooned...
+ [<- 1: substantial affect
+1 -> 0++ : belongs bungalows
+...care ewe...
+1 ->x 1: fantasy weirdest
+return lonelier innards
+return pots fruit
+@enduml

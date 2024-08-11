@@ -1,0 +1,18 @@
+@startuml
+participant "flexing ropes" as 0
+participant "helmets slider" as 1
+autonumber 9 5
+opt matchmaker jockey
+1 ->x 1: win absorb
+0 -> 1: geometry where
+else summoning roaring
+1 --//o 0: gratified exploring
+else argumentative trooper
+1 -> 0: photography busted
+autonumber stop
+loop thoughtless diversions
+...practitioner softness...
+1 -> 0: distracted layer
+end
+end
+@enduml

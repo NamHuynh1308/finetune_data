@@ -1,0 +1,10 @@
+@startuml
+box "raids pickpockets"
+participant "clump aquatic" as 0
+participant "steel indicted" as 1
+end box
+== tobacco highlighters ==
+0 -// 1: knots roles
+1 ->> 1: overcast coon
+0 -> 1: henhouse prospect
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "planetarium lander" as 0
+== hallo formulate ==
+0 -\\ 0: swapping summit
+@enduml

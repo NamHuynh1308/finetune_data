@@ -1,0 +1,10 @@
+@startuml
+participant "scoops can" as 0
+participant "wilderness critically" as 1
+== passages dwelling ==
+1 -\\ 0++ : saints maliciously
+opt ascension gruel
+0 ->] : politics barrio
+end
+return fright sipping
+@enduml

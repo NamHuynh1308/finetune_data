@@ -1,0 +1,17 @@
+@startuml
+box "festivities ridicule"
+participant "arresting milo" as 0
+participant "charging bets" as 1
+box "lass reiterate"
+participant "shakes earthly" as 2
+end box
+end box
+loop bankers intrigue
+1 --> 2: threats insufferable
+0 -->x 0++ : tyrant tom
+end
+0 -// 0: logical blubber
+create participant "incase lightened" as 3
+0 -> 3 : incase lightened
+return bunking soldiers
+@enduml

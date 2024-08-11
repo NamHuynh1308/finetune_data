@@ -1,0 +1,6 @@
+@startuml
+participant "tantrums caved" as 0
+autonumber 7 2
+0 ->x 0: heaps coincidences
+autonumber stop
+@enduml

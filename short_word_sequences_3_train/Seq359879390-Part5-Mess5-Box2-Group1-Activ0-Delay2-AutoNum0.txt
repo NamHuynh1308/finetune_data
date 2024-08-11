@@ -1,0 +1,21 @@
+@startuml
+participant "screwups impeccable" as 0
+participant "images scar" as 1
+participant "smoothest shells" as 2
+box "pupils windowsill"
+participant "catering clips" as 3
+box "overpaid overboard"
+participant "valor execs" as 4
+end box
+end box
+ [-> 2: salmon yonkers
+...tolerated ham...
+0 -->x 1: lighthouse extremes
+3 -> 1: cliffhanger grandkid
+critical overdosed underage
+3 -> 3!! : famine free
+...additives counsellor...
+0 -> 2: auspicious snacks
+else displayed poppies
+end
+@enduml

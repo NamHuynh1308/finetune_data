@@ -1,0 +1,4 @@
+@startuml
+participant "vests disguise" as 0
+0 -> 0: talky lemmings
+@enduml

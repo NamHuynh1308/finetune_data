@@ -1,0 +1,13 @@
+@startuml
+participant "handoff forthright" as 0
+box "preamble naivete"
+participant "tacked goose" as 1
+end box
+ [-> 1: uninterrupted kangaroo
+...condensation gastric...
+0 -> 0: patrolman rethought
+0 ->x 1++ : poppet keen
+0 -> 1: bolder hearsay
+return vending absentee
+ [-> 1: absorb flossing
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "poignant buzzard" as 0
+== lounge broadcasts ==
+autonumber 0 4
+0 --> 0: cushy tiles
+create participant "truthful matzoh" as 1
+0 -> 1 : truthful matzoh
+...purged physician...
+0 ->] : accusations betrayals
+autonumber stop
+par pick reaching
+0 ->] : verbatim errands
+autonumber resume
+create participant "barracuda eloping" as 2
+0 -> 2 : barracuda eloping
+else rip infect
+end
+@enduml

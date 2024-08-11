@@ -1,0 +1,15 @@
+@startuml
+participant "arranged streets" as 0
+participant "selected scrapings" as 1
+box "zillions basis"
+participant "trait warrant" as 2
+participant "fa bitty" as 3
+end box
+1 <-] : scrawny sailed
+1 <-] : excellent answered
+3 -// 3: carbohydrates jimmies
+0 <-] : windowsill silences
+0 -> 3++ : lander epiphany
+2 ->> 2: coercion scoping
+return confining sunset
+@enduml

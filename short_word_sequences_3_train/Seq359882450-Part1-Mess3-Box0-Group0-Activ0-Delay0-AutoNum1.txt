@@ -1,0 +1,8 @@
+@startuml
+participant "appeals emptiness" as 0
+autonumber 10 8
+0 <-> 0: sweeps covering
+0 -> 0!! : nation tarnish
+autonumber stop
+0 -> 0!! : indicators carat
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "sassy senor" as 0
+participant "hydrate knockdown" as 1
+critical briefcase poets
+0 ->o 0++ : jugular martyrs
+0 <-> 1++ : sniffles enemy
+else fellow starlets
+0 -->x 1: snuggled hears
+end
+return indecent plagues
+return unsuspecting bangles
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+box "perceptions overstay"
+participant "scores interrupted" as 0
+participant "scabs unbeknownst" as 1
+end box
+participant "reorganizing thinly" as 2
+== dubious show ==
+autonumber 3 0
+break restaurant dilly
+1 -> 0!! : beefs enjoying
+0 ->> 0: prairie befitting
+autonumber stop
+end
+0 -> 1: lumpy negotiator
+autonumber resume
+0 -> 0!! : delly afterward
+@enduml

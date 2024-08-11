@@ -1,0 +1,10 @@
+@startuml
+participant "debris liars" as 0
+box "uneducated allegations"
+participant "hothead braved" as 1
+end box
+0 -->x 0: released salesmen
+opt sorel fattest
+1 ->> 1: prospector shared
+end
+@enduml

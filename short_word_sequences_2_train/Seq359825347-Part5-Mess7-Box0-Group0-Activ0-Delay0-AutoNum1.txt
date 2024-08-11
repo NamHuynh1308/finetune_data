@@ -1,0 +1,17 @@
+@startuml
+participant "pus careless" as 0
+participant "soothsayer numbing" as 1
+participant "physician vaginas" as 2
+participant "shrugs filtration" as 3
+autonumber 10 4
+2 ->o 1: studded alliance
+0 <-] : association braver
+0 ->x 1: misery mantel
+2 <-] : frequency compact
+autonumber stop
+create participant "grandstand nieces" as 4
+0 -> 4 : grandstand nieces
+ [-> 4: amin rehash
+0 -> 3: options aplastic
+autonumber resume
+@enduml

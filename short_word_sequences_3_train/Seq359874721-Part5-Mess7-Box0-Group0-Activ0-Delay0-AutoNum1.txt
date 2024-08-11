@@ -1,0 +1,18 @@
+@startuml
+participant "ushering whammy" as 0
+participant "slight dolly" as 1
+participant "reeling appointing" as 2
+participant "petite paella" as 3
+autonumber 9 9
+2 -> 0: dragonfly abilities
+autonumber stop
+0 -> 1!! : congenial flunky
+autonumber resume
+1 ->o 1: glass poach
+3 ->o 0: tours despite
+1 ->x 0: upwards vault
+autonumber stop
+create participant "feudal erratic" as 4
+3 -> 4 : feudal erratic
+0 <-> 3: accusing curvaceous
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+participant "immigrants texts" as 0
+participant "purblind essays" as 1
+== booth cancer ==
+1 ->x 0: tub settings
+...squandered dwarves...
+1 -> 0: financially selection
+0 -> 1: rectangle gratifying
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "aargh purchases" as 0
+participant "inconsolable proving" as 1
+alt buyer pathogen
+1 -> 0: bungled hiker
+...inferno gig...
+0 -> 0: masterminded gibberish
+else noticing visualizing
+0 --//o 1: relativity respected
+end
+@enduml

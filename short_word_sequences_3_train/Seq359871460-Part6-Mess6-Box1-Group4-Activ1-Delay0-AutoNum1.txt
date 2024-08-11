@@ -1,0 +1,26 @@
+@startuml
+participant "wheeler snowbank" as 0
+box "mortars dings"
+participant "monumental assistants" as 1
+participant "putter barricaded" as 2
+participant "bargaining meddling" as 3
+participant "revolves agile" as 4
+end box
+autonumber 7 5
+create participant "guidance hinges" as 5
+1 -> 5 : guidance hinges
+ [<- 5: popular choreography
+opt punky scalper
+ [<- 5: idolized narcotics
+par tender collier
+1 -> 5: mobilize civilized
+alt rubbed convulsing
+5 <-] : outbid recommendations
+critical vertically sentimental
+5 -> 3++ : lighting enemy
+end
+end
+end
+end
+return swans maliciously
+@enduml

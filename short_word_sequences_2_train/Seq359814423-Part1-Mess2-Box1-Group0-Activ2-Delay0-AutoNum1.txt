@@ -1,0 +1,10 @@
+@startuml
+box "neighborly stardom"
+participant "slate creamy" as 0
+end box
+autonumber 10 4
+0 -> 0++ : ingles outcasts
+0 -> 0++ : mastered drives
+return gofer print
+return pathways rewarded
+@enduml

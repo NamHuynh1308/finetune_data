@@ -1,0 +1,21 @@
+@startuml
+participant "hutch buyout" as 0
+participant "fives thrive" as 1
+participant "slinging goof" as 2
+box "unite antibiotics"
+participant "pedestrians shafted" as 3
+end box
+== pathologist oh ==
+autonumber 2 4
+3 -> 3: influencing rewrites
+ [-> 0: homemade implement
+ [<- 1: ramifications dwarves
+0 -> 2: waiter wherein
+opt tied felonies
+0 <-> 1: greeting pockets
+...remedies disrupts...
+3 ->> 3: topics became
+1 --//o 3: dredge infertile
+1 -\\ 0: trumps limitation
+end
+@enduml

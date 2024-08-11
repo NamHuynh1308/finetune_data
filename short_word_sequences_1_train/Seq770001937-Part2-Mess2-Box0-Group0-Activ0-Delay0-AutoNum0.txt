@@ -1,0 +1,7 @@
+@startuml
+participant "placed frogs" as 0
+== dumpling fluorescent ==
+0 -// 0: maybe strict
+create participant "barrel squarely" as 1
+0 -> 1 : barrel squarely
+@enduml

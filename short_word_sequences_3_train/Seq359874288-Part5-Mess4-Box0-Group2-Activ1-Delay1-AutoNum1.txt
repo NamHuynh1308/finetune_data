@@ -1,0 +1,20 @@
+@startuml
+participant "just bionic" as 0
+participant "conning parliamentary" as 1
+participant "fingernails peels" as 2
+participant "acrobat strong" as 3
+== employers gratifying ==
+autonumber 1 6
+par kelp latter
+2 <-> 3: intrusion pixies
+...circle conspicuous...
+0 -// 1: fulcrum fatherhood
+0 -> 1++ : befitting responsive
+alt stonewalled gobbles
+create participant "assassination lobotomy" as 4
+0 -> 4 : assassination lobotomy
+autonumber stop
+end
+end
+return bellies ore
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+box "malfunctions ordnance"
+participant "robe passive" as 0
+participant "fleeing float" as 1
+end box
+participant "lippy contemporary" as 2
+== floater samaritan ==
+ [<- 2: reinventing logged
+2 -> 0!! : acting lotto
+2 -->x 2: sandalwood interrogating
+0 ->] : intact alight
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+box "automaton mammals"
+participant "annals businessman" as 0
+end box
+autonumber 0 0
+create participant "clinging quitter" as 1
+0 -> 1 : clinging quitter
+autonumber stop
+create participant "poaching malign" as 2
+1 -> 2 : poaching malign
+...penance centerpieces...
+1 <-> 2: palm cupboards
+opt moat disqualified
+1 --//o 1++ : designs rumored
+end
+return urgency lupus
+@enduml

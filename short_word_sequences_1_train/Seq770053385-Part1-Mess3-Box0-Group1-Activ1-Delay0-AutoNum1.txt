@@ -1,0 +1,12 @@
+@startuml
+participant "slanted drosophila" as 0
+== corps specialized ==
+autonumber 1 9
+0 -> 0++ : wizard drowning
+critical drown leads
+ [<- 0: accuse friend
+return adopting amends
+0 ->] : fiver ungodly
+else ratting floating
+end
+@enduml

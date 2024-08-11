@@ -1,0 +1,16 @@
+@startuml
+box "requests consecutive"
+participant "graphite caskets" as 0
+end box
+== keycard pavement ==
+loop impala anyone
+0 ->> 0++ : clef swivel
+0 -> 0: headsets summarize
+return anachronism reiterate
+else stockbroker camels
+0 <-] : broads metallic
+0 -> 0: wreaking emphatic
+0 --//o 0++ : furs breakable
+end
+return swanky loveable
+@enduml

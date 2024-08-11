@@ -1,0 +1,5 @@
+@startuml
+participant "galoshes schizo" as 0
+autonumber 8 6
+0 -->x 0: consultation eyeful
+@enduml

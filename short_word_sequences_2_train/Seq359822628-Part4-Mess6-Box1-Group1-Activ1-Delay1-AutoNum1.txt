@@ -1,0 +1,21 @@
+@startuml
+participant "deceptively polar" as 0
+box "agreeable errors"
+participant "sears gainfully" as 1
+participant "rundown northern" as 2
+end box
+autonumber 0 2
+0 <-> 0: verdict distorted
+1 ->x 0++ : salvaged bongo
+0 -\\ 1: jake lancer
+autonumber stop
+create participant "discourse torches" as 3
+1 -> 3 : discourse torches
+autonumber resume
+...ventilated the...
+ [<- 2: royally mushroom
+par resilient worries
+0 -->x 3: starlet contaminated
+return runner karaoke
+end
+@enduml

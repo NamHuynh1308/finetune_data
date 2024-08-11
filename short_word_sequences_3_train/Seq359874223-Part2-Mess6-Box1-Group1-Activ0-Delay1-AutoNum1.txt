@@ -1,0 +1,17 @@
+@startuml
+box "snatcher starlets"
+participant "interruption spate" as 0
+participant "dost pilgrims" as 1
+end box
+autonumber 0 5
+1 -// 1: uplink survivors
+0 ->> 0: freebie unnatural
+...endeavors boxes...
+1 -> 1: vigilance strangle
+1 -> 0: bequest nightstand
+ [-> 1: regained untie
+loop qualified mops
+0 <-] : froze electrician
+autonumber stop
+end
+@enduml

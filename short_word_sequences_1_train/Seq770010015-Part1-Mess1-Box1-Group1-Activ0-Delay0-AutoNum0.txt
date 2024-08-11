@@ -1,0 +1,9 @@
+@startuml
+box "impacted actual"
+participant "monologue lasagna" as 0
+end box
+== gurney benching ==
+critical regenerate denied
+0 --//o 0: contributes spots
+end
+@enduml

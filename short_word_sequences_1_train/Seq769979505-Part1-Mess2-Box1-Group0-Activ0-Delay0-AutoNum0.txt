@@ -1,0 +1,8 @@
+@startuml
+box "giggles released"
+participant "blundering suitor" as 0
+end box
+== boats dinosaur ==
+0 <-] : hoboes kabob
+0 ->o 0: oversight ka
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "gatehouse top" as 0
+participant "auctioneer fueled" as 1
+participant "chop duties" as 2
+participant "behavior intubate" as 3
+2 -// 1: sealed stew
+...bribes donate...
+3 -\\ 2++ : aspirations kibble
+ [<- 0: occupants passed
+...mummy ensure...
+3 --//o 0++ : nine floods
+0 -> 0: voyage premises
+return opportune pizzas
+return masked weaken
+@enduml

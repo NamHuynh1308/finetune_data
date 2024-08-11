@@ -1,0 +1,15 @@
+@startuml
+participant "shimmering maul" as 0
+box "mist wedlock"
+participant "importance nails" as 1
+box "nauseating princess"
+participant "cannibal unrelated" as 2
+end box
+end box
+== port generation ==
+ [-> 0: prudes bozos
+0 -->x 0: geniuses choking
+par advent cosmos
+ [-> 0: symptom arrivals
+end
+@enduml

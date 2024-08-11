@@ -1,0 +1,14 @@
+@startuml
+participant "mead detonator" as 0
+participant "slander guided" as 1
+participant "commonwealth quieter" as 2
+participant "predisposed soprano" as 3
+0 <-> 1++ : bigot suitcase
+2 ->x 2++ : burgers corresponds
+3 -> 3++ : retrieval pesky
+...balances sighing...
+0 -> 0: elicit blame
+return tidy desert
+return billing scrappy
+return pitchers retrieved
+@enduml

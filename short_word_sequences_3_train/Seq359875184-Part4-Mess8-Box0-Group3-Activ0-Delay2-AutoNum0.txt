@@ -1,0 +1,23 @@
+@startuml
+participant "guilder pox" as 0
+participant "notwithstanding ballroom" as 1
+participant "opted barren" as 2
+participant "terrain seasons" as 3
+== basement lars ==
+alt wiggy priced
+2 --//o 2: bonnet homeroom
+par shelling migraine
+0 -> 2: lodging dilettante
+...baffled travelling...
+2 -> 1: dancer headmaster
+2 -> 3: opera mu
+ [-> 1: leagues julep
+1 -\\ 1: discharged accepts
+par apache unable
+ [-> 2: bleeding ditch
+...intervening candidacy...
+0 ->x 3: dubious orbit
+end
+end
+end
+@enduml

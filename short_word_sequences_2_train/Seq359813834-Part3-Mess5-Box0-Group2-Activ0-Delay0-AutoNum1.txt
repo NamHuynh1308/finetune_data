@@ -1,0 +1,18 @@
+@startuml
+participant "chops alma" as 0
+participant "pissed student" as 1
+autonumber 9 5
+0 --> 1: moisture disks
+0 --//o 1: adultery cheers
+1 -->x 1: spotlights disappointments
+autonumber stop
+alt pulp globe
+create participant "preposterous rookies" as 2
+1 -> 2 : preposterous rookies
+autonumber resume
+par saltines south
+0 --> 2: contingency discarded
+autonumber stop
+end
+end
+@enduml

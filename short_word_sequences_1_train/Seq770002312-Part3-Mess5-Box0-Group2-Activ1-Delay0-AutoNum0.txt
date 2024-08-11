@@ -1,0 +1,16 @@
+@startuml
+participant "tinted ballerina" as 0
+participant "dinky finalizing" as 1
+participant "dyeing figment" as 2
+== controls influence ==
+alt takeover yaw
+0 -->x 1: freelancer tighten
+1 -> 1!! : warehouses psychosomatic
+2 -> 2: squiggle sneeze
+end
+critical lascivious griddle
+0 --//o 1++ : greedy veil
+2 ->] : reeve eighth
+end
+return parker cerebellum
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "layer jelly" as 0
+autonumber 4 3
+0 <-] : heartwarming encoded
+alt amino photographing
+0 --//o 0: lab incantations
+end
+@enduml

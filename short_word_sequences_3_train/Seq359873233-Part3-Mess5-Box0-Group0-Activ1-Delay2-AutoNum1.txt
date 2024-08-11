@@ -1,0 +1,15 @@
+@startuml
+participant "spooks speakerphone" as 0
+participant "colon fez" as 1
+participant "prompter flinch" as 2
+autonumber 0 9
+ [-> 1: obscenity underneath
+2 ->x 1: moly flames
+autonumber stop
+...cartridge meteorite...
+2 -> 0: mimicking registering
+...pins letterman...
+0 -> 0++ : glue bladder
+0 -> 2: doorknobs yo
+return dawning roomie
+@enduml

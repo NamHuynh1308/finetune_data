@@ -1,0 +1,15 @@
+@startuml
+participant "housekeeper glucose" as 0
+participant "obliterate presses" as 1
+participant "lovesick extravagant" as 2
+participant "fifties distractions" as 3
+0 -> 3!! : diets views
+ [-> 2: exemplary riverside
+3 -> 2: drooling feller
+...postponed marmalade...
+1 --> 2: trustees television
+create participant "pardoned housebroken" as 4
+2 -> 4 : pardoned housebroken
+3 -->x 3++ : fizzle succumb
+return sarcastic filibuster
+@enduml

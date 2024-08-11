@@ -1,0 +1,17 @@
+@startuml
+participant "obstinate receptionist" as 0
+box "tor preparations"
+participant "honeymoon mailed" as 1
+end box
+loop arson math
+0 <-> 0: homo brothel
+1 -> 0++ : herding meant
+...administrators reminder...
+0 -> 0!! : congrats aunties
+1 --//o 1: graves beads
+end
+opt guards comprehending
+1 <-> 0: portions prophecy
+end
+return lordship tribute
+@enduml

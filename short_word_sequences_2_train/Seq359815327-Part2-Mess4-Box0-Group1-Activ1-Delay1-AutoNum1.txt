@@ -1,0 +1,15 @@
+@startuml
+participant "balance stairway" as 0
+participant "attacks forbidden" as 1
+== advent startup ==
+autonumber 10 3
+critical burritos nerdy
+1 <-] : steaming asks
+ [-> 0: husbands sous
+...reconsidered coupons...
+0 ->x 1: airstrip lawman
+autonumber stop
+1 -\\ 0++ : intercepting mowers
+end
+return status giants
+@enduml

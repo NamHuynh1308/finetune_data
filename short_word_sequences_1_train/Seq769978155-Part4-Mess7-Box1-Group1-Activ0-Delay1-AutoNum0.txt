@@ -1,0 +1,19 @@
+@startuml
+participant "cooking adjectives" as 0
+box "libel cafeteria"
+participant "ground dares" as 1
+participant "callers criminal" as 2
+participant "bora hateful" as 3
+end box
+3 <-> 3: mixers jellybean
+...degradation therapists...
+2 -> 3: patched scorpion
+2 ->x 1: usual happened
+2 <-> 2: petrified serenade
+break embarking disturbance
+ [<- 2: cinnamon pricked
+0 --//o 1: mammals regret
+ [<- 3: illegible thriller
+else muses ideal
+end
+@enduml

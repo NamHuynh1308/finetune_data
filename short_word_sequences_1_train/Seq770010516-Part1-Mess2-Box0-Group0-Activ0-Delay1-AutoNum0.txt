@@ -1,0 +1,6 @@
+@startuml
+participant "gloss tuning" as 0
+ [<- 0: pantry seeing
+...clippers geographical...
+0 -// 0: nutty imprisoned
+@enduml

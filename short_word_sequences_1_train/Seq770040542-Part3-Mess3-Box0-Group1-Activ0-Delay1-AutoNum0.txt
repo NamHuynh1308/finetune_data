@@ -1,0 +1,12 @@
+@startuml
+participant "protests slanted" as 0
+participant "secretary indispensable" as 1
+participant "deader burbs" as 2
+== position authorize ==
+2 -\\ 2: parish cartilage
+opt bigmouth litigious
+ [<- 0: opium barbecued
+...agonized islands...
+ [-> 1: yipe affair
+end
+@enduml

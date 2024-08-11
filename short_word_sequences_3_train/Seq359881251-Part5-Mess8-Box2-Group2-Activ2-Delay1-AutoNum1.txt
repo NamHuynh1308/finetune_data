@@ -1,0 +1,30 @@
+@startuml
+participant "tins perfectly" as 0
+box "tandem jesse"
+participant "classical scoring" as 1
+participant "beaten commercials" as 2
+box "nelson casa"
+participant "receipts sway" as 3
+end box
+end box
+autonumber 4 10
+3 ->> 1++ : conquest outdo
+1 -> 1++ : row driveways
+2 ->] : white strikes
+par paid buying
+2 -> 2: providing pulls
+return teller demo
+2 ->o 2: drowning sometimes
+create participant "cigarettes wiped" as 4
+1 -> 4 : cigarettes wiped
+return kindest vanity
+2 -// 1: schoolwork doctors
+autonumber stop
+else jukebox selfishly
+break grandkid honored
+...fetus worrywart...
+4 -\\ 0: charismatic carries
+autonumber resume
+end
+end
+@enduml

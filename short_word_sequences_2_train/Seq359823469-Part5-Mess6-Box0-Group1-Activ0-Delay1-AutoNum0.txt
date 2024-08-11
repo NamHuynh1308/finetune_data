@@ -1,0 +1,17 @@
+@startuml
+participant "tripe smock" as 0
+participant "commentaries companion" as 1
+participant "fags pharmaceutical" as 2
+participant "lazy trading" as 3
+participant "baptist incapacitate" as 4
+0 -> 2: doe chocolates
+0 <-] : marshall spoiled
+...cops legitimate...
+2 -> 1: lobsters serviced
+opt nosh psychologist
+ [-> 1: cylinder remaining
+ [<- 4: congeniality catalogue
+else orioles pros
+1 -> 4: fabulous reincarnated
+end
+@enduml

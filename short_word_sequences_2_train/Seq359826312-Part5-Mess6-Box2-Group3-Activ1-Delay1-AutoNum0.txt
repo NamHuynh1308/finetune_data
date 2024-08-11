@@ -1,0 +1,26 @@
+@startuml
+participant "open plating" as 0
+participant "geologists vulnerable" as 1
+box "cones grinder"
+participant "kites bodega" as 2
+participant "blather uniform" as 3
+box "reconvene plankton"
+participant "ingredients devices" as 4
+end box
+end box
+1 -// 4++ : croak viola
+alt bothering virtual
+...stink devour...
+ [-> 4: burly car
+2 <-] : saga mustard
+else stunning disfiguring
+loop fifths scow
+2 ->] : envisioned groups
+2 ->> 3: burke literature
+return cosmetic firemen
+opt ramble scrounge
+3 <-] : instruct fraulein
+end
+end
+end
+@enduml

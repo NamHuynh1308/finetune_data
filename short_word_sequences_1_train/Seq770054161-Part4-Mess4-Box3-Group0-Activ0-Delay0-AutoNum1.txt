@@ -1,0 +1,20 @@
+@startuml
+participant "wasps bulls" as 0
+box "cultivate bills"
+participant "doth endive" as 1
+box "cardinals entree"
+participant "wayward steal" as 2
+box "uncover underlined"
+participant "ensue visuals" as 3
+end box
+end box
+end box
+autonumber 5 7
+0 ->] : collective received
+autonumber stop
+3 ->] : pragmatic service
+autonumber resume
+0 -->x 1: kids spencer
+autonumber stop
+0 -->x 1: professionally jealous
+@enduml

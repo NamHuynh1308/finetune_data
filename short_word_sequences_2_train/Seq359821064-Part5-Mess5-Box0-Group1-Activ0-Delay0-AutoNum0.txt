@@ -1,0 +1,14 @@
+@startuml
+participant "altogether lobbyist" as 0
+participant "freezes warsaw" as 1
+participant "disingenuous blackout" as 2
+participant "grants bronze" as 3
+participant "indications tofu" as 4
+3 -> 3!! : unsettled assignment
+ [-> 4: hippopotamus convoy
+2 -->x 1: renegade exiled
+loop grasp piddles
+3 ->o 3: slowed constellation
+3 -> 0: cabin transporting
+end
+@enduml

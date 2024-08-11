@@ -1,0 +1,5 @@
+@startuml
+participant "awry talisman" as 0
+== saying review ==
+0 --> 0: ecosystem fronts
+@enduml

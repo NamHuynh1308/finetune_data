@@ -1,0 +1,24 @@
+@startuml
+participant "jihad heckles" as 0
+box "misery penetration"
+participant "cursed chapel" as 1
+participant "looker plunder" as 2
+end box
+participant "hybrids slave" as 3
+autonumber 0 4
+critical ailments framework
+3 -> 1: superstition amulets
+par spotter auditory
+create participant "aversion functional" as 4
+3 -> 4 : aversion functional
+autonumber stop
+...warheads dreamt...
+3 -// 0: weighing rethought
+autonumber resume
+...extort arc...
+1 ->> 4: salami restorative
+end
+1 ->x 1: combust gonorrhea
+autonumber stop
+end
+@enduml

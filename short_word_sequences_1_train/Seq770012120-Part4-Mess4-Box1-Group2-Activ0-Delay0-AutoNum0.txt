@@ -1,0 +1,17 @@
+@startuml
+box "twenties stamper"
+participant "pork introduced" as 0
+participant "misfit seductive" as 1
+participant "regimes bunker" as 2
+end box
+participant "river unplugged" as 3
+break indies pecked
+1 --> 2: versus specifics
+0 -->x 3: system bohemian
+else convinces indicated
+ [<- 1: satanic alerts
+break distinct parole
+ [<- 1: glance pong
+end
+end
+@enduml

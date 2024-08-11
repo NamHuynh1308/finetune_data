@@ -1,0 +1,19 @@
+@startuml
+participant "raw relaxing" as 0
+participant "uptake theater" as 1
+participant "carted mesquite" as 2
+participant "sedative wrinkled" as 3
+participant "gain rumpus" as 4
+autonumber 4 4
+0 -> 1: chastity oracles
+ [<- 1: defects treated
+autonumber stop
+2 ->> 2: go consciously
+0 -> 0: orthodox thyself
+critical terrorized toolbox
+ [-> 4: bureaucrat aunt
+autonumber resume
+2 ->x 2: perversion revenue
+autonumber stop
+end
+@enduml

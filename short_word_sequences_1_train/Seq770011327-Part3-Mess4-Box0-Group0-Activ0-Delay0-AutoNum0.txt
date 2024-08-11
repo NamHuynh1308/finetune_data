@@ -1,0 +1,10 @@
+@startuml
+participant "wetlands detaining" as 0
+participant "ubiquitous chalk" as 1
+participant "processors mercer" as 2
+== senate rag ==
+2 -\\ 1: soberly ego
+2 <-] : lasting bathrooms
+1 ->> 0: socks ballistic
+2 -\\ 1: gaff preachers
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "medicating snort" as 0
+create participant "those stab" as 1
+0 -> 1 : those stab
+0 -// 0++ : annoyance tradeoff
+return cholesterol majestic
+@enduml

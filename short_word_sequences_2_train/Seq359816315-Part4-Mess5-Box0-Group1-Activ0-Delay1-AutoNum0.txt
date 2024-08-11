@@ -1,0 +1,17 @@
+@startuml
+participant "exaggerating reflexes" as 0
+participant "useless icing" as 1
+participant "interaction augmentation" as 2
+== programming pursuing ==
+1 -> 0: fair honk
+1 --> 0: unadvisedly backup
+par scholarships gizmo
+...eerily accidently...
+2 -> 0: exemption interns
+create participant "disinherit foremost" as 3
+1 -> 3 : disinherit foremost
+else riled stun
+0 -> 0: southbound scratched
+else sneaker statehood
+end
+@enduml

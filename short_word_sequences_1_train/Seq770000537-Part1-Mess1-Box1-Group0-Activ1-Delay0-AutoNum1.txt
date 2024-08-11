@@ -1,0 +1,9 @@
+@startuml
+box "attitude engage"
+participant "whispers millisecond" as 0
+end box
+== estimates unsaid ==
+autonumber 7 3
+0 -// 0++ : combined flaps
+return give happy
+@enduml

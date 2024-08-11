@@ -1,0 +1,17 @@
+@startuml
+participant "tended booths" as 0
+participant "complication outfield" as 1
+participant "oodles greenhouse" as 2
+== generations fatty ==
+autonumber 3 6
+2 --> 2: seems washy
+1 <-> 2: townspeople discount
+ [<- 2: audition surface
+autonumber stop
+...acknowledgement bicycles...
+0 ->> 1: frugal gospel
+2 ->> 0++ : doubt individually
+autonumber resume
+1 -// 2: lozenges admirer
+return pocketbook dandy
+@enduml

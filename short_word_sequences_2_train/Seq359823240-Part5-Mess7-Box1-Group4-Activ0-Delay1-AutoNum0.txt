@@ -1,0 +1,28 @@
+@startuml
+participant "orchard left" as 0
+participant "positives severance" as 1
+box "homeroom release"
+participant "yogurt bodies" as 2
+participant "repetitive talented" as 3
+end box
+participant "reborn sunning" as 4
+== dimly complaints ==
+opt chaos maintained
+4 -\\ 0: diners steam
+0 -> 0: pouch enrolled
+else fielding frenzy
+3 ->x 2: mistrial substantially
+0 -> 2: psychiatrist perimeter
+else showcase geese
+critical spate process
+...rectangle fonder...
+ [-> 1: grownups ethnicity
+loop steals folly
+1 <-> 4: condolences shy
+break imported tags
+1 -> 1!! : lam steno
+end
+end
+end
+end
+@enduml

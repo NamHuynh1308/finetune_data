@@ -1,0 +1,15 @@
+@startuml
+box "sandalwood traumas"
+participant "lunatics automatics" as 0
+participant "schnitzel hallway" as 1
+end box
+== mandatory roost ==
+1 ->] : civvies martini
+create participant "paralyze comprised" as 2
+0 -> 2 : paralyze comprised
+...vanilla wiggy...
+0 -> 1: repairman brownout
+0 -> 0: focussing feet
+2 -> 0: lash autopsy
+1 <-> 2: burn huggers
+@enduml

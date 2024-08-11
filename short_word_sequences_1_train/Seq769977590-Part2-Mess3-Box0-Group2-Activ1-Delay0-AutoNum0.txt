@@ -1,0 +1,13 @@
+@startuml
+participant "napalm mad" as 0
+participant "safes possibly" as 1
+== separation south ==
+loop pieces ambushed
+0 -// 1: devotion compensated
+alt changes automatic
+1 ->o 0: digitally declaring
+1 -> 0++ : reaction refusing
+end
+end
+return surgical tarzan
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "devils complains" as 0
+loop fiery depress
+0 --//o 0++ : rot reputed
+create participant "outlast capture" as 1
+0 -> 1 : outlast capture
+else misspent thru
+loop sapphires mechanics
+1 --//o 1++ : houseguests newcomers
+ [-> 1: clerk wiggly
+end
+end
+return zombies playthings
+return oblivion horsey
+@enduml

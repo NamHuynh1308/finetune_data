@@ -1,0 +1,8 @@
+@startuml
+participant "stewardesses come" as 0
+== chronically reinvented ==
+autonumber 0 10
+alt power recreated
+0 ->> 0: darndest moments
+end
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+box "origins unheard"
+participant "mistook landing" as 0
+end box
+== orchestrate irrigation ==
+ [-> 0: funeral sake
+@enduml

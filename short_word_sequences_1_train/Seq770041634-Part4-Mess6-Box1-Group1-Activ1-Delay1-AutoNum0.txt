@@ -1,0 +1,18 @@
+@startuml
+box "cruising babies"
+participant "hulk aircraft" as 0
+participant "professionally muzzle" as 1
+participant "decipher nuances" as 2
+end box
+1 ->o 1: sprung lynx
+1 --> 2++ : faltered collective
+create participant "humor haberdashery" as 3
+2 -> 3 : humor haberdashery
+alt manifesting reevaluate
+2 --//o 2: poorly enterprise
+return tragically landlords
+...hooves clop...
+2 -> 1: bridal unload
+3 <-> 0: continuity investments
+end
+@enduml

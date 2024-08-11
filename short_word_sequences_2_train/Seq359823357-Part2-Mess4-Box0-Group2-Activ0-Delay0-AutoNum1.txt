@@ -1,0 +1,15 @@
+@startuml
+participant "alcoholism chocolates" as 0
+participant "achieving buckled" as 1
+autonumber 7 1
+break acing nods
+0 --//o 1: timid tome
+autonumber stop
+ [<- 0: filed impeding
+par pleasantries loco
+1 -> 0: goody spoons
+1 --> 0: betrayed ballpark
+autonumber resume
+end
+end
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+participant "congeniality sycophant" as 0
+participant "measures thanksgiving" as 1
+participant "badges cleave" as 2
+participant "vice destroying" as 3
+participant "imprisonment embalming" as 4
+== bundle permit ==
+autonumber 9 0
+4 -> 0: bellboy smashing
+1 -->x 2: vagabond rhinestone
+autonumber stop
+break act supper
+2 --> 2: bilge ballpark
+4 --//o 2: detours sourpuss
+create participant "foxhole tattoo" as 5
+0 -> 5 : foxhole tattoo
+autonumber resume
+0 -> 5++ : belts ligature
+end
+1 --//o 5++ : liposuction hypotenuse
+autonumber stop
+loop masters fever
+0 -> 5: never hygienist
+end
+return kinds kissy
+return yore soiree
+@enduml

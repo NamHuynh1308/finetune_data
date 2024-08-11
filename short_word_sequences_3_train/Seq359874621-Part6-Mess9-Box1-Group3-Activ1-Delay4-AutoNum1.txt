@@ -1,0 +1,34 @@
+@startuml
+participant "false structure" as 0
+participant "splint staff" as 1
+box "mike instincts"
+participant "stripper blossom" as 2
+participant "foe daylight" as 3
+end box
+participant "bridesmaid brie" as 4
+autonumber 0 1
+create participant "emerge interface" as 5
+3 -> 5 : emerge interface
+...foundation elm...
+2 ->] : colleen boarding
+1 -->x 1++ : fragment interviewed
+1 --> 5: wedlock meddle
+return finances heed
+2 <-] : deeds arresting
+3 -\\ 1: babysitters porky
+autonumber stop
+par psychiatrist awry
+...duet narwhal...
+1 ->] : vying gawking
+autonumber resume
+opt politically tarzan
+...meatballs watery...
+ [<- 3: intros sniffing
+opt tubby intuitive
+...exaggerated hardworking...
+ [-> 4: dives movement
+autonumber stop
+end
+end
+end
+@enduml

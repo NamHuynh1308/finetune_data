@@ -1,0 +1,16 @@
+@startuml
+participant "showbiz stapled" as 0
+participant "sibling motherfucking" as 1
+participant "ethics humidity" as 2
+participant "tampons shaming" as 3
+par invoke recuperating
+create participant "submarine mathematician" as 4
+0 -> 4 : submarine mathematician
+alt compulsory autographs
+2 ->] : angel horoscopes
+1 --//o 4: crops premier
+end
+3 -\\ 1++ : vacations emptiness
+end
+return crack teenagers
+@enduml

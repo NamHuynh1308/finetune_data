@@ -1,0 +1,26 @@
+@startuml
+participant "juniper briefly" as 0
+participant "toughest branching" as 1
+participant "glee snip" as 2
+participant "moldings vamps" as 3
+== fairy asparagus ==
+autonumber 1 2
+par crucifix they
+2 -> 1: inbound promises
+...asteroid starter...
+3 -> 0: jeopardized laminated
+autonumber stop
+else salads warm
+0 -> 0: mellowed intimidating
+0 ->o 1: resentment bulldozers
+autonumber resume
+else judgment robbin
+2 ->o 0: sturgeon skeletons
+else trample rejects
+3 ->x 2: lever drafts
+loop dobbins sushi
+2 <-] : jingle tableau
+autonumber stop
+end
+end
+@enduml

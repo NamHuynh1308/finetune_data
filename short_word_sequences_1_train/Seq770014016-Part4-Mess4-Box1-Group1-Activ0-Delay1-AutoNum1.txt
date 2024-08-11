@@ -1,0 +1,18 @@
+@startuml
+box "trippy ones"
+participant "pooh expulsion" as 0
+participant "conditions roaming" as 1
+participant "wonders schoolgirl" as 2
+end box
+autonumber 10 10
+1 <-] : grandfathers aim
+1 ->] : parachute taint
+autonumber stop
+create participant "heartbreaker hypnotized" as 3
+2 -> 3 : heartbreaker hypnotized
+autonumber resume
+loop adopting ahold
+...kent dug...
+0 ->] : weirder skeptic
+end
+@enduml

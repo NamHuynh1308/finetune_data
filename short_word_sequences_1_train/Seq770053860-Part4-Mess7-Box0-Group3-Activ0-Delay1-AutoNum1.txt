@@ -1,0 +1,21 @@
+@startuml
+participant "darndest juror" as 0
+participant "clicker disturbing" as 1
+participant "avid sentinels" as 2
+participant "efficiently strike" as 3
+autonumber 1 0
+par latte spiked
+ [<- 1: homily marge
+ [-> 3: hemisphere levels
+critical partied bennet
+2 -> 1: worrier sensational
+2 -\\ 2: deer fowler
+1 --> 2: vying sinner
+...riled obscenities...
+0 <-] : volition influenced
+break aiding intrigues
+2 -->x 1: enormous rots
+end
+end
+end
+@enduml

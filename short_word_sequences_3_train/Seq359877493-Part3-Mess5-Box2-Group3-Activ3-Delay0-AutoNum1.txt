@@ -1,0 +1,26 @@
+@startuml
+box "possesses scratches"
+participant "moonlight hillbillies" as 0
+box "respect deadliest"
+participant "client showroom" as 1
+participant "discusses crystals" as 2
+end box
+end box
+autonumber 3 2
+alt fresh conferences
+0 <-] : podium communication
+alt actively holocaust
+1 <-> 1: delusions confirm
+0 ->o 2++ : sweltering elude
+autonumber stop
+loop move unlawful
+2 --> 2++ : swimmer devices
+1 -> 0++ : trust clout
+autonumber resume
+end
+end
+end
+return shaver topside
+return disturb holes
+return fighter harpy
+@enduml

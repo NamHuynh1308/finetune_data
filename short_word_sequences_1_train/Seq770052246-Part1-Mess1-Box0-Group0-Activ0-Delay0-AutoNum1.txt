@@ -1,0 +1,6 @@
+@startuml
+participant "reasoned returns" as 0
+== abs scrawny ==
+autonumber 6 1
+0 <-] : fabricate yields
+@enduml

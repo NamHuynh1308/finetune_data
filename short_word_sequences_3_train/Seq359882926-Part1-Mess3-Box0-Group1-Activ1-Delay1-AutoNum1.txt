@@ -1,0 +1,12 @@
+@startuml
+participant "consumed title" as 0
+== east lifeguard ==
+autonumber 6 10
+0 --> 0: issuing houses
+...infiltrate doorbell...
+0 <-> 0++ : pry pupils
+par occupants mansions
+0 ->> 0: untimely kidnap
+return diagnosed confetti
+end
+@enduml

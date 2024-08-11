@@ -1,0 +1,25 @@
+@startuml
+participant "coup completion" as 0
+participant "fiend damnedest" as 1
+box "attitudes revenues"
+participant "appointments yards" as 2
+box "mystified verbs"
+participant "mikes incentives" as 3
+end box
+end box
+== salary adolescent ==
+autonumber 3 5
+par mites classify
+0 --//o 1: holidays mosquito
+autonumber stop
+3 -> 3!! : tolerance postcards
+3 --//o 1++ : vigor folds
+autonumber resume
+else remaining apparent
+2 ->] : wisecracks switch
+else owl loathe
+create participant "whim deteriorated" as 4
+2 -> 4 : whim deteriorated
+end
+return charmer tingle
+@enduml

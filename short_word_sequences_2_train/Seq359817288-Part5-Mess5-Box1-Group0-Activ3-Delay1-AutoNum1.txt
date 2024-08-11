@@ -1,0 +1,19 @@
+@startuml
+box "loners graphs"
+participant "hunger poses" as 0
+participant "luau northeast" as 1
+participant "toothbrushes strapless" as 2
+end box
+participant "signore prescribed" as 3
+participant "eunuch bugs" as 4
+autonumber 6 6
+4 -> 0++ : shivering preference
+3 <-] : endeavor marched
+4 ->x 2++ : overstepping favorite
+3 -> 2++ : fatal mentioning
+...finished heartthrob...
+3 -> 4: gourd redundancy
+return scariest nurturing
+return intruders cows
+return pitying influence
+@enduml

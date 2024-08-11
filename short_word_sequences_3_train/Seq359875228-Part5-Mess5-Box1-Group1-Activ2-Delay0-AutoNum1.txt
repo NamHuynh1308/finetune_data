@@ -1,0 +1,20 @@
+@startuml
+participant "smallest parole" as 0
+box "runoff subject"
+participant "deficiencies rock" as 1
+participant "void melodramatic" as 2
+end box
+participant "fall actors" as 3
+participant "elimination justice" as 4
+autonumber 6 5
+3 <-> 3++ : morph forgiving
+2 ->o 2: hearsay scrubbing
+3 -\\ 4++ : heavenly enough
+break nicked suspicions
+ [<- 1: radial reaches
+ [<- 0: debated horizontal
+else subpoena node
+end
+return delights eliminates
+return bite dilute
+@enduml

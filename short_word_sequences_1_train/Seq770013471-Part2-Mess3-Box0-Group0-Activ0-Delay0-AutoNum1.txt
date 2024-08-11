@@ -1,0 +1,9 @@
+@startuml
+participant "voyage deranged" as 0
+autonumber 7 6
+0 ->x 0: growth heartwarming
+create participant "displeased noticeably" as 1
+0 -> 1 : displeased noticeably
+ [-> 0: conquers regrets
+autonumber stop
+@enduml

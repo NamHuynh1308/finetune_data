@@ -1,0 +1,10 @@
+@startuml
+participant "legend contest" as 0
+participant "wheel style" as 1
+== periphery surreal ==
+1 ->> 0: decks insert
+1 -\\ 1: delusional renaissance
+loop restraints dearest
+0 -> 0: mandatory ulterior
+end
+@enduml

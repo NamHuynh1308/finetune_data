@@ -1,0 +1,22 @@
+@startuml
+participant "shop wizard" as 0
+box "classification hertz"
+participant "campus cashier" as 1
+end box
+== minimum crypto ==
+1 <-> 1: extracting reread
+...sine reel...
+0 ->o 0++ : langley chitchat
+...unruly addled...
+1 -\\ 1: grownups confiscating
+critical circulation coupon
+...chronicle mystical...
+0 ->] : represents life
+create participant "powder assign" as 2
+0 -> 2 : powder assign
+else circles smarter
+0 -> 2!! : bayberry carry
+return denied appetite
+else locking riveting
+end
+@enduml

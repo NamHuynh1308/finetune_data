@@ -1,0 +1,13 @@
+@startuml
+participant "liar chair" as 0
+box "recuperate communing"
+participant "meditation philosophers" as 1
+end box
+autonumber 5 5
+1 <-] : mite slew
+1 --> 0: adversaries tales
+critical airman chunks
+1 ->o 0: sipping accelerate
+0 -// 0: plank immobile
+end
+@enduml

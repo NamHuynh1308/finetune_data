@@ -1,0 +1,5 @@
+@startuml
+participant "spur conveyor" as 0
+autonumber 0 3
+0 -> 0: categorized insistence
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "ointment scrapped" as 0
+participant "mood characterizing" as 1
+participant "seared moneymaker" as 2
+participant "sniff shirt" as 3
+participant "cloth patients" as 4
+3 -\\ 0: unto cleanup
+3 -// 4: spotty bureau
+0 <-> 2++ : elements craftsmen
+3 -> 2: twirl outline
+return enamored pornos
+0 -> 4: disassembled distributor
+ [<- 3: bankrolled fuzz
+@enduml

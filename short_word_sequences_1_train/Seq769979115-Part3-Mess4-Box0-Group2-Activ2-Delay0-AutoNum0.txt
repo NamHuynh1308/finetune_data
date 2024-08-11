@@ -1,0 +1,16 @@
+@startuml
+participant "outback dandy" as 0
+participant "backpacks premises" as 1
+participant "liberty enjoyment" as 2
+== trajectory pricks ==
+ [<- 0: ticked boating
+1 -> 1++ : skier silk
+break overdosed marmalade
+0 -> 1++ : accusations lodged
+par hanky automotive
+ [-> 2: cris boobs
+end
+end
+return tried dining
+return nursery exploitation
+@enduml

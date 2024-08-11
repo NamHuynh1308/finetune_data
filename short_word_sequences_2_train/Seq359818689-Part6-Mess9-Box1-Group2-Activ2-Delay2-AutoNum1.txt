@@ -1,0 +1,32 @@
+@startuml
+participant "bailed seminar" as 0
+participant "agitators chose" as 1
+participant "committees dipped" as 2
+participant "nibbling moulin" as 3
+box "wrinkles instructed"
+participant "fertilizer wired" as 4
+end box
+autonumber 0 2
+3 ->x 4: fiction soviets
+...devoted shenanigans...
+3 -// 3++ : opinion chandeliers
+alt alphabetically cream
+2 ->> 2: hiccup playing
+ [<- 2: restitution alfalfa
+return weighted deliveries
+autonumber stop
+else groundbreaking cushion
+1 <-> 2: croft meet
+alt butts citrus
+0 -> 0: exporting heck
+...panther vengeance...
+3 ->x 4++ : associating radiance
+autonumber resume
+1 -// 3: trials editing
+return deliberate margarita
+end
+create participant "individuality how" as 5
+2 -> 5 : individuality how
+else air redeeming
+end
+@enduml

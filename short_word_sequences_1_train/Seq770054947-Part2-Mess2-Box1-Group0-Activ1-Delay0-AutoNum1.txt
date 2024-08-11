@@ -1,0 +1,11 @@
+@startuml
+participant "bass gift" as 0
+box "blooms corky"
+participant "blasphemy intervention" as 1
+end box
+== stationary mars ==
+autonumber 2 4
+1 ->o 0: negate lawfully
+1 -> 0++ : clippers spikey
+return inquiries renewal
+@enduml

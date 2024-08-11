@@ -1,0 +1,17 @@
+@startuml
+participant "dilly murky" as 0
+box "resort fido"
+participant "unpaid aerobics" as 1
+participant "shuffle rosebush" as 2
+end box
+autonumber 5 9
+1 -> 2++ : pretend porcupine
+loop congestion scribbling
+0 -> 2: truant pestering
+return stem action
+...hoop tramp...
+2 ->o 0++ : cherub nonetheless
+autonumber stop
+end
+return testament catty
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+participant "ballplayers presets" as 0
+box "battlefield accorded"
+participant "swivel fright" as 1
+participant "schedule happen" as 2
+end box
+autonumber 6 5
+1 ->o 2++ : grope revenues
+2 ->] : unfolds planetarium
+autonumber stop
+ [<- 1: coney rudeness
+0 -> 2++ : caribou sunflower
+autonumber resume
+return responsive disservice
+return region wiggles
+@enduml

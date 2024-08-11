@@ -1,0 +1,15 @@
+@startuml
+participant "neurotic hops" as 0
+participant "badgered intermediary" as 1
+participant "gander crisps" as 2
+participant "onto spooked" as 3
+== hating nerd ==
+0 -->x 2: views bearings
+2 -> 0: quicker crowbar
+break classified ejaculate
+create participant "complicating boysenberry" as 4
+0 -> 4 : complicating boysenberry
+1 -> 3++ : notebook dresses
+end
+return marshmallow gainfully
+@enduml

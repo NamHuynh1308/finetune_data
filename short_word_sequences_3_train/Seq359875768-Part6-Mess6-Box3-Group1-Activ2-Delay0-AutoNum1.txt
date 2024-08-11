@@ -1,0 +1,28 @@
+@startuml
+box "reapers khan"
+participant "freshmen alcoholic" as 0
+box "canvas cook"
+participant "mechanics nominations" as 1
+participant "decorum per" as 2
+box "termination charming"
+participant "widen barrel" as 3
+participant "fiddle hind" as 4
+end box
+end box
+end box
+== carve dictator ==
+autonumber 10 0
+ [-> 0: acres eminence
+4 -->x 0: unicycle blips
+2 --//o 4++ : club amateurs
+par columnists mill
+4 -> 0: founded hydrochloride
+autonumber stop
+0 -> 1++ : remorse consistent
+create participant "dowdy extras" as 5
+3 -> 5 : dowdy extras
+else paranoia linear
+end
+return demure squabble
+return paging dime
+@enduml

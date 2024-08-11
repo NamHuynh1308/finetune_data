@@ -1,0 +1,14 @@
+@startuml
+participant "publishers skeleton" as 0
+participant "accessories bin" as 1
+participant "syrup screwup" as 2
+== hiking forklift ==
+autonumber 6 3
+1 ->o 0: goading integrity
+break floating blather
+ [<- 0: tremendous overcoming
+par caterpillars antler
+2 -> 2: evaluating earphones
+end
+end
+@enduml

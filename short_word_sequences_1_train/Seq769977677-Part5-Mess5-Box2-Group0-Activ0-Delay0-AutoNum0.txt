@@ -1,0 +1,17 @@
+@startuml
+participant "pans skim" as 0
+box "suitors countrymen"
+participant "cigars rag" as 1
+participant "academics shrubbery" as 2
+box "mulberry spikey"
+participant "quart scarecrow" as 3
+end box
+end box
+== employed evolving ==
+2 -> 0: die fascinated
+1 -// 2: dehydration jockstrap
+create participant "copiously aside" as 4
+2 -> 4 : copiously aside
+0 -->x 4: grooming douche
+1 -->x 1: pen displacement
+@enduml

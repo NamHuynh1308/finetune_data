@@ -1,0 +1,7 @@
+@startuml
+box "lumberjack cruel"
+participant "imperial seal" as 0
+end box
+0 <-] : continued excluded
+0 -> 0: edits ray
+@enduml

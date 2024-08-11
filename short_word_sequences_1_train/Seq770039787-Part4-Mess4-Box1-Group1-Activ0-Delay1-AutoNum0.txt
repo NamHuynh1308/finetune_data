@@ -1,0 +1,16 @@
+@startuml
+participant "corrected risotto" as 0
+box "marriages madwoman"
+participant "similarity floorboards" as 1
+participant "indispensable rates" as 2
+participant "pleasing retrieve" as 3
+end box
+== appeals homers ==
+1 <-] : impressing infuriate
+loop prosper gravel
+1 ->x 2: mocked decomposing
+ [-> 3: fiercest doohickey
+end
+...zoo tacos...
+1 -\\ 2: elsewhere relentlessly
+@enduml

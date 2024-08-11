@@ -1,0 +1,12 @@
+@startuml
+participant "strongly players" as 0
+== boulevard less ==
+create participant "pecker unforgivable" as 1
+0 -> 1 : pecker unforgivable
+1 -// 1: talker somebody
+1 <-] : football waived
+...bib phone...
+1 -> 1++ : first quit
+1 ->] : sublet same
+return did packets
+@enduml

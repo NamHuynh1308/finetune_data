@@ -1,0 +1,9 @@
+@startuml
+participant "lobbying satellite" as 0
+0 <-> 0++ : demean consults
+0 -> 0!! : philanthropist subordinate
+0 -\\ 0: uploading gran
+return alpha nuptials
+0 -// 0++ : defied dodgeball
+return realistic suburb
+@enduml

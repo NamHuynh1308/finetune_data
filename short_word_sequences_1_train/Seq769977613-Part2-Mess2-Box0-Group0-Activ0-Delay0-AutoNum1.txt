@@ -1,0 +1,8 @@
+@startuml
+participant "roofs captains" as 0
+participant "turned garter" as 1
+autonumber 8 4
+1 --> 0: lures angel
+autonumber stop
+0 -->x 1: comrades powerless
+@enduml

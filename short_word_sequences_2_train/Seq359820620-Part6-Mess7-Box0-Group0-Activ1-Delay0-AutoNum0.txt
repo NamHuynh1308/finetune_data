@@ -1,0 +1,17 @@
+@startuml
+participant "dependency overexcited" as 0
+participant "turndown fortuitous" as 1
+participant "burro cola" as 2
+participant "bowery jean" as 3
+participant "womanly hug" as 4
+== piston soup ==
+create participant "rudeness bracken" as 5
+4 -> 5 : rudeness bracken
+3 -// 3: woken radioactive
+0 -> 5: ruler yet
+2 <-> 3: slurping cold
+4 -> 2: scotch reneging
+3 -> 5!! : surprising middleweight
+1 --> 1++ : undertaken exhilarated
+return moles godmother
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "stardom banter" as 0
+participant "haul petals" as 1
+participant "raked cockles" as 2
+== straightforward zipping ==
+2 ->] : republic internship
+ [-> 1: magnificent conscience
+0 -> 2: herpes offence
+0 -> 1++ : viking enjoys
+opt deviation foundations
+...hesitates frailty...
+0 ->] : northern eunuch
+return painkiller untamed
+end
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+box "hooters earth"
+participant "optic childbirth" as 0
+participant "varied customers" as 1
+end box
+box "masks pacing"
+participant "skinned undergarments" as 2
+end box
+== glamorous shout ==
+break rotate concludes
+2 -> 1: placed peddle
+2 <-> 2++ : studded allowance
+0 -> 0: panned tradition
+else hound reasons
+2 ->o 2: jolly delighted
+return symbolism goodbyes
+end
+@enduml

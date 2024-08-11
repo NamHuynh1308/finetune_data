@@ -1,0 +1,34 @@
+@startuml
+box "porcupine motley"
+participant "begins bids" as 0
+participant "whiter exclamation" as 1
+box "confit compounds"
+participant "platypus cornfield" as 2
+participant "electrons caddy" as 3
+end box
+end box
+== skipper rename ==
+autonumber 8 5
+alt subtitle barfed
+3 -> 0: stumbling detract
+1 --> 2: spawned sobriety
+autonumber stop
+3 ->x 0: teetering darned
+autonumber resume
+...buttons sorted...
+3 <-> 3++ : insurmountable lichen
+else chutes need
+...carbs sacrificed...
+3 ->o 0: blooming engine
+return dependable drawn
+autonumber stop
+create participant "dell shits" as 4
+2 -> 4 : dell shits
+autonumber resume
+end
+...testifies homemade...
+4 -> 2: beeps butt
+1 -> 4++ : mightier curacao
+autonumber stop
+return shutdown mobilize
+@enduml

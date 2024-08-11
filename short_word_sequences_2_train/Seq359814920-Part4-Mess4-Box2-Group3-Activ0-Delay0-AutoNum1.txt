@@ -1,0 +1,25 @@
+@startuml
+participant "small lineage" as 0
+box "dunes sanatorium"
+participant "malaria tensions" as 1
+box "horses harbor"
+participant "surname chimps" as 2
+participant "rooting groom" as 3
+end box
+end box
+== label overjoyed ==
+autonumber 6 2
+0 -->x 3: interrogations strength
+autonumber stop
+par provoke sake
+3 ->o 2: dandelions toasted
+break brute exes
+0 ->] : irrationally dealer
+autonumber resume
+critical conn vampires
+3 -> 1: undermine range
+autonumber stop
+end
+end
+end
+@enduml

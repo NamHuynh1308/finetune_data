@@ -1,0 +1,6 @@
+@startuml
+participant "sometime flier" as 0
+autonumber 4 0
+0 ->] : rangers toxicology
+0 ->o 0: convicted fickle
+@enduml

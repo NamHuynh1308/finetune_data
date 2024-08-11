@@ -1,0 +1,9 @@
+@startuml
+box "light coffees"
+participant "establishment junkie" as 0
+end box
+autonumber 8 1
+0 ->] : croak monsieur
+0 -// 0++ : blemish monumentally
+return clearer dotes
+@enduml

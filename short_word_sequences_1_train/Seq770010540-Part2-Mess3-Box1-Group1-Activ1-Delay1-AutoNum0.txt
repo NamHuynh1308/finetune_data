@@ -1,0 +1,13 @@
+@startuml
+box "behaviour independent"
+participant "mountaineer slam" as 0
+participant "ally love" as 1
+end box
+1 -> 0: platform feathers
+ [-> 0: permits dies
+opt unimaginative donkeys
+...overpriced kickbacks...
+0 ->> 0++ : chant plagues
+end
+return lineage coasting
+@enduml

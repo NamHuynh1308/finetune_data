@@ -1,0 +1,6 @@
+@startuml
+participant "reciprocal flaked" as 0
+autonumber 1 6
+0 -// 0: predisposition chang
+0 --> 0: accounted sensor
+@enduml

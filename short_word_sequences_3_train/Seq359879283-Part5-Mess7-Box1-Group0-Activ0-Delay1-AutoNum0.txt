@@ -1,0 +1,17 @@
+@startuml
+box "skid compulsory"
+participant "obviously untapped" as 0
+participant "cancellations champs" as 1
+participant "earned vile" as 2
+participant "innuendo stuff" as 3
+participant "gagging filtered" as 4
+end box
+ [<- 4: outpost veranda
+0 ->x 0: kudos flicked
+1 -->x 0: balloons spry
+3 -> 3: toothpick dingy
+...agreement spree...
+0 -> 4: onboard value
+4 <-] : leaning rip
+ [<- 0: situation reconciled
+@enduml

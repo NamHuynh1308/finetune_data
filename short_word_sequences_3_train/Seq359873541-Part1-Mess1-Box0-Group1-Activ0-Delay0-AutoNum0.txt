@@ -1,0 +1,7 @@
+@startuml
+participant "crucify outsider" as 0
+== formations shifting ==
+alt inconspicuous foxholes
+0 <-] : vicar roughriders
+end
+@enduml

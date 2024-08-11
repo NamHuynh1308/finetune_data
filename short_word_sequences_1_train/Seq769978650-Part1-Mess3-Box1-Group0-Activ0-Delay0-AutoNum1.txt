@@ -1,0 +1,10 @@
+@startuml
+box "bucks shackle"
+participant "latte disorders" as 0
+end box
+autonumber 8 4
+0 <-] : theatres exams
+autonumber stop
+0 -> 0!! : busting recap
+0 <-] : obnoxious endive
+@enduml

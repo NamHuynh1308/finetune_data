@@ -1,0 +1,18 @@
+@startuml
+participant "sir strengths" as 0
+participant "forklift hemlock" as 1
+== bomb benched ==
+autonumber 1 6
+critical spencer barnacle
+1 --//o 0: subzero nearby
+0 ->> 0: sonata snotty
+else satisfactory gunshots
+0 -> 1!! : messing equals
+end
+par rode phoenix
+0 <-] : barkeep passageways
+autonumber stop
+create participant "creepy poet" as 2
+1 -> 2 : creepy poet
+end
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+box "hog photographs"
+participant "skewer acquisition" as 0
+participant "abort senior" as 1
+end box
+== channels bangles ==
+autonumber 5 8
+ [-> 1: crowded glass
+opt manipulator rated
+...fizzle oftentimes...
+ [-> 0: bizarre dyeing
+autonumber stop
+...consider brent...
+ [<- 0: euphemism turtles
+0 ->] : anchors negotiating
+else unfortunate relationship
+end
+@enduml

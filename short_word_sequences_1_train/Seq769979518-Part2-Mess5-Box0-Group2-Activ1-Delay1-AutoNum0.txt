@@ -1,0 +1,15 @@
+@startuml
+participant "observatory buys" as 0
+participant "blather metro" as 1
+loop dispatched vee
+0 -> 1++ : cuffed pare
+loop trainer bluffs
+1 -> 1!! : clotting lighters
+...baby proofed...
+0 -\\ 0: lunatics crimp
+0 -\\ 1: amongst barrels
+1 -->x 0: belie punched
+return chickadee embroidered
+end
+end
+@enduml

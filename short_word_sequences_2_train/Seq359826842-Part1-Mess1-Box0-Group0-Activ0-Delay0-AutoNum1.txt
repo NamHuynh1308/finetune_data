@@ -1,0 +1,7 @@
+@startuml
+participant "lesions rewind" as 0
+== finishing whopper ==
+autonumber 0 0
+0 -> 0: regenerated clouds
+autonumber stop
+@enduml

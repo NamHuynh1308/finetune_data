@@ -1,0 +1,12 @@
+@startuml
+participant "dressy vested" as 0
+autonumber 2 1
+0 ->] : floorboards bedlam
+autonumber stop
+0 ->> 0: specialise bey
+0 <-] : blasting sandwiches
+break induction upstate
+0 -> 0: piecing fined
+autonumber resume
+end
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "merciful resilient" as 0
+== continuously butter ==
+autonumber 0 5
+0 --> 0: activating motives
+@enduml

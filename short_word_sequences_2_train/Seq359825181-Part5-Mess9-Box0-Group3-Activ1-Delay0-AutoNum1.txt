@@ -1,0 +1,26 @@
+@startuml
+participant "partners brush" as 0
+participant "dove contradict" as 1
+participant "grades bounty" as 2
+participant "agendas jam" as 3
+participant "pimple undergrad" as 4
+autonumber 4 10
+3 -> 4: slacker frosty
+loop intolerable sponge
+ [<- 1: parliament cashing
+0 -> 1!! : dripped phenomenally
+else obtain outgrew
+3 -> 2: flair unqualified
+4 ->o 3: flickering graduation
+loop balances prisons
+4 --//o 1++ : gagged quarters
+alt yahoo adjusting
+3 -> 2: unconventional incantation
+2 ->] : stuffed upright
+autonumber stop
+0 <-] : phase gladstone
+return saddest losing
+end
+end
+end
+@enduml

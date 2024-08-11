@@ -1,0 +1,30 @@
+@startuml
+box "faithless jeopardizing"
+participant "sailboats foam" as 0
+participant "troublesome greatness" as 1
+end box
+participant "trooper underworld" as 2
+participant "seven imperfection" as 3
+box "useful insulted"
+participant "rather overbite" as 4
+end box
+autonumber 4 8
+create participant "affidavit haystack" as 5
+4 -> 5 : affidavit haystack
+create participant "reared hydraulics" as 6
+3 -> 6 : reared hydraulics
+6 -> 6: naw saint
+autonumber stop
+loop spa expand
+3 -> 4++ : satyr underestimate
+opt fauna counselors
+3 <-] : underground wily
+return appear extension
+par flog decker
+3 <-> 6++ : mill sage
+autonumber resume
+end
+end
+end
+return dearly snorkel
+@enduml

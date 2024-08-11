@@ -1,0 +1,18 @@
+@startuml
+participant "hayseed census" as 0
+participant "depths treasury" as 1
+participant "ted rewrites" as 2
+participant "lira pads" as 3
+critical ecstatic experimentation
+1 <-] : pacing lollipops
+3 <-] : minor traded
+opt cherub cornfield
+1 ->x 0: disheveled quit
+alt departmental doorman
+2 -> 0: buck dart
+0 -> 3: fifth northwestern
+0 -\\ 3: antelope trail
+end
+end
+end
+@enduml

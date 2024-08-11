@@ -1,0 +1,9 @@
+@startuml
+participant "er vascular" as 0
+participant "hearse broadcasts" as 1
+== stallion bonded ==
+create participant "rabies trails" as 2
+0 -> 2 : rabies trails
+...fraught answer...
+2 ->> 1: reinventing occupation
+@enduml

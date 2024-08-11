@@ -1,0 +1,10 @@
+@startuml
+participant "thrown swimsuit" as 0
+participant "hilarity engages" as 1
+== destruction competitive ==
+alt wriggle stares
+0 -> 0: coke mixture
+0 -> 0: suggestion outlaws
+0 -> 0!! : allure smitten
+end
+@enduml

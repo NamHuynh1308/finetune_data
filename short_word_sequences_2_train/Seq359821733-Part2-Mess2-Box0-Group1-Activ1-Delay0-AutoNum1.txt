@@ -1,0 +1,10 @@
+@startuml
+participant "perverse jailhouse" as 0
+participant "strawberries finalizing" as 1
+autonumber 10 4
+0 -->x 1++ : langley diagnostic
+loop pina luckiest
+0 -> 0!! : severity thumbs
+return severe tampon
+end
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "oral ocean" as 0
+participant "billboards shipshape" as 1
+autonumber 5 1
+loop freeloading meanwhile
+0 --//o 0: asset filly
+ [-> 0: seesaw cyborg
+0 -> 0!! : sitter installation
+ [-> 0: dummkopf elm
+end
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "worming railroad" as 0
+== trunks hotel ==
+autonumber 4 1
+0 -> 0!! : raw barley
+0 ->> 0: grand divest
+@enduml

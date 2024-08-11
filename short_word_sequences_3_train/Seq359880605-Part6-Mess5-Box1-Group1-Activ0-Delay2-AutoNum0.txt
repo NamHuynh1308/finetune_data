@@ -1,0 +1,20 @@
+@startuml
+participant "mannequin burial" as 0
+box "accomplice blindfolded"
+participant "clearer criterion" as 1
+participant "midterms shelve" as 2
+participant "phobias evacuating" as 3
+participant "signifying loves" as 4
+end box
+== booked bustle ==
+0 -> 0: stretcher discuss
+1 -->x 3: inexperience formula
+...bedtime detain...
+1 ->> 2: cuisine be
+loop deejay sailors
+...creativity natty...
+3 -> 1: bios jockstrap
+create participant "conducive treadmill" as 5
+1 -> 5 : conducive treadmill
+end
+@enduml

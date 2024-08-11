@@ -1,0 +1,7 @@
+@startuml
+participant "opens gross" as 0
+participant "diploma defenses" as 1
+autonumber 2 0
+1 --> 0: contradictory chairs
+1 -> 1!! : narcotics aberration
+@enduml

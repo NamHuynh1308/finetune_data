@@ -1,0 +1,5 @@
+@startuml
+participant "clean chariot" as 0
+== discontinue single ==
+0 <-] : pursuing totaled
+@enduml

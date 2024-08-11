@@ -1,0 +1,10 @@
+@startuml
+participant "mellowing marshmallows" as 0
+participant "rod mapping" as 1
+ [-> 1: frisky locked
+...balled grinning...
+ [-> 1: immoral idiotic
+...shards hurley...
+0 <-] : mesquite rotary
+ [<- 1: specializing boiling
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+participant "namesake stiles" as 0
+autonumber 1 2
+create participant "running behave" as 1
+0 -> 1 : running behave
+autonumber stop
+@enduml

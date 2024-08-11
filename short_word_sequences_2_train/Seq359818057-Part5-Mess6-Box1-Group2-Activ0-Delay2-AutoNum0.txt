@@ -1,0 +1,21 @@
+@startuml
+participant "conjures espresso" as 0
+participant "senses examined" as 1
+box "tampered juice"
+participant "martin hunted" as 2
+participant "coveting worshiped" as 3
+participant "dahlia watcher" as 4
+end box
+par fanning fireball
+0 ->] : brewer advanced
+1 -> 2: jitters encryption
+end
+4 <-] : skirmishes exaggeration
+critical anyway payoffs
+...designer fates...
+2 -// 0: vetted schedule
+...benefits emerald...
+1 ->> 2: bottled moving
+end
+4 -> 1: conquering renovating
+@enduml

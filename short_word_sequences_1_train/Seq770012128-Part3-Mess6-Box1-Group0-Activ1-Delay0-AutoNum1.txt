@@ -1,0 +1,17 @@
+@startuml
+participant "shine bilge" as 0
+box "posted thee"
+participant "barges drugs" as 1
+participant "downriver saleswoman" as 2
+end box
+autonumber 9 2
+2 -> 1: temptations roasts
+0 -// 1: aligning salty
+1 --> 2++ : log filled
+0 ->> 0: collins ending
+2 -> 1: ennui gourd
+autonumber stop
+0 ->o 1: horror nun
+autonumber resume
+return ingest abducted
+@enduml

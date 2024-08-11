@@ -1,0 +1,7 @@
+@startuml
+participant "behind bathrobes" as 0
+== ribbons flippers ==
+autonumber 0 9
+0 --> 0: kelly statistically
+autonumber stop
+@enduml

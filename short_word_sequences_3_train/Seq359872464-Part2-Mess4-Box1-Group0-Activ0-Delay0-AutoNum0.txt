@@ -1,0 +1,10 @@
+@startuml
+box "bashed cashews"
+participant "sinful sickness" as 0
+end box
+create participant "groovy dressings" as 1
+0 -> 1 : groovy dressings
+1 <-> 1: gatehouse wrappers
+1 -> 1: confided gainfully
+1 -->x 1: radically knockout
+@enduml

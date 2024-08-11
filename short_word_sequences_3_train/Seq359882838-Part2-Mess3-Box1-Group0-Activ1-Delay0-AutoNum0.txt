@@ -1,0 +1,11 @@
+@startuml
+box "putrid buzzed"
+participant "bombed dishonor" as 0
+end box
+== toothbrush awe ==
+create participant "tee seed" as 1
+0 -> 1 : tee seed
+0 ->x 1++ : coldly untrue
+0 ->> 1: cesspool ills
+return memorized lying
+@enduml

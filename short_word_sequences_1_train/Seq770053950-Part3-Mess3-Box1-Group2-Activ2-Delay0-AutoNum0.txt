@@ -1,0 +1,16 @@
+@startuml
+participant "exhilaration reprieve" as 0
+box "breathe sharing"
+participant "resides muumuu" as 1
+end box
+create participant "controversy bearing" as 2
+0 -> 2 : controversy bearing
+critical biological ponder
+0 -// 1++ : fuckup leech
+alt actin pace
+1 -// 2++ : scouts bureaucrat
+end
+end
+return obsessions tetanus
+return fingertips scapegoat
+@enduml

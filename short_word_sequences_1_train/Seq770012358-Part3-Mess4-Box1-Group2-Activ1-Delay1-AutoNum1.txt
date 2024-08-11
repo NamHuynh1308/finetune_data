@@ -1,0 +1,20 @@
+@startuml
+box "snacks commissary"
+participant "greed revolutionaries" as 0
+participant "announced dysentery" as 1
+participant "lopped furlong" as 2
+end box
+== credo between ==
+autonumber 1 3
+alt starvation bloodshot
+0 --//o 2: disregarded impunity
+loop ivory brig
+1 <-] : ninja homeless
+ [-> 2: dominion pity
+autonumber stop
+...axe scholar...
+0 -> 1++ : ama sweets
+end
+end
+return ago territory
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+participant "houseguests commentaries" as 0
+box "outwitted engraving"
+participant "legitimacy screamer" as 1
+participant "hellhound guerillas" as 2
+participant "defying tangerine" as 3
+end box
+autonumber 1 6
+alt mum an
+0 -// 2++ : complicates curing
+2 -// 0: jet tuna
+else lippy tricky
+alt regiment toothpaste
+2 -// 0: tragedies android
+return insistent fa
+autonumber stop
+2 -\\ 0++ : packer bandages
+autonumber resume
+2 -> 3: extracted trifle
+return adopted demolish
+autonumber stop
+else refining fossilized
+3 -\\ 3: flimsy telex
+else tension zee
+ [-> 3: section gouged
+else regimen whiny
+end
+end
+@enduml

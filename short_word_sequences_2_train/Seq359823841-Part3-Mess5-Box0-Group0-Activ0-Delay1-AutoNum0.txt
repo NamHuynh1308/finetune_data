@@ -1,0 +1,11 @@
+@startuml
+participant "kerry coupling" as 0
+participant "rides colin" as 1
+1 -> 0: behalf sympathetic
+1 -// 0: bluepoint rag
+0 -> 0: wooed pencil
+create participant "recuperating android" as 2
+1 -> 2 : recuperating android
+...crossroads maniacal...
+1 -->x 0: fuel programs
+@enduml

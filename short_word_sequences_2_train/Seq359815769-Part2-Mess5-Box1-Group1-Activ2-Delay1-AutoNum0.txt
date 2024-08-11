@@ -1,0 +1,17 @@
+@startuml
+participant "haggling rains" as 0
+box "microscope station"
+participant "vertigo capsule" as 1
+end box
+== charged character ==
+1 -> 0++ : decadence wonderfully
+1 ->o 1++ : produce encouraging
+0 -> 1: diamond gumshoe
+return officer sleek
+alt fails ravens
+0 -> 1: footwear waitressed
+return beer dopamine
+...overestimated praise...
+0 -> 0: hires disapproving
+end
+@enduml

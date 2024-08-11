@@ -1,0 +1,12 @@
+@startuml
+participant "strutting commemorating" as 0
+participant "birch existing" as 1
+== breast pack ==
+autonumber 2 9
+opt model durned
+create participant "discount bursting" as 2
+1 -> 2 : discount bursting
+1 -// 0: personalize postponement
+autonumber stop
+end
+@enduml

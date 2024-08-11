@@ -1,0 +1,6 @@
+@startuml
+participant "toying invited" as 0
+0 -> 0!! : manipulates airborne
+0 -> 0++ : math sleazeball
+return napkins pulled
+@enduml

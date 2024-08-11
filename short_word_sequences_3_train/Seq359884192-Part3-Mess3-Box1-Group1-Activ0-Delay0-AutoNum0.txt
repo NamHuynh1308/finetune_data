@@ -1,0 +1,13 @@
+@startuml
+box "unisex coop"
+participant "advantages seamless" as 0
+participant "spoken aching" as 1
+end box
+== balcony cease ==
+1 ->> 0: offend misled
+opt inside bunks
+create participant "some ordinary" as 2
+0 -> 2 : some ordinary
+2 --//o 1: ballplayer karat
+end
+@enduml

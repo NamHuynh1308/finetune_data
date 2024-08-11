@@ -1,0 +1,22 @@
+@startuml
+box "corrective dispensers"
+participant "saul chime" as 0
+participant "saying tainted" as 1
+box "mussels affiliated"
+participant "haze chardonnay" as 2
+participant "unadvisedly therefore" as 3
+end box
+participant "psychically skedaddle" as 4
+end box
+== compiling sharp ==
+3 --> 1: shock upbeat
+ [<- 0: wiggy frustrated
+...rippling succotash...
+4 -->x 1++ : childlike meningitis
+1 ->x 3: entering reconciling
+return traces stash
+4 -> 1: exhaustion conclave
+...grizzly undivided...
+2 -> 1!! : rubies since
+2 <-> 3: olive membership
+@enduml

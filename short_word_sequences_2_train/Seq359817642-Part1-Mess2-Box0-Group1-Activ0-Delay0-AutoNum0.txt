@@ -1,0 +1,7 @@
+@startuml
+participant "questioning adults" as 0
+0 -\\ 0: blissfully dictionary
+par skier specifically
+0 -> 0: chin cuneiform
+end
+@enduml

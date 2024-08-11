@@ -1,0 +1,14 @@
+@startuml
+box "provocations sobs"
+participant "teal groomsmen" as 0
+participant "bubbly swears" as 1
+participant "snatched clip" as 2
+end box
+== stoic immunity ==
+autonumber 2 2
+1 ->x 2++ : pottery loads
+2 -> 1: columns microchips
+return serial tusk
+2 <-] : tenuous cafeteria
+1 ->> 2: checking rumblings
+@enduml

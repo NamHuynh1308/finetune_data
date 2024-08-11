@@ -1,0 +1,11 @@
+@startuml
+participant "grainy dreidel" as 0
+participant "telling arches" as 1
+participant "mastectomy successful" as 2
+critical occurrences medina
+1 -> 2!! : soil fair
+ [<- 1: shocking jackals
+else arrows referral
+1 -// 0: pining plainly
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+participant "pinball visually" as 0
+participant "customs uncaring" as 1
+autonumber 10 9
+loop calendars translate
+ [-> 0: unguarded daft
+autonumber stop
+1 -> 1: gratifying swanky
+loop motherfuckers wears
+...stickup unhealthy...
+ [-> 0: coffee attractive
+end
+end
+@enduml

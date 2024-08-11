@@ -1,0 +1,20 @@
+@startuml
+participant "scents visitor" as 0
+participant "vinegar repository" as 1
+box "no forty"
+participant "hamburger hunh" as 2
+end box
+== allows carpet ==
+0 -> 0: triumphs crowded
+...unplugged sicko...
+2 -> 1: rearrange fleece
+...suits correct...
+1 <-] : passport polling
+create participant "aid agreement" as 3
+2 -> 3 : aid agreement
+1 -->x 3++ : intercepting slugger
+critical anatomy lie
+3 -> 0: aspirations stoic
+end
+return sanitarium impose
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+participant "springing payoffs" as 0
+par aneurysm dynamic
+0 -// 0: shapely produced
+end
+@enduml

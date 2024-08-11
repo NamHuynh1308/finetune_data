@@ -1,0 +1,22 @@
+@startuml
+participant "harry burger" as 0
+participant "application sailboat" as 1
+participant "snowstorm sixty" as 2
+participant "maintains bayonet" as 3
+autonumber 9 8
+3 -> 1: riot conning
+0 ->x 1: frequent ought
+autonumber stop
+create participant "hour troubles" as 4
+2 -> 4 : hour troubles
+alt induced igneous
+3 -> 2: disdain hygiene
+loop alcove madeleine
+2 --> 2++ : feature membership
+autonumber resume
+...mindful sunspots...
+3 -> 3: drowsy wreaked
+return zag worry
+end
+end
+@enduml

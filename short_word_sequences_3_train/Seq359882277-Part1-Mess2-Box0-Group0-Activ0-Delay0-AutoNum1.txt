@@ -1,0 +1,7 @@
+@startuml
+participant "sinner upset" as 0
+autonumber 9 9
+0 -->x 0: contributed lepers
+autonumber stop
+0 -// 0: fluffed yuletide
+@enduml

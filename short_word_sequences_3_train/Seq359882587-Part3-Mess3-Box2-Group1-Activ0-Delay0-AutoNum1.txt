@@ -1,0 +1,16 @@
+@startuml
+box "clears bridge"
+participant "figment viewers" as 0
+box "lovelier divorced"
+participant "skater tachycardia" as 1
+participant "runway agents" as 2
+end box
+end box
+autonumber 1 4
+0 -> 1!! : magnum prickly
+0 <-> 1: hose gratuitous
+loop patches categorically
+2 <-] : godsend enjoyment
+autonumber stop
+end
+@enduml

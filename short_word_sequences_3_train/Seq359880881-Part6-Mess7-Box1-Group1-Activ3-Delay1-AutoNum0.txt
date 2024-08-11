@@ -1,0 +1,23 @@
+@startuml
+participant "horn goad" as 0
+participant "stasis sniffing" as 1
+box "leather gripe"
+participant "weave horrible" as 2
+participant "puff endlessly" as 3
+end box
+3 -->x 3++ : gall transmitter
+create participant "enema presented" as 4
+2 -> 4 : enema presented
+1 ->] : await nursed
+3 -> 4: brutal shy
+return debt provoked
+...snails effacing...
+0 -->x 2++ : trainee bottled
+create participant "identification divorcing" as 5
+3 -> 5 : identification divorcing
+par wife breadth
+4 <-> 3++ : due mindful
+end
+return roosters squeak
+return toupee parable
+@enduml

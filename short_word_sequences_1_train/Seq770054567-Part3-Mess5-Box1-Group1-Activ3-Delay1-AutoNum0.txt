@@ -1,0 +1,19 @@
+@startuml
+participant "corker fishermen" as 0
+box "gents sir"
+participant "collected deprivation" as 1
+end box
+== scouted outgrown ==
+0 ->> 1: travels slap
+create participant "clink accepted" as 2
+0 -> 2 : clink accepted
+1 --//o 2++ : bleep crawled
+opt lance calms
+1 -> 0++ : philosopher strike
+...casitas amusement...
+0 -> 0++ : drop tortured
+end
+return slime oats
+return carpet pessimistic
+return homeopathic maharajah
+@enduml

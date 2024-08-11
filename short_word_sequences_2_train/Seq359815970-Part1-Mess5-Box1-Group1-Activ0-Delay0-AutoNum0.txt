@@ -1,0 +1,13 @@
+@startuml
+box "conflict scoundrels"
+participant "clever snuggled" as 0
+end box
+0 -> 0: leaping fathering
+0 -->x 0: kitten detective
+0 ->> 0: snapped endanger
+alt bags orange
+0 <-> 0: modified culpability
+0 --//o 0: swatch trite
+else agony fringe
+end
+@enduml

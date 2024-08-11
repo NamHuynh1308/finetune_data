@@ -1,0 +1,10 @@
+@startuml
+participant "fillings rub" as 0
+participant "tight hugging" as 1
+== costs kielbasa ==
+0 -// 0: summon lawyers
+1 ->x 1: specify outdoor
+opt cadavers commenting
+0 --//o 1: unreliable hetero
+end
+@enduml

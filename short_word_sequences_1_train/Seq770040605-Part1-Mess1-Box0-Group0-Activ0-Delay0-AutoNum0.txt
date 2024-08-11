@@ -1,0 +1,5 @@
+@startuml
+participant "dueling splits" as 0
+== court agreed ==
+0 -> 0: womanhood steal
+@enduml

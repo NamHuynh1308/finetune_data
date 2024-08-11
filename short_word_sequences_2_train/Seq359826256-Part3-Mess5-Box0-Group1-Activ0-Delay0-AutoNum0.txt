@@ -1,0 +1,12 @@
+@startuml
+participant "tongs inflicting" as 0
+participant "surly tournaments" as 1
+participant "collected that" as 2
+1 -> 0: prudence submitted
+ [-> 2: verse husk
+2 ->x 1: persuasion war
+2 -->x 0: narcissism indicated
+break bite disintegrate
+ [<- 2: quell realises
+end
+@enduml

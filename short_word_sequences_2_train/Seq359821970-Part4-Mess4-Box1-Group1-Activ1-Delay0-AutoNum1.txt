@@ -1,0 +1,18 @@
+@startuml
+participant "propose chunky" as 0
+participant "underdog behave" as 1
+participant "amazed abigail" as 2
+box "motel impeding"
+participant "pacer respectable" as 3
+end box
+autonumber 4 4
+alt junior beasts
+ [-> 0: haystack transcends
+ [-> 1: why streetcar
+else allegiance reassurance
+2 -->x 1: stomped staggering
+autonumber stop
+end
+2 ->> 2++ : scissors dukes
+return fortitude tailing
+@enduml

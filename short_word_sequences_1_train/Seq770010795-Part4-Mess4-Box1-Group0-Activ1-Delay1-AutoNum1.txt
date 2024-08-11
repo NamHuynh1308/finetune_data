@@ -1,0 +1,17 @@
+@startuml
+box "misfits focus"
+participant "dinged child" as 0
+participant "snout nailed" as 1
+end box
+participant "hygienist dispatcher" as 2
+participant "scrubbing cuteness" as 3
+autonumber 5 6
+2 ->> 0++ : clubs relation
+autonumber stop
+1 -> 1!! : recliner sexier
+0 -// 2: anxiety attachments
+autonumber resume
+...adultery dissatisfied...
+0 -// 2: shuck termites
+return closing temptress
+@enduml

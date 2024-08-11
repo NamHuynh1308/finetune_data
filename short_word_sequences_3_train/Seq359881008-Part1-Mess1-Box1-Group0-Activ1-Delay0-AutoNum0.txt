@@ -1,0 +1,8 @@
+@startuml
+box "eases vending"
+participant "lobbyist unsupervised" as 0
+end box
+== depends busy ==
+0 --> 0++ : trashed pee
+return luring savages
+@enduml

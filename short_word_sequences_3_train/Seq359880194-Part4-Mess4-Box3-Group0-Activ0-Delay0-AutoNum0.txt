@@ -1,0 +1,17 @@
+@startuml
+box "sharply ritter"
+participant "mites reservation" as 0
+participant "fulfilled musicians" as 1
+box "wages fumigating"
+participant "competent rot" as 2
+box "doorknob feud"
+participant "framers coveting" as 3
+end box
+end box
+end box
+== painkiller sinuses ==
+1 -\\ 2: rein surrogate
+3 -> 3: juggling berserker
+0 ->] : mitzvah exhausted
+0 -->x 0: oppressive bluffing
+@enduml

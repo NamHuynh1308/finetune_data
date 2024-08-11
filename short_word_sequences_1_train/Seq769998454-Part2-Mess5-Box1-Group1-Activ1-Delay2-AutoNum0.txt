@@ -1,0 +1,17 @@
+@startuml
+participant "led projecting" as 0
+box "reggae finish"
+participant "load lattes" as 1
+end box
+== overpass touched ==
+0 --//o 0: eagle telegraph
+...styled division...
+1 -> 0: petty scratches
+1 -> 1++ : comic fanny
+...home trades...
+1 -> 1: insights times
+opt righto distinction
+0 ->x 0: refining disown
+end
+return beheading loneliness
+@enduml

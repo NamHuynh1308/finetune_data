@@ -1,0 +1,14 @@
+@startuml
+participant "toke burglar" as 0
+box "southbound disbarred"
+participant "skeeters oh" as 1
+end box
+critical dripped contours
+0 -> 1: totals practice
+create participant "believed logged" as 2
+1 -> 2 : believed logged
+1 -> 2!! : biding lovesick
+else frying antihistamine
+0 -> 2: guerrillas declaring
+end
+@enduml

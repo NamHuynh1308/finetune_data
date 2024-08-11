@@ -1,0 +1,18 @@
+@startuml
+participant "hopes gladiators" as 0
+box "bummers nightcap"
+participant "elitist rings" as 1
+participant "sentimental diggers" as 2
+end box
+participant "bounced wild" as 3
+3 -> 1: multitude gourd
+...malt freeing...
+ [-> 0: dye peck
+opt kerosene vacations
+...threatening nelson...
+1 --//o 0++ : observed cider
+ [<- 3: stapler avocado
+return pied seriously
+else sponsor emerald
+end
+@enduml

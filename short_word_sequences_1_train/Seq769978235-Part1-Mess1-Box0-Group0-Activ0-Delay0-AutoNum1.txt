@@ -1,0 +1,5 @@
+@startuml
+participant "hybrids karate" as 0
+autonumber 0 8
+0 -\\ 0: wrinkles redecorating
+@enduml

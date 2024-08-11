@@ -1,0 +1,5 @@
+@startuml
+participant "fez gourd" as 0
+autonumber 9 7
+0 -> 0: abnormality emeralds
+@enduml

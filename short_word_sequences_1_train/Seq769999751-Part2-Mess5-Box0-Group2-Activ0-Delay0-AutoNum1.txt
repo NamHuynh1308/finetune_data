@@ -1,0 +1,19 @@
+@startuml
+participant "banshee purposes" as 0
+participant "paged stroller" as 1
+autonumber 9 9
+0 ->] : screwy pokes
+autonumber stop
+0 --> 0: wallow constraints
+autonumber resume
+1 <-] : fist rusty
+autonumber stop
+critical separately remedial
+0 -> 1: coolness sphinx
+autonumber resume
+break crank preached
+0 ->> 0: took defenseless
+autonumber stop
+end
+end
+@enduml

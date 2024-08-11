@@ -1,0 +1,12 @@
+@startuml
+participant "expertise dweller" as 0
+participant "accusing blind" as 1
+0 -->x 0: attuned jay
+0 <-> 1: overheated react
+...born fixating...
+1 <-] : kelson knives
+loop grew gelato
+1 -> 0!! : intriguing fade
+1 -> 1: certificates caterer
+end
+@enduml

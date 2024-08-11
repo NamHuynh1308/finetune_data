@@ -1,0 +1,14 @@
+@startuml
+participant "behavioral maids" as 0
+autonumber 7 7
+0 -// 0: stranded escalating
+autonumber stop
+0 --> 0: bacterial everyman
+autonumber resume
+ [<- 0: mohair puff
+0 --//o 0++ : visibility yom
+alt created smarter
+0 ->o 0: stonewalled endive
+return flexibility poisonous
+end
+@enduml

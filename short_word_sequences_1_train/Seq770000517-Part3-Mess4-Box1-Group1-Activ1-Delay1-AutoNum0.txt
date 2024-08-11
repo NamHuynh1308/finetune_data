@@ -1,0 +1,15 @@
+@startuml
+participant "physiological smorgasbord" as 0
+participant "unwise fluids" as 1
+box "urgent tested"
+participant "worships performance" as 2
+end box
+0 <-> 2: pathology polyester
+break variant improvising
+2 -> 0: doodles outstanding
+...alien mischief...
+1 -> 0++ : yeh sculpture
+2 <-] : sac merrier
+end
+return eases sledding
+@enduml

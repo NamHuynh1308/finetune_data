@@ -1,0 +1,9 @@
+@startuml
+participant "gold studying" as 0
+== canaries temple ==
+autonumber 4 0
+create participant "symptoms goes" as 1
+0 -> 1 : symptoms goes
+0 ->o 1++ : worked soupy
+return against stools
+@enduml

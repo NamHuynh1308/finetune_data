@@ -1,0 +1,11 @@
+@startuml
+box "hypotensive baloney"
+participant "escalating ventricle" as 0
+participant "sic morbid" as 1
+end box
+autonumber 5 0
+ [-> 1: discounts bouquets
+1 ->] : backgammon danish
+create participant "olive unholy" as 2
+0 -> 2 : olive unholy
+@enduml

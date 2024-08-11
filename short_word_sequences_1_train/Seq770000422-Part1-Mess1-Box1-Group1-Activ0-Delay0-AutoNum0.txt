@@ -1,0 +1,8 @@
+@startuml
+box "predictions dearie"
+participant "embalmed empty" as 0
+end box
+loop physicals bauble
+0 -\\ 0: cherry drops
+end
+@enduml

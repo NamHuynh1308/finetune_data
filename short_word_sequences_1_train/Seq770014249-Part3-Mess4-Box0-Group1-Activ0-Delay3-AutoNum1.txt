@@ -1,0 +1,16 @@
+@startuml
+participant "quiz inept" as 0
+participant "displeasure rights" as 1
+participant "inefficient lashed" as 2
+== loathes veg ==
+autonumber 1 0
+0 -\\ 1: norland diluted
+...dusting nor...
+2 -> 0: diversion ivy
+loop pokey romance
+...floater broadcasts...
+ [<- 1: bogs puffs
+...ensconced jailhouse...
+ [<- 2: als budding
+end
+@enduml

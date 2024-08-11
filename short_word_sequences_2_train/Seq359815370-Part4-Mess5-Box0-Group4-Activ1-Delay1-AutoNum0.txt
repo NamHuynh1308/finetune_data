@@ -1,0 +1,22 @@
+@startuml
+participant "bakers tribute" as 0
+participant "yippie fills" as 1
+participant "management hissing" as 2
+participant "aboriginal planets" as 3
+break satisfaction contradiction
+1 -\\ 1++ : spewing pelts
+break screwy gap
+2 <-] : asthma unleaded
+return away allowed
+break pecks lieutenant
+...gunner albacore...
+1 -> 2: introducing overflow
+0 ->x 3: attic jammer
+else producing extracts
+par giggling cayman
+2 ->o 1: alternative test
+end
+end
+end
+end
+@enduml

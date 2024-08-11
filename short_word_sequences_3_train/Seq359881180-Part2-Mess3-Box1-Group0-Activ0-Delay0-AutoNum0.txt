@@ -1,0 +1,9 @@
+@startuml
+box "sabotage curling"
+participant "strings progressed" as 0
+participant "suppose consideration" as 1
+end box
+ [<- 1: fellahs scullery
+0 -> 0: bunnies elitist
+0 -> 0: confederacy platelets
+@enduml

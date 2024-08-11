@@ -1,0 +1,15 @@
+@startuml
+participant "jail germs" as 0
+participant "disinfect cloned" as 1
+1 -\\ 0++ : tails censor
+0 ->] : hazy node
+...appetizing plummet...
+0 -> 1: grate ingest
+0 -\\ 0++ : fallible ailments
+par facilitate prudence
+1 -> 1!! : accessories deprivation
+1 -// 0: reform chomping
+end
+return dweeb wiring
+return arid assailant
+@enduml

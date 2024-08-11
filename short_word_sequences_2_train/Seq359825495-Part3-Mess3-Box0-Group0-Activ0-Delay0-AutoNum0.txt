@@ -1,0 +1,9 @@
+@startuml
+participant "eyed badness" as 0
+participant "objectivity canned" as 1
+participant "odorless legitimate" as 2
+== reeks unforgiving ==
+1 ->o 2: cadmium bearing
+2 ->] : prednisone abdominal
+ [-> 2: meringue oyez
+@enduml

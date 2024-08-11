@@ -1,0 +1,4 @@
+@startuml
+participant "legalizing squad" as 0
+0 -// 0: dumps refocus
+@enduml

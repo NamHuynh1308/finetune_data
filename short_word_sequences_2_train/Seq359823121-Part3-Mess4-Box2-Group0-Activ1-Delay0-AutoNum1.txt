@@ -1,0 +1,16 @@
+@startuml
+participant "yesterdays trader" as 0
+box "protein frantic"
+participant "torched corker" as 1
+box "trilogy comparing"
+participant "brainwashing bystander" as 2
+end box
+end box
+autonumber 8 8
+0 <-] : pride bluffs
+0 ->o 2: dedicated sanding
+2 -> 0++ : bighorn ransack
+ [<- 0: rectal herd
+autonumber stop
+return hawks orioles
+@enduml

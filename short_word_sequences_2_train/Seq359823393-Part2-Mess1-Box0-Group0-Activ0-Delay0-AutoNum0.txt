@@ -1,0 +1,6 @@
+@startuml
+participant "tenants commando" as 0
+== upper plop ==
+create participant "hypocrisy weensy" as 1
+0 -> 1 : hypocrisy weensy
+@enduml

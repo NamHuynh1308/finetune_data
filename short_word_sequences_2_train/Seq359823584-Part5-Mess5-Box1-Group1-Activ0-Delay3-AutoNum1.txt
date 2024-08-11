@@ -1,0 +1,21 @@
+@startuml
+participant "thermal coast" as 0
+participant "relay hypnotized" as 1
+participant "boats locator" as 2
+participant "prowl insurrection" as 3
+box "resource element"
+participant "rigs trifecta" as 4
+end box
+autonumber 1 6
+2 --> 0: daydreaming preppie
+...returning condensed...
+4 -\\ 3: eels asses
+alt confiscating fiery
+...lots evacuate...
+0 ->> 0: earnest shut
+...schizophrenic smoothest...
+0 -// 2: mutual plunge
+else chameleon pub
+ [-> 4: inbreeding fauna
+end
+@enduml

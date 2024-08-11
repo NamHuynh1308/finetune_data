@@ -1,0 +1,11 @@
+@startuml
+participant "worm wastes" as 0
+box "clearance stitches"
+participant "dote newsman" as 1
+participant "nance quarters" as 2
+end box
+2 -> 0: drywall gaudy
+0 ->o 2: voltage resemble
+1 ->o 1++ : swans expected
+return chickenpox passions
+@enduml

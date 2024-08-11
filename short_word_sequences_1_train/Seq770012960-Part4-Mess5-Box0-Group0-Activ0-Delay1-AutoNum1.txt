@@ -1,0 +1,14 @@
+@startuml
+participant "jerks women" as 0
+participant "jail knockdown" as 1
+autonumber 4 3
+create participant "gassed traipsing" as 2
+1 -> 2 : gassed traipsing
+1 -> 0: helmets stardom
+create participant "knives warts" as 3
+2 -> 3 : knives warts
+...luscious genius...
+3 -// 3: bugs footer
+2 -> 3: storybook yeast
+autonumber stop
+@enduml

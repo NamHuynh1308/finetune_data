@@ -1,0 +1,14 @@
+@startuml
+participant "uphill shipwrecked" as 0
+box "seer modest"
+participant "yak advisor" as 1
+participant "habit foot" as 2
+end box
+== floating hears ==
+autonumber 3 0
+1 -> 1: produces celibacy
+autonumber stop
+1 -> 0: tumors skating
+autonumber resume
+2 -// 1: fiance emptiness
+@enduml

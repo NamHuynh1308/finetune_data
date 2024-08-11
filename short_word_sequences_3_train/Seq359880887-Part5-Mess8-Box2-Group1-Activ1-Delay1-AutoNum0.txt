@@ -1,0 +1,23 @@
+@startuml
+box "invalidate discharged"
+participant "shambles nicer" as 0
+participant "cooked crave" as 1
+box "republic socks"
+participant "notably blast" as 2
+participant "fundamental corks" as 3
+end box
+end box
+create participant "swallowed cannonball" as 4
+1 -> 4 : swallowed cannonball
+ [-> 0: glad projection
+0 --//o 2++ : favorites wench
+ [-> 2: counterproductive dreidel
+2 -> 1!! : cow gee
+1 -->x 4: cellars esoteric
+par forwarded sultan
+2 ->> 4: conspirators pope
+...alternates flunking...
+1 --//o 4: findings alibi
+end
+return davenport squiggly
+@enduml

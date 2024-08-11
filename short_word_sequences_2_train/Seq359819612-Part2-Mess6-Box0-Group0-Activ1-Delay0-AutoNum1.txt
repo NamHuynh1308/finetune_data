@@ -1,0 +1,14 @@
+@startuml
+participant "reggae hallucinations" as 0
+participant "sobbing derelict" as 1
+autonumber 1 10
+1 ->x 1++ : endings crucified
+0 ->] : suspending evening
+return ganja smartest
+1 -\\ 0: pew copter
+0 -\\ 1: trickle procedural
+autonumber stop
+0 ->> 1: spectrum spying
+0 <-> 1: quaking overtired
+autonumber resume
+@enduml

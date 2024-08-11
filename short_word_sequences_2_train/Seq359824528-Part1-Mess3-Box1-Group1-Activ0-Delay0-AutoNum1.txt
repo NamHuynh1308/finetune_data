@@ -1,0 +1,13 @@
+@startuml
+box "chalkboard spacing"
+participant "hidden lifelong" as 0
+end box
+autonumber 0 5
+0 --> 0: healthiest coupon
+autonumber stop
+critical cell kindergarten
+0 -> 0: trot figure
+autonumber resume
+0 -> 0: reasonably passage
+end
+@enduml

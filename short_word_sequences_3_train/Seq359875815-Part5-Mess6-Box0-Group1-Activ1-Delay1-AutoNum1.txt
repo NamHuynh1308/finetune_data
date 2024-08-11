@@ -1,0 +1,18 @@
+@startuml
+participant "burn rodman" as 0
+participant "overblown invented" as 1
+participant "reeled whisked" as 2
+participant "injured footing" as 3
+autonumber 5 1
+1 -// 0: courts molto
+...marten buys...
+0 -> 3: mishandled greatest
+2 -\\ 1: inscrutable totally
+create participant "cages whatever" as 4
+1 -> 4 : cages whatever
+1 -> 3: deco bribe
+alt lolly marquis
+1 -> 2++ : rabies fibre
+end
+return mike bunions
+@enduml

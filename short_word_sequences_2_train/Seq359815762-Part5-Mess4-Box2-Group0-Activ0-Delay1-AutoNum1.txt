@@ -1,0 +1,17 @@
+@startuml
+box "barrels crimes"
+participant "tennis net" as 0
+participant "brought hale" as 1
+end box
+participant "efforts generations" as 2
+box "stash tackled"
+participant "rhyme pilgrim" as 3
+end box
+autonumber 9 10
+0 ->] : portrayed comprise
+2 --//o 3: selecting incommunicado
+...mosquito fisherman...
+2 ->o 2: lawyers gentlemanly
+create participant "planned daffodils" as 4
+2 -> 4 : planned daffodils
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+box "unattractive recognizes"
+participant "refer bylaws" as 0
+end box
+autonumber 4 8
+0 ->x 0++ : weaknesses discount
+0 -->x 0: silenced musing
+ [-> 0: twinge abundance
+return curiosity stigmata
+@enduml

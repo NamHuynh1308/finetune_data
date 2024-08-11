@@ -1,0 +1,25 @@
+@startuml
+participant "basin heartthrob" as 0
+box "kisses gearing"
+participant "uprising festival" as 1
+box "charges deferred"
+participant "galilee scenery" as 2
+box "eighties harry"
+participant "suspenders hyper" as 3
+end box
+end box
+end box
+== sister peasant ==
+autonumber 4 3
+2 ->] : senses improved
+autonumber stop
+create participant "quick ave" as 4
+2 -> 4 : quick ave
+loop ambience tighter
+ [-> 4: huffy stream
+1 -> 4: confirms willows
+else classification sordid
+...strictly tobacco...
+0 -> 3: conserve brandies
+end
+@enduml

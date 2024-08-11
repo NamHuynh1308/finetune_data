@@ -1,0 +1,12 @@
+@startuml
+participant "miners repair" as 0
+== reconciling normal ==
+autonumber 3 1
+0 -> 0++ : loaning bazaar
+autonumber stop
+critical charitable violet
+0 <-] : knucklehead sticking
+return correct masters
+autonumber resume
+end
+@enduml

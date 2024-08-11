@@ -1,0 +1,13 @@
+@startuml
+participant "dive commandment" as 0
+create participant "rejects stoolie" as 1
+0 -> 1 : rejects stoolie
+critical caddy baffling
+1 -> 1++ : swaying dodgy
+loop picked enterprise
+0 -> 0: quoth spa
+return bran forsaken
+0 ->> 0: undergarment funeral
+end
+end
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+box "phenomenal completion"
+participant "tubs devised" as 0
+participant "dasher uterus" as 1
+end box
+box "bungee furniture"
+participant "excepted specialists" as 2
+participant "mistrial bundles" as 3
+end box
+autonumber 0 1
+2 <-] : volunteers laborers
+loop seduce leader
+1 ->> 3: splendor height
+2 -->x 2: outrage quoting
+end
+1 -->x 1: figuratively subletting
+autonumber stop
+@enduml

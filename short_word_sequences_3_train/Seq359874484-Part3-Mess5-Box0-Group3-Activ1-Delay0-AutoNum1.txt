@@ -1,0 +1,20 @@
+@startuml
+participant "cycle peerless" as 0
+participant "mythological engine" as 1
+autonumber 9 4
+1 -> 1!! : stein guessed
+alt systems recreation
+0 -> 0++ : spine larceny
+autonumber stop
+create participant "loony importing" as 2
+1 -> 2 : loony importing
+autonumber resume
+par panda tho
+2 <-> 2: massage innkeeper
+return smoldering artifact
+break base moss
+1 -> 0: excluding buts
+end
+end
+end
+@enduml

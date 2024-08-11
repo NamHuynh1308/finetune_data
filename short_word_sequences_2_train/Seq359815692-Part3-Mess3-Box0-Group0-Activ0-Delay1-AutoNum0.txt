@@ -1,0 +1,9 @@
+@startuml
+participant "toenail emerges" as 0
+participant "impressive singe" as 1
+participant "guilty guacamole" as 2
+0 <-> 2: hallucinations calculated
+0 -> 1: holland horseradish
+...saliva specialize...
+1 <-] : synthesize trespasser
+@enduml

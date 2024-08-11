@@ -1,0 +1,14 @@
+@startuml
+participant "ready ringing" as 0
+participant "attest photographers" as 1
+participant "axel barometer" as 2
+== neither realized ==
+create participant "slower mummies" as 3
+1 -> 3 : slower mummies
+2 ->o 0: spies inept
+0 ->> 2++ : saul insignia
+2 -> 0!! : adored drooling
+1 ->> 1++ : poisonous medication
+return cruised complimentary
+return embossed magical
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+participant "unique manipulate" as 0
+participant "theft related" as 1
+== reply scraping ==
+1 ->x 1: tweed arbitration
+0 <-> 1: raiders intimacy
+break collector scouts
+...professionalism oppression...
+0 -// 0: discovers oops
+...detector stops...
+1 -> 1: advertise traditions
+create participant "however stamina" as 2
+0 -> 2 : however stamina
+end
+@enduml

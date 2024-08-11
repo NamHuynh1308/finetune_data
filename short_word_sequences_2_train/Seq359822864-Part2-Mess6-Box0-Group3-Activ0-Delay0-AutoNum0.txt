@@ -1,0 +1,16 @@
+@startuml
+participant "rawhide chauvinistic" as 0
+participant "portrait opinions" as 1
+0 <-> 1: same servers
+break science dummy
+1 ->> 1: davenport carmen
+break cultivate mocha
+0 ->> 0: unnatural publicist
+0 -> 1: speedboat beery
+0 <-> 1: poise triumph
+par undergoing unwitting
+1 -> 1: rescheduled macaws
+end
+end
+end
+@enduml

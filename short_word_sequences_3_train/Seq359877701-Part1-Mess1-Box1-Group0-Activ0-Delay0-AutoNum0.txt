@@ -1,0 +1,7 @@
+@startuml
+box "unto vouch"
+participant "badly approve" as 0
+end box
+== cola tagging ==
+0 -// 0: skeeters compatibility
+@enduml

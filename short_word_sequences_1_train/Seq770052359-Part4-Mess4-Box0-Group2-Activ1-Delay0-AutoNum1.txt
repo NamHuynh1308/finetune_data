@@ -1,0 +1,18 @@
+@startuml
+participant "bishop grant" as 0
+participant "sitters foil" as 1
+participant "amendment ingredients" as 2
+autonumber 1 8
+create participant "wedded boyfriend" as 3
+0 -> 3 : wedded boyfriend
+1 -> 2++ : morale plowing
+opt lax shaved
+1 -> 1: immaturity unappreciated
+autonumber stop
+loop banana exploratory
+2 -// 0: rejecting meltdown
+return clambake blades
+autonumber resume
+end
+end
+@enduml

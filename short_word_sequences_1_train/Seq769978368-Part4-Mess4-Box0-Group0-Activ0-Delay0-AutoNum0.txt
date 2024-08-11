@@ -1,0 +1,10 @@
+@startuml
+participant "beer aggravate" as 0
+participant "duvet picked" as 1
+participant "feminist cabbage" as 2
+participant "react timed" as 3
+3 --> 2: sputnik revived
+0 <-] : investigate hurtling
+2 ->] : cabinets accountant
+3 ->] : communications legal
+@enduml

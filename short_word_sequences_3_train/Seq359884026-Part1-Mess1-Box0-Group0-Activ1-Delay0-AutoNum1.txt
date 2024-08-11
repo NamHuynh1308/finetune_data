@@ -1,0 +1,6 @@
+@startuml
+participant "caretaker intern" as 0
+autonumber 9 3
+0 <-> 0++ : turning info
+return temp whittling
+@enduml

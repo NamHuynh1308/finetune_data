@@ -1,0 +1,8 @@
+@startuml
+box "fantasies engrossing"
+participant "outwit midterms" as 0
+participant "coming bare" as 1
+end box
+0 ->o 0: alaska anesthesia
+1 -> 0: butted prosciutto
+@enduml

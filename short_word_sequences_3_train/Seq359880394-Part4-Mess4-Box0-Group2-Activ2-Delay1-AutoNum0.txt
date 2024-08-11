@@ -1,0 +1,17 @@
+@startuml
+participant "excusing invitations" as 0
+participant "tasting historian" as 1
+participant "compilation announces" as 2
+participant "trembling cuppa" as 3
+opt renege menial
+0 -> 2: telepathy ivy
+1 -->x 1++ : correctly missed
+alt struggling egging
+2 ->o 1: consented fending
+...sadly splendid...
+1 ->x 2++ : forever weakest
+end
+end
+return journeys lingers
+return breathable breathing
+@enduml

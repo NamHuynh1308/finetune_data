@@ -1,0 +1,16 @@
+@startuml
+participant "taxis invade" as 0
+participant "mart aimed" as 1
+participant "consensus whispered" as 2
+participant "rooting creation" as 3
+== exchanges sociopath ==
+1 <-] : hospitable intolerable
+2 -\\ 3: squeal meddled
+loop dollars bystanders
+3 -> 3: motors ave
+par repeatedly maintained
+0 ->> 1: gobbledegook josh
+0 <-> 1: drawback metals
+end
+end
+@enduml

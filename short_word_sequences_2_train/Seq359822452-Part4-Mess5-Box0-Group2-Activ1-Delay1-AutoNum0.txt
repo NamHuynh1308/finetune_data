@@ -1,0 +1,17 @@
+@startuml
+participant "anticipation dropping" as 0
+participant "cloud scant" as 1
+participant "blackout notice" as 2
+1 -> 2++ : horseman bastard
+opt alcoholic augmentation
+create participant "dosed sociopathic" as 3
+1 -> 3 : dosed sociopathic
+1 <-] : gallows piazza
+return popularity transgressions
+...raked conquer...
+2 -// 2: flail patio
+opt pads bobbin
+ [-> 2: event stated
+end
+end
+@enduml

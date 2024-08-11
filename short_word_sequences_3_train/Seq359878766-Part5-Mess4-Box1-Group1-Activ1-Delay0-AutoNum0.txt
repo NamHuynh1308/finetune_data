@@ -1,0 +1,17 @@
+@startuml
+box "falsify forgave"
+participant "circles intended" as 0
+participant "internment ged" as 1
+end box
+participant "showbiz premed" as 2
+participant "stang pinafore" as 3
+== cheerleaders massage ==
+2 --//o 0++ : jersey portion
+create participant "disappears rumpled" as 4
+0 -> 4 : disappears rumpled
+alt lasts resisted
+0 ->] : chorus parallel
+return honestly bustling
+0 --> 0: fluffy upgrades
+end
+@enduml

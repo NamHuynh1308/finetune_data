@@ -1,0 +1,18 @@
+@startuml
+box "seizure overalls"
+participant "cyclone worst" as 0
+participant "hormone torching" as 1
+box "charlie honor"
+participant "provocation apparent" as 2
+end box
+end box
+== wide courteous ==
+alt hammer hungover
+2 -> 0: formal grime
+2 --//o 1: distractions learns
+end
+opt conducted lei
+...fearsome dominoes...
+1 -> 1: schnitzel rialto
+end
+@enduml

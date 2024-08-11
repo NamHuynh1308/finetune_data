@@ -1,0 +1,7 @@
+@startuml
+participant "retort aftermath" as 0
+participant "crackers deviled" as 1
+autonumber 6 1
+0 ->> 1: appraise reinventing
+ [-> 1: righto forgave
+@enduml

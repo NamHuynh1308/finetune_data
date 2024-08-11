@@ -1,0 +1,21 @@
+@startuml
+box "baffles cashews"
+participant "this printing" as 0
+box "clocked comic"
+participant "speeding shoveling" as 1
+end box
+end box
+autonumber 2 7
+alt allegation swabs
+0 -\\ 1++ : disturb sigh
+autonumber stop
+0 -> 0!! : nightmare statue
+else scuffle vibe
+alt haul treated
+...extent potions...
+0 <-] : regained holdings
+autonumber resume
+end
+end
+return cricket spades
+@enduml

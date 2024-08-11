@@ -1,0 +1,21 @@
+@startuml
+box "tenner originals"
+participant "helluva hairdo" as 0
+participant "discontinue spackle" as 1
+end box
+participant "arctic burbs" as 2
+participant "tabloid disapproves" as 3
+autonumber 6 4
+critical binds prospects
+0 -> 1++ : group trainee
+3 -> 0: moans sidewinder
+else flinching dandruff
+...frown cemeteries...
+ [-> 3: progress succubus
+else unbeatable hours
+3 -> 2: hunker rubbed
+return hoy loneliness
+autonumber stop
+else affection stein
+end
+@enduml

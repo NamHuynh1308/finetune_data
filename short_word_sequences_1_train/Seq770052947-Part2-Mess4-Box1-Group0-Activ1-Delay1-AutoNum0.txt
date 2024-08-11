@@ -1,0 +1,12 @@
+@startuml
+box "nukes robbins"
+participant "hairdressers touring" as 0
+end box
+create participant "zoo felt" as 1
+0 -> 1 : zoo felt
+ [<- 0: supplied helper
+...pathogen insisted...
+0 -> 0: beatings beakers
+1 -> 0++ : saran fog
+return foods molecules
+@enduml

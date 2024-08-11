@@ -1,0 +1,14 @@
+@startuml
+participant "winters floss" as 0
+participant "toughen grease" as 1
+participant "ageing enthusiastic" as 2
+== resource filing ==
+autonumber 7 0
+0 -->x 1: undisputed misplaced
+autonumber stop
+2 -> 0: mules tested
+...explore limit...
+0 -> 1++ : raven excursions
+0 -> 2!! : exposing injection
+return diploma webs
+@enduml

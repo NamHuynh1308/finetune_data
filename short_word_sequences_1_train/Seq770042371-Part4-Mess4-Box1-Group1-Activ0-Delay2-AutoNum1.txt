@@ -1,0 +1,18 @@
+@startuml
+box "nosedive poppet"
+participant "spaghetti honored" as 0
+participant "knowledge engraved" as 1
+participant "pester cavity" as 2
+participant "howling vocabulary" as 3
+end box
+autonumber 6 0
+0 --//o 0: praises animals
+opt buy macaroni
+2 -> 1: choppy appears
+...earthquakes despicable...
+2 -> 2: boring some
+autonumber stop
+...taint knot...
+3 ->] : throats titan
+end
+@enduml

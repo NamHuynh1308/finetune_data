@@ -1,0 +1,9 @@
+@startuml
+box "hazardous slogan"
+participant "shay locking" as 0
+end box
+== tranquil puppet ==
+autonumber 9 5
+0 ->o 0: monitors bitter
+autonumber stop
+@enduml

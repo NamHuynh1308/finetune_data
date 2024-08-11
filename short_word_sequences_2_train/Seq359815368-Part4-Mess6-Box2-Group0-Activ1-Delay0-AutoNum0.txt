@@ -1,0 +1,17 @@
+@startuml
+box "songwriter memoirs"
+participant "matrimonial petitioner" as 0
+participant "museum appendage" as 1
+box "kissed bijou"
+participant "fasten awkwardness" as 2
+participant "ganged chills" as 3
+end box
+end box
+2 --//o 3: tinted policemen
+ [-> 2: arraigned opposing
+2 ->o 0: ricochet understanding
+0 --//o 2++ : drapes inspectors
+3 <-] : campaign chemo
+2 ->o 3: matrix confirms
+return amounts retrieve
+@enduml

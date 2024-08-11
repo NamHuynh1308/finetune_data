@@ -1,0 +1,18 @@
+@startuml
+participant "fellowship excessively" as 0
+participant "paces uprising" as 1
+participant "maxwell dislodged" as 2
+== coopers confidence ==
+autonumber 4 10
+ [<- 1: interstate carrots
+autonumber stop
+par bees capacity
+create participant "velocity historically" as 3
+2 -> 3 : velocity historically
+1 -> 3: activation brethren
+3 ->o 1: compounds dissertation
+3 -> 0: viewer suck
+2 -> 1: executor obscure
+autonumber resume
+end
+@enduml

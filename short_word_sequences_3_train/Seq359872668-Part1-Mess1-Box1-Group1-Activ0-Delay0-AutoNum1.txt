@@ -1,0 +1,9 @@
+@startuml
+box "denominational syringe"
+participant "gaby blast" as 0
+end box
+autonumber 8 9
+par backdoor messages
+0 -->x 0: perfectly evaporate
+end
+@enduml

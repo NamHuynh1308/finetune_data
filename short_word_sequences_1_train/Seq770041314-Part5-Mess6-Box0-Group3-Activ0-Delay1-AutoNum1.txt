@@ -1,0 +1,21 @@
+@startuml
+participant "feast hunters" as 0
+participant "nous outlandish" as 1
+participant "tossing cane" as 2
+participant "influenza altering" as 3
+autonumber 3 1
+critical sow wampum
+ [<- 2: rides crucifixion
+1 -> 3: transatlantic max
+par cobwebs parking
+ [-> 1: focussed movies
+par distortions shackled
+...childlike aurora...
+0 -> 0: sad classics
+1 <-> 2: doomsday frivolous
+create participant "introductions nauseated" as 4
+1 -> 4 : introductions nauseated
+end
+end
+end
+@enduml

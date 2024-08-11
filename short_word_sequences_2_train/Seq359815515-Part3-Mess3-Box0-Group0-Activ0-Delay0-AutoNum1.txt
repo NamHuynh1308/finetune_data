@@ -1,0 +1,10 @@
+@startuml
+participant "relatively vegetative" as 0
+participant "inner tweed" as 1
+autonumber 10 6
+ [<- 0: opinionated preside
+0 -> 1: suggesting wisest
+create participant "childbirth innovation" as 2
+1 -> 2 : childbirth innovation
+autonumber stop
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+box "follicle filtration"
+participant "mushrooms minimal" as 0
+participant "sharing amuse" as 1
+end box
+== joiner bogs ==
+autonumber 1 10
+opt readers upfront
+1 -> 1: whacked pare
+autonumber stop
+0 -> 0: teed brumby
+alt flats tore
+1 <-> 0: vehicle regimen
+...rethinking redecorating...
+1 ->x 1: rathole smug
+autonumber resume
+else filth reveals
+0 -// 1++ : stasis hood
+end
+end
+return mines camcorder
+@enduml

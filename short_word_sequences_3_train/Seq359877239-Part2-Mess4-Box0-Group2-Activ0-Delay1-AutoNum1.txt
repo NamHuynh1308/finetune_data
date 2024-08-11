@@ -1,0 +1,14 @@
+@startuml
+participant "toons persons" as 0
+autonumber 9 9
+break poof flawless
+ [-> 0: risks prattling
+break crossbow ducked
+...blew sha...
+0 -> 0: addendum breakfast
+0 ->] : desolate desirable
+create participant "requests seem" as 1
+0 -> 1 : requests seem
+end
+end
+@enduml

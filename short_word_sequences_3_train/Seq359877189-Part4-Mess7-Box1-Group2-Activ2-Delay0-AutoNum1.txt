@@ -1,0 +1,26 @@
+@startuml
+participant "psychotherapist lopsided" as 0
+box "seismic gauging"
+participant "gag royalties" as 1
+participant "perks fascination" as 2
+participant "tortillas bookshelf" as 3
+end box
+autonumber 1 3
+1 --//o 0++ : stuffy miller
+autonumber stop
+alt correspondents perverse
+2 -> 3: pocketful spirited
+return taco bitty
+0 -// 2: ridding canoes
+ [<- 2: hypocrisy snatcher
+1 -> 2++ : pubescent hardy
+else stranglehold straights
+1 -\\ 3: monkey inhaling
+autonumber resume
+alt bill cheerleaders
+0 -->x 2: outdoors reign
+autonumber stop
+end
+end
+return cabinets fades
+@enduml

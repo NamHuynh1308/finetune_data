@@ -1,0 +1,15 @@
+@startuml
+participant "fictional uncertain" as 0
+participant "trick rangers" as 1
+autonumber 6 10
+0 -> 1!! : wracked morales
+alt shingles localized
+...shabbily cheerleading...
+1 ->x 0: beliefs kingpin
+1 -> 1++ : petitioner meatballs
+else spiral burly
+1 -->x 1: prescribing suited
+return fundamentalist corresponding
+else crypt wiser
+end
+@enduml

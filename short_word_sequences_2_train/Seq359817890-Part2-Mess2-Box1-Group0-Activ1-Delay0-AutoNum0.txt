@@ -1,0 +1,10 @@
+@startuml
+participant "rumors omelette" as 0
+box "entitles strychnine"
+participant "bunking fumble" as 1
+end box
+== luckier annoyed ==
+1 ->o 0: strings evangelical
+0 -> 1++ : sweets applesauce
+return mortgage seduce
+@enduml

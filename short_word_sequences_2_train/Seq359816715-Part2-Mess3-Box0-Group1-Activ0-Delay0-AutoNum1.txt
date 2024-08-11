@@ -1,0 +1,13 @@
+@startuml
+participant "arbor sonnets" as 0
+autonumber 3 1
+0 ->> 0: snowmen spinster
+autonumber stop
+0 ->> 0: hasty intentionally
+autonumber resume
+break pals analyse
+create participant "ewe marigold" as 1
+0 -> 1 : ewe marigold
+autonumber stop
+end
+@enduml

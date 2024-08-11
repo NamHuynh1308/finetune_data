@@ -1,0 +1,18 @@
+@startuml
+box "hertz tankers"
+participant "buster slept" as 0
+participant "rebuild bones" as 1
+end box
+participant "appendage insufficient" as 2
+autonumber 5 9
+loop distinct exploring
+ [<- 1: falling briefings
+par tor tags
+create participant "hall hocks" as 3
+2 -> 3 : hall hocks
+1 -> 1: touchstone aside
+ [<- 0: baptist frame
+else warrants bruises
+end
+end
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+box "bibles criticism"
+participant "cooped exile" as 0
+participant "advert represented" as 1
+participant "golfing pyramid" as 2
+participant "remaining tea" as 3
+end box
+== closets seeks ==
+0 -->x 2: tricks atonement
+1 --> 1: initiate undergoing
+3 -> 2++ : ponytail pastime
+ [<- 2: forbids shrew
+return flipper meticulously
+@enduml

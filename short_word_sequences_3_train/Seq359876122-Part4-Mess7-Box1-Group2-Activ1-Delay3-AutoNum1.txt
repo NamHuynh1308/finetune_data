@@ -1,0 +1,27 @@
+@startuml
+participant "expires overlapping" as 0
+participant "strategies houseman" as 1
+box "devoted individual"
+participant "workday scrunch" as 2
+end box
+autonumber 5 8
+create participant "detests wonky" as 3
+2 -> 3 : detests wonky
+critical weasels crime
+...brioche frightened...
+2 -> 1: travel watering
+...interface croutons...
+2 -> 2: suspected miss
+else sift leno
+3 ->x 0: impulsively murder
+autonumber stop
+end
+loop simpler recuperating
+0 -> 3++ : drinking hamburg
+0 -> 1!! : fertilizer yuletide
+return lines fess
+autonumber resume
+...groaning disbarred...
+0 -> 3: fusion transplant
+end
+@enduml

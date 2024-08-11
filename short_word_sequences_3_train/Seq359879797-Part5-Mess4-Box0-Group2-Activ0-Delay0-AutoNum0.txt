@@ -1,0 +1,16 @@
+@startuml
+participant "vested leaver" as 0
+participant "homely evolutionary" as 1
+participant "propositioning tonight" as 2
+participant "beech reasonably" as 3
+== enterprising damsels ==
+alt loner underworld
+1 -->x 2: redeem explodes
+0 ->> 1: gemma city
+loop boutique yet
+create participant "stuck apes" as 4
+3 -> 4 : stuck apes
+2 -> 2: warlock idyllic
+end
+end
+@enduml

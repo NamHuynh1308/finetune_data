@@ -1,0 +1,10 @@
+@startuml
+box "directly emotion"
+participant "aunts buffer" as 0
+end box
+alt ensign strangest
+ [<- 0: sampled fuses
+0 <-] : gamble exporting
+ [<- 0: incompetence collins
+end
+@enduml

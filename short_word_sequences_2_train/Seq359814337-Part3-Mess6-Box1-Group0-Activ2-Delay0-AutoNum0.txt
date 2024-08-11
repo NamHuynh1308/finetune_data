@@ -1,0 +1,15 @@
+@startuml
+box "wrestling outfit"
+participant "queen corral" as 0
+participant "bestowed erratic" as 1
+end box
+1 -> 1: screwed uncles
+0 ->x 0: semester humanoid
+create participant "spontaneity continued" as 2
+1 -> 2 : spontaneity continued
+0 -> 0: spareribs crept
+2 ->x 2++ : painkillers swirling
+1 ->> 2++ : viruses delivering
+return pecks cute
+return stormy discord
+@enduml

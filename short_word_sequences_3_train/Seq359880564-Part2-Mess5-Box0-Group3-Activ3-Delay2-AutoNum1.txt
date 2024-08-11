@@ -1,0 +1,24 @@
+@startuml
+participant "individuals gripes" as 0
+== coping organize ==
+autonumber 8 5
+create participant "correspondents grips" as 1
+0 -> 1 : correspondents grips
+loop talons insignia
+0 --> 1++ : skyscrapers alec
+par tasty traffic
+0 --> 0: lobe interface
+autonumber stop
+opt protracted franchises
+...doses sashimi...
+0 <-> 1++ : retaliating fez
+...facts tropics...
+0 -> 1++ : dips edgy
+autonumber resume
+end
+end
+end
+return intermission vacuum
+return disability centimeters
+return chutes mainline
+@enduml

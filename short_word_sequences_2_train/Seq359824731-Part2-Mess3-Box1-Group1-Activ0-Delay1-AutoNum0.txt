@@ -1,0 +1,12 @@
+@startuml
+box "bullies wily"
+participant "consolation screaming" as 0
+participant "subbasement dirtiest" as 1
+end box
+1 -> 0: copies parasite
+alt urgency brawl
+...enlighten acute...
+1 -> 0: closed dispose
+1 -> 0: intimidating crypto
+end
+@enduml

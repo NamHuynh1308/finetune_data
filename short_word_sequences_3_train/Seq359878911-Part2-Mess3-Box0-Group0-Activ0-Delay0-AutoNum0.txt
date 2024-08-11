@@ -1,0 +1,8 @@
+@startuml
+participant "grilled whiner" as 0
+participant "clots groundhog" as 1
+== command undershirt ==
+0 <-> 0: commissary insist
+1 --//o 0: always parsley
+1 -\\ 1: bait snide
+@enduml

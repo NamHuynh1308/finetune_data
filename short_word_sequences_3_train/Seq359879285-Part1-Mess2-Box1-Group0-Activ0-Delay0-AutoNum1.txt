@@ -1,0 +1,9 @@
+@startuml
+box "untamed westbound"
+participant "perceive elaborate" as 0
+end box
+== unsatisfying harmless ==
+autonumber 0 7
+0 --> 0: notices remedied
+0 ->o 0: leafs ling
+@enduml

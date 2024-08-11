@@ -1,0 +1,16 @@
+@startuml
+participant "objectivity rosy" as 0
+box "princess federation"
+participant "esteemed harbour" as 1
+box "iguanas workman"
+participant "involves iguana" as 2
+participant "humor scan" as 3
+end box
+end box
+== stars hypothermia ==
+0 <-> 0: splendid blitz
+2 -> 2: evacuating forum
+...corresponded inquisition...
+1 ->] : narcissistic region
+1 --> 2: warlord enjoyable
+@enduml

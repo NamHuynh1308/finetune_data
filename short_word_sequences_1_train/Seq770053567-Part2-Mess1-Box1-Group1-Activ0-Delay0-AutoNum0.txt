@@ -1,0 +1,9 @@
+@startuml
+box "outweigh negotiating"
+participant "stealer inviting" as 0
+end box
+par slang mousse
+create participant "newsletter party" as 1
+0 -> 1 : newsletter party
+end
+@enduml

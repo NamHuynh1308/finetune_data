@@ -1,0 +1,14 @@
+@startuml
+participant "kittens pox" as 0
+participant "all pivot" as 1
+participant "stems vicious" as 2
+autonumber 5 2
+2 <-] : reciprocal fearless
+0 --//o 0: razor pleased
+loop mildly tarts
+2 ->o 1: casualty condo
+2 -// 2++ : primal managers
+else bathrooms negotiating
+end
+return nihilist colleagues
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+participant "poor bubbles" as 0
+participant "certainly independence" as 1
+participant "breather fer" as 2
+== residual soothing ==
+1 -> 2: infernal faulty
+create participant "jagger renaissance" as 3
+0 -> 3 : jagger renaissance
+ [-> 3: sermon flush
+@enduml

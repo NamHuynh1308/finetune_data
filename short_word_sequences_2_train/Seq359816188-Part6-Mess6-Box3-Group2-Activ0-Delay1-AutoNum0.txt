@@ -1,0 +1,26 @@
+@startuml
+box "decker tiptoeing"
+participant "teriyaki temporarily" as 0
+box "idiotic cited"
+participant "newly jacket" as 1
+participant "irony pushover" as 2
+end box
+box "lin albatross"
+participant "scraping spar" as 3
+participant "bloc cinnabar" as 4
+end box
+end box
+critical drumming fiesta
+0 -> 1!! : proposition fez
+create participant "clutches recruit" as 5
+0 -> 5 : clutches recruit
+else insure stifling
+...reef status...
+4 -> 3: moves sleeper
+par reviewed moderately
+ [-> 4: troubadour character
+4 -\\ 5: crooks induction
+ [<- 4: nicknamed interruption
+end
+end
+@enduml

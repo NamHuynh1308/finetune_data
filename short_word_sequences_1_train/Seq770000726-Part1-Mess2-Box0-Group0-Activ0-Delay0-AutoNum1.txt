@@ -1,0 +1,7 @@
+@startuml
+participant "termites shave" as 0
+autonumber 0 0
+0 ->x 0: concept brandies
+0 ->x 0: nervously holt
+autonumber stop
+@enduml

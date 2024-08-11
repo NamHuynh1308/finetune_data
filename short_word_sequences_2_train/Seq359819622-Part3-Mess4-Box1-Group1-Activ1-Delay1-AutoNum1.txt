@@ -1,0 +1,16 @@
+@startuml
+participant "balmoral pimped" as 0
+participant "captain apathy" as 1
+box "unbearable dispose"
+participant "fraction quick" as 2
+end box
+autonumber 8 10
+ [-> 0: proliferation pushed
+alt soapy then
+2 --//o 0++ : disappoints poisoned
+...scrapped romantic...
+1 ->x 0: stills photography
+2 <-> 1: voltage behave
+return coverup tickles
+end
+@enduml

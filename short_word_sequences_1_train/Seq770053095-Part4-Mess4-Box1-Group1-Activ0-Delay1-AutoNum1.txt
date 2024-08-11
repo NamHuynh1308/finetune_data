@@ -1,0 +1,17 @@
+@startuml
+participant "startup shines" as 0
+participant "simpletons woo" as 1
+box "upward epiphany"
+participant "voila destinations" as 2
+end box
+autonumber 9 10
+par wildcat therapy
+create participant "outraged gibson" as 3
+2 -> 3 : outraged gibson
+...barbecued eyeballs...
+0 ->] : horseback reclusive
+autonumber stop
+3 -// 0: bureau added
+end
+2 ->o 1: rambling weeny
+@enduml

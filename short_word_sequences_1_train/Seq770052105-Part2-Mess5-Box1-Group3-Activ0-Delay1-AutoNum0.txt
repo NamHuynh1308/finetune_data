@@ -1,0 +1,18 @@
+@startuml
+participant "compartments chick" as 0
+box "foresight overstay"
+participant "stranger puzzling" as 1
+end box
+opt pic warning
+0 -// 0: log doping
+break vacate demean
+0 -> 1: tempo inspect
+0 ->o 1: districts oozing
+loop uphill viola
+...competence boobies...
+1 -// 0: pad flaps
+ [<- 0: colchicine attraction
+end
+end
+end
+@enduml

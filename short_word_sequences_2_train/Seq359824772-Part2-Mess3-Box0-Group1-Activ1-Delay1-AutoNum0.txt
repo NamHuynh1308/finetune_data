@@ -1,0 +1,12 @@
+@startuml
+participant "articles misheard" as 0
+== firmly whacked ==
+opt talent skinned
+0 ->x 0++ : gentlemanly spelling
+...diamond opus...
+0 -> 0: shortcomings eligible
+return grandkids condiment
+create participant "unions elimination" as 1
+0 -> 1 : unions elimination
+end
+@enduml

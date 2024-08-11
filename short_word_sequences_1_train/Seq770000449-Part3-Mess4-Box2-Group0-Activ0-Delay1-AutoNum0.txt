@@ -1,0 +1,14 @@
+@startuml
+participant "niche named" as 0
+box "narcotic triplicate"
+participant "altering autonomy" as 1
+box "code albums"
+participant "glued addiction" as 2
+end box
+end box
+2 -> 1!! : steep furthermore
+...insurrection unnerved...
+1 ->> 0: outcome norland
+ [-> 0: lark yoke
+ [<- 2: damage alternating
+@enduml

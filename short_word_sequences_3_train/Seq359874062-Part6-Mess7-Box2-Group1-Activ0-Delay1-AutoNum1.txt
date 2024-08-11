@@ -1,0 +1,28 @@
+@startuml
+participant "pal nice" as 0
+participant "malignant texts" as 1
+box "negligence testosterone"
+participant "acknowledge swells" as 2
+participant "sill twas" as 3
+end box
+box "flatbed recriminations"
+participant "transport dazzle" as 4
+end box
+autonumber 5 6
+0 --//o 4: solution highlighters
+autonumber stop
+create participant "grifters squads" as 5
+3 -> 5 : grifters squads
+autonumber resume
+5 -> 1!! : expedite commemorating
+...wedlock way...
+0 -> 4: restraining pedicure
+opt brainwashed fiancee
+4 ->o 5: he gas
+autonumber stop
+1 -->x 0: itinerary smarty
+autonumber resume
+1 -> 4: sharpening incoherent
+autonumber stop
+end
+@enduml

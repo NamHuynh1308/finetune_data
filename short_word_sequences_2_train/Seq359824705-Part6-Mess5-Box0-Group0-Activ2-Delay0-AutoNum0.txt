@@ -1,0 +1,16 @@
+@startuml
+participant "lymphoma ribs" as 0
+participant "facts dating" as 1
+participant "switch detective" as 2
+participant "jasper psychosis" as 3
+participant "grocer whoever" as 4
+== seam proceeds ==
+create participant "granted edited" as 5
+1 -> 5 : granted edited
+4 <-> 0++ : winks unhappily
+ [-> 4: vinegar dictatorships
+return shaving wobble
+4 -->x 0++ : spiders arsenic
+ [-> 3: identifying sleigh
+return mistaken thinkers
+@enduml

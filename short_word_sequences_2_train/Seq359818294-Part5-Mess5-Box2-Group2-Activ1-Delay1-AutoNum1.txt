@@ -1,0 +1,25 @@
+@startuml
+participant "implying continuum" as 0
+box "lullaby need"
+participant "tryouts field" as 1
+participant "sorority capitalists" as 2
+box "em dinnertime"
+participant "backdrop diva" as 3
+participant "arboretum twitch" as 4
+end box
+end box
+autonumber 0 2
+1 ->o 2++ : chopping disgust
+3 ->] : bubbles fins
+break bite orderlies
+0 -> 2!! : skimp disapprove
+autonumber stop
+par chuckles humanitarian
+1 ->] : terrify exercising
+...yoke varied...
+0 ->> 0: crumble strutting
+return colonels reenter
+autonumber resume
+end
+end
+@enduml

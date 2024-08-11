@@ -1,0 +1,6 @@
+@startuml
+participant "retiring egg" as 0
+participant "quoted liar" as 1
+0 <-> 0: civilians relevance
+0 -\\ 0: discrepancy strongly
+@enduml

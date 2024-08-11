@@ -1,0 +1,11 @@
+@startuml
+participant "bombers arugula" as 0
+participant "vocal inhaled" as 1
+== omitted commit ==
+autonumber 3 0
+1 --//o 0: bulbs dey
+ [<- 0: unfair questioned
+ [-> 1: lux survey
+...seminary observation...
+0 -> 1: sled neediness
+@enduml

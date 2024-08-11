@@ -1,0 +1,20 @@
+@startuml
+box "tongue fading"
+participant "rehearsals videotape" as 0
+participant "challenged erica" as 1
+participant "invested strenuously" as 2
+end box
+2 <-] : arrangements spy
+loop tier romancing
+0 -> 2!! : chuckles notch
+alt cruelty heist
+0 ->> 2: mittens fervent
+critical octopus ornamental
+1 --> 1: unreasonable possessive
+alt withdrawn certificate
+1 -\\ 1: jar intimidating
+end
+end
+end
+end
+@enduml

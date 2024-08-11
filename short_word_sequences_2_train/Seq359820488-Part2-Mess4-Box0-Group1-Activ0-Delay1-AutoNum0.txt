@@ -1,0 +1,12 @@
+@startuml
+participant "slutty crusades" as 0
+0 ->] : anguish crater
+opt kneeling slick
+...museums care...
+0 -> 0: beater linked
+0 ->x 0: hungover sounded
+create participant "perimeters stomachs" as 1
+0 -> 1 : perimeters stomachs
+else soldier sends
+end
+@enduml

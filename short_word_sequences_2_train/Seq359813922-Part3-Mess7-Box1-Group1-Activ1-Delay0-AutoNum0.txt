@@ -1,0 +1,17 @@
+@startuml
+box "schlep sapiens"
+participant "urgency matchmaker" as 0
+participant "speculate goldfish" as 1
+end box
+participant "fife empties" as 2
+0 ->x 1: raffle sprouts
+loop trout fickle
+0 ->x 2: foregone lanky
+1 -> 0!! : jockstrap first
+0 --//o 0: historian behalf
+end
+0 -> 1!! : parton sorcery
+2 ->> 0: at outgoing
+2 -->x 1++ : partnership prefer
+return inquisition nudist
+@enduml

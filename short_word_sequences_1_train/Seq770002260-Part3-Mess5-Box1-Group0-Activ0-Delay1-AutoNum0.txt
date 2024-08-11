@@ -1,0 +1,13 @@
+@startuml
+box "transvestites albatross"
+participant "low leisure" as 0
+participant "mortuary perished" as 1
+end box
+participant "carp veering" as 2
+1 <-> 2: radiology sift
+0 --//o 1: documentary sidewalks
+...computer seams...
+ [-> 1: community evolve
+2 -> 1: underworld karma
+2 ->] : vasectomy aardvark
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+participant "pester alright" as 0
+participant "tripled ravine" as 1
+participant "economic surprising" as 2
+box "therapist careful"
+participant "crackpot buffs" as 3
+box "margarita outlandish"
+participant "identifies liter" as 4
+end box
+end box
+autonumber 5 10
+create participant "unfounded decree" as 5
+3 -> 5 : unfounded decree
+create participant "appetizers unfit" as 6
+2 -> 6 : appetizers unfit
+autonumber stop
+2 -> 0: victor sidle
+...puppy blacks...
+2 -> 1: charmingly unlikable
+autonumber resume
+5 ->> 2: hayseed arrange
+3 -// 0: perception slavery
+ [<- 5: consumes impounded
+@enduml

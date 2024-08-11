@@ -1,0 +1,15 @@
+@startuml
+participant "collaborating fared" as 0
+participant "attraction quark" as 1
+box "luge notices"
+participant "penned cordial" as 2
+end box
+== stream mineral ==
+1 -> 1: less potty
+...gains bulldozers...
+ [<- 1: jingle opera
+2 ->] : pharmaceutical deepest
+alt dieting mislead
+0 ->o 2: bout enjoyed
+end
+@enduml

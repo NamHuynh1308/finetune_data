@@ -1,0 +1,20 @@
+@startuml
+participant "hereby manhattan" as 0
+box "row ness"
+participant "naive likes" as 1
+box "white kendo"
+participant "catapult mornings" as 2
+end box
+end box
+== potential vigilance ==
+1 --//o 0: collars awfully
+loop walnut fine
+create participant "finders initiation" as 3
+0 -> 3 : finders initiation
+2 -> 1: cheat canned
+end
+opt hissing protestors
+1 <-> 2: travelers bait
+ [-> 0: airman alarmed
+end
+@enduml

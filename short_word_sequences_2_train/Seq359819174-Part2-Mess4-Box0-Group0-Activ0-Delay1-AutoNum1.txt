@@ -1,0 +1,10 @@
+@startuml
+participant "artistry depositions" as 0
+autonumber 10 0
+0 ->x 0: stretcher honeymoon
+...extremely voters...
+0 -\\ 0: gnaw challenging
+create participant "jams texas" as 1
+0 -> 1 : jams texas
+1 -> 1: graders front
+@enduml

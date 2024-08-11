@@ -1,0 +1,8 @@
+@startuml
+participant "tap sometimes" as 0
+box "retained advantage"
+participant "scarier shrunk" as 1
+end box
+0 -> 1: prissy manifesto
+0 ->> 1: frauds nude
+@enduml

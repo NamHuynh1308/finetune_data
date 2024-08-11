@@ -1,0 +1,13 @@
+@startuml
+participant "weekend participation" as 0
+box "crumbling contraband"
+participant "monger preferably" as 1
+participant "pellet fruits" as 2
+end box
+critical conspiring coolness
+2 ->x 2: adding assistants
+...hankie blarney...
+1 --//o 2: meanness lightness
+0 --//o 2: subtlety hurray
+end
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+box "discriminate shotgun"
+participant "lizards judged" as 0
+participant "household restraints" as 1
+end box
+0 --> 1: eternally freeze
+0 ->o 1++ : changed buffy
+1 --> 1++ : plucky mementos
+alt audiotape lab
+ [-> 0: stunts exceed
+...cubicle universe...
+0 ->> 1: sincerely rem
+...autographed continuous...
+ [<- 0: goblin booger
+end
+return choosy riviera
+return haughty derelict
+@enduml

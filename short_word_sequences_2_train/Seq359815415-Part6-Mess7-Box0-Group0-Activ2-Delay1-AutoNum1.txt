@@ -1,0 +1,22 @@
+@startuml
+participant "clanking tackling" as 0
+participant "profoundly brownout" as 1
+participant "cutter monsoon" as 2
+participant "ceramic renaissance" as 3
+participant "retaliate grandmother" as 4
+autonumber 6 6
+ [<- 4: worded vigorously
+autonumber stop
+2 ->x 4++ : parliamentary medicating
+2 -\\ 4++ : lies spike
+autonumber resume
+...weight bulbs...
+ [<- 1: backing dingo
+autonumber stop
+create participant "lodging infidelity" as 5
+1 -> 5 : lodging infidelity
+return marines barrels
+2 -> 1: pedestal deprivation
+0 ->] : chords voila
+return herniated cement
+@enduml

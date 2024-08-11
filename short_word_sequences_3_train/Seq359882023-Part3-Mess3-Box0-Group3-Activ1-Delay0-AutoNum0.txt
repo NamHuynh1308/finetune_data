@@ -1,0 +1,16 @@
+@startuml
+participant "washes tomfoolery" as 0
+participant "latex augmentation" as 1
+== redneck quart ==
+opt romp importantly
+create participant "marooned task" as 2
+1 -> 2 : marooned task
+opt seemingly perverts
+1 ->o 0++ : homos scalding
+opt kegs confederates
+0 <-> 0: benedict winos
+end
+end
+end
+return waterloo waves
+@enduml

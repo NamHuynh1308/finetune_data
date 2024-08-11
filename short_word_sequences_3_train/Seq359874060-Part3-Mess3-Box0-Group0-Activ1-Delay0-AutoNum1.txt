@@ -1,0 +1,10 @@
+@startuml
+participant "paced practice" as 0
+participant "glop black" as 1
+participant "drained bedside" as 2
+autonumber 8 6
+ [-> 2: landers automatics
+0 <-> 2: amuse infuriating
+1 -->x 1++ : abrupt attorney
+return decade herd
+@enduml

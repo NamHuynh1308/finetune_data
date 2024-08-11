@@ -1,0 +1,8 @@
+@startuml
+participant "vanish sinners" as 0
+participant "us finest" as 1
+== tested singers ==
+0 --> 1++ : deport stagger
+0 -> 1: disagreement fortuneteller
+return heroes agricultural
+@enduml

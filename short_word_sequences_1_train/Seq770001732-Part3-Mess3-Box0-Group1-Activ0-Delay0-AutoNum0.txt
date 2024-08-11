@@ -1,0 +1,11 @@
+@startuml
+participant "wells doom" as 0
+ [<- 0: flashlight censure
+critical cornucopia fiberglass
+create participant "hollering spacecraft" as 1
+0 -> 1 : hollering spacecraft
+create participant "dividends dollop" as 2
+1 -> 2 : dividends dollop
+else ascot romancing
+end
+@enduml

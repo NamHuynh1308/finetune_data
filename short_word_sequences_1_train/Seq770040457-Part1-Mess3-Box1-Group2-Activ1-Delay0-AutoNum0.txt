@@ -1,0 +1,14 @@
+@startuml
+box "safety cabinet"
+participant "caveman astray" as 0
+end box
+par researchers awol
+0 -> 0: snatch overlap
+0 -\\ 0++ : deliver addiction
+else videos sarcastic
+opt thunder volumes
+0 ->x 0: comment mad
+end
+end
+return seizures crash
+@enduml

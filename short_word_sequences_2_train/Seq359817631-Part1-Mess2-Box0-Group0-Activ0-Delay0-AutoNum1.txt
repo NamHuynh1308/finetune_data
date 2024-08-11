@@ -1,0 +1,6 @@
+@startuml
+participant "bunion vandalism" as 0
+autonumber 1 5
+0 <-> 0: sidewinder pledge
+0 -> 0: expulsion positions
+@enduml

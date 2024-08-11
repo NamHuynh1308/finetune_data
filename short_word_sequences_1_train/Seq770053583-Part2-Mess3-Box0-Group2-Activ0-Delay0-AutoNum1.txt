@@ -1,0 +1,13 @@
+@startuml
+participant "ciao cover" as 0
+participant "stakeout amusement" as 1
+== honor sexism ==
+autonumber 9 10
+alt inspirational occurs
+1 ->o 1: plugged dissertation
+alt pyramids decoder
+0 <-] : definitions hoarding
+0 -> 1: launder dignify
+end
+end
+@enduml

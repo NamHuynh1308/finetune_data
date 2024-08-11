@@ -1,0 +1,11 @@
+@startuml
+box "unspoiled occur"
+participant "infidelity banjo" as 0
+end box
+autonumber 0 6
+0 -> 0: veterinarian look
+0 -> 0: beckons edgewise
+par misunderstandings fantasy
+ [<- 0: paisley tobacco
+end
+@enduml

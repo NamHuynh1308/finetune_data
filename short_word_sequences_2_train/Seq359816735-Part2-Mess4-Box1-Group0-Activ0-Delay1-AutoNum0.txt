@@ -1,0 +1,11 @@
+@startuml
+box "shambles sandbag"
+participant "nancy considering" as 0
+participant "reiterate confronted" as 1
+end box
+0 -> 0: launching heartland
+0 ->o 1: receiving edgy
+1 --//o 1: brink admired
+...recorder newsstand...
+1 -->x 0: soccer groped
+@enduml

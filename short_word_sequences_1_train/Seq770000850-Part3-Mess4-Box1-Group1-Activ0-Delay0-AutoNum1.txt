@@ -1,0 +1,16 @@
+@startuml
+participant "turf stakeouts" as 0
+box "navigation ghoul"
+participant "fritters cents" as 1
+end box
+== lame strategist ==
+autonumber 5 10
+0 --//o 0: conned davy
+autonumber stop
+create participant "insured streamlined" as 2
+0 -> 2 : insured streamlined
+opt escape illegals
+2 -> 1: erica cybernetic
+1 ->] : sunroom page
+end
+@enduml

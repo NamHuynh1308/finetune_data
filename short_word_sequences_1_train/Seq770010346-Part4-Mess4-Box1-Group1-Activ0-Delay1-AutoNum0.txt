@@ -1,0 +1,15 @@
+@startuml
+participant "bang buggered" as 0
+participant "strand whammo" as 1
+participant "pearls pajamas" as 2
+box "chooses communion"
+participant "runaways exasperated" as 3
+end box
+1 -> 0: assigning hitting
+ [-> 2: fragments suggestion
+3 <-> 0: gods yammering
+opt reversal sensor
+...slapped swiped...
+1 -> 0: romantically saith
+end
+@enduml

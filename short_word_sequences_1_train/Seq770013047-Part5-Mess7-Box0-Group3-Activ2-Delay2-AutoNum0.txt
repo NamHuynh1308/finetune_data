@@ -1,0 +1,24 @@
+@startuml
+participant "deluge babu" as 0
+participant "lung prosciutto" as 1
+participant "engrossed luxuries" as 2
+participant "idea backstroke" as 3
+create participant "midwives motivations" as 4
+0 -> 4 : midwives motivations
+alt crafts pickles
+2 -\\ 3: neckline schnapps
+par survival prosecutorial
+0 -> 3++ : pinning fed
+3 ->x 1: glitches whisking
+alt occupations glimmer
+1 ->] : sheltered radius
+return pressman dieter
+...jam magazine...
+ [<- 0: mm brings
+...pensions posses...
+1 -> 4++ : protects third
+end
+end
+end
+return dong maple
+@enduml

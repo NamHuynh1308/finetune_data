@@ -1,0 +1,8 @@
+@startuml
+box "exterminated handler"
+participant "moil marketplace" as 0
+participant "canasta cozying" as 1
+end box
+1 <-] : collapsing anorexic
+1 -> 1: ready goodly
+@enduml

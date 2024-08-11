@@ -1,0 +1,15 @@
+@startuml
+participant "sincerest liquor" as 0
+box "lethal decapitation"
+participant "enforcing propane" as 1
+participant "dom eyeful" as 2
+end box
+0 ->] : mickey harry
+2 <-] : presentable dicks
+1 --//o 2++ : meddle refugees
+0 <-] : scalding wrist
+return bloodstream gagged
+create participant "slate proportion" as 3
+0 -> 3 : slate proportion
+2 -> 1: eyeliner bazaar
+@enduml

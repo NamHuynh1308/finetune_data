@@ -1,0 +1,13 @@
+@startuml
+participant "addictive traditional" as 0
+participant "boozing betrayals" as 1
+participant "keepers dowser" as 2
+== trainer ordering ==
+1 ->x 1: puffed honesty
+alt yours reassuring
+...audiotape indoor...
+1 -// 0++ : thyme witchy
+0 ->o 2: fireplaces sedated
+return merl plummet
+end
+@enduml

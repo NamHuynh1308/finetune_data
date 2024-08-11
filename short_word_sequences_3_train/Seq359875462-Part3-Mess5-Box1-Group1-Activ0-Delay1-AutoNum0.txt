@@ -1,0 +1,16 @@
+@startuml
+participant "eruption lymph" as 0
+box "beard cove"
+participant "stair cloak" as 1
+participant "sedated forestry" as 2
+end box
+== hustler mecca ==
+0 --> 1: maverick muses
+ [-> 1: force whisk
+loop corned snowmobiles
+...headlock undermine...
+ [<- 1: bedridden unfamiliar
+2 -->x 1: ginseng instigated
+2 ->x 0: torpedoes immigrants
+end
+@enduml

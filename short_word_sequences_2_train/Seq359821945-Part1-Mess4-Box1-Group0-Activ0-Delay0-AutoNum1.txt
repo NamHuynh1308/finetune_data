@@ -1,0 +1,13 @@
+@startuml
+box "prelim habits"
+participant "abbots pauses" as 0
+end box
+== hernia exchanging ==
+autonumber 6 10
+0 ->x 0: shirts carriers
+0 -> 0: ornaments snore
+autonumber stop
+0 -> 0: manages needlepoint
+ [<- 0: zag lovesick
+autonumber resume
+@enduml

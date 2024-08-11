@@ -1,0 +1,10 @@
+@startuml
+participant "culture chins" as 0
+participant "karaoke foxy" as 1
+autonumber 3 9
+opt rom erection
+0 ->x 0: hang entertained
+create participant "commissioner inconspicuous" as 2
+1 -> 2 : commissioner inconspicuous
+end
+@enduml

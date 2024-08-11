@@ -1,0 +1,16 @@
+@startuml
+participant "numbness uncut" as 0
+participant "circumference hatches" as 1
+participant "dodger eccentric" as 2
+participant "consensus radiator" as 3
+3 -->x 0: seems deconstruction
+alt foreman institute
+3 ->x 1: tube convention
+ [-> 2: vixen biased
+...grosses thirsty...
+2 -->x 2: somebody pharmacist
+1 --//o 3: substituting overdosed
+else colleague joke
+ [-> 1: commute derail
+end
+@enduml

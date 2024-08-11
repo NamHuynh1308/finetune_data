@@ -1,0 +1,10 @@
+@startuml
+box "rides comforted"
+participant "hardworking splashing" as 0
+participant "calf suss" as 1
+end box
+== corpse worn ==
+autonumber 6 6
+ [-> 1: flee dampener
+1 -> 0: handshake provocations
+@enduml

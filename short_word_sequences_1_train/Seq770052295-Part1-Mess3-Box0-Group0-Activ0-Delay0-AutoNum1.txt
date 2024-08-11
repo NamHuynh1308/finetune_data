@@ -1,0 +1,9 @@
+@startuml
+participant "piano youse" as 0
+autonumber 5 0
+0 <-] : examples persona
+0 ->o 0: coles quest
+autonumber stop
+0 ->x 0: neurosis barber
+autonumber resume
+@enduml

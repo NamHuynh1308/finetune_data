@@ -1,0 +1,13 @@
+@startuml
+participant "brood gist" as 0
+participant "usefulness commodities" as 1
+participant "extracting wake" as 2
+1 ->] : confirmation uptight
+...operator quad...
+1 -// 0: simulations rapidly
+par kicky camel
+2 ->x 0++ : deliberation caramba
+2 -> 1: ailment sparkly
+end
+return festering chucks
+@enduml

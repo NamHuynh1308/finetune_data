@@ -1,0 +1,12 @@
+@startuml
+participant "lizards inadvertently" as 0
+autonumber 1 0
+0 ->o 0: train incompatible
+autonumber stop
+0 -// 0: repressed punk
+0 -\\ 0: gill drawstring
+autonumber resume
+create participant "newly marriages" as 1
+0 -> 1 : newly marriages
+1 ->> 1: toast vetted
+@enduml

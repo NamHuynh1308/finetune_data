@@ -1,0 +1,14 @@
+@startuml
+participant "gals playbook" as 0
+box "sonogram gauging"
+participant "lightened tacky" as 1
+end box
+autonumber 6 0
+ [<- 0: snipers diva
+0 ->x 1: intelligently jugular
+1 ->x 0++ : garment residences
+create participant "madden next" as 2
+1 -> 2 : madden next
+return negative alarms
+autonumber stop
+@enduml

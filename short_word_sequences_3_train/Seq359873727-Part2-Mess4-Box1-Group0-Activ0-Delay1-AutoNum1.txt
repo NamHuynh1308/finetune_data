@@ -1,0 +1,15 @@
+@startuml
+box "fidelity collaborator"
+participant "airfield arf" as 0
+participant "labeled magicians" as 1
+end box
+== strongest reasonable ==
+autonumber 4 7
+ [<- 0: column epic
+autonumber stop
+ [<- 0: humph sideshow
+ [<- 0: limit crawling
+autonumber resume
+...gasoline chipper...
+ [-> 0: dip performance
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+participant "larval untraceable" as 0
+== chunks alternating ==
+ [<- 0: revolves airfield
+0 -->x 0: analyzed parabolic
+...teriyaki deets...
+0 -> 0: dragonfly northeastern
+alt thrilling sub
+0 -> 0: interpreter system
+end
+@enduml

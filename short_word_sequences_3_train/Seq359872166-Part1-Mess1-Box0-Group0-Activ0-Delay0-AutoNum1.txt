@@ -1,0 +1,5 @@
+@startuml
+participant "tightly appearance" as 0
+autonumber 10 10
+0 --//o 0: proudest pouting
+@enduml

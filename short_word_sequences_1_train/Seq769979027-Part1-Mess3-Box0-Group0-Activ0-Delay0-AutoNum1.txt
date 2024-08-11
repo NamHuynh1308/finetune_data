@@ -1,0 +1,8 @@
+@startuml
+participant "musical user" as 0
+== botanical westerns ==
+autonumber 0 1
+0 ->> 0: irrelevant extreme
+0 -// 0: lorry sits
+0 ->> 0: speedway backhand
+@enduml

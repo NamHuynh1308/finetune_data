@@ -1,0 +1,9 @@
+@startuml
+box "loon survival"
+participant "derby scrubs" as 0
+end box
+autonumber 6 2
+0 -// 0: seize cylinders
+0 ->] : surgeons alcoholism
+autonumber stop
+@enduml

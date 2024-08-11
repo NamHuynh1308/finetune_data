@@ -1,0 +1,15 @@
+@startuml
+participant "disparity winking" as 0
+box "regards hiccups"
+participant "breeding pacifist" as 1
+participant "dilly called" as 2
+end box
+2 <-> 0++ : company mannequins
+alt therefore flexibility
+2 -// 0: winters pacemaker
+...crepes fugu...
+2 --> 1++ : demand deuces
+end
+return crapper authorities
+return below litter
+@enduml

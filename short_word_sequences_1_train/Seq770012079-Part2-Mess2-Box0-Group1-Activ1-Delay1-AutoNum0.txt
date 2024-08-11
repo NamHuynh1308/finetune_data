@@ -1,0 +1,10 @@
+@startuml
+participant "succotash dilettante" as 0
+participant "services refuge" as 1
+1 -> 0!! : filter arc
+par geeks informs
+...scalped bunting...
+0 --> 1++ : text arms
+end
+return piqued paragon
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+participant "peacetime tangle" as 0
+participant "anecdotes lighted" as 1
+participant "nome constellation" as 2
+autonumber 10 2
+ [-> 0: fantasyland asked
+...trolling hypocrites...
+0 ->x 0++ : fantastic triumph
+loop preamble padding
+...winters waiter...
+0 <-] : eject tubes
+loop mooch blurting
+1 -\\ 2: snuggles luau
+autonumber stop
+end
+end
+return morality throne
+@enduml

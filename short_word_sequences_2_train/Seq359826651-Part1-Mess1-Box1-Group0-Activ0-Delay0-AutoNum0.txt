@@ -1,0 +1,6 @@
+@startuml
+box "patrolman majored"
+participant "lowery glares" as 0
+end box
+0 -> 0: prosecution lacrosse
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+participant "night flexible" as 0
+box "crated answered"
+participant "sentences downfall" as 1
+participant "splinters turbulent" as 2
+participant "volcanoes engaging" as 3
+end box
+autonumber 3 1
+3 -> 1++ : reflex superior
+3 <-> 2++ : quits astonishment
+2 -// 0: disc cafeteria
+return holster proves
+loop leaving adenoids
+create participant "broadcasting contender" as 4
+0 -> 4 : broadcasting contender
+2 -\\ 4: unlock handful
+else limb adopted
+par radiation roadhouse
+...toasts towards...
+2 -> 0: manifested relocate
+return tapping abduct
+end
+end
+@enduml

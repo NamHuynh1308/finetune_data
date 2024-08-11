@@ -1,0 +1,20 @@
+@startuml
+participant "vagabond untouched" as 0
+participant "clunk sweeper" as 1
+participant "puts highlighters" as 2
+box "veils irrigation"
+participant "laundry cherub" as 3
+participant "pharaohs enforce" as 4
+end box
+== rummy genesis ==
+autonumber 3 6
+par ogres coast
+1 ->o 4: palm knob
+3 -\\ 4: innovation mustangs
+3 -> 4: swill goblin
+else conquers promotion
+0 ->> 4: oblivious murderous
+2 -> 4++ : heartbreaking trimester
+end
+return shoo mending
+@enduml

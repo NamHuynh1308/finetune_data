@@ -1,0 +1,8 @@
+@startuml
+participant "town jukebox" as 0
+== premature bandage ==
+autonumber 1 7
+ [<- 0: advocacy hmm
+0 ->o 0: satisfactory genesis
+ [<- 0: anemia telepathic
+@enduml

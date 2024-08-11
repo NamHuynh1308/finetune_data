@@ -1,0 +1,31 @@
+@startuml
+participant "chlorine towel" as 0
+participant "uneventful doohickey" as 1
+box "charmer walls"
+participant "plunging instituted" as 2
+box "crouch troubling"
+participant "villages central" as 3
+participant "intercepting falsely" as 4
+end box
+end box
+autonumber 1 7
+4 -> 0: heartbreaker gripes
+autonumber stop
+par nana kane
+3 <-] : unsettled impossibly
+1 -> 2!! : shots rubble
+par grievance cabs
+...backups softball...
+3 -\\ 3: sprinkled admiring
+autonumber resume
+loop sentinels conducted
+create participant "clods yams" as 5
+1 -> 5 : clods yams
+2 ->o 5: att grisly
+else crossed avoiding
+2 ->] : bested puritanical
+2 ->] : joseph flier
+end
+end
+end
+@enduml

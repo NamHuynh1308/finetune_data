@@ -1,0 +1,12 @@
+@startuml
+participant "shocks proofing" as 0
+participant "generates conduct" as 1
+participant "cessation ruling" as 2
+== brave councillor ==
+break bereavement internally
+2 -// 1: tomorrows fanatic
+2 ->o 0: conspire stunned
+2 ->> 2: strawberry slipped
+2 <-> 0: wrinkled collapse
+end
+@enduml

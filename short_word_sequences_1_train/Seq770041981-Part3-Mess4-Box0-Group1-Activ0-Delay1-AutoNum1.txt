@@ -1,0 +1,16 @@
+@startuml
+participant "against nifty" as 0
+participant "pioneer frosting" as 1
+participant "necessity tightrope" as 2
+autonumber 8 1
+2 ->x 2: genesis bookshelf
+autonumber stop
+...gatherings paperwork...
+2 <-> 2: hesitate shunt
+autonumber resume
+2 -->x 0: codes implications
+opt fiend flared
+0 --> 1: chooses submarines
+autonumber stop
+end
+@enduml

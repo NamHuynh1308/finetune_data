@@ -1,0 +1,21 @@
+@startuml
+participant "gazelle brandy" as 0
+participant "junior gassed" as 1
+participant "deprivation sparing" as 2
+participant "buff ben" as 3
+participant "chivalrous cups" as 4
+autonumber 3 3
+1 ->o 1++ : postcard massa
+autonumber stop
+...masseuse coffin...
+0 ->> 1: lays interrogating
+par sentinels leaving
+...gladiator plowing...
+0 -> 2: flunky prejudiced
+create participant "parasitic yuppies" as 5
+2 -> 5 : parasitic yuppies
+end
+5 -> 3!! : lashing joined
+return prying brain
+autonumber resume
+@enduml

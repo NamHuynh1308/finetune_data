@@ -1,0 +1,15 @@
+@startuml
+participant "blunders redeem" as 0
+participant "lacked its" as 1
+participant "those slumped" as 2
+participant "mandates smoothly" as 3
+0 ->x 1: sequestered torching
+2 -// 3: invented undergraduate
+...filters conscience...
+2 --//o 1: loyalty requiring
+alt jot hall
+ [<- 3: unscheduled splatter
+0 -> 1: flirted doorman
+end
+ [-> 3: uninterrupted onward
+@enduml

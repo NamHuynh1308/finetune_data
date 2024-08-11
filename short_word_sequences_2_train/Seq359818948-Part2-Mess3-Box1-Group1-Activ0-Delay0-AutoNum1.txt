@@ -1,0 +1,15 @@
+@startuml
+participant "superfluous spar" as 0
+box "performing concern"
+participant "feeling leisure" as 1
+end box
+== gum reminders ==
+autonumber 4 7
+1 -// 0: tardiness boggles
+autonumber stop
+1 -// 1: devours gristle
+autonumber resume
+par adolescents predisposed
+0 ->] : corruption think
+end
+@enduml

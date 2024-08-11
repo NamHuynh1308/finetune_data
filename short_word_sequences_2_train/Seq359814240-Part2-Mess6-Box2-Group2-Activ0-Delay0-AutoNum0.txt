@@ -1,0 +1,19 @@
+@startuml
+box "mildew inhibitors"
+participant "tiramisu hemisphere" as 0
+box "eloquence hangover"
+participant "dormant adds" as 1
+end box
+end box
+== exams tux ==
+0 --//o 1: viper exhumation
+0 <-] : particles welsh
+critical cram wacky
+1 <-> 0: allows personnel
+1 --//o 1: contamination maps
+0 -// 1: untangle tool
+alt predator trainee
+0 -> 0!! : score totally
+end
+end
+@enduml

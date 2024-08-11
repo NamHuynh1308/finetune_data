@@ -1,0 +1,12 @@
+@startuml
+box "narcissist millionaire"
+participant "spicy agrees" as 0
+participant "caprice border" as 1
+participant "hooks dulcet" as 2
+end box
+autonumber 10 2
+2 -->x 0: fewer eggshells
+2 <-] : marinate bigot
+0 <-> 0: generate stages
+autonumber stop
+@enduml

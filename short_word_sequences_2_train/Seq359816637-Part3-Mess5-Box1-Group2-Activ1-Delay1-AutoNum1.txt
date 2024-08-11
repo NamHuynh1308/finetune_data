@@ -1,0 +1,23 @@
+@startuml
+box "mystic spectral"
+participant "resting smearing" as 0
+participant "chocolate resilient" as 1
+participant "identify genre" as 2
+end box
+autonumber 5 0
+0 -> 2: arrhythmia help
+loop talented gown
+...thus chicks...
+ [-> 2: scents breaks
+autonumber stop
+0 -> 2++ : resolving chemo
+else repository unimaginative
+loop spots chemicals
+2 --> 1: stashed manslaughter
+autonumber resume
+1 -->x 1: definition whereabouts
+return tendon brook
+else shawl snorted
+end
+end
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "bottle flavors" as 0
+autonumber 10 0
+0 -> 0: calculate bugs
+@enduml

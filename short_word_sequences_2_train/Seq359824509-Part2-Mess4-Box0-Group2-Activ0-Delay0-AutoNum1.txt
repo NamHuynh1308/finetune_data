@@ -1,0 +1,16 @@
+@startuml
+participant "raved slender" as 0
+== crowbar soy ==
+autonumber 0 1
+0 ->> 0: gar cleanser
+0 -> 0: overcame wonderland
+loop ringing prescription
+create participant "schizoid absentee" as 1
+0 -> 1 : schizoid absentee
+autonumber stop
+par guarantees blotto
+1 ->> 1: flirted lobbyist
+autonumber resume
+end
+end
+@enduml

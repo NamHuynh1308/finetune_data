@@ -1,0 +1,25 @@
+@startuml
+box "oaf repairman"
+participant "enable quake" as 0
+box "diplomatic someone"
+participant "picturing mocked" as 1
+participant "crammed haughty" as 2
+participant "occasionally dunks" as 3
+end box
+end box
+== initials obscenities ==
+create participant "screws devoting" as 4
+3 -> 4 : screws devoting
+1 --//o 4: schnitzel persecuted
+loop brothel murdering
+2 --> 1: rotated annual
+create participant "souvenirs miscarriage" as 5
+3 -> 5 : souvenirs miscarriage
+else nationally served
+create participant "crisis pouting" as 6
+1 -> 6 : crisis pouting
+critical doses tasks
+4 -> 6: primo repute
+end
+end
+@enduml

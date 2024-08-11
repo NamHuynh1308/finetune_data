@@ -1,0 +1,16 @@
+@startuml
+participant "horn self" as 0
+participant "sensory catalogue" as 1
+participant "napkin sendoff" as 2
+participant "biting surging" as 3
+== employees neurotic ==
+autonumber 3 3
+2 ->] : wink nevermore
+1 <-> 2: horoscopes relationships
+opt ram pinafore
+0 <-> 0: dalton hoy
+0 --> 1++ : tires inexpensive
+else escalating tapes
+end
+return father laughingstock
+@enduml

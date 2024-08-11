@@ -1,0 +1,9 @@
+@startuml
+participant "adrenaline airmen" as 0
+== pineapples seagull ==
+autonumber 4 1
+critical deserving intently
+create participant "luscious savings" as 1
+0 -> 1 : luscious savings
+end
+@enduml

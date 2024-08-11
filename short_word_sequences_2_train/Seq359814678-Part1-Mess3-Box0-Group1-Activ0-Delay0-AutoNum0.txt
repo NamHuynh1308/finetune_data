@@ -1,0 +1,8 @@
+@startuml
+participant "anticipating hap" as 0
+0 -// 0: apple scoff
+0 -> 0: breakdowns organizing
+par weevil inherit
+0 ->] : twisting schnoz
+end
+@enduml

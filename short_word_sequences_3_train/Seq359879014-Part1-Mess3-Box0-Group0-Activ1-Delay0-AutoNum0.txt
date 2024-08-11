@@ -1,0 +1,7 @@
+@startuml
+participant "consuming mesa" as 0
+0 ->o 0: forwarding roasts
+0 <-> 0++ : vanishes worrywart
+0 ->> 0: hypocrite mold
+return moisturize folly
+@enduml

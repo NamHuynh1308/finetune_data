@@ -1,0 +1,10 @@
+@startuml
+participant "lamps hah" as 0
+autonumber 4 5
+0 -// 0: abigail furry
+...vixen experiencing...
+0 -> 0: kinship prim
+0 ->> 0: guineas lob
+create participant "data gobbledegook" as 1
+0 -> 1 : data gobbledegook
+@enduml

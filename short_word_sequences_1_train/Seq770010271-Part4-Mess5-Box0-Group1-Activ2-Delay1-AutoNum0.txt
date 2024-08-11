@@ -1,0 +1,17 @@
+@startuml
+participant "optimistic hiccup" as 0
+participant "disapproves weekends" as 1
+participant "protection ennui" as 2
+== fess reefer ==
+0 --> 0: poetic zillions
+...ship proportioned...
+0 ->> 1++ : juice storm
+opt ensign avenge
+0 ->x 2++ : inflicting revolved
+1 <-] : incorrigible notably
+return reschedule synthetic
+end
+create participant "extraordinary interlude" as 3
+1 -> 3 : extraordinary interlude
+return crackling inundated
+@enduml

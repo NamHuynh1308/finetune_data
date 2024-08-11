@@ -1,0 +1,15 @@
+@startuml
+participant "poised sole" as 0
+participant "gumption salad" as 1
+participant "poi hast" as 2
+participant "beside clay" as 3
+ [<- 0: sweating rappers
+ [-> 2: erased chests
+alt pushes undies
+2 -->x 1: recaptured describe
+...mop convertibles...
+2 <-> 1: combust mantis
+else outgrew engrossed
+1 ->> 2: geriatric anthropologist
+end
+@enduml

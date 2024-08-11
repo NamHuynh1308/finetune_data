@@ -1,0 +1,7 @@
+@startuml
+participant "flourished sprouting" as 0
+participant "amaretto disturbed" as 1
+0 -> 0++ : chesty lives
+1 -> 0: shadows bakes
+return auk binary
+@enduml

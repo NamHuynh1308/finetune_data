@@ -1,0 +1,14 @@
+@startuml
+participant "ethnicity countermeasures" as 0
+participant "meant hotel" as 1
+autonumber 3 10
+critical gumshoe peers
+create participant "disgust verify" as 2
+1 -> 2 : disgust verify
+2 -> 1: wretch fragile
+else insecurity murderer
+1 -// 0: extras tolls
+autonumber stop
+else echo dissent
+end
+@enduml

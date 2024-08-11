@@ -1,0 +1,14 @@
+@startuml
+participant "hearings finding" as 0
+participant "ancient cork" as 1
+== censured speedo ==
+autonumber 10 5
+par uninformed plate
+0 -// 1: leash primer
+0 -> 0: muumuu humdinger
+autonumber stop
+end
+1 ->o 1: psychobabble firs
+autonumber resume
+1 ->o 0: mugged doodles
+@enduml

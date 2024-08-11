@@ -1,0 +1,23 @@
+@startuml
+box "alchemy mocking"
+participant "nationals shoplifter" as 0
+participant "gaggle observable" as 1
+end box
+participant "momentary midlife" as 2
+box "ejection extravaganza"
+participant "powders thousands" as 3
+end box
+== secondary bastard ==
+autonumber 2 6
+0 --//o 1: inquest owls
+2 <-] : aspect orchestrated
+autonumber stop
+1 ->] : proverb preparing
+ [-> 1: driveways devil
+alt upgraded hothead
+0 ->] : equity ditching
+1 ->x 2: requisition linking
+3 -// 3++ : quarry prof
+end
+return problems thesis
+@enduml

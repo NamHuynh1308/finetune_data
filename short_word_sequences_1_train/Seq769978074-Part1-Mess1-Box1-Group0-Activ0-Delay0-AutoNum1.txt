@@ -1,0 +1,7 @@
+@startuml
+box "blindsided slasher"
+participant "anointed traipse" as 0
+end box
+autonumber 10 8
+0 ->] : bummer connecting
+@enduml

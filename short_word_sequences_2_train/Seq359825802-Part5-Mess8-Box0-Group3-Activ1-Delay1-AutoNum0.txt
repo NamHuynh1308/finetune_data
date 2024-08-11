@@ -1,0 +1,23 @@
+@startuml
+participant "caterers implied" as 0
+participant "sourpuss amend" as 1
+participant "buried angrily" as 2
+participant "smorgasbord argumentative" as 3
+3 -> 2: amphetamines halfback
+ [<- 1: redeem fixing
+1 <-> 0: closes domesticated
+...immortalized unbeknownst...
+ [<- 3: privy headsets
+alt undiscovered wimpy
+1 -// 2++ : describing snide
+1 -> 3: instruction cons
+return temperatures sympathy
+end
+break consorting bird
+2 -> 0: schmooze runner
+opt sleepless agricultural
+create participant "libel professionalism" as 4
+0 -> 4 : libel professionalism
+end
+end
+@enduml

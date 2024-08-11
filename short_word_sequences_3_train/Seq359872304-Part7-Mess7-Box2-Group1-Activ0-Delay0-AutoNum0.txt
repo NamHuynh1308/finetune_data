@@ -1,0 +1,22 @@
+@startuml
+box "reversible wise"
+participant "verified midgets" as 0
+participant "wipes near" as 1
+participant "merrily havoc" as 2
+box "rumba ream"
+participant "minding foreigners" as 3
+participant "mite inception" as 4
+end box
+end box
+ [-> 3: unflattering rewards
+0 ->o 1: everybody innovation
+create participant "minute obsessions" as 5
+2 -> 5 : minute obsessions
+opt carats complication
+3 ->> 3: muggers draped
+ [<- 1: outgrew fusilli
+end
+create participant "reassemble plays" as 6
+5 -> 6 : reassemble plays
+1 <-] : precedents os
+@enduml

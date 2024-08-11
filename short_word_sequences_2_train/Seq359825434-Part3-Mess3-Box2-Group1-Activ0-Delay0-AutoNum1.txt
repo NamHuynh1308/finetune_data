@@ -1,0 +1,17 @@
+@startuml
+box "choosers snowballing"
+participant "buzzed conspiring" as 0
+box "tyrants choppers"
+participant "admitting condoning" as 1
+end box
+end box
+== figuring shivering ==
+autonumber 8 7
+opt chapter recreate
+0 -->x 0: boggle generous
+1 -->x 1: announced seventh
+else retinas inexcusable
+create participant "creations conflicting" as 2
+1 -> 2 : creations conflicting
+end
+@enduml

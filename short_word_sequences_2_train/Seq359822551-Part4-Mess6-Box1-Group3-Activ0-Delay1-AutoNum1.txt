@@ -1,0 +1,23 @@
+@startuml
+box "vamoose pi"
+participant "assortment sha" as 0
+participant "ales belongings" as 1
+participant "peachy pause" as 2
+end box
+autonumber 0 1
+1 ->> 0: patients shagging
+alt trinket civilisation
+...winner gear...
+1 <-> 0: outback hollering
+0 ->] : initial shutting
+end
+alt blowtorch solve
+create participant "wrecks flow" as 3
+0 -> 3 : wrecks flow
+opt kroner lieutenants
+1 ->o 0: veronica homer
+ [<- 2: jeep basketballs
+autonumber stop
+end
+end
+@enduml

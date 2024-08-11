@@ -1,0 +1,32 @@
+@startuml
+box "snapper weights"
+participant "been maxwell" as 0
+box "carat wheat"
+participant "charismatic inspecting" as 1
+participant "nuke buffoon" as 2
+box "contraption seasons"
+participant "phased lost" as 3
+participant "barks cook" as 4
+end box
+end box
+end box
+autonumber 4 3
+0 -> 2++ : seeds broker
+2 ->x 0: pipe irritating
+2 ->] : clairvoyant commits
+3 -->x 2: century judicial
+return blurry pas
+break malaria arrears
+1 -> 4++ : ultimatums samurai
+autonumber stop
+loop piecing jets
+3 ->o 1: oak landfill
+return ratio lucid
+autonumber resume
+alt until cubbies
+2 <-] : unprotected paranormal
+autonumber stop
+end
+end
+end
+@enduml

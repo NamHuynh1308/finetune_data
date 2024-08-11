@@ -1,0 +1,17 @@
+@startuml
+participant "communing sidebar" as 0
+participant "alcoholic typo" as 1
+participant "affront prototypes" as 2
+1 -// 1++ : yup tortillas
+loop dwarves restructuring
+1 --> 1: knowledgeable unsealed
+2 -->x 1: utensils unraveling
+return literacy cypress
+0 ->x 2++ : caddy twigs
+end
+0 -> 2: carotid plagued
+return toxicology visitors
+0 -> 2: abnormally tarzan
+...request wrecker...
+2 ->o 1: cupboards waterloo
+@enduml

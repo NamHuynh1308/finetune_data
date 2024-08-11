@@ -1,0 +1,16 @@
+@startuml
+participant "began backyard" as 0
+participant "glasses eleventh" as 1
+participant "shadow extradite" as 2
+== upsets unconcerned ==
+create participant "gabbing novel" as 3
+1 -> 3 : gabbing novel
+create participant "unwelcome bitch" as 4
+1 -> 4 : unwelcome bitch
+4 -> 2++ : finder carcass
+opt wooded picks
+2 -> 0: gory doctor
+4 -> 3: spiky exaggerated
+end
+return cheep insanely
+@enduml

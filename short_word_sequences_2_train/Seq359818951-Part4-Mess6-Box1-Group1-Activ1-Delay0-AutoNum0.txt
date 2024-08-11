@@ -1,0 +1,20 @@
+@startuml
+box "surrendered restaurateur"
+participant "dues commanders" as 0
+participant "carrying cognac" as 1
+end box
+participant "nazis bard" as 2
+participant "outlander luminous" as 3
+ [-> 2: worries mustang
+loop defacing marital
+2 --//o 0: tablet regulation
+0 <-> 0: neglectful cameraman
+1 <-> 1++ : node hanks
+else marquis enjoyable
+0 -> 0: admission mouthy
+return presuming grungy
+else headlining episode
+3 -> 3: spontaneously plaintiff
+else chrome attackers
+end
+@enduml

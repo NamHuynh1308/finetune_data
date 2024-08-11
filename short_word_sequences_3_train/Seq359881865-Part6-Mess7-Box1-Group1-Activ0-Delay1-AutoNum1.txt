@@ -1,0 +1,21 @@
+@startuml
+participant "products uncomplicated" as 0
+participant "hush weave" as 1
+participant "uninteresting snooping" as 2
+box "ignited attracts"
+participant "heavyweight bedlam" as 3
+end box
+autonumber 4 1
+create participant "vulnerability playroom" as 4
+3 -> 4 : vulnerability playroom
+0 --> 4: fruity cornucopia
+3 ->] : shines lone
+2 -> 0: spiritual stabilize
+...sickly sponges...
+4 -// 0: comparison postcards
+ [<- 1: recanting runs
+opt winded dotty
+create participant "victories repartee" as 5
+0 -> 5 : victories repartee
+end
+@enduml

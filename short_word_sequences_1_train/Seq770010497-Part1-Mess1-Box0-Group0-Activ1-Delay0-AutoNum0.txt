@@ -1,0 +1,6 @@
+@startuml
+participant "photos thoracic" as 0
+== snowed aged ==
+0 -> 0++ : snip sewed
+return between ace
+@enduml

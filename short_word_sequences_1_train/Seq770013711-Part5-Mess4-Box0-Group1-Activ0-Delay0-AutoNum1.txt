@@ -1,0 +1,18 @@
+@startuml
+participant "jaded tipped" as 0
+participant "erasing whacked" as 1
+participant "initiative killer" as 2
+participant "landfill ramus" as 3
+autonumber 1 10
+break hint unclench
+1 -> 2: facedown dormitory
+create participant "intertwined storeroom" as 4
+2 -> 4 : intertwined storeroom
+autonumber stop
+3 -> 0: curate imagined
+autonumber resume
+else pleasing tornado
+3 -\\ 1: hmm chimpanzee
+autonumber stop
+end
+@enduml

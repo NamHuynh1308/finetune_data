@@ -1,0 +1,11 @@
+@startuml
+participant "incentives evacuate" as 0
+0 <-> 0++ : decryption croon
+0 --//o 0: enable defector
+par locust saxophone
+0 ->o 0: railroads rename
+return foisting gat
+...galoshes ail...
+0 ->> 0: factors occupation
+end
+@enduml

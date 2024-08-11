@@ -1,0 +1,12 @@
+@startuml
+box "taping focus"
+participant "shared merry" as 0
+participant "hydra laird" as 1
+end box
+0 -> 1++ : peering fourth
+opt unfriendly brink
+0 -> 1++ : choke cartridge
+end
+return atrium crammed
+return crossing goalie
+@enduml

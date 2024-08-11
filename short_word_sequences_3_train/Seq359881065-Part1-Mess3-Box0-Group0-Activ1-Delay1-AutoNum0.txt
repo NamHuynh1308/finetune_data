@@ -1,0 +1,9 @@
+@startuml
+participant "convent gotten" as 0
+== belongings homeboy ==
+0 <-] : damages retail
+...crowns drones...
+0 -> 0++ : elms tablecloths
+0 -> 0!! : preliminary correspondent
+return holder desktop
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+participant "villain henchman" as 0
+participant "innocently disruptive" as 1
+participant "christening slimmer" as 2
+participant "kashmir tells" as 3
+participant "makeup craving" as 4
+autonumber 2 2
+0 <-] : folk fantasies
+autonumber stop
+...appeared arugula...
+ [-> 2: rally impenetrable
+opt protests mumbling
+...chauvinistic guy...
+4 -> 4++ : batteries sunbathing
+alt dark cog
+3 -\\ 3: cucumber shackles
+1 ->> 1: genetic spades
+return forgery cornucopia
+else chagrined timer
+par brouhaha juncture
+0 ->] : soups wielding
+end
+end
+end
+@enduml

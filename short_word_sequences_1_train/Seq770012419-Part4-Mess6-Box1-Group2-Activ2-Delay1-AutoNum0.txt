@@ -1,0 +1,22 @@
+@startuml
+box "gamble mumbled"
+participant "walking authority" as 0
+participant "brava listening" as 1
+participant "spawned calling" as 2
+participant "rag headgear" as 3
+end box
+3 ->> 1: calmer lusting
+ [<- 0: things complaining
+opt chainsaw jeans
+1 -->x 0: unicorn ignores
+...toy pay...
+1 -> 2++ : diver bankbooks
+2 --> 1++ : orchestrated booklet
+else armored favorite
+alt pickpocket volts
+2 -> 2: regrets collapses
+end
+end
+return ballot least
+return asks university
+@enduml

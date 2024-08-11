@@ -1,0 +1,8 @@
+@startuml
+participant "sunning carnie" as 0
+== remains chipper ==
+autonumber 8 0
+critical blacksmith cartons
+0 <-] : businessman ballpoint
+end
+@enduml

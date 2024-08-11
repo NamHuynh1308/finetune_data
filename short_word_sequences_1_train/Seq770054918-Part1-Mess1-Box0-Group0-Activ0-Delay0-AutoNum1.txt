@@ -1,0 +1,6 @@
+@startuml
+participant "finance profess" as 0
+autonumber 10 4
+0 <-] : accepted bungalow
+autonumber stop
+@enduml

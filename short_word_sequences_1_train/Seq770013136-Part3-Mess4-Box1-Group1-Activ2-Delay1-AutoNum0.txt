@@ -1,0 +1,17 @@
+@startuml
+participant "ulcers terra" as 0
+participant "mob revere" as 1
+box "lug storming"
+participant "reviews classless" as 2
+end box
+1 --> 2++ : dictating representatives
+alt cut weather
+1 <-] : idle peaceful
+...combative undertow...
+0 <-] : rave ceremonial
+else whacko eccentricities
+2 -->x 1++ : grills knocks
+end
+return tonsils respected
+return rigor petals
+@enduml

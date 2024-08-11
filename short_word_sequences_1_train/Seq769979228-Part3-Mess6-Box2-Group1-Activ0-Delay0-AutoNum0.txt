@@ -1,0 +1,17 @@
+@startuml
+participant "unspeakably cedar" as 0
+box "ton deplete"
+participant "thoughts puppeteer" as 1
+box "helicopters hangovers"
+participant "meetings adoration" as 2
+end box
+end box
+ [-> 1: yes bikers
+1 <-] : mounting chiffon
+1 ->> 1: cougars neon
+0 -> 2: formulate nozzle
+alt undiscovered mesh
+ [-> 1: bloated multiplex
+2 <-] : care faint
+end
+@enduml

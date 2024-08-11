@@ -1,0 +1,18 @@
+@startuml
+participant "wary own" as 0
+participant "expert handguns" as 1
+participant "refills rogues" as 2
+autonumber 7 1
+ [-> 0: checkers spelt
+0 -> 0: impunity friendlier
+autonumber stop
+alt baseman summon
+0 -->x 2++ : hunched trader
+ [-> 0: pipes info
+autonumber resume
+0 -> 0++ : comparison disqualify
+else encourages circuited
+end
+return showy huge
+return marbles controversial
+@enduml

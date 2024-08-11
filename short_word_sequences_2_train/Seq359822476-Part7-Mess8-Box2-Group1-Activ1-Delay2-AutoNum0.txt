@@ -1,0 +1,26 @@
+@startuml
+participant "estimate healing" as 0
+box "inference reverence"
+participant "qualifications intermediary" as 1
+box "helms actors"
+participant "screwups dads" as 2
+participant "bandwagon flops" as 3
+participant "delays illustrious" as 4
+end box
+end box
+1 -->x 4: single symphony
+create participant "wishes shagging" as 5
+0 -> 5 : wishes shagging
+1 -> 5: staring rhyme
+1 ->x 4: ticketed setting
+...bide roof...
+2 ->] : noisy sanctimonious
+par butt incubation
+create participant "claim obscene" as 6
+1 -> 6 : claim obscene
+...endangered murmur...
+0 --> 2: sponges dueling
+0 -// 4++ : appraise lightened
+end
+return tassels promotions
+@enduml

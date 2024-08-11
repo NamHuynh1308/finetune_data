@@ -1,0 +1,31 @@
+@startuml
+participant "tyranny recruit" as 0
+participant "homeboys unleaded" as 1
+participant "breach splashing" as 2
+box "objected implants"
+participant "charm endangered" as 3
+participant "neighbors outbid" as 4
+end box
+== hooters jesse ==
+autonumber 0 2
+0 <-> 1: pacifist ape
+critical stimulus captioning
+ [<- 0: unemployable unfamiliar
+break grief phasing
+1 -> 1: choirboy drifting
+...multiplex plagued...
+0 -> 4: hostility purple
+...frequently painless...
+4 -> 3: partisan vacate
+autonumber stop
+end
+2 ->> 2: me decoys
+opt baffling hitchhike
+create participant "divine purely" as 5
+1 -> 5 : divine purely
+create participant "cinnamon selecting" as 6
+4 -> 6 : cinnamon selecting
+else alliance placid
+end
+end
+@enduml

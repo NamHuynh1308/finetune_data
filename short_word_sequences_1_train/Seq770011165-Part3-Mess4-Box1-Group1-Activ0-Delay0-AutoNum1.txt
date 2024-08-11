@@ -1,0 +1,14 @@
+@startuml
+box "shade crucifixion"
+participant "underage enquiries" as 0
+participant "drivers backseat" as 1
+end box
+participant "seventeenth ledger" as 2
+autonumber 3 1
+1 -> 0: generating herniated
+2 --//o 2: phenomena determine
+0 ->x 1: sneezing crippled
+alt feasting pagers
+0 ->> 0: daphne biking
+end
+@enduml

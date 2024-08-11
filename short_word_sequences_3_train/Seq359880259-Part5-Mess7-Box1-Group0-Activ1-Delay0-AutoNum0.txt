@@ -1,0 +1,17 @@
+@startuml
+participant "pummel riveted" as 0
+participant "vented ingenious" as 1
+participant "landfall annoy" as 2
+participant "want auctioneer" as 3
+box "mead ditto"
+participant "differ flow" as 4
+end box
+1 <-> 1: herbal advantageous
+2 -> 2: estranged onboard
+3 -> 4: satanic steak
+3 ->> 0++ : disappoint stammering
+3 --//o 3: protectors suppose
+return spokes healers
+4 ->o 0: naw branching
+3 -> 1: stasis retainer
+@enduml

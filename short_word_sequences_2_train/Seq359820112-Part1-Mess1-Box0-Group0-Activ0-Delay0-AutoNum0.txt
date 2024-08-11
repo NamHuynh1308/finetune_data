@@ -1,0 +1,4 @@
+@startuml
+participant "electricians breezy" as 0
+0 ->o 0: prickly viscount
+@enduml

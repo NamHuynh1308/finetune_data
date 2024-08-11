@@ -1,0 +1,12 @@
+@startuml
+participant "premium vicariously" as 0
+participant "filling cushions" as 1
+participant "nutcase recognised" as 2
+0 ->x 1: battered harps
+2 -\\ 0: scenes proclivities
+2 -->x 2: pot laundry
+break twist recreational
+2 --> 0++ : rates palace
+end
+return pressure bloodline
+@enduml

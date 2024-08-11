@@ -1,0 +1,17 @@
+@startuml
+participant "dictating inlaid" as 0
+participant "metaphor readings" as 1
+participant "bust barrow" as 2
+participant "flustered embarking" as 3
+== navy suicide ==
+autonumber 2 0
+3 ->x 2: markings overwhelms
+autonumber stop
+create participant "bee superstitious" as 4
+3 -> 4 : bee superstitious
+4 -\\ 1++ : coupons regarding
+loop inflicted stripe
+0 -> 1!! : businesses digested
+end
+return gestapo begets
+@enduml

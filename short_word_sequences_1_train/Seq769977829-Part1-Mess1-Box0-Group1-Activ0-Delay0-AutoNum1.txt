@@ -1,0 +1,8 @@
+@startuml
+participant "locomotive el" as 0
+== verdict awareness ==
+autonumber 7 3
+opt cigarette revered
+0 --//o 0: technologies stink
+end
+@enduml

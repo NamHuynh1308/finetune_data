@@ -1,0 +1,16 @@
+@startuml
+participant "coffeehouse tattooed" as 0
+participant "automated demanding" as 1
+participant "chains athletic" as 2
+== paradox persistence ==
+1 <-> 1++ : up sheet
+2 -> 2: crabgrass chloroformed
+return mistress egyptian
+loop hanged hardly
+...penguins chickened...
+0 -> 0: feelers sissies
+alt wallaby expand
+2 -> 0: oftentimes lighted
+end
+end
+@enduml

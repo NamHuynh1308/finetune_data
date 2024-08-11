@@ -1,0 +1,27 @@
+@startuml
+box "queue woodshed"
+participant "commentator drumsticks" as 0
+participant "plush bedbugs" as 1
+end box
+box "hooligan crosses"
+participant "mayday swimmingly" as 2
+participant "pamphlet brat" as 3
+participant "enhancements shrimp" as 4
+end box
+autonumber 7 1
+ [<- 0: cathartic funding
+...acknowledged graced...
+3 -> 0!! : flaming gifts
+alt gaining listed
+3 -// 4++ : cave transistor
+create participant "movement fundraiser" as 5
+3 -> 5 : movement fundraiser
+else duff charges
+4 --> 5: renew security
+...florist detonates...
+2 -> 1: odious regard
+2 -\\ 5++ : sequence flayed
+end
+return shriek forsaking
+return whirlwind musket
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "cannibals unfathomable" as 0
+box "met honored"
+participant "tuxedos hernias" as 1
+end box
+0 -// 1: naught gush
+ [-> 1: rate taxis
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+participant "mel block" as 0
+box "marcel stitch"
+participant "concrete his" as 1
+end box
+== whispering imagination ==
+autonumber 4 2
+1 -> 0: scurrying loosing
+ [-> 0: titanic worded
+autonumber stop
+0 <-> 1: bus children
+@enduml

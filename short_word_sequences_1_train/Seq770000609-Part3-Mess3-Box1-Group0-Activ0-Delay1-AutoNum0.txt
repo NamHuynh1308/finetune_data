@@ -1,0 +1,11 @@
+@startuml
+participant "pharmacy undetected" as 0
+box "gist sorts"
+participant "manuscript filter" as 1
+participant "examples jumpers" as 2
+end box
+2 ->> 0: optimism obligatory
+2 -> 1: stirred uppity
+...fallen brace...
+2 -> 2: welcoming murderer
+@enduml

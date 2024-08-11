@@ -1,0 +1,25 @@
+@startuml
+participant "remorse dreading" as 0
+box "braces depths"
+participant "injuries heartache" as 1
+box "hobbies cutesy"
+participant "stroller existence" as 2
+box "sweeping mathematics"
+participant "hysterical chopping" as 3
+end box
+end box
+end box
+autonumber 6 1
+3 ->> 1++ : baited federation
+1 -> 2: riff purblind
+3 --> 3++ : limited klutz
+0 -\\ 0++ : node gross
+alt pearly showgirl
+...robe cozier...
+2 -// 0: bugged topical
+autonumber stop
+end
+return spate shadow
+return clearly sling
+return convulsing messages
+@enduml

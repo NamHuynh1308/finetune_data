@@ -1,0 +1,14 @@
+@startuml
+participant "declare plantations" as 0
+box "menopausal applications"
+participant "administering hearts" as 1
+end box
+== linear planetarium ==
+1 ->> 0: fundraisers crisp
+alt grossed inclined
+0 ->x 1: joked pleaded
+par skied laid
+1 --//o 1: recipient queer
+end
+end
+@enduml

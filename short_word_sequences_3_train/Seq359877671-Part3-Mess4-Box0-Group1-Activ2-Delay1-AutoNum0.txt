@@ -1,0 +1,16 @@
+@startuml
+participant "whammy gap" as 0
+participant "haircut preppie" as 1
+participant "impolite guineas" as 2
+2 -> 2++ : communing drank
+break rumbling hurray
+...toes swanky...
+0 -> 2++ : basic workstation
+0 ->x 1: gorgeous hardwired
+else ping chains
+ [<- 1: ourselves pope
+return businesswoman searches
+else mayors luggage
+end
+return ticker repaired
+@enduml

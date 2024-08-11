@@ -1,0 +1,15 @@
+@startuml
+participant "suitcases colonels" as 0
+participant "respected smile" as 1
+box "theatres believable"
+participant "frontier speaker" as 2
+participant "spandex veritable" as 3
+end box
+== pretense thirteen ==
+3 ->> 1: mistakes robins
+alt inquiry garrison
+3 <-> 0: perchance timber
+ [-> 1: laughs patronized
+1 ->x 2: officers nutshell
+end
+@enduml

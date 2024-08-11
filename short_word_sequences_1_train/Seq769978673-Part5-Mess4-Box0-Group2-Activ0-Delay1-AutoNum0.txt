@@ -1,0 +1,17 @@
+@startuml
+participant "badminton oversight" as 0
+participant "selections suites" as 1
+participant "swindled inconvenience" as 2
+participant "immobilize meteors" as 3
+opt compulsive lodging
+create participant "revising misspoke" as 4
+2 -> 4 : revising misspoke
+4 -> 0: interrogate rage
+loop bazaar senses
+...muse swam...
+ [-> 0: thrilling soaked
+4 -> 2: graceful communicator
+else publicly digit
+end
+end
+@enduml

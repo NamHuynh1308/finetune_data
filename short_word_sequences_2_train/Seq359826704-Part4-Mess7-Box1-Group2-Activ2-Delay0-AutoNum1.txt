@@ -1,0 +1,25 @@
+@startuml
+participant "vastly bitterness" as 0
+participant "reaction grim" as 1
+box "graded eel"
+participant "hunger fates" as 2
+end box
+autonumber 3 3
+opt priorities trades
+1 -> 2++ : maple ting
+0 ->> 1++ : veils against
+1 <-> 0: password selective
+1 ->o 0: bedpans reprisals
+autonumber stop
+2 -> 2: glee music
+return sources demolitions
+autonumber resume
+opt wished flicking
+create participant "goober nerds" as 3
+1 -> 3 : goober nerds
+1 -> 3!! : milt inevitable
+autonumber stop
+end
+end
+return simplify agility
+@enduml

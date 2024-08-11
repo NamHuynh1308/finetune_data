@@ -1,0 +1,18 @@
+@startuml
+participant "quite charmed" as 0
+box "shaved washout"
+participant "cave concerns" as 1
+end box
+== farewells clang ==
+autonumber 5 10
+create participant "passive graduated" as 2
+1 -> 2 : passive graduated
+ [<- 0: soulless apollo
+0 -// 2++ : centred groundhog
+...afflicted homecoming...
+0 -> 0: smartass pie
+return choice balconies
+opt profiling unexplained
+2 ->] : mark oh
+end
+@enduml

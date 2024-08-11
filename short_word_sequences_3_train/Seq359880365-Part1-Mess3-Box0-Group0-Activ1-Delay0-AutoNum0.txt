@@ -1,0 +1,8 @@
+@startuml
+participant "one hesitated" as 0
+== sunbathing digging ==
+0 <-] : carl prima
+0 <-> 0++ : directions frontiers
+0 -> 0!! : bag oyster
+return support waxes
+@enduml

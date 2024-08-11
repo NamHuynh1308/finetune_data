@@ -1,0 +1,7 @@
+@startuml
+box "upgrade herd"
+participant "upbringing invented" as 0
+end box
+== humans blotto ==
+0 <-] : yea scry
+@enduml

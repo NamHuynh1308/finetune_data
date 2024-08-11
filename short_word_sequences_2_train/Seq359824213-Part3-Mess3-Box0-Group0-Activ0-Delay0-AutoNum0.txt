@@ -1,0 +1,8 @@
+@startuml
+participant "platter promoting" as 0
+participant "pasts hated" as 1
+participant "fishnet phrase" as 2
+ [<- 2: intellect palp
+0 -> 1: feasible presently
+0 -> 1: behavior stowed
+@enduml

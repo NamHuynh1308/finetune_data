@@ -1,0 +1,37 @@
+@startuml
+participant "looney dumper" as 0
+box "tones voted"
+participant "professional logs" as 1
+box "standstill champs"
+participant "reseda intact" as 2
+box "sweep selections"
+participant "mattresses confronts" as 3
+participant "kris limey" as 4
+end box
+end box
+end box
+autonumber 4 7
+ [<- 2: analyst bonds
+0 -// 2: hillcrest cataloging
+ [<- 3: heavyweight crammed
+autonumber stop
+0 <-> 2++ : details platform
+alt obstructed servants
+3 -// 4: twisted strangling
+return arson sun
+autonumber resume
+alt cain spreadsheets
+3 -> 2++ : shred salvaged
+create participant "broadcasts unveil" as 5
+4 -> 5 : broadcasts unveil
+return meningitis strongest
+break stockings sunless
+2 ->] : dispensation maharajah
+...cissy spinach...
+0 -> 4++ : batting ballots
+else fashionably brazen
+end
+end
+end
+return chatter envoy
+@enduml

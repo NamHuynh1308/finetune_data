@@ -1,0 +1,20 @@
+@startuml
+box "lullaby kicky"
+participant "thistle hills" as 0
+box "salvaging fink"
+participant "swung hymn" as 1
+participant "twists qualify" as 2
+participant "cots brill" as 3
+end box
+end box
+== dilly hums ==
+autonumber 0 10
+ [<- 2: travels meow
+...components indoor...
+ [<- 3: wellness sexist
+0 <-] : pores aggravating
+opt shifted sewed
+...burned gotten...
+0 -> 3: paid spit
+end
+@enduml

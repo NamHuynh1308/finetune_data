@@ -1,0 +1,9 @@
+@startuml
+participant "salad scooping" as 0
+participant "rust blimey" as 1
+participant "tragic overlapping" as 2
+0 -> 2: ugly conflict
+2 ->> 0: altering assurance
+2 -> 2: bearers essence
+ [<- 2: animosity sling
+@enduml

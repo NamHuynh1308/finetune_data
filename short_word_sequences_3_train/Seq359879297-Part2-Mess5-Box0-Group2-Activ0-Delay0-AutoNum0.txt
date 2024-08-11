@@ -1,0 +1,15 @@
+@startuml
+participant "unveiling bibles" as 0
+participant "drums recaptured" as 1
+loop grounds withdrawals
+0 -->x 1: chants passionately
+1 <-] : tolerable squads
+else gerbil damsel
+1 -\\ 1: ogres oddest
+critical valiant imposter
+1 -->x 0: texts exhausting
+ [-> 0: registering amigo
+else tooth withholding
+end
+end
+@enduml

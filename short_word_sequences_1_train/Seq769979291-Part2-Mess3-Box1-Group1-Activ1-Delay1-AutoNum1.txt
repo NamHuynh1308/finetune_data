@@ -1,0 +1,15 @@
+@startuml
+box "watt shove"
+participant "carnival rin" as 0
+participant "pea citations" as 1
+end box
+autonumber 5 8
+0 -> 1++ : obstacle dashed
+opt stumper bowery
+1 -->x 0: pulpit salmon
+...drawing decreased...
+0 -> 1: stateroom approaching
+autonumber stop
+end
+return calender passages
+@enduml

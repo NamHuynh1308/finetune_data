@@ -1,0 +1,16 @@
+@startuml
+participant "collect transferring" as 0
+box "spite actress"
+participant "turnips vigilance" as 1
+participant "felons bakers" as 2
+end box
+participant "seldom galactic" as 3
+== carries sous ==
+0 --//o 2++ : chimney coupon
+0 -> 0!! : boon secure
+3 -> 0: unite smelling
+alt fixings innocence
+1 <-> 0: approved antacid
+return directing retrograde
+end
+@enduml

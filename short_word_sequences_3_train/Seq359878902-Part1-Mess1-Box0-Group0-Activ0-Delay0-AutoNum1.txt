@@ -1,0 +1,5 @@
+@startuml
+participant "activists pixels" as 0
+autonumber 5 3
+0 --> 0: concurrently okay
+@enduml

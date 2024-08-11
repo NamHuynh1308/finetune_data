@@ -1,0 +1,15 @@
+@startuml
+participant "scalping lithium" as 0
+box "this propulsion"
+participant "flakes champion" as 1
+end box
+1 -> 1: perhaps stakes
+loop universal farrow
+1 ->o 1: rogue tyrant
+1 -> 0++ : raisins locking
+...evasive flawed...
+1 -\\ 1: decapitated invade
+1 -> 0: fad hydra
+end
+return cobra freckle
+@enduml

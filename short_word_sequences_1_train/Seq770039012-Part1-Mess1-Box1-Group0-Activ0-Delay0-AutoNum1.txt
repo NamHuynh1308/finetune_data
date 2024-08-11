@@ -1,0 +1,8 @@
+@startuml
+box "proudest meters"
+participant "award slapped" as 0
+end box
+autonumber 8 10
+0 --> 0: affirmative comrade
+autonumber stop
+@enduml

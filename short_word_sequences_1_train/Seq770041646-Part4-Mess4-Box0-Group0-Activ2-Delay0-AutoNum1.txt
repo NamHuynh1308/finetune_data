@@ -1,0 +1,14 @@
+@startuml
+participant "groupie flashes" as 0
+participant "spared punks" as 1
+participant "schedule felonious" as 2
+participant "enquiries hosted" as 3
+autonumber 10 0
+1 ->] : uncover node
+0 -> 1: strangle rooted
+3 -> 2++ : spans hyped
+2 ->> 2++ : dory speedy
+autonumber stop
+return remark uprooted
+return overhear practising
+@enduml

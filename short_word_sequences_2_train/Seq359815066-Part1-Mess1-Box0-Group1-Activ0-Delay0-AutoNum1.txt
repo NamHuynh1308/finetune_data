@@ -1,0 +1,7 @@
+@startuml
+participant "wow entrances" as 0
+autonumber 5 3
+alt satyr dropper
+0 <-] : maybe antique
+end
+@enduml

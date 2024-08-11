@@ -1,0 +1,19 @@
+@startuml
+participant "sedated reasons" as 0
+participant "fluffed banned" as 1
+box "cinnamon glowing"
+participant "nosey invited" as 2
+participant "feud newsstands" as 3
+end box
+autonumber 7 6
+0 <-> 3: horns adequate
+1 -->x 0: magnificence casbah
+par flogging studying
+2 -> 2++ : maintains unplugged
+autonumber stop
+0 -> 1: acquaintance larceny
+3 ->] : closely obliterated
+end
+2 --//o 3: geometry also
+return memory pests
+@enduml

@@ -1,0 +1,28 @@
+@startuml
+box "carriages seared"
+participant "railroad varnish" as 0
+participant "gaiety inadmissible" as 1
+participant "jumbled alcazar" as 2
+participant "mystified domicile" as 3
+end box
+box "motions liner"
+participant "guesthouse grid" as 4
+end box
+1 -> 4: grocery kobo
+loop epizootics shriveled
+ [<- 2: accomplishing endangered
+break commandant kites
+...colorado accountability...
+3 -> 2: wide fighting
+critical drawback benching
+...swift zones...
+4 -> 4: story vibes
+alt greatly pleading
+...perspectives grisly...
+0 ->o 0: narcissist franklin
+3 <-> 2: vanquished blackmailing
+end
+end
+end
+end
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "mightier parent" as 0
+== irony nowhere ==
+create participant "freshman emerald" as 1
+0 -> 1 : freshman emerald
+0 -->x 1++ : electrified alcohol
+return menstrual oaf
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+box "finalist brutality"
+participant "footed hoppy" as 0
+participant "input touchdown" as 1
+box "maxwell poly"
+participant "memorable alarms" as 2
+participant "fries performing" as 3
+end box
+end box
+== intentional fairies ==
+2 -// 3: tranquil protons
+par pack lions
+0 -> 3: chemistry dew
+2 --> 0: act pedicure
+2 <-] : abrupt contraction
+else grind fashions
+0 -> 0: burnt approved
+0 -> 3++ : abandons warnings
+end
+return cholesterol prejudice
+@enduml

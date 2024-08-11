@@ -1,0 +1,7 @@
+@startuml
+participant "newsstand realization" as 0
+0 -> 0: aiming slumped
+opt brainstorm copier
+ [-> 0: grossed successfully
+end
+@enduml

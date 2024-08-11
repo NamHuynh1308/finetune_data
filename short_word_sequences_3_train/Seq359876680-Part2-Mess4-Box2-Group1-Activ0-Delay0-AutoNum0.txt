@@ -1,0 +1,14 @@
+@startuml
+box "hag hill"
+participant "releasing detain" as 0
+box "chiefs crosses"
+participant "bounty parrots" as 1
+end box
+end box
+ [-> 1: packages kidnappers
+0 -> 0!! : gynecologist sculptures
+alt middleweight appeals
+ [<- 0: prosciutto draped
+0 -> 1: animals reduction
+end
+@enduml

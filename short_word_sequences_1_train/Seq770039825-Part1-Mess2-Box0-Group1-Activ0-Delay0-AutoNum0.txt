@@ -1,0 +1,8 @@
+@startuml
+participant "sinister twigs" as 0
+== crammed wounded ==
+0 --> 0: flooded bleed
+critical heals divinity
+0 ->x 0: tenacious depending
+end
+@enduml

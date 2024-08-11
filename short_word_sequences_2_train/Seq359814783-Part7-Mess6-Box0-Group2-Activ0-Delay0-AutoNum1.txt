@@ -1,0 +1,24 @@
+@startuml
+participant "observations sophistication" as 0
+participant "clings blindsided" as 1
+participant "spandex coronation" as 2
+participant "initiation primo" as 3
+== sapiens vee ==
+autonumber 9 0
+par apprehend workstation
+create participant "luce bargain" as 4
+1 -> 4 : luce bargain
+1 ->] : choosers honesty
+create participant "fives flayed" as 5
+2 -> 5 : fives flayed
+0 -> 1: bidding gloves
+else redid ferret
+3 -> 4: surpass opens
+autonumber stop
+end
+opt created knocks
+create participant "spanked listen" as 6
+0 -> 6 : spanked listen
+autonumber resume
+end
+@enduml

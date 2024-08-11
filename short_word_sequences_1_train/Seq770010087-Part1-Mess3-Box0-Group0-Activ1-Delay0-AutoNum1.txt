@@ -1,0 +1,10 @@
+@startuml
+participant "chancellor nametag" as 0
+== whispers dainty ==
+autonumber 2 5
+0 ->o 0: simulator chums
+0 <-] : loaned breech
+0 --//o 0++ : allowance proposes
+autonumber stop
+return reserves takers
+@enduml

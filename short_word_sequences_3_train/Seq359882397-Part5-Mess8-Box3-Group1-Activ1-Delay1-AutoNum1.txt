@@ -1,0 +1,28 @@
+@startuml
+box "trim rips"
+participant "badge flan" as 0
+participant "bodyguards idol" as 1
+box "rubs scouting"
+participant "bribery leotards" as 2
+box "freshman jurisdiction"
+participant "resembling deciphering" as 3
+participant "perceptions casualty" as 4
+end box
+end box
+end box
+autonumber 6 3
+3 -> 1: rating barlow
+autonumber stop
+3 -> 4++ : stern alpha
+autonumber resume
+3 ->x 2: convertible salaam
+return edge rocker
+3 -> 4!! : ripple compactor
+3 -> 3!! : paltry doctrine
+3 -> 3: understandably stashed
+...lama disappear...
+4 -->x 0: lynch catastrophic
+loop outfits haul
+1 -> 0!! : axe punk
+end
+@enduml

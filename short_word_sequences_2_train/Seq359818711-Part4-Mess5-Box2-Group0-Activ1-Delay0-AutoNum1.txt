@@ -1,0 +1,17 @@
+@startuml
+box "popcorn lieu"
+participant "quickest minors" as 0
+participant "oxen advised" as 1
+end box
+participant "praised conspiracies" as 2
+box "per psychologist"
+participant "cheese investigates" as 3
+end box
+autonumber 8 2
+2 -> 0: workday courteous
+2 -// 0: poster garnet
+1 ->x 2++ : affects mulligan
+ [-> 0: sensor barkeep
+1 ->> 0: coughing amazon
+return pause fulfil
+@enduml

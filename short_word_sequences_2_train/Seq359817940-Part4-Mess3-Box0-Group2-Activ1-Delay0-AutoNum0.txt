@@ -1,0 +1,14 @@
+@startuml
+participant "represented compadre" as 0
+participant "downgraded straws" as 1
+participant "allergic lacy" as 2
+loop exclusive fights
+create participant "persecuting fun" as 3
+0 -> 3 : persecuting fun
+2 -->x 2++ : proposal corresponded
+critical poi continues
+1 -> 2: dispense buying
+return betraying breather
+end
+end
+@enduml

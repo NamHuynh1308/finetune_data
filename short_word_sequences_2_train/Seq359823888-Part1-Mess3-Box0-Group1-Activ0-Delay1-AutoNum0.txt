@@ -1,0 +1,9 @@
+@startuml
+participant "memories primal" as 0
+par pursuits bobbin
+0 ->o 0: cacciatore cellmates
+0 -> 0!! : brainwash mines
+...currency daring...
+0 -> 0: absent freedoms
+end
+@enduml

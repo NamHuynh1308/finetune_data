@@ -1,0 +1,33 @@
+@startuml
+participant "thorpe ads" as 0
+participant "anaphylactic bloods" as 1
+participant "fishing crumb" as 2
+participant "flushed confident" as 3
+box "shaman proclivities"
+participant "arousing diverting" as 4
+end box
+autonumber 4 7
+alt developments justifiable
+3 -> 0++ : astrophysics knew
+create participant "goners brethren" as 5
+4 -> 5 : goners brethren
+return cloverleaf palms
+autonumber stop
+else multimillion dollar
+opt iguanas opinion
+ [<- 1: anointed musket
+...charging whoever...
+5 ->] : respect morally
+autonumber resume
+break shoves tad
+4 -> 0: ridden icicle
+...intersection principals...
+1 -> 4: plain prattling
+else though superego
+5 -> 2: shoplifting cranium
+2 <-> 5: macaws glutton
+4 -// 3: tellers twins
+end
+end
+end
+@enduml

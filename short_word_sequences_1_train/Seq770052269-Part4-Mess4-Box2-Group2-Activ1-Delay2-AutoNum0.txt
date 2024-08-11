@@ -1,0 +1,22 @@
+@startuml
+box "warriors heartsick"
+participant "exterminator birdie" as 0
+participant "opening room" as 1
+participant "trifled grabby" as 2
+box "slack fee"
+participant "resignation rowboat" as 3
+end box
+end box
+== moonlit needles ==
+alt trucks dishonorable
+2 -> 1: yonkers phases
+alt bastards aced
+3 -> 2++ : root stumbling
+...heartfelt tailored...
+2 -// 2: hideous hypothetical
+return publicity minnow
+end
+...camp ass...
+1 -> 0: gone seizes
+end
+@enduml

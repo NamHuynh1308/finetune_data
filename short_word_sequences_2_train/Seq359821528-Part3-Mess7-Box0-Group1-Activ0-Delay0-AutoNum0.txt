@@ -1,0 +1,14 @@
+@startuml
+participant "continuing greets" as 0
+participant "biblical mutilated" as 1
+participant "age caring" as 2
+ [<- 1: occupancy early
+0 -> 2!! : nasty coax
+0 ->o 1: progressive clothing
+1 -> 0: opportunities luckier
+0 -> 2!! : sexist haunted
+ [<- 1: frightening puritanical
+critical male murky
+2 -\\ 2: continuously innocuous
+end
+@enduml

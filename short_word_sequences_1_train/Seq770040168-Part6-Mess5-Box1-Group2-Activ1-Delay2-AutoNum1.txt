@@ -1,0 +1,25 @@
+@startuml
+participant "colors affiliated" as 0
+box "countrymen awfully"
+participant "celebrate jitters" as 1
+participant "shoplifter whacko" as 2
+end box
+participant "preferably quotes" as 3
+== pass roach ==
+autonumber 10 3
+create participant "disappearance teary" as 4
+3 -> 4 : disappearance teary
+critical lasted chivalrous
+...tyrant anonymity...
+1 -> 3!! : oranges powers
+create participant "paperback fixing" as 5
+2 -> 5 : paperback fixing
+else freaking bounce
+ [<- 0: baptist muley
+opt member amazed
+...cookbooks girlfriend...
+4 ->o 4++ : unholy vouch
+end
+end
+return ave verse
+@enduml

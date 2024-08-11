@@ -1,0 +1,8 @@
+@startuml
+box "passports psychopath"
+participant "glorified dom" as 0
+participant "collaborator gags" as 1
+end box
+0 <-] : allies relevance
+ [-> 1: divas hurricanes
+@enduml

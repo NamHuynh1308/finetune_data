@@ -1,0 +1,18 @@
+@startuml
+participant "kiddie eraser" as 0
+participant "vill possum" as 1
+autonumber 10 2
+par anomalies chomp
+0 -> 1: belonging hordes
+loop oho inspired
+...flurry lime...
+ [-> 0: condiment deb
+opt diuretic swallows
+1 -// 0++ : consulted diuretics
+1 -> 0: heroin handicap
+return yield initiating
+1 -> 0: cain gunpowder
+end
+end
+end
+@enduml

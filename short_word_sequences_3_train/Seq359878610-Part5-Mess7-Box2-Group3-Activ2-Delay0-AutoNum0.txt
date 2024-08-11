@@ -1,0 +1,28 @@
+@startuml
+box "nighttime rings"
+participant "stem stair" as 0
+participant "depressed automatics" as 1
+participant "okay transistor" as 2
+participant "fulfill concierge" as 3
+end box
+box "topical boards"
+participant "banjo framers" as 4
+end box
+par numbness executioner
+1 --//o 2: perjure att
+4 -> 0: auction clubs
+0 -> 3: incantations archer
+else word calmer
+opt brazen indicative
+4 ->> 1++ : rapid neurology
+4 -> 3++ : inspires makings
+else reshoot exceeds
+1 -> 0: conspiracies rube
+end
+break clef aft
+3 ->> 3: suction washer
+end
+end
+return bearable bertha
+return caps sec
+@enduml

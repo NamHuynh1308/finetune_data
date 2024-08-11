@@ -1,0 +1,10 @@
+@startuml
+box "disappear gap"
+participant "enzyme woe" as 0
+end box
+0 ->> 0: gremlin gruel
+...snubbed boredom...
+0 -> 0: yeah buggy
+0 -> 0++ : certainly framework
+return victories associate
+@enduml

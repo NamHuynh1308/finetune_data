@@ -1,0 +1,25 @@
+@startuml
+participant "surpass epidemic" as 0
+participant "punt punks" as 1
+participant "archeology strategist" as 2
+participant "peaches charlies" as 3
+participant "staggeringly blushing" as 4
+== hiccups literary ==
+opt slumped loss
+4 -> 3: deviated migraine
+4 -> 4: fools automatics
+2 <-] : dopamine erect
+else toast insistence
+par reprobate unprincipled
+0 -> 1: intelligence prospects
+...keen comas...
+4 ->] : billboard heightened
+...reruns infatuation...
+2 -\\ 2: millionaire framed
+par mainline enduring
+create participant "tale bogs" as 5
+4 -> 5 : tale bogs
+end
+end
+end
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+participant "hikers stumped" as 0
+== tracker fatherly ==
+loop quizmaster quad
+ [-> 0: producers tampering
+0 -> 0: calzone detailing
+end
+@enduml

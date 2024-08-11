@@ -1,0 +1,21 @@
+@startuml
+box "cite regent"
+participant "recollection fraternizing" as 0
+box "wuthering anyplace"
+participant "unlovable crumbled" as 1
+box "spirits excellency"
+participant "competent snaps" as 2
+end box
+end box
+end box
+autonumber 10 2
+1 -> 0++ : beds crayons
+opt exorcism seemingly
+...humdinger physiological...
+0 -> 0: moo surfaced
+autonumber stop
+1 -->x 2: taped fleeing
+return backslide decorate
+autonumber resume
+end
+@enduml

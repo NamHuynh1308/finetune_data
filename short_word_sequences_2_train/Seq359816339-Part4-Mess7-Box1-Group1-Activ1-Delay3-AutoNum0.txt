@@ -1,0 +1,21 @@
+@startuml
+participant "blazers raids" as 0
+box "wallow firepower"
+participant "aft hansom" as 1
+participant "athletes noble" as 2
+end box
+0 -->x 2: clammed characters
+...speedo approved...
+0 --> 0: ship referred
+1 ->x 0++ : denominators everyman
+...rationalizing communists...
+ [<- 2: scummy hits
+...gagging deeds...
+0 -> 0!! : niceties huzzah
+return rate busted
+alt detail marker
+1 -> 0: tart bravado
+create participant "confidentially furtive" as 3
+2 -> 3 : confidentially furtive
+end
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+participant "spoons execs" as 0
+== cordless speeches ==
+0 --> 0: harden curiosity
+@enduml

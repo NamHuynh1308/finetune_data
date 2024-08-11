@@ -1,0 +1,19 @@
+@startuml
+participant "grownup dribbling" as 0
+participant "brought dollar" as 1
+participant "hope magical" as 2
+box "tender clawed"
+participant "moods fascinating" as 3
+end box
+== quiet keister ==
+autonumber 4 8
+critical bulletproof silly
+3 -> 2: cripples rating
+1 --> 3: headhunter memorizing
+3 --//o 0: handguns collecting
+3 -> 0: waiting wakes
+0 ->o 2++ : showroom barged
+else legged kooky
+end
+return hicks corky
+@enduml

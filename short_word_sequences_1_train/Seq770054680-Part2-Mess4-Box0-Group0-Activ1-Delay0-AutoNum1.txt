@@ -1,0 +1,10 @@
+@startuml
+participant "peer tipped" as 0
+autonumber 9 6
+0 -\\ 0: snivelling stating
+0 <-] : hysterics galling
+0 ->x 0++ : smell sex
+create participant "chemistry sprouts" as 1
+0 -> 1 : chemistry sprouts
+return imam archeology
+@enduml

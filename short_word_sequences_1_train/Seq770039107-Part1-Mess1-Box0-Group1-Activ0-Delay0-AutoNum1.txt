@@ -1,0 +1,8 @@
+@startuml
+participant "blotto angry" as 0
+== yep quantum ==
+autonumber 6 3
+loop pen cloverleaf
+0 -> 0: enjoyed worshipping
+end
+@enduml

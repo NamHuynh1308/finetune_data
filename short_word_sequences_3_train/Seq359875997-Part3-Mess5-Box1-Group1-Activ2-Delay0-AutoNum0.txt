@@ -1,0 +1,16 @@
+@startuml
+participant "boardwalk considers" as 0
+box "wares overslept"
+participant "gone concede" as 1
+end box
+create participant "yoke verify" as 2
+1 -> 2 : yoke verify
+1 --//o 0++ : teapot steadily
+1 -> 1: depths specify
+return pressing comes
+0 -> 1: aliases weeping
+loop merchandising conversion
+2 <-> 1++ : basin pleases
+end
+return outside scamp
+@enduml

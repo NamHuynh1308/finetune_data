@@ -1,0 +1,14 @@
+@startuml
+participant "splint queen" as 0
+participant "lowly tranquility" as 1
+alt feeling seascape
+1 <-> 0: belongings ought
+0 -> 1: whomever unbalanced
+1 -> 0: rehearsals rob
+1 ->> 0: contacts taunting
+1 --> 0++ : individually pens
+else mortified creases
+0 ->] : rewriting recognizable
+return prostitute onboard
+end
+@enduml

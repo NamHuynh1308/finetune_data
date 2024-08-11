@@ -1,0 +1,18 @@
+@startuml
+participant "downhill ate" as 0
+participant "rental initiative" as 1
+autonumber 0 8
+0 ->> 0++ : collision nourishing
+loop morgues monks
+1 -> 0: radios apes
+return counted miggs
+critical lodged realty
+create participant "spikey cashing" as 2
+0 -> 2 : spikey cashing
+par foresight karma
+2 -> 1: julep ceased
+autonumber stop
+end
+end
+end
+@enduml

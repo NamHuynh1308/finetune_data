@@ -1,0 +1,27 @@
+@startuml
+participant "images requested" as 0
+box "cheddar bo"
+participant "mentor contain" as 1
+box "vacuumed gloss"
+participant "chumps jumpers" as 2
+participant "hovel victimless" as 3
+participant "sketching mouths" as 4
+end box
+end box
+== incredible max ==
+alt posttraumatic doodle
+1 <-> 2: sleepy armpits
+1 -> 0!! : vial spectators
+opt digits stairway
+...apologize meddling...
+1 --//o 2++ : shocker manipulation
+0 -\\ 0: frenzy line
+1 ->o 0: crumbs ultra
+return holler hoe
+end
+1 <-> 1: concludes coolest
+ [-> 1: craze me
+...firepower jail...
+0 -->x 2: snapping glib
+end
+@enduml

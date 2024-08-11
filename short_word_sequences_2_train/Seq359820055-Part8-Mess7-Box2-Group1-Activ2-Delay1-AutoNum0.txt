@@ -1,0 +1,27 @@
+@startuml
+participant "argued halt" as 0
+box "seduce granddaughter"
+participant "accessing earmarked" as 1
+participant "carry suspension" as 2
+participant "junkie salvaging" as 3
+end box
+box "chopping scissors"
+participant "waterproof lewis" as 4
+end box
+== black tooth ==
+create participant "mikes responsibilities" as 5
+0 -> 5 : mikes responsibilities
+create participant "argon weber" as 6
+0 -> 6 : argon weber
+6 -> 6++ : hotel succulent
+...static thoracic...
+0 ->] : salads solo
+alt undergo voting
+create participant "incase hassle" as 7
+5 -> 7 : incase hassle
+1 --//o 0++ : entice dampener
+end
+ [<- 7: nana rumour
+return sewed trainee
+return lounge bollocks
+@enduml

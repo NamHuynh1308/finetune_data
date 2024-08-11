@@ -1,0 +1,11 @@
+@startuml
+participant "detachment toughen" as 0
+participant "seclusion weaken" as 1
+autonumber 9 1
+0 -// 0: infarction yoke
+0 -> 1: theoretical drunk
+alt remake inexperience
+0 <-> 1: tails grandpa
+autonumber stop
+end
+@enduml

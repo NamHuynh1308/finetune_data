@@ -1,0 +1,11 @@
+@startuml
+box "untie urban"
+participant "vintage headset" as 0
+participant "envious ballots" as 1
+end box
+== ed defender ==
+1 ->o 1++ : galactic imperfection
+1 -> 0++ : linoleum rollers
+return waddle pa
+return favour adds
+@enduml

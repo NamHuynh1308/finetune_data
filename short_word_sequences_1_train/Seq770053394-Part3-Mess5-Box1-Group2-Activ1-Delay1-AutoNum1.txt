@@ -1,0 +1,20 @@
+@startuml
+participant "liquid slough" as 0
+box "dom teller"
+participant "steaming sunning" as 1
+participant "brownout paralyzed" as 2
+end box
+== shapely butterfly ==
+autonumber 2 5
+2 ->> 2: contrived leash
+alt landmarks suggestion
+...extinction thinkers...
+0 ->> 0: gadget tackling
+ [-> 2: biased pretty
+ [-> 1: including reporting
+end
+alt cacciatore necrosis
+0 -> 0++ : negatives freezes
+end
+return wary enhancements
+@enduml

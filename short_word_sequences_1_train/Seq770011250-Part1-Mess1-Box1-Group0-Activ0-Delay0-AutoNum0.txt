@@ -1,0 +1,7 @@
+@startuml
+box "stalking tenant"
+participant "development textile" as 0
+end box
+== incapacitated disclosed ==
+0 -> 0!! : utilities immense
+@enduml

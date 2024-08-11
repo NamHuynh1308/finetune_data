@@ -1,0 +1,10 @@
+@startuml
+box "toons book"
+participant "plump platelets" as 0
+end box
+autonumber 2 5
+0 -// 0: sue starlet
+0 -\\ 0++ : floated riders
+0 -> 0: undying maul
+return roar attorney
+@enduml

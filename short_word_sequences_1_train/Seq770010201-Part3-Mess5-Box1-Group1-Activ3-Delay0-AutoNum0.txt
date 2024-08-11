@@ -1,0 +1,19 @@
+@startuml
+box "tuxedo finder"
+participant "gunshot shepherds" as 0
+participant "shea impossibly" as 1
+participant "invented crimes" as 2
+end box
+== belonging around ==
+2 --> 0++ : outlook bombing
+0 -// 0: harrowing tenth
+loop unaffected margin
+2 -// 1++ : semple desire
+1 ->x 0: bogs verbal
+else hoes fortunes
+1 ->o 1++ : biggie las
+end
+return bored uneventful
+return idealist swirl
+return distillery subconscious
+@enduml

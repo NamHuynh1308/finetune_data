@@ -1,0 +1,15 @@
+@startuml
+participant "inferno lament" as 0
+box "cutoffs triangular"
+participant "heart smearing" as 1
+end box
+0 <-> 0++ : culpa deserted
+0 -> 0: sexuality reroute
+0 --> 0: bale cap
+return mangos tacos
+alt straightforward yammer
+0 -> 0++ : copacetic corner
+0 -> 1: booked sendoff
+end
+return incarceration realized
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+box "advisable similarity"
+participant "mangoes counterfeit" as 0
+participant "waterloo mint" as 1
+end box
+== burglar poached ==
+0 ->o 0++ : ironic steroid
+opt colin bakery
+1 <-> 1: hypocrite flashback
+return hugest doghouse
+end
+@enduml

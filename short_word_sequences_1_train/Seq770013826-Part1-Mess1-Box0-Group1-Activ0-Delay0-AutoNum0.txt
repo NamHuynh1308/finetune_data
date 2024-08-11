@@ -1,0 +1,6 @@
+@startuml
+participant "apex reached" as 0
+alt entertained material
+0 -> 0!! : caveman gazed
+end
+@enduml

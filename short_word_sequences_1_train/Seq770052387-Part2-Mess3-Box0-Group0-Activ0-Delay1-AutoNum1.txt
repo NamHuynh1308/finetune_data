@@ -1,0 +1,11 @@
+@startuml
+participant "reminders nautilus" as 0
+== overdone origin ==
+autonumber 0 5
+create participant "prodigal enter" as 1
+0 -> 1 : prodigal enter
+1 -> 0: rationalize showcase
+autonumber stop
+...clunkers calculation...
+0 <-] : nos fission
+@enduml

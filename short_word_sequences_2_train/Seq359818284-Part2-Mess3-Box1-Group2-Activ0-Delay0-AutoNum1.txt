@@ -1,0 +1,16 @@
+@startuml
+box "certified pansy"
+participant "straps bongo" as 0
+end box
+autonumber 4 0
+critical subsidy porcelain
+create participant "marvel crier" as 1
+0 -> 1 : marvel crier
+autonumber stop
+ [<- 1: boogie hank
+autonumber resume
+opt signify fajita
+1 -> 0: fibre hires
+end
+end
+@enduml

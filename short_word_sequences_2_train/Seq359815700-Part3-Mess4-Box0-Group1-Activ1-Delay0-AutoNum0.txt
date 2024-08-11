@@ -1,0 +1,13 @@
+@startuml
+participant "transformation electrolytes" as 0
+participant "immortalized prefers" as 1
+participant "medicating pierce" as 2
+break emotion teamwork
+1 <-] : mano hereby
+1 -> 0++ : fills marijuana
+1 -> 0: timid acupuncture
+else tracking knives
+0 <-] : effected tendencies
+return fielder technologies
+end
+@enduml

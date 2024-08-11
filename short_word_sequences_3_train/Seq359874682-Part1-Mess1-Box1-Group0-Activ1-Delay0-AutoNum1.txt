@@ -1,0 +1,9 @@
+@startuml
+box "ageing softer"
+participant "questioning trove" as 0
+end box
+autonumber 7 2
+0 -->x 0++ : kidnapping derris
+autonumber stop
+return wavelengths squawk
+@enduml

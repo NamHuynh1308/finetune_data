@@ -1,0 +1,12 @@
+@startuml
+participant "import attach" as 0
+participant "petitioning pro" as 1
+participant "engineers fetus" as 2
+autonumber 1 4
+0 -> 0!! : quarterbacks intersection
+1 ->o 0: excommunicated fryer
+autonumber stop
+par groin ecumenical
+0 -> 1!! : coffees barrio
+end
+@enduml

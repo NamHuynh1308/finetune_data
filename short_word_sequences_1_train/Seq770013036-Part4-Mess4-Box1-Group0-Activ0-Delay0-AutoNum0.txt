@@ -1,0 +1,13 @@
+@startuml
+participant "discrepancies tofu" as 0
+participant "interference ivory" as 1
+participant "trim matching" as 2
+box "glass fiends"
+participant "ailment nailed" as 3
+end box
+== evoked prostitute ==
+2 -> 0: lather scoundrel
+1 ->o 3: out store
+0 -> 1: duke swamps
+2 -\\ 1: player neglectful
+@enduml

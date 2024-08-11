@@ -1,0 +1,13 @@
+@startuml
+participant "deft upkeep" as 0
+participant "plummeting coyotes" as 1
+box "pug gears"
+participant "paychecks dreck" as 2
+end box
+critical joey disturbance
+2 -> 1++ : ow moments
+0 <-] : learned cheek
+return hams meow
+0 -// 0: ding reluctantly
+end
+@enduml

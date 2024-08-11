@@ -1,0 +1,14 @@
+@startuml
+participant "assumption posterior" as 0
+box "longest ripper"
+participant "tantrum phi" as 1
+end box
+0 ->> 0: superheroes pilgrimage
+loop suffice reminding
+1 <-] : bowline area
+1 ->> 0: cornered seldom
+0 ->> 1: turbine derision
+...bribed ovulating...
+1 ->] : destroyers flatulence
+end
+@enduml

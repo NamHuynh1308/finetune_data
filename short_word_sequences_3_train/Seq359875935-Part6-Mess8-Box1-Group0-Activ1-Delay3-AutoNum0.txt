@@ -1,0 +1,23 @@
+@startuml
+participant "masseuse timothy" as 0
+box "lifetimes interest"
+participant "frontal flighty" as 1
+participant "physique enlighten" as 2
+participant "slam german" as 3
+participant "dealings covered" as 4
+end box
+== topside shyness ==
+create participant "sadist slaughterhouse" as 5
+0 -> 5 : sadist slaughterhouse
+...parasitic nitty...
+ [-> 5: molded organize
+...acts purer...
+1 ->] : reminisce stubbed
+5 -->x 0++ : cameraman goose
+2 -\\ 4: certifiably resent
+4 -\\ 5: charitable quarrel
+return uncool diseased
+ [<- 1: handler cyborg
+...reconciled alluding...
+4 -> 4: smothering summary
+@enduml

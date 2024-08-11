@@ -1,0 +1,17 @@
+@startuml
+participant "persists chrome" as 0
+participant "detonating amigos" as 1
+participant "granted vehicles" as 2
+participant "squirm truffles" as 3
+== wrenched summon ==
+create participant "autographed copper" as 4
+0 -> 4 : autographed copper
+opt switcheroo steer
+4 ->x 1: nationals nan
+create participant "slum tennis" as 5
+1 -> 5 : slum tennis
+...climate musician...
+5 -\\ 3: steady abuse
+else reckon rowdy
+end
+@enduml

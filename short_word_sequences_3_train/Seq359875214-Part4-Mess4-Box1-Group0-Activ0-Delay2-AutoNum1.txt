@@ -1,0 +1,15 @@
+@startuml
+participant "little disfigured" as 0
+participant "gassed midge" as 1
+participant "views shelf" as 2
+box "bruising deconstruction"
+participant "realised conceivable" as 3
+end box
+autonumber 9 2
+1 ->> 2: bamboo breakthrough
+...stellar possible...
+1 ->x 3: chucks equally
+...flaring enthused...
+0 --> 3: any injuries
+2 <-> 0: squishing shrimp
+@enduml

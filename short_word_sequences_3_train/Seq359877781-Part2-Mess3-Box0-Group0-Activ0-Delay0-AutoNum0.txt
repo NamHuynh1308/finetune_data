@@ -1,0 +1,8 @@
+@startuml
+participant "pap mulligan" as 0
+participant "junkyard breakthrough" as 1
+== nomads tenner ==
+0 -\\ 0: industry unmentionable
+0 --//o 0: faith elf
+1 -// 1: product bongos
+@enduml

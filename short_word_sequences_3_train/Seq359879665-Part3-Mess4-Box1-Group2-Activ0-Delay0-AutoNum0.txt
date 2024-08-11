@@ -1,0 +1,15 @@
+@startuml
+box "unified talks"
+participant "embellished harry" as 0
+participant "antisocial cub" as 1
+end box
+0 -> 1: genius blathering
+critical rhythms throughway
+create participant "cola remitting" as 2
+1 -> 2 : cola remitting
+1 -->x 0: pastry optimism
+opt dependent budget
+0 -> 2: operative minnow
+end
+end
+@enduml

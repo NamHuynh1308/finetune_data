@@ -1,0 +1,10 @@
+@startuml
+box "ploy whittled"
+participant "laws lays" as 0
+end box
+== will adviser ==
+critical incentive sleepers
+create participant "dealers please" as 1
+0 -> 1 : dealers please
+end
+@enduml

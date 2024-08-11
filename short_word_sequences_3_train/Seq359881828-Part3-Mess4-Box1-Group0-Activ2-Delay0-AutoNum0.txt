@@ -1,0 +1,13 @@
+@startuml
+box "coronary finders"
+participant "regularity ventricular" as 0
+participant "archenemy slanderous" as 1
+end box
+participant "pimples improving" as 2
+0 --> 0: collector busted
+2 -\\ 0++ : cancellation cartel
+2 ->x 0++ : sheriff likelihood
+2 --//o 2: table hernias
+return baseball distressed
+return wherever taunt
+@enduml

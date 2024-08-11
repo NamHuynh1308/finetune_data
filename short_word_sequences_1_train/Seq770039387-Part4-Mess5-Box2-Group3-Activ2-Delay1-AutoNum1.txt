@@ -1,0 +1,27 @@
+@startuml
+participant "ambivalence sprouting" as 0
+box "eta mitzvah"
+participant "occult warned" as 1
+box "delve rookie"
+participant "tournaments quaking" as 2
+participant "consulted gagging" as 3
+end box
+end box
+autonumber 1 8
+opt teller riddled
+1 --> 1++ : recital encephalitis
+3 -->x 3: carat famine
+else studly sauerkraut
+ [<- 1: youths irresponsible
+else gliding inconvenience
+opt evidently coats
+...sudden lex...
+2 -> 0: slang sendoff
+return kindling screwdriver
+opt snore him
+0 ->> 3++ : heist ignored
+end
+end
+end
+return buttocks cushion
+@enduml

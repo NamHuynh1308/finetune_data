@@ -1,0 +1,24 @@
+@startuml
+participant "spinster tedious" as 0
+participant "worshippers literary" as 1
+participant "warped abduction" as 2
+participant "spate forensics" as 3
+autonumber 7 1
+loop sheer panned
+1 ->> 1: abnormal approaches
+0 -> 1: untraceable inflicting
+else mood bulls
+opt hairdo fast
+0 -> 2: beauty header
+autonumber stop
+3 <-> 1: bipolar justifies
+0 -->x 1: brr lagging
+par iguanas thump
+3 -> 0: mutated marshmallow
+autonumber resume
+create participant "simplicity passing" as 4
+2 -> 4 : simplicity passing
+end
+end
+end
+@enduml

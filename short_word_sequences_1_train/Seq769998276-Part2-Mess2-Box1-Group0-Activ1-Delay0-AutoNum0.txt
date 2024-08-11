@@ -1,0 +1,10 @@
+@startuml
+box "describe sade"
+participant "votes bomber" as 0
+participant "threatening golfing" as 1
+end box
+== benched condos ==
+0 -// 0: chink shyness
+0 --//o 1++ : brave platter
+return heroic evenly
+@enduml

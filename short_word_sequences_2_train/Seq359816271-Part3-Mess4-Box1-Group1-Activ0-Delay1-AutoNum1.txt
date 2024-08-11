@@ -1,0 +1,18 @@
+@startuml
+box "legends strengths"
+participant "nominations chase" as 0
+participant "arena starters" as 1
+participant "opening quivering" as 2
+end box
+== jess royals ==
+autonumber 3 8
+opt cloistered frightening
+0 ->> 2: melons flows
+ [-> 1: visits prescribing
+...relies glitches...
+2 <-] : trend keeps
+autonumber stop
+else screwball performances
+ [<- 0: cinder anthropologists
+end
+@enduml

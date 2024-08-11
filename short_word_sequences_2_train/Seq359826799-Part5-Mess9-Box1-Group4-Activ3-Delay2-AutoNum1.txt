@@ -1,0 +1,36 @@
+@startuml
+box "bun stopwatch"
+participant "archer wished" as 0
+participant "shimmy daphne" as 1
+participant "aurora mailer" as 2
+participant "heeled plate" as 3
+participant "regarded lifesaver" as 4
+end box
+== seat considers ==
+autonumber 4 0
+0 -->x 3: weekends crawly
+alt skating incidence
+1 ->o 2++ : formulate leading
+0 -> 4: arsenal mesh
+return liaison browbeating
+autonumber stop
+alt princes pedestal
+1 -> 2++ : vera preach
+alt oranges gran
+1 --> 0: peeps photography
+autonumber resume
+...studios corollary...
+ [<- 2: participated adapt
+par pentagram arty
+4 <-] : kidnapping dries
+return countrymen vegetative
+1 -// 1++ : barrels finger
+...bidder turned...
+ [<- 2: amiable forward
+return required reuniting
+autonumber stop
+end
+end
+end
+end
+@enduml

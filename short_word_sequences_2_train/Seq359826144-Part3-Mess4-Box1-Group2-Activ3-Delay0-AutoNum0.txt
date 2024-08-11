@@ -1,0 +1,18 @@
+@startuml
+box "supervise roll"
+participant "problem gathers" as 0
+participant "cologne bowl" as 1
+end box
+loop category noble
+1 -// 0++ : swooping flayed
+opt stuffy troy
+1 --//o 1++ : tachycardia outward
+1 -> 1++ : huskies horrendous
+create participant "inform admirable" as 2
+0 -> 2 : inform admirable
+end
+end
+return swab surprisingly
+return colon fronting
+return libation lasts
+@enduml

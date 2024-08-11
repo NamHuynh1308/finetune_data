@@ -1,0 +1,19 @@
+@startuml
+box "weakening searches"
+participant "smooth toying" as 0
+participant "honeymoon dahlia" as 1
+participant "coursing hosed" as 2
+end box
+autonumber 2 5
+0 ->x 0: menacing breezing
+opt priors hopes
+...algorithms orchestrating...
+2 -> 2: gig state
+autonumber stop
+2 ->o 2: quirks samaritan
+else daphne apartment
+0 -> 1++ : dud solves
+autonumber resume
+end
+return editorials sleeves
+@enduml

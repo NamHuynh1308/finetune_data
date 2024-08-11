@@ -1,0 +1,14 @@
+@startuml
+participant "deductible hesitant" as 0
+participant "finance trashing" as 1
+participant "instigator embracing" as 2
+autonumber 4 10
+create participant "information bouncy" as 3
+0 -> 3 : information bouncy
+1 ->o 1: mishap closes
+autonumber stop
+...everyman expressly...
+3 -> 2: delegate fees
+1 --//o 0: candle clots
+1 ->o 3: ivy objects
+@enduml

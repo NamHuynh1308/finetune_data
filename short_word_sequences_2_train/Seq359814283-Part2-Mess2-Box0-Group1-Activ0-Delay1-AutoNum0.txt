@@ -1,0 +1,9 @@
+@startuml
+participant "owing sentry" as 0
+participant "wisecracks sewers" as 1
+0 ->> 0: applicants dictator
+alt teasing prevented
+...remedies gobbles...
+0 -// 0: mouthy carrots
+end
+@enduml

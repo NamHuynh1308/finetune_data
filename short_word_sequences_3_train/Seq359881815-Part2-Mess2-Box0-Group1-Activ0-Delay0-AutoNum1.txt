@@ -1,0 +1,10 @@
+@startuml
+participant "quotes influx" as 0
+autonumber 0 9
+0 --//o 0: git rewind
+opt teeming committing
+create participant "alleging festivals" as 1
+0 -> 1 : alleging festivals
+autonumber stop
+end
+@enduml

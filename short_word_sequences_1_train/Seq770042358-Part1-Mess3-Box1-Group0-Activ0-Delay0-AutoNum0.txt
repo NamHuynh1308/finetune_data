@@ -1,0 +1,8 @@
+@startuml
+box "zombies actual"
+participant "kibosh demolish" as 0
+end box
+0 -> 0: soothsayer nay
+0 -// 0: indescribable goats
+0 ->] : dullest squeaks
+@enduml

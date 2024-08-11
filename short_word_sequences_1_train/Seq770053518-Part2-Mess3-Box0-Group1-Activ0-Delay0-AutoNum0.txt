@@ -1,0 +1,9 @@
+@startuml
+participant "supremely feminine" as 0
+0 --> 0: actress psycho
+opt smooching reseda
+0 ->> 0: coasting assertiveness
+create participant "psycho enthralled" as 1
+0 -> 1 : psycho enthralled
+end
+@enduml

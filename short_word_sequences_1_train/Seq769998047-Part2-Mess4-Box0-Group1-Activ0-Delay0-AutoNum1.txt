@@ -1,0 +1,12 @@
+@startuml
+participant "amulet loveable" as 0
+participant "delicates homecoming" as 1
+autonumber 10 10
+1 -> 1: handgun snacking
+0 -\\ 0: mock sapiens
+loop clearer autopsy
+0 -> 1: venting sever
+0 ->o 1: flirt reaching
+autonumber stop
+end
+@enduml

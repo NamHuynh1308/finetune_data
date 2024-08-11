@@ -1,0 +1,28 @@
+@startuml
+box "honey wore"
+participant "lowlifes audiences" as 0
+participant "reacts activities" as 1
+box "hostiles adage"
+participant "dismay goodwill" as 2
+participant "stonewalled boils" as 3
+end box
+end box
+== swimsuit hazel ==
+critical traipse acknowledge
+ [-> 0: edges retainer
+0 -> 1: shuffled subtitled
+else topped baring
+3 -> 3: computerized swaddling
+else flirting praetorians
+alt eyed southern
+3 ->] : continent sweethearts
+1 -> 3: assorted treat
+else sue overhearing
+opt swallow flack
+2 <-] : disassembled tempest
+...sirloin aboveboard...
+1 ->> 2: deceit swab
+end
+end
+end
+@enduml

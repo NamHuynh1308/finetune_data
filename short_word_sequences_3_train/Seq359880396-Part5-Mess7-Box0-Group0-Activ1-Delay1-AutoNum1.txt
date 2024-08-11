@@ -1,0 +1,19 @@
+@startuml
+participant "fatherhood biting" as 0
+participant "grapevine stoic" as 1
+participant "ramrod wedge" as 2
+participant "bialy brick" as 3
+autonumber 6 0
+1 --> 2: strategist kicks
+2 --//o 1: abetted gangs
+1 -> 0: proudly impact
+3 -> 3++ : suite examiner
+autonumber stop
+...widen thoracic...
+2 -> 0: ruins chimera
+autonumber resume
+create participant "halibut yearns" as 4
+1 -> 4 : halibut yearns
+3 -->x 2: surfaces exterminate
+return aye theatrics
+@enduml

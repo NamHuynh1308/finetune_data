@@ -1,0 +1,18 @@
+@startuml
+box "radiologist intrigue"
+participant "admissions eros" as 0
+end box
+== canton preliminary ==
+autonumber 2 5
+0 -->x 0: pasts pints
+0 --> 0: menorah cohesion
+0 -> 0++ : zone stroller
+autonumber stop
+0 -> 0++ : wrecker scrambled
+autonumber resume
+break scheme nightstand
+0 ->] : clocking tremble
+return crock belief
+end
+return soundproof bleeder
+@enduml

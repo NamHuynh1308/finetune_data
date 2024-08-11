@@ -1,0 +1,19 @@
+@startuml
+participant "surgeries stranded" as 0
+participant "distaste rebuttal" as 1
+autonumber 3 1
+alt handled pines
+1 <-> 0: stretching handsome
+0 <-> 0: kitten quarantine
+else stayed hypnosis
+alt graphic perjured
+...plow artificial...
+1 <-] : wills poodle
+0 ->o 1++ : woken junior
+...brighten interruption...
+1 -> 0: forgot druthers
+end
+1 -> 1: sen received
+end
+return anthem checkered
+@enduml

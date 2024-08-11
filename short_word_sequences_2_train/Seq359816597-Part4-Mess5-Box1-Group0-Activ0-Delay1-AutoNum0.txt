@@ -1,0 +1,15 @@
+@startuml
+participant "globes litter" as 0
+participant "quoting instigator" as 1
+box "mentor availability"
+participant "glorious comp" as 2
+end box
+== rooster fibber ==
+2 -> 1: lactose bouquets
+...bygones stingy...
+1 <-> 1: unorthodox classy
+ [-> 0: phantom mystical
+1 -\\ 0: sweetness cop
+create participant "corridor premonitions" as 3
+2 -> 3 : corridor premonitions
+@enduml

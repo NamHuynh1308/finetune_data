@@ -1,0 +1,10 @@
+@startuml
+participant "toddy wandered" as 0
+participant "proverb mainline" as 1
+autonumber 3 3
+0 -\\ 1++ : splashing mace
+autonumber stop
+ [-> 0: aphrodisiac tasty
+ [-> 0: institute educated
+return confessional interfered
+@enduml

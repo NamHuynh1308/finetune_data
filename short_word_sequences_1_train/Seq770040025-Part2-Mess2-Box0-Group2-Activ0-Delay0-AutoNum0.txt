@@ -1,0 +1,11 @@
+@startuml
+participant "intoxication savings" as 0
+participant "landfill instant" as 1
+== airborne scotch ==
+par henry autographed
+0 -> 0!! : arrogance picked
+loop gesture slugger
+0 ->> 1: paparazzi jungle
+end
+end
+@enduml

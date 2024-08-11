@@ -1,0 +1,20 @@
+@startuml
+participant "omnipotent reciprocal" as 0
+box "incidents smartass"
+participant "pedicure optometrist" as 1
+end box
+== schnapps pug ==
+autonumber 0 8
+1 --//o 1: demonstrated digits
+0 --> 1: elated telethon
+autonumber stop
+...soaking hi...
+1 -> 1: mu burner
+create participant "gams trouble" as 2
+1 -> 2 : gams trouble
+autonumber resume
+alt episode immortal
+1 -> 2!! : sunglasses greatly
+2 -> 1!! : progressing rig
+end
+@enduml

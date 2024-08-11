@@ -1,0 +1,5 @@
+@startuml
+participant "twilight through" as 0
+0 -> 0!! : illnesses lubrication
+0 -> 0: telegram messenger
+@enduml

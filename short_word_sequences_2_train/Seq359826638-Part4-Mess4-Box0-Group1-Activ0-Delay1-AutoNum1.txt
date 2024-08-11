@@ -1,0 +1,14 @@
+@startuml
+participant "alcoholism slimming" as 0
+participant "canyons fletcher" as 1
+participant "grumbling streetcar" as 2
+autonumber 8 10
+2 ->o 1: pitted holed
+par backyard staged
+create participant "starved strand" as 3
+1 -> 3 : starved strand
+0 <-> 0: carefree uptight
+...cue dominant...
+0 --//o 2: divest baloney
+end
+@enduml

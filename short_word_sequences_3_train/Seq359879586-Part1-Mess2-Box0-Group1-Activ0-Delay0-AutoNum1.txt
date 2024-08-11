@@ -1,0 +1,10 @@
+@startuml
+participant "cherries tenure" as 0
+== administered litigation ==
+autonumber 1 6
+0 --> 0: baggage outfitted
+autonumber stop
+loop menu hired
+0 <-> 0: permit limitation
+end
+@enduml

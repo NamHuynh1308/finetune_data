@@ -1,0 +1,15 @@
+@startuml
+participant "exterior thrives" as 0
+participant "caps unreachable" as 1
+== browse exchanging ==
+autonumber 0 1
+1 --//o 1++ : gowns huzzah
+create participant "anointed remotely" as 2
+1 -> 2 : anointed remotely
+return homey kinky
+autonumber stop
+opt swine assigning
+ [-> 1: carcass willing
+autonumber resume
+end
+@enduml

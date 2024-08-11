@@ -1,0 +1,9 @@
+@startuml
+participant "wiggle scenic" as 0
+box "deli thankful"
+participant "foggiest fighter" as 1
+end box
+0 -> 1: rechecked etcetera
+...flavours heeled...
+1 -->x 0: curlers bungalows
+@enduml

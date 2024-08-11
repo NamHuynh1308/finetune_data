@@ -1,0 +1,17 @@
+@startuml
+participant "cloverleaf clash" as 0
+box "biggie acceptable"
+participant "moth cheerful" as 1
+end box
+== hermaphrodite kneed ==
+create participant "burro tardiness" as 2
+0 -> 2 : burro tardiness
+2 -\\ 1: socialite productivity
+opt qualities detente
+...slipper tomato...
+1 -> 1++ : shiny embarked
+2 -> 1: automatically securing
+else tolerate apprehension
+end
+return tuna handy
+@enduml

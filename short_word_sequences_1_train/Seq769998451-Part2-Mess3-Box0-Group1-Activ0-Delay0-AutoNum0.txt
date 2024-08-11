@@ -1,0 +1,10 @@
+@startuml
+participant "bard knack" as 0
+participant "nephews bobcat" as 1
+== known jackal ==
+1 ->> 1: apologetic anatomy
+0 <-> 1: nouveau pretzels
+par comprehend fundamentally
+0 -\\ 1: innocence apostle
+end
+@enduml

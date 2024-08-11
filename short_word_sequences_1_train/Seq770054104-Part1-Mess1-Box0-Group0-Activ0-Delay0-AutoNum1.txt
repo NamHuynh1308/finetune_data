@@ -1,0 +1,5 @@
+@startuml
+participant "admittance bulldozers" as 0
+autonumber 9 10
+0 -> 0: jockey shapes
+@enduml

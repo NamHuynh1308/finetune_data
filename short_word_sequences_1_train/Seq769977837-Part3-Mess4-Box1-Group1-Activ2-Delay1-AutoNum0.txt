@@ -1,0 +1,17 @@
+@startuml
+box "penal bees"
+participant "exhibit cellular" as 0
+participant "crowding hillcrest" as 1
+end box
+participant "shithead sterner" as 2
+== accepting major ==
+2 --//o 0: simulated undergraduate
+0 -> 1++ : colored harry
+2 -> 2: moustache scram
+return unheard emphatically
+alt collar dips
+...coaching hunks...
+2 ->x 0++ : recombinant slasher
+end
+return logged while
+@enduml

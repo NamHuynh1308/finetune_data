@@ -1,0 +1,21 @@
+@startuml
+participant "duped bottom" as 0
+box "allowing moment"
+participant "blacked enclosed" as 1
+participant "favorably creamer" as 2
+participant "deflection butter" as 3
+participant "lidocaine suggests" as 4
+end box
+== wheels watchman ==
+autonumber 1 10
+create participant "candor backfiring" as 5
+0 -> 5 : candor backfiring
+0 -> 1!! : peanuts inflicted
+autonumber stop
+1 -> 5: dilettante flask
+4 <-> 3++ : bartending wholesaler
+create participant "mix tutti" as 6
+5 -> 6 : mix tutti
+autonumber resume
+return agency boil
+@enduml

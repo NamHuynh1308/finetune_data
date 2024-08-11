@@ -1,0 +1,22 @@
+@startuml
+participant "radius wacky" as 0
+participant "spotters accomplished" as 1
+== trot finances ==
+0 -> 0!! : courtship jugs
+...contortionist trademark...
+1 -> 1: ozone sacrilege
+opt cramping minded
+create participant "haunting conversations" as 2
+1 -> 2 : haunting conversations
+2 -> 0: majestic seeping
+else turner nimrod
+opt pants vacancies
+...ephemeral mourn...
+2 -> 2: eucalyptus pillow
+loop undisputed ducks
+...returning despicable...
+2 -> 1: disease underway
+end
+end
+end
+@enduml

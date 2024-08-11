@@ -1,0 +1,21 @@
+@startuml
+participant "hostages interviewed" as 0
+box "impersonating mallet"
+participant "snicker accompany" as 1
+participant "magnificent catalyst" as 2
+participant "folklore fabricated" as 3
+end box
+== helpless enamored ==
+create participant "launching swiped" as 4
+3 -> 4 : launching swiped
+loop testosterone yellow
+1 -> 4: seizes tree
+create participant "wench suggestions" as 5
+1 -> 5 : wench suggestions
+else trattoria birthing
+2 -> 4!! : harvest blissful
+else bologna floss
+2 -> 1!! : rampage croak
+else recollection talent
+end
+@enduml

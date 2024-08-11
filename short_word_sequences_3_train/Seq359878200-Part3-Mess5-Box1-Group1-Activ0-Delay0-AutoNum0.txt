@@ -1,0 +1,17 @@
+@startuml
+box "vehicle coppers"
+participant "noon associations" as 0
+participant "averages curry" as 1
+participant "mercilessly rubbing" as 2
+end box
+== moustache opera ==
+0 ->o 2: corporeal grades
+1 -> 0: expedition flexible
+loop anchor tendency
+0 -->x 1: garlic baggies
+1 -> 0: meta goofball
+else bawdy malfunctioning
+ [<- 1: penthouse coroners
+else alderman itinerary
+end
+@enduml

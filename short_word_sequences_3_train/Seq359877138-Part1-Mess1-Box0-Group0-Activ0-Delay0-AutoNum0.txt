@@ -1,0 +1,5 @@
+@startuml
+participant "packets races" as 0
+== spin decoration ==
+0 -// 0: bulls mining
+@enduml

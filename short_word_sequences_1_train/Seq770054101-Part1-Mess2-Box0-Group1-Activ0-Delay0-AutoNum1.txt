@@ -1,0 +1,8 @@
+@startuml
+participant "swimmer patience" as 0
+autonumber 2 8
+break musket gold
+0 --//o 0: muscular critically
+ [<- 0: aprons afar
+end
+@enduml

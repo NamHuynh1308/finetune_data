@@ -1,0 +1,24 @@
+@startuml
+participant "dismount underpaid" as 0
+participant "raced houseman" as 1
+participant "iff spectators" as 2
+participant "discounting varies" as 3
+loop suggestion piecing
+3 <-> 2++ : refers rags
+...supernova tunnels...
+2 --//o 1++ : jacket talkie
+3 ->x 2: spots spied
+return hardware carwash
+alt grandkids outsiders
+...colin exterminating...
+2 --> 2: coincidental leaping
+1 --//o 0: delegates hunky
+1 -\\ 0: starting angling
+return met gynecologist
+else bleeds whatchamacallit
+...zone adventurous...
+0 -> 0: numb greets
+else clutter inconvenient
+end
+end
+@enduml

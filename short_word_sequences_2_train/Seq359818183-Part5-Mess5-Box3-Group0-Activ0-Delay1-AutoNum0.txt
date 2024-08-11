@@ -1,0 +1,20 @@
+@startuml
+box "foxy motivated"
+participant "paroled houses" as 0
+participant "expanded network" as 1
+box "merits limbo"
+participant "vacuumed account" as 2
+participant "rec dit" as 3
+box "landmark awareness"
+participant "ushers garters" as 4
+end box
+end box
+end box
+== creativity guru ==
+4 -> 1: revealed fully
+...sayings effective...
+0 --//o 1: angrily addresses
+4 -// 0: stays spirited
+2 <-] : constitution guess
+2 -> 3!! : contaminating primaries
+@enduml

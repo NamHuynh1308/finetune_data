@@ -1,0 +1,17 @@
+@startuml
+box "earthy roughly"
+participant "sarcophagus vacate" as 0
+participant "enter legit" as 1
+participant "fella drugged" as 2
+end box
+par tippy tales
+ [-> 0: banzai humpback
+0 -> 0: mist lieutenant
+else cussing favorable
+0 ->x 0: virile hick
+break fosse magic
+0 --> 0++ : property uncharacteristically
+end
+end
+return probe maids
+@enduml
